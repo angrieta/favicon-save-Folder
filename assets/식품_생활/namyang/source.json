@@ -4,11 +4,30 @@
   "requested_url": "https://company.namyangi.com/",
   "page_url": "https://company.namyangi.com/ko/main",
   "page_title": "남양유업",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/namyang/favicon.png",
-  "favicon_source_url": "https://company.namyangi.com/static/front/img/favicon/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/식품_생활/namyang/og.jpg",
-  "og_source_url": "https://company.namyangi.com/static/front/img/namyang_thumbnail.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "page-error",
+  "collection_error": "ReadTimeout: HTTPSConnectionPool(host='company.namyangi.com', port=443): Read timed out. (read timeout=35)",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/namyang/favicon.png",
+      "source_url": "https://company.namyangi.com/static/front/img/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5398,
+      "sha256": "6987b1c7d04d9d2f6008c58661db6141a85580600fc7c29e02a188613e03e49e",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/namyang/og.jpg",
+      "source_url": "https://company.namyangi.com/static/front/img/namyang_thumbnail.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 251064,
+      "sha256": "ce4b10f2c5d2b6464cabe6f01a355f78111feabbeb3bb23ceb39044fb50a3510",
+      "width": 800,
+      "height": 400
+    }
+  ]
 }

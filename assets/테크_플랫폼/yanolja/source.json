@@ -4,11 +4,114 @@
   "requested_url": "https://www.yanolja.com/",
   "page_url": "https://nol.yanolja.com:443/",
   "page_title": "NOL(야놀자) | 전세계 숙소, 항공, 레저, 공연 특가",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/yanolja/favicon.png",
-  "favicon_source_url": "https://yaimg.yanolja.com/joy/sunny/static/images/nol/favicon/favicon-96x96.png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/테크_플랫폼/yanolja/og.png",
-  "og_source_url": "https://yaimg.yanolja.com/joy/sunny/static/images/nol/nol_og_1200x600.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://yaimg.yanolja.com/public/icon/yanolja.svg; reference:HTTPError:https://yaimg.yanolja.com/public/icon/yanolja.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/yanolja/favicon.png",
+      "source_url": "https://yaimg.yanolja.com/joy/sunny/static/images/nol/favicon/favicon-96x96.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3724,
+      "sha256": "a35ccb2ec521680b0c86ea202efbf1ca957cea3c6cbe9bdf1537610dff6c4201",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/yanolja/og.png",
+      "source_url": "https://yaimg.yanolja.com/joy/sunny/static/images/nol/nol_og_1200x600.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 11330,
+      "sha256": "97f9b8f224ecf8ab3b525f5ff4591e8f3ac50757f2db1bd943606c5205f4a1a7",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/yanolja/logo-1.svg",
+      "source_url": "https://yaimg.yanolja.com/web/images/display-site/home/img_brand_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img NOL div hidden ds-pc:inline-block div w-full ds-pc:flex ds-pc:min-h-[5rem] ds-pc:items-center ds-pc:justify-between div text-text mb-[calc(56px+var(--safe-area-bottom))] flex w-full max-w-ds-pc flex-col gap-12 px-20 py-16 text-[1.2rem] ",
+      "content_type": "image/svg+xml",
+      "bytes": 1634,
+      "sha256": "37d18c86c05b2848b6aeb5375ea604151cd4228aec3ca8144afb896f527a5278",
+      "width": 49,
+      "height": 18
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/yanolja/logo-2.png",
+      "source_url": "https://image6.yanolja.com/cx-ydm/tGpwu8dYHaBmBuqy",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture span core-ui__HeaderLogoWidget__iconWrapper__e7d615 button core-ui__HeaderLogoWidget__logo__b4d2e4 홈 div core-ui__HeaderLeft__left__d4faba div core-ui__HeaderTop__top__5f839d",
+      "content_type": "image/png",
+      "bytes": 4152,
+      "sha256": "dc63fe543ce8935910bb7e7ce8c13cb2e21d0b021975173525b4cb8faea81ab4",
+      "width": 270,
+      "height": 99
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/yanolja/banner-1.webp",
+      "source_url": "https://image6.yanolja.com/cx-ydm/XtqHU6pDdavoOdzj",
+      "source_tag": "img:semantic-banner",
+      "context": "img size-full rounded-[20px] object-cover ds-pc:rounded-[28px] [브랜드] 이제 NOL에서 놀아요 picture div relative size-full cursor-pointer div absolute right-full mr-10 shrink-0 ds-pc:mr-20 aspect-[3/2] !w-[calc(100vw-48px)] max-w-[551px] ds-pc:aspect",
+      "content_type": "image/webp",
+      "bytes": 58588,
+      "sha256": "bec5af5225923265d72b61cef4b0a77e7a7333d27d3b3b139cea553054427b6b",
+      "width": 960,
+      "height": 636
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/yanolja/banner-2.webp",
+      "source_url": "https://image6.yanolja.com/property-global/FxFws6rdx1bhEwPl",
+      "source_tag": "img:semantic-banner",
+      "context": "img mx-auto size-full bg-fill-neutral-weak1 object-center object-cover div overflow-hidden after:content-[''] after:absolute after:inset-0 after:border after:border-opacity-black-5 after:rounded-[inherit] after:pointer-events-none aspect-[3",
+      "content_type": "image/webp",
+      "bytes": 113572,
+      "sha256": "08a7b61d4cbbc0baa9fdabf80565416e3c8954028af9252fee606f8da181b746",
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/yanolja/reference-1.webp",
+      "source_url": "https://image6.yanolja.com/cx-ydm/bqlTkLrXou0aemQl",
+      "source_tag": "picture:page-image",
+      "context": "picture div relative size-full cursor-pointer div absolute right-full mr-10 shrink-0 ds-pc:mr-20 aspect-[3/2] !w-[calc(100vw-48px)] max-w-[551px] ds-pc:aspect-[1240/403] ds-pc:max-w-none ds-pc:!w-[calc(100vw-80px)] ds-pc-wide:!w-[1240px] di",
+      "content_type": "image/webp",
+      "bytes": 77108,
+      "sha256": "154faab4be3b61d190ca873570d9e2b46e055195216f54ec9ade9cfc66a5e989",
+      "width": 1800,
+      "height": 585
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/yanolja/reference-2.webp",
+      "source_url": "https://image6.yanolja.com/cx-ydm/vDvItWvx3noenLAA",
+      "source_tag": "picture:page-image",
+      "context": "picture div relative size-full cursor-pointer div relative aspect-[3/2] !w-[calc(100vw-48px)] max-w-[551px] ds-pc:aspect-[1240/403] ds-pc:max-w-none ds-pc:!w-[calc(100vw-80px)] ds-pc-wide:!w-[1240px] div flex w-full justify-center overflow-",
+      "content_type": "image/webp",
+      "bytes": 52592,
+      "sha256": "52079c084404484ebbd77f51658ddd677457ec91f2c0891a0bc3791afe1f8bdb",
+      "width": 1800,
+      "height": 585
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/yanolja/reference-3.webp",
+      "source_url": "https://image6.yanolja.com/cx-ydm/IZUkxa9H02dlDoD6",
+      "source_tag": "picture:page-image",
+      "context": "picture div relative size-full cursor-pointer div relative aspect-[3/2] !w-[calc(100vw-48px)] max-w-[551px] ds-pc:aspect-[1240/403] ds-pc:max-w-none ds-pc:!w-[calc(100vw-80px)] ds-pc-wide:!w-[1240px] div flex w-full justify-center overflow-",
+      "content_type": "image/webp",
+      "bytes": 38964,
+      "sha256": "0f1b08df6a2eff9d76b3aa7e68577409e34242ba026ed4d1cb27ccc76c1da26d",
+      "width": 960,
+      "height": 636
+    }
+  ]
 }

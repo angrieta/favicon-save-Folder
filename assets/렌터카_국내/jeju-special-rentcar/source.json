@@ -4,11 +4,67 @@
   "requested_url": "https://www.jejusprent.com/RentTerms/Takeover.do",
   "page_url": "https://www.jejusprent.com/RentTerms/Takeover.do",
   "page_title": "제주 특별한 렌트카",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/jeju-special-rentcar/favicon.png",
-  "favicon_source_url": "https://www.jejusprent.com/assets/img/favicon.png",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=988798180802137&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/jeju-special-rentcar/favicon.png",
+      "source_url": "https://www.jejusprent.com/assets/img/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6536,
+      "sha256": "d8f1818dc5acb14fb625901eb82aea6349a6b1f8a64827adba9601c5ebc46b42",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-special-rentcar/logo-1.png",
+      "source_url": "https://www.jejusprent.com/assets/img/logo_org.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo a navbar-brand nav navbar navbar-expand-md navbar-light div container div main-navbar",
+      "content_type": "image/png",
+      "bytes": 5213,
+      "sha256": "0ca0262358b4c8105883771051279f565e2343b3157a4e35f7088a2af144c81d",
+      "width": 166,
+      "height": 49
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-special-rentcar/logo-2.webp",
+      "source_url": "https://www.jejusprent.com/assets/img/top_S01_02.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div season-cont div main-responsive-nav div navbar-area header main_header_arae",
+      "content_type": "image/webp",
+      "bytes": 8498,
+      "sha256": "e068ce418b06b5c944d1d74f9a68f3850622aaee2d37310bb46442b402d9e80e",
+      "width": 869,
+      "height": 67
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-special-rentcar/reference-1.webp",
+      "source_url": "https://www.jejusprent.com/assets/img/Jeju_TakeoverLocation01.png",
+      "source_tag": "img:page-image",
+      "context": "img div col-12 col-lg-6 text-center div row div col-12 col-md-10 mx-auto tour_details_boxed px-5 div contentContainer container mb-5",
+      "content_type": "image/webp",
+      "bytes": 70470,
+      "sha256": "6fcbe9a010a404a6b321c6abaf6d2ca1b6b35ebe516bfcfc951c0734b445a521",
+      "width": 621,
+      "height": 466
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-special-rentcar/reference-2.webp",
+      "source_url": "https://www.jejusprent.com/assets/img/Jeju_TakeoverLocation02.png",
+      "source_tag": "img:page-image",
+      "context": "img div col-12 col-lg-6 text-center div row div col-12 col-md-10 mx-auto tour_details_boxed px-5 div contentContainer container mb-5",
+      "content_type": "image/webp",
+      "bytes": 49796,
+      "sha256": "777f65593ce42668fa3d8c5091fb16e3c33b8c5d1eb2457193e6df373f4372da",
+      "width": 616,
+      "height": 462
+    }
+  ]
 }

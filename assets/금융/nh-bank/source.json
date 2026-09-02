@@ -4,11 +4,19 @@
   "requested_url": "https://banking.nonghyup.com/",
   "page_url": "https://banking.nonghyup.com/",
   "page_title": "NH Bank - 농협인터넷뱅킹",
-  "page_status": "browser",
-  "favicon_path": "assets/금융/nh-bank/favicon.ico",
-  "favicon_source_url": "https://banking.nonghyup.com/images/IP/global/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/nh-bank/favicon.ico",
+      "source_url": "https://banking.nonghyup.com/images/IP/global/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 198703,
+      "sha256": "5f8cb24aad029fbaf9c4ee13a275b276a4fe6963e3275cf7e5f70b1213f728d4",
+      "width": 256,
+      "height": 256
+    }
+  ]
 }

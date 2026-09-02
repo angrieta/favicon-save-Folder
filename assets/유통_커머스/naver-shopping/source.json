@@ -4,11 +4,20 @@
   "requested_url": "https://shopping.naver.com/",
   "page_url": "https://shopv.pstatic.net/web/maintenance/internal-error.html?timestamp=202609020931",
   "page_title": "에러 페이지 : 네이버 쇼핑",
-  "page_status": "browser",
-  "favicon_path": "",
-  "favicon_source_url": "",
-  "favicon_source_tag": "",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/naver-shopping/logo-1.png",
+      "source_url": "https://shopv.pstatic.net/web/maintenance/limit/naver_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 네이버 a logo_link h1 logo div header div wrap",
+      "content_type": "image/png",
+      "bytes": 4581,
+      "sha256": "7f8028cd37bc87bf713d1bc6fb4a547a108d12f5904b97a4720cc8ed83408631",
+      "width": 164,
+      "height": 30
+    }
+  ]
 }

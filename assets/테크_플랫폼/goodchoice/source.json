@@ -4,11 +4,42 @@
   "requested_url": "https://www.goodchoice.kr/",
   "page_url": "https://www.yeogi.com",
   "page_title": "여기어때 | 해외여행, 호텔, 리조트, 캠핑, 펜션, 모텔, 풀빌라, 패키지여행, 항공권 예약",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/goodchoice/favicon.png",
-  "favicon_source_url": "https://www.yeogi.com/favicon/apple_touch_icon/apple_touch_icon_180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/테크_플랫폼/goodchoice/og.png",
-  "og_source_url": "https://www.yeogi.com/facebook_1200_628px.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://static.yeogi.com/_next/static/css/d81c766f4dcfffde.css; reference:ValueError:https://static.yeogi.com/_next/static/css/bcab5a3441d6fe32.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/goodchoice/favicon.png",
+      "source_url": "https://www.yeogi.com/favicon/apple_touch_icon/apple_touch_icon_180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2887,
+      "sha256": "a7686a1426bf761e995a84074dca7af1cd238f3b34a0d66c929f03ff72e9ac65",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/goodchoice/og.png",
+      "source_url": "https://www.yeogi.com/facebook_1200_628px.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 10624,
+      "sha256": "f1e8be2e4a1403afcf2980edb52335daa6eda34c2d8cf11af40fec62566123f4",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/goodchoice/logo-1.png",
+      "source_url": "https://www.yeogi.com/logo.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 1688,
+      "sha256": "c622ebfcd06a161ca0885fd4d53223ba092717c174cee5789f84136f862ccecd",
+      "width": 165,
+      "height": 28
+    }
+  ]
 }

@@ -4,11 +4,54 @@
   "requested_url": "https://www.discovercars.com/",
   "page_url": "https://www.discovercars.com/",
   "page_title": "Best Car Rental Deals with Free Cancellation, Compare & Save! | Discover Cars",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/discovercars/favicon.png",
-  "favicon_source_url": "https://www.discovercars.com/resources/common/icons/apple-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/discovercars/og.jpg",
-  "og_source_url": "https://www.discovercars.com/resources/common/discovercars-thumbnail.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.discovercars.com/_next/static/chunks/3rsovz9ogi70k.js; reference:ValueError:https://www.discovercars.com/_next/static/chunks/00-lt-g89z260.js; reference:ValueError:https://www.discovercars.com/_next/static/chunks/0fe3won434439.js; reference:ValueError:https://www.discovercars.com/_next/static/chunks/0zt6no2647mup.js; reference:ValueError:https://www.discovercars.com/_next/static/chunks/1t1pn9d1c5q7r.js; reference:ValueError:https://www.discovercars.com/_next/static/chunks/30inop875w385.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/discovercars/favicon.png",
+      "source_url": "https://www.discovercars.com/resources/common/icons/apple-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1460,
+      "sha256": "b2e38ec5a67e4e5bd04312c8308d3bdf8178b25623a49ef231cc5eeb9437ac90",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/discovercars/og.jpg",
+      "source_url": "https://www.discovercars.com/resources/common/discovercars-thumbnail.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 106097,
+      "sha256": "ff8b0c94167d7ece96c9728beb9a22e35486ae8137a8f3a8b4c47aae12d39dba",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/discovercars/logo-1.svg",
+      "source_url": "https://www.discovercars.com/_next/static/media/discovercars.16vy7l-at06ys.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Header-Logo Header-Logo_Light Discovercars logo a Header-LogoLink div Header-LogoWrapper div Header-Logos div Header Header_Wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 7515,
+      "sha256": "fa3af5557cfe57cbb0f1acb46704054ef72b7ee9dc87a4ea6490b28535818d8f",
+      "width": 160,
+      "height": 36
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/discovercars/logo-2.svg",
+      "source_url": "https://www.discovercars.com/_next/static/media/discovercarsMobile.168cdyyw41d_0.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Header-Logo Header-Logo_Dark Discovercars logo a Header-LogoLink div Header-LogoWrapper div Header-Logos div Header Header_Wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 7495,
+      "sha256": "27b06cc389daa5e8a04dd8d77e0fec313ab9e6d772f037a4bbd0a27f96224d38",
+      "width": 160,
+      "height": 36
+    }
+  ]
 }

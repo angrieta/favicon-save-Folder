@@ -4,11 +4,55 @@
   "requested_url": "https://www.thrifty.com/",
   "page_url": "https://www.thrifty.com/us/en",
   "page_title": "Deals on Car Rentals | Save with Thrifty",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/thrifty/favicon.png",
-  "favicon_source_url": "https://www.thrifty.com/etc.clientlibs/vulcan-aem/clientlibs/clientlib-react/resources/thrifty/apple-touch-icon-152x152.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/thrifty/og.png",
-  "og_source_url": "https://www.thrifty.com/content/dam/thrifty/global/thrifty.rendition.medium.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.thrifty.com/fonts/rubik-v31-latin_latin-ext-500.woff2; reference:ValueError:https://www.thrifty.com/fonts/rubik-v31-latin_latin-ext-700.woff2; reference:ValueError:https://www.thrifty.com/fonts/rubik-v31-latin_latin-ext-italic.woff2; reference:ValueError:https://www.thrifty.com/fonts/rubik-v31-latin_latin-ext-regular.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/thrifty/favicon.png",
+      "source_url": "https://www.thrifty.com/etc.clientlibs/vulcan-aem/clientlibs/clientlib-react/resources/thrifty/apple-touch-icon-152x152.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2170,
+      "sha256": "90acd71641f9b02bebdbfa1454091ef9e0cc152f5f695fffcaabb1acb9660a15",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/thrifty/og.png",
+      "source_url": "https://www.thrifty.com/content/dam/thrifty/global/thrifty.rendition.medium.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 26960,
+      "sha256": "3bb12e55e3ba0cb9cfcea99c2a39b21e0bafe02149f766dd1b83d2fae0f00eaf",
+      "width": 319,
+      "height": 239
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/thrifty/logo-1.webp",
+      "source_url": "https://www.thrifty.com/content/dam/thrifty/global/homepage/thrifty_homepage_sept_2025_extended.rendition.large.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img preload-img hero image body home-page page basicpage brand-thrifty html [document]",
+      "content_type": "image/webp",
+      "bytes": 239506,
+      "sha256": "409cdece92c9c4b93fce52dd10a1b5f5f3a73a9db3d92ff26ac0dc376d47a50f",
+      "width": 1600,
+      "height": 503
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/thrifty/logo-1.webp",
+      "source_url": "https://www.thrifty.com/content/dam/thrifty/global/homepage/thrifty_homepage_sept_2025_extended.rendition.large.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img preload-img hero image body home-page page basicpage brand-thrifty html [document]",
+      "content_type": "image/webp",
+      "bytes": 239506,
+      "sha256": "409cdece92c9c4b93fce52dd10a1b5f5f3a73a9db3d92ff26ac0dc376d47a50f",
+      "width": 1600,
+      "height": 503,
+      "reused_from": "logo"
+    }
+  ]
 }

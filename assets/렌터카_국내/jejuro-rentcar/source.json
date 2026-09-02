@@ -4,11 +4,30 @@
   "requested_url": "https://www.jejurorentcar.com/",
   "page_url": "https://www.jejurorentcar.com/",
   "page_title": "제주공항 렌트카 예약 · 제주도 렌트카 최저가 | 제주로렌트카",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/jejuro-rentcar/favicon.png",
-  "favicon_source_url": "https://www.jejurorentcar.com/assets/apple-touch-icon-152x152.png",
-  "favicon_source_tag": "apple-touch-icon-precomposed",
-  "og_path": "assets/렌터카_국내/jejuro-rentcar/og.png",
-  "og_source_url": "https://www.jejurorentcar.com/assets/android-chrome-512x512.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1662419574630004&ev=PageView&noscript=1; reference:ValueError:https://a29.smlog.co.kr/smart_bda.php?_account=31441",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/jejuro-rentcar/favicon.png",
+      "source_url": "https://www.jejurorentcar.com/assets/apple-touch-icon-152x152.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 11863,
+      "sha256": "ad7354a98cfcb06a624ccb0e9005ef1367cd18d85db121633182b2987ccb0a76",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jejuro-rentcar/og.png",
+      "source_url": "https://www.jejurorentcar.com/assets/android-chrome-512x512.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 53590,
+      "sha256": "8de73fa028414f909bc640649bfd9207a3a2877a72883fb11f8d242dcf9577b3",
+      "width": 512,
+      "height": 512
+    }
+  ]
 }

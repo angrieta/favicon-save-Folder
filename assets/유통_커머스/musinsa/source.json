@@ -4,11 +4,30 @@
   "requested_url": "https://www.musinsa.com/",
   "page_url": "https://www.musinsa.com/main/musinsa/recommend",
   "page_title": "무신사",
-  "page_status": "200",
-  "favicon_path": "assets/유통_커머스/musinsa/favicon.png",
-  "favicon_source_url": "https://image.msscdn.net/static/assets/bi/favicon/favicon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/유통_커머스/musinsa/og.png",
-  "og_source_url": "https://image.msscdn.net/static/assets/bi/og/og_musinsa.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://static.msscdn.net/static/v4/search-home/search-home.js; reference:ValueError:https://static.msscdn.net/static/v4/pc/home/home.js; reference:ValueError:https://static.msscdn.net/static/mss-frontend-web/_next/static/css/69a34681b8a245da.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/musinsa/favicon.png",
+      "source_url": "https://image.msscdn.net/static/assets/bi/favicon/favicon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2271,
+      "sha256": "d578bf2ae812ef199ebf1f8bf28589f5f8336abc9806a3abe22b63ec066d2643",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/musinsa/og.png",
+      "source_url": "https://image.msscdn.net/static/assets/bi/og/og_musinsa.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 9677,
+      "sha256": "08b1fa1b784024b92d2fa73cdd28c3ae0be461a4b84e2216182624d7cc53eca6",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

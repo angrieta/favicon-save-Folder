@@ -4,11 +4,66 @@
   "requested_url": "https://www.ibk.co.kr/",
   "page_url": "https://www.ibk.co.kr/",
   "page_title": "IBK기업은행",
-  "page_status": "200",
-  "favicon_path": "assets/금융/ibk-bank/favicon.png",
-  "favicon_source_url": "https://www.ibk.co.kr/img/common/ic_bm_ios.png",
-  "favicon_source_tag": "apple-touch-icon-precomposed",
-  "og_path": "assets/금융/ibk-bank/og.png",
-  "og_source_url": "https://www.ibk.co.kr/img/logo800.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/ibk-bank/favicon.png",
+      "source_url": "https://www.ibk.co.kr/img/common/ic_bm_ios.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 32884,
+      "sha256": "d9effaee410ab9a58eb422c21a4d0b0c0080eda35c4f5deea6a50655642099a9",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/ibk-bank/og.png",
+      "source_url": "https://www.ibk.co.kr/img/logo800.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 49624,
+      "sha256": "fb23788437057b2f3ac915c8b7ba1929b184325b9cd387631a6e3f47d9926961",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/ibk-bank/logo-1.png",
+      "source_url": "https://www.ibk.co.kr/img/navigation/h1_logo_sub.gif",
+      "source_tag": "img:semantic-logo",
+      "context": "img IBK기업은행 span img_change a h1 div gnb_wrap",
+      "content_type": "image/png",
+      "bytes": 3900,
+      "sha256": "3f60fdf9e57971f38b9c0efd7e25803e45912b9c2064e290c5b7e079a14b7a94",
+      "width": 158,
+      "height": 35
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/ibk-bank/banner-1.webp",
+      "source_url": "https://www.ibk.co.kr/img/main2023/bg_main_slide_01_260714.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img AI와 IBK가 만나면? 세상을 키우는 AI BANK AIBK 고객을 키우는 AI 데이터 고도화, 기업을 키우는 AI 금융 생태계 구축, 금융의 힘을 키우는 AI 친화적 경영 p main_visual_img li banner_full ul visual-slider div mainSlider slider-wrap",
+      "content_type": "image/webp",
+      "bytes": 50056,
+      "sha256": "2d99e37a9a4f357df711cb281181d25b1b6072e7207c6ad5a5aca30bfab45bdd",
+      "width": 1000,
+      "height": 380
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/ibk-bank/banner-2.webp",
+      "source_url": "https://www.ibk.co.kr/img/main2023/img_prd_recom_01_260401.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div img_area a li ul visual-slider",
+      "content_type": "image/webp",
+      "bytes": 15272,
+      "sha256": "07ea8c6951e525d72293a11f22b51b7f6f2b3db97c9743f7fe35f6a24ac619b3",
+      "width": 765,
+      "height": 483
+    }
+  ]
 }

@@ -4,11 +4,90 @@
   "requested_url": "https://cu.bgfretail.com/",
   "page_url": "https://cu.bgfretail.com/",
   "page_title": "NICE TO CU",
-  "page_status": "200",
-  "favicon_path": "assets/유통_커머스/cu/favicon.ico",
-  "favicon_source_url": "https://cu.bgfretail.com/images/ico/cu.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/유통_커머스/cu/og.jpg",
-  "og_source_url": "https://cu.bgfretail.com/images/facebook.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://cu.bgfretail.com/images/common/new/btn_gnb_close.png alt=; reference:HTTPError:https://cdn2.bgfretail.com",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/cu/favicon.ico",
+      "source_url": "https://cu.bgfretail.com/images/ico/cu.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "f7ea4a8452d52f27fd1ed99f752c1ec280fbb5092ea0df8f18de74af6cdd4154",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/cu/og.jpg",
+      "source_url": "https://cu.bgfretail.com/images/facebook.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 24591,
+      "sha256": "c9ed7b3898734c6eafd72c1cac36eeb4117682f38e14297d70e8d7e2fb779483",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/cu/logo-1.png",
+      "source_url": "https://cu.bgfretail.com/m/images/common/new/logo.png",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a h1 logo div inner_wrap header header",
+      "content_type": "image/png",
+      "bytes": 8097,
+      "sha256": "9673610d3604e04613157eb35d0d2269fb360cb714306de408ef40f8e1bb6387",
+      "width": 190,
+      "height": 40
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/cu/logo-2.png",
+      "source_url": "https://cu.bgfretail.com/m/images/main/new/main_visual_logo_text_mo.png",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div obj ly_flex div inner_wrap section visual_area cont_article div wrap main",
+      "content_type": "image/png",
+      "bytes": 6973,
+      "sha256": "8f62c657e2b33d6af0f62e5abfa111cd8c4f582ecbff0dd87213347b8e667d5f",
+      "width": 296,
+      "height": 178
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/cu/reference-1.webp",
+      "source_url": "https://cu.bgfretail.com/m/images/main/new/img_cu_store.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div cont_right img_wrap div inner_wrap section search_cu div wrap main",
+      "content_type": "image/webp",
+      "bytes": 22226,
+      "sha256": "15318c13a1d238dc220c3bf46e8d90aa3aa0aa8864d3a4b11fc30877d354d9bd",
+      "width": 608,
+      "height": 402
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/cu/reference-2.webp",
+      "source_url": "https://cu.bgfretail.com/images/main/new/img_cu_store.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div cont_right img_wrap div inner_wrap section search_cu div wrap main",
+      "content_type": "image/webp",
+      "bytes": 28368,
+      "sha256": "7b6d25c1a7d2c753a2f5b32eb829b45065c1b3bbacddecf6f8ac3cf846987fed",
+      "width": 766,
+      "height": 507
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/cu/reference-3.webp",
+      "source_url": "https://cdn2.bgfretail.com/bgfbrand/files/newmainImage/F3879082BCF4481CA61D8C132B65C89F.png",
+      "source_tag": "picture:page-image",
+      "context": "picture a div story_column div cont_wrap section story_cu",
+      "content_type": "image/webp",
+      "bytes": 12422,
+      "sha256": "2e732db043a3b597b2c48ee63a195768f7a4cefb013ccc99b2588eb6d21f1156",
+      "width": 480,
+      "height": 540
+    }
+  ]
 }

@@ -4,11 +4,115 @@
   "requested_url": "https://www.ob.co.kr/",
   "page_url": "https://www.ob.co.kr/",
   "page_title": "오비맥주 | 대한민국 대표 맥주 전문기업",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/ob-beer/favicon.png",
-  "favicon_source_url": "https://www.ob.co.kr/uploads/assets/ico.png",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/식품_생활/ob-beer/og.svg",
-  "og_source_url": "https://ob.co.kr/uploads/assets/img/common/ob-beer-logo.svg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://www.ob.co.kr/assets/img/common/ob-beer-logo.png; reference:HTTPError:https://www.ob.co.kr/assets/img/common/ob-beer-logo.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/ob-beer/favicon.png",
+      "source_url": "https://www.ob.co.kr/uploads/assets/ico.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 263,
+      "sha256": "2058db9d7ea5530d4f5ea942b3a3d327992998c1e2d7482328f007efbf9dc23d",
+      "width": 16,
+      "height": 14
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/ob-beer/og.svg",
+      "source_url": "https://ob.co.kr/uploads/assets/img/common/ob-beer-logo.svg",
+      "source_tag": "og:image",
+      "content_type": "image/svg+xml",
+      "bytes": 4660,
+      "sha256": "da2876874f33f53264351cc0f600646cba129a36cc3e1f1430311ef85b8aa5a9",
+      "width": 160,
+      "height": 38
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/ob-beer/og.svg",
+      "source_url": "https://www.ob.co.kr/uploads/assets/img/common/ob-beer-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "content_type": "image/svg+xml",
+      "bytes": 4660,
+      "sha256": "da2876874f33f53264351cc0f600646cba129a36cc3e1f1430311ef85b8aa5a9",
+      "width": 160,
+      "height": 38,
+      "context": "img OB맥주 로고로 영어로 OB 한글로 오비맥주가 브랜드 컬러인 남색으로 표기되어 있습니다. OB 오비맥주 브랜드 로고 a div logo div header-inner header site-header",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/ob-beer/logo-2.png",
+      "source_url": "https://www.ob.co.kr/uploads/assets/img/index/slide-cass-logo.png?v=20251013",
+      "source_tag": "img:semantic-logo",
+      "context": "img 카스 div marquee-group div marquee-track row1 div logo-marquee 브랜드 로고 무한 슬라이드 div isb-slide-logo",
+      "content_type": "image/png",
+      "bytes": 13356,
+      "sha256": "089b5d72ad2b3a8b12ee10ebb6e8b4c3ed6677ef0e0aeaa7286855468dd2c5a6",
+      "width": 522,
+      "height": 716
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/ob-beer/banner-1.webp",
+      "source_url": "https://www.ob.co.kr/uploads/assets/img/index/ob-beer-company-who-we-are-background.webp?v=20260317",
+      "source_tag": "img:semantic-banner",
+      "context": "img OB 오비맥주와 함께 빚어낸 이야기를 담은 사진들이 있습니다. OB 함께 빚어낸 이야기 div iwha-bg div index-wha div index-section-03 div index-container",
+      "content_type": "image/webp",
+      "bytes": 268076,
+      "sha256": "12acf018d711d0f6efec409e9055a1ce425cfa16a7beeffec4c9d253e5513471",
+      "width": 1800,
+      "height": 679
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/ob-beer/banner-2.webp",
+      "source_url": "https://www.ob.co.kr/uploads/assets/img/index/ob-beer-company-who-we-are-filter.webp?v=20251013",
+      "source_tag": "img:semantic-banner",
+      "context": "img OB 오비맥주와 함께 빚어낸 이야기를 담은 사진의 배경입니다. OB 함께 빚어낸 이야기 div iwha-filter div index-wha div index-section-03 div index-container",
+      "content_type": "image/webp",
+      "bytes": 6234,
+      "sha256": "96e7ac1b371da719894d17ccb1e221d84a7a5121f6c397554bb60529e18d573f",
+      "width": 1800,
+      "height": 679
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ob-beer/reference-1.webp",
+      "source_url": "https://www.ob.co.kr/uploads/assets/img/index/slide-hanmac-logo.png?v=20251013",
+      "source_tag": "img:page-image",
+      "context": "img 한맥 div marquee-group div marquee-track row1 div logo-marquee 브랜드 로고 무한 슬라이드 div isb-slide-logo",
+      "content_type": "image/webp",
+      "bytes": 20026,
+      "sha256": "466cd04b24758898a6f6aa925ba82f6b949800878a62c860ff03f1d71e0e6137",
+      "width": 690,
+      "height": 716
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ob-beer/reference-2.webp",
+      "source_url": "https://www.ob.co.kr/uploads/assets/img/index/slide-stella-artois-logo.png?v=20251013",
+      "source_tag": "img:page-image",
+      "context": "img 스텔라 아르투아 div marquee-group div marquee-track row1 div logo-marquee 브랜드 로고 무한 슬라이드 div isb-slide-logo",
+      "content_type": "image/webp",
+      "bytes": 23550,
+      "sha256": "6925c7c009a4d0431d41c166e915a195c798491adfbacd63764f0648e70c4aa6",
+      "width": 1492,
+      "height": 716
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ob-beer/reference-3.webp",
+      "source_url": "https://www.ob.co.kr/uploads/assets/img/index/slide-hogaarden-logo.png?v=20251013",
+      "source_tag": "img:page-image",
+      "context": "img 호가든 div marquee-group div marquee-track row1 div logo-marquee 브랜드 로고 무한 슬라이드 div isb-slide-logo",
+      "content_type": "image/webp",
+      "bytes": 17134,
+      "sha256": "0ff3f3a7b5a9108ac3165e4e3989737235d6554208d18ad485c6d32515dfed7a",
+      "width": 1122,
+      "height": 716
+    }
+  ]
 }

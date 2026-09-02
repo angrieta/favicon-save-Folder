@@ -4,11 +4,103 @@
   "requested_url": "https://www.cadillac.co.kr/",
   "page_url": "https://www.cadillac.co.kr/",
   "page_title": "Cadillac Korea: Luxury Vehicles, SUVs & Sedans",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/cadillac-korea/favicon.svg",
-  "favicon_source_url": "https://www.cadillac.co.kr/content/dam/cadillac/na/us/english/index/shared-assets/favicon/2025-cadillac-favicon-180x180.svg",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://brands.gm-cdn.com/gbds/cadillac-2022/fonts/CadillacGothic-Medium.woff2; reference:ValueError:https://brands.gm-cdn.com/gbds/cadillac-2022/fonts/CadillacGothic-WideMedium.woff2; reference:ValueError:https://brands.gm-cdn.com/gbds/cadillac-2022/fonts/CadillacGothic-Bold.woff2; reference:ValueError:https://brands.gm-cdn.com/gbds/cadillac-2022/fonts/CadillacGothic-Regular.woff2; reference:ValueError:https://brands.gm-cdn.com/gbds/cadillac-2022/fonts/CadillacGothic-WideRegular.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/cadillac-korea/favicon.svg",
+      "source_url": "https://www.cadillac.co.kr/content/dam/cadillac/na/us/english/index/shared-assets/favicon/2025-cadillac-favicon-180x180.svg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 967,
+      "sha256": "3d2d35220d373ba231721501bba3af5f308fba278e86d3c66b37da500e23ef86",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/cadillac-korea/logo-1.svg",
+      "source_url": "https://www.cadillac.co.kr/content/dam/cadillac/as/kr/ko/index/shared-assets/cadillac-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo Home span logo-container div gb-print-header-container div gb-print-header body generic_template_page-8dc80f0a52 generic_template_page base page basicpage",
+      "content_type": "image/svg+xml",
+      "bytes": 2565,
+      "sha256": "07a1557d6abbbac8a8300fccdda7b14ea0086d95730c5ee90e8daa6596904ad7",
+      "width": 82,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/cadillac-korea/logo-2.svg",
+      "source_url": "https://www.cadillac.co.kr/content/dam/cadillac/na/us/english/index/vehicles/future-and-concept/electric-vehicles/lyriq-reserve-now/svg/25-cadillac-footer-wordmark.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Cadillac div gb-universal-image gb-vector-image gb-rectangle-image gb-small-margin div col-con adv-col col-sm-11 col-sm-gut-no col-sm-pad-lt-2 col-sm-ca-c col-md-4 col-md-gut-no col-md-pad-lt-2 col-md-ca-lt col-md-pad-rt-no col-xl-4 col",
+      "content_type": "image/svg+xml",
+      "bytes": 1891,
+      "sha256": "7ed3a1b8bfd3dceed7bcd9b3028e71e216ff5068fc0ce7ab15ffdf2a66f2d12a",
+      "width": 380,
+      "height": 79
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/cadillac-korea/banner-1.webp",
+      "source_url": "https://www.cadillac.co.kr/content/dam/cadillac/as/kr/ko/index/2026/main-scroller/12-images/mainrolling-ratd-event-web.jpg?imwidth=1200",
+      "source_tag": "img:semantic-banner",
+      "context": "img gb-rectangle-image-responsive gb-image Cadillac Key Visual :  Escalade RaTD Event picture div gb-responsive-image gb-responsive-image-container gb-rectangle-image-responsive stat-image-link div none-margin a stat-image-link",
+      "content_type": "image/webp",
+      "bytes": 84238,
+      "sha256": "e72c83862399aea04e07055c62c8de0f021de59a64489bccf43dbd84e2c83a1a",
+      "width": 1268,
+      "height": 543
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/cadillac-korea/banner-2.webp",
+      "source_url": "https://www.cadillac.co.kr/content/dam/cadillac/as/kr/ko/index/2026/main-scroller/12-images/0828-mainrolling-1900-01.jpg?imwidth=1200",
+      "source_tag": "img:semantic-banner",
+      "context": "img gb-rectangle-image-responsive gb-image Cadillac Key Visual :  Escalade picture div gb-responsive-image gb-responsive-image-container gb-rectangle-image-responsive stat-image-link div none-margin a stat-image-link",
+      "content_type": "image/webp",
+      "bytes": 84114,
+      "sha256": "ea65b02f0f52806c2d94e02f3964b18e57c260d58d9f2507c2662c86d764aa64",
+      "width": 1268,
+      "height": 543
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/cadillac-korea/reference-1.webp",
+      "source_url": "https://www.cadillac.co.kr/content/dam/cadillac/as/kr/ko/index/2025/portnavigation/vehicles/02-images/vehicles-escaladeiq-1.png?imwidth=3000",
+      "source_tag": "picture:page-image",
+      "context": "picture div gb-responsive-image gb-responsive-image-container gb-rectangle-image-responsive stat-image-link div small-margin a stat-image-link gb-responsive-image gb-responsive-image gb-small-margin gb-img-hover gb-rectangle-image-responsiv",
+      "content_type": "image/webp",
+      "bytes": 21278,
+      "sha256": "25d49849d88a9a6cfc582d7a9e8136cfea2ed4246fa1bf313c64da9b575c98f1",
+      "width": 640,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/cadillac-korea/reference-2.webp",
+      "source_url": "https://www.cadillac.co.kr/content/dam/cadillac/as/kr/ko/index/2025/portnavigation/vehicles/02-images/vehicles-escalade-1.png?imwidth=3000",
+      "source_tag": "picture:page-image",
+      "context": "picture div gb-responsive-image gb-responsive-image-container gb-rectangle-image-responsive stat-image-link div small-margin a stat-image-link gb-responsive-image gb-responsive-image gb-small-margin gb-img-hover gb-rectangle-image-responsiv",
+      "content_type": "image/webp",
+      "bytes": 19454,
+      "sha256": "19f8814abef5642d97b9c92faec63cca267b1d1a3ec63aaf946d3c30929fbc11",
+      "width": 640,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/cadillac-korea/reference-3.webp",
+      "source_url": "https://www.cadillac.co.kr/content/dam/cadillac/as/kr/ko/index/2026/main-scroller/12-images/mainrolling-ratd-event-web.jpg?imwidth=3000",
+      "source_tag": "picture:page-image",
+      "context": "picture div gb-responsive-image gb-responsive-image-container gb-rectangle-image-responsive stat-image-link div none-margin a stat-image-link gb-responsive-image gb-responsive-image gb-none-margin gb-rectangle-image-responsive",
+      "content_type": "image/webp",
+      "bytes": 127340,
+      "sha256": "bd0ef551067cd9a37ea501d4e159ca9264a0569d53e10881c37f79075ef0a051",
+      "width": 1800,
+      "height": 771
+    }
+  ]
 }

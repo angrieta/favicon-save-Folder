@@ -4,11 +4,30 @@
   "requested_url": "https://www.wavve.com/",
   "page_url": "https://www.wavve.com/",
   "page_title": "Wavve(웨이브)",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/wavve/favicon.ico",
-  "favicon_source_url": "https://www.wavve.com/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/게임_엔터/wavve/og.png",
-  "og_source_url": "http://img.wavve.com/service30/profile/wavve2022.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/wavve/favicon.ico",
+      "source_url": "https://www.wavve.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 7193,
+      "sha256": "f0e188774c197fa8d5b5afa44e4e80aa7cf3b4f5f00597009a7a803fd90958d9",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/wavve/og.png",
+      "source_url": "http://img.wavve.com/service30/profile/wavve2022.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 12064,
+      "sha256": "78834d40754d00b41db660f3ea28f6e2dd271bd7e4f88d997eec28020cc59296",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

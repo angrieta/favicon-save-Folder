@@ -4,11 +4,30 @@
   "requested_url": "https://www.poscoenc.com/",
   "page_url": "https://www.poscoenc.com/ko/index.aspx",
   "page_title": "포스코이앤씨",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/posco-enc/favicon.ico",
-  "favicon_source_url": "https://www.poscoenc.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/산업_건설_통신/posco-enc/og.jpg",
-  "og_source_url": "https://www.poscoenc.com/ko/common/images/logos/og.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.poscoenc.com/Upload/home_mov/20240408160332420.mp4; reference:ValueError:https://www.poscoenc.com/Upload/home_mov/20231218091420668.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/posco-enc/favicon.ico",
+      "source_url": "https://www.poscoenc.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "eb202a6a095cf89e3558319452808d1fa7dd3708d8c4de2cac4c60990028dafd",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/posco-enc/og.jpg",
+      "source_url": "https://www.poscoenc.com/ko/common/images/logos/og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 82100,
+      "sha256": "67712195aab25d84bb69047e558462e030cfb87f07393df40f20c779863f7cfb",
+      "width": 800,
+      "height": 400
+    }
+  ]
 }

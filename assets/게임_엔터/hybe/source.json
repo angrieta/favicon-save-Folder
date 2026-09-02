@@ -4,11 +4,30 @@
   "requested_url": "https://hybecorp.com/",
   "page_url": "https://hybecorp.com/",
   "page_title": "HYBE",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/hybe/favicon.png",
-  "favicon_source_url": "https://hybecorp.com/public/favicon/main/favicon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/게임_엔터/hybe/og.png",
-  "og_source_url": "https://hybecorp.com/public/opengraph/main/og.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://hybecorp.com/_next/static/chunks/webpack-ad7c7a75de8852bb.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/hybe/favicon.png",
+      "source_url": "https://hybecorp.com/public/favicon/main/favicon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2379,
+      "sha256": "c0e8402df4d660b08e935d765189717078c72c8d42a73035a44375f118575f3b",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/hybe/og.png",
+      "source_url": "https://hybecorp.com/public/opengraph/main/og.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 6322,
+      "sha256": "96ada90f5470522df3dceeb5be27e1530ba8b34abc36bef9518d13bab7306b8a",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

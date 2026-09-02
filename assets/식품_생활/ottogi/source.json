@@ -4,11 +4,102 @@
   "requested_url": "https://www.ottogi.co.kr/",
   "page_url": "https://www.otoki.com/main/",
   "page_title": "오뚜기",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/ottogi/favicon.ico",
-  "favicon_source_url": "https://www.otoki.com/favicon.ico?v=2606",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/식품_생활/ottogi/og.png",
-  "og_source_url": "https://www.otoki.com/images/common/ottogi_img.png?v=1",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.otoki.com/pds/banner/2606/091d2bf918bb41bf8ff8ad0d6ecbaa67.mp4; reference:ValueError:https://www.facebook.com/tr?id=1637369230421169&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/ottogi/favicon.ico",
+      "source_url": "https://www.otoki.com/favicon.ico?v=2606",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 124084,
+      "sha256": "573f894487684add89a923f4d8683dcf4a9a2e8737af21a9315576c6765731ab",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/ottogi/og.png",
+      "source_url": "https://www.otoki.com/images/common/ottogi_img.png?v=1",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 23740,
+      "sha256": "da811d80021c0ebffad058b01f647fa8e891899be3ca36ac9b88b0600e19c1d7",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/ottogi/logo-1.webp",
+      "source_url": "https://www.otoki.com/images/temp/main_brand_mo.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 브랜드스토리 div visual div inner section brand_story main container container main",
+      "content_type": "image/webp",
+      "bytes": 147038,
+      "sha256": "a065d4b290bbf8fd83322f6320a33d8ee3a3b1ba7b581726e0f36d16cd0fb7cb",
+      "width": 750,
+      "height": 960
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/ottogi/banner-1.webp",
+      "source_url": "https://www.otoki.com/pds/banner/2607/9e79f3b6503547efaac198fa8ad7f096.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 오뚜기 제6회 SWEET HOME\r\n푸드 에세이 공모전\r\n8.8 - 9.11\r\n응모하기 div pc_visual a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 134088,
+      "sha256": "fbdfd137f197edaf396252bd9f2cfe731d986232778771812efc3d9f364f77d6",
+      "width": 1800,
+      "height": 891
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/ottogi/banner-2.webp",
+      "source_url": "https://www.otoki.com/pds/banner/2604/e902b9437a7247528f50efe163ee549b.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 진이어쓰\r\nGENIUS\r\n진밀면\r\n바로 이 맛 아닙니까? div pc_visual a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 103632,
+      "sha256": "1c00a7b2486accae897875908f2cef0b968b6a2056b05c3eb468ed7dc5ebd136",
+      "width": 1800,
+      "height": 891
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ottogi/reference-1.webp",
+      "source_url": "https://www.otoki.com/pds/popup/2608/d9d75740bcec4b77a0bf8b71735c823e.png",
+      "source_tag": "img:page-image",
+      "context": "img 풍림 함태호 명예회장\r\n10주기 추모 안내\r\n머리쓰고 땀 흘리자\r\n풍림 함태호 명예회장의\r\n숭고한 정신을 잊지 않겠습니다.\r\n온라인 추모관 a div img_box div img_wrap div fixed_floating open",
+      "content_type": "image/webp",
+      "bytes": 28324,
+      "sha256": "0b0497f71456cb1637904c90f82bdce94f4eb67067039270dff22ca655f62cce",
+      "width": 600,
+      "height": 420
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ottogi/reference-2.webp",
+      "source_url": "https://www.otoki.com/pds/popup/2607/ebe629881fb045cf88721c64ca6647bb.png",
+      "source_tag": "img:page-image",
+      "context": "img 오뚜기 제6회 SWEET HOME\r\n푸드 에세이 공모전\r\n8.8 - 9.11 a div img_box div img_wrap div fixed_floating open",
+      "content_type": "image/webp",
+      "bytes": 23392,
+      "sha256": "aeb5e431e175ea1d2e9d03491c8edd657bdcd76b20ff7c2287f700b0a1f5e9e3",
+      "width": 600,
+      "height": 280
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ottogi/reference-3.webp",
+      "source_url": "https://www.otoki.com/pds/popup/2608/882f435b66b04475a7ab66282f633f1e.png",
+      "source_tag": "img:page-image",
+      "context": "img 케챂 맛잘알\r\n챂챂박사 TOP 10인\r\n레시피 투표 EVENT\r\n레시피 투표하고 경품 받기 a div img_box div img_wrap div fixed_floating open",
+      "content_type": "image/webp",
+      "bytes": 23740,
+      "sha256": "5150b66191feb86d3f603df9e2a6cf3e49e31691142c45401f91db0af987fba4",
+      "width": 600,
+      "height": 280
+    }
+  ]
 }

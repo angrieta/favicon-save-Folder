@@ -4,11 +4,19 @@
   "requested_url": "https://www.metrorent.co.kr/",
   "page_url": "https://www.metrorent.co.kr/",
   "page_title": "메트로렌트카",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/metro-rentcar/favicon.ico",
-  "favicon_source_url": "https://www.metrorent.co.kr/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/metro-rentcar/favicon.ico",
+      "source_url": "https://www.metrorent.co.kr/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "d080e06965f1f588aa06d573be07451f6d1477517bb4143c72d9db41dc8fb65f",
+      "width": 32,
+      "height": 32
+    }
+  ]
 }

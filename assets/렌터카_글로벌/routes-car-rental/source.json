@@ -4,11 +4,19 @@
   "requested_url": "https://routes.ca/",
   "page_url": "https://routes.ca/",
   "page_title": "Routes",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/routes-car-rental/favicon.png",
-  "favicon_source_url": "https://routes.ca/routeslogo.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/routes-car-rental/favicon.png",
+      "source_url": "https://routes.ca/routeslogo.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9020,
+      "sha256": "3496385071eac4f4d56ebb48f57eda41d7b74dd3ee5266b70be81124d7920e6e",
+      "width": 618,
+      "height": 278
+    }
+  ]
 }

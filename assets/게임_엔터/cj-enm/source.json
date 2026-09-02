@@ -4,11 +4,78 @@
   "requested_url": "https://www.cjenm.com/",
   "page_url": "https://www.cjenm.com/ko/",
   "page_title": "CJ ENM 엔터테인먼트부문 | 글로벌 종합 콘텐츠 기업",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/cj-enm/favicon.ico",
-  "favicon_source_url": "https://web2-cf-image.cjenm.com/public/share/systemmng/site/sitemng/Favicon%20(3).ico",
-  "favicon_source_tag": "apple-touch-icon-precomposed",
-  "og_path": "assets/게임_엔터/cj-enm/og.jpg",
-  "og_source_url": "https://web2-cf-image.cjenm.com/crop/1200x630/public/share/systemmng/site/sitemng/CJENM_SNS_1200x630.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/cj-enm/favicon.ico",
+      "source_url": "https://web2-cf-image.cjenm.com/public/share/systemmng/site/sitemng/Favicon%20(3).ico",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/x-icon",
+      "bytes": 159214,
+      "sha256": "563b17e1e18da17c7143eaa2401867fc681105a59197641753d014f677018a7c",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/cj-enm/og.jpg",
+      "source_url": "https://web2-cf-image.cjenm.com/crop/1200x630/public/share/systemmng/site/sitemng/CJENM_SNS_1200x630.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 80898,
+      "sha256": "d46c85bfaf9a117fa8889b011a882736a2304119d19a91e23360e34d2bb0ff09",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/cj-enm/logo-1.svg",
+      "source_url": "https://web2-cf-image.cjenm.com/public/share/systemmng/site/headermng/cj_enm_logo.svg",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 3030,
+      "sha256": "06a4bb5b376ce3d9b535ace8c216e75219036855b711c5fc066bbc5eb35b5002",
+      "width": 84,
+      "height": 48
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/cj-enm/reference-1.webp",
+      "source_url": "https://web2-cf-image.cjenm.com/public/share/contentsmng/kr/komainkvwhowearespookyinloveblack.jpg?1786075965000",
+      "source_tag": "img:page-image",
+      "context": "img dim CJ ENM 드라마 오싹한 연애 div img-box div swiper-slide swiper-slide-active div swiper-wrapper div swiper-container js-key_gallery",
+      "content_type": "image/webp",
+      "bytes": 66236,
+      "sha256": "60b949dab3d55fdd5bce1c6750c07bf2def887b83bfd40e3e7bf464f5c55dc19",
+      "width": 1344,
+      "height": 756
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/cj-enm/reference-2.webp",
+      "source_url": "https://web2-cf-image.cjenm.com/public/share/contentsmng/kr/komainkvwhowearespookyinlove.jpg?1786075897000",
+      "source_tag": "img:page-image",
+      "context": "img screen CJ ENM 드라마 오싹한 연애 div img-box div swiper-slide swiper-slide-active div swiper-wrapper div swiper-container js-key_gallery",
+      "content_type": "image/webp",
+      "bytes": 80860,
+      "sha256": "cc0ec3f12c29832029b303b31c5bdad1cb08e18cab8b89ea1e1f9ab7737f409f",
+      "width": 1344,
+      "height": 756
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/cj-enm/reference-3.webp",
+      "source_url": "https://web2-cf-image.cjenm.com/public/share/contentsmng/kr/komainkvtvshowsstreetspacericecakeblack.jpg?1786075964000",
+      "source_tag": "img:page-image",
+      "context": "img dim CJ ENM 예능 우주떡집 div img-box div swiper-slide div swiper-wrapper div swiper-container js-key_gallery",
+      "content_type": "image/webp",
+      "bytes": 137662,
+      "sha256": "5e77a8371f64630d2da531f270640704fb5d633039c8fbe2d2c281dfb67dff53",
+      "width": 1344,
+      "height": 756
+    }
+  ]
 }

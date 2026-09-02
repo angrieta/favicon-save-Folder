@@ -4,11 +4,19 @@
   "requested_url": "https://www.hanwhalife.com/",
   "page_url": "https://www.hanwhalife.com/",
   "page_title": "한화생명",
-  "page_status": "browser",
-  "favicon_path": "assets/금융/hanwha-life/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.hanwhalife.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "SSLError: HTTPSConnectionPool(host='www.hanwhalife.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1081)')))",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/hanwha-life/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.hanwhalife.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 1176,
+      "sha256": "d533c71e7afc59b5cec25d89c44a48e949ef8db1f74453a1b75c370659748422",
+      "width": 32,
+      "height": 32
+    }
+  ]
 }

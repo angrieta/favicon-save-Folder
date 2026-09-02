@@ -4,11 +4,19 @@
   "requested_url": "https://www.hi.co.kr/",
   "page_url": "https://www.hi.co.kr/",
   "page_title": "",
-  "page_status": "200",
-  "favicon_path": "assets/금융/hyundai-insurance/favicon.ico",
-  "favicon_source_url": "https://www.hi.co.kr/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/hyundai-insurance/favicon.ico",
+      "source_url": "https://www.hi.co.kr/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 536,
+      "sha256": "5c98255c47b13250bf3684658efbf38efcc346d723f22049e7e7ff81f5b4224e",
+      "width": 27,
+      "height": 28
+    }
+  ]
 }

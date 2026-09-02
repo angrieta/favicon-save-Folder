@@ -4,11 +4,19 @@
   "requested_url": "https://www.ssg.com/",
   "page_url": "https://www.ssg.com/",
   "page_title": "신세계적 쇼핑포털 SSG.COM",
-  "page_status": "browser",
-  "favicon_path": "assets/유통_커머스/ssg/favicon.ico",
-  "favicon_source_url": "https://sui.ssgcdn.com/ui/common/img/ssg.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.ssg.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/ssg/favicon.ico",
+      "source_url": "https://sui.ssgcdn.com/ui/common/img/ssg.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 82726,
+      "sha256": "29dcde3ee5846f19190a4fe68ad65fe6cf5417cb1779f1fa27bbc0b201a63998",
+      "width": 128,
+      "height": 128
+    }
+  ]
 }

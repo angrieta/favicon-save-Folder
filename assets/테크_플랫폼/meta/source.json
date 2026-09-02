@@ -4,11 +4,30 @@
   "requested_url": "https://about.meta.com/",
   "page_url": "https://www.meta.com/ko-kr/about/",
   "page_title": "Meta 정보 | 소셜 테크놀로지, VR, AR, 혁신",
-  "page_status": "browser",
-  "favicon_path": "assets/테크_플랫폼/meta/favicon.webp",
-  "favicon_source_url": "https://static.xx.fbcdn.net/rsrc.php/yQ/r/0eWKxz9kEoF.webp",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/테크_플랫폼/meta/og.png",
-  "og_source_url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1586020438937751&version=1786986015",
-  "og_source_tag": "og:image"
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 400 Client Error: Bad Request for url: https://www.meta.com/ko-kr/about/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/meta/favicon.webp",
+      "source_url": "https://static.xx.fbcdn.net/rsrc.php/yQ/r/0eWKxz9kEoF.webp",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/webp",
+      "bytes": 1460,
+      "sha256": "2d1ac8a2fd4b90aa0e4be05bfdb634c02404c94c9f5c1923e4be7b89fa36cfe3",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/meta/og.png",
+      "source_url": "https://lookaside.fbsbx.com/elementpath/media/?media_id=1586020438937751&version=1786986015",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 4128692,
+      "sha256": "144cd95a2ad38a3ddd9cd7870561ea800371df27013d09f5e5615bf7f8b3d3e3",
+      "width": 1506,
+      "height": 1892
+    }
+  ]
 }

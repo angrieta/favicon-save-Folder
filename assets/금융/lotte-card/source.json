@@ -4,11 +4,30 @@
   "requested_url": "https://www.lottecard.co.kr/",
   "page_url": "https://www.lottecard.co.kr/",
   "page_title": "롯데카드 개인",
-  "page_status": "browser",
-  "favicon_path": "assets/금융/lotte-card/favicon.ico",
-  "favicon_source_url": "https://image.lottecard.co.kr/webapp/pc/images/favicon/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/금융/lotte-card/og.jpg",
-  "og_source_url": "https://image.lottecard.co.kr/webapp/pc/images/common/lottecard_logo_big.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/lotte-card/favicon.ico",
+      "source_url": "https://image.lottecard.co.kr/webapp/pc/images/favicon/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 173381,
+      "sha256": "420bc9b9c1ccded00c315531fdd99f0d9c4e8aeb62909aa30babfbe6c2c1ff46",
+      "width": 570,
+      "height": 570
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/lotte-card/og.jpg",
+      "source_url": "https://image.lottecard.co.kr/webapp/pc/images/common/lottecard_logo_big.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 76368,
+      "sha256": "477ecc4ea95c3a61b53beccc9700cfcd3ecbb5dfcbbf43c5d0c739674e857e8d",
+      "width": 1200,
+      "height": 627
+    }
+  ]
 }

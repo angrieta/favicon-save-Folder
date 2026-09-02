@@ -4,11 +4,91 @@
   "requested_url": "https://www.rentawreck.com/",
   "page_url": "https://www.rentawreck.com/",
   "page_title": "Cheap Car Rental Deals | Rental Cars from Rent-A-Wreck | 30 Years of Great Cars, Great Service! - Rent-A-Wreck",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/rent-a-wreck/favicon.ico",
-  "favicon_source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/95_favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=478446844418156&ev=PageView &noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/favicon.ico",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/95_favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 1406,
+      "sha256": "89a90b379eddaf0c8654d3313794c750078183ad44ac08a2ff13a5ce76aab5c1",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/logo-1.png",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/24_rentawreck-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div logo div nBar header",
+      "content_type": "image/png",
+      "bytes": 3823,
+      "sha256": "d9802b705020d2fb9c948331d3a2f7e4fcad1a5e572d4fed6e9163f35a84f59c",
+      "width": 190,
+      "height": 44
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-1.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/628644_rentawreck-1.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img li bannerli ul bxslider div banner body",
+      "content_type": "image/webp",
+      "bytes": 82876,
+      "sha256": "e3a5782dcd858001b5da6fd3b890aa68f07e3f242208d74b94721bf65d8065ac",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-2.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/25_convertible-car.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img li bannerli ul bxslider div banner body",
+      "content_type": "image/webp",
+      "bytes": 96018,
+      "sha256": "47d64850e04261eaad0720a997da720633d391cf3b17a1581e2f761c7e1c8322",
+      "width": 1280,
+      "height": 650
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/reference-1.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/628645_rentawreck2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img li bannerli ul bxslider div banner body",
+      "content_type": "image/webp",
+      "bytes": 101186,
+      "sha256": "81d89424145a5403a4371fa0910f890d0c8fc9b8f5ab8ddee62f062899d42cf7",
+      "width": 1280,
+      "height": 848
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/reference-2.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/28_happy-customer.jpg",
+      "source_tag": "img:page-image",
+      "context": "img li bannerli ul bxslider div banner body",
+      "content_type": "image/webp",
+      "bytes": 79906,
+      "sha256": "6c40858b222dd97a647f5735fcc9973f876737145a5c5500c2ad9ac18da564d6",
+      "width": 1280,
+      "height": 650
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/reference-3.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/453_play-store.png",
+      "source_tag": "img:page-image",
+      "context": "img a androidLink div appStoreLinks div wrapper footer",
+      "content_type": "image/webp",
+      "bytes": 7340,
+      "sha256": "3ac5c186502340b21a8ec214022e98ba11fa9fad1a321e1adea0b71333a7764a",
+      "width": 646,
+      "height": 250
+    }
+  ]
 }

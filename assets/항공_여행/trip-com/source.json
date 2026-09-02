@@ -4,11 +4,78 @@
   "requested_url": "https://kr.trip.com/",
   "page_url": "https://kr.trip.com/",
   "page_title": "호텔, 항공권, 렌터카, 투어&티켓 예약은 트립닷컴 | Trip.com",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/trip-com/favicon.png",
-  "favicon_source_url": "https://kr.trip.com/favicon64.png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/항공_여행/trip-com/og.avif",
-  "og_source_url": "https://ak-d.tripcdn.com/images/05E1412000cmevvp5D2FE.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://ak-s-cw.tripcdn.com/locale/v3/33000010/ko-KR.js?etagc=d31b5d0e8da0c02c2cf22a3249e9fe81; reference:ValueError:https://ak-s-cw.tripcdn.com/locale/v3/330151/ko-KR.js?etagc=280ef86ab52a548db1cc06f88f255b8e; reference:ValueError:https://ak-s-cw.tripcdn.com/locale/v3/33000001/ko-KR.js?etagc=16b40753e02aa883acd8faa442a44e1e; reference:ValueError:https://ak-s-cw.tripcdn.com/locale/v3/100014416/ko-KR.js?etagc=d7953069abb54d3e8d3183c17a149dc5; reference:ValueError:https://ak-s-cw.tripcdn.com/locale/v3/330153/ko-KR.js?etagc=79a5df1e97e32a7456fc091e060865ee; reference:ValueError:https://ak-s-cw.tripcdn.com/locale/v3/33000006/ko-KR.js?etagc=a9b6c8a4c1ad453362a0a39fe6b98de8",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/trip-com/favicon.png",
+      "source_url": "https://kr.trip.com/favicon64.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 764,
+      "sha256": "49ac7895e24baec5c896a04f32ef6a6a2372fd538a5730eebaa70c8baa500cb1",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/trip-com/og.avif",
+      "source_url": "https://ak-d.tripcdn.com/images/05E1412000cmevvp5D2FE.png",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 2499,
+      "sha256": "fbe0bad4c4065320389e3c97b5173ae609e4764600fb7636ed321e6208c3a00b",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/trip-com/logo-1.png",
+      "source_url": "https://dimg04.tripcdn.com/images/05E5012000rqtcwsyC749.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 25846,
+      "sha256": "cf30b587d6a28580693b32f6eba9f400356501c513a694ca5ba8e5c69ee4e361",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/trip-com/reference-1.webp",
+      "source_url": "https://dimg04.tripcdn.com/images/0a14312000tkh2ak4C9EA.png",
+      "source_tag": "img:page-image",
+      "context": "img online-advertize-item-image 항공+호텔 포함 9.9만원~ 트립찬스! a online-advertize-item-link online-advertize-item-link-ONLINE_HOMEPAGE_TOPDEALS 항공+호텔 포함 9.9만원~ 트립찬스! div online-advertize-primary-item div deals online-advertize-primary div online-adv",
+      "content_type": "image/webp",
+      "bytes": 44048,
+      "sha256": "817678feb6f12fa2749a4654a4cc2830a8ddf2a8238494cbca95cd54733932dd",
+      "width": 1536,
+      "height": 376
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/trip-com/reference-2.webp",
+      "source_url": "https://dimg04.tripcdn.com/images/05E3f12000lo6txgqF88C.webp",
+      "source_tag": "link:preload",
+      "context": "preload image  https://dimg04.tripcdn.com/images/05E3f12000lo6txgqF88C.webp",
+      "content_type": "image/webp",
+      "bytes": 59788,
+      "sha256": "ac3d6adc0b052dcbb828f9c12d6a0daa405bd13d59ab08fa7446d4cea0f566cd",
+      "width": 1800,
+      "height": 1181
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/trip-com/reference-3.webp",
+      "source_url": "https://dimg04.tripcdn.com/images/05E2s12000lo6uvu944DD.webp",
+      "source_tag": "link:preload",
+      "context": "preload image  https://dimg04.tripcdn.com/images/05E2s12000lo6uvu944DD.webp",
+      "content_type": "image/webp",
+      "bytes": 50858,
+      "sha256": "54ec729a6f91810a70bb0f9b4ddee3f5fad252c081a12787c436eccb863538c6",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
 }

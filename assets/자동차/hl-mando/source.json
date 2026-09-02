@@ -4,11 +4,79 @@
   "requested_url": "https://www.hlmando.com/",
   "page_url": "https://www.hlmando.com/ko/main.do",
   "page_title": "HL Mando 공식 웹사이트",
-  "page_status": "browser",
-  "favicon_path": "assets/자동차/hl-mando/favicon.png",
-  "favicon_source_url": "https://www.hlmando.com/kr/images/layout/apple-icon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.hlmando.com/kr/video/main/main_visual_230926.mp4; banner:ValueError:https://www.hlmando.com/kr/video/main/main_visual_230926_mo.mp4; reference:ValueError:https://www.hlmando.com/kr/video/main/main_visual_230926.mp4; reference:ValueError:https://www.hlmando.com/kr/video/main/main_visual_230926_mo.mp4; reference:ValueError:https://www.hlmando.com/kr/images/main/photo_dl_self_driving.gif",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/hl-mando/favicon.png",
+      "source_url": "https://www.hlmando.com/kr/images/layout/apple-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4038,
+      "sha256": "96b153b1e166e6bbc9cdce3024143d2ac659cdf4d3205b277d3696517c8224c1",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/hl-mando/banner-1.webp",
+      "source_url": "https://www.hlmando.com/upload/mando/news/1779335856041.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg_visual pc background-image:url(/upload/mando/news/1779335856041.jpg);",
+      "content_type": "image/webp",
+      "bytes": 119974,
+      "sha256": "0cf94d49968dcd4bac131b4104cd4f59aeecd4fcbf59b57ff21e598174af6d90",
+      "width": 1200,
+      "height": 781
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/hl-mando/banner-2.webp",
+      "source_url": "https://www.hlmando.com/upload/mando/news/1779071842533.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg_visual pc background-image:url(/upload/mando/news/1779071842533.jpg);",
+      "content_type": "image/webp",
+      "bytes": 253968,
+      "sha256": "06cca4ab36a349447a64aca1df51e807f723745cb33d81f059fb324c72b84108",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hl-mando/reference-1.webp",
+      "source_url": "https://www.hlmando.com/upload/mando/news/1780972508788.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg_visual pc background-image:url(/upload/mando/news/1780972508788.jpg);",
+      "content_type": "image/webp",
+      "bytes": 44304,
+      "sha256": "e643bb62337ec7656a22ba38a41f36d74d8687f2586bf1cbd9d4405d71b2e8c3",
+      "width": 620,
+      "height": 413
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hl-mando/reference-2.webp",
+      "source_url": "https://www.hlmando.com/kr/images/main/photo_dl_greener.gif",
+      "source_tag": "img:page-image",
+      "context": "img Greener div photo figure li ul dl_list",
+      "content_type": "image/webp",
+      "bytes": 37898,
+      "sha256": "b674f5615e1a6bd7f0c74adf2990441f0d850c5a0cf8f37d11a96b9df8770e0e",
+      "width": 768,
+      "height": 432
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hl-mando/reference-3.svg",
+      "source_url": "https://www.hlmando.com/kr/images/main/txt_our_creation_pc.svg",
+      "source_tag": "img:page-image",
+      "context": "img pc Our vision is your freedom. In our creation, your tomorrow will be safer, greener and easier. div message section our_creation content div cev_wrap div main_contents",
+      "content_type": "image/svg+xml",
+      "bytes": 28197,
+      "sha256": "0059bdd8f65e9a812b2a9bde1122900f50a4cabc51235d631f39770ace2621e8",
+      "width": 1918,
+      "height": 1080
+    }
+  ]
 }

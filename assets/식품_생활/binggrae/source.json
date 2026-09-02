@@ -4,11 +4,103 @@
   "requested_url": "https://www.bing.co.kr/",
   "page_url": "https://www.bing.co.kr/",
   "page_title": "빙그레",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/binggrae/favicon.ico",
-  "favicon_source_url": "https://www.bing.co.kr/img/main/ico_favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/binggrae/favicon.ico",
+      "source_url": "https://www.bing.co.kr/img/main/ico_favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "f25d4b8c5ad2d383e51a0a7cb8e1b1ccc37706f42a9a1f2506d5561583eb6259",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/binggrae/logo-1.png",
+      "source_url": "https://www.bing.co.kr/img/main/logo-pc.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img pc binggrae a h1 header_sec01 logo div header_container flex_center header header header",
+      "content_type": "image/png",
+      "bytes": 5206,
+      "sha256": "6fe97ea80b37118d4016818ae0588d676815d56e0273df44d61d7a1293cd2daa",
+      "width": 144,
+      "height": 35
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/binggrae/logo-2.png",
+      "source_url": "https://www.bing.co.kr/img/main/logo_mo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img mo binggrae a h1 header_sec01 logo div header_container flex_center header header header",
+      "content_type": "image/png",
+      "bytes": 3898,
+      "sha256": "8f64e62232642945dd5746e848b6bc6715d03975f3f4d99e9ef2e928ef1bdaff",
+      "width": 235,
+      "height": 55
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/binggrae/banner-1.webp",
+      "source_url": "https://www.bing.co.kr/img/main/2026/main-slider-3-0803.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  main-slide-video-wrapper background-image: url('/img/main/2026/main-slider-3-0803.jpg'); background-size: cover; background-position: center;",
+      "content_type": "image/webp",
+      "bytes": 79398,
+      "sha256": "0e27106e4519f24779ccf59e2812c8980cbfdc060ce53553367f1cefbbd4005d",
+      "width": 1800,
+      "height": 894
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/binggrae/banner-2.webp",
+      "source_url": "https://www.bing.co.kr/img/main/2026/main-slider-1-260707.png",
+      "source_tag": "inline-background-image",
+      "context": "div thumbnail-box-1 thumbnail-box desktop background-image:url(/img/main/2026/main-slider-1-260707.png);",
+      "content_type": "image/webp",
+      "bytes": 85596,
+      "sha256": "0203fb4592b9d67777bd45a2dff1c65788c85bc7794d53148f22077cb35e2418",
+      "width": 1800,
+      "height": 894
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/binggrae/reference-1.webp",
+      "source_url": "https://www.bing.co.kr/img/main/2026/main-slider-1-v3-mobile-260707.png",
+      "source_tag": "inline-background-image",
+      "context": "div thumbnail-box-1-mobile thumbnail-box mobile background-image:url(/img/main/2026/main-slider-1-v3-mobile-260707.png);",
+      "content_type": "image/webp",
+      "bytes": 96068,
+      "sha256": "91be6a3d9b708456a0ee22a8abbeb245eb27bf26330a57c49c928d1ef9b2c75a",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/binggrae/reference-2.webp",
+      "source_url": "https://www.bing.co.kr/img/main/2026/main-slider-2-v2.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div thumbnail-box-2 thumbnail-box desktop background-image:url(/img/main/2026/main-slider-2-v2.jpg);",
+      "content_type": "image/webp",
+      "bytes": 142342,
+      "sha256": "f5d59c46153f647a14772d293d916e5d2b90d1674155f44fae7937ca7ddfb946",
+      "width": 1800,
+      "height": 895
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/binggrae/reference-3.webp",
+      "source_url": "https://www.bing.co.kr/img/main/2026/worldmap.png",
+      "source_tag": "img:page-image",
+      "context": "img Binggrae World Map div binggrae-world-map div section div main_container div",
+      "content_type": "image/webp",
+      "bytes": 98536,
+      "sha256": "7a963392018261b5ad7978eeef920ce7db2c2ca42b65e27ddc00c3d20a6490a8",
+      "width": 1800,
+      "height": 855
+    }
+  ]
 }

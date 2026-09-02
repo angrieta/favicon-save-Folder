@@ -4,11 +4,42 @@
   "requested_url": "https://www.ybtour.co.kr/",
   "page_url": "https://www.ybtour.co.kr/",
   "page_title": "여행을 가볍게! 노랑풍선",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/yellow-balloon/favicon.ico",
-  "favicon_source_url": "https://www.ybtour.co.kr/assets/common/favicon/ico_yb.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/항공_여행/yellow-balloon/og.jpg",
-  "og_source_url": "https://dimgcdn.ybtour.co.kr/TN/e1/e1796d23bb2c6a0eb7801f3852976fdf.tn.410x280.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.ybtour.co.kr/_next/static/chunks/2apte_v-b1xu2.js; reference:ValueError:https://d3se5puqgh0zws.cloudfront.net/js/companySite/klc-pip-player.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/yellow-balloon/favicon.ico",
+      "source_url": "https://www.ybtour.co.kr/assets/common/favicon/ico_yb.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 101002,
+      "sha256": "5abcdb51fc33c317eb1828ecfbe15cd59e171e4b3f2f82d933db7ebc3e0f8192",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/yellow-balloon/og.jpg",
+      "source_url": "https://dimgcdn.ybtour.co.kr/TN/e1/e1796d23bb2c6a0eb7801f3852976fdf.tn.410x280.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 118269,
+      "sha256": "3a7c9ea0a011191de128e074b7e0836d2aede33c25f6c0f1038a302ec8342e57",
+      "width": 410,
+      "height": 280
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/yellow-balloon/logo-1.png",
+      "source_url": "https://cimgcdn.ybtour.co.kr/common/logo/logo_ev.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 노랑풍선 a h1 div div top-nav-wrap",
+      "content_type": "image/png",
+      "bytes": 2685,
+      "sha256": "e5e74b3c2beb12e93a16e1af0ff9b20911c9d4bd8d6dde5961bb5ff1dfed4b3d",
+      "width": 165,
+      "height": 44
+    }
+  ]
 }

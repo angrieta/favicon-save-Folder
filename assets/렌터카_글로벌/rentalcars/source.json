@@ -4,11 +4,55 @@
   "requested_url": "https://www.rentalcars.com/",
   "page_url": "https://www.rentalcars.com/",
   "page_title": "저렴한 가격 렌트카, 비교 렌터카 가격 - Rentalcars.com",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/rentalcars/favicon.png",
-  "favicon_source_url": "https://cdn2.rcstatic.com/images/rclogo/blue/logomark-rclogo_32x32.png",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/rentalcars/favicon.png",
+      "source_url": "https://cdn2.rcstatic.com/images/rclogo/blue/logomark-rclogo_32x32.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1768,
+      "sha256": "d2aaf3cf2984cfbb5547b4e6a6b4773cadf6be7ac64571d8c20c5af6599ec887",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/rentalcars/logo-1.svg",
+      "source_url": "https://cdn.rcstatic.com/images/site_graphics/newsite/mobile/logos/rc-logo-small--white.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture rc_header_footer_mfe_b2529bfa header-logo_rentalcars div rc_header_footer_mfe_e2d1d800 rc_header_footer_mfe_aebe81db rc_header_footer_mfe_c3140a31 rc_header_footer_mfe_ecb5351b header-logo a rc_header_footer_mfe_ba204088 div rc_head",
+      "content_type": "image/svg+xml",
+      "bytes": 6045,
+      "sha256": "714e01527f6eccaa2b2ca18db2751886168216448c69fa56d0736c5ffc84c761",
+      "width": 156,
+      "height": 21
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/rentalcars/logo-2.svg",
+      "source_url": "https://t-cf.bstatic.com/design-assets/assets/v3.155.0/images-brand/BookingComLogoDarkBackgroundsMono.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture rc_header_footer_mfe_b2529bfa header-logo_booking div rc_header_footer_mfe_e2d1d800 rc_header_footer_mfe_aebe81db rc_header_footer_mfe_c3140a31 rc_header_footer_mfe_ecb5351b header-logo a rc_header_footer_mfe_ba204088 div rc_header_",
+      "content_type": "image/svg+xml",
+      "bytes": 8464,
+      "sha256": "754da64c4a7344dc24cfd8a781b834e9c2251b8c0bd218c3b582f745e56f44e1",
+      "width": 180,
+      "height": 30
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rentalcars/banner-1.webp",
+      "source_url": "https://cars-web-ccj.bstatic.com/psb/images/landing-pages/home/background-large.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  webshell lpc-hero-container lp-u-mb-largest background-image: url(https://cars-web-ccj.bstatic.com/psb/images/landing-pages/home/background-large.jpg);",
+      "content_type": "image/webp",
+      "bytes": 102816,
+      "sha256": "cc3a91b52acf1f6945a6c74d5bce0ce0cf7fefc6ff11dc6d1a53debe72cae97d",
+      "width": 1800,
+      "height": 745
+    }
+  ]
 }

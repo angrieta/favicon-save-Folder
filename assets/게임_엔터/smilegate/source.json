@@ -4,11 +4,114 @@
   "requested_url": "https://www.smilegate.com/",
   "page_url": "https://www.smilegate.com/ko/",
   "page_title": "Main | Smilegate",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/smilegate/favicon.ico",
-  "favicon_source_url": "https://www.smilegate.com/assets/img/common/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/게임_엔터/smilegate/og.png",
-  "og_source_url": "https://www.smilegate.com/assets/img/metatag.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/smilegate/favicon.ico",
+      "source_url": "https://www.smilegate.com/assets/img/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "f1c1d589a0d420a63b732764c8cab53078ff256dd10293bea8e4328a8e8350fe",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/smilegate/og.png",
+      "source_url": "https://www.smilegate.com/assets/img/metatag.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 26949,
+      "sha256": "a76be66b5503af62320ecd23ba7fac960cbdba48296ffc9b51f0ca2a161af883",
+      "width": 1200,
+      "height": 631
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/smilegate/logo-1.png",
+      "source_url": "https://www.smilegate.com/assets/img/common/logo_white.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo w a 스마일게이트 홈, 로고 h1 header body target",
+      "content_type": "image/png",
+      "bytes": 6809,
+      "sha256": "bac4d4dd7376d7c7a207200c6a6eb2e7ae2e5e9e2180857f69adaa8b45423705",
+      "width": 653,
+      "height": 137
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/smilegate/logo-2.png",
+      "source_url": "https://www.smilegate.com/assets/img/common/logo_black.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo b a 스마일게이트 홈, 로고 h1 header body target",
+      "content_type": "image/png",
+      "bytes": 7369,
+      "sha256": "11c35ef99413a8a0b4a7fe843f38a00b40ba097913efca41feec218674e66fd2",
+      "width": 653,
+      "height": 137
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/smilegate/banner-1.webp",
+      "source_url": "https://www.smilegate.com/cmsdata/main/newsroom/20260825/cbd5a1ed-4d0d-40ec-ac24-b8bd6298e22c.png",
+      "source_tag": "inline-background-image",
+      "context": "div  img background-image: url(https://www.smilegate.com/cmsdata/main/newsroom/20260825/cbd5a1ed-4d0d-40ec-ac24-b8bd6298e22c.png);",
+      "content_type": "image/webp",
+      "bytes": 82084,
+      "sha256": "a86eddf37545f61644e37743fbedf501810b374be218b32e53e3df2f36793a11",
+      "width": 853,
+      "height": 640
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/smilegate/banner-2.webp",
+      "source_url": "https://www.smilegate.com/cmsdata/main/newsroom/20260818/bc35a30a-fbdd-4543-892e-b81d1716c44b.png",
+      "source_tag": "inline-background-image",
+      "context": "div  img background-image: url(https://www.smilegate.com/cmsdata/main/newsroom/20260818/bc35a30a-fbdd-4543-892e-b81d1716c44b.png);",
+      "content_type": "image/webp",
+      "bytes": 52076,
+      "sha256": "e2df59516a282cc1e59771e729c338b986a678a3417e3fa25c1209d33539416e",
+      "width": 960,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/smilegate/reference-1.webp",
+      "source_url": "https://www.smilegate.com/cmsdata/main/gallery/20260806/2e2e534f-d53d-4d6b-80c4-b5b6084ebe19.png",
+      "source_tag": "inline-background-image",
+      "context": "div   background-image: url('https://www.smilegate.com/cmsdata/main/gallery/20260806/2e2e534f-d53d-4d6b-80c4-b5b6084ebe19.png');",
+      "content_type": "image/webp",
+      "bytes": 73926,
+      "sha256": "9a073d05f7b94ee5d4b4a3d77eeceb4fb246db87071dc4fecdfa2bbccfdcc30c",
+      "width": 455,
+      "height": 627
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/smilegate/reference-2.webp",
+      "source_url": "https://www.smilegate.com/cmsdata/main/gallery/20260825/433edf43-1320-440b-acdb-728b7915f6f4.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div   background-image: url('https://www.smilegate.com/cmsdata/main/gallery/20260825/433edf43-1320-440b-acdb-728b7915f6f4.jpg');",
+      "content_type": "image/webp",
+      "bytes": 140612,
+      "sha256": "b38815a91c88447019b0a9641b8cdc33a34ae29d6188f9c2ca39f373c9c24c41",
+      "width": 979,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/smilegate/reference-3.webp",
+      "source_url": "https://www.smilegate.com/cmsdata/main/gallery/20260825/c6d62bc8-258c-4145-b53b-4143e86a8ed2.png",
+      "source_tag": "inline-background-image",
+      "context": "div   background-image: url('https://www.smilegate.com/cmsdata/main/gallery/20260825/c6d62bc8-258c-4145-b53b-4143e86a8ed2.png');",
+      "content_type": "image/webp",
+      "bytes": 39912,
+      "sha256": "103a99118e23b6c8ba8cdf486093524f980f1ff715279e29c59253723a57a82c",
+      "width": 637,
+      "height": 879
+    }
+  ]
 }

@@ -4,11 +4,102 @@
   "requested_url": "https://www.apgroup.com/int/ko/",
   "page_url": "https://www.apgroup.com/int/ko/",
   "page_title": "아모레퍼시픽 - A More Beautiful World",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/amorepacific/favicon.ico",
-  "favicon_source_url": "https://www.apgroup.com/int/ko/resource/images/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/식품_생활/amorepacific/og.jpg",
-  "og_source_url": "https://www.apgroup.com/int/ko/resource/images/about-us/visual-identity/corporate-identity/content/APwordmark.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/amorepacific/favicon.ico",
+      "source_url": "https://www.apgroup.com/int/ko/resource/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 181202,
+      "sha256": "47f5fe16192157772c91a30236ca8234073156ed309390f74be58a2be7d41ca3",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/amorepacific/og.jpg",
+      "source_url": "https://www.apgroup.com/int/ko/resource/images/about-us/visual-identity/corporate-identity/content/APwordmark.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 33754,
+      "sha256": "601229143a77e0d5e4df14fc05c896df70f68d30e44ffb6cd96fc2c77f8c9369",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/amorepacific/logo-1.png",
+      "source_url": "https://www.apgroup.com/int/ko/resource/images/a/amorepacific_s.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-img 아모레퍼시픽 a logo-a h1 logo div sidenav-pad nav sidenav sidenav",
+      "content_type": "image/png",
+      "bytes": 4127,
+      "sha256": "c2db5da4e3c133ce1e849ad8dca7319f7844794749a648e39eac16973787c44a",
+      "width": 300,
+      "height": 30
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/amorepacific/logo-2.png",
+      "source_url": "https://www.apgroup.com/int/ko/brands/__icsFiles/afieldfile/2025/05/19/140x28.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 설화수 span div logo div slide div slider-four",
+      "content_type": "image/png",
+      "bytes": 3272,
+      "sha256": "132fc6bf94dfa490738d3799aed97c52ca4ab1458c5f2f928e44f8d5450b3ed7",
+      "width": 140,
+      "height": 28
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/amorepacific/banner-1.webp",
+      "source_url": "https://www.apgroup.com/int/ko/resource/images/main/main_slide/content/architecture_bg1.jpg",
+      "source_tag": "style-background-image",
+      "context": "ize: cover; height: 455px; position: absolute; left: 0; top: 0; width: 100%; background-repeat:no-repeat; z-index:-1; }\r\n    .voice_of_amorepacific .slide.one .bg{background-image:url('/int/ko/resource/images/main/main_slide/content/archite",
+      "content_type": "image/webp",
+      "bytes": 72348,
+      "sha256": "57f979452ffdb8a343ea4db36a0c542ebb2e99070c7fed7b8ea32a462f18cb2d",
+      "width": 1800,
+      "height": 427
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/amorepacific/reference-1.webp",
+      "source_url": "https://www.apgroup.com/int/ko/brands/__icsFiles/afieldfile/2025/05/19/1036x1036.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div thum div slide div slider-four section main_brands",
+      "content_type": "image/webp",
+      "bytes": 35970,
+      "sha256": "1396016574506f73aae7dc5ec52969ac38f6025ff4ae2b59c5f7557658c3a5cb",
+      "width": 1036,
+      "height": 1036
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/amorepacific/reference-2.webp",
+      "source_url": "https://www.apgroup.com/int/ko/brands/__icsFiles/afieldfile/2024/12/04/1036x1036.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div thum div slide div slider-four section main_brands",
+      "content_type": "image/webp",
+      "bytes": 27740,
+      "sha256": "d4c36d502095e4a12cbf2353ee5301f638530b662ddd447f07c4129b9ea475d8",
+      "width": 1036,
+      "height": 1036
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/amorepacific/reference-3.webp",
+      "source_url": "https://www.apgroup.com/int/ko/brands/__icsFiles/afieldfile/2023/03/08/1036x1036.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div thum div slide div slider-four section main_brands",
+      "content_type": "image/webp",
+      "bytes": 295410,
+      "sha256": "d982b5eedc1089a7a29ad9c5c320b3970a6a91b87d6323e440d6a6af6f41452f",
+      "width": 1036,
+      "height": 1036
+    }
+  ]
 }

@@ -4,11 +4,102 @@
   "requested_url": "https://www.kumhotire.com/ko/",
   "page_url": "https://www.kumhotire.com/ko/",
   "page_title": "금호타이어 | Your Smart Mobility Partner",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/kumho-tire/favicon.png",
-  "favicon_source_url": "https://www.kumhotire.com/resources/images/favicon.png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/자동차/kumho-tire/og.jpg",
-  "og_source_url": "https://www.kumhotire.com/resources/images/common/sns_kumho_tire.jpg?v=20240429",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.kumhotire.com/upload/video/1773725646149_7497244656999636333.mp4; reference:ValueError:https://www.kumhotire.com/upload/video/1773725646149_7497244656999636333.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/kumho-tire/favicon.png",
+      "source_url": "https://www.kumhotire.com/resources/images/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1618,
+      "sha256": "16d6ba721e6a70cb912bbeebc7ccbdfaeb363278c1dad52e00911a1effcbb35a",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/kumho-tire/og.jpg",
+      "source_url": "https://www.kumhotire.com/resources/images/common/sns_kumho_tire.jpg?v=20240429",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 17225,
+      "sha256": "68e5400ed1ef091bab705373e7cfb59d748bf6b098a862f127ee991b66a1c69c",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/kumho-tire/logo-1.webp",
+      "source_url": "https://www.kumhotire.com/resources/kor_images/brand/01gallery-thoro_roro/ch-thoro-1.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img thoro div imgfull div bxslider-wrapper div gallery_center div gallery_view js-gallery_view-thoro",
+      "content_type": "image/webp",
+      "bytes": 24158,
+      "sha256": "ff08d2ea531277eaaa4b0bede9fb8d421bf35770624eab6863f25d833bf6cafd",
+      "width": 855,
+      "height": 481
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/kumho-tire/logo-2.webp",
+      "source_url": "https://www.kumhotire.com/resources/kor_images/brand/01gallery-thoro_roro/ch-thoro-2.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img thoro div imgfull div bxslider-wrapper div gallery_center div gallery_view js-gallery_view-thoro",
+      "content_type": "image/webp",
+      "bytes": 17302,
+      "sha256": "65d8b6ba7076628ef3e1280359723f92942e86456265f89f799963477f23ba2a",
+      "width": 855,
+      "height": 481
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/kumho-tire/banner-1.webp",
+      "source_url": "https://www.kumhotire.com/resources/kor_images/brand/02gallery-cgv/01_2026_CGV_01.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a imgfull toVideo div js-popup_campaign_video campaign_video section section div popup-layer option",
+      "content_type": "image/webp",
+      "bytes": 63946,
+      "sha256": "dc9f16119b9b49a2301144aed42b2afd8f92561df2a029fb92281c4515ff853c",
+      "width": 854,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/kumho-tire/reference-1.webp",
+      "source_url": "https://www.kumhotire.com/imgViewer.do?fileName=1788323939974_720525932188828549.jpg&appendPath=/popup",
+      "source_tag": "img:page-image",
+      "context": "img 카드 샘플 a popuplink div full-img section section div popup-layer alert_default",
+      "content_type": "image/webp",
+      "bytes": 28260,
+      "sha256": "c46322f2aba67779611449c755beb973931eedaf34dae31eb8c152383a96129f",
+      "width": 450,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/kumho-tire/reference-2.webp",
+      "source_url": "https://www.kumhotire.com/imgViewer.do?fileName=1786687543965_2048073430165757686.png&appendPath=/popup",
+      "source_tag": "img:page-image",
+      "context": "img 카드 샘플 a popuplink div full-img section section div popup-layer alert_default",
+      "content_type": "image/webp",
+      "bytes": 49526,
+      "sha256": "54db5a3e1528127cf319b0dd24233848d44d4051ceb172e41c0e2328e3188af8",
+      "width": 450,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/kumho-tire/reference-3.webp",
+      "source_url": "https://www.kumhotire.com/imgViewer.do?fileName=1786682905428_2827829932879068478.png&appendPath=/popup",
+      "source_tag": "img:page-image",
+      "context": "img 카드 샘플 a popuplink div full-img section section div popup-layer alert_default",
+      "content_type": "image/webp",
+      "bytes": 28914,
+      "sha256": "917af7368e3bad3f2a8e4fa844f6ba31d9854011b8eb388aa1714f7e1b22dccf",
+      "width": 450,
+      "height": 450
+    }
+  ]
 }

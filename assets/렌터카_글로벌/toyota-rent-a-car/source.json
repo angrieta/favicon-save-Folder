@@ -4,11 +4,54 @@
   "requested_url": "https://rent.toyota.co.jp/",
   "page_url": "https://rent.toyota.co.jp/",
   "page_title": "レンタカーならトヨタレンタカー【公式】",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/toyota-rent-a-car/favicon.ico",
-  "favicon_source_url": "https://rent.toyota.co.jp/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/렌터카_글로벌/toyota-rent-a-car/og.gif",
-  "og_source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/ogp.gif",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/favicon.ico",
+      "source_url": "https://rent.toyota.co.jp/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "bf633f5c3bbe21d4a4cde51a6b8de0520b20e10e7f2953529efbb92608fcd3b7",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/og.gif",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/ogp.gif",
+      "source_tag": "og:image",
+      "content_type": "image/gif",
+      "bytes": 10750,
+      "sha256": "845060fcfc9c8878651696b8c943ff709019cee5d82376325a0a9fba6f948695",
+      "width": 468,
+      "height": 468
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/logo-1.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/common/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img トヨタレンタカー　トヨタレンタカーWebサイト a div logo_box div bottom_left div header_bottom_in",
+      "content_type": "image/webp",
+      "bytes": 3838,
+      "sha256": "646d3b643fcd505b9c96b47c87751169cfa5b6c48a3af45f39fcad2028219451",
+      "width": 257,
+      "height": 28
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/logo-2.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/common/img_logo_appBnr.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div app_bnr_logo div app_bnr_in div app_bnr main",
+      "content_type": "image/webp",
+      "bytes": 2084,
+      "sha256": "505f74337c09acb80d6809753fc9b556bfbea07cd00c337cf96587db8271fa29",
+      "width": 82,
+      "height": 83
+    }
+  ]
 }

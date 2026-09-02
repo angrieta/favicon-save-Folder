@@ -4,11 +4,30 @@
   "requested_url": "https://www.twayair.com/",
   "page_url": "https://www.twayair.com/",
   "page_title": "티웨이항공 | T'way Air",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/tway-air/favicon.ico",
-  "favicon_source_url": "https://www.twayair.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/항공_여행/tway-air/og.png",
-  "og_source_url": "https://contents-image.twayair.com/mobile/images/common/twayair.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/tway-air/favicon.ico",
+      "source_url": "https://www.twayair.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "80f9bb97178b18ab2e35d20010ceed1db0fc87e4d22dbfba44409009049cd3d6",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/tway-air/og.png",
+      "source_url": "https://contents-image.twayair.com/mobile/images/common/twayair.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 468417,
+      "sha256": "64e852d6551caafe318f68919f9d3d1bc2c799e9ed3b21b27069756c32582e4e",
+      "width": 800,
+      "height": 400
+    }
+  ]
 }

@@ -4,11 +4,31 @@
   "requested_url": "https://www.microsoft.com/ko-kr/",
   "page_url": "https://www.microsoft.com/ko-kr/",
   "page_title": "Your request has been blocked. This could be\n                        due to several reasons.",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/microsoft/favicon.ico",
-  "favicon_source_url": "https://www.microsoft.com/favicon.ico?v2",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/microsoft/favicon.ico",
+      "source_url": "https://www.microsoft.com/favicon.ico?v2",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 17174,
+      "sha256": "90cdaf487716184e4034000935c605d1633926d348116d198f355a98b8c6cd21",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/microsoft/logo-1.png",
+      "source_url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/logo/MSFT-Microsoft-sticky-logo-RE1Mu3b.png?ver=5c31",
+      "source_tag": "img:semantic-logo",
+      "context": "img c-image a uhfLogo c-logo c-sgl-stk-uhfLogo Microsoft div c-uhfh-gcontainer-st div theme-light js-global-head f-closed global-head-cont header c-uhfh context-uhf no-js c-sgl-stck",
+      "content_type": "image/png",
+      "bytes": 3119,
+      "sha256": "f671cc81917f4d47be98d4246983e3b1dfa2a1ebfb48a8562c394bfa0aa0f30e",
+      "width": 216,
+      "height": 46
+    }
+  ]
 }

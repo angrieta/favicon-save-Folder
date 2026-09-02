@@ -4,11 +4,102 @@
   "requested_url": "https://www.ygfamily.com/",
   "page_url": "https://ygfamily.com/ko/main",
   "page_title": "YG Entertainment",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/yg-entertainment/favicon.ico",
-  "favicon_source_url": "https://ygfamily.com/contents/images/2026/01/yg-fa-ko.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/게임_엔터/yg-entertainment/og.jpg",
-  "og_source_url": "https://ygfamily.com/contents/images/2026/01/yg-og-ko.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/yg-entertainment/favicon.ico",
+      "source_url": "https://ygfamily.com/contents/images/2026/01/yg-fa-ko.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "application/octet-stream",
+      "bytes": 4286,
+      "sha256": "4509014073140f89b65332b01e5cece7b6f5f12fc2e9a8ae75317f66efc71dcd",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/yg-entertainment/og.jpg",
+      "source_url": "https://ygfamily.com/contents/images/2026/01/yg-og-ko.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 36921,
+      "sha256": "74935d36afd5a5a0d08e929f97d8041456bf4f78312b89064004c0d228c9003f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/yg-entertainment/logo-1.svg",
+      "source_url": "https://ygfamily.com/home/assets/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a logo div container empty header div main",
+      "content_type": "image/svg+xml",
+      "bytes": 289,
+      "sha256": "a03cf1a8cb3a4792d3db18262d3aa2fb454682be002e3c39a6d66a36117307f1",
+      "width": 58,
+      "height": 29
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/yg-entertainment/logo-2.svg",
+      "source_url": "https://ygfamily.com/home/assets/images/logo_m.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a logo mo li nav_language ul navbar div nav",
+      "content_type": "image/svg+xml",
+      "bytes": 285,
+      "sha256": "b19e058f8a4e80cd512b76491c5adf5ce63e0974005eb54bb3a70709405d9fc3",
+      "width": 80,
+      "height": 40
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/yg-entertainment/banner-1.webp",
+      "source_url": "https://ygfamily.com/home/assets/images/bottom_bg3.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg background-image: url(/home/assets/images/bottom_bg3.jpg);",
+      "content_type": "image/webp",
+      "bytes": 126398,
+      "sha256": "d86ffe1d30b92ffc55c05dc0bb7de5033b7f2683eeb8937dc408a1d6b6ac447d",
+      "width": 1800,
+      "height": 877
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/yg-entertainment/reference-1.webp",
+      "source_url": "https://ygfamily.com/contents/images/2026/02/main_img%281582x1108%29_2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img div hover-box li ul artist-list",
+      "content_type": "image/webp",
+      "bytes": 176968,
+      "sha256": "68fd193bfd06fc2759ea324fba4132b4f94b7b970cde0ffb0e6c959555968e60",
+      "width": 1582,
+      "height": 1108
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/yg-entertainment/reference-2.webp",
+      "source_url": "https://ygfamily.com/contents/images/2026/06/main_img%281582x1108%29.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img div hover-box li ul artist-list",
+      "content_type": "image/webp",
+      "bytes": 267118,
+      "sha256": "b8d2d8aab912446e9a7823be92d3ca5a3ee0ec7022b035da122a86d024ba0481",
+      "width": 1582,
+      "height": 1108
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/yg-entertainment/reference-3.webp",
+      "source_url": "https://ygfamily.com/contents/images/2026/06/main1582_1108.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img div hover-box li ul artist-list",
+      "content_type": "image/webp",
+      "bytes": 467536,
+      "sha256": "2bc44834294924e250f69fed81580ce7e9d8150463a42521fc4439aa62cf5f98",
+      "width": 1582,
+      "height": 1108
+    }
+  ]
 }

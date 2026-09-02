@@ -4,11 +4,102 @@
   "requested_url": "https://card.kbcard.com/",
   "page_url": "https://card.kbcard.com/CMN/DVIEW/HOAMCXPRIZZC0002",
   "page_title": "국민의 행복생활 파트너 KB국민카드",
-  "page_status": "200",
-  "favicon_path": "assets/금융/kb-card/favicon.ico",
-  "favicon_source_url": "https://img1.kbcard.com/LT/images/common/ico/kb.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/금융/kb-card/og.jpg",
-  "og_source_url": "https://card.kbcard.com/CMN/images/og-kbcard.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/kb-card/favicon.ico",
+      "source_url": "https://img1.kbcard.com/LT/images/common/ico/kb.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "66a81417ab8b275f80484257a8f1f131edd99e98eb9c3bc41ab76c7c93384d21",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/kb-card/og.jpg",
+      "source_url": "https://card.kbcard.com/CMN/images/og-kbcard.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 33751,
+      "sha256": "4d9aaa9b77a56809ac3501655e4e43dd859320d2e16f1f99d36ec7e2a5b31194",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/kb-card/logo-1.png",
+      "source_url": "https://card.kbcard.com/CMN/images/kb-kookmin-card-official-logo.png",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 27252,
+      "sha256": "89a12da9777f5db76d4a5f7505579cb48844540ed61a4e860a2ef827d242af71",
+      "width": 588,
+      "height": 588
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/kb-card/banner-1.webp",
+      "source_url": "https://img1.kbcard.com/ST/img/cxc/event/mgr/banner/mp_260213_allyouneed_bg.png",
+      "source_tag": "inline-background-image",
+      "context": "a  setting-banner__item background-image: url(https://img1.kbcard.com/ST/img/cxc/event/mgr/banner/mp_260213_allyouneed_bg.png), linear-gradient(to right, #fff6df 8%, #ffebb8 100%);",
+      "content_type": "image/webp",
+      "bytes": 10572,
+      "sha256": "df836b999c3ddf6c927d022c59ddd6610232d6f0a3676c57c0ce495e4234816f",
+      "width": 1340,
+      "height": 520
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/kb-card/banner-2.webp",
+      "source_url": "https://img1.kbcard.com/ST/img/cxc/event/mgr/banner/pc-newcarpink-bg-240408.png",
+      "source_tag": "inline-background-image",
+      "context": "a  setting-banner__item background-image:url(https://img1.kbcard.com/ST/img/cxc/event/mgr/banner/pc-newcarpink-bg-240408.png)",
+      "content_type": "image/webp",
+      "bytes": 6876,
+      "sha256": "6ff5fd87045d03e7d75798c6f9940078c9612ddd530912f0a7fc3aefb2cfa3f0",
+      "width": 1344,
+      "height": 524
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/kb-card/reference-1.webp",
+      "source_url": "https://img1.kbcard.com/ST/img/cxc/event/mgr/banner/mp_260825_coupon_bg.png",
+      "source_tag": "inline-background-image",
+      "context": "a  setting-banner__item background-image:url(https://img1.kbcard.com/ST/img/cxc/event/mgr/banner/mp_260825_coupon_bg.png)",
+      "content_type": "image/webp",
+      "bytes": 3030,
+      "sha256": "c91f540a7e9b1f1b145bf8417faeb7fbee6bf0ecd39abcf2fb2dcae5b6289dce",
+      "width": 1340,
+      "height": 520
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/kb-card/reference-2.webp",
+      "source_url": "https://img1.kbcard.com/ST/img/cxc/event/mgr/banner/pc-installmentevt-bg-250107.png",
+      "source_tag": "inline-background-image",
+      "context": "a  setting-banner__item background-image:url(https://img1.kbcard.com/ST/img/cxc/event/mgr/banner/pc-installmentevt-bg-250107.png)",
+      "content_type": "image/webp",
+      "bytes": 2524,
+      "sha256": "301bfbcc0af2fe17200976f2b19c196e95f51203881c6beee071093fc2b2b6a8",
+      "width": 1340,
+      "height": 520
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/kb-card/reference-3.webp",
+      "source_url": "https://img1.kbcard.com/ST/img/cxc/event/mgr/banner/mp_260213_allyouneed_obj2.png",
+      "source_tag": "img:page-image",
+      "context": "img act rtl span setting-banner__img a setting-banner__item div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 7872,
+      "sha256": "a51436b47fabe11d89f4366bc67e77e7efcc5ef22cc9e831eea53a7c35e2fbe2",
+      "width": 478,
+      "height": 407
+    }
+  ]
 }

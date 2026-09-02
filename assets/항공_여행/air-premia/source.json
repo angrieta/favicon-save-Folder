@@ -4,11 +4,115 @@
   "requested_url": "https://www.airpremia.com/",
   "page_url": "https://www.airpremia.com/",
   "page_title": "에어프레미아",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/air-premia/favicon.ico",
-  "favicon_source_url": "https://static.flypremia.com/images/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/항공_여행/air-premia/og.png",
-  "og_source_url": "https://com.airpremiacdn.net/resources/onepoint/images/logo/airpremia_og.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/air-premia/favicon.ico",
+      "source_url": "https://static.flypremia.com/images/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 9662,
+      "sha256": "5184b04de1eca720127babbeedbf8d4fdbf414373facf61daab594310d587879",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/air-premia/og.png",
+      "source_url": "https://com.airpremiacdn.net/resources/onepoint/images/logo/airpremia_og.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 4874,
+      "sha256": "854510001d3a525658f49ea566af67217f72fea86859aac27f721462d180cb43",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/air-premia/og.png",
+      "source_url": "https://static.flypremia.com/images/logo/airpremia_og.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/png",
+      "bytes": 4874,
+      "sha256": "854510001d3a525658f49ea566af67217f72fea86859aac27f721462d180cb43",
+      "width": 1200,
+      "height": 630,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/air-premia/logo-2.png",
+      "source_url": "https://prod-shuka-r2.airpremiacdn.net/prod/shuka/26.32.1/a/images/inflight/class-service/safety_flight_molit_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img molit div hidden h-[170px] w-[126px] flex-shrink-0 flex-col items-center justify-between rounded-xl bg-onInverse1 py-5 text-center shadow-[0px_15.429px_30.857px_0px_rgba(0,_0,_0,_0.12)] lg:flex xl:my-[58px] xl:h-[202px] xl:w-[150px] div",
+      "content_type": "image/png",
+      "bytes": 3660,
+      "sha256": "68f889f308cbdaaecca28d369b9a080252cb2757acca7c5e5d1e093725351f4c",
+      "width": 168,
+      "height": 45
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/air-premia/banner-1.webp",
+      "source_url": "https://strapi.airpremiacdn.net/resources/1_MO_KO_e98d4931ce.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover hero-banner-1 picture div relative h-[340px] w-[599px] cursor-pointer md:h-[520px] md:w-[1440px] div relative flex h-full w-full items-center justify-center div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 59106,
+      "sha256": "f78bfe226adf1d6bae9f6bda3d3b5e58ceedce28d347c32af5a4aa9fff27f05a",
+      "width": 1198,
+      "height": 680
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/air-premia/banner-2.webp",
+      "source_url": "https://strapi.airpremiacdn.net/resources/1_MO_KO_00b7083814.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover airpremia-features picture div relative h-[340px] w-[599px] cursor-pointer md:h-[520px] md:w-[1440px] div relative flex h-full w-full items-center justify-center a swiper-slide block h-full w-full",
+      "content_type": "image/webp",
+      "bytes": 33118,
+      "sha256": "9460df443bf1046287eae7c08ceeba7d7893c50559c0d2fa539cf569013272a1",
+      "width": 1198,
+      "height": 680
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/air-premia/reference-1.webp",
+      "source_url": "https://strapi.airpremiacdn.net/resources/1_PC_KO_d66081b7b5.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div relative h-[340px] w-[599px] cursor-pointer md:h-[520px] md:w-[1440px] div relative flex h-full w-full items-center justify-center div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 80664,
+      "sha256": "fd1b2b040aadd6fa70cb4490702642246c1276b29d3c1d3be770b05b2e09e810",
+      "width": 1800,
+      "height": 650
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/air-premia/reference-2.webp",
+      "source_url": "https://strapi.airpremiacdn.net/resources/1_PC_KO_FINAL_6d54c2af68.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div relative h-[340px] w-[599px] cursor-pointer md:h-[520px] md:w-[1440px] div relative flex h-full w-full items-center justify-center a swiper-slide block h-full w-full div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 64780,
+      "sha256": "4c8e2c8ac8755df3ae82036cd6c7eda774e44a22493162be95850a453a41afb2",
+      "width": 1800,
+      "height": 650
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/air-premia/reference-3.webp",
+      "source_url": "https://strapi.airpremiacdn.net/resources/2_PC_KO_86e733b1be.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div relative h-[340px] w-[599px] cursor-pointer md:h-[520px] md:w-[1440px] div relative flex h-full w-full items-center justify-center a swiper-slide block h-full w-full div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 99612,
+      "sha256": "22f6e0a97034e0ca3e86a1bad87158f679821b3c2398e02525548fac60a7e981",
+      "width": 1800,
+      "height": 650
+    }
+  ]
 }

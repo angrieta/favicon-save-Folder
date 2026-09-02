@@ -4,11 +4,102 @@
   "requested_url": "https://www.kyobo.com/",
   "page_url": "https://www.kyobo.com/",
   "page_title": "KYOBO-교보생명",
-  "page_status": "200",
-  "favicon_path": "assets/금융/kyobo-life/favicon.ico",
-  "favicon_source_url": "https://resource.kyobo.com/dgt/web/pc/common/img/common/favicon.ico",
-  "favicon_source_tag": "apple-touch-icon-precomposed",
-  "og_path": "assets/금융/kyobo-life/og.png",
-  "og_source_url": "https://www.kyobo.com/dgt/web/common/img/sns/facebook/fa_kyobo.png?date=20221016",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/kyobo-life/favicon.ico",
+      "source_url": "https://resource.kyobo.com/dgt/web/pc/common/img/common/favicon.ico",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 4321,
+      "sha256": "6cbb2f09e216acf57311b1f05cd07721d38637e8ffde2bc55f16b240b7e847be",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/kyobo-life/og.png",
+      "source_url": "https://www.kyobo.com/dgt/web/common/img/sns/facebook/fa_kyobo.png?date=20221016",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 40691,
+      "sha256": "6edb8ab85e677ff4d3d9d15cbdab0dc60bfe48f7107462f5b7845deb62c73332",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/kyobo-life/logo-1.png",
+      "source_url": "https://resource.kyobo.com/dgt/web/pc/common/img/common/ci_kyobo_header.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 7198,
+      "sha256": "d2515b13cfc7c5641e223c2e52499e3acedea98e125534b77cc8185404f8d7c2",
+      "width": 240,
+      "height": 70
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/kyobo-life/banner-1.webp",
+      "source_url": "https://www.kyobo.com/dgt/web/pc/common/img/main/main_visual_kyogam.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img img_banner_old 건강보험도 역시 교보로부터. 자세히 알아보기 a old_main_banner div div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 24932,
+      "sha256": "cc78dac48889b6bf400e6d229568e677fe031ca4a1ddf2017da79d0aa93e90a2",
+      "width": 1120,
+      "height": 476
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/kyobo-life/banner-2.webp",
+      "source_url": "https://www.kyobo.com/dgt/web/pc/common/img/main/main_visual_fp.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img img_banner_new 변화가 필요한 이 순간, 교보생명 FP로 도전해보세요. 자세히 알아보기 img img_banner_old a old_main_banner div div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 36770,
+      "sha256": "caf1e1f6403d873fb7063507cadf5075a1bd8f323c3d3caafd132f27c88df066",
+      "width": 1120,
+      "height": 476
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/kyobo-life/reference-1.webp",
+      "source_url": "https://www.kyobo.com/dgt/web/pc/common/img/temp/img_card01@2x.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img div pic a li ul swiper-wrapper slide list-finance",
+      "content_type": "image/webp",
+      "bytes": 102488,
+      "sha256": "98d1dc9e714aad1f890271b7b59c2452c81c5f0b7ad8c5a6080edbdae827fa63",
+      "width": 800,
+      "height": 491
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/kyobo-life/reference-2.webp",
+      "source_url": "https://www.kyobo.com/dgt/web/pc/common/img/temp/img_card02@2x.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img div pic a li ul swiper-wrapper slide list-finance",
+      "content_type": "image/webp",
+      "bytes": 88232,
+      "sha256": "48e639c485b109473733baf7664f3a42fd60195d567141835e00f5e6cc7ddef8",
+      "width": 800,
+      "height": 491
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/kyobo-life/reference-3.webp",
+      "source_url": "https://www.kyobo.com/dgt/web/pc/common/img/temp/img_card03@2x.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img div pic a li ul swiper-wrapper slide list-finance",
+      "content_type": "image/webp",
+      "bytes": 56610,
+      "sha256": "67d4a0e65987d16fa23fab9396e8fc886d6752a93ee4e498d01a292b3ac71579",
+      "width": 800,
+      "height": 491
+    }
+  ]
 }

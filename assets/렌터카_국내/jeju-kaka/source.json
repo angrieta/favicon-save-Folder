@@ -4,11 +4,32 @@
   "requested_url": "https://www.jejukaka.com/",
   "page_url": "https://www.jejukaka.com/",
   "page_title": "제주카카",
-  "page_status": "browser",
-  "favicon_path": "",
-  "favicon_source_url": "",
-  "favicon_source_tag": "",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-kaka/logo-1.png",
+      "source_url": "https://www.jejukaka.com/theme/basic/img/common/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div logo header header index div subLeft",
+      "content_type": "image/png",
+      "bytes": 4767,
+      "sha256": "2f39ffa7d62c3b174d8498dfa471d21454f329e285165c09edaf4b57a231a336",
+      "width": 199,
+      "height": 54
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-1.webp",
+      "source_url": "https://jejukaka.com/data/editor/2607/1bd182c903ed58a47cd14759add838c6_1784029683_6613.png",
+      "source_tag": "img:page-image",
+      "context": "img 1bd182c903ed58a47cd14759add838c6_1784029683_6613.png 1bd182c903ed58a47cd14759add838c6_1784029683_6613.png a p div hd_pops_con div hd_pops_4 hd_pops pc",
+      "content_type": "image/webp",
+      "bytes": 59500,
+      "sha256": "5351c6efe047783e42a5a3d2a38ef33459c45a322db8fca5bcd3589df922af47",
+      "width": 500,
+      "height": 715
+    }
+  ]
 }

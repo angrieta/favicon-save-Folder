@@ -4,11 +4,19 @@
   "requested_url": "https://flyasiana.com/",
   "page_url": "https://flyasiana.com/",
   "page_title": "ASIANA AIRLINES",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/asiana-airlines/favicon.ico",
-  "favicon_source_url": "https://flyasiana.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://flyasiana.com/C/mobile/image/common/loading_1.gif; reference:HTTPError:https://flyasiana.com/C/mobile/image/common/loading_1.gif",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/asiana-airlines/favicon.ico",
+      "source_url": "https://flyasiana.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 2463,
+      "sha256": "b012aa78edbfa772c22d48c61722a53d2ee389739ef8b15e2ab59210cedce3b6",
+      "width": 24,
+      "height": 24
+    }
+  ]
 }

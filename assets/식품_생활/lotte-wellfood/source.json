@@ -4,11 +4,66 @@
   "requested_url": "https://www.lottewellfood.com/",
   "page_url": "https://www.lottewellfood.com/",
   "page_title": "롯데웰푸드",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/lotte-wellfood/favicon.ico",
-  "favicon_source_url": "https://www.lottewellfood.com/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/식품_생활/lotte-wellfood/og.jpg",
-  "og_source_url": "https://www.lottewellfood.com/images/img_lottewellfood.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/lotte-wellfood/favicon.ico",
+      "source_url": "https://www.lottewellfood.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 10806,
+      "sha256": "2e97b1352280e14640f3c10fc639a9559d86012b551ce4e300702f0d8e52befc",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/lotte-wellfood/og.jpg",
+      "source_url": "https://www.lottewellfood.com/images/img_lottewellfood.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 54502,
+      "sha256": "cc777b7c8fe7fc759351af42191454b29090b129fc99f80d9ce8059bc2ad2cf5",
+      "width": 857,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/lotte-wellfood/reference-1.webp",
+      "source_url": "https://webimage.ldcc.co.kr/upload/conf/upload/2023/04/03/20230403dda6c0327f8a4ae.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  img background: url( https://webimage.ldcc.co.kr/upload/conf/upload/2023/04/03/20230403dda6c0327f8a4ae.jpg) no-repeat 50% 0; background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 79710,
+      "sha256": "bea92444403f510c219451f8ba93eb454eb3bccc501957dba9527e3dc0b8c03f",
+      "width": 750,
+      "height": 1340
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/lotte-wellfood/reference-2.webp",
+      "source_url": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/06/30/20220630212809d82825496.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  img background: url( https://webimage.ldcc.co.kr/upload/conf/upload/2022/06/30/20220630212809d82825496.jpg) no-repeat 50% 0; background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 25312,
+      "sha256": "fdf76132f744f2dd57a8827350490f250a968a4745f97ebaa6ef4bee1ff267fc",
+      "width": 375,
+      "height": 670
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/lotte-wellfood/reference-3.webp",
+      "source_url": "https://webimage.ldcc.co.kr/upload/conf/upload/2022/06/30/20220630ae0ef22cf599464.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  img background: url( https://webimage.ldcc.co.kr/upload/conf/upload/2022/06/30/20220630ae0ef22cf599464.jpg) no-repeat 50% 0; background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 35854,
+      "sha256": "4a2ee093c47b233cb6536a5187ec65c680405110403f59e0b3f575108d8c13a8",
+      "width": 375,
+      "height": 670
+    }
+  ]
 }

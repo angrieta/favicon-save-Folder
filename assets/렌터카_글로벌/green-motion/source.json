@@ -4,11 +4,114 @@
   "requested_url": "https://greenmotion.com/",
   "page_url": "https://greenmotion.com/",
   "page_title": "Car Hire & Van Rental in the UK & Worldwide | Green Motion",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/green-motion/favicon.png",
-  "favicon_source_url": "https://greenmotion.com/images/favicon/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/green-motion/og.jpg",
-  "og_source_url": "https://s3.eu-west-2.amazonaws.com/gm-cms-craft-international-live/uploads/images/default/_1200x630_crop_center-center_82_none/Green-Motion-Car-Rental-Logo-1200x627.jpg?mtime=1629288859",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/green-motion/favicon.png",
+      "source_url": "https://greenmotion.com/images/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6999,
+      "sha256": "0c984675ea6b9a602bf6f470940804efa71068d64264b3053b127067fb41a180",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/green-motion/og.jpg",
+      "source_url": "https://s3.eu-west-2.amazonaws.com/gm-cms-craft-international-live/uploads/images/default/_1200x630_crop_center-center_82_none/Green-Motion-Car-Rental-Logo-1200x627.jpg?mtime=1629288859",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 30360,
+      "sha256": "d505fff9ad027c64e29f329befe4c6fb8531366a3631629d2d81ed33c8cfe6be",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/green-motion/logo-1.svg",
+      "source_url": "https://s3.eu-west-2.amazonaws.com/gm-cms-craft-international-live/uploads/images/default/LOGO-WEB.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Green Motion Car and Van Rental a navbar-brand div container-fluid nav navbar navbar-expand-xl main-nav py-4 order-0 order-xl-1 navbar-light bg-none py-lg-5 header sticky-top bg-white d-flex flex-column",
+      "content_type": "image/svg+xml",
+      "bytes": 11149,
+      "sha256": "20ad3209e845dd49ee89b50753ff941718d6ca3a2581ba57a104d7b1eeb9f7f4",
+      "width": 241,
+      "height": 44
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/green-motion/logo-2.png",
+      "source_url": "https://s3.eu-west-2.amazonaws.com/gm-cms-craft-international-live/uploads/images/default/_600x60_fit_center-center_82_none/173724/Green-Motion-Car-Rental-Logo-1200x627.png?mtime=1629288859",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 2583,
+      "sha256": "16b4b42864bbd39f13fcfbbe2c3b584d91e5bc6741f3cdedee077a41e6de78fd",
+      "width": 115,
+      "height": 60
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/green-motion/banner-1.webp",
+      "source_url": "https://greenmotion.com/imager/s3_eu-west-2_amazonaws_com/gm-cms-craft-international-live/uploads/images/default/banner-opt-1_c8b8496699fdf6003ec5ec683e149523.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture d-flex justify-content-center h-100 w-100 position-absolute section banner-with-booking mb-5 position-relative overflow-hidden div ab-experiment div ab-craft-page div app",
+      "content_type": "image/webp",
+      "bytes": 183166,
+      "sha256": "fa285fdb1aad91e6e5be9788c0172af1d61543a27cbb94086451e5d041523653",
+      "width": 1400,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/green-motion/banner-2.webp",
+      "source_url": "https://greenmotion.com/imager/s3_eu-west-2_amazonaws_com/gm-cms-craft-international-live/uploads/images/default/banner-opt-1_c8b8496699fdf6003ec5ec683e149523.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture d-flex justify-content-center h-100 w-100 position-absolute section banner-with-booking mb-5 position-relative overflow-hidden div ab-experiment div ab-craft-page div app",
+      "content_type": "image/webp",
+      "bytes": 192870,
+      "sha256": "62a8f72e38cccbec63417b93cc717599122b7dece1213dfe9854413d5c057efe",
+      "width": 1400,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/green-motion/reference-1.webp",
+      "source_url": "https://s3.eu-west-2.amazonaws.com/gm-cms-craft-international-live/uploads/images/default/Green-Motion-Car-Rental-Logo-1200x627.jpg",
+      "source_tag": "json-ld.@graph[1].image.url",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 10590,
+      "sha256": "3ec63144b71aa2b089e56bc7617bc1faddfaa73c138dbf0de3f97f1217065af6",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/green-motion/reference-2.svg",
+      "source_url": "https://greenmotion.com/images/header-flags/tr.svg",
+      "source_tag": "img:page-image",
+      "context": "img Türkçe (Türkiye) a dropdown-item li text-capitalize ul dropdown-menu div dropdown-1 dropdown b-dropdown text-capitalize btn-group",
+      "content_type": "image/svg+xml",
+      "bytes": 304,
+      "sha256": "4817c664fdec869bd9b32576fb131065d5ec0276262e5be0a31178352272b206",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/green-motion/reference-3.svg",
+      "source_url": "https://greenmotion.com/images/header-flags/es.svg",
+      "source_tag": "img:page-image",
+      "context": "img español (España) a dropdown-item li text-capitalize ul dropdown-menu div dropdown-1 dropdown b-dropdown text-capitalize btn-group",
+      "content_type": "image/svg+xml",
+      "bytes": 50468,
+      "sha256": "3c820f5ee8eb6a900253b732190b06acba75b2e8c833e2924dd934e32e2965a6",
+      "width": 750,
+      "height": 500
+    }
+  ]
 }

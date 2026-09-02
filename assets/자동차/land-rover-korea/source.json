@@ -4,11 +4,115 @@
   "requested_url": "https://www.landroverkorea.co.kr/",
   "page_url": "https://www.landroverkorea.co.kr/index.html",
   "page_title": "랜드로버 | 궁극의 4x4 및 럭셔리 SUV",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/land-rover-korea/favicon.ico",
-  "favicon_source_url": "https://www.landroverkorea.co.kr/etc.clientlibs/jlr/clientlibs/clientlib-libs/resources/icons/favicon-lrdx.ico",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/자동차/land-rover-korea/og.svg",
-  "og_source_url": "https://www.landroverkorea.co.kr/content/dam/lrdx/logo/lrdx-brand-logo-dark.svg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/land-rover-korea/favicon.ico",
+      "source_url": "https://www.landroverkorea.co.kr/etc.clientlibs/jlr/clientlibs/clientlib-libs/resources/icons/favicon-lrdx.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 140206,
+      "sha256": "83ab7cff77d1720b15223e379c88c5996c35f0060abe3205cfcc967081a6c711",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/land-rover-korea/og.svg",
+      "source_url": "https://www.landroverkorea.co.kr/content/dam/lrdx/logo/lrdx-brand-logo-dark.svg",
+      "source_tag": "og:image",
+      "content_type": "image/svg+xml",
+      "bytes": 4025,
+      "sha256": "6b7b49cfadac56a16a7ba139aff897fba045b9f8e2cb7078b7b353e38296e20f",
+      "width": 227,
+      "height": 119
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/land-rover-korea/og.svg",
+      "source_url": "https://www.landroverkorea.co.kr/content/dam/lrdx/logo/lrdx-brand-logo-dark.svg.res/JLRHASHC1C548E3405B6A6D4E81D098DF34281495954B84/lrdx-brand-logo-dark.svg",
+      "source_tag": "img:semantic-logo",
+      "content_type": "image/svg+xml",
+      "bytes": 4025,
+      "sha256": "6b7b49cfadac56a16a7ba139aff897fba045b9f8e2cb7078b7b353e38296e20f",
+      "width": 227,
+      "height": 119,
+      "context": "img Land Rover logo a dxnav__logo template div dxnav__logo-container-template div landrover",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/land-rover-korea/logo-2.svg",
+      "source_url": "https://www.landroverkorea.co.kr/content/dam/lrdx/logo/Range_Rover_White.svg.res/JLRHASHB01A33DBBB11B67C76D747726D51611F80784E86/Range_Rover_White.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture HouseOfBrandHome__logo div HouseOfBrandHome__overlay-container div HouseOfBrandHome__overlay HouseOfBrandHome__overlay--single-cta a HouseOfBrandHome__single-cta 바로 가기 li HouseOfBrandHome__list-item",
+      "content_type": "image/svg+xml",
+      "bytes": 5723,
+      "sha256": "053aadd5a6c1204ed00a2c9f9970f13d7f48bffa61b4c99303378e9b7196ca95",
+      "width": 1500,
+      "height": 80
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/land-rover-korea/banner-1.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/DX_INTRO_STILL_L460?wid=1500",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture HouseOfBrandHome__picture a HouseOfBrandHome__single-cta 바로 가기 li HouseOfBrandHome__list-item ul HouseOfBrandHome__list section HouseOfBrandHome",
+      "content_type": "image/webp",
+      "bytes": 28878,
+      "sha256": "34db71b38649cd923dd6fe5d34f85cd47e17f7bbc638535d2b344228349ff6e8",
+      "width": 1500,
+      "height": 844
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/land-rover-korea/banner-2.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/DX_INTRO_STILL_L460?wid=1300",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture HouseOfBrandHome__picture a HouseOfBrandHome__single-cta 바로 가기 li HouseOfBrandHome__list-item ul HouseOfBrandHome__list section HouseOfBrandHome",
+      "content_type": "image/webp",
+      "bytes": 24524,
+      "sha256": "d840a6b1ead461fcc8fe4f1b1fa4ba7c7fdc27b36e4c3856a4b1aadc908453ef",
+      "width": 1300,
+      "height": 732
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/land-rover-korea/reference-1.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/DX_INTRO_STILL_L460?wid=720",
+      "source_tag": "picture:page-image",
+      "context": "picture HouseOfBrandHome__picture a HouseOfBrandHome__single-cta 바로 가기 li HouseOfBrandHome__list-item ul HouseOfBrandHome__list section HouseOfBrandHome",
+      "content_type": "image/webp",
+      "bytes": 11458,
+      "sha256": "66a074ae2c1808b14a21a816a4dba92259d59f1563e2b44f904ba39a7c21dd3a",
+      "width": 720,
+      "height": 405
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/land-rover-korea/reference-2.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/DX_INTRO_STILL_L460?wid=560",
+      "source_tag": "picture:page-image",
+      "context": "picture HouseOfBrandHome__picture a HouseOfBrandHome__single-cta 바로 가기 li HouseOfBrandHome__list-item ul HouseOfBrandHome__list section HouseOfBrandHome",
+      "content_type": "image/webp",
+      "bytes": 8460,
+      "sha256": "f13aa07165b97af4298a2dacc2487402d843401b8acab1a34fe76fb8ad1004d5",
+      "width": 560,
+      "height": 315
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/land-rover-korea/reference-3.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/DX_INTRO_STILL_L460",
+      "source_tag": "picture:page-image",
+      "context": "picture HouseOfBrandHome__picture a HouseOfBrandHome__single-cta 바로 가기 li HouseOfBrandHome__list-item ul HouseOfBrandHome__list section HouseOfBrandHome",
+      "content_type": "image/webp",
+      "bytes": 23866,
+      "sha256": "a17e1dae156b8e17b9c3e3318797074d9637b332736979db8751aa1097e391b7",
+      "width": 1280,
+      "height": 720
+    }
+  ]
 }

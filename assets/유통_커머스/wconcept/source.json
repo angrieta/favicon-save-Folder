@@ -4,11 +4,30 @@
   "requested_url": "https://www.wconcept.co.kr/",
   "page_url": "https://display.wconcept.co.kr/rn/women",
   "page_title": "W컨셉(W CONCEPT)",
-  "page_status": "200",
-  "favicon_path": "assets/유통_커머스/wconcept/favicon.png",
-  "favicon_source_url": "https://static.wconcept.co.kr/favicon/apple-icon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/유통_커머스/wconcept/og.png",
-  "og_source_url": "https://static.wconcept.co.kr/favicon/touch-icon-ipad-retina.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=602779483174145&ev=PageView&noscript=1; reference:ValueError:https://wstatic.wconcept.co.kr/newdisplay/prod/198/_next/static/chunks/0hr~1smur4tio.js; reference:ValueError:https://static.wconcept.co.kr/mobile/css/fonts/pretendard/pretendard-subset.css; reference:ValueError:https://www.googletagmanager.com/gtag/js?id=AW-856703668; reference:ValueError:https://connect.facebook.net/en_US/fbevents.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/wconcept/favicon.png",
+      "source_url": "https://static.wconcept.co.kr/favicon/apple-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2221,
+      "sha256": "12db87e21de386e23eba979086fdeb9c1eaa19e058c4c363febbe51add967cca",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/wconcept/og.png",
+      "source_url": "https://static.wconcept.co.kr/favicon/touch-icon-ipad-retina.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 2352,
+      "sha256": "5a741bc1a32df6e3fcef6d836d7bf51e62e304b006d900ee40a18e3827c31a1a",
+      "width": 192,
+      "height": 192
+    }
+  ]
 }

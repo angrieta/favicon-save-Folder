@@ -4,11 +4,19 @@
   "requested_url": "https://www.enterprise.com/",
   "page_url": "https://www.enterprise.com/en/home.html",
   "page_title": "Car Rental with Great Rates & Service | Enterprise Rent-A-Car",
-  "page_status": "browser",
-  "favicon_path": "assets/렌터카_글로벌/enterprise/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.enterprise.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.enterprise.com/en/home.html",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/enterprise/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.enterprise.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 300,
+      "sha256": "746d5adcca309566f3f9cd319abcb0c372eddfe875327ec6fd0ad518452f6fb5",
+      "width": 32,
+      "height": 32
+    }
+  ]
 }

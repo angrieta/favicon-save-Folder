@@ -4,11 +4,19 @@
   "requested_url": "https://www.nongshim.com/",
   "page_url": "https://www.nongshim.com/",
   "page_title": "403 Forbidden",
-  "page_status": "browser",
-  "favicon_path": "assets/식품_생활/nongshim/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.nongshim.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "SSLError: HTTPSConnectionPool(host='www.nongshim.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1081)')))",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/nongshim/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.nongshim.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 3011,
+      "sha256": "d8facec07eac1fc46a812bd68589b80df131a55b20438b7e3bdb62ea0b78966b",
+      "width": 64,
+      "height": 64
+    }
+  ]
 }

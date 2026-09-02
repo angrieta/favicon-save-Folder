@@ -4,11 +4,42 @@
   "requested_url": "https://www.modetour.com/",
   "page_url": "https://www.modetour.com/",
   "page_title": "여행은 모두투어",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/modetour/favicon.ico",
-  "favicon_source_url": "https://www.modetour.com/images/modetour_icon1.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/항공_여행/modetour/og.avif",
-  "og_source_url": "https://img.modetour.com/FIT/talk/messenger_img_20240307.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=251062161146472&ev=PageView&noscript=1; reference:ValueError:https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/pretendard.min.css; reference:ValueError:https://www.modetour.com/_next/static/css/57749753411f1653.css; reference:ValueError:https://www.modetour.com/_next/static/css/4d27511a26d4a5b5.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/modetour/favicon.ico",
+      "source_url": "https://www.modetour.com/images/modetour_icon1.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 93062,
+      "sha256": "1e67790245138db23d5e8c4b065c65f8bd448dc7964775b807de98b99d5fdf0b",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/modetour/og.avif",
+      "source_url": "https://img.modetour.com/FIT/talk/messenger_img_20240307.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 6574,
+      "sha256": "02a44112c907decb87a6c0920e37311f49ed87c0d907fc27a48df5c70603277d",
+      "width": 300,
+      "height": 200
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/modetour/reference-1.webp",
+      "source_url": "https://img.modetour.com/eagle/photoimg/27596/rfile/635781017521255781.jpg?resize=y&resize_w=430&resize_h=256&w_h_fill=y",
+      "source_tag": "img:page-image",
+      "context": "img max-w-[100%] max-h-[100%] bg-888 noscript span div div relative w-[430px] rounded-[10px] h-[524px] overflow-hidden shadow-[0px_0px_6px_#11111126]",
+      "content_type": "image/webp",
+      "bytes": 29724,
+      "sha256": "80dcb30fec0f55af5632e5e11c6326e1024e5c829209040e9375e3074dfaab12",
+      "width": 430,
+      "height": 430
+    }
+  ]
 }

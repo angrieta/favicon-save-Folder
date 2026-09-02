@@ -4,11 +4,79 @@
   "requested_url": "https://slack.com/",
   "page_url": "https://slack.com/intl/ko-kr/",
   "page_title": "Slack | AI 업무 플랫폼 및 생산성 도구",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/slack/favicon.png",
-  "favicon_source_url": "https://a.slack-edge.com/e6a93c1/img/icons/favicon-32.png",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.ko-KR@2x.mp4; banner:ValueError:https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-channels.ko-KR@2x.webm; banner:ValueError:https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.ko-KR@2x.mp4; banner:ValueError:https://a.slack-edge.com/55e8901/marketing/img/homepage/revamped-25/hero/hp-workflows.ko-KR@2x.webm; banner:ValueError:https://a.slack-edge.com/ee043bc/marketing/img/homepage/revamped-25/hero/video-3p-app-orchestration.ko-KR.webm; banner:ValueError:https://a.slack-edge.com/ee043bc/marketing/img/homepage/revamped-25/hero/video-3p-app-orchestration.ko-KR.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/slack/favicon.png",
+      "source_url": "https://a.slack-edge.com/e6a93c1/img/icons/favicon-32.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 648,
+      "sha256": "568bd0d33b14abbff1e64bb1cec8e10e7d4d10395c969d9a2f2d36be368a8198",
+      "width": 35,
+      "height": 34
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/slack/logo-1.png",
+      "source_url": "https://a.slack-edge.com/38f0e7c/marketing/img/nav/slack-salesforce-logo-nav-white.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img c-slacklogo--white Slack a c-slacklogo--white Slack div c-slacklogo div c-nav__row o-nav--primary o-content-container KR nav c-nav c-nav--primary--expanded nav-submenu-hover-q2fy27-expansion 주요 탐색",
+      "content_type": "image/png",
+      "bytes": 2136,
+      "sha256": "6a6ba45ed17a1209271b31eef8872321cdd9129d6fe421c7479246a563fb2bf9",
+      "width": 100,
+      "height": 38
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/slack/logo-2.png",
+      "source_url": "https://a.slack-edge.com/38f0e7c/marketing/img/nav/slack-salesforce-logo-nav-white@2x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img c-slacklogo--white Slack a c-slacklogo--white Slack div c-slacklogo div c-nav__row o-nav--primary o-content-container KR nav c-nav c-nav--primary--expanded nav-submenu-hover-q2fy27-expansion 주요 탐색",
+      "content_type": "image/png",
+      "bytes": 4435,
+      "sha256": "b6627fd741f5296694540c85c90150056df07b8b8ded2b701ad95abc8d4d381b",
+      "width": 200,
+      "height": 75
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/slack/reference-1.webp",
+      "source_url": "https://a.slack-edge.com/11136b7/marketing/img/nav/img-marketplace-nav@2x.jpg",
+      "source_tag": "img:page-image",
+      "context": "img nav_story_img lazyload div nav_story_content a li featured_story_marketplace_features_exp_nav nav_story ul c-extnav-level__3",
+      "content_type": "image/webp",
+      "bytes": 10304,
+      "sha256": "c92741cfde34ecadd1e140348a2a3741ac4241667c83136b67b2daaae8c50af2",
+      "width": 570,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/slack/reference-2.webp",
+      "source_url": "https://a.slack-edge.com/38141b7/marketing/img/homepage/revamped-25/placeholders/gradient-background.png",
+      "source_tag": "inline-background-image",
+      "context": "div  c-accordion-carousel__asset-background background-image: url('https://a.slack-edge.com/38141b7/marketing/img/homepage/revamped-25/placeholders/gradient-background.png');",
+      "content_type": "image/webp",
+      "bytes": 16180,
+      "sha256": "fa93e9e5230fb1945ade4734fae20b23c5a93422f8895262e000f2c4edc9f55d",
+      "width": 641,
+      "height": 475
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/slack/reference-3.webp",
+      "source_url": "https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/backgrounds/background-openai.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  comp-customer-videos__card background-image: url('https://a.slack-edge.com/54df558/marketing/img/homepage/revamped-24/customer-videos/backgrounds/background-openai.jpg');",
+      "content_type": "image/webp",
+      "bytes": 42798,
+      "sha256": "fd9db62b421cf5f08f8a50e0930a1e9bb7d1c8736b3f192b2a2de2b48728548e",
+      "width": 626,
+      "height": 370
+    }
+  ]
 }

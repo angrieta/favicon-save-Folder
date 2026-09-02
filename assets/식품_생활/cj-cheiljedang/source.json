@@ -4,11 +4,115 @@
   "requested_url": "https://www.cj.co.kr/kr/index",
   "page_url": "https://www.cj.co.kr/kr/index",
   "page_title": "CJ제일제당",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/cj-cheiljedang/favicon.png",
-  "favicon_source_url": "https://www.cj.co.kr/resources/img/icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/식품_생활/cj-cheiljedang/og.jpg",
-  "og_source_url": "https://www.cj.co.kr/resources/img/share-logo.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=761768147553675&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/cj-cheiljedang/favicon.png",
+      "source_url": "https://www.cj.co.kr/resources/img/icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6657,
+      "sha256": "5a99631d249a9978a9de9008aee5c61ca3b1ee6189b031bc3d0b0d2adbeddbb9",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/cj-cheiljedang/og.jpg",
+      "source_url": "https://www.cj.co.kr/resources/img/share-logo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 12810,
+      "sha256": "74f0bc6b0210c6e12fa1e6e6ce4008f1a7ea3e188bf4a3f596515cbe6f7d8d6f",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/cj-cheiljedang/favicon.png",
+      "source_url": "https://www.cj.co.kr/cj_files/images/icon.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/png",
+      "bytes": 6657,
+      "sha256": "5a99631d249a9978a9de9008aee5c61ca3b1ee6189b031bc3d0b0d2adbeddbb9",
+      "width": 192,
+      "height": 192,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/cj-cheiljedang/logo-2.png",
+      "source_url": "https://www.cj.co.kr/resources/img/main/main_brand_1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 비비고 a div embla__slide__number div embla__slide div embla__container",
+      "content_type": "image/png",
+      "bytes": 305370,
+      "sha256": "377b731bcd0ee002086daec905e5e50fc12435accf72a0360687c80f0ec460e0",
+      "width": 370,
+      "height": 446
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/cj-cheiljedang/banner-1.webp",
+      "source_url": "https://www.cj.co.kr/resources/img/main/main_about_visual_kr.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 비비고 - 당신의 일상을 더 맛있게, 더 즐겁게!, 비비고 브랜드 사이트 바로가기 a div circle div wrap-circle inview div main-about",
+      "content_type": "image/webp",
+      "bytes": 107074,
+      "sha256": "6203bf32a1d96a0a31771ebeeef5a59c8033b242132327fdededcaac03eeba86",
+      "width": 1720,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/cj-cheiljedang/banner-2.webp",
+      "source_url": "https://www.cj.co.kr/cj_files/main/visual/202508/1754038140609_0.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img embla__slide__img 건강과 안전을 최우선으로 Nature to Table, 세계의 모든 식탁이 K-Food로 즐거워집니다 a div embla__slide div embla__container div embla__viewport",
+      "content_type": "image/webp",
+      "bytes": 239248,
+      "sha256": "f486973ba797a026b70e1d8312cb70555d8b8b4f346ffea8ae48a3b876b8acc1",
+      "width": 1800,
+      "height": 628
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/cj-cheiljedang/reference-1.webp",
+      "source_url": "https://www.cj.co.kr/cj_files/main/visual/202603/1773194605040_0.jpg",
+      "source_tag": "img:page-image",
+      "context": "img embla__slide__img 자연에서 와서 자연으로 돌아가는 소재, PHA가 여는 ‘뉴노멀’ a div embla__slide div embla__container div embla__viewport",
+      "content_type": "image/webp",
+      "bytes": 34232,
+      "sha256": "b00a003f71824cb514526383435a7fc757ec7899ec0de227b2156a9d1ff492eb",
+      "width": 1800,
+      "height": 628
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/cj-cheiljedang/reference-2.webp",
+      "source_url": "https://www.cj.co.kr/cj_files/main/visual/202608/1786067000700_0.jpg",
+      "source_tag": "img:page-image",
+      "context": "img embla__slide__img jari 신제품 2종 연출컷 a div embla__slide div embla__container div embla__viewport",
+      "content_type": "image/webp",
+      "bytes": 89262,
+      "sha256": "74f6d30f91dd9c12aa79e839393da407be77247894e199407649e2aaa9bc7f78",
+      "width": 1800,
+      "height": 628
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/cj-cheiljedang/reference-3.webp",
+      "source_url": "https://www.cj.co.kr/cj_files/main/visual/202403/1711424987078_0.jpg",
+      "source_tag": "img:page-image",
+      "context": "img embla__slide__img CJ더마켓이 건강하고 편리한 식생활을 만들어갑니다 a div embla__slide div embla__container div embla__viewport",
+      "content_type": "image/webp",
+      "bytes": 127350,
+      "sha256": "8b98fb2bfe1bad240a710ad5467419e9049968193253335d61bff5b5772373c3",
+      "width": 1800,
+      "height": 773
+    }
+  ]
 }

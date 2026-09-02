@@ -4,11 +4,19 @@
   "requested_url": "https://www.dlenc.co.kr/",
   "page_url": "https://www.dlenc.co.kr/",
   "page_title": "DL이앤씨",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/dl-enc/favicon.ico",
-  "favicon_source_url": "https://www.dlenc.co.kr/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/dl-enc/favicon.ico",
+      "source_url": "https://www.dlenc.co.kr/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "8b7e9310f30ad7b707de4a63cc288db1c68754102936d4ca82eff9ad39360b11",
+      "width": 16,
+      "height": 16
+    }
+  ]
 }

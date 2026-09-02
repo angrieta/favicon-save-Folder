@@ -4,11 +4,103 @@
   "requested_url": "https://www.jeep.co.kr/",
   "page_url": "https://www.jeep.co.kr/",
   "page_title": "The Official Website of Jeep® Korea",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/jeep-korea/favicon.ico",
-  "favicon_source_url": "https://www.jeep.co.kr/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.jeep.co.kr/etc.clientlibs/settings/wcm/designs/cross-regional/clientlibs/styles/MainNavigation.css?v=202682372157; reference:ValueError:https://www.jeep.co.kr/etc.clientlibs/settings/wcm/designs/cross-regional/clientlibs/styles/Hero.css?v=202682372157; reference:ValueError:https://www.jeep.co.kr/etc.clientlibs/settings/wcm/designs/cross-regional/clientlibs/styles/Footer.css?v=202682372157; reference:ValueError:https://www.jeep.co.kr/etc.clientlibs/settings/wcm/designs/cross-regional/clientlibs/styles/TileContainer.css?v=202682372157; reference:ValueError:https://www.jeep.co.kr/etc.clientlibs/settings/wcm/designs/cross-regional/clientlibs/styles/StandardPromoTile.css?v=202682372157; reference:ValueError:https://trc.taboola.com/1181301/log/3/unip?en=page_view",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/jeep-korea/favicon.ico",
+      "source_url": "https://www.jeep.co.kr/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 3638,
+      "sha256": "95dffe124f8768464e8d61ef005d8017a21ed84dcd99a98e797a621181d31788",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/jeep-korea/logo-1.png",
+      "source_url": "https://www.jeep.co.kr/content/dam/cross-regional/apac/jeep/en_crossregional/global/header/logo-jeep.png",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container a link sdp-link link-image jeep",
+      "content_type": "image/png",
+      "bytes": 2702,
+      "sha256": "890bcfed1f027dac42987ac91c68146f9004e9821e06c854cb1fc052a78dc806",
+      "width": 174,
+      "height": 69
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/jeep-korea/logo-2.png",
+      "source_url": "https://www.jeep.co.kr/content/dam/cross-regional/apac/jeep/ko_kr/promotion/brand_menu,form_wrangler_PRC_rubicon_4dr_power_260609.png.img.300.png",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container div display-media-container",
+      "content_type": "image/png",
+      "bytes": 53580,
+      "sha256": "b10b4f44ffaad44c6e14ac78f981de6e61730277068cabaa2a8b1a3dcb657538",
+      "width": 300,
+      "height": 171
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/jeep-korea/banner-1.webp",
+      "source_url": "https://www.jeep.co.kr/content/dam/cross-regional/apac/jeep/ko_kr/promotion/HP_goldilocks_PC_20260819.jpg.img.2880.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container div display-media-container",
+      "content_type": "image/webp",
+      "bytes": 103670,
+      "sha256": "d791c3d5de17b9e4f2b0a37666a52a58316feb9b642387e565227fc339c21d92",
+      "width": 1800,
+      "height": 683
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/jeep-korea/banner-2.webp",
+      "source_url": "https://www.jeep.co.kr/content/dam/cross-regional/apac/jeep/ko_kr/promotion/HP_goldilocks_PC_20260819.jpg.img.1440.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container div display-media-container",
+      "content_type": "image/webp",
+      "bytes": 74472,
+      "sha256": "0ade9c759b7631222786a724c7822aeda8a97a561a78f5e6416f234d93967633",
+      "width": 1440,
+      "height": 546
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/jeep-korea/reference-1.webp",
+      "source_url": "https://www.jeep.co.kr/content/dam/cross-regional/apac/jeep/ko_kr/bhp/image-home/Goldilocks_Thumbnail_300_172.png.img.600.png",
+      "source_tag": "picture:page-image",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container div display-media-container",
+      "content_type": "image/webp",
+      "bytes": 17890,
+      "sha256": "b28285c0e1db3c96dee209cccf5eed1621f52944953fc02f68e4d87b6605d3c5",
+      "width": 600,
+      "height": 344
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/jeep-korea/reference-2.webp",
+      "source_url": "https://www.jeep.co.kr/content/dam/cross-regional/apac/jeep/ko_kr/bhp/image-home/JT_thumbnail_251031.png.img.600.png",
+      "source_tag": "picture:page-image",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container div display-media-container",
+      "content_type": "image/webp",
+      "bytes": 12924,
+      "sha256": "3cedafe89dbbc678f6a88b1315f558a04fcb62dfe6f9f1de16dc4f9e1b3832f6",
+      "width": 600,
+      "height": 320
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/jeep-korea/reference-3.webp",
+      "source_url": "https://www.jeep.co.kr/content/dam/cross-regional/apac/jeep/ko_kr/bhp/image-home/WL75_thumbnail_250722.png.img.600.png",
+      "source_tag": "picture:page-image",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container div display-media-container",
+      "content_type": "image/webp",
+      "bytes": 14860,
+      "sha256": "3251020522f71a1e7bf1b05598690b8640e6d1093efb91d39c16ceb5666c5430",
+      "width": 600,
+      "height": 342
+    }
+  ]
 }

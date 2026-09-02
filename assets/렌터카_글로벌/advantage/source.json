@@ -4,11 +4,79 @@
   "requested_url": "https://www.advantage.com/",
   "page_url": "https://advantage.com/",
   "page_title": "Cheap Car Rentals | Advantage Rent a Car",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/advantage/favicon.png",
-  "favicon_source_url": "https://advantage.com/wp-content/uploads/2022/12/cropped-cropped-Primary_Navy-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/advantage/favicon.png",
+      "source_url": "https://advantage.com/wp-content/uploads/2022/12/cropped-cropped-Primary_Navy-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 11739,
+      "sha256": "9dd9f28eb8d5c4838454b5607817fbc2f5806c8df97c8266fb0f7486fa5ac810",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/advantage/logo-1.png",
+      "source_url": "https://advantage.com/wp-content/uploads/2021/07/advantage-1.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 1773,
+      "sha256": "366a07ed501eb04313939591699ebabaa1e7619a0aa3cfeb516b1ea0f686084d",
+      "width": 259,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/advantage/logo-2.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2025/09/Advantage-Car-Rental-LOGO-scaled.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img wp-image-9454 Advantage Car Rental LOGO span et_pb_image_wrap a div et_pb_module et_pb_image et_pb_image_0_tb_header div et_pb_column et_pb_column_1_5 et_pb_column_1_tb_header et_pb_css_mix_blend_mode_passthrough",
+      "content_type": "image/webp",
+      "bytes": 35688,
+      "sha256": "077798be7827d0be1f36d982ee3d1728d36bb7c134a039224b1c2c14b096e7e8",
+      "width": 1600,
+      "height": 510
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/advantage/reference-1.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2025/09/Advantage-Car-Rental-LOGO-1280x408.jpg",
+      "source_tag": "img:page-image",
+      "context": "img wp-image-9454 Advantage Car Rental LOGO span et_pb_image_wrap a div et_pb_module et_pb_image et_pb_image_0_tb_header div et_pb_column et_pb_column_1_5 et_pb_column_1_tb_header et_pb_css_mix_blend_mode_passthrough",
+      "content_type": "image/webp",
+      "bytes": 22964,
+      "sha256": "7bb8e800b7c6406da309a423471c05e938f650e52e46bf8650c14141b45b3345",
+      "width": 1280,
+      "height": 408
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/advantage/reference-2.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2024/09/william-bout-Vsf30J-DCm8-unsplash-1-scaled-1.webp",
+      "source_tag": "img:page-image",
+      "context": "img wp-image-8382 william-bout-Vsf30J-DCm8-unsplash-1-scaled span et_pb_image_wrap div et_pb_module et_pb_image et_pb_image_1 div et_pb_column et_pb_column_1_2 et_pb_column_5 et_pb_css_mix_blend_mode_passthrough div et_pb_row et_pb_row_2 tw",
+      "content_type": "image/webp",
+      "bytes": 60776,
+      "sha256": "8efdbf4a3bd7a54928e5a8ceb82c63bbc7af0f90ed79a6e1d2e7d3dd7d709e99",
+      "width": 900,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/advantage/reference-3.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2024/09/william-bout-Vsf30J-DCm8-unsplash-1-scaled-1-1280x1920.webp",
+      "source_tag": "img:page-image",
+      "context": "img wp-image-8382 william-bout-Vsf30J-DCm8-unsplash-1-scaled span et_pb_image_wrap div et_pb_module et_pb_image et_pb_image_1 div et_pb_column et_pb_column_1_2 et_pb_column_5 et_pb_css_mix_blend_mode_passthrough div et_pb_row et_pb_row_2 tw",
+      "content_type": "image/webp",
+      "bytes": 59780,
+      "sha256": "2ad78eb83f6c0afa8e70801be626e0c69215bb6cbc23529b6647430579e681ff",
+      "width": 900,
+      "height": 1350
+    }
+  ]
 }

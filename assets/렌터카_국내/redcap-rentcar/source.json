@@ -4,11 +4,42 @@
   "requested_url": "https://www.redcaprentcar.com/",
   "page_url": "https://www.redcap.co.kr/sub/notice/view.php?idx=23",
   "page_title": "레드캡 기업/기관 전문 '출장여행, 렌터카, MICE'",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/redcap-rentcar/favicon.ico",
-  "favicon_source_url": "https://www.redcap.co.kr/img/common/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/렌터카_국내/redcap-rentcar/og.png",
-  "og_source_url": "https://www.redcap.co.kr/img/common/redcap_logo001.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.redcap.co.kr/img/common/txt_logo1_on.svg; reference:HTTPError:https://www.redcap.co.kr/img/common/txt_logo2_on.svg; reference:HTTPError:https://www.redcap.co.kr/img/common/txt_logo3_on.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/redcap-rentcar/favicon.ico",
+      "source_url": "https://www.redcap.co.kr/img/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 1150,
+      "sha256": "16278f740a92379aecc26c5e681a8ee1db511f37df62e661864a99dca7c31293",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/redcap-rentcar/og.png",
+      "source_url": "https://www.redcap.co.kr/img/common/redcap_logo001.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 26699,
+      "sha256": "cca611e4f94eb925cb3026a63f6adf3521f2fb63d11dae9cbf929dbb3b67b5e5",
+      "width": 1300,
+      "height": 650
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/redcap-rentcar/logo-1.png",
+      "source_url": "https://www.redcap.co.kr/img/common/f_logo1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo figure div f_logo div right div info",
+      "content_type": "image/png",
+      "bytes": 2471,
+      "sha256": "252932d41358d92b219bb886f9ded86386772d8888cc489bb4067392ce8439c8",
+      "width": 80,
+      "height": 73
+    }
+  ]
 }

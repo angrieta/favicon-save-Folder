@@ -4,11 +4,79 @@
   "requested_url": "https://www.myrealtrip.com/",
   "page_url": "https://www.myrealtrip.com/",
   "page_title": "진짜 나다운 여행 - 마이리얼트립",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/my-real-trip/favicon.png",
-  "favicon_source_url": "https://dffoxz5he03rp.cloudfront.net/logos/logo_mrt_v2_web_152x152.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/항공_여행/my-real-trip/og.png",
-  "og_source_url": "https://dffoxz5he03rp.cloudfront.net/logos/mrt_main_og_image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://dffoxz5he03rp.cloudfront.net/main-build/5943380b88b25d239200906f289b6fff386cba15/_next/static/media/ad5d93cd54532577-s.p.woff2; reference:ValueError:https://dffoxz5he03rp.cloudfront.net/main-build/5943380b88b25d239200906f289b6fff386cba15/_next/static/media/08393bc5e9b3ebc7-s.p.woff2; reference:ValueError:https://dffoxz5he03rp.cloudfront.net/main-build/5943380b88b25d239200906f289b6fff386cba15/_next/static/media/775c6667d99f77e1-s.p.woff2; reference:ValueError:https://dffoxz5he03rp.cloudfront.net/main-build/5943380b88b25d239200906f289b6fff386cba15/_next/static/media/e9955780856cf8aa-s.p.woff2; reference:ValueError:https://dffoxz5he03rp.cloudfront.net/main-build/5943380b88b25d239200906f289b6fff386cba15/_next/static/css/bd772da85fd39ddf.css; reference:ValueError:https://dffoxz5he03rp.cloudfront.net/main-build/5943380b88b25d239200906f289b6fff386cba15/_next/static/css/9f9de094e82fd93e.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/my-real-trip/favicon.png",
+      "source_url": "https://dffoxz5he03rp.cloudfront.net/logos/logo_mrt_v2_web_152x152.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2539,
+      "sha256": "d49d20b0f0a4be75a4ea5685db90b7cbb665c8d2a9d7629bff69230a6dbbd2d0",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/my-real-trip/og.png",
+      "source_url": "https://dffoxz5he03rp.cloudfront.net/logos/mrt_main_og_image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 11733,
+      "sha256": "52e21d8e7cf48ab4c68598180af360e4bc4650d44027537c6e1d5ba86979e13c",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/my-real-trip/og.png",
+      "source_url": "https://dffoxz5he03rp.cloudfront.net/logos/mrt_main_og_image.png",
+      "source_tag": "json-ld.logo.url",
+      "content_type": "image/png",
+      "bytes": 11733,
+      "sha256": "52e21d8e7cf48ab4c68598180af360e4bc4650d44027537c6e1d5ba86979e13c",
+      "width": 1200,
+      "height": 630,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/my-real-trip/logo-2.svg",
+      "source_url": "https://dffoxz5he03rp.cloudfront.net/logos/logo_mrt_v2_web.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img css-13g4yso myrealtrip button css-19ug603 div css-0 div css-j357q5 nav css-tybpd4",
+      "content_type": "image/svg+xml",
+      "bytes": 4748,
+      "sha256": "4bb9c9220ee0c3a4b0d05e7c51f8e1284ac310582086eb2c04968365a475d91e",
+      "width": 128,
+      "height": 27
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/my-real-trip/banner-1.webp",
+      "source_url": "https://dry7pvlp22cox.cloudfront.net/mrt-images-prod/2026/08/10/alQj/udXvFz0Kz6.jpg?width=2160",
+      "source_tag": "img:semantic-banner",
+      "context": "img css-k7hb9y button css-1v8rrc0 광고 프로모션 배너 1/20 div css-1xdhyk6 div css-1w35e4r div css-ov1ktg",
+      "content_type": "image/webp",
+      "bytes": 136568,
+      "sha256": "835de6058da157c8488bbbcf6e21788504c2ff9cd1ccea6e1a5bcd67ee8c2abb",
+      "width": 1572,
+      "height": 700
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/my-real-trip/banner-2.webp",
+      "source_url": "https://dry7pvlp22cox.cloudfront.net/mrt-images-prod/2026/08/31/tdZ7/cI73OyOvgJ.jpg?width=2160",
+      "source_tag": "img:semantic-banner",
+      "context": "img css-k7hb9y button css-1v8rrc0 광고 프로모션 배너 2/20 div css-1xdhyk6 div css-1w35e4r div css-ov1ktg",
+      "content_type": "image/webp",
+      "bytes": 108054,
+      "sha256": "1c46a97a6ff96c1d530ea97a77178390ab92a23bd85cc7168bf9bc9daae49922",
+      "width": 1572,
+      "height": 700
+    }
+  ]
 }

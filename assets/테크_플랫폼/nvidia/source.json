@@ -4,11 +4,90 @@
   "requested_url": "https://www.nvidia.com/ko-kr/",
   "page_url": "https://www.nvidia.com/ko-kr/",
   "page_title": "인공 지능 컴퓨팅의 세계적인 리더 | NVIDIA",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/nvidia/favicon.ico",
-  "favicon_source_url": "https://www.nvidia.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/테크_플랫폼/nvidia/og.jpg",
-  "og_source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/homepage/v2/mfg/nvidia-og-image-1200x630.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://www.nvidia.com/ko-kr/iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=; reference:HTTPError:https://www.nvidia.com/ko-kr/iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=; reference:ValueError:https://images.nvidia.com/etc/designs/nvidiaGDC/clientlibs_base/fonts/nvidia-sans/APAC/var/NVIDIASansVF_APAC_W_Wght.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/nvidia/favicon.ico",
+      "source_url": "https://www.nvidia.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 25214,
+      "sha256": "bedcb14e0470ff8abe26405a630e9604ac4fa581b385a7cfb00420c22f541b6e",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/nvidia/og.jpg",
+      "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/homepage/v2/mfg/nvidia-og-image-1200x630.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 83522,
+      "sha256": "1d485c320b1edee87bf6022b841005e1fb274c754b001848af8d2bf8123b8aa6",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/nvidia/logo-1.svg",
+      "source_url": "https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/nvidia-brochure/images/nvidia-logo-black.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2311,
+      "sha256": "b979e9c0240b9b45098cb7ce691124b97d774da3a68006ba046f29df0ce5d6db",
+      "width": 974,
+      "height": 179
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/nvidia/banner-1.webp",
+      "source_url": "https://www.nvidia.com/content/nvidiaGDC/kr/ko_KR/home/_jcr_content/root/responsivegrid/nv_carousel_10568374_662431768/nv_teaser_copy_20067.coreimg.jpeg/1753088622639/hpc-visual-alchemi-bgr-nim-sc24-ari.jpeg",
+      "source_tag": "img:semantic-banner",
+      "context": "img cmp-image__image NVIDIA ALCHEMI를 사용하여 AI 기반 재료 검색에 혁명을 일으키세요 NVIDIA ALCHEMI를 사용하여 AI 기반 재료 검색에 혁명을 일으키세요 noscript a cmp-image__link div cmp-image div cmp-teaser__image",
+      "content_type": "image/webp",
+      "bytes": 83822,
+      "sha256": "40e53505ff9b9fdf6632df90d6ba7b61addcbea75adffaba1e91f91bd09229b7",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/nvidia/banner-2.webp",
+      "source_url": "https://www.nvidia.com/content/nvidiaGDC/kr/ko_KR/home/_jcr_content/root/responsivegrid/nv_carousel_1056837463/item_1669368462550.coreimg.png/1784539696843/geforce-bts26-nv-app-hero-1920x1080-enus-2x.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img cmp-image__image Student Recommended. RTX Accelerated Laptops Student Recommended. RTX Accelerated Laptops noscript a cmp-image__link div cmp-image div cmp-teaser__image",
+      "content_type": "image/webp",
+      "bytes": 198744,
+      "sha256": "e5aef38c6f92b44540104a28761fbc1a097d7729f3b52bce3fe41dbaa88d927f",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/nvidia/reference-1.svg",
+      "source_url": "https://www.nvidia.com/content/nvidiaGDC/kr/ko_KR/home/_jcr_content/root/responsivegrid/nv_carousel/item_1754637058636/nv_container_copy_co_942096075/nv_image.coreimg.svg/1787726641538/nvidia-and-amazon-web-services-partnership-lockup-v-on-dark.svg",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image NVIDIA and AWS NVIDIA and AWS noscript div nv-image-1af218ba3f cmp-image d-align-left l-align-left t-align-left m-align-left div nv-image image div general-container text-center lap-text-center tab-text-center mob-text-",
+      "content_type": "image/svg+xml",
+      "bytes": 10415,
+      "sha256": "4b753f7c1852e1d87cff793b802765b1fecf47af03e1dc9267d5e761119d655a",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/nvidia/reference-2.svg",
+      "source_url": "https://www.nvidia.com/content/nvidiaGDC/kr/ko_KR/home/_jcr_content/root/responsivegrid/nv_carousel/item_1748938805637/nv_container_copy_co_893437676/nv_image.coreimg.svg/1787645514123/nvidia-and-perplexity-partnership-lockup-h-on-dark-ari.svg",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image NVIDIA and Perplexity NVIDIA and Perplexity noscript div nv-image-21ded44bfa cmp-image d-align-left l-align-left t-align-left m-align-left div nv-image image div general-container text-center lap-text-center tab-text-ce",
+      "content_type": "image/svg+xml",
+      "bytes": 7973,
+      "sha256": "2538919e43e4eb4ce1486887e5141c9021ccb0be92cbfce09f75326bbd7c5694",
+      "width": 1920,
+      "height": 1080
+    }
+  ]
 }

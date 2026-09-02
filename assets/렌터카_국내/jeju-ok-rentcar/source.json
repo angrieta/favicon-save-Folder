@@ -4,11 +4,55 @@
   "requested_url": "https://jinair.jejuokrent.com/home/main/main.do",
   "page_url": "https://jinair.jejuokrent.com/home/main/main.do",
   "page_title": "제주OK렌터카",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/jeju-ok-rentcar/favicon.ico",
-  "favicon_source_url": "https://jinair.jejuokrent.com/static/img/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/favicon.ico",
+      "source_url": "https://jinair.jejuokrent.com/static/img/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 102542,
+      "sha256": "ffa6db2daf9d272753b9b1cf80e7dc42b1881ffd018f1337f49047c821ecc26b",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-1.webp",
+      "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=AIG",
+      "source_tag": "img:page-image",
+      "context": "img div img-box div item-box div item div cars-carousel",
+      "content_type": "image/webp",
+      "bytes": 45426,
+      "sha256": "42cb04631c512ea7ae136c8e8fedb481b15c4899bc7e0f612d5fbd8e16e645aa",
+      "width": 1200,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-2.webp",
+      "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=NG90",
+      "source_tag": "img:page-image",
+      "context": "img div img-box div item-box div item div cars-carousel",
+      "content_type": "image/webp",
+      "bytes": 45756,
+      "sha256": "fefcc444625292cfb76828d84d33e131f435b4aeaa898f48eaced48c83018100",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-3.webp",
+      "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=BECB",
+      "source_tag": "img:page-image",
+      "context": "img div img-box div item-box div item div cars-carousel",
+      "content_type": "image/webp",
+      "bytes": 43636,
+      "sha256": "1483e4bd88095d0d7a9fd7986cbd353e196a8bf24e1ac311be21a50450aff766",
+      "width": 1200,
+      "height": 1000
+    }
+  ]
 }

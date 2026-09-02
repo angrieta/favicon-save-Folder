@@ -4,11 +4,19 @@
   "requested_url": "https://www.meritzfire.com/",
   "page_url": "https://www.meritzfire.com/",
   "page_title": "메리츠화재",
-  "page_status": "browser",
-  "favicon_path": "assets/금융/meritz-fire/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.meritzfire.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/meritz-fire/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.meritzfire.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 303,
+      "sha256": "e2ff6ec9e071c8dfeaf984aa1f071da99bdb50c7ef7daa6781a810cc2a5688e5",
+      "width": 48,
+      "height": 48
+    }
+  ]
 }

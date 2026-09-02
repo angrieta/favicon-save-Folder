@@ -4,11 +4,79 @@
   "requested_url": "https://www.daesang.com/",
   "page_url": "https://www.daesang.com/kr/",
   "page_title": "대상주식회사",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/daesang/favicon.ico",
-  "favicon_source_url": "https://www.daesang.com/kr/asset/images/common/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/식품_생활/daesang/og.jpg",
-  "og_source_url": "https://www.daesang.com/kr/asset/images/common/logo_daesang.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.daesang.com/kr/asset/file/daesang.mp4; reference:ValueError:https://www.daesang.com/kr/asset/file/daesang.mp4; reference:ValueError:https://www.daesang.com/common/popup/download.jsp?realName=1786323802463.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/daesang/favicon.ico",
+      "source_url": "https://www.daesang.com/kr/asset/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 32988,
+      "sha256": "e40c9c54f66d64812193a3fc762d4f64b74045bf94f045e938b30364f506ba27",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/daesang/og.jpg",
+      "source_url": "https://www.daesang.com/kr/asset/images/common/logo_daesang.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 11232,
+      "sha256": "fe48222de9efce8abeb0573ce6c08354a993ac8e05a4fec2c7b12d648eb86a47",
+      "width": 301,
+      "height": 179
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/daesang/logo-1.png",
+      "source_url": "https://www.daesang.com/kr/asset/images/common/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo_img 대상주식회사 로고 a logo_link h1 logo div inner clearfix header hd",
+      "content_type": "image/png",
+      "bytes": 8460,
+      "sha256": "3f19926326efd6c2a3cd9729d2d8b73d379716a6925fc89fd49d3624bd61589e",
+      "width": 189,
+      "height": 68
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/daesang/og.jpg",
+      "source_url": "https://www.daesang.com/kr/asset/images/common/logo_daesang.jpg",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/jpeg",
+      "bytes": 11232,
+      "sha256": "fe48222de9efce8abeb0573ce6c08354a993ac8e05a4fec2c7b12d648eb86a47",
+      "width": 301,
+      "height": 179,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/daesang/reference-1.webp",
+      "source_url": "https://www.daesang.com/kr/asset/images/popup/popup_recruit_260710.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 채용 팝업 a div pop_wrap div popup popup body",
+      "content_type": "image/webp",
+      "bytes": 24038,
+      "sha256": "3c9f3171d8317b58f6bfaeebc8055f80b055eb2a699b62af3b8bf04aa4aeee36",
+      "width": 560,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/daesang/reference-2.webp",
+      "source_url": "https://www.daesang.com/kr/asset/images/main/media_img_05.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 해안가를 가로질러 달려나가는 사람 a media_img_link li ul main_media txt-left div inner txt_center sldani",
+      "content_type": "image/webp",
+      "bytes": 178900,
+      "sha256": "78fb25317f5b3234a45da13fc9870b870f9344622ce4d136d630724d53e54771",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
 }

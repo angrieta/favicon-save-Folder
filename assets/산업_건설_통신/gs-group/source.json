@@ -4,11 +4,66 @@
   "requested_url": "https://www.gs.co.kr/",
   "page_url": "https://www.gs.co.kr/ko/main",
   "page_title": "GS Holdings",
-  "page_status": "browser",
-  "favicon_path": "assets/산업_건설_통신/gs-group/favicon.png",
-  "favicon_source_url": "https://www.gs.co.kr/resources/common/favicons/favicon_32.png",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/산업_건설_통신/gs-group/og.jpg",
-  "og_source_url": "https://www.gs.co.kr/resources/common/images/thumbnail/news_default.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.gs.co.kr/resources/front/ko/video/main-visual.mp4; reference:ValueError:https://www.gs.co.kr/resources/front/ko/video/main-visual.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/gs-group/favicon.png",
+      "source_url": "https://www.gs.co.kr/resources/common/favicons/favicon_32.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 4396,
+      "sha256": "560a89c425aaecb230016a95058e0f33804740ef59af2993e72723e6f90bdd03",
+      "width": 52,
+      "height": 53
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/gs-group/og.jpg",
+      "source_url": "https://www.gs.co.kr/resources/common/images/thumbnail/news_default.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 56988,
+      "sha256": "8014ca379174f42c615b5ea18ba0240d61646e9e3c51ac2f2026ca4c44c91095",
+      "width": 820,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/gs-group/reference-1.webp",
+      "source_url": "https://www.gs.co.kr/resources/front/ko/images/main/energy-section-01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img figure image action-up div energy-image article energy-section energy-section__approach div",
+      "content_type": "image/webp",
+      "bytes": 48616,
+      "sha256": "dcb6b212f64f702a9badbf13773141b7baf5c00ceab53c53c6bec7c25427fa0f",
+      "width": 700,
+      "height": 700
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/gs-group/reference-2.webp",
+      "source_url": "https://www.gs.co.kr/resources/front/ko/images/main/energy-section-01-02.jpg",
+      "source_tag": "img:page-image",
+      "context": "img figure sub-image action-up div energy-image article energy-section energy-section__approach div",
+      "content_type": "image/webp",
+      "bytes": 29590,
+      "sha256": "6e18f33f9998973f100aa95ebba98d952dbaca4f3c54e3618012f25a4564a219",
+      "width": 460,
+      "height": 323
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/gs-group/reference-3.webp",
+      "source_url": "https://www.gs.co.kr/resources/front/ko/images/main/energy-section-03.jpg",
+      "source_tag": "img:page-image",
+      "context": "img figure image action-up div energy-image article energy-section energy-section__future div",
+      "content_type": "image/webp",
+      "bytes": 92436,
+      "sha256": "8d6f3f504a4553a7e86586b0bf362e8c85621e68683c0fd6a1f3b0117bf2ca38",
+      "width": 585,
+      "height": 585
+    }
+  ]
 }

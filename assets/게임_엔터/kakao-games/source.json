@@ -4,11 +4,91 @@
   "requested_url": "https://www.kakaogamescorp.com/",
   "page_url": "https://www.kakaogamescorp.com/",
   "page_title": "카카오게임즈 컴퍼니",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/kakao-games/favicon.ico",
-  "favicon_source_url": "https://www.kakaogamescorp.com/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/게임_엔터/kakao-games/og.jpg",
-  "og_source_url": "https://www.kakaogamescorp.com/og_img.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://webofficial.kakaogames.com/live/corp_official/assets/images/main/2510/visual_video.mp4; reference:ValueError:https://webofficial.kakaogames.com/live/corp_official/assets/images/main/2510/visual_video.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/kakao-games/favicon.ico",
+      "source_url": "https://www.kakaogamescorp.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 5186,
+      "sha256": "84db4d499b1788bc2670c2a3b2d1b50a49423eeb234043f497916ffa9cea9cb2",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/kakao-games/og.jpg",
+      "source_url": "https://www.kakaogamescorp.com/og_img.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 56201,
+      "sha256": "0563a815f79c340bda112944378407be87ea4a8946e3aefba45511045ef1c0da",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/kakao-games/banner-1.webp",
+      "source_url": "https://www.kakaogamescorp.com/_next/image?url=https%3A%2F%2Fwebofficial.kakaogames.com%2Flive%2Fcorp_official%2Fassets%2Fimages%2Fmain%2F2608%2Fdokkaebi.png&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover object-center 도깨비의 세계 a block relative aspect-[1180/682] 도깨비의 세계 상세보기 div wrap-img relative li list_item active ul game_list",
+      "content_type": "image/webp",
+      "bytes": 168112,
+      "sha256": "808351575f93d7aba37dbf96fdc463a1453aa75a86348edb7539da856c743996",
+      "width": 1018,
+      "height": 608
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/kakao-games/banner-2.webp",
+      "source_url": "https://www.kakaogamescorp.com/_next/image?url=https%3A%2F%2Fwebofficial.kakaogames.com%2Flive%2Fcorp_official%2Fassets%2Fimages%2Fmain%2F2510%2Fodin.jpg&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover object-center 오딘: 발할라 라이징 a block relative aspect-[1180/682] 오딘: 발할라 라이징 상세보기 div wrap-img relative li list_item ul game_list",
+      "content_type": "image/webp",
+      "bytes": 157670,
+      "sha256": "2d14c23bf614c8cd8c5eef9f2a2aa334d970a5830dd4e2f1a0341a4dd142b799",
+      "width": 1180,
+      "height": 682
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/kakao-games/banner-2.webp",
+      "source_url": "https://www.kakaogamescorp.com/_next/image?url=https%3A%2F%2Fwebofficial.kakaogames.com%2Flive%2Fcorp_official%2Fassets%2Fimages%2Fmain%2F2510%2Fodin.jpg&w=2048&q=75",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-center 오딘: 발할라 라이징 a block relative aspect-[1180/682] 오딘: 발할라 라이징 상세보기 div wrap-img relative li list_item ul game_list",
+      "content_type": "image/webp",
+      "bytes": 157670,
+      "sha256": "2d14c23bf614c8cd8c5eef9f2a2aa334d970a5830dd4e2f1a0341a4dd142b799",
+      "width": 1180,
+      "height": 682,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/kakao-games/reference-2.webp",
+      "source_url": "https://www.kakaogamescorp.com/_next/image?url=https%3A%2F%2Fwebofficial.kakaogames.com%2Flive%2Fcorp_official%2Fassets%2Fimages%2Fmain%2F2510%2Farcheage.jpg&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-center 아키에이지 워 a block relative aspect-[1180/682] 아키에이지 워 상세보기 div wrap-img relative li list_item ul game_list",
+      "content_type": "image/webp",
+      "bytes": 95448,
+      "sha256": "3c19800c4b306dacfa5363753819986a2bcdf0cfa56aa4242466ecd4ef7390dc",
+      "width": 1180,
+      "height": 682
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/kakao-games/reference-3.webp",
+      "source_url": "https://www.kakaogamescorp.com/_next/image?url=https%3A%2F%2Fwebofficial.kakaogames.com%2Flive%2Fcorp_official%2Fassets%2Fimages%2Fmain%2F2510%2Fbattlegrounds.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-center 배틀그라운드 a block relative aspect-[1180/682] 배틀그라운드 상세보기 div wrap-img relative li list_item ul game_list",
+      "content_type": "image/webp",
+      "bytes": 37228,
+      "sha256": "e2471beb0a931593b9e62581e7021cb6ad0a7d41e4b2c83d74f7b20ce782673d",
+      "width": 1180,
+      "height": 682
+    }
+  ]
 }

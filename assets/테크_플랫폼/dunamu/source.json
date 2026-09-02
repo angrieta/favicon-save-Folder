@@ -4,11 +4,42 @@
   "requested_url": "https://www.dunamu.com/",
   "page_url": "https://www.dunamu.com/",
   "page_title": "두나무",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/dunamu/favicon.png",
-  "favicon_source_url": "https://www.dunamu.com/favicon.png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/테크_플랫폼/dunamu/og.png",
-  "og_source_url": "https://www.dunamu.com/images/img_dunamu_share.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.dunamu.com/_next/static/css/cd245f47045c0cda.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/dunamu/favicon.png",
+      "source_url": "https://www.dunamu.com/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2576,
+      "sha256": "406c82cf261a2fe20ae858fad678cc305ed435bc56ff7d8529007b64d90c5e40",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/dunamu/og.png",
+      "source_url": "https://www.dunamu.com/images/img_dunamu_share.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 15030,
+      "sha256": "a4235ced8c3b98f7d340856062705114a12b143f6b5987defa8b27cdfcddfa48",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/dunamu/banner-1.svg",
+      "source_url": "https://www.dunamu.com/images/img_main_esg.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img esg_bg ESG div esg_txt div inner div main_esg main",
+      "content_type": "image/svg+xml",
+      "bytes": 4901,
+      "sha256": "9b135547f28b675fb4d655e4bdd212c6a9e5c462ff3dd831d822fc27a0f080fa",
+      "width": 1055,
+      "height": 501
+    }
+  ]
 }

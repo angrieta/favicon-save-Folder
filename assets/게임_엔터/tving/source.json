@@ -4,11 +4,30 @@
   "requested_url": "https://www.tving.com/",
   "page_url": "https://www.tving.com",
   "page_title": "TVING",
-  "page_status": "browser",
-  "favicon_path": "assets/게임_엔터/tving/favicon.ico",
-  "favicon_source_url": "https://www.tving.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/게임_엔터/tving/og.jpg",
-  "og_source_url": "https://image.tving.com/public/img/tving-og.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.tving.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/tving/favicon.ico",
+      "source_url": "https://www.tving.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 2671,
+      "sha256": "bd631daa7ad07d2874627e46ed2fa84fd35cb7e2c463529a9a11b6a169f3e752",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/tving/og.jpg",
+      "source_url": "https://image.tving.com/public/img/tving-og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 97658,
+      "sha256": "00e4163d79d5cf554d903dd366b532d07a6467d1eccc72ae133bf9c919e1671a",
+      "width": 2400,
+      "height": 1260
+    }
+  ]
 }

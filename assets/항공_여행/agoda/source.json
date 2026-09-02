@@ -4,11 +4,19 @@
   "requested_url": "https://www.agoda.com/ko-kr/",
   "page_url": "https://www.agoda.com/ko-kr/",
   "page_title": "",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/agoda/favicon.ico",
-  "favicon_source_url": "https://www.agoda.com/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/agoda/favicon.ico",
+      "source_url": "https://www.agoda.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1281,
+      "sha256": "512e8c3a492200bf51ec013f94e11fea3eac9f691124543bd3dd57e4bb6f868b",
+      "width": 48,
+      "height": 48
+    }
+  ]
 }

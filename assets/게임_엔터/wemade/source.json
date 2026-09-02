@@ -4,11 +4,102 @@
   "requested_url": "https://www.wemade.com/",
   "page_url": "https://www.wemade.com/",
   "page_title": "WEMADE | MADE FOR THE FUTURE",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/wemade/favicon.svg",
-  "favicon_source_url": "https://cache.wemade.com/wemade/assets/imgs/favicon/48x48.svg",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/게임_엔터/wemade/og.png",
-  "og_source_url": "https://cache.wemade.com/wemade/assets/imgs/og-image/wemade-og.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/wemade/favicon.svg",
+      "source_url": "https://cache.wemade.com/wemade/assets/imgs/favicon/48x48.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1349,
+      "sha256": "32823ce76649df5ff3adf9bf5b00c0cdc944105223e356eec0ec7803ef2c1c61",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/wemade/og.png",
+      "source_url": "https://cache.wemade.com/wemade/assets/imgs/og-image/wemade-og.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 176906,
+      "sha256": "c4a49aed6768af999b1cdd3ede4f0996ecdf83066e39ca4e988898724f5a70e9",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/wemade/logo-1.svg",
+      "source_url": "https://cache.wemade.com/wemade/assets/imgs/favicon/512x512.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1372,
+      "sha256": "7e60f626b4e524b42ce66fb0e0c37b67fa2f0e1f2b0fb91f302ab0ff9cc8f4be",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/wemade/banner-1.webp",
+      "source_url": "https://cache.wemade.com/wemade/assets/opt_video/home/home-intro-video-pc-poster.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  poster ManagedVideo_poster__tmgzh --poster-pc:url(https://cache.wemade.com/wemade/assets/opt_video/home/home-intro-video-pc-poster.webp);--poster-mo:url(https://cache.wemade.com/wemade/assets/opt_video/home/home-intro-video-m-poster.we",
+      "content_type": "image/webp",
+      "bytes": 136150,
+      "sha256": "7bcbad60bde0d5191bc1c9bccc9cd13021f4148660e6fdb17b6a241d3e149819",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/wemade/banner-2.webp",
+      "source_url": "https://cache.wemade.com/wemade/assets/opt_video/home/home-blockchain-pc-poster.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  poster ManagedVideo_poster__tmgzh --poster-pc:url(https://cache.wemade.com/wemade/assets/opt_video/home/home-blockchain-pc-poster.webp);--poster-mo:url(https://cache.wemade.com/wemade/assets/opt_video/home/home-blockchain-m-poster.webp",
+      "content_type": "image/webp",
+      "bytes": 7230,
+      "sha256": "9faecaf6fd12c9c8ad488c989be7816c405b4bf28b19c56f0a4bc0f0e80f6d24",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/wemade/reference-1.webp",
+      "source_url": "https://cache.wemade.com/wemade/assets/opt_video/home/home-intro-video-m-poster.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  poster ManagedVideo_poster__tmgzh --poster-pc:url(https://cache.wemade.com/wemade/assets/opt_video/home/home-intro-video-pc-poster.webp);--poster-mo:url(https://cache.wemade.com/wemade/assets/opt_video/home/home-intro-video-m-poster.we",
+      "content_type": "image/webp",
+      "bytes": 107848,
+      "sha256": "ac02059bc3c04090dc3ffc3011dfee48859391e39c06e04e24cc055d3a14536c",
+      "width": 759,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/wemade/reference-2.webp",
+      "source_url": "https://cache.wemade.com/wemade/assets/opt_video/home/home-blockchain-m-poster.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  poster ManagedVideo_poster__tmgzh --poster-pc:url(https://cache.wemade.com/wemade/assets/opt_video/home/home-blockchain-pc-poster.webp);--poster-mo:url(https://cache.wemade.com/wemade/assets/opt_video/home/home-blockchain-m-poster.webp",
+      "content_type": "image/webp",
+      "bytes": 7326,
+      "sha256": "9ab2736d0a8bcfdba269b93fe5dad69713e3ab349cd7ef2b43fd3298a7a98d60",
+      "width": 759,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/wemade/reference-3.webp",
+      "source_url": "https://cache.wemade.com/wemade/assets/opt_video/crossPromo/cross-full-m-poster.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  poster ManagedVideo_poster__tmgzh --poster-pc:url(https://cache.wemade.com/wemade/assets/opt_video/crossPromo/cross-full-m-poster.webp);--poster-mo:url(https://cache.wemade.com/wemade/assets/opt_video/crossPromo/cross-full-m-poster.web",
+      "content_type": "image/webp",
+      "bytes": 7454,
+      "sha256": "8afe6bbfc24cf57103b2cc0874cfe098b6cb227f18ea1eeecd74d8465386dd26",
+      "width": 759,
+      "height": 1350
+    }
+  ]
 }

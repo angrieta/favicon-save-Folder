@@ -4,11 +4,42 @@
   "requested_url": "https://corp.kt.com/",
   "page_url": "https://corp.kt.com/",
   "page_title": "회사소개 | KT",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/kt/favicon.ico",
-  "favicon_source_url": "https://corp.kt.com/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/산업_건설_통신/kt/og.png",
-  "og_source_url": "https://m.kt.com/images/common/kt_ci.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/kt/favicon.ico",
+      "source_url": "https://corp.kt.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "6b41701c2281710b062d5625640e1528f5d6fd687bf167ea68114cfd1fa63abf",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/kt/og.png",
+      "source_url": "https://m.kt.com/images/common/kt_ci.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 8591,
+      "sha256": "05da30bb2ad07d241884377dd955045cf2138b381e4cec4b8975328f65fb9b8b",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/kt/banner-1.webp",
+      "source_url": "https://corp.kt.com/images/main/bg_ir.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div section3 section section3 background-image: url(./images/main/bg_ir.jpg);",
+      "content_type": "image/webp",
+      "bytes": 26240,
+      "sha256": "e31bb743a77127c84db5941f2d5848aeda2c65cb8cf1bcb4421db4a40ffd25d3",
+      "width": 1800,
+      "height": 469
+    }
+  ]
 }

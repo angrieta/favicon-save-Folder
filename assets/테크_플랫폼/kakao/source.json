@@ -4,11 +4,66 @@
   "requested_url": "https://www.kakaocorp.com/",
   "page_url": "https://www.kakaocorp.com/page/",
   "page_title": "카카오",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/kakao/favicon.ico",
-  "favicon_source_url": "https://www.kakaocorp.com/page/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/테크_플랫폼/kakao/og.png",
-  "og_source_url": "https://t1.kakaocdn.net/kakaocorp/kakaocorp/service/og/img_og_main.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=506344193746714&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/kakao/favicon.ico",
+      "source_url": "https://www.kakaocorp.com/page/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 32956,
+      "sha256": "a0939f151f03ceb81d0c659bce1c685c5d1d8ae4bc561da1f1ab7863677ab0df",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/kakao/og.png",
+      "source_url": "https://t1.kakaocdn.net/kakaocorp/kakaocorp/service/og/img_og_main.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 388524,
+      "sha256": "7f5123d8b8bcf1c9b58460ea60e720f844442d8212f6a5551fc0be5d83fde34e",
+      "width": 2400,
+      "height": 1260
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/kakao/reference-1.webp",
+      "source_url": "https://t1.kakaocdn.net/thumb/C640x640.fwebp.q100/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaocorp%2Fkakaocorp%2Fservice%2Fmain2025%2Fimg_direct_1.png",
+      "source_tag": "inline-background-image",
+      "context": "div  box_direct box0 background-image:url(//t1.kakaocdn.net/thumb/C640x640.fwebp.q100/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaocorp%2Fkakaocorp%2Fservice%2Fmain2025%2Fimg_direct_1.png);",
+      "content_type": "image/webp",
+      "bytes": 19518,
+      "sha256": "fef0fe02a71715a9ff978bb7a243b241fbb14ccfe2b60098ea6640f7ed424f6a",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/kakao/reference-2.webp",
+      "source_url": "https://t1.kakaocdn.net/thumb/C640x640.fwebp.q100/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaocorp%2Fkakaocorp%2Fservice%2Fmain2025%2Fimg_direct_2.png",
+      "source_tag": "inline-background-image",
+      "context": "div  box_direct box1 background-image:url(//t1.kakaocdn.net/thumb/C640x640.fwebp.q100/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaocorp%2Fkakaocorp%2Fservice%2Fmain2025%2Fimg_direct_2.png);",
+      "content_type": "image/webp",
+      "bytes": 20286,
+      "sha256": "d853209ac88cf3f822421a2e2dee0d2764a81ce6a6f28479b75c1af8868506f2",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/kakao/reference-3.webp",
+      "source_url": "https://t1.kakaocdn.net/thumb/C640x640.fwebp.q100/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaocorp%2Fkakaocorp%2Fservice%2Fmain2025%2Fimg_direct_3.png",
+      "source_tag": "inline-background-image",
+      "context": "div  box_direct box2 background-image:url(//t1.kakaocdn.net/thumb/C640x640.fwebp.q100/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaocorp%2Fkakaocorp%2Fservice%2Fmain2025%2Fimg_direct_3.png);",
+      "content_type": "image/webp",
+      "bytes": 78590,
+      "sha256": "efcfabf2ad48e0b0860e6c8ffe04aeb2fe82a4da625b69f827610ea3cf1db700",
+      "width": 640,
+      "height": 640
+    }
+  ]
 }

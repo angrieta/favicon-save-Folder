@@ -4,11 +4,90 @@
   "requested_url": "https://www.cartrawler.com/",
   "page_url": "https://corporate.cartrawler.com/en-gb/",
   "page_title": "B2B Car Rental & Mobility Solutions for the Travel Industry - CarTrawler",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/cartrawler/favicon.webp",
-  "favicon_source_url": "https://corporate.cartrawler.com/wp-content/themes/oshin_child/images/favicons/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/cartrawler/og.webp",
-  "og_source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/ct-social-default.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/cartrawler/favicon.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/themes/oshin_child/images/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/webp",
+      "bytes": 1512,
+      "sha256": "0bc8a903651ef12f7bdbad3e5277fcfc40b857487efcaaf59117c091079563b6",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/cartrawler/og.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/ct-social-default.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7084,
+      "sha256": "6dd30e3a4e43a529f24c01e8677ca6a69cdb5faae8ba797525ff67d0cbf2ef0d",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/cartrawler/logo-1.svg",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2021/12/ct-logo-light.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img transparent-logo dark-scheme-logo CarTrawler a div logo div header-wrap be-wrap clearfix div header-inner-wrap transparent background--dark style1",
+      "content_type": "image/svg+xml",
+      "bytes": 9972,
+      "sha256": "6d955740d947659fc581864585a9ecb4b9e8a88a98413a829780c3d304c2594c",
+      "width": 258,
+      "height": 40
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/cartrawler/logo-2.svg",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2021/12/ct-logo-dark.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img sticky-logo CarTrawler a div logo div header-wrap be-wrap clearfix div header-inner-wrap transparent background--dark style1",
+      "content_type": "image/svg+xml",
+      "bytes": 10031,
+      "sha256": "a7dd63413c8324e4f0c2efd04750c36c0949e8f0848dc6a95f466e86e455b779",
+      "width": 258,
+      "height": 40
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-1.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Homepage-The-Human-TravelTech-Company-3.jpg",
+      "source_tag": "img:page-image",
+      "context": "img tatsu-gradient-border   div tatsu-single-image-inner div tatsu-single-image tatsu-module tatsu-image-lazyload tatsu-external-image tatsu-SJfdLTJR2K rounded-corners--left has-tab--right js-in-view zoom-in-in-view div tatsu-column-pad div",
+      "content_type": "image/webp",
+      "bytes": 194800,
+      "sha256": "6b2c0d66b10cebbdca5c7473e80aa8bc6bed32a524e5cfd56df8cac4cd276b83",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-2.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Homapage-Partnerships-Powered-by-CarTrawler.jpg",
+      "source_tag": "img:page-image",
+      "context": "img tatsu-gradient-border   div tatsu-single-image-inner div tatsu-single-image tatsu-module tatsu-image-lazyload tatsu-external-image tatsu-Syfd6pkC3F rounded-corners--left has-tab--right js-in-view zoom-in-in-view div tatsu-column-pad div",
+      "content_type": "image/webp",
+      "bytes": 358158,
+      "sha256": "0f49a766a327e5116f4249ad5ffb29110086defd6abcfe256f596af11e227aa0",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-3.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/easyJet-Logo.png",
+      "source_tag": "img:page-image",
+      "context": "img tatsu-gradient-border easyJet Logo easyJet-Logo div tatsu-single-image-inner div tatsu-single-image tatsu-module align-center tatsu-image-lazyload tatsu-HJj1-kxwTY div tatsu-column-pad div tatsu-column-pad-wrap",
+      "content_type": "image/webp",
+      "bytes": 10018,
+      "sha256": "cb67b52fa1d3053bdbade84f7d61ff5401905a3b60522ec2a8aa78a065061491",
+      "width": 800,
+      "height": 300
+    }
+  ]
 }

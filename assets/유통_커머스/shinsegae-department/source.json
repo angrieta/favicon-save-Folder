@@ -4,11 +4,30 @@
   "requested_url": "https://www.shinsegae.com/",
   "page_url": "https://www.shinsegae.com/",
   "page_title": "신세계백화점",
-  "page_status": "browser",
-  "favicon_path": "assets/유통_커머스/shinsegae-department/favicon.png",
-  "favicon_source_url": "https://www.shinsegae.com/resources/site/img/favicons.png",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/유통_커머스/shinsegae-department/og.jpg",
-  "og_source_url": "https://www.shinsegae.com/resources/site/img/share_thumb.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/shinsegae-department/favicon.png",
+      "source_url": "https://www.shinsegae.com/resources/site/img/favicons.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1275,
+      "sha256": "724c614b999e4e7902d9933f8dcdf312b19698d12d75a8e2f84890fee2af0b8a",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/shinsegae-department/og.jpg",
+      "source_url": "https://www.shinsegae.com/resources/site/img/share_thumb.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 6438,
+      "sha256": "100c768797c0eebd9121b53e9801dd161aee8c26245f063d715a32f99bdc953c",
+      "width": 200,
+      "height": 200
+    }
+  ]
 }

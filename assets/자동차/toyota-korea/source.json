@@ -4,11 +4,114 @@
   "requested_url": "https://www.toyota.co.kr/",
   "page_url": "https://www.toyota.co.kr/",
   "page_title": "한국 토요타 자동차",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/toyota-korea/favicon.png",
-  "favicon_source_url": "https://www.toyota.co.kr/favicon_ios.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/자동차/toyota-korea/og.jpg",
-  "og_source_url": "https://www.toyota.co.kr/image/toyota_cover.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1865710630340839&ev=PageView&noscript=1; reference:ValueError:https://www.facebook.com/tr?id=246843276183216&ev=PageView&noscript=1; reference:ValueError:https://www.facebook.com/tr?id=2640360839473070&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/toyota-korea/favicon.png",
+      "source_url": "https://www.toyota.co.kr/favicon_ios.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 15662,
+      "sha256": "328482a6366345f668d9652fd2be6c5c78f24d277311aff70e2214cf87fa92e4",
+      "width": 114,
+      "height": 114
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/toyota-korea/og.jpg",
+      "source_url": "https://www.toyota.co.kr/image/toyota_cover.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 276149,
+      "sha256": "011ad771c695d3839ae0d540ae9847eab7157e20d8eee228c465653510b5804f",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/toyota-korea/logo-1.svg",
+      "source_url": "https://www.toyota.co.kr/assets/img/svg/logo-toyota-gazoo-racing.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img toyota gazoo racing figure li ul nav",
+      "content_type": "image/svg+xml",
+      "bytes": 10087,
+      "sha256": "c06953e12350c239f3774f048da9c0edce084ec2aaef5c3c06a4b133a5b69b2f",
+      "width": 238,
+      "height": 73
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/toyota-korea/logo-2.svg",
+      "source_url": "https://www.toyota.co.kr/assets/img/svg/svg-sns-instagram.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img toyota instagram figure li ul nav",
+      "content_type": "image/svg+xml",
+      "bytes": 2374,
+      "sha256": "e75d5686af58add9e05daed1d775bf0eb4f0a0da1027702b9e6f4a005eacf5c5",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/toyota-korea/banner-1.webp",
+      "source_url": "https://www.toyota.co.kr/assets/img/home/home-hero-rav4.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img new era 1 figure li ul div",
+      "content_type": "image/webp",
+      "bytes": 244328,
+      "sha256": "4b2f26989f03ab5b744988638d086025152de4c2b44b6da68d5759654d0ef7a5",
+      "width": 1800,
+      "height": 930
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/toyota-korea/banner-2.webp",
+      "source_url": "https://www.toyota.co.kr/assets/img/home/home-hero-rav4-1.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img PHEV GR SPORT figure li ul li",
+      "content_type": "image/webp",
+      "bytes": 31954,
+      "sha256": "2752a9f8f5dabaaffd00f4877c0ef3edfe2e5799b16bcec4a0d0baeb6b6c9fea",
+      "width": 1552,
+      "height": 760
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/toyota-korea/reference-1.webp",
+      "source_url": "https://www.toyota.co.kr/assets/img/home/home-hero-rav4-2.webp",
+      "source_tag": "img:page-image",
+      "context": "img PHEV XSE figure li ul li",
+      "content_type": "image/webp",
+      "bytes": 37484,
+      "sha256": "8cf09ee1ad598abf517e34092e17f399275a7c19bb4bc92da6bafd7015b91bfc",
+      "width": 1552,
+      "height": 760
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/toyota-korea/reference-2.webp",
+      "source_url": "https://www.toyota.co.kr/assets/img/home/home-hero-rav4-3.webp",
+      "source_tag": "img:page-image",
+      "context": "img HEV LIMITED figure li ul li",
+      "content_type": "image/webp",
+      "bytes": 38542,
+      "sha256": "3f15ed3998dbb37175878eebbd2caa6005bb938b33819295dc6797d4eee48ab8",
+      "width": 1552,
+      "height": 760
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/toyota-korea/reference-3.webp",
+      "source_url": "https://www.toyota.co.kr/assets/img/home/home-hero-rav4-4.webp",
+      "source_tag": "img:page-image",
+      "context": "img HEV XLE figure li ul li",
+      "content_type": "image/webp",
+      "bytes": 39622,
+      "sha256": "cab9eb5b18598589093c42abde8724d831b75849fe2f50a25f70f372c9f74c34",
+      "width": 1552,
+      "height": 760
+    }
+  ]
 }

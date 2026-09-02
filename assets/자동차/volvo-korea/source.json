@@ -4,11 +4,19 @@
   "requested_url": "https://www.volvocars.com/kr/",
   "page_url": "https://www.volvocars.com/kr/",
   "page_title": "Access Denied",
-  "page_status": "browser",
-  "favicon_path": "assets/자동차/volvo-korea/favicon.ico",
-  "favicon_source_url": "https://www.volvocars.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.volvocars.com/kr/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/volvo-korea/favicon.ico",
+      "source_url": "https://www.volvocars.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 32988,
+      "sha256": "897015c5091dffdddeef0886e7ee0143707209df86ca96542cb31c2814ec456e",
+      "width": 64,
+      "height": 64
+    }
+  ]
 }

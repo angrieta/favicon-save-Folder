@@ -4,11 +4,42 @@
   "requested_url": "https://www.paylesscar.com/",
   "page_url": "https://www.paylesscar.com/en/home",
   "page_title": "Get the Best Rental Cars at Discount Rates | Payless Rent a Car",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/payless/favicon.png",
-  "favicon_source_url": "https://www.paylesscar.com/etc/designs/payless/reservationlib/clientlib/images/favicon.png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/렌터카_글로벌/payless/og.jpg",
-  "og_source_url": "https://www.paylesscar.com/content/dam/payless/na/us/common/offers/payless-thumbnail-2440x1000.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/payless/favicon.png",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/reservationlib/clientlib/images/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1150,
+      "sha256": "c5e8d06bb9d49da2ae7011e8d315faf81b2cb6262627d95f647ed5f039431aa8",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/payless/og.jpg",
+      "source_url": "https://www.paylesscar.com/content/dam/payless/na/us/common/offers/payless-thumbnail-2440x1000.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 341858,
+      "sha256": "f5a4106f6ef408dee0568c0f38b0f40d3a1167176daa56092cc96bba520e0423",
+      "width": 2440,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-1.webp",
+      "source_url": "https://www.paylesscar.com/content/dam/payless/na/us/common/offers/Yellow_Car.png",
+      "source_tag": "img:page-image",
+      "context": "img img-responsive Pay Now. Save Big. div right-promocar-img div cell-content-text div cell-content cell-ht-1x-sm div image section home-offers",
+      "content_type": "image/webp",
+      "bytes": 31352,
+      "sha256": "eaa64c295f7faa1988accfac299cbc4bd90028af7e58fb3e8d2b525a1cab29e3",
+      "width": 540,
+      "height": 295
+    }
+  ]
 }

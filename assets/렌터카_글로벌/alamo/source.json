@@ -4,11 +4,19 @@
   "requested_url": "https://www.alamo.com/",
   "page_url": "https://www.alamo.com/en/home.html",
   "page_title": "Cheap Car Rental in the U.S., Latin America & More - Alamo Rent a Car",
-  "page_status": "browser",
-  "favicon_path": "assets/렌터카_글로벌/alamo/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.alamo.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.alamo.com/en/home.html",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/alamo/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.alamo.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 2012,
+      "sha256": "13d0fc3bf82011da47613debce1cc66ffff96023a0754a26f0d747747ab809f7",
+      "width": 48,
+      "height": 48
+    }
+  ]
 }

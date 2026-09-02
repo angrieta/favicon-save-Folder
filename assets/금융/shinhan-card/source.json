@@ -4,11 +4,66 @@
   "requested_url": "https://www.shinhancard.com/",
   "page_url": "https://www.shinhancard.com/",
   "page_title": "신한카드",
-  "page_status": "200",
-  "favicon_path": "assets/금융/shinhan-card/favicon.png",
-  "favicon_source_url": "https://www.shinhancard.com/pconts/static/favicons/icon_196.png",
-  "favicon_source_tag": "apple-touch-icons",
-  "og_path": "assets/금융/shinhan-card/og.png",
-  "og_source_url": "https://www.shinhancard.com/pconts/static/images/common/share/default_share.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/shinhan-card/favicon.png",
+      "source_url": "https://www.shinhancard.com/pconts/static/favicons/icon_196.png",
+      "source_tag": "apple-touch-icons",
+      "content_type": "image/png",
+      "bytes": 5918,
+      "sha256": "1818ad53b6ad9733b689916867d448ca9aa4de39f2ae218f752d7e1e1ed563b7",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/shinhan-card/og.png",
+      "source_url": "https://www.shinhancard.com/pconts/static/images/common/share/default_share.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 5698,
+      "sha256": "4c018d89486bae079c3763b942e0bb7cfe5cf9fa4315acd94b6a80a0e1b1f546",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/shinhan-card/reference-1.webp",
+      "source_url": "https://cdn.www.shinhancard.com/pconts/static/images/card/plate/POEDR2_E5_v_f_d.webp",
+      "source_tag": "json-ld.itemListElement[0].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 32572,
+      "sha256": "3e7ed77ef5152fafb3f35bd47a130c11c7d7ca0b4d25114148dfb72c22455962",
+      "width": 1119,
+      "height": 705
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/shinhan-card/reference-2.webp",
+      "source_url": "https://cdn.www.shinhancard.com/pconts/static/images/card/plate/BIABE0_E5_v_f_d.webp",
+      "source_tag": "json-ld.itemListElement[1].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 5052,
+      "sha256": "c43c2ee20123e617b6f3a1b889c797a83ef09f5ad72bf731b8c942c2f54dda69",
+      "width": 744,
+      "height": 468
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/shinhan-card/reference-3.webp",
+      "source_url": "https://cdn.www.shinhancard.com/pconts/static/images/card/plate/POHDXD_G4_v_f_d.webp",
+      "source_tag": "json-ld.itemListElement[2].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 15872,
+      "sha256": "1a86541c99bf3cbf2cdd9a9d04a4df69c610850f9306cbdcb2dfc08acc0652f1",
+      "width": 744,
+      "height": 468
+    }
+  ]
 }

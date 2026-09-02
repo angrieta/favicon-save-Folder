@@ -4,11 +4,19 @@
   "requested_url": "https://www.jinair.com/",
   "page_url": "https://www.jinair.com/",
   "page_title": "Attention Required! | Cloudflare",
-  "page_status": "browser",
-  "favicon_path": "assets/항공_여행/jin-air/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.jinair.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.jinair.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/jin-air/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.jinair.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 468,
+      "sha256": "e30017987e136f69966efa74e618f851406a8a7dd716107183de463e37612d87",
+      "width": 16,
+      "height": 16
+    }
+  ]
 }

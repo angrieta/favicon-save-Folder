@@ -4,11 +4,19 @@
   "requested_url": "https://www.audi.co.kr/",
   "page_url": "https://www.audi.co.kr/",
   "page_title": "Access Denied",
-  "page_status": "browser",
-  "favicon_path": "assets/자동차/audi-korea/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.audi.co.kr&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.audi.co.kr/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/audi-korea/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.audi.co.kr&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 969,
+      "sha256": "3e7ba8e316d43482e4fde152d94e3536090e89546603a69d801c2b952d2ae5b7",
+      "width": 48,
+      "height": 48
+    }
+  ]
 }

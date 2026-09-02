@@ -4,11 +4,19 @@
   "requested_url": "https://www.gmarket.co.kr/",
   "page_url": "https://www.gmarket.co.kr/",
   "page_title": "잠시만 기다리십시오…",
-  "page_status": "browser",
-  "favicon_path": "assets/유통_커머스/gmarket/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.gmarket.co.kr&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.gmarket.co.kr/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/gmarket/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.gmarket.co.kr&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 21762,
+      "sha256": "f349f418f03ca698494b1e139f9fe4333686e4a174fc9dcda6b48fa554e4db0b",
+      "width": 180,
+      "height": 180
+    }
+  ]
 }

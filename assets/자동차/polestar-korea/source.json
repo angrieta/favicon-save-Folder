@@ -4,11 +4,90 @@
   "requested_url": "https://www.polestar.com/kr/",
   "page_url": "https://www.polestar.com/kr/",
   "page_title": "퍼포먼스를 위해 디자인된 전기차 | Polestar 대한민국",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/polestar-korea/favicon.webp",
-  "favicon_source_url": "https://www.polestar.com/w3-assets/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/자동차/polestar-korea/og.avif",
-  "og_source_url": "https://www.polestar.com/dato-assets/94392/1781079972-polestar-4-my27-seo-rear.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/polestar-korea/favicon.webp",
+      "source_url": "https://www.polestar.com/w3-assets/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/webp",
+      "bytes": 646,
+      "sha256": "cda936b65d488ed8b09f8428e615c90f12c5df754dbaa09b7852057f9257d4a7",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/polestar-korea/og.avif",
+      "source_url": "https://www.polestar.com/dato-assets/94392/1781079972-polestar-4-my27-seo-rear.png",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 16076,
+      "sha256": "2a13072a166fc9a5b1e7e24897cfda79165c299243ce7d328f59ca93faa5da4a",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/polestar-korea/logo-1.webp",
+      "source_url": "https://www.polestar.com/dato-assets/94392/1771837116-home-brand-lcareport-2026-d.png?fm=avif&only-imgix=true&fit=min&q=25&dpr=3&w=1984",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture css-h24sai div css-14qf8lh div css-t4nnij div css-uk9mhb section css-19u8wjd",
+      "content_type": "image/webp",
+      "bytes": 25094,
+      "sha256": "80c0bbd335d109f614ba72533bf9189be84d3e94d821163425163180301f7cb5",
+      "width": 1600,
+      "height": 778
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/polestar-korea/logo-2.webp",
+      "source_url": "https://www.polestar.com/dato-assets/94392/1771837116-home-brand-lcareport-2026-d.png?fm=avif&only-imgix=true&fit=min&q=35&dpr=2&w=1984",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture css-h24sai div css-14qf8lh div css-t4nnij div css-uk9mhb section css-19u8wjd",
+      "content_type": "image/webp",
+      "bytes": 26030,
+      "sha256": "bee99d8f26c5738a706c8aaecfa330e4f0911bd95111ce2a6b842b9b1ab4525d",
+      "width": 1600,
+      "height": 778
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/polestar-korea/reference-1.webp",
+      "source_url": "https://www.polestar.com/dato-assets/11286/1715759218-ps2-light.png",
+      "source_tag": "picture:page-image",
+      "context": "picture css-13wnjz8 div css-74nzar div css-5v7dqw div css-19f9jwq div css-n7jehm",
+      "content_type": "image/webp",
+      "bytes": 40716,
+      "sha256": "0eb0e779bd46eb06830017fa3fab3b59c58f87b6efd1d60f7a5044f1e55e36ef",
+      "width": 1475,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/polestar-korea/reference-2.webp",
+      "source_url": "https://www.polestar.com/dato-assets/11286/1715759218-ps2-light.png?w=535&dpr=2",
+      "source_tag": "picture:page-image",
+      "context": "picture css-13wnjz8 div css-74nzar div css-5v7dqw div css-19f9jwq div css-n7jehm",
+      "content_type": "image/webp",
+      "bytes": 24964,
+      "sha256": "a30af36af1e117e438eddab3b6555b72c158abe70e80726d872ad5b288702aa0",
+      "width": 1070,
+      "height": 363
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/polestar-korea/reference-3.webp",
+      "source_url": "https://www.polestar.com/dato-assets/11286/1759244063-megamenu-ps3-my26.png",
+      "source_tag": "picture:page-image",
+      "context": "picture css-13wnjz8 div css-74nzar div css-5v7dqw div css-19f9jwq div css-n7jehm",
+      "content_type": "image/webp",
+      "bytes": 50398,
+      "sha256": "f64718f37675c9f23e6022069cc7109fb94861ce7f92eca712461916a9c2795e",
+      "width": 1475,
+      "height": 500
+    }
+  ]
 }

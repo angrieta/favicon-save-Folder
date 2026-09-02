@@ -4,11 +4,19 @@
   "requested_url": "https://ridicorp.com/",
   "page_url": "",
   "page_title": "",
-  "page_status": "error",
-  "favicon_path": "assets/테크_플랫폼/ridibooks/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fridicorp.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://ridicorp.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/ridibooks/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fridicorp.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 896,
+      "sha256": "9e7bafbcdadb58e3ae125c6a9c26b02f7fac510ba85bb0958af3f224729e06bb",
+      "width": 192,
+      "height": 192
+    }
+  ]
 }

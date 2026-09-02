@@ -4,11 +4,90 @@
   "requested_url": "https://www.genesis.com/kr/ko/main.html",
   "page_url": "https://www.genesis.com/kr/ko",
   "page_title": "제네시스 공식 웹사이트 | 럭셔리 세단·SUV·전기차 | GENESIS Korea",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/genesis/favicon.jpg",
-  "favicon_source_url": "https://dams.hyundai-autoever.com/cdn-cgi/image/width=500,height=400/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303038363231/Favicon.jpg",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/자동차/genesis/og.avif",
-  "og_source_url": "https://dams.hyundai-autoever.com/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303133383737/assets/OG-Image.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.genesis.com/kr/format=auto/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303038373538/genesis-kr-space-suji-key-visual-large-1440x735.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/genesis/favicon.jpg",
+      "source_url": "https://dams.hyundai-autoever.com/cdn-cgi/image/width=500,height=400/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303038363231/Favicon.jpg",
+      "source_tag": "icon",
+      "content_type": "image/jpeg",
+      "bytes": 3320,
+      "sha256": "c0b1e828536bfc706185ee7e950e0324df6965abf33ca18b051c7319ab915c56",
+      "width": 288,
+      "height": 288
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/genesis/og.avif",
+      "source_url": "https://dams.hyundai-autoever.com/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303133383737/assets/OG-Image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 7260,
+      "sha256": "b2ba56526066cd1f00ea1c98328a3c0e6d32dae1e4395e66d88f9f73c8ebd597",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/genesis/logo-1.webp",
+      "source_url": "https://dams.hyundai-autoever.com/cdn-cgi/image/width=1440,height=735,fit=cover,quality=85,format=auto/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303038373538/genesis-kr-space-suji-key-visual-large-1440x735.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img only-pc Genesis Space Suji — Genesis brand experience destination div banner-item div embla__slide div embla__container div banner-slide embla embla-left",
+      "content_type": "image/webp",
+      "bytes": 182034,
+      "sha256": "17613587d588067329d1922048a475cb6c4db83f52996b60414452ddc210dc70",
+      "width": 1440,
+      "height": 735
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/genesis/logo-2.webp",
+      "source_url": "https://dams.hyundai-autoever.com/cdn-cgi/image/width=1440,height=735,fit=cover,quality=85,format=auto/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303038373632/genesis-kr-space-gangnam-key-visual-large-1440x735.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img only-pc Genesis Space Gangnam — Genesis brand experience destination div banner-item div embla__slide div embla__container div banner-slide embla embla-left",
+      "content_type": "image/webp",
+      "bytes": 133588,
+      "sha256": "05075e4c039b925dea6d327037384315b7fbac7cbef899f56d72409bf60cf6a1",
+      "width": 1440,
+      "height": 735
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/genesis/reference-1.webp",
+      "source_url": "https://dams.hyundai-autoever.com/cdn-cgi/image/width=600,height=700,fit=cover,quality=85,format=auto/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303136333239/main/hero-key-visual/genesis-gv90-2026-key-visual-small.png",
+      "source_tag": "inline-background-image",
+      "context": "video  media --poster-mo:url(\"https://dams.hyundai-autoever.com/cdn-cgi/image/width=600,height=700,fit=cover,quality=85,format=auto/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303136333239/main/hero-key-visual/genesis-gv90-20",
+      "content_type": "image/webp",
+      "bytes": 46350,
+      "sha256": "c27bb401ac82a3e001c8fde357f96b16f47b8f6939a159cf349d7c2e105c243c",
+      "width": 600,
+      "height": 700
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/genesis/reference-2.webp",
+      "source_url": "https://dams.hyundai-autoever.com/cdn-cgi/image/width=1920,height=920,fit=cover,quality=85,format=auto/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303136333238/main/hero-key-visual/genesis-gv90-2026-key-visual-large.png",
+      "source_tag": "inline-background-image",
+      "context": "video  media --poster-mo:url(\"https://dams.hyundai-autoever.com/cdn-cgi/image/width=600,height=700,fit=cover,quality=85,format=auto/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303136333239/main/hero-key-visual/genesis-gv90-20",
+      "content_type": "image/webp",
+      "bytes": 193688,
+      "sha256": "79a4268d2c12b415edb660646a9e7c6c1be768511eea4e5f03516c8214afe271",
+      "width": 1800,
+      "height": 863
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/genesis/reference-3.webp",
+      "source_url": "https://dams.hyundai-autoever.com/cdn-cgi/image/width=560,height=315,fit=cover,quality=85,format=auto/v1/openapi/hmg-presigned-url/50534b313031303030303030303030303130353937/genesis-g90-long-wheel-base-side-view-model-thumbnail.png",
+      "source_tag": "img:page-image",
+      "context": "img default-image G90 Long Wheel Base Side view thumbnail image a thumbnail-link div thumbnail-inner div thumbnail div common-vehicle-card",
+      "content_type": "image/webp",
+      "bytes": 8792,
+      "sha256": "4042f441fe7b512c9357ab6361b70a84365177d9d75710f29748f2812f43c999",
+      "width": 560,
+      "height": 315
+    }
+  ]
 }

@@ -4,11 +4,30 @@
   "requested_url": "https://www.starbucks.co.kr/",
   "page_url": "https://www.starbucks.co.kr/",
   "page_title": "",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/starbucks-korea/favicon.ico",
-  "favicon_source_url": "https://www.starbucks.co.kr/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/식품_생활/starbucks-korea/og.png",
-  "og_source_url": "https://image.istarbucks.co.kr/common/img/starbucks_2.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/starbucks-korea/favicon.ico",
+      "source_url": "https://www.starbucks.co.kr/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 113086,
+      "sha256": "014210540eac4b56f465ac4a60a8d6aea0e0f52a028ae56bdfd518808f203ee3",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/starbucks-korea/og.png",
+      "source_url": "https://image.istarbucks.co.kr/common/img/starbucks_2.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 53891,
+      "sha256": "49a0b5bfce12fbdee465c47789248553a928902f931766f88cebdbceede73e1b",
+      "width": 800,
+      "height": 800
+    }
+  ]
 }

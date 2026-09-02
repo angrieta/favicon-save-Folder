@@ -4,11 +4,114 @@
   "requested_url": "https://www.zoom.com/",
   "page_url": "https://www.zoom.com/",
   "page_title": "One platform to connect | Zoom",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/zoom/favicon.ico",
-  "favicon_source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/테크_플랫폼/zoom/og.png",
-  "og_source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/images/thumb.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/ZoomMate.webp; reference:ValueError:https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/my-notes-hp-card.webp; reference:ValueError:https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/ZoomMate.webp; reference:ValueError:https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/AI-suite.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/zoom/favicon.ico",
+      "source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 4286,
+      "sha256": "58b6fee1a883d9b798dea9dbf8f262fb8875e035bfa571792b8967c4c0434d26",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/zoom/og.png",
+      "source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/images/thumb.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 16986,
+      "sha256": "d5989bf5d3d11e60a42194801417920c68b329ac2121470992b10376807b622a",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/zoom/logo-1.png",
+      "source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/logo-zoom-white@2x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img zdcm-logo-white logo-zoom-white@2x.png a nav-header__logo div nav-header div nav-top header nav-workspace global-navigation zdcm-dark-mode",
+      "content_type": "image/png",
+      "bytes": 1630,
+      "sha256": "b518829237c9608f742c037757400edb4f978a37f2d8024b3687aab13248950a",
+      "width": 188,
+      "height": 43
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/zoom/logo-2.png",
+      "source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/logo-zoom@2x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img zdcm-logo-blue logo-zoom@2x.png a nav-header__logo div nav-header div nav-top header nav-workspace global-navigation zdcm-dark-mode",
+      "content_type": "image/png",
+      "bytes": 3216,
+      "sha256": "25f2ee3f1543576d0466aac4ae19e4417cf3aa5227408ed2e814b1371884bfe2",
+      "width": 232,
+      "height": 52
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/zoom/banner-1.webp",
+      "source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/baseball-club-bg-n.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  fdn-zdcm-customer-stories__story --dynamic-bg: url('https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/baseball-club-bg-n.jpg');",
+      "content_type": "image/webp",
+      "bytes": 50734,
+      "sha256": "192837022ad88cc79b713e9d77fea3007cf8c6b77b2ea5fa9aa61af52ba78740",
+      "width": 1800,
+      "height": 878
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/zoom/banner-2.webp",
+      "source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/Oxfordshire_County_Counci_Image.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  fdn-zdcm-customer-stories__story --dynamic-bg: url('https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/Oxfordshire_County_Counci_Image.jpg');",
+      "content_type": "image/webp",
+      "bytes": 52050,
+      "sha256": "cb737073f6fe11b8874c601b0446fdbe0d017521ea05fc9148b7bff70b66fccf",
+      "width": 1800,
+      "height": 878
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/zoom/reference-1.webp",
+      "source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/meetings.jpg",
+      "source_tag": "img:page-image",
+      "context": "img custom-swiper-slider__slide-image Meetings: Zoom Meetings app interface featuring various emoticons for enhanced communication and engagement. a div custom-swiper-slider__slide-content div custom-swiper-slider__slide div sliderWrapper c",
+      "content_type": "image/webp",
+      "bytes": 43482,
+      "sha256": "011c6d41613824e057887cd2e97ce0cef03ba1ecb596d6585cabee4a5735a99f",
+      "width": 600,
+      "height": 801
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/zoom/reference-2.webp",
+      "source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/phone.jpg",
+      "source_tag": "img:page-image",
+      "context": "img custom-swiper-slider__slide-image A woman engaged in a conversation on Zoom Phone, smiling as she talks. a div custom-swiper-slider__slide-content div custom-swiper-slider__slide div sliderWrapper custom-swiper-slider__wrapper",
+      "content_type": "image/webp",
+      "bytes": 35802,
+      "sha256": "e25e2b8e3895f2dbeb2d18451a1232d7a2d2b89d0a2a5754c71bef93ecb493be",
+      "width": 600,
+      "height": 801
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/zoom/reference-3.webp",
+      "source_url": "https://st1.zoom.us/homepage/20260825-1235/primary/dist/assets/zoommedia/web.jpg",
+      "source_tag": "img:page-image",
+      "context": "img custom-swiper-slider__slide-image Live video chat screenshot from a webinar, featuring multiple participants interacting and presenting information. a div custom-swiper-slider__slide-content div custom-swiper-slider__slide div sliderWra",
+      "content_type": "image/webp",
+      "bytes": 43126,
+      "sha256": "53de20cda6b85e998f50b0c8751a1f09d6c25d67a22db5133d3cbd4f2814eebf",
+      "width": 600,
+      "height": 800
+    }
+  ]
 }

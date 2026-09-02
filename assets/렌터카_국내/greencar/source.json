@@ -4,11 +4,90 @@
   "requested_url": "https://www.greencar.co.kr/",
   "page_url": "https://www.greencar.co.kr/",
   "page_title": "(주)그린카(Greencar) 공식사이트",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/greencar/favicon.svg",
-  "favicon_source_url": "https://www.greencar.co.kr/images/Favicon-Greencar-48px.svg",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/렌터카_국내/greencar/og.png",
-  "og_source_url": "https://ghp-gn-ui.greencar.co.kr/pageMetaImage/2026/03/06/663ecf6c-28e9-4f76-92ab-37a690f1cd63.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.greencar.co.kr/images/main/section-01-01.mp4; reference:ValueError:https://www.greencar.co.kr/images/main/section-01-02.mp4; reference:ValueError:https://www.greencar.co.kr/images/main/section-01-03.mp4; reference:ValueError:https://www.greencar.co.kr/images/main/section-01-04.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/greencar/favicon.svg",
+      "source_url": "https://www.greencar.co.kr/images/Favicon-Greencar-48px.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 884,
+      "sha256": "9b6a287addc14c2cccc10dfed4c3310dbf88349eff8b341b4e0294dd88c4f53c",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/greencar/og.png",
+      "source_url": "https://ghp-gn-ui.greencar.co.kr/pageMetaImage/2026/03/06/663ecf6c-28e9-4f76-92ab-37a690f1cd63.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 37647,
+      "sha256": "6b943df24fc1feb76e2668b8aaa4cf24a00ff1a01ecc6890d5e41afb2273149c",
+      "width": 2400,
+      "height": 1260
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-1.png",
+      "source_url": "https://www.greencar.co.kr/images/og-Greencar.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 12141,
+      "sha256": "1249d53ba20b6bb3529b34deed1ecaad37fb2dbd82bb5125128f967ca6af451b",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-2.png",
+      "source_url": "https://www.greencar.co.kr/images/main/section-04-01-logo-mo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Gcar 로고 div logo div swiper-head div swiper-wrap div swiper-item swiper-slide swiper-slide-active",
+      "content_type": "image/png",
+      "bytes": 3028,
+      "sha256": "b7492cdd3246e46d69db04e63c979df326e4145536cc8f94c20ddd63732b7efb",
+      "width": 310,
+      "height": 80
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-1.svg",
+      "source_url": "https://www.greencar.co.kr/images/main/bg-01-01.svg",
+      "source_tag": "img:page-image",
+      "context": "img bg-01-01 div bg div sub-section-wrap div sub-section sub-section-01 div section-wrap",
+      "content_type": "image/svg+xml",
+      "bytes": 1007,
+      "sha256": "b7761cb29b99c893adf1bd206fc777e992c000def2aec2e3194f6c97baa246ec",
+      "width": 777,
+      "height": 1086
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-2.svg",
+      "source_url": "https://www.greencar.co.kr/images/main/bg-02-01.svg",
+      "source_tag": "img:page-image",
+      "context": "img bg-02-01 div bg div sub-section-wrap div sub-section sub-section-02 div section-wrap",
+      "content_type": "image/svg+xml",
+      "bytes": 745,
+      "sha256": "b4d8536e842a441d6977bcddd23fd8555b57e98bcffa18de040120e0bae67a4d",
+      "width": 995,
+      "height": 1216
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-3.svg",
+      "source_url": "https://www.greencar.co.kr/images/main/bg-03-01.svg",
+      "source_tag": "img:page-image",
+      "context": "img bg-03-01 div bg div sub-section-wrap div sub-section sub-section-03 div section-wrap",
+      "content_type": "image/svg+xml",
+      "bytes": 549,
+      "sha256": "252daa9f7001ac5013472b032d9aadbd368a5a77c762ff9990e8f77479d66874",
+      "width": 920,
+      "height": 920
+    }
+  ]
 }

@@ -4,11 +4,19 @@
   "requested_url": "https://www.oliveyoung.co.kr/",
   "page_url": "https://www.oliveyoung.co.kr/",
   "page_title": "잠시만 기다리십시오…",
-  "page_status": "browser",
-  "favicon_path": "assets/유통_커머스/olive-young/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.oliveyoung.co.kr&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.oliveyoung.co.kr/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/olive-young/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.oliveyoung.co.kr&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 1097,
+      "sha256": "a8929b4f919270bf89c525f60df2219d1be07268ebe63c106a2d4c20ee516dd4",
+      "width": 114,
+      "height": 114
+    }
+  ]
 }

@@ -4,11 +4,79 @@
   "requested_url": "https://www.dollar.com/",
   "page_url": "https://www.dollar.com/",
   "page_title": "",
-  "page_status": "browser",
-  "favicon_path": "assets/렌터카_글로벌/dollar/favicon.ico",
-  "favicon_source_url": "https://www.dollar.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/dollar/favicon.ico",
+      "source_url": "https://www.dollar.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "eb5c566d76af6aed7ce4807bb31b1523410e4fa51e8cefb02a7ad9e584826341",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/dollar/logo-1.svg",
+      "source_url": "https://www.dollaragent.kr/dollar_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 달러 렌터카 a div ctr_1400 div header-main div header",
+      "content_type": "image/svg+xml",
+      "bytes": 3093,
+      "sha256": "79fd64d9edaa5b15a6f518b6adeb0de35442a02db54ce6fb032c31e9e72ae9fd",
+      "width": 127,
+      "height": 52
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/dollar/banner-1.webp",
+      "source_url": "https://img-doollarkr2.gohertz.cn/Upload/image/20200312/20200312022604_5791.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  index_banner background: url('https://img-doollarkr2.gohertz.cn/Upload/image/20200312/20200312022604_5791.jpg') no-repeat center center",
+      "content_type": "image/webp",
+      "bytes": 270552,
+      "sha256": "a5d419045b867e641b52869ff1558558e839cfd78e793a1a3b86f0df02dc17c1",
+      "width": 1800,
+      "height": 552
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-1.webp",
+      "source_url": "https://img-doollarkr2.gohertz.cn/Upload/image/20200220/20200220055603_2381.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a li ul fixed div index_part3",
+      "content_type": "image/webp",
+      "bytes": 19766,
+      "sha256": "cdfcea8b66c39970ed18f89997af32072d7c58328edb8033fe6e3f5b6c2c3ece",
+      "width": 635,
+      "height": 232
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-2.webp",
+      "source_url": "https://img-doollarkr2.gohertz.cn/Upload/image/20200218/20200218103234_8925.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a li ul fixed div index_part3",
+      "content_type": "image/webp",
+      "bytes": 19188,
+      "sha256": "55cf61f0dfe4a1b1d5cca8b61473cb33fbbb251f1b2f3ca1c2863be1a415d5fc",
+      "width": 633,
+      "height": 232
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-3.webp",
+      "source_url": "https://img-dollarkr.gohertz.cn/images/icon_sprite.png",
+      "source_tag": "inline-background-image",
+      "context": "a  bds_fbook share \r\n            background: url('https://img-dollarkr.gohertz.cn/images/icon_sprite.png')\r\n              no-repeat;\r\n            background-position: -115px -128px;\r\n          ",
+      "content_type": "image/webp",
+      "bytes": 24480,
+      "sha256": "e9bb1d32c1d8e8e6c31f12675cd18095409fe45a0a170cfa9a8b3e431f7ddfb4",
+      "width": 367,
+      "height": 605
+    }
+  ]
 }

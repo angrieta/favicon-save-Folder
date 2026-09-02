@@ -4,11 +4,90 @@
   "requested_url": "https://www.europcar.com/",
   "page_url": "https://www.europcar.com/en-us",
   "page_title": "Europcar: Rental Cars - Car Rental & Van Rental",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/europcar/favicon.png",
-  "favicon_source_url": "https://static.europcar.com/_nuxt/icons/icon_512x512.8e91c7.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/europcar/og.jpg",
-  "og_source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/1kF4MdDfdXNDbMYuob7ee6/cfa3eebd17f2f2ffb824048936cc7f5e/europcar-car-rental-.jpg?w=600&h=600",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://static.europcar.com/_nuxt/feb07d1.modern.js; reference:ValueError:https://static.europcar.com/_nuxt/a4e87c1.modern.js; reference:ValueError:https://static.europcar.com/_nuxt/css/1bca30c.css; reference:ValueError:https://static.europcar.com/_nuxt/09125e7.modern.js; reference:ValueError:https://static.europcar.com/_nuxt/css/328e143.css; reference:ValueError:https://static.europcar.com/_nuxt/c60c8ed.modern.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/europcar/favicon.png",
+      "source_url": "https://static.europcar.com/_nuxt/icons/icon_512x512.8e91c7.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5954,
+      "sha256": "0c602c336b00f0ea4932672d2c77ac8b0f754f48d4c9807c2120249ab820ca93",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/europcar/og.jpg",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/1kF4MdDfdXNDbMYuob7ee6/cfa3eebd17f2f2ffb824048936cc7f5e/europcar-car-rental-.jpg?w=600&h=600",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 47205,
+      "sha256": "b4441c823cbbc923f6cdf2c9f39b899a97364b7c05516fc18aaaf7700f32643b",
+      "width": 600,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/europcar/logo-1.svg",
+      "source_url": "https://static.europcar.com/_nuxt/img/main-logo.569c225.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img os-image header-logo__image Go to home page a header-logo nuxt-link-exact-active nuxt-link-active div header_component__context-items header header_component__navbar div header-component header_component header_component__container",
+      "content_type": "image/svg+xml",
+      "bytes": 6221,
+      "sha256": "6eafb679f88ba3bf2df1f7b0ab9fab4ea0699e79629fcd024172229e3c5f572b",
+      "width": 184,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/europcar/logo-2.png",
+      "source_url": "https://www.europcar.com/_nuxt/img/europcar-signature-green@3x.a2d761a.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 18730,
+      "sha256": "42cb20d381caee9cc8cbb8d347d2d788383ba45c56aa0e75f958ee1cffb7432d",
+      "width": 492,
+      "height": 246
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-1.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/3AVzlE6EOEnZ9v0uVTc7B2/397b718620c2cac5edbc44ad49a20c05/Background-HP_IA_VW_VF__1_.jpg?fm=webp",
+      "source_tag": "inline-background-image",
+      "context": "div  hero__main pb-3 hero__container background-image:url('https://images.ctfassets.net/wmdwnw6l5vg5/3AVzlE6EOEnZ9v0uVTc7B2/397b718620c2cac5edbc44ad49a20c05/Background-HP_IA_VW_VF__1_.jpg?fm=webp');",
+      "content_type": "image/webp",
+      "bytes": 29116,
+      "sha256": "2c06965ba6485041724f56fe20a93bf75c34e7521632296c1373e2ec1914d85e",
+      "width": 1280,
+      "height": 569
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-1.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/FKkhunbxg0hIIHkl7tOkM/991d517de0b8bea009b96c739e6875f4/vehicle-image_audi.png",
+      "source_tag": "img:page-image",
+      "context": "img os-image vehicle-card__image__img vehicle-type-premiums div vehicle-card__image div vehicle-card__image-link mt-auto a vehicle-card d-inline-flex flex-column flex-nowrap text-center text-decoration-none text-wrap os-slider__item div os-",
+      "content_type": "image/webp",
+      "bytes": 31486,
+      "sha256": "2c56e67e1f36452fb4bc67770654cb6c72b20e73696d93f505b4439db5f33b29",
+      "width": 1000,
+      "height": 667
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-2.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/7eSknBlxG6vxlTW1aPj3Ao/8b5df0bc5500399c70aca09b1595e3ee/vehicle-image_cupra-born_1000x667.png",
+      "source_tag": "img:page-image",
+      "context": "img os-image vehicle-card__image__img Electric  div vehicle-card__image div vehicle-card__image-link mt-auto a vehicle-card d-inline-flex flex-column flex-nowrap text-center text-decoration-none text-wrap os-slider__item div os-slider__item",
+      "content_type": "image/webp",
+      "bytes": 24374,
+      "sha256": "04c66f05c574405f072388954bdc95684da2a12949c315921f753a16970d2acd",
+      "width": 1000,
+      "height": 667
+    }
+  ]
 }

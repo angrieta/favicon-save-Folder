@@ -4,11 +4,19 @@
   "requested_url": "https://www.hertz.com/",
   "page_url": "https://www.hertz.com/rentacar/reservation/",
   "page_title": "허츠 렌터카",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/hertz/favicon.svg",
-  "favicon_source_url": "https://www.hertz.com/content/dam/hertz/global/resources/favicon.svg",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900; reference:ValueError:https://fonts.googleapis.com/css?family=Montserrat; reference:ValueError:https://fonts.googleapis.com/css?family=Muli; reference:ValueError:https://www.hertz.com/rentacar/assets/1787333591960/all/global.css; reference:ValueError:https://www.hertz.com/rentacar/assets/1787333591960/all/reservation/home/style.css; reference:ValueError:https://www.hertz.com/rentacar/assets/1787333591960/all/integrated/locations/popup/style.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/hertz/favicon.svg",
+      "source_url": "https://www.hertz.com/content/dam/hertz/global/resources/favicon.svg",
+      "source_tag": "shortcut icon",
+      "content_type": "image/svg+xml",
+      "bytes": 509,
+      "sha256": "deb87aaccd6d44d2686120755d5818f089cd979728fb61dbf612360fa0e2547b",
+      "width": 144,
+      "height": 144
+    }
+  ]
 }

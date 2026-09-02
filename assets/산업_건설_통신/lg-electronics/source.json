@@ -4,11 +4,114 @@
   "requested_url": "https://www.lge.co.kr/",
   "page_url": "https://www.lge.co.kr/home",
   "page_title": "LGE.COM | LG전자",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/lg-electronics/favicon.ico",
-  "favicon_source_url": "https://www.lge.co.kr/lg5-common/images/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/산업_건설_통신/lg-electronics/og.avif",
-  "og_source_url": "https://static.lge.co.kr/lg5-common/images/common/share/share-default.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/lg-electronics/favicon.ico",
+      "source_url": "https://www.lge.co.kr/lg5-common/images/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 46152,
+      "sha256": "c40fe4c7a0d81c33fb9e5624ddf0b4625108a5ff93c35481b473a54bd933d8e4",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/lg-electronics/og.avif",
+      "source_url": "https://static.lge.co.kr/lg5-common/images/common/share/share-default.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 66933,
+      "sha256": "3a3ae0da2f72284e447ba2f8050e699967d31593f2a6b7ae6b134c2b353767cc",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/lg-electronics/logo-1.png",
+      "source_url": "https://static.lge.co.kr/kr/images/nextjs/lg_logo_213x56.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img LG전자 로고 a LG전자 div CommonPcGnb_logo___kjxo section CommonPcGnb_top__IrABU div CommonPcGnb_inner__11s6U",
+      "content_type": "image/png",
+      "bytes": 3862,
+      "sha256": "01689b1d023da1b4124b216486f51f50a1fa178b9d58564d6b0b45734f1ca19c",
+      "width": 213,
+      "height": 56
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/lg-electronics/logo-2.svg",
+      "source_url": "https://www.lge.co.kr//lg5-common/images/header/logo_SKS.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img SKS a li ul CommonPcGnb_brand_link__Yvag4 div CommonPcGnb_nav_brand__mmfAd",
+      "content_type": "image/svg+xml",
+      "bytes": 8355,
+      "sha256": "b38e59a9264257fd2f242dae49b96760914c4fd62b7465c14c0e109e28772795",
+      "width": 54,
+      "height": 18
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/lg-electronics/banner-1.webp",
+      "source_url": "https://static.lge.co.kr/kr/upload/admin/display/displayObject/PC_20260901_160810.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img WONDERFUL SALE, 엘지닷, 달 아이콘 div HomePcBannerHero_banner_hero_image__pDans a HomePcBannerHero_banner_hero_item__DbFzn div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 76068,
+      "sha256": "390d9bfb610efe926a81eec08954d4fb4388fe4839803032c8f848e32a25069a",
+      "width": 1760,
+      "height": 500
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/lg-electronics/banner-2.webp",
+      "source_url": "https://static.lge.co.kr/kr/upload/admin/display/displayObject/PC_20260901_161004.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img WONDERFUL SALE, 구독도 엘지닷 div HomePcBannerHero_banner_hero_image__pDans a HomePcBannerHero_banner_hero_item__DbFzn div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 97096,
+      "sha256": "6a3cd3b4f5e3e2ae969ca72004cd5015a62101c0fc6af9c3085823eb7c979817",
+      "width": 1760,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lg-electronics/reference-1.webp",
+      "source_url": "https://static.lge.co.kr/kr/upload/admin/display/displayObject/fridge_PC_20260901_114605.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 냉장고, 김치냉장고 최강 혜택전 신선페스타 div HomePcBannerHero_banner_hero_image__pDans a HomePcBannerHero_banner_hero_item__DbFzn div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 29410,
+      "sha256": "db229009f13c4a54c3d14cfc2ccc1860ec145baf98645f431ae4ce1e5fc5a88c",
+      "width": 1760,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lg-electronics/reference-2.webp",
+      "source_url": "https://static.lge.co.kr/kr/upload/admin/display/displayObject/homemain_hero_banner_PC_20260814_181808.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 화면이 켜진 그램 노트북 div HomePcBannerHero_banner_hero_image__pDans a HomePcBannerHero_banner_hero_item__DbFzn div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 20386,
+      "sha256": "88beefd970a60715b0e4e00c7963d28873611cd19cbbfe99a64494bfe2b05e2e",
+      "width": 1760,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lg-electronics/reference-3.webp",
+      "source_url": "https://static.lge.co.kr/kr/upload/admin/display/displayObject/PC_20260828_181700.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 시디즈 의자 2대 div HomePcBannerHero_banner_hero_image__pDans a HomePcBannerHero_banner_hero_item__DbFzn div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 12802,
+      "sha256": "34d920b08b08fd2e215688921cf5a28a607efd275273b2a73cb424f677349b7e",
+      "width": 1760,
+      "height": 500
+    }
+  ]
 }

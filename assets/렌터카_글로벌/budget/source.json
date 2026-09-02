@@ -4,11 +4,19 @@
   "requested_url": "https://www.budget.com/",
   "page_url": "https://www.budget.com/en/home",
   "page_title": "Discount car rental rates and rental car deals | Budget Car Rental",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/budget/favicon.png",
-  "favicon_source_url": "https://www.budget.com/etc/designs/budget/reservationlib/clientlib/images/favicon.png",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.budget.com/budgetWeb/images/newlayout/budgetLogoNew1.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/budget/favicon.png",
+      "source_url": "https://www.budget.com/etc/designs/budget/reservationlib/clientlib/images/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2612,
+      "sha256": "6e0052272a588528ebc11d0a785f538dfad24b70f3620eac7643da2c3b09075f",
+      "width": 57,
+      "height": 57
+    }
+  ]
 }

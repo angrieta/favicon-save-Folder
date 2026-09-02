@@ -4,11 +4,31 @@
   "requested_url": "https://www.bccard.com/",
   "page_url": "https://www.bccard.com/",
   "page_title": "BCcard",
-  "page_status": "200",
-  "favicon_path": "assets/금융/bc-card/favicon.ico",
-  "favicon_source_url": "https://www.bccard.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/bc-card/favicon.ico",
+      "source_url": "https://www.bccard.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4101,
+      "sha256": "fe901b6f06fe5ba5d670e1a4076746d855c1b5fd29da5e6dc93bf1f850cdfc6c",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/bc-card/logo-1.webp",
+      "source_url": "https://www.bccard.com/images/sns/h1_logo.gif",
+      "source_tag": "img:semantic-logo",
+      "context": "img BCcard h1 logo div inner div header body",
+      "content_type": "image/webp",
+      "bytes": 1774,
+      "sha256": "7aae28c89ee1706616243219de9704e934dd8835975c3c9c68b0b65e8e5287a4",
+      "width": 121,
+      "height": 30
+    }
+  ]
 }

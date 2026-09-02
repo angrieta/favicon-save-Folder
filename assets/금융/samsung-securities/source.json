@@ -4,11 +4,19 @@
   "requested_url": "https://www.samsungpop.com/",
   "page_url": "https://www.samsungpop.com/",
   "page_title": "삼성증권 홈페이지",
-  "page_status": "200",
-  "favicon_path": "assets/금융/samsung-securities/favicon.ico",
-  "favicon_source_url": "https://www.samsungpop.com/images/common/logo.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/samsung-securities/favicon.ico",
+      "source_url": "https://www.samsungpop.com/images/common/logo.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "51db1d97e5f69266691598ab25606d47a43e5cd3aafc16037088a1a13bdb849e",
+      "width": 16,
+      "height": 16
+    }
+  ]
 }

@@ -4,11 +4,103 @@
   "requested_url": "https://www.jejurentcar.co.kr/",
   "page_url": "https://www.jejurentcar.co.kr/",
   "page_title": "제주렌트카 본사 - 제주도렌트카 실시간 예약, 렌터카 가격비교",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/jeju-rentcar-hq/favicon.ico",
-  "favicon_source_url": "https://www.jejurentcar.co.kr/images/comm/favicon.ico?v=202503261606",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/favicon.ico",
+      "source_url": "https://www.jejurentcar.co.kr/images/comm/favicon.ico?v=202503261606",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 32988,
+      "sha256": "25bfd81da2ddd801ac4f2dfd35a2304cef1f83b5e538aebadacd40816266722e",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/logo-1.png",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/frame/head/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 제주렌트카 a h1 logo header header div wrapper",
+      "content_type": "image/png",
+      "bytes": 5409,
+      "sha256": "a5dcca80da6e6d97beda8db558a1c40dce0db64f4b81b5294ce9c45daeb9e805",
+      "width": 222,
+      "height": 80
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/logo-2.png",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/frame/head/tabocar.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 타보카 a h1 logo header header div wrapper",
+      "content_type": "image/png",
+      "bytes": 5649,
+      "sha256": "c2579648a11f286471a6acf6cb80b16916792ec391a205df73feba39612317be",
+      "width": 88,
+      "height": 80
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-1.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-01-m.jpg?ver=220111",
+      "source_tag": "img:semantic-banner",
+      "context": "img mw div swiper-slide div swiper-wrapper div swiper-container section mdBanner md-banner",
+      "content_type": "image/webp",
+      "bytes": 25084,
+      "sha256": "c2c6f25aadfd2b1c5d1e473f7278bb45e174c752b4942c317c94af8d510a9a65",
+      "width": 750,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-2.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-02-m.jpg?ver=220111",
+      "source_tag": "img:semantic-banner",
+      "context": "img mw div swiper-slide div swiper-wrapper div swiper-container section mdBanner md-banner",
+      "content_type": "image/webp",
+      "bytes": 23224,
+      "sha256": "9ecb80ed0179078a7f672d10822cb2630bfa4f91efc80bcbf5d9165fbcc0eea1",
+      "width": 750,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-1.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/popup/new-app.png",
+      "source_tag": "img:page-image",
+      "context": "img 신규앱버전출시 a div ct-body div main-popup div appNewPopup popup-wrap hide",
+      "content_type": "image/webp",
+      "bytes": 18212,
+      "sha256": "33aa6783e30656c0e894ca95123a7966a41f62f2f6e55807fe1bd2a4a3affa9c",
+      "width": 446,
+      "height": 428
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-2.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/banner/1718689260430_f673a5cffaa34cd59cc893752b090d61.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  swiper-slide background-image: url(/data/banner/1718689260430_f673a5cffaa34cd59cc893752b090d61.jpg)",
+      "content_type": "image/webp",
+      "bytes": 68010,
+      "sha256": "6bf9d88f20052bee9f1d22273447e30e438aed186dea6820b8a4002af002b6a7",
+      "width": 1800,
+      "height": 488
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-3.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/banner/1718689269792_3d0d29eb46224e3598a427d0e023bc81.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  swiper-slide background-image: url(/data/banner/1718689269792_3d0d29eb46224e3598a427d0e023bc81.jpg)",
+      "content_type": "image/webp",
+      "bytes": 80468,
+      "sha256": "e9185edba6cbc1168199aa287bde8f30cd6350f9895b6141246adfe473b3ab22",
+      "width": 1800,
+      "height": 488
+    }
+  ]
 }

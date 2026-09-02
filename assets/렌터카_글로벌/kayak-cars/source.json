@@ -4,11 +4,42 @@
   "requested_url": "https://www.kayak.com/cars",
   "page_url": "https://www.kayak.com/cars",
   "page_title": "Car Rentals: Find Cheap Car Rentals & Rental Car Deals - KAYAK",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/kayak-cars/favicon.png",
-  "favicon_source_url": "https://www.kayak.com/apple-touch-icon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/kayak-cars/og.png",
-  "og_source_url": "https://content.r9cdn.net/rimg/provider-logos/common/socialmedia/kayak-logo.png?width=1200&height=630&crop=false",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://content.r9cdn.net/frontier/assets/B2pSqyJDVo2.js; reference:ValueError:https://content.r9cdn.net/frontier/assets/C1vgTpd_UA2.js; reference:ValueError:https://content.r9cdn.net/frontier/assets/DuxMjdZuKP2.js; reference:ValueError:https://content.r9cdn.net/frontier/assets/CBccRydnjX2.js; reference:ValueError:https://content.r9cdn.net/frontier/assets/B90QlIc-Rn2.js; reference:ValueError:https://content.r9cdn.net/frontier/assets/B1M-R9D1Cw2.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/kayak-cars/favicon.png",
+      "source_url": "https://www.kayak.com/apple-touch-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7597,
+      "sha256": "d13a17aa30a2a9bb9d45812f9dd531f43c7503058039d91ef6c8d46feb027fb2",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/kayak-cars/og.png",
+      "source_url": "https://content.r9cdn.net/rimg/provider-logos/common/socialmedia/kayak-logo.png?width=1200&height=630&crop=false",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 14710,
+      "sha256": "dcda18a427384cf092f309526e237ba88a86d97bab169c230db18c9ed576349e",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/kayak-cars/logo-1.png",
+      "source_url": "https://content.r9cdn.net/res/images/horizon/cars/frontdoor/kayak_logo.png?v=12c982d18befe76caf69d42f03b17a2f02dc9f59&cluster=4",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 1281,
+      "sha256": "20710f6e23b23513a9116546642bb4f449e8be5d8e77e5c7b813f24a28219baa",
+      "width": 112,
+      "height": 112
+    }
+  ]
 }

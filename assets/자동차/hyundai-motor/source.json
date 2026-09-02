@@ -4,11 +4,66 @@
   "requested_url": "https://www.hyundai.com/kr/ko/e",
   "page_url": "https://www.hyundai.com/kr/ko/e",
   "page_title": "현대자동차 현대닷컴",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/hyundai-motor/favicon.avif",
-  "favicon_source_url": "https://www.hyundai.com/static/images/common/favicon/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/자동차/hyundai-motor/og.avif",
-  "og_source_url": "https://www.hyundai.com/static/images/hyu_logo_og_image.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.hyundai.com/kr/ko/e/_nuxt/22e2232.js; reference:ValueError:https://www.hyundai.com/kr/ko/e/_nuxt/fa33eea.js; reference:ValueError:https://www.hyundai.com/kr/ko/e/_nuxt/5eee960.js; reference:ValueError:https://www.hyundai.com/kr/ko/e/_nuxt/5083eab.js; reference:ValueError:https://www.hyundai.com/kr/ko/e/_nuxt/369fb9d.js; reference:ValueError:https://www.hyundai.com/kr/ko/e/_nuxt/e0c9263.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/hyundai-motor/favicon.avif",
+      "source_url": "https://www.hyundai.com/static/images/common/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/avif",
+      "bytes": 3216,
+      "sha256": "e8021bb0dee5b21039c68cf1c7d6b9e8a5cc8462feb1f0c0110c6d386c732764",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/hyundai-motor/og.avif",
+      "source_url": "https://www.hyundai.com/static/images/hyu_logo_og_image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 11130,
+      "sha256": "67e33989db75f42e7d1743849c57a2cee7a765478bc9145c94522979b45bb708",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/hyundai-motor/banner-1.webp",
+      "source_url": "https://www.hyundai.com/static/images/main_trendyhyundai_2025.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 메인 트렌디 현대 div trendy-hyundai__img div trendy-hyundai div section-body section section-wrap common",
+      "content_type": "image/webp",
+      "bytes": 23882,
+      "sha256": "6a5aede1a9dedab37d31819535dfabad8d544d552da677771794fd1739d563fb",
+      "width": 738,
+      "height": 445
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/hyundai-motor/banner-2.webp",
+      "source_url": "https://www.hyundai.com/static/images/main_hi_ev.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 아이오닉6 차량 이미지 div thumb div electric-car-kv div electric-car div electric-wrap",
+      "content_type": "image/webp",
+      "bytes": 27358,
+      "sha256": "86aa43a4b646b6f9e0f9b0530a59756f983a567ac6f6dfae7b69f1277acedc5e",
+      "width": 736,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hyundai-motor/reference-1.webp",
+      "source_url": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/company/investor-relations/management-information/governance/management-information-governance-profile-eui-sun-chung-pc.webp",
+      "source_tag": "json-ld.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 15664,
+      "sha256": "7ef9187589bf04da6f099514f3a76d8a97848fa46b9fc127c0629a0527b7d1cd",
+      "width": 720,
+      "height": 480
+    }
+  ]
 }

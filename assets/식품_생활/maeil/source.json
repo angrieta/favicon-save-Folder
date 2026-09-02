@@ -4,11 +4,103 @@
   "requested_url": "https://www.maeil.com/",
   "page_url": "https://www.maeil.com/",
   "page_title": "메인 |  매일유업",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/maeil/favicon.ico",
-  "favicon_source_url": "https://www.maeil.com/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.maeil.com/UploadedFiles/banner/20230323131054II5I_1.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/maeil/favicon.ico",
+      "source_url": "https://www.maeil.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "0e91be682363dce78ec2bc3bf22346b083cb466899e0aecb4b019dbcb5e0edfd",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/maeil/logo-1.png",
+      "source_url": "https://www.maeil.com/resources/images/common/h_logo_big.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Maeil a h1 logo div center header header-mobile header-total",
+      "content_type": "image/png",
+      "bytes": 2525,
+      "sha256": "e95dce2df4a0edc92e6bfe31788c349fec9825c8f8ea428caf5d366be272db5d",
+      "width": 97,
+      "height": 43
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/maeil/logo-2.png",
+      "source_url": "https://www.maeil.com/resources/images/common/h_logo_m1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img maeil a div logo div top div inner",
+      "content_type": "image/png",
+      "bytes": 2708,
+      "sha256": "c052eb0a8b773ab12178057bf7b553eba5871f8a15e1a381f850a394519000e9",
+      "width": 182,
+      "height": 81
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/maeil/banner-1.webp",
+      "source_url": "https://www.maeil.com/UploadedFiles/banner/20250521193339yqETx1.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img w100 a div bxMain3 div sec n5 section lst-isotope-mobile main",
+      "content_type": "image/webp",
+      "bytes": 42336,
+      "sha256": "487117c4f6f2ae0780619c56cd8f08d6ca7821da812fe1503c61b3245aad8177",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/maeil/banner-2.webp",
+      "source_url": "https://www.maeil.com/UploadedFiles/banner/20250131184909n0X-g1.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img w100 a div bxMain3 div sec n5 section lst-isotope-mobile main",
+      "content_type": "image/webp",
+      "bytes": 49224,
+      "sha256": "62439b8a890af9a96a69561b853b3af4ddc0ce2f4d3b01a81f85218609cc292c",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/maeil/reference-1.webp",
+      "source_url": "https://www.maeil.com/UploadedFiles/main/20160811062927WEWIS1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div bg div lst div bxMain section spot main",
+      "content_type": "image/webp",
+      "bytes": 122304,
+      "sha256": "5dd509e7e58a9413969ab2c9af1b9220b4687b04faf3e51a6d3bcd476baadc41",
+      "width": 1800,
+      "height": 692
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/maeil/reference-2.webp",
+      "source_url": "https://www.maeil.com/UploadedFiles/main/20160811062927WEWIS2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div bg_m div lst div bxMain section spot main",
+      "content_type": "image/webp",
+      "bytes": 75424,
+      "sha256": "a523dc2decba7b1e7651c754d626b367adfaede52894884d5135c3e1de453592",
+      "width": 860,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/maeil/reference-3.webp",
+      "source_url": "https://www.maeil.com/UploadedFiles/main/20160811063403YmErq1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div bg div lst div bxMain section spot main",
+      "content_type": "image/webp",
+      "bytes": 82622,
+      "sha256": "91116098257a0dda3757cd1df5a323d1e52ced08cffc34049b420fca49838fee",
+      "width": 1800,
+      "height": 692
+    }
+  ]
 }

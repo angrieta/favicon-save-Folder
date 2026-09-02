@@ -4,11 +4,30 @@
   "requested_url": "https://www.hitejinro.com/",
   "page_url": "https://www.hitejinro.com/",
   "page_title": "하이트진로",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/hitejinro/favicon.ico",
-  "favicon_source_url": "https://www.hitejinro.com/assets/images/common/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/식품_생활/hitejinro/og.jpg",
-  "og_source_url": "https://www.hitejinro.com/assets/images/common/img_sns_default1.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/hitejinro/favicon.ico",
+      "source_url": "https://www.hitejinro.com/assets/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "bdbed5f1a516e46ca5320a0aab95a76de7faa700d5c9324fce9d8358dea6018b",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/hitejinro/og.jpg",
+      "source_url": "https://www.hitejinro.com/assets/images/common/img_sns_default1.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 6805,
+      "sha256": "525a1fee120ecf1c18b448a4c23cd4534105c02b120558c2985f898e72fdddd0",
+      "width": 200,
+      "height": 200
+    }
+  ]
 }

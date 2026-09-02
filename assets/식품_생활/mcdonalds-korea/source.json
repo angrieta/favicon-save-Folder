@@ -4,11 +4,31 @@
   "requested_url": "https://www.mcdonalds.co.kr/",
   "page_url": "https://www.mcdonalds.co.kr/kor/",
   "page_title": "맥도날드",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/mcdonalds-korea/favicon.ico",
-  "favicon_source_url": "https://www.mcdonalds.co.kr/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.mcdonalds.co.kr/_nuxt/C1r4U-io.js; reference:ValueError:https://www.mcdonalds.co.kr/_nuxt/CZlra1Dh.js; reference:ValueError:https://www.mcdonalds.co.kr/_nuxt/BySNKcs4.js; reference:ValueError:https://www.mcdonalds.co.kr/_nuxt/CEBgJ-k5.js; reference:ValueError:https://www.mcdonalds.co.kr/_nuxt/DgGrmEj0.js; reference:ValueError:https://www.mcdonalds.co.kr/_nuxt/C4E_iItQ.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/mcdonalds-korea/favicon.ico",
+      "source_url": "https://www.mcdonalds.co.kr/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 5430,
+      "sha256": "cb819064236497b66ed52c9b003b8404bd07844b61ca3be8a03fe55b2a5cbfe1",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/mcdonalds-korea/reference-1.webp",
+      "source_url": "https://www.mcdonalds.co.kr/images/fry-box.gif",
+      "source_tag": "img:page-image",
+      "context": "img div w-[400px] h-[400px] sm:w-[320px] sm:h-[320px] div fixed left-0 top-0 w-full h-[100dvh] flex items-center justify-center bg-white z-[1011] div __nuxt body",
+      "content_type": "image/webp",
+      "bytes": 6784,
+      "sha256": "8080688a7f6881d968f41328deb7e5330617fdf28c28353148a0943fd3458912",
+      "width": 1000,
+      "height": 1000
+    }
+  ]
 }

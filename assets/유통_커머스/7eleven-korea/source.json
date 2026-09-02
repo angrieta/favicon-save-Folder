@@ -4,11 +4,91 @@
   "requested_url": "https://www.7-eleven.co.kr/",
   "page_url": "https://www.7-eleven.co.kr/",
   "page_title": "Life Changing Experience, 고객의 마음속 첫번째 편의점 세븐일레븐",
-  "page_status": "200",
-  "favicon_path": "assets/유통_커머스/7eleven-korea/favicon.png",
-  "favicon_source_url": "https://www.7-eleven.co.kr/ico_7eleven_favicon.png",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:http://ssl.logger.co.kr/tracker.tsp?u=18719&js=N",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/7eleven-korea/favicon.png",
+      "source_url": "https://www.7-eleven.co.kr/ico_7eleven_favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1336,
+      "sha256": "7686fd8c365e147dbfe8009415c4401883c6cd0c3a426bdd41923d552cddd48c",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/7eleven-korea/logo-1.png",
+      "source_url": "https://www.7-eleven.co.kr/front/img/com/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 7-ELEVEN a p logo div inner div header_top",
+      "content_type": "image/png",
+      "bytes": 1450,
+      "sha256": "a29c8feabeecb45aebe5932c039de53c023d9c79a7a9de331fd8d54c2cf7d572",
+      "width": 181,
+      "height": 33
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/7eleven-korea/banner-1.webp",
+      "source_url": "https://www.7-eleven.co.kr/upload/event/20260828170003008r728.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 2026년 추석 div visual_bg visual01 div cont_event tab_cont01 div main_cont01 main_cont div container",
+      "content_type": "image/webp",
+      "bytes": 94246,
+      "sha256": "4c9cf46ab6741f1d25be136f9e48e79bc89c3cb207561dd61c847f7d782d015e",
+      "width": 1800,
+      "height": 718
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/7eleven-korea/banner-2.webp",
+      "source_url": "https://www.7-eleven.co.kr/front/img/main/img_cont04_01.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 상생, 협력 그리고 더 큰 희망 가치를 공유하고 함께 나아간다면, 성공은 언제나 우리의 것입니다. div visual_bg div main_cont04 main_cont div container div wrap main",
+      "content_type": "image/webp",
+      "bytes": 74790,
+      "sha256": "826f8bfcf63674044ba06358d1d49c9d8472b348060ff9b6069535f3785582b5",
+      "width": 1800,
+      "height": 744
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/7eleven-korea/reference-1.webp",
+      "source_url": "https://www.7-eleven.co.kr/front/img/main/bg_green_200714.png",
+      "source_tag": "inline-background-image",
+      "context": "p  bg background-image: url(/front/img/main/bg_green_200714.png);",
+      "content_type": "image/webp",
+      "bytes": 59812,
+      "sha256": "8f506e14b9979d3ab25f8eaad9b3d558f60056f4d9a77f2ccedce7586ea90ccc",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/7eleven-korea/reference-2.webp",
+      "source_url": "https://www.7-eleven.co.kr/front/img/main/img_cont0102_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 편의점 최초 바지전용 스타킹 출시 Triumph & 7-ELEVEN 공동 개발!! 바지전용 팬츠삭스란? 정장바지, 스키니 팬츠의 맵시를 살려주는 똑똑한 스타킹 - 넉넉한 기장으로 앉아도 발목의 밴드가 보이지 않아요. - 2배 넓어진 밴드가 흘러내림을 최소화하고 편안해요. HIDDEN Band div visual_view div cont_product tab_cont01 div main_cont01 main_cont di",
+      "content_type": "image/webp",
+      "bytes": 37282,
+      "sha256": "d01b54f3b28e7220b9ce112fb8e5bcd6e510e90cc8a31b9c678435b93217e485",
+      "width": 1800,
+      "height": 553
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/7eleven-korea/reference-3.webp",
+      "source_url": "https://www.7-eleven.co.kr/front/img/main/img_cont240313.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div visual_bg div cont_about tab_cont01 div main_cont01 main_cont div container",
+      "content_type": "image/webp",
+      "bytes": 32474,
+      "sha256": "95b23d43095a93c7d5ed6e8406d2f358d5941bd7540f70a7c4a07847df3a9e99",
+      "width": 1800,
+      "height": 553
+    }
+  ]
 }

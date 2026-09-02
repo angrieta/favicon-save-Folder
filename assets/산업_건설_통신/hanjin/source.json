@@ -4,11 +4,90 @@
   "requested_url": "https://www.hanjin.com/",
   "page_url": "https://www.hanjin.com/kor/Main.do",
   "page_title": "글로벌 종합물류기업 (주)한진",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/hanjin/favicon.ico",
-  "favicon_source_url": "https://www.hanjin.com/resources/_Img/Common/favicon.ico?v=2",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/산업_건설_통신/hanjin/og.jpg",
-  "og_source_url": "https://www.hanjin.com/resources/_Img/Common/og-image.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/hanjin/favicon.ico",
+      "source_url": "https://www.hanjin.com/resources/_Img/Common/favicon.ico?v=2",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 187215,
+      "sha256": "6a166352a13e3787314e08fcd81b88af28677252310fe93034ce8d8471078635",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/hanjin/og.jpg",
+      "source_url": "https://www.hanjin.com/resources/_Img/Common/og-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 19494,
+      "sha256": "c2b2a996efa3d103ddead922dab7a02369a9c1555069bd5185c935dfa000882c",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hanjin/logo-1.png",
+      "source_url": "https://www.hanjin.com/attach/IMAGE/TopDesignMgr/LogoImgUpload/2025/1/ijmShJL6Y2PPN8tQ.PNG",
+      "source_tag": "img:semantic-logo",
+      "context": "img 글로벌 종합물류기업 (주)한진 span slogo a h1 logo div header",
+      "content_type": "image/png",
+      "bytes": 2801,
+      "sha256": "c4c32fdcc0ae4cab1be18f673338bcf5317f859cbd1467261d9ee22c357796dd",
+      "width": 193,
+      "height": 42
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hanjin/logo-2.png",
+      "source_url": "https://www.hanjin.com/resources/homepage/kor/_Img/Content/sitemap_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img HANJIN 로고 이미지 h3 div sitemap-extra div customSitemap div customSitemap-wr",
+      "content_type": "image/png",
+      "bytes": 1541,
+      "sha256": "fda1544456aff660a8c3c8a24e1cabdd682b35383dfad66c56f0a0062358a3cd",
+      "width": 164,
+      "height": 34
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hanjin/reference-1.webp",
+      "source_url": "https://www.hanjin.com/attach/IMAGE/PopupMgr/PopupZoneUpload/2026/6/sM2CcbDSIqHWUEDw.JPG",
+      "source_tag": "img:page-image",
+      "context": "img pimg 2026 뉴욕페스티벌 대한민국-국가브랜드 물류산업 부문 대상 수상 홍보 이미지 div img-box a mvis-item div item div data-list owl-carousel",
+      "content_type": "image/webp",
+      "bytes": 44610,
+      "sha256": "592dcf613d8147b30daf0176c0002521f255756223a4bcc9fdf37f3a4061639a",
+      "width": 1800,
+      "height": 677
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hanjin/reference-2.webp",
+      "source_url": "https://www.hanjin.com/attach/IMAGE/PopupMgr/PopupZoneUpload/2026/6/bkRE91JlErOp3FRC.JPG",
+      "source_tag": "img:page-image",
+      "context": "img pimg div img-box a mvis-item div item div data-list owl-carousel",
+      "content_type": "image/webp",
+      "bytes": 56194,
+      "sha256": "fea2b16c674c9b7fb4061eed1fc26abab6ed486361a0185f10f1dd5d3bb2a201",
+      "width": 1800,
+      "height": 678
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hanjin/reference-3.webp",
+      "source_url": "https://www.hanjin.com/attach/IMAGE/PopupMgr/PopupZoneUpload/2026/6/5H7uI9B8MGaxfLqs.JPG",
+      "source_tag": "img:page-image",
+      "context": "img pimg 한진 브리온 협약식 홍보 이미지 div img-box a mvis-item div item div data-list owl-carousel",
+      "content_type": "image/webp",
+      "bytes": 46678,
+      "sha256": "90fdedec4c623c3585e862082b4240f2f7a04fe24078979117933a24709f560c",
+      "width": 1800,
+      "height": 678
+    }
+  ]
 }

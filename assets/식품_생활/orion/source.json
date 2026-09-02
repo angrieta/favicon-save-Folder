@@ -4,11 +4,102 @@
   "requested_url": "https://www.orionworld.com/",
   "page_url": "https://www.orionworld.com/",
   "page_title": "오리온",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/orion/favicon.ico",
-  "favicon_source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/식품_생활/orion/og.jpg",
-  "og_source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/ogImage.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/orion/favicon.ico",
+      "source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 4958,
+      "sha256": "b9697447eb9fc4b31b79e8b72f7227478a635bdef18fd901fa60a54b5e28178b",
+      "width": 34,
+      "height": 34
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/orion/og.jpg",
+      "source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/ogImage.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 55489,
+      "sha256": "0c6aadf6e6f0c4c12376d3bbe257be7fb55d8c3333109be70787e756b35b000f",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/orion/logo-1.png",
+      "source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/common/f_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img ORION figure logo div inConts footer footer body main",
+      "content_type": "image/png",
+      "bytes": 2811,
+      "sha256": "ffef3b9d32b221fc6d9ad42c410b0677e0297659ea04410cddd04b13989e6ad6",
+      "width": 135,
+      "height": 29
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/orion/banner-1.webp",
+      "source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/main/cover_img01.jpg",
+      "source_tag": "inline-background-image",
+      "context": "figure  pVer background-image:url('/theme/102114/kr/assets/images/main/cover_img01.jpg');",
+      "content_type": "image/webp",
+      "bytes": 72910,
+      "sha256": "a679afd65bd11285b76aa0a947136417b832d7a7aea4c8437837b7b2f88f17b6",
+      "width": 1720,
+      "height": 870
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/orion/banner-2.webp",
+      "source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/main/cover_img02.jpg",
+      "source_tag": "inline-background-image",
+      "context": "figure  pVer background-image:url('/theme/102114/kr/assets/images/main/cover_img02.jpg');",
+      "content_type": "image/webp",
+      "bytes": 51108,
+      "sha256": "ec6d8ee14810d261f8c91106cf07ad82ce7cd46d512d5fa14d2001aad9586ddd",
+      "width": 1720,
+      "height": 870
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/orion/reference-1.webp",
+      "source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/main/cover_img01_m.jpg",
+      "source_tag": "inline-background-image",
+      "context": "figure  mVer background-image:url('/theme/102114/kr/assets/images/main/cover_img01_m.jpg');",
+      "content_type": "image/webp",
+      "bytes": 59320,
+      "sha256": "d71bea7a65c586be9591841684c4a7aef1845f70d3f513e8a9b8edb586ec475e",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/orion/reference-2.webp",
+      "source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/main/cover_img02_m.jpg",
+      "source_tag": "inline-background-image",
+      "context": "figure  mVer background-image:url('/theme/102114/kr/assets/images/main/cover_img02_m.jpg');",
+      "content_type": "image/webp",
+      "bytes": 7500,
+      "sha256": "a245799f013b1d7685416aaedb46a8939cf750998ac911664fbac2231bddb5e2",
+      "width": 360,
+      "height": 492
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/orion/reference-3.webp",
+      "source_url": "https://www.orionworld.com/theme/102114/kr/assets/images/main/cover_img03.jpg?v=221208",
+      "source_tag": "inline-background-image",
+      "context": "figure  pVer background-image:url('/theme/102114/kr/assets/images/main/cover_img03.jpg?v=221208');",
+      "content_type": "image/webp",
+      "bytes": 94236,
+      "sha256": "10ecece639ec2dbe34d619d49c0655fbdeb1243e93eeeae849a62472a57904d3",
+      "width": 1720,
+      "height": 870
+    }
+  ]
 }

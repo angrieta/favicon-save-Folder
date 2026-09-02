@@ -4,11 +4,68 @@
   "requested_url": "https://www.jype.com/",
   "page_url": "https://www.jype.com/ko",
   "page_title": "JYP Entertainment",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/jyp-entertainment/favicon.png",
-  "favicon_source_url": "https://www.jype.com/icon.png?57e70332b02f039b",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.jype.com/Content/js/youtube-banner.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/jyp-entertainment/favicon.png",
+      "source_url": "https://www.jype.com/icon.png?57e70332b02f039b",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2595,
+      "sha256": "0fa9b1a58b02dd67bea522aa1e2f2c44a980e0b34b7387dea26ab65160f72314",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/jyp-entertainment/favicon.png",
+      "source_url": "https://www.jype.com/icon.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/png",
+      "bytes": 2595,
+      "sha256": "0fa9b1a58b02dd67bea522aa1e2f2c44a980e0b34b7387dea26ab65160f72314",
+      "width": 192,
+      "height": 192,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/jyp-entertainment/reference-1.webp",
+      "source_url": "https://d1meds70430yck.cloudfront.net/artists/nexz/albums/1785758560219-067b12b8.jpg?Expires=1788357000&Signature=VXzDOrGBPUebumXUpSxVnWnhiEgrTrWDUk9wh6eotqJ4pQZaGbmE7SNmk8euxCzRFIbQZncW-wZp4GDVeGnIPvwzPquFcnqDpA1wGJI~Byg-3Tq-FgyN-Aft50joL-U7GCfmeFG~Mw1GayZphfBfWl4KEp4a8f6BlI4bBSEDjAXnKoz~~pwuqpd-lhaIAe-hQeIKzhjQyHaFjSwUyBctQfNK2qL03zM4T0wUCeslLlzU5mltxh5KAZpkjoJ6NWtWZ4CZLeaidclm8NOvIbmo4nXsNxcTux0ikYVgDZ6w8N4ACDkJ2oYwiIdLqQQICWDJhQJX0jCMfH3PS06U3gszgQ__&Key-Pair-Id=KYVPTK3C4ETC8",
+      "source_tag": "img:page-image",
+      "context": "img main banner info img div mb_info_img div mb_info_cont div mb_info_wrap tp1 div carousel-cell main_video_wrap",
+      "content_type": "image/webp",
+      "bytes": 164806,
+      "sha256": "fce810207e270b96fd006a763d78bf0f5274c50566c313ae09374029692a681c",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/jyp-entertainment/reference-2.webp",
+      "source_url": "https://d1meds70430yck.cloudfront.net/artists/2pm/albums/1786954100909-f23e7751.jpg?Expires=1788357000&Signature=XdbqZ8G5Eyexjs95mSSy0xFtCwD5AGtDawCGHBSnJO-Hsg3-bO6wM~hXuZlb33LPvptbo6je0KC56CmTJcMQpkJR4tWIV6uX7AKxV8bH23oIrbEE1wpYOhKUHUbJTLCBnpYrzX7sTxhS7F5BLFPwO2a21Fyx~OVctRaQD1VGwU0f48CFMe6tVA12FhT-Gu-dmOuP32MXDc2ZFJl8pJyGSIx3MxrOsC7iDKuU6XnqB0wEeWx5TwuIPqfhpZ~4j~MrnmnjueWFuXffyxhQO-42hVTeDzrgd0X1MSaVWM6rzCq9Xp1kyurcJdUUztalAvFrY0u4hs1Vckn9wc8vz1tHOg__&Key-Pair-Id=KYVPTK3C4ETC8",
+      "source_tag": "img:page-image",
+      "context": "img main banner info img div mb_info_img div mb_info_cont div mb_info_wrap tp1 div carousel-cell main_video_wrap",
+      "content_type": "image/webp",
+      "bytes": 447254,
+      "sha256": "342463b43c328df612724c3c25190be30df0ebf9d255496719f851370097b6c3",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/jyp-entertainment/reference-3.webp",
+      "source_url": "https://d1meds70430yck.cloudfront.net/artists/straykids/albums/1786069908927-b57c3787.jpg?Expires=1788357000&Signature=eMxo2lu8fVUBKPtHX1NI7Jvgwo3MSakVdi24Ty1f-6LZFVf7fkCyE3~jbCn5SfDxu9PHKOiVZnKQvCaYfJ2QONXDgS9afEsAWmv4GSMcIzeJq3XCSJfklib2K2Ttc161O9ij1zGKv0LgdVWJeW~ubayaXNoFCRBs6adJfq8u2H2voUsvFXoQf2hs8F3jkskgXZ38sOMhk-ayN5jb4RFyWCgJCG3PUfMojtFfq1RxmIbxFYs5TOl75hwt6Qk9Vomq-pxu~SuCeGoo5y-hETLuuejDlS4fnD6qvpIC~4XoGe5PxmL76mEzPZQVur8kl4WCK-o~V~YbSazBt-g4akYNNQ__&Key-Pair-Id=KYVPTK3C4ETC8",
+      "source_tag": "img:page-image",
+      "context": "img main banner info img div mb_info_img div mb_info_cont div mb_info_wrap tp1 div carousel-cell main_video_wrap",
+      "content_type": "image/webp",
+      "bytes": 183602,
+      "sha256": "c4e5b48f9dd1f626d7f788477508c91742bcc42e983c0cc384297dd1fabcb8c2",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
 }

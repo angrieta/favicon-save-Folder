@@ -4,11 +4,67 @@
   "requested_url": "https://www.dropbox.com/",
   "page_url": "https://www.dropbox.com/",
   "page_title": "Dropbox: 안전한 클라우드 저장소, 파일 공유 등",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/dropbox/favicon.ico",
-  "favicon_source_url": "https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/atlas_grotesk/AtlasGrotesk-Medium-Web-vfl38XiTL.woff2; reference:ValueError:https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/atlas_grotesk/AtlasGrotesk-Regular-Web-vflk7bxjs.woff2; reference:ValueError:https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/sharp_grotesk/SharpGroteskDBCyrBook20-vfl6-4ZSp.woff2; reference:ValueError:https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/sharp_grotesk/SharpGroteskDBCyrMedium20-vflI3qtaE.woff2; reference:ValueError:https://cfl.dropboxstatic.com/static/metaserver/static/fonts/dig-fonts/sharp_grotesk_23/SharpGroteskDBCyrBook23-vflX-NIwB.woff2; reference:ValueError:https://cfl.dropboxstatic.com/static/metaserver/static/fonts/sharpgrotesk/SharpGroteskDBMedium22-vflJ24ZPh.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/dropbox/favicon.ico",
+      "source_url": "https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 4286,
+      "sha256": "c0906d540d89dbe1f09b24f17b7f35b81350e8d381c1558b075c28ea913c450d",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/dropbox/logo-1.webp",
+      "source_url": "https://cfl.dropboxstatic.com/static/metaserver/static/images/logo_catalog/dropbox_opengraph_image@2x-vflwsK445.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 13042,
+      "sha256": "7ebf30e58439069346ceb0858ce365ad21d6d2949eb31e55372a3c6ab5aef0ab",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/dropbox/logo-2.svg",
+      "source_url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/home-pg-logos/McLaren.svg?id=8fe1da6b-6280-4343-b1dc-590aec2f1da6",
+      "source_tag": "img:semantic-logo",
+      "context": "img dwg-media-image dwg-media-image--object-fit-scale-down dwg-box dwg-position--absolute dwg-width--full dwg-height--full McLaren 로고 picture dwg-box dwg-width--full dwg-height--full div dwg-media dwg-box dwg-display--flex dwg-aspect-ratio ",
+      "content_type": "image/svg+xml",
+      "bytes": 8598,
+      "sha256": "77a652ec556973f7efb20140c824ea017f5b5d79fe4636b9b80ec93f571b5ac8",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/dropbox/banner-1.webp",
+      "source_url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/en-us/business/solutions/construction/construction-hero@2x.jpg?id=dbfc08de-234c-40af-949d-7e176ad7d582&width=1920&output_type=webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture dwg-box dwg-width--full dwg-height--full div dwg-media dwg-box dwg-display--flex dwg-aspect-ratio dwg-width--full dwg-height--full dwg-align-items--center div _dwg-card__media-frame--is-horizontal_1qxpt_20 dwg-box dwg-theme--coconut",
+      "content_type": "image/webp",
+      "bytes": 97480,
+      "sha256": "4368a830b3902b68c9ffe888b8078c2bcc0415dcc4540413f04190315d26bf2d",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/dropbox/banner-2.webp",
+      "source_url": "https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/en-us/business/solutions/construction/construction-hero@2x.jpg?id=dbfc08de-234c-40af-949d-7e176ad7d582&width=1600&output_type=webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture dwg-box dwg-width--full dwg-height--full div dwg-media dwg-box dwg-display--flex dwg-aspect-ratio dwg-width--full dwg-height--full dwg-align-items--center div _dwg-card__media-frame--is-horizontal_1qxpt_20 dwg-box dwg-theme--coconut",
+      "content_type": "image/webp",
+      "bytes": 78682,
+      "sha256": "1e0e636390bc2da033f7fc20d13a5753a74de62deeddf160c96dbfea6025fa43",
+      "width": 1600,
+      "height": 900
+    }
+  ]
 }

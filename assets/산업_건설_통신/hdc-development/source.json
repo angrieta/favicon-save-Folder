@@ -4,11 +4,103 @@
   "requested_url": "https://www.hdc-dvp.com/",
   "page_url": "https://ipark-dvp.com/ko",
   "page_title": "도시와 삶의 미래를 구현하는 종합 디벨로퍼 | IPARK현대산업개발",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/hdc-development/favicon.ico",
-  "favicon_source_url": "https://ipark-dvp.com/assets/favicon-9bd398e4fc659e9fdb4f84772e79c887.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://cdn.ipark-dvp.com/static/video/main_hero_video.mp4; reference:ValueError:https://cdn.ipark-dvp.com/static/video/main_hero_video.mp4; reference:ValueError:https://ipark-dvp.com/assets/fonts/Pretendard-Regular-76a1283c27610a9ad7d6940b9b174e46.woff2; reference:ValueError:https://ipark-dvp.com/assets/fonts/Pretendard-Medium-65d0a735617322a4fe0bcc5350642159.woff2; reference:ValueError:https://ipark-dvp.com/assets/fonts/Pretendard-SemiBold-d3b288a528801dae385d6f104693e022.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/hdc-development/favicon.ico",
+      "source_url": "https://ipark-dvp.com/assets/favicon-9bd398e4fc659e9fdb4f84772e79c887.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 759,
+      "sha256": "c9d264fef169bc7a820e7136bd3de475e6377cbd46d3460b34c422adb892472f",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hdc-development/logo-1.svg",
+      "source_url": "https://ipark-dvp.com/assets/icons/logo-ipark-f7663a2a4a9b0e715b62c02893d79f5b.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__logo-img header__logo-img--default a header__logo 아이파크 현대산업개발 홈 div header__inner header header body",
+      "content_type": "image/svg+xml",
+      "bytes": 4744,
+      "sha256": "5327b882ec90e0d233a3c5a5a8a8436d04c62a1b57ecdec4ab56580582340246",
+      "width": 216,
+      "height": 23
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hdc-development/logo-2.svg",
+      "source_url": "https://ipark-dvp.com/assets/icons/logo-ipark-white-c0dc280f1dfc891db4f01da64ea2daae.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__logo-img header__logo-img--white a header__logo 아이파크 현대산업개발 홈 div header__inner header header body",
+      "content_type": "image/svg+xml",
+      "bytes": 4735,
+      "sha256": "5f1a216dc314d501f6ac11196cc1a013bbe6a254afb850e0ab118b77895fe42b",
+      "width": 216,
+      "height": 23
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/hdc-development/banner-1.webp",
+      "source_url": "https://ipark-dvp.com/assets/images/main_corporate-essence_01_mo-9e9dd6738103e382ccb432f5514d1fbb.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure page-main__corporate-essence-visual-item div page-main__corporate-essence-visual div page-main__corporate-essence-sticky div page-main__corporate-essence-stage",
+      "content_type": "image/webp",
+      "bytes": 74292,
+      "sha256": "cad4f2d4e55e9318a31f599bea074c8647ae08f3a38e5ffc8bc6fe65f50b9da8",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/hdc-development/banner-2.webp",
+      "source_url": "https://ipark-dvp.com/assets/images/main_corporate-essence_02_mo-215cb8e4a2c0ebbff99ccb6ed35d8afe.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure page-main__corporate-essence-visual-item div page-main__corporate-essence-visual div page-main__corporate-essence-sticky div page-main__corporate-essence-stage",
+      "content_type": "image/webp",
+      "bytes": 71538,
+      "sha256": "b1df151dabd4c87f38e46b5df2ce3c47975357ef705ee51fef5f2d3bb95622ba",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hdc-development/reference-1.webp",
+      "source_url": "https://ipark-dvp.com/assets/images/main_corporate-essence_01-e966076e97b383120844f0996059d1ab.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture figure page-main__corporate-essence-visual-item div page-main__corporate-essence-visual div page-main__corporate-essence-sticky div page-main__corporate-essence-stage",
+      "content_type": "image/webp",
+      "bytes": 203346,
+      "sha256": "014def1455a9dcffa1e0633e387bfca7ca6dc1df29e953107831da83b204d801",
+      "width": 1067,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hdc-development/reference-2.webp",
+      "source_url": "https://ipark-dvp.com/assets/images/main_esg_bg_mo-a1cfab0de33e8132db2bb8b5bd8ead6a.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture page-main__esg-bg section page-main__esg div page-main__pin-stack main main-content page-main body",
+      "content_type": "image/webp",
+      "bytes": 155670,
+      "sha256": "dd56f1bb1e4db8fd20c1c60977281ef463b0ab6c19f80075b237b39139f25a7e",
+      "width": 607,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hdc-development/reference-3.webp",
+      "source_url": "https://ipark-dvp.com/assets/images/main_esg_bg_pc-d1430cd73db65768d4963f1fecc89c16.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture page-main__esg-bg section page-main__esg div page-main__pin-stack main main-content page-main body",
+      "content_type": "image/webp",
+      "bytes": 420436,
+      "sha256": "fb8626efbb2535b43e0fe5e1c3738da7e5ebd4c98218710e8d6fa503f6aaac03",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
 }

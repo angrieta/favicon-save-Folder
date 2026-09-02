@@ -4,11 +4,42 @@
   "requested_url": "https://carmore.kr/",
   "page_url": "https://carmore.kr/home/",
   "page_title": "제주렌트카 가격비교 1위 카모아 | 실시간 최저가 비교 예약",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/carmore/favicon.png",
-  "favicon_source_url": "https://carmore.kr/favicon/apple-icon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_국내/carmore/og.png",
-  "og_source_url": "https://d1y0pslxvt2ep5.cloudfront.net/ogimg/image-og-teamo2-250924.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/carmore/favicon.png",
+      "source_url": "https://carmore.kr/favicon/apple-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 12770,
+      "sha256": "f1a690545eeccb1eb6868c8d0b29bfc41f1bdecc9337f5b3db6eca13b1db5508",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/carmore/og.png",
+      "source_url": "https://d1y0pslxvt2ep5.cloudfront.net/ogimg/image-og-teamo2-250924.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 276037,
+      "sha256": "0e216c5a9a734f32a63becc84645a6e3ab833a38439a00c53e8fdab0bb369d18",
+      "width": 601,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-1.png",
+      "source_url": "https://d1y0pslxvt2ep5.cloudfront.net/logo/carmore-logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 5418,
+      "sha256": "f690a573eadd609a86dbf898e8649f7533307a659122a6d6ae6295feeff1d0de",
+      "width": 500,
+      "height": 500
+    }
+  ]
 }

@@ -4,11 +4,102 @@
   "requested_url": "https://www.kia.com/kr",
   "page_url": "https://www.kia.com/kr",
   "page_title": "기아 - Movement that inspires",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/kia/favicon.ico",
-  "favicon_source_url": "https://www.kia.com/content/dam/kwp/kr/ko/common/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/자동차/kia/og.avif",
-  "og_source_url": "https://www.kia.com/content/dam/kwp/kr/ko/common/kia_logo_og.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/kia/favicon.ico",
+      "source_url": "https://www.kia.com/content/dam/kwp/kr/ko/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "67e85363f07efed73307e3bcff54c6f8349dbbcb38bb99a861f865ca9c37f6d3",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/kia/og.avif",
+      "source_url": "https://www.kia.com/content/dam/kwp/kr/ko/common/kia_logo_og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 7255,
+      "sha256": "00035c32e237387c83b130220aec9481eed706a9660e7a30969c6dbc1dbd2b17",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/kia/logo-1.svg",
+      "source_url": "https://www.kia.com/etc.clientlibs/kwp-global/clientlibs/clientlib-site/resources/images/common/logo_w.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img KIA div global-footer__logo div footer_top_area div footer__inner div global-footer__wrapper1",
+      "content_type": "image/svg+xml",
+      "bytes": 1349,
+      "sha256": "79fbac5444b1b430e6681c17ca07ac394266b104743a0c02863bb1c505da4c57",
+      "width": 102,
+      "height": 51
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/kia/banner-1.webp",
+      "source_url": "https://www.kia.com/content/dam/kwp/kr/ko/main-kv-contents/202608/the_kia_sportage_bg_pc.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div key-visual__img div key-visual__media div key-visual__slide div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 169228,
+      "sha256": "bb2f8ede9096101670c4b67cbd868113f3f3ac76cb2be6f579f2dc6dc77b59c8",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/kia/banner-2.webp",
+      "source_url": "https://www.kia.com/content/dam/kwp/kr/ko/main-kv-contents/202608/kv_the_2027_sorrento_pc.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div key-visual__img div key-visual__media div key-visual__slide div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 211922,
+      "sha256": "68fab754bea6b60af7dd1971e95c0e7a64499615d0c30d2404eddaa23c04d11e",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/kia/reference-1.webp",
+      "source_url": "https://www.kia.com/content/dam/kwp/kr/ko/main-kv-contents/202608/the_kia_sportage_bg_mo.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div key-visual__img div key-visual__media div key-visual__slide div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 101338,
+      "sha256": "7700bd886955728adc0d08c2eb9544ef6e9a921de927b7e1215579e6f9c6914f",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/kia/reference-2.webp",
+      "source_url": "https://www.kia.com/content/dam/kwp/kr/ko/main-kv-contents/202608/kv_the_2027_sorrento_mo.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div key-visual__img div key-visual__media div key-visual__slide div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 78150,
+      "sha256": "71a401fed71ec1a441bdc3b2a904d7d0c0cdcd65211cb9faaa64eb298b31837a",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/kia/reference-3.webp",
+      "source_url": "https://www.kia.com/content/dam/kwp/kr/ko/main-kv-contents/202608/kv_the_kia_carnival_release_mo.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div key-visual__img div key-visual__media div key-visual__slide div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 34744,
+      "sha256": "5c2c1716475e95524cf2fc9c7683b98c3b07b545f5bd7c9acc7d407c29fe9e9f",
+      "width": 720,
+      "height": 1280
+    }
+  ]
 }

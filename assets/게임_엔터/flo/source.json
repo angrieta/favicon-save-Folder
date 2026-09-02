@@ -4,11 +4,30 @@
   "requested_url": "https://www.music-flo.com/",
   "page_url": "https://www.music-flo.com/",
   "page_title": "FLO - 팬이 되는 순간, FLO",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/flo/favicon.ico",
-  "favicon_source_url": "https://www.music-flo.com/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/게임_엔터/flo/og.jpg",
-  "og_source_url": "https://www.music-flo.com/og_flo.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/flo/favicon.ico",
+      "source_url": "https://www.music-flo.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 747,
+      "sha256": "7c397b865f7e390b2f82800817eeec30c0c6431776dc5cf6805bd942bc72be62",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/flo/og.jpg",
+      "source_url": "https://www.music-flo.com/og_flo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 42588,
+      "sha256": "21e8f3420e58ded4717902a4095809c6fe8a3eb7936024e97f6a67e1262b190a",
+      "width": 1200,
+      "height": 628
+    }
+  ]
 }

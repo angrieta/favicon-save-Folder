@@ -4,11 +4,92 @@
   "requested_url": "https://joarent.com/",
   "page_url": "https://joarent.com/",
   "page_title": "조아렌트카",
-  "page_status": "browser",
-  "favicon_path": "",
-  "favicon_source_url": "",
-  "favicon_source_tag": "",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/joa-rentcar/logo-1.png",
+      "source_url": "https://joarent.com/images/main/footerlogo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-16 lg:w-auto JOA 조아렌트 로고 div flex-shrink-0 div flex items-start justify-center lg:justify-start gap-6 lg:gap-8 div container footer text-gray-800 py-8 lg:py-20 bg-joa-gray",
+      "content_type": "image/png",
+      "bytes": 3179,
+      "sha256": "5f373bbc1e57ee2c0d88154535702638e56efd2859ab2444125b4ad7427b82cd",
+      "width": 82,
+      "height": 54
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/joa-rentcar/logo-2.png",
+      "source_url": "https://joarent.com/images/top/kakao.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img KakaoTalk 바로가기 a block div fixed right-0 top-0 w-[50%] h-auto max-h-screen overflow-y-auto bg-white shadow-2xl flex flex-col z-50 div fixed inset-0 z-[9999] lg:hidden nav bg-white relative z-50",
+      "content_type": "image/png",
+      "bytes": 9177,
+      "sha256": "6cddf2d95aa4d5bf7893f1f90c5fbc0685da13328067f1e5b9eb52369713216b",
+      "width": 355,
+      "height": 105
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-1.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_1.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full h-auto block 블랙박스 무료장착 div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden div relative w-full",
+      "content_type": "image/webp",
+      "bytes": 20728,
+      "sha256": "134b7a4181713717dcdde4c9027d82c0d7544607f032c320b164fe7f09c6ea0f",
+      "width": 1800,
+      "height": 514
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-2.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_2.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full h-auto block 카시트 예약 a block div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden",
+      "content_type": "image/webp",
+      "bytes": 19450,
+      "sha256": "da5af61d02b63c23eb626a6cd81878e0890dcf8f2fa87e461302c608f8810a3f",
+      "width": 1800,
+      "height": 514
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-1.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_3.png",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-auto block 무인 반납가능 div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden div relative w-full",
+      "content_type": "image/webp",
+      "bytes": 25906,
+      "sha256": "3d4dc391b63a099ebd07cb3e05816a509d8f1b0176d006a982e2d045c41dc350",
+      "width": 1800,
+      "height": 514
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-2.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_4.png",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-auto block 예약고객 쿠폰적립 div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden div relative w-full",
+      "content_type": "image/webp",
+      "bytes": 26876,
+      "sha256": "87b89cb2e21917eb6c089a4239163e93f9891cc357d5090bc2107fd746460c87",
+      "width": 1800,
+      "height": 514
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-3.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_5.png",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-auto block 셔틀버스 운영 div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden div relative w-full",
+      "content_type": "image/webp",
+      "bytes": 20894,
+      "sha256": "174650b073bc83e51789d78e35f86e12dd8ad3a51004e6467e8a8ec3743492cd",
+      "width": 1800,
+      "height": 514
+    }
+  ]
 }

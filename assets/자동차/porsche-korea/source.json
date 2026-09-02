@@ -4,11 +4,90 @@
   "requested_url": "https://www.porsche.com/korea/ko/",
   "page_url": "https://www.porsche.com/korea/ko/",
   "page_title": "포르쉐코리아 - 공식 웹사이트",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/porsche-korea/favicon.png",
-  "favicon_source_url": "https://cdn.ui.porsche.com/porsche-design-system/meta-icons/apple-touch-icon-180x180.bdf11cc.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/자동차/porsche-korea/og.webp",
-  "og_source_url": "https://images.porsche.com/f/338913/1344x756/b761087df0/porsche-normal.jpg",
-  "og_source_tag": "twitter:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/porsche-korea/favicon.png",
+      "source_url": "https://cdn.ui.porsche.com/porsche-design-system/meta-icons/apple-touch-icon-180x180.bdf11cc.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8209,
+      "sha256": "63cc20049201b0be9b708a5f9f51588b0950272a36fbe0f1a05e1f83b6036e01",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/porsche-korea/og.webp",
+      "source_url": "https://images.porsche.com/f/338913/1344x756/b761087df0/porsche-normal.jpg",
+      "source_tag": "twitter:image",
+      "content_type": "image/webp",
+      "bytes": 12868,
+      "sha256": "90dc86efc01df67cc09b729c2453fbf8af91659a35494ebfc5b12841b0551aea",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/porsche-korea/banner-1.webp",
+      "source_url": "https://images.porsche.com/f/338913/4000x4000/24b5c12a2e/4000x4000_pvs_main-banner.png/m/2560x1920/filters:format(webp):quality(80)",
+      "source_tag": "img:semantic-banner",
+      "context": "img PcomImage__root__feb9e HomeStageTile__cardImg__1d074 PVS Main Film Still p-link-tile HomeStageTile__cardDescription__1d074 scheme-dark article HomeStage__tilesAnimationStart__c0b7a 포르쉐 바이브 서울 div PcomGridItem__width-basic__141ce HomeSta",
+      "content_type": "image/webp",
+      "bytes": 184576,
+      "sha256": "300e8f194937f6248220e32b8d15f87f8f452f81c29a62088e5421a5d2772460",
+      "width": 1800,
+      "height": 1350
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/porsche-korea/banner-2.webp",
+      "source_url": "https://images.porsche.com/f/338913/4000x4000/24b5c12a2e/4000x4000_pvs_main-banner.png/m/900x675/filters:format(webp):quality(80)",
+      "source_tag": "img:semantic-banner",
+      "context": "img PcomImage__root__feb9e HomeStageTile__cardImg__1d074 PVS Main Film Still p-link-tile HomeStageTile__cardDescription__1d074 scheme-dark article HomeStage__tilesAnimationStart__c0b7a 포르쉐 바이브 서울 div PcomGridItem__width-basic__141ce HomeSta",
+      "content_type": "image/webp",
+      "bytes": 67068,
+      "sha256": "4d2102ae4294d514fe68841495657dd3093ec7f1e726d2edb762860684de5b2a",
+      "width": 900,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/porsche-korea/reference-1.webp",
+      "source_url": "https://images.porsche.com/f/338913/4000x4000/ec25fd023e/porsche_denver_m07_pcom-moile.jpg/m/480x0/filters:format(webp):quality(85)",
+      "source_tag": "picture:page-image",
+      "context": "picture div PcomBackgroundVideo__image__81700 div PcomBackgroundVideo__root__81700 astro-island astro-slot",
+      "content_type": "image/webp",
+      "bytes": 30280,
+      "sha256": "6d1d3eeb610b4d32e07dbdd827baedc8370d34616ea8542ee9e23f05f1dc9d7b",
+      "width": 480,
+      "height": 853
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/porsche-korea/reference-2.webp",
+      "source_url": "https://images.porsche.com/f/338913/4000x4000/5c76fd9a4d/porsche_denver_m07_pcom-fallback-1.jpg/m/1920x1080/filters:format(webp):quality(85)",
+      "source_tag": "picture:page-image",
+      "context": "picture div PcomBackgroundVideo__image__81700 div PcomBackgroundVideo__root__81700 astro-island astro-slot",
+      "content_type": "image/webp",
+      "bytes": 118460,
+      "sha256": "d0686046c49252a31a6fb51cf6fbd58722287dd9f4430f74e4b0aeb4652a9744",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/porsche-korea/reference-3.webp",
+      "source_url": "https://images.porsche.com/f/338913/4000x4000/ec25fd023e/porsche_denver_m07_pcom-moile.jpg/m/960x0/filters:format(webp):quality(45)",
+      "source_tag": "picture:page-image",
+      "context": "picture div PcomBackgroundVideo__image__81700 div PcomBackgroundVideo__root__81700 astro-island astro-slot",
+      "content_type": "image/webp",
+      "bytes": 53634,
+      "sha256": "d7e12445e19e1d70621b392492c7e7eb9ce15a12ed4306b6179177b15ab04724",
+      "width": 759,
+      "height": 1350
+    }
+  ]
 }

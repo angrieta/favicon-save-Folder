@@ -4,11 +4,90 @@
   "requested_url": "https://www.zigbang.com/",
   "page_url": "https://www.zigbang.com/",
   "page_title": "Beyond Home, Zigbang",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/zigbang/favicon.ico",
-  "favicon_source_url": "https://s.zigbang.com/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/테크_플랫폼/zigbang/og.png",
-  "og_source_url": "https://s.zigbang.com/v2/web/og/zigbang_default_new.png?v=20200709",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/zigbang/favicon.ico",
+      "source_url": "https://s.zigbang.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 107028,
+      "sha256": "6bee1f02d34bd144f1389df2f3fd99daeddd406e3c60d014985060f598a8aa79",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/zigbang/og.png",
+      "source_url": "https://s.zigbang.com/v2/web/og/zigbang_default_new.png?v=20200709",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 5100,
+      "sha256": "b4e605a4de6fef1421a9cd8b0f85d6280b9ab523d84d21b1fd05d8b7e9beee5b",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/zigbang/banner-1.webp",
+      "source_url": "https://s.zigbang.com/v1/web/main/zigbangWeb_heroImg_1920_v2.jpg",
+      "source_tag": "style-background-image",
+      "context": "display:-webkit-flex;display:-ms-flexbox;display:flex;height:360px;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;background-size:cover;background-image:url(https://s.zigbang.com/v1/web/main/zigbangWeb_heroImg_192",
+      "content_type": "image/webp",
+      "bytes": 23430,
+      "sha256": "308fa9f692259fe7e9834d346d48a3c2d129303c054e3e9339d97ff2f5bf7bd9",
+      "width": 1800,
+      "height": 431
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/zigbang/banner-2.webp",
+      "source_url": "https://s.zigbang.com/v1/web/main/zigbangWeb_heroImg_1680_v2.jpg",
+      "source_tag": "style-background-image",
+      "context": "lf:stretch;background-size:cover;background-image:url(https://s.zigbang.com/v1/web/main/zigbangWeb_heroImg_1920_v2.jpg);}/*!sc*/\n@media (max-width:1919px){.kltCbf{background-image:url(https://s.zigbang.com/v1/web/main/zigbangWeb_heroImg_168",
+      "content_type": "image/webp",
+      "bytes": 27794,
+      "sha256": "ba2dae62c4289d732a4f30f54b3be281db29cb07fa41efa04a0fd866096b32ff",
+      "width": 1800,
+      "height": 493
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/zigbang/reference-1.webp",
+      "source_url": "https://s.zigbang.com/zigbang-www/_next/static/img_webpromo_join_255-ef58d02199e9ca86134f6a74b06a802a.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div animatedComponent sc-679c504b-2 fkLhvI css-1dbjc4n r-1loqt21 r-1otgn73 div sc-679c504b-0 jtOiaW css-1dbjc4n div sc-1dfd4fd1-0 cTAwjH div sc-1dfd4fd1-1 foKEUo",
+      "content_type": "image/webp",
+      "bytes": 27402,
+      "sha256": "426ba109bdf09d4bd4eb8204a3e347efdbc9c38f633634e0071f04f39de01a08",
+      "width": 510,
+      "height": 906
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/zigbang/reference-2.webp",
+      "source_url": "https://s.zigbang.com/zigbang-www/_next/static/img_webmain_fullimage_slide_04-d77cfe5846dc2fb44caffad7fd3b9bd8.png",
+      "source_tag": "inline-background-image",
+      "context": "div  sc-55dad8b-7 csrTY css-1dbjc4n background-image:url(https://s.zigbang.com/zigbang-www/_next/static/img_webmain_fullimage_slide_04-d77cfe5846dc2fb44caffad7fd3b9bd8.png)",
+      "content_type": "image/webp",
+      "bytes": 169632,
+      "sha256": "481b384a2d74af5c8ba0038ab9dd4e6236b42d51d2550b8d7d97a02b5bf8e09b",
+      "width": 1800,
+      "height": 1250
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/zigbang/reference-3.webp",
+      "source_url": "https://s.zigbang.com/zigbang-www/_next/static/img_webmain_fullimage_slide_01-697257e1eb2711d3888750809df55ad6.png",
+      "source_tag": "inline-background-image",
+      "context": "div  sc-55dad8b-7 csrTY css-1dbjc4n background-image:url(https://s.zigbang.com/zigbang-www/_next/static/img_webmain_fullimage_slide_01-697257e1eb2711d3888750809df55ad6.png)",
+      "content_type": "image/webp",
+      "bytes": 54616,
+      "sha256": "424cc881bf5349bba77a512cd7cf16b5b542adfd5ae03b0b954f2a56a3474e0f",
+      "width": 1800,
+      "height": 1250
+    }
+  ]
 }

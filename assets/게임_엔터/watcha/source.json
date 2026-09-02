@@ -4,11 +4,43 @@
   "requested_url": "https://watcha.com/",
   "page_url": "https://watcha.com/ko/browse/all",
   "page_title": "왓챠",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/watcha/favicon.ico",
-  "favicon_source_url": "https://watcha.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/게임_엔터/watcha/og.png",
-  "og_source_url": "https://an2-ast.amz.wtchn.net/erd/_rx_base/assets/C0AF6C4s.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://an2-ast.amz.wtchn.net/erd/_rx_base/B-lqv1Cj.js; reference:ValueError:https://an2-ast.amz.wtchn.net/erd/_rx_base/ClYh9ae0.js; reference:ValueError:https://an2-ast.amz.wtchn.net/erd/_rx_base/Yg41Vhfb.js; reference:ValueError:https://an2-ast.amz.wtchn.net/erd/_rx_base/CoYn8WkI.js; reference:ValueError:https://an2-ast.amz.wtchn.net/erd/_rx_base/Bejl5Bp1.js; reference:ValueError:https://an2-ast.amz.wtchn.net/erd/_rx_base/CeZNoFdI.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/watcha/favicon.ico",
+      "source_url": "https://watcha.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 9918,
+      "sha256": "8369850b7cf02e0e906bae1cbb9f826d5ab7f38520961598d3d1d12537f16cd2",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/watcha/og.png",
+      "source_url": "https://an2-ast.amz.wtchn.net/erd/_rx_base/assets/C0AF6C4s.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 16542,
+      "sha256": "6c9fd6ecadd46d2a1a51483cc7eceac2035ed2bf3b66d86365e1277ffe8a8094",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/watcha/og.png",
+      "source_url": "https://an2-ast.amz.wtchn.net/erd/_rx_base/assets/C0AF6C4s.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "content_type": "image/png",
+      "bytes": 16542,
+      "sha256": "6c9fd6ecadd46d2a1a51483cc7eceac2035ed2bf3b66d86365e1277ffe8a8094",
+      "width": 1200,
+      "height": 628,
+      "context": "structured data logo",
+      "reused_from": "social"
+    }
+  ]
 }

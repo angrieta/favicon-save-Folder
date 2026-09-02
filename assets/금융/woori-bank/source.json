@@ -4,11 +4,55 @@
   "requested_url": "https://www.wooribank.com/",
   "page_url": "https://www.wooribank.com/",
   "page_title": "우리은행",
-  "page_status": "200",
-  "favicon_path": "assets/금융/woori-bank/favicon.ico",
-  "favicon_source_url": "https://www.wooribank.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/woori-bank/favicon.ico",
+      "source_url": "https://www.wooribank.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 2550,
+      "sha256": "fc94990157e6ff81d54743350b8345fce1ebe9c85098b6e37dcb42f00833556f",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/woori-bank/reference-1.webp",
+      "source_url": "https://www.wooribank.com/img/intro/home/intropop_ceo_message.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 우리금융그룹, 완전 민영화의 새역사, 그첫걸음을 고객님과 함께 합니다. div ly-body mauto pb0 position-r div PUP01MN0100010 pop-inner no-print position-a dis-n div w950 mauto position-r mt60 div introHome renew_main",
+      "content_type": "image/webp",
+      "bytes": 37378,
+      "sha256": "ccc44094913da87e01acefbd1f3a179717e8cc611fc14516efb05a24f0813512",
+      "width": 400,
+      "height": 551
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/woori-bank/reference-2.webp",
+      "source_url": "https://www.wooribank.com/img/smart/intro/INTPOT_ALL_INTRO_ROLL1/20251218_0.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 은행권 소상공인 금융지원 방안 안내 div img_center a div introCrm_02 slides nth1 div slides01",
+      "content_type": "image/webp",
+      "bytes": 19878,
+      "sha256": "670718a440b2069b642cce3759c9b8bbb2be7589acc8efbd56b32d9b8668a7c5",
+      "width": 980,
+      "height": 535
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/woori-bank/reference-3.webp",
+      "source_url": "https://www.wooribank.com/img/smart/intro/INTPOT_ALL_INTRO_ROLL2/house_1.png",
+      "source_tag": "img:page-image",
+      "context": "img 비정상거처 이주지원 버팀목대출 안내 주거취약계층의 이주를 지원하여 희망을 밝혀드립니다! div img_center a div introCrm_02 slides nth2 div slides01",
+      "content_type": "image/webp",
+      "bytes": 25370,
+      "sha256": "28accc45371dd90ac95cdf9beaedcec7a31b97cfe694870b1f5b25744c12f60a",
+      "width": 980,
+      "height": 535
+    }
+  ]
 }

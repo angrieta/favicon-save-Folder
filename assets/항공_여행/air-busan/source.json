@@ -4,11 +4,19 @@
   "requested_url": "https://www.airbusan.com/",
   "page_url": "https://www.airbusan.com/",
   "page_title": "잠시만 기다리십시오…",
-  "page_status": "browser",
-  "favicon_path": "assets/항공_여행/air-busan/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.airbusan.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.airbusan.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/air-busan/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.airbusan.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 4912,
+      "sha256": "af108de3f5544afb3044f24e342fc6f7663b1d884253f421c26fb13503fed568",
+      "width": 256,
+      "height": 256
+    }
+  ]
 }

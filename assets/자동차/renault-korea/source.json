@@ -4,11 +4,90 @@
   "requested_url": "https://www.renault.co.kr/",
   "page_url": "https://www.renault.co.kr:443/ko/main/main.jsp",
   "page_title": "르노코리아 – 혁신적인 차량 및 르노 자동차 공식 웹사이트",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/renault-korea/favicon.svg",
-  "favicon_source_url": "https://www.renault.co.kr:443/ko/res/img/favicon.svg",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/자동차/renault-korea/og.jpg",
-  "og_source_url": "https://www.renault.co.kr/ko/main/rkm_share.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/renault-korea/favicon.svg",
+      "source_url": "https://www.renault.co.kr:443/ko/res/img/favicon.svg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 477,
+      "sha256": "750095423c8ce6efc178e1f79677d4dc1f60cc9262728882d59db1366b5ba151",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/renault-korea/og.jpg",
+      "source_url": "https://www.renault.co.kr/ko/main/rkm_share.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 8512,
+      "sha256": "f27a408b57ea16ccac762ddfc768606c47abe3ce2e24f5b6a6e43d99df73c1e3",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/renault-korea/banner-1.webp",
+      "source_url": "https://cdn.renault.co.kr/ko/resource/img/main/260901_pc.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img __desktop div visual_figure div visual_item swiper-slide hidden_dim div swiper-wrapper div visual_visual swiper",
+      "content_type": "image/webp",
+      "bytes": 82650,
+      "sha256": "ae0681b7035f772acdfa555d9c0f790f923e89a97cc4d9f619610c96e45ad733",
+      "width": 1800,
+      "height": 956
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/renault-korea/banner-2.webp",
+      "source_url": "https://cdn.renault.co.kr/ko/resource/img/main/img_banner_filante.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img __desktop div visual_figure div visual_item swiper-slide div swiper-wrapper div visual_visual swiper",
+      "content_type": "image/webp",
+      "bytes": 75428,
+      "sha256": "5047e870d4cccab196e9ecce94f1626b57980a6a7bb575ad604e2427c8e1c25c",
+      "width": 1800,
+      "height": 956
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/renault-korea/reference-1.webp",
+      "source_url": "https://cdn.renault.co.kr/ko/resource/img/main/260901_1_PC.webp?v=260901_1",
+      "source_tag": "img:page-image",
+      "context": "img slide-img 팝업 이미지 1 div slide-item div sliderTrack slider-track div slider-container div main-popup-card",
+      "content_type": "image/webp",
+      "bytes": 117664,
+      "sha256": "78c8a42c133fca3ef8b7cc0cbf14044ab572d192bbe2fcc91245eaca057831bc",
+      "width": 1800,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/renault-korea/reference-2.webp",
+      "source_url": "https://cdn.renault.co.kr/ko/resource/img/main/260713_PC.jpg?v=260713",
+      "source_tag": "img:page-image",
+      "context": "img slide-img 팝업 이미지 2 div slide-item div sliderTrack slider-track div slider-container div main-popup-card",
+      "content_type": "image/webp",
+      "bytes": 219958,
+      "sha256": "6d5d0f9c6f358891a07c380869165359c7051e22a197df3c66a6cd30ddebe4e5",
+      "width": 1800,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/renault-korea/reference-3.webp",
+      "source_url": "https://cdn.renault.co.kr/upload/asset/koleos/main_off.webp",
+      "source_tag": "img:page-image",
+      "context": "img a li ul div link_mu",
+      "content_type": "image/webp",
+      "bytes": 58560,
+      "sha256": "04fe63c1d8890468dc51d5b6e5f063d2d54112f0496043cbc71351740c7ee1b3",
+      "width": 1600,
+      "height": 900
+    }
+  ]
 }

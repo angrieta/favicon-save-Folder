@@ -4,11 +4,90 @@
   "requested_url": "https://www.jejurentacar.com/",
   "page_url": "https://www.jejurentacar.com/",
   "page_title": "제주렌트카.com",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/jeju-rent-a-car/favicon.ico",
-  "favicon_source_url": "https://www.jejurentacar.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/렌터카_국내/jeju-rent-a-car/og.jpg",
-  "og_source_url": "https://www.jejurentacar.com/data/common/logosns_img",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://www.jejurentacar.com/data/common/logo_img",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/jeju-rent-a-car/favicon.ico",
+      "source_url": "https://www.jejurentacar.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 16958,
+      "sha256": "867fc849852b3d2393f23b3f84da90ca2d0791fd760316f0891a56ab0c66c142",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jeju-rent-a-car/og.jpg",
+      "source_url": "https://www.jejurentacar.com/data/common/logosns_img",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 36488,
+      "sha256": "f482e4929ab2046232b7d74e6db9a42f4ee20c558a240439fd9124a19bef13bb",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rent-a-car/banner-1.webp",
+      "source_url": "https://www.jejurentacar.com/data/banner/8",
+      "source_tag": "img:semantic-banner",
+      "context": "img 제주베이비카 TEL : 064-901-0258  a li sbn_first ul section sbn_idx sbn",
+      "content_type": "image/webp",
+      "bytes": 33390,
+      "sha256": "5ec776f67875932c2b072cd4c737daca6baacf37aaaf5cf268fa54d12b0640fb",
+      "width": 1000,
+      "height": 300
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rent-a-car/banner-2.webp",
+      "source_url": "https://www.jejurentacar.com/data/banner/7",
+      "source_tag": "img:semantic-banner",
+      "context": "img 카카오톡 실시간 상담 a li ul section sbn_idx sbn",
+      "content_type": "image/webp",
+      "bytes": 44690,
+      "sha256": "250fb1fe63d21a318940bd82d8763da3ae0d91c3ed3241c5ec01e21e29f460bd",
+      "width": 1000,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rent-a-car/reference-1.webp",
+      "source_url": "https://www.jejurentacar.com/data/banner/6",
+      "source_tag": "img:page-image",
+      "context": "img ★ 제주렌트카 할인판매 ☆ a li ul section sbn_idx sbn",
+      "content_type": "image/webp",
+      "bytes": 67906,
+      "sha256": "807fb668bd2ef83a45774f82d2642d7132e9fa343fd024307107a4dda9b75071",
+      "width": 1000,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rent-a-car/reference-2.webp",
+      "source_url": "https://www.jejurentacar.com/data/banner/4",
+      "source_tag": "img:page-image",
+      "context": "img a li ul section sbn_idx sbn",
+      "content_type": "image/webp",
+      "bytes": 32688,
+      "sha256": "7dba0fc1a260cf305fc592238c3c8cc30715b2f730a739bd26154b31661b035a",
+      "width": 1000,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rent-a-car/reference-3.webp",
+      "source_url": "https://www.jejurentacar.com/data/banner/5",
+      "source_tag": "img:page-image",
+      "context": "img 기사포함 전용차량 a li ul section sbn_idx sbn",
+      "content_type": "image/webp",
+      "bytes": 69228,
+      "sha256": "3fec834250553a301f4963c9d85f744e43d37ca739f25628ac7ca7939fc4e40d",
+      "width": 1000,
+      "height": 300
+    }
+  ]
 }

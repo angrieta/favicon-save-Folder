@@ -4,11 +4,19 @@
   "requested_url": "https://www.kbstar.com/",
   "page_url": "https://www.kbstar.com/",
   "page_title": "KB국민은행",
-  "page_status": "200",
-  "favicon_path": "assets/금융/kb-bank/favicon.png",
-  "favicon_source_url": "https://www.kbstar.com/openimg/favi_iphone_n201512.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/kb-bank/favicon.png",
+      "source_url": "https://www.kbstar.com/openimg/favi_iphone_n201512.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6992,
+      "sha256": "800f2c6f6c7f0041837b8c225d9faa33e1f1ad94f6785ab5a2c305ca94cb2cc7",
+      "width": 48,
+      "height": 48
+    }
+  ]
 }

@@ -4,11 +4,31 @@
   "requested_url": "https://www.burgerking.co.kr/",
   "page_url": "https://www.burgerking.co.kr/",
   "page_title": "버거킹",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/burgerking-korea/favicon.png",
-  "favicon_source_url": "https://www.burgerking.co.kr/favicon.png",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/burgerking-korea/favicon.png",
+      "source_url": "https://www.burgerking.co.kr/favicon.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1375,
+      "sha256": "1f21fb63f87f61de473f953bdacba120f023e494e889e5e6bc2167f5812c3431",
+      "width": 34,
+      "height": 38
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/burgerking-korea/reference-1.webp",
+      "source_url": "https://www.burgerking.co.kr/img/bg_home_franchise.png",
+      "source_tag": "link:preload",
+      "context": "preload image  /img/bg_home_franchise.png",
+      "content_type": "image/webp",
+      "bytes": 172230,
+      "sha256": "eaa0fb637ae200a41ca3b2ba8a4f6e2e88fb52f12b88d2f874e220968125ac09",
+      "width": 1800,
+      "height": 1350
+    }
+  ]
 }

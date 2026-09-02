@@ -4,11 +4,91 @@
   "requested_url": "https://nissan-rentacar.com/",
   "page_url": "https://nissan-rentacar.com/",
   "page_title": "日産レンタカー",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/nissan-rent-a-car/favicon.png",
-  "favicon_source_url": "https://nissan-rentacar.com/images/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/nissan-rent-a-car/og.webp",
-  "og_source_url": "https://nissan-rentacar.com/ja-seo-logo.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/favicon.png",
+      "source_url": "https://nissan-rentacar.com/images/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 10728,
+      "sha256": "17d16faf873881b8a3528131c0f2ccee88ccf07b89646404f24373dcbd15e673",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/og.webp",
+      "source_url": "https://nissan-rentacar.com/ja-seo-logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 532254,
+      "sha256": "0370105d5a478a96d8bcbdf70b7babc6b96994a878acb1280b5d5b3934ffb31e",
+      "width": 1000,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/og.webp",
+      "source_url": "https://nissan-rentacar.com/ja-seo-logo.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 532254,
+      "sha256": "0370105d5a478a96d8bcbdf70b7babc6b96994a878acb1280b5d5b3934ffb31e",
+      "width": 1000,
+      "height": 500,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/logo-2.png",
+      "source_url": "https://nissan-rentacar.com/ic-logo-sm.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-sm span div relative h-[36px] w-[118px] div flex items-center ul flex justify-between mb-2.5",
+      "content_type": "image/png",
+      "bytes": 3236,
+      "sha256": "822162e6904c982b170c2c9dfffafc2f1ea8eb5c2447d415ba182481cceaa575",
+      "width": 237,
+      "height": 72
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-1.webp",
+      "source_url": "https://nissan-rentacar.com/img-home-bgr-sp.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img-home-bgr-sp span div relative w-full md:min-h-[569px] min-h-[460px] md:hidden div flex flex-col relative div w-full mx-auto px-0 mt-0",
+      "content_type": "image/webp",
+      "bytes": 63400,
+      "sha256": "e151035b4f1af1722df8e8a7378cee319c85644f1dd9871d2e890bf5048e0fdc",
+      "width": 750,
+      "height": 248
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-2.webp",
+      "source_url": "https://a.storyblok.com/f/160498/654x396/224298b5e7/sumb.jpg/m/",
+      "source_tag": "img:page-image",
+      "context": "img rounded-lg noscript span div relative aspect-[166.6/100.51] rounded-lg div grid gap-2 md:gap-6 grid-cols-2 md:grid-cols-3 mt-3 md:mt-9",
+      "content_type": "image/webp",
+      "bytes": 52204,
+      "sha256": "60583e86c3c63a497975c33d734f25572ec3ac351b6c8f784a80f01b358819c2",
+      "width": 654,
+      "height": 396
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-3.webp",
+      "source_url": "https://a.storyblok.com/f/160498/5555x3404/51ecfc68f2/23day.png/m/",
+      "source_tag": "img:page-image",
+      "context": "img rounded-lg noscript span div relative aspect-[166.6/100.51] rounded-lg div grid gap-2 md:gap-6 grid-cols-2 md:grid-cols-3 mt-3 md:mt-9",
+      "content_type": "image/webp",
+      "bytes": 102654,
+      "sha256": "a65766cd71c36d181e32dcbe3dd83df400c4204c8e6af084042e4a1f9050d583",
+      "width": 1800,
+      "height": 1103
+    }
+  ]
 }

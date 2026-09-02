@@ -4,11 +4,31 @@
   "requested_url": "https://www.carplat.co.kr/",
   "page_url": "https://www.carplat.co.kr/login?redirectTo=%2F",
   "page_title": "카플랫",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/carplat/favicon.ico",
-  "favicon_source_url": "https://www.carplat.co.kr/favicon.ico?favicon.16d4dltoq7ci5.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.carplat.co.kr/_next/static/chunks/0w05wc0hfy2o7.js; reference:ValueError:https://dapi.kakao.com/v2/maps/sdk.js?appkey=1f4ff85d3f250d6da6bab2a250c58649&autoload=false&libraries=services,clusterer",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/carplat/favicon.ico",
+      "source_url": "https://www.carplat.co.kr/favicon.ico?favicon.16d4dltoq7ci5.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "c3f734a87d2dd4c44771aa9565e9d7c91700739e8243f36effe8371a64e0740f",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carplat/reference-1.webp",
+      "source_url": "https://www.carplat.co.kr/assets/login_left_car.png",
+      "source_tag": "img:page-image",
+      "context": "img absolute bottom-0 max-w-fit Login background div z-fixed fixed top-0 left-0 h-full main bg-background-strong flex h-screen w-full items-center justify-center pl-200 body pretendard_37e71238-module__GBIs1W__className html carplat",
+      "content_type": "image/webp",
+      "bytes": 33350,
+      "sha256": "f1a8f2fe7fac0dd2108179490dacb47ba480fdf4864b7ca58523709850b24a0e",
+      "width": 400,
+      "height": 800
+    }
+  ]
 }

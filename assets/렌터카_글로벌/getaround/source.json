@@ -4,11 +4,54 @@
   "requested_url": "https://getaround.com/",
   "page_url": "https://getaround.com/",
   "page_title": "Local Car Hire and Carsharing - Getaround",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/getaround/favicon.png",
-  "favicon_source_url": "https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&format=png&w=180",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/getaround/og.jpg",
-  "og_source_url": "https://getaround.com/packs/images/app/assets/images/shared/facebook/og.bf9ebb3db6bff8d0.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ConnectionError:https://cobalt-assets.getaround.com/icons/calendar_start.svg?compress=true; reference:ConnectionError:https://cobalt-assets.getaround.com/icons/arrow_right.svg?compress=true; reference:ConnectionError:https://cobalt-assets.getaround.com/icons/calendar_end.svg?compress=true; reference:ConnectionError:https://cobalt-assets.getaround.com/icons/chevron_down.svg?compress=true; reference:ValueError:https://getaround.com/packs/fonts/BrownPro-Regular.f1f4d8b789341496.woff2; reference:ValueError:https://getaround.com/packs/fonts/BrownPro-Regular.57e8955fb7a627d4.woff",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/getaround/favicon.png",
+      "source_url": "https://getaround-assets.gumlet.io/images/shared/icons/app-icon-production.svg?compress=true&format=png&w=180",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2032,
+      "sha256": "06a62ba6423b9d34551c33df3c8b50e7b410b34b971a528cc6183f87b8ca2231",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/getaround/og.jpg",
+      "source_url": "https://getaround.com/packs/images/app/assets/images/shared/facebook/og.bf9ebb3db6bff8d0.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 84590,
+      "sha256": "f5420b11ef1aa903697e2ea4322dbb9cb565c19cf1a8bc4b9bf5524fa51cabbe",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/getaround/logo-1.svg",
+      "source_url": "https://getaround.com/packs/images/app/assets/images/shared/getaround-logo.245e368962541c3c.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__logo-image--darker Peer-to-peer car rental – Getaround a js_homepage-link header__logo header__logo--rebranded nav header__container div container header header js_header",
+      "content_type": "image/svg+xml",
+      "bytes": 2010,
+      "sha256": "3d1e159b6af47f30e49d3bc09ababbb26e6f194debdbbe220da87726c5f4e69d",
+      "width": 110,
+      "height": 26
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/getaround/logo-2.svg",
+      "source_url": "https://getaround-assets.gumlet.io/images/shared/logos/getaround-logo-circle-outline.svg?compress=true&h=32&mode=crop&w=32",
+      "source_tag": "img:semantic-logo",
+      "context": "img footer__getaround-logo lazy Getaround logo div c-flex c-justify-between div c-flex c-flex-col c-gap-lg c-py-lg c-px-sm c-text-body-md sm:c-px-md lg:c-px-xl div c-bg-surface mkg-rounded-md footer footers js_footers footer--full",
+      "content_type": "image/svg+xml",
+      "bytes": 1466,
+      "sha256": "81f93a01810fa8c7af1f4f8a391221a6d8572962452ca6e2ecfdd0e6442cf044",
+      "width": 65,
+      "height": 64
+    }
+  ]
 }

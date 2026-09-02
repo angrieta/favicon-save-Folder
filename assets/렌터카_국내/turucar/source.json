@@ -4,11 +4,103 @@
   "requested_url": "https://www.turucar.com/",
   "page_url": "https://www.turucar.com/",
   "page_title": "투루카",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/turucar/favicon.ico",
-  "favicon_source_url": "https://www.turucar.com/favicon.ico?favicon.13y1hze_qewf4.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/렌터카_국내/turucar/og.png",
-  "og_source_url": "https://turucar.com/images/seo/og.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/turucar/favicon.ico",
+      "source_url": "https://www.turucar.com/favicon.ico?favicon.13y1hze_qewf4.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 32988,
+      "sha256": "638e0309ec67a01ff1fb4b1b38a403b5ef3f71491c9cc84e44a50d8115e835c4",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/turucar/og.png",
+      "source_url": "https://turucar.com/images/seo/og.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 7310,
+      "sha256": "8c9b1f18d575d3a72088361860bd01d7c5a77d55e6e962a8f883f074c1fd2f85",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/turucar/logo-1.svg",
+      "source_url": "https://turucar.com/svg/turucar-logo.svg",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 3759,
+      "sha256": "1ee5c5627433351a793a89d6592a3251068baa44b1fb3e9fe395a74e07dabdd3",
+      "width": 160,
+      "height": 27
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/turucar/logo-2.png",
+      "source_url": "https://www.turucar.com/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img07.png&w=2048&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img min-w-800 object-cover object-center xl:min-w-full xl:translate-x-[-15%] xl:object-left 투루카 종합 서비스 이미지 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-1 h-full div flex h-full w-full flex-col items-center ju",
+      "content_type": "image/png",
+      "bytes": 843098,
+      "sha256": "8bb10f8af022f778104db531aac81de70f7efa3eccd1dfc1dc707ce41212bd5e",
+      "width": 1600,
+      "height": 1068
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/logo-2.png",
+      "source_url": "https://www.turucar.com/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img07.png&w=2048&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img min-w-800 object-cover object-center xl:min-w-full xl:translate-x-[-15%] xl:object-left 투루카 종합 서비스 이미지 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-1 h-full div flex h-full w-full flex-col items-center ju",
+      "content_type": "image/png",
+      "bytes": 843098,
+      "sha256": "8bb10f8af022f778104db531aac81de70f7efa3eccd1dfc1dc707ce41212bd5e",
+      "width": 1600,
+      "height": 1068,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-1.webp",
+      "source_url": "https://www.turucar.com/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img01.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img h-auto max-h-600 w-405 object-contain xl:max-h-none 투루카 앱 화면 div mx-96 aspect-[405/630] overflow-hidden xl:mx-0 xl:mt-130 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 div mx-auto flex h-full w-full max-",
+      "content_type": "image/webp",
+      "bytes": 71434,
+      "sha256": "00bd5b93eeae3631304de8951953ba068bccdfdf4dc1f456a5349fbb54ee9618",
+      "width": 698,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-2.webp",
+      "source_url": "https://www.turucar.com/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img02.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img h-auto w-566 object-cover 자동차 div absolute -bottom-121 z-20 mx-48 flex h-270 items-center overflow-hidden xl:-left-1/3 xl:mx-0 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 div mx-auto flex h-full w-full",
+      "content_type": "image/webp",
+      "bytes": 21082,
+      "sha256": "940a119714da56a8cff17a333769b677b9d68c775fe7971923be500aaa38912a",
+      "width": 661,
+      "height": 267
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-3.webp",
+      "source_url": "https://www.turucar.com/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img10.png&w=750&q=75",
+      "source_tag": "img:page-image",
+      "context": "img h-auto w-[365px] 비즈 멤버십 앱 화면 1 div div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 gap-[-100px] div mx-auto flex h-full w-full max-w-7xl flex-col items-center justify-between gap-32 xl:flex-row section fle",
+      "content_type": "image/webp",
+      "bytes": 95768,
+      "sha256": "d239f67b80789bf85006575921669996fafe9ea5652020bca46fc28a981ca81b",
+      "width": 624,
+      "height": 985
+    }
+  ]
 }

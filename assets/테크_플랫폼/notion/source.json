@@ -4,11 +4,78 @@
   "requested_url": "https://www.notion.com/ko",
   "page_url": "https://www.notion.com/ko",
   "page_title": "나만을 위한 AI 워크스페이스 | Notion (노션)",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/notion/favicon.png",
-  "favicon_source_url": "https://www.notion.com/front-static/logo-ios.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/테크_플랫폼/notion/og.jpg",
-  "og_source_url": "https://www.notion.com/front-static/meta/teams-and-agents.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/notion/favicon.png",
+      "source_url": "https://www.notion.com/front-static/logo-ios.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8078,
+      "sha256": "483846a85e43e22879445047b83b22033e70fcc25ab34809ebadb7f856507ee0",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/notion/og.jpg",
+      "source_url": "https://www.notion.com/front-static/meta/teams-and-agents.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 156099,
+      "sha256": "548455b96a3cb2cfea13a39771b8b5d0114591c179291abc269f579791d54e53",
+      "width": 2400,
+      "height": 1250
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/notion/logo-1.svg",
+      "source_url": "https://images.ctfassets.net/spoqsaf9291f/OJRQbA3XzRNfCfMh3UWf4/76408a06d9d9a1ed52fcd109b264de80/Company_Cursor__Colorway_White.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img next-image logo-module-scss-module__TGvlAa__logo logo-module-scss-module__TGvlAa__heightConstrained socialProofV2-module-scss-module__Mcafya__cardLogo Cursor div socialProofV2-module-scss-module__Mcafya__cardContent a socialProofV2-modu",
+      "content_type": "image/svg+xml",
+      "bytes": 2001,
+      "sha256": "b086cc7a228a80a1b00b4fc690905111a5e4fe2e94480c8ae5109875b72447a3",
+      "width": 82,
+      "height": 24
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/notion/logo-2.svg",
+      "source_url": "https://images.ctfassets.net/spoqsaf9291f/6HI6Z7JAuvLnNK8mDWdnF8/fd2d3b36fc27b8bbad2042136c7991f2/Company_faire__Colorway_White.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img next-image logo-module-scss-module__TGvlAa__logo logo-module-scss-module__TGvlAa__heightConstrained socialProofV2-module-scss-module__Mcafya__cardLogo Faire div socialProofV2-module-scss-module__Mcafya__cardContent a socialProofV2-modul",
+      "content_type": "image/svg+xml",
+      "bytes": 4450,
+      "sha256": "dcf2d19436f160694b407e56052312065a6848c1e5afe533e23a0ceb621bc077",
+      "width": 89,
+      "height": 24
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/notion/banner-1.webp",
+      "source_url": "https://www.notion.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F3kVtQWll6jUqQepQ0kaYlz%2Fcebde6234663bfddbae82d0f8f401357%2FHomepage_Hero_1920x1200_ko-KR_v003_poster_final.jpg&w=3840&q=90",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture HeroMedia-module-scss-module__t-AqdW__poster div HeroMedia-module-scss-module__t-AqdW__productImage div HeroMedia-module-scss-module__t-AqdW__productImageContainer div heroGrid-module-scss-module__Zc4oCG__item heroGrid-module-scss-m",
+      "content_type": "image/webp",
+      "bytes": 69046,
+      "sha256": "972661e4b6ca8ff78af56cc53a0eaf6b8a36148a0e9a96f406a2bbe42527369a",
+      "width": 1800,
+      "height": 1125
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/notion/reference-1.svg",
+      "source_url": "https://images.ctfassets.net/spoqsaf9291f/6T4QxYfpIzIbZgWUSa5Rb1/8c6cb40bbf2304f8486222d777314b83/Figma_Wordmark__Black_.svg",
+      "source_tag": "inline-background-image",
+      "context": "span  customerLogo-module-scss-module__gQ6u1q__customerLogo customerLogo-module-scss-module__gQ6u1q__mono inline-size:96px;block-size:24px;--customer-logo-max-height:24px;--customer-logo-mask-image:url(\"https://images.ctfassets.net/spoqsaf9",
+      "content_type": "image/svg+xml",
+      "bytes": 2342,
+      "sha256": "e91c645266dbf009950d51c997beab71b15adb418f1f75d1febd082a9295fc7a",
+      "width": 628,
+      "height": 241
+    }
+  ]
 }

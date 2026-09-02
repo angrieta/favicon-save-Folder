@@ -4,11 +4,102 @@
   "requested_url": "https://www.jaguarkorea.co.kr/",
   "page_url": "https://www.jaguar.com/ko-kr/jdx/index.html",
   "page_title": "재규어 | 영감을 자극하는 열정 | 관습에 대한 도전",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/jaguar-korea/favicon.ico",
-  "favicon_source_url": "https://www.jaguar.com/etc.clientlibs/jlr/clientlibs/clientlib-libs/resources/icons/favicon-jdx.ico",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/자동차/jaguar-korea/og.avif",
-  "og_source_url": "https://www.jaguarkorea.co.kr/content/dam/jdx/future-jaguar/international/x900-tease/X90027GL_303102633_001.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/jaguar-korea/favicon.ico",
+      "source_url": "https://www.jaguar.com/etc.clientlibs/jlr/clientlibs/clientlib-libs/resources/icons/favicon-jdx.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 403990,
+      "sha256": "f60790c6ecd4edb0c471141e0b7d334c63d922736a69fc6852dc2d44f49ca6c4",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/jaguar-korea/og.avif",
+      "source_url": "https://www.jaguarkorea.co.kr/content/dam/jdx/future-jaguar/international/x900-tease/X90027GL_303102633_001.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 63984,
+      "sha256": "92468c4bc856e1191ac586b7ebf0d49d8dc26b765330c799cbc431cd06e98785",
+      "width": 2560,
+      "height": 1040
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/jaguar-korea/logo-1.svg",
+      "source_url": "https://www.jaguar.com/content/dam/jdx/logo/new_jaguar_logo_white.svg.res/JLRHASHE30CB6AA7C134EB936269AA2C134DD8CE6FDCD41/new_jaguar_logo_white.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Jaguar Homepage a dxnav__logo template div dxnav__logo-container-template div jaguar",
+      "content_type": "image/svg+xml",
+      "bytes": 2691,
+      "sha256": "567004e06c6466978e9e6ffc44e1f92d772a6fe2387d48afd36d2e251e0d41c9",
+      "width": 173,
+      "height": 66
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/jaguar-korea/banner-1.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/X26024GL_303101393_005",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div dxnav-promo-panel__image-container a dxnav-promo-panel__link div dxnav-promo-panel dxnav-promo-panel--image div dxnav-primary-tab-columns__promo-panel dxnav-primary-tab-columns__promo-panel--large-promo-image",
+      "content_type": "image/webp",
+      "bytes": 13126,
+      "sha256": "e86a40ca77e4c88f56b9a6928dadd4eef17ab0a70dfc5deba1deaf8fd0245ded",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/jaguar-korea/banner-2.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/XCL24GL_303101393_002",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div dxnav-promo-panel__image-container a dxnav-promo-panel__link div dxnav-promo-panel dxnav-promo-panel--panel div dxnav-primary-tab-columns__promo-panel dxnav-primary-tab-columns__promo-panel--dual",
+      "content_type": "image/webp",
+      "bytes": 33504,
+      "sha256": "7495105a2eaf456c3fe509b21119b4b6d3cd074b8837390238be35f3e152ef04",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/jaguar-korea/reference-1.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/X15224GL_303101393_043",
+      "source_tag": "picture:page-image",
+      "context": "picture div dxnav-promo-panel__image-container a dxnav-promo-panel__link div dxnav-promo-panel dxnav-promo-panel--panel div dxnav-primary-tab-columns__promo-panel dxnav-primary-tab-columns__promo-panel--dual",
+      "content_type": "image/webp",
+      "bytes": 27308,
+      "sha256": "f1412c12581b4a856e583d1e882d4930ae31665fd46eaad9025fc957ea7b5142",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/jaguar-korea/reference-2.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/X54024GL_303101393_040",
+      "source_tag": "picture:page-image",
+      "context": "picture div dxnav-promo-panel__image-container div dxnav-promo-panel dxnav-promo-panel--image div dxnav-primary-tab-columns__promo-panel div dxnav-primary-tab-columns",
+      "content_type": "image/webp",
+      "bytes": 21220,
+      "sha256": "1ee9f93985e7eab2acb21c55cf91026734788380e9dde0a5fbbf4f49f7270bf4",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/jaguar-korea/reference-3.webp",
+      "source_url": "https://jlr.scene7.com/is/image/jlr/X26024GL_303101393_007",
+      "source_tag": "picture:page-image",
+      "context": "picture div dxnav-promo-panel__image-container a dxnav-promo-panel__link div dxnav-promo-panel dxnav-promo-panel--image div dxnav-primary-tab-columns__promo-panel dxnav-primary-tab-columns__promo-panel--large-promo-image",
+      "content_type": "image/webp",
+      "bytes": 33300,
+      "sha256": "5cd29dc7d8644f270354c6a9f5b529d02baad9321901d87a4cb0ec6caea404e4",
+      "width": 1280,
+      "height": 720
+    }
+  ]
 }

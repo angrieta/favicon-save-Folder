@@ -4,11 +4,30 @@
   "requested_url": "https://company.netmarble.com/",
   "page_url": "https://company.netmarble.com/",
   "page_title": "넷마블컴퍼니",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/netmarble/favicon.png",
-  "favicon_source_url": "https://sgimage.netmarble.com/favicon/netmarble/favicon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/게임_엔터/netmarble/og.png",
-  "og_source_url": "https://sgimage.netmarble.com/netmarble/official/v1/sns_share.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/netmarble/favicon.png",
+      "source_url": "https://sgimage.netmarble.com/favicon/netmarble/favicon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 13014,
+      "sha256": "a2bc9d1a3f0d97fd037afce8f76a7816b204ef86d5ff44af62b706a71e710b46",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/netmarble/og.png",
+      "source_url": "https://sgimage.netmarble.com/netmarble/official/v1/sns_share.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 16901,
+      "sha256": "51d6861711933672f221e3478c361c5f60473e4e081a5296e032973babc0f7b1",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

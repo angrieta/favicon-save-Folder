@@ -4,11 +4,78 @@
   "requested_url": "https://www.posco-inc.com/",
   "page_url": "https://www.posco-inc.com:443/hs91a1-front/app/index.html",
   "page_title": "포스코홀딩스",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/posco-holdings/favicon.png",
-  "favicon_source_url": "https://www.posco-inc.com:443/hs91a1-front/app/assets/img/favicon/favicon-180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/산업_건설_통신/posco-holdings/og.png",
-  "og_source_url": "https://www.posco-inc.com/hs91a1-front/app/assets/img/og-image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/posco-holdings/favicon.png",
+      "source_url": "https://www.posco-inc.com:443/hs91a1-front/app/assets/img/favicon/favicon-180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2617,
+      "sha256": "a8fab9dd54f6177df844c86bb33e6d22f9feb3b58ce73a4b6125dae11b4f70c8",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/posco-holdings/og.png",
+      "source_url": "https://www.posco-inc.com/hs91a1-front/app/assets/img/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 45500,
+      "sha256": "3196090f54ee0087c31ed4c9f530ad4c5aa3e89d11c16ada222db10ec234cd20",
+      "width": 2400,
+      "height": 1260
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/posco-holdings/logo-1.png",
+      "source_url": "https://www.posco-inc.com/hs91a1-front/app/assets/img/favicon/favicon-512.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 7134,
+      "sha256": "c60cfd574a2107c571042003b67cad1ea1e8eac779936feccf1626735ec7b0c2",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/posco-holdings/reference-1.webp",
+      "source_url": "https://www.posco-inc.com:443/hs91a1-front/app/assets/img/main/main_heritage_01.webp",
+      "source_tag": "img:page-image",
+      "context": "img heritage__image 포항제철소 전경 div heritage__image-shift div heritage__image-frame heritage__image-frame--02 div heritage__visual div col-5",
+      "content_type": "image/webp",
+      "bytes": 182464,
+      "sha256": "e804794d2801922f25fb838e9b7e002855ed1dd407475db0151cc730e740054e",
+      "width": 1015,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/posco-holdings/reference-2.webp",
+      "source_url": "https://www.posco-inc.com:443/hs91a1-front/app/assets/img/main/main_heritage_02.webp",
+      "source_tag": "img:page-image",
+      "context": "img heritage__image 제철 공정 div heritage__image-shift div heritage__image-frame heritage__image-frame--03 div heritage__visual div col-5",
+      "content_type": "image/webp",
+      "bytes": 303568,
+      "sha256": "24edf3cd99c3a61b90558e151fcbc4dfd4e7b7c28e32228b964c746ec620cb51",
+      "width": 1015,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/posco-holdings/reference-3.webp",
+      "source_url": "https://www.posco-inc.com:443/hs91a1-front/app/assets/img/main/main_heritage_03.webp",
+      "source_tag": "img:page-image",
+      "context": "img heritage__image 현대 POSCO 사옥 div heritage__image-shift div heritage__image-frame heritage__image-frame--04 is-fallback-active div heritage__visual div col-5",
+      "content_type": "image/webp",
+      "bytes": 167670,
+      "sha256": "b00430aabd9e688f8948650aa688992e75ce4f5b97042b94b59de7a6c1dbe643",
+      "width": 1015,
+      "height": 1350
+    }
+  ]
 }

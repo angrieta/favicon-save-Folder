@@ -4,11 +4,30 @@
   "requested_url": "https://www.hd.com/",
   "page_url": "https://www.hd.com/",
   "page_title": "HD현대",
-  "page_status": "browser",
-  "favicon_path": "assets/산업_건설_통신/hd-hyundai/favicon.png",
-  "favicon_source_url": "https://www.hd.com/common/images/bookmark_logo.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/산업_건설_통신/hd-hyundai/og.png",
-  "og_source_url": "https://www.hd.com/common/images/og-image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/hd-hyundai/favicon.png",
+      "source_url": "https://www.hd.com/common/images/bookmark_logo.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 20974,
+      "sha256": "46c6425dd663d30a9d16c7d87ab2e219117da2edbca3f10c2159afbe8727168c",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/hd-hyundai/og.png",
+      "source_url": "https://www.hd.com/common/images/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 10801,
+      "sha256": "4e1b1a0689663ed7f8a591f77c81190d31229aa87c8ccdfd139e85217e855f97",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

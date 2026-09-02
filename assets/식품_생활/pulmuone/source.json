@@ -4,11 +4,102 @@
   "requested_url": "https://www.pulmuone.co.kr/",
   "page_url": "https://www.pulmuone.co.kr/pulmuone/main/Index.do",
   "page_title": "풀무원 - 나를 위해 지구를 위해 지속가능식생활기업",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/pulmuone/favicon.ico",
-  "favicon_source_url": "https://www.pulmuone.co.kr/pulmuone/img/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/식품_생활/pulmuone/og.gif",
-  "og_source_url": "https://www.pulmuone.co.kr/pulmuone/images/og_img.gif",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/pulmuone/favicon.ico",
+      "source_url": "https://www.pulmuone.co.kr/pulmuone/img/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 772,
+      "sha256": "eb934c9a7f5a3f783d9ad326c2662185ae371b88e46b0eb9c657b9a0f13a28f2",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/pulmuone/og.gif",
+      "source_url": "https://www.pulmuone.co.kr/pulmuone/images/og_img.gif",
+      "source_tag": "og:image",
+      "content_type": "image/gif",
+      "bytes": 11996,
+      "sha256": "9e35f601b106e52ddbb01d5b43f2f4a6a1662f694865a751cc2956cf7ead950f",
+      "width": 600,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/pulmuone/logo-1.png",
+      "source_url": "https://www.pulmuone.co.kr/pulmuone/img/m_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img basic 풀무원 a div m_logo div inbox div mo_header",
+      "content_type": "image/png",
+      "bytes": 3117,
+      "sha256": "360844497e60691205890641e10f21e827cec2c5b7e7244946da1e0b450589ec",
+      "width": 140,
+      "height": 47
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/pulmuone/logo-2.png",
+      "source_url": "https://www.pulmuone.co.kr/pulmuone/img/m_logo_wh.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img wh 풀무원 a div m_logo div inbox div mo_header",
+      "content_type": "image/png",
+      "bytes": 2789,
+      "sha256": "749bcd115fe461d39db687732a1293523a0b2c1f58372efcce3f02563652b691",
+      "width": 140,
+      "height": 47
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/pulmuone/banner-1.webp",
+      "source_url": "https://www.pulmuone.co.kr/pulmuone/images/main/main-visual.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img div main-visual__thumb-image img main-visual__thumb-svg div main-visual__thumb div main-visual__inner",
+      "content_type": "image/webp",
+      "bytes": 130184,
+      "sha256": "b49364127ce3970b2def1185aa36b1e4c4ca58b82ea5ca671462dc6d3364e548",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/pulmuone/reference-1.webp",
+      "source_url": "https://www.pulmuone.co.kr/pulmuone/images/main/main-room-eating1.png",
+      "source_tag": "img:page-image",
+      "context": "img div main-eating__image a li ul",
+      "content_type": "image/webp",
+      "bytes": 43604,
+      "sha256": "881cf6cb79e5efe20d1ee3f51a15a1f204d365bcab84b454652ad7aada1c928e",
+      "width": 760,
+      "height": 944
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/pulmuone/reference-2.webp",
+      "source_url": "https://www.pulmuone.co.kr/pulmuone/images/main/main-room-eating1m.png",
+      "source_tag": "img:page-image",
+      "context": "img img div main-eating__image a li",
+      "content_type": "image/webp",
+      "bytes": 21244,
+      "sha256": "106db20dc449dac5fc1f92613b3ca788024843a61e56407ec9cb73fabcab2616",
+      "width": 686,
+      "height": 428
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/pulmuone/reference-3.svg",
+      "source_url": "https://www.pulmuone.co.kr/pulmuone/images/main/main-room-eating1.svg",
+      "source_tag": "img:page-image",
+      "context": "img div main-eating__svg a li ul",
+      "content_type": "image/svg+xml",
+      "bytes": 468,
+      "sha256": "d6415f73ff83655a2fea4609105e13b6bcd1c42a715e35fac8fecec85fd88651",
+      "width": 380,
+      "height": 472
+    }
+  ]
 }

@@ -4,11 +4,103 @@
   "requested_url": "https://www.samsung.com/sec/",
   "page_url": "https://www.samsung.com/sec/",
   "page_title": "Samsung 대한민국 | 모바일 | TV | 가전 | IT",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/samsung-electronics/favicon.ico",
-  "favicon_source_url": "https://www.samsung.com/sec/static/_images/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/samsung-electronics/favicon.ico",
+      "source_url": "https://www.samsung.com/sec/static/_images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "13f0161d9f5cf1135c0418688c096acfaf816b26ba16152ef84edccb71b07b26",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/samsung-electronics/logo-1.webp",
+      "source_url": "https://images.samsung.com/kdp/aboutsamsung/brand_identity/logo/720_600_1.png?$720_N_PNG$",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 8982,
+      "sha256": "5dc93d2ce648dd5a31298178594380b203eb1fbc2421b99699e6b817b75fce2c",
+      "width": 720,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/samsung-electronics/logo-2.webp",
+      "source_url": "https://images.samsung.com/kdp/cms_contents/615416/e2033ab7-095b-40e3-8f24-44ec6ec42011.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 갤럭시 워치 9을 착용한 손목, 삼성 헬스 로고 picture div vsl-area a AATagging54Element li swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 7910,
+      "sha256": "2490150f0f5d3d5a1adfd3d4829e354cad673cbc6ee517e8b7b0ba3a3709226c",
+      "width": 312,
+      "height": 312
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/samsung-electronics/banner-1.webp",
+      "source_url": "https://images.samsung.com/kdp/cms_contents/616260/977ae528-ad95-4e9d-8772-a04a13b003e1.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 닫혀있는 갤럭시 Z 폴드8 울트라 바이올렛 쉐도우, 갤럭시 Z 폴드8 라벤더, 갤럭시 Z 플립8 핑크 제품을 각각 손으로 잡고 있는 모습. 이미지 클릭 시, 갤럭시 Z 폴드8 제품 구매 페이지로 랜딩된다. div vsl-area a AATagging51Element div innr section rvmp-cmpnt cp-hero-kv AATagging51",
+      "content_type": "image/webp",
+      "bytes": 42534,
+      "sha256": "c072c46312f439f5a34e9b7cd0959d5140e9136d4d19514fcdaaf50f38c69e9b",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/samsung-electronics/banner-2.webp",
+      "source_url": "https://images.samsung.com/kdp/cms_contents/617388/07a2ed8d-8eb6-4eff-bede-738bc8c3b72a.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 연보라빛 배경에서 흰색 원형 단상에 삼성 전자제품이 배치되어 있다. 상단에는 Neo QLED TV와 정수기, 오른쪽에는 냉장고, 가운데 단상에는 노트북과 태블릿, 하단 단상에는 갤럭시 폴더블 폰이 나열되어 있다. 이미지 클릭 시 AI 구독클럽 안내 페이지로 이동한다. div vsl-area a clickable div innr section rvmp-cmpnt cp-feature-kv AATagging55",
+      "content_type": "image/webp",
+      "bytes": 34914,
+      "sha256": "ca137d75e6f7c22865de25b55d38b17bb5955370d8900d1514ff9a9486000993",
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/samsung-electronics/reference-1.webp",
+      "source_url": "https://images.samsung.com/kdp/cms_contents/616260/b32f797a-ef99-4a8b-a4df-98fabd520a30.png",
+      "source_tag": "img:page-image",
+      "context": "img 닫혀있는 갤럭시 Z 폴드8 울트라 바이올렛 쉐도우, 갤럭시 Z 폴드8 라벤더, 갤럭시 Z 플립8 핑크 제품을 각각 손으로 잡고 있는 모습. 이미지 클릭 시, 갤럭시 Z 폴드8 제품 구매 페이지로 랜딩된다. div vsl-area a AATagging51Element div innr section rvmp-cmpnt cp-hero-kv AATagging51",
+      "content_type": "image/webp",
+      "bytes": 36338,
+      "sha256": "89514d0f5d3ea9cb85346eea812fe01eca29c454ce4647cb09431e5e5f4f5d1b",
+      "width": 720,
+      "height": 1248
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/samsung-electronics/reference-2.webp",
+      "source_url": "https://images.samsung.com/kdp/cms_contents/617388/6d76015b-6f2b-4ed3-845c-6393df8cf7f1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 연보라빛 배경에서 흰색 원형 단상에 삼성 전자제품이 배치되어 있다. 상단에는 Neo QLED TV와 정수기, 오른쪽에는 냉장고, 가운데 단상에는 노트북과 태블릿, 하단 단상에는 갤럭시 폴더블 폰이 나열되어 있다. 이미지 클릭 시 AI 구독클럽 안내 페이지로 이동한다. div vsl-area a clickable div innr section rvmp-cmpnt cp-feature-kv AATagging55",
+      "content_type": "image/webp",
+      "bytes": 25530,
+      "sha256": "f99bf419ecf159fdf58a437f8138e6e68da6844a371bbc0b6d6a2aaa8542b80d",
+      "width": 720,
+      "height": 1120
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/samsung-electronics/reference-3.webp",
+      "source_url": "https://images.samsung.com/kdp/common/img-induce-benefit-4.png",
+      "source_tag": "img:page-image",
+      "context": "img div img-area div purchaseBenefitPopComponent swiper-slide div wrap body",
+      "content_type": "image/webp",
+      "bytes": 8688,
+      "sha256": "6e27626cbf3fae2b0ad91262fafc81abd0061f6e8f759f3df1827d88c8096a8a",
+      "width": 580,
+      "height": 380
+    }
+  ]
 }

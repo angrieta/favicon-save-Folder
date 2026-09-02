@@ -4,11 +4,30 @@
   "requested_url": "https://www.kurly.com/",
   "page_url": "https://www.kurly.com/main",
   "page_title": "컬리 - 마켓컬리/뷰티컬리",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/kurly/favicon.png",
-  "favicon_source_url": "https://res.kurly.com/icons/favicon-192x192.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/테크_플랫폼/kurly/og.jpg",
-  "og_source_url": "https://res.kurly.com/images/marketkurly/logo/logo_sns_marketkurly.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://res.kurly.com/images/marketkurly/logo_x3.png; reference:ValueError:https://res.kurly.com/dist/kurlymall-nx/_next/static/css/dd508380946e6ac4.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/kurly/favicon.png",
+      "source_url": "https://res.kurly.com/icons/favicon-192x192.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9750,
+      "sha256": "779d0b85553fe8140f92c113334058c84c95aa5479565fcfeb15574173c05d62",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/kurly/og.jpg",
+      "source_url": "https://res.kurly.com/images/marketkurly/logo/logo_sns_marketkurly.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 18120,
+      "sha256": "fe48f73346fbbb9a604612230e0440e63a7ec0f7251ec492ab21a67b6489f5a7",
+      "width": 512,
+      "height": 512
+    }
+  ]
 }

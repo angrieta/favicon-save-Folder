@@ -4,11 +4,30 @@
   "requested_url": "https://company.nexon.com/",
   "page_url": "https://company.nexon.com/",
   "page_title": "넥슨 컴퍼니",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/nexon/favicon.ico",
-  "favicon_source_url": "https://company.nexon.com/nexon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/게임_엔터/nexon/og.png",
-  "og_source_url": "https://company.nexon.com/og_image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/nexon/favicon.ico",
+      "source_url": "https://company.nexon.com/nexon.ico",
+      "source_tag": "icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 32038,
+      "sha256": "d38363347c24738bff8ebfbbcd689dd15eb19873c8c6a970de9990f53c78fb53",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/nexon/og.png",
+      "source_url": "https://company.nexon.com/og_image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 38367,
+      "sha256": "aa470e76071c013fecd34059dd6bf2ae4d1417c7103d5a603993caf50a9e5d81",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

@@ -4,11 +4,19 @@
   "requested_url": "https://www.google.com/",
   "page_url": "https://www.google.com/",
   "page_title": "Google",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/google/favicon.ico",
-  "favicon_source_url": "https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.google.com/; reference:ValueError:https://www.google.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/google/favicon.ico",
+      "source_url": "https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1322,
+      "sha256": "8720df457a93b97d3cdd7c05714c8e255a1969085844eb247756b869dbea636a",
+      "width": 32,
+      "height": 32
+    }
+  ]
 }

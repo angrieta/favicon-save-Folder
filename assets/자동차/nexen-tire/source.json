@@ -4,11 +4,90 @@
   "requested_url": "https://www.nexentire.com/kr/",
   "page_url": "https://www.nexentire.com/kr/",
   "page_title": "넥센타이어 | 전기차·SUV 프리미엄 타이어 | NEXEN TIRE",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/nexen-tire/favicon.ico",
-  "favicon_source_url": "https://www.nexentire.com/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/자동차/nexen-tire/og.jpg",
-  "og_source_url": "https://www.nexentire.com/images/og-image-kr.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://nexen-front.s3.ap-northeast-2.amazonaws.com/kr/kr_260310.mp4; reference:ValueError:https://nexen-front.s3.ap-northeast-2.amazonaws.com/kr/kr_2026061601.mp4; reference:ValueError:https://nexen-front.s3.ap-northeast-2.amazonaws.com/kr/kr_2026061602.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/nexen-tire/favicon.ico",
+      "source_url": "https://www.nexentire.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 67646,
+      "sha256": "e449fa3dab51d193416816a8048511f71a5f8adc44ff57b59bdc75c38c30847b",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/nexen-tire/og.jpg",
+      "source_url": "https://www.nexentire.com/images/og-image-kr.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 97427,
+      "sha256": "1324dbe4ee9b2aaaa575cbe5fd7238d62109874c6d53a0bdc88a8ab1518fadfe",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/nexen-tire/logo-1.png",
+      "source_url": "https://www.nexentire.com/kr/assets/images/main.v2/recommend_logo_01.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div info a recommend-item item-01 div recommend-left div recommend-wrap",
+      "content_type": "image/png",
+      "bytes": 4637,
+      "sha256": "9a1acb2be50100344c508bc335288543ad99533fa35576f680f114d3e3acb73c",
+      "width": 354,
+      "height": 35
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/nexen-tire/logo-2.png",
+      "source_url": "https://www.nexentire.com/kr/assets/images/main.v2/recommend_logo_02.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div info a recommend-item item-02 div recommend-right div recommend-wrap",
+      "content_type": "image/png",
+      "bytes": 4136,
+      "sha256": "62b1ae5f84b5584ae715d27e9574f722dce23a94f117a9209dbbcfd1e8072587",
+      "width": 286,
+      "height": 37
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/nexen-tire/reference-1.webp",
+      "source_url": "https://www.nexentire.com/kr/assets/images/main.v2/recommend_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img a recommend-item item-01 div recommend-left div recommend-wrap",
+      "content_type": "image/webp",
+      "bytes": 113632,
+      "sha256": "cc0e7d3882d1b7e6fc02b9f6991b5dd8b287f9377b92fa1c8a4380388a66b05e",
+      "width": 850,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/nexen-tire/reference-2.webp",
+      "source_url": "https://www.nexentire.com/kr/media/news/__icsFiles/thumbnail/2026/09/01/img_1.png",
+      "source_tag": "img:page-image",
+      "context": "img div img a news-item div news-wrap div news-section no-event",
+      "content_type": "image/webp",
+      "bytes": 23492,
+      "sha256": "1bc63d661457dc6166e1d18b804b7fcfa2f7657578c0095d56ae7a1af96b6151",
+      "width": 920,
+      "height": 613
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/nexen-tire/reference-3.webp",
+      "source_url": "https://www.nexentire.com/kr/media/news/__icsFiles/thumbnail/2026/08/31/img_1.png",
+      "source_tag": "img:page-image",
+      "context": "img div img a news-item div news-wrap div news-section no-event",
+      "content_type": "image/webp",
+      "bytes": 45910,
+      "sha256": "6d9be11538b848fcb2420536b73c1a82805ac76d83c8505bc43ff7660d28242c",
+      "width": 920,
+      "height": 613
+    }
+  ]
 }

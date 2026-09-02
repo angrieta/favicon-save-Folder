@@ -4,11 +4,114 @@
   "requested_url": "https://car.orix.co.jp/",
   "page_url": "https://car.orix.co.jp/",
   "page_title": "【公式】レンタカー予約ならオリックスレンタカー",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/orix-rent-a-car/favicon.png",
-  "favicon_source_url": "https://car.orix.co.jp/apple-touch-icon-180x180.png?v=1910",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/orix-rent-a-car/og.png",
-  "og_source_url": "https://car.orix.co.jp/assets/img/common/img/ogimage.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/favicon.png",
+      "source_url": "https://car.orix.co.jp/apple-touch-icon-180x180.png?v=1910",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9247,
+      "sha256": "2fd76fafe7e43b801b1e85abf66473bfd7b2191031ae34234bba4ee1b8bb5650",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/og.png",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/ogimage.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 8005,
+      "sha256": "031356c069196a4392506fc061400e793251cedf7b086a4dc4a97c73faa0d5cd",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/logo-1.svg",
+      "source_url": "https://car.orix.co.jp/assets/img/common/logo/logo_01.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header-logo-image オリックスレンタカー a header-logo-link h1 header-logo header header div wrapper wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 248238,
+      "sha256": "d08c6b8a099ddfb078ce459f9cfd099e3b1fc886784565f947880460c1918c11",
+      "width": 579,
+      "height": 133
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/logo-2.svg",
+      "source_url": "https://car.orix.co.jp/assets/img/common/logo/logo_orix_group.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img mod-cmn-group-logo ORIX オリックスグループ p mod-cmn-group-title div mod-cmn-group-in div mod-cmn-group footer footer",
+      "content_type": "image/svg+xml",
+      "bytes": 4150,
+      "sha256": "53b7e168bb2daf1c77cc8ecf0c75deabb4262c1cc50140ea8f7a53119dd12e78",
+      "width": 180,
+      "height": 23
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-1.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_rentacar_selfLP_pc.jpg?v=250711",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 83918,
+      "sha256": "f34797d3391499e907f99dc6291326a8524ab09faebd66c0df766c6902a5c506",
+      "width": 1280,
+      "height": 810
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-2.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_rentacar_selfLP_sp.jpg?v=250711",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 82560,
+      "sha256": "a2cd219c9538766bdf46a1a4c451a759bd157e1e0da10394851418d746e12a84",
+      "width": 1280,
+      "height": 567
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-1.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Compact.png?v=210611",
+      "source_tag": "img:page-image",
+      "context": "img nav-cmn-global-submenu-car-image figure nav-cmn-global-submenu-car-symbol a nav-cmn-global-submenu-car-link li nav-cmn-global-submenu-car-item ul nav-cmn-global-submenu-car",
+      "content_type": "image/webp",
+      "bytes": 13000,
+      "sha256": "3ed37d4621e683d97028dc8a9acb22334fd7facb017415e25b5b190d35dc389d",
+      "width": 512,
+      "height": 290
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-2.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Sedan.png?v=210611",
+      "source_tag": "img:page-image",
+      "context": "img nav-cmn-global-submenu-car-image figure nav-cmn-global-submenu-car-symbol a nav-cmn-global-submenu-car-link li nav-cmn-global-submenu-car-item ul nav-cmn-global-submenu-car",
+      "content_type": "image/webp",
+      "bytes": 14124,
+      "sha256": "d13daf2a478a8edb2949a85b64409d2b02c7159c67dc7b280bf3951c9339bc49",
+      "width": 512,
+      "height": 290
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-3.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Eco.png",
+      "source_tag": "img:page-image",
+      "context": "img nav-cmn-global-submenu-car-image figure nav-cmn-global-submenu-car-symbol a nav-cmn-global-submenu-car-link li nav-cmn-global-submenu-car-item ul nav-cmn-global-submenu-car",
+      "content_type": "image/webp",
+      "bytes": 13224,
+      "sha256": "45f38aa974ad9406313bfc098008355f5bf65ffdb11b728a1c4b195bd9786844",
+      "width": 512,
+      "height": 290
+    }
+  ]
 }

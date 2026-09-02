@@ -4,11 +4,19 @@
   "requested_url": "https://kr.hotels.com/",
   "page_url": "https://kr.hotels.com/",
   "page_title": "kr.hotels.com",
-  "page_status": "browser",
-  "favicon_path": "assets/항공_여행/hotels-com/favicon.ico",
-  "favicon_source_url": "https://kr.hotels.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://kr.hotels.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/hotels-com/favicon.ico",
+      "source_url": "https://kr.hotels.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 105491,
+      "sha256": "8b12fd8ca1af57e972e3e6f78a3dccfed7edd4dcabed6b0df142f061783d8009",
+      "width": 256,
+      "height": 256
+    }
+  ]
 }

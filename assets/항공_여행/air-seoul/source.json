@@ -4,11 +4,19 @@
   "requested_url": "https://flyairseoul.com/",
   "page_url": "https://flyairseoul.com/",
   "page_title": "잠시만 기다리십시오…",
-  "page_status": "browser",
-  "favicon_path": "assets/항공_여행/air-seoul/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fflyairseoul.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://flyairseoul.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/air-seoul/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fflyairseoul.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 9131,
+      "sha256": "b4eac6a40d4af173be0bd9391be55d93ad7a3ff131258725dd29c4fa6cdccc82",
+      "width": 100,
+      "height": 100
+    }
+  ]
 }

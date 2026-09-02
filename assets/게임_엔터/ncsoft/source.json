@@ -4,11 +4,30 @@
   "requested_url": "https://www.ncsoft.com/",
   "page_url": "https://www.nc.com/",
   "page_title": "NC - 즐거움으로 연결된 새로운 세상",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/ncsoft/favicon.png",
-  "favicon_source_url": "https://assets.playnccdn.com/purple/resources/favicon/nc-192x192.png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/게임_엔터/ncsoft/og.jpg",
-  "og_source_url": "https://assets.playnccdn.com/purple/resources/share/nc.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://jam-cdn.plaync.com/purple-square/_next/static/chunks/webpack-d861f09c4777364c.js; reference:ValueError:https://jam-cdn.plaync.com/purple-square/_next/static/css/8f45028e7da62f89.css; reference:ValueError:https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css; reference:ValueError:https://assets.playnccdn.com/purple/vendor/googleAnalyticsBuilder.1.0.0.min.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/ncsoft/favicon.png",
+      "source_url": "https://assets.playnccdn.com/purple/resources/favicon/nc-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 627,
+      "sha256": "61920a8022419d011c5883051f060696d7b1210272e86eb1e44b714f5027ddea",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/ncsoft/og.jpg",
+      "source_url": "https://assets.playnccdn.com/purple/resources/share/nc.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 28640,
+      "sha256": "680e910fcdbaa4d7510212a230d8b9c2610e037ba3ca1d587da4327057164050",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

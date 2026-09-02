@@ -4,11 +4,19 @@
   "requested_url": "https://www.samyangfoods.com/",
   "page_url": "https://www.samyangfoods.com/",
   "page_title": "삼양식품",
-  "page_status": "browser",
-  "favicon_path": "assets/식품_생활/samyang-foods/favicon.ico",
-  "favicon_source_url": "https://www.samyangfoods.com/asset/images/common/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/samyang-foods/favicon.ico",
+      "source_url": "https://www.samyangfoods.com/asset/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 2097,
+      "sha256": "63f7556e33a6e01e78235fb0d23b1f2ad69f66e871c39f38602c9079f1d96778",
+      "width": 16,
+      "height": 16
+    }
+  ]
 }

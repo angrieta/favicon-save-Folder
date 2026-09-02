@@ -4,11 +4,54 @@
   "requested_url": "https://www.bbq.co.kr/",
   "page_url": "https://bbq.co.kr/",
   "page_title": "BBQ 치킨",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/bbq/favicon.ico",
-  "favicon_source_url": "https://bbq.co.kr/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/식품_생활/bbq/og.png",
-  "og_source_url": "https://bbq.co.kr/og-image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://bbq.co.kr/_next/static/css/b8a13b77ad9ff4da.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/bbq/favicon.ico",
+      "source_url": "https://bbq.co.kr/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 269374,
+      "sha256": "57ffcabd9dac00787f4b57f9bc20323b95d32b450051de97c8d13ba3db826bf5",
+      "width": 255,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/bbq/og.png",
+      "source_url": "https://bbq.co.kr/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 580817,
+      "sha256": "109329f2be1356ebd4eb140a0188ac51f15ea3264cc4d19e9a40674490576ed0",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bbq/logo-1.svg",
+      "source_url": "https://bbq.co.kr/images/symbols/logo-red.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img sc-2e42cba5-1 lgosUa a div sc-9ecd31b7-0 dYgKxW div header-content div sc-f1fb8871-0 cuGPBY",
+      "content_type": "image/svg+xml",
+      "bytes": 1165,
+      "sha256": "4b8fd7b0c321cfacd5e862e841b7aed44b7865474924b2145de0028553917c6d",
+      "width": 75,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bbq/logo-2.svg",
+      "source_url": "https://bbq.co.kr/images/symbols/logo-blue.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img sc-2e42cba5-1 czHTdM div footer-body div sc-46c720dd-0 gocRJV div sc-461619f8-0 dWjQqp div sc-a0caf131-0 kFBPlA",
+      "content_type": "image/svg+xml",
+      "bytes": 1112,
+      "sha256": "33af6660fd13ac42af8f639d459d8cb08b77ffdc50ac1b373679c092d4e6ed1c",
+      "width": 76,
+      "height": 34
+    }
+  ]
 }

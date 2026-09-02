@@ -4,11 +4,30 @@
   "requested_url": "https://www.idbins.com/",
   "page_url": "https://www.idbins.com/",
   "page_title": "홈페이지 메인 | DB손해보험",
-  "page_status": "browser",
-  "favicon_path": "assets/금융/db-insurance/favicon.ico",
-  "favicon_source_url": "https://www.idbins.com/pcweb/images/common/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/금융/db-insurance/og.png",
-  "og_source_url": "https://www.idbins.com/pcweb/images/logo_1200x1200.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/db-insurance/favicon.ico",
+      "source_url": "https://www.idbins.com/pcweb/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "b13ce69f7f1935d1fc6aa1b86eda6da7f40927a0d2a7f9522fb40e68c7e708fe",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/db-insurance/og.png",
+      "source_url": "https://www.idbins.com/pcweb/images/logo_1200x1200.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 95203,
+      "sha256": "6f8bbe8ddb7bedd82194d569160744a7c655b9b827cdc1c58378604f2952aa1b",
+      "width": 1200,
+      "height": 1200
+    }
+  ]
 }

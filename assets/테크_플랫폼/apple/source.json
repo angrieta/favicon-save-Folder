@@ -4,11 +4,115 @@
   "requested_url": "https://www.apple.com/kr/",
   "page_url": "https://www.apple.com/kr/",
   "page_title": "Apple (대한민국)",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/apple/favicon.ico",
-  "favicon_source_url": "https://www.apple.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/테크_플랫폼/apple/og.png",
-  "og_source_url": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202606082030",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://www.apple.com/kr/R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==; reference:HTTPError:https://www.apple.com/kr/R0lGODlhAQABAHAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/apple/favicon.ico",
+      "source_url": "https://www.apple.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 22382,
+      "sha256": "5493c61cf725cf3a1d63cd9d07de75b0d6faa5564e772f7d0a6074f341442938",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/apple/og.png",
+      "source_url": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202606082030",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 11847,
+      "sha256": "d676757df94e521c467b44471d47f24bb54a5ba1ff6c4c81feb78e227060c2fa",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/apple/logo-1.webp",
+      "source_url": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?202606082030",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 2418,
+      "sha256": "e4d135e52bdaeb04581df06a1b6e558d3b6310dc8ee4d57680793718298e099e",
+      "width": 302,
+      "height": 302
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/apple/logo-2.webp",
+      "source_url": "https://www.apple.com/v/home/images/apple-event-september-2026/a/hero_apple_event_september_2026__fkq1w4m2h2eu_large.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Apple 로고가 파랑 및 분홍색의 네온 효과로 빛나고, 밝은 흰색 섬광이 로고 가운데에 있으며, 농도 변화가 부드러운 배경에 놓여 있습니다 picture static div tile-image-wrapper div tile-wrapper theme-dark section section section-hero",
+      "content_type": "image/webp",
+      "bytes": 7492,
+      "sha256": "7b9e8dd8429cc964ea94abe9eab1da8cd804881c1cdeed944b69227d532ed655",
+      "width": 1600,
+      "height": 309
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/apple/logo-2.webp",
+      "source_url": "https://www.apple.com/v/home/images/apple-event-september-2026/a/hero_apple_event_september_2026__fkq1w4m2h2eu_large.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture static div tile-image-wrapper div tile-wrapper theme-dark section section section-hero main main",
+      "content_type": "image/webp",
+      "bytes": 7492,
+      "sha256": "7b9e8dd8429cc964ea94abe9eab1da8cd804881c1cdeed944b69227d532ed655",
+      "width": 1600,
+      "height": 309,
+      "reused_from": "logo"
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/apple/banner-2.webp",
+      "source_url": "https://www.apple.com/v/home/images/apple-event-september-2026/a/hero_apple_event_september_2026__fkq1w4m2h2eu_small_2x.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture static noscript div tile-image-wrapper div tile-wrapper theme-dark section section section-hero",
+      "content_type": "image/webp",
+      "bytes": 16850,
+      "sha256": "c8df49fcef04587530159d6c9efe7c97cb72dd6594cd9d75015410e9495d78a3",
+      "width": 1468,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/apple/reference-1.webp",
+      "source_url": "https://www.apple.com/v/home/images/apple-event-september-2026/a/hero_apple_event_september_2026__fkq1w4m2h2eu_small.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture static noscript div tile-image-wrapper div tile-wrapper theme-dark section section section-hero",
+      "content_type": "image/webp",
+      "bytes": 6448,
+      "sha256": "49c9e1a81d51c361ba149e707a2be964d6f9848b5dfdad56aecc8dd413b8eff6",
+      "width": 734,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/apple/reference-2.webp",
+      "source_url": "https://www.apple.com/v/home/images/apple-event-september-2026/a/hero_apple_event_september_2026__fkq1w4m2h2eu_mediumtall_2x.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture static noscript div tile-image-wrapper div tile-wrapper theme-dark section section section-hero",
+      "content_type": "image/webp",
+      "bytes": 18724,
+      "sha256": "22f8c702879274b008261748a0a333730f65ef08f6ca93eeee1ec072b1f327e7",
+      "width": 1800,
+      "height": 1096
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/apple/reference-3.webp",
+      "source_url": "https://www.apple.com/v/home/images/apple-event-september-2026/a/hero_apple_event_september_2026__fkq1w4m2h2eu_mediumtall.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture static noscript div tile-image-wrapper div tile-wrapper theme-dark section section section-hero",
+      "content_type": "image/webp",
+      "bytes": 9430,
+      "sha256": "546f4df30501d5e62097724fee34487bf0532747e0063a0fe3849bd68de2be1a",
+      "width": 1068,
+      "height": 650
+    }
+  ]
 }

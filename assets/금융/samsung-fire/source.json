@@ -4,11 +4,66 @@
   "requested_url": "https://www.samsungfire.com/",
   "page_url": "https://www.samsungfire.com/",
   "page_title": "삼성화재",
-  "page_status": "200",
-  "favicon_path": "assets/금융/samsung-fire/favicon.ico",
-  "favicon_source_url": "https://www.samsungfire.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/금융/samsung-fire/og.png",
-  "og_source_url": "https://www.samsungfire.com/images/samsungfire_brand.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/samsung-fire/favicon.ico",
+      "source_url": "https://www.samsungfire.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 60,
+      "sha256": "70a89c39edd76327b803b2419267561bb8adf53817d4c321fea53460c6372f5b",
+      "width": 1,
+      "height": 1
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/samsung-fire/og.png",
+      "source_url": "https://www.samsungfire.com/images/samsungfire_brand.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 21751,
+      "sha256": "c190a4beb96fbb524ba560bf58af96552d6f05268f4c99ee69fe1ff581fb1dd2",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/samsung-fire/reference-1.webp",
+      "source_url": "https://www.samsungfire.com/v2/resources/images/main/homepage/card_img_5.png",
+      "source_tag": "img:page-image",
+      "context": "img div img a slide-box slide-item5 div ui-slider-item swiper-slide div ui-slider-item-wrap swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 32012,
+      "sha256": "436c50c469c761c5b9c7b97b214b12e38a67a8a42a2c9cf90a42c99a883be4cf",
+      "width": 420,
+      "height": 420
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/samsung-fire/reference-2.webp",
+      "source_url": "https://www.samsungfire.com/v2/resources/images/main/homepage/card_img_1.png",
+      "source_tag": "img:page-image",
+      "context": "img div img a slide-box slide-item1 div ui-slider-item swiper-slide div ui-slider-item-wrap swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 10290,
+      "sha256": "3a6cfa09fc99da5a76399d9d836f941b01ee8698f200359d507f369341807d0e",
+      "width": 420,
+      "height": 420
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/samsung-fire/reference-3.webp",
+      "source_url": "https://www.samsungfire.com/v2/resources/images/main/homepage/card_img_2.png",
+      "source_tag": "img:page-image",
+      "context": "img div img a slide-box slide-item2 div ui-slider-item swiper-slide div ui-slider-item-wrap swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 20100,
+      "sha256": "2c2c03decded9c748925c91d7636d6720cbe102a475537f03ca3fdc2cff4ed47",
+      "width": 420,
+      "height": 420
+    }
+  ]
 }

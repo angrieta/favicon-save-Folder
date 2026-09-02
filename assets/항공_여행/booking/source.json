@@ -4,11 +4,19 @@
   "requested_url": "https://www.booking.com/",
   "page_url": "https://www.booking.com/",
   "page_title": "",
-  "page_status": "202",
-  "favicon_path": "assets/항공_여행/booking/favicon.png",
-  "favicon_source_url": "https://cf.bstatic.com/apple-touch-icon.png",
-  "favicon_source_tag": "fallback:/apple-touch-icon.png",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/booking/favicon.png",
+      "source_url": "https://cf.bstatic.com/apple-touch-icon.png",
+      "source_tag": "fallback:/apple-touch-icon.png",
+      "content_type": "image/png",
+      "bytes": 4824,
+      "sha256": "578d57776a91f8e07f48cf632be50e20d3d1d43a3f8546861f2e23740fec6b9a",
+      "width": 180,
+      "height": 180
+    }
+  ]
 }

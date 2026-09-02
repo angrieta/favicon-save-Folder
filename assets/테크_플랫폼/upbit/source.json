@@ -4,11 +4,30 @@
   "requested_url": "https://upbit.com/",
   "page_url": "https://www.upbit.com/",
   "page_title": "업비트(Upbit)",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/upbit/favicon.jpg",
-  "favicon_source_url": "https://www.upbit.com/favicon.jpg",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/테크_플랫폼/upbit/og.png",
-  "og_source_url": "https://static.upbit.com/upbit-pc/seo/upbit_facebook.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://upbit-web-dist.upbit.com/upbit-web/sri-v2-chunk-YQ0GCZDs.js; reference:ValueError:https://upbit-web-dist.upbit.com/upbit-web/sri-v2-chunk-DY5mpOBG.js; reference:ValueError:https://upbit-web-dist.upbit.com/upbit-web/sri-v2-chunk-13jm8SjJ.js; reference:ValueError:https://upbit-web-dist.upbit.com/upbit-web/sri-v2-chunk-lc_m_UqP.js; reference:ValueError:https://upbit-web-dist.upbit.com/upbit-web/sri-v2-chunk-BUHwlOJ6.js; reference:ValueError:https://upbit-web-dist.upbit.com/upbit-web/sri-v2-chunk-BWtreyQF.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/upbit/favicon.jpg",
+      "source_url": "https://www.upbit.com/favicon.jpg",
+      "source_tag": "icon",
+      "content_type": "image/jpeg",
+      "bytes": 19407,
+      "sha256": "c78a935371fdb8a5fe0cd277b9ddd5f4b846db81b6bf4002823a440d8925d4c2",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/upbit/og.png",
+      "source_url": "https://static.upbit.com/upbit-pc/seo/upbit_facebook.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 1008199,
+      "sha256": "be06beea4dec7096f878d27fe6cac5f8a46e25038acf061e2c83230f27175ca7",
+      "width": 2400,
+      "height": 1260
+    }
+  ]
 }

@@ -4,11 +4,31 @@
   "requested_url": "https://www.lotte.co.kr/",
   "page_url": "https://www.lotte.co.kr/main.do",
   "page_title": "롯데",
-  "page_status": "browser",
-  "favicon_path": "assets/산업_건설_통신/lotte-group/favicon.png",
-  "favicon_source_url": "https://www.lotte.co.kr/common/favicon/rd_72.png",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.lotte.co.kr/upload/main/display/251215081957594.mp4; reference:ValueError:https://www.lotte.co.kr/upload/main/display/251215081957594.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/lotte-group/favicon.png",
+      "source_url": "https://www.lotte.co.kr/common/favicon/rd_72.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 4230,
+      "sha256": "087d0f0dd8a87f9f62655ba1e24fd716d3aa8a36d27dc1ab9ef98576e64caf00",
+      "width": 72,
+      "height": 72
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/lotte-group/banner-1.webp",
+      "source_url": "https://www.lotte.co.kr/upload/main/display/251215081957594.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg_img background-image:url(/upload/main/display/251215081957594.jpg)",
+      "content_type": "image/webp",
+      "bytes": 25240,
+      "sha256": "2f444b2ee367fc17eb11922e0e8185c2ba984c1500142a7e164ec2f021549779",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
 }

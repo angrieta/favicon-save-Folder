@@ -4,11 +4,30 @@
   "requested_url": "https://www.kbinsure.co.kr/",
   "page_url": "https://www.kbinsure.co.kr/",
   "page_title": "KB손해보험",
-  "page_status": "browser",
-  "favicon_path": "assets/금융/kb-insurance/favicon.ico",
-  "favicon_source_url": "https://www.kbinsure.co.kr/extrnl/image/favicon/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/금융/kb-insurance/og.png",
-  "og_source_url": "https://www.kbinsure.co.kr/extrnl/image/common/kakao_ci_800.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/kb-insurance/favicon.ico",
+      "source_url": "https://www.kbinsure.co.kr/extrnl/image/favicon/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 31755,
+      "sha256": "0ed783dd8cc501d6c9b5a0f2633a300fd1537dd4d4836e912fdb726d05bb1b42",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/kb-insurance/og.png",
+      "source_url": "https://www.kbinsure.co.kr/extrnl/image/common/kakao_ci_800.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 43996,
+      "sha256": "5a370435c2e534c69aea11a802065cd353807ce9cef33693f42030bc9ec1e332",
+      "width": 800,
+      "height": 800
+    }
+  ]
 }

@@ -4,11 +4,79 @@
   "requested_url": "https://www.dongwonfnb.com/",
   "page_url": "https://www.dongwonfnb.com/services/index;jsessionid=180A5E2E8648ABBE4725E367905BB3BC",
   "page_title": "동원F&B",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/dongwon-fnb/favicon.ico",
-  "favicon_source_url": "https://www.dongwonfnb.com/Images/Common/favicon.ico?v=2",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/dongwon-fnb/favicon.ico",
+      "source_url": "https://www.dongwonfnb.com/Images/Common/favicon.ico?v=2",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "e58a0c71aac6aa7beb12ecafe3a9909afd7d42be9ed70c598a2c45c3bb7a5a76",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/dongwon-fnb/logo-1.png",
+      "source_url": "https://www.dongwonfnb.com/Images/Common/logo_header.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Dongwon 동원F&B a Logo div logo_header header Header div Header_Wrap",
+      "content_type": "image/png",
+      "bytes": 4836,
+      "sha256": "38c34302b58683ed65f88e8039f4db1132f88738a3314621398eb40f5a209b70",
+      "width": 171,
+      "height": 48
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/dongwon-fnb/banner-1.webp",
+      "source_url": "https://www.dongwonfnb.com/Images/Main/bg_main_section_260112.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 필요에 답하다, 동원 a bn-box div visual-wrapper div section_wrap section_main01 div Container",
+      "content_type": "image/webp",
+      "bytes": 198058,
+      "sha256": "c5ec562f759ee68d4759364f3c1e9222defa613ecacf8a5367dd93012e0ce8c5",
+      "width": 1800,
+      "height": 947
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/dongwon-fnb/reference-1.webp",
+      "source_url": "https://www.dongwonfnb.com/upload/2026/02/12/09/52/1770857551306/76c2b97994d44b149e6761c13a90c905.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 단골을 넘어 인연으로, 고객을 대하는 SC사원의 진심｜세상의 필요에 답하는 사람들 EP.12 a btn_lp_open div articleImg div articleItem li item",
+      "content_type": "image/webp",
+      "bytes": 213600,
+      "sha256": "70d843a133e7b7d0334776b6625db39de2387f0303d80adab1c57fe810528403",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/dongwon-fnb/reference-2.webp",
+      "source_url": "https://www.dongwonfnb.com/upload/2026/02/12/09/45/1770857158420/86ae7c30b8884919946a22ea59121f3d.jpg",
+      "source_tag": "img:page-image",
+      "context": "img ❄️모나용평에서 어묵 한 입? ⛷ 동원 ‘바른어묵’ 팝업스토어 ‪@MONAYP‬ a btn_lp_open div articleImg div articleItem li item",
+      "content_type": "image/webp",
+      "bytes": 191704,
+      "sha256": "a2ba26dfb4b7ce36c8711c78bffa2d7cc8c4f331ab29606d1dc2e20221139aa8",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/dongwon-fnb/reference-3.webp",
+      "source_url": "https://www.dongwonfnb.com/upload/2025/12/01/18/53/1764582813961/ec2787f4c5f043af953010275dc7219c.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 나를 위해 만든 맛있고 간편한 밥이 모두의 필요를 충족할 때｜세상의 필요에 답하는 사람들 EP.8 a btn_lp_open div articleImg div articleItem li item",
+      "content_type": "image/webp",
+      "bytes": 86322,
+      "sha256": "a236e9b78db4a4541744a789fc7faa011de1ae993c13cdd875e5a0f170655175",
+      "width": 1280,
+      "height": 720
+    }
+  ]
 }

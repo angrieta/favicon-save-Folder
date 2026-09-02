@@ -4,11 +4,66 @@
   "requested_url": "https://www.doosan.com/",
   "page_url": "https://www.doosan.com/kr",
   "page_title": "두산그룹 | (주)두산",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/doosan/favicon.png",
-  "favicon_source_url": "https://www.doosan.com/images/common/favicon-152.png",
-  "favicon_source_tag": "apple-touch-icon-precomposed",
-  "og_path": "assets/산업_건설_통신/doosan/og.png",
-  "og_source_url": "https://www.doosan.com/images/sns-img.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.doosan.com/file/view/2543c9ae-11d0-4267-9d26-60fbb15f6d7a; banner:ValueError:https://www.doosan.com/file/view/c1efa413-f75a-40c4-aa02-6b4b8916b2f9; banner:ValueError:https://www.doosan.com/file/view/6a2125b6-dad4-449b-be9e-d0b096459baa; banner:ValueError:https://www.doosan.com/file/view/2ec7ea91-61cf-40ff-a297-0ea10ad221e7; banner:ValueError:https://www.doosan.com/file/view/8e0704d6-9ced-4290-a71c-696f1d488695; banner:ValueError:https://www.doosan.com/file/view/b8f4971b-0d6f-4809-9211-c8cbee83a278",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/doosan/favicon.png",
+      "source_url": "https://www.doosan.com/images/common/favicon-152.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 3244,
+      "sha256": "14f05b3c070560b66daff9df594e877f00774ee92d8f5ec5202430e633e89bb9",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/doosan/og.png",
+      "source_url": "https://www.doosan.com/images/sns-img.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 26512,
+      "sha256": "4422283b95ed68e3e3fc5c879030f509dd9eba548e2434cf294b7d35c78236ef",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/doosan/reference-1.webp",
+      "source_url": "https://www.doosan.com/images/main/lnb_bg/lnb_bg0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  lnb_cnt_bg background: url(/images/main/lnb_bg/lnb_bg0.jpg) no-repeat center / cover",
+      "content_type": "image/webp",
+      "bytes": 85818,
+      "sha256": "72315e7fb1344b05ad01cfe53e233c930d2e054955891f0a3c50007fd5613048",
+      "width": 400,
+      "height": 992
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/doosan/reference-2.webp",
+      "source_url": "https://www.doosan.com/images/main/lnb_bg/lnb_bg1.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  lnb_cnt_bg background: url(/images/main/lnb_bg/lnb_bg1.jpg) no-repeat center / cover",
+      "content_type": "image/webp",
+      "bytes": 95652,
+      "sha256": "c701ebbb7665b1d82e907a84e6efc10102ecd74f8e351c985eb7cb85cacfd93d",
+      "width": 400,
+      "height": 992
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/doosan/reference-3.webp",
+      "source_url": "https://www.doosan.com/images/main/lnb_bg/lnb_bg21.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  lnb_cnt_bg background: url(/images/main/lnb_bg/lnb_bg21.jpg) no-repeat center / cover;",
+      "content_type": "image/webp",
+      "bytes": 92568,
+      "sha256": "ce3d0f0263a9b3fd681ae9511a4a9c0041d494c187ec53c45265772876ad5c66",
+      "width": 400,
+      "height": 992
+    }
+  ]
 }

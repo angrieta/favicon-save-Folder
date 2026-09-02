@@ -4,11 +4,114 @@
   "requested_url": "https://www.jejuonecar.net/",
   "page_url": "https://www.jejuonecar.net/",
   "page_title": "Car Rental Jeju Island - Jeju Rent car JejuOne Rent A Car",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/jeju-one-rentcar/favicon.ico",
-  "favicon_source_url": "https://www.jejuonecar.net/css/jejuone.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/렌터카_국내/jeju-one-rentcar/og.png",
-  "og_source_url": "https://www.jejuonecar.net/img/onecar.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://jejuonecar.kr/image/260.jpeg; reference:ValueError:https://jejuonecar.kr/image/261.jpeg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/jeju-one-rentcar/favicon.ico",
+      "source_url": "https://www.jejuonecar.net/css/jejuone.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 20628,
+      "sha256": "fd35dbddd87c057539509a4d8f52647dcf55e64cbd0effa5f92a16a725b70a88",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jeju-one-rentcar/og.png",
+      "source_url": "https://www.jejuonecar.net/img/onecar.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 16846,
+      "sha256": "1c9bcb666361b048b0299ec88d77a1916cb92427c368d5f6cae0e3035c387e12",
+      "width": 130,
+      "height": 130
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-one-rentcar/logo-1.png",
+      "source_url": "https://www.jejuonecar.net/img/logo_w.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Jeju One Car Jeju One Car a global-logo div global-header-top div global-header-inner nav mainNav global-header fixed-top",
+      "content_type": "image/png",
+      "bytes": 3118,
+      "sha256": "656b405b93099361242f93191f59cbd5a02a4265c35880e17dbf7c39e8b5fb33",
+      "width": 229,
+      "height": 80
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-one-rentcar/logo-2.png",
+      "source_url": "https://www.jejuonecar.net/img/logo_mail.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div col-md-4 centerd div row div container footer",
+      "content_type": "image/png",
+      "bytes": 5461,
+      "sha256": "15d73a7519acf1b43755126bc927e3682e386a36ea6b078a49aefd0ac376f51e",
+      "width": 234,
+      "height": 84
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-one-rentcar/banner-1.webp",
+      "source_url": "https://www.jejuonecar.net/img/jeju-mobilehero-main.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture header masthead hero body page-top html [document]",
+      "content_type": "image/webp",
+      "bytes": 75282,
+      "sha256": "499f34672e610be9767feb0b46fdc3d292d9c32041852150435d2b5e2647183e",
+      "width": 768,
+      "height": 432
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-one-rentcar/banner-2.webp",
+      "source_url": "https://www.jejuonecar.net/img/jeju-hero-main.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture header masthead hero body page-top html [document]",
+      "content_type": "image/webp",
+      "bytes": 380472,
+      "sha256": "5e4045d03dc4ab0f04fc865b968f74b90f6f116f486ed45a8c8b0fdf4d34f8fc",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-one-rentcar/reference-1.webp",
+      "source_url": "https://www.jejuonecar.net/img/jeju-hero-main.png",
+      "source_tag": "picture:page-image",
+      "context": "picture header masthead hero body page-top html [document]",
+      "content_type": "image/webp",
+      "bytes": 402768,
+      "sha256": "70d63959a37755a36ed022b5b1a6652dc7321aefdf223b154a4ae79c61ef28d9",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-one-rentcar/reference-2.webp",
+      "source_url": "https://jejuonecar.kr/image/275.png",
+      "source_tag": "img:page-image",
+      "context": "img img-fluid a portfolio-link bg-white div model_34 col-md-4 col-sm-6 portfolio-item models pricechk div row br",
+      "content_type": "image/webp",
+      "bytes": 17656,
+      "sha256": "bb332fb353258da24f82eec3a87170f16e78d328100f606678f7405908cc5186",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-one-rentcar/reference-3.webp",
+      "source_url": "https://jejuonecar.kr/image/278.png",
+      "source_tag": "img:page-image",
+      "context": "img img-fluid a portfolio-link bg-white div model_36 col-md-4 col-sm-6 portfolio-item models pricechk div row br",
+      "content_type": "image/webp",
+      "bytes": 16840,
+      "sha256": "2bdae8e4069e936e47c3a67c774bcad0c90c60263f3ec3c53c2325fb77c394ad",
+      "width": 600,
+      "height": 450
+    }
+  ]
 }

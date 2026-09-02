@@ -4,11 +4,91 @@
   "requested_url": "https://www.mobis.com/kr/index.do",
   "page_url": "https://www.mobis.com/kr/index.do",
   "page_title": "현대모비스",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/hyundai-mobis/favicon.ico",
-  "favicon_source_url": "https://www.mobis.com/resources/img/renew/common/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.mobis.com/resources/img/renew/content/Mobis_main_kv_01.mp4; reference:ValueError:https://www.mobis.com/resources/img/renew/content/Mobis_main_kv_01.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/hyundai-mobis/favicon.ico",
+      "source_url": "https://www.mobis.com/resources/img/renew/common/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 32988,
+      "sha256": "5fd6151dbfb6044e1daa42bf38c4a3f3f9dabb671c40bf74a07812acf19c0b86",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/hyundai-mobis/logo-1.png",
+      "source_url": "https://www.mobis.com/resources/img/renew/common/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img h2 div div layer-head div layer-wrap",
+      "content_type": "image/png",
+      "bytes": 4754,
+      "sha256": "4869ae0cd9fa609a8085ff70b0b55d8eb577a6459d5563ab6fc52ba5c2c4b6e4",
+      "width": 248,
+      "height": 84
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/hyundai-mobis/banner-1.webp",
+      "source_url": "https://www.mobis.com/resources/img/renew/content/Mobis_main_kv_02.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  video-wrap background-image:url(/resources/img/renew/content/Mobis_main_kv_02.jpg)",
+      "content_type": "image/webp",
+      "bytes": 144576,
+      "sha256": "b8329516c72ccd81fb6f7dbfdbc199b1956bfa85c6594f098763f588b7c6bc7b",
+      "width": 1628,
+      "height": 1080
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/hyundai-mobis/banner-2.webp",
+      "source_url": "https://www.mobis.com/resources/img/renew/content/Mobis_main_kv_03.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  video-wrap background-image:url(/resources/img/renew/content/Mobis_main_kv_03.jpg)",
+      "content_type": "image/webp",
+      "bytes": 335982,
+      "sha256": "6e849393650369ea5f897ff71ddcb9ecf4dd2ed20286721a1b8c449ef90f263d",
+      "width": 1628,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hyundai-mobis/reference-1.webp",
+      "source_url": "https://www.mobis.com/upload/202608270413404590.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  img-area background-image:url(/upload/202608270413404590.jpg)",
+      "content_type": "image/webp",
+      "bytes": 150966,
+      "sha256": "b66f87e1a2e35f3821e3e65612d2f6f2865e65012ec08e132329053781f24dd8",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hyundai-mobis/reference-2.webp",
+      "source_url": "https://www.mobis.com/upload/202608270409244240.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  img-area background-image:url(/upload/202608270409244240.jpg)",
+      "content_type": "image/webp",
+      "bytes": 205248,
+      "sha256": "36849f288ce66a52a50784fddfa4aaab17008d1ac6fc93ebd57c644cde555be8",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hyundai-mobis/reference-3.webp",
+      "source_url": "https://www.mobis.com/upload/202608270416284760.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  img-area background-image:url(/upload/202608270416284760.jpg)",
+      "content_type": "image/webp",
+      "bytes": 355320,
+      "sha256": "c0608762d237b1c00fa65ff31aea3f6c7a0e86601685ced395274ab1f19cb4f7",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
 }

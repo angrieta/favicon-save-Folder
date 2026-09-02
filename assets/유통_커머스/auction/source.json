@@ -4,11 +4,19 @@
   "requested_url": "https://www.auction.co.kr/",
   "page_url": "https://www.auction.co.kr/",
   "page_title": "잠시만 기다리십시오…",
-  "page_status": "browser",
-  "favicon_path": "assets/유통_커머스/auction/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.auction.co.kr&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.auction.co.kr/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/auction/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.auction.co.kr&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 1245,
+      "sha256": "55c6af021ad0666a4b13b66b651567af92c9d86670fe91c294fdd83108b83900",
+      "width": 180,
+      "height": 180
+    }
+  ]
 }

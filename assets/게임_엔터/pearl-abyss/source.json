@@ -4,11 +4,54 @@
   "requested_url": "https://www.pearlabyss.com/",
   "page_url": "https://www.pearlabyss.com/ko-KR",
   "page_title": "펄어비스 공식 홈페이지 | Pearl Abyss",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/pearl-abyss/favicon.ico",
-  "favicon_source_url": "https://static.pearlcdn.com/asset/company/global/contents/img/common/favicon256.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/게임_엔터/pearl-abyss/og.jpg",
-  "og_source_url": "https://static.pearlcdn.com/asset/company/global/contents/img/common/og_image.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://static.pearlcdn.com/asset/company/global/contents/video/portal/main/bdo_main_loop.webm; banner:ValueError:https://static.pearlcdn.com/asset/company/global/contents/video/portal/main/bdo_main_loop.mp4; reference:ValueError:https://static.pearlcdn.com/asset/company/global/contents/video/portal/main/cd_main_loop.webm; reference:ValueError:https://static.pearlcdn.com/asset/company/global/contents/video/portal/main/cd_main_loop.mp4; reference:ValueError:https://static.pearlcdn.com/asset/company/global/contents/video/portal/main/bdo_main_loop.webm; reference:ValueError:https://static.pearlcdn.com/asset/company/global/contents/video/portal/main/bdo_main_loop.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/pearl-abyss/favicon.ico",
+      "source_url": "https://static.pearlcdn.com/asset/company/global/contents/img/common/favicon256.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4848,
+      "sha256": "0802f9ac1d78ea02299e89f07d3b789e17b1836f9ef960bcfe61830af40bb775",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/pearl-abyss/og.jpg",
+      "source_url": "https://static.pearlcdn.com/asset/company/global/contents/img/common/og_image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 36464,
+      "sha256": "35a7ac6a7e534c99a17f610721bc1927380770a2ad34425b8288bbf2ff9c4748",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/pearl-abyss/logo-1.png",
+      "source_url": "https://static.pearlcdn.com/asset/company/global/contents/img/common/cd_logo_kr.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img title_img 붉은사막 div title_wrap div txt_inner div txt_main_visual div video_slider cd",
+      "content_type": "image/png",
+      "bytes": 14802,
+      "sha256": "f48969f0d553679a97652d363131e95a2dc86f1cefc730573122e40dcfb4307e",
+      "width": 449,
+      "height": 205
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/pearl-abyss/logo-2.png",
+      "source_url": "https://static.pearlcdn.com/asset/company/global/contents/img/common/bdo_logo_kr.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img title_img 검은사막 div title_wrap div txt_inner div txt_main_visual div video_slider bdo",
+      "content_type": "image/png",
+      "bytes": 5949,
+      "sha256": "de3a7ad27e15f342429741e518c00d2b038fb2f2b5492c82e6dbf8414d3e4d76",
+      "width": 440,
+      "height": 121
+    }
+  ]
 }

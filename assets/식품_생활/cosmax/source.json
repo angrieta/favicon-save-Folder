@@ -4,11 +4,54 @@
   "requested_url": "https://www.cosmax.com/",
   "page_url": "https://www.cosmax.com/",
   "page_title": "Cosmax Official Website",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/cosmax/favicon.png",
-  "favicon_source_url": "https://www.cosmax.com/icon/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/식품_생활/cosmax/og.png",
-  "og_source_url": "https://a.storyblok.com/f/288782/1200x630/ec9c523a27/placeholderog.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.cosmax.com/_next/static/css/7b4c3054a7b29734.css; reference:ValueError:https://www.cosmax.com/_next/static/css/cbf8de391ce282c7.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/cosmax/favicon.png",
+      "source_url": "https://www.cosmax.com/icon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3088,
+      "sha256": "a1584cfe82b6fdca0969fdc5e53c30303988065a44f79d0005cd4221b84d1900",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/cosmax/og.png",
+      "source_url": "https://a.storyblok.com/f/288782/1200x630/ec9c523a27/placeholderog.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 15152,
+      "sha256": "7a1438ef049f7b8418e9307579b3527875ef7884fd248fe9c1c23d91cce7ef87",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/cosmax/logo-1.png",
+      "source_url": "https://www.cosmax.com/img/cosmaxPlus_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img cosmax plus div Header_cosmaxPlusButtonHover__dk9k_ a Header_cosmaxPlusButton__gxjfG div Header_headerSide__TIGUi header Header_main__QZpKU false false false false",
+      "content_type": "image/png",
+      "bytes": 4639,
+      "sha256": "a73a7dd1ec4fdc9e6f6dccc40e950f8cd1fe2f7ff90e463bed8a0111abeb7944",
+      "width": 500,
+      "height": 60
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/cosmax/logo-2.svg",
+      "source_url": "https://a.storyblok.com/f/288782/25x25/1ace971178/linkedin-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div Grid_column__XwtSF Grid_column-12__Nzj3D Grid_column-sm-2__rK6xf MegaMenu_root_social__CczK6 div Grid_row__m5vnn div Grid_grid__gBt7g MegaMenu_root_inner__q6fXc",
+      "content_type": "image/svg+xml",
+      "bytes": 792,
+      "sha256": "55c38ff4c7a6e7f4e9ad398d6cc08bbf16e76807928826ca9e3bc118a393bfcb",
+      "width": 25,
+      "height": 25
+    }
+  ]
 }

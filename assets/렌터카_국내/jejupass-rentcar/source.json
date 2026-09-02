@@ -4,11 +4,54 @@
   "requested_url": "https://www.jejupass.com/",
   "page_url": "https://www.jejupass.com/",
   "page_title": "제주렌터카 가격비교 최저가 예약 | 제주패스·제주도렌트카·카페패스",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/jejupass-rentcar/favicon.png",
-  "favicon_source_url": "https://static-www.jejupass.com/resource/PC/images/favicon/apple-icon-180x180.png?v1",
-  "favicon_source_tag": "apple-touch-icon-precomposed",
-  "og_path": "assets/렌터카_국내/jejupass-rentcar/og.png",
-  "og_source_url": "https://rentcar.jejupass.com/images/og/home_og_1200x630.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.jejupass.com/assets/WwwMainView.707a5ab3.js; reference:ValueError:https://www.jejupass.com/assets/FooterView.c788d5d0.js; reference:ValueError:https://www.jejupass.com/assets/RentcarSearchView.f5161890.js; reference:ValueError:https://www.jejupass.com/assets/SelectSingle.f00c8798.js; reference:ValueError:https://www.jejupass.com/assets/ImagePopup.3727b25c.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/jejupass-rentcar/favicon.png",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/favicon/apple-icon-180x180.png?v1",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 17247,
+      "sha256": "f91682f22dea19dbfdab5fe2bf88f560de5bc1eeda415300bf069b851089d22c",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jejupass-rentcar/og.png",
+      "source_url": "https://rentcar.jejupass.com/images/og/home_og_1200x630.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 74305,
+      "sha256": "4b8b26580a2c31b0930f701961ecb3f8d5de6204c7b12339ae27c3e35ac7bbf7",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-1.png",
+      "source_url": "https://www.jejupass.com/pc/images/jejupass_new-logo_og.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 31076,
+      "sha256": "172b21591f629602b896f49b826bbaa53d452baf71518103399b08727b247252",
+      "width": 1600,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-1.webp",
+      "source_url": "https://rentcar.jejupass.com/images/og/rentcar_og_jeju_1200x630.png",
+      "source_tag": "json-ld.@graph[4].image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 27788,
+      "sha256": "c89b194e0bb2554329f286caba90a6205fee073ca69f5ee0891c2b3ac6938c7d",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

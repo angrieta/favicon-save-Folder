@@ -4,11 +4,19 @@
   "requested_url": "https://www.tesla.com/ko_kr",
   "page_url": "https://www.tesla.com/ko_kr",
   "page_title": "Access Denied",
-  "page_status": "browser",
-  "favicon_path": "assets/자동차/tesla-korea/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.tesla.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.tesla.com/ko_kr",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/tesla-korea/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.tesla.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 2613,
+      "sha256": "190d321feaa1ce153f13430be5f2ea2cc508366cab35d80d81c737160baf342c",
+      "width": 152,
+      "height": 152
+    }
+  ]
 }

@@ -4,11 +4,67 @@
   "requested_url": "https://www.chevrolet.co.kr/",
   "page_url": "https://www.chevrolet.co.kr/",
   "page_title": "쉐보레 코리아 - Together let’s drive",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/chevrolet-korea/favicon.svg",
-  "favicon_source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/na/us/english/index/favicon/chevrolet-favicon-180.svg",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.chevrolet.co.kr/etc.clientlibs/clientlibs/chevrolet/resources/fonts/roboto-regular-webfont.woff2; reference:ValueError:https://www.chevrolet.co.kr/etc.clientlibs/clientlibs/chevrolet/resources/fonts/roboto-bold-webfont.woff2; reference:ValueError:https://www.chevrolet.co.kr/etc.clientlibs/clientlibs/chevrolet/resources/fonts/roboto-medium-webfont.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/chevrolet-korea/favicon.svg",
+      "source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/na/us/english/index/favicon/chevrolet-favicon-180.svg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 7510,
+      "sha256": "8d76de09866d93ed4ec9e8503f3aaebec6b3695ca55e45c8a8e6dff09deabcd5",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/chevrolet-korea/logo-1.svg",
+      "source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/primary-nav-icons/01-images/chevrolet-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo Home span logo-container div gb-print-header-container div gb-print-header body generic_template_page-e6fa78aa7a generic_template_page base page basicpage",
+      "content_type": "image/svg+xml",
+      "bytes": 7536,
+      "sha256": "85df3562c18eb7cb4f84e4696a9973769b771b6a395dffca8f54f90e2d569635",
+      "width": 126,
+      "height": 57
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/chevrolet-korea/logo-2.webp",
+      "source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/primary-nav/01-images/now-img01.jpg?imwidth=1200",
+      "source_tag": "img:semantic-logo",
+      "context": "img gb-rectangle-image-responsive gb-image Chevrolet Brand Story sub image picture div gb-responsive-image gb-responsive-image-container gb-rectangle-image-responsive stat-image-link div small-margin gb-responsive-image gb-responsive-image ",
+      "content_type": "image/webp",
+      "bytes": 19176,
+      "sha256": "298fb009871bbbdb0eb467c21451e1f182195995777d00442a19a721fd34b94f",
+      "width": 487,
+      "height": 244
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/chevrolet-korea/banner-1.webp",
+      "source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/homepage/mainrolling-and-banner/2026/12-images/mainrolling-1440-0810.jpg?imwidth=3000",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div gb-responsive-image gb-responsive-image-container gb-rectangle-image-responsive stat-image-link div none-margin gb-responsive-image gb-responsive-image gb-none-margin gb-rectangle-image-responsive div col-con",
+      "content_type": "image/webp",
+      "bytes": 105472,
+      "sha256": "48db7ed277050edb1b53226b6fdaf23c34391988130ace9fcd4d7031d1158f12",
+      "width": 1440,
+      "height": 720
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/chevrolet-korea/banner-2.webp",
+      "source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/homepage/mainrolling-and-banner/2026/12-images/mainrolling-960-0810.jpg?imwidth=2400",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div gb-responsive-image gb-responsive-image-container gb-rectangle-image-responsive stat-image-link div none-margin gb-responsive-image gb-responsive-image gb-none-margin gb-rectangle-image-responsive div col-con",
+      "content_type": "image/webp",
+      "bytes": 57402,
+      "sha256": "451fb30d48b4f0c9de87053eb787d430034305dbc2287a5fed02cdf1e6637489",
+      "width": 960,
+      "height": 480
+    }
+  ]
 }

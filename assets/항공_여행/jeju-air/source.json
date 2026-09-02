@@ -4,11 +4,30 @@
   "requested_url": "https://www.jejuair.net/",
   "page_url": "https://www.jejuair.net/",
   "page_title": ":: 제주항공 ::",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/jeju-air/favicon.ico",
-  "favicon_source_url": "https://static.jejuair.net/hpgg/resources/images/icon/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/항공_여행/jeju-air/og.webp",
-  "og_source_url": "https://static.jejuair.net/cms/images/file_upload/20230206103747230.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/jeju-air/favicon.ico",
+      "source_url": "https://static.jejuair.net/hpgg/resources/images/icon/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "521d02b7d7ff957d7d4927975688397c63c6d13ecd9fdd41e1125ee2ab4eeb39",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/jeju-air/og.webp",
+      "source_url": "https://static.jejuair.net/cms/images/file_upload/20230206103747230.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6164,
+      "sha256": "5dc60fd7161ab25758aea10636ba09829cd0677bd13120b732596de6af2d3195",
+      "width": 500,
+      "height": 278
+    }
+  ]
 }

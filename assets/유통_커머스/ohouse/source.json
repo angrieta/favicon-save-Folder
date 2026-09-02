@@ -4,11 +4,19 @@
   "requested_url": "https://www.ohou.se/",
   "page_url": "https://www.ohou.se/",
   "page_title": "Access Denied",
-  "page_status": "browser",
-  "favicon_path": "assets/유통_커머스/ohouse/favicon.ico",
-  "favicon_source_url": "https://ohou.se/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.ohou.se/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/ohouse/favicon.ico",
+      "source_url": "https://ohou.se/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "7a555262603bba8c4411a26a8bda89dbeb44c01f65429bba7cea3aea47a61fd9",
+      "width": 48,
+      "height": 48
+    }
+  ]
 }

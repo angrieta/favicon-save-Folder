@@ -4,11 +4,30 @@
   "requested_url": "https://about.daangn.com/",
   "page_url": "https://about.daangn.com/",
   "page_title": "당근 회사소개",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/daangn/favicon.png",
-  "favicon_source_url": "https://about.daangn.com/icons/icon-512x512.png?v=7ecc65aad435f5c3e7bed69e5a7a6219",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/테크_플랫폼/daangn/og.jpg",
-  "og_source_url": "https://prismic-image-proxy.krrt.io/karrot/aMDpcWGNHVfTO6If_%E1%84%8B%E1%85%A5%E1%84%87%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%BA%E1%84%83%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B3%E1%86%ABOG%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A6.png?auto=compress%2Cformat&rect=29%2C0%2C1143%2C600&w=1200&h=630&fit=max&q=100&fm=png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://about.daangn.com/fc8a681e60b6bcb23f033caef0468bee.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/daangn/favicon.png",
+      "source_url": "https://about.daangn.com/icons/icon-512x512.png?v=7ecc65aad435f5c3e7bed69e5a7a6219",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 12872,
+      "sha256": "83a2ce77d24c13a28ad89eb162ed0105a7a067d2e651e041a882b91d4e12ce0a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/daangn/og.jpg",
+      "source_url": "https://prismic-image-proxy.krrt.io/karrot/aMDpcWGNHVfTO6If_%E1%84%8B%E1%85%A5%E1%84%87%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%BA%E1%84%83%E1%85%A1%E1%86%BC%E1%84%80%E1%85%B3%E1%86%ABOG%E1%84%80%E1%85%AD%E1%84%8E%E1%85%A6.png?auto=compress%2Cformat&rect=29%2C0%2C1143%2C600&w=1200&h=630&fit=max&q=100&fm=png",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 55090,
+      "sha256": "1d1f04a974f56168bd87ce23606f6b1ea5c11247e4b0ce1601a3b85feb73bb9e",
+      "width": 1143,
+      "height": 600
+    }
+  ]
 }

@@ -4,11 +4,32 @@
   "requested_url": "https://www.emart24.co.kr/",
   "page_url": "https://emart24.co.kr/",
   "page_title": "홈 - 이마트24",
-  "page_status": "browser",
-  "favicon_path": "",
-  "favicon_source_url": "",
-  "favicon_source_tag": "",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/emart24/logo-1.png",
+      "source_url": "https://emart24.co.kr/assets/assets/imgs/mobGnbIcon/brand.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div iconWrap div titleWrap div ondepthWrap li mobGnb",
+      "content_type": "image/png",
+      "bytes": 1719,
+      "sha256": "b02950b75e7fc59e8ff52977eea8d429080c4160a90d118994f8771bdcccc86e",
+      "width": 90,
+      "height": 76
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/emart24/logo-2.png",
+      "source_url": "https://emart24.co.kr/assets/assets/imgs/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 홈 - 이마트24 a h1 mainLogo div left only_mo div topHeader",
+      "content_type": "image/png",
+      "bytes": 4290,
+      "sha256": "c5489321f3b6831dbc06b3e5a0d505f88b0379da5c1204b7c568a89e8928a065",
+      "width": 294,
+      "height": 57
+    }
+  ]
 }

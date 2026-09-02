@@ -4,11 +4,90 @@
   "requested_url": "https://www.gsenc.com/",
   "page_url": "https://www.gsenc.com/",
   "page_title": "GS건설 공식 홈페이지 | GS ENC",
-  "page_status": "browser",
-  "favicon_path": "assets/산업_건설_통신/gs-ec/favicon.png",
-  "favicon_source_url": "https://www.gsenc.com/resource/images/mark.png",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/산업_건설_통신/gs-ec/og.png",
-  "og_source_url": "https://www.gsenc.com/news_default.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/gs-ec/favicon.png",
+      "source_url": "https://www.gsenc.com/resource/images/mark.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 4343,
+      "sha256": "a6a8ea6ea5cfa2a6de65b8d4c65ecf054192e28938f169693ab3205a5c959a62",
+      "width": 52,
+      "height": 53
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/gs-ec/og.png",
+      "source_url": "https://www.gsenc.com/news_default.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 24008,
+      "sha256": "1c58c2d385df22814c1c0f775e91681bace6baa7017e861c2ba6996c12479274",
+      "width": 820,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/gs-ec/logo-1.webp",
+      "source_url": "https://www.gsenc.com/resource/images/ko/common/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 2116,
+      "sha256": "5d589640066368fa7d8ceaaccf0ce622cd8a515b0f62b0314a6f8c7b19b6a7cc",
+      "width": 122,
+      "height": 41
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/gs-ec/logo-2.webp",
+      "source_url": "https://www.gsenc.com/resource/images/ko/common/foot_logo.gif",
+      "source_tag": "img:semantic-logo",
+      "context": "img GS건설로고 a div foot-logo-area div footer-area div footer",
+      "content_type": "image/webp",
+      "bytes": 2104,
+      "sha256": "d73ebfb9161483b340cdfd8dd43219d7be8bf9f069374eb0544c34a25d0b4087",
+      "width": 122,
+      "height": 41
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/gs-ec/reference-1.webp",
+      "source_url": "https://www.gsenc.com/resource/images/ko/main/img_mb01_ta.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 한국기업지배구조원(KCGS) 상장기업 ESG 평가 등급 'A'(우수) 획득 다우존스 지속가능경영지수(DJSI) Asia Pacific 11년 연속 편입 li bxli01 ul slider1 div mslider bx1200 div section_1 Fn_section",
+      "content_type": "image/webp",
+      "bytes": 168672,
+      "sha256": "1bca194820f2cf5720e48b034ecd0a65b9cc887fa2fdb0e6a8b8d562dc050263",
+      "width": 768,
+      "height": 1004
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/gs-ec/reference-2.webp",
+      "source_url": "https://www.gsenc.com/resource/images/ko/main/img_mb02_ta.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 더 위대한 세상을 건설합니다. 더 새로운 변화를 창조합니다. li bxli02 ul slider1 div mslider bx1200 div section_1 Fn_section",
+      "content_type": "image/webp",
+      "bytes": 190990,
+      "sha256": "53385f7d89574b7c4f856035c07852ff32388d1dc30a918310e57da24cbe0111",
+      "width": 768,
+      "height": 1004
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/gs-ec/reference-3.webp",
+      "source_url": "https://www.gsenc.com/resource/images/ko/main/img_mb03_ta.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 우리는 우리를 넘어선다. Global Best and First GS건설 li bxli03 ul slider1 div mslider bx1200 div section_1 Fn_section",
+      "content_type": "image/webp",
+      "bytes": 263086,
+      "sha256": "c165d79752bdfa4dbb5079db762afad83c07fe8b81d836c70cc5d9c268258e6d",
+      "width": 768,
+      "height": 1004
+    }
+  ]
 }

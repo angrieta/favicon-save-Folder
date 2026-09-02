@@ -4,11 +4,91 @@
   "requested_url": "https://www.acerentacar.com/",
   "page_url": "https://www.acerentacar.com/",
   "page_title": "ACE Rent A Car: Affordable & Convenient | Discount Car Rental Rates In Over 50 Countries",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/ace-rent-a-car/favicon.ico",
-  "favicon_source_url": "https://www.acerentacar.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.acerentacar.com/_next/static/css/acad695b62709d54.css; reference:ValueError:https://www.acerentacar.com/_next/static/css/6b6cbac4208c118c.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/favicon.ico",
+      "source_url": "https://www.acerentacar.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "d5ac1b5867144bab7af5d6d459c1421d7572fa494a3b6eb901c381de83d98a54",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/logo-1.png",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2Fheader%2FAce-Desktop-White.png&w=384&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img ace-logo noscript span a div jsx-3853739742 header_ace_logo_container__tdqux",
+      "content_type": "image/png",
+      "bytes": 19279,
+      "sha256": "675b02cec009fe85716383aee61bfb03db0142ced928c1eb0be1da6ffd062354",
+      "width": 384,
+      "height": 161
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/logo-2.png",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2Fheader%2FAce-Desktop-White.png&w=256&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img ace-logo noscript span a div jsx-3853739742 header_ace_logo_container__tdqux",
+      "content_type": "image/png",
+      "bytes": 12003,
+      "sha256": "797986cf342c31355d116e16bc3a686e6d96639055fa44344f2bf1a77cd36166",
+      "width": 256,
+      "height": 108
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/banner-1.webp",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FDesktop%2FHomepage-Landing-Image-EN.jpg&w=3840&q=100",
+      "source_tag": "img:semantic-banner",
+      "context": "img main noscript span div home_wrapper__cyxz1 main",
+      "content_type": "image/webp",
+      "bytes": 520156,
+      "sha256": "e4fed465e669870a15fb8781502c4d34eabcd8112ce993fbfcf178ec36a01e9d",
+      "width": 1800,
+      "height": 1113
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/banner-2.webp",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FDesktop%2FHomepage-Landing-Image-EN.jpg&w=2048&q=100",
+      "source_tag": "img:semantic-banner",
+      "context": "img main noscript span div home_wrapper__cyxz1 main",
+      "content_type": "image/webp",
+      "bytes": 512184,
+      "sha256": "0676d7f15590083b6733e5025eede541e0f7e703199c0e80d4aa375983a51cc4",
+      "width": 1800,
+      "height": 1113
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-1.webp",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FMobileAwards.png&w=3840&q=100",
+      "source_tag": "img:page-image",
+      "context": "img Awards span div home_awards_image__Mk2_w div home_wrapper__cyxz1 main",
+      "content_type": "image/webp",
+      "bytes": 50692,
+      "sha256": "5474b23457bc3bf0ac16335830776d7f2ef9cbdc8c3a492e2801a7f2c5d09223",
+      "width": 1800,
+      "height": 572
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-2.webp",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FMobileAwards.png&w=2048&q=100",
+      "source_tag": "img:page-image",
+      "context": "img Awards span div home_awards_image__Mk2_w div home_wrapper__cyxz1 main",
+      "content_type": "image/webp",
+      "bytes": 50750,
+      "sha256": "c5cc6fe8e37bd12cccafc4879cc3e1a776f775b7e0d87eafce7ced52253fc889",
+      "width": 1800,
+      "height": 572
+    }
+  ]
 }

@@ -4,11 +4,19 @@
   "requested_url": "https://www.hyundaicard.com/",
   "page_url": "",
   "page_title": "",
-  "page_status": "error",
-  "favicon_path": "assets/금융/hyundai-card/favicon.png",
-  "favicon_source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.hyundaicard.com&sz=256",
-  "favicon_source_tag": "fallback:Google favicon service",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "SSLError: HTTPSConnectionPool(host='www.hyundaicard.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1081)')))",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/hyundai-card/favicon.png",
+      "source_url": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.hyundaicard.com&sz=256",
+      "source_tag": "fallback:Google favicon service",
+      "content_type": "image/png",
+      "bytes": 125,
+      "sha256": "bc119d4e5b5dcb3f311f62c6a5d2d5a1139fd87862ab27bfb0851a518a2c1c3b",
+      "width": 16,
+      "height": 16
+    }
+  ]
 }

@@ -4,11 +4,30 @@
   "requested_url": "https://www.kiwoom.com/",
   "page_url": "https://www.kiwoom.com/",
   "page_title": "키움증권 | 대한민국 주식시장 점유율 1위",
-  "page_status": "200",
-  "favicon_path": "assets/금융/kiwoom/favicon.ico",
-  "favicon_source_url": "https://www.kiwoom.com/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/금융/kiwoom/og.png",
-  "og_source_url": "https://www.kiwoom.com/h/kws/assets/images/common/header-logo.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/kiwoom/favicon.ico",
+      "source_url": "https://www.kiwoom.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "6f63efc8d85861622bee3fe043fd23b65b119fe62650cc6f51ea4701e7c76319",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/kiwoom/og.png",
+      "source_url": "https://www.kiwoom.com/h/kws/assets/images/common/header-logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 8670,
+      "sha256": "86c083afcd225e755e399b07dc67c1bc0c9b5873627fc109316b91e665b0d2b6",
+      "width": 124,
+      "height": 41
+    }
+  ]
 }

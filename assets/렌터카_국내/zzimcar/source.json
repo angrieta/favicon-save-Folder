@@ -4,11 +4,114 @@
   "requested_url": "https://zzimcar.com/",
   "page_url": "https://zzimcar.com/",
   "page_title": "찜카 | 렌트카·항공권·숙소 실시간 가격비교",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/zzimcar/favicon.ico",
-  "favicon_source_url": "https://zzimcar.com/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/렌터카_국내/zzimcar/og.png",
-  "og_source_url": "https://zzimcar.s3.ap-northeast-2.amazonaws.com/common/image/meta/og_image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://zzimcar.com/_nuxt/3.8964b057eabae1006463.js; reference:ValueError:https://zzimcar.com/_nuxt/6.1f397a0a9946442fbb4c.js; reference:ValueError:https://zzimcar.com/_nuxt/css/57774f8.css; reference:ValueError:https://zzimcar.com/_nuxt/139.6833abe20299e3026640.js; reference:ValueError:https://zzimcar.com/_nuxt/css/fe1c10b.css; reference:ValueError:https://zzimcar.com/_nuxt/5.8b7fb19475244e8db2a7.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/zzimcar/favicon.ico",
+      "source_url": "https://zzimcar.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "30e555fe7e78c1fa6dfecab833120b23c9a23239e691d790b66333f398158848",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/zzimcar/og.png",
+      "source_url": "https://zzimcar.s3.ap-northeast-2.amazonaws.com/common/image/meta/og_image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 446123,
+      "sha256": "cb30aa8c140e5d977a703143bad6ebd47dbccce328641140b5df6951d1187a28",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-1.svg",
+      "source_url": "https://front-cdn.zzimcar.com/images/zzim_logo_pc.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-pc 찜카 button div common-header-inner div common-header div fixed-top-header",
+      "content_type": "image/svg+xml",
+      "bytes": 2756,
+      "sha256": "80652599eac73d8b47c3919d2b3646f7d5d05b7c24d180d6254327eafba4df44",
+      "width": 120,
+      "height": 40
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-2.svg",
+      "source_url": "https://front-cdn.zzimcar.com/images/zzim_logo_mo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-mo 찜카 button div common-header-inner div common-header div fixed-top-header",
+      "content_type": "image/svg+xml",
+      "bytes": 1560,
+      "sha256": "62436d16f27cd737ae754695c5a08516d463b2fa05330a445412c8f3a0f6337e",
+      "width": 50,
+      "height": 24
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-1.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-2_20260423_170240.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 찜케터PICK! 강릉 오션뷰 숙소.zip a embla__slide embla__slide--single div embla__container div embla div banner-section-inner",
+      "content_type": "image/webp",
+      "bytes": 28566,
+      "sha256": "3e28275332786ad71ba6044357683a21b0a2da5c9ccaa624c7bbf01783fb4e89",
+      "width": 960,
+      "height": 360
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-2.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-3_20260423_170312.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 찜케터PICK! 서울 감성 스테이.zip a embla__slide embla__slide--single div embla__container div embla div banner-section-inner",
+      "content_type": "image/webp",
+      "bytes": 54512,
+      "sha256": "6d10f880098d96cdf12a80d375df96e98394616cb4b9464fc408df6025c47971",
+      "width": 960,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-1.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-4_20260423_170352.png",
+      "source_tag": "img:page-image",
+      "context": "img 찜케터PICK! 제주 가성비 숙소.zip a embla__slide embla__slide--single div embla__container div embla div banner-section-inner",
+      "content_type": "image/webp",
+      "bytes": 25396,
+      "sha256": "0a09b3bc6b6d96415638bc5455a8bb360163eca0d0e68cb06473488967acef11",
+      "width": 960,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-2.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-5_20260423_170417.png",
+      "source_tag": "img:page-image",
+      "context": "img 찜케터PICK! 제주 돌담 숙소.zip a embla__slide embla__slide--single div embla__container div embla div banner-section-inner",
+      "content_type": "image/webp",
+      "bytes": 58098,
+      "sha256": "9bbbb4b4f99b114cceb164f1b79118256f4128c9900313b1d529edaf65068319",
+      "width": 960,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-3.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_mo_320x80_20260701_094530.png",
+      "source_tag": "img:page-image",
+      "context": "img 찜카 X 포도뮤지엄 프로모션 div slide-ratio a div embla__slide div embla__container",
+      "content_type": "image/webp",
+      "bytes": 31252,
+      "sha256": "ff5c48d60b96a8fe72c6a831c3a017800fe6878e67027f4401fa51190150e1d6",
+      "width": 1800,
+      "height": 450
+    }
+  ]
 }

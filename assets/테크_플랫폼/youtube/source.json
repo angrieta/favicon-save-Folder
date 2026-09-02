@@ -4,11 +4,30 @@
   "requested_url": "https://www.youtube.com/",
   "page_url": "https://www.youtube.com/",
   "page_title": "YouTube",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/youtube/favicon.png",
-  "favicon_source_url": "https://www.youtube.com/s/desktop/295c97e3/img/favicon_144x144.png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/테크_플랫폼/youtube/og.png",
-  "og_source_url": "https://www.youtube.com/img/desktop/yt_1200.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://i.ytimg.com/generate_204; reference:ValueError:https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.X5153_BoxyE.es5.O/am=AAAAAAEAEAASAw/d=1/br=1/rs=AGKMywG0zryG1UepiZcz87g52GxKGbi67w/m=kevlar_base_module,kevlar_main_module,kevlar_base_sync_mod_chunk",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/youtube/favicon.png",
+      "source_url": "https://www.youtube.com/s/desktop/295c97e3/img/favicon_144x144.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5020,
+      "sha256": "e39dc3d8c2f82ad2375132a8efcf521c232d5e2cf08abeb9bebe1ad94afb2157",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/youtube/og.png",
+      "source_url": "https://www.youtube.com/img/desktop/yt_1200.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 6833,
+      "sha256": "56d5e95f4da139ad8475ed4e4d7f4334151b0102c7863f3f07c1dea22990ce2f",
+      "width": 1200,
+      "height": 1200
+    }
+  ]
 }

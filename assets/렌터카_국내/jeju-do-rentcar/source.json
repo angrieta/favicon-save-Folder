@@ -4,11 +4,44 @@
   "requested_url": "https://jejudorentacar.com/",
   "page_url": "https://jejudorentacar.com",
   "page_title": "제주도렌타카 jejudorentacar.com | 제주도렌트카 가격비교 · 제주렌트카 예약",
-  "page_status": "browser",
-  "favicon_path": "",
-  "favicon_source_url": "",
-  "favicon_source_tag": "",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/logo-1.png",
+      "source_url": "https://jejudorentacar.com/images/logo_jejudorentacar.com.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div logo div top_cont body",
+      "content_type": "image/png",
+      "bytes": 3347,
+      "sha256": "9fc3a2b262182071b3519c6adb0feb838e5900f30c1d50b84fd1d75c0f4b83de",
+      "width": 310,
+      "height": 59
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/logo-2.png",
+      "source_url": "https://jejudorentacar.com/images/logo_footer_jejudorentacar.com.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div logo div center div copy body",
+      "content_type": "image/png",
+      "bytes": 3330,
+      "sha256": "a7929bf8667212a104f7b40da7dae29388d53334fa3cbb6a3a6887c28fca2d8f",
+      "width": 310,
+      "height": 59
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/banner-1.webp",
+      "source_url": "https://jejudorentacar.com/images/main/rent_main_img.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div   width:100%;height:650px;background: url('../images/main/rent_main_img.jpg') center center no-repeat #ffffff;",
+      "content_type": "image/webp",
+      "bytes": 31552,
+      "sha256": "1312bafc82399fa9894b72d30dfbbf3aea71223c7955443fdf320034c38a2f98",
+      "width": 1800,
+      "height": 573
+    }
+  ]
 }

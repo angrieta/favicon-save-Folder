@@ -4,11 +4,19 @@
   "requested_url": "https://www.amazon.com/",
   "page_url": "https://www.amazon.com/",
   "page_title": "",
-  "page_status": "202",
-  "favicon_path": "assets/테크_플랫폼/amazon/favicon.ico",
-  "favicon_source_url": "https://www.amazon.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/amazon/favicon.ico",
+      "source_url": "https://www.amazon.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "5866636f18764cd66366ae6eb682e972b4eae1771512cd76b304b6dd3c0f1d2d",
+      "width": 48,
+      "height": 48
+    }
+  ]
 }

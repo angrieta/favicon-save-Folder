@@ -4,11 +4,66 @@
   "requested_url": "https://www.daewooenc.com/",
   "page_url": "https://www.daewooenc.com/",
   "page_title": "대우건설",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/daewoo-ec/favicon.ico",
-  "favicon_source_url": "https://www.daewooenc.com/Resources/Kor/images/common/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/산업_건설_통신/daewoo-ec/og.jpg",
-  "og_source_url": "https://www.daewooenc.com/Resources/Kor/images/common/og_img_kor.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.daewooenc.com/Resources/Kor/movie/main_movie_new_250212.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/daewoo-ec/favicon.ico",
+      "source_url": "https://www.daewooenc.com/Resources/Kor/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 101532,
+      "sha256": "a6278448389bbd012318faccd43a6ae8f1ec4ddecd7837e0a9af3c49698a6fd1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/daewoo-ec/og.jpg",
+      "source_url": "https://www.daewooenc.com/Resources/Kor/images/common/og_img_kor.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 42127,
+      "sha256": "75b86eef636ca6645b47d99e7854033a426d3133e6bf953a5a3b5d6b93f43941",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/daewoo-ec/reference-1.webp",
+      "source_url": "https://www.daewooenc.com/Files/imageView?uniqueVal=e1b47701-684a-4ea2-ad1c-d0e4997a4b48",
+      "source_tag": "img:page-image",
+      "context": "img 리스트 이미지 span imgBox a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 92494,
+      "sha256": "61c3053ace4c921b54870bc6c7d95ff65309b547451f708c0755558541f66f2f",
+      "width": 599,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/daewoo-ec/reference-2.webp",
+      "source_url": "https://www.daewooenc.com/Files/imageView?uniqueVal=86237ed6-640b-47d1-8684-34d660b717d1",
+      "source_tag": "img:page-image",
+      "context": "img 리스트 이미지 span imgBox a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 12246,
+      "sha256": "6a0a03097365d9b890cd232d26ece8240c1e374942d1a88f0ec8e9a7a85d33c4",
+      "width": 578,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/daewoo-ec/reference-3.webp",
+      "source_url": "https://www.daewooenc.com/Files/imageView?uniqueVal=1e23cce3-683e-45ef-ba7c-b199955aa366",
+      "source_tag": "img:page-image",
+      "context": "img 리스트 이미지 span imgBox a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 28664,
+      "sha256": "2dc4ec21c67030247c3c07bc306cffb0c1cee17acdd1f63960cd17d6d29abe84",
+      "width": 599,
+      "height": 400
+    }
+  ]
 }

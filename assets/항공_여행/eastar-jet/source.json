@@ -4,11 +4,30 @@
   "requested_url": "https://www.eastarjet.com/",
   "page_url": "https://www.eastarjet.com/",
   "page_title": "<!--[M,eastar.title.home.main]-->",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/eastar-jet/favicon.png",
-  "favicon_source_url": "https://zeimage.eastarjet.com/newstar/favicon/favicon_R(228x228).png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/항공_여행/eastar-jet/og.png",
-  "og_source_url": "https://zeimage.eastarjet.com/newstar/images/thumbnail.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/eastar-jet/favicon.png",
+      "source_url": "https://zeimage.eastarjet.com/newstar/favicon/favicon_R(228x228).png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3239,
+      "sha256": "704feb977e67fda565ed1096690753d93473e6f603fa601a5c0c3806d1d6d2e7",
+      "width": 228,
+      "height": 228
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/eastar-jet/og.png",
+      "source_url": "https://zeimage.eastarjet.com/newstar/images/thumbnail.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 5669,
+      "sha256": "d5f3dbb7478a9ff18a0c43f913c8fa8c1d0b92ab8a6b66b35f8c4d7542aa5413",
+      "width": 160,
+      "height": 160
+    }
+  ]
 }

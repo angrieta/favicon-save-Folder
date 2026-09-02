@@ -4,11 +4,79 @@
   "requested_url": "https://www.goldcar.es/",
   "page_url": "https://www.goldcar.es/es-es/",
   "page_title": "Alquiler de coches baratos | Goldcar",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/goldcar/favicon.png",
-  "favicon_source_url": "https://www.goldcar.es/apple-touch-icon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/goldcar/favicon.png",
+      "source_url": "https://www.goldcar.es/apple-touch-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2878,
+      "sha256": "60255b36691767c0c0edada2044a8b1140e673df46d112ff761e5337e484517e",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/goldcar/logo-1.svg",
+      "source_url": "https://www.goldcar.es/assets/img/goldcar.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img img-responsive logo-header Goldcar agencia de alquiler de coches div hidden-xs a div float-left div header-section-desktop hidden-xs",
+      "content_type": "image/svg+xml",
+      "bytes": 3289,
+      "sha256": "73f68786111fe9b238da3648eb203a1c175b0dd6e33fd01acad04410bccf3ca6",
+      "width": 230,
+      "height": 50
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/goldcar/logo-2.png",
+      "source_url": "https://www.goldcar.es/assets/img/footer/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img footer--logo-goldcar a footer-logo-xs-padding li footer-sm ul nav navbar-nav div bs-navbar-footer-1",
+      "content_type": "image/png",
+      "bytes": 4816,
+      "sha256": "dd893c9c9d50b6dfb14e954385338319195c0d127dd607fa5bf35c5fd505b375",
+      "width": 191,
+      "height": 200
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-1.webp",
+      "source_url": "https://www.goldcar.es/assets/img/link_section/keyngo/desktop/banner_keyngo_desktop_es.jpg",
+      "source_tag": "img:page-image",
+      "context": "img links-section-img links-section-img-position--left hidden-xs div links-section--white links-section-size links-section-index div links-section-row div col-xs-12 links-section-flex div row links-section",
+      "content_type": "image/webp",
+      "bytes": 21772,
+      "sha256": "0f0266552449fe804a620cdcae346fede27948e83e248432fe84f13c2faeb332",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-2.webp",
+      "source_url": "https://www.goldcar.es/assets/img/link_section/super_relax/desktop/banner_super_relax_desktop_es.jpg?v=1",
+      "source_tag": "img:page-image",
+      "context": "img links-section-img links-section-img-position--right hidden-xs div links-section--grey links-section-size links-section-index div links-section-row links-section-margin-left div col-xs-12 links-section-flex div row links-section",
+      "content_type": "image/webp",
+      "bytes": 92270,
+      "sha256": "0f84b451745bf33bba81ffc1e87adb73d1ea2154857e50ddc45daf4003be5072",
+      "width": 601,
+      "height": 601
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-3.webp",
+      "source_url": "https://www.goldcar.es/assets/img/goldcarblue/coche_goldcar_blue.jpg",
+      "source_tag": "json-ld.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 111298,
+      "sha256": "083f5fd9d25b5d66f94d07c15e0f785c076cfae7ccc308fcaf510a5ed295fe44",
+      "width": 1170,
+      "height": 456
+    }
+  ]
 }

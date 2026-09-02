@@ -4,11 +4,42 @@
   "requested_url": "https://pickcarjeju.com/",
   "page_url": "https://pickcarjeju.com/",
   "page_title": "픽카제주 - 제주 렌트카 가격비교",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/pickcar-jeju/favicon.png",
-  "favicon_source_url": "https://pickcarjeju.com/assets/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_국내/pickcar-jeju/og.jpg",
-  "og_source_url": "https://pickcarjeju.com/assets/coastal-drive.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://pickcarjeju.com/assets/coastal-drive.mp4; reference:ValueError:https://pickcarjeju.com/assets/coastal-drive.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/pickcar-jeju/favicon.png",
+      "source_url": "https://pickcarjeju.com/assets/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5650,
+      "sha256": "a2b59f4cd32d362ec489d78cef1c1303604da27d825f153ca7257a9687978d22",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/pickcar-jeju/og.jpg",
+      "source_url": "https://pickcarjeju.com/assets/coastal-drive.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 149863,
+      "sha256": "60de5190e1cb13d54ebdbe2db6112cb70b8a93529f28a79fea1aabebc687da84",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/pickcar-jeju/logo-1.png",
+      "source_url": "https://pickcarjeju.com/assets/icon-512.png",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 16561,
+      "sha256": "e61602e8a041064be093e4f424eb2617af473f49a5866848af165f6b2439f749",
+      "width": 512,
+      "height": 512
+    }
+  ]
 }

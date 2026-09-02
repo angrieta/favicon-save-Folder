@@ -4,11 +4,114 @@
   "requested_url": "https://www.tossbank.com/",
   "page_url": "https://www.tossbank.com/",
   "page_title": "토스뱅크",
-  "page_status": "200",
-  "favicon_path": "assets/금융/toss-bank/favicon.png",
-  "favicon_source_url": "https://static.toss.im/tds/favicon/apple-touch-icon-152x152.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/금융/toss-bank/og.png",
-  "og_source_url": "https://static.toss.im/illusts/tossbank_logo_img.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/toss-bank/favicon.png",
+      "source_url": "https://static.toss.im/tds/favicon/apple-touch-icon-152x152.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3275,
+      "sha256": "dab84bd163de67f73fec0f72bfacfedda1f67d90ab20a8cd2933d734cac99813",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/toss-bank/og.png",
+      "source_url": "https://static.toss.im/illusts/tossbank_logo_img.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 5483,
+      "sha256": "e8181992f7460f23d95ef3593074090a4d84b06059b645ee8daa7d45ea8e0b05",
+      "width": 1000,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/toss-bank/logo-1.svg",
+      "source_url": "https://static.toss.im/logos/svg/logo-bank-mono-white.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a logo css-jykgvt eme59b60 토스뱅크 로고 div css-1jt0uh6 e1sin7aa2 nav css-yk9flb e1sin7aa1 div css-qx3szz e1sin7aa0",
+      "content_type": "image/svg+xml",
+      "bytes": 2139618,
+      "sha256": "95b7c6bb3e4edde8f1e84025b466922d93bb6e859e6744fae78d8c7a07084a68",
+      "width": 1177,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/toss-bank/logo-2.png",
+      "source_url": "https://static.toss.im/icons/png/4x/logo-bank-blue.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 95590,
+      "sha256": "1c84c96f51eebd55303b3477dbd7cad2e834523add91aa1efcab8cb214fde9d9",
+      "width": 1600,
+      "height": 272
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/toss-bank/banner-1.webp",
+      "source_url": "https://static.toss.im/disposables/contents/tossbank-banner-squirrel31-v2-pc.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img pca1-f185tr4 div pca1-f185tr2 div pca1-f185tr1 css-1c72pyt ekanjlb0 div fader section css-h4fmc8",
+      "content_type": "image/webp",
+      "bytes": 124404,
+      "sha256": "79536bd53fee433f2d05aae1f6f0f228d479145f2e8e0a80a10c6b8d6b164b2f",
+      "width": 1800,
+      "height": 984
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/toss-bank/banner-2.webp",
+      "source_url": "https://static.toss.im/disposables/contents/tossbank-banner-foreign-fee-0-pc.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img pca1-f185tr4 div pca1-f185tr2 div pca1-f185tr1 css-1c72pyt ekanjlb0 div fader section css-h4fmc8",
+      "content_type": "image/webp",
+      "bytes": 48196,
+      "sha256": "159d14790e99704a78b4f1c89c95e5bc2262971a401f6f2c6a5905d7e1cc809b",
+      "width": 1800,
+      "height": 984
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/toss-bank/reference-1.webp",
+      "source_url": "https://static.toss.im/3d/tossbank-banner-web-Financial-sector.png",
+      "source_tag": "img:page-image",
+      "context": "img pca1-f185tr4 div pca1-f185tr2 div pca1-f185tr1 css-1c72pyt ekanjlb0 div fader section css-h4fmc8",
+      "content_type": "image/webp",
+      "bytes": 12280,
+      "sha256": "17dd4672784de9e8589c5546274630c8eb1842c0e830e551bd902660972602e6",
+      "width": 1800,
+      "height": 984
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/toss-bank/reference-2.webp",
+      "source_url": "https://static.toss.im/disposables/contents/tossbank-banner-squirrel31-v2-mobile.png",
+      "source_tag": "img:page-image",
+      "context": "img pca1-f185tr4 div pca1-f185tr2 div pca1-f185tr1 css-owqdap e16n78cd0 div keen-slider__slide css-7y7ye3 div css-1f546dp",
+      "content_type": "image/webp",
+      "bytes": 70014,
+      "sha256": "21f92735ab6198fd1d37e3e9d04333721c3cc7b5eff21ec29f715152edc46bc9",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/toss-bank/reference-3.webp",
+      "source_url": "https://static.toss.im/disposables/contents/tossbank-banner-foreign-fee-0-mobile.png",
+      "source_tag": "img:page-image",
+      "context": "img pca1-f185tr4 div pca1-f185tr2 div pca1-f185tr1 css-owqdap e16n78cd0 div keen-slider__slide css-7y7ye3 div css-1f546dp",
+      "content_type": "image/webp",
+      "bytes": 38224,
+      "sha256": "0d01ee55afde31652bdc581bc943cebfdb8e2301f678c8df399fd6399156472a",
+      "width": 1600,
+      "height": 1000
+    }
+  ]
 }

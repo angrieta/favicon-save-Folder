@@ -4,11 +4,19 @@
   "requested_url": "https://www.billycar.co.kr/",
   "page_url": "https://www.billycar.co.kr/",
   "page_title": "빌리카",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/billicar/favicon.ico",
-  "favicon_source_url": "https://www.billycar.co.kr/assets/img/common/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1293868724865384&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/billicar/favicon.ico",
+      "source_url": "https://www.billycar.co.kr/assets/img/common/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "8b0c99da3464967a3ef5b40750e81efb384eddb9fd8241a21d43e4b82f6c3b27",
+      "width": 16,
+      "height": 16
+    }
+  ]
 }

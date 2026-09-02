@@ -4,11 +4,66 @@
   "requested_url": "https://www.sixt.com/",
   "page_url": "https://www.sixt.com/",
   "page_title": "Premium Car Rental at affordable prices | SIXT rent a car",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/sixt/favicon.ico",
-  "favicon_source_url": "https://www.sixt.com/favicon.ico?v=1.1.0",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/렌터카_글로벌/sixt/og.webp",
-  "og_source_url": "https://img.sixt.com/1200/506112ab-1eaf-40fd-b7ab-ef2dfef01cd5.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/sixt/favicon.ico",
+      "source_url": "https://www.sixt.com/favicon.ico?v=1.1.0",
+      "source_tag": "icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 8348,
+      "sha256": "9c381e2ad1376b89729f3eb9c54861b36e5c646ca76571f7e67fb4ed0020ad4c",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/sixt/og.webp",
+      "source_url": "https://img.sixt.com/1200/506112ab-1eaf-40fd-b7ab-ef2dfef01cd5.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 30330,
+      "sha256": "c250419e0a0a07494436622c819b83fec38eaf5aee6ce036d2427afd7dc26b80",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/sixt/reference-1.webp",
+      "source_url": "https://img.sixt.com/3200/a1d32aef-c392-481a-b9f4-90ec46d8cee3.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div sc-df9a584d-0 OdyNM sc-a0b337e8-0 hOrtHs div sc-40e3fb73-0 inGLAq div sc-2b9c0082-0 sc-378bc90a-1 kNzrYs dqqstu link",
+      "content_type": "image/webp",
+      "bytes": 31212,
+      "sha256": "39799ad5e5aa26cc6293d61e4a80aa9a0621b1e23525735fea6b155b2165a46d",
+      "width": 1800,
+      "height": 771
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/sixt/reference-2.webp",
+      "source_url": "https://img.sixt.com/2800/a1d32aef-c392-481a-b9f4-90ec46d8cee3.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div sc-df9a584d-0 OdyNM sc-a0b337e8-0 hOrtHs div sc-40e3fb73-0 inGLAq div sc-2b9c0082-0 sc-378bc90a-1 kNzrYs dqqstu link",
+      "content_type": "image/webp",
+      "bytes": 31082,
+      "sha256": "ddcb937c3a41613f7b577ffb14dfad4c186f2b7ee90be26da9918ec91ee11198",
+      "width": 1800,
+      "height": 771
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/sixt/reference-3.webp",
+      "source_url": "https://img.sixt.com/1600/ce4b6054-3b0c-4dc3-841b-33af59275dfa.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div sc-df9a584d-0 OdyNM sc-a0b337e8-0 hOrtHs div sc-40e3fb73-0 inGLAq div sc-2b9c0082-0 sc-378bc90a-1 kNzrYs dqqstu link",
+      "content_type": "image/webp",
+      "bytes": 31554,
+      "sha256": "e83dc78b1baa472311a7df4e7895dd2ad9855763ded9a23219699c890d2369d8",
+      "width": 900,
+      "height": 1350
+    }
+  ]
 }

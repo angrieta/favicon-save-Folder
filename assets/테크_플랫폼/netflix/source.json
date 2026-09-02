@@ -4,11 +4,55 @@
   "requested_url": "https://www.netflix.com/kr/",
   "page_url": "https://www.netflix.com/kr/",
   "page_title": "넷플릭스 대한민국 - 인터넷으로 시리즈와 영화를 시청하세요",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/netflix/favicon.png",
-  "favicon_source_url": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://assets.nflxext.com/web/ffe/wp/ui/landingPages/nmhp/nmhpFrameworkClient.faa3eedc79f4909542f5.js; reference:ValueError:https://occ.a.nflxso.net/genc/hawkins/5.27.0/font/netflix-sans-core-variable-full.woff2; reference:ValueError:https://occ.a.nflxso.net/genc/hawkins/5.27.0/font/netflix-sans-mono-variable-full.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/netflix/favicon.png",
+      "source_url": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1755,
+      "sha256": "7341f7b8b0ae3c0da4aea559efc31f0b53d9db9dd291664fdcf7d618fd95ed8a",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/netflix/logo-1.svg",
+      "source_url": "https://occ.a.nflxso.net/dnmt/api/v6/iL4oJVDYZ8KLSrJ6eG2OwtghbfQ/AAAAAWiPHORowsUPy4Ef8HnCO9JXGoNeHRyWtWY4xZAfUtau5iCnG2Ko_-8QuKVa8P6wtpfnyGopi4LoAha-VghVRE_N6kRqhwpLQCpga5tzrlTEHRGHgzpa9PYmEEEgQyuEdhsyq9vmhmPR.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img default-ltr-iqcdef-cache-lsmm1l ejnndvn0 span default-ltr-iqcdef-cache-0 e38gzvf0 div default-ltr-iqcdef-cache-1sdmy2l en3686k0 div eq269h80 default-ltr-iqcdef-cache-1dypbyj header default-ltr-iqcdef-cache-4fdrtc",
+      "content_type": "image/svg+xml",
+      "bytes": 824,
+      "sha256": "0e841a5119aa45c3749829a86fd7755cffb61c4dbbe0e1cb24e543d09cdd2ada",
+      "width": 370,
+      "height": 100
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/netflix/reference-1.webp",
+      "source_url": "https://assets.nflxext.com/ffe/siteui/vlv3/a00fdfd7-4916-4f12-b5ff-c05b9d7b4d07/web/KR-ko-20260824-TRIFECTA-perspective_dbf6ecf4-267a-4216-b0a3-1bcba22c8832_large.jpg",
+      "source_tag": "img:page-image",
+      "context": "img default-ltr-iqcdef-cache-19j6xtr div default-ltr-iqcdef-cache-t1swus div default-ltr-iqcdef-cache-73ljnh div default-ltr-iqcdef-cache-1tlz4mq e16p5chg1 div default-ltr-iqcdef-cache-8ylunr",
+      "content_type": "image/webp",
+      "bytes": 366740,
+      "sha256": "93f811d6ca9cc689e20e4554c7e857fd869ad108a2477808cae9a673c9701441",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/netflix/reference-2.webp",
+      "source_url": "https://assets.nflxext.com/ffe/siteui/vlv3/a00fdfd7-4916-4f12-b5ff-c05b9d7b4d07/web/KR-ko-20260824-TRIFECTA-perspective_dbf6ecf4-267a-4216-b0a3-1bcba22c8832_medium.jpg",
+      "source_tag": "img:page-image",
+      "context": "img default-ltr-iqcdef-cache-19j6xtr div default-ltr-iqcdef-cache-t1swus div default-ltr-iqcdef-cache-73ljnh div default-ltr-iqcdef-cache-1tlz4mq e16p5chg1 div default-ltr-iqcdef-cache-8ylunr",
+      "content_type": "image/webp",
+      "bytes": 367838,
+      "sha256": "11cdb5847b8cd6761ad27ec984b2dee52f309eac32dc683f7263b0ee277e7bc0",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
 }

@@ -4,11 +4,55 @@
   "requested_url": "https://www.genie.co.kr/",
   "page_url": "https://www.genie.co.kr/",
   "page_title": "음악, 그리고 설레임 - 지니",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/genie-music/favicon.ico",
-  "favicon_source_url": "https://www.genie.co.kr/resources/favicon_32.ico?v=202602091400",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/genie-music/favicon.ico",
+      "source_url": "https://www.genie.co.kr/resources/favicon_32.ico?v=202602091400",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 13514,
+      "sha256": "07a37727db1d47b8c8617053d5660b5d359398c43a5069fff17a117c5e4e86ef",
+      "width": 57,
+      "height": 57
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/genie-music/reference-1.webp",
+      "source_url": "https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/main/mainEditorChoice_2026828122145.jpg/dims/resize/Q_80,0",
+      "source_tag": "img:page-image",
+      "context": "img 딸랑, 소품샵 문 열자마자 들리는 키치한 팝송 🎀 div cover cover-main div cover-recommend a li recommend type-3",
+      "content_type": "image/webp",
+      "bytes": 71498,
+      "sha256": "9a063c196c36a63c73226fbfb5fe4eff728fe32258330ff0b153c53a60adb796",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/genie-music/reference-2.webp",
+      "source_url": "https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/main/mainEditorChoice_2026827193149.jpg/dims/resize/Q_80,0",
+      "source_tag": "img:page-image",
+      "context": "img 어떤 사랑은 눈에 보인대 div cover cover-main div cover-recommend a li recommend type-2",
+      "content_type": "image/webp",
+      "bytes": 83960,
+      "sha256": "b2f9ec43a700cc1dca79916654ea9853c3a42ed038feed369e8ff9dbee2197a3",
+      "width": 1043,
+      "height": 1043
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/genie-music/reference-3.webp",
+      "source_url": "https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/main/mainEditorChoice_2026825172720.jpg/dims/resize/Q_80,0",
+      "source_tag": "img:page-image",
+      "context": "img 잠시라도 이 꿉꿉함을 탈출하고 싶어요🍃 div cover cover-main div cover-recommend a li recommend type-5",
+      "content_type": "image/webp",
+      "bytes": 29390,
+      "sha256": "002bd53d864f76705083caf9caad9d4d1ef171c457a5157e071c373727e1465d",
+      "width": 600,
+      "height": 600
+    }
+  ]
 }

@@ -4,11 +4,103 @@
   "requested_url": "https://www.usave.com/",
   "page_url": "https://usave.com/",
   "page_title": "Car Rental & Truck Hire | Trusted & Affordable Service | U-Save",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/u-save/favicon.png",
-  "favicon_source_url": "https://usave.com/images/brand/usave/favicon/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=2150998762371080&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/u-save/favicon.png",
+      "source_url": "https://usave.com/images/brand/usave/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 107032,
+      "sha256": "8313eef55bdb49456172cea02fba0384eeb651979b8b3d159a323fdad769d11a",
+      "width": 3264,
+      "height": 2960
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/u-save/logo-1.svg",
+      "source_url": "https://s3.eu-west-2.amazonaws.com/sv-cms-craft/uploads/images/default/usave-menu-nav-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img U-Save Car and Truck Rental a navbar-brand div container-fluid nav navbar navbar-expand-xl main-nav py-4 order-0 order-xl-1 navbar-light bg-none header sticky-top bg-white d-flex flex-column",
+      "content_type": "image/svg+xml",
+      "bytes": 8002,
+      "sha256": "2872f9ff404695d951eb0a383646134ce3ed5d52d742c770fa8c3d00f9482afa",
+      "width": 110,
+      "height": 58
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/u-save/logo-2.webp",
+      "source_url": "https://s3.eu-west-2.amazonaws.com/sv-cms-craft/uploads/images/_600x60_fit_center-center_82_none/446677/Usave-yellow-and-white-no-capsule-01.jpg?mtime=1769768124",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 598,
+      "sha256": "8acde452371a87b5aeff2c7fa64fb3b25573c20891cf05ec08f4e8495589e932",
+      "width": 95,
+      "height": 60
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/u-save/banner-1.webp",
+      "source_url": "https://usave.com/imager/s3_eu-west-2_amazonaws_com/sv-cms-craft/uploads/images/default/USV-September_Web-banner_V2_c8b8496699fdf6003ec5ec683e149523.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture d-flex justify-content-center h-100 w-100 position-absolute section banner-with-booking mb-5 position-relative overflow-hidden div app body site-brand-usave html",
+      "content_type": "image/webp",
+      "bytes": 55482,
+      "sha256": "ffbfdc1b1d1e75e260fd7ce2796ff1dff69b2236aacc9226a41c9845690e9b03",
+      "width": 1400,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/u-save/banner-2.webp",
+      "source_url": "https://usave.com/imager/s3_eu-west-2_amazonaws_com/sv-cms-craft/uploads/images/default/USV-September_Web-banner_V2_c8b8496699fdf6003ec5ec683e149523.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture d-flex justify-content-center h-100 w-100 position-absolute section banner-with-booking mb-5 position-relative overflow-hidden div app body site-brand-usave html",
+      "content_type": "image/webp",
+      "bytes": 63058,
+      "sha256": "97ce667f042fe5a6a80c0bc14f6c2af09f036523fb078b3e9b8a0f872934ed06",
+      "width": 1400,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/u-save/reference-1.svg",
+      "source_url": "https://s3.eu-west-2.amazonaws.com/sv-cms-craft/uploads/images/Usave-yellow-and-white-no-capsule-01.svg",
+      "source_tag": "json-ld.@graph[1].image.url",
+      "context": "structured data image",
+      "content_type": "image/svg+xml",
+      "bytes": 22201,
+      "sha256": "e630c87dbc501c6fa2918bbf78fbf5effd6dcdf65a54d8e7794807db93c38652",
+      "width": 1457,
+      "height": 919
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/u-save/reference-2.svg",
+      "source_url": "https://usave.com/images/brand/usave/header-flags/tr.svg",
+      "source_tag": "img:page-image",
+      "context": "img Türkçe (Türkiye) a dropdown-item li text-capitalize ul dropdown-menu div dropdown-1 dropdown b-dropdown text-capitalize btn-group",
+      "content_type": "image/svg+xml",
+      "bytes": 304,
+      "sha256": "4817c664fdec869bd9b32576fb131065d5ec0276262e5be0a31178352272b206",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/u-save/reference-3.svg",
+      "source_url": "https://usave.com/images/brand/usave/header-flags/es.svg",
+      "source_tag": "img:page-image",
+      "context": "img español (España) a dropdown-item li text-capitalize ul dropdown-menu div dropdown-1 dropdown b-dropdown text-capitalize btn-group",
+      "content_type": "image/svg+xml",
+      "bytes": 50468,
+      "sha256": "3c820f5ee8eb6a900253b732190b06acba75b2e8c833e2924dd934e32e2965a6",
+      "width": 750,
+      "height": 500
+    }
+  ]
 }

@@ -4,11 +4,78 @@
   "requested_url": "https://www.timescar-rental.com/",
   "page_url": "https://www.timescar-rental.com/en/",
   "page_title": "Rent A Car in Japan with Times | Times CAR RENTAL: Your Car Hire Company",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/times-car-rental/favicon.png",
-  "favicon_source_url": "https://www.timescar-rental.com/apple-touch-icon-152x152.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_글로벌/times-car-rental/og.png",
-  "og_source_url": "https://www.timescar-rental.com/common/images/ogp.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/times-car-rental/favicon.png",
+      "source_url": "https://www.timescar-rental.com/apple-touch-icon-152x152.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5446,
+      "sha256": "bb2e6f1e57e1b8bc6d43a0693f6931bdc40b88e06973af90150a46ad657ae375",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/times-car-rental/og.png",
+      "source_url": "https://www.timescar-rental.com/common/images/ogp.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 3600,
+      "sha256": "2e3f13024537dfadbe3e562386db9b39b6a4304037bc0bf667c06cad6b27295b",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/times-car-rental/logo-1.png",
+      "source_url": "https://www.timescar-rental.com/common/images/header_logo002.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo a h1 div hd_logo hd_logo2 div container",
+      "content_type": "image/png",
+      "bytes": 3850,
+      "sha256": "e0d169b85a35914ecd16888b4431ba1a69ee683018f6e4d9c2b7223e66ad822a",
+      "width": 346,
+      "height": 64
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-1.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_ph001.png?20200120",
+      "source_tag": "img:page-image",
+      "context": "img div image-box-image-wrapper div image-box div grid-lg-4 grid-md-4 grid-sm-6 grid-12 grid-12 div row",
+      "content_type": "image/webp",
+      "bytes": 44484,
+      "sha256": "15b3900e62a04c847110ade139c506e6b32d92571f0d1e8d0a265c4b7881fd42",
+      "width": 690,
+      "height": 545
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-2.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_ph002.png",
+      "source_tag": "img:page-image",
+      "context": "img div image-box-image-wrapper div image-box models div grid-lg-4 grid-md-4 grid-sm-6 grid-12 grid-12 div row",
+      "content_type": "image/webp",
+      "bytes": 17222,
+      "sha256": "121bb123d2bbace41bb4c470b046ea31e00b356740fe0bd0a445c0d652c18835",
+      "width": 690,
+      "height": 544
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-3.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_ph003.png?20200415",
+      "source_tag": "img:page-image",
+      "context": "img div image-box-image-wrapper div image-box service div grid-lg-4 grid-md-4 grid-sm-6 grid-12 grid-12 div row",
+      "content_type": "image/webp",
+      "bytes": 31420,
+      "sha256": "d949d1f91e89a897e811baced676bb8fb11bad76df167a89f5a9c169f34c8128",
+      "width": 690,
+      "height": 544
+    }
+  ]
 }

@@ -4,11 +4,90 @@
   "requested_url": "https://www.jejuangelcar.co.kr/",
   "page_url": "https://www.jejuangeltour.com/",
   "page_title": "제주렌터카 제주엔젤카 - 제주도 렌터카 실시간 예약할인, 완전자차 무료",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/jeju-angel/favicon.ico",
-  "favicon_source_url": "https://www.jejuangeltour.com/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/렌터카_국내/jeju-angel/og.jpg",
-  "og_source_url": "https://www.jejuangeltour.com/theme/basic/img/common/og_img.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://www.jejuangeltour.com/theme/basic/img/common/logo_img; reference:ValueError:https://www.jejuangeltour.com/theme/basic/img/common/logo_img",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/jeju-angel/favicon.ico",
+      "source_url": "https://www.jejuangeltour.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 370070,
+      "sha256": "cbffabf4d6aeb5ad72e88d3561e4aae98328e03be95868c31289fd7693a8c837",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jeju-angel/og.jpg",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/common/og_img.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 83143,
+      "sha256": "e663548353326c5400f5e045d8930c4fc01e77dd08d64bc893b41207831d0070",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-1.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a7ed198b8955.png",
+      "source_tag": "inline-background-image",
+      "context": "li   background-image: url('/img_admin/angeltour/data/banner/2026.6a7ed198b8955.png');",
+      "content_type": "image/webp",
+      "bytes": 31784,
+      "sha256": "00aabb2b8a14133d7fac15971a101af4e0ee27353b7320b78ea24ff44ba1c4e0",
+      "width": 1800,
+      "height": 418
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-2.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a7eca3ea33c5.png",
+      "source_tag": "inline-background-image",
+      "context": "li   background-image: url('/img_admin/angeltour/data/banner/2026.6a7eca3ea33c5.png');",
+      "content_type": "image/webp",
+      "bytes": 76866,
+      "sha256": "98845267ffbfa6fc2a2b13fc2821701a5ee9d0a9620e936b5982727f8dcdf6e7",
+      "width": 1800,
+      "height": 418
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-1.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.699e4492c5c9d.png",
+      "source_tag": "inline-background-image",
+      "context": "li   background-image: url('/img_admin/angeltour/data/banner/2026.699e4492c5c9d.png');",
+      "content_type": "image/webp",
+      "bytes": 40534,
+      "sha256": "834d7eed3463f24c8865ef86aaa355b87202add15bc4f000137f4a79f546f828",
+      "width": 1800,
+      "height": 431
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-2.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_7Nu4Qfoq_36058b9060c5b2d772b2c25033047407747b4c93.png",
+      "source_tag": "img:page-image",
+      "context": "img 제주엔젤카 수입차 라인업 제주엔젤카 수입차 라인업 div a li ul l__latest",
+      "content_type": "image/webp",
+      "bytes": 22852,
+      "sha256": "fd87d5bbf38c53561e481fd96a248221965b9b6a3667bc07a194fa687bd22aa7",
+      "width": 667,
+      "height": 668
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-3.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_P40Oh3Ap_f2693be519f5d914e2e74145d0ccb03b6df85951.png",
+      "source_tag": "img:page-image",
+      "context": "img 제주엔젤카 전기차 라인업 제주엔젤카 전기차 라인업 div a li ul l__latest",
+      "content_type": "image/webp",
+      "bytes": 22440,
+      "sha256": "a8d818d79eaa7aa7a6e7bb5289e8e74fa826d4abe1b154f580edb774df65b050",
+      "width": 668,
+      "height": 668
+    }
+  ]
 }

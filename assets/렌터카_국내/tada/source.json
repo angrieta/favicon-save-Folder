@@ -4,11 +4,66 @@
   "requested_url": "https://tadatada.com/",
   "page_url": "https://www.tadatada.com/",
   "page_title": "타다(TADA) | HOME",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/tada/favicon.avif",
-  "favicon_source_url": "https://framerusercontent.com/images/WPIfZBDjxzFJFhY7M08wyT95rs.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_국내/tada/og.png",
-  "og_source_url": "https://framerusercontent.com/assets/dWnr6UZPW7HvsmyLXtEbvfVCxc.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/index.es.DFkh5JT3.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/fYwdksJIz.C2JCjHs5.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/EnfVCSej7.TKVtfGWV.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/ppPLhX_Jw.yq3OeFx1.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/Vv_ZoFp_w.jSL-cmUH.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/PzuLmlenL5H72l3QGoADrg-fpnLL5cFLnx4yDiKXYg8.DwMURKWe.mjs",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/tada/favicon.avif",
+      "source_url": "https://framerusercontent.com/images/WPIfZBDjxzFJFhY7M08wyT95rs.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/avif",
+      "bytes": 8230,
+      "sha256": "2c40657c075f7400b841e581acc27f50ffc3db051b123e637d2c21ce450211ba",
+      "width": 1036,
+      "height": 1036
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/tada/og.png",
+      "source_url": "https://framerusercontent.com/assets/dWnr6UZPW7HvsmyLXtEbvfVCxc.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 3555,
+      "sha256": "8da8940c039088513dba9e62977095206c9e231b50a2a2d66e82fd6d071d404e",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/tada/logo-1.png",
+      "source_url": "https://framerusercontent.com/images/mD34KqcYyOGjgAbY2dlrz69BboE.png?scale-down-to=2048&width=3466&height=354",
+      "source_tag": "img:semantic-logo",
+      "context": "img div div framer-3qzt7d div ssr-variant div brand framer-kvw0nv",
+      "content_type": "image/png",
+      "bytes": 59179,
+      "sha256": "1015a94066d337a9cd62c062365b9682c3dcb0cbda79b002d054478ee7c14b23",
+      "width": 1600,
+      "height": 163
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-1.webp",
+      "source_url": "https://framerusercontent.com/images/16uKjRbjOg1Mgi4nlrgTLoexFWY.png?width=720&height=720",
+      "source_tag": "img:page-image",
+      "context": "img div div framer-1wwkge6 div framer-1jvncs4 a framer-US8xZ framer-1ysypa8 framer-v-zx2l1c framer-m110p2",
+      "content_type": "image/webp",
+      "bytes": 17126,
+      "sha256": "82fa3fd79037b9847abf2c73ea7f1a06ebf91d20ed6fd66ca6de141f02ad2680",
+      "width": 720,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-2.webp",
+      "source_url": "https://framerusercontent.com/images/16uKjRbjOg1Mgi4nlrgTLoexFWY.png?scale-down-to=512&width=720&height=720",
+      "source_tag": "img:page-image",
+      "context": "img div div framer-1wwkge6 div framer-1jvncs4 a framer-US8xZ framer-1ysypa8 framer-v-zx2l1c framer-m110p2",
+      "content_type": "image/webp",
+      "bytes": 13510,
+      "sha256": "78382add55cb44f151944e3d6fde6138178703cad392e0804b179fd5cfb33880",
+      "width": 512,
+      "height": 512
+    }
+  ]
 }

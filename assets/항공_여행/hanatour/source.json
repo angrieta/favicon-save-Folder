@@ -4,11 +4,54 @@
   "requested_url": "https://www.hanatour.com/",
   "page_url": "https://www.hanatour.com/",
   "page_title": "하나투어 : 꿈꾸는 대로, 펼쳐지다",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/hanatour/favicon.ico",
-  "favicon_source_url": "https://www.hanatour.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/항공_여행/hanatour/og.jpg",
-  "og_source_url": "https://image.hanatour.com/usr/manual/etc/kakao/share_thumb01.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://image.hanatour.com/build/ice/pc/123.ad25aabf635a436a8f81.js; reference:ValueError:https://image.hanatour.com/build/ice/pc/165.bd507c2c70f9c568e801.js; reference:ValueError:https://image.hanatour.com/build/ice/pc/445.81ec74e4763de0cf91ce.js; reference:ValueError:https://image.hanatour.com/build/ice/pc/107.75fbec21f4820cbd6ec0.js; reference:ValueError:https://image.hanatour.com/build/ice/pc/124.2e58bdc58c4b19c71c49.js; reference:ValueError:https://image.hanatour.com/build/ice/pc/144.972c3c75844acb1889b9.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/hanatour/favicon.ico",
+      "source_url": "https://www.hanatour.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "253913ad26954cb0ef3a73b5abbbbcb942d8257cfc71a7fce37836c10898760a",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/hanatour/og.jpg",
+      "source_url": "https://image.hanatour.com/usr/manual/etc/kakao/share_thumb01.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 41516,
+      "sha256": "368587fe3b4895007e357069cf61c1210119dd49208ff29d8d0d7bc069483b8a",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/hanatour/logo-1.png",
+      "source_url": "https://image.hanatour.com/usr/static/img2/pc/com/ico-hanatour-logo2.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 1854,
+      "sha256": "53e4fafc85778003de09374cd836245800ff6c8726bbdc7ee8efeaaebc8ca61a",
+      "width": 150,
+      "height": 36
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/hanatour/logo-2.webp",
+      "source_url": "https://image.hanatour.com/usr/static/img2/pc/com/korea_brand_awards.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img korea brand awards span a li ul travel_mark",
+      "content_type": "image/webp",
+      "bytes": 6150,
+      "sha256": "aa0db713dbf8b378d2213696cd1fb86c8812494914103842fd6b30bf1d7c9e74",
+      "width": 160,
+      "height": 174
+    }
+  ]
 }

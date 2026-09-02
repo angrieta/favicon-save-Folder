@@ -4,11 +4,90 @@
   "requested_url": "https://www.baskinrobbins.co.kr/",
   "page_url": "https://www.baskinrobbins.co.kr/",
   "page_title": "배스킨라빈스",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/baskin-robbins-korea/favicon.ico",
-  "favicon_source_url": "https://www.baskinrobbins.co.kr/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "assets/식품_생활/baskin-robbins-korea/og.png",
-  "og_source_url": "https://www.baskinrobbins.co.kr/assets/images/common/img_share.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=702697714849597&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/baskin-robbins-korea/favicon.ico",
+      "source_url": "https://www.baskinrobbins.co.kr/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 32988,
+      "sha256": "8f9074cdb8357e6cde75315c0ce9ff43c8430fac5ee4760f55cbc2b0571f0dd3",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/baskin-robbins-korea/og.png",
+      "source_url": "https://www.baskinrobbins.co.kr/assets/images/common/img_share.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 322655,
+      "sha256": "f0767ab7d7774fce6de2d5a43ca621f12b9f0cdd4ff6a1492aa1ad04bbfe73bd",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/baskin-robbins-korea/logo-1.png",
+      "source_url": "https://www.baskinrobbins.co.kr/assets/images/common/footer_logo01.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img site-footer-relation__image Happy Point a site-footer-relation__link li site-footer-relation__item ul site-footer-relation__list nav site-footer-relation",
+      "content_type": "image/png",
+      "bytes": 5827,
+      "sha256": "d3c97ea6da88ffdc2fcc43c51c3f441180c477e8ad439c0e1d3dc749ec84104c",
+      "width": 204,
+      "height": 100
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/baskin-robbins-korea/logo-2.png",
+      "source_url": "https://www.baskinrobbins.co.kr/assets/images/common/footer_logo02.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img site-footer-relation__image Happy Market a site-footer-relation__link li site-footer-relation__item ul site-footer-relation__list nav site-footer-relation",
+      "content_type": "image/png",
+      "bytes": 4816,
+      "sha256": "9de23b8aa83bcdc4854b5c4d4a2b45cd3d34f670b9024abbab770890446d0960",
+      "width": 204,
+      "height": 100
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/baskin-robbins-korea/banner-1.webp",
+      "source_url": "https://www.baskinrobbins.co.kr/upload/main/banner/2abbb19202a0678bcc3d9f5651f63e97.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div main-hero__box div main-hero__content div main-hero__container div main-hero",
+      "content_type": "image/webp",
+      "bytes": 176336,
+      "sha256": "8e6a47132af1659a3ad008661a924787aa38ca9da714b1d6c872cb6bb0140a3d",
+      "width": 1557,
+      "height": 784
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/baskin-robbins-korea/reference-1.webp",
+      "source_url": "https://www.baskinrobbins.co.kr/upload/main/brplay/38ec45e00b62db0f26e4ee90ce889841.png",
+      "source_tag": "img:page-image",
+      "context": "img main-play__image MY FLAVOR LIST a main-play__link li main-play__item ul main-play__list div main-play__container",
+      "content_type": "image/webp",
+      "bytes": 22380,
+      "sha256": "713430ebb999281ac31bdc6d108323327855162901343dc7a784c7681804d2c3",
+      "width": 360,
+      "height": 490
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/baskin-robbins-korea/reference-2.webp",
+      "source_url": "https://www.baskinrobbins.co.kr/upload/main/brplay/99847b6c140916bfe27eceea5c2ed9dc.png",
+      "source_tag": "img:page-image",
+      "context": "img main-play__image 배묻배답 a main-play__link li main-play__item ul main-play__list div main-play__container",
+      "content_type": "image/webp",
+      "bytes": 15660,
+      "sha256": "60c86913b9b5cf8c803d409b9f368c252546e4f5f0b1ff5939f399bc5fb2cc08",
+      "width": 360,
+      "height": 490
+    }
+  ]
 }

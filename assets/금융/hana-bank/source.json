@@ -4,11 +4,19 @@
   "requested_url": "https://www.kebhana.com/",
   "page_url": "https://www.kebhana.com/",
   "page_title": "하나은행",
-  "page_status": "200",
-  "favicon_path": "assets/금융/hana-bank/favicon.ico",
-  "favicon_source_url": "https://www.kebhana.com/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/hana-bank/favicon.ico",
+      "source_url": "https://www.kebhana.com/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4304,
+      "sha256": "95af580b91bd6dc4d4ce1a8ef8f77a2e00305692e7a0ce97e67fe92df4f3e2bb",
+      "width": 60,
+      "height": 60
+    }
+  ]
 }

@@ -4,11 +4,19 @@
   "requested_url": "https://a-bly.com/",
   "page_url": "https://mobile.a-bly.com/",
   "page_title": "",
-  "page_status": "200",
-  "favicon_path": "assets/유통_커머스/ably/favicon.ico",
-  "favicon_source_url": "https://m.a-bly.com/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://mobile.a-bly.com/Pretendard-400.subset.woff2; reference:ValueError:https://mobile.a-bly.com/Pretendard-600.subset.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/ably/favicon.ico",
+      "source_url": "https://m.a-bly.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "83dbd2ba2e597d85724edcdd4693c8e220992a8e9721b1f4ea32e15f438cd8bd",
+      "width": 48,
+      "height": 48
+    }
+  ]
 }

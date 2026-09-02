@@ -4,11 +4,115 @@
   "requested_url": "https://www.navercorp.com/",
   "page_url": "https://www.navercorp.com/main",
   "page_title": "NAVER Corp.",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/naver/favicon.ico",
-  "favicon_source_url": "https://www.navercorp.com/img/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/테크_플랫폼/naver/og.png",
-  "og_source_url": "https://www.navercorp.com/img/og/OG_TAG_6_Media.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/naver/favicon.ico",
+      "source_url": "https://www.navercorp.com/img/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1540,
+      "sha256": "cddaaa35e5464c57990c0674cca6e331c2a492ce7a7ed8f7ac1105da76709ecf",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/naver/og.png",
+      "source_url": "https://www.navercorp.com/img/og/OG_TAG_6_Media.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 705743,
+      "sha256": "7bb4d13ca65e5e24cecb8f1322b2ed2e161ef5e27fd2d5d887154f6edc5fd257",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/naver/logo-1.png",
+      "source_url": "https://www.navercorp.com/img/tmp/search-banner-02.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 네이버 로고 아이덴티티 브랜드 리소스 a banner__link li ul banner-inner div ko-data",
+      "content_type": "image/png",
+      "bytes": 4659,
+      "sha256": "07622121f967b33ed9230d0a1b720bbe25c459aa31e41718399755f0d272ca24",
+      "width": 896,
+      "height": 504
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/naver/logo-2.webp",
+      "source_url": "https://corp-homepage-phinf.pstatic.net/MjAyNjA3MDZfMjQx/MDAxNzgzMzI3NzAyMDc0.ngTUHU4HxTEsmR7uZN1AqIf5aK6aRUul4Gwp28aFP_Mg.DGKUzZUa7NMp_ibIk3foQAfFYRTrmXx43mxO22piC1Qg.PNG/%EA%B8%B0%EC%97%85%EC%82%AC%EC%9D%B4%ED%8A%B8_%EC%B1%84%EC%9A%A9%EC%9D%B4%EB%AF%B8%EC%A7%80.png?type=w896",
+      "source_tag": "img:semantic-logo",
+      "context": "img div off div item-visual div item-inner a nclick-target btn-main-banner-nav main-recruit",
+      "content_type": "image/webp",
+      "bytes": 42906,
+      "sha256": "dd95cf51c4f8468dcc5e489927bc0fa3105bd7e44435db3fa698002fa0c2f09f",
+      "width": 896,
+      "height": 364
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/naver/banner-1.webp",
+      "source_url": "https://www.navercorp.com/img/tmp/search-banner-01.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 한눈에 보는 네이버 전체 서비스 소개 a banner__link li ul banner-inner div ko-data",
+      "content_type": "image/webp",
+      "bytes": 10122,
+      "sha256": "2e36ea2de6c21808c27f602523756ba957778c64074e0221311c85b7e7c740c8",
+      "width": 896,
+      "height": 504
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/naver/logo-1.png",
+      "source_url": "https://www.navercorp.com/img/tmp/search-banner-02.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 네이버 로고 아이덴티티 브랜드 리소스 a banner__link li ul banner-inner div ko-data",
+      "content_type": "image/png",
+      "bytes": 4659,
+      "sha256": "07622121f967b33ed9230d0a1b720bbe25c459aa31e41718399755f0d272ca24",
+      "width": 896,
+      "height": 504,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/naver/reference-1.webp",
+      "source_url": "https://www.navercorp.com/img/pc/naver-service.png",
+      "source_tag": "img:page-image",
+      "context": "img NAVER 서비스 div nav__intro__photo div nav__list__inner div nav__list__show nav__list2 li nav__item",
+      "content_type": "image/webp",
+      "bytes": 7092,
+      "sha256": "d0686462978c06c55603565438401257d165fc8f481dc4e3ac2dfb4f5817d290",
+      "width": 556,
+      "height": 694
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/naver/reference-2.webp",
+      "source_url": "https://www.navercorp.com/img/tmp/search-banner-03.png",
+      "source_tag": "img:page-image",
+      "context": "img 5,400만+ 유저를 고객으로 네이버 광고 검색 상품 a banner__link li ul banner-inner div ko-data",
+      "content_type": "image/webp",
+      "bytes": 2136,
+      "sha256": "0ea7dc14b43b436dbcaf02d74d92132a7e1d8e3648bf0dde1e5a70aa30a70626",
+      "width": 896,
+      "height": 504
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/naver/reference-3.webp",
+      "source_url": "https://www.navercorp.com/img/tmp/search-banner-01-en.png",
+      "source_tag": "img:page-image",
+      "context": "img NAVER Auunal Report ESG Library a banner__link li ul banner-inner div en-data",
+      "content_type": "image/webp",
+      "bytes": 2412,
+      "sha256": "d8f4c6a6e40f307e50df74f5c72096bf8f24562263384754ab993470962ffeb2",
+      "width": 896,
+      "height": 504
+    }
+  ]
 }

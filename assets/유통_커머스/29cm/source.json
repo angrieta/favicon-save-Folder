@@ -4,11 +4,91 @@
   "requested_url": "https://www.29cm.co.kr/",
   "page_url": "https://www.29cm.co.kr/",
   "page_title": "감도 깊은 취향 셀렉트샵 29CM",
-  "page_status": "200",
-  "favicon_path": "assets/유통_커머스/29cm/favicon.png",
-  "favicon_source_url": "https://asset.29cm.co.kr/icon/apple-icon-144x144.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/유통_커머스/29cm/og.png",
-  "og_source_url": "https://img.29cm.co.kr/mall/og_image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/29cm/favicon.png",
+      "source_url": "https://asset.29cm.co.kr/icon/apple-icon-144x144.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2374,
+      "sha256": "d86e000ef9467708421d74bc09d4a7b429ddd3e7f6f04120bc30e3d5a02f8b04",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/29cm/og.png",
+      "source_url": "https://img.29cm.co.kr/mall/og_image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 6425,
+      "sha256": "f6e51d8bcc05f3a985ab45857a009aba6909e3a5390613c3ec1c7336a1688392",
+      "width": 800,
+      "height": 420
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/29cm/favicon.png",
+      "source_url": "https://asset.29cm.co.kr/icon/apple-icon-144x144.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/png",
+      "bytes": 2374,
+      "sha256": "d86e000ef9467708421d74bc09d4a7b429ddd3e7f6f04120bc30e3d5a02f8b04",
+      "width": 144,
+      "height": 144,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/29cm/logo-2.png",
+      "source_url": "https://asset.29cm.co.kr/next-contents/2023/06/08/3f8131682d124d16b336774ba51c4a3e_20230608162823.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-16 min-h-16 w-60 min-w-60 29CM a div flex w-full items-center justify-between gap-14 header flex w-full flex-col font-extralight div flex flex-col justify-center bg-default font-extrabold desktop:h-auto h-50 px-16 py-8 desktop:flex-co",
+      "content_type": "image/png",
+      "bytes": 2159,
+      "sha256": "8868a288c4fb315d29dcb868383228f7fb99f320c2ec69e9a5db4b91e4888dd4",
+      "width": 240,
+      "height": 64
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/29cm/reference-1.webp",
+      "source_url": "https://img.29cm.co.kr/cm/202608/11f1a52522a3f73db18d619d0b8ad421.png?width=3840&format=webp",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover 이구패션위크 본편 div relative overflow-hidden aspect-square div div div relative overflow-hidden rounded-6 bg-low",
+      "content_type": "image/webp",
+      "bytes": 89790,
+      "sha256": "885f87d7193ff9401f975a2dd29cdd51b61511655431b6f067162fb2e89cfaea",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/29cm/reference-2.webp",
+      "source_url": "https://img.29cm.co.kr/cm/202608/11f1a525512b9663b18d6905abddcf62.png?width=3840&format=webp",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover 첫구매 페이지 div relative overflow-hidden aspect-square div div div relative overflow-hidden rounded-6 bg-low",
+      "content_type": "image/webp",
+      "bytes": 17348,
+      "sha256": "06d8f3d3d1ae214d8187ba9230c753c618139279fb4253ffa6fa94fbbc90c2ae",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/29cm/reference-3.webp",
+      "source_url": "https://img.29cm.co.kr/cm/202609/11f1a5c1175bf72cb4a9a19198f41916.png?width=3840&format=webp",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover 포근한 가을을 담은 옷 div relative overflow-hidden aspect-square div div div relative overflow-hidden rounded-6 bg-low",
+      "content_type": "image/webp",
+      "bytes": 298332,
+      "sha256": "e4cc5617a08658fc06061e81f9ae8625e3d9b43f9c38ddd10516fcbe412201c2",
+      "width": 1200,
+      "height": 1200
+    }
+  ]
 }

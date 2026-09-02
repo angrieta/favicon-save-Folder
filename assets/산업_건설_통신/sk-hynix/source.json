@@ -4,11 +4,31 @@
   "requested_url": "https://www.skhynix.com/",
   "page_url": "https://www.skhynix.com/",
   "page_title": "SK hynix",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/sk-hynix/favicon.ico",
-  "favicon_source_url": "https://mis-prod-koce-skhynixhomepage-cdn-01-ep.azureedge.net/img/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.skhynix.com/_nuxt/0646ef0.js; reference:ValueError:https://www.skhynix.com/_nuxt/b6c2354.js; reference:ValueError:https://www.skhynix.com/_nuxt/a433501.js; reference:ValueError:https://www.skhynix.com/_nuxt/static/1788230496/state.js; reference:ValueError:https://www.skhynix.com/_nuxt/static/1788230496/payload.js; reference:ValueError:https://www.skhynix.com/_nuxt/static/1788230496/manifest.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/sk-hynix/favicon.ico",
+      "source_url": "https://mis-prod-koce-skhynixhomepage-cdn-01-ep.azureedge.net/img/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 2550,
+      "sha256": "2abaf67fe3591a90ae5ef6e12666da0a1fc2b1acea8c25d9171f506338f171b7",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/sk-hynix/reference-1.webp",
+      "source_url": "https://www.skhynix.com/img/main/system_maintenance20260210.png",
+      "source_tag": "img:page-image",
+      "context": "img div maintenance div pop_body div popWrap div mngPop_99 layer_pop",
+      "content_type": "image/webp",
+      "bytes": 19352,
+      "sha256": "da58e8aee436d6307a3a3d36b5b1bfa34fc6f5fb24b54eb0f2d111083ef92bc9",
+      "width": 380,
+      "height": 570
+    }
+  ]
 }

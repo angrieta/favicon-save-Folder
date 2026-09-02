@@ -4,11 +4,67 @@
   "requested_url": "https://www.lotteglogis.com/",
   "page_url": "https://www.lotteglogis.com/",
   "page_title": "롯데글로벌로지스",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/lotte-logistics/favicon.ico",
-  "favicon_source_url": "https://www.lotteglogis.com/resources/images/common/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.lotteglogis.com/resources/images/main/lottegloballogis_pr.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/lotte-logistics/favicon.ico",
+      "source_url": "https://www.lotteglogis.com/resources/images/common/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "ea420efcf2596618744055b7d92ec3d72b64972084fe74d2f1931dbafa80ab1f",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/lotte-logistics/logo-1.webp",
+      "source_url": "https://www.lotteglogis.com/resources/images/common/img_logo_footer.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img ftLogo 롯데글로벌로지스 div inner div footerInfo02 div footer div wrap main",
+      "content_type": "image/webp",
+      "bytes": 2540,
+      "sha256": "250c68b86b072420db83d718317c86d055f9d71d20e6b9ee6f82867cace185d0",
+      "width": 160,
+      "height": 35
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lotte-logistics/reference-1.webp",
+      "source_url": "https://www.lotteglogis.com/resources/images/main/img_innovation01_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img span img bShadow div div innoSlideMain div innoMainArea",
+      "content_type": "image/webp",
+      "bytes": 134894,
+      "sha256": "0622088b7ce921d7b142b588b36d9e958877351ec805ada8f3d6fb132282121d",
+      "width": 780,
+      "height": 520
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lotte-logistics/reference-2.webp",
+      "source_url": "https://www.lotteglogis.com/resources/images/main/img_innovation02_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img span img bShadow div div innoSlideMain div innoMainArea",
+      "content_type": "image/webp",
+      "bytes": 72850,
+      "sha256": "64ce2d87cf16f511ac3ea6f9f97f732a666c2b5e8ac2cb1b7cbe877cc712ce47",
+      "width": 780,
+      "height": 520
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lotte-logistics/reference-3.webp",
+      "source_url": "https://www.lotteglogis.com/resources/images/main/img_innovation03_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img span img bShadow div div innoSlideMain div innoMainArea",
+      "content_type": "image/webp",
+      "bytes": 48872,
+      "sha256": "dc8cf745422b8c4bcf87da07c10c4e4233335f0ccec375c0586369aa6a63ff5a",
+      "width": 780,
+      "height": 520
+    }
+  ]
 }

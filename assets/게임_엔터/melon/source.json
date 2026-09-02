@@ -4,11 +4,66 @@
   "requested_url": "https://www.melon.com/",
   "page_url": "https://www.melon.com/",
   "page_title": "Melon::음악이 필요한 순간, 멜론",
-  "page_status": "200",
-  "favicon_path": "assets/게임_엔터/melon/favicon.ico",
-  "favicon_source_url": "https://www.melon.com/favicon.ico?2",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/게임_엔터/melon/og.png",
-  "og_source_url": "https://cdnimg.melon.co.kr/resource/image/web/common/logo_melon142x99.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/melon/favicon.ico",
+      "source_url": "https://www.melon.com/favicon.ico?2",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "a687662c9da9a564048ffbc9c9d95e859778c28736deb5ae999b3f55f2df1e79",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/melon/og.png",
+      "source_url": "https://cdnimg.melon.co.kr/resource/image/web/common/logo_melon142x99.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 1794,
+      "sha256": "b9e531e7a3b8da22b30ff443214414072c37b5eae3aff035449d6d9965e064cf",
+      "width": 142,
+      "height": 99
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/melon/reference-1.webp",
+      "source_url": "https://cdnimg.melon.co.kr/cm2/album/images/145/08/770/14508770_20260901112815_500.jpg/melon/quality/80/optimize",
+      "source_tag": "img:page-image",
+      "context": "img span thum dd img dl li",
+      "content_type": "image/webp",
+      "bytes": 77988,
+      "sha256": "d324f63e55887d65d30195f719099dbefd05345db3202c28873acdd940c2f320",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/melon/reference-2.webp",
+      "source_url": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/137/14511137_20260901143548_500.jpg/melon/quality/80/optimize",
+      "source_tag": "img:page-image",
+      "context": "img span thum dd img dl li",
+      "content_type": "image/webp",
+      "bytes": 35648,
+      "sha256": "648798254ff820e660c63adf460634a554d332f7663d48a75b8e80b79b1ebb65",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/melon/reference-3.webp",
+      "source_url": "https://cdnimg.melon.co.kr/cm2/album/images/145/11/290/14511290_20260901151914_500.jpg/melon/quality/80/optimize",
+      "source_tag": "img:page-image",
+      "context": "img span thum dd img dl li",
+      "content_type": "image/webp",
+      "bytes": 68914,
+      "sha256": "7ec6afe218b18d803a55333bd73460bfa5cf0c043cd4fbaa9bf73afcb91a4cf8",
+      "width": 500,
+      "height": 500
+    }
+  ]
 }

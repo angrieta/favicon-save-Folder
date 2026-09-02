@@ -4,11 +4,114 @@
   "requested_url": "https://www.amd.com/ko.html",
   "page_url": "https://www.amd.com/ko.html",
   "page_title": "AMD ׀ together we advance_AI",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/amd/favicon.ico",
-  "favicon_source_url": "https://www.amd.com/content/dam/code/images/favicon/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/테크_플랫폼/amd/og.avif",
-  "og_source_url": "https://www.amd.com/content/dam/amd/en/images/logos/corporate/1913654-homepage-twa-og-image.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/amd/favicon.ico",
+      "source_url": "https://www.amd.com/content/dam/code/images/favicon/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "028434e4bbb42cfd4554998bd89f7e6eb71f32a2cbc8ca618d0470280cd1e28a",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/amd/og.avif",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/logos/corporate/1913654-homepage-twa-og-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 70907,
+      "sha256": "ff86e3e1ae7d17dac3e58fcedd3d40788cabb5cef70d2f819d86bef38ea4f1dc",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/amd/logo-1.svg",
+      "source_url": "https://www.amd.com/content/dam/code/images/header/amd-header-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img d-inline-block align-text-top AMD Logo AMD Logo a navbar-brand div header-logo div container-fluid main-nav nav navbar navbar-expand-xl",
+      "content_type": "image/svg+xml",
+      "bytes": 924,
+      "sha256": "637d36ef706c905033ec2de7023b78918bfd2c4e740ad108e2c34461fa17b820",
+      "width": 139,
+      "height": 33
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/amd/logo-2.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/illustrations/homepage/2026/4956600-homepage-logo-wall-background-enterprise-amd.jpg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div cmp-container__image width div container-a7619a2f8e cmp-container div container-parsys bg-top container-padding-lg aem-GridColumn aem-GridColumn--default--12 div aem-Grid aem-Grid--12 aem-Grid--default--12",
+      "content_type": "image/webp",
+      "bytes": 99976,
+      "sha256": "b3f3ce9b417270d804f1c9040cc12eff38925f9e1f88f8bad5eb5468514d21b7",
+      "width": 1600,
+      "height": 1544
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/amd/banner-1.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/backgrounds/abstract/4607950-aai-homepage-hero.jpg/jcr:content/renditions/4607950-aai-homepage-hero-t.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div image div primary div heroShowcase div heroShowcase text-light eyebrow-teal aem-GridColumn aem-GridColumn--default--12",
+      "content_type": "image/webp",
+      "bytes": 80888,
+      "sha256": "7fe1e9cac7a3dc627f7a6690d69585cb9cd25a6035914354aed751d3803738dd",
+      "width": 1800,
+      "height": 749
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/amd/banner-2.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/backgrounds/abstract/4607950-aai-homepage-hero.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div image div primary div heroShowcase div heroShowcase text-light eyebrow-teal aem-GridColumn aem-GridColumn--default--12",
+      "content_type": "image/webp",
+      "bytes": 84208,
+      "sha256": "83b5d8bc909a26a70ec507ac7869e9b3c0b8ab0c97e546b45c6654ec80955e72",
+      "width": 1800,
+      "height": 749
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/amd/reference-1.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/backgrounds/abstract/4607950-aai-homepage-hero.jpg/jcr:content/renditions/4607950-aai-homepage-hero-m.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div image div primary div heroShowcase div heroShowcase text-light eyebrow-teal aem-GridColumn aem-GridColumn--default--12",
+      "content_type": "image/webp",
+      "bytes": 49530,
+      "sha256": "34e6de3a27c8a7f2822aaff29852bdde07479b6f9ef8af5c7b37a7135587df9a",
+      "width": 800,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/amd/reference-2.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/backgrounds/homepage-carousel/5130200-amd-taalas-teaser.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div cardMedia div card li glide__slide ul glide__slides",
+      "content_type": "image/webp",
+      "bytes": 31650,
+      "sha256": "f53ca96019017445dbb41fd20d0cdac8e11f380b2af34cfbb6815922cf40087a",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/amd/reference-3.webp",
+      "source_url": "https://www.amd.com/content/dam/amd/en/images/partner/5130200-AAI-amd-anthropic-partner-2026.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div cardMedia div card li glide__slide ul glide__slides",
+      "content_type": "image/webp",
+      "bytes": 29896,
+      "sha256": "51acba7690ad4f3d70cfee5fcc099d2daa373ebb1ec9efc03ebb6878d5b59912",
+      "width": 1200,
+      "height": 675
+    }
+  ]
 }

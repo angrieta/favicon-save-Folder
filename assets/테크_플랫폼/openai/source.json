@@ -4,11 +4,91 @@
   "requested_url": "https://openai.com/",
   "page_url": "https://openai.com/",
   "page_title": "OpenAI | Research & Deployment",
-  "page_status": "200",
-  "favicon_path": "assets/테크_플랫폼/openai/favicon.png",
-  "favicon_source_url": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/테크_플랫폼/openai/og.png",
-  "og_source_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/openai/favicon.png",
+      "source_url": "https://openai.com/apple-icon.png?apple-icon.3o0tf8iy4mx7y.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6578,
+      "sha256": "20e104394082ee2d501a2bd118ec36b8ae8bcf75c8ab5dee51c3a361e34f6837",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/openai/og.png",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/6iFRMxhUWyxFR6zpThf2Am/1f826b5095ca8854064989ecec465049/SEO_Banner_2400x1350_04.png?w=1600&h=900&fit=fill",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 377638,
+      "sha256": "1cbc8d8478a437c7eeb4d934b81db5f68c9a1f434ccc88938c8364a7f2e76456",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/openai/banner-1.webp",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=80&fm=webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture relative block size-full object-cover object-center div group relative overflow-hidden rounded-none image-aspect-center aspect-(--image-aspect-ratio) max-h-full max-w-full bg-surface-loading div size-full div relative w-full div rel",
+      "content_type": "image/webp",
+      "bytes": 340056,
+      "sha256": "1bb9ebfaf05b2a8d2f853bc5c237d8e31a58f269cc606e93a5dd67c07db79e86",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/openai/banner-2.webp",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=3840&q=90&fm=webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture relative block size-full object-cover object-center div group relative overflow-hidden rounded-none image-aspect-center aspect-(--image-aspect-ratio) max-h-full max-w-full bg-surface-loading div size-full div relative w-full div rel",
+      "content_type": "image/webp",
+      "bytes": 343196,
+      "sha256": "f43d50cab47cd8e86407f7225d9041d5682049d42bdbb63a4b2ce8e46eb80d30",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/openai/reference-1.webp",
+      "source_url": "https://cdn.openai.com/ctf-cdn/gpt-5-6/5.6%20Blog%20Art%20Card%20-%20Motion%20-%204_5%20(1).png?w=3840&q=70&fm=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture relative block size-full object-cover object-center div group relative overflow-hidden rounded-none image-aspect-center aspect-(--image-aspect-ratio) max-h-full max-w-full bg-surface-loading div size-full div relative w-full div rel",
+      "content_type": "image/webp",
+      "bytes": 259586,
+      "sha256": "07af10dd838295e6cf63c8340b35a4583294e34913a8b2c1c0745e1887cf6334",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/openai/banner-2.webp",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/5uOBQ9CN3HA6yzWugjzzYZ/b5fe018bce4814a145bb9c8e57422db6/gpt-5-6-poster.png?w=2048&q=90&fm=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture relative block size-full object-cover object-center div group relative overflow-hidden rounded-none image-aspect-center aspect-(--image-aspect-ratio) max-h-full max-w-full bg-surface-loading div size-full div relative w-full div rel",
+      "content_type": "image/webp",
+      "bytes": 343196,
+      "sha256": "f43d50cab47cd8e86407f7225d9041d5682049d42bdbb63a4b2ce8e46eb80d30",
+      "width": 1800,
+      "height": 1013,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/openai/reference-3.webp",
+      "source_url": "https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-center GPT-Daybreak > Cover div group relative overflow-hidden rounded-none image-aspect-center aspect-(--image-aspect-ratio) max-h-full max-w-full bg-surface-loading div size-full div relative w-full div relative mx",
+      "content_type": "image/webp",
+      "bytes": 39954,
+      "sha256": "b706d08006b2bd28b04ec622d33dfb1f0c19169388564a827191d5390f76e76d",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
 }

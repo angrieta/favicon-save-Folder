@@ -4,11 +4,30 @@
   "requested_url": "https://www.samsungcard.com/",
   "page_url": "https://www.samsungcard.com/",
   "page_title": "삼성카드",
-  "page_status": "browser",
-  "favicon_path": "assets/금융/samsung-card/favicon.png",
-  "favicon_source_url": "https://static12.samsungcard.com/images/personal/samsungcard-icon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/금융/samsung-card/og.jpg",
-  "og_source_url": "https://static12.samsungcard.com/images/personal/samsung.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/samsung-card/favicon.png",
+      "source_url": "https://static12.samsungcard.com/images/personal/samsungcard-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8345,
+      "sha256": "ee2489464e5424a36d4098358cea5fb2a92cc182adda29fa5263cac35d3631b5",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/samsung-card/og.jpg",
+      "source_url": "https://static12.samsungcard.com/images/personal/samsung.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 47257,
+      "sha256": "fff3ba9a85ba8344b6789b135b3d68988e3b3e3d0d3413f22dd46a32eabcb1c3",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

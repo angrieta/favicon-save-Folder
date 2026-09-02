@@ -4,11 +4,79 @@
   "requested_url": "https://www.hondakorea.co.kr/",
   "page_url": "https://www.hondakorea.co.kr/",
   "page_title": "HONDA",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/honda-korea/favicon.ico",
-  "favicon_source_url": "https://www.hondakorea.co.kr/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/honda-korea/favicon.ico",
+      "source_url": "https://www.hondakorea.co.kr/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "f5e726969156f282bb1bf99804bc4be5968e8b799f6b1c49d48bb125e7c4f860",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/honda-korea/logo-1.png",
+      "source_url": "https://www.hondakorea.co.kr/intro/pc/images/intro-logo1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img HONDA 자동차 div logo div introSect1 div introSectWp div introWrap",
+      "content_type": "image/png",
+      "bytes": 4288,
+      "sha256": "15cfc544ad6785bcea5822380cd10f5d8638e12b0a9669e7a681b791a3787046",
+      "width": 157,
+      "height": 100
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/honda-korea/logo-2.png",
+      "source_url": "https://www.hondakorea.co.kr/intro/pc/images/intro-logo2.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img HONDA 모터사이클 div logo div introSect2 div introSectWp div introWrap",
+      "content_type": "image/png",
+      "bytes": 3200,
+      "sha256": "ebc61639608283bedee9095cee31bca164fb98a6af904ad241e1ba655ffc6bb5",
+      "width": 123,
+      "height": 98
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/honda-korea/banner-1.webp",
+      "source_url": "https://www.hondakorea.co.kr/intro/pc/images/intro-b2.png",
+      "source_tag": "style-background-image",
+      "context": "lay: flex;height: 64.17vh;}\r\n            .introSectWp .logo{transition: all 0.5s;}\r\n            .introSect1{flex:1;position: relative;}\r\n            .introSect2{flex:1;background: url(/intro/pc/images/intro-b2.png) no-repeat 50% 50%;backgro",
+      "content_type": "image/webp",
+      "bytes": 80088,
+      "sha256": "5cc1fd5bfb05eb46a545166fe7d57c44c5b1bfae212880ec11e2c6435d320cea",
+      "width": 1280,
+      "height": 908
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/honda-korea/banner-2.webp",
+      "source_url": "https://www.hondakorea.co.kr/intro/pc/images/intro-b3.png",
+      "source_tag": "style-background-image",
+      "context": ";}\r\n            .introSect2{flex:1;background: url(/intro/pc/images/intro-b2.png) no-repeat 50% 50%;background-size: cover;position: relative}\r\n            .introSect3{background: url(/intro/pc/images/intro-b3.png) no-repeat 50% 50%;backgro",
+      "content_type": "image/webp",
+      "bytes": 8638,
+      "sha256": "d9442e798b07b0d705a05abd3be4eb07ddf5a7aa758cb472aca9418df854f3db",
+      "width": 1800,
+      "height": 296
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/honda-korea/reference-1.webp",
+      "source_url": "https://www.hondakorea.co.kr/intro/pc/images/popup_260430.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div layerpop_0430 layer_popup pop_drag body html [document]",
+      "content_type": "image/webp",
+      "bytes": 44902,
+      "sha256": "b168e5b10fc3eb9645538290a916f03e6b05c712c8e9def4ad3d9fb3affb2ffa",
+      "width": 500,
+      "height": 801
+    }
+  ]
 }

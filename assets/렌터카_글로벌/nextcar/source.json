@@ -4,11 +4,103 @@
   "requested_url": "https://www.nextcarrental.com/",
   "page_url": "https://www.nextcarrental.com/",
   "page_title": "Nextcar - NextCar Rental",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/nextcar/favicon.ico",
-  "favicon_source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11573716_nc-favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.nextcarrental.com/smsite/7/media/imgs/7023_20190829-170709.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/nextcar/favicon.ico",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11573716_nc-favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 1150,
+      "sha256": "42616f3ec39106a243c5a8c50980156f6c4e663dcccc5599c4013fbc5decd44f",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nextcar/logo-1.png",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11625225_frame-2147224644.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img nextcar-logo-white a NextCar Rental Logo div div mobileNav div header",
+      "content_type": "image/png",
+      "bytes": 3268,
+      "sha256": "6ea5236e053836a4f61fa36f8c381b42ab4be601f854a0b2e8661c9af619931d",
+      "width": 300,
+      "height": 60
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nextcar/logo-2.png",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11594785_nextcar-logo-green.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img nextcar-logo-green a desktopLogo div div navBarHeader div navBarList",
+      "content_type": "image/png",
+      "bytes": 5957,
+      "sha256": "504c85cd54509d1571dc3d4153dd703aa53917c585365208b9b82d2c17a8bc37",
+      "width": 200,
+      "height": 40
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nextcar/banner-1.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/10760346_adobestock-167351535.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  review-image reveal background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url(/smsite/7/media/imgs/10760346_adobestock-167351535.jpg)",
+      "content_type": "image/webp",
+      "bytes": 117990,
+      "sha256": "28d1c97d1bd6f7e9d2562abe06c06e3f7ce010d33419646a5161f5c5616bc235",
+      "width": 1280,
+      "height": 853
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nextcar/banner-2.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11477117_map-bg-1-.png",
+      "source_tag": "inline-background-image",
+      "context": "div  location-image reveal background-image: url(/smsite/7/media/imgs/11477117_map-bg-1-.png);",
+      "content_type": "image/webp",
+      "bytes": 39018,
+      "sha256": "0a35c2c158b451b85be2ed3ad08e4666fc375fb0eb5fa7d43cd1bd8e7fd75d88",
+      "width": 1280,
+      "height": 484
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-1.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11565204_sign-in-amico-4.png",
+      "source_tag": "img:page-image",
+      "context": "img loginClipart div loginClipart div loginSection div homeNewLoginBox header",
+      "content_type": "image/webp",
+      "bytes": 17584,
+      "sha256": "24479fc60e7fcca646689a804eb1c51a2e1ebb1009c57b6d92fa19246e14f55c",
+      "width": 382,
+      "height": 382
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-2.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11476407_adobestock-1888026425.jpg",
+      "source_tag": "img:page-image",
+      "context": "img bannerImg li bannerli ul bxslider div bx-viewport div bx-wrapper",
+      "content_type": "image/webp",
+      "bytes": 58996,
+      "sha256": "b5c5c3edc7e2fc370adf2eefc9340d12dcd7c6ccd7ae6f92ac0616a9233066b4",
+      "width": 1280,
+      "height": 612
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-3.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11476520_adobestock-690054048.jpg",
+      "source_tag": "img:page-image",
+      "context": "img bannerImg li bannerli ul bxslider div bx-viewport div bx-wrapper",
+      "content_type": "image/webp",
+      "bytes": 76302,
+      "sha256": "71855d959f5ff2d430b9ecdc66ca5b5352a35482418a373b1907e910d61234fb",
+      "width": 1280,
+      "height": 717
+    }
+  ]
 }

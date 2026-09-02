@@ -4,11 +4,114 @@
   "requested_url": "https://www.hankooktire.com/kr/ko/home.html",
   "page_url": "https://www.hankooktire.com/kr/ko/home.html",
   "page_title": "한국타이어 | EV, 승용차, SUV, 트럭/버스 타이어",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/hankook-tire/favicon.png",
-  "favicon_source_url": "https://www.hankooktire.com/etc.clientlibs/hankooktire/clientlibs/clientlib-base/resources/favicon/apple-touch-icon.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/자동차/hankook-tire/og.jpg",
-  "og_source_url": "https://www.hankooktire.com/content/dam/hankooktire/global/link_thumb_black.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_hkt_bmw_brand_film_2025_12_390_750_251212.mp4; banner:ValueError:https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_hkt_bmw_brand_film_2025_12_1024_1000_251212.mp4; banner:ValueError:https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_hkt_BMW_brand_film_2025_12_1920_970_251212.mp4; reference:ValueError:https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_hkt_bmw_brand_film_2025_12_390_750_251212.mp4; reference:ValueError:https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_hkt_bmw_brand_film_2025_12_1024_1000_251212.mp4; reference:ValueError:https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_hkt_BMW_brand_film_2025_12_1920_970_251212.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/hankook-tire/favicon.png",
+      "source_url": "https://www.hankooktire.com/etc.clientlibs/hankooktire/clientlibs/clientlib-base/resources/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2891,
+      "sha256": "f4ef3d78c38c0a89c3be1143f7d3c36fa5d8a169acdc5d12c99fa3cf831cd055",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/hankook-tire/og.jpg",
+      "source_url": "https://www.hankooktire.com/content/dam/hankooktire/global/link_thumb_black.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 76774,
+      "sha256": "24b16175dc189d1df204476dea21395f12977261488d89b1e661bae4dd609c55",
+      "width": 3200,
+      "height": 1600
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/hankook-tire/logo-1.svg",
+      "source_url": "https://asset.hankooktire.com/content/dam/hankooktire/local/img/main/main-key-visual/pc/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo Hankook Tire a home header header header--local div header body",
+      "content_type": "image/svg+xml",
+      "bytes": 8180,
+      "sha256": "71f0dd38e96d7a92ee695778aa8cf84db112685261654cc8b25f91426dfd3092",
+      "width": 144,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/hankook-tire/logo-2.svg",
+      "source_url": "https://asset.hankooktire.com/content/dam/hankooktire/local/svg/logo-white.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Hankook Tire a side__logo div cmd div content nav sidenav",
+      "content_type": "image/svg+xml",
+      "bytes": 8213,
+      "sha256": "d0cc88065820edf6b515e6f939ae62de058cab5fe8b3b6b3b50ed8af0c58f39d",
+      "width": 144,
+      "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/hankook-tire/banner-1.webp",
+      "source_url": "https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_hkt_BMW_brand_film_2025_12_1920_970_251212.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture poster li swiper-slide ul swiper-wrapper div lmk__swiper swiper-container section lmk js-local-main-kv",
+      "content_type": "image/webp",
+      "bytes": 35322,
+      "sha256": "2715c529bea046f19eb40b395cc69a04d9dba73ced97bc2016cf4cb000f1252b",
+      "width": 1800,
+      "height": 909
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/hankook-tire/banner-2.webp",
+      "source_url": "https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_VentusxRST_19LC_VentusxRST_1920_970_23103020_970_231030.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture poster li swiper-slide ul swiper-wrapper div lmk__swiper swiper-container section lmk js-local-main-kv",
+      "content_type": "image/webp",
+      "bytes": 188006,
+      "sha256": "6a6bd1f7fdb29d1bb44c20c4755f01ee51749d1fd916f365bdd7699b412cf118",
+      "width": 1800,
+      "height": 909
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hankook-tire/reference-1.webp",
+      "source_url": "https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_hkt_bmw_brand_film_2025_12_390_750_251212.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture poster li swiper-slide ul swiper-wrapper div lmk__swiper swiper-container section lmk js-local-main-kv",
+      "content_type": "image/webp",
+      "bytes": 9256,
+      "sha256": "455a481494b77b408a63c654e3f30d3c20d60f5f3ddf36c77614b5d396f8e8dc",
+      "width": 390,
+      "height": 750
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hankook-tire/reference-2.webp",
+      "source_url": "https://asset.hankooktire.com/content/dam/hankooktire/global/video/main/LC_hkt_bmw_brand_film_2025_12_1024_1000_251212.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture poster li swiper-slide ul swiper-wrapper div lmk__swiper swiper-container section lmk js-local-main-kv",
+      "content_type": "image/webp",
+      "bytes": 26426,
+      "sha256": "b0b4f664d329493f9554da94ad75412046f6a4cb822492d41e84f0ab74d4c938",
+      "width": 1024,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/hankook-tire/reference-3.webp",
+      "source_url": "https://www.hankooktire.com/content/dam/hankooktire/local/img/main/pop-size-info.png",
+      "source_tag": "img:page-image",
+      "context": "img div info_img div pop_con div pop_inner div tire_size_info popup_base",
+      "content_type": "image/webp",
+      "bytes": 44100,
+      "sha256": "f4609926e14e3a09386eeefedd7819dd4de8784441f8bc1accf4c82a9e3a02a1",
+      "width": 960,
+      "height": 294
+    }
+  ]
 }

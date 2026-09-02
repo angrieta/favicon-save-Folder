@@ -4,11 +4,30 @@
   "requested_url": "https://www.lexus.co.kr/",
   "page_url": "https://www.lexus.co.kr/",
   "page_title": "Lexus Korea | Experience Amazing",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/lexus-korea/favicon.png",
-  "favicon_source_url": "https://www.lexus.co.kr/favicon/apple-icon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/자동차/lexus-korea/og.jpg",
-  "og_source_url": "https://www.lexus.co.kr/share-thumb-big.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/lexus-korea/favicon.png",
+      "source_url": "https://www.lexus.co.kr/favicon/apple-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6655,
+      "sha256": "fff03a8daaa8af30ea3395b626c9cd0ae857b8f1a01abb402550dbd072df4185",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/lexus-korea/og.jpg",
+      "source_url": "https://www.lexus.co.kr/share-thumb-big.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 59996,
+      "sha256": "e52c74f4662dd740ae06777712797fa42faa3ec0ffcc9742cbf7488a42958f52",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

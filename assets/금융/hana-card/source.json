@@ -4,11 +4,19 @@
   "requested_url": "https://www.hanacard.co.kr/",
   "page_url": "https://www.hanacard.co.kr/",
   "page_title": "하나카드",
-  "page_status": "200",
-  "favicon_path": "assets/금융/hana-card/favicon.ico",
-  "favicon_source_url": "https://www.hanacard.co.kr/img/favicon2015.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/hana-card/favicon.ico",
+      "source_url": "https://www.hanacard.co.kr/img/favicon2015.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "4f6caaa1f18ee2cc0363928f47dccc0384c67f2c60f7e1271c1574b4447b1642",
+      "width": 16,
+      "height": 16
+    }
+  ]
 }

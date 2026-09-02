@@ -4,11 +4,114 @@
   "requested_url": "https://www.bydauto.kr/",
   "page_url": "https://www.bydauto.kr/index",
   "page_title": "BYD Korea",
-  "page_status": "200",
-  "favicon_path": "assets/자동차/byd-korea/favicon.ico",
-  "favicon_source_url": "https://www.bydauto.kr/static/images/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/자동차/byd-korea/og.jpg",
-  "og_source_url": "https://www.bydauto.kr/static/images/og_img.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/byd-korea/favicon.ico",
+      "source_url": "https://www.bydauto.kr/static/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "ea24f73ec813d244a01d149f12a45f4d3dffc524f8f4baea340db3b8b80751dd",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/byd-korea/og.jpg",
+      "source_url": "https://www.bydauto.kr/static/images/og_img.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 32315,
+      "sha256": "24fd65094801b6f6b86c98bf66793799036d7dba388409aa32cd87c0c1e92360",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/byd-korea/logo-1.webp",
+      "source_url": "https://www.bydauto.kr/static/images/main/brand01.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div img div swiper-slide div swiper-wrapper div swiper brand-swiper",
+      "content_type": "image/webp",
+      "bytes": 134554,
+      "sha256": "178b80ad4ccba57ffae4dba7522f764162219ed58ec3741e9f8249d3d0db245b",
+      "width": 1137,
+      "height": 1094
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/byd-korea/logo-2.webp",
+      "source_url": "https://www.bydauto.kr/static/images/main/brand02.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div img div swiper-slide div swiper-wrapper div swiper brand-swiper",
+      "content_type": "image/webp",
+      "bytes": 143758,
+      "sha256": "bb28335ac666f50bded91201ee7eb2266931f0b94eac6f8e7061f997dc4531d2",
+      "width": 1152,
+      "height": 1094
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/byd-korea/banner-1.webp",
+      "source_url": "https://www.bydauto.kr/static/images/main/kv05.webp",
+      "source_tag": "inline-background-image",
+      "context": "p  bg web background-image: url('/static/images/main/kv05.webp')",
+      "content_type": "image/webp",
+      "bytes": 112578,
+      "sha256": "22f1f53b7f0cb5741fc6fee8eb9f138411bbce5c79ed2306c22670e1d3782f7e",
+      "width": 1800,
+      "height": 855
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/byd-korea/banner-2.webp",
+      "source_url": "https://www.bydauto.kr/static/images/main/kv03.webp",
+      "source_tag": "inline-background-image",
+      "context": "p  bg web background-image: url('/static/images/main/kv03.webp')",
+      "content_type": "image/webp",
+      "bytes": 75868,
+      "sha256": "6712fa4e2f7af5d282b2f45817e2c137be31b6ab4fce041805ee3ae4aa0a0dcd",
+      "width": 1800,
+      "height": 855
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/byd-korea/reference-1.webp",
+      "source_url": "https://www.bydauto.kr/static/images/main/model_sealion6.png",
+      "source_tag": "img:page-image",
+      "context": "img p img div img_wrap div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 25904,
+      "sha256": "b3d65374757902d0cc743bfb00ef6f6da55675cf1728e227359b95d38d751c7f",
+      "width": 702,
+      "height": 375
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/byd-korea/reference-2.webp",
+      "source_url": "https://www.bydauto.kr/static/images/main/model_sealion7.png",
+      "source_tag": "img:page-image",
+      "context": "img p img div img_wrap div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 24376,
+      "sha256": "20580c487acd183f6452f7ef1c4b6fefa3ae15a1ba96d4f4dad5573b07307b0c",
+      "width": 702,
+      "height": 375
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/byd-korea/reference-3.webp",
+      "source_url": "https://www.bydauto.kr/static/images/main/model_dolphin.png",
+      "source_tag": "img:page-image",
+      "context": "img p img div img_wrap div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 20026,
+      "sha256": "995b6178e79deeb46e8b04872edc73941817c570cfe9847d47255309070deb5a",
+      "width": 702,
+      "height": 375
+    }
+  ]
 }

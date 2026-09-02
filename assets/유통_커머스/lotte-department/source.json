@@ -4,11 +4,102 @@
   "requested_url": "https://www.lotteshopping.com/",
   "page_url": "https://www.lotteshopping.com/main",
   "page_title": "롯데백화점",
-  "page_status": "200",
-  "favicon_path": "assets/유통_커머스/lotte-department/favicon.png",
-  "favicon_source_url": "https://www.lotteshopping.com/resources/img/favicon/favicon.png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/유통_커머스/lotte-department/og.png",
-  "og_source_url": "https://minfo.lotteshopping.com/mobmweb/resources/layout/images/common/metatag_img@2x.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/lotte-department/favicon.png",
+      "source_url": "https://www.lotteshopping.com/resources/img/favicon/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 9955,
+      "sha256": "56a6a6f65cf9441b87045a3ec2e6764ac8eee9e43432f29864ee23e7fcef8d5e",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/lotte-department/og.png",
+      "source_url": "https://minfo.lotteshopping.com/mobmweb/resources/layout/images/common/metatag_img@2x.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 229693,
+      "sha256": "e8595ead671299d9e8cad08453a2c94cb72003f61fe55a127483b0fad7cf755e",
+      "width": 1600,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/lotte-department/logo-1.svg",
+      "source_url": "https://www.lotteshopping.com/resources/img/icon/main/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo a h1 home div header__wrap div header__container container",
+      "content_type": "image/svg+xml",
+      "bytes": 11690,
+      "sha256": "60d27a9502e1fb833cf5a5cfc8c806dd3f24a092a9e5278f521a449338a8b289",
+      "width": 200,
+      "height": 40
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/lotte-department/logo-2.svg",
+      "source_url": "https://www.lotteshopping.com/resources/img/icon/download/logo-ios.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img ios logo p __title div download-item div download-list div __popup-content",
+      "content_type": "image/svg+xml",
+      "bytes": 19189,
+      "sha256": "856ec1efde791f27fe492cad8f95ae34279f7ad81a9ae28c22546c4f899441ec",
+      "width": 30,
+      "height": 30
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/lotte-department/banner-1.webp",
+      "source_url": "https://minfo.lotteshopping.com/content/APP/202608/CNT00000000000018096/20260820100539210_3.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img active 8.21 MOVE UP div img-wrap div frame div slide-content div kv-content",
+      "content_type": "image/webp",
+      "bytes": 314772,
+      "sha256": "ac6ac02b78627875aa4af91a05358cf69a6e14959b2fec62ddd31c02caef1b6b",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/lotte-department/reference-1.webp",
+      "source_url": "https://minfo.lotteshopping.com/content/news/202608/SNM00000000000554251/20260820164441278_8.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img [F/W 신상품]<br>LOTTE Fashion Week a visual-wrap div swiper-slide news__item div swiper-wrapper div news__swiper",
+      "content_type": "image/webp",
+      "bytes": 46946,
+      "sha256": "8de3a0a888160fa6a4c96a0d994c73874844b122267971b2a1d56ba4a9a2b79a",
+      "width": 750,
+      "height": 750
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/lotte-department/reference-2.webp",
+      "source_url": "https://minfo.lotteshopping.com/content/news/202608/SNM00000000000555120/20260825164422855_2.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img [2027 S/S]<br>SEOUL Fashion Week a visual-wrap div swiper-slide news__item div swiper-wrapper div news__swiper",
+      "content_type": "image/webp",
+      "bytes": 30498,
+      "sha256": "681b649a58e3f6fcbc94d15a074dfe03cf8d18f9205e600846e8f20de65bcc7e",
+      "width": 750,
+      "height": 750
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/lotte-department/reference-3.webp",
+      "source_url": "https://minfo.lotteshopping.com/content/news/202608/SNM00000000000555075/20260826175240851_0.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img [2026 스타일런]<br>with 자라 애슬레틱즈 a visual-wrap div swiper-slide news__item news__item--r div swiper-wrapper div news__swiper",
+      "content_type": "image/webp",
+      "bytes": 142768,
+      "sha256": "8c29e799f13390a86147a013846f282be3fe42ac2efe08ba704cd11bb18df1b8",
+      "width": 750,
+      "height": 750
+    }
+  ]
 }

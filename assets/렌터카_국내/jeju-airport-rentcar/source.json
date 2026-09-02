@@ -4,11 +4,78 @@
   "requested_url": "https://www.jarrent.com/",
   "page_url": "https://www.jarrent.com/",
   "page_title": "제주공항렌트카 - 제주도렌트카",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/jeju-airport-rentcar/favicon.ico",
-  "favicon_source_url": "https://jarrent.com/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/렌터카_국내/jeju-airport-rentcar/og.png",
-  "og_source_url": "https://jarrent.com/img/jar_og_image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/jeju-airport-rentcar/favicon.ico",
+      "source_url": "https://jarrent.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "9ae78a9e2043fff0f4c4f30d968dde1fdeefc0b2639774e3b964a6b233980e57",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jeju-airport-rentcar/og.png",
+      "source_url": "https://jarrent.com/img/jar_og_image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 604907,
+      "sha256": "873eee591a216a6840d09d6df0a7ef9b041fde2cc4a95f1fd1a18d1b2f0f0677",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-airport-rentcar/banner-1.webp",
+      "source_url": "https://www.jarrent.com/images/5580.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img a div swiper-slide div swiper-wrapper div top-banner-slide-0 swiper-container",
+      "content_type": "image/webp",
+      "bytes": 61226,
+      "sha256": "4ae7a1d8f001a83399fbbe383c602c949088d961aa7b4328f8e6396d28322d79",
+      "width": 1559,
+      "height": 249
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-airport-rentcar/banner-2.webp",
+      "source_url": "https://www.jarrent.com/images/5581.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img a div swiper-slide div swiper-wrapper div top-banner-slide-0 swiper-container",
+      "content_type": "image/webp",
+      "bytes": 37958,
+      "sha256": "cf640b7040e62dfb6b427b07ca20aeaacdd711638801dd0fe44b00e92909d83e",
+      "width": 1559,
+      "height": 249
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-airport-rentcar/reference-1.webp",
+      "source_url": "https://www.jarrent.com/images/5973.jpeg",
+      "source_tag": "inline-background-image",
+      "context": "div  swiper-slide background-image:url('https://www.jarrent.com/images/5973.jpeg')",
+      "content_type": "image/webp",
+      "bytes": 266326,
+      "sha256": "e0df01d2b13d9ee5808b4cd68a50ff68d2aa81743b930d465dd944a26de8c214",
+      "width": 1800,
+      "height": 609
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-airport-rentcar/reference-2.webp",
+      "source_url": "https://www.jarrent.com/images/5975.jpeg",
+      "source_tag": "inline-background-image",
+      "context": "div  swiper-slide background-image:url('https://www.jarrent.com/images/5975.jpeg')",
+      "content_type": "image/webp",
+      "bytes": 67952,
+      "sha256": "35644dd99c65d7f4676f44a18ed7d20949bc1c7b6e137ab52278cb9c71c62947",
+      "width": 1800,
+      "height": 551
+    }
+  ]
 }

@@ -4,11 +4,79 @@
   "requested_url": "https://apr-in.com/",
   "page_url": "https://apr-in.com/",
   "page_title": "에이피알",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/apr/favicon.ico",
-  "favicon_source_url": "https://apr-in.com/images/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://apr-in.aprd.io/beauty_solution_pc.mp4; banner:ValueError:https://apr-in.aprd.io/beauty_solution_mo.mp4; banner:ValueError:https://design-lab-resources.aprd.io/asset/89865735-30f2-4ed0-816c-380575e8738a.mp4; banner:ValueError:https://design-lab-resources.aprd.io/asset/97b83c01-03b6-4541-af83-b5721c42ee56.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/apr/favicon.ico",
+      "source_url": "https://apr-in.com/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 36542,
+      "sha256": "efb31852e1b43e81207515ffb7c879f3e3223a8aacdb31b1bee2e0ffd99d44c3",
+      "width": 92,
+      "height": 96
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/apr/logo-1.png",
+      "source_url": "https://apr-in.com/img/mo_nav_apec_logo.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img APEC 2025 a li m-list-item ul m-list_gnb nav side-list",
+      "content_type": "image/png",
+      "bytes": 26842,
+      "sha256": "bf0a11aa6a17820fce4f59dd12a73ab64e6c1246d0b7df9770769fce495128e0",
+      "width": 744,
+      "height": 84
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/apr/logo-2.png",
+      "source_url": "https://apr-in.com/img/bottom_logo1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div swiper-slide logo1 div swiper-wrapper div swiper-container swiper-container-free-mode section sc_logo_roll",
+      "content_type": "image/png",
+      "bytes": 7784,
+      "sha256": "2b98831d0b3b726311e83b8a096dd55f1c298e16c3f90ff518920c9c5ada4f94",
+      "width": 624,
+      "height": 120
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/apr/reference-1.webp",
+      "source_url": "https://apr-in.com/img/sol_type04.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div sol_type_img cos div sol_type_box div sol_type_list section sc_solution_type",
+      "content_type": "image/webp",
+      "bytes": 39142,
+      "sha256": "d5091e1fd9ffa48ac7e139e78706f9bf585f45f2788143422a3c06f5f55164dd",
+      "width": 1114,
+      "height": 1300
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/apr/reference-2.webp",
+      "source_url": "https://apr-in.com/img/sol_type05.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div sol_type_img ele div sol_type_box div sol_type_list section sc_solution_type",
+      "content_type": "image/webp",
+      "bytes": 63924,
+      "sha256": "4cb6a658f784890e0346feb0833f8850ea178641a61a1174352a4a1d69abb8d4",
+      "width": 1114,
+      "height": 1300
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/apr/reference-3.webp",
+      "source_url": "https://apr-in.com/img/healthcare.png",
+      "source_tag": "img:page-image",
+      "context": "img div sol_type_img devi div sol_type_box div sol_type_list section sc_solution_type",
+      "content_type": "image/webp",
+      "bytes": 33750,
+      "sha256": "447316e337fa3ca245859452640483e59db65acd87dbc05dc62637510a72d8ae",
+      "width": 1114,
+      "height": 1300
+    }
+  ]
 }

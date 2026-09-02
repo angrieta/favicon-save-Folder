@@ -4,11 +4,78 @@
   "requested_url": "https://www.kbanknow.com/",
   "page_url": "https://www.kbanknow.com/web/web-home/home/main",
   "page_title": "케이뱅크",
-  "page_status": "200",
-  "favicon_path": "assets/금융/k-bank/favicon.png",
-  "favicon_source_url": "https://cdnisb.kbanknow.com/resource/images/web/favicon/favicon_VI_152px.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/금융/k-bank/og.png",
-  "og_source_url": "https://cdnisb.kbanknow.com/resource/images/web/og/og-image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/k-bank/favicon.png",
+      "source_url": "https://cdnisb.kbanknow.com/resource/images/web/favicon/favicon_VI_152px.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2731,
+      "sha256": "a2f7d3bef96b31317cb54a18c2e3fa2e05516bf1846fb78820972baf08f12837",
+      "width": 153,
+      "height": 153
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/k-bank/og.png",
+      "source_url": "https://cdnisb.kbanknow.com/resource/images/web/og/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 371044,
+      "sha256": "db2373ffd25bfeaf2df7b488672359a3fa005b6d56f47c71a98624fdb5c9fec9",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/k-bank/logo-1.svg",
+      "source_url": "https://www.kbanknow.com/resource/img/favicon.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 654,
+      "sha256": "5863389a4fcccc88835af0d5f4533db6d95ad8cac10dad6ae33c4c8da63aeee5",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/k-bank/reference-1.webp",
+      "source_url": "https://cdnisb.kbanknow.com/resource/images/web/web-home/img_section1_main-card.webp",
+      "source_tag": "img:page-image",
+      "context": "img css-17y4ox9 div fake-blur-layer div swiper-slide swiper-slide-next 1 / 3 div swiper-wrapper-95be10cfd342e108f9 swiper-wrapper div swiper swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress css-11l7pn4",
+      "content_type": "image/webp",
+      "bytes": 192210,
+      "sha256": "278ebf40458615229900da24523fd3bee8f6eb154a7f2e1a31ab8a7194db6dbb",
+      "width": 1800,
+      "height": 1341
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/k-bank/reference-2.webp",
+      "source_url": "https://cdnisb.kbanknow.com/resource/images/web/web-home/img_section1_main-card2.webp",
+      "source_tag": "img:page-image",
+      "context": "img css-17y4ox9 div fake-blur-layer div swiper-slide swiper-slide-prev 2 / 3 div swiper-wrapper-95be10cfd342e108f9 swiper-wrapper div swiper swiper-fade swiper-initialized swiper-horizontal swiper-watch-progress css-11l7pn4",
+      "content_type": "image/webp",
+      "bytes": 82390,
+      "sha256": "472aebfc7ddf58ee0fd018ea7b6d2d1f0eb48cde7fbe21a1b6baaeb4faecc6cb",
+      "width": 1800,
+      "height": 1341
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/k-bank/reference-3.webp",
+      "source_url": "https://www.kbanknow.com/resource/img/bim/adm_kbank_og_default_2025.png",
+      "source_tag": "json-ld.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 13532,
+      "sha256": "928803f9eb1e3f8e5a1cfcc53208ba24f893e3f45e3ae64fd6ca45b3f235bc09",
+      "width": 800,
+      "height": 400
+    }
+  ]
 }

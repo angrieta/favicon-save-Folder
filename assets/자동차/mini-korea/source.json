@@ -4,11 +4,19 @@
   "requested_url": "https://www.mini.co.kr/",
   "page_url": "https://www.mini.co.kr/ko_KR/home.html",
   "page_title": "MINI Korea | 완전히 새로워진 뉴 MINI 패밀리",
-  "page_status": "browser",
-  "favicon_path": "assets/자동차/mini-korea/favicon.ico",
-  "favicon_source_url": "https://www.mini.co.kr/favicon.ico",
-  "favicon_source_tag": "fallback:/favicon.ico",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "page-error",
+  "collection_error": "ReadTimeout: HTTPSConnectionPool(host='www.mini.co.kr', port=443): Read timed out. (read timeout=35)",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/mini-korea/favicon.ico",
+      "source_url": "https://www.mini.co.kr/favicon.ico",
+      "source_tag": "fallback:/favicon.ico",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 7406,
+      "sha256": "ebb0908125c0782eeebbed2b75da97fbaf9b734e72cc9ea8a6eacdbd486cad3c",
+      "width": 48,
+      "height": 48
+    }
+  ]
 }

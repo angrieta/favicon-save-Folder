@@ -4,11 +4,90 @@
   "requested_url": "https://travel.interpark.com/",
   "page_url": "https://nol.interpark.com:443/tour",
   "page_title": "NOL 인터파크투어 | 항공, 해외숙소, 패키지, 액티비티",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/interpark-tour/favicon.ico",
-  "favicon_source_url": "https://openimage.interpark.com/UI/favicon/tour_favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/항공_여행/interpark-tour/og.png",
-  "og_source_url": "https://ticketimage.interpark.com/TicketImage/og/og_interparktour.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://tour-web-assets.interparkcdn.net/applications/home/149ebf/_next/static/chunks/webpack-8180de47cf27f17c.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/interpark-tour/favicon.ico",
+      "source_url": "https://openimage.interpark.com/UI/favicon/tour_favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 3446,
+      "sha256": "6ca8a68e214714f12ce57267154cf4f94ebf9a0b79ee31d8f1e2c0864f1769bd",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/interpark-tour/og.png",
+      "source_url": "https://ticketimage.interpark.com/TicketImage/og/og_interparktour.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 12837,
+      "sha256": "3ec47af51d60fb65bf4cdf3214950a1413140a7991ebb6341a6c69ffca3233fd",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/interpark-tour/logo-1.svg",
+      "source_url": "https://tour-web-assets.interparkcdn.net/assets/int-frontend/nol-header/nol-interpark-logo-multiline.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img _brand-logo_xtu0a_10 NOL 인터파크 a _link-root_xtu0a_1 header _mobile-header-root_1fkmm_3 _mobile-header-root_1qvup_5 div _sticky-container_1js6o_11 body",
+      "content_type": "image/svg+xml",
+      "bytes": 4979,
+      "sha256": "284cb1c162446259bf286dc22e00aa7f6fc160519890f281c97aeaf3b1553981",
+      "width": 64,
+      "height": 28
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/interpark-tour/logo-2.svg",
+      "source_url": "https://tour-web-assets.interparkcdn.net/assets/int-frontend/nol-footer/partner-nol.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img NOL a li _link-item_1jjmm_16 ul _link-list_1jjmm_10 nav _family-site-root_1jjmm_1",
+      "content_type": "image/svg+xml",
+      "bytes": 1512,
+      "sha256": "98ad24c43975403d9bf9ac96e13b036d12f4243dccaec9f75ab3853c70928256",
+      "width": 27,
+      "height": 11
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/interpark-tour/banner-1.webp",
+      "source_url": "https://common-module.interparkcdn.net/images/header/top_banner.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img _top-banner-image_whnml_22 NOL 인터파크가 NOL로 통합됩니다. 9월 8일부터 NOL에서 만나요 a _top-banner-link_whnml_13 div _top-banner-root_whnml_1 div _sticky-container_1js6o_11 body",
+      "content_type": "image/webp",
+      "bytes": 12590,
+      "sha256": "a7fb1ddeca2958f7ba79883e9c3d4aa6a4ba3df29fb504eec99e6c786b1278f1",
+      "width": 1120,
+      "height": 312
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/interpark-tour/reference-1.webp",
+      "source_url": "https://media.interparkcdn.net/interpark-tour/image/upload/v1740009841/fit/city/23/3ca0774c0f4547c0.jpg",
+      "source_tag": "img:page-image",
+      "context": "img sc-3e06d5fa-3 kQkrYy 오사카 div sc-3e06d5fa-2 fvtEWO a sc-3e06d5fa-1 fwXHyF li sc-3e06d5fa-0 esBTYA ul sc-f4357923-0 kwxHvM",
+      "content_type": "image/webp",
+      "bytes": 175228,
+      "sha256": "8f2f9e1a0c4f34352986f672492688c95f47b11aa069b9a81bc6f8e707de53e2",
+      "width": 1000,
+      "height": 666
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/interpark-tour/reference-2.webp",
+      "source_url": "https://media.interparkcdn.net/interpark-tour/image/upload/v1740011978/fit/city/189/7feb82891b044e63.jpg",
+      "source_tag": "img:page-image",
+      "context": "img sc-3e06d5fa-3 kQkrYy 후쿠오카 div sc-3e06d5fa-2 fvtEWO a sc-3e06d5fa-1 fwXHyF li sc-3e06d5fa-0 esBTYA ul sc-f4357923-0 kwxHvM",
+      "content_type": "image/webp",
+      "bytes": 107034,
+      "sha256": "a94a0be4524090f8d63dedef074b21742641c44617fa40d9c3675852f179aa24",
+      "width": 1000,
+      "height": 667
+    }
+  ]
 }

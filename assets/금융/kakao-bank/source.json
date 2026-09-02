@@ -4,11 +4,90 @@
   "requested_url": "https://www.kakaobank.com/",
   "page_url": "https://www.kakaobank.com/",
   "page_title": "카카오뱅크",
-  "page_status": "200",
-  "favicon_path": "assets/금융/kakao-bank/favicon.png",
-  "favicon_source_url": "https://www.kakaobank.com/view/images/favicon/favicon-bl.png",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/금융/kakao-bank/og.png",
-  "og_source_url": "https://www.kakaobank.com/view/images/kkb_og_img.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://fde-kkb-prod-krc-stkkbprodkrcblob-g4h6eybzded7e9ha.a01.azurefd.net/prod/video/KO/main-visual-video_pc.mp4; banner:ValueError:https://www.kakaobank.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/kakao-bank/favicon.png",
+      "source_url": "https://www.kakaobank.com/view/images/favicon/favicon-bl.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 439,
+      "sha256": "9097b904f443547c8c1cf53fd344bd280c24150e38479b8478c73d45ba42bceb",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/kakao-bank/og.png",
+      "source_url": "https://www.kakaobank.com/view/images/kkb_og_img.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 13913,
+      "sha256": "249a22e72c55c0daabb2ab7b1d339fb8ea19ad32c5c71b60b38d22107e487d38",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/kakao-bank/logo-1.png",
+      "source_url": "https://www.kakaobank.com/view/images/ic/ic-webtrust-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img webTrust 로고(새창) figure a div logo-bx div logo-area flex-cont va-center",
+      "content_type": "image/png",
+      "bytes": 12264,
+      "sha256": "a44e4b313e0aea7ce3da4bbeb7c0222c67100f2d9173b2def1858acb9a96a883",
+      "width": 90,
+      "height": 90
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/kakao-bank/logo-2.png",
+      "source_url": "https://www.kakaobank.com/view/images/ic/ic-wa-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img WEB 접근성 로고(새창) figure a div logo-bx div logo-area flex-cont va-center",
+      "content_type": "image/png",
+      "bytes": 17324,
+      "sha256": "9d56d57c51b7bbe518943163139969ce3f38f76c611b83744dc5e8b5da14add6",
+      "width": 128,
+      "height": 92
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/kakao-bank/reference-1.webp",
+      "source_url": "https://www.kakaobank.com/view/images/main/sec04_slide-img01.jpg",
+      "source_tag": "inline-background-image",
+      "context": "img   background:url(/view/images/main/sec04_slide-img01.jpg) no-repeat center/cover;",
+      "content_type": "image/webp",
+      "bytes": 8738,
+      "sha256": "f180507b21b82c2c621861bff312137b20bf843cbb7ba560b7a99c10ede20475",
+      "width": 932,
+      "height": 736
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/kakao-bank/reference-2.webp",
+      "source_url": "https://www.kakaobank.com/view/images/main/sec04_slide-img02.jpg",
+      "source_tag": "inline-background-image",
+      "context": "img   background:url(/view/images/main/sec04_slide-img02.jpg) no-repeat center/cover;",
+      "content_type": "image/webp",
+      "bytes": 35598,
+      "sha256": "c8d49b3c40d2920d16d9d22504bb7fb57087d5ff2c34114552dc5017d0c7b3d3",
+      "width": 932,
+      "height": 736
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/kakao-bank/reference-3.webp",
+      "source_url": "https://www.kakaobank.com/view/images/main/sec04_slide-img03.jpg",
+      "source_tag": "inline-background-image",
+      "context": "img   background:url(/view/images/main/sec04_slide-img03.jpg) no-repeat center/cover;",
+      "content_type": "image/webp",
+      "bytes": 173624,
+      "sha256": "69aa18601039f992cc80507e26ba5ea58b3c38b3bf55c9d95cbf0bddecca5a52",
+      "width": 932,
+      "height": 736
+    }
+  ]
 }

@@ -4,11 +4,114 @@
   "requested_url": "https://www.skdirect.co.kr/",
   "page_url": "https://www.skdirect.co.kr/",
   "page_title": "SK렌터카",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/sk-rent-a-car/favicon.png",
-  "favicon_source_url": "https://www.skdirect.co.kr/images/common/ico/favicon-192.png",
-  "favicon_source_tag": "apple-touch-icon-precomposed",
-  "og_path": "assets/렌터카_국내/sk-rent-a-car/og.png",
-  "og_source_url": "https://www.skdirect.co.kr/images/common/og-image-15.png",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/sk-rent-a-car/favicon.png",
+      "source_url": "https://www.skdirect.co.kr/images/common/ico/favicon-192.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 2295,
+      "sha256": "75a34f3b40a60ba60f3fc49ca6803caa70b286c24b83f0ce3169328163c2fc8f",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/sk-rent-a-car/og.png",
+      "source_url": "https://www.skdirect.co.kr/images/common/og-image-15.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 1491209,
+      "sha256": "d400aec7fb03e2bdee435f89af9ce8943f7d7e29724b4616f10e4dbf039a9dfb",
+      "width": 1600,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/sk-rent-a-car/logo-1.svg",
+      "source_url": "https://www.skdirect.co.kr/images/common/layout/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img _img-media-module_image__g2IxO SK 렌터카 div _header-module_box-logo__A-UhL div _header-module_header-left__EJRED div _header-module_header-inner__pcTj4 div _header-module_header__miQ46 _header-module_on__MZ6l6 pc-header",
+      "content_type": "image/svg+xml",
+      "bytes": 2225,
+      "sha256": "b5a9a0af612a4b40f31e222c25d0bac81e02cac414dab25cef3292f6c386b705",
+      "width": 86,
+      "height": 22
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/sk-rent-a-car/logo-2.png",
+      "source_url": "https://www.skdirect.co.kr/images/mo/common/sub-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img _layout-module_logo-img__eM5Fo div left-conts div _layout-module_row-wrap__GUphO div _layout-module_center-wrap__vNjD5 div _layout-module_footer__OwEQi",
+      "content_type": "image/png",
+      "bytes": 2089,
+      "sha256": "ed365cc74e6b9a8c33593541e01ff0bc9c40fc78938183da65c2954ec0b71e41",
+      "width": 154,
+      "height": 36
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/sk-rent-a-car/banner-1.webp",
+      "source_url": "https://image.skrentok.com/dotcom/cms/eventNew/20260902_d4397006.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  _main_plan-banner___z_LE background-image:url(https://image.skrentok.com/dotcom/cms/eventNew/20260902_d4397006.jpg)",
+      "content_type": "image/webp",
+      "bytes": 29586,
+      "sha256": "b792d29d002d18e5f189546040781b18205241fee7fd52d16ed765a03b3b41ba",
+      "width": 1800,
+      "height": 380
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/sk-rent-a-car/banner-2.webp",
+      "source_url": "https://image.skrentok.com/dotcom/cms/eventNew/20260812_073093ba.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  _main_plan-banner___z_LE background-image:url(https://image.skrentok.com/dotcom/cms/eventNew/20260812_073093ba.jpg)",
+      "content_type": "image/webp",
+      "bytes": 22060,
+      "sha256": "e578c8054fdc9dbc4ae8f7bf64087a5f88eef9ffc69b249f51b1b0a04947063e",
+      "width": 1800,
+      "height": 380
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/sk-rent-a-car/reference-1.webp",
+      "source_url": "https://www.skdirect.co.kr/images/pc/main/main_bnr_tmr.png",
+      "source_tag": "img:page-image",
+      "context": "img 내일 도착 a div swiper-slide _main_slide__RcQXq custom-slide div _swiper_custom-swiper__Ol4MI disabled _main_useinfo-list__CCDGe div _main_useinfo-wrap__foT1j _main_useinfo-swiper-wrap__7evFC",
+      "content_type": "image/webp",
+      "bytes": 19874,
+      "sha256": "6dbad5b531e00c911d717b9e47e9bd82585b1989506482024689914a4743d217",
+      "width": 480,
+      "height": 554
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/sk-rent-a-car/reference-2.webp",
+      "source_url": "https://www.skdirect.co.kr/images/pc/main/main_bnr_month.png",
+      "source_tag": "img:page-image",
+      "context": "img 월렌트 최대 20% 인하중 a div swiper-slide _main_slide__RcQXq custom-slide div _swiper_custom-swiper__Ol4MI disabled _main_useinfo-list__CCDGe div _main_useinfo-wrap__foT1j _main_useinfo-swiper-wrap__7evFC",
+      "content_type": "image/webp",
+      "bytes": 11974,
+      "sha256": "109ec684dd9cd9bfe796effab50650df180b93c8d0d6069d7d46944b7f00e1cf",
+      "width": 360,
+      "height": 416
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/sk-rent-a-car/reference-3.webp",
+      "source_url": "https://www.skdirect.co.kr/images/pc/main/main_bnr_05.png",
+      "source_tag": "img:page-image",
+      "context": "img 신차를 1년만 부담 없이 a div swiper-slide _main_slide__RcQXq custom-slide div _swiper_custom-swiper__Ol4MI disabled _main_useinfo-list__CCDGe div _main_useinfo-wrap__foT1j _main_useinfo-swiper-wrap__7evFC",
+      "content_type": "image/webp",
+      "bytes": 13152,
+      "sha256": "5d2b9952d24f85172e641aeb395be86feee4b14842c71350632c608f84a3fc78",
+      "width": 360,
+      "height": 416
+    }
+  ]
 }

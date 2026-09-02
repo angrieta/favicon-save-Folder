@@ -4,11 +4,19 @@
   "requested_url": "https://www.truefriend.com/",
   "page_url": "https://www.truefriend.com/",
   "page_title": "한국투자증권 홈페이지 방문을 환영합니다. Korea Investment & Securities",
-  "page_status": "200",
-  "favicon_path": "assets/금융/korea-investment/favicon.ico",
-  "favicon_source_url": "https://www.truefriend.com/favicon.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/korea-investment/favicon.ico",
+      "source_url": "https://www.truefriend.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 188405,
+      "sha256": "4c6039a1e009a8d75ddaebaec959a537c2248a635bc8b54f89abde537f627673",
+      "width": 256,
+      "height": 256
+    }
+  ]
 }

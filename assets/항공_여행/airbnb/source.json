@@ -4,11 +4,30 @@
   "requested_url": "https://www.airbnb.co.kr/",
   "page_url": "https://www.airbnb.co.kr/",
   "page_title": "에어비앤비: 휴가용 임대 숙소, 통나무집, 비치 하우스, 독특한 숙소 및 체험",
-  "page_status": "200",
-  "favicon_path": "assets/항공_여행/airbnb/favicon.png",
-  "favicon_source_url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-180x180-bcbe0e3960cd084eb8eaf1353cf3c730.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/항공_여행/airbnb/og.avif",
-  "og_source_url": "https://a0.muscache.com/im/pictures/fe7217ff-0b24-438d-880d-b94722c75bf5.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://a0.muscache.com/airbnb/static/packages/web/common/frontend/core-guest-spa/entrypoints/initializer.e36af0489a.js; reference:ValueError:https://a0.muscache.com/airbnb/static/packages/web/ko/e3f5.6e726f3d17.js; reference:ValueError:https://a0.muscache.com/airbnb/static/packages/web/common/34f4.71d61c92bd.js; reference:ValueError:https://a0.muscache.com/airbnb/static/packages/web/common/4807.bfb84427eb.js; reference:ValueError:https://a0.muscache.com/airbnb/static/packages/web/common/c95a.9bc422cd6c.js; reference:ValueError:https://a0.muscache.com/airbnb/static/packages/web/ko/6f95.e7b913c94a.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/airbnb/favicon.png",
+      "source_url": "https://a0.muscache.com/airbnb/static/icons/apple-touch-icon-180x180-bcbe0e3960cd084eb8eaf1353cf3c730.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4104,
+      "sha256": "a3b0572f1eac888ee1071a63f6cad84cd71434c4675ed13d97bf35284358679a",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/airbnb/og.avif",
+      "source_url": "https://a0.muscache.com/im/pictures/fe7217ff-0b24-438d-880d-b94722c75bf5.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/avif",
+      "bytes": 73947,
+      "sha256": "6be49dc1299424ef718fdf907e29cb92d1a274fdd2e87e40ac51fad759a55c1f",
+      "width": 1200,
+      "height": 600
+    }
+  ]
 }

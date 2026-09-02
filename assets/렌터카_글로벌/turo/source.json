@@ -4,11 +4,66 @@
   "requested_url": "https://turo.com/",
   "page_url": "https://turo.com/",
   "page_title": "Turo car rental marketplace | Car rentals, reimagined",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/turo/favicon.ico",
-  "favicon_source_url": "https://resources.turo.com/resources/img/favicon.ico?favicon.3ds3g36u88em5.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "assets/렌터카_글로벌/turo/og.png",
-  "og_source_url": "https://resources.turo.com/next-js/0.0.1/og-image.png",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/turo/favicon.ico",
+      "source_url": "https://resources.turo.com/resources/img/favicon.ico?favicon.3ds3g36u88em5.ico",
+      "source_tag": "icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 11454,
+      "sha256": "5b45c0c2a53e5cff7364237fa0568ce97dc6c38cc0666bf037c27a1186278530",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/turo/og.png",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/png",
+      "bytes": 6990,
+      "sha256": "8d18e04f5813f9a7bc79f83e911c7a6f536d37bd148b4b7db47fb91346ee9b3a",
+      "width": 720,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-1.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_360@2x.1e9er7cfavz4s.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div seo-pages-1df9kca div seo-pages-1e54vvi div seo-pages-1tj84td div",
+      "content_type": "image/webp",
+      "bytes": 19050,
+      "sha256": "4d6409cd38b28c1a6e54968820ee1da694bdc4e3fdea5f75993414c117167362",
+      "width": 720,
+      "height": 576
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-2.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_720.28fd0voaiculx.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div seo-pages-1df9kca div seo-pages-1e54vvi div seo-pages-1tj84td div",
+      "content_type": "image/webp",
+      "bytes": 9012,
+      "sha256": "7f16192d54bccebc2eb2dbb23b784a3fb6515c8db395c43266f37b7a2a0fe6d7",
+      "width": 720,
+      "height": 270
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-3.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_720@2x.1m-9c8b-mjufu.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div seo-pages-1df9kca div seo-pages-1e54vvi div seo-pages-1tj84td div",
+      "content_type": "image/webp",
+      "bytes": 22658,
+      "sha256": "74402d2e11547e1a17309b8e0deead9007a446f0e08d167929cbf634a74a1ec0",
+      "width": 1440,
+      "height": 540
+    }
+  ]
 }

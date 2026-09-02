@@ -4,11 +4,54 @@
   "requested_url": "https://www.paris.co.kr/",
   "page_url": "https://www.paris.co.kr/",
   "page_title": "파리바게뜨",
-  "page_status": "200",
-  "favicon_path": "assets/식품_생활/paris-baguette/favicon.png",
-  "favicon_source_url": "https://d2afncas1tel3t.cloudfront.net/wp-content/uploads/2019/09/cropped-PB_favicon-180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/식품_생활/paris-baguette/og.jpg",
-  "og_source_url": "https://d2afncas1tel3t.cloudfront.net/wp-content/uploads/2020/01/logo.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1860913124845401&ev=PageView&noscript=1; reference:ValueError:https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C500%2C700%2C800%2C900%7CNoto%20Sans%20KR%3A300%2C400%2C500%2C700%2C900&subset=korean&display=swap",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/paris-baguette/favicon.png",
+      "source_url": "https://d2afncas1tel3t.cloudfront.net/wp-content/uploads/2019/09/cropped-PB_favicon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5641,
+      "sha256": "b1da9e186cb0fec287b2a87564695ff54b5e4105e411307365a5e817d4fadfdf",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/paris-baguette/og.jpg",
+      "source_url": "https://d2afncas1tel3t.cloudfront.net/wp-content/uploads/2020/01/logo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 17425,
+      "sha256": "739aa952c1a7451e5a3da2a8522be141afc514d996177cba8f59f173721fba80",
+      "width": 1000,
+      "height": 246
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/paris-baguette/logo-1.png",
+      "source_url": "https://www.paris.co.kr/wp-content/themes/paris/assets/img/footer/footer-logo-img-02.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo2 NCSI a div footer-logos div widget-body div widget",
+      "content_type": "image/png",
+      "bytes": 6812,
+      "sha256": "0fae2acb70545003e1c268253dbb5ce9850d245bd0a79ac1845644859b441eea",
+      "width": 100,
+      "height": 66
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/paris-baguette/logo-2.png",
+      "source_url": "https://www.paris.co.kr/wp-content/themes/paris/assets/img/footer/footer-logo-img-03.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo3 KCSI a div footer-logos div widget-body div widget",
+      "content_type": "image/png",
+      "bytes": 7854,
+      "sha256": "c2e9a09b6a693ae7adebad763596247d42ba4c3d9553f1fce9156a02c8c6361c",
+      "width": 92,
+      "height": 66
+    }
+  ]
 }

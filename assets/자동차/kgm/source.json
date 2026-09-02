@@ -4,11 +4,19 @@
   "requested_url": "https://www.kg-mobility.com/",
   "page_url": "https://www.kg-mobility.com",
   "page_title": "KGM - Enjoy with Confidence I KGM 공식 사이트",
-  "page_status": "browser",
-  "favicon_path": "assets/자동차/kgm/favicon.png",
-  "favicon_source_url": "https://www.kg-mobility.com/images/kgm-icon_32X32.png",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=2135761540596175&ev=PageView&noscript=1; reference:ValueError:https://www.facebook.com/tr?id=275052072287915&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/kgm/favicon.png",
+      "source_url": "https://www.kg-mobility.com/images/kgm-icon_32X32.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1001,
+      "sha256": "df40a2972fda9069c9a72adb18bd3c84a30da2de0e3c0d905287da828018f216",
+      "width": 32,
+      "height": 32
+    }
+  ]
 }

@@ -4,11 +4,30 @@
   "requested_url": "https://www.sktelecom.com/",
   "page_url": "https://www.sktelecom.com/",
   "page_title": "SK telecom",
-  "page_status": "200",
-  "favicon_path": "assets/산업_건설_통신/sk-telecom/favicon.ico",
-  "favicon_source_url": "https://www.sktelecom.com/favicon1.ico",
-  "favicon_source_tag": "shortcut icon",
-  "og_path": "assets/산업_건설_통신/sk-telecom/og.jpg",
-  "og_source_url": "https://www.sktelecom.com/images/seo/skt-seo.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/sk-telecom/favicon.ico",
+      "source_url": "https://www.sktelecom.com/favicon1.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "a9053a4302834e5025628c7d50f17ff281d2ccdbc0a251c987fa14b98af3aab5",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/sk-telecom/og.jpg",
+      "source_url": "https://www.sktelecom.com/images/seo/skt-seo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 31189,
+      "sha256": "97513f803da8cbe36b6d440481ea5988ac1129deaaefb852d5b14985762ac0e9",
+      "width": 1200,
+      "height": 630
+    }
+  ]
 }

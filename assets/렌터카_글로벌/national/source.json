@@ -4,11 +4,79 @@
   "requested_url": "https://www.nationalcar.com/",
   "page_url": "https://www.nationalcar.com/en/home.html",
   "page_title": "Fast & Convenient Car Rental at 1,500+ Locations | National Car Rental",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_글로벌/national/favicon.ico",
-  "favicon_source_url": "https://www.nationalcar.com/content/dam/National/functional/favicons/favicon.ico",
-  "favicon_source_tag": "icon",
-  "og_path": "",
-  "og_source_url": "",
-  "og_source_tag": ""
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://www.nationalcar.com/en/\\2f content\\2f dam\\2fNational\\2fmarketing\\2fheroes\\2fhomebg.png; banner:HTTPError:https://www.nationalcar.com/en/\\2f content\\2f dam\\2fNational\\2f functional\\2f background-images\\2fgeometric-background.png; banner:HTTPError:https://www.nationalcar.com/en/\\2f content\\2f dam\\2fNational\\2f functional\\2f background-images\\2fworld_reach.png; reference:HTTPError:https://www.nationalcar.com/en/\\2f content\\2f dam\\2fNational\\2fmarketing\\2fheroes\\2fhomebg.png; reference:HTTPError:https://www.nationalcar.com/en/\\2f content\\2f dam\\2fNational\\2f functional\\2f background-images\\2fgeometric-background.png; reference:HTTPError:https://www.nationalcar.com/en/\\2f content\\2f dam\\2fNational\\2f functional\\2f background-images\\2fworld_reach.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_글로벌/national/favicon.ico",
+      "source_url": "https://www.nationalcar.com/content/dam/National/functional/favicons/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 15086,
+      "sha256": "f5ce531b45153731117a69febc92c24181de369413564bb828aca154cbc1116a",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/national/logo-1.svg",
+      "source_url": "https://www.nationalcar.com/content/dam/National/functional/logos/national_logo-green.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2734,
+      "sha256": "5bc44bcc9d0f84726bd2330c484abf8799f418ae6416039dfacd16e653333b37",
+      "width": 238,
+      "height": 46
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/national/logo-2.svg",
+      "source_url": "https://www.nationalcar.com/etc/designs/nweb/assets/20260728055140/img/national_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img page__header__logo National Logo a page__header__logo-container div logo div container-96458aee73 cmp-container div page__header__global",
+      "content_type": "image/svg+xml",
+      "bytes": 3033,
+      "sha256": "b9f6022c5b62c60daa2114487a946c82027289d44070c257776eebfa19c9c493",
+      "width": 564,
+      "height": 107
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/national/reference-1.webp",
+      "source_url": "https://www.nationalcar.com/en/home/_jcr_content/root/container_299753168/container/container_copy/container_1020198467/container_copy_copy__197780176/teaser.coreimg.jpeg/1787834384448/emerald-aisle-lot-527.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image div image-b2de26402f cmp-image cheerios--photoswipe-images div cmp-teaser__image div teaser-b2de26402f cmp-teaser div teaser teaser--bgcolor-white",
+      "content_type": "image/webp",
+      "bytes": 81012,
+      "sha256": "2d58f5e44b0a08f6c633418ff5a14aeeca9cf041ef3456d685e2cd79f6170f9d",
+      "width": 934,
+      "height": 527
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/national/reference-2.webp",
+      "source_url": "https://www.nationalcar.com/en/home/_jcr_content/root/container_299753168/container/container_copy/container_1020198467/container_copy_copy__197780176/teaser_copy_1593422814.coreimg.png/1787834384506/ec-homepage-tiles-527.png",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image div image-d94afd4f5a cmp-image cheerios--photoswipe-images div cmp-teaser__image div teaser-d94afd4f5a cmp-teaser div teaser teaser--bgcolor-white",
+      "content_type": "image/webp",
+      "bytes": 54320,
+      "sha256": "5b6a5e8f2746bb7ab1e13a9f39e32ffa79e271814cb571074a2d978ec8e75f40",
+      "width": 934,
+      "height": 527
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/national/reference-3.webp",
+      "source_url": "https://www.nationalcar.com/en/home/_jcr_content/root/container_299753168/container/container_copy/container_1020198467/container_copy_copy__197780176/teaser_copy.coreimg.png/1787834384549/national-app-tile-en-527.png",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image div image-b015fba257 cmp-image cheerios--photoswipe-images div cmp-teaser__image div teaser-b015fba257 cmp-teaser div teaser teaser--bgcolor-white",
+      "content_type": "image/webp",
+      "bytes": 39926,
+      "sha256": "e205c1b540f1d9037df6049c4c1cccb33b37cb757080364113d5562d77b6871e",
+      "width": 934,
+      "height": 527
+    }
+  ]
 }

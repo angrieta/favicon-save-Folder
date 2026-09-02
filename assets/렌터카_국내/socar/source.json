@@ -4,11 +4,115 @@
   "requested_url": "https://www.socar.kr/",
   "page_url": "https://www.socar.kr/",
   "page_title": "차가 필요할 땐, 쏘카 | 전국 및 제주 렌터카·렌트카·카셰어링 예약",
-  "page_status": "200",
-  "favicon_path": "assets/렌터카_국내/socar/favicon.png",
-  "favicon_source_url": "https://www.socar.kr/assets/favicons/favicon_180x180.png",
-  "favicon_source_tag": "apple-touch-icon",
-  "og_path": "assets/렌터카_국내/socar/og.jpg",
-  "og_source_url": "https://www.socar.kr/assets/images/open-graph/default.jpg",
-  "og_source_tag": "og:image"
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/렌터카_국내/socar/favicon.png",
+      "source_url": "https://www.socar.kr/assets/favicons/favicon_180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 15875,
+      "sha256": "7e0a0fb10ad08b3b1daf7baea9f0ff3297c96e00bafc343768baf0c489745ab8",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/socar/og.jpg",
+      "source_url": "https://www.socar.kr/assets/images/open-graph/default.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/jpeg",
+      "bytes": 600264,
+      "sha256": "203f20f729700ff7fa64cb7014a96282c9cb9aed6c5c59521427118b2a499783",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/socar/logo-1.svg",
+      "source_url": "https://www.socar.kr/_next/static/media/logo-pc.f9a75156.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img socar logo a tw-shrink-0 div tw-flex tw-flex-1 tw-items-center tw-gap-spacing-800 tw-max-w-[1280px] tw-w-full tw-px-spacing-400 tw-py-spacing-300 header tw-hidden md:tw-flex tw-sticky tw-top-0 tw-z-gnb tw-w-full tw-h-[60px] tw-items-cen",
+      "content_type": "image/svg+xml",
+      "bytes": 7015,
+      "sha256": "3c04ebd4fd412e7bcf9c051311de75b7b6dc3fb12d6b6e3ac88c7c537d01f2e6",
+      "width": 101,
+      "height": 22
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/socar/logo-2.svg",
+      "source_url": "https://www.socar.kr/_next/static/media/logo-mo.1f0dbeb8.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img socar logo a tw-flex tw-items-center div tw-flex-1 tw-m-spacing-0 tw-mr-spacing-400 tw-py-[5px] tw-pl-spacing-150 tw-overflow-hidden tw-text-ellipsis tw-whitespace-nowrap tw-title1 tw-w-auto tw-min-w-0 div tw-flex tw-items-center tw-jus",
+      "content_type": "image/svg+xml",
+      "bytes": 7033,
+      "sha256": "d32d07a8eaddd1bb234d97bcc9bc3e429ef5b83d7c058884c86361b82a20ad77",
+      "width": 92,
+      "height": 20
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/socar/banner-1.webp",
+      "source_url": "https://www.socar.kr/_next/image?url=%2Fblog-images%2Fimg-poolvilla.jpg&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img tw-object-cover tw-object-left-bottom 남해 렌터카 완전 가이드 — 풀빌라·골프·드라이브 코스를 쏘카로 즐기는 법 div tw-relative tw-h-[260px] md:tw-h-[180px] min-[960px]:tw-h-[260px] tw-w-full tw-overflow-clip tw-bg-gray-100 tw-shrink-0 a tw-flex tw-flex-col tw-w-[calc",
+      "content_type": "image/webp",
+      "bytes": 221762,
+      "sha256": "f9ee2f42867b693a3b9728feedd3d7dd67d94b360b8d8824d9f819769df200a5",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/socar/banner-2.webp",
+      "source_url": "https://www.socar.kr/_next/image?url=%2Fblog-images%2Fnamwon-gwanghalluwon-night.jpg&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img tw-object-cover tw-object-left-bottom 남원 여행 — 광한루원·지리산, 취향따라 즐기는 쏘카 1박 2일 코스 div tw-relative tw-h-[260px] md:tw-h-[180px] min-[960px]:tw-h-[260px] tw-w-full tw-overflow-clip tw-bg-gray-100 tw-shrink-0 a tw-flex tw-flex-col tw-w-[calc(10",
+      "content_type": "image/webp",
+      "bytes": 294198,
+      "sha256": "b136cca6aec5f68b70837bdfe7213880a9c0cfc8bc24070c7b761c2c3d7e5c87",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/socar/banner-2.webp",
+      "source_url": "https://www.socar.kr/_next/image?url=%2Fblog-images%2Fnamwon-gwanghalluwon-night.jpg&w=2048&q=75",
+      "source_tag": "img:page-image",
+      "context": "img tw-object-cover tw-object-left-bottom 남원 여행 — 광한루원·지리산, 취향따라 즐기는 쏘카 1박 2일 코스 div tw-relative tw-h-[260px] md:tw-h-[180px] min-[960px]:tw-h-[260px] tw-w-full tw-overflow-clip tw-bg-gray-100 tw-shrink-0 a tw-flex tw-flex-col tw-w-[calc(10",
+      "content_type": "image/webp",
+      "bytes": 294198,
+      "sha256": "b136cca6aec5f68b70837bdfe7213880a9c0cfc8bc24070c7b761c2c3d7e5c87",
+      "width": 1800,
+      "height": 1200,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/socar/reference-2.webp",
+      "source_url": "https://www.socar.kr/_next/image?url=%2Fblog-images%2Fvcat_image_1783501662016.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img tw-object-cover tw-object-left-bottom 대전 빵투어 코스, 현지인이 딱 세 곳만 추천합니다 div tw-relative tw-h-[260px] md:tw-h-[180px] min-[960px]:tw-h-[260px] tw-w-full tw-overflow-clip tw-bg-gray-100 tw-shrink-0 a tw-flex tw-flex-col tw-w-[calc(100%-56px)] ",
+      "content_type": "image/webp",
+      "bytes": 281100,
+      "sha256": "6f45a57198d8eba6609ab91c8434c37dd77f36cbd90d3d14cc94422aa4ebaa28",
+      "width": 1800,
+      "height": 1005
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/socar/reference-3.webp",
+      "source_url": "https://www.socar.kr/_next/image?url=%2Fblog-images%2F%EB%8F%99%EB%8C%80%EA%B5%AC%EC%97%AD.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img tw-object-cover tw-object-left-bottom 아이와 함께 떠나는 대구 여행. 쏘카로 다니면 좋은 이유! div tw-relative tw-h-[260px] md:tw-h-[180px] min-[960px]:tw-h-[260px] tw-w-full tw-overflow-clip tw-bg-gray-100 tw-shrink-0 a tw-flex tw-flex-col tw-w-[calc(100%-56p",
+      "content_type": "image/webp",
+      "bytes": 277602,
+      "sha256": "298476f0a8b7937c8b0fb9c5fe3c00d23e9a5fff996d88bb4607c17341d6c2ea",
+      "width": 1619,
+      "height": 971
+    }
+  ]
 }
