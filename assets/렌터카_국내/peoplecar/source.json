@@ -5,11 +5,22 @@
   "page_url": "https://www.peoplecar.co.kr/",
   "page_title": "투루카",
   "collection_status": "complete",
-  "collection_error": "",
+  "collection_error": "asset:https://www.peoplecar.co.kr/service/투루카 배달렌트 서비스 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/cs/1200:HTTPError; asset:https://www.peoplecar.co.kr/cs/630:HTTPError; asset:https://www.peoplecar.co.kr/cs/투루카 로고:HTTPError; asset:https://www.peoplecar.co.kr/service/투루카 카셰어링 서비스 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/service/투루카 리턴프리 서비스 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/service/투루카 비즈멤버십 서비스 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/about/1920:HTTPError; asset:https://www.peoplecar.co.kr/about/550:HTTPError; asset:https://www.peoplecar.co.kr/about/투루카 회사소개 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/about/800:HTTPError; asset:https://www.peoplecar.co.kr/about/600:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 2,
+    "scripts": 36,
+    "candidates": 263,
+    "attempted_assets": 263,
+    "errors": 16,
+    "collected_at": "2026-09-03T08:08:09.448814+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
-      "path": "assets/렌터카_국내/peoplecar/favicon.ico",
+      "path": "assets/렌터카_국내/turucar/favicon.ico",
       "source_url": "https://www.peoplecar.co.kr/favicon.ico?favicon.13y1hze_qewf4.ico",
       "source_tag": "icon",
       "content_type": "image/x-icon",
@@ -19,8 +30,679 @@
       "height": 64
     },
     {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-001.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img02.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img h-auto w-566 object-cover 자동차 div absolute -bottom-121 z-20 mx-48 flex h-270 items-center overflow-hidden xl:-left-1/3 xl:mx-0 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 div mx-auto flex h-full w-full max-w-7xl flex-col items-center justify-between gap-32 xl:flex-row section flex items-center pt-48 xl:h-[760px] xl:pt-0 bg-surface-subtle div -mt-header-height",
+      "content_type": "image/webp",
+      "bytes": 20098,
+      "sha256": "6a889caa8721c497ad3779cee8b9dec0fc9e2ce5877190baa3b64a6689616f6a",
+      "source_sha256": "c39c4e900ed5aa36c8def072904d395dccf7164d4aad6d8bd9fce231a0ef6cff",
+      "dhash": "39303dda9b9298e0",
+      "width": 661,
+      "height": 267,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-001.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fservice%2Fdelivery-rent-main.png&w=3840&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img 투루카 배달렌트 서비스 메인 이미지 - 집 앞까지 배달해드리는 편리한 렌트 서비스 picture figure mb-40 xl:mb-60 div mx-auto max-w-6xl px-20 pb-60 xl:px-0 xl:pb-160 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))] body nanumsquare_268ad156-module__UvLKEa__variable montserrat_3541ceb6-module__CzXoiW__variable font-nanum-square xl:text-md turu-orange text-sm antialiased",
+      "content_type": "image/webp",
+      "bytes": 89366,
+      "sha256": "5fda7ec9aa88688c79864c96362655ceab3296c021034f657bd644cf969f93ca",
+      "source_sha256": "b771b5e31b7a41c7a92040a28971cad8fc8a537483c70c6193f45bc9fc21502c",
+      "dhash": "928354c454525695",
+      "width": 2200,
+      "height": 733,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/service/rent"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-002.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fservice%2Fcarsharing-main.png&w=3840&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img 투루카 카셰어링 서비스 메인 이미지 - 다양한 차량 모델들과 스마트한 예약 시스템 picture figure mb-40 xl:mb-60 div mx-auto max-w-6xl px-20 pb-60 xl:px-0 xl:pb-160 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))] body nanumsquare_268ad156-module__UvLKEa__variable montserrat_3541ceb6-module__CzXoiW__variable font-nanum-square xl:text-md turu-orange text-sm antialiased",
+      "content_type": "image/webp",
+      "bytes": 42962,
+      "sha256": "ae961bd69ea5434968adffc5d6af401b06a6f8712a3d48bc1a2434c3f6b11f90",
+      "source_sha256": "0fbdd778aa974c1c84286547883fb06dde265fac21a272f3e0c7e65534872da7",
+      "dhash": "756555e596969992",
+      "width": 2200,
+      "height": 678,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/service/carsharing"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-003.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fservice%2Freturnfree-main.png&w=3840&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img 투루카 리턴프리 서비스 메인 이미지 - 자유로운 반납이 가능한 카셰어링 서비스 picture figure mb-40 xl:mb-60 div mx-auto max-w-6xl px-20 pb-60 xl:px-0 xl:pb-160 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))] body nanumsquare_268ad156-module__UvLKEa__variable montserrat_3541ceb6-module__CzXoiW__variable font-nanum-square xl:text-md turu-orange text-sm antialiased",
+      "content_type": "image/webp",
+      "bytes": 94818,
+      "sha256": "76b566b5fe995e970b27f470b6f9d0ec19368a627fe53f4b3ad7c1e6997d9d07",
+      "source_sha256": "17ab5c31e423a29c17c5d4b85604a1f0c031b3f23d41d9efdcf1ec5b2bb0c5a2",
+      "dhash": "6049ddcc66b4d049",
+      "width": 2200,
+      "height": 733,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/service/returnfree"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-004.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fservice%2Fbiz-main.png&w=3840&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img 투루카 비즈멤버십 서비스 메인 이미지 - 기업용 카셰어링 서비스 picture figure mb-40 xl:mb-60 div mx-auto max-w-6xl px-20 pb-60 xl:px-0 xl:pb-160 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))] body nanumsquare_268ad156-module__UvLKEa__variable montserrat_3541ceb6-module__CzXoiW__variable font-nanum-square xl:text-md turu-orange text-sm antialiased",
+      "content_type": "image/webp",
+      "bytes": 103548,
+      "sha256": "822fd60e08b784cf49caa6c4a757146b26f1fe19edc229a5e5c5654ec16d7871",
+      "source_sha256": "73f886cd6c4f0bd4ae2635d4abedb951615ea4eee31366d51fd38aff800ed59c",
+      "dhash": "3d3db9c93834b4e5",
+      "width": 2200,
+      "height": 733,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/service/biz"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-005.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img07.png&w=2048&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img min-w-800 object-cover object-center xl:min-w-full xl:translate-x-[-15%] xl:object-left 투루카 종합 서비스 이미지 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-1 h-full div flex h-full w-full flex-col items-center justify-between gap-32 xl:flex-row max-w-auto mx-0 section flex items-center pt-48 xl:h-[760px] xl:pt-0 bg-surface-subtle overflow-x-hidden div -mt-header-height-",
+      "content_type": "image/webp",
+      "bytes": 297100,
+      "sha256": "c30ee9fb8d883e1551e160ff7afe67726ed1d678e28131ab4aa2e3a012f8ea4b",
+      "source_sha256": "8ea4257ca7f4883fc20cd8b226e3bc94548860d1644b05d6eaaff2d95e6b10e0",
+      "dhash": "cc4d494d4d4d4969",
+      "width": 2200,
+      "height": 1469,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/turucar/logo-001.svg",
+      "source_url": "https://turucar.com/svg/turucar-logo.svg",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "d+json\">{\"@context\":\"https://schema.org\",\"@type\":\"MobileApplication\",\"name\":\"투루카\",\"description\":\"실시간 카셰어링, 렌트카 대여 플랫폼. 언제 어디서나 편리하게 차량을 이용하세요.\",\"url\":\"https://turucar.com\",\"image\":\"https://turucar.com/svg/turucar-logo.svg\",\"applicationCategory\":\"LifestyleApplication\",\"operatingSystem\":[\"Android\",\"iOS\"],\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",",
+      "content_type": "image/svg+xml",
+      "bytes": 3759,
+      "sha256": "1ee5c5627433351a793a89d6592a3251068baa44b1fb3e9fe395a74e07dabdd3",
+      "source_sha256": "1ee5c5627433351a793a89d6592a3251068baa44b1fb3e9fe395a74e07dabdd3",
+      "dhash": "",
+      "width": 160,
+      "height": 27,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/",
+        "https://www.peoplecar.co.kr/about/company",
+        "https://www.peoplecar.co.kr/about/incheon",
+        "https://www.peoplecar.co.kr/cs/event",
+        "https://www.peoplecar.co.kr/cs/faq",
+        "https://www.peoplecar.co.kr/cs/notice",
+        "https://www.peoplecar.co.kr/cs/notice/1118",
+        "https://www.peoplecar.co.kr/cs/notice/1138",
+        "https://www.peoplecar.co.kr/cs/notice/1147",
+        "https://www.peoplecar.co.kr/cs/notice/1156",
+        "https://www.peoplecar.co.kr/cs/notice/1157",
+        "https://www.peoplecar.co.kr/cs/partnership",
+        "https://www.peoplecar.co.kr/cs/partnership?category=Biz",
+        "https://www.peoplecar.co.kr/cs/peoplezone",
+        "https://www.peoplecar.co.kr/service/biz",
+        "https://www.peoplecar.co.kr/service/carsharing",
+        "https://www.peoplecar.co.kr/service/rent",
+        "https://www.peoplecar.co.kr/service/returnfree"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/turucar/logo-002.svg",
+      "source_url": "https://www.peoplecar.co.kr/svg/incheon-si-logo.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "img 인천시 카셰어링 span brand-text leading-tight whitespace-pre-line div bg-surface-elevated relative flex aspect-square size-auto min-w-fit items-center justify-center rounded-full px-20 text-center text-sm font-extrabold md:size-[220px] md:px-28 md:text-2xl after:border-surface-elevated after:absolute after:top-1/2 after:left-full after:block after:w-full after:-translate-y-1/2 after:border after:bord",
+      "content_type": "image/svg+xml",
+      "bytes": 7072,
+      "sha256": "8c9899942ad3474a3a9d64357e0a3f543edc5ba0ee776211bc6ec9e9457f7365",
+      "source_sha256": "8c9899942ad3474a3a9d64357e0a3f543edc5ba0ee776211bc6ec9e9457f7365",
+      "dhash": "",
+      "width": 160,
+      "height": 37,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/about/incheon"
+      ]
+    },
+    {
       "type": "social",
-      "path": "assets/렌터카_국내/peoplecar/og.png",
+      "path": "assets/렌터카_국내/turucar/social-001.webp",
+      "source_url": "https://turucar.com/images/seo/og.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "le\"/><meta content=\"하나로 잇는 생생한 모든 이동 투루카!\" property=\"og:description\"/><meta content=\"https://turucar.com\" property=\"og:url\"/><meta content=\"ko\" property=\"og:locale\"/><meta content=\"https://turucar.com/images/seo/og.png\" property=\"og:image\"/><meta content=\"800\" property=\"og:image:width\"/><meta content=\"600\" property=\"og:image:height\"/><me",
+      "content_type": "image/webp",
+      "bytes": 4812,
+      "sha256": "c512ae3acb1d38a1f9ef27a7f5d2b769e41f97edfb24286af3cee3f550f4f3a4",
+      "source_sha256": "8c9b1f18d575d3a72088361860bd01d7c5a77d55e6e962a8f883f074c1fd2f85",
+      "dhash": "0008643b1b440000",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/",
+        "https://www.peoplecar.co.kr/about/incheon"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-006.webp",
+      "source_url": "https://turucar.com/images/about/top-banner.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "만명, 카카오모빌리티 업무협약 체결 등 대한민국 대표 모빌리티 플랫폼으로 성장했습니다.\" property=\"og:description\"/><meta content=\"투루카\" property=\"og:site_name\"/><meta content=\"ko_KR\" property=\"og:locale\"/><meta content=\"https://turucar.com/images/about/top-banner.png\" property=\"og:image\"/><meta content=\"1920\" property=\"og:image:width\"/><meta content=\"550\" property=\"og:image:height\"/><m",
+      "content_type": "image/webp",
+      "bytes": 7896,
+      "sha256": "55a3c90427858e16e7195c2903ef4f0dbb6f610fbc1437a5bd8a513d143ea5de",
+      "source_sha256": "57f8095ed9cd65395ade4e631152f7b75d8c5c89efb2c11f398194029e407c02",
+      "dhash": "2c09011636361616",
+      "width": 1920,
+      "height": 708,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/about/company"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-007.svg",
+      "source_url": "https://www.peoplecar.co.kr/images/about/top-banner.svg",
+      "source_tag": "external-css",
+      "context": "u-gray-intense{background-color:var(--color-turu-gray-intense)}.bg-turu-gray-muted{background-color:var(--color-turu-gray-muted)}.bg-turu-orange-500{background-color:var(--color-turu-orange-500)}.bg-\\[url\\(\\/images\\/about\\/top-banner\\.svg\\)\\]{background-image:url(/images/about/top-banner.svg)}.bg-size-\\[711px_auto\\]{background-size:711px}.bg-top{background-position:top}.bg-no-repeat{background-rep",
+      "content_type": "image/svg+xml",
+      "bytes": 1134,
+      "sha256": "6ce58dee62fa6e88297ca93aa3dffbedfddafc8ccd47d5d6dba1db20b76e8bc1",
+      "source_sha256": "6ce58dee62fa6e88297ca93aa3dffbedfddafc8ccd47d5d6dba1db20b76e8bc1",
+      "dhash": "",
+      "width": 1920,
+      "height": 708,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-002.webp",
+      "source_url": "https://www.peoplecar.co.kr/images/navigation/turucar-logo.png",
+      "source_tag": "script-data",
+      "context": "ty:1,y:0,scale:1},transition:{delay:.7,duration:.7,ease:\"easeOut\"},className:\"pointer-events-none fixed right-0\",style:{top:\"23%\",bottom:\"48.8%\"},children:(0,t.jsx)(D.default,{src:\"/images/navigation/turucar-logo.png\",alt:\"TURU CAR\",width:400,height:304,className:\"h-full object-contain\",priority:!0})})]})]})]})};var B=e.i(60546);let U=",
+      "content_type": "image/webp",
+      "bytes": 3942,
+      "sha256": "c1e83b4ea010324bc03de6308967891dd7dc33c959dba5189b07b449d3f33d34",
+      "source_sha256": "ee69c46a2b4a5cf7199aca14302d8fcb16de96dc028ece851d1214709f77bdb0",
+      "dhash": "601a3a3232323231",
+      "width": 940,
+      "height": 608,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-003.webp",
+      "source_url": "https://www.peoplecar.co.kr/images/service/delivery-rent-main-mb.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "source picture figure mb-40 xl:mb-60 div mx-auto max-w-6xl px-20 pb-60 xl:px-0 xl:pb-160 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))] body nanumsquare_268ad156-module__UvLKEa__variable montserrat_3541ceb6-module__CzXoiW__variable font-nanum-square xl:text-md turu-orange text-sm antialiased",
+      "content_type": "image/webp",
+      "bytes": 20536,
+      "sha256": "628c07ce54b5a2718e821da7e2daf56746691190b5a3d4789e2c4f22d2ab06c0",
+      "source_sha256": "6f4126c64c180b5bc5e63585a2771fcb7eb36feeb2441df997f0f3213ac252df",
+      "dhash": "418c8c649c8a629e",
+      "width": 503,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/service/rent"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-008.webp",
+      "source_url": "https://www.peoplecar.co.kr/images/service/carsharing-main-mb.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "source picture figure mb-40 xl:mb-60 div mx-auto max-w-6xl px-20 pb-60 xl:px-0 xl:pb-160 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))] body nanumsquare_268ad156-module__UvLKEa__variable montserrat_3541ceb6-module__CzXoiW__variable font-nanum-square xl:text-md turu-orange text-sm antialiased",
+      "content_type": "image/webp",
+      "bytes": 52308,
+      "sha256": "ec96199376997914a27e8d7660f13a4811ac2f923eeb5c0a09c5cec785fb0fdb",
+      "source_sha256": "8ffd1d3c9dd8bb7798c0b08ac7340554f1a138bb2620c6be5e8fdac4498303e6",
+      "dhash": "dbc3b3a233333e31",
+      "width": 1500,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/service/carsharing"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-009.webp",
+      "source_url": "https://www.peoplecar.co.kr/images/service/returnfree-main-mb.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "source picture figure mb-40 xl:mb-60 div mx-auto max-w-6xl px-20 pb-60 xl:px-0 xl:pb-160 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))] body nanumsquare_268ad156-module__UvLKEa__variable montserrat_3541ceb6-module__CzXoiW__variable font-nanum-square xl:text-md turu-orange text-sm antialiased",
+      "content_type": "image/webp",
+      "bytes": 97300,
+      "sha256": "83afced019b45640fd94b7cbee1d9f7fef8a85289f2053cb8d705f9734ccd637",
+      "source_sha256": "759ed3a1edc4cc670fe79cf31cb69889688b6c9e4e05c523d6241c379e71fa28",
+      "dhash": "d29c2793cee33b2c",
+      "width": 1340,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/service/returnfree"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-010.webp",
+      "source_url": "https://www.peoplecar.co.kr/images/service/biz-main-mb.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "source picture figure mb-40 xl:mb-60 div mx-auto max-w-6xl px-20 pb-60 xl:px-0 xl:pb-160 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))] body nanumsquare_268ad156-module__UvLKEa__variable montserrat_3541ceb6-module__CzXoiW__variable font-nanum-square xl:text-md turu-orange text-sm antialiased",
+      "content_type": "image/webp",
+      "bytes": 67672,
+      "sha256": "89e73b187af92161f39d6cf6dbc9762a98db7a8181cc40037628a66d060712ea",
+      "source_sha256": "b5b0febb027c40f5a1abdab152679f235396dec114c5b6ce8a254fbb9d21fee8",
+      "dhash": "179795e99797c76c",
+      "width": 1372,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/service/biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-004.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img01.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img h-auto max-h-600 w-405 object-contain xl:max-h-none 투루카 앱 화면 div mx-96 aspect-[405/630] overflow-hidden xl:mx-0 xl:mt-130 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 div mx-auto flex h-full w-full max-w-7xl flex-col items-center justify-between gap-32 xl:flex-row section flex items-center pt-48 xl:h-[760px] xl:pt-0 bg-surface-subtle div -mt-header-height-mobi",
+      "content_type": "image/webp",
+      "bytes": 150074,
+      "sha256": "f18bd820034995d408feebbbfa6c3ec58dc91a18e61d1a0f5bf835fb294cefb2",
+      "source_sha256": "3d568b963d0843e4896c17c4de988efd1018ddce65af52ac467ce6b9a3aebbcd",
+      "dhash": "63575b4b4d4b4517",
+      "width": 1035,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-011.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNotice_1156.png&w=3840&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img h-auto w-full transition-opacity duration-300 absolute inset-0 opacity-0 Turu CAR 자동차 대여약관 개정 안내 div relative w-full lg:px-52 div py-60 div flex flex-col div mx-auto max-w-6xl px-20 xl:px-0 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))]",
+      "content_type": "image/webp",
+      "bytes": 17502,
+      "sha256": "ceb86b8c7ec9df993954a4bc160d00db42527cd72ee7e1363a2288f3886c9467",
+      "source_sha256": "39cca4f6606cf9b32613b284f0628631fdbe373b0d240e159fd91bfff6df1ae2",
+      "dhash": "e0c080f0dc989cc0",
+      "width": 728,
+      "height": 402,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/cs/notice/1156"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-012.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNotice_1138.png&w=3840&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img h-auto w-full transition-opacity duration-300 absolute inset-0 opacity-0 Turu CAR 자동차 대여약관 개정 안내 div relative w-full lg:px-52 div py-60 div flex flex-col div mx-auto max-w-6xl px-20 xl:px-0 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))]",
+      "content_type": "image/webp",
+      "bytes": 45600,
+      "sha256": "e5dd08d16b353a677f47e6d7b1a6faf94ac46e7ed4ab28d631fadad4bbecdd1d",
+      "source_sha256": "ae7ea631a6e15535ea78892841d73efefcc65b66e1d84a2bf10f31b75f597fbb",
+      "dhash": "d0c0b0d8d8d4d848",
+      "width": 1425,
+      "height": 879,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/cs/notice/1138"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/turucar/banner-013.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNotice_1118.png&w=3840&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img h-auto w-full transition-opacity duration-300 absolute inset-0 opacity-0 Turu CAR 마케팅 수신 매체 변경 안내 div relative w-full lg:px-52 div py-60 div flex flex-col div mx-auto max-w-6xl px-20 xl:px-0 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))]",
+      "content_type": "image/webp",
+      "bytes": 25992,
+      "sha256": "1a2dfe33d5b5f832909745c06e69f0990e06be6163dcb9cb07b028f20fbd6a19",
+      "source_sha256": "2fd5377b5abde41aaefb4645fee9b555ba80b5534258b9d939bf3156fc3f5cf2",
+      "dhash": "a0800074a4a4a052",
+      "width": 1024,
+      "height": 395,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/cs/notice/1118"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/peoplecar/banner-014.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNotice_1147.png&w=3840&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img h-auto w-full transition-opacity duration-300 absolute inset-0 opacity-0 [중요] 비즈멤버십 서비스 개편 안내 div relative w-full lg:px-52 div py-60 div flex flex-col div mx-auto max-w-6xl px-20 xl:px-0 main mt-header-height-mobile xl:mt-header-height-desktop min-h-[calc(100vh-var(--header-height))]",
+      "content_type": "image/webp",
+      "bytes": 39394,
+      "sha256": "26d86cbda1dbf44549b033b7a6b743fcc835524cfc0d22c254e159b59413494d",
+      "source_sha256": "bf619ca2a17787933d1eaadbed8404865f246989d7f3412e8a7eb62f9242818f",
+      "dhash": "7a345a5a5a5a5a5a",
+      "width": 1600,
+      "height": 900,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/cs/notice/1147"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-005.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img03.png&w=2048&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img h-auto w-full 지도에서 차량 위치 div relative div relative mx-52 w-full max-w-md xl:mx-auto xl:max-w-lg div relative flex w-full flex-1 items-center justify-center order-2 xl:order-1 div mx-auto flex h-full w-full max-w-7xl flex-col items-center justify-between gap-32 xl:flex-row section flex items-center xl:h-[760px] xl:pt-0 bg-surface pt-96 pb-52 xl:pb-0",
+      "content_type": "image/webp",
+      "bytes": 119640,
+      "sha256": "c44ea482e687125753855736c655f47b532b29f10d2e3739b8d62827cf205c05",
+      "source_sha256": "7e762a943635e926fc66dc98613ccfb8e8513a9e5da8692124e385f1a09e78f6",
+      "dhash": "958e8c474f3dc3c1",
+      "width": 2064,
+      "height": 1928,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-006.svg",
+      "source_url": "https://www.peoplecar.co.kr/images/main/main_panel_sharing_img05.svg",
+      "source_tag": "html-data, img:banner, img:image, script-data",
+      "context": "img 리턴프리 앱 화면들 div relative mx-68 xl:mx-0 div relative mx-auto w-full max-w-md xl:max-w-lg div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 div mx-auto flex h-full w-full max-w-7xl flex-col items-center justify-between gap-32 xl:flex-row section flex items-center pt-48 xl:h-[760px] xl:pt-0 bg-surface-subtle pb-40 xl:pb-0",
+      "content_type": "image/svg+xml",
+      "bytes": 97657,
+      "sha256": "0830ef9e910086b092a05138a104609b9e245655f8704042a6cc24f7198dd5ff",
+      "source_sha256": "0830ef9e910086b092a05138a104609b9e245655f8704042a6cc24f7198dd5ff",
+      "dhash": "",
+      "width": 464,
+      "height": 561,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-007.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img10.png&w=750&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img h-auto w-[365px] 비즈 멤버십 앱 화면 1 div div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 gap-[-100px] div mx-auto flex h-full w-full max-w-7xl flex-col items-center justify-between gap-32 xl:flex-row section flex items-center pt-48 xl:h-[760px] xl:pt-0 div -mt-header-height-mobile xl:-mt-header-height-desktop",
+      "content_type": "image/webp",
+      "bytes": 92770,
+      "sha256": "9cec2a9d6589ca1827f5f041edc2eb4ef65c5692edc49da3110988acc8584993",
+      "source_sha256": "9f62622884f09afd72089d0ad48807885ae6e7a9e724778959ef1eb49ee8109a",
+      "dhash": "666637273333139f",
+      "width": 624,
+      "height": 985,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-008.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img11.png&w=750&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img h-auto w-[365px] 비즈 멤버십 앱 화면 2 div div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 gap-[-100px] div mx-auto flex h-full w-full max-w-7xl flex-col items-center justify-between gap-32 xl:flex-row section flex items-center pt-48 xl:h-[760px] xl:pt-0 div -mt-header-height-mobile xl:-mt-header-height-desktop",
+      "content_type": "image/webp",
+      "bytes": 71824,
+      "sha256": "8d4b4bc376006a95dd7babfd868c42d8a68216a25a9da87269171ce4898f0584",
+      "source_sha256": "c152038199f2dc68269a88e3337508596a3d6fc605a8308474d2428465f1768f",
+      "dhash": "990f333323370606",
+      "width": 624,
+      "height": 985,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-009.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_1159.png&w=828&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img bg-surface-elevated size-[380px] object-contain transition-transform duration-300 hover:scale-105 배달렌트 오픈! div overflow-hidden rounded-2xl a block div _carousel__item_1dzq2_24 _carousel__item--horizontal_1dzq2_30 group w-fit max-w-fit pl-32 div _carousel__container_1dzq2_8 _carousel__container--horizontal_1dzq2_11 flex div _carousel__content_1dzq2_5",
+      "content_type": "image/webp",
+      "bytes": 40986,
+      "sha256": "52a1de530cf06d390e7a8f96c450e0057babfb52ec3e3ad5709bbebdf3d8a472",
+      "source_sha256": "f7618450473c44bf3e2eb2b8c37e67e2f84d51c02126f17a476d86d2008c76e6",
+      "dhash": "401924c4b1673cb8",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/",
+        "https://www.peoplecar.co.kr/cs/event"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-010.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_1160.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img object-fill transition-transform duration-300 group-hover/event-card:scale-105 월간 투루 div relative aspect-square overflow-hidden div overflow-hidden transition-all duration-300 a group/event-card block div animate-fade-in grid grid-cols-2 gap-24 group-has-[[data-pending]]:animate-pulse md:grid-cols-3 lg:grid-cols-4 div S:0",
+      "content_type": "image/webp",
+      "bytes": 33780,
+      "sha256": "4d0a36999d2bbc68f3b7d10c96b79e5b471d378c5943f5fa5344b43c4352404a",
+      "source_sha256": "01b450a0b54a96940636ff8e56dc7b1b12f18e6465bbe6d11bcd4fc89f4ec270",
+      "dhash": "03b29a383cf9fef8",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/cs/event"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-011.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_1158.png&w=828&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img bg-surface-elevated size-[380px] object-contain transition-transform duration-300 hover:scale-105 투루카로 초대해  div overflow-hidden rounded-2xl a block div _carousel__item_1dzq2_24 _carousel__item--horizontal_1dzq2_30 group w-fit max-w-fit pl-32 div _carousel__container_1dzq2_8 _carousel__container--horizontal_1dzq2_11 flex div _carousel__content_1dzq2_5",
+      "content_type": "image/webp",
+      "bytes": 30614,
+      "sha256": "74e846cc355c97154c296f17be558041f01ae7842130c976a27c4ebf0bf22d36",
+      "source_sha256": "5a7b308e46c9cceff18a3e14e22531cc7702aac3f05a12ae4eec1c664224d48a",
+      "dhash": "45969696590d8eb5",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/",
+        "https://www.peoplecar.co.kr/cs/event"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/peoplecar/reference-012.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_1159.png&w=640&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img object-fill transition-transform duration-300 group-hover/event-card:scale-105 배달렌트 오픈! div relative aspect-square overflow-hidden div overflow-hidden transition-all duration-300 a group/event-card block div animate-fade-in grid grid-cols-2 gap-24 group-has-[[data-pending]]:animate-pulse md:grid-cols-3 lg:grid-cols-4 div S:0",
+      "content_type": "image/webp",
+      "bytes": 36504,
+      "sha256": "d776d07a80e9ca3cff55f2075bd8e1f46ecdab4d8b58e422d7a6b80c2ed39214",
+      "source_sha256": "dc0f72111480fb57128290d060414d0defb64d48da198fb76582e5ce524e71d5",
+      "dhash": "401821c5b1673cb8",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/cs/event"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-012.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_1144.png&w=828&q=75",
+      "source_tag": "img:image",
+      "context": "img bg-surface-elevated size-[380px] object-contain transition-transform duration-300 hover:scale-105 다- 되는 [ALL-패스] 쿠폰! div overflow-hidden rounded-2xl a block div _carousel__item_1dzq2_24 _carousel__item--horizontal_1dzq2_30 group w-fit max-w-fit pl-32 div _carousel__container_1dzq2_8 _carousel__container--horizontal_1dzq2_11 flex div _carousel__content_1dzq2_5",
+      "content_type": "image/webp",
+      "bytes": 25930,
+      "sha256": "bc093726b2daf5aa9f8e95e5b4b30536de3c6cc6619deef56e974cf8b8a8c750",
+      "source_sha256": "5bb8330023dc3bd04f0d0ab539027c5c893482f38090e2fb5aebe101b11819f2",
+      "dhash": "cd37338303273f37",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/",
+        "https://www.peoplecar.co.kr/cs/event"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-013.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_1069.png&w=828&q=75",
+      "source_tag": "img:image",
+      "context": "img bg-surface-elevated size-[380px] object-contain transition-transform duration-300 hover:scale-105 투루카 월 구독 div overflow-hidden rounded-2xl a block div _carousel__item_1dzq2_24 _carousel__item--horizontal_1dzq2_30 group w-fit max-w-fit pl-32 div _carousel__container_1dzq2_8 _carousel__container--horizontal_1dzq2_11 flex div _carousel__content_1dzq2_5",
+      "content_type": "image/webp",
+      "bytes": 42928,
+      "sha256": "74db7df80e1024d7f9c048565c2c3e49ba2c915eb905be3e0bc84b21cc0bbf91",
+      "source_sha256": "728f7090c2dca3a32607027d24ffb43d20639a789e791cf0e16a314039441131",
+      "dhash": "b3dcd490729c9c63",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/",
+        "https://www.peoplecar.co.kr/cs/event"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/turucar/reference-014.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_733.png&w=828&q=75",
+      "source_tag": "img:image",
+      "context": "img bg-surface-elevated size-[380px] object-contain transition-transform duration-300 hover:scale-105 지금 가입하면 하루 종일 무료! div overflow-hidden rounded-2xl a block div _carousel__item_1dzq2_24 _carousel__item--horizontal_1dzq2_30 group w-fit max-w-fit pl-32 div _carousel__container_1dzq2_8 _carousel__container--horizontal_1dzq2_11 flex div _carousel__content_1dzq2_5",
+      "content_type": "image/webp",
+      "bytes": 18556,
+      "sha256": "cd2b2c7c5096f52f2b4b9a7ede6ae53e93cc9992954d0ccd0abe84c7cd98e501",
+      "source_sha256": "1a6dae5a4cb8acd0574aee36eb54d76ca8b8a9d6cfa613e008b164c0cc410ebb",
+      "dhash": "0f0f33333f864d32",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/",
+        "https://www.peoplecar.co.kr/cs/event"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/peoplecar/reference-016.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_733.png&w=640&q=75",
+      "source_tag": "img:image",
+      "context": "img object-fill transition-transform duration-300 group-hover/event-card:scale-105 지금 가입하면 24시간 9,900원 div relative aspect-square overflow-hidden div overflow-hidden transition-all duration-300 a group/event-card block div animate-fade-in grid grid-cols-2 gap-24 group-has-[[data-pending]]:animate-pulse md:grid-cols-3 lg:grid-cols-4 div S:0",
+      "content_type": "image/webp",
+      "bytes": 17242,
+      "sha256": "fd9021fc586a7c1e7f00bffe9913e04cc1992304a2a38922d60edebcaaa7ddb9",
+      "source_sha256": "e0811fb867b3c76df0f7a952c9ae16eb54bd8fb0d599fe606e05ea76c8777668",
+      "dhash": "0f0f3333178e4532",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/cs/event"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/peoplecar/reference-017.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_1155.png&w=828&q=75",
+      "source_tag": "img:image",
+      "context": "img bg-surface-elevated size-[380px] object-contain transition-transform duration-300 hover:scale-105 [여름 특가] 하루종일 2만 원대! div overflow-hidden rounded-2xl a block div _carousel__item_1dzq2_24 _carousel__item--horizontal_1dzq2_30 group w-fit max-w-fit pl-32 div _carousel__container_1dzq2_8 _carousel__container--horizontal_1dzq2_11 flex div _carousel__content_1dzq2_5",
+      "content_type": "image/webp",
+      "bytes": 53380,
+      "sha256": "771ee07ac47a1954b6cec06b07bbefa0e06383c14392c81e2e1017e22505ab17",
+      "source_sha256": "53d1cf21ea68db0c0c0d5c1e0cea6bd0eee56f4e149559212817bca0358b10fb",
+      "dhash": "ec8c96dc9bf47c6c",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/peoplecar/reference-018.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_1154.png&w=828&q=75",
+      "source_tag": "img:image",
+      "context": "img bg-surface-elevated size-[380px] object-contain transition-transform duration-300 hover:scale-105 월간 투루 div overflow-hidden rounded-2xl a block div _carousel__item_1dzq2_24 _carousel__item--horizontal_1dzq2_30 group w-fit max-w-fit pl-32 div _carousel__container_1dzq2_8 _carousel__container--horizontal_1dzq2_11 flex div _carousel__content_1dzq2_5",
+      "content_type": "image/webp",
+      "bytes": 26636,
+      "sha256": "4a58701ade9ef0be5567602f3b48ef9051ee1b756b665f3690a1b6fb4edcef45",
+      "source_sha256": "3bf817e7bcc0c88063562143a14f4461e0fdceb9c8acf522d5a0b68babb5ec0e",
+      "dhash": "e44d33f0f1634c1e",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/peoplecar/reference-019.webp",
+      "source_url": "https://www.peoplecar.co.kr/_next/image?url=https%3A%2F%2Fapis.peoplecar.co.kr%3A8081%2Fimages%2FNotice%2FNoticeThumb3_1153.png&w=828&q=75",
+      "source_tag": "img:image",
+      "context": "img bg-surface-elevated size-[380px] object-contain transition-transform duration-300 hover:scale-105 2026 전국스팟 도장깨기 div overflow-hidden rounded-2xl a block div _carousel__item_1dzq2_24 _carousel__item--horizontal_1dzq2_30 group w-fit max-w-fit pl-32 div _carousel__container_1dzq2_8 _carousel__container--horizontal_1dzq2_11 flex div _carousel__content_1dzq2_5",
+      "content_type": "image/webp",
+      "bytes": 32810,
+      "sha256": "de2e7fb094e546d61657ee11603bbfea91a1f2af28dd0875f309e013b646d711",
+      "source_sha256": "5649a525588bf81dd188191ae8fcdf0ebf3afce82dd9f92756e78166c53594b8",
+      "dhash": "e936d6c4a8e82121",
+      "width": 670,
+      "height": 670,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.peoplecar.co.kr/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/turucar/og.png",
       "source_url": "https://turucar.com/images/seo/og.png",
       "source_tag": "og:image",
       "content_type": "image/png",
@@ -28,79 +710,6 @@
       "sha256": "8c9b1f18d575d3a72088361860bd01d7c5a77d55e6e962a8f883f074c1fd2f85",
       "width": 800,
       "height": 400
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/peoplecar/logo-1.svg",
-      "source_url": "https://turucar.com/svg/turucar-logo.svg",
-      "source_tag": "json-ld.logo.url",
-      "context": "structured data logo",
-      "content_type": "image/svg+xml",
-      "bytes": 3759,
-      "sha256": "1ee5c5627433351a793a89d6592a3251068baa44b1fb3e9fe395a74e07dabdd3",
-      "width": 160,
-      "height": 27
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/peoplecar/logo-2.png",
-      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img07.png&w=2048&q=75",
-      "source_tag": "img:semantic-logo",
-      "context": "img min-w-800 object-cover object-center xl:min-w-full xl:translate-x-[-15%] xl:object-left 투루카 종합 서비스 이미지 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-1 h-full div flex h-full w-full flex-col items-center ju",
-      "content_type": "image/png",
-      "bytes": 843098,
-      "sha256": "8bb10f8af022f778104db531aac81de70f7efa3eccd1dfc1dc707ce41212bd5e",
-      "width": 1600,
-      "height": 1068
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_국내/peoplecar/logo-2.png",
-      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img07.png&w=2048&q=75",
-      "source_tag": "img:semantic-banner",
-      "context": "img min-w-800 object-cover object-center xl:min-w-full xl:translate-x-[-15%] xl:object-left 투루카 종합 서비스 이미지 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-1 h-full div flex h-full w-full flex-col items-center ju",
-      "content_type": "image/png",
-      "bytes": 843098,
-      "sha256": "8bb10f8af022f778104db531aac81de70f7efa3eccd1dfc1dc707ce41212bd5e",
-      "width": 1600,
-      "height": 1068,
-      "reused_from": "logo"
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/peoplecar/reference-1.webp",
-      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img01.png&w=3840&q=75",
-      "source_tag": "img:page-image",
-      "context": "img h-auto max-h-600 w-405 object-contain xl:max-h-none 투루카 앱 화면 div mx-96 aspect-[405/630] overflow-hidden xl:mx-0 xl:mt-130 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 div mx-auto flex h-full w-full max-",
-      "content_type": "image/webp",
-      "bytes": 71434,
-      "sha256": "00bd5b93eeae3631304de8951953ba068bccdfdf4dc1f456a5349fbb54ee9618",
-      "width": 698,
-      "height": 1350
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/peoplecar/reference-2.webp",
-      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img02.png&w=3840&q=75",
-      "source_tag": "img:page-image",
-      "context": "img h-auto w-566 object-cover 자동차 div absolute -bottom-121 z-20 mx-48 flex h-270 items-center overflow-hidden xl:-left-1/3 xl:mx-0 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 div mx-auto flex h-full w-full",
-      "content_type": "image/webp",
-      "bytes": 21082,
-      "sha256": "940a119714da56a8cff17a333769b677b9d68c775fe7971923be500aaa38912a",
-      "width": 661,
-      "height": 267
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/peoplecar/reference-3.webp",
-      "source_url": "https://www.peoplecar.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_panel_sharing_img10.png&w=750&q=75",
-      "source_tag": "img:page-image",
-      "context": "img h-auto w-[365px] 비즈 멤버십 앱 화면 1 div div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 gap-[-100px] div mx-auto flex h-full w-full max-w-7xl flex-col items-center justify-between gap-32 xl:flex-row section fle",
-      "content_type": "image/webp",
-      "bytes": 95768,
-      "sha256": "d239f67b80789bf85006575921669996fafe9ea5652020bca46fc28a981ca81b",
-      "width": 624,
-      "height": 985
     }
   ]
 }

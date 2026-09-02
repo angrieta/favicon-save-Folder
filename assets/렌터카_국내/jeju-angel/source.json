@@ -2,10 +2,21 @@
   "company": "제주엔젤렌트카",
   "category": "렌터카_국내",
   "requested_url": "https://www.jejuangelcar.co.kr/",
-  "page_url": "https://www.jejuangeltour.com/",
+  "page_url": "https://www.jejuangelcar.co.kr/",
   "page_title": "제주렌터카 제주엔젤카 - 제주도 렌터카 실시간 예약할인, 완전자차 무료",
-  "collection_status": "partial",
-  "collection_error": "logo:ValueError:https://www.jejuangeltour.com/theme/basic/img/common/logo_img; reference:ValueError:https://www.jejuangeltour.com/theme/basic/img/common/logo_img",
+  "collection_status": "complete",
+  "collection_error": "asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.woff:HTTPError; asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.otf:HTTPError; asset:https://www.jejuangeltour.com/Tour/file/top_image/angeltour/2018.5ab0d1e495b05.gif:HTTPError; asset:https://www.jejuangeltour.com/Tour/file/top_image/angeltour/2020.5e8706679b276.gif:HTTPError; asset:https://www.jejuangeltour.com/Tour/file/top_image/angeltour/2018.5af155b54f909.gif:HTTPError; asset:https://www.jejuangeltour.com/Tour/file/top_image/angeltour/2022.633d4354510b9.gif:HTTPError; asset:https://www.jejuangeltour.com/Tour/file/top_image/angeltour/2020.5e870679d6da1.gif:HTTPError; asset:https://www.jejuangeltour.com/Tour/file/top_image/angeltour/2020.5f7c2bcce0785.gif:HTTPError; asset:https://www.jejuangeltour.com/Tour/file/top_image/angeltour/2019.5cc7da076297d.gif:HTTPError; asset:https://www.jejuangeltour.com/Tour/file/top_image/angeltour/2020.5f7c2bab8132b.gif:HTTPError; asset:https://www.jejuangeltour.com/Tour/file/top_image/angeltour/2022.633d44a11d371.gif:HTTPError; asset:https://www.jejuangeltour.com/theme/basic/fonts/fontawesome-webfont.ttf?v=4.7.0:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 1,
+    "desktop_pages": 1,
+    "mobile_pages": 1,
+    "stylesheets": 15,
+    "scripts": 0,
+    "candidates": 210,
+    "attempted_assets": 210,
+    "errors": 37,
+    "collected_at": "2026-09-03T08:12:05.10022+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,1302 @@
       "height": 256
     },
     {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-001.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_event/31345149_TndEkzab_1d1ca88960d942a12d350a1810e851244cab84e7.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"bestSectionTitle\"><span class=\"point\">이벤트 </span> </h1>\n<a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=4838\">\n<div class=\"event_div\" style=\"\">\n<div class=\"img\"><img src=\"/img_admin/angeltour/data/file/angel_event/31345149_TndEkzab_1d1ca88960d942a12d350a1810e851244cab84e7.png\"/></div>\n<div class=\"text\">마지막 얼리버드 특가 이벤트</div>\n</div>\n</a>\n<a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr",
+      "content_type": "image/webp",
+      "bytes": 16738,
+      "sha256": "b5d051d6552e0f2617d2fb791d74954df3b6fd8ee67f074960334ba9be8dc651",
+      "source_sha256": "7a4f94ef1b8920c8dc7642c1c3c112283de9bb01edbc54cce8d23591a19af6cf",
+      "dhash": "0d93858e6eae0509",
+      "width": 640,
+      "height": 336,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-002.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_event/31345149_ZPIv51LU_1a2aa1b64757fdb552dfc1cb1afca903a19d64df.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "class=\"text\">마지막 얼리버드 특가 이벤트</div>\n</div>\n</a>\n<a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=4837\">\n<div class=\"event_div\" style=\"float:right\">\n<div class=\"img\"><img src=\"/img_admin/angeltour/data/file/angel_event/31345149_ZPIv51LU_1a2aa1b64757fdb552dfc1cb1afca903a19d64df.png\"/></div>\n<div class=\"text\">제주용암수 증정 이벤트</div>\n</div>\n</a>\n<a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id",
+      "content_type": "image/webp",
+      "bytes": 15590,
+      "sha256": "6a10e4d114d09755558ca368c4e4b2c07049055c39e0f28b1ee47deb37fee05b",
+      "source_sha256": "a4347e73994a0bb23cfe349da72b8ecc486a9d12cd5c32924b8fe65fdc4fc51d",
+      "dhash": "318e86b22e8e0009",
+      "width": 640,
+      "height": 336,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-003.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_event/31345149_MLXxGR1u_03606b3dd8f23ea30c85c935a40045593c1f0ded.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/></div>\n<div class=\"text\">제주용암수 증정 이벤트</div>\n</div>\n</a>\n<a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=4835\">\n<div class=\"event_div\" style=\"\">\n<div class=\"img\"><img src=\"/img_admin/angeltour/data/file/angel_event/31345149_MLXxGR1u_03606b3dd8f23ea30c85c935a40045593c1f0ded.png\"/></div>\n<div class=\"text\">네이버리뷰 VT 증정 이벤트</div>\n</div>\n</a>\n<a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr",
+      "content_type": "image/webp",
+      "bytes": 23160,
+      "sha256": "5e12b82134885494aee18414132f9ad537e01dc5718074c347a2e1645a1fc86e",
+      "source_sha256": "08ac5349c32e523a714471586808f5a6a64a07aa4f5f107cdad872a922a1b27d",
+      "dhash": "847c5b13392c0c09",
+      "width": 640,
+      "height": 336,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-004.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_event/31345149_jLsxdnAH_a8f7fca551f8e43354cc3bc461d790aa60df5c57.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\n</li>\n<li style=\"height: 200px\">\n<a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=3908\" target=\"_blank\">\n<img alt=\"매일매일 리뷰 이벤트 : 리뷰 쓰고 선물 받자!\" src=\"/img_admin/angeltour/data/file/angel_event/31345149_jLsxdnAH_a8f7fca551f8e43354cc3bc461d790aa60df5c57.png\" title=\"매일매일 리뷰 이벤트 : 리뷰 쓰고 선물 받자!\" width=\"279\"/>\n</a>\n<br/>\n<span style=\"line-height: 1.5\">\n\n                   ",
+      "content_type": "image/webp",
+      "bytes": 13794,
+      "sha256": "23443910a16a2c8097428a1fc7a346bbd3eeea0d5e66cbb31f3685976823fa4f",
+      "source_sha256": "f2451a8b398d8b77f5b0a5e74e6714addc4d19bc6b3f60461e08b524f129580c",
+      "dhash": "04b086ccac0c9cf9",
+      "width": 640,
+      "height": 336,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-001.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a7ed198b8b4b.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "l-wrap l__mainvisual\">\n<ul class=\"js__main-slider l__main-slider\">\n<li><a href=\"https://www.jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4838\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.6a7ed198b8b4b.png\"/></a></li>\n<li><a href=\"https://www.jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4837\" title=\"\"><img",
+      "content_type": "image/webp",
+      "bytes": 18188,
+      "sha256": "d51458a4a64c8a9c05ee03885411e4d511263e4908984ac82417465783afda6f",
+      "source_sha256": "7dbccdef7a002191723c1574c6c772078b1f3f1253db07be4983541338e0fdcb",
+      "dhash": "0b83878a2e9c9c23",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-002.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a7eca3ea395c.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "img_admin/angeltour/data/banner/2026.6a7ed198b8b4b.png\"/></a></li>\n<li><a href=\"https://www.jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4837\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.6a7eca3ea395c.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3895\" title=\"\"><img src=\"/img_admin/angeltour/da",
+      "content_type": "image/webp",
+      "bytes": 17026,
+      "sha256": "db6c48f68fc86571473abc6cbf474934408853b4f28bea33a3f19ea1f4be800b",
+      "source_sha256": "1d38b6cad55a46cea8ab87668aeb7ea7006875ec78f08116b8ee88e44e576fcc",
+      "dhash": "318c86b22e8e8c20",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-003.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2025.68afc071e784b.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "id=4837\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.6a7eca3ea395c.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3895\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2025.68afc071e784b.png\"/></a></li>\n<li><a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4835&amp;_gl=1*t9kes5*_",
+      "content_type": "image/webp",
+      "bytes": 22212,
+      "sha256": "42a1ce889cb47c3e761f7ea995cb968e94ee0f083f708e385e54417f8c22eff3",
+      "source_sha256": "c3e8ffc412f277ba41f191b0eb2ead4a54dac99157e41fdab45ee81eec821405",
+      "dhash": "c73c777631737141",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-004.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a6ad2955b683.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "TcxNTMyNjU0MS4xNzc4MTI5NDY2Li0uLS4xNzgzNDc2MjIxLjExMDk1MzU4NzAuMTc4NTM4NTUzOC4xNzg1Mzg1NTM3*_ga*MTY5MTk0MzEyMi4xNzcwMjUzOTk0*_ga_MD6QFXJQ1V*czE3ODUzODU1MzckbzEy\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.6a6ad2955b683.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3754\" title=\"\"><img src=\"/img_admin/angeltour/da",
+      "content_type": "image/webp",
+      "bytes": 25340,
+      "sha256": "e8bf0e17cdd32c71c7783e0866fe5b5f1014ea6309dd49871be38058d1fb62ac",
+      "source_sha256": "6c1867e4c0f8d1734f8230d985562b6b4eef1737dc13d40f15b386f784e73907",
+      "dhash": "80795813716b2c94",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-005.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6996652c0d1ec.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "zckbzEy\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.6a6ad2955b683.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3754\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.6996652c0d1ec.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3374\" title=\"\"><img src=\"/img_admin/angeltour/da",
+      "content_type": "image/webp",
+      "bytes": 19456,
+      "sha256": "9d1682215f8a92cb6d4d99866da24a68e78e31defd292752f69008f0891200c3",
+      "source_sha256": "041ef2115a8e709723e18ddf3927b4b2169f518894dcd7eb5fbbdc7a5d18d819",
+      "dhash": "779c4e6d34757d8c",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-006.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.699e4492c5ea5.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "id=3754\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.6996652c0d1ec.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3374\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.699e4492c5ea5.png\"/></a></li>\n<li><a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4833\" title=\"\"><img src",
+      "content_type": "image/webp",
+      "bytes": 22672,
+      "sha256": "6713ef3433b2ce936be6d2727730bcbb1b94e078fd4bda4c77387d5010c42977",
+      "source_sha256": "a6b2f276702a443a0209ed5402ac0c9d3eb6f5f679f1839d094fdb903d833bfc",
+      "dhash": "22f47131594c658a",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-007.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a4b36d77625e.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "c=\"/img_admin/angeltour/data/banner/2026.699e4492c5ea5.png\"/></a></li>\n<li><a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4833\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.6a4b36d77625e.png\"/></a></li>\n<li><a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4829&amp;_gl=1*vuktal*_",
+      "content_type": "image/webp",
+      "bytes": 19652,
+      "sha256": "4811064a7d8a12a2dbcf8b8317dba93f35c6f7614b836c9dbde6870227dcdcc0",
+      "source_sha256": "91a1dbe5c1a265b194199add6aa8ce0455212eb94def8847b30646f74c82ef92",
+      "dhash": "8b7d796b5b737bfc",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-angel/logo-001.png",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/common/logo_img",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img 제주엔젤카로고 a li logo ul l__gnb div l-content nav l-wrap gnb",
+      "content_type": "image/png",
+      "bytes": 2612,
+      "sha256": "835b891bd3cea35b406db2a45d9579e25246031adf6fa9674fff4a3e7adbfd73",
+      "source_sha256": "a813728bf44bffc9f12fb1def1f513b05b6c2d7bb2a221c5c4a5d37ec713acf5",
+      "dhash": "0000000000000000",
+      "width": 172,
+      "height": 88,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-008.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a30ef25ce6e8.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "TcxNTMyNjU0MS4xNzc4MTI5NDY2LjcyNzIzNDgxLjE3ODAzODAyMzguMTc4MDM4MDIzNw..*_ga*MTY5MTk0MzEyMi4xNzcwMjUzOTk0*_ga_MD6QFXJQ1V*czE3ODE1OTAwNTEkbzgyJGcxJHQxNzgxNTkxNzk2\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2026.6a30ef25ce6e8.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=notice&amp;wr_id=332&amp;sfl=wr_subject&amp;stx=ccm&amp;sop=and\" title",
+      "content_type": "image/webp",
+      "bytes": 16416,
+      "sha256": "288f7726e3c466490556273530393e3ebd4f3f9f57625e5b06efb9b921d75446",
+      "source_sha256": "3eb4e635e50ada7e2de80d72b2674dc30a4724551a68f272b3ab62eed10d14ae",
+      "dhash": "cc313b3933736c89",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-009.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2025.68afc16c66959.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "n/angeltour/data/banner/2026.6a30ef25ce6e8.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=notice&amp;wr_id=332&amp;sfl=wr_subject&amp;stx=ccm&amp;sop=and\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2025.68afc16c66959.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=notice&amp;wr_id=315\" title=\"\"><img src=\"/img_admin/angeltour/data/ban",
+      "content_type": "image/webp",
+      "bytes": 22504,
+      "sha256": "163f81d6e82c0dd3daa414dfdbfd116080babbd0690f33c964f931a25f65d02b",
+      "source_sha256": "a610308feebd321c5fb2c1226238eb0a3b621db07d4b36cdc1b7b482a30d8619",
+      "dhash": "e75f5b19f1797fff",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-010.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2025.68afc161c53e7.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "m&amp;sop=and\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2025.68afc16c66959.png\"/></a></li>\n<li><a href=\"/bbs2/board.php?bo_table=notice&amp;wr_id=315\" title=\"\"><img src=\"/img_admin/angeltour/data/banner/2025.68afc161c53e7.png\"/></a></li>\n</ul><!-- .l-main-slider -->\n</div><!-- .l__mainvisual -->\n<section class=\"bestSection\" id=\"rentacarList\">\n<",
+      "content_type": "image/webp",
+      "bytes": 11982,
+      "sha256": "9b5a75fe3fabb9f9e152b9d624b417dce1780b2a4acce6b73a211adb4df64a4c",
+      "source_sha256": "93e139166bf1bf14928294e2838e9e69cadde5d66f349e4c217635fb73573499",
+      "dhash": "0048b2b4068c8c00",
+      "width": 640,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jeju-angel/social-001.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/common/og_img.jpg",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "content=\"제주렌트카 실시간예약, 소비자중심경영 인증, 완전자차 무료(단독사고 보장), 제주도렌트카 24H 이전 취소 시 100% 환불, 도령로171-1\" property=\"og:description\">\n<meta content=\"제주엔젤렌트카\" property=\"og:site_name\">\n<meta content=\"https://www.jejuangeltour.com/theme/basic/img/common/og_img.jpg\" property=\"og:image\">\n<meta content=\"https://www.jejuangeltour.com/\" property=\"og:url\">\n<title>제주렌터카 제주엔젤카 - 제주도 렌터카 실시간",
+      "content_type": "image/webp",
+      "bytes": 15012,
+      "sha256": "12cf2555396cb3522e63d6a5be4dc80c2b5afc9dad4a8266ea2a82edadac2ced",
+      "source_sha256": "e663548353326c5400f5e045d8930c4fc01e77dd08d64bc893b41207831d0070",
+      "dhash": "0048070b06661802",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-005.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/main/banner-tour1.jpg",
+      "source_tag": "external-css",
+      "context": "-width:1200px; display:table; }\r\nul.l__tour-banner > li { display:table-cell; width:25%; height:auto; background-position:right center; background-repeat:no-repeat; }\r\nul.l__tour-banner > li img { width:100%; height:auto; }\r\nli.tour-banner1 { background-image:url('/theme/basic/img/main/banner-tour1.jpg'); }\r\nli.tour-banner2 { background-image:url('/theme/basic/img/main/banner-tour2.jpg'); }\r\nli.to",
+      "content_type": "image/webp",
+      "bytes": 18042,
+      "sha256": "0f83fc79af10ca8e206c17f7f2710ba2ff18bc0d7b6fa7bed606a59d395ce58d",
+      "source_sha256": "718e9808ee539302835776d0aeb3fe9e2b97e79fd52328f701908acf060def1c",
+      "dhash": "292d4d4dad5c1d98",
+      "width": 500,
+      "height": 275,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-006.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/main/banner-tour2.jpg",
+      "source_tag": "external-css",
+      "context": "5%; height:auto; background-position:right center; background-repeat:no-repeat; }\r\nul.l__tour-banner > li img { width:100%; height:auto; }\r\nli.tour-banner1 { background-image:url('/theme/basic/img/main/banner-tour1.jpg'); }\r\nli.tour-banner2 { background-image:url('/theme/basic/img/main/banner-tour2.jpg'); }\r\nli.tour-banner3 { background-image:url('/theme/basic/img/main/banner-tour3.jpg'); }\r\nli.to",
+      "content_type": "image/webp",
+      "bytes": 14860,
+      "sha256": "ea99008813858592424fcab61736bba3578239f679207520e0886b84f8b97d27",
+      "source_sha256": "fc981cff8d9397d446d5bcd057a8cc619d837b4bcf4d0c087d88f6f98cec005f",
+      "dhash": "174f4eccc6474747",
+      "width": 500,
+      "height": 275,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-007.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/main/banner-tour3.jpg",
+      "source_tag": "external-css",
+      "context": ".l__tour-banner > li img { width:100%; height:auto; }\r\nli.tour-banner1 { background-image:url('/theme/basic/img/main/banner-tour1.jpg'); }\r\nli.tour-banner2 { background-image:url('/theme/basic/img/main/banner-tour2.jpg'); }\r\nli.tour-banner3 { background-image:url('/theme/basic/img/main/banner-tour3.jpg'); }\r\nli.tour-banner4 { background-image:url('/theme/basic/img/main/banner-tour4.jpg'); }\r\n/* ==",
+      "content_type": "image/webp",
+      "bytes": 8568,
+      "sha256": "685b4460e9ede457971e6ee435a64f203976efcb230a897cb23b47ecc0b21e14",
+      "source_sha256": "a5c9a85eda04ef921927507849b3b4835b2c5c7dbe0d9ac195937c5f4f9aa4af",
+      "dhash": "4e5a6f6fefbf8bd3",
+      "width": 500,
+      "height": 275,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-008.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/main/banner-tour4.jpg",
+      "source_tag": "external-css",
+      "context": "mage:url('/theme/basic/img/main/banner-tour1.jpg'); }\r\nli.tour-banner2 { background-image:url('/theme/basic/img/main/banner-tour2.jpg'); }\r\nli.tour-banner3 { background-image:url('/theme/basic/img/main/banner-tour3.jpg'); }\r\nli.tour-banner4 { background-image:url('/theme/basic/img/main/banner-tour4.jpg'); }\r\n/* ==================================================\r\n\t.l__latest-wrap\r\n=================",
+      "content_type": "image/webp",
+      "bytes": 39408,
+      "sha256": "17d24c31277b2921448998b9393eb8696aeda3ed1180058682cd042bb941b956",
+      "source_sha256": "27dded928efaa430cef87b9d41856110ccfe11472ab1a70f2bb04e521c60b7ac",
+      "dhash": "1badcfcf9bcd9498",
+      "width": 500,
+      "height": 275,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-011.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a7ed198b8955.png",
+      "source_tag": "html-data, inline-css",
+      "context": "our.com/theme/basic/js/m.daterangepicker.js?ver=202305161\"></script><div class=\"l__mainvisual l-wrap\">\n<ul class=\"js__main-slider l__main-slider\">\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2026.6a7ed198b8955.png');\"><a href=\"https://www.jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4838\" title=\"\"><span style=\"dis",
+      "content_type": "image/webp",
+      "bytes": 33098,
+      "sha256": "48fceb9018a59b97c2fb0ef15ae03f802be0f5010ef965c688256133946865e7",
+      "source_sha256": "0c5087e3d20004ca5aa509752e6698e4befba13f8b3f32f29e805596a5a68724",
+      "dhash": "3ecfcdcc2ccccc2b",
+      "width": 2000,
+      "height": 464,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-012.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a7eca3ea33c5.png",
+      "source_tag": "html-data, inline-css",
+      "context": "https://www.jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4838\" title=\"\"><span style=\"display: none\">마지막 얼리버드 특가</span></a></li>\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2026.6a7eca3ea33c5.png');\"><a href=\"https://www.jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4837\" title=\"\"><span style=\"dis",
+      "content_type": "image/webp",
+      "bytes": 83350,
+      "sha256": "046967364c1634b62afb9e6e49f282029e0007167fb0adfd69d63e478c3165ac",
+      "source_sha256": "1628dd2571c8095d67eb533d411d6b0f09ced744cfc7ed468f2c0d5ecb0e6046",
+      "dhash": "3cccc6e2523223a7",
+      "width": 2000,
+      "height": 464,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-013.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2025.68afe308cdcdf.png",
+      "source_tag": "html-data, inline-css",
+      "context": "ttps://www.jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4837\" title=\"\"><span style=\"display: none\">제주용암수 증정 이벤트</span></a></li>\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2025.68afe308cdcdf.png');\"><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3895\" title=\"\"><span style=\"display: none\">실시간 예약 및 슈퍼면책 할인 ",
+      "content_type": "image/webp",
+      "bytes": 41762,
+      "sha256": "69a9f7b8aa3f00576caa818a6f2a829a3edee662bf3fd9e62eaa339308e0c234",
+      "source_sha256": "c8637abb4ba0306027b0259749bdfcaf68d7c3e5d42e5262fa20a387cae1a481",
+      "dhash": "441b3b3c3223234c",
+      "width": 2000,
+      "height": 464,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-014.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a6ad2955b233.png",
+      "source_tag": "html-data, inline-css",
+      "context": "df.png');\"><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3895\" title=\"\"><span style=\"display: none\">실시간 예약 및 슈퍼면책 할인 이벤트</span></a></li>\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2026.6a6ad2955b233.png');\"><a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4835&amp;_gl=1*t9kes5*_gcl_au*MTcxN",
+      "content_type": "image/webp",
+      "bytes": 58106,
+      "sha256": "9880770e07916b9017cf9c14afe693b7971bf018cb61bcdb86f9c8e9049046f1",
+      "source_sha256": "6e1683f23c2d5d691e7c343797cba417889fb0b4c3314b28a2bf29de0a44a0f8",
+      "dhash": "c999351322242ccd",
+      "width": 2000,
+      "height": 464,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-015.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6996652c0ce99.png",
+      "source_tag": "html-data, inline-css",
+      "context": "zg1NTM3*_ga*MTY5MTk0MzEyMi4xNzcwMjUzOTk0*_ga_MD6QFXJQ1V*czE3ODUzODU1MzckbzEy\" title=\"\"><span style=\"display: none\">네이버리뷰 VT 증정 이벤트</span></a></li>\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2026.6996652c0ce99.png');\"><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3754\" title=\"\"><span style=\"display: none\">신한카드 즉시할인</span><",
+      "content_type": "image/webp",
+      "bytes": 32518,
+      "sha256": "a157401e14391576baa8602eb695cfc16dbc74f9502ee00d39e44cfa37b83938",
+      "source_sha256": "87752beb9fa610633ed4cf6fcbfdfc2614e17b074cdad766ec35237957f43e1d",
+      "dhash": "3f5b5b3d7a2b3b5b",
+      "width": 2000,
+      "height": 464,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-016.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.699e4492c5c9d.png",
+      "source_tag": "html-data, inline-css",
+      "context": "6996652c0ce99.png');\"><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3754\" title=\"\"><span style=\"display: none\">신한카드 즉시할인</span></a></li>\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2026.699e4492c5c9d.png');\"><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3374\" title=\"\"><span style=\"display: none\">김포/청주 공항 주차 대행 서비",
+      "content_type": "image/webp",
+      "bytes": 44802,
+      "sha256": "fe1d2f4c30d0eafb4c4ccaa0e3150ac33c694fd8ce607a1a8cdd9ae8e018711c",
+      "source_sha256": "846635afdb832283cd945e1113478c87015dfcdc38a3f9926c58e40562415ece",
+      "dhash": "08311b3b133c3552",
+      "width": 2000,
+      "height": 479,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-017.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a4b37d061e1e.png",
+      "source_tag": "html-data, inline-css",
+      "context": "5c9d.png');\"><a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=3374\" title=\"\"><span style=\"display: none\">김포/청주 공항 주차 대행 서비스</span></a></li>\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2026.6a4b37d061e1e.png');\"><a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4833\" title=\"\"><span style=\"display",
+      "content_type": "image/webp",
+      "bytes": 38692,
+      "sha256": "ffcbf44bb4f16485a43bd16a1c5f83511800908d057bb26ae2e4934ba3871e02",
+      "source_sha256": "1b778d671303493fe22ae82cefb873373b419c067b8cfc627c0a674e5fe6b293",
+      "dhash": "ce3d3232b3b333dd",
+      "width": 2000,
+      "height": 464,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-018.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a30ef25ce5b7.png",
+      "source_tag": "html-data, inline-css",
+      "context": "f=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4833\" title=\"\"><span style=\"display: none\">제주엔젤카XJDC면세점</span></a></li>\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2026.6a30ef25ce5b7.png');\"><a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4829&amp;_gl=1*vuktal*_gcl_au*MTcxN",
+      "content_type": "image/webp",
+      "bytes": 29440,
+      "sha256": "583c8d8727eee8d826eec73e61565565c0aaa65a31eb3d67d422eec42d2c3971",
+      "source_sha256": "d31dd53452f676ec45d08f3ff7cb07feb1543bb85263e449a98562324ded4638",
+      "dhash": "c53a3a1233322c49",
+      "width": 2000,
+      "height": 464,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-019.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2025.68aebced0c208.png",
+      "source_tag": "html-data, inline-css",
+      "context": "zEyMi4xNzcwMjUzOTk0*_ga_MD6QFXJQ1V*czE3ODE1OTAwNTEkbzgyJGcxJHQxNzgxNTkxNzk2\" title=\"\"><span style=\"display: none\">제주 ESG 여행 실천 캠페인</span></a></li>\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2025.68aebced0c208.png');\"><a href=\"/bbs2/board.php?bo_table=notice&amp;wr_id=332&amp;sfl=wr_subject&amp;stx=ccm&amp;sop=and\" title=\"\"><span st",
+      "content_type": "image/webp",
+      "bytes": 47534,
+      "sha256": "a01db6dd42792354f4d70a69caf1a0fd2f053f2bba07a2ae518910f10fb9ace1",
+      "source_sha256": "9d7f24f27a5e13cd0b0025b7de7fa353bf9db1a55a86640d4c65b2cbbc415439",
+      "dhash": "ff373b1b337333ff",
+      "width": 2000,
+      "height": 464,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-angel/banner-020.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2025.68aebd0a9dd6f.png",
+      "source_tag": "html-data, inline-css",
+      "context": "d.php?bo_table=notice&amp;wr_id=332&amp;sfl=wr_subject&amp;stx=ccm&amp;sop=and\" title=\"\"><span style=\"display: none\">소비자중심경영CCM_노출</span></a></li>\n<li style=\"background-image: url('/img_admin/angeltour/data/banner/2025.68aebd0a9dd6f.png');\"><a href=\"/bbs2/board.php?bo_table=notice&amp;wr_id=315\" title=\"\"><span style=\"display: none\">키오스크 이용 안내</span></a></",
+      "content_type": "image/webp",
+      "bytes": 24196,
+      "sha256": "3b441b0724da7c9ea223a90c9912cebf6305c2d8c60f88bd2256c13a9b5ca10c",
+      "source_sha256": "1c98307827348bbd46a371343dab566c2de45ac22cd03a6f0db696b5fb77ccb6",
+      "dhash": "00e4edec2ccccc00",
+      "width": 2000,
+      "height": 464,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-009.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_event/31345149_4lstpVDr_815167dedd38e63d96a2dd5ba56dbee68a3b0eed.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "class=\"text\">네이버리뷰 VT 증정 이벤트</div>\n</div>\n</a>\n<a href=\"/bbs2/board.php?bo_table=angel_event&amp;wr_id=4833\">\n<div class=\"event_div\" style=\"float:right\">\n<div class=\"img\"><img src=\"/img_admin/angeltour/data/file/angel_event/31345149_4lstpVDr_815167dedd38e63d96a2dd5ba56dbee68a3b0eed.png\"/></div>\n<div class=\"text\">제주엔젤카 X JDC면세점</div>\n</div>\n</a>\n<div style=\"width: 100%;height: 20px;clear: both;\"> <",
+      "content_type": "image/webp",
+      "bytes": 19152,
+      "sha256": "f4c607213543f8944db8a6b733fcf37a5ba2153c89625eac1027760e959223cb",
+      "source_sha256": "b86d37d92195885cc5052aac41787b15c507530c51efc643c9d69bf65c0a3128",
+      "dhash": "837d796b59f9fe86",
+      "width": 640,
+      "height": 336,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-010.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_event/31345149_8B7sY4cS_734ec53048c8f43bdd70b4904b4aea3963e94cff.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "      </span>\n</li>\n<li style=\"height: 200px\">\n<a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4831\" target=\"_blank\">\n<img alt=\"2026 농촌크리에이투어\" src=\"/img_admin/angeltour/data/file/angel_event/31345149_8B7sY4cS_734ec53048c8f43bdd70b4904b4aea3963e94cff.png\" title=\"2026 농촌크리에이투어\" width=\"279\"/>\n</a>\n<br/>\n<span style=\"line-height: 1.5\">\n\n                        2026 농촌크",
+      "content_type": "image/webp",
+      "bytes": 20762,
+      "sha256": "a6b469ecdef65835a345b384647e1710f919f42324e928ca2b4956d3749bc89f",
+      "source_sha256": "fbb94fb11403940deaef41bbd24f282bf68d63abd023dbc17f9e964ffce6b4d8",
+      "dhash": "b20c2d7935131406",
+      "width": 640,
+      "height": 336,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-011.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_7Nu4Qfoq_36058b9060c5b2d772b2c25033047407747b4c93.png",
+      "source_tag": "html-data, img:image",
+      "context": "s://jejuangeltour.com/bbs2/board.php?bo_table=angel_carlineup&amp;wr_id=8\" target=\"_blank\">\n<div style=\"height: 279px; width:279px; overflow: hidden\">\n<img alt=\"제주엔젤카 수입차 라인업\" src=\"/img_admin/angeltour/data/file/angel_carlineup/31345149_7Nu4Qfoq_36058b9060c5b2d772b2c25033047407747b4c93.png\" style=\"border-radius: 5px\" title=\"제주엔젤카 수입차 라인업\" width=\"279px\"/>\n</div>\n</a>\n</li>\n<li style=\"height: 320px;",
+      "content_type": "image/webp",
+      "bytes": 22100,
+      "sha256": "0ab22f5eccf92d7370cb5cf8d2142f0f80f0adaa5589b913e4f8d4a1560daff3",
+      "source_sha256": "86b14f20be79f20fb3c227ee38268d763257d69bf0aa54f047b48fb3017a09b5",
+      "dhash": "3f3ffffdf3e6e1f8",
+      "width": 667,
+      "height": 668,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-012.webp",
+      "source_url": "https://www.jejuangeltour.com/img/world.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "v class=\"headerInline w10\">\n<div class=\"w10\" style=\"position: absolute;display: block;text-align: center; width: 40px;padding-bottom: 5px;top:5px;\">\n<div><img class=\"main_lng\" src=\"/img/world.jpg\" style=\"width: 30px\"/></div>\n</div>\n</div>\n<div class=\"headerInline headerLogo\"><a href=\"/\"><img src=\"/theme/basic/img/r",
+      "content_type": "image/webp",
+      "bytes": 10662,
+      "sha256": "db33d7f4fd003ad4e2a4712f65066e4910e10d22ecdded7431b3705a01b310df",
+      "source_sha256": "381cef283aedeed16bccafe40f8c2f8522a459cd4251c816e6db96d4806f49e5",
+      "dhash": "70d4d4555596d471",
+      "width": 527,
+      "height": 526,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-013.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_event/31345149_L0xnR46c_691bc99a09ecb7a59633062f10a0eea24d221f29.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "   </span>\n</li>\n<li style=\"height: 200px\">\n<a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=4829\" target=\"_blank\">\n<img alt=\"제주 ESG 여행 실천 캠페인\" src=\"/img_admin/angeltour/data/file/angel_event/31345149_L0xnR46c_691bc99a09ecb7a59633062f10a0eea24d221f29.png\" title=\"제주 ESG 여행 실천 캠페인\" width=\"279\"/>\n</a>\n<br/>\n<span style=\"line-height: 1.5\">\n\n                        제주 ES",
+      "content_type": "image/webp",
+      "bytes": 16292,
+      "sha256": "1bfc713dd44d5eb7e9347fc9971ba7dac7170537c4e8f96419744cffccc6b7a4",
+      "source_sha256": "0f3719fc9c2bec41c30c3605b39442e6abadaff3d1a92996b20119498e316f61",
+      "dhash": "c4333b1933572c12",
+      "width": 640,
+      "height": 336,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-014.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_P40Oh3Ap_f2693be519f5d914e2e74145d0ccb03b6df85951.png",
+      "source_tag": "html-data, img:image",
+      "context": "s://jejuangeltour.com/bbs2/board.php?bo_table=angel_carlineup&amp;wr_id=7\" target=\"_blank\">\n<div style=\"height: 279px; width:279px; overflow: hidden\">\n<img alt=\"제주엔젤카 전기차 라인업\" src=\"/img_admin/angeltour/data/file/angel_carlineup/31345149_P40Oh3Ap_f2693be519f5d914e2e74145d0ccb03b6df85951.png\" style=\"border-radius: 5px\" title=\"제주엔젤카 전기차 라인업\" width=\"279px\"/>\n</div>\n</a>\n</li>\n<li style=\"height: 320px;",
+      "content_type": "image/webp",
+      "bytes": 21388,
+      "sha256": "8879f33484724bfa17a6e7079dcdefa869c7d065b6b53d910c2f9dc741908f2d",
+      "source_sha256": "6c773867063e248f7fd64be43576c62c1da5b103258c67547450333483f35ade",
+      "dhash": "ff77f8e28694ecf9",
+      "width": 668,
+      "height": 668,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-015.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_VSiT7fqj_1b40f5d446d51c9eb3b9a69c0ae62c575a9ea055.png",
+      "source_tag": "html-data, img:image",
+      "context": "s://jejuangeltour.com/bbs2/board.php?bo_table=angel_carlineup&amp;wr_id=6\" target=\"_blank\">\n<div style=\"height: 279px; width:279px; overflow: hidden\">\n<img alt=\"제주엔젤카 승합차 라인업\" src=\"/img_admin/angeltour/data/file/angel_carlineup/31345149_VSiT7fqj_1b40f5d446d51c9eb3b9a69c0ae62c575a9ea055.png\" style=\"border-radius: 5px\" title=\"제주엔젤카 승합차 라인업\" width=\"279px\"/>\n</div>\n</a>\n</li>\n<li style=\"height: 320px;",
+      "content_type": "image/webp",
+      "bytes": 20006,
+      "sha256": "2b03503a69a4618270e40e1708f47dac40eb4e526943004bea0e258d04653675",
+      "source_sha256": "4b30c2a671ed9ee8c570010fba127bc9b06f15cd8e793d22359498caf9517cf4",
+      "dhash": "3f3fe1cd9b1666eb",
+      "width": 667,
+      "height": 668,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-016.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_event/31345149_YTObWu7z_be3791134f68467fa6f4d5ec86f9f1aaabdb8a02.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\n<li style=\"height: 200px\">\n<a href=\"https://jejuangeltour.com/bbs2/board.php?bo_table=angel_event&amp;wr_id=3895\" target=\"_blank\">\n<img alt=\"실시간 예약 및 슈퍼면책 가입 시 최대 10,000원 할인\" src=\"/img_admin/angeltour/data/file/angel_event/31345149_YTObWu7z_be3791134f68467fa6f4d5ec86f9f1aaabdb8a02.png\" title=\"실시간 예약 및 슈퍼면책 가입 시 최대 10,000원 할인\" width=\"279\"/>\n</a>\n<br/>\n<span style=\"line-height: 1.5\">\n\n             ",
+      "content_type": "image/webp",
+      "bytes": 21296,
+      "sha256": "b3352156f2abd8d4432b347973a293cc5bb44240dff4856631ef392349a7d6a1",
+      "source_sha256": "0b14d51af2817f87b7a777d96afb8c7a7f684169d5dc17b6cff92bf1ac5b3769",
+      "dhash": "c638377633534501",
+      "width": 640,
+      "height": 336,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-017.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_jGgKZzuP_4d3f94b728a38971321d2f070cd4a6f24f2e47b5.png",
+      "source_tag": "html-data, img:image",
+      "context": "s://jejuangeltour.com/bbs2/board.php?bo_table=angel_carlineup&amp;wr_id=5\" target=\"_blank\">\n<div style=\"height: 279px; width:279px; overflow: hidden\">\n<img alt=\"제주엔젤카 SUV 라인업\" src=\"/img_admin/angeltour/data/file/angel_carlineup/31345149_jGgKZzuP_4d3f94b728a38971321d2f070cd4a6f24f2e47b5.png\" style=\"border-radius: 5px\" title=\"제주엔젤카 SUV 라인업\" width=\"279px\"/>\n</div>\n</a>\n</li>\n<li style=\"height: 320px;",
+      "content_type": "image/webp",
+      "bytes": 21468,
+      "sha256": "15a3b14347a959e38c7ef1a1650bae50d30a6d4b807b38c554b4286fd13f2c08",
+      "source_sha256": "f4ba902e6c583b5dec744269e946efc0e0476f245f9764f9d6c1c44a6ee34e69",
+      "dhash": "7e6ef8c08636aff1",
+      "width": 667,
+      "height": 668,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-018.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_38R1QZeq_b730a6d2dd9c58bd25333a19527e2ec07c424afb.png",
+      "source_tag": "html-data, img:image",
+      "context": "s://jejuangeltour.com/bbs2/board.php?bo_table=angel_carlineup&amp;wr_id=4\" target=\"_blank\">\n<div style=\"height: 279px; width:279px; overflow: hidden\">\n<img alt=\"제주엔젤카 고급차 라인업\" src=\"/img_admin/angeltour/data/file/angel_carlineup/31345149_38R1QZeq_b730a6d2dd9c58bd25333a19527e2ec07c424afb.png\" style=\"border-radius: 5px\" title=\"제주엔젤카 고급차 라인업\" width=\"279px\"/>\n</div>\n</a>\n</li>\n<li style=\"height: 320px;",
+      "content_type": "image/webp",
+      "bytes": 28022,
+      "sha256": "1f1a180b29f418add3e57a227bcdfb5e31cef773a1e675530e5884dbfbb39936",
+      "source_sha256": "6cba6f9a3d5f5d39648b5dbec30784aa9217534b8862a79b6813e39cbfd54a2a",
+      "dhash": "ff3ffdfe8686f6f9",
+      "width": 668,
+      "height": 668,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-019.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/renewalPc/main/%EC%98%88%EC%95%BD%20%EB%B0%A9%EB%B2%95.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img 제주엔젤카 예약 방법 a li ul l__latest aside inline-block l__latest-board2 div l__latest-wrap2 l-content",
+      "content_type": "image/webp",
+      "bytes": 69634,
+      "sha256": "d14fc0fdeedf5071cf6402b01103e502ac085e85d4c2ca0849d4f62b39d58f64",
+      "source_sha256": "731e24711cb6a365732a88c10d726b8cebd15cc72adca8313d6777854c3c9e41",
+      "dhash": "c75762c799089cc8",
+      "width": 1080,
+      "height": 1080,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-020.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_sSPOxRFc_5b029712d29d05884f4587f26656258e01c65b09.png",
+      "source_tag": "html-data, img:image",
+      "context": "s://jejuangeltour.com/bbs2/board.php?bo_table=angel_carlineup&amp;wr_id=3\" target=\"_blank\">\n<div style=\"height: 279px; width:279px; overflow: hidden\">\n<img alt=\"제주엔젤카 중형차 라인업\" src=\"/img_admin/angeltour/data/file/angel_carlineup/31345149_sSPOxRFc_5b029712d29d05884f4587f26656258e01c65b09.png\" style=\"border-radius: 5px\" title=\"제주엔젤카 중형차 라인업\" width=\"279px\"/>\n</div>\n</a>\n</li>\n<li style=\"height: 320px;",
+      "content_type": "image/webp",
+      "bytes": 23958,
+      "sha256": "c8cb43bd043d66243670a28e3e7ef605c9a08a8e86a3a74a15b22a3347a927b5",
+      "source_sha256": "de20b9cd735304732c108b103ab333f741008d6052dba3f3fbdf99f196c857cf",
+      "dhash": "7f37ffe58706eee1",
+      "width": 668,
+      "height": 668,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-021.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/renewalPc/main/%EC%9A%94%EA%B8%88%EA%B3%A0%EC%8B%9C%EC%A0%9C.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "enewalPc/main/예약 방법.jpg\" width=\"279\"/>\n</a>\n</li>\n<li>\n<a href=\"https://youtube.com/shorts/YIQ2Qyt1xGw?feature=share\" target=\"_blank\">\n<img alt=\"마지막 얼리버드 특가 예약하기\" height=\"279\" src=\"/theme/basic/img/renewalPc/main/요금고시제.jpg\" width=\"279\"/>\n</a>\n</li>\n<li>\n<a href=\"https://youtube.com/shorts/YCB0eFZOqX0?si=BgB4huZ3UzIWSuMR\" target=\"_blank\">\n<im",
+      "content_type": "image/webp",
+      "bytes": 55810,
+      "sha256": "b1a3d2e73dd6e44d9ded7deee02718012c996b0563a3cb779e0f933cd9ff677d",
+      "source_sha256": "823eec6de50a4d6e230257ca31c2f2a83a20b7eda8565454dcaf14e7ec302195",
+      "dhash": "414d1b132b373829",
+      "width": 1080,
+      "height": 1080,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-022.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_7HVW1avY_15712583ab996ff8763946038fde769499809a98.png",
+      "source_tag": "html-data, img:image",
+      "context": "s://jejuangeltour.com/bbs2/board.php?bo_table=angel_carlineup&amp;wr_id=2\" target=\"_blank\">\n<div style=\"height: 279px; width:279px; overflow: hidden\">\n<img alt=\"제주엔젤카 소형차 라인업\" src=\"/img_admin/angeltour/data/file/angel_carlineup/31345149_7HVW1avY_15712583ab996ff8763946038fde769499809a98.png\" style=\"border-radius: 5px\" title=\"제주엔젤카 소형차 라인업\" width=\"279px\"/>\n</div>\n</a>\n</li>\n<li style=\"height: 320px;",
+      "content_type": "image/webp",
+      "bytes": 21338,
+      "sha256": "3aad4a33c4b489d9aba14c1b24ad7592d4a965a58f2f7e435af9dc7e3eba4290",
+      "source_sha256": "d507a7826a42278d4d5a1748031b849757562802f608a63c1c3d1fd3ea7575ea",
+      "dhash": "3f37dff08c9424fb",
+      "width": 668,
+      "height": 668,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-023.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/renewalPc/main/%EB%AF%B8%EB%8B%88%EC%BF%A0%ED%8D%BC%20%EC%BB%A8%EB%B2%84%ED%84%B0%EB%B8%94.jpg",
+      "source_tag": "img:image",
+      "context": "img 미니쿠퍼 오픈카 옵션 확인! a li ul l__latest aside inline-block l__latest-board2 div l__latest-wrap2 l-content",
+      "content_type": "image/webp",
+      "bytes": 141196,
+      "sha256": "4f46dcc9d9f07f800ec813e6dd418404ad136c19b827bb865aa76c26df6a0d79",
+      "source_sha256": "c6b434e2f59985b720946ebcc4d3b9c34bd619f0e7e6d88aaa22648ff72b33f1",
+      "dhash": "f74d4f4fb0f4cc03",
+      "width": 1080,
+      "height": 1080,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-024.webp",
+      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_XAk89VoO_e3bed2adb727e61e142a74279843e0e5efe2913b.png",
+      "source_tag": "html-data, img:image",
+      "context": "ps://jejuangeltour.com/bbs2/board.php?bo_table=angel_carlineup&amp;wr_id=1\" target=\"_blank\">\n<div style=\"height: 279px; width:279px; overflow: hidden\">\n<img alt=\"제주엔젤카 경차 라인업\" src=\"/img_admin/angeltour/data/file/angel_carlineup/31345149_XAk89VoO_e3bed2adb727e61e142a74279843e0e5efe2913b.png\" style=\"border-radius: 5px\" title=\"제주엔젤카 경차 라인업\" width=\"279px\"/>\n</div>\n</a>\n</li>\n</ul>\n</aside>\n</section>\n",
+      "content_type": "image/webp",
+      "bytes": 20918,
+      "sha256": "ebf3325fb30d26a1c8c5e728057da38762a8922aa0e7a696e72aad998f6601f2",
+      "source_sha256": "eb03fb0962241ed45d6ac7befc7fc8a42b750f3df9bee0383037906b5c394076",
+      "dhash": "6a6c93648c94acfb",
+      "width": 668,
+      "height": 668,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-025.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/renewalPc/main/%EC%85%80%ED%86%A0%EC%8A%A4%2026%EB%85%84%20%EC%98%B5%EC%85%98%20%EC%86%8C%EA%B0%9C.jpg",
+      "source_tag": "img:image",
+      "context": "img 인기차량 셀토스 옵션 안내 a li ul l__latest aside inline-block l__latest-board2 div l__latest-wrap2 l-content",
+      "content_type": "image/webp",
+      "bytes": 92808,
+      "sha256": "d252c3d17fe1299c84443cca755142121ba6688f37592bc7eca9cd1757f2d4c2",
+      "source_sha256": "05a201b07ca8f069fbb2ce481baa395b79c0a6a5aad803e7a84ebd5ba2c97293",
+      "dhash": "506c7c70b286d1e1",
+      "width": 1080,
+      "height": 1080,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-026.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/renewalPc/main/%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC%20%EB%A6%AC%EB%B7%B0.jpg",
+      "source_tag": "img:image",
+      "context": "img 반려동물 동반 이용 고객 리뷰 with 딸기 a li ul l__latest aside inline-block l__latest-board2 div l__latest-wrap2 l-content",
+      "content_type": "image/webp",
+      "bytes": 82858,
+      "sha256": "ba06cebeb33b8e8dff33b570ebeebae237063d3a70a9d95175424b73401f2e7a",
+      "source_sha256": "538f63bd0bb20e1c107a472b79b0fe7c5c24d5d63515c7e4719a06c86047b339",
+      "dhash": "bcf47e7cd898d232",
+      "width": 1080,
+      "height": 1080,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-027.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/renewalPc/main/%ED%99%8D%EC%BD%A9%20%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%96%B8%EC%84%9C%20%ED%9B%84%EA%B8%B0.jpg",
+      "source_tag": "img:image",
+      "context": "img 홍콩 언니가 추천하는 제주엔젤카 a li ul l__latest aside inline-block l__latest-board2 div l__latest-wrap2 l-content",
+      "content_type": "image/webp",
+      "bytes": 146376,
+      "sha256": "b98772a293c96bf89f8deacf2ab2feab7724f405999a98d4c6195f44b512f67e",
+      "source_sha256": "e3393ed4f446e9d2813d29b14757cbaaeb647a49945dada3e4555a072c148754",
+      "dhash": "74537b99953133b4",
+      "width": 1080,
+      "height": 1080,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-028.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/renewalPc/main/%EC%A0%9C%EC%A3%BC%EC%97%94%EC%A0%A4%EC%B9%B4%20%EC%9A%B4%EC%A0%84%EA%B0%80%EC%9D%B4%EB%93%9C.jpg",
+      "source_tag": "img:image",
+      "context": "img 제주엔젤카 운전가이드 a li ul l__latest aside inline-block l__latest-board2 div l__latest-wrap2 l-content",
+      "content_type": "image/webp",
+      "bytes": 87326,
+      "sha256": "de53acb705bc417bed67b47c9d3dc074151a4c9746a9f09b2a522225a1801283",
+      "source_sha256": "d05b248e16cfdfb17a86582215a3222ea8504a2f722ff4a1c5b543934ff63af1",
+      "dhash": "786c5c9dac226dcc",
+      "width": 1080,
+      "height": 1080,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-029.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/renewalPc/main/%EC%9A%B4%EC%A0%84%EA%B0%80%EC%9D%B4%EB%93%9C%20%EC%A3%BC%EC%9C%A0%EA%B5%AC%20%EB%B0%A9%ED%96%A5%20%ED%99%95%EC%9D%B8.jpg",
+      "source_tag": "img:image",
+      "context": "img 렌트카 출발 전 10초 체크! a li ul l__latest aside inline-block l__latest-board2 div l__latest-wrap2 l-content",
+      "content_type": "image/webp",
+      "bytes": 67430,
+      "sha256": "c238e29b58c2824dbed7239e2a9b06f861d82683adf83cca4eccd988c59432fe",
+      "source_sha256": "953cc791a62785b11c4e7a52d9f640d1819997dbf646147a159608d5b85d0b54",
+      "dhash": "2b1d32212d45c66d",
+      "width": 1080,
+      "height": 1080,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-030.webp",
+      "source_url": "https://www.jejuangeltour.com/Tour/file/car/angeltour/20250121141821tpcnH.png",
+      "source_tag": "html-data, inline-css",
+      "context": "     font-size: 12px\r\n    }\r\n    .price_main{\r\n        width:50%\r\n    }\r\n</style>\n<ul class=\"mnList\">\n<li>\n<div data-no=\"1515\">\n<div class=\"listThumb\" style=\"background-image: url('/Tour/file/car/angeltour/20250121141821tpcnH.png');\">\n<div class=\"bz-deco-img bz-customer-no-1515\"></div>\n</div>\n<div class=\"listContent\">\n<div class=\"contentTitle\">\n<sp",
+      "content_type": "image/webp",
+      "bytes": 11868,
+      "sha256": "b499e812f6d7b6c3b8ba00b5d6a47c66a5895f60b71a7255027b59fb54fb2269",
+      "source_sha256": "5d0fc3b9ea9014c5ff3efea1aaf7d2a4e43ca115478d3cc3b87c34e615c1fc73",
+      "dhash": "6000e4b09292aa00",
+      "width": 503,
+      "height": 377,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-031.webp",
+      "source_url": "https://www.jejuangeltour.com/Tour/file/car/angeltour/202311210945089KKfc.png",
+      "source_tag": "html-data, inline-css",
+      "context": "00</span>원</p>\n</div>\n</div>\n<!--div class=\"contentButton linkHover\">예약하기</div-->\n</div>\n</div>\n</li>\n<li>\n<div data-no=\"1481\">\n<div class=\"listThumb\" style=\"background-image: url('/Tour/file/car/angeltour/202311210945089KKfc.png');\">\n<div class=\"bz-deco-img bz-customer-no-1481\"></div>\n</div>\n<div class=\"listContent\">\n<div class=\"contentTitle\">\n<sp",
+      "content_type": "image/webp",
+      "bytes": 17160,
+      "sha256": "bcee0ad71284f7f2cf201c584268013a8a315da2436adaf7d66dbe526c5ab7cd",
+      "source_sha256": "c53a9e299f1e99db14b2a1bab57418d234fb953ecd63f190c0a6929026d29485",
+      "dhash": "1280f0f09292a2b2",
+      "width": 503,
+      "height": 377,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-032.webp",
+      "source_url": "https://www.jejuangeltour.com/Tour/file/car/angeltour/20240514172410IS5Gm.png",
+      "source_tag": "html-data, inline-css",
+      "context": "00</span>원</p>\n</div>\n</div>\n<!--div class=\"contentButton linkHover\">예약하기</div-->\n</div>\n</div>\n</li>\n<li>\n<div data-no=\"1499\">\n<div class=\"listThumb\" style=\"background-image: url('/Tour/file/car/angeltour/20240514172410IS5Gm.png');\">\n<div class=\"bz-deco-img bz-customer-no-1499\"></div>\n</div>\n<div class=\"listContent\">\n<div class=\"contentTitle\">\n<sp",
+      "content_type": "image/webp",
+      "bytes": 11186,
+      "sha256": "3ce5d75a97a8fa8f16bc8e1afac3d0044770c9795264020e26aca6616a35b0ea",
+      "source_sha256": "d520523fa460b78cd40b2825dca6330ab583d3e0b72115817687aa2ada66bca3",
+      "dhash": "0092f4e4acd8c8b2",
+      "width": 503,
+      "height": 377,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-033.webp",
+      "source_url": "https://www.jejuangeltour.com/Tour/file/car/angeltour/2025.67d3c1c9b9b26.png",
+      "source_tag": "html-data, inline-css",
+      "context": "00</span>원</p>\n</div>\n</div>\n<!--div class=\"contentButton linkHover\">예약하기</div-->\n</div>\n</div>\n</li>\n<li>\n<div data-no=\"1519\">\n<div class=\"listThumb\" style=\"background-image: url('/Tour/file/car/angeltour/2025.67d3c1c9b9b26.png');\">\n<div class=\"bz-deco-img bz-customer-no-1519\"></div>\n</div>\n<div class=\"listContent\">\n<div class=\"contentTitle\">\n<sp",
+      "content_type": "image/webp",
+      "bytes": 15380,
+      "sha256": "1562231d9e5c30658f4fa129866d747d82dfee36c2b8ee35a47a84e267faa61e",
+      "source_sha256": "59a8498b820516afb7330ffde82ef65cfd4704d1867619544e907025a1372541",
+      "dhash": "3000b1b892929800",
+      "width": 503,
+      "height": 377,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-034.webp",
+      "source_url": "https://www.jejuangeltour.com/Tour/file/car/angeltour/2022.6388479e58d53.png",
+      "source_tag": "html-data, inline-css",
+      "context": "00</span>원</p>\n</div>\n</div>\n<!--div class=\"contentButton linkHover\">예약하기</div-->\n</div>\n</div>\n</li>\n<li>\n<div data-no=\"1450\">\n<div class=\"listThumb\" style=\"background-image: url('/Tour/file/car/angeltour/2022.6388479e58d53.png');\">\n<div class=\"bz-deco-img bz-customer-no-1450\"></div>\n</div>\n<div class=\"listContent\">\n<div class=\"contentTitle\">\n<sp",
+      "content_type": "image/webp",
+      "bytes": 13442,
+      "sha256": "5c5715b432ab2794134c9ac1e910218b86e2ce9c457bd1d525031e17b04cde69",
+      "source_sha256": "104ec3ce255a2d5602f69774ac923cd0706b0125a4fcb6524b5e6a712aaa4516",
+      "dhash": "8800b8b8d2b6b800",
+      "width": 503,
+      "height": 377,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-035.webp",
+      "source_url": "https://www.jejuangeltour.com/Tour/file/car/angeltour/20230221150231qLsWH.png",
+      "source_tag": "html-data, inline-css",
+      "context": "00</span>원</p>\n</div>\n</div>\n<!--div class=\"contentButton linkHover\">예약하기</div-->\n</div>\n</div>\n</li>\n<li>\n<div data-no=\"1465\">\n<div class=\"listThumb\" style=\"background-image: url('/Tour/file/car/angeltour/20230221150231qLsWH.png');\">\n<div class=\"bz-deco-img bz-customer-no-1465\"></div>\n</div>\n<div class=\"listContent\">\n<div class=\"contentTitle\">\n<sp",
+      "content_type": "image/webp",
+      "bytes": 12466,
+      "sha256": "6c5310d58854dbbca441bb40b3ce423727f44d15489338dccd1f72a8ff74eb44",
+      "source_sha256": "15d374158f6d7489899aa64ad8f11b14a7585bad2f4b24f1d0eec5e74bfef3a3",
+      "dhash": "4124707892dea400",
+      "width": 503,
+      "height": 377,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-036.webp",
+      "source_url": "https://www.jejuangeltour.com/Tour/file/car/angeltour/2024.65a6013edbc5b.png",
+      "source_tag": "html-data, inline-css",
+      "context": "00</span>원</p>\n</div>\n</div>\n<!--div class=\"contentButton linkHover\">예약하기</div-->\n</div>\n</div>\n</li>\n<li>\n<div data-no=\"1484\">\n<div class=\"listThumb\" style=\"background-image: url('/Tour/file/car/angeltour/2024.65a6013edbc5b.png');\">\n<div class=\"bz-deco-img bz-customer-no-1484\"></div>\n</div>\n<div class=\"listContent\">\n<div class=\"contentTitle\">\n<sp",
+      "content_type": "image/webp",
+      "bytes": 14818,
+      "sha256": "61664b9030e607f765b0e0dbe5f01766ea26f8e7ea5f164e4d6f32f3ca272c60",
+      "source_sha256": "fcfe9b999c7be9fccbcf3d11c28003ef45465859933915b0913c574d43ff1679",
+      "dhash": "00d3b3a1cbdb9700",
+      "width": 503,
+      "height": 377,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-037.webp",
+      "source_url": "https://www.jejuangeltour.com/Tour/file/car/angeltour/20240403113010cIJTw.png",
+      "source_tag": "html-data, inline-css",
+      "context": "00</span>원</p>\n</div>\n</div>\n<!--div class=\"contentButton linkHover\">예약하기</div-->\n</div>\n</div>\n</li>\n<li>\n<div data-no=\"1496\">\n<div class=\"listThumb\" style=\"background-image: url('/Tour/file/car/angeltour/20240403113010cIJTw.png');\">\n<div class=\"bz-deco-img bz-customer-no-1496\"></div>\n</div>\n<div class=\"listContent\">\n<div class=\"contentTitle\">\n<sp",
+      "content_type": "image/webp",
+      "bytes": 14036,
+      "sha256": "b4bf091c6c3b747604a0f27b794cb2be27dae78ce6527bd26df182409124afcf",
+      "source_sha256": "5c73970ed628765d3c20c98c22d60d405362b5409134faf533035df118f254f7",
+      "dhash": "1401153d5b5bac45",
+      "width": 503,
+      "height": 377,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-038.webp",
+      "source_url": "https://www.jejuangeltour.com/Tour/file/car/angeltour/20240821110042mDKX0.png",
+      "source_tag": "html-data, inline-css",
+      "context": "00</span>원</p>\n</div>\n</div>\n<!--div class=\"contentButton linkHover\">예약하기</div-->\n</div>\n</div>\n</li>\n<li>\n<div data-no=\"1508\">\n<div class=\"listThumb\" style=\"background-image: url('/Tour/file/car/angeltour/20240821110042mDKX0.png');\">\n<div class=\"bz-deco-img bz-customer-no-1508\"></div>\n</div>\n<div class=\"listContent\">\n<div class=\"contentTitle\">\n<sp",
+      "content_type": "image/webp",
+      "bytes": 16618,
+      "sha256": "a6b445872b81f840aab7c651c7571a5a77f1d00714841352166c86f13bb3bf88",
+      "source_sha256": "36555bb03b25bb193db692638cd713a26f44a8a21339f7996a8df12777a03464",
+      "dhash": "00c6dcfcbaca51a2",
+      "width": 503,
+      "height": 377,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-039.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/css/css-images/mainblock-1.jpg",
+      "source_tag": "external-css",
+      "context": "height: 38px;text-align: center;border: 1px solid #d6d6d6;}\r\n\r\n\r\n\r\n/* ==================================================\r\n   .Custom #Main-Page\r\n================================================== */\r\nsection.main-block-1 {width:100%; height: 417px;background: url(./css-images/mainblock-1.jpg);}\r\nsection.main-block-2 {width:100%; padding: 33px 0;}\r\nsection.main-block-3 {width:100%; height: auto;bac",
+      "content_type": "image/webp",
+      "bytes": 153742,
+      "sha256": "d043a2c6f2a871aad6f25978a5ad8892aebc489e90643759c7d8fc5defd789ab",
+      "source_sha256": "049c381e80792ee77930812326a46c4a50429ab5b6d8cb8c4b7a7df6cf7924f9",
+      "dhash": "78d8dc6c649ca49e",
+      "width": 2000,
+      "height": 417,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-040.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/css/css-images/cnt3_bg.jpg",
+      "source_tag": "external-css",
+      "context": "============================================== */\r\nsection.main-block-1 {width:100%; height: 417px;background: url(./css-images/mainblock-1.jpg);}\r\nsection.main-block-2 {width:100%; padding: 33px 0;}\r\nsection.main-block-3 {width:100%; height: auto;background: url(./css-images/cnt3_bg.jpg); border-top: 1px solid #f5989d;}\r\nsection.main-block-4 {width:100%; height: auto;background: url(./css-images/",
+      "content_type": "image/webp",
+      "bytes": 15120,
+      "sha256": "4803238e3d241b6207185efc3c0f977b9adb44b9346ed03c97711df192acc8e6",
+      "source_sha256": "66c012d508856137d6abef62626ea88109722543883874965c51c70176294f23",
+      "dhash": "c3c3c7f1f1a70b83",
+      "width": 2000,
+      "height": 868,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-041.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/css/css-images/cnt4_bg.jpg",
+      "source_tag": "external-css",
+      "context": "ages/mainblock-1.jpg);}\r\nsection.main-block-2 {width:100%; padding: 33px 0;}\r\nsection.main-block-3 {width:100%; height: auto;background: url(./css-images/cnt3_bg.jpg); border-top: 1px solid #f5989d;}\r\nsection.main-block-4 {width:100%; height: auto;background: url(./css-images/cnt4_bg.jpg); border-top: 1px solid #f5989d;}\r\nsection.main-block-5 {width:100%; height: auto;background: url(./css-images/",
+      "content_type": "image/webp",
+      "bytes": 21318,
+      "sha256": "adc907074349226648d10928ecfe310f5a7bc5c320e6f43b0ba2396d516334c5",
+      "source_sha256": "42d4d51657fa38ff2e4a186450e3176036b7eff44288c9822e51edaf2cfe2c66",
+      "dhash": "332727695a9a1e3a",
+      "width": 2000,
+      "height": 826,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-042.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/css/css-images/cnt5_bg.jpg",
+      "source_tag": "external-css",
+      "context": "o;background: url(./css-images/cnt3_bg.jpg); border-top: 1px solid #f5989d;}\r\nsection.main-block-4 {width:100%; height: auto;background: url(./css-images/cnt4_bg.jpg); border-top: 1px solid #f5989d;}\r\nsection.main-block-5 {width:100%; height: auto;background: url(./css-images/cnt5_bg.jpg); border-top: 1px solid #f5989d;}\r\nsection.main-block-6 {width:100%; height: 280px;background: #f1f1f1;}\r\n\r\nsec",
+      "content_type": "image/webp",
+      "bytes": 54996,
+      "sha256": "50cdaa41ad892bd273af18e8037b3a32490f4af29d50b5b2f4ababdddb76b606",
+      "source_sha256": "358d52099c128ec78d8c5201b3f86882f4297a3eaab56579c27e092344cc6fcc",
+      "dhash": "0e020b06b226c34a",
+      "width": 2000,
+      "height": 826,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-007.svg",
+      "source_url": "https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.svg?t=1590207869815",
+      "source_tag": "external-css",
+      "context": "ded-opentype'), /* IE6-IE8 */\n  url(\"remixicon.woff2?t=1590207869815\") format(\"woff2\"),\n  url(\"remixicon.woff?t=1590207869815\") format(\"woff\"),\n  url('remixicon.ttf?t=1590207869815') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/\n  url('remixicon.svg?t=1590207869815#remixicon') format('svg'); /* iOS 4.1- */\n  font-display: swap;\n}\n\n[class^=\"ri-\"], [class*=\" ri-\"] {\n  fo",
+      "content_type": "image/svg+xml",
+      "bytes": 1195522,
+      "sha256": "a10268fe8984137751f143461d1c00dc303b53d27cd857f8f2245ca314684e13",
+      "source_sha256": "a10268fe8984137751f143461d1c00dc303b53d27cd857f8f2245ca314684e13",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-044.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/img/renewalPc/main/main-kit.png",
+      "source_tag": "external-css",
+      "context": "ction .bestList .bx-next { background-position:-34px -343px; right:0; }\r\nsection.bestSection ul.itemList { height:338px; overflow:hidden; }\r\n/* best menu bg */\r\nsection.bestSection .bestTitle { width:164px; height:343px; display:inline-block; background-image:url('/theme/basic/img/renewalPc/main/main-kit.png'); }\r\nsection.bestSection .bestTitle.type1 { background-position:0 0; }\r\nsection.bestSecti",
+      "content_type": "image/webp",
+      "bytes": 28294,
+      "sha256": "13ab5984daafbf6d2defed8b0a251eee7e845ed11ea2861f67c027f6b01896fb",
+      "source_sha256": "9f059a4ad7002fb3e7be812d79ea894716a0b563229eacd77ac57dfad24f85ac",
+      "dhash": "b1f393b3b1861140",
+      "width": 1312,
+      "height": 398,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-045.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/css/images/coverage-bg1.gif",
+      "source_tag": "external-css",
+      "context": "t-flex; /* Safari */\r\n\t-webkit-justify-content: space-between; /* Safari 6.1+ */\r\n\tdisplay: flex;\r\n\tjustify-content: space-between;\r\n}\r\n.coverage > ul.danger-info > li { width:585px; height:377px; }\r\n.coverage > ul.danger-info > li:nth-child(1)  { background: url('/theme/basic/css/images/coverage-bg1.gif') top center no-repeat;}\r\n.coverage > ul.danger-info > li:nth-child(2)  { background: url('/th",
+      "content_type": "image/webp",
+      "bytes": 3192,
+      "sha256": "3d2dd65480a094309787097487ea8d7b011e1aed11f5bb05fdfd0868fc690f93",
+      "source_sha256": "7466da4d98dc02def855e0b4771f28ccb7f52cc92931cec2b7f43a73cea7d510",
+      "dhash": "e29a9b2c38b93737",
+      "width": 585,
+      "height": 377,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-angel/reference-046.webp",
+      "source_url": "https://www.jejuangeltour.com/theme/basic/css/images/coverage-bg2.gif",
+      "source_tag": "external-css",
+      "context": "\n}\r\n.coverage > ul.danger-info > li { width:585px; height:377px; }\r\n.coverage > ul.danger-info > li:nth-child(1)  { background: url('/theme/basic/css/images/coverage-bg1.gif') top center no-repeat;}\r\n.coverage > ul.danger-info > li:nth-child(2)  { background: url('/theme/basic/css/images/coverage-bg2.gif') top center no-repeat;}\r\n.coverage > ul.danger-info > li > h1 {\r\n\ttext-align:center;\r\n\tline-h",
+      "content_type": "image/webp",
+      "bytes": 3744,
+      "sha256": "ed35d7d530c1cc7cd3f70fd6da112ac614e2a80dcd6f82f00f7cad2e6197dd93",
+      "source_sha256": "d15912256aa511a97fb10801aa286b98a8afe389564b01fb6cb73968d0f89210",
+      "dhash": "c3434dad1763f0ea",
+      "width": 585,
+      "height": 377,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-004.svg",
+      "source_url": "https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.svg",
+      "source_tag": "external-css",
+      "context": "webfonts/fa-brands-400.eot);src:url(../webfonts/fa-brands-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.woff) format(\"woff\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\"),url(../webfonts/fa-brands-400.svg#fontawesome) format(\"svg\")}.fab{font-family:\"Font Awesome 5 Brands\"}@font-face{font-family:\"Font Awesome 5",
+      "content_type": "image/svg+xml",
+      "bytes": 691865,
+      "sha256": "3f73a3d20bf0a3038e6bb2f60a2875fb02887f5aeae3b7ee35ff1a7762bd0057",
+      "source_sha256": "3f73a3d20bf0a3038e6bb2f60a2875fb02887f5aeae3b7ee35ff1a7762bd0057",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-005.svg",
+      "source_url": "https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-regular-400.svg",
+      "source_tag": "external-css",
+      "context": "nts/fa-regular-400.eot);src:url(../webfonts/fa-regular-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.woff) format(\"woff\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\"),url(../webfonts/fa-regular-400.svg#fontawesome) format(\"svg\")}.far{font-weight:400}@font-face{font-family:\"Font Awesome 5 Free\";font-style:n",
+      "content_type": "image/svg+xml",
+      "bytes": 144451,
+      "sha256": "eace65c64fa572dbb0f8285a0190cd40752c8b6c605f5d8e90298e7307217cd0",
+      "source_sha256": "eace65c64fa572dbb0f8285a0190cd40752c8b6c605f5d8e90298e7307217cd0",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-006.svg",
+      "source_url": "https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.svg",
+      "source_tag": "external-css",
+      "context": "l(../webfonts/fa-solid-900.eot);src:url(../webfonts/fa-solid-900.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.woff) format(\"woff\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\"),url(../webfonts/fa-solid-900.svg#fontawesome) format(\"svg\")}.fa,.far,.fas{font-family:\"Font Awesome 5 Free\"}.fa,.fas{font-weight:900}",
+      "content_type": "image/svg+xml",
+      "bytes": 816852,
+      "sha256": "3e564467338fb1db8596fe502fdd1d4da983bf5d7e185ac8cf5e0fce679e9ac0",
+      "source_sha256": "3e564467338fb1db8596fe502fdd1d4da983bf5d7e185ac8cf5e0fce679e9ac0",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejusok/reference-015.svg",
+      "source_url": "https://www.jejuangeltour.com/font/fontawesome-webfont.svg?v=4.7.0",
+      "source_tag": "external-css",
+      "context": "awesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('/font/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('/font/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('/font/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');\n  font-weight: normal;\n  font-style: normal;\n}\n.fa {\n  displa",
+      "content_type": "image/svg+xml",
+      "bytes": 444379,
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "source_sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejuangeltour.com/"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_국내/jeju-angel/og.jpg",
       "source_url": "https://www.jejuangeltour.com/theme/basic/img/common/og_img.jpg",
@@ -28,66 +1335,6 @@
       "sha256": "e663548353326c5400f5e045d8930c4fc01e77dd08d64bc893b41207831d0070",
       "width": 1200,
       "height": 630
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_국내/jeju-angel/banner-1.webp",
-      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a7ed198b8955.png",
-      "source_tag": "inline-background-image",
-      "context": "li   background-image: url('/img_admin/angeltour/data/banner/2026.6a7ed198b8955.png');",
-      "content_type": "image/webp",
-      "bytes": 31784,
-      "sha256": "00aabb2b8a14133d7fac15971a101af4e0ee27353b7320b78ea24ff44ba1c4e0",
-      "width": 1800,
-      "height": 418
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_국내/jeju-angel/banner-2.webp",
-      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.6a7eca3ea33c5.png",
-      "source_tag": "inline-background-image",
-      "context": "li   background-image: url('/img_admin/angeltour/data/banner/2026.6a7eca3ea33c5.png');",
-      "content_type": "image/webp",
-      "bytes": 76866,
-      "sha256": "98845267ffbfa6fc2a2b13fc2821701a5ee9d0a9620e936b5982727f8dcdf6e7",
-      "width": 1800,
-      "height": 418
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/jeju-angel/reference-1.webp",
-      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/banner/2026.699e4492c5c9d.png",
-      "source_tag": "inline-background-image",
-      "context": "li   background-image: url('/img_admin/angeltour/data/banner/2026.699e4492c5c9d.png');",
-      "content_type": "image/webp",
-      "bytes": 40534,
-      "sha256": "834d7eed3463f24c8865ef86aaa355b87202add15bc4f000137f4a79f546f828",
-      "width": 1800,
-      "height": 431
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/jeju-angel/reference-2.webp",
-      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_7Nu4Qfoq_36058b9060c5b2d772b2c25033047407747b4c93.png",
-      "source_tag": "img:page-image",
-      "context": "img 제주엔젤카 수입차 라인업 제주엔젤카 수입차 라인업 div a li ul l__latest",
-      "content_type": "image/webp",
-      "bytes": 22852,
-      "sha256": "fd87d5bbf38c53561e481fd96a248221965b9b6a3667bc07a194fa687bd22aa7",
-      "width": 667,
-      "height": 668
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/jeju-angel/reference-3.webp",
-      "source_url": "https://www.jejuangeltour.com/img_admin/angeltour/data/file/angel_carlineup/31345149_P40Oh3Ap_f2693be519f5d914e2e74145d0ccb03b6df85951.png",
-      "source_tag": "img:page-image",
-      "context": "img 제주엔젤카 전기차 라인업 제주엔젤카 전기차 라인업 div a li ul l__latest",
-      "content_type": "image/webp",
-      "bytes": 22440,
-      "sha256": "a8d818d79eaa7aa7a6e7bb5289e8e74fa826d4abe1b154f580edb774df65b050",
-      "width": 668,
-      "height": 668
     }
   ]
 }

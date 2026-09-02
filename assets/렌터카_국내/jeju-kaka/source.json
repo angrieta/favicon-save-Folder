@@ -5,31 +5,179 @@
   "page_url": "https://www.jejukaka.com/",
   "page_title": "제주카카",
   "collection_status": "partial",
-  "collection_error": "",
+  "collection_error": "asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.woff2:HTTPError; asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.woff:HTTPError; asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.otf:HTTPError; asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Bold.woff2:HTTPError; asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Bold.woff:HTTPError; asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Bold.otf:HTTPError; asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.woff2:HTTPError; asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.woff:HTTPError; asset:https://fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.otf:HTTPError; asset:https://www.jejukaka.com/theme/basic/img/gnb_bg00.gif:HTTPError; asset:https://www.jejukaka.com/skin/board/img/wrest.gif:HTTPError; asset:https://www.jejukaka.com/img/common/icon_datepicker.gif:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 14,
+    "scripts": 19,
+    "candidates": 76,
+    "attempted_assets": 76,
+    "errors": 26,
+    "collected_at": "2026-09-03T08:10:55.071558+09:00"
+  },
   "assets": [
     {
       "type": "logo",
-      "path": "assets/렌터카_국내/jeju-kaka/logo-1.png",
+      "path": "assets/렌터카_국내/jeju-kaka/logo-001.png",
       "source_url": "https://www.jejukaka.com/theme/basic/img/common/logo.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img a div logo header header index div subLeft",
+      "source_tag": "external-css, html-data, img:banner, img:image, img:logo",
+      "context": "osition:absolute; right:0; top:0;\r\n\tbackground-size:50% auto; background-repeat:no-repeat; background-position:right -20% top 50%;\r\n}\r\nul.l-car-list > li > .goods-subject > .default { background-size:40%; background-position:right 2% top 50%; background-image:url('/theme/basic/img/common/logo.png'); }\r\nul.l-car-list > li > .goods-subject > span { display:block; }\r\nul.l-car-list > li > .goods-subje",
       "content_type": "image/png",
       "bytes": 4767,
       "sha256": "2f39ffa7d62c3b174d8498dfa471d21454f329e285165c09edaf4b57a231a336",
+      "source_sha256": "1f7f7cf323cdd7b6305c879e6ed9d52ef7ad715c31b84fbf91a13d34205b34eb",
+      "dhash": "0200000000000000",
       "width": 199,
-      "height": 54
+      "height": 54,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejukaka.com/",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9336",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9337",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9338",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9339",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9340",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9341",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9342",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9343",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9344",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9345",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9346",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9347",
+        "https://www.jejukaka.com/bbs/board.php?bo_table=review&wr_id=9348",
+        "https://www.jejukaka.com/tour.php?p=clause",
+        "https://www.jejukaka.com/tour.php?p=rent-list",
+        "https://www.jejukaka.com/tour.php?p=rent-service"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_국내/jeju-kaka/reference-1.webp",
-      "source_url": "https://jejukaka.com/data/editor/2607/1bd182c903ed58a47cd14759add838c6_1784029683_6613.png",
-      "source_tag": "img:page-image",
-      "context": "img 1bd182c903ed58a47cd14759add838c6_1784029683_6613.png 1bd182c903ed58a47cd14759add838c6_1784029683_6613.png a p div hd_pops_con div hd_pops_4 hd_pops pc",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-001.webp",
+      "source_url": "https://www.jejukaka.com/theme/basic/img/main/mainvisual.jpg",
+      "source_tag": "external-css",
+      "context": "eftLayout,\r\n.rightLayout {  }\r\n.leftLayout { background-color: #dc2927; }\r\n.rightLayout { background-color: #fff; z-index: 2; }\r\n\r\n/* index */\r\n.layout.index { height: 100vh; }\r\n.leftLayout.index { position: relative; width: 45%; min-width: 715px; background: url('/theme/basic/img/main/mainvisual.jpg') no-repeat center / cover; }\r\n.leftLayout.index.dev-index { position: relative; width: 45%; min-w",
       "content_type": "image/webp",
-      "bytes": 59500,
-      "sha256": "5351c6efe047783e42a5a3d2a38ef33459c45a322db8fca5bcd3589df922af47",
+      "bytes": 49602,
+      "sha256": "61bec7523aa739fd7b0070a95698adfdc379338b2637548a0946bff5e40e99b0",
+      "source_sha256": "88e2de8ebc54fc21c55e674137b57aaf9b2f46cdb6643c4a496351d0ac7a0d94",
+      "dhash": "4403334c5c74634b",
+      "width": 915,
+      "height": 1000,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejukaka.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-002.webp",
+      "source_url": "https://www.jejukaka.com/theme/basic/img/main/mainvisual-3.jpg",
+      "source_tag": "external-css",
+      "context": "t: 100vh; }\r\n.leftLayout.index { position: relative; width: 45%; min-width: 715px; background: url('/theme/basic/img/main/mainvisual.jpg') no-repeat center / cover; }\r\n.leftLayout.index.dev-index { position: relative; width: 45%; min-width: 715px; background: url('/theme/basic/img/main/mainvisual-3.jpg') no-repeat center / cover; }\r\n.leftLayout.index .serviceSection { position: absolute; right: 0;",
+      "content_type": "image/webp",
+      "bytes": 97534,
+      "sha256": "9ab52cdb8bddf2bdd09a7d0c6bdf2c8e597314d3eebdd8a6fe4ff874d0c78576",
+      "source_sha256": "852e0a8852ac1b2dd66d470aa0ec303fe359ce4e78e4cce314d2d26a27ca3411",
+      "dhash": "d3000459192c48b0",
+      "width": 915,
+      "height": 1000,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejukaka.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-003.webp",
+      "source_url": "https://jejukaka.com/data/editor/2607/1bd182c903ed58a47cd14759add838c6_1784029683_6613.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ass=\"hd_pops pc\" id=\"hd_pops_4\">\n<div class=\"hd_pops_con\">\n<p><a href=\"https://www.jejukaka.kr/\" rel=\"nofollow\"><img alt=\"1bd182c903ed58a47cd14759add838c6_1784029683_6613.png\" src=\"http://jejukaka.com/data/editor/2607/1bd182c903ed58a47cd14759add838c6_1784029683_6613.png\" title=\"1bd182c903ed58a47cd14759add838c6_1784029683_6613.png\"/></a><br style=\"clear:both;\"/> </p> </div>\n<div class=\"hd_",
+      "content_type": "image/webp",
+      "bytes": 57536,
+      "sha256": "41cfce37d1ca8d3198d3fffc06de3d254ce1f42488c01f8373f7d1576b455f5f",
+      "source_sha256": "c0339fe618cafbc9da051e7bb6f9f2031147d0053d3d8c094bddb915688605e4",
+      "dhash": "a6eaf8c0c4ccb230",
       "width": 500,
-      "height": 715
+      "height": 715,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejukaka.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-004.svg",
+      "source_url": "https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-brands-400.svg",
+      "source_tag": "external-css",
+      "context": "webfonts/fa-brands-400.eot);src:url(../webfonts/fa-brands-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.woff) format(\"woff\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\"),url(../webfonts/fa-brands-400.svg#fontawesome) format(\"svg\")}.fab{font-family:\"Font Awesome 5 Brands\"}@font-face{font-family:\"Font Awesome 5",
+      "content_type": "image/svg+xml",
+      "bytes": 691865,
+      "sha256": "3f73a3d20bf0a3038e6bb2f60a2875fb02887f5aeae3b7ee35ff1a7762bd0057",
+      "source_sha256": "3f73a3d20bf0a3038e6bb2f60a2875fb02887f5aeae3b7ee35ff1a7762bd0057",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejukaka.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-005.svg",
+      "source_url": "https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-regular-400.svg",
+      "source_tag": "external-css",
+      "context": "nts/fa-regular-400.eot);src:url(../webfonts/fa-regular-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.woff) format(\"woff\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\"),url(../webfonts/fa-regular-400.svg#fontawesome) format(\"svg\")}.far{font-weight:400}@font-face{font-family:\"Font Awesome 5 Free\";font-style:n",
+      "content_type": "image/svg+xml",
+      "bytes": 144451,
+      "sha256": "eace65c64fa572dbb0f8285a0190cd40752c8b6c605f5d8e90298e7307217cd0",
+      "source_sha256": "eace65c64fa572dbb0f8285a0190cd40752c8b6c605f5d8e90298e7307217cd0",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejukaka.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-006.svg",
+      "source_url": "https://use.fontawesome.com/releases/v5.8.2/webfonts/fa-solid-900.svg",
+      "source_tag": "external-css",
+      "context": "l(../webfonts/fa-solid-900.eot);src:url(../webfonts/fa-solid-900.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.woff) format(\"woff\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\"),url(../webfonts/fa-solid-900.svg#fontawesome) format(\"svg\")}.fa,.far,.fas{font-family:\"Font Awesome 5 Free\"}.fa,.fas{font-weight:900}",
+      "content_type": "image/svg+xml",
+      "bytes": 816852,
+      "sha256": "3e564467338fb1db8596fe502fdd1d4da983bf5d7e185ac8cf5e0fce679e9ac0",
+      "source_sha256": "3e564467338fb1db8596fe502fdd1d4da983bf5d7e185ac8cf5e0fce679e9ac0",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejukaka.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-kaka/reference-007.svg",
+      "source_url": "https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.svg?t=1590207869815",
+      "source_tag": "external-css",
+      "context": "ded-opentype'), /* IE6-IE8 */\n  url(\"remixicon.woff2?t=1590207869815\") format(\"woff2\"),\n  url(\"remixicon.woff?t=1590207869815\") format(\"woff\"),\n  url('remixicon.ttf?t=1590207869815') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/\n  url('remixicon.svg?t=1590207869815#remixicon') format('svg'); /* iOS 4.1- */\n  font-display: swap;\n}\n\n[class^=\"ri-\"], [class*=\" ri-\"] {\n  fo",
+      "content_type": "image/svg+xml",
+      "bytes": 1195522,
+      "sha256": "a10268fe8984137751f143461d1c00dc303b53d27cd857f8f2245ca314684e13",
+      "source_sha256": "a10268fe8984137751f143461d1c00dc303b53d27cd857f8f2245ca314684e13",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejukaka.com/"
+      ]
     }
   ]
 }

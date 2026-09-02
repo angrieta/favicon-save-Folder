@@ -5,7 +5,18 @@
   "page_url": "https://routes.ca/",
   "page_title": "Routes",
   "collection_status": "partial",
-  "collection_error": "reference:ValueError:https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+  "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 2,
+    "desktop_pages": 2,
+    "mobile_pages": 2,
+    "stylesheets": 3,
+    "scripts": 1,
+    "candidates": 16,
+    "attempted_assets": 16,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:29:37.792271+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -17,6 +28,25 @@
       "sha256": "3496385071eac4f4d56ebb48f57eda41d7b74dd3ee5266b70be81124d7920e6e",
       "width": 618,
       "height": 278
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/routes-car-rental/reference-001.webp",
+      "source_url": "https://routes.ca/routeslogo.png",
+      "source_tag": "html-data",
+      "context": "Calgary, Orlando, Chicago, Denver, or Atlanta. Get the best deals with flexible pick-up options, including airport rentals. Reserve your car today!\" name=\"description\"/><link href=\"/routeslogo.png\" rel=\"apple-touch-icon\"><link href=\"/manifest.json\" rel=\"manifest\"><title>Routes</title><script>!function(e,t,a,n){e[n]=",
+      "content_type": "image/webp",
+      "bytes": 16714,
+      "sha256": "e8a95d6d510e25a5c5979256a7d2f0544ec3004fd5a373e1262c7323e900e043",
+      "source_sha256": "3496385071eac4f4d56ebb48f57eda41d7b74dd3ee5266b70be81124d7920e6e",
+      "dhash": "1123858f25552f6d",
+      "width": 618,
+      "height": 278,
+      "variant": "shared",
+      "source_pages": [
+        "https://routes.ca/",
+        "https://routes.ca/vehicle"
+      ]
     }
   ]
 }

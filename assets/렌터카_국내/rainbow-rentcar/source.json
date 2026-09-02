@@ -5,7 +5,18 @@
   "page_url": "https://www.rainbowrent.co.kr/",
   "page_title": "무지개렌트카",
   "collection_status": "partial",
-  "collection_error": "",
+  "collection_error": "asset:https://www.rainbowrent.co.kr/ic_arrow_right.svg:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 2,
+    "desktop_pages": 2,
+    "mobile_pages": 2,
+    "stylesheets": 3,
+    "scripts": 1,
+    "candidates": 113,
+    "attempted_assets": 113,
+    "errors": 1,
+    "collected_at": "2026-09-03T08:11:09.280972+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -17,6 +28,186 @@
       "sha256": "7d4c64b1cf44a4c09959ea6c0e73efbb6bfc9eeecd9b5b95cf533dcba0f47503",
       "width": 180,
       "height": 180
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/rainbow-rentcar/reference-001.svg",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_banner-mobile-temporary-J4E56rpx.svg",
+      "source_tag": "script-data",
+      "context": "{\n    height: 20px;\n  }\n  img {\n    display: block;\n  }\n`;wre.th`\n  width: 50%;\n  height: 20px;\n  background: #eeeeee;\n  color: #868686;\n  text-align: left !important;\n`;const FPt=\"/assets/img_banner-mobile-temporary-J4E56rpx.svg\",GPt=\"/assets/img_banner-temporary-DoQZmPHn.svg\",VPt=\"/assets/img_rainbow_home_banner_mobile-po7SHXNA.png\",YPt=\"/assets/",
+      "content_type": "image/svg+xml",
+      "bytes": 194902,
+      "sha256": "890058b116e2c64b286035556f7c318681682595b19a6cae9edbc558d590d28c",
+      "source_sha256": "890058b116e2c64b286035556f7c318681682595b19a6cae9edbc558d590d28c",
+      "dhash": "",
+      "width": 360,
+      "height": 410,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/rainbow-rentcar/banner-001.svg",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_banner-temporary-DoQZmPHn.svg",
+      "source_tag": "script-data",
+      "context": "\n`;wre.th`\n  width: 50%;\n  height: 20px;\n  background: #eeeeee;\n  color: #868686;\n  text-align: left !important;\n`;const FPt=\"/assets/img_banner-mobile-temporary-J4E56rpx.svg\",GPt=\"/assets/img_banner-temporary-DoQZmPHn.svg\",VPt=\"/assets/img_rainbow_home_banner_mobile-po7SHXNA.png\",YPt=\"/assets/img_rainbow_home_banner_pc-9OS0KqxK.png\",sw={dri",
+      "content_type": "image/svg+xml",
+      "bytes": 196775,
+      "sha256": "c00aa942e01ad323537337c2630480088e02665a6afc56f8aafe3aebc72ed73a",
+      "source_sha256": "c00aa942e01ad323537337c2630480088e02665a6afc56f8aafe3aebc72ed73a",
+      "dhash": "",
+      "width": 1440,
+      "height": 300,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/rainbow-rentcar/banner-002.webp",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_rainbow_home_banner_mobile-po7SHXNA.png",
+      "source_tag": "script-data",
+      "context": "round: #eeeeee;\n  color: #868686;\n  text-align: left !important;\n`;const FPt=\"/assets/img_banner-mobile-temporary-J4E56rpx.svg\",GPt=\"/assets/img_banner-temporary-DoQZmPHn.svg\",VPt=\"/assets/img_rainbow_home_banner_mobile-po7SHXNA.png\",YPt=\"/assets/img_rainbow_home_banner_pc-9OS0KqxK.png\",sw={driverAge:[{key:\"ltTwentySix\",value:25,text:\"만 21세 ~ 25세\"},{k",
+      "content_type": "image/webp",
+      "bytes": 37602,
+      "sha256": "c654331b9509f17bf3886605546a7b768d6cd673bfc866f9aa0f9c7e6a13ec33",
+      "source_sha256": "9ab5aeeb3f3db2144b93638c38174491afabfd4b32b4eff64b685697afd980db",
+      "dhash": "f4068e4e07461d4f",
+      "width": 540,
+      "height": 593,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/rainbow-rentcar/banner-003.webp",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_rainbow_home_banner_pc-9OS0KqxK.png",
+      "source_tag": "script-data",
+      "context": "rtant;\n`;const FPt=\"/assets/img_banner-mobile-temporary-J4E56rpx.svg\",GPt=\"/assets/img_banner-temporary-DoQZmPHn.svg\",VPt=\"/assets/img_rainbow_home_banner_mobile-po7SHXNA.png\",YPt=\"/assets/img_rainbow_home_banner_pc-9OS0KqxK.png\",sw={driverAge:[{key:\"ltTwentySix\",value:25,text:\"만 21세 ~ 25세\"},{key:\"gteTwentySix\",value:null,text:\"만 26세 이상\"}],numberO",
+      "content_type": "image/webp",
+      "bytes": 125044,
+      "sha256": "c09691902537f09ebf1c9bfed6dd4d59488c6c91ef712c91da03bd3bfd35e215",
+      "source_sha256": "1bbd612ec5b7d0ef5c35c4830e37dd3b36c87d968d5819934d01b46251f8f1a6",
+      "dhash": "1606030302170f07",
+      "width": 1800,
+      "height": 570,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/rainbow-rentcar/reference-002.webp",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_agreement-non-member-privacy-Cl_rb74R.avif",
+      "source_tag": "script-data",
+      "context": "&&r(!0)}}catch(u){console.error(\"Geo check failed:\",u)}finally{o(!1)}})()},[]);const i=()=>{r(!1)};return n?null:t?E.jsx(g9t,{onSelectKorea:i}):E.jsx(E.Fragment,{children:e})},v9t=\"/assets/img_agreement-non-member-privacy-Cl_rb74R.avif\",m9t=\"/assets/img_agreement-offer-privacy-Dyl18Amu.avif\",b9t=\"/assets/img_agreement-payment-privacy-B6qg9IEp.avif\",A9t=\"",
+      "content_type": "image/webp",
+      "bytes": 27088,
+      "sha256": "b0b3a474e3ba86088d09391d25ed71e36bf936ad51d3053d11302ca91af2a7f2",
+      "source_sha256": "5fa76f44001b920429c87d443111b0db43957eb33eb01be997c005e811d6bf52",
+      "dhash": "00c0c8eca4c0c800",
+      "width": 1440,
+      "height": 567,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/rainbow-rentcar/reference-003.webp",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_agreement-offer-privacy-Dyl18Amu.avif",
+      "source_tag": "script-data",
+      "context": "y{o(!1)}})()},[]);const i=()=>{r(!1)};return n?null:t?E.jsx(g9t,{onSelectKorea:i}):E.jsx(E.Fragment,{children:e})},v9t=\"/assets/img_agreement-non-member-privacy-Cl_rb74R.avif\",m9t=\"/assets/img_agreement-offer-privacy-Dyl18Amu.avif\",b9t=\"/assets/img_agreement-payment-privacy-B6qg9IEp.avif\",A9t=\"/assets/img_footer-link-commerce-CJaZbytr.avif\",x9t=\"/as",
+      "content_type": "image/webp",
+      "bytes": 27982,
+      "sha256": "43ccad1d6184013a29d345c43cf3b0ca2ad77c63d667c45e60a2c1289a81ecf4",
+      "source_sha256": "4019089d9564d70d080f39ef918a84673a972536e378c80903cf990ac87395a3",
+      "dhash": "00c4c0c0e4e4c000",
+      "width": 1440,
+      "height": 601,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/rainbow-rentcar/reference-004.webp",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_agreement-payment-privacy-B6qg9IEp.avif",
+      "source_tag": "script-data",
+      "context": "jsx(g9t,{onSelectKorea:i}):E.jsx(E.Fragment,{children:e})},v9t=\"/assets/img_agreement-non-member-privacy-Cl_rb74R.avif\",m9t=\"/assets/img_agreement-offer-privacy-Dyl18Amu.avif\",b9t=\"/assets/img_agreement-payment-privacy-B6qg9IEp.avif\",A9t=\"/assets/img_footer-link-commerce-CJaZbytr.avif\",x9t=\"/assets/img_footer-link-privacy-BqTvQ0aC.png\",Dve=\"/assets/im",
+      "content_type": "image/webp",
+      "bytes": 33274,
+      "sha256": "976e8ceb2b1148678adddfaef1b0e37b0a6a5ad9356a09ec76836e6e8b664512",
+      "source_sha256": "785dbe4787d3f37bc0481d4768e09c8cf9909e171ae688014b2b400289709542",
+      "dhash": "008088a4a2e0c400",
+      "width": 1440,
+      "height": 567,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/rainbow-rentcar/reference-005.webp",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_footer-link-travel-4cATy_UD.avif",
+      "source_tag": "script-data",
+      "context": "privacy-B6qg9IEp.avif\",A9t=\"/assets/img_footer-link-commerce-CJaZbytr.avif\",x9t=\"/assets/img_footer-link-privacy-BqTvQ0aC.png\",Dve=\"/assets/img_footer-link-rent-DaTiCRXR.avif\",O9t=\"/assets/img_footer-link-travel-4cATy_UD.avif\",R9t=()=>{const[e]=jd(),t=e.get(\"type\"),[r,n]=te.useState(\"\"),[o,i]=te.useState(\"\"),{recoilValue:a}=kr(Qn);return te.use",
+      "content_type": "image/webp",
+      "bytes": 113914,
+      "sha256": "a8233601e5548cb005c19c62523d083dafd42dcd473ac70d9c0087ba267c5862",
+      "source_sha256": "ccafeb59c9e82827cf22cc043416e83078ad042e066b854e91eb7c854ae2f555",
+      "dhash": "80808080808080a0",
+      "width": 704,
+      "height": 2000,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/rainbow-rentcar/reference-006.webp",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_reservation-info-1-BXWZOoY6.png",
+      "source_tag": "script-data",
+      "context": "dren:t},r))})]}),E.jsxs(bc,{children:[E.jsx(to,{type:\"section\",children:\"무제한 특약 및 제외 항목 특약 적용 불가 항목\"}),E.jsx(\"ul\",{children:S3t.map((t,r)=>E.jsx(ir,{children:t},r))})]})]})})},VGt=\"/assets/img_reservation-info-1-BXWZOoY6.png\",YGt=\"/assets/img_reservation-info-2-Do-CFiIl.png\",WGt=()=>{const{recoilValue:e}=kr(Qn);return E.jsx(E.Fragment,{childre",
+      "content_type": "image/webp",
+      "bytes": 39978,
+      "sha256": "f8e678827e769115ca75f7dba84b881874d594252ed04f03dff82eab89ca8c65",
+      "source_sha256": "e8c31af2fec2ffc2159d26aa6bab2216f66ddf3b578ca960e0336090aa2cef94",
+      "dhash": "a79999a4a4c09888",
+      "width": 450,
+      "height": 698,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/rainbow-rentcar/reference-007.webp",
+      "source_url": "https://www.rainbowrent.co.kr/assets/img_reservation-info-2-Do-CFiIl.png",
+      "source_tag": "script-data",
+      "context": "pe:\"section\",children:\"무제한 특약 및 제외 항목 특약 적용 불가 항목\"}),E.jsx(\"ul\",{children:S3t.map((t,r)=>E.jsx(ir,{children:t},r))})]})]})})},VGt=\"/assets/img_reservation-info-1-BXWZOoY6.png\",YGt=\"/assets/img_reservation-info-2-Do-CFiIl.png\",WGt=()=>{const{recoilValue:e}=kr(Qn);return E.jsx(E.Fragment,{children:E.jsxs(sTe,{isMobile:e,children:[E.jsx(to,{type:",
+      "content_type": "image/webp",
+      "bytes": 74418,
+      "sha256": "67e6ff7f51ce15c14aa551ec65979d621a9ff2665945bd5c87680897e3a8b092",
+      "source_sha256": "9d4e715aa83968214709709e67cb0170cf67db696d4d49587e8d88715c784669",
+      "dhash": "c0c1c0d0c1c0c0c1",
+      "width": 450,
+      "height": 659,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.rainbowrent.co.kr/"
+      ]
     }
   ]
 }

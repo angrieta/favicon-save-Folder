@@ -1,0 +1,2110 @@
+{
+  "company": "iM캐피탈 자동차금융",
+  "category": "장기렌트_리스",
+  "requested_url": "https://www.imcap.co.kr/automobile/vhclProdGuide.do",
+  "page_url": "https://www.imcap.co.kr/automobile/vhclProdGuide.do",
+  "page_title": "iM캐피탈 자동차금융",
+  "collection_status": "complete",
+  "collection_error": "asset:https://www.imcap.co.kr/static/common/css/font/Pretendard-Bold.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/play-v12-latin-regular.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/play-v12-latin-700.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/koho-500.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/koho-700.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/Montserrat-SemiBold.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/AbhayaLibre-Regular.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/Battambang-Regular.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/Karma-Regular.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/Padauk-Regular.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/ZAWGYIONE.ttf:HTTPError; asset:https://www.imcap.co.kr/static/common/css/font/PlayfairDisplay-Regular.ttf:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 1,
+    "desktop_pages": 1,
+    "mobile_pages": 1,
+    "stylesheets": 17,
+    "scripts": 36,
+    "candidates": 332,
+    "attempted_assets": 332,
+    "errors": 15,
+    "collected_at": "2026-09-03T08:17:01.199543+09:00"
+  },
+  "assets": [
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-001.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/img_progress.png",
+      "source_tag": "external-css",
+      "context": "_wrap {padding: 15.6rem 0 0 46rem; position: relative; top: 0; bottom: 0; width: 100%; transition: all .5s;}\r\n\r\n.sub_process .process_wrap::after {content: \"\"; display: block; position: fixed; right: 60px; bottom: 60px; width: 420px; height: 420px; background:url('../img/img_progress.png') center center / cover no-repeat;}\r\n.sub_process .process_wrap.fin_cen_box::after {background: none;}\r\n.sub_pr",
+      "content_type": "image/webp",
+      "bytes": 20322,
+      "sha256": "f3175cbc72ce27eb88651d4c2ddf0d8c6e776009acfcd77f64479e8e622d00ff",
+      "source_sha256": "6e8e977023d2489b01c8bb09f734fc4e3be2c419ca908133ce853307a12506fc",
+      "dhash": "186863233918131a",
+      "width": 840,
+      "height": 840,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/im/logo-001.png",
+      "source_url": "https://www.imcap.co.kr/static/web/img/imlogo/ci_basic_branch.png",
+      "source_tag": "external-css",
+      "context": "my-cover .tip-info{bottom:-38px}\r\nheader .header-mobile .btn-header-my{margin-left:0;width:32px;height:32px;background:url('../img/common/ico_my.png');background-size:32px auto;border:0;text-indent:-9999px}\r\nheader.digital-branch .h1-logo > a{background-image:url('../img/imlogo/ci_basic_branch.png');}\r\nheader.digital-branch .h1-logo-m > a{background-image:url('../img/imlogo/ci_basic_branch.png');}",
+      "content_type": "image/png",
+      "bytes": 19350,
+      "sha256": "38baca27df37cfa6dacf9115843b59de8efecd0c3592592434d704e387639bfb",
+      "source_sha256": "aac86d5dbb98922f803fa903ae8a2ce726a2035666c43f8aadd0918d639e47f6",
+      "dhash": "96b61e149c979096",
+      "width": 2026,
+      "height": 338,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-002.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/img_kakao.png",
+      "source_tag": "external-css",
+      "context": "align: center; font-weight: 500; color: rgb(34, 36, 38); letter-spacing: -0.05em;}\r\n.kakao_cen_box .ka_txt {font-size: 14px; color: rgb(112, 116, 120); text-align: center;}\r\n.kakao_cen_box .img-kakao {width: 160px; height: 160px; margin: 40px auto; background:url('../img/img_kakao.png') center center / cover no-repeat;}\r\n.kakao_cen_box .btn_box {display: flex; width: 100%; position: fixed; left: 0",
+      "content_type": "image/webp",
+      "bytes": 9930,
+      "sha256": "5bcbf98b65d518b2fafb0de1e4a6f95b8a9a5a1a6479fd5c8195285f327ebc90",
+      "source_sha256": "bdcbab4b37a70b348a476ab6848f67425b54467a171d28e6563d7c3859527e5b",
+      "dhash": "0f355d3533139e86",
+      "width": 480,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-003.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/bg_main_pop.png",
+      "source_tag": "external-css",
+      "context": "play:block;height:528px;border-radius:16px;outline-offset:-2px;}\r\n.main-pop-ul .main-pop-li > a img{width:432px}\r\n.tx-type-pop{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;padding:0 40px;text-align:center;background:url('../img/ui_common/bg_main_pop.png') no-repeat;background-size:cover}\r\n.tx-type-pop .tit{font-size:18px;font-weight:600;color:#00a88b}\r\n.",
+      "content_type": "image/webp",
+      "bytes": 2878,
+      "sha256": "063a9ea5cba84ce289bd70228ed5ae1a69c1d72322b412753731dce7aa1e44e2",
+      "source_sha256": "338d696cc8a5e22f9bdeb979c719f1310153e878adfc26ff3161e4d2c022a9c7",
+      "dhash": "006070741b0f0703",
+      "width": 864,
+      "height": 1056,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-004.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_rst01.png",
+      "source_tag": "external-css",
+      "context": "400;}\r\n.mydata-box1 .my-txt {font-size: 22px; margin-top: -16px; color: #222426; font-weight: 700;}\r\n\r\n/* íëì¡°íê²°ê³¼ */\r\n.img-rst {display: block; width: 18rem; height: 26rem; position: fixed; left: 50%; bottom: 9rem; margin: 0 auto -5rem; background: url('../img/ui_common/img_rst01.png') no-repeat; background-size: cover; transform: translatex(-50%);}\r\n.in-box {background: #fff; border-ra",
+      "content_type": "image/webp",
+      "bytes": 9286,
+      "sha256": "4dabde00c0169369c41da1acc429e1c2461d805f626eb1d772684f71bd5d7c18",
+      "source_sha256": "876624e0d18b4d54f2b63ebf38da6ce1bbaee801909574e3dc91a3785356af80",
+      "dhash": "859a660f8f9e3f3f",
+      "width": 360,
+      "height": 520,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-005.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char01.png",
+      "source_tag": "external-css",
+      "context": "er .tx-area .tx3{margin-top:16px;font-size:18px;font-weight:500;color:#00a88b}\r\n.prod-top-banner .tx-area .tx3 span + span{margin-left:16px}\r\n.prod-top-banner .img-area{\r\n    animation: imgMove 1.3s forwards;\r\n    opacity:0;width:320px;height:320px;background:url('../img/ui_common/img_char01.png') no-repeat;background-size:320px auto;\r\n}\r\n\r\n@keyframes imgMove{\r\n    from {\r\n        transform:transl",
+      "content_type": "image/webp",
+      "bytes": 17014,
+      "sha256": "0d68a0073dbf4618f293a00fbb06aed9c110192f6da36d557c86410c582b02bf",
+      "source_sha256": "341c2c2409566b9cbecb837a382cd216eca9c1308da1a158a74dd3730d5a4578",
+      "dhash": "210c472167032306",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-006.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char02.png",
+      "source_tag": "external-css",
+      "context": "har01.png') no-repeat;background-size:320px auto;\r\n}\r\n\r\n@keyframes imgMove{\r\n    from {\r\n        transform:translateX(100px);\r\n    }\r\n    to {\r\n        transform:translateX(0);\r\n        opacity: 1;\r\n    }\r\n}\r\n.prod-top-banner.type02 .img-area{background-image:url('../img/ui_common/img_char02.png')}\r\n.prod-top-banner.type03 .img-area{background-image:url('../img/ui_common/img_char03.png')}\r\n.prod-t",
+      "content_type": "image/webp",
+      "bytes": 18082,
+      "sha256": "66725d750afc46796d9f7fede4d8247f33685a026b41f7af6495f46688f38dfc",
+      "source_sha256": "c194302a9b62edfb26409efaa03773ec2679e6ac133ccc71a0c7dfa700d5bb81",
+      "dhash": "235c9a3311136a8c",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-007.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char03.png",
+      "source_tag": "external-css",
+      "context": "     transform:translateX(100px);\r\n    }\r\n    to {\r\n        transform:translateX(0);\r\n        opacity: 1;\r\n    }\r\n}\r\n.prod-top-banner.type02 .img-area{background-image:url('../img/ui_common/img_char02.png')}\r\n.prod-top-banner.type03 .img-area{background-image:url('../img/ui_common/img_char03.png')}\r\n.prod-top-banner.type04 .img-area{background-image:url('../img/ui_common/img_char04.png')}\r\n.prod-t",
+      "content_type": "image/webp",
+      "bytes": 15622,
+      "sha256": "377a99cd1fc31ff19387de3107e3f31845c81e5552da1239585640f4855d4048",
+      "source_sha256": "e69870db5e281234a355c1097ac5bac5140650316d586428ebca9bef6239b581",
+      "dhash": "045b8b6371338c4c",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-008.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char04.png",
+      "source_tag": "external-css",
+      "context": "  opacity: 1;\r\n    }\r\n}\r\n.prod-top-banner.type02 .img-area{background-image:url('../img/ui_common/img_char02.png')}\r\n.prod-top-banner.type03 .img-area{background-image:url('../img/ui_common/img_char03.png')}\r\n.prod-top-banner.type04 .img-area{background-image:url('../img/ui_common/img_char04.png')}\r\n.prod-top-banner.type05 .img-area{background-image:url('../img/ui_common/img_char05.png')}\r\n.prod-t",
+      "content_type": "image/webp",
+      "bytes": 19476,
+      "sha256": "4998117655d8a72030390e7319e4567aac1406787ee5202f8efa0ec8ffea54b7",
+      "source_sha256": "4879787273531c7f97cfa78a011f818634b574baaf9dd426f4ff1f1b55c26d14",
+      "dhash": "1a61811d1945651a",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-009.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char05.png",
+      "source_tag": "external-css",
+      "context": "ommon/img_char02.png')}\r\n.prod-top-banner.type03 .img-area{background-image:url('../img/ui_common/img_char03.png')}\r\n.prod-top-banner.type04 .img-area{background-image:url('../img/ui_common/img_char04.png')}\r\n.prod-top-banner.type05 .img-area{background-image:url('../img/ui_common/img_char05.png')}\r\n.prod-top-banner.type06 .img-area{background-image:url('../img/ui_common/img_char06.png')}\r\n.prod-t",
+      "content_type": "image/webp",
+      "bytes": 16802,
+      "sha256": "1fada97d34e0492783995be156d4f9e1ec1ba39031023ecf578e899029799b16",
+      "source_sha256": "2f891fabdccc91978b21b9559b5c7ae4e502f2047bc84cc2183c86945fb8fe93",
+      "dhash": "186393979f036318",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-010.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char06.png",
+      "source_tag": "external-css",
+      "context": "ommon/img_char03.png')}\r\n.prod-top-banner.type04 .img-area{background-image:url('../img/ui_common/img_char04.png')}\r\n.prod-top-banner.type05 .img-area{background-image:url('../img/ui_common/img_char05.png')}\r\n.prod-top-banner.type06 .img-area{background-image:url('../img/ui_common/img_char06.png')}\r\n.prod-top-banner.type07 .img-area{background-image:url('../img/ui_common/img_char07.png')}\r\n.prod-t",
+      "content_type": "image/webp",
+      "bytes": 9600,
+      "sha256": "f6d7dfa046b0988b952fc64dfc799e0fe7d401a858360eb840adcc08f11dc77f",
+      "source_sha256": "0c91e7210fb837c017a968611d41938ce8d1ae12e00d2736527bfb432328a101",
+      "dhash": "010e38643c363609",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-011.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char09.png",
+      "source_tag": "external-css",
+      "context": "ommon/img_char06.png')}\r\n.prod-top-banner.type07 .img-area{background-image:url('../img/ui_common/img_char07.png')}\r\n.prod-top-banner.type08 .img-area{background-image:url('../img/ui_common/img_char08.png')}\r\n.prod-top-banner.type09 .img-area{background-image:url('../img/ui_common/img_char09.png')}\r\n.prod-top-banner.type10 .img-area{background-image:url('../img/ui_common/img_char10.png')}\r\n.prod-t",
+      "content_type": "image/webp",
+      "bytes": 8834,
+      "sha256": "94887109f505fe0e6eaa9ee38d325d197ca5f4f45aeb5e4139808eafaa21e755",
+      "source_sha256": "61dcec750f0d82c57c615cdca0f2a347cf13ceda04de8c3cf60b0d17747327dd",
+      "dhash": "010e38643c383904",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-012.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char10.png",
+      "source_tag": "external-css",
+      "context": "ommon/img_char07.png')}\r\n.prod-top-banner.type08 .img-area{background-image:url('../img/ui_common/img_char08.png')}\r\n.prod-top-banner.type09 .img-area{background-image:url('../img/ui_common/img_char09.png')}\r\n.prod-top-banner.type10 .img-area{background-image:url('../img/ui_common/img_char10.png')}\r\n.prod-top-banner.type11 .img-area{background-image:url('../img/ui_common/img_char11.png')}\r\n.prod-t",
+      "content_type": "image/webp",
+      "bytes": 15014,
+      "sha256": "4207a0481467898c0a920886f97e350edb96bb83b47ad706f16118bd52eddf35",
+      "source_sha256": "6681b091c3d5477f30e561923fa7ae0ea19fd02831f7bf014c0970f1045e612c",
+      "dhash": "0570852379399845",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-013.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char11.png",
+      "source_tag": "external-css",
+      "context": "ommon/img_char08.png')}\r\n.prod-top-banner.type09 .img-area{background-image:url('../img/ui_common/img_char09.png')}\r\n.prod-top-banner.type10 .img-area{background-image:url('../img/ui_common/img_char10.png')}\r\n.prod-top-banner.type11 .img-area{background-image:url('../img/ui_common/img_char11.png')}\r\n.prod-top-banner.type12 .img-area{background-image:url('../img/ui_common/img_char12.png')}\r\n.prod-t",
+      "content_type": "image/webp",
+      "bytes": 17800,
+      "sha256": "6bafc892e83ea829dd6bc303b24d0c646055ea50293bf24f77ccdb406f80319a",
+      "source_sha256": "aa656b1c881f7bfb14a365215e01135968cc0f5429c628faf434755bb4049818",
+      "dhash": "44781bd6311fdce1",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-014.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char12.png",
+      "source_tag": "external-css",
+      "context": "ommon/img_char09.png')}\r\n.prod-top-banner.type10 .img-area{background-image:url('../img/ui_common/img_char10.png')}\r\n.prod-top-banner.type11 .img-area{background-image:url('../img/ui_common/img_char11.png')}\r\n.prod-top-banner.type12 .img-area{background-image:url('../img/ui_common/img_char12.png')}\r\n.prod-top-banner.type13 .img-area{background-image:url('../img/ui_common/img_char13.png')}\r\n.prod-t",
+      "content_type": "image/webp",
+      "bytes": 23000,
+      "sha256": "8d7baa3e20489d0e2adfbf70027fc1fe038535b78628fbb80cbd4b97ffe8df81",
+      "source_sha256": "9ab12fd4929bc1576decdb23bca721561b750790de76b72e00ce157a66a4f8c7",
+      "dhash": "1a73874d4eb9b964",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-015.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char13.png",
+      "source_tag": "external-css",
+      "context": "ommon/img_char10.png')}\r\n.prod-top-banner.type11 .img-area{background-image:url('../img/ui_common/img_char11.png')}\r\n.prod-top-banner.type12 .img-area{background-image:url('../img/ui_common/img_char12.png')}\r\n.prod-top-banner.type13 .img-area{background-image:url('../img/ui_common/img_char13.png')}\r\n.prod-top-banner.type06,\r\n.prod-top-banner.type07,\r\n.prod-top-banner.type08,\r\n.prod-top-banner.type",
+      "content_type": "image/webp",
+      "bytes": 21150,
+      "sha256": "ce88277b3f7d9066acfc39a9f1ccefda998a151a292220dfbb5c42babf743f0f",
+      "source_sha256": "730d9a534d595ee989058e46b22fae3f7dc78f888d5757a4916916c17a8e2f48",
+      "dhash": "04035333253df085",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/im/banner-001.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/servicedesk/top_info_bg.png",
+      "source_tag": "external-css",
+      "context": "\r\n---------------------------------------------------------- */\r\n/* .fixed-ai .service-desk-main{overflow-y:auto;height:calc(100vh - 48px)} */\r\n.service-desk-main .sd-top-banner{position:relative;margin-bottom:24px;height:160px;padding:32px 20px 0;background:url('../img/servicedesk/top_info_bg.png') center / cover no-repeat}\r\n.service-desk-main .sd-top-banner:after{position:absolute;top:32px;righ",
+      "content_type": "image/webp",
+      "bytes": 3220,
+      "sha256": "d4b0e8ba5c310f53021207416067efda1df24d753200aeb8be5c6df724b9a010",
+      "source_sha256": "4d96d5b69745dbda2fbfc111c7c7cdce92280051daa584828d3305bff7f7bd6a",
+      "dhash": "0100040404060202",
+      "width": 750,
+      "height": 320,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-016.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char14.png",
+      "source_tag": "external-css",
+      "context": "ast-child{margin-bottom:0}\r\n.drop-list-style .list-1 li .tit{font-size:14px;text-align:left}\r\n.drop-list-style .list-1 li .txt{padding:0;margin:0;font-size:14px;font-weight:500;color:#222426;text-align:left}\r\n.prod-top-banner.type14 .img-area{background-image:url('../img/ui_common/img_char14.png');}\r\n\r\n/* ë´ ì°¨ ë±ë¡ */\r\n.plate-register-area{display:flex;align-items:flex-end;position:relative;h",
+      "content_type": "image/webp",
+      "bytes": 21582,
+      "sha256": "80460240b57d3dad95e8b4cef691a7d504cf40c4fe8256aba3a7592f02324477",
+      "source_sha256": "068bf5611fd7f80092d275676ddff9756502cdec88422cf062827257bf42a576",
+      "dhash": "34cb1363613131cc",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/im/banner-002.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/img_main_banner.png",
+      "source_tag": "external-css",
+      "context": ".digi-main-banner{position:relative;display:block;flex-direction:column;height:160px;margin-top:48px;padding:50px 80px;border-radius:16px;background-color:#143135}\r\n.digi-main-banner:after{position:absolute;top:0;right:40px;width:420px;height:160px;background:url('../img/digital_branch/img_main_banner.png') no-repeat;background-size:420px auto;content:''}\r\n.digi-main-banner .tx01{display:block;fon",
+      "content_type": "image/webp",
+      "bytes": 29178,
+      "sha256": "f1771b96c04a084470abb6bce21461fa77949ddacbfc84329d0f5b7cd1d7c625",
+      "source_sha256": "dc296f61830113e328255f75434a1fe05f809d1a4d219c54edf9d60ce98c5e61",
+      "dhash": "0f53537175696163",
+      "width": 840,
+      "height": 320,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-017.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/servicedesk/top_info_bg02.png",
+      "source_tag": "external-css",
+      "context": "top-area{position:sticky;z-index:10;top:48px;left:0;right:0;padding:0 20px 12px;}\r\n.service-desk-main .sd-top-area > *{position:relative;z-index:1}\r\n.service-desk-main .sd-top-area:after{position:absolute;z-index:0;top:0;left:0;right:0;bottom:-30px;background:url('../img/servicedesk/top_info_bg02.png') no-repeat;background-size:cover;content:''}\r\n.sd-top-area .tit{padding-bottom:0;font-size:22px;f",
+      "content_type": "image/webp",
+      "bytes": 12002,
+      "sha256": "8343323c3c9b8ed6f010c4a3733eedf24b72aecc20904a5c48346fee8c62e1f1",
+      "source_sha256": "43cc7a0df3bce93ade71cb69a20bf9f1337b491e4d2a53c1fa2a8f743384ac22",
+      "dhash": "0401fef8c0810320",
+      "width": 691,
+      "height": 2000,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-018.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/servicedesk/bg_ai_main.png",
+      "source_tag": "external-css",
+      "context": "-convo-main){padding-top:0} */\r\n.fixed-ai .ai-convo-main-cont{padding:64px 20px}\r\n.ai-convo-main{height:100%;}\r\n.ai-convo-main-cont{overflow-y:auto;display:flex;flex-direction:column;align-items:center;height:100%;min-height:403px;padding:40px 20px;background:url('../img/servicedesk/bg_ai_main.png') no-repeat top / cover}\r\n.ai-convo-main-cont .char{flex-shrink:0;width:120px;height:64px;background:",
+      "content_type": "image/webp",
+      "bytes": 32818,
+      "sha256": "ac71ac0df5dd941430042133a474230c56a20ba7b0adcf669d83afb9aedc80a0",
+      "source_sha256": "1a12b2fb17746f96932a7e348b99020949fbaf110e18f644e7e27f17c2c196e4",
+      "dhash": "8003238001000000",
+      "width": 750,
+      "height": 1412,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-019.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char15.png",
+      "source_tag": "external-css",
+      "context": "t-area .value-list-type .tx{font-size:15px;line-height:23px}\r\n.pay-esti-box .result-area .value-list-type .tit{color:#5C6773}\r\n.pay-esti-box .result-area .value-list-type .tx{font-weight:600;color:#222426}\r\n\r\n.prod-top-banner.type15 .img-area{background-image:url('../img/ui_common/img_char15.png');background-size:204px auto;background-position:center right;}\r\n\r\n.info-box-style + .info-box-style{ma",
+      "content_type": "image/webp",
+      "bytes": 9238,
+      "sha256": "0f06d06f6683b161908c24ce338087f398dd54789f271e113f5ebfb6cdba81c5",
+      "source_sha256": "c4dc07e3ac66f9dc57e52acb2492de10ba44016e9fe2e50cad54db06ea2e001b",
+      "dhash": "2e1f3b6b73331f2e",
+      "width": 408,
+      "height": 408,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-020.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char01_mob.png",
+      "source_tag": "external-css",
+      "context": "x-area .tx2{margin-top:10px;font-size:18px;line-height:26px}\r\n    .prod-top-banner .tx-area .tx3{margin-top:12px;font-size:14px}\r\n    .prod-top-banner .img-area{position:absolute;bottom:24px;left:0;right:0;margin:30px auto 0;width:auto;height:180px;background:url('../img/ui_common/img_char01_mob.png') 50% 50% no-repeat;background-size:335px auto;}\r\n    .prod-top-banner.type02 .img-area{background-",
+      "content_type": "image/webp",
+      "bytes": 10708,
+      "sha256": "ee054f21faa85400bfbd166203a96453392f735265a7ad21ceb7ce7ed7304d55",
+      "source_sha256": "0ad20485560830608f687ff0ae312a62abfd422db48eae5f3be7f7fd488d42d4",
+      "dhash": "490f072727070726",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-021.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char02_mob.png",
+      "source_tag": "external-css",
+      "context": "nner .img-area{position:absolute;bottom:24px;left:0;right:0;margin:30px auto 0;width:auto;height:180px;background:url('../img/ui_common/img_char01_mob.png') 50% 50% no-repeat;background-size:335px auto;}\r\n    .prod-top-banner.type02 .img-area{background-image:url('../img/ui_common/img_char02_mob.png')}\r\n    .prod-top-banner.type03 .img-area{background-image:url('../img/ui_common/img_char03_mob.png",
+      "content_type": "image/webp",
+      "bytes": 14046,
+      "sha256": "1cc90d1d019395d2894dbe8228f3e92b1cbb359af9f3850652bae99ccebb136c",
+      "source_sha256": "955a36cdba6f2e14e15be0332bc45b74278e26101c05b395a359fdcc770fa7e7",
+      "dhash": "5998962783963659",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-022.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char03_mob.png",
+      "source_tag": "external-css",
+      "context": "px;background:url('../img/ui_common/img_char01_mob.png') 50% 50% no-repeat;background-size:335px auto;}\r\n    .prod-top-banner.type02 .img-area{background-image:url('../img/ui_common/img_char02_mob.png')}\r\n    .prod-top-banner.type03 .img-area{background-image:url('../img/ui_common/img_char03_mob.png')}\r\n    .prod-top-banner.type04 .img-area{background-image:url('../img/ui_common/img_char04_mob.png",
+      "content_type": "image/webp",
+      "bytes": 10686,
+      "sha256": "d9703eba1ee18692252aa0bd9a51706c3ad090cd0bc35f79d297426929026438",
+      "source_sha256": "d3879e9dcfcf51cc9bbe79392d9670d3e97637bc9cbed2e8130cf4a7e7959314",
+      "dhash": "320e8e273732b0c9",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-023.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char04_mob.png",
+      "source_tag": "external-css",
+      "context": "o;}\r\n    .prod-top-banner.type02 .img-area{background-image:url('../img/ui_common/img_char02_mob.png')}\r\n    .prod-top-banner.type03 .img-area{background-image:url('../img/ui_common/img_char03_mob.png')}\r\n    .prod-top-banner.type04 .img-area{background-image:url('../img/ui_common/img_char04_mob.png')}\r\n    .prod-top-banner.type05 .img-area{background-image:url('../img/ui_common/img_char05_mob.png",
+      "content_type": "image/webp",
+      "bytes": 14388,
+      "sha256": "11aba14286bf7c5704585b572524b9a691d2e302f39e7e2448f81dc89b09be94",
+      "source_sha256": "1dd2f79b391966e7421431c6ca21b02e09ef6e6fa94c40245e65a6ffd5981a44",
+      "dhash": "3046869e96864666",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-024.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char05_mob.png",
+      "source_tag": "external-css",
+      "context": "')}\r\n    .prod-top-banner.type03 .img-area{background-image:url('../img/ui_common/img_char03_mob.png')}\r\n    .prod-top-banner.type04 .img-area{background-image:url('../img/ui_common/img_char04_mob.png')}\r\n    .prod-top-banner.type05 .img-area{background-image:url('../img/ui_common/img_char05_mob.png')}\r\n    .prod-top-banner.type06 .img-area{background-image:url('../img/ui_common/img_char06_mob.png",
+      "content_type": "image/webp",
+      "bytes": 11042,
+      "sha256": "8e4afa3abe69a80d9d45b15e62d77eaae86ff7decf09052c08ccdd721a9e8686",
+      "source_sha256": "4e3b48d96e410f9ea5e07c9cfebddac93add878b7714e671f99b5bd52d8e4c95",
+      "dhash": "2406869e9e866664",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-025.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char06_mob.png",
+      "source_tag": "external-css",
+      "context": "')}\r\n    .prod-top-banner.type04 .img-area{background-image:url('../img/ui_common/img_char04_mob.png')}\r\n    .prod-top-banner.type05 .img-area{background-image:url('../img/ui_common/img_char05_mob.png')}\r\n    .prod-top-banner.type06 .img-area{background-image:url('../img/ui_common/img_char06_mob.png')}\r\n    .prod-top-banner.type07 .img-area{background-image:url('../img/ui_common/img_char07_mob.png",
+      "content_type": "image/webp",
+      "bytes": 6486,
+      "sha256": "1326a994219b9369a222913483af9a1bf1aa3ca85df41a0474fc9b7facfd67aa",
+      "source_sha256": "39f3d721a521af1aa9edfbab65c9ef862b03dae18afeea4be97e2ccc95f1de4d",
+      "dhash": "0d1932695a392979",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-026.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char08_mob.png",
+      "source_tag": "external-css",
+      "context": "')}\r\n    .prod-top-banner.type06 .img-area{background-image:url('../img/ui_common/img_char06_mob.png')}\r\n    .prod-top-banner.type07 .img-area{background-image:url('../img/ui_common/img_char07_mob.png')}\r\n    .prod-top-banner.type08 .img-area{background-image:url('../img/ui_common/img_char08_mob.png')}\r\n    .prod-top-banner.type09 .img-area{background-image:url('../img/ui_common/img_char09_mob.png",
+      "content_type": "image/webp",
+      "bytes": 6716,
+      "sha256": "072938de861311452c45f88a41ccb7974fad590145f4c47478bede8c7b30bc37",
+      "source_sha256": "d1e42f7bccf8ed0c82106848271ce3fb771f114ea25d1ced0ef995e8a1d0a5fb",
+      "dhash": "0d1932695b392979",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-027.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char09_mob.png",
+      "source_tag": "external-css",
+      "context": "')}\r\n    .prod-top-banner.type07 .img-area{background-image:url('../img/ui_common/img_char07_mob.png')}\r\n    .prod-top-banner.type08 .img-area{background-image:url('../img/ui_common/img_char08_mob.png')}\r\n    .prod-top-banner.type09 .img-area{background-image:url('../img/ui_common/img_char09_mob.png')}\r\n    .prod-top-banner.type10 .img-area{background-image:url('../img/ui_common/img_char10_mob.png",
+      "content_type": "image/webp",
+      "bytes": 5662,
+      "sha256": "bec661921489da123b4a56cd6f60e1865bf271274e96d5c1e3671df19d280f50",
+      "source_sha256": "7da9569ed99cb0e656b7ee396e4138e3a1603c11bca7a26cf8fdc3bf20e26e7a",
+      "dhash": "0d19326959323272",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-028.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char10_mob.png",
+      "source_tag": "external-css",
+      "context": "')}\r\n    .prod-top-banner.type08 .img-area{background-image:url('../img/ui_common/img_char08_mob.png')}\r\n    .prod-top-banner.type09 .img-area{background-image:url('../img/ui_common/img_char09_mob.png')}\r\n    .prod-top-banner.type10 .img-area{background-image:url('../img/ui_common/img_char10_mob.png')}\r\n    .prod-top-banner.type11 .img-area{background-image:url('../img/ui_common/img_char11_mob.png",
+      "content_type": "image/webp",
+      "bytes": 12792,
+      "sha256": "ba6377c5f692df2e3290e1af293e55a0d93e64d078f33f94f833ae8198ec2d8f",
+      "source_sha256": "dc33c8a65d279c7e0315e0866af7b01c66d86013ea32155adaff6e6042a5a352",
+      "dhash": "304f83233b3ab0cc",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-029.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char11_mob.png",
+      "source_tag": "external-css",
+      "context": "')}\r\n    .prod-top-banner.type09 .img-area{background-image:url('../img/ui_common/img_char09_mob.png')}\r\n    .prod-top-banner.type10 .img-area{background-image:url('../img/ui_common/img_char10_mob.png')}\r\n    .prod-top-banner.type11 .img-area{background-image:url('../img/ui_common/img_char11_mob.png')}\r\n    .prod-top-banner.type12 .img-area{background-image:url('../img/ui_common/img_char12_mob.png",
+      "content_type": "image/webp",
+      "bytes": 12734,
+      "sha256": "e66dde2dae3d15c40c216c510e9f7f92ca4c678144e6eff76b7a4604677d5cf8",
+      "source_sha256": "c45516fd552512e5bb9f41d149c4d1325ff04a5bcac65f0f2871ddb76003a7d7",
+      "dhash": "36381e259b9ecc68",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-030.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char12_mob.png",
+      "source_tag": "external-css",
+      "context": "')}\r\n    .prod-top-banner.type10 .img-area{background-image:url('../img/ui_common/img_char10_mob.png')}\r\n    .prod-top-banner.type11 .img-area{background-image:url('../img/ui_common/img_char11_mob.png')}\r\n    .prod-top-banner.type12 .img-area{background-image:url('../img/ui_common/img_char12_mob.png')}\r\n    .prod-top-banner.type13 .img-area{background-image:url('../img/ui_common/img_char13_mob.png",
+      "content_type": "image/webp",
+      "bytes": 11768,
+      "sha256": "0940c85c984a27b83e73a861d51d53647e23edbe183aac31e4145606b81fa07f",
+      "source_sha256": "ed271ec4c901ca9732af05d38d7e17a3aca8ed056f0309da4730b545be6fda31",
+      "dhash": "06068e8e4e96160e",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-031.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char13_mob.png",
+      "source_tag": "external-css",
+      "context": "')}\r\n    .prod-top-banner.type11 .img-area{background-image:url('../img/ui_common/img_char11_mob.png')}\r\n    .prod-top-banner.type12 .img-area{background-image:url('../img/ui_common/img_char12_mob.png')}\r\n    .prod-top-banner.type13 .img-area{background-image:url('../img/ui_common/img_char13_mob.png')}\r\n    .prod-top-banner .btn-link{display:none}\r\n    .prod-top-banner.type05{margin-top:24px}\r\n\r\n ",
+      "content_type": "image/webp",
+      "bytes": 14412,
+      "sha256": "11d98cea67af7ebaae6ffc55219ca1a8f72c7893a55426063e202d0b4a3a9b9b",
+      "source_sha256": "bd014f10add626435fbf5a78ad0d83ec41d3518d864a878af42968f7200ff8e0",
+      "dhash": "16266626262e34e0",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-032.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char14_mob.png",
+      "source_tag": "external-css",
+      "context": "-box{padding-top:76px}\r\n    .simul-result-box .result-list li{padding:24px 20px}\r\n    .simul-result-box .result-list .left-tx{font-size:14px}\r\n    .simul-result-box .result-list .right-tx{font-size:16px}\r\n    .prod-top-banner.type14 .img-area{background-image:url('../img/ui_common/img_char14_mob.png');}\r\n\r\n    /* ë´ ì°¨ ë±ë¡ */\r\n    .plate-register-area{margin-top:36px}\r\n    .plate-register-are",
+      "content_type": "image/webp",
+      "bytes": 14672,
+      "sha256": "3c8885aeb11ee28ea421c14f974e84e7afa5812525fc8c2078263da558313260",
+      "source_sha256": "220112b82f67df28f04c8356d1e86760769573b188845448111036d974bcf5dd",
+      "dhash": "4a560627233694c0",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-033.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_char15_mob.png",
+      "source_tag": "external-css",
+      "context": "argin:24px 0 12px;padding:0;font-size:16px;line-height:22px}\r\n    .pay-esti-box .result-area .value-list-type .tit,\r\n    .pay-esti-box .result-area .value-list-type .tx{font-size:14px;line-height:22px}\r\n\r\n    .prod-top-banner.type15 .img-area{background-image:url('../img/ui_common/img_char15_mob.png');background-size:335px auto;background-position:center}\r\n\r\n    /* ì¤í ë¸ëì¹ ë§ì´ ë³´íê´",
+      "content_type": "image/webp",
+      "bytes": 9362,
+      "sha256": "fe7f43e48fa2666f1c5ed817883821fa8828625e5733bdbe89107efcc1cd44ed",
+      "source_sha256": "8de470fc08e109064095d19b476088007cbe372d14a43075c9b183d7572b478b",
+      "dhash": "0c4e8e96968e8e4c",
+      "width": 670,
+      "height": 369,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-034.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_kakao.png",
+      "source_tag": "external-css",
+      "context": "r-color: #222426;}\r\n.tbl-01 tbody th {border-bottom: .1rem solid rgb(235, 236, 238);}\r\n.tbl-01 th, .tbl-01 td {text-align: left;}\r\n\r\n/* ì¹´ì¹´ì¤íì´ì¸ì¦ì-íì\u0085 */\r\n.kakao_cen_box .img-kakao {width: 282px; height: 184px; margin: 16px auto 0; background:url('../img/ui_common/img_kakao.png') center center / cover no-repeat;}\r\n.kakao_cen_box .img-pass {width: 282px; height: 184px; margin: 16px",
+      "content_type": "image/webp",
+      "bytes": 9446,
+      "sha256": "2a82a3291167d6dd683bc6f6c1ff0e99cf02ee716b58e4ed4c18922acdf4d9df",
+      "source_sha256": "9c524e2d2ae0e5e8f90618b6ba95cff073155a010a17c4836d71542fdc8b8242",
+      "dhash": "232b79b84f272b0b",
+      "width": 528,
+      "height": 368,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-035.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_pass.png",
+      "source_tag": "external-css",
+      "context": "-íì\u0085 */\r\n.kakao_cen_box .img-kakao {width: 282px; height: 184px; margin: 16px auto 0; background:url('../img/ui_common/img_kakao.png') center center / cover no-repeat;}\r\n.kakao_cen_box .img-pass {width: 282px; height: 184px; margin: 16px auto 0; background:url('../img/ui_common/img_pass.png') center center / cover no-repeat;}\r\n/* íì\u0085ì´ ìë ê²½ì° */\r\n.process-wrap .kakao_cen_box{position",
+      "content_type": "image/webp",
+      "bytes": 10596,
+      "sha256": "c5b6659319be4ccc6e54c864a28d8cf21c2e24195247bc43526652d14e0f9f9e",
+      "source_sha256": "c6fb2bfad9f0b0a4e3b4d241925078f1946edd646fd8473b20a5c1ad107b7888",
+      "dhash": "162369a90527232b",
+      "width": 564,
+      "height": 368,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-036.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/landing_char.png",
+      "source_tag": "external-css",
+      "context": "-radius:12px;text-align:center}\r\n.landing-layer .land-txt{padding-top:94px;font-size:18px;color:#222426;line-height:26px;text-align:center;font-weight:500}\r\n.landing-layer .bg-char{position:absolute;top:-89px;left:0;right:0;width:400px;height:163px;background:url('/static/web/img/landing_char.png') no-repeat;background-size:400px auto}\r\n.landing-layer .logo{display:inline-block;margin-top:28px;wid",
+      "content_type": "image/webp",
+      "bytes": 17190,
+      "sha256": "6108d767ba0aaff9cf375aa42fc7eeeeead74fa153fcb12a8d6a68c9bebfcca6",
+      "source_sha256": "9e16c7fa47c65b69b87c1062758bf6e827cff49c312870b72e5ee39eaae8e56d",
+      "dhash": "c42f5717332b2e17",
+      "width": 800,
+      "height": 326,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/im/logo-002.png",
+      "source_url": "https://www.imcap.co.kr/static/web/img/imlogo/ci_basic.png",
+      "source_tag": "external-css",
+      "context": "r:#5c6773;font-weight:400}\r\nheader .h-right .menu-list > li > a:hover{font-weight:600}\r\nheader .h1-logo{position:relative;display:flex;align-items:center;margin-right:24px;}\r\nheader .h1-logo > a{overflow:hidden;display:block;width:140px;height:88px;background:url(../img/imlogo/ci_basic.png) center no-repeat;background-size:140px auto;text-indent:-9999px;}\r\n/* ííì´ì§,ëì§í¸ë¸ëì¹ ì í",
+      "content_type": "image/png",
+      "bytes": 15916,
+      "sha256": "0b8a23d9fd8a28e9c8ea39805c82035a027ef21642d2126f2229bf6bc1cff790",
+      "source_sha256": "ed901a591a67e7612031765a825c23b44d02332db58290b6cbe1ce54e031f584",
+      "dhash": "b0b664465ad8d2d0",
+      "width": 2024,
+      "height": 338,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/im/logo-003.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/bg_logo_dgb.png",
+      "source_tag": "external-css",
+      "context": "¼ ê²½ì° íë¨ë²í¼ ìì¹ */\r\n.fix-btm .fixed-btn-area {bottom: 0;}\r\n\r\n /* í¤í¨ë */\r\n .keypad-wrap {display: none;}\r\n\r\n /* ìµì¢\u0085íì½ë´ì© */\r\n.srt-box {padding: 3.2rem; border-radius: .8rem; box-shadow: 0 2px 2px rgb(0 0 0 / 16%); background: #fff url('../img/ui_common/bg_logo_dgb.png') no-repeat center center; background-size:16.8rem auto; position: relative;}\r\n.srt-box .tit {font-siz",
+      "content_type": "image/webp",
+      "bytes": 5988,
+      "sha256": "700d7ef89027237726a940a1e31ecebc978fb9f4fc108abce95c8179f8456af0",
+      "source_sha256": "5b86e44176fbeecb7ce4ad24def8122977c92603b836d44321c5c39604867c90",
+      "dhash": "3418088dcececec6",
+      "width": 456,
+      "height": 228,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/im/logo-004.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/logo_cir01.png",
+      "source_tag": "external-css",
+      "context": ";}\r\n.brand-sel-list .clone{gap:inherit;}\r\n.brand-sel-list:active{cursor:grabbing;}\r\n.brand-sel-list > a{display:block;text-align:center;font-size:14px;color:#5c6773}\r\n.brand-sel-list > a:before{display:block;margin-bottom:8px;width:64px;height:64px;background:url('../img/digital_branch/logo_cir01.png') no-repeat;background-size:64px auto;content:''}\r\n.brand-sel-list > a.m2:before{background-image:",
+      "content_type": "image/webp",
+      "bytes": 2206,
+      "sha256": "dba462e9f69efb1cef780a6db277cba0bd8ea952dc0f38f788e2dc3627e90d43",
+      "source_sha256": "8424a9cd761eae2d817df27ea55c6d812e597a3103a30b43f8b29aa6b19a218a",
+      "dhash": "f0c48a16968ed4f0",
+      "width": 128,
+      "height": 128,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/im/logo-005.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/logo_cir02.png",
+      "source_tag": "external-css",
+      "context": "-size:14px;color:#5c6773}\r\n.brand-sel-list > a:before{display:block;margin-bottom:8px;width:64px;height:64px;background:url('../img/digital_branch/logo_cir01.png') no-repeat;background-size:64px auto;content:''}\r\n.brand-sel-list > a.m2:before{background-image:url('../img/digital_branch/logo_cir02.png')}\r\n.brand-sel-list > a.m3:before{background-image:url('../img/digital_branch/logo_cir03.png')}\r\n.",
+      "content_type": "image/webp",
+      "bytes": 1776,
+      "sha256": "7b38fe0ccc716ce5bf9403d25fd98a578aea1db03fe05a4d5bfb09f8d0d22fac",
+      "source_sha256": "84aec31f39c90bd81770215f70f4d9d5df9791c0a2d9cb82fa7e7b25c57d3ba9",
+      "dhash": "f0c8800b2f80ccf0",
+      "width": 128,
+      "height": 128,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/im/logo-006.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/logo_cir03.png",
+      "source_tag": "external-css",
+      "context": "4px;height:64px;background:url('../img/digital_branch/logo_cir01.png') no-repeat;background-size:64px auto;content:''}\r\n.brand-sel-list > a.m2:before{background-image:url('../img/digital_branch/logo_cir02.png')}\r\n.brand-sel-list > a.m3:before{background-image:url('../img/digital_branch/logo_cir03.png')}\r\n.brand-sel-list > a.m4:before{background-image:url('../img/digital_branch/logo_cir04.png')}\r\n.",
+      "content_type": "image/webp",
+      "bytes": 1802,
+      "sha256": "4eff033e867357039543d2b6b74ec662e909d89059af20f96732fdcd9222c378",
+      "source_sha256": "537cc61b0a37f80642c66824a33d935788f25b3ffd890d93d22db33fc8c20b11",
+      "dhash": "f0d480171780d4f0",
+      "width": 128,
+      "height": 128,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/im/logo-007.png",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/logo_cir04.png",
+      "source_tag": "external-css",
+      "context": "ize:64px auto;content:''}\r\n.brand-sel-list > a.m2:before{background-image:url('../img/digital_branch/logo_cir02.png')}\r\n.brand-sel-list > a.m3:before{background-image:url('../img/digital_branch/logo_cir03.png')}\r\n.brand-sel-list > a.m4:before{background-image:url('../img/digital_branch/logo_cir04.png')}\r\n.brand-sel-list > a.m5:before{background-image:url('../img/digital_branch/logo_cir05.png')}\r\n.",
+      "content_type": "image/png",
+      "bytes": 4934,
+      "sha256": "3565eae3fe1c21e7fad11eaa6fc5a564a91020a933d30ee80a77fa9ee8264cf3",
+      "source_sha256": "abd6e5021139059cc8041400f95ce08a6d75547e93c75bf40c7a869883fe20e6",
+      "dhash": "0f3355f0e455330f",
+      "width": 128,
+      "height": 128,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/im/logo-008.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/logo_cir05.png",
+      "source_tag": "external-css",
+      "context": "_branch/logo_cir02.png')}\r\n.brand-sel-list > a.m3:before{background-image:url('../img/digital_branch/logo_cir03.png')}\r\n.brand-sel-list > a.m4:before{background-image:url('../img/digital_branch/logo_cir04.png')}\r\n.brand-sel-list > a.m5:before{background-image:url('../img/digital_branch/logo_cir05.png')}\r\n.brand-sel-list > a.m6:before{background-image:url('../img/digital_branch/logo_cir06.png')}\r\n.",
+      "content_type": "image/webp",
+      "bytes": 2082,
+      "sha256": "22f96bdb49a7c8bb8adacb7ffeeda36feadc32e49176da6290335f8413b88bc9",
+      "source_sha256": "3d69615360d18dfef3d26ad113df97b1990c9cb35b94144a2084043126422229",
+      "dhash": "0f2b71b2b2712b0f",
+      "width": 128,
+      "height": 128,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/im/logo-009.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/logo_cir06.png",
+      "source_tag": "external-css",
+      "context": "_branch/logo_cir03.png')}\r\n.brand-sel-list > a.m4:before{background-image:url('../img/digital_branch/logo_cir04.png')}\r\n.brand-sel-list > a.m5:before{background-image:url('../img/digital_branch/logo_cir05.png')}\r\n.brand-sel-list > a.m6:before{background-image:url('../img/digital_branch/logo_cir06.png')}\r\n.brand-sel-list > a.m7:before{background-image:url('../img/digital_branch/logo_cir07.png')}\r\n\r",
+      "content_type": "image/webp",
+      "bytes": 1984,
+      "sha256": "1d557ba9a76c1c56b36ac5e8a25d8c828ab414fde543f30a420dbf9090d54af0",
+      "source_sha256": "dc48ed2f67372f794ea5d60307f4c57ab3ffb7996602ff30b4c5a532df468459",
+      "dhash": "0f2359696959230f",
+      "width": 128,
+      "height": 128,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-037.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_mydgb01.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ": content //-->\n<div class=\"popup-cnt\">\n<div class=\"cont-box\">\n<h2>만기 일시 상환</h2>\n<p class=\"c-txt\">대출기간 중 마지막 시점에 한번에 갚는 방식</p>\n<div class=\"box-green\"><img alt=\"원금과 이자를 한번에 납부\" src=\"/static/web/img/ui_common/img_mydgb01.png\"/></div>\n</div>\n<div class=\"cont-box\">\n<h2>원리금 균등 상환</h2>\n<p class=\"c-txt\">매월 납부하는 금액이 동일, 매월 원금과 이자는 상이한 방식</p>\n<div cl",
+      "content_type": "image/webp",
+      "bytes": 3464,
+      "sha256": "33e5ac5b201063a9dfcb55d820161e637561dc6bbf5599ac777a55e1d7f8e177",
+      "source_sha256": "e67ae937e290032a96019f0496491a2d4964f8afc910bb4d25f14b14ef30005f",
+      "dhash": "030d4c0c62606105",
+      "width": 670,
+      "height": 208,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-038.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_mydgb02.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "b01.png\"/></div>\n</div>\n<div class=\"cont-box\">\n<h2>원리금 균등 상환</h2>\n<p class=\"c-txt\">매월 납부하는 금액이 동일, 매월 원금과 이자는 상이한 방식</p>\n<div class=\"box-green\"><img alt=\"원금과 이자를 매월 같은 금액을 납부\" src=\"/static/web/img/ui_common/img_mydgb02.png\"/></div>\n</div>\n<div class=\"cont-box\">\n<h2>원금 균등 상환</h2>\n<p class=\"c-txt\">빌린 돈을 똑같이 나눠서 갚는 방식</p>\n<div class=\"box-green\"",
+      "content_type": "image/webp",
+      "bytes": 6538,
+      "sha256": "0fdb63d93ecdf32d5c89af1f45e4c35155a2ac9caf32f53faf8583ceee20ebf4",
+      "source_sha256": "97e539f129a7fa3b59f47a1d6ce36cb12bec3e2a91612751550d1434a033d951",
+      "dhash": "0779e1469e826015",
+      "width": 670,
+      "height": 208,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-039.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_mydgb03.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ui_common/img_mydgb02.png\"/></div>\n</div>\n<div class=\"cont-box\">\n<h2>원금 균등 상환</h2>\n<p class=\"c-txt\">빌린 돈을 똑같이 나눠서 갚는 방식</p>\n<div class=\"box-green\"><img alt=\"원금과 이자를 똑같이 갚는 방식\" src=\"/static/web/img/ui_common/img_mydgb03.png\"/></div>\n</div>\n</div>\n<!-- //End : content -->\n</div>\n</div>\n<div class=\"popup-close\"><a href=\"javascript:;\"><img alt=\"",
+      "content_type": "image/webp",
+      "bytes": 6092,
+      "sha256": "73285960faeb5ae9839d3508c88cfb7f6275b7d6d7b4582d54aac2a9099b0268",
+      "source_sha256": "77587e639058fe26e345eac26f8046197e5d030a3bedc398290891bd32025be1",
+      "dhash": "314cc2619c926015",
+      "width": 670,
+      "height": 208,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-040.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/2020/img/info_cacao1.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "증’을 선택하여 인증 진행</li>\n<li>② 모바일의 카카오톡 앱에서 전달받은 카카오 인증 메시지에서 ‘확인하기’ 버튼 선택\r\n\t\t\t\t\t\t\t\t\t\t<div class=\"cacao_img_box hType1\">\n<img alt=\"모바일의 카카오톡 앱에서 전달받은 카카오 인증 메시지에서 ‘확인하기’ 버튼 선택 예시\" src=\"/static/web/2020/img/info_cacao1.jpg\"/>\n</div>\n</li>\n<li>③ 카카오 약관 동의</li>\n<li>④ 카카오 인증 약관 동의</li>\n<li>⑤ 휴대폰 본인인증 및 계좌 본인확인 진행</li>\n<li>⑥ 인증 비밀번호 등록 및 인증서 발급 ",
+      "content_type": "image/webp",
+      "bytes": 27596,
+      "sha256": "7623f80ca6ffbbe9f8cb37f523e2395f932c4ffeb410b464986509dd9f88e5d8",
+      "source_sha256": "45d03d9d960ccb9ccb9967d22cf87c15d4e252da7da21a614ae805a2af863a25",
+      "dhash": "c96c6c2b2b6bcccc",
+      "width": 904,
+      "height": 644,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-041.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/2020/img/info_cacao2.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "행</li>\n<li>② 모바일 카카오톡 앱을 실행하여 전달받은 카카오 인증 메시지에서 ‘확인하기’ 버튼 선택</li>\n<li>③ 인증번호 혹은 지문 입력</li>\n<li>④ 본인인증 완료</li>\n</ul>\n<div class=\"cacao_img_box hType1 pb35\"><img alt=\"본인인증하기 예시\" src=\"/static/web/2020/img/info_cacao2.jpg\"/></div>\n<p class=\"bullet01 font15 bold pb10\">전자서명하기</p>\n<ul class=\"list-number\">\n<li>① iM캐피탈에서 업무 진행을 위한 전자서명 시 ‘카카오 인증",
+      "content_type": "image/webp",
+      "bytes": 37710,
+      "sha256": "89ac86b1c034726d026c84ddbeea43401cbda7fdfaa8428b6c2a1f08124c43ad",
+      "source_sha256": "7d38e56edc8d045210ffcbe34a457add318ac0e056d0512f97a714e09c65eee9",
+      "dhash": "917072727248929e",
+      "width": 1142,
+      "height": 644,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-042.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/2020/img/info_cacao3.jpg",
+      "source_tag": "html-data, img:image",
+      "context": " 인증 메시지에서 ‘확인하기’ 버튼 선택</li>\n<li>③ 제공 내용 확인 후 하단 ‘서명하기’ 버튼 선택</li>\n<li>④ 인증번호 혹은 지문 입력</li>\n<li>⑤ 전자서명 완료</li>\n</ul>\n<div class=\"cacao_img_box hType2 pb35\"><img alt=\"전자서명하기 예시\" src=\"/static/web/2020/img/info_cacao3.jpg\"/></div>\n<p class=\"bullet01 font15 bold pb10\">PC에서 인증하기</p>\n<ul class=\"list-number\">\n<li>① iM캐피탈에서 본인인증 혹은 전자서명 시 ‘카카오 인",
+      "content_type": "image/webp",
+      "bytes": 82106,
+      "sha256": "25577c39da239cf6c963a38af97488e0cef3e2cd4e64abb96199fe56eb3d3d81",
+      "source_sha256": "ba40da19185e5532668a821438adacdb4943e48386726124bbe581c6eb2c0ab0",
+      "dhash": "4c2c2c4e4d4949e9",
+      "width": 906,
+      "height": 1348,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-043.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/flow/flow_img2.png",
+      "source_tag": "external-css",
+      "context": "tion: relative;font-weight:700;font-size: 1.4rem;line-height: 2.7rem;color:rgb(34, 36, 38);}\r\n.flow .white_box > p.txt2 span{position: absolute;top: 0;left: 3.6rem;font-weight:400;color:rgb(112, 116, 120);}\r\n.flow .flow_img2{margin:0; height:15rem; background:url(../img/flow/flow_img2.png) no-repeat center 0 / 29.6rem auto;}\r\n.flow .white_box .btn_box{margin-top: 2.4rem;}\r\n.flow .white_box .btn_bo",
+      "content_type": "image/webp",
+      "bytes": 17626,
+      "sha256": "fce50a44a1b46f3db5b5fe7195c993832444e12aef46b0dad49ee03999ef4835",
+      "source_sha256": "59a0254509fce049d97960fb33d49bc60cf8cac5591a798ab63c32cc2329954e",
+      "dhash": "b24dcc68e86971b2",
+      "width": 888,
+      "height": 477,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-044.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/landing_char02.png",
+      "source_tag": "external-css",
+      "context": "px;color:#fff;line-height:32px;letter-spacing:-0.24px;text-align:center;font-weight:bold}\r\n.landing-app .land-box{display:flex;flex-direction:column;margin-top:24px}\r\n.landing-app .land-box .char{display:block;margin:0 auto;width:245px;height:284px;background:url('/static/web/img/landing_char02.png') no-repeat;background-size:245px auto}\r\n.landing-app .land-box .btn-go-app{margin-top:-44px;width:2",
+      "content_type": "image/webp",
+      "bytes": 16152,
+      "sha256": "a0e05716040645ffb3c36d5e09e5bf1b5b98ae43e68ed65ec537395a8b7763fe",
+      "source_sha256": "93ef43b6f21d3cbf45f046d4a4c092518b258dc1ffe3a30eb1636c1750fad6ca",
+      "dhash": "2b3333274357312b",
+      "width": 490,
+      "height": 568,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-045.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/img_finish.png",
+      "source_tag": "external-css",
+      "context": "h_tit {margin-top: 0;}\r\n\r\n/* íë¡ì¸ì¤ë¨ê³-ìë£(ê°ì´ë°ì ë ¬) */\r\n.fin_cen_box {display: flex; flex-direction: column; justify-content: space-between; min-height: calc(100vh - 100px); padding: 14rem 0 0 0 !important; bottom: 0 !important; background:url('../img/img_finish.png') bottom right / 336px no-repeat;}\r\n.fin_cen_box1 {display: flex; flex-direction: column; justify-content: space-",
+      "content_type": "image/webp",
+      "bytes": 52998,
+      "sha256": "887551c831cd5b21e641e7f98b9d43238e47d30f8df3bc77ef76f437d0ef7044",
+      "source_sha256": "0933d1fa46da0749fbadc78c1bb77f8563b5897c66047a049ad53a08586405bd",
+      "dhash": "654d1b332f3f3337",
+      "width": 1083,
+      "height": 1080,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-046.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/bg_photo_main.png",
+      "source_tag": "external-css",
+      "context": "rect input:not(.cssbrowser):checked + label {background: white; color: #1297ef; outline: none; border: 1px solid #1297ef;}\r\n\r\n/* ì¤ê³ ì°¨ë´ë³´ëì¶ ì°¨ëì¬ì§ ì¶ê° */\r\n.photo-main{position:relative;margin:48px auto 0;width:295px;height:295px;background:url('../img/ui_common/bg_photo_main.png') no-repeat;background-size:295px auto;}\r\n.photo-main .phone-slide-box{overflow:hidden;position:abso",
+      "content_type": "image/webp",
+      "bytes": 25442,
+      "sha256": "2fefb0357d93647d7af6e26de195c3640360149904319d57655b905413f96ccb",
+      "source_sha256": "fa9632faa1b96128d435ee4a330d71fd7f2158fdeca53d2679d7ea07c9064202",
+      "dhash": "9696323169656f3c",
+      "width": 590,
+      "height": 590,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-047.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/bg_main_pop_mob.png",
+      "source_tag": "external-css",
+      "context": ":0;bottom:0;transform:none}\r\n    .main-popup{width:100%;border-radius:24px 24px 0 0;}\r\n    .main-popup .cont-area{height:auto;padding:0}\r\n    .tx-type-pop{justify-content:normal;align-items:normal;height:100%;padding:32px 40px;text-align:left;background-image:url('../img/ui_common/bg_main_pop_mob.png')}\r\n    .tx-type-pop .tit{font-size:14px}\r\n    .tx-type-pop .tx{max-width:none;margin-top:8px;font",
+      "content_type": "image/webp",
+      "bytes": 952,
+      "sha256": "40faac29793108c6ffb16af2d6d8a357c430264970237e5afd146b0db8fb9f53",
+      "source_sha256": "374d448b5f02061deda43f0ff709618b538b0bbfaa5546c263c4e5a2f7592a9e",
+      "dhash": "3038391d1b0f0f06",
+      "width": 750,
+      "height": 368,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-048.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/bg_01.png",
+      "source_tag": "external-css",
+      "context": "ing: 7rem 0 4rem !important;}\r\n    .cont-type01 .fixed-call-area {position: absolute; bottom: 0px; padding: 0 4rem 4rem 4rem;}\r\n\r\n\r\n    /* ê³µíµ ë ì´ìì */\r\n    .cont-type02 {width: 100% !important; /*min-height: inherit;*/}\r\n    .bg-type03 {background: url('../img/ui_common/bg_01.png') no-repeat 0 0 #fff; background-size:100% 22.9rem;}\r\n\r\n    /* ì í©ì±ì²´í¬ :ì¤í  */\r\n    .bg-type04 .p",
+      "content_type": "image/webp",
+      "bytes": 754,
+      "sha256": "a90ba938f9db20d16e512d397eff2b3493b1a333344067ac52f9f0ab8ebf8c1b",
+      "source_sha256": "000c49701ba2933523d398c1ac74fb2d45b111c3369cdc3f3e40cec775f5b482",
+      "dhash": "0000000000000000",
+      "width": 750,
+      "height": 498,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-049.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/bg_mask.png",
+      "source_tag": "external-css",
+      "context": "box  li .p-tit {font-size: 1.6rem; color: rgb(145, 145, 145);}\r\n.in-box  li .p-txt {font-size: 2rem; color: rgb(34, 36, 38); font-weight: 500;}\r\n\r\n/* ëì¶ì ì²­ê¸ì¡ */\r\n.bg-box {border-radius: 1.2rem; padding: 3rem 8rem; margin-bottom: 3.2rem; background: url('../img/ui_common/bg_mask.png') no-repeat right 0 #1a3755; background-size: auto 12.2rem;}\r\n.bg-box ul li {display: inline-block; text-a",
+      "content_type": "image/webp",
+      "bytes": 3096,
+      "sha256": "b4cd4a9253282ab39e932f02cac33de8ad1cb0e7ab95d3944971ca1c186db5a8",
+      "source_sha256": "7dfd24c30cc633b62c9ce1bc32c86d6d76819a79316c18d4bf3fa2a010df3ffa",
+      "dhash": "4c4c849193939393",
+      "width": 670,
+      "height": 200,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-050.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_per01.png",
+      "source_tag": "external-css",
+      "context": "te(-90deg);}\r\n\r\n@keyframes slider {\r\n    0% {\r\n        transform: translateY(50%);\r\n    }\r\n    100% {\r\n        transform: translateY(0);\r\n    }\r\n}\r\n\r\n.mydata-img-box {position: relative; display: block; width: 32rem; height: 32rem; margin: 0 auto; background: url('../img/ui_common/img_per01.png') no-repeat; background-size: 32rem;}\r\n.mydata-img-box span {position: absolute; top: 0;}\r\n.mydata-img-b",
+      "content_type": "image/webp",
+      "bytes": 9410,
+      "sha256": "54f2b7bf730f87be14f608657c605d06a94b3ab5a46e19debfe8cbba2fcf38ca",
+      "source_sha256": "9ab06c302b2e3fa6e2c72e16c8f5af61d87e8e1d2a0dcf5081325e85d555eabb",
+      "dhash": "26b08e0232607939",
+      "width": 560,
+      "height": 560,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-051.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_pc01.jpg",
+      "source_tag": "external-css",
+      "context": "padding-bottom: 12px; line-height: 20px;}\r\n.info-box .list-dot li:last-child {padding-bottom: 0px;}\r\n.info-box .list-dot li:before {top: 9px;}\r\n\r\n/* ESGì ëµ */\r\n.esg-img {height: 320px; text-align: center; padding-top: 106px; margin-bottom: 40px; background:url('../img/ui_common/esg_pc01.jpg') 0 0 no-repeat; background-size: 100% 320px;}\r\n.esg-img img {width: 120px; height: 21px;}\r\n.esg-img p {f",
+      "content_type": "image/webp",
+      "bytes": 152694,
+      "sha256": "ba46461f550b60ae4f742017b35406413728dc1f1ec524aa5489fab13401af5f",
+      "source_sha256": "65bba20feedbbd34745c34363de33d4187ba7e7971222d002d6ee03bd27c8979",
+      "dhash": "35941c232da15cde",
+      "width": 1120,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-052.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_e_pc02.jpg",
+      "source_tag": "external-css",
+      "context": "e-img1 {height: 240px; margin-bottom: 24px; font-size: 0; margin-top: 56px; background:url('../img/ui_common/esg_e_pc01.jpg') 0 0 no-repeat; background-size: 100% 240px;}\r\n.e-img2 {height: 240px; margin-bottom: 24px; font-size: 0; margin-top: 56px; background:url('../img/ui_common/esg_e_pc02.jpg') 0 0 no-repeat; background-size: 100% 240px;}\r\n.e-img3 {height: 240px; margin-bottom: 24px; font-size:",
+      "content_type": "image/webp",
+      "bytes": 7638,
+      "sha256": "6b7b90b68cfc0ea635ae2d92463dfacaf21a24410e8ded66a785cb2b99de7aea",
+      "source_sha256": "1c7a7b715a9a6c500e925f2483866518c56ded04b0d9915cece075eb5aa3932f",
+      "dhash": "6896696969691628",
+      "width": 1600,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-053.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_e_pc03.jpg",
+      "source_tag": "external-css",
+      "context": "e-img2 {height: 240px; margin-bottom: 24px; font-size: 0; margin-top: 56px; background:url('../img/ui_common/esg_e_pc02.jpg') 0 0 no-repeat; background-size: 100% 240px;}\r\n.e-img3 {height: 240px; margin-bottom: 24px; font-size: 0; margin-top: 56px; background:url('../img/ui_common/esg_e_pc03.jpg') 0 0 no-repeat; background-size: 100% 240px;}\r\n.e-img4 {height: 240px; margin-bottom: 24px; font-size:",
+      "content_type": "image/webp",
+      "bytes": 31764,
+      "sha256": "c0192acce82cb16c60f6f1c8de6f14c396c1b6a9541be263e9aa2dabc81868b2",
+      "source_sha256": "e63dde44a0aba11e9eaf405e0b19e696a8446dfde73659a560541fa905a09f4c",
+      "dhash": "efc7c6b27b7af139",
+      "width": 1600,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-054.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_e_pc04.png",
+      "source_tag": "external-css",
+      "context": "e: 100% 240px;}\r\n.e-img3 {height: 240px; margin-bottom: 24px; font-size: 0; margin-top: 56px; background:url('../img/ui_common/esg_e_pc03.jpg') 0 0 no-repeat; background-size: 100% 240px;}\r\n.e-img4 {height: 240px; margin-bottom: 24px; font-size: 0; background:url('../img/ui_common/esg_e_pc04.png') 0 0 no-repeat; background-size: 100% 240px;}\r\n.download a {display: flex; align-items:center;justify-",
+      "content_type": "image/webp",
+      "bytes": 21456,
+      "sha256": "af22f3ef0781f712628b6949ea2b878a1e280a25ebc4a6db84db50dfe74755e0",
+      "source_sha256": "97d74c53e11c86c640e158339b3a93a0a7e77ba1d1c090ca2bea7a597f3a8e97",
+      "dhash": "0102fcfcfefc0201",
+      "width": 1600,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-055.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_s_pc01.png",
+      "source_tag": "external-css",
+      "context": "{width:16px; height:16px;}\r\n.e-img1+.esg-box, .e-img2+.esg-box, .e-img3+.esg-box, .e-img4+.esg-box,\r\n.s-img1+.esg-box, .s-img2+.esg-box, .s-img3+.esg-box {margin-top: 0;}\r\n\r\n/* S-ì¬í */\r\n.s-img1 {height: 240px; margin-bottom: 24px; font-size: 0; background:url('../img/ui_common/esg_s_pc01.png') 0 0 no-repeat; background-size: 100% 240px;}\r\n.s-img2 {height: 240px; margin-bottom: 24px; font-size:",
+      "content_type": "image/webp",
+      "bytes": 9226,
+      "sha256": "a6b31272123b7b915bccb87dc89063e0094714309f6352eeb730111657e9bc59",
+      "source_sha256": "13896b81d1d869b3a7b7d195a0af400dbdfe174971915f51a91468d181583815",
+      "dhash": "0154147171145401",
+      "width": 1600,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-056.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_s_pc02.jpg",
+      "source_tag": "external-css",
+      "context": "\n/* S-ì¬í */\r\n.s-img1 {height: 240px; margin-bottom: 24px; font-size: 0; background:url('../img/ui_common/esg_s_pc01.png') 0 0 no-repeat; background-size: 100% 240px;}\r\n.s-img2 {height: 240px; margin-bottom: 24px; font-size: 0; margin-top: 56px; background:url('../img/ui_common/esg_s_pc02.jpg') 0 0 no-repeat; background-size: 100% 240px;}\r\n.s-img3 {height: 240px; margin-bottom: 24px; font-size:",
+      "content_type": "image/webp",
+      "bytes": 20380,
+      "sha256": "e91148b95d1944c60bec7cbed8e2d604dc09dc6d7a884b39eaf127059949a43a",
+      "source_sha256": "b58e50de2d1e24fc5d9fd6cf8d8e869e564c2980d93d05ae554250e3ee22c851",
+      "dhash": "1a2b626672626222",
+      "width": 1600,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-057.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_s_pc03.jpg",
+      "source_tag": "external-css",
+      "context": "s-img2 {height: 240px; margin-bottom: 24px; font-size: 0; margin-top: 56px; background:url('../img/ui_common/esg_s_pc02.jpg') 0 0 no-repeat; background-size: 100% 240px;}\r\n.s-img3 {height: 240px; margin-bottom: 24px; font-size: 0; margin-top: 56px; background:url('../img/ui_common/esg_s_pc03.jpg') 0 0 no-repeat; background-size: 100% 240px;}\r\n\r\n/* ESG ì±ê³¼ */\r\n.esg-tl {padding-bottom: 16px !impo",
+      "content_type": "image/webp",
+      "bytes": 35148,
+      "sha256": "ec64e85496a87c369d36c5fdd9100c73b22767d9aa3272b5f62916c73e73b772",
+      "source_sha256": "222c146687445dade39cc01b72876aa9c3cbf671a1c7aa63d0e4d80cf4978c3c",
+      "dhash": "c1d1d1d1d8d9d9d8",
+      "width": 1600,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-058.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_m_mob01.png",
+      "source_tag": "external-css",
+      "context": "g::before {left: -28px;}\r\n    .esg-step > li strong::after {left: -25px;}\r\n    .esg-step > li + li strong::after {top: -32px}\r\n    .esg-step > li:last-child .step-img {margin-bottom: 24px;}\r\n    .esg-step .step-img .i01 {height: 160px; width: 100%; background:url('../img/ui_common/esg_m_mob01.png') 0 0 no-repeat; background-size: 100% auto;}\r\n    .esg-step .step-img .i02 {height: 160px; width: 100",
+      "content_type": "image/webp",
+      "bytes": 20036,
+      "sha256": "4894386a3ef1e4b9b53e923e6762d12fdc918a49f2c2696964d3d8a207aaec4f",
+      "source_sha256": "2c8e4040f2b1e5162674101661b0df50be96663a3cfb5771c438c75435b7949b",
+      "dhash": "0f0f0c4c696d6db8",
+      "width": 614,
+      "height": 320,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-059.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_m_pc02.png",
+      "source_tag": "external-css",
+      "context": "ttom: 32px;}\r\n.esg-step .step-img .i01 {height: 160px; width: 325px; font-size: 0; background:url('../img/ui_common/esg_m_mob01.png') 0 0 no-repeat; background-size: 100% 169px;}\r\n.esg-step .step-img .i02 {height: 160px; width: 325px; font-size: 0; background:url('../img/ui_common/esg_m_pc02.png') 0 0 no-repeat; background-size: 100% 169px;}\r\n.esg-step .step-img .i03 {height: 160px; width: 325px; ",
+      "content_type": "image/webp",
+      "bytes": 23476,
+      "sha256": "6304b181d62639d64231f05c7817de06a156aedbdff9dbdcf9a19aaefd7fb022",
+      "source_sha256": "998d3c4e00b46de85596a64a0d84667d1d42f233b3b3f86dacda319a2d734099",
+      "dhash": "1be96a4959496149",
+      "width": 650,
+      "height": 338,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-060.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_m_pc03.png",
+      "source_tag": "external-css",
+      "context": " 100% 169px;}\r\n.esg-step .step-img .i02 {height: 160px; width: 325px; font-size: 0; background:url('../img/ui_common/esg_m_pc02.png') 0 0 no-repeat; background-size: 100% 169px;}\r\n.esg-step .step-img .i03 {height: 160px; width: 325px; font-size: 0; background:url('../img/ui_common/esg_m_pc03.png') 0 0 no-repeat; background-size: 100% 169px;}\r\n.esg-step .step-img .i04 {height: 160px; width: 325px; ",
+      "content_type": "image/webp",
+      "bytes": 16352,
+      "sha256": "93480bca8823f8ca2ae56d4d3ce2d150eae1f15100d7284afd10a0a08c1c4b81",
+      "source_sha256": "a7dff514b247d7ad49fbdd0564f1d938e87c44b40f8c23e917262f56d11e53c0",
+      "dhash": "383a6b616d6d6979",
+      "width": 650,
+      "height": 338,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-061.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_m_pc04.jpg",
+      "source_tag": "external-css",
+      "context": " 100% 169px;}\r\n.esg-step .step-img .i03 {height: 160px; width: 325px; font-size: 0; background:url('../img/ui_common/esg_m_pc03.png') 0 0 no-repeat; background-size: 100% 169px;}\r\n.esg-step .step-img .i04 {height: 160px; width: 325px; font-size: 0; background:url('../img/ui_common/esg_m_pc04.jpg') 0 0 no-repeat; background-size: 100% 169px;}\r\n.esg-step .step-img .i05 {height: 160px; width: 325px; ",
+      "content_type": "image/webp",
+      "bytes": 14958,
+      "sha256": "5f5bce3f471fc4bfd39717af2d5182a66445840d83d4347d7172699c8c070224",
+      "source_sha256": "3acb8318f72794aca8ebe8f3e9817f279539e3311dd5ccfb450cdbc178f28750",
+      "dhash": "0d94444c6c646028",
+      "width": 650,
+      "height": 320,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-062.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_m_pc05.jpg",
+      "source_tag": "external-css",
+      "context": " 100% 169px;}\r\n.esg-step .step-img .i04 {height: 160px; width: 325px; font-size: 0; background:url('../img/ui_common/esg_m_pc04.jpg') 0 0 no-repeat; background-size: 100% 169px;}\r\n.esg-step .step-img .i05 {height: 160px; width: 325px; font-size: 0; background:url('../img/ui_common/esg_m_pc05.jpg') 0 0 no-repeat; background-size: 100% 169px;}\r\n.esg-step .step-img p.tl {font-size: 18px; font-weight:",
+      "content_type": "image/webp",
+      "bytes": 15026,
+      "sha256": "9b1ef541bd4f87f048578571f0e483d959fbdb98d3382615777afbcd941351bf",
+      "source_sha256": "bd5c63309f9b1b736f5b3543877ba66924bc92b5bc7dbdff94e6c0907ae7ecb9",
+      "dhash": "0b13736975556969",
+      "width": 650,
+      "height": 320,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-063.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_certi.png",
+      "source_tag": "external-css",
+      "context": "or:#bcc0c5;border-radius:50%;content:''}\r\n.list-dot02 > li strong{font-weight:600;color:#00a88b;text-decoration:underline;}\r\n\r\n/* ê³µëì¸ì¦ì */\r\n.certi-wrap{overflow:hidden;border:1px solid #dfe3e8;border-radius:12px;}\r\n.certi-img{height:184px;background:url('../img/ui_common/img_certi.png') no-repeat 50% 50%;background-size:400px auto}\r\n.certi-bottom{padding:32px 64px;background-color:#f7f7f",
+      "content_type": "image/webp",
+      "bytes": 5344,
+      "sha256": "de3b5908dc1ad44a63ca9fe048cbc6b5d9be369d6e20e16ba241b885417d8706",
+      "source_sha256": "9f91c9b60de9ce320e2f6f6a485e5ff2b078438f54506a7459961a6759d8c797",
+      "dhash": "c4c4a4a4c4cc4ccc",
+      "width": 800,
+      "height": 240,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-064.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_certi02.png",
+      "source_tag": "external-css",
+      "context": "}\r\n.certi-img{height:184px;background:url('../img/ui_common/img_certi.png') no-repeat 50% 50%;background-size:400px auto}\r\n.certi-bottom{padding:32px 64px;background-color:#f7f7f7;}\r\n.certi-bottom .step-tit{font-weight:500}\r\n#tab-2 .certi-img{background-image:url('../img/ui_common/img_certi02.png')}\r\n\r\n/* ë³´ìíë¡ê·¸ë¨ ì¤ì¹ */\r\n.security-box{position:relative;padding:34px 40px;border-radius",
+      "content_type": "image/webp",
+      "bytes": 5422,
+      "sha256": "3388abf504a56fd778f4c4d5762bbeaf02b9f22a8b84dc4ebcecc1612e1771de",
+      "source_sha256": "92b328a6a0fbda9690a5b83d1d66e7eff10000f6d983300b416c3c8d57750bd3",
+      "dhash": "ccdcdadadccccdcc",
+      "width": 800,
+      "height": 240,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-065.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/img_char.png",
+      "source_tag": "external-css",
+      "context": "2px auto 0}\r\n.toss-web-txt-mob{display: none;}\r\n\r\n/* ë¸ë¦¿ì§ íì´ì§ */\r\n.bridge-page{padding:352px 0 314px;background-image:linear-gradient(to bottom, #dffced, #fff);text-align:center}\r\n.bridge-page .char{margin:0 auto;width:252px;height:252px;background:url('../img/img_char.png') no-repeat;background-size:252px auto}\r\n.bridge-page img{margin-top:48px;width:170px}\r\n.bridge-page .tx{margin-top",
+      "content_type": "image/webp",
+      "bytes": 20212,
+      "sha256": "bc5bc534780407156e33943701b5739bf582068300381a851b90aa7de8dc207a",
+      "source_sha256": "20b04ee5e1a534197bda0968cdfda9cc230f6d3fdf8c3d75836cc7ba0ba39cc4",
+      "dhash": "959634c11636d094",
+      "width": 504,
+      "height": 504,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-066.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/@sample_car02.png",
+      "source_tag": "external-css",
+      "context": "option-box .selected-item-info .price{color:#5C6773;flex-shrink:0;}\r\n\r\n.estimate-review{position:relative;padding:24px;border-radius:16px;background-color:#f4f5f7}\r\n.estimate-review:after{position:absolute;top:-96px;right:0;width:220px;height:106px;background:url('../img/digital_branch/@sample_car02.png') no-repeat;background-size:220px auto;content:''}\r\n.estimate-review .section{position:relative",
+      "content_type": "image/webp",
+      "bytes": 10540,
+      "sha256": "ec80df91190adedbeea8071b52c8243e256c85c8992cb40ce7ecd44677820f15",
+      "source_sha256": "88bfe7af0c08a0fd0ed7c05bc04a99b0008a63dfbcc9efec9181120a48022534",
+      "dhash": "00c4d090e4e4cce0",
+      "width": 600,
+      "height": 300,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-067.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/img_char02.png",
+      "source_tag": "external-css",
+      "context": " ì°¨ ë±ë¡ */\r\n.plate-register-area{display:flex;align-items:flex-end;position:relative;height:256px;margin-top:80px}\r\n.plate-register-area:before{position:absolute;z-index:1;bottom:16px;left:50%;transform:translateX(-50%);width:240px;height:240px;background:url('../img/digital_branch/img_char02.png') no-repeat;background-size:240px auto;content:''}\r\n.plate-register-area:after{position:absolute;z",
+      "content_type": "image/webp",
+      "bytes": 7292,
+      "sha256": "e3435df98bd6fd607084b7dd41bafe75284aa6dbccb17da5a7bbd0e532da2828",
+      "source_sha256": "1f5d03d3e76df674b25ca09702e633a992afdb662d065e11580be35fcfbdbcae",
+      "dhash": "284c8e96170e6816",
+      "width": 480,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-068.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/bg_plate.png",
+      "source_tag": "external-css",
+      "context": "x;height:240px;background:url('../img/digital_branch/img_char02.png') no-repeat;background-size:240px auto;content:''}\r\n.plate-register-area:after{position:absolute;z-index:0;top:50%;left:50%;transform:translate(-50%, -50%);width:781px;height:336px;background:url('../img/digital_branch/bg_plate.png') center no-repeat;background-size:781px auto;content:''}\r\n.plate-number{position:relative;z-index:2",
+      "content_type": "image/webp",
+      "bytes": 194332,
+      "sha256": "b7c2be4cc3f2085732b4f64d65fd9ae884c688e79db6debf3d98304a7cd4d8bc",
+      "source_sha256": "43aa8f71e805500108a1968fe0f6c5f50197bed47ab06969bfe6ccb4eda181f0",
+      "dhash": "0f3b3d7d7d3d3b0f",
+      "width": 1561,
+      "height": 823,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-069.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/bg_pop_car.png",
+      "source_tag": "external-css",
+      "context": "-8px}\r\n.popular-car-slide .slick-slide{margin:0 8px;max-width:227px}\r\n.popular-car-slide .slick-track{margin-left:0 !important;margin-right:0 !important}\r\n.popular-car-slide .car-img{overflow:hidden;position:relative;margin-bottom:16px;height:227px;background:url('../img/digital_branch/bg_pop_car.png') no-repeat;background-size:227px auto;border-radius:8px;}\r\n.popular-car-slide .car-img span{posit",
+      "content_type": "image/webp",
+      "bytes": 1760,
+      "sha256": "cbbbcdbd98b6ea50db0f7730f52ee44170c33a375c42e44f5d969eeaa5461cb9",
+      "source_sha256": "2cf2865983d35c5914644be1b6b7406f8ab6372b9d2d4a75021e2281b7ad2790",
+      "dhash": "01000000041822a2",
+      "width": 454,
+      "height": 454,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-070.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/bg_color.png",
+      "source_tag": "external-css",
+      "context": ":18px;font-weight:700;color:#222426;line-height:26px}\r\n\r\n/* ëì§í¸ë¸ëì¹ ë©ì¸ :: ë´ ì°¨ ë±ë¡ */\r\n.mycar-register-area{overflow:hidden;display:flex;align-items:center;flex-direction:column;margin-top:80px;padding:48px 0;border-radius:16px;background:url('../img/digital_branch/bg_color.png') center no-repeat;background-size:2190px auto}\r\n.mycar-register-area .tx{font-size:24px;font-weight",
+      "content_type": "image/webp",
+      "bytes": 221324,
+      "sha256": "5a30c9236377f2657644c91715eddbd039ea4738894e5b911ef2750324d87d8d",
+      "source_sha256": "4a6b5d49f8bbda03e206e7e27ebcd6db891b15dd92b90091388b96c461c4e8a0",
+      "dhash": "3c7f7f7d7e3e1dc7",
+      "width": 2200,
+      "height": 934,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-071.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_mob01.jpg",
+      "source_tag": "external-css",
+      "context": " .info-box .list-dot {margin-bottom: 0px;}\r\n    .info-box .list-dot li {font-size: 14px;}\r\n    .info-box .list-dot li:before {top: 10px;}\r\n\r\n    /* ESGì ëµ */\r\n    .esg-img {height: 240px; overflow: hidden; border-radius: 16px; padding-top: 71px; background:url('../img/ui_common/esg_mob01.jpg') 0 0 no-repeat; margin: 0 20px 48px 20px; background-size: 100%;}\r\n    .esg-img p {font-size: 20px; mar",
+      "content_type": "image/webp",
+      "bytes": 104566,
+      "sha256": "b7cb28a577a3cbf69ca4d72deb0254b8d92121aa30657fcd1e2b3ba0070d85a3",
+      "source_sha256": "4133baa2c8715ae83d89d66f3d3ceb67fa8f14517414278db383de122305aa4a",
+      "dhash": "0dc606a95bd85767",
+      "width": 750,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-072.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_e_mob01.jpg",
+      "source_tag": "external-css",
+      "context": " 56px;}\r\n    .esg-bannBox a:nth-of-type(1)::after,\r\n    .esg-bannBox a:nth-of-type(2)::after,\r\n    .esg-bannBox a:nth-of-type(3)::after {right: 24px;}\r\n    .esg-box .list-dot li:before {top: 10px;}\r\n\r\n    /* E-íê²½ */\r\n    .e-img1 {height: 180px; background:url('../img/ui_common/esg_e_mob01.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .e-img2 {height: 180px; backgrou",
+      "content_type": "image/webp",
+      "bytes": 14362,
+      "sha256": "e436fe6bacfc87584f0e73eb6c88bb10c9bf983738d148c34edd312a758093ee",
+      "source_sha256": "fe24e5aeb3975afb381c1c0cea9dc9f0ec0324db2ddb393866ca6738adbbff82",
+      "dhash": "fb721a197072a367",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-073.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_e_mob02.jpg",
+      "source_tag": "external-css",
+      "context": " 24px;}\r\n    .esg-box .list-dot li:before {top: 10px;}\r\n\r\n    /* E-íê²½ */\r\n    .e-img1 {height: 180px; background:url('../img/ui_common/esg_e_mob01.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .e-img2 {height: 180px; background:url('../img/ui_common/esg_e_mob02.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .e-img3 {height: 180px; backgrou",
+      "content_type": "image/webp",
+      "bytes": 4946,
+      "sha256": "02cd10dee9b74e870d5e0e6dfc683b4b7370292e01404726620614d7cf816058",
+      "source_sha256": "7acebc8eab55ffc312b8763da6d50cbe1b8cfcd735dba349f0d207398b47c9a0",
+      "dhash": "c037c8d8dccc1344",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-074.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_e_mob03.jpg",
+      "source_tag": "external-css",
+      "context": "e_mob01.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .e-img2 {height: 180px; background:url('../img/ui_common/esg_e_mob02.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .e-img3 {height: 180px; background:url('../img/ui_common/esg_e_mob03.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .e-img4 {height: 180px; backgrou",
+      "content_type": "image/webp",
+      "bytes": 16386,
+      "sha256": "a1c066c1b6689b11638a42af86426c3a950c078f68a52dbabc6796222676d47f",
+      "source_sha256": "364edd3bb5f96b41e1ccac289dfa70a8711abc1879efeeda2cad496f032f7d09",
+      "dhash": "c89391b9b8597425",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-075.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_e_mob04.png",
+      "source_tag": "external-css",
+      "context": "e_mob02.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .e-img3 {height: 180px; background:url('../img/ui_common/esg_e_mob03.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .e-img4 {height: 180px; background:url('../img/ui_common/esg_e_mob04.png') 0 0 no-repeat; background-size: 100% 180px;}\r\n    .esg-box .cont-txt {line-height: 24px;}\r\n    .down",
+      "content_type": "image/webp",
+      "bytes": 15286,
+      "sha256": "ac5b18b4bad26f51d855ee210960e885511dbff2d8651bd204393f3a1497175a",
+      "source_sha256": "a330a7bec46eecba5396978ed2383896dc90e25420cabbf063a410954810bc4a",
+      "dhash": "54d4d4d4d4d4d454",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-076.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_s_mob01.png",
+      "source_tag": "external-css",
+      "context": "i_common/esg_e_mob04.png') 0 0 no-repeat; background-size: 100% 180px;}\r\n    .esg-box .cont-txt {line-height: 24px;}\r\n    .download a {font-size: 16px; padding: 16px 24px 16px; margin: 16px 0 0 0;}\r\n\r\n    /* S-ì¬í */\r\n    .s-img1 {height: 180px; background:url('../img/ui_common/esg_s_mob01.png') 0 0 no-repeat; background-size: 100% 180px;}\r\n    .s-img2 {height: 180px; background:url('../img/ui_",
+      "content_type": "image/webp",
+      "bytes": 6118,
+      "sha256": "4d32ceb0faebd0b0983e81ccb593b897eff440eecb64ea5682eb9c826f0f90c7",
+      "source_sha256": "b55418bf07369ae8ab410e6a0f47c7e4ffcba3312d116019f46fe854b71176d5",
+      "dhash": "299617ccc413960d",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-077.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_s_mob02.jpg",
+      "source_tag": "external-css",
+      "context": "wnload a {font-size: 16px; padding: 16px 24px 16px; margin: 16px 0 0 0;}\r\n\r\n    /* S-ì¬í */\r\n    .s-img1 {height: 180px; background:url('../img/ui_common/esg_s_mob01.png') 0 0 no-repeat; background-size: 100% 180px;}\r\n    .s-img2 {height: 180px; background:url('../img/ui_common/esg_s_mob02.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .s-img3 {height: 180px; backgrou",
+      "content_type": "image/webp",
+      "bytes": 11898,
+      "sha256": "ced099ee29bdb934410de1f1113b4bde1658417965044225fef0152a40730412",
+      "source_sha256": "220a78b0cec90b2103dbb1ae9ed48ef2d312efcaba317b249355c23fde52c475",
+      "dhash": "bd69c9dbe9c9e868",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-078.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_s_mob03.jpg",
+      "source_tag": "external-css",
+      "context": "img/ui_common/esg_s_mob01.png') 0 0 no-repeat; background-size: 100% 180px;}\r\n    .s-img2 {height: 180px; background:url('../img/ui_common/esg_s_mob02.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n    .s-img3 {height: 180px; background:url('../img/ui_common/esg_s_mob03.jpg') 0 0 no-repeat; background-size: 100% 180px; margin-top: 40px;}\r\n\r\n    /* ESG ì±ê³¼ */\r\n    .esg-tl ",
+      "content_type": "image/webp",
+      "bytes": 19282,
+      "sha256": "93164507c7da82118b7c81423c6a2ec1b7ddd22da0b64e7b41cb36850a26b9ea",
+      "source_sha256": "a1400172e2aae09e005d211bc93c2c238d0544e36a68de5bd8f0e497cfdddb03",
+      "dhash": "a8b2b29088dcd8ce",
+      "width": 670,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-079.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_m_mob02.png",
+      "source_tag": "external-css",
+      "context": "margin-bottom: 24px;}\r\n    .esg-step .step-img .i01 {height: 160px; width: 100%; background:url('../img/ui_common/esg_m_mob01.png') 0 0 no-repeat; background-size: 100% auto;}\r\n    .esg-step .step-img .i02 {height: 160px; width: 100%; font-size: 0; background:url('../img/ui_common/esg_m_mob02.png') 0 0 no-repeat; background-size: 100% auto;}\r\n    .esg-step .step-img .i03 {height: 160px; width: 100",
+      "content_type": "image/webp",
+      "bytes": 18124,
+      "sha256": "95de614e0fe9c11d9f08acd6826fc1325a477b2c48cfef046aa0440485edec2e",
+      "source_sha256": "38754c0926607212fff2f57519d0033cd3854137c96d09704c0401d7bf578a9e",
+      "dhash": "696a49594961494b",
+      "width": 614,
+      "height": 320,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-080.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_m_mob04.jpg",
+      "source_tag": "external-css",
+      "context": " auto;}\r\n    .esg-step .step-img .i03 {height: 160px; width: 100%; font-size: 0; background:url('../img/ui_common/esg_m_mob03.png') 0 0 no-repeat; background-size: 100% auto;}\r\n    .esg-step .step-img .i04 {height: 160px; width: 100%; font-size: 0; background:url('../img/ui_common/esg_m_mob04.jpg') 0 0 no-repeat; background-size: 100% auto;}\r\n    .esg-step .step-img .i05 {height: 160px; width: 100",
+      "content_type": "image/webp",
+      "bytes": 15396,
+      "sha256": "6e0a3a7a853d6f0f9b56ebe4349652f6d156deb032e5f69689fd355eef0ce911",
+      "source_sha256": "7f7ef1514b2a4ffd9c1ad4d53a8064a8f3f55fa306255e68d5db0eaf1ae37c8e",
+      "dhash": "0e5e5644646662a8",
+      "width": 614,
+      "height": 320,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-081.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/esg_m_mob05.jpg",
+      "source_tag": "external-css",
+      "context": " auto;}\r\n    .esg-step .step-img .i04 {height: 160px; width: 100%; font-size: 0; background:url('../img/ui_common/esg_m_mob04.jpg') 0 0 no-repeat; background-size: 100% auto;}\r\n    .esg-step .step-img .i05 {height: 160px; width: 100%; font-size: 0; background:url('../img/ui_common/esg_m_mob05.jpg') 0 0 no-repeat; background-size: 100% auto;}\r\n    .esg-step .step-img p.tl {font-size: 16px; margin: ",
+      "content_type": "image/webp",
+      "bytes": 14914,
+      "sha256": "f18ed6a417d79b6d936b5917795c6a850500bab203b66b5773075fcdc5706fca",
+      "source_sha256": "3f95596bbb40ad4dd05e9bfefb20cb3c28610a50aa48af34236d2ac27d1e2e93",
+      "dhash": "1b13736d57456969",
+      "width": 614,
+      "height": 320,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-082.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/digital_branch/bg_plate_mob.png",
+      "source_tag": "external-css",
+      "context": "('../img/ui_common/img_char14_mob.png');}\r\n\r\n    /* ë´ ì°¨ ë±ë¡ */\r\n    .plate-register-area{margin-top:36px}\r\n    .plate-register-area:before{width:184px;height:184px;background-size:184px auto;}\r\n    .plate-register-area:after{width:100%;background-image:url('../img/digital_branch/bg_plate_mob.png');background-size:602px auto;}\r\n    .plate-number{padding:20px 32px;width:224px}\r\n    .plate-num",
+      "content_type": "image/webp",
+      "bytes": 108148,
+      "sha256": "0c6f9333e439025df891491134623f75243492f8874e599789189d85dc198bc4",
+      "source_sha256": "c24e03dab0b04d785bb1483f64aceca23b7b20df12f1ae7cf8e87136d26b0bc3",
+      "dhash": "071b3d3d3d393b0f",
+      "width": 1204,
+      "height": 743,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-083.svg",
+      "source_url": "https://www.imcap.co.kr/static/common/css/font/Pretendard-Regular.svg",
+      "source_tag": "external-css",
+      "context": "at('font-woff2'), /* Super Modern Browsers */\r\n       url('../../common/css/font/Pretendard-Regular.woff') format('woff'), /* Modern Browsers */\r\n       url('../../common/css/font/Pretendard-Regular.ttf') format('truetype'), /* Safari, Android, iOS */\r\n       url('../../common/css/font/Pretendard-Regular.svg#Pretendard') format('svg'); /* Legacy iOS */\r\n}\r\n\r\n/* Pretendard-500 - latin_korean */\r\n@f",
+      "content_type": "image/svg+xml",
+      "bytes": 7972675,
+      "sha256": "54dfd199352bb9e23f3d2215a0b34c3925d1326a7cfaf78adb23d6ae747075d7",
+      "source_sha256": "54dfd199352bb9e23f3d2215a0b34c3925d1326a7cfaf78adb23d6ae747075d7",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-084.svg",
+      "source_url": "https://www.imcap.co.kr/static/common/css/font/Pretendard-Medium.svg",
+      "source_tag": "external-css",
+      "context": "dium.woff2') format('font-woff2'), /* Super Modern Browsers */\r\n  url('../../common/css/font/Pretendard-Medium.woff') format('woff'), /* Modern Browsers */\r\n  url('../../common/css/font/Pretendard-Medium.ttf') format('truetype'), /* Safari, Android, iOS */\r\n  url('../../common/css/font/Pretendard-Medium.svg#Pretendard') format('svg'); /* Legacy iOS */\r\n}\r\n\r\n/* Pretendard-500 - latin_korean */\r\n@fo",
+      "content_type": "image/svg+xml",
+      "bytes": 7905680,
+      "sha256": "5d6b5e960bcdf3b38d582d3c18160a6112ca57b4038ccdf53c40eed502226b22",
+      "source_sha256": "5d6b5e960bcdf3b38d582d3c18160a6112ca57b4038ccdf53c40eed502226b22",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-085.svg",
+      "source_url": "https://www.imcap.co.kr/static/common/css/font/Pretendard-SemiBold.svg",
+      "source_tag": "external-css",
+      "context": ".woff2') format('font-woff2'), /* Super Modern Browsers */\r\n  url('../../common/css/font/Pretendard-SemiBold.woff') format('woff'), /* Modern Browsers */\r\n  url('../../common/css/font/Pretendard-SemiBold.ttf') format('truetype'), /* Safari, Android, iOS */\r\n  url('../../common/css/font/Pretendard-SemiBold.svg#Pretendard') format('svg'); /* Legacy iOS */\r\n}\r\n\r\n/* Pretendard-700 - latin_korean */\r\n@",
+      "content_type": "image/svg+xml",
+      "bytes": 7813239,
+      "sha256": "025bcc1ff711eebb1115afe9435e549413b8ee0789dc101acf10b6f1c3bc994a",
+      "source_sha256": "025bcc1ff711eebb1115afe9435e549413b8ee0789dc101acf10b6f1c3bc994a",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-086.svg",
+      "source_url": "https://www.imcap.co.kr/static/common/css/font/Pretendard-Bold.svg",
+      "source_tag": "external-css",
+      "context": ") format('font-woff2'), /* Super Modern Browsers */\r\n       url('../../common/css/font/Pretendard-Bold.woff') format('woff'), /* Modern Browsers */\r\n       url('../../common/css/font/Pretendard-Bold.ttf') format('truetype'), /* Safari, Android, iOS */\r\n       url('../../common/css/font/Pretendard-Bold.svg#Pretendard') format('svg'); /* Legacy iOS */\r\n}\r\n\r\n/* play-regular - latin */\r\n@font-face {\r\n",
+      "content_type": "image/svg+xml",
+      "bytes": 7737951,
+      "sha256": "03aa940702ed7788618d9a2f0eef7c4ed55e7a6f7fb638c0ae8b7ee7797d45b3",
+      "source_sha256": "03aa940702ed7788618d9a2f0eef7c4ed55e7a6f7fb638c0ae8b7ee7797d45b3",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-087.svg",
+      "source_url": "https://www.imcap.co.kr/static/common/css/font/play-v12-latin-regular.svg",
+      "source_tag": "external-css",
+      "context": "-woff2'), /* Super Modern Browsers */\r\n       url('../../common/css/font/play-v12-latin-regular.woff') format('woff'), /* Modern Browsers */\r\n       url('../../common/css/font/play-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */\r\n       url('../../common/css/font/play-v12-latin-regular.svg#Play') format('svg'); /* Legacy iOS */\r\n}\r\n/* play-700 - latin */\r\n@font-face {\r\n  fon",
+      "content_type": "image/svg+xml",
+      "bytes": 51596,
+      "sha256": "8be1840ae0e1ed4f95b07c34a35d5379a9a19b50a6f2b627fdaa778dabf1900e",
+      "source_sha256": "8be1840ae0e1ed4f95b07c34a35d5379a9a19b50a6f2b627fdaa778dabf1900e",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-088.svg",
+      "source_url": "https://www.imcap.co.kr/static/common/css/font/play-v12-latin-700.svg",
+      "source_tag": "external-css",
+      "context": "at('font-woff2'), /* Super Modern Browsers */\r\n       url('../../common/css/font/play-v12-latin-700.woff') format('woff'), /* Modern Browsers */\r\n       url('../../common/css/font/play-v12-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */\r\n       url('../../common/css/font/play-v12-latin-700.svg#Play') format('svg'); /* Legacy iOS */\r\n}\r\n\r\n@font-face {\r\n  font-family: 'Koho';\r\n  font-",
+      "content_type": "image/svg+xml",
+      "bytes": 52917,
+      "sha256": "0c4a774b11d6d715d1b45f304af12eb68fac3bc38b7ee248020f238531ceb956",
+      "source_sha256": "0c4a774b11d6d715d1b45f304af12eb68fac3bc38b7ee248020f238531ceb956",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-089.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_his_pc01.png",
+      "source_tag": "external-css",
+      "context": "ght: 216px;}\r\n.business-box li:nth-child(2) ~ li {margin-top: 16px;}\r\n.business-box li span {font-size: 18px; font-weight: 700; color: #fff; position: absolute; left: 50%; bottom: 17px; transform: translateX(-50%);}\r\n.business-box li:nth-child(1) {background: url('../img/ui_common/img_his_pc01.png') no-repeat 0 0; background-size: 388px auto;}\r\n.business-box li:nth-child(2) {background: url('../im",
+      "content_type": "image/webp",
+      "bytes": 14934,
+      "sha256": "fe4d224af1db19f57457b2c6cef70aa0736fb9060fa8206ae48bd8541ae269f6",
+      "source_sha256": "9cf24fad9fdaf4e341862f496a3f9552f51e365d83069ef9dbe835a5196331c9",
+      "dhash": "69e4c4c4e4e0b0f3",
+      "width": 776,
+      "height": 432,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-090.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_his_pc02.png",
+      "source_tag": "external-css",
+      "context": "lor: #fff; position: absolute; left: 50%; bottom: 17px; transform: translateX(-50%);}\r\n.business-box li:nth-child(1) {background: url('../img/ui_common/img_his_pc01.png') no-repeat 0 0; background-size: 388px auto;}\r\n.business-box li:nth-child(2) {background: url('../img/ui_common/img_his_pc02.png') no-repeat 0 0; background-size: 388px auto;}\r\n.business-box li:nth-child(3) {background: url('../im",
+      "content_type": "image/webp",
+      "bytes": 19416,
+      "sha256": "90caed41e39c0423f1f88f9a0d10e8d08b7f3e813bec0b253551da2bacaf8eeb",
+      "source_sha256": "95f1169f29e3433e4a97df594f774f4389878db88fd580cc7158da48ba2278a8",
+      "dhash": "191a1e0b279f189e",
+      "width": 776,
+      "height": 432,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-091.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_his_pc03.png",
+      "source_tag": "external-css",
+      "context": "url('../img/ui_common/img_his_pc01.png') no-repeat 0 0; background-size: 388px auto;}\r\n.business-box li:nth-child(2) {background: url('../img/ui_common/img_his_pc02.png') no-repeat 0 0; background-size: 388px auto;}\r\n.business-box li:nth-child(3) {background: url('../img/ui_common/img_his_pc03.png') no-repeat 0 0; background-size: 388px auto;}\r\n.business-box li:nth-child(4) {background: url('../im",
+      "content_type": "image/webp",
+      "bytes": 48634,
+      "sha256": "87fa2a307b8839e359af1c826e142762b69093a58a15f0301ad34358a8f94f42",
+      "source_sha256": "c2b89581555870f5be8086eeb9bb6beea0f69c88ff16b277d8f447294a7bb531",
+      "dhash": "0d1f37b6b6376363",
+      "width": 776,
+      "height": 432,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-092.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_his_pc04.png",
+      "source_tag": "external-css",
+      "context": "url('../img/ui_common/img_his_pc02.png') no-repeat 0 0; background-size: 388px auto;}\r\n.business-box li:nth-child(3) {background: url('../img/ui_common/img_his_pc03.png') no-repeat 0 0; background-size: 388px auto;}\r\n.business-box li:nth-child(4) {background: url('../img/ui_common/img_his_pc04.png') no-repeat 0 0; background-size: 388px auto;}\r\n\r\n/* CEOì¸ì¬ë§ */\r\n.ceo-box {position: relative;pa",
+      "content_type": "image/webp",
+      "bytes": 26148,
+      "sha256": "779692a009837507f95655803f72aadb52d830bb2f2cd0bc2946f8c048ee732a",
+      "source_sha256": "3051ae3ad161466067ae91dbdfb2c7c6e4c262d9dc311c611e94a6c697ddddc2",
+      "dhash": "9bbbb696ced37979",
+      "width": 776,
+      "height": 432,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-093.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_group_pc02.png",
+      "source_tag": "external-css",
+      "context": "\r\n.organization-chart .bottom.device-pc > ul > li > ul > li.ct ~ li:after{content:none;}\r\n\r\n/* ê·¸ë£¹ê²½ìì´ë\u0085 */\r\n.group-box .t-img {position:relative;display: flex; flex-direction:column;height: 320px; margin-bottom: 64px; align-items: center; background:url('../img/ui_common/img_group_pc02.png') 0 0 no-repeat; background-size: 100% 320px;}\r\n.group-box .t-img .tx1{position:absolute;top:40px;l",
+      "content_type": "image/webp",
+      "bytes": 51930,
+      "sha256": "bf62dde04dfad550d69f6acc78480e44369abab289afb246e6c97459e798f22c",
+      "source_sha256": "472cd3d8596e8da03edc9251f8bf39b587bc177e7b7dc0f7c124e0371eb605ba",
+      "dhash": "cbcf8f8a949499b9",
+      "width": 1600,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-094.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/bg_vision.png",
+      "source_tag": "external-css",
+      "context": "ing-left: 12px;}\r\n.vision-list > li > ul > li::before {content: ''; position: absolute; left: 0; top: 8px; width: 4px; height: 4px; border-radius: 50%; background: #bcc0c5;}\r\n\r\n.vision-list02{display:flex;width:408px;margin:0 auto;padding-top:240px;background:url('../img/ui_common/bg_vision.png') no-repeat;background-size:408px 216px}\r\n.vision-list02 li{width:50%;text-align:center;font-size:16px;c",
+      "content_type": "image/webp",
+      "bytes": 18462,
+      "sha256": "7453c730af6d2505563eaa2dcd79a57aabeae690831d27c7739df3ecb9894265",
+      "source_sha256": "f55f0b53b29c312c079e35ec1fda73cc13f5a8ce7387da7817bc1a46d190b36f",
+      "dhash": "3355cdccc64f5533",
+      "width": 816,
+      "height": 432,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-095.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_group04.png",
+      "source_tag": "external-css",
+      "context": "t > li:first-child {margin-left: 0;}\r\n.value-list > li span {display: block; height: 160px; margin-bottom: 24px;}\r\n.value-list > li p {width: 100%; font-size: 16px; font-weight: 400; color: #5c6773; margin-top: 12px;}\r\n.value-list > li:nth-child(1){background:url('../img/ui_common/img_group04.png') center 0 no-repeat; background-size: 250px 160px;}\r\n.value-list > li:nth-child(2) {background:url('.",
+      "content_type": "image/webp",
+      "bytes": 4802,
+      "sha256": "14af27487fdbe55bc40d8286a8cfd9fc4b21cd8ecd6feb0523fecfe4039bacb0",
+      "source_sha256": "a3274c8d99a60fed136b492180c9fd326f2f4841a12497c8047f880d4bc3cc1c",
+      "dhash": "71b6316996b2a979",
+      "width": 500,
+      "height": 320,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-096.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_group05.png",
+      "source_tag": "external-css",
+      "context": "{width: 100%; font-size: 16px; font-weight: 400; color: #5c6773; margin-top: 12px;}\r\n.value-list > li:nth-child(1){background:url('../img/ui_common/img_group04.png') center 0 no-repeat; background-size: 250px 160px;}\r\n.value-list > li:nth-child(2) {background:url('../img/ui_common/img_group05.png') center 0 no-repeat; background-size: 250px 160px;}\r\n.value-list > li:nth-child(3) {background:url('.",
+      "content_type": "image/webp",
+      "bytes": 7422,
+      "sha256": "27d6224d9a8ad2f51c04e6b8a0fc4403d352626d717163153a8c7c303b4c14c7",
+      "source_sha256": "96cc79b5f0a1e1169332bc41401caf1cf0d292877b3c044dadeb5f7afb62e51a",
+      "dhash": "63dcbc34d9e3f559",
+      "width": 500,
+      "height": 320,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-097.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_group06.png",
+      "source_tag": "external-css",
+      "context": "img/ui_common/img_group04.png') center 0 no-repeat; background-size: 250px 160px;}\r\n.value-list > li:nth-child(2) {background:url('../img/ui_common/img_group05.png') center 0 no-repeat; background-size: 250px 160px;}\r\n.value-list > li:nth-child(3) {background:url('../img/ui_common/img_group06.png') center 0 no-repeat; background-size: 250px 160px;}\r\n.value-box:before{display:block;height:465px;bac",
+      "content_type": "image/webp",
+      "bytes": 5546,
+      "sha256": "4dfdedc4653aa850b150efd044b03dabe7181e6b6b50dd954491bc8d3e0df5b1",
+      "source_sha256": "51e5d8f0fca5f18181ca210ba3d4c39b9fc4fda93b6c92ab96b24abf193fd754",
+      "dhash": "459879e1e0f07173",
+      "width": 500,
+      "height": 320,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-098.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_group10.png",
+      "source_tag": "external-css",
+      "context": "img_group05.png') center 0 no-repeat; background-size: 250px 160px;}\r\n.value-list > li:nth-child(3) {background:url('../img/ui_common/img_group06.png') center 0 no-repeat; background-size: 250px 160px;}\r\n.value-box:before{display:block;height:465px;background:url('../img/ui_common/img_group10.png') no-repeat top center;background-size:contain;content:''}\r\n.value-list02{overflow:hidden;width:1px;he",
+      "content_type": "image/webp",
+      "bytes": 35414,
+      "sha256": "069104125c003e15afd6bba08f1847b3ed841771f2c977023e83cf0acf78d5ab",
+      "source_sha256": "a052360daa686166ebedaeef676411f19392e02551f52702189dd782b39a4a74",
+      "dhash": "4c968e96964d200c",
+      "width": 1522,
+      "height": 930,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-099.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_group_mob02.png",
+      "source_tag": "external-css",
+      "context": "obile > ul:first-child li:last-child p:after{width:91%;}\r\n\t.organization-chart .bottom.device-mobile ul li ul li.indepth:after{left:-16px !important;}\r\n\r\n    /* ê·¸ë£¹ê²½ìì´ë\u0085 */\r\n    .group-box .t-img {height: 240px; margin-bottom: 40px; background-image:url('../img/ui_common/img_group_mob02.png'); background-size: 100% 240px;}\r\n    .group-box .t-img .tx1{top:24px;left:24px;font-size:20px}\r\n ",
+      "content_type": "image/webp",
+      "bytes": 18414,
+      "sha256": "2680a34b4deb44468699991876cb1057c1abc99d0ea263501794c3396f50b357",
+      "source_sha256": "3e64a985a35ba17317fcdfeb20a1f1056b0430b40a45272cf837219b2769c9f0",
+      "dhash": "f6cd8b83b6b4b9a3",
+      "width": 670,
+      "height": 480,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-100.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/bg_vision_mob.png",
+      "source_tag": "external-css",
+      "context": " margin-bottom: 0;}\r\n    .vision-list > li:first-of-type {border-top: none; margin: 0; padding-top: 0; background-position: 0 0 !important;}\r\n    .vision-list > li > ul > li {font-size: 14px;}\r\n    .vision-list02{padding-top:176px;width:296px;background-image:url('../img/ui_common/bg_vision_mob.png');background-size:296px auto}\r\n    .vision-list02 li{font-size:14px;line-height:22px}\r\n    .vision-l",
+      "content_type": "image/webp",
+      "bytes": 12086,
+      "sha256": "a11291046e5ab61c0e20eaa4ef9de060673c2bdb80207dc59a0bfa872d070236",
+      "source_sha256": "f47c38db6d4fd092e67d1bc42346b6bbdac91e34216a7f8957d5fa40336287df",
+      "dhash": "33554dccc6495533",
+      "width": 592,
+      "height": 320,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-101.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/ui_common/img_group10_mob.png",
+      "source_tag": "external-css",
+      "context": "e-list > li span {margin-bottom: 16px;}\r\n    .value-list > li span::after {content: ''; position: relative; display: block; width: 100%; height: 160px; background: #f1f5fa; border-radius: 8px; z-index: -1;}\r\n    .value-box:before{height:196px;background-image:url('../img/ui_common/img_group10_mob.png')}\r\n    .value-list02{overflow:visible;width:auto;height:auto;margin-top:12px;padding:0 20px}\r\n   ",
+      "content_type": "image/webp",
+      "bytes": 6944,
+      "sha256": "eaf5d8c9bb77f849acafb5d8c1691e24ad28f590715ce985fee42ff34b9fa9c6",
+      "source_sha256": "afec448c8a60c86cbff6edbbfa765c8ccf92e33dfb266c14c96c693857cac2a7",
+      "dhash": "0f3369d68469330f",
+      "width": 392,
+      "height": 392,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-102.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/servicedesk/top_info_char.gif",
+      "source_tag": "html-data, img:image",
+      "context": "요?</h2>\n<div class=\"btn-link-wrap\">\n<a href=\"javascript:;\" name=\"showGptAi\" onclick=\"showGptAi(this);\"><span>AI에게 대화하듯 물어보세요</span></a>\n</div>\n<div class=\"img-char-wrap\">\n<img src=\"/static/web/img/servicedesk/top_info_char.gif\"/>\n</div>\n<!-- Start : 자주찾는 서비스 -->\n<div class=\"frequent-service\">\n<div class=\"tit-wrap\">\n<h3 class=\"tit\">\r\n\t\t\t\t\t\t\t     ",
+      "content_type": "image/webp",
+      "bytes": 11150,
+      "sha256": "7d0087a599c50cf7c9efa524635da6b0fd8845ad59919a744c527fd45b957675",
+      "source_sha256": "d7942cb05121d588ca8d180848e15e9607914500d2fb6a5bd02cf6f3b641064d",
+      "dhash": "b270ccb2d6796928",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-103.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/img_fing1.png",
+      "source_tag": "html-data, img:image",
+      "context": ">\n</li>\n<li><span>2</span>\n<div>모바일의 카카오톡 앱에서 전달받은 카카오페이 인증 메시지에서 ‘확인하기’ 버튼 선택\r\n                                <p><img alt=\"모바일의 카카오톡 앱에서 전달받은 카카오페이 인증 메시지에서 ‘확인하기’ 버튼 선택 예시\" src=\"/static/web/img/img_fing1.png\"/></p>\n</div>\n</li>\n<li><span>3</span>\n<div>카카오페이 약관 동의</div>\n</li>\n<li><span>4</span>\n<div>카카오페이 인증 약관 동의</div>\n</li>\n<",
+      "content_type": "image/webp",
+      "bytes": 16158,
+      "sha256": "27dad543acd539cef626bdd630b17b27fe22405660a68d8864f563580b95aa91",
+      "source_sha256": "0464104fb63bd26881ac3173abede28234160b56a7146270992cae1349b6ae37",
+      "dhash": "c3a12db2b6a58c5a",
+      "width": 606,
+      "height": 524,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-104.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/img_fing2.png",
+      "source_tag": "html-data, img:image",
+      "context": "페이 인증 메시지에서 ‘확인하기’ 버튼 선택</div>\n</li>\n<li><span>3</span>\n<div>인증번호 혹은 지문 입력</div>\n</li>\n<li><span>4</span>\n<div>본인인증 완료\r\n                                <p><img alt=\"본인인증하기 예시\" src=\"/static/web/img/img_fing2.png\"/></p>\n</div>\n</li>\n</ul>\n<p class=\"h_tit mt32\">전자서명하기</p>\n<ul class=\"cloud_step\">\n<li><span>1</span>\n<div>iM캐피탈에서 업무 진행",
+      "content_type": "image/webp",
+      "bytes": 22832,
+      "sha256": "3854a37803391be43998104ba58991cf08f98b6bb8273cb824ceefa871191253",
+      "source_sha256": "8a0c510fab53b9239733d0f848885c1f85004f02b71abdb49614c501bef93bea",
+      "dhash": "eabea6a73a4858a4",
+      "width": 606,
+      "height": 984,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/im/reference-105.webp",
+      "source_url": "https://www.imcap.co.kr/static/web/img/img_fing3.png",
+      "source_tag": "html-data, img:image",
+      "context": " 내용 확인 후 하단 ‘서명하기’ 버튼 선택</div>\n</li>\n<li><span>4</span>\n<div>인증번호 혹은 지문 입력</div>\n</li>\n<li><span>5</span>\n<div>전자서명 완료\r\n                                <p><img alt=\"전자서명하기 예시\" src=\"/static/web/img/img_fing3.png\"/></p>\n</div>\n</li>\n</ul>\n<p class=\"h_tit mt32\">PC에서 인증하기</p>\n<ul class=\"cloud_step\">\n<li><span>1</span>\n<div>iM캐피탈에서 본인",
+      "content_type": "image/webp",
+      "bytes": 44730,
+      "sha256": "ffb0a21e1bc6202477a8e9f24dd66fa23699e3ce6e6fc0e0b13750245e2f3046",
+      "source_sha256": "3f967878803393883a5d3dcfdb5cb48f9ba844754b6375965265a0f5e8e68f96",
+      "dhash": "a4a0a0a48a829b72",
+      "width": 606,
+      "height": 984,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.imcap.co.kr/automobile/vhclProdGuide.do"
+      ]
+    }
+  ]
+}

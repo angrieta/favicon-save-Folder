@@ -5,7 +5,18 @@
   "page_url": "https://www.billycar.co.kr/",
   "page_title": "빌리카",
   "collection_status": "partial",
-  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1293868724865384&ev=PageView&noscript=1",
+  "collection_error": "asset:https://www.facebook.com/tr?id=1293868724865384&ev=PageView&noscript=1:ValueError",
+  "crawl_stats": {
+    "logical_pages": 1,
+    "desktop_pages": 1,
+    "mobile_pages": 1,
+    "stylesheets": 2,
+    "scripts": 2,
+    "candidates": 106,
+    "attempted_assets": 106,
+    "errors": 1,
+    "collected_at": "2026-09-03T08:08:18.853532+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -17,6 +28,24 @@
       "sha256": "8b0c99da3464967a3ef5b40750e81efb384eddb9fd8241a21d43e4b82f6c3b27",
       "width": 16,
       "height": 16
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/billicar/reference-001.webp",
+      "source_url": "https://www.billycar.co.kr/pc_assets/img/contents/main_tit.png",
+      "source_tag": "script-data",
+      "context": "ets/img/contents/main_visual0\"+e.idx+\".png\",alt:\"\"}),n.a.createElement(\"div\",{className:\"main_tit\"},e.tags?n.a.createElement(\"p\",{class:\"txt\"},e.tags):n.a.createElement(\"img\",{src:\"/pc_assets/img/contents/main_tit.png\",alt:\"move better\"}),n.a.createElement(\"p\",{className:Object(sn.b)(e.tags?\"\":\"main_desc\"),style:e.tags?u:{}},e.desc)))})",
+      "content_type": "image/webp",
+      "bytes": 13700,
+      "sha256": "460d419d372a1289dd44bd8d3a71d10532dcc1e5be3ae95d934f54b9212939f1",
+      "source_sha256": "3fff71f495ea8743e4df3c613efdf3da2783914511b8d546cbae27cab33a526f",
+      "dhash": "c0da1a5880bc5853",
+      "width": 1245,
+      "height": 396,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.billycar.co.kr/"
+      ]
     }
   ]
 }

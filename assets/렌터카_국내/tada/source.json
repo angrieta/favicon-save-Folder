@@ -2,10 +2,21 @@
   "company": "타다",
   "category": "렌터카_국내",
   "requested_url": "https://tadatada.com/",
-  "page_url": "https://www.tadatada.com/",
+  "page_url": "https://tadatada.com/",
   "page_title": "타다(TADA) | HOME",
-  "collection_status": "partial",
-  "collection_error": "reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/index.es.DFkh5JT3.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/fYwdksJIz.C2JCjHs5.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/EnfVCSej7.TKVtfGWV.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/ppPLhX_Jw.yq3OeFx1.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/Vv_ZoFp_w.jSL-cmUH.mjs; reference:ValueError:https://framerusercontent.com/sites/4mETTXvIRXOOSEkiLmKtX7/PzuLmlenL5H72l3QGoADrg-fpnLL5cFLnx4yDiKXYg8.DwMURKWe.mjs",
+  "collection_status": "complete",
+  "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 6,
+    "scripts": 17,
+    "candidates": 512,
+    "attempted_assets": 300,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:13:54.21835+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,2174 @@
       "height": 1036
     },
     {
+      "type": "logo",
+      "path": "assets/렌터카_국내/tada/logo-001.png",
+      "source_url": "https://help.tadatada.com/hc/theming_assets/01HZKTPQW9687N1XTVN787XK81",
+      "source_tag": "img:banner, img:image, img:logo, meta:og:image ",
+      "context": "img div logo header header body html [document]",
+      "content_type": "image/png",
+      "bytes": 395,
+      "sha256": "9cb8cc96e7058ec93870cc9e228c607c80a6f171991debee601cefdda4cc36a1",
+      "source_sha256": "883b27284b1b26e4d29a107888b0964a3d7786651706920d05bec9eab38bd086",
+      "dhash": "e76795d8d89567e7",
+      "width": 156,
+      "height": 42,
+      "variant": "shared",
+      "source_pages": [
+        "https://help.tadatada.com/hc/ko/articles/360015803892-%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80",
+        "https://help.tadatada.com/hc/ko/sections/60270689270681-%EC%9C%84%EC%B9%98-%EA%B8%B0%EB%B0%98-%EC%84%9C%EB%B9%84%EC%8A%A4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/tada/logo-002.png",
+      "source_url": "https://framerusercontent.com/images/mD34KqcYyOGjgAbY2dlrz69BboE.png?scale-down-to=2048&width=3466&height=354",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"354\" loading=\"lazy\" src=\"https://framerusercontent.com/images/mD34KqcYyOGjgAbY2dlrz69BboE.png?scale-down-to=2048&amp;width=3466&amp;height=354\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-positi",
+      "content_type": "image/png",
+      "bytes": 74060,
+      "sha256": "34cef77398cecbdb1c054bed745e12f95136930ccc9bcb7a1875466927aec663",
+      "source_sha256": "51b67738ecdc0d36962dec54f097fe056123c1965c9397c7a260152f63c8fbac",
+      "dhash": "0956570949530009",
+      "width": 2048,
+      "height": 209,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/tada/social-001.webp",
+      "source_url": "https://framerusercontent.com/images/dWnr6UZPW7HvsmyLXtEbvfVCxc.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "ta content=\"타다(TADA)\" property=\"og:title\"/>\n<meta content=\"타다(TADA)는 새로운 이동 기준을 제시하는 모빌리티 플랫폼으로, 일상 속 이동이 필요할 때 더욱 편리하고 안전하게 이용할 수 있습니다.\" property=\"og:description\"/>\n<meta content=\"https://framerusercontent.com/images/dWnr6UZPW7HvsmyLXtEbvfVCxc.png\" property=\"og:image\"/>\n<!-- X -->\n<meta content=\"summary_large_image\" name=\"twitter:card\"/>\n<meta content=\"타다(TADA)\" nam",
+      "content_type": "image/webp",
+      "bytes": 2464,
+      "sha256": "a43a925d2d09083b6a73849e8c5c6805acea35e3c9f8a80e6c8a7cfa7d0a90d8",
+      "source_sha256": "00a86510985e5f41abb62a3c5b76c1e7fc87eafc52a9bfda61f5bef2c8f438b3",
+      "dhash": "0004209c9c200400",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1",
+        "https://www.tadatada.com/ad-biz/product-experience-2",
+        "https://www.tadatada.com/ad-biz/product-experience-3",
+        "https://www.tadatada.com/ad-biz/ride-event-1",
+        "https://www.tadatada.com/ad-biz/ride-event-2",
+        "https://www.tadatada.com/ad-biz/ride-event-3",
+        "https://www.tadatada.com/blog",
+        "https://www.tadatada.com/business-ask",
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/tada/social-002.webp",
+      "source_url": "https://static.tadatada.com/resources/anonymous-ride/tada_og_thumbnail_400x800.png",
+      "source_tag": "html-data, meta:og:image , script-data",
+      "context": "ta content=\"타다 택시를 부르고, 안전하고 편리한 이동을 경험해보세요.\" property=\"og:description\"/><meta content=\"https://web-rider-external-ride-request.tadatada.com/main\" property=\"og:url\"/><meta content=\"https://static.tadatada.com/resources/anonymous-ride/tada_og_thumbnail_400x800.png\" property=\"og:image\"/><title>택시 부르기</title><meta content=\"8\" name=\"next-head-count\"/><link href=\"https://static.tadatada",
+      "content_type": "image/webp",
+      "bytes": 9354,
+      "sha256": "f6a621ab6871d63e05944a94ac4d7d72869e1d0eb3531bfe85107107f9d06f01",
+      "source_sha256": "62b022875d4383e826d01c5bae92f417497d1c8c11ef7a853307f938d0f7a4a4",
+      "dhash": "4092566323534a54",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://web-rider-external-ride-request.tadatada.com/main?entryPoint=tada_home_page"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/tada/social-003.webp",
+      "source_url": "https://framerusercontent.com/assets/ENY62kIjBV6KXv46l5Yt3zbN5E.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "e\" property=\"og:type\"/>\n<meta content=\"[타다] 서울엄마아빠택시\" property=\"og:title\"/>\n<meta content=\"더 나은 이동으로 더 나은 일상을 만드는 타다가 서울엄마아빠택시와 함께 합니다. \" property=\"og:description\"/>\n<meta content=\"https://framerusercontent.com/assets/ENY62kIjBV6KXv46l5Yt3zbN5E.png\" property=\"og:image\"/>\n<!-- X -->\n<meta content=\"summary_large_image\" name=\"twitter:card\"/>\n<meta content=\"[타다] 서울엄마아빠택시",
+      "content_type": "image/webp",
+      "bytes": 52100,
+      "sha256": "59ac364e94f26760f670c051dea123f019f775ccc188f267974aa5594a5ffeb5",
+      "source_sha256": "4d3e73cc2e9494f6d4eb53a1c842acd818792d7ad5490670110aee6337abd439",
+      "dhash": "c48c9a9abcba1b1a",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/events/parent-taxi-2026-external"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/tada/social-004.webp",
+      "source_url": "https://framerusercontent.com/assets/X8NwQbtEEcGws2CLUsjKeHnuqM.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "tent=\"website\" property=\"og:type\"/>\n<meta content=\"타다 비즈니스\" property=\"og:title\"/>\n<meta content=\"직원들은 더 편리하게 이동하고, 기업은 합리적으로 관리할 수 있습니다.\" property=\"og:description\"/>\n<meta content=\"https://framerusercontent.com/assets/X8NwQbtEEcGws2CLUsjKeHnuqM.png\" property=\"og:image\"/>\n<!-- X -->\n<meta content=\"summary_large_image\" name=\"twitter:card\"/>\n<meta content=\"타다 비즈니스\" name",
+      "content_type": "image/webp",
+      "bytes": 3826,
+      "sha256": "f591656c0442a2bf85b18fc3cca763aab19818e065ad30aeecd698f0951e0d48",
+      "source_sha256": "effd793cdc920e5d7ec39d1446822477f90d2477c48eaff13a05bf86b48016e0",
+      "dhash": "000100232b000100",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/tadabusiness"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-001.webp",
+      "source_url": "https://help.tadatada.com/hc/theming_assets/01KFCEPAZFP1W6JQXABMV99KPX",
+      "source_tag": "external-css",
+      "context": ".actions .dropdown-toggle::before {\n  background-color: transparent;\n  border-radius: 50%;\n  color: #333;\n  content: \"\\2699\";\n  display: block;\n  font-size: 13px;\n  margin: auto;\n  padding: 5px;\n}\n\n/***** Community *****/\n.community-hero {\n  background-image: url(/hc/theming_assets/01KFCEPAZFP1W6JQXABMV99KPX);\n  margin-bottom: 10px;\n}\n\n.community-footer {\n  padding-top: 50px;\n  text-align: center;",
+      "content_type": "image/webp",
+      "bytes": 88632,
+      "sha256": "33fe613b9fa6a185661e41c0d15c56bbec40bd7934d4ecf2ca2abca355efb748",
+      "source_sha256": "1c1b9ed5d4621dad0f25b6dbc14ac29ef224ff13d3bfdee6048adcc9b193e3e2",
+      "dhash": "00a000e090f2608a",
+      "width": 2200,
+      "height": 1583,
+      "variant": "shared",
+      "source_pages": [
+        "https://help.tadatada.com/hc/ko/articles/360015803892-%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-001.webp",
+      "source_url": "https://framerusercontent.com/images/EzNa6t3SKyb5FDkrw13XHTbhoM.png?width=640&height=350",
+      "source_tag": "html-data",
+      "context": " 37, 77)))'>이벤트 상세페이지</h2></div></div><div class=\"framer-1g5lmz9\" data-framer-name=\"img\"><div class=\"framer-byhpy0-container\"><!--$--><video loop=\"\" muted=\"\" playsinline=\"\" poster=\"https://framerusercontent.com/images/EzNa6t3SKyb5FDkrw13XHTbhoM.png?width=640&amp;height=350\" src=\"https://framerusercontent.com/assets/gFeGhCLR0sPB4diEWE9jpAKDA.mp4\" style=\"cursor:auto;width:100%;height:100%;bord",
+      "content_type": "image/webp",
+      "bytes": 8942,
+      "sha256": "b3e95f8223ff3ecc8b6d7f97e44554249da30495e548779f5a50ccada48cdcd0",
+      "source_sha256": "7994d1972b616787b9e2d13c88522534392eed755bfab32a284b7773121c80f0",
+      "dhash": "7069516969616969",
+      "width": 640,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-002.webp",
+      "source_url": "https://framerusercontent.com/images/djVFYZqpQtAcl6M1lCI07nNLzMA.png?width=3840&height=672",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"672\" src=\"https://framerusercontent.com/images/djVFYZqpQtAcl6M1lCI07nNLzMA.png?width=3840&amp;height=672\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 11462,
+      "sha256": "bd4d31c4f2357b7b573c514d49e7a279b4a94cfd6e5a7caf0e119e5a64202c3a",
+      "source_sha256": "6ecad0b4cdfc2fe5324c9bf60b3417bf56816426cbedf208476b57de75d5b1ab",
+      "dhash": "062929195a1a1018",
+      "width": 2200,
+      "height": 385,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-003.webp",
+      "source_url": "https://framerusercontent.com/images/alzjVkItsCK8lC4m4Rqp1XAK8.png?width=3840&height=672",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"672\" src=\"https://framerusercontent.com/images/alzjVkItsCK8lC4m4Rqp1XAK8.png?width=3840&amp;height=672\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 14812,
+      "sha256": "5c5313dafd6e74fbbbf201a919f35d5c6992b162c6313cf2809483171c05a957",
+      "source_sha256": "3c5c74423de57ced370404d8958799216ab528b2a4b81c066259aab414891f6f",
+      "dhash": "0802290959290608",
+      "width": 2200,
+      "height": 385,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-3"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-004.webp",
+      "source_url": "https://framerusercontent.com/images/ExkN4l7MEHGKCcRmBmGkP5C64.png?width=1675&height=700",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"700\" src=\"https://framerusercontent.com/images/ExkN4l7MEHGKCcRmBmGkP5C64.png?width=1675&amp;height=700\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 29738,
+      "sha256": "bd095922f833f468d474445479f17287e51459afe7df95c203efcea059e5b9bd",
+      "source_sha256": "4666cabf5d23e5c24fcbf7f78b6adceb2552c3ff4ef7d78226a0c24499c71dac",
+      "dhash": "11165c5c5e5d120c",
+      "width": 1675,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/business-ask"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-002.webp",
+      "source_url": "https://framerusercontent.com/images/UnwMaX3QJiRhIBWjhdzQQ25NEw.png?scale-down-to=2048&width=1080&height=2070",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"2070\" src=\"https://framerusercontent.com/images/UnwMaX3QJiRhIBWjhdzQQ25NEw.png?scale-down-to=2048&amp;width=1080&amp;height=2070\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-positi",
+      "content_type": "image/webp",
+      "bytes": 96332,
+      "sha256": "662528696c2ab09dfc7bdb70c231ac7c8a695cb7827aa165db3f25ade71d72fb",
+      "source_sha256": "123168a3de038f7bb28b2c7541a1e98d67a78d33a4e7225e137d3f4b8a8192ac",
+      "dhash": "23f0e8f8d0c66969",
+      "width": 1044,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/events/parent-taxi-2026-external"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-005.webp",
+      "source_url": "https://framerusercontent.com/images/3s9rITMCgxnnjYCXh2eGD3CNqM.png?width=3840&height=672",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"672\" src=\"https://framerusercontent.com/images/3s9rITMCgxnnjYCXh2eGD3CNqM.png?width=3840&amp;height=672\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 19760,
+      "sha256": "14d5ce2de7809677be3c35b103f4c6e2af904293a015260a050d73d52bbc1bbb",
+      "source_sha256": "14ecc5014b317e1943c4ac4d8ea4ddd987c67d2b2912397b3b927b6c3bd7e676",
+      "dhash": "968999f8e8982a0e",
+      "width": 2200,
+      "height": 385,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-006.webp",
+      "source_url": "https://framerusercontent.com/images/05ckK9wsrxVRf4gHRGKO0yHPWmI.png?scale-down-to=2048&width=3840&height=672",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"672\" src=\"https://framerusercontent.com/images/05ckK9wsrxVRf4gHRGKO0yHPWmI.png?scale-down-to=2048&amp;width=3840&amp;height=672\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-positi",
+      "content_type": "image/webp",
+      "bytes": 12660,
+      "sha256": "bdb821468ab9092ec4fc0324a7a91e06948a1e82de9db9ae282c7ea36db666e8",
+      "source_sha256": "3801a2fb1df6f599b6472589fe72fdb1e47b712762d8c7bec7e541e4af4dbec5",
+      "dhash": "98929ce969d8e864",
+      "width": 2048,
+      "height": 358,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-2"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-007.webp",
+      "source_url": "https://framerusercontent.com/images/whmVY9X1KbaAzOq1OfiLLFNdz8.png?width=3840&height=672",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"672\" src=\"https://framerusercontent.com/images/whmVY9X1KbaAzOq1OfiLLFNdz8.png?width=3840&amp;height=672\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 21400,
+      "sha256": "ebf6bc08d00678888494e01f2cb6088273fbb45646155c2307372bcc45dfcd87",
+      "source_sha256": "6fca99853a73b0e5a991cd3b91dfac30022156e076c4fc92520434ff7c81e7c0",
+      "dhash": "818199e9e9d96363",
+      "width": 2200,
+      "height": 385,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-008.webp",
+      "source_url": "https://framerusercontent.com/images/eAwaxyWeNxjvGqqpd6ReIMOp30.png?width=2688&height=700",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"700\" src=\"https://framerusercontent.com/images/eAwaxyWeNxjvGqqpd6ReIMOp30.png?width=2688&amp;height=700\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 26448,
+      "sha256": "2a5dc437c5a40f7f1c8b5dc23ae6de3fea6a72a0b9536d3065ad93b352ce02a8",
+      "source_sha256": "3d4739ea152ab0f68a620ca724a650dc662bff2f92fba1c652b503aae874888d",
+      "dhash": "241ab9b9b8b82218",
+      "width": 2200,
+      "height": 573,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/business-ask"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-003.webp",
+      "source_url": "https://framerusercontent.com/images/ST3ad9HyV2ThTx8wMQ8V2nNfoNM.jpg?width=1076&height=896",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"896\" src=\"https://framerusercontent.com/images/ST3ad9HyV2ThTx8wMQ8V2nNfoNM.jpg?width=1076&amp;height=896\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 27640,
+      "sha256": "4de828a624035ba65965ade457ac00c93b42c0de681649018b40fd87eedd136c",
+      "source_sha256": "4d59a2308a5353b396eaa0dec80e9f9eadc8c60b3b614ed5579b25abaddcda66",
+      "dhash": "45baacf4d2c93400",
+      "width": 1076,
+      "height": 896,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/business-ask"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-009.webp",
+      "source_url": "https://framerusercontent.com/images/OR4Ln8ETxi6jrDxXReULqRcMkEg.png?width=3840&height=362",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"362\" src=\"https://framerusercontent.com/images/OR4Ln8ETxi6jrDxXReULqRcMkEg.png?width=3840&amp;height=362\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 7238,
+      "sha256": "99f07a7fda78f5ae8d88fbf619fb3028a436d8b9567b031d7d6a672c033993fb",
+      "source_sha256": "0a05a35817b454bee93b261f7b21eeff3a4f2a9c07b4c57a743bfa4edc7cef0a",
+      "dhash": "0009181a5a5a5a12",
+      "width": 2200,
+      "height": 207,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-010.webp",
+      "source_url": "https://framerusercontent.com/images/JNki7yzb1JBjcBUbF2EWjsBKto.png?width=3840&height=362",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"362\" src=\"https://framerusercontent.com/images/JNki7yzb1JBjcBUbF2EWjsBKto.png?width=3840&amp;height=362\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 8938,
+      "sha256": "69a9ffc50cca08ae7731c64733d3a4456e3220a07ed377ab31078c055f00c41d",
+      "source_sha256": "940319acf2f556558b5a568f125593870093601a3c0c90e7cf407697fa590536",
+      "dhash": "040a0859591a2604",
+      "width": 2200,
+      "height": 207,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-3"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-011.webp",
+      "source_url": "https://framerusercontent.com/images/b9AiAr6UVUDvnvGKDgRgXTlyatE.jpg?width=1459&height=990",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"990\" src=\"https://framerusercontent.com/images/b9AiAr6UVUDvnvGKDgRgXTlyatE.jpg?width=1459&amp;height=990\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 32664,
+      "sha256": "c97fc63f1ee333493f93f63bbe5b07782408bb618fca8b39b29205e4b1161351",
+      "source_sha256": "a8cb1c0813ed879257a03564d0f8e1336c064274136eae0835329729a5194984",
+      "dhash": "031c78746d6a1448",
+      "width": 1459,
+      "height": 990,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/business-ask"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-012.webp",
+      "source_url": "https://framerusercontent.com/images/G6UMVQU42JHsh1HXW4MVwJ8qp0Q.png?scale-down-to=2048&width=3240&height=600",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"600\" src=\"https://framerusercontent.com/images/G6UMVQU42JHsh1HXW4MVwJ8qp0Q.png?scale-down-to=2048&amp;width=3240&amp;height=600\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-positi",
+      "content_type": "image/webp",
+      "bytes": 12596,
+      "sha256": "28b3a7e9c71ba29f52af72e4999597d748cb66e61133440313681671b47fa685",
+      "source_sha256": "7bd2edda5bbaed961cbb373136c08bba12b5bf19cc04309fae3446a24821404b",
+      "dhash": "88829ce9e8d8fae4",
+      "width": 2048,
+      "height": 379,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-004.webp",
+      "source_url": "https://framerusercontent.com/images/ghxf7CWHuYeExHpmSlFcuyjZwUU.png?width=1499&height=1258",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1258\" src=\"https://framerusercontent.com/images/ghxf7CWHuYeExHpmSlFcuyjZwUU.png?width=1499&amp;height=1258\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 82702,
+      "sha256": "1b576a4b6c3cd5fdb3def3f1beeabaec73fc88ed40d2b0c2b0830bb529e8a537",
+      "source_sha256": "673f76d90c7decae148476cd5e8c226cbaa7636b9ea9a1f902de2017257fae98",
+      "dhash": "01046c4a5a34d818",
+      "width": 1499,
+      "height": 1258,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/tadabusiness"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-005.webp",
+      "source_url": "https://framerusercontent.com/images/Q83sepgcJnCveJbXIePDRstK70.png?width=955&height=964",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"964\" src=\"https://framerusercontent.com/images/Q83sepgcJnCveJbXIePDRstK70.png?width=955&amp;height=964\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 80866,
+      "sha256": "09a98f183bff68d03da10dc368af111e33402648e4adbb664e3d068a850ad839",
+      "source_sha256": "8ec15bb6786e979ece35e7c53747c2cf6db7511062e1f6ad3b2c4fe037b3fb2e",
+      "dhash": "36242c588ceabe9c",
+      "width": 955,
+      "height": 964,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/events/parent-taxi-2026-external"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-013.webp",
+      "source_url": "https://framerusercontent.com/images/WWwQBrk8hmEvT4qWm0JzsVHVwo.png?width=1560&height=680",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"680\" src=\"https://framerusercontent.com/images/WWwQBrk8hmEvT4qWm0JzsVHVwo.png?width=1560&amp;height=680\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 20618,
+      "sha256": "6d4cbc34dc4fb0da941db48a198f36acd2fb1ec1720e0a5d271360d8afdffbcc",
+      "source_sha256": "7c814a8bc66e1cf2e45d004177848be98152e115dbf008f6597c1d0a9f48d899",
+      "dhash": "1229595931722410",
+      "width": 1560,
+      "height": 680,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-014.webp",
+      "source_url": "https://framerusercontent.com/images/a7W7IcArE3n3WhDAYnTlkYxYRM.png?width=1560&height=680",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"680\" src=\"https://framerusercontent.com/images/a7W7IcArE3n3WhDAYnTlkYxYRM.png?width=1560&amp;height=680\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 31232,
+      "sha256": "691ecf196b1e098d400b09edaa7e30e7d1be5d72c7d79e3fcd0bc3b0a7bb4dfc",
+      "source_sha256": "1083603f91673b887c931a39196a55b0307b1b42ff7469c738fa9bba0bee268a",
+      "dhash": "10034958b0394936",
+      "width": 1560,
+      "height": 680,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-006.webp",
+      "source_url": "https://framerusercontent.com/images/66wxKVxo7Eu7gcQZh2pbRAUJSg.png?width=955&height=964",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"964\" src=\"https://framerusercontent.com/images/66wxKVxo7Eu7gcQZh2pbRAUJSg.png?width=955&amp;height=964\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 65110,
+      "sha256": "e447b58192ddeb2ec37ae346ae9decb64f6056d7f40a401abb959022c6289c17",
+      "source_sha256": "5570607820ae9a4e8dadb16ce38fbd5f601e61a55cf7589aa67531fbe1d56d04",
+      "dhash": "66603153198eb093",
+      "width": 955,
+      "height": 964,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/events/parent-taxi-2026-external"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-015.webp",
+      "source_url": "https://framerusercontent.com/images/ctCzWJJClQQZvBP8J8I6CkMgsU.png?width=3240&height=600",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"600\" src=\"https://framerusercontent.com/images/ctCzWJJClQQZvBP8J8I6CkMgsU.png?width=3240&amp;height=600\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 20996,
+      "sha256": "755fe53ebe061e63d9c13dbba551c9460168cd737fa5564f01d3690b91b3860f",
+      "source_sha256": "9c0955fee0050efec23f5855bf2f0a6ddbb9ef728a41c6b7b8af2ffe04af68c3",
+      "dhash": "928989e9e909c90f",
+      "width": 2200,
+      "height": 407,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/tada/banner-016.webp",
+      "source_url": "https://framerusercontent.com/images/Cfb0P340JiQ5yZslqYBVPrRLA3s.png?scale-down-to=2048&width=3240&height=600",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"600\" src=\"https://framerusercontent.com/images/Cfb0P340JiQ5yZslqYBVPrRLA3s.png?scale-down-to=2048&amp;width=3240&amp;height=600\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-positi",
+      "content_type": "image/webp",
+      "bytes": 19308,
+      "sha256": "29e95686542a58b665f6c33ca118fa898ce3768ff3c86e262c703bce374641c5",
+      "source_sha256": "1c52475b989fb37df475ad073641344c064a24ba17aafc6c28db31e8eda7c137",
+      "dhash": "898189e969d9e367",
+      "width": 2048,
+      "height": 379,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-007.webp",
+      "source_url": "https://framerusercontent.com/images/uNKrNoaZjYuTRSjQTbtoAjee4rE.png?width=955&height=964",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"964\" src=\"https://framerusercontent.com/images/uNKrNoaZjYuTRSjQTbtoAjee4rE.png?width=955&amp;height=964\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 77384,
+      "sha256": "0d99970fdef619429b7ce98e94e61b376d91a45af7a5044f604567bad04a42a0",
+      "source_sha256": "ed0b0467acbab45412f6036e687114c0fd7a3567b94430a870e568c6216b05de",
+      "dhash": "628e469f9bac8aa4",
+      "width": 955,
+      "height": 964,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/events/parent-taxi-2026-external"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-008.webp",
+      "source_url": "https://framerusercontent.com/images/q3pxthiwyNWb3CIN2ZEI03qYz3M.png?width=1560&height=680",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"680\" src=\"https://framerusercontent.com/images/q3pxthiwyNWb3CIN2ZEI03qYz3M.png?width=1560&amp;height=680\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 27898,
+      "sha256": "b0beb59e0ef9b069e68a175e4d7c51707c26bee434de4be6fadd51766d565966",
+      "source_sha256": "e66525f5d78103624e8d603627e6566b9d333d0b71cd65d4c33fd12db09da808",
+      "dhash": "010e0eecec2e060e",
+      "width": 1560,
+      "height": 680,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-009.webp",
+      "source_url": "https://framerusercontent.com/images/XK7LbDXoQHuJlgLiAyKqhmRg.png?width=1560&height=680",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"680\" src=\"https://framerusercontent.com/images/XK7LbDXoQHuJlgLiAyKqhmRg.png?width=1560&amp;height=680\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 16980,
+      "sha256": "11fd9ae55fef24d3a890b28419de3d5e7b35e12be3b2cf818816ada7ebba1f24",
+      "source_sha256": "e8bf2b3fb58f33c264bfe3a32081c40fc6cf625c128e9f7de704365880dabcaa",
+      "dhash": "001c32fcd8587a66",
+      "width": 1560,
+      "height": 680,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-010.webp",
+      "source_url": "https://framerusercontent.com/images/GlOEyT3CtQxYug9nbkDzYmQe4Hg.png?width=1560&height=680",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"680\" src=\"https://framerusercontent.com/images/GlOEyT3CtQxYug9nbkDzYmQe4Hg.png?width=1560&amp;height=680\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 26772,
+      "sha256": "3e4b7b161c1405d7c848ab92c85e2f3d39343744999a07ba115940308b27df10",
+      "source_sha256": "2fece7c262d89d9e0e1caacda96b2f7fe7f5f27685a490a3c4a27ce3d3503e8a",
+      "dhash": "008094ccdc162716",
+      "width": 1560,
+      "height": 680,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-011.webp",
+      "source_url": "https://framerusercontent.com/images/nAI4w3CYeZkgcu6mpwcaTa06DM8.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"669\" src=\"https://framerusercontent.com/images/nAI4w3CYeZkgcu6mpwcaTa06DM8.png\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 19220,
+      "sha256": "daae78b22709c7be725c0a547508eea0f69e6fea8ac00de2bc6489b7f8f29d47",
+      "source_sha256": "1a2d7b9c43ed1c9da60c12b04cad8753f4c442970b04eb7eb82a26e5cec3730e",
+      "dhash": "f8e0441b2b2b2b0b",
+      "width": 1200,
+      "height": 669,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-012.webp",
+      "source_url": "https://framerusercontent.com/images/A8ZRQITS3GcZjJxK0VBKMjiUX6M.jpg?width=5301&height=7952",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"7952\" loading=\"lazy\" src=\"https://framerusercontent.com/images/A8ZRQITS3GcZjJxK0VBKMjiUX6M.jpg?width=5301&amp;height=7952\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 39096,
+      "sha256": "d0bbaae25d6ed61e57d73e8bdfb905998d28fdc39a21460b1f156d75261f6c8b",
+      "source_sha256": "c96f8f671020ec9eada52d0b340c25bcbb2488b30142add19a0becbe31e9c67d",
+      "dhash": "7c74ccc3c3581090",
+      "width": 1333,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-013.webp",
+      "source_url": "https://framerusercontent.com/images/16uKjRbjOg1Mgi4nlrgTLoexFWY.png?width=720&height=720",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "67px, 82px), (min-width: 700px) and (max-width: 809.98px) max(67px, 82px), (min-width: 500px) and (max-width: 699.98px) max(67px, 82px), (max-width: 499.98px) max(67px, 82px)\" src=\"https://framerusercontent.com/images/16uKjRbjOg1Mgi4nlrgTLoexFWY.png?width=720&amp;height=720\" srcset=\"https://framerusercontent.com/images/16uKjRbjOg1Mgi4nlrgTLoexFWY.png?scale-down-to=512&amp;width=720&amp;height",
+      "content_type": "image/webp",
+      "bytes": 16502,
+      "sha256": "fdb9e3a002dd5ea5efd0758a9b4161efa9ffe32fdf9e4ffb674d7b9bb2d542c4",
+      "source_sha256": "4e2612423ca322f0b8b3785f9ea573423688c699f032359cb861338b80a51e0c",
+      "dhash": "244a1c0f430f8630",
+      "width": 720,
+      "height": 720,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-014.webp",
+      "source_url": "https://framerusercontent.com/images/16uKjRbjOg1Mgi4nlrgTLoexFWY.png?scale-down-to=512&width=720&height=720",
+      "source_tag": "img:banner, img:image",
+      "context": "img div div framer-1wwkge6 div framer-1jvncs4 a framer-US8xZ framer-1ysypa8 framer-v-zx2l1c framer-m110p2 div framer-v2lbvk-container",
+      "content_type": "image/webp",
+      "bytes": 13062,
+      "sha256": "06f03d7157d4c7e457c5540a29a49374b1bef4a76ed5fa8b85f5c16f22aef6ae",
+      "source_sha256": "bc6a95cd1161bc5c0b991c0b00fea60bf55d043b673f7b794f22ffc12d1efe20",
+      "dhash": "244b1c0f430f8620",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-015.webp",
+      "source_url": "https://framerusercontent.com/images/16uKjRbjOg1Mgi4nlrgTLoexFWY.png?scale-down-to=512&width=720&height=720+512w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2F16uKjRbjOg1Mgi4nlrgTLoexFWY.png%3Fwidth%3D720&height=720+720w",
+      "source_tag": "img:banner, img:image",
+      "context": "img div div framer-1wwkge6 div framer-1jvncs4 a framer-US8xZ framer-1ysypa8 framer-v-zx2l1c framer-m110p2 div framer-v2lbvk-container",
+      "content_type": "image/webp",
+      "bytes": 12520,
+      "sha256": "87783e3d44f53a4ab72f46c2f77be27a7b2f04ad1ef0e103052346bf97521b9c",
+      "source_sha256": "5a4209fc8003c1ad824d3fb4f94063d8403929fa0ca85763abc316c707bf90eb",
+      "dhash": "244b1c0f430f0720",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-016.webp",
+      "source_url": "https://web-rider-external-ride-request.tadatada.com/images_build/@2x/bg_matching_tadanext_7680x4320.webp",
+      "source_tag": "source:banner, source:image",
+      "context": "source picture div __next body html [document]",
+      "content_type": "image/webp",
+      "bytes": 35496,
+      "sha256": "9e2638e84bb8143963354b1f0840aebd4881985abc0638bed18eb3774dafeb50",
+      "source_sha256": "43427209b3c8dde6b1df551fd3116640b26283d6baf87ed2b84b16877d53aac9",
+      "dhash": "1454119222b1b07e",
+      "width": 2200,
+      "height": 1238,
+      "variant": "shared",
+      "source_pages": [
+        "https://web-rider-external-ride-request.tadatada.com/main?entryPoint=tada_home_page"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-017.webp",
+      "source_url": "https://framerusercontent.com/images/ehKOl915HoDEV2WPbb1XayUFd28.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"527\" src=\"https://framerusercontent.com/images/ehKOl915HoDEV2WPbb1XayUFd28.png\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 14488,
+      "sha256": "144a418a83898a7c90152547f8d304242822648c7aaa71a912dd6894a7ea7eaf",
+      "source_sha256": "65c9fb57749ba1e15f059168216392bd79a4c32db75daed42db51a270ebda350",
+      "dhash": "1f1f004f43434705",
+      "width": 1024,
+      "height": 527,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-018.webp",
+      "source_url": "https://framerusercontent.com/images/azn3XYaSKnmFrgJMmaR07dIQNA.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1080\" src=\"https://framerusercontent.com/images/azn3XYaSKnmFrgJMmaR07dIQNA.png\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 35890,
+      "sha256": "b6066f84676562a7a95ebdbcf8ed96c029ae805affa6364252981e5964ea5e81",
+      "source_sha256": "d06ffc87f9876f951c029ce46ddac685fa6e7462020c9c5fc6d9944a2caa278c",
+      "dhash": "1f170c4f5343471f",
+      "width": 1920,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-019.webp",
+      "source_url": "https://framerusercontent.com/images/daivEMTdsDUAiAeH5N8zpBt493w.png",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"667\" src=\"https://framerusercontent.com/images/daivEMTdsDUAiAeH5N8zpBt493w.png\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 24286,
+      "sha256": "f666a63be00dcc591c7f2c5dd39beab4c592ed8b1d81c319735b767f8c226626",
+      "source_sha256": "cc74c070b80789d080ea3745a290bf449bcc91472ddeb9ddaae9b83a036c5f75",
+      "dhash": "3f438d8f8ba3a387",
+      "width": 1400,
+      "height": 667,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-020.webp",
+      "source_url": "https://framerusercontent.com/images/fh0ah8DTEpxfBdjSv0yN7RrGmEw.png?width=1238&height=1082",
+      "source_tag": "html-data, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1082\" src=\"https://framerusercontent.com/images/fh0ah8DTEpxfBdjSv0yN7RrGmEw.png?width=1238&amp;height=1082\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 100138,
+      "sha256": "009f3d28df3fa1eb5bf0bb855f146704ff843687291b4625495a132c86350c50",
+      "source_sha256": "a8b66db2b27a3b6b807f23f822afd84d41c90b19935e14c8cacb681c49b68da1",
+      "dhash": "8a8292d2564930b0",
+      "width": 1238,
+      "height": 1082,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/blog"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-021.webp",
+      "source_url": "https://framerusercontent.com/images/nw9RpveXsM2Llp36cQlIlTqyYp0.png",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"667\" src=\"https://framerusercontent.com/images/nw9RpveXsM2Llp36cQlIlTqyYp0.png\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 25352,
+      "sha256": "a5043be15608687bf53b38767a9cf1e00040cea2323ec13da2f79caf4705c364",
+      "source_sha256": "fdb49b544c5027ba7c2af07a9fb264959c1f774f4325f109677c7702256352d4",
+      "dhash": "1f070a4e46060626",
+      "width": 2200,
+      "height": 667,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-022.webp",
+      "source_url": "https://framerusercontent.com/images/DqSRttEL2UHdFMS4uADQAzXWxWQ.png?width=1080&height=1080",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1080\" loading=\"lazy\" src=\"https://framerusercontent.com/images/DqSRttEL2UHdFMS4uADQAzXWxWQ.png?width=1080&amp;height=1080\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 26448,
+      "sha256": "3227d373d146009c46e1f874f403f9a71d754ac6efec9e4a1ffe0dc3a0ba97fd",
+      "source_sha256": "c0ebf916c0ace86bddaa1b4411bb313b6978f1e2ca435b68da3b691575f0a51e",
+      "dhash": "aeac66e2a6e2c666",
+      "width": 1080,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/tadabusiness"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-023.webp",
+      "source_url": "https://framerusercontent.com/images/t0TmyQEnhyTIQ4RWsU6LY1XjcfU.jpg?width=6976&height=4651",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"4651\" loading=\"lazy\" src=\"https://framerusercontent.com/images/t0TmyQEnhyTIQ4RWsU6LY1XjcfU.jpg?width=6976&amp;height=4651\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 68970,
+      "sha256": "6694d978935bc2f244be1a7f51768cae5cb4ae0ce0e5a87a17a420513e4ec2ee",
+      "source_sha256": "2497710fdd65fe0d6ef8ee4449222778d795f9415ff34b4929ec73c471482421",
+      "dhash": "030709386c64ffff",
+      "width": 2200,
+      "height": 1467,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-024.webp",
+      "source_url": "https://framerusercontent.com/images/zO6ShosoPHgBzoJS168D5Zqlo.png?width=1698&height=1068",
+      "source_tag": "html-data, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1068\" src=\"https://framerusercontent.com/images/zO6ShosoPHgBzoJS168D5Zqlo.png?width=1698&amp;height=1068\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 28532,
+      "sha256": "9b9c89d70ef08887f3983c2938fdbd3c8fe9185035109c6873de16dd6f50b43f",
+      "source_sha256": "60295673871ec9355ce1ad711a339f25823db0bbdc08d7128ad1b46a40e79e18",
+      "dhash": "30033c78d4dc6996",
+      "width": 1698,
+      "height": 1068,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-025.webp",
+      "source_url": "https://framerusercontent.com/images/3uVmzRANlsel31Vf3faFy7M7k.png?width=834&height=688",
+      "source_tag": "html-data, img:image",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"688\" loading=\"lazy\" src=\"https://framerusercontent.com/images/3uVmzRANlsel31Vf3faFy7M7k.png?width=834&amp;height=688\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 22036,
+      "sha256": "b0b7ba877b405c14f908231f9cf7641a95cd519b1c88ef71a275d6d57adf2d81",
+      "source_sha256": "a630bd6e02dd1ece82c6347f8fc13daff8b41e643f69d4c32ac8a61bd5086e4e",
+      "dhash": "b2b0f0cce8dcd8e2",
+      "width": 834,
+      "height": 688,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/tadabusiness"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-026.webp",
+      "source_url": "https://framerusercontent.com/images/GlvyGYeSFxxHkLWAXwcm84kDJM.png?width=464&height=537",
+      "source_tag": "html-data, img:image",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"537\" loading=\"lazy\" src=\"https://framerusercontent.com/images/GlvyGYeSFxxHkLWAXwcm84kDJM.png?width=464&amp;height=537\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 8270,
+      "sha256": "fb8f51897c78c2b263630e7f98ab120ab4febbe2199e9ea4a1145d9a15b7554d",
+      "source_sha256": "889e2331f5a5502925d08608bfa0c4d4c1fd1443c8b21f4b8cb900f602f13516",
+      "dhash": "6802f9e9e9f07070",
+      "width": 464,
+      "height": 537,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/business-ask"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-027.webp",
+      "source_url": "https://framerusercontent.com/images/BmrMSOrl5GnyvLC9AdCZrkzyc.png?width=1376&height=1160",
+      "source_tag": "html-data, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1160\" src=\"https://framerusercontent.com/images/BmrMSOrl5GnyvLC9AdCZrkzyc.png?width=1376&amp;height=1160\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 60300,
+      "sha256": "4db89f63dde5db115074be003c6e169ab126b45c3ccd0c5a04b9253b4e42366b",
+      "source_sha256": "88236332f9ff733d6d02175c5fde8e54e926a0638a85aa53381cf9bb3a6156a1",
+      "dhash": "0547d37d371f8f9f",
+      "width": 1376,
+      "height": 1160,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/blog"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-028.webp",
+      "source_url": "https://framerusercontent.com/images/wXpxmMP2332JMjQA5uLWoKl4M.png?width=1246&height=600",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"600\" src=\"https://framerusercontent.com/images/wXpxmMP2332JMjQA5uLWoKl4M.png?width=1246&amp;height=600\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 19674,
+      "sha256": "ab0a3e3be467ac4d3475a3abf92212a2a087b24bae5b8c5fc478f008773485c9",
+      "source_sha256": "bc28c6f8d061c25f4641af2f3a71c31be000163831e9b63842b66f1613137ffd",
+      "dhash": "40987c70d4ccc822",
+      "width": 1246,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-029.webp",
+      "source_url": "https://framerusercontent.com/images/uZFyTpEKTNxtCgrkFFRrxenGBA.png?width=1080&height=1080",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1080\" loading=\"lazy\" src=\"https://framerusercontent.com/images/uZFyTpEKTNxtCgrkFFRrxenGBA.png?width=1080&amp;height=1080\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 30190,
+      "sha256": "2577f9ef34e02f43788571c54fae45d9f99382d67fb2af8b7604818666e1953b",
+      "source_sha256": "c182e9fbba8013c821d5addd2563c47da9675ab88b00073c78a6dfc930be87c3",
+      "dhash": "8387c7b3b955ebf3",
+      "width": 1080,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/tadabusiness"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-030.webp",
+      "source_url": "https://framerusercontent.com/images/cjYOB4FNxE6ejrukLq5ItDkE4.png?width=3000&height=2668",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "lazy\" sizes=\"(min-width: 1920px) 100vw, (min-width: 1400px) and (max-width: 1919.98px) 100vw, (max-width: 809.98px) 100vw, (min-width: 810px) and (max-width: 1399.98px) 100vw\" src=\"https://framerusercontent.com/images/cjYOB4FNxE6ejrukLq5ItDkE4.png?width=3000&amp;height=2668\" srcset=\"https://framerusercontent.com/images/cjYOB4FNxE6ejrukLq5ItDkE4.png?scale-down-to=512&amp;width=3000&amp;height=",
+      "content_type": "image/webp",
+      "bytes": 32226,
+      "sha256": "cadf11472fd92ba44ce1fff5ff993b134b54e0ef619c83fd050c859040d37a7e",
+      "source_sha256": "885060eeba780cc1a745dfe6a1a078579bab67c158896a2ac4b7b3b28c02c680",
+      "dhash": "401761696d124400",
+      "width": 2200,
+      "height": 1957,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-031.webp",
+      "source_url": "https://framerusercontent.com/images/UKGXclqVVAplIgINVlpCMgDaPo.png?width=1423&height=600",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"600\" src=\"https://framerusercontent.com/images/UKGXclqVVAplIgINVlpCMgDaPo.png?width=1423&amp;height=600\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 19820,
+      "sha256": "505a24bc9fab8e6be5947332c630c3775550aa18050b5efc73e8207f3c79943b",
+      "source_sha256": "4b432ffffb8ac8fa9fa3c29f680658b07578883ea8c984b5808643d8a219dd98",
+      "dhash": "40187870d4cd6916",
+      "width": 1423,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-032.webp",
+      "source_url": "https://framerusercontent.com/images/c4WTFXcIj3C0AAtqsFC6JWsuI.png?width=1920&height=1080",
+      "source_tag": "html-data, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1080\" src=\"https://framerusercontent.com/images/c4WTFXcIj3C0AAtqsFC6JWsuI.png?width=1920&amp;height=1080\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 22826,
+      "sha256": "668be1948ef9dad88d8d0c9db3ec4dded6cbeba847c71bed254ca81f67230e15",
+      "source_sha256": "c305824a0436eb78eeedeb83b06a876174abcd0a70f027236910d184ec342173",
+      "dhash": "65a233536a34341a",
+      "width": 1920,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/tadabusiness"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-033.webp",
+      "source_url": "https://framerusercontent.com/images/2MzNqj4XW8FRJDT4DPQfqlbN4Q.png?width=1328&height=1036",
+      "source_tag": "html-data, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1036\" src=\"https://framerusercontent.com/images/2MzNqj4XW8FRJDT4DPQfqlbN4Q.png?width=1328&amp;height=1036\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 38008,
+      "sha256": "b43a44137086974866a6f4f7a0883ccfe4d512dbab48c66bc2ac779af54db97a",
+      "source_sha256": "f477a1581dc57e6ac2a66af2e593fee55fd733e24d9dbea9f4ee0b74e4bd93ad",
+      "dhash": "46680974d4083020",
+      "width": 1328,
+      "height": 1036,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/blog"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-034.webp",
+      "source_url": "https://framerusercontent.com/images/XxvbdEXMGgudKJ1RMV9SNGGFb4.png?width=2078&height=1060",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1060\" loading=\"lazy\" src=\"https://framerusercontent.com/images/XxvbdEXMGgudKJ1RMV9SNGGFb4.png?width=2078&amp;height=1060\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 38966,
+      "sha256": "dd1ade28cd0dff02f96c67afc83e5770aa98ea54f705cf48b977d432acbc926b",
+      "source_sha256": "28c2e4131b7d2662fb4c0729df2e033c45c0cca5c5f128c664b6520c335c44e4",
+      "dhash": "30c030fcc4d8c936",
+      "width": 2078,
+      "height": 1060,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-035.webp",
+      "source_url": "https://framerusercontent.com/images/EZzjoxEIaZohuh770LZJYejuyI.png?width=880&height=1080",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1080\" loading=\"lazy\" src=\"https://framerusercontent.com/images/EZzjoxEIaZohuh770LZJYejuyI.png?width=880&amp;height=1080\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 29644,
+      "sha256": "0743e1fbab0a98ea7affcb7b589416ad53f33c5fbfd2d4529e3c14a99275c1c8",
+      "source_sha256": "e7699618e26a91ab9c9d8f42d97c005d8acda71bf787f4320fe349eb9cdc92a8",
+      "dhash": "181d062e2643030e",
+      "width": 880,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/tadabusiness"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-036.webp",
+      "source_url": "https://framerusercontent.com/images/Lc508Vao0EwJt4UT3FFsp8717SY.jpg?width=5792&height=8688",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"8688\" loading=\"lazy\" src=\"https://framerusercontent.com/images/Lc508Vao0EwJt4UT3FFsp8717SY.jpg?width=5792&amp;height=8688\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 49128,
+      "sha256": "7b1ab3dd226860a9d7ceb9c2ea577d112b8c996cce21786d92d3eb68ddd22d37",
+      "source_sha256": "796bb7017291e0cdabe88341bb8da0b7c03b845dbd7bd50c2dbec855332e500c",
+      "dhash": "003000c49e98c03b",
+      "width": 1333,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-037.webp",
+      "source_url": "https://framerusercontent.com/images/CpPYrR4YsR4I4x3lE2PZWIE.png?width=2136&height=900",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"900\" src=\"https://framerusercontent.com/images/CpPYrR4YsR4I4x3lE2PZWIE.png?width=2136&amp;height=900\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 33104,
+      "sha256": "7650368488b096d9f15a3884ecfb4adefcad7f32bdc89be2649b064eea9f8633",
+      "source_sha256": "1a8ec31aa27b6932fe51b8df375079496fbebf9fffc5a5f0cc8cadd8cba83f38",
+      "dhash": "3040b87870d4ccc9",
+      "width": 2136,
+      "height": 900,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-038.webp",
+      "source_url": "https://framerusercontent.com/images/iUZ4fhaWUuG6NcKlYb6qrC0hnFM.png?width=849&height=534",
+      "source_tag": "html-data, img:image",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"534\" loading=\"lazy\" src=\"https://framerusercontent.com/images/iUZ4fhaWUuG6NcKlYb6qrC0hnFM.png?width=849&amp;height=534\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 16360,
+      "sha256": "a37ab89b1555a4d3a1302cdd909d3e56bf068571752264f2df518bcbd51c499c",
+      "source_sha256": "b6a34dfa6cc8b4289bff6543104226d3f94610610b8685f77eb325e11d385fa5",
+      "dhash": "248074ec88dccd22",
+      "width": 849,
+      "height": 534,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-039.webp",
+      "source_url": "https://framerusercontent.com/images/NBsZhy4CFn9OrWmvVBR3BptOZwU.png?width=2136&height=900",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"900\" src=\"https://framerusercontent.com/images/NBsZhy4CFn9OrWmvVBR3BptOZwU.png?width=2136&amp;height=900\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 35838,
+      "sha256": "1c05a66b75edafffe5527570e38685983ad885d16667ebc6998d8293291753c7",
+      "source_sha256": "940cdfef3b72a5c4eb915915474b9c21415a6a7842108e703d270d2e79ccddc4",
+      "dhash": "3840b87c60cccce9",
+      "width": 2136,
+      "height": 900,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-040.webp",
+      "source_url": "https://framerusercontent.com/images/FKLoU5b432qy1YrD3BooTIZLPY.png?width=2078&height=1060",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1060\" loading=\"lazy\" src=\"https://framerusercontent.com/images/FKLoU5b432qy1YrD3BooTIZLPY.png?width=2078&amp;height=1060\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 40374,
+      "sha256": "5accc7c0bbe0f2a63daa6ecbb4f665b21ce746b2ec7d4a94fa120227fa1b5278",
+      "source_sha256": "ba5f3fd8c678343faca09f9f1523653069a31d05b9833e75e67f125d998cc5e9",
+      "dhash": "304039f8ccc8c807",
+      "width": 2078,
+      "height": 1060,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-041.webp",
+      "source_url": "https://framerusercontent.com/images/SWXafiV7lw2IGwWJmvsp2L1zXE.png?width=800&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" src=\"https://framerusercontent.com/images/SWXafiV7lw2IGwWJmvsp2L1zXE.png?width=800&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 15236,
+      "sha256": "89ab07b98814d49574f8daed55e8fd81d9ece81cbeb9c738d36d7c0137fc9444",
+      "source_sha256": "effc0bae83b3a338ef46909d68f547d8e12459c3e0e39a5f136f08845226cefe",
+      "dhash": "7068686969686868",
+      "width": 800,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-042.webp",
+      "source_url": "https://framerusercontent.com/images/SVYuBlF6tRQ0Dz7jrGIa1EWRQ.png?width=2136&height=900",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"900\" src=\"https://framerusercontent.com/images/SVYuBlF6tRQ0Dz7jrGIa1EWRQ.png?width=2136&amp;height=900\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 42188,
+      "sha256": "0f14b1bf0a6b17a33d7508772203c11d047a5c3e099a520baf3d8f472d2b6d0b",
+      "source_sha256": "c2926327a1c66496bf3e8bcb370f518f4d19c836383c2384728073b425e8275c",
+      "dhash": "3040b87878ccccc9",
+      "width": 2136,
+      "height": 900,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-043.webp",
+      "source_url": "https://framerusercontent.com/images/k235vzqYHDDL9ykqg6OVjGHgbA.png?width=849&height=534",
+      "source_tag": "html-data, img:image",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"534\" loading=\"lazy\" src=\"https://framerusercontent.com/images/k235vzqYHDDL9ykqg6OVjGHgbA.png?width=849&amp;height=534\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 18480,
+      "sha256": "fb9aefcbe304fd379a6f218f461ee3a1b526285e2809e2ea3e7561d927db36d3",
+      "source_sha256": "ca7eaf6e528bbe31e48fbf737ba88d1ed01ec1c485b33b66f5f808e4ebb8a031",
+      "dhash": "24c030ecccccd403",
+      "width": 849,
+      "height": 534,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-044.webp",
+      "source_url": "https://framerusercontent.com/images/FhXrItOME7BMkaRmHlaDqemrhvI.png?scale-down-to=1024&width=2400&height=1252",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1252\" loading=\"lazy\" src=\"https://framerusercontent.com/images/FhXrItOME7BMkaRmHlaDqemrhvI.png?scale-down-to=1024&amp;width=2400&amp;height=1252\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-posit",
+      "content_type": "image/webp",
+      "bytes": 12266,
+      "sha256": "4a0f1bd6520b0a683c724b1a9f6d174511d6408a9ade2e5824767d431ad5eda5",
+      "source_sha256": "2c4b7b4d0c8e214f4779582bb7d28062a1689088ef9982251c23ac6fb993720e",
+      "dhash": "5a4d169e8f9e9e0c",
+      "width": 1024,
+      "height": 534,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz",
+        "https://www.tadatada.com/ad-biz/product-experience-1",
+        "https://www.tadatada.com/ad-biz/product-experience-2",
+        "https://www.tadatada.com/ad-biz/product-experience-3",
+        "https://www.tadatada.com/ad-biz/ride-event-2",
+        "https://www.tadatada.com/ad-biz/ride-event-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-045.webp",
+      "source_url": "https://framerusercontent.com/images/rQanUJcYVH82YH0NfLPZYXnDKGw.png?width=965&height=777",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"777\" src=\"https://framerusercontent.com/images/rQanUJcYVH82YH0NfLPZYXnDKGw.png?width=965&amp;height=777\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 19996,
+      "sha256": "5b6b9ba1c271946be768169567e8b897c1bb5c7ac9ca8f38923730a9b28d7c97",
+      "source_sha256": "52eb71edf2ddfd575b64565d560c14729779e2354da6692a6f68d547fd685854",
+      "dhash": "38c038fccccc00c0",
+      "width": 965,
+      "height": 777,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-046.webp",
+      "source_url": "https://framerusercontent.com/images/vjO66Ep6Yo70crJcfgrSSUJQyA.png?width=1388&height=1360",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1360\" loading=\"lazy\" src=\"https://framerusercontent.com/images/vjO66Ep6Yo70crJcfgrSSUJQyA.png?width=1388&amp;height=1360\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 54568,
+      "sha256": "596296b92506136663550a8b80d469979d73a25596ae238c45c7a13b66ec9aea",
+      "source_sha256": "959eea15e790a830e14f932f7132de5021d79a43fef4845f4fe2d2fb19bc6736",
+      "dhash": "49393de9697d390f",
+      "width": 1388,
+      "height": 1360,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-047.webp",
+      "source_url": "https://framerusercontent.com/images/gaxwoDyyOh1mq0YBrAwMDU7k.png?width=1600&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/gaxwoDyyOh1mq0YBrAwMDU7k.png?width=1600&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 45170,
+      "sha256": "60f5705a95a43c0d1f14ee76a312af650cfd57a538a2216aeb83a96fc4d3bc64",
+      "source_sha256": "6c1559a0d3703c5b6bda2781dd665c38de6a4fc49ecb40a57db465f6677100ee",
+      "dhash": "6209fc789a94d400",
+      "width": 1600,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-048.webp",
+      "source_url": "https://framerusercontent.com/images/9XQlzqjoaFZGc4t21R1UmCUzc.png?width=5200&height=1898",
+      "source_tag": "html-data, img:image",
+      "context": "lazy\" sizes=\"(min-width: 1920px) 587px, (min-width: 1400px) and (max-width: 1919.98px) 587px, (min-width: 810px) and (max-width: 1399.98px) 587px, (max-width: 809.98px) 253px\" src=\"https://framerusercontent.com/images/9XQlzqjoaFZGc4t21R1UmCUzc.png?width=5200&amp;height=1898\" srcset=\"https://framerusercontent.com/images/9XQlzqjoaFZGc4t21R1UmCUzc.png?scale-down-to=512&amp;width=5200&amp;height=",
+      "content_type": "image/webp",
+      "bytes": 47816,
+      "sha256": "3e366f0a7062dc169d63b19ca098d100b94e86a2a7b08a96871d9f3cfef1a725",
+      "source_sha256": "452fe86049380708ba6d6270c469b90dbd8119dc35965aac6e1bc67f57305726",
+      "dhash": "035b490a554d6d2c",
+      "width": 2200,
+      "height": 803,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-049.webp",
+      "source_url": "https://framerusercontent.com/images/8BI6Ul7790viqgjCFjrPxm2ODA.png?width=640&height=350",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"350\" src=\"https://framerusercontent.com/images/8BI6Ul7790viqgjCFjrPxm2ODA.png?width=640&amp;height=350\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 6202,
+      "sha256": "e674b9fca6b35493ea0d1f03c40ff7f1eec5d6da58216f0d24d414565b67aa52",
+      "source_sha256": "0150cd01ca41655be7656623d3052d05fa3950ae7053801716d5737c183b932b",
+      "dhash": "7068686878687068",
+      "width": 640,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-050.webp",
+      "source_url": "https://framerusercontent.com/images/xU73Ypv9RNyk2V0njiErXKhJv04.png?width=849&height=534",
+      "source_tag": "html-data, img:image",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"534\" loading=\"lazy\" src=\"https://framerusercontent.com/images/xU73Ypv9RNyk2V0njiErXKhJv04.png?width=849&amp;height=534\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 20896,
+      "sha256": "2c22e58521f1b9e82707045ed52cd2561e34405a43024b6c2cd024e68021f33b",
+      "source_sha256": "a2088a9d66e6c80dd82f239067bd0fdcd4a4db4895bbcce9fd566c0f7b36abbb",
+      "dhash": "0639b96969b9b91b",
+      "width": 849,
+      "height": 534,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-051.webp",
+      "source_url": "https://framerusercontent.com/images/jHoOVH24dLTAAHJSRW4edIKQ3NM.png?width=1600&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/jHoOVH24dLTAAHJSRW4edIKQ3NM.png?width=1600&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 24360,
+      "sha256": "e1334997f32f5568f8b81de487c25ccc445d316b0bceb28529d8073f2d6ec8a3",
+      "source_sha256": "2a4d4c6e24e1097de6405c56062f885ccdfd8d87e92562f28c703d0ba8e32718",
+      "dhash": "00b2716969717100",
+      "width": 1600,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-052.webp",
+      "source_url": "https://framerusercontent.com/images/RKz3YzrsCXKlMeYZgkLkwo96Ak.png?width=2400&height=2400",
+      "source_tag": "html-data, img:image",
+      "context": " sizes=\"(min-width: 1920px) 470px, (min-width: 1400px) and (max-width: 1919.98px) 470px, (min-width: 810px) and (max-width: 1399.98px) 470px, (max-width: 809.98px) 237.3444px\" src=\"https://framerusercontent.com/images/RKz3YzrsCXKlMeYZgkLkwo96Ak.png?width=2400&amp;height=2400\" srcset=\"https://framerusercontent.com/images/RKz3YzrsCXKlMeYZgkLkwo96Ak.png?scale-down-to=512&amp;width=2400&amp;height",
+      "content_type": "image/webp",
+      "bytes": 51756,
+      "sha256": "ae6bea4984d2d086b5f9f095c64a066f8c51ea5133ef927e76e0d8da74b7ba30",
+      "source_sha256": "04c51bd71833b437a5f900186fa0853f37a47da3202a3cb9e5e9225d275ea753",
+      "dhash": "200d4e4f49410b40",
+      "width": 2000,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-053.webp",
+      "source_url": "https://framerusercontent.com/images/RKz3YzrsCXKlMeYZgkLkwo96Ak.png?scale-down-to=512&width=2400&height=2400+512w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2FRKz3YzrsCXKlMeYZgkLkwo96Ak.png%3Fscale-down-to%3D1024&width=2400&height=2400+1024w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2FRKz3YzrsCXKlMeYZgkLkwo96Ak.png%3Fscale-down-to%3D2048&width=2400&height=2400+2048w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2FRKz3YzrsCXKlMeYZgkLkwo96Ak.png%3Fwidth%3D2400&height=2400+2400w",
+      "source_tag": "img:image",
+      "context": "img div div framer-1pmpoco div ssr-variant div framer-x9e8ot div framer-1k7er07",
+      "content_type": "image/webp",
+      "bytes": 11666,
+      "sha256": "d427b89b18a008946d69ed4fbe0e7f1423048f3da873f857539a371c5f2a0b72",
+      "source_sha256": "ca94dc289ee247395b55d35a4e5d3c52a838e5dc45d9445cb9be746d1d613b72",
+      "dhash": "200f4e4741430b00",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-054.webp",
+      "source_url": "https://framerusercontent.com/images/3W2VwFJsT8GT2HiXbaOIOrsliLo.png?width=1280&height=700",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"700\" src=\"https://framerusercontent.com/images/3W2VwFJsT8GT2HiXbaOIOrsliLo.png?width=1280&amp;height=700\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 28586,
+      "sha256": "ca22a3fe96563a6f2b4c54103665f9b3b12c9c4f71b395cb6d8464aff7612905",
+      "source_sha256": "3202b4a219a00a2273b49dd2e74899bee604b465f91c71fe28c62275a160bb46",
+      "dhash": "7068686868686868",
+      "width": 1280,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-055.webp",
+      "source_url": "https://framerusercontent.com/images/zPY4heagzeDNp3alPfuTzItSY.png?scale-down-to=1024&width=1388&height=1360",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1360\" loading=\"lazy\" src=\"https://framerusercontent.com/images/zPY4heagzeDNp3alPfuTzItSY.png?scale-down-to=1024&amp;width=1388&amp;height=1360\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-positio",
+      "content_type": "image/webp",
+      "bytes": 27950,
+      "sha256": "b3132930e36926c8dd8216df1ad692fd0528145a0e9996c7543303a8d78aefe6",
+      "source_sha256": "3bded01018aa130aa256b68a59bcf0614c0fe4856f863adb09b91198728c4bf6",
+      "dhash": "44997cf094698420",
+      "width": 1024,
+      "height": 1003,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-056.webp",
+      "source_url": "https://framerusercontent.com/images/E69OUpiy17mrhlHA7obrK94waw4.png?width=1600&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/E69OUpiy17mrhlHA7obrK94waw4.png?width=1600&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 70908,
+      "sha256": "409b277c2b4972d31589e3b3bf86f9b343207ebdf3645d5a159ec2d37655aa65",
+      "source_sha256": "a941e5c063259990511e71d7f7d3a83411b847f89cf4c558ddffc38d45d8eaa2",
+      "dhash": "7068686160607070",
+      "width": 1600,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-057.webp",
+      "source_url": "https://framerusercontent.com/images/73DJGe3ztIoaV7iOqAoqoRa1OKY.png?width=2400&height=1763",
+      "source_tag": "html-data, img:image",
+      "context": "lazy\" sizes=\"(min-width: 1920px) 415px, (min-width: 1400px) and (max-width: 1919.98px) 415px, (min-width: 810px) and (max-width: 1399.98px) 415px, (max-width: 809.98px) 182px\" src=\"https://framerusercontent.com/images/73DJGe3ztIoaV7iOqAoqoRa1OKY.png?width=2400&amp;height=1763\" srcset=\"https://framerusercontent.com/images/73DJGe3ztIoaV7iOqAoqoRa1OKY.png?scale-down-to=512&amp;width=2400&amp;heigh",
+      "content_type": "image/webp",
+      "bytes": 63698,
+      "sha256": "26284abf210ca319f7c13d7503ed8524c5d2425169837497998b2f46689b6377",
+      "source_sha256": "f1ec5cccda1bd028d64ec72c95e1dc271ecba3b3a46d20f93fa4d87bd4b2d081",
+      "dhash": "4a1a1d1a473d0f44",
+      "width": 2200,
+      "height": 1616,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-058.webp",
+      "source_url": "https://framerusercontent.com/images/73DJGe3ztIoaV7iOqAoqoRa1OKY.png?scale-down-to=512&width=2400&height=1763+512w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2F73DJGe3ztIoaV7iOqAoqoRa1OKY.png%3Fscale-down-to%3D1024&width=2400&height=1763+1024w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2F73DJGe3ztIoaV7iOqAoqoRa1OKY.png%3Fscale-down-to%3D2048&width=2400&height=1763+2048w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2F73DJGe3ztIoaV7iOqAoqoRa1OKY.png%3Fwidth%3D2400&height=1763+2400w",
+      "source_tag": "img:image",
+      "context": "img div div framer-1753mu1 div ssr-variant div framer-zdhh6x div framer-1k7er07",
+      "content_type": "image/webp",
+      "bytes": 11634,
+      "sha256": "33fd959afb2ff225fc45ea26717367cdc4d6102b2f0591cf87818c2be4c95913",
+      "source_sha256": "7f83960fdbe049bd9fe24b410fe8f9e676327ade0cb20077c74cf0edca6eb284",
+      "dhash": "4a9a1c3bc73d0b44",
+      "width": 512,
+      "height": 376,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-059.webp",
+      "source_url": "https://framerusercontent.com/images/WPIfZBDjxzFJFhY7M08wyT95rs.png",
+      "source_tag": "html-data",
+      "context": "s-color-scheme: light)\" rel=\"icon\"/>\n<link href=\"https://framerusercontent.com/images/mvX62yJu1mFp0UZp6nyzoG6kDOg.png\" media=\"(prefers-color-scheme: dark)\" rel=\"icon\"/>\n<link href=\"https://framerusercontent.com/images/WPIfZBDjxzFJFhY7M08wyT95rs.png\" rel=\"apple-touch-icon\"/>\n<!-- Open Graph -->\n<meta content=\"website\" property=\"og:type\"/>\n<meta content=\"타다(TADA) | HOM",
+      "content_type": "image/webp",
+      "bytes": 9774,
+      "sha256": "e322ff928cfbbf8b1a192380cdae7bbe5b70cb0c915a80622eb9ef1ec23a58bc",
+      "source_sha256": "2c40657c075f7400b841e581acc27f50ffc3db051b123e637d2c21ce450211ba",
+      "dhash": "3f7f363535a65f0f",
+      "width": 1036,
+      "height": 1036,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/",
+        "https://www.tadatada.com/ad-biz",
+        "https://www.tadatada.com/ad-biz/product-experience-1",
+        "https://www.tadatada.com/ad-biz/product-experience-2",
+        "https://www.tadatada.com/ad-biz/product-experience-3",
+        "https://www.tadatada.com/ad-biz/ride-event-1",
+        "https://www.tadatada.com/ad-biz/ride-event-2",
+        "https://www.tadatada.com/ad-biz/ride-event-3",
+        "https://www.tadatada.com/blog",
+        "https://www.tadatada.com/business-ask",
+        "https://www.tadatada.com/drivers/intro",
+        "https://www.tadatada.com/events/parent-taxi-2026-external",
+        "https://www.tadatada.com/tadabusiness"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-060.webp",
+      "source_url": "https://framerusercontent.com/images/JRioWc5Hr2MkGvmStZiJYpQyUa8.png?width=2136&height=900",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"900\" src=\"https://framerusercontent.com/images/JRioWc5Hr2MkGvmStZiJYpQyUa8.png?width=2136&amp;height=900\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 32514,
+      "sha256": "ab1a291c8cf6ccd85a8cee551b619e140f2db3cf326841f1fd251b8dcac4960c",
+      "source_sha256": "fce60132f5b4547f8d37b66a1dcf5f90ece1395ed8c045ed8883ba5f69603f2a",
+      "dhash": "3040b87860d4cce9",
+      "width": 2136,
+      "height": 900,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-061.webp",
+      "source_url": "https://framerusercontent.com/images/Qb2oIF08Zz4GCDirgnFi5GhDPU.png?width=849&height=534",
+      "source_tag": "html-data, img:image",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"534\" loading=\"lazy\" src=\"https://framerusercontent.com/images/Qb2oIF08Zz4GCDirgnFi5GhDPU.png?width=849&amp;height=534\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 18210,
+      "sha256": "326e6b9d132705fe0574af4e9532a3ae81625891bd862cd3cfc854adadfc07e3",
+      "source_sha256": "032a55341fe9a21df9f5686b69c84362fe1aa15c6f5f3463705b1a8eecfe7114",
+      "dhash": "00037c70d4dc6b94",
+      "width": 849,
+      "height": 534,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-062.webp",
+      "source_url": "https://framerusercontent.com/images/ySZqefGgBx3F1AwqHsla5XIE.png?width=2560&height=1400",
+      "source_tag": "html-data, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1400\" src=\"https://framerusercontent.com/images/ySZqefGgBx3F1AwqHsla5XIE.png?width=2560&amp;height=1400\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 58936,
+      "sha256": "81fae2e99a54513abdf8ec4c38ead8fbb6eb48bb5e7de00c2a0989acb2ddaef7",
+      "source_sha256": "4dbdafd4fa80fa92507300b44455864398e42cdaafa984689342d5651676bab9",
+      "dhash": "60187c78dccc1482",
+      "width": 2200,
+      "height": 1203,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-063.webp",
+      "source_url": "https://framerusercontent.com/images/OdD68lG9P86D1lramEoBYvads.png?width=2400&height=2400",
+      "source_tag": "html-data, img:image",
+      "context": " sizes=\"(min-width: 1920px) 357px, (min-width: 1400px) and (max-width: 1919.98px) 357px, (min-width: 810px) and (max-width: 1399.98px) 357px, (max-width: 809.98px) 237.3444px\" src=\"https://framerusercontent.com/images/OdD68lG9P86D1lramEoBYvads.png?width=2400&amp;height=2400\" srcset=\"https://framerusercontent.com/images/OdD68lG9P86D1lramEoBYvads.png?scale-down-to=512&amp;width=2400&amp;height=",
+      "content_type": "image/webp",
+      "bytes": 46754,
+      "sha256": "b051cfc1720fcc10524f61d96cdd400c90df53713dd6fa42fe4d90a40a350be5",
+      "source_sha256": "0bfeb6cb60ab6d2296e119db073c39584088cfdd9650c3a7e675be923082ee92",
+      "dhash": "0003031f0b277c01",
+      "width": 2000,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-064.webp",
+      "source_url": "https://framerusercontent.com/images/gx0ebzylhFqik1UxUxlQPmQAg.png?scale-down-to=1024&width=1388&height=1360",
+      "source_tag": "html-data, img:image",
+      "context": "age-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1360\" loading=\"lazy\" src=\"https://framerusercontent.com/images/gx0ebzylhFqik1UxUxlQPmQAg.png?scale-down-to=1024&amp;width=1388&amp;height=1360\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-positio",
+      "content_type": "image/webp",
+      "bytes": 31102,
+      "sha256": "a0152bbde7b002c23fe256dcad7b1dbc5f77187fc763fc7645c6ec7d57e64994",
+      "source_sha256": "274a95997c7f6453ef0db84b4f3d1409e40d08f5fece2325cb9ea5e389e5d9b8",
+      "dhash": "428178d89c7b9c0e",
+      "width": 1024,
+      "height": 1003,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-065.webp",
+      "source_url": "https://framerusercontent.com/images/lHl6AQ8jYXyWEjBpLQl2KXFJ4Gw.png?width=800&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" src=\"https://framerusercontent.com/images/lHl6AQ8jYXyWEjBpLQl2KXFJ4Gw.png?width=800&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 8456,
+      "sha256": "a484d4542017e659491e41be2673742d8f5f7291ec50338dfe666a776ef2a299",
+      "source_sha256": "bf07158ae19cc3f357c743bf3f36377bcac642b5b63d91dfee05b213554b8282",
+      "dhash": "10f2603030b0b218",
+      "width": 800,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-066.webp",
+      "source_url": "https://framerusercontent.com/images/6tHJMnoDKbR26c8AumdKEQHU0E.png?width=2560&height=1400",
+      "source_tag": "html-data, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1400\" src=\"https://framerusercontent.com/images/6tHJMnoDKbR26c8AumdKEQHU0E.png?width=2560&amp;height=1400\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 35494,
+      "sha256": "5caf1ed30cc865563ff6da2eef89386d4e700aca3fe52f8ecef7d23c485adbaa",
+      "source_sha256": "a0c829bc2c378559d3ab7750a62920b0b6c751e89298a20b612b77daf785f4bd",
+      "dhash": "00b2716169717100",
+      "width": 2200,
+      "height": 1203,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-067.webp",
+      "source_url": "https://framerusercontent.com/images/s27vgWkq6GVPBX3A6RoSqRuJ9rY.png?width=2400&height=2400",
+      "source_tag": "html-data, img:image",
+      "context": " sizes=\"(min-width: 1920px) 469px, (min-width: 1400px) and (max-width: 1919.98px) 469px, (min-width: 810px) and (max-width: 1399.98px) 469px, (max-width: 809.98px) 237.3444px\" src=\"https://framerusercontent.com/images/s27vgWkq6GVPBX3A6RoSqRuJ9rY.png?width=2400&amp;height=2400\" srcset=\"https://framerusercontent.com/images/s27vgWkq6GVPBX3A6RoSqRuJ9rY.png?scale-down-to=512&amp;width=2400&amp;heigh",
+      "content_type": "image/webp",
+      "bytes": 58924,
+      "sha256": "2a8061ff2689821452c524c9502d42d515424ea229f53a65a4805e4b28ac4fa4",
+      "source_sha256": "8106ebc7e9f31551b3c72f8bfc2cbb1d343eb328239f9a59d9b92ea966cfa83c",
+      "dhash": "0225a60f4d070241",
+      "width": 2000,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-068.webp",
+      "source_url": "https://framerusercontent.com/images/s27vgWkq6GVPBX3A6RoSqRuJ9rY.png?scale-down-to=512&width=2400&height=2400+512w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2Fs27vgWkq6GVPBX3A6RoSqRuJ9rY.png%3Fscale-down-to%3D1024&width=2400&height=2400+1024w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2Fs27vgWkq6GVPBX3A6RoSqRuJ9rY.png%3Fscale-down-to%3D2048&width=2400&height=2400+2048w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2Fs27vgWkq6GVPBX3A6RoSqRuJ9rY.png%3Fwidth%3D2400&height=2400+2400w",
+      "source_tag": "img:image",
+      "context": "img div div framer-2qud3v div ssr-variant div framer-1doafwo div framer-1k7er07",
+      "content_type": "image/webp",
+      "bytes": 11052,
+      "sha256": "483dddc206510aeeb6653051692e46ad5bfb8340257751c47a40291db78551c8",
+      "source_sha256": "0db9000f03a3979817d0a86dc46cfa2a407083d18dcbe381984c7d882064b1e4",
+      "dhash": "0224a60f4d0702c1",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-069.webp",
+      "source_url": "https://framerusercontent.com/images/ImUoYpjGj9PtljV2wp9r8gOrsjE.png?width=780&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" src=\"https://framerusercontent.com/images/ImUoYpjGj9PtljV2wp9r8gOrsjE.png?width=780&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 15428,
+      "sha256": "50441b6f19f8dece660d5501fbc7ec0180104a53e028de7306f5439566b56772",
+      "source_sha256": "0a428dbebd4614fec91552afe66ca7bb2dcf51d374781c524483554eedb523f8",
+      "dhash": "7069696969696969",
+      "width": 780,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-070.webp",
+      "source_url": "https://framerusercontent.com/images/JJ6ccF9ArdSZFt5By1svLhqKuDs.png?width=849&height=534",
+      "source_tag": "html-data, img:image",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"534\" loading=\"lazy\" src=\"https://framerusercontent.com/images/JJ6ccF9ArdSZFt5By1svLhqKuDs.png?width=849&amp;height=534\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 21056,
+      "sha256": "ae166802f0ba57b6d26151cddead532a89a1bd31a31e628711aa364cd0e60e46",
+      "source_sha256": "963b519ac3211dbf502612b0c3a2432d970e7d5222f49758e0813ebb2b352a1f",
+      "dhash": "07817c789c9c7b8e",
+      "width": 849,
+      "height": 534,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-071.webp",
+      "source_url": "https://framerusercontent.com/images/8tosZSqAwVYIXGEnyNgQ7Pbss.png?width=800&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" src=\"https://framerusercontent.com/images/8tosZSqAwVYIXGEnyNgQ7Pbss.png?width=800&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 6824,
+      "sha256": "9ef6449a43220bf718fae6b63038b01af38e0c7651558130525d5fc4fb59b081",
+      "source_sha256": "8f3d63a0e2d608ea19084cef9e48940f87059aaffc327e0d39a4049f6db6d1bc",
+      "dhash": "003068484c717938",
+      "width": 800,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-072.webp",
+      "source_url": "https://framerusercontent.com/images/QjEH47yYvKEym1lsjPFA8uw.png?width=2560&height=1400",
+      "source_tag": "html-data, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1400\" src=\"https://framerusercontent.com/images/QjEH47yYvKEym1lsjPFA8uw.png?width=2560&amp;height=1400\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 103704,
+      "sha256": "169794fafaf56595c16db048769e17079b04460585eb44de144ea588af6bf4e2",
+      "source_sha256": "556dce2a442d9329f0c0493f596e382f261834da6808ac1efb74e10d426ee9eb",
+      "dhash": "7068687070607070",
+      "width": 2200,
+      "height": 1203,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-073.webp",
+      "source_url": "https://framerusercontent.com/images/0HNPCVYv51KPMB4Ks6nb5i86NYo.png?width=2400&height=2400",
+      "source_tag": "html-data, img:image",
+      "context": "=\"lazy\" sizes=\"(min-width: 1920px) 165px, (min-width: 1400px) and (max-width: 1919.98px) 165px, (min-width: 810px) and (max-width: 1399.98px) 80px, (max-width: 809.98px) 56px\" src=\"https://framerusercontent.com/images/0HNPCVYv51KPMB4Ks6nb5i86NYo.png?width=2400&amp;height=2400\" srcset=\"https://framerusercontent.com/images/0HNPCVYv51KPMB4Ks6nb5i86NYo.png?scale-down-to=512&amp;width=2400&amp;heigh",
+      "content_type": "image/webp",
+      "bytes": 30294,
+      "sha256": "9229fb55b892572814488a79e5d1782990685404cd8a87a11cf848761fd0b0a7",
+      "source_sha256": "7c274c57cefb75a86058a6a259fac51ded8cfeafb3c2e4e255b4360a812cdb6e",
+      "dhash": "001e07372f0f0600",
+      "width": 2000,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-074.webp",
+      "source_url": "https://framerusercontent.com/images/RREcBc1ZXWGYpHLob4zjBuPcqw.png?width=916&height=900",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"900\" src=\"https://framerusercontent.com/images/RREcBc1ZXWGYpHLob4zjBuPcqw.png?width=916&amp;height=900\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 20276,
+      "sha256": "784303dd3e05ccca8e6ca227c473bd1d5eed1a386450853ec5f394391ca515ee",
+      "source_sha256": "687c2b004a9dee7e0ff5730828b72b5c8e70307fbc0fa756e775fd0ab7d33a32",
+      "dhash": "10c210fccccc00c0",
+      "width": 916,
+      "height": 900,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-075.webp",
+      "source_url": "https://framerusercontent.com/images/BUkr2Lk0gKrn4FNRWXkUnrnhid4.png?width=640&height=350",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"350\" src=\"https://framerusercontent.com/images/BUkr2Lk0gKrn4FNRWXkUnrnhid4.png?width=640&amp;height=350\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 11916,
+      "sha256": "bb5cdc89ab7fd8d9f4373252f246d4bf2458fb8e9e631cc13aeef61a99e18364",
+      "source_sha256": "809ea40de66607562c4e080d740ed198b88e05f630d913014f9da79c06a7a084",
+      "dhash": "62007cf0d4dc6800",
+      "width": 640,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-076.webp",
+      "source_url": "https://framerusercontent.com/images/iYMRHiJnEiTnQXxpj5tOy9LlgbE.png?width=1080&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/iYMRHiJnEiTnQXxpj5tOy9LlgbE.png?width=1080&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 29682,
+      "sha256": "9ee9a320dc4f60c26fb99bce7919900154cc61b46100ed6687df31a5d70632df",
+      "source_sha256": "0efcb005d3948270e937f9348fbd9981e991ee74a77b183a934e5a9d9f837add",
+      "dhash": "3000fc789c940084",
+      "width": 1080,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-077.webp",
+      "source_url": "https://framerusercontent.com/images/j2jkjnQicv8W3zYfAPHDBdTt7Bk.png?width=2400&height=2400",
+      "source_tag": "html-data, img:image",
+      "context": "=\"lazy\" sizes=\"(min-width: 1920px) 165px, (min-width: 1400px) and (max-width: 1919.98px) 165px, (min-width: 810px) and (max-width: 1399.98px) 80px, (max-width: 809.98px) 56px\" src=\"https://framerusercontent.com/images/j2jkjnQicv8W3zYfAPHDBdTt7Bk.png?width=2400&amp;height=2400\" srcset=\"https://framerusercontent.com/images/j2jkjnQicv8W3zYfAPHDBdTt7Bk.png?scale-down-to=512&amp;width=2400&amp;heigh",
+      "content_type": "image/webp",
+      "bytes": 32516,
+      "sha256": "3f20db87a68d9e920b960742cc263652d4ace260d5bfb2e9f1202dcd09e9dcf8",
+      "source_sha256": "c234bf7f3e1f010b68bf254b02b1c931496a6d8f73ca6cc06e6475fea8e06e4f",
+      "dhash": "04333b3737030002",
+      "width": 2000,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-078.webp",
+      "source_url": "https://framerusercontent.com/images/j2jkjnQicv8W3zYfAPHDBdTt7Bk.png?scale-down-to=512&width=2400&height=2400+512w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2Fj2jkjnQicv8W3zYfAPHDBdTt7Bk.png%3Fscale-down-to%3D1024&width=2400&height=2400+1024w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2Fj2jkjnQicv8W3zYfAPHDBdTt7Bk.png%3Fscale-down-to%3D2048&width=2400&height=2400+2048w%2Chttps%3A%2F%2Fframerusercontent.com%2Fimages%2Fj2jkjnQicv8W3zYfAPHDBdTt7Bk.png%3Fwidth%3D2400&height=2400+2400w",
+      "source_tag": "img:image",
+      "context": "img div div framer-m29s0q div ssr-variant div framer-19bomou div framer-ksvttu",
+      "content_type": "image/webp",
+      "bytes": 7538,
+      "sha256": "5e764d05beab08f8ebe6aeb4c9eac7b483a9b4b538487f8fb60441d32292e4f5",
+      "source_sha256": "26085d43097dc6955522665ea757bf9b3fbdc47ae5927a828761e77a1c1f8a77",
+      "dhash": "003b3b3737030004",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/drivers/intro"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-079.webp",
+      "source_url": "https://framerusercontent.com/images/70AYWXJyRSNeKtKvzYmqrlMIdko.png?width=640&height=350",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"350\" src=\"https://framerusercontent.com/images/70AYWXJyRSNeKtKvzYmqrlMIdko.png?width=640&amp;height=350\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 4438,
+      "sha256": "efd0973966caec1604b3d85ee77a417d8f5be8e0435f18b93c952ad605089eca",
+      "source_sha256": "d7486dabe58295ff7181eff67b8acb1f1a8c3c4cc63f220e25fd93fac4000468",
+      "dhash": "7068686868687070",
+      "width": 640,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-080.webp",
+      "source_url": "https://framerusercontent.com/images/hSWJNkh1WwboKF1TEPJVl7Uqvw.png?width=1080&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/hSWJNkh1WwboKF1TEPJVl7Uqvw.png?width=1080&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 23242,
+      "sha256": "5f4db2bfd032d7c0645c0dc85582d89f5a08d98a7b8c2b61ac67f220fb90d3e8",
+      "source_sha256": "6f40037f29dab2e099b3fa6465b1c2392752ee0c9fda960313fb86b335f566a4",
+      "dhash": "007169694c787000",
+      "width": 1080,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-081.webp",
+      "source_url": "https://framerusercontent.com/images/MDIkRKNqimHjKt5xSWsc0RUNvGo.png?width=754&height=1080",
+      "source_tag": "html-data, img:image",
+      "context": "r-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"1080\" src=\"https://framerusercontent.com/images/MDIkRKNqimHjKt5xSWsc0RUNvGo.png?width=754&amp;height=1080\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 12676,
+      "sha256": "6a6a96c5b046e061cd139cd457c95570ec160d062d7c19ed8a29a08f39269d70",
+      "source_sha256": "31c3b90a9e78b57da9d3d1b662f346e90b38ac39e7206d6461b77751eb13d11b",
+      "dhash": "0884e0f133caccba",
+      "width": 754,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/tadabusiness"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-082.webp",
+      "source_url": "https://framerusercontent.com/images/c6EW3WrLwSgv7qPlDCvqcECCT3I.png?width=540&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" src=\"https://framerusercontent.com/images/c6EW3WrLwSgv7qPlDCvqcECCT3I.png?width=540&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 15178,
+      "sha256": "82c126912f7558ad496a1c2559fd956067838625ec033afeedcf51c239956e86",
+      "source_sha256": "5f484027b1d0645a9c759017400c2f206dcb964b05bb2918440e47317d1a7508",
+      "dhash": "69cdcdccc4c4ccc4",
+      "width": 540,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-083.webp",
+      "source_url": "https://framerusercontent.com/images/nPTHhkEtmHLoag0TTwGZzBX6VI.png?width=540&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" src=\"https://framerusercontent.com/images/nPTHhkEtmHLoag0TTwGZzBX6VI.png?width=540&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 6188,
+      "sha256": "f99fc6d51d70dcc2d8bfad233c8f45d6336fd3db34ce549e53b9209be8c7bcab",
+      "source_sha256": "3168358d3b99df99accbdb93a50da09ac19977b9458d300224826b36ebe0b4dd",
+      "dhash": "10604cc4c4f47c00",
+      "width": 540,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-084.webp",
+      "source_url": "https://framerusercontent.com/images/okFiluB2Qcksa2WWxlAUZn7gSpA.png?width=1080&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/okFiluB2Qcksa2WWxlAUZn7gSpA.png?width=1080&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 70640,
+      "sha256": "392ece32d6d659b0049e0f350d459c7914347e8127567cede13d9ebf671ffafe",
+      "source_sha256": "4ca62b396ba27609f579340416d476e5c4b923f8309550644255f16f8b0c445b",
+      "dhash": "69c5d4e1e1e5f1f1",
+      "width": 1080,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-085.webp",
+      "source_url": "https://framerusercontent.com/images/I4DYuLS1WWQMERnkPw8ko7Jcefc.png?width=800&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" loading=\"lazy\" src=\"https://framerusercontent.com/images/I4DYuLS1WWQMERnkPw8ko7Jcefc.png?width=800&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 17950,
+      "sha256": "c06c247e6d6aa3149b83bf65c6ee1e95b20ae7537d365ff07d160797155179d3",
+      "source_sha256": "ca06a32c9f4a8775501d8356c379f2315c79f307a795cf8eb23e2c89174a475b",
+      "dhash": "7068686968606868",
+      "width": 800,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-086.webp",
+      "source_url": "https://framerusercontent.com/images/nO1uklwXZgHqyoB1LCHvObxsbo.png?width=1560&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/nO1uklwXZgHqyoB1LCHvObxsbo.png?width=1560&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 44556,
+      "sha256": "5ac544a4ffa8ea60f669e5e91f11e3919e9420597777906f7990270b60dfbfd8",
+      "source_sha256": "8a532f4d302875a2d9d929fad2ef57ceb1c836e1d5865455806fb10fcdb92a46",
+      "dhash": "6008fc789894d400",
+      "width": 1560,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-087.webp",
+      "source_url": "https://framerusercontent.com/images/j4lT1TzRLwvWSOK0QqoucXYll4.png?width=800&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "mage-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" loading=\"lazy\" src=\"https://framerusercontent.com/images/j4lT1TzRLwvWSOK0QqoucXYll4.png?width=800&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 18708,
+      "sha256": "c1d0fd2b246f06bd259d5a626813c070dc009f7d23f1e64142fafe90dc3b3313",
+      "source_sha256": "74b4b1fb569d3c20e0ac62e26b4101f4e446578a5b053dda905cadb8fb023abc",
+      "dhash": "f068e8c9e8686868",
+      "width": 800,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-088.webp",
+      "source_url": "https://framerusercontent.com/images/nvPLzutjQJ6d4s3voynzGcu9Y.png?width=780&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" src=\"https://framerusercontent.com/images/nvPLzutjQJ6d4s3voynzGcu9Y.png?width=780&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 8722,
+      "sha256": "1fe40c43ca400b9f7e36a598986d274d8bdde45c3e0069ebda30baeeb1a55774",
+      "source_sha256": "098ecd8db6844b92ae4b07b772b4861fc11b1cbceb5d09a1ba40c67308d66752",
+      "dhash": "10b060703030b230",
+      "width": 780,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-089.webp",
+      "source_url": "https://framerusercontent.com/images/Ky56CkTpi0qoeBnzTmD97HEhJg.png?width=1560&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/Ky56CkTpi0qoeBnzTmD97HEhJg.png?width=1560&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 24640,
+      "sha256": "ef8ececb8e963672d78da5694d0f6052453f1ac7c7b0f5978152a240127cc1e1",
+      "source_sha256": "d99548f20f1c5885e7a63a8c4ffc036531b44fb848a8d7e1ce5318d3d022d733",
+      "dhash": "00b2716969717100",
+      "width": 1560,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-090.webp",
+      "source_url": "https://framerusercontent.com/images/oimAgiaypUJgMEp1ghdr4kJV398.png?width=780&height=460",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"460\" src=\"https://framerusercontent.com/images/oimAgiaypUJgMEp1ghdr4kJV398.png?width=780&amp;height=460\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 7094,
+      "sha256": "2ae2b65b29bc3d14ec09fb4c635078971cc9609e6a6a6ca4cfac2951b6887653",
+      "source_sha256": "56b0fcb53b912588866c4660ced77324263824b03090e9f6712ae34ae62931e2",
+      "dhash": "1070684c6c717808",
+      "width": 780,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-091.webp",
+      "source_url": "https://framerusercontent.com/images/mSHDpVVlbFDNz22OD2miRK6jk.png?width=1560&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/mSHDpVVlbFDNz22OD2miRK6jk.png?width=1560&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 71430,
+      "sha256": "c312fd845c8c3685a2c0b4de3d0517e0903918604d806e550f19bbce02998d1e",
+      "source_sha256": "11a9d904bacca5f9300a55c454d3788ff3e341e07bb373eca3a6c0ded68cc6db",
+      "dhash": "7069696161617171",
+      "width": 1560,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-092.webp",
+      "source_url": "https://framerusercontent.com/images/RywyuxIFTy0cYOZE3S3Vbs0s34.png?width=1280&height=700",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"700\" src=\"https://framerusercontent.com/images/RywyuxIFTy0cYOZE3S3Vbs0s34.png?width=1280&amp;height=700\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 32858,
+      "sha256": "b7f9f814311b84a5a08fefc9c89d995297369eef7eb4c9f206032d0c8e13d5ac",
+      "source_sha256": "78dcc54a36a70b2daaa4d9fc0a406297622c1c653ae60cb6b816b5bb2244a0af",
+      "dhash": "7268686868606868",
+      "width": 1280,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-093.webp",
+      "source_url": "https://framerusercontent.com/images/dnWCduR55nrikcIcDl24CvQ.png?width=640&height=350",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"350\" src=\"https://framerusercontent.com/images/dnWCduR55nrikcIcDl24CvQ.png?width=640&amp;height=350\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 9388,
+      "sha256": "f803b8dc4b52e2cc7ca814a7960af74a3fb3671d1bdd1e938018de7b54a41805",
+      "source_sha256": "38cd5d60d886775538dc9ce05067f45c4a96a2b4e26399d6716dec5478b81cbc",
+      "dhash": "24007c78d4d4cc00",
+      "width": 640,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-094.webp",
+      "source_url": "https://framerusercontent.com/images/q1WQGX3Lc6VxtsGYpSTgOELk1g.png?width=1600&height=920",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"920\" src=\"https://framerusercontent.com/images/q1WQGX3Lc6VxtsGYpSTgOELk1g.png?width=1600&amp;height=920\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 39072,
+      "sha256": "1bc794d36e32dc6d859dc1f8e60ddeaab298cee34b1d725bd889c357fd3329f3",
+      "source_sha256": "597328a6d93a70da071608cb3da42524fdf503018fab489e061ba993a207b1f2",
+      "dhash": "7071616169696961",
+      "width": 1600,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-095.webp",
+      "source_url": "https://framerusercontent.com/images/5Zp4dRd4h4O20xlqLMPUDnSjM.png?width=1280&height=700",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"700\" src=\"https://framerusercontent.com/images/5Zp4dRd4h4O20xlqLMPUDnSjM.png?width=1280&amp;height=700\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 31492,
+      "sha256": "30e284d6581a5f3ec8e16e1dadbb10844e988d72378dd2ef287aa6ac71d3a544",
+      "source_sha256": "0f78042ca00efee36fbd2c161a936fd4d6d65101ea88ed43677eb3e514282287",
+      "dhash": "f068e8c868686868",
+      "width": 1280,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/ride-event-2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-096.webp",
+      "source_url": "https://framerusercontent.com/images/CcOM5BZxQ0NGf2R0lpOr5wSSE.png?width=1280&height=700",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"700\" src=\"https://framerusercontent.com/images/CcOM5BZxQ0NGf2R0lpOr5wSSE.png?width=1280&amp;height=700\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 15008,
+      "sha256": "92cd1dbd19048e4f0cc5c177d1bcec63a33a68ee1fddecddcd164c6996f749d0",
+      "source_sha256": "40b741d7e4edfb4aa7f0182f17afccae4c7b15355cc40e0fb60a7dee773020ce",
+      "dhash": "10f2627030303230",
+      "width": 1280,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/tada/reference-097.webp",
+      "source_url": "https://framerusercontent.com/images/L93xWRyKAL7peLddGi24C7eC8f4.png?width=1280&height=700",
+      "source_tag": "html-data, img:image",
+      "context": "er-background-image-wrapper=\"true\" style=\"position:absolute;border-radius:inherit;corner-shape:inherit;top:0;right:0;bottom:0;left:0\"><img alt=\"\" decoding=\"async\" height=\"700\" src=\"https://framerusercontent.com/images/L93xWRyKAL7peLddGi24C7eC8f4.png?width=1280&amp;height=700\" style=\"display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fi",
+      "content_type": "image/webp",
+      "bytes": 11272,
+      "sha256": "ab2d6003a379b0a10d417566824f8da6663019c61bd4715bc4a5e11f26ad2be6",
+      "source_sha256": "cf71f901ce9f30c995f5c3cb76eb656aaefb8ca1f80175b8d2a4d4957f2644b4",
+      "dhash": "1030686868717900",
+      "width": 1280,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.tadatada.com/ad-biz/product-experience-1"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_국내/tada/og.png",
       "source_url": "https://framerusercontent.com/assets/dWnr6UZPW7HvsmyLXtEbvfVCxc.png",
@@ -28,42 +2207,6 @@
       "sha256": "8da8940c039088513dba9e62977095206c9e231b50a2a2d66e82fd6d071d404e",
       "width": 1200,
       "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/tada/logo-1.png",
-      "source_url": "https://framerusercontent.com/images/mD34KqcYyOGjgAbY2dlrz69BboE.png?scale-down-to=2048&width=3466&height=354",
-      "source_tag": "img:semantic-logo",
-      "context": "img div div framer-3qzt7d div ssr-variant div brand framer-kvw0nv",
-      "content_type": "image/png",
-      "bytes": 59179,
-      "sha256": "1015a94066d337a9cd62c062365b9682c3dcb0cbda79b002d054478ee7c14b23",
-      "width": 1600,
-      "height": 163
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/tada/reference-1.webp",
-      "source_url": "https://framerusercontent.com/images/16uKjRbjOg1Mgi4nlrgTLoexFWY.png?width=720&height=720",
-      "source_tag": "img:page-image",
-      "context": "img div div framer-1wwkge6 div framer-1jvncs4 a framer-US8xZ framer-1ysypa8 framer-v-zx2l1c framer-m110p2",
-      "content_type": "image/webp",
-      "bytes": 17126,
-      "sha256": "82fa3fd79037b9847abf2c73ea7f1a06ebf91d20ed6fd66ca6de141f02ad2680",
-      "width": 720,
-      "height": 720
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/tada/reference-2.webp",
-      "source_url": "https://framerusercontent.com/images/16uKjRbjOg1Mgi4nlrgTLoexFWY.png?scale-down-to=512&width=720&height=720",
-      "source_tag": "img:page-image",
-      "context": "img div div framer-1wwkge6 div framer-1jvncs4 a framer-US8xZ framer-1ysypa8 framer-v-zx2l1c framer-m110p2",
-      "content_type": "image/webp",
-      "bytes": 13510,
-      "sha256": "78382add55cb44f151944e3d6fde6138178703cad392e0804b179fd5cfb33880",
-      "width": 512,
-      "height": 512
     }
   ]
 }

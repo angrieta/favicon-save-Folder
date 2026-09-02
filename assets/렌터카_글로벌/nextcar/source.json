@@ -5,7 +5,18 @@
   "page_url": "https://www.nextcarrental.com/",
   "page_title": "Nextcar - NextCar Rental",
   "collection_status": "complete",
-  "collection_error": "reference:ValueError:https://www.nextcarrental.com/smsite/7/media/imgs/7023_20190829-170709.png",
+  "collection_error": "asset:https://npag.io//smsite/7/media/imgs/5594389_next-car-logo-white.png?r=0320155:HTTPError; asset:https://npag.io//smsite/7/media/imgs/5594389_next-car-logo-white.png?r=0164156:HTTPError; asset:https://npag.io//smsite/7/media/imgs/5594389_next-car-logo-white.png?r=098942:HTTPError; asset:https://npag.io//smsite/7/media/imgs/5594389_next-car-logo-white.png?r=0303044:HTTPError; asset:https://npag.io//smsite/7/media/imgs/5594389_next-car-logo-white.png?r=046660:HTTPError; asset:https://npag.io//smsite/7/media/imgs/5594389_next-car-logo-white.png?r=0792291:HTTPError; asset:https://www.nextcarrental.com/smsite/7/layout/lwp/WCSS/%22images%2Fui-icons_555555_256x240.png%22:HTTPError; asset:https://www.nextcarrental.com/smsite/7/layout/lwp/WCSS/%22images%2Fui-icons_777620_256x240.png%22:HTTPError; asset:https://www.nextcarrental.com/smsite/7/layout/lwp/WCSS/%22images%2Fui-icons_444444_256x240.png%22:HTTPError; asset:https://www.nextcarrental.com/smsite/7/layout/lwp/WCSS/%22images%2Fui-icons_cc0000_256x240.png%22:HTTPError; asset:https://www.nextcarrental.com/smsite/7/layout/lwp/WCSS/%22images%2Fui-icons_777777_256x240.png%22:HTTPError; asset:https://www.nextcarrental.com/smsite/7/layout/lwp/WCSS/%22images%2Fui-icons_ffffff_256x240.png%22:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 15,
+    "scripts": 16,
+    "candidates": 97,
+    "attempted_assets": 97,
+    "errors": 34,
+    "collected_at": "2026-09-03T08:31:25.903445+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,87 +31,340 @@
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/nextcar/logo-1.png",
+      "path": "assets/렌터카_글로벌/nextcar/logo-001.png",
       "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11625225_frame-2147224644.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img nextcar-logo-white a NextCar Rental Logo div div mobileNav div header",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "=\"#\" id=\"hamburgerMenuList\" role=\"button\"> <i class=\"gicons\">menu</i> </a></div><div> <a aria-label=\"NextCar Rental Logo\" href=\"/\"><img alt=\"nextcar-logo-white\" data-cke-saved-src=\"/smsite/7/media/imgs/11625225_frame-2147224644.png\" height=\"40\" src=\"/smsite/7/media/imgs/11625225_frame-2147224644.png\" web1=\"8\" web2=\"8\" width=\"200\"/></a></div></div><ul",
       "content_type": "image/png",
       "bytes": 3268,
       "sha256": "6ea5236e053836a4f61fa36f8c381b42ab4be601f854a0b2e8661c9af619931d",
+      "source_sha256": "1007f263efda1b3a0f7a223c8d282c4ba5981113325592635b15c1a8f4665f8d",
+      "dhash": "03595cd4f47c6901",
       "width": 300,
-      "height": 60
+      "height": 60,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/",
+        "https://www.nextcarrental.com/look-up-rental.html",
+        "https://www.nextcarrental.com/rental-requirements.html",
+        "https://www.nextcarrental.com/us/ak-alaska-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ca-california-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/co-colorado-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/fl-florida-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ga-georgia-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/il-illinois-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/md-maryland-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/mn-minnesota-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/mt-montana-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/nj-new-jersey-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ny-new-york-car-rental-state-locations.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nextcar/banner-001.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11476407_adobestock-1888026425.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "oat: none; list-style: none; position: absolute; width: 1108px; z-index: 0; display: none;\"><img alt=\"bannerImg\" border=\"0\" fetchpriority=\"high\" img-data=\"&lt;i&gt;&lt;/i&gt;\" src=\"/smsite/7/media/imgs/11476407_adobestock-1888026425.jpg\"/></li> <li aria-hidden=\"true\" class=\"bannerli\" style=\" float: none; list-style: none; position: absolute; width: 1108px",
+      "content_type": "image/webp",
+      "bytes": 56896,
+      "sha256": "f3d6d4818673287021d0f859a220e1bb5944db25d84024efac2ef4bd49e76916",
+      "source_sha256": "21c09c856695a7ca534ceffe40a972e8e465afef91a625ac15beb391e5a2fe22",
+      "dhash": "7d73f77f59adee6c",
+      "width": 1280,
+      "height": 612,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nextcar/banner-002.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11476520_adobestock-690054048.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "oat: none; list-style: none; position: absolute; width: 1108px; z-index: 0; display: none;\"><img alt=\"bannerImg\" border=\"0\" fetchpriority=\"high\" img-data=\"&lt;i&gt;&lt;/i&gt;\" src=\"/smsite/7/media/imgs/11476520_adobestock-690054048.jpg\"/></li> <li aria-hidden=\"true\" class=\"bannerli\" style=\" float: none; list-style: none; position: absolute; width: 1108px",
+      "content_type": "image/webp",
+      "bytes": 71910,
+      "sha256": "2fd38abe0ac1748a45ee6181c5413cf8bc19f2ea3cac77bbbdff382320f81294",
+      "source_sha256": "eb8082ddbf109090f0d2895e086f2f496fcc8a2b09065d0ef490090a3109b0e7",
+      "dhash": "0f7af3357d67767b",
+      "width": 1280,
+      "height": 717,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nextcar/banner-003.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11476521_adobestock-334156055-1-1-.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "oat: none; list-style: none; position: absolute; width: 1108px; z-index: 0; display: none;\"><img alt=\"bannerImg\" border=\"0\" fetchpriority=\"high\" img-data=\"&lt;i&gt;&lt;/i&gt;\" src=\"/smsite/7/media/imgs/11476521_adobestock-334156055-1-1-.jpg\"/></li> </ul></div></div></div><div class=\"rentalSection\"><div class=\"slideshow\"><div class=\"banner-text\"><p>Best rates,",
+      "content_type": "image/webp",
+      "bytes": 125798,
+      "sha256": "ef3bb02d709ac7d27391a51445249264575ba544213da75702deb85b32df1c3c",
+      "source_sha256": "5141a60f9be445c420edf43eaaa766cb9ca5025b74ad7d5ec346fd06df70cc04",
+      "dhash": "130e1e5b163eb999",
+      "width": 1280,
+      "height": 976,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/nextcar/logo-2.png",
+      "path": "assets/렌터카_글로벌/nextcar/logo-002.png",
       "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11594785_nextcar-logo-green.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img nextcar-logo-green a desktopLogo div div navBarHeader div navBarList",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "lor: #00B4F1; margin: 0;\"></h3><p></p></div><div class=\"navBarList\"><div class=\"navBarHeader\"><div><a class=\"desktopLogo\" href=\"/\"><img alt=\"nextcar-logo-green\" data-cke-saved-src=\"/smsite/7/media/imgs/11594785_nextcar-logo-green.png\" height=\"40\" src=\"/smsite/7/media/imgs/11594785_nextcar-logo-green.png\" web1=\"8\" web2=\"8\" width=\"200\"/></a><a aria-label",
       "content_type": "image/png",
       "bytes": 5957,
       "sha256": "504c85cd54509d1571dc3d4153dd703aa53917c585365208b9b82d2c17a8bc37",
+      "source_sha256": "877cefeb77e761d08d9dace427217815863bc6ff33a0e659eb65c3acec550f19",
+      "dhash": "03091d54747d0913",
       "width": 200,
-      "height": 40
+      "height": 40,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/",
+        "https://www.nextcarrental.com/look-up-rental.html",
+        "https://www.nextcarrental.com/rental-requirements.html",
+        "https://www.nextcarrental.com/us/ak-alaska-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ca-california-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/co-colorado-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/fl-florida-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ga-georgia-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/il-illinois-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/md-maryland-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/mn-minnesota-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/mt-montana-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/nj-new-jersey-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ny-new-york-car-rental-state-locations.html"
+      ]
     },
     {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/nextcar/banner-1.webp",
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-001.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11565204_sign-in-amico-4.png",
+      "source_tag": "html-data, img:image",
+      "context": "v><div class=\"homeNewLoginBox\" style=\"display:none;\"><div class=\"right close\">✕</div><div class=\"loginSection\"><div class=\"loginClipart\"><img alt=\"loginClipart\" data-cke-saved-src=\"/smsite/7/media/imgs/11565204_sign-in-amico-4.png\" src=\"/smsite/7/media/imgs/11565204_sign-in-amico-4.png\" web1=\"8\" web2=\"8\"/></div> <form action=\"\" class=\"loginForm trc0",
+      "content_type": "image/webp",
+      "bytes": 17024,
+      "sha256": "0ddb8f013e1d99afa9a6c7bc9085c485108ce61b14c1e7983ca8af809c5b4e83",
+      "source_sha256": "c24a241aab1553ba49016a0f998a2ec5bf25ca38ff3b100e524dba1d2b108f32",
+      "dhash": "694c591d1dcd490f",
+      "width": 382,
+      "height": 382,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/",
+        "https://www.nextcarrental.com/look-up-rental.html",
+        "https://www.nextcarrental.com/rental-requirements.html",
+        "https://www.nextcarrental.com/us/ak-alaska-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ca-california-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/co-colorado-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/fl-florida-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ga-georgia-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/il-illinois-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/md-maryland-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/mn-minnesota-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/mt-montana-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/nj-new-jersey-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ny-new-york-car-rental-state-locations.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-002.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11502818_locationsideimg.png",
+      "source_tag": "html-data, img:image",
+      "context": "62976\" data-lon=\"-149.9820098877\" id=\"loc-181\"><div class=\"locInfo\"><div class=\"cardTop\"><div class=\"locationIcon\"><img alt=\"locationsideimg\" class=\"lazy-image\" data-cke-saved-src=\"/smsite/7/media/imgs/11502818_locationsideimg.png\" height=\"130px\" loading=\"lazy\" src=\"/smsite/7/media/imgs/11502818_locationsideimg.png\" web1=\"8\" web2=\"8\" width=\"180px\"/>",
+      "content_type": "image/webp",
+      "bytes": 28864,
+      "sha256": "4f596adc7f8de5628233b2acfdc0b0078cceb6a8d637818076828e6e73cd916f",
+      "source_sha256": "4165920dea890fca9a665e5cdff44852474cd7de7eefdf5c2d424fb10934ebe8",
+      "dhash": "418e072d3b178e41",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/us/ak-alaska-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ca-california-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/co-colorado-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/fl-florida-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ga-georgia-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/il-illinois-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/md-maryland-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/mn-minnesota-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/mt-montana-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/nj-new-jersey-car-rental-state-locations.html",
+        "https://www.nextcarrental.com/us/ny-new-york-car-rental-state-locations.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-003.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11558999_meeting-pana-1.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ok a car <b>NOW!</b></div></div><div class=\"cboth line\"></div><div><div class=\"content\"><div class=\"lookupInfo\"><div class=\"lookupBody\"> <img class=\"meetingImg\" data-cke-saved-src=\"/smsite/7/media/imgs/11558999_meeting-pana-1.png\" src=\"/smsite/7/media/imgs/11558999_meeting-pana-1.png\" web1=\"8\" web2=\"8\"/> </div><div class=\"lookupForm\"><p>To locate y",
+      "content_type": "image/webp",
+      "bytes": 14636,
+      "sha256": "43ff60dc15f2e6786264b1a6011eb5583ff7b9a127ec7d081dd839458d7a1ff7",
+      "source_sha256": "fe49cdd4a6475672d825a8e389bd2e73bcb63e618a30a94528fa880d8d71db75",
+      "dhash": "606767734b693b5b",
+      "width": 523,
+      "height": 523,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/look-up-rental.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-004.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11502559_terms.png",
+      "source_tag": "html-data, img:image",
+      "context": "x 0 0 0;\"></ul></div></div> <div class=\"wrapper generalPolicies\"><h1>General Qualifications and Requirement</h1><div><div class=\"policyClipart\"><img alt=\"terms\" data-cke-saved-src=\"/smsite/7/media/imgs/11502559_terms.png\" src=\"/smsite/7/media/imgs/11502559_terms.png\" web1=\"8\" web2=\"8\"/><div class=\"policyClipartText\"><div><p style=\"margin: ",
+      "content_type": "image/webp",
+      "bytes": 14494,
+      "sha256": "ddd87aaea06bc8f1165bf383f715ad68d76f5199d8a7b9524e598940eaa529b4",
+      "source_sha256": "e0c9f32e2a9c712ccf8f63c0f57f61285889569681c132cf28fc21aa21ad6fc3",
+      "dhash": "801f1f0737171796",
+      "width": 523,
+      "height": 523,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/rental-requirements.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-005.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/10760360_choose-where-and-when.png",
+      "source_tag": "html-data, img:image",
+      "context": "</mark> Rental - Premium Service at low prices </p><div class=\"carousel\"><div class=\"carousel-item\"><img alt=\"choose-where-and-when\" class=\"appImage lazy-image\" data-cke-saved-src=\"/smsite/7/media/imgs/10760360_choose-where-and-when.png\" height=\"300px\" loading=\"eager\" src=\"/smsite/7/media/imgs/10760360_choose-where-and-when.png\" web1=\"8\" web2=\"8\" width=\"3",
+      "content_type": "image/webp",
+      "bytes": 8062,
+      "sha256": "34e0c599b5899d27580cd408008a6160697e557388afb901f9c581785c8a5eb0",
+      "source_sha256": "ee4c1255c8e7c19e2dc8e2f210d7050e33ec04df5389a3115bf8b35367aaba18",
+      "dhash": "42351a1d35199904",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-006.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/10760361_pickup-at-location.png",
+      "source_tag": "html-data, img:image",
+      "context": "ickup and return locations with flexible date and time options. </div></div><div class=\"carousel-item\"><img alt=\"pickup-at-location\" class=\"appImage lazy-image\" data-cke-saved-src=\"/smsite/7/media/imgs/10760361_pickup-at-location.png\" height=\"300px\" loading=\"lazy\" src=\"/smsite/7/media/imgs/10760361_pickup-at-location.png\" web1=\"8\" web2=\"8\" width=\"350px",
+      "content_type": "image/webp",
+      "bytes": 7414,
+      "sha256": "48d13b0b1a27bd262ede047243cb5cbfa8395d90601a9c95ce56d519c4fcb427",
+      "source_sha256": "acbab372bbff9482145ef73b5691de302b2c8ac24e7ae5339c9830a0847d1908",
+      "dhash": "006666666f4b3680",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-007.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/10760362_return-at-location.png",
+      "source_tag": "html-data, img:image",
+      "context": "s at your chosen location, with clear instructions and support. </div></div><div class=\"carousel-item\"><img alt=\"return-at-location\" class=\"appImage lazy-image\" data-cke-saved-src=\"/smsite/7/media/imgs/10760362_return-at-location.png\" height=\"300px\" loading=\"lazy\" src=\"/smsite/7/media/imgs/10760362_return-at-location.png\" web1=\"8\" web2=\"8\" width=\"350px",
+      "content_type": "image/webp",
+      "bytes": 9782,
+      "sha256": "295c7603eecb2245c95fa8bebef0785bb6510c1d6eac2ba42deb4b9092923a5e",
+      "source_sha256": "c433e2e7cdf92c06239fd3701aa2cacd2c1d76c314fb03625ac64c10830d5823",
+      "dhash": "00a9353d0f7b2300",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-008.webp",
       "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/10760346_adobestock-167351535.jpg",
-      "source_tag": "inline-background-image",
+      "source_tag": "inline-css",
       "context": "div  review-image reveal background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url(/smsite/7/media/imgs/10760346_adobestock-167351535.jpg)",
       "content_type": "image/webp",
-      "bytes": 117990,
-      "sha256": "28d1c97d1bd6f7e9d2562abe06c06e3f7ce010d33419646a5161f5c5616bc235",
+      "bytes": 112472,
+      "sha256": "6884533d7aae9c192634fb3244f06f38928c6db09928823bc036a0c697989268",
+      "source_sha256": "442d5d625c53ac78d54668f708b3972d016b36ba7773752d5ce4acd318eafe3a",
+      "dhash": "dad89ad2252163c4",
       "width": 1280,
-      "height": 853
+      "height": 853,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
     },
     {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/nextcar/banner-2.webp",
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nextcar/reference-009.webp",
       "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11477117_map-bg-1-.png",
-      "source_tag": "inline-background-image",
+      "source_tag": "inline-css",
       "context": "div  location-image reveal background-image: url(/smsite/7/media/imgs/11477117_map-bg-1-.png);",
       "content_type": "image/webp",
-      "bytes": 39018,
-      "sha256": "0a35c2c158b451b85be2ed3ad08e4666fc375fb0eb5fa7d43cd1bd8e7fd75d88",
+      "bytes": 38142,
+      "sha256": "86c7dc9491b7b680b8ceef1c78811bac4a768727c7a654f5d21b44bc4841902f",
+      "source_sha256": "ca2499ef2e986750246b91e0ebcc763544573ec0594cdd77e583d853f3665dbf",
+      "dhash": "7879726a71239098",
       "width": 1280,
-      "height": 484
+      "height": 484,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_글로벌/nextcar/reference-1.webp",
-      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11565204_sign-in-amico-4.png",
-      "source_tag": "img:page-image",
-      "context": "img loginClipart div loginClipart div loginSection div homeNewLoginBox header",
+      "path": "assets/렌터카_글로벌/nextcar/reference-010.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/10760369_best-price-1-1-.png",
+      "source_tag": "html-data, img:image",
+      "context": "h=\"100px\"/><h3>Free Cancellation</h3><h5>Plans changed? Cancel easily, no worries.</h5></div></li><li><div class=\"container\"><img alt=\"price\" class=\"lazy-image\" data-cke-saved-src=\"/smsite/7/media/imgs/10760369_best-price-1-1-.png\" height=\"100px\" loading=\"lazy\" src=\"/smsite/7/media/imgs/10760369_best-price-1-1-.png\" web1=\"8\" web2=\"8\" width=\"100px\"/>",
       "content_type": "image/webp",
-      "bytes": 17584,
-      "sha256": "24479fc60e7fcca646689a804eb1c51a2e1ebb1009c57b6d92fa19246e14f55c",
-      "width": 382,
-      "height": 382
+      "bytes": 9758,
+      "sha256": "6fb01f5ee0c85cf67109f34451e4de7e55ce81b64a4ee5b7a48a7cb33e46020f",
+      "source_sha256": "56da75e3841f4b77ed40e4f9d95800f30a3f22c46cd07f70dd835148f51327a2",
+      "dhash": "014a125a29a3a666",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_글로벌/nextcar/reference-2.webp",
-      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11476407_adobestock-1888026425.jpg",
-      "source_tag": "img:page-image",
-      "context": "img bannerImg li bannerli ul bxslider div bx-viewport div bx-wrapper",
+      "path": "assets/렌터카_글로벌/nextcar/reference-011.webp",
+      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/10760364_phone-hand-app.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "a/imgs/11564884_playstore.png data-cke-saved-src=/smsite/7/media/imgs/11564884_playstore.png>--></div><div><img alt=\"phone-hand-app\" class=\"appImage lazy-image\" data-cke-saved-src=\"/smsite/7/media/imgs/10760364_phone-hand-app.jpg\" height=\"400px\" loading=\"lazy\" src=\"/smsite/7/media/imgs/10760364_phone-hand-app.jpg\" web1=\"8\" web2=\"8\" width=\"600px\"/><",
       "content_type": "image/webp",
-      "bytes": 58996,
-      "sha256": "b5c5c3edc7e2fc370adf2eefc9340d12dcd7c6ccd7ae6f92ac0616a9233066b4",
+      "bytes": 56386,
+      "sha256": "d171c7d4f7278b8238fc7686ae97b7d3f16544fdc67c829fdf34ac1aff82b84c",
+      "source_sha256": "4c59c3f0982c208cc6c754cfaf0e5e572f9694ce10ec14255ae7fcea8b42e4db",
+      "dhash": "1b1b2747c78f1d0d",
       "width": 1280,
-      "height": 612
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/nextcar/reference-3.webp",
-      "source_url": "https://www.nextcarrental.com/smsite/7/media/imgs/11476520_adobestock-690054048.jpg",
-      "source_tag": "img:page-image",
-      "context": "img bannerImg li bannerli ul bxslider div bx-viewport div bx-wrapper",
-      "content_type": "image/webp",
-      "bytes": 76302,
-      "sha256": "71855d959f5ff2d430b9ecdc66ca5b5352a35482418a373b1907e910d61234fb",
-      "width": 1280,
-      "height": 717
+      "height": 853,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nextcarrental.com/"
+      ]
     }
   ]
 }

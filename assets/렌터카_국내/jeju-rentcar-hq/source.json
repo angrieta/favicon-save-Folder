@@ -5,7 +5,18 @@
   "page_url": "https://www.jejurentcar.co.kr/",
   "page_title": "제주렌트카 본사 - 제주도렌트카 실시간 예약, 렌터카 가격비교",
   "collection_status": "complete",
-  "collection_error": "",
+  "collection_error": "asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Light.ttf:HTTPError; asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Light.eot:HTTPError; asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Regular.ttf:HTTPError; asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Regular.eot:HTTPError; asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Medium.ttf:HTTPError; asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Medium.eot:HTTPError; asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Bold.ttf:HTTPError; asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Bold.eot:HTTPError; asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Black.ttf:HTTPError; asset:https://www.jejurentcar.co.kr/font/NotoSansKR-Black.eot:HTTPError; asset:https://www.jejurentcar.co.kr/css/images/black-opacity-60.png:HTTPError; asset:https://www.jejurentcar.co.kr/css/images/pw_bg.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 17,
+    "scripts": 13,
+    "candidates": 236,
+    "attempted_assets": 236,
+    "errors": 17,
+    "collected_at": "2026-09-03T08:12:32.228077+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,87 +31,1168 @@
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_국내/jeju-rentcar-hq/logo-1.png",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/logo-001.png",
       "source_url": "https://www.jejurentcar.co.kr/images/res/frame/head/logo.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img 제주렌트카 a h1 logo header header div wrapper",
+      "source_tag": "external-css, html-data, img:banner, img:image, img:logo",
+      "context": "nu .member-info .text {\r\n\tcolor: #fff; \r\n}\r\n#header.white .global-menu nav a::before {background-position: 0 -30px;}\r\n\r\n#header h1.logo a::before {\r\n\tcontent: \"\";\r\n\tdisplay: inline-block;\r\n\tvertical-align: middle;\r\n\twidth: 112px;\r\n\theight: 20px;\r\n\tbackground: url(\"/images/res/frame/head/logo.png\") no-repeat 0 0;\r\n\tbackground-size: 112px auto;\r\n}\r\n#header h1.logo a:nth-child(2)::before {\r\n\twidth: 4",
       "content_type": "image/png",
       "bytes": 5409,
       "sha256": "a5dcca80da6e6d97beda8db558a1c40dce0db64f4b81b5294ce9c45daeb9e805",
+      "source_sha256": "105a58fab7d95640ed8bb920f19aeed22b96e715338033011b10072dd2d30473",
+      "dhash": "8282828200800000",
       "width": 222,
-      "height": 80
+      "height": 80,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/",
+        "https://www.jejurentcar.co.kr/customer/customerInfo09.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000087",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000090",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000102",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000103",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000104",
+        "https://www.jejurentcar.co.kr/longTerm.do",
+        "https://www.jejurentcar.co.kr/longTerm.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-001.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-01-m.jpg?ver=220111",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"md-banner\" id=\"mdBanner\">\n<div class=\"swiper-container\">\n<div class=\"swiper-wrapper\">\n<div class=\"swiper-slide\">\n<div class=\"img img1 pc\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-banner-01-m.jpg?ver=220111\"/>\n</div>\n<div class=\"swiper-slide\">\n<div class=\"img img2 pc\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-ban",
+      "content_type": "image/webp",
+      "bytes": 24404,
+      "sha256": "d04713ad1d8b8ce707ebe8850cd44d2a333ab24711ebb8b76730c0e32ec6017d",
+      "source_sha256": "39615ee112a6fefcbee2336b7e6612d39ad553cc1dc5e51547dcd13fc4673386",
+      "dhash": "8aea3265aaaa98aa",
+      "width": 750,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-002.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-02-m.jpg?ver=220111",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-banner-01-m.jpg?ver=220111\"/>\n</div>\n<div class=\"swiper-slide\">\n<div class=\"img img2 pc\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-banner-02-m.jpg?ver=220111\"/>\n</div>\n<div class=\"swiper-slide\">\n<div class=\"img img3 pc\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-ban",
+      "content_type": "image/webp",
+      "bytes": 22352,
+      "sha256": "62cdc99e8000a73f16765e8a5ee8f1fd45d21da61d29e8fc4930d0143c551da0",
+      "source_sha256": "c0cd23be3b526887a85674068a6451c3c9b3af46c82fd909bfbf43b2a849d0f2",
+      "dhash": "a096978f86f5fd9d",
+      "width": 750,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-003.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-03-m.jpg?ver=220111",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-banner-02-m.jpg?ver=220111\"/>\n</div>\n<div class=\"swiper-slide\">\n<div class=\"img img3 pc\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-banner-03-m.jpg?ver=220111\"/>\n</div>\n<div class=\"swiper-slide\">\n<div class=\"img img4 pc\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-ban",
+      "content_type": "image/webp",
+      "bytes": 21674,
+      "sha256": "9725ddae1d8a1194b017c6be6a3fa3cea3e6170f28bcb33b9d797e044fa38e68",
+      "source_sha256": "32f6bf4bbfafaa89cd6e792b851c5e6de04550a9d5b03eb6f91cd793ccb73529",
+      "dhash": "e76b96966ab296ce",
+      "width": 750,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-004.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-04-m.jpg?ver=220111",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-banner-03-m.jpg?ver=220111\"/>\n</div>\n<div class=\"swiper-slide\">\n<div class=\"img img4 pc\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-banner-04-m.jpg?ver=220111\"/>\n</div>\n<div class=\"swiper-slide\">\n<div class=\"img img5 pc\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-ban",
+      "content_type": "image/webp",
+      "bytes": 24120,
+      "sha256": "10b3a5589e91ad79557b41a39b1d07dc94b73a080a21724030287c6ffc2f51a2",
+      "source_sha256": "1b006982c5c4be762fe25f9ff6be8226ec36c27c1a45ea4b858f73b039eb2f81",
+      "dhash": "070a552b69555596",
+      "width": 750,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-005.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-05-m.jpg?ver=220111",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-banner-04-m.jpg?ver=220111\"/>\n</div>\n<div class=\"swiper-slide\">\n<div class=\"img img5 pc\"></div>\n<img alt=\"\" class=\"mw\" src=\"/images/res/main/md-banner-05-m.jpg?ver=220111\"/>\n</div>\n</div> <!-- //swiper-wrapper -->\n</div> <!-- //swiper-container -->\n</section>\n<section class=\"rent-app-link n",
+      "content_type": "image/webp",
+      "bytes": 30134,
+      "sha256": "92257488d672eeba792021abf3bb4a9da4133066b8e7d3542cfc75df41ef2fe5",
+      "source_sha256": "fb92442327aaf1c902c4a516b1ae01a8ebc910aee589c585ff6cf98f64642e65",
+      "dhash": "812a3e344b7a3d85",
+      "width": 750,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-001.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/dtl/PROMT00000087_2_DTL_9e4c3f79ef1a45dfbea71fce7d359801.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " value=\"\"/>\n</form>\n<div class=\"event-detail-wrapper\">\n<div class=\"container\">\n<div class=\"event-banner\">\n<div class=\"photo\">\n<div class=\"img-area\">\n<img alt=\"\" class=\"visual\" src=\"/data/promt/dtl/PROMT00000087_2_DTL_9e4c3f79ef1a45dfbea71fce7d359801.jpg\"/>\n</div>\n<span class=\"label-group\">\n<label><img alt=\"프로모션\" src=\"/images/res/icon/label/promotion.png\"/></label>\n</span>",
+      "content_type": "image/webp",
+      "bytes": 215044,
+      "sha256": "bababd6d0d8aaa5b4d43a8a0cb6bc1bc0470565c5184e2b63a1b9c07c863975c",
+      "source_sha256": "cdb3438e3fa314392d939c7d22ed10bf7202ea4844dcef2fa38f1c6a177aa6f9",
+      "dhash": "450531139e65612b",
+      "width": 915,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000087"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-002.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/dtl/PROMT00000090_2_DTL_8220f17204d24484b7dfc4cfb4df596e.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " value=\"\"/>\n</form>\n<div class=\"event-detail-wrapper\">\n<div class=\"container\">\n<div class=\"event-banner\">\n<div class=\"photo\">\n<div class=\"img-area\">\n<img alt=\"\" class=\"visual\" src=\"/data/promt/dtl/PROMT00000090_2_DTL_8220f17204d24484b7dfc4cfb4df596e.png\"/>\n</div>\n<span class=\"label-group\">\n<label><img alt=\"프로모션\" src=\"/images/res/icon/label/promotion.png\"/></label>\n</span>",
+      "content_type": "image/webp",
+      "bytes": 107966,
+      "sha256": "29dbdcf416ac9fd11e8b52812720827a6b39503a34e2e536a6035c5968a3f704",
+      "source_sha256": "68378efbedf55ebf935040bc9572d003a48239be3f1c30e66d6bb8106dd7acff",
+      "dhash": "068e8e3f3170c8ec",
+      "width": 1186,
+      "height": 1142,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000090"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-003.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/dtl/PROMT00000103_DTL_c6c9b48904c44b9780d887ca68508297.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " value=\"\"/>\n</form>\n<div class=\"event-detail-wrapper\">\n<div class=\"container\">\n<div class=\"event-banner\">\n<div class=\"photo\">\n<div class=\"img-area\">\n<img alt=\"\" class=\"visual\" src=\"/data/promt/dtl/PROMT00000103_DTL_c6c9b48904c44b9780d887ca68508297.jpg\"/>\n</div>\n<div class=\"img-area\">\n<img alt=\"\" class=\"visual\" src=\"/data/promt/dtl/PROMT00000103_2_DTL_f574293b5aa042b583a",
+      "content_type": "image/webp",
+      "bytes": 289362,
+      "sha256": "775c50b8150adc99c2e99b12965ee90ea73435067743988a54a79eff5c479154",
+      "source_sha256": "a1ab0531dfcadfb0f5d161c5519eaf90b9ccb7bd9c7dbc1c559bb0435a093584",
+      "dhash": "808c1e51a9371e8c",
+      "width": 1190,
+      "height": 1190,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000103"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-004.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/dtl/PROMT00000104_DTL_87de4f1fc5ba4ceb82b6ff3dbc9b762a.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " value=\"\"/>\n</form>\n<div class=\"event-detail-wrapper\">\n<div class=\"container\">\n<div class=\"event-banner\">\n<div class=\"photo\">\n<div class=\"img-area\">\n<img alt=\"\" class=\"visual\" src=\"/data/promt/dtl/PROMT00000104_DTL_87de4f1fc5ba4ceb82b6ff3dbc9b762a.jpg\"/>\n</div>\n<span class=\"label-group\">\n<label><img alt=\"프로모션\" src=\"/images/res/icon/label/promotion.png\"/></label>\n</span>",
+      "content_type": "image/webp",
+      "bytes": 144350,
+      "sha256": "462820f319e9e4a83f753cd2e3bca34927b6b9f026edcccd9e79ecb88decca28",
+      "source_sha256": "1243567bfb79cca4859b7782afa8aa417e8d3f78e96fe909351b846765f85e98",
+      "dhash": "c2133793136d2133",
+      "width": 1024,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000104"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-005.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/dtl/PROMT00000103_2_DTL_f574293b5aa042b583ab874e49c37b30.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"img-area\">\n<img alt=\"\" class=\"visual\" src=\"/data/promt/dtl/PROMT00000103_DTL_c6c9b48904c44b9780d887ca68508297.jpg\"/>\n</div>\n<div class=\"img-area\">\n<img alt=\"\" class=\"visual\" src=\"/data/promt/dtl/PROMT00000103_2_DTL_f574293b5aa042b583ab874e49c37b30.jpg\"/>\n</div>\n<span class=\"label-group\">\n<label><img alt=\"프로모션\" src=\"/images/res/icon/label/promotion.png\"/></label>\n</span>",
+      "content_type": "image/webp",
+      "bytes": 304738,
+      "sha256": "0bcdf765a20a2f227300ae6797788308d523f0f7ae9b5bc258f75e6a076dee97",
+      "source_sha256": "a479f2b999c209c5783261b37e92031c6d9700529dcf2f7a802d3ece074dffe3",
+      "dhash": "8113616169af178c",
+      "width": 1190,
+      "height": 1350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000103"
+      ]
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_국내/jeju-rentcar-hq/logo-2.png",
-      "source_url": "https://www.jejurentcar.co.kr/images/res/frame/head/tabocar.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img 타보카 a h1 logo header header div wrapper",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/logo-002.png",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/frame/foot/logo.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "pe=\"text/javascript\">\n\t      kakaoPixel('1045324994443691149').pageView('방문');\n\t</script>\n<footer id=\"footer\">\n<div class=\"container\">\n<div class=\"foot-logo\">\n<img alt=\"제주렌트카\" src=\"/images/res/frame/foot/logo.png\"/>\n</div>\n<nav class=\"foot-menu\">\n<a href=\"/company/main.do\">회사소개</a>\n<a href=\"/raw/rawUsing.do\">이용약관</a>\n<a href=\"/raw/",
       "content_type": "image/png",
-      "bytes": 5649,
-      "sha256": "c2579648a11f286471a6acf6cb80b16916792ec391a205df73feba39612317be",
-      "width": 88,
-      "height": 80
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-1.webp",
-      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-01-m.jpg?ver=220111",
-      "source_tag": "img:semantic-banner",
-      "context": "img mw div swiper-slide div swiper-wrapper div swiper-container section mdBanner md-banner",
-      "content_type": "image/webp",
-      "bytes": 25084,
-      "sha256": "c2c6f25aadfd2b1c5d1e473f7278bb45e174c752b4942c317c94af8d510a9a65",
-      "width": 750,
-      "height": 400
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-2.webp",
-      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-02-m.jpg?ver=220111",
-      "source_tag": "img:semantic-banner",
-      "context": "img mw div swiper-slide div swiper-wrapper div swiper-container section mdBanner md-banner",
-      "content_type": "image/webp",
-      "bytes": 23224,
-      "sha256": "9ecb80ed0179078a7f672d10822cb2630bfa4f91efc80bcbf5d9165fbcc0eea1",
-      "width": 750,
-      "height": 400
+      "bytes": 3816,
+      "sha256": "6dc202536c69e6efb9fb0e0f50a6bb45278f99e6d5857224e9f0b9a204c98c3d",
+      "source_sha256": "8e8e87cd76622a6b904ddb693fcf642bcf5100c8b216d7070e639f9694b24875",
+      "dhash": "4080a6a998312c0c",
+      "width": 170,
+      "height": 30,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/",
+        "https://www.jejurentcar.co.kr/customer/customerInfo09.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000087",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000090",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000102",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000103",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000104",
+        "https://www.jejurentcar.co.kr/longTerm.do",
+        "https://www.jejurentcar.co.kr/longTerm.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-1.webp",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-006.webp",
       "source_url": "https://www.jejurentcar.co.kr/images/res/popup/new-app.png",
-      "source_tag": "img:page-image",
-      "context": "img 신규앱버전출시 a div ct-body div main-popup div appNewPopup popup-wrap hide",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "d=\"appNewPopup\">\n<div class=\"main-popup\">\n<div class=\"ct-body\">\n<a href=\"https://play.google.com/store/apps/details?id=com.jejurentcar.app\" target=\"_blank\">\n<img alt=\"신규앱버전출시\" src=\"/images/res/popup/new-app.png\"/>\n</a>\n</div>\n<div class=\"today-close\">\n<label><input name=\"newApp\" type=\"checkbox\"/><span>오늘하루그만보기</span></label>\n<a c",
       "content_type": "image/webp",
-      "bytes": 18212,
-      "sha256": "33aa6783e30656c0e894ca95123a7966a41f62f2f6e55807fe1bd2a4a3affa9c",
+      "bytes": 17380,
+      "sha256": "aaa2730fa122cdbbf20d44da256f7945aa7efce183ac1389756a982fac4544b7",
+      "source_sha256": "06d5ff0dc395746cf707a141f941eab2d262af76f0f6f718c3feef8087cf8c2d",
+      "dhash": "cc0d4c0f330f8e12",
       "width": 446,
-      "height": 428
+      "height": 428,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/",
+        "https://www.jejurentcar.co.kr/customer/customerInfo09.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000087",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000090",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000102",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000103",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000104",
+        "https://www.jejurentcar.co.kr/longTerm.do",
+        "https://www.jejurentcar.co.kr/longTerm.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-2.webp",
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-006.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/top/search/food.jpg",
+      "source_tag": "external-css",
+      "context": "---------------------------------- */\r\n\r\n\r\n\r\n/* ------------------------------------------------------- ì ì£¼ì¬í ------------------------------------------------------- */\r\n/* ìë´ ê²ìí¼ */\r\n.top-search-wrapper {\r\n    height: 314px;\r\n    background: url(\"../../images/res/banner/top/search/food.jpg\") no-repeat center;\r\n\tdisplay: flex;\r\n\talign-items: center;\r\n\tflex-flow: column;\r\n\tposition",
+      "content_type": "image/webp",
+      "bytes": 163700,
+      "sha256": "c31adcd7735ef4dd6cfd4241201f5698ca4ae0d1cf34b39972cb4e8d585a10d2",
+      "source_sha256": "704183540992f5f7be709cf5584b113e17ea2f0a9e719aaf92aed04a7b3c1b2b",
+      "dhash": "4d9d999d95b73736",
+      "width": 1920,
+      "height": 314,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-007.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/top/search/tour.jpg",
+      "source_tag": "external-css",
+      "context": "apper {\r\n    height: 314px;\r\n    background: url(\"../../images/res/banner/top/search/food.jpg\") no-repeat center;\r\n\tdisplay: flex;\r\n\talign-items: center;\r\n\tflex-flow: column;\r\n\tposition: relative;\r\n}\r\n.top-search-wrapper[data-img-bg=\"tour\"] {background-image: url(\"../../images/res/banner/top/search/tour.jpg\");}\r\n.top-search-wrapper[data-img-bg=\"sale\"] {background-image: url(\"../../images/res/banne",
+      "content_type": "image/webp",
+      "bytes": 23862,
+      "sha256": "d7fc60a5cb4aa4b4021b04a11bc1fea649f47bd9019be52ef0f37e896d67ad82",
+      "source_sha256": "353634d8efc13eeee4d73dafd1150f5782f9f5b70f962b286fb574a53ac43443",
+      "dhash": "1c1c1c1c3c347133",
+      "width": 1920,
+      "height": 314,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-008.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/top/search/sale.jpg",
+      "source_tag": "external-css",
+      "context": "\r\n\tdisplay: flex;\r\n\talign-items: center;\r\n\tflex-flow: column;\r\n\tposition: relative;\r\n}\r\n.top-search-wrapper[data-img-bg=\"tour\"] {background-image: url(\"../../images/res/banner/top/search/tour.jpg\");}\r\n.top-search-wrapper[data-img-bg=\"sale\"] {background-image: url(\"../../images/res/banner/top/search/sale.jpg\");}\r\n.top-search-wrapper .form-area {padding-top: 70px;}\r\n.top-search-wrapper dl {margin-to",
+      "content_type": "image/webp",
+      "bytes": 64748,
+      "sha256": "9e251aea426265f5a0cf045eef9fd4bc737dd571897ca601c61aea7e3363ba21",
+      "source_sha256": "be371b2890f64a2ff294d695432e4a7323fc2df6e3a4bb1589bcce11f83354d5",
+      "dhash": "0b2b3736666a6676",
+      "width": 1920,
+      "height": 314,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-009.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/top/book/bg.jpg",
+      "source_tag": "external-css",
+      "context": "n/location.png\");}\r\n.food-list .btn-area .btn.home::before {background-image: url(\"../../images/res/icon/btn/homepage.png\");}\r\n.food-list .btn-area .btn.call {display: none;}\r\n\r\n\r\n\r\n/* ì¬íì±\u0085ì */\r\n.tour-book-wrapper {\r\n    height: 595px;\r\n    background: url(\"../../images/res/banner/top/book/bg.jpg\") no-repeat center;\r\n    background-size: cover;\r\n    text-align: center;\r\n    display: flex;\r\n",
+      "content_type": "image/webp",
+      "bytes": 50860,
+      "sha256": "617cef257a20203360177798145756fc200631a09ab182ab628128b42acf22a1",
+      "source_sha256": "91ea8091a7b302280648d1d9b3c513ada59b403332bc3efc6401204a66f75a49",
+      "dhash": "50c889aa62a62228",
+      "width": 1920,
+      "height": 595,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-010.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/top/tabocar/bg.jpg",
+      "source_tag": "external-css",
+      "context": "/ë§ì´íì´ì§ ------------------------------------------------------- */\r\n\r\n\r\n\r\n/* ------------------------------------------------------- íë³´ì¹´ ------------------------------------------------------- */\r\n/* ì°ëì¤ì¹´ */\r\n.full-cover {\r\n\tbackground: url(\"/images/res/banner/top/tabocar/bg.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n\ttext-align: center;\r\n\tpadding: 6.25rem 0;\r\n}\r\n.fu",
+      "content_type": "image/webp",
+      "bytes": 67830,
+      "sha256": "84b1403eb874984ca6250723c494c9e6f83da538a3772b04c095b500fccee6b9",
+      "source_sha256": "e1637904a16d53ebcc3469cc5b3f20f26f74297d7ed29ffa2c2cc7f3c61e21d0",
+      "dhash": "6b6b6f632325a3a1",
+      "width": 1920,
+      "height": 624,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-011.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/top/tabocar/bg2.jpg",
+      "source_tag": "external-css",
+      "context": "----------------------- */\r\n/* ì°ëì¤ì¹´ */\r\n.full-cover {\r\n\tbackground: url(\"/images/res/banner/top/tabocar/bg.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n\ttext-align: center;\r\n\tpadding: 6.25rem 0;\r\n}\r\n.full-cover[data-img=\"pat\"] {background-image: url(\"/images/res/banner/top/tabocar/bg2.jpg\");}\r\n.full-cover[data-img=\"event\"] {background-image: url(\"/images/res/banner/top/event/top-bg.j",
+      "content_type": "image/webp",
+      "bytes": 46254,
+      "sha256": "f653d48f77295fe335cc910a1bcc8dda4deaf0dcd2afc4b87c871908288b7dc3",
+      "source_sha256": "c08e0aaf27b09b1854fb3cef68bc3fc5caa67178e9f9f2a597a4b240d574fec6",
+      "dhash": "1686a6a607060b1b",
+      "width": 1920,
+      "height": 624,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-012.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/top/event/top-bg.jpg",
+      "source_tag": "external-css",
+      "context": "r/top/tabocar/bg.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n\ttext-align: center;\r\n\tpadding: 6.25rem 0;\r\n}\r\n.full-cover[data-img=\"pat\"] {background-image: url(\"/images/res/banner/top/tabocar/bg2.jpg\");}\r\n.full-cover[data-img=\"event\"] {background-image: url(\"/images/res/banner/top/event/top-bg.jpg\"); height: 310px;}\r\n.full-cover[data-img=\"long\"] {background-image: url(\"/images/res/banner/mai",
+      "content_type": "image/webp",
+      "bytes": 52810,
+      "sha256": "d12aa5ed408ff423ce81393668e9e06390f66f6973020430f24c56995811be0f",
+      "source_sha256": "3906900ef8996285eb782d127df31fc961b148fb5a3dd6fa9e50491b3a62f007",
+      "dhash": "131b1d9795949616",
+      "width": 1920,
+      "height": 310,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-013.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/main/long.jpg",
+      "source_tag": "external-css",
+      "context": "\r\n.full-cover[data-img=\"pat\"] {background-image: url(\"/images/res/banner/top/tabocar/bg2.jpg\");}\r\n.full-cover[data-img=\"event\"] {background-image: url(\"/images/res/banner/top/event/top-bg.jpg\"); height: 310px;}\r\n.full-cover[data-img=\"long\"] {background-image: url(\"/images/res/banner/main/long.jpg\"); min-height: 738px;}\r\n.full-cover[data-img=\"tour\"] {background-image: url(\"/images/res/banner/main/t",
+      "content_type": "image/webp",
+      "bytes": 24106,
+      "sha256": "8294a705a9a7519539c980b12bb24c499014d80879c621bfca9737ec4cfff74a",
+      "source_sha256": "e33279cfa29103008a0aa2566df6337cf56f381e84118854a83ed126afcead5f",
+      "dhash": "43435382ae38306a",
+      "width": 1920,
+      "height": 738,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-014.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/main/tour.jpg",
+      "source_tag": "external-css",
+      "context": "data-img=\"event\"] {background-image: url(\"/images/res/banner/top/event/top-bg.jpg\"); height: 310px;}\r\n.full-cover[data-img=\"long\"] {background-image: url(\"/images/res/banner/main/long.jpg\"); min-height: 738px;}\r\n.full-cover[data-img=\"tour\"] {background-image: url(\"/images/res/banner/main/tour.jpg\"); min-height: 728px;}\r\n.full-cover[data-img=\"center\"] {background-image: url(\"/images/res/banner/main",
+      "content_type": "image/webp",
+      "bytes": 84304,
+      "sha256": "558033129b945867e06c72217779e44997d779bfdb92d3f4cbb703a5e158a996",
+      "source_sha256": "25a97fd1a0a508681c749bcc20dfa2860071d47477b0428cc6c59188891109c8",
+      "dhash": "16160f0b3369d0d8",
+      "width": 1920,
+      "height": 728,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-015.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/main/center.jpg",
+      "source_tag": "external-css",
+      "context": "r[data-img=\"long\"] {background-image: url(\"/images/res/banner/main/long.jpg\"); min-height: 738px;}\r\n.full-cover[data-img=\"tour\"] {background-image: url(\"/images/res/banner/main/tour.jpg\"); min-height: 728px;}\r\n.full-cover[data-img=\"center\"] {background-image: url(\"/images/res/banner/main/center.jpg\"); min-height: 728px;}\r\n\r\n.full-cover .s-title {font-size: 1.937rem; color: #fff;}\r\n.full-cover .tit",
+      "content_type": "image/webp",
+      "bytes": 22732,
+      "sha256": "c1bbb59a92538b33443eaa7ae35d88b16ff4304bfdebea4ab058fae0b1038db7",
+      "source_sha256": "00d84eb6e09113bb80748672c5e6c9fcff5214eb5e9c423eef9f9f4118b89dbd",
+      "dhash": "e323c3829282c3cb",
+      "width": 1920,
+      "height": 728,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-016.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/pat/bg2.jpg",
+      "source_tag": "external-css",
+      "context": "-service .text {text-align: left; padding-top: 0.625rem;}\r\n.pat-service .p-title {font-size: 1.25rem; color: #dadada;}\r\n.pat-service .p-memo {font-size: 1.125rem; color: #dadada; line-height: 1.875rem; margin-top: 1.25rem;}\r\n\r\n.container-cover {\r\n\tbackground: url(\"/images/res/pat/bg2.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n\theight: 334px;\r\n\tdisplay: flex;\r\n\tjustify-content: center;\r\n\tal",
+      "content_type": "image/webp",
+      "bytes": 41126,
+      "sha256": "575c9a4c5987ea20b462b35fa16c41fbb1879fcd542a103021ec17491d08ffda",
+      "source_sha256": "c96c5054e28e4a50029a620a809d5c139af40e46f1eb1ec1459b50ba2924cbdc",
+      "dhash": "641c323a3a3c20b0",
+      "width": 1200,
+      "height": 334,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-017.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/banner/top/service-bg.jpg",
+      "source_tag": "external-css",
+      "context": " //íë³´ì¹´ ------------------------------------------------------- */\r\n\r\n\r\n\r\n/* ------------------------------------------------------- ê³ ê°ì¼í° ------------------------------------------------------- */\r\n/* ì§ì ìë´ */\r\n.full-cover2 {\r\n\tbackground: url(\"/images/res/banner/top/service-bg.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n\ttext-align: center;\r\n\tpadding: 4rem 0;\r\n}\r\n.full-",
+      "content_type": "image/webp",
+      "bytes": 17766,
+      "sha256": "4cf01844d28711349ad6276f5cd8ee13758b0bdbb79fe7fd5745755f27d1d3e6",
+      "source_sha256": "374030827ba05329ae64ec35324d4422e406f4519b7348f21820d9b3145f241a",
+      "dhash": "0b1b1e1c1c1c1c16",
+      "width": 1920,
+      "height": 266,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-018.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/company/sub-top-bg.jpg",
+      "source_tag": "external-css",
+      "context": "o-repeat center;\r\n\tbackground-size: cover;\r\n\ttext-align: center;\r\n\tpadding: 4rem 0;\r\n}\r\n.full-cover2 .title {font-size: 1.75rem; color: #fff; margin-bottom: 1.875rem; padding: 0 15px; word-break: keep-all;}\r\n.full-cover2[data-img=\"company\"] {background-image: url(\"/images/res/company/sub-top-bg.jpg\");}\r\n.full-cover2[data-img=\"company\"] .title {font-weight: normal;}\r\n\r\n.icon-menu a {\r\n\tdisplay: inl",
+      "content_type": "image/webp",
+      "bytes": 14852,
+      "sha256": "8378cec1008d92f9b52752d190fcdc9021400d997f281f31814161c5a8fe08b6",
+      "source_sha256": "3c448f438fe51dcb5487625975408eb657337005d166c5c8738001ff9af57d42",
+      "dhash": "6c2c2c2d2d6d2d2c",
+      "width": 1920,
+      "height": 264,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-019.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/guides/member/bg.jpg",
+      "source_tag": "external-css",
+      "context": "inline;}\r\n.foot-tel-info dt {font-weight: bold;}\r\n.foot-tel-info dl dd::after {\r\n\tcontent: \"/\";\r\n\tdisplay: inline;\r\n\tmargin: 0 0 0 4px;\r\n}\r\n.foot-tel-info dl:last-child dd::after {display: none;}\r\n\r\n\r\n\r\n/* íìë±ê¸ìë´ */\r\n.member-guides {\r\n\tbackground: url(\"/images/res/guides/member/bg.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n\tpadding: 3.75rem 0;\r\n}\r\n.member-guides .m-title,\r\n.mem",
+      "content_type": "image/webp",
+      "bytes": 28984,
+      "sha256": "9cbcee827a9f85baeb1ca68c73e0c9f0aa3698e604138ae317707e2623b031d3",
+      "source_sha256": "a405873f465db15d4885aa160c982cf67270960b09f78471dfbadfb9444c6359",
+      "dhash": "ccdcd8d1f2f9b8f4",
+      "width": 1920,
+      "height": 890,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-020.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/company/top-bg.jpg",
+      "source_tag": "external-css",
+      "context": "--------------------------------------------------- */\r\n\r\n\r\n\r\n/* ------------------------------------------------------- íì¬ìê° ------------------------------------------------------- */\r\n/* ë©ì¸ */\r\n.cover-bg[data-img=\"company\"] {\r\n\tbackground-image: url(\"/images/res/company/top-bg.jpg\");\r\n\tpadding: 18.75rem 0;\r\n}\r\n.cover-bg[data-img=\"vision\"] {\r\n\tbackground-image: url(\"/images/res/compan",
+      "content_type": "image/webp",
+      "bytes": 98132,
+      "sha256": "1e5fc6cbdc050442ac9a8675a8180134b8f073ee1b65ef8f6a9b6bfd4efe457c",
+      "source_sha256": "6569f3c9afd6118c3c77de7c0cae5615ddd61e3596458daa4345bd1ff066c98c",
+      "dhash": "ac6ce42cb0e4b198",
+      "width": 1870,
+      "height": 690,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-021.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/company/vision-bg.jpg",
+      "source_tag": "external-css",
+      "context": "--- íì¬ìê° ------------------------------------------------------- */\r\n/* ë©ì¸ */\r\n.cover-bg[data-img=\"company\"] {\r\n\tbackground-image: url(\"/images/res/company/top-bg.jpg\");\r\n\tpadding: 18.75rem 0;\r\n}\r\n.cover-bg[data-img=\"vision\"] {\r\n\tbackground-image: url(\"/images/res/company/vision-bg.jpg\");\r\n\tpadding: 9.375rem 0;\r\n}\r\n\r\n.company-knowhow {padding: 3.125rem 0;}\r\n.company-knowhow .cell-row >",
+      "content_type": "image/webp",
+      "bytes": 26320,
+      "sha256": "253f27463d7dccf82481d6835c0d1b762e0232ca4c9994763021d3ac7ff270ac",
+      "source_sha256": "d26539362e809d6272985dd7100bbb07693536495e298f89d2b6e9e6845fe85b",
+      "dhash": "3939317175665653",
+      "width": 1920,
+      "height": 571,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-022.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/tabocar-bg1.jpg",
+      "source_tag": "external-css",
+      "context": "elative;}\r\n.main-tabocar .cell-row a {\r\n\tdisplay: block;\r\n\tpadding: 9rem 0;\r\n\ttext-decoration: none;\r\n}\r\n.main-tabocar .cell-row a::before {\r\n\tcontent: \"\";\r\n\tdisplay: block;\r\n\tposition: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: 1;\r\n\tbackground: url(\"/images/res/main/tabocar-bg1.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n}\r\n.main-tabocar .cell-row .pat a::before {background-i",
+      "content_type": "image/webp",
+      "bytes": 58500,
+      "sha256": "dcd28c1310a702f167812be2d840f34e4ee8a9f5fc879cc6c580f68febf7e15e",
+      "source_sha256": "dc09dd58d89da2766354078cae5f2a669a51c02be431c301bb797b2d43fc2f78",
+      "dhash": "616727162d3cde8d",
+      "width": 955,
+      "height": 590,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-023.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/tabocar-bg2.jpg",
+      "source_tag": "external-css",
+      "context": "tent: \"\";\r\n\tdisplay: block;\r\n\tposition: absolute; top: 0; bottom: 0; left: 0; right: 0; z-index: 1;\r\n\tbackground: url(\"/images/res/main/tabocar-bg1.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n}\r\n.main-tabocar .cell-row .pat a::before {background-image: url(\"/images/res/main/tabocar-bg2.jpg\");}\r\n.main-tabocar .title,\r\n.main-tabocar .sub {color: #fff; position: relative; z-index: 2;}\r\n.main-t",
+      "content_type": "image/webp",
+      "bytes": 38034,
+      "sha256": "49411048d05832562ecca91a4f266a9a28797f700fc58ebe3e94fb1b735ec017",
+      "source_sha256": "aafb4e06a46126afe853292afa06b4f59ceceab3370a0d861b2883791c194512",
+      "dhash": "db8f0d25270b0e1e",
+      "width": 955,
+      "height": 590,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-024.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/top-banner-01.jpg",
+      "source_tag": "external-css",
+      "context": "size: 2rem; margin: 1.25rem;}\r\n.main-tabocar .sub {font-size: 1.125rem; line-height: 1.875rem;}\r\n.main-tabocar .icon {position: relative; z-index: 2;}\r\n\r\n\r\n\r\n/* Top Banner */\r\n.main-top-wrapper {position: relative;}\r\n.main-banner .swiper-slide {\r\n\tbackground: url(\"/images/res/main/top-banner-01.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n\tbackground-color: #ccc;\r\n\ttext-align: center;\r\n}\r\n/*",
+      "content_type": "image/webp",
+      "bytes": 124088,
+      "sha256": "53ae23f7b80f4ded306bd1fe42f7dd3535cd20c9fb6f6e5ad14056f35471f7b9",
+      "source_sha256": "30a3965a659aa9d89724cd395d10b05db46fdb0879447f5911afb90e5d89e6d9",
+      "dhash": "1f8f6b6a561b0787",
+      "width": 1920,
+      "height": 810,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-025.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/app-link-bg.jpg",
+      "source_tag": "external-css",
+      "context": "r-container-rtl .swiper-button-next {left: -45px;}\r\n.special-offers .event-slider .swiper-button-next,\r\n.special-offers .event-slider .swiper-container-rtl .swiper-button-prev {right: -45px;}\r\n\r\n\r\n\r\n/* ë´ììì ë í¸ì¹´ */\r\n.rent-app-link {\r\n\tbackground: url(\"/images/res/main/app-link-bg.jpg\") no-repeat center;\r\n\tbackground-size: cover;\r\n\tpadding: 220px 0 90px;\r\n}\r\n.rent-app-link .tit {font-s",
+      "content_type": "image/webp",
+      "bytes": 4350,
+      "sha256": "f38781ba9c03e641e0f5f77de4ac31f135c26bc582db0ad80b29603d3c8a728a",
+      "source_sha256": "0827af86a495bea77da47ae2e0a4528be045fbbed8e2f70cdfe1903d9a04c927",
+      "dhash": "0002030302000000",
+      "width": 1920,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-026.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-01.jpg",
+      "source_tag": "external-css",
+      "context": ": 500px;\r\n}\r\n.md-banner .swiper-slide {\r\n\tbackground-repeat: no-repeat;\r\n\tbackground-position: center;\r\n}\r\n.md-banner .swiper-slide .img {\r\n\tbackground-repeat: no-repeat;\r\n\tbackground-position: center top;\r\n}\r\n.md-banner .swiper-slide .img1 {background-image: url(\"/images/res/main/md-banner-01.jpg\");}\r\n.md-banner .swiper-slide .img2 {background-image: url(\"/images/res/main/md-banner-02.jpg\");}\r\n.m",
+      "content_type": "image/webp",
+      "bytes": 47066,
+      "sha256": "07e1eb333c7dc927401c0419a75544f96bd1a17eff84e160cc077a0de8cca008",
+      "source_sha256": "3d80ce09dd44f71e8616faccb8be199bd190c147e1f2b1f4b107c689fa106b5e",
+      "dhash": "06d832425adadada",
+      "width": 1920,
+      "height": 500,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-027.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-02.jpg",
+      "source_tag": "external-css",
+      "context": " center;\r\n}\r\n.md-banner .swiper-slide .img {\r\n\tbackground-repeat: no-repeat;\r\n\tbackground-position: center top;\r\n}\r\n.md-banner .swiper-slide .img1 {background-image: url(\"/images/res/main/md-banner-01.jpg\");}\r\n.md-banner .swiper-slide .img2 {background-image: url(\"/images/res/main/md-banner-02.jpg\");}\r\n.md-banner .swiper-slide .img3 {background-image: url(\"/images/res/main/md-banner-03.jpg\");}\r\n.m",
+      "content_type": "image/webp",
+      "bytes": 34728,
+      "sha256": "32ac52c2a95dd85c7e6e972f788a6e14d5b5e6f9b3f9ef89c5ba8dd436973f60",
+      "source_sha256": "47654c78f0624f060132c441d06a48324f39b47638c44ee9e40f4150f62aabff",
+      "dhash": "d0d4ccc8d8f4f4dc",
+      "width": 1920,
+      "height": 500,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-028.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-03.jpg",
+      "source_tag": "external-css",
+      "context": "tion: center top;\r\n}\r\n.md-banner .swiper-slide .img1 {background-image: url(\"/images/res/main/md-banner-01.jpg\");}\r\n.md-banner .swiper-slide .img2 {background-image: url(\"/images/res/main/md-banner-02.jpg\");}\r\n.md-banner .swiper-slide .img3 {background-image: url(\"/images/res/main/md-banner-03.jpg\");}\r\n.md-banner .swiper-slide .img4 {background-image: url(\"/images/res/main/md-banner-04.jpg\");}\r\n.m",
+      "content_type": "image/webp",
+      "bytes": 37534,
+      "sha256": "35b70f59e032ab2262b18f8b9836c683824055ced589e6f6d719934562a1a04f",
+      "source_sha256": "7d3f076b062634c248af774ccf5f63411e8a58548d9273fff0145e7fd1346016",
+      "dhash": "213446dc9c5c9494",
+      "width": 1920,
+      "height": 500,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-029.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-04.jpg",
+      "source_tag": "external-css",
+      "context": "md-banner-01.jpg\");}\r\n.md-banner .swiper-slide .img2 {background-image: url(\"/images/res/main/md-banner-02.jpg\");}\r\n.md-banner .swiper-slide .img3 {background-image: url(\"/images/res/main/md-banner-03.jpg\");}\r\n.md-banner .swiper-slide .img4 {background-image: url(\"/images/res/main/md-banner-04.jpg\");}\r\n.md-banner .swiper-slide .img5 {background-image: url(\"/images/res/main/md-banner-05.jpg\");}\r\n.m",
+      "content_type": "image/webp",
+      "bytes": 37380,
+      "sha256": "311c19f88a15e02d4f947313f1ae76a2afedee0c4e0c8250b352fba5e2a708ec",
+      "source_sha256": "4bd413bdb02950d940329d5954e7658cb751733333a8c66cdb90f54312a81d61",
+      "dhash": "210e0d2233231e0a",
+      "width": 1920,
+      "height": 500,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-030.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/md-banner-05.jpg",
+      "source_tag": "external-css",
+      "context": "md-banner-02.jpg\");}\r\n.md-banner .swiper-slide .img3 {background-image: url(\"/images/res/main/md-banner-03.jpg\");}\r\n.md-banner .swiper-slide .img4 {background-image: url(\"/images/res/main/md-banner-04.jpg\");}\r\n.md-banner .swiper-slide .img5 {background-image: url(\"/images/res/main/md-banner-05.jpg\");}\r\n.md-banner .swiper-slide .img6 {background-image: url(\"/images/res/main/md-banner-06.jpg\");}\r\n.m",
+      "content_type": "image/webp",
+      "bytes": 71646,
+      "sha256": "199571ab30c4a395e3ed5064f06e8a097d73a4c9e6822e538beaf95a9d08d3fb",
+      "source_sha256": "e95b9e21f0d678a34510e8d45c5e348d9a64289c2f12f2c23879680fab26654c",
+      "dhash": "a66d4c517b5a5a99",
+      "width": 1920,
+      "height": 500,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-031.webp",
       "source_url": "https://www.jejurentcar.co.kr/data/banner/1718689260430_f673a5cffaa34cd59cc893752b090d61.jpg",
-      "source_tag": "inline-background-image",
+      "source_tag": "inline-css",
       "context": "div  swiper-slide background-image: url(/data/banner/1718689260430_f673a5cffaa34cd59cc893752b090d61.jpg)",
       "content_type": "image/webp",
-      "bytes": 68010,
-      "sha256": "6bf9d88f20052bee9f1d22273447e30e438aed186dea6820b8a4002af002b6a7",
-      "width": 1800,
-      "height": 488
+      "bytes": 70458,
+      "sha256": "8a161cd873d7d04dfbc7ce263b9ca10017cea20a587eefe9547704b6a63ace99",
+      "source_sha256": "e3094b9143084ea64dddd81fd76bebf6bffbfbba5db6cec33867f28a731b7d4d",
+      "dhash": "01d4dcca4aca9ee6",
+      "width": 1920,
+      "height": 520,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/banner-032.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/banner/1718689269792_3d0d29eb46224e3598a427d0e023bc81.jpg",
+      "source_tag": "inline-css",
+      "context": "div  swiper-slide background-image: url(/data/banner/1718689269792_3d0d29eb46224e3598a427d0e023bc81.jpg)",
+      "content_type": "image/webp",
+      "bytes": 82164,
+      "sha256": "94c177d8b0d0204640cba66d19d82738216f59024d83c91ed796e2608b7bd37e",
+      "source_sha256": "28e5118980602bd4acba42c37d05845be8a9e94dbd59a079a03dee5f41be668f",
+      "dhash": "c6ce0e484a989b36",
+      "width": 1920,
+      "height": 520,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-3.webp",
-      "source_url": "https://www.jejurentcar.co.kr/data/banner/1718689269792_3d0d29eb46224e3598a427d0e023bc81.jpg",
-      "source_tag": "inline-background-image",
-      "context": "div  swiper-slide background-image: url(/data/banner/1718689269792_3d0d29eb46224e3598a427d0e023bc81.jpg)",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-007.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/jejurent.png",
+      "source_tag": "html-data, img:image",
+      "context": "e.com/app/id1532361516\" target=\"_blank\"><!--  target=\"_blank\" -->\n<img alt=\"App Store\" src=\"/images/res/main/app-ios.png\"/>\n</a>\n</div>\n<div class=\"jejurent\">\n<img alt=\"제주렌트카\" src=\"/images/res/main/jejurent.png\"/>\n</div>\n</div>\n</div> <!-- //container -->\n</section> <!-- //rent-app-link -->\n<section class=\"follow-us new\">\n<div cl",
       "content_type": "image/webp",
-      "bytes": 80468,
-      "sha256": "e9185edba6cbc1168199aa287bde8f30cd6350f9895b6141246adfe473b3ab22",
-      "width": 1800,
-      "height": 488
+      "bytes": 15958,
+      "sha256": "bfd91afe30cb02fac572b8f0026cdef575652899c3b57eb6cdf8bcc9fdc09403",
+      "source_sha256": "bce43d12539eb96aebe038e7f56a336fdd1fb73b2a8ebb49c2a85c500e909b8c",
+      "dhash": "3424483866c68e83",
+      "width": 800,
+      "height": 461,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-008.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/chat/talk.png",
+      "source_tag": "html-data",
+      "context": "=\"btnChatTalk\" onclick=\"layer_popup('#chatModal');\" type=\"button\">\n<!-- <button type=\"button\" class=\"chat-icon\" onclick=\"alert('준비 중 입니다.'); return false;\"> -->\n<img alt=\"상담톡\" src=\"/images/chat/talk.png\"/>\n</button>\n<div class=\"layer-popup\" id=\"chatModal\">\n<div class=\"content-wrap br-none chat\">\n<div class=\"content pa-0\">",
+      "content_type": "image/webp",
+      "bytes": 15502,
+      "sha256": "35e4d64b1b41553e802374cdbfce5c8114425b455aab0d429b05a303d216a177",
+      "source_sha256": "210872c262dc89f44d362a413b37207b4651a4af378f01884750a1907b8714ef",
+      "dhash": "73471d1f44651993",
+      "width": 500,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/",
+        "https://www.jejurentcar.co.kr/customer/customerInfo09.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000087",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000090",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000102",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000103",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000104",
+        "https://www.jejurentcar.co.kr/longTerm.do",
+        "https://www.jejurentcar.co.kr/longTerm.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-009.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/chat/service-start.jpg",
+      "source_tag": "html-data",
+      "context": ">\n<div class=\"content pa-0\">\n<div class=\"main pa-0\">\n<button class=\"close st1\" type=\"button\"></button>\n<a href=\"#\" id=\"channel-chat-button\" onclick=\"void chatChannel();\">\n<img src=\"/images/chat/service-start.jpg\">\n</img></a>\n<script src=\"//developers.kakao.com/sdk/js/kakao.min.js\"></script>\n<script type=\"text/javascript\">\n\t\t\t\t\t\tfu",
+      "content_type": "image/webp",
+      "bytes": 32578,
+      "sha256": "50b4f58d393cbbf72b1ca0e0e75466abb34a2fb156c0ba11ffcff1ae5716f595",
+      "source_sha256": "fe1f26f82373b4e29c8c0a1536190ad60e15a61957e99f46e72ff28cd923237f",
+      "dhash": "13290706862fd4c4",
+      "width": 634,
+      "height": 804,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/",
+        "https://www.jejurentcar.co.kr/customer/customerInfo09.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000087",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000090",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000102",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000103",
+        "https://www.jejurentcar.co.kr/event/eventList.do?mode=detail&sPromtId=PROMT00000104",
+        "https://www.jejurentcar.co.kr/longTerm.do",
+        "https://www.jejurentcar.co.kr/longTerm.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermNew.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do",
+        "https://www.jejurentcar.co.kr/longTerm/longTermUsed.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-010.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000102_THUM_76bb0747c5b442f2b1b410aeed4b36f5.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000102_THUM_76bb0747c5b442f2b1b410aeed4b36f5.jpg);",
+      "content_type": "image/webp",
+      "bytes": 58182,
+      "sha256": "de698f730441eed93b13f91836f3a83c93269055ec98c302982a08bfec411266",
+      "source_sha256": "f2a81a17be895ace969a60635c80375f0b630ed2ee934e190822ecd83b13d663",
+      "dhash": "6079e8e469179419",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/",
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-011.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000087_THUM_9c63ded5f805402d88c37f6657ca838e.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000087_THUM_9c63ded5f805402d88c37f6657ca838e.jpg);",
+      "content_type": "image/webp",
+      "bytes": 143654,
+      "sha256": "0c43eaef8604d1764f60ebcbb9f28601db65a6bdf9880052084064e76f241f80",
+      "source_sha256": "f20cd40adf2f383adf4c189a1a6ff2c4c3e46e8818159311f79f7d89a9f1848e",
+      "dhash": "bb5f471915342607",
+      "width": 2200,
+      "height": 1650,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/",
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-012.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000090_THUM_f3c548c9b7e347a18d8f708cc3bd091b.png",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000090_THUM_f3c548c9b7e347a18d8f708cc3bd091b.png);",
+      "content_type": "image/webp",
+      "bytes": 46884,
+      "sha256": "b5a4bab190ceaeb65fbafb6091f3ae3b98b7288402c0e8a959341c15aab4f178",
+      "source_sha256": "efeac2b70df8fd9d2be78f5e3e80d131ac619e75d9685220e3e1d3736f7ccb56",
+      "dhash": "295b734ce9713369",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/",
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-013.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000103_THUM_629ca07f9d7e489b8584d58d04b1b7de.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000103_THUM_629ca07f9d7e489b8584d58d04b1b7de.jpg);",
+      "content_type": "image/webp",
+      "bytes": 92924,
+      "sha256": "002f6dd392f676b6189be352c82cb4e76c50e40316b3fae470b6c3f4527ef12d",
+      "source_sha256": "a4c5ac26adc8892d20e2ddaaa16a0506d5e94acd77246b44ef428322755daec6",
+      "dhash": "1c20007c3b539b19",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-014.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000104_THUM_70e01aa3706a443787d3d4402fd67db8.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000104_THUM_70e01aa3706a443787d3d4402fd67db8.jpg);",
+      "content_type": "image/webp",
+      "bytes": 59998,
+      "sha256": "84c756b09d3ad379d8330bc5d6f9ec2543d745f0641c98cbb0f8edd30f32e791",
+      "source_sha256": "ebf0c9f7ed3ed87a692511582d0b0bcdea46365d220f4d266e458c13c1118742",
+      "dhash": "e617173d27259b87",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-015.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000100_THUM_7e7bd38347794e7ba7095baf7bc58a16.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000100_THUM_7e7bd38347794e7ba7095baf7bc58a16.jpg);",
+      "content_type": "image/webp",
+      "bytes": 28610,
+      "sha256": "c663036b31e7f9ebe8ac9e3aac51331ac87149590407d36dc033d22df795db04",
+      "source_sha256": "abb17606cfde628540d36564b503933c8af8865df4c0bebe3c213371d103144d",
+      "dhash": "39c49e235858582c",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-016.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000101_THUM_31aab05beca747e48646c048312841e7.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000101_THUM_31aab05beca747e48646c048312841e7.jpg);",
+      "content_type": "image/webp",
+      "bytes": 83394,
+      "sha256": "053808b9da616893d435dec9b8824bce409e6ee511082c988dc69f4521725e0f",
+      "source_sha256": "eaeef7392faf92cdd7bd0e94543407fad69bf3185ec92b4aa1f645e8252355e3",
+      "dhash": "0f171717172b2727",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-017.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000099_THUM_b8b0f99fec4a475783bbe61034cd5b54.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000099_THUM_b8b0f99fec4a475783bbe61034cd5b54.jpg);",
+      "content_type": "image/webp",
+      "bytes": 26316,
+      "sha256": "f13982c07d885746c6161f2b8e0b3a4e09da40d5cda38915b57890828cccc5ba",
+      "source_sha256": "3c31aab26d9b02d4c64fc89921da6ce6688ef7fb0d693090abe5c8ef46356f8d",
+      "dhash": "a69aefe5d65f9665",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-018.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000097_THUM_de91b04a54044db9a0cb1ef542d56e44.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000097_THUM_de91b04a54044db9a0cb1ef542d56e44.jpg);",
+      "content_type": "image/webp",
+      "bytes": 18084,
+      "sha256": "118a920ee8d6855b237af5cc29b594111d13ece14108c05ab49c825aee2c80e9",
+      "source_sha256": "96a1c8fe03c248fc4421310c077ecc856668d2f3f37e9039f0a0d6a1fefdf039",
+      "dhash": "d6b0604c17e8ec4c",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-019.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000098_THUM_4f46545366be4a7b9c34f8e8325b8176.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000098_THUM_4f46545366be4a7b9c34f8e8325b8176.jpg);",
+      "content_type": "image/webp",
+      "bytes": 28802,
+      "sha256": "c89f6fbda955a08254098e66e118a6ed70060c7fffe2bb5081f21e893b5275db",
+      "source_sha256": "e5b6289ba375766fbc8f44b35424a6a2ac80846a4d25e32ea8f10eec10d443e3",
+      "dhash": "1adaacc8ceeb1316",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-020.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000096_THUM_7621560bec704386b45686d3d783a3a7.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000096_THUM_7621560bec704386b45686d3d783a3a7.jpg);",
+      "content_type": "image/webp",
+      "bytes": 23422,
+      "sha256": "cf92bd37b96259f5e107f3a841ecba961a6e32ca0fd73f42f2336af725cc5b6e",
+      "source_sha256": "597c5711e69ee7c528ab270cb0d7a24769053e5b2c536999529d2059ed57754a",
+      "dhash": "75d4f227b2b09616",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-021.webp",
+      "source_url": "https://www.jejurentcar.co.kr/data/promt/thum/PROMT00000095_THUM_58e9bd2e092a471c99acbf9263bce6ab.jpg",
+      "source_tag": "inline-css",
+      "context": "div  img-area background-image: url(/data/promt/thum/PROMT00000095_THUM_58e9bd2e092a471c99acbf9263bce6ab.jpg);",
+      "content_type": "image/webp",
+      "bytes": 20280,
+      "sha256": "110832dc42155d6b4cf13ba5ea1a236fe5c43335312c8958816ccce288c3cf30",
+      "source_sha256": "c49feae2cc147ef66ae9b6d2bb67d6aff92b75132416e527bf5359cd3c85f11c",
+      "dhash": "e1368c848616ce15",
+      "width": 800,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/event/eventList.do",
+        "https://www.jejurentcar.co.kr/event/eventList.do;jsessionid=7241942B7AADFCAA3B5336047A1B93D4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-022.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/pat/bg.jpg",
+      "source_tag": "external-css",
+      "context": " {font-size: 1.25rem; color: #fff;}\r\n\r\n.well-info-wrapper {padding: 4.375rem 0 6.25rem;}\r\n.tab-title {font-size: 2.25rem; font-weight: normal; color: #312d2d; margin-bottom: 2.5rem;}\r\n\r\n\r\n\r\n/* í» íëë¤ë¦¬ì¹´ */\r\n.title-contentB .container {\r\n\tbackground: url(\"/images/res/pat/bg.jpg\") no-repeat right bottom;\r\n\tpadding-top: 10.625rem;\r\n\tpadding-bottom: 7.5rem;\r\n}\r\n.title-contentB .memo {font-si",
+      "content_type": "image/webp",
+      "bytes": 21168,
+      "sha256": "67daecc67db72c7c60813ffcf5acf6a90a04e0afd742e813d9676c9f09fd4182",
+      "source_sha256": "b4c755d3502b3cd25b3a39149233e99666631736c475cfab15db4c8c2b3cbb99",
+      "dhash": "20b062c6cce8ecfc",
+      "width": 680,
+      "height": 426,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-023.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/service/sup/bg.jpg",
+      "source_tag": "external-css",
+      "context": ": keep-all;}\r\n.benefit dd li h4 {font-size: 0.937rem; margin-bottom: 5px;}\r\n.benefit dd li p {font-size: 0.812rem; color: #777;}\r\n\r\n\r\n\r\n/* ë¶ê°ìë¹ì¤ìë´ */\r\n.sup-service-area {\r\n\tmargin-top: 3.125rem; padding: 0 20px; position: relative;\r\n\tbackground: url(\"/images/res/service/sup/bg.jpg\") no-repeat center top;\r\n}\r\n.sup-service-area .cell-row > div {vertical-align: top;}\r\n.sup-service-area ",
+      "content_type": "image/webp",
+      "bytes": 2904,
+      "sha256": "b35652486c8cf692491973c8f8e1571816985cd016cbb1ef8f723ac24b36766d",
+      "source_sha256": "dbe818cfe305177fcb8670baa8eac87e15df3e52f240d700ab6b2e27b0c30c23",
+      "dhash": "0030b43818181804",
+      "width": 1200,
+      "height": 502,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-024.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/special-bg.jpg",
+      "source_tag": "external-css",
+      "context": " 8px solid #0e9f26;\r\n\tborder-right: 8px solid transparent;\r\n\tborder-bottom: 8px solid transparent;\r\n\tborder-left: 8px solid transparent;\r\n}\r\n.main-tabs .tabPanel {display: none;}\r\n\r\n\r\n\r\n/* Special Offers */\r\n.special-offers {\r\n\tpadding: 100px 0;\r\n\tbackground: url(\"/images/res/main/special-bg.jpg\") no-repeat center;\r\n}\r\n.special-offers .top-area {text-align: center; position: relative;}\r\n.special-o",
+      "content_type": "image/webp",
+      "bytes": 3534,
+      "sha256": "cf83c478a5610a8a6719717b1192b9add95d5c953f28165c2a7a1f98ced3da82",
+      "source_sha256": "6fc6f3016cb55dfd5a5f4140682b6ff04c6584cc93d85b0d86125819c3609cb2",
+      "dhash": "0606060606060606",
+      "width": 1920,
+      "height": 950,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-025.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/main/map.jpg",
+      "source_tag": "external-css",
+      "context": "ice .quick-menu a.tour::before {background-image: url(\"/images/res/main/quick-tour.png\");}\r\n.best-choice .quick-menu a strong {display: block; font-weight: normal; margin-top: 10px;}\r\n.best-choice .map-wrap {\r\n\theight: 600px; position: relative;\r\n\tbackground: url(\"/images/res/main/map.jpg\") no-repeat center #f2f0e8;\r\n\tbackground-size: auto 600px;\r\n}\r\n/*\r\n.best-choice .map-wrap::before {\r\n\tcontent:",
+      "content_type": "image/webp",
+      "bytes": 94382,
+      "sha256": "673d17d4ec320af727c103ae100e7adc63477ff6dc4f6b26b518ff8def8049da",
+      "source_sha256": "e14b909a83e3ca214fcdf2f2b4b64599816688df86da2b6a65971ad463072085",
+      "dhash": "29090ca4f662642f",
+      "width": 2000,
+      "height": 600,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-rentcar-hq/reference-026.webp",
+      "source_url": "https://www.jejurentcar.co.kr/images/res/not/rent.jpg",
+      "source_tag": "script-data",
+      "context": "+ imgInfo.carImg + '\" alt=\"\"></div>');\r\n\t\t\t\t}\r\n\t\t\t\t\r\n\t\t\t\tif (imgList.length == 0) {\r\n\t\t\t\t\t$(targetObj + ' .gallery-top .swiper-wrapper').append('<div class=\"swiper-slide\"><img src=\"/images/res/not/rent.jpg\" alt=\"\"></div>');\r\n\t\t\t\t\t$(targetObj + ' .gallery-thumbs .swiper-wrapper').append('<div class=\"swiper-slide\"><img src=\"/i",
+      "content_type": "image/webp",
+      "bytes": 2656,
+      "sha256": "45ad458c1be58f152e7edc7557585e73adb9aded51d59d00bcfe1b761dfd684a",
+      "source_sha256": "92f90a0b3256d5969c457ddb5f4062381a720a37f1039cb2a0fad0a419ba18eb",
+      "dhash": "0814323232322004",
+      "width": 600,
+      "height": 450,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurentcar.co.kr/"
+      ]
     }
   ]
 }

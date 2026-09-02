@@ -5,7 +5,18 @@
   "page_url": "https://www.acerentacar.com/",
   "page_title": "ACE Rent A Car: Affordable & Convenient | Discount Car Rental Rates In Over 50 Countries",
   "collection_status": "complete",
-  "collection_error": "reference:ValueError:https://www.acerentacar.com/_next/static/css/acad695b62709d54.css; reference:ValueError:https://www.acerentacar.com/_next/static/css/6b6cbac4208c118c.css",
+  "collection_error": "asset:https://www.acerentacar.com/assets/licensee/Blue-Mountains2.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 1,
+    "desktop_pages": 1,
+    "mobile_pages": 1,
+    "stylesheets": 2,
+    "scripts": 10,
+    "candidates": 193,
+    "attempted_assets": 193,
+    "errors": 1,
+    "collected_at": "2026-09-03T08:29:28.819694+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,75 +31,669 @@
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/ace-rent-a-car/logo-1.png",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/logo-001.png",
       "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2Fheader%2FAce-Desktop-White.png&w=384&q=75",
-      "source_tag": "img:semantic-logo",
-      "context": "img ace-logo noscript span a div jsx-3853739742 header_ace_logo_container__tdqux",
+      "source_tag": "img:image, img:logo",
+      "context": "img ace-logo noscript span a div jsx-1180677272 header_ace_logo_container__tdqux div jsx-1180677272 header_container",
       "content_type": "image/png",
       "bytes": 19279,
       "sha256": "675b02cec009fe85716383aee61bfb03db0142ced928c1eb0be1da6ffd062354",
+      "source_sha256": "35e05e9807181cec1c289f58ad5cebed9977a69c2fcc5074228888ceec3f7177",
+      "dhash": "202039592985bb2b",
       "width": 384,
-      "height": 161
+      "height": 161,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/ace-rent-a-car/logo-2.png",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/logo-002.png",
       "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2Fheader%2FAce-Desktop-White.png&w=256&q=75",
-      "source_tag": "img:semantic-logo",
-      "context": "img ace-logo noscript span a div jsx-3853739742 header_ace_logo_container__tdqux",
+      "source_tag": "img:image, img:logo",
+      "context": "img ace-logo noscript span a div jsx-1180677272 header_ace_logo_container__tdqux div jsx-1180677272 header_container",
       "content_type": "image/png",
       "bytes": 12003,
       "sha256": "797986cf342c31355d116e16bc3a686e6d96639055fa44344f2bf1a77cd36166",
+      "source_sha256": "940f32f8456ac84948226651452f9a7ea4149359b6251dc4b5bb94199b2977b6",
+      "dhash": "2029595840a6b229",
       "width": 256,
-      "height": 108
+      "height": 108,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
     },
     {
       "type": "banner",
-      "path": "assets/렌터카_글로벌/ace-rent-a-car/banner-1.webp",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/banner-001.webp",
       "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FDesktop%2FHomepage-Landing-Image-EN.jpg&w=3840&q=100",
-      "source_tag": "img:semantic-banner",
-      "context": "img main noscript span div home_wrapper__cyxz1 main",
+      "source_tag": "img:banner, img:image",
+      "context": "img main noscript span div home_wrapper__cyxz1 main div utils_main_container__K8tZY",
       "content_type": "image/webp",
-      "bytes": 520156,
-      "sha256": "e4fed465e669870a15fb8781502c4d34eabcd8112ce993fbfcf178ec36a01e9d",
-      "width": 1800,
-      "height": 1113
+      "bytes": 700240,
+      "sha256": "bba6d59c9c59a6495bf70d144d083dca832431365c8227ea570148cb1273304e",
+      "source_sha256": "513ab8145b55bac796c4253c555b8e14914ca05be246ba204f20991723c7c8e5",
+      "dhash": "1f1f1f5e3e7389cc",
+      "width": 2200,
+      "height": 1360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
     },
     {
       "type": "banner",
-      "path": "assets/렌터카_글로벌/ace-rent-a-car/banner-2.webp",
-      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FDesktop%2FHomepage-Landing-Image-EN.jpg&w=2048&q=100",
-      "source_tag": "img:semantic-banner",
-      "context": "img main noscript span div home_wrapper__cyxz1 main",
-      "content_type": "image/webp",
-      "bytes": 512184,
-      "sha256": "0676d7f15590083b6733e5025eede541e0f7e703199c0e80d4aa375983a51cc4",
-      "width": 1800,
-      "height": 1113
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-1.webp",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/banner-002.webp",
       "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FMobileAwards.png&w=3840&q=100",
-      "source_tag": "img:page-image",
-      "context": "img Awards span div home_awards_image__Mk2_w div home_wrapper__cyxz1 main",
+      "source_tag": "img:banner, img:image",
+      "context": "img Awards span div home_awards_image__Mk2_w div home_wrapper__cyxz1 main div utils_main_container__K8tZY",
       "content_type": "image/webp",
-      "bytes": 50692,
-      "sha256": "5474b23457bc3bf0ac16335830776d7f2ef9cbdc8c3a492e2801a7f2c5d09223",
-      "width": 1800,
-      "height": 572
+      "bytes": 60504,
+      "sha256": "c47e3358e8c849111be55fc92076c31e39e1acd2cc029f6b54c0928fc5e9f723",
+      "source_sha256": "7f24e9d4dbcdaabed3379cd271157abaf174267996a6f8d986eb7ed52a1580e8",
+      "dhash": "019a7ab6fa7a924d",
+      "width": 2200,
+      "height": 699,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-2.webp",
-      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FMobileAwards.png&w=2048&q=100",
-      "source_tag": "img:page-image",
-      "context": "img Awards span div home_awards_image__Mk2_w div home_wrapper__cyxz1 main",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-001.webp",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FMobileAwards.png&w=640&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img Awards span div home_awards_image__Mk2_w div home_wrapper__cyxz1 main div utils_main_container__K8tZY",
       "content_type": "image/webp",
-      "bytes": 50750,
-      "sha256": "c5cc6fe8e37bd12cccafc4879cc3e1a776f775b7e0d87eafce7ced52253fc889",
-      "width": 1800,
-      "height": 572
+      "bytes": 14760,
+      "sha256": "bf7b0b192dab7148a00fa6b92bbfa3c38f45779f59b7952073d2fdc25e0d3474",
+      "source_sha256": "d61f5efe3c3987872122bddb64de579cc81306d8ccb76be6286059b7d9ee7a4f",
+      "dhash": "019a7ab6f27a924d",
+      "width": 640,
+      "height": 203,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-002.webp",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FMobileAwards.png&w=750&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img Awards span div home_awards_image__Mk2_w div home_wrapper__cyxz1 main div utils_main_container__K8tZY",
+      "content_type": "image/webp",
+      "bytes": 18572,
+      "sha256": "0ac018821e880200666cbefc59b6a0ace518182eeb8860901a5f67befeef2477",
+      "source_sha256": "887690c2e52b7328e1835bd23d5cd160a5e65f84b1dde8860963cb3502185d9a",
+      "dhash": "809a7ab6fa7a924d",
+      "width": 750,
+      "height": 238,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-003.webp",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FMobileAwards.png&w=828&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img Awards span div home_awards_image__Mk2_w div home_wrapper__cyxz1 main div utils_main_container__K8tZY",
+      "content_type": "image/webp",
+      "bytes": 20822,
+      "sha256": "ca9abd432eb6cb456c7c28f1aa35610ef996248fef39ab801ed99037e3f2703e",
+      "source_sha256": "71c78b7c007c6268ff5806961ca4a97001da60f5f61d74c041cc5507afac0de6",
+      "dhash": "019a7ab6fa7a924d",
+      "width": 828,
+      "height": 263,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/banner-003.webp",
+      "source_url": "https://www.acerentacar.com/_next/image/?url=%2Fassets%2FHomePage%2FMobileAwards.png&w=1200&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img Awards span div home_awards_image__Mk2_w div home_wrapper__cyxz1 main div utils_main_container__K8tZY",
+      "content_type": "image/webp",
+      "bytes": 31046,
+      "sha256": "568723fa28c1406b9afe5d0dfb42534f8397678b39a2c412b9e69523f5797ddf",
+      "source_sha256": "ba6810d1d08cf631eba09bec1e64f9a16661ec5f8d0dc721abe9a6d73ca8b4ef",
+      "dhash": "019a7ab6fa7a9269",
+      "width": 1200,
+      "height": 381,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-004.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/user-light-full.svg",
+      "source_tag": "html-data, script-data",
+      "context": "header_header_right__rCxFp\"><div class=\"jsx-1180677272 header_header_option__N_Wiu header_option_light__1pLfW\"><img alt=\"user\" class=\"jsx-1180677272 header_header_icon__O8I5_\" src=\"/assets/Icons/user-light-full.svg\"/><span class=\"jsx-1180677272\">Login</span></div><img alt=\"menu\" class=\"jsx-1180677272 header_menu_icon__Pq0R0\" src=\"/as",
+      "content_type": "image/svg+xml",
+      "bytes": 769,
+      "sha256": "16eaf1ef4c49cd08ba9564564a3119b265d60e867f7b133bd05b773afeebba26",
+      "source_sha256": "16eaf1ef4c49cd08ba9564564a3119b265d60e867f7b133bd05b773afeebba26",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-005.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/bars-staggered-regular-full.svg",
+      "source_tag": "html-data, script-data",
+      "context": "ader_header_icon__O8I5_\" src=\"/assets/Icons/user-light-full.svg\"/><span class=\"jsx-1180677272\">Login</span></div><img alt=\"menu\" class=\"jsx-1180677272 header_menu_icon__Pq0R0\" src=\"/assets/Icons/bars-staggered-regular-full.svg\"/></div></div></div><div></div></div><div><div class=\"home_location_input_search__iMH7G\" id=\"location-input-search\"><spa",
+      "content_type": "image/svg+xml",
+      "bytes": 668,
+      "sha256": "b7a5d8b498a13560c9a6944f104228bf786b647615c5b9c006373be930223aea",
+      "source_sha256": "b7a5d8b498a13560c9a6944f104228bf786b647615c5b9c006373be930223aea",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-006.webp",
+      "source_url": "https://www.acerentacar.com/assets/HomePage/Desktop/Homepage-Member-Rewards-EN.jpg",
+      "source_tag": "script-data",
+      "context": "J:function(){return t}});let t={homepage:{main:{src:\"/assets/HomePage/Desktop/Homepage-Landing-Image-EN.jpg\",objectPosition:{mobile:\"70% 0%\",desktop:\"0% 50%\"}},memberRewards1:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewards-EN.jpg\",objectPosition:{desktop:\"75% 0%\"}},memberRewards2:{src:\"/assets/HomePage/Desktop/Map-EN.png\",objectPosition:{desktop:\"\"",
+      "content_type": "image/webp",
+      "bytes": 450762,
+      "sha256": "f94e77d67685bade5c709ceda16362ebc0fb139731e1fed774d17434ed530ef1",
+      "source_sha256": "76ed38711fa0d7f392e02f94c9d651ca52b115ef72a758efb971704eaa72402d",
+      "dhash": "0000031c3c393a1b",
+      "width": 2152,
+      "height": 1392,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-007.webp",
+      "source_url": "https://www.acerentacar.com/assets/HomePage/Desktop/Map-EN.png",
+      "source_tag": "script-data",
+      "context": "ctPosition:{mobile:\"70% 0%\",desktop:\"0% 50%\"}},memberRewards1:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewards-EN.jpg\",objectPosition:{desktop:\"75% 0%\"}},memberRewards2:{src:\"/assets/HomePage/Desktop/Map-EN.png\",objectPosition:{desktop:\"\"}}},bookingPath:{vehicleList:{signUpModal:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewa",
+      "content_type": "image/webp",
+      "bytes": 34858,
+      "sha256": "9cddc26ca4c61ac63aea4efb03fcf0d1e7b0ca78938eed1a931cf2e7dc1bcfa7",
+      "source_sha256": "71fddd82f0663cc84a8538b1b2acbea937d0fbc061032cc11a419b015f3842f9",
+      "dhash": "2110148104246140",
+      "width": 956,
+      "height": 804,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-008.webp",
+      "source_url": "https://www.acerentacar.com/assets/Member/Member-Account.png",
+      "source_tag": "script-data",
+      "context": "ion:{desktop:\"\"}}},bookingPath:{vehicleList:{signUpModal:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewards-EN.jpg\",objectPosition:{desktop:\"0 65%\"}}}},dashboards:{member:{src:\"/assets/Member/Member-Account.png\",objectPosition:{mobile:\"52% 0%\",desktop:\"50% 35%\"}},agent:{src:\"/assets/HomePage/Desktop/Homepage-Landing-Image-EN.jpg\"",
+      "content_type": "image/webp",
+      "bytes": 235724,
+      "sha256": "257c5cdd7ab110eb2e48334e20389210cca8d4a8aa842b863c75f74ac3074f00",
+      "source_sha256": "7bdec4987ee13538904abea5bf83c32410e42aa5a7bb96609b8d3055f8c620c6",
+      "dhash": "0100071f1b1f1b23",
+      "width": 1920,
+      "height": 923,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-009.webp",
+      "source_url": "https://www.acerentacar.com/assets/Member/Member-Join-Overlay-EN.jpg",
+      "source_tag": "script-data",
+      "context": "0%\",desktop:\"50% 35%\"}},agent:{src:\"/assets/HomePage/Desktop/Homepage-Landing-Image-EN.jpg\",objectPosition:{mobile:\"0% 0%\",desktop:\"0% 25%\"}}},static:{memberRewards:{topImage:{src:\"/assets/Member/Member-Join-Overlay-EN.jpg\",objectPosition:{mobile:\"50% 30%\",desktop:\"50% 30%\"}},bottomImage:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewards",
+      "content_type": "image/webp",
+      "bytes": 278198,
+      "sha256": "064a3dcf48b7f4daef5cb8c0b90cbb41f1091227fa64cf71b193318d2a689bdf",
+      "source_sha256": "08a9fcabbf6e1c9693948ab84d6dd8f4f5e6437517d7de12ae0e882a2d289758",
+      "dhash": "26074b431e19673d",
+      "width": 2121,
+      "height": 1414,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-010.webp",
+      "source_url": "https://www.acerentacar.com/assets/Agent/TA-Enroll-Header.jpg",
+      "source_tag": "script-data",
+      "context": "ition:{mobile:\"50% 30%\",desktop:\"50% 30%\"}},bottomImage:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewards-EN.jpg\",objectPosition:{desktop:\"90% 0%\"}}},agentEnroll:{header:{src:\"/assets/Agent/TA-Enroll-Header.jpg\",objectPosition:{desktop:\"0% 85%\"}}},b2b:{topLeft:{src:\"/assets/static/B2B-Fall.png\",objectPosition:{desktop:\"50% 90%\"}}",
+      "content_type": "image/webp",
+      "bytes": 363444,
+      "sha256": "812fba3b4d796a69ca13e9298f5aaa862605b6d52e000c16071518adcfde5316",
+      "source_sha256": "c8e9367862c8f9b8536f1b14b2eeb5426e5215cd5f9306f6a679f5d9829bc9ae",
+      "dhash": "03040c1e1f0d4d0f",
+      "width": 2200,
+      "height": 968,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-011.webp",
+      "source_url": "https://www.acerentacar.com/assets/static/B2B-Fall.png",
+      "source_tag": "script-data",
+      "context": "page-Member-Rewards-EN.jpg\",objectPosition:{desktop:\"90% 0%\"}}},agentEnroll:{header:{src:\"/assets/Agent/TA-Enroll-Header.jpg\",objectPosition:{desktop:\"0% 85%\"}}},b2b:{topLeft:{src:\"/assets/static/B2B-Fall.png\",objectPosition:{desktop:\"50% 90%\"}},topRight:{src:\"\",objectPosition:{desktop:\"\"}}},licensee:{topLeft:{src:\"/assets/Lice",
+      "content_type": "image/webp",
+      "bytes": 170462,
+      "sha256": "171bf994e3407fb426e7ce23347253c9e6febc91ac9ffe5a39f4fe20a475c64d",
+      "source_sha256": "19500b20baeb400880fb804b3b38bbb341eb479f0367918b90081adc9bf6ffb2",
+      "dhash": "3faf69bbce319d19",
+      "width": 960,
+      "height": 800,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-012.webp",
+      "source_url": "https://www.acerentacar.com/assets/Licensee/Licensee.jpg",
+      "source_tag": "script-data",
+      "context": "tion:{desktop:\"0% 85%\"}}},b2b:{topLeft:{src:\"/assets/static/B2B-Fall.png\",objectPosition:{desktop:\"50% 90%\"}},topRight:{src:\"\",objectPosition:{desktop:\"\"}}},licensee:{topLeft:{src:\"/assets/Licensee/Licensee.jpg\",objectPosition:{desktop:\"50% 53%\"}},topRight:{src:\"/assets/Licensee/Licensee-Mountains.jpg\",objectPosition:{desktop:\"50",
+      "content_type": "image/webp",
+      "bytes": 50404,
+      "sha256": "83e76a1a027aae5e37558c00b67baec37cd7e8d287e94c5be5aaa9338898a2f6",
+      "source_sha256": "4f4fcc021f07d32a5cbea07820e10580cb73cce295dc164fc200998270e9271e",
+      "dhash": "284ae8340d69f012",
+      "width": 960,
+      "height": 800,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-013.webp",
+      "source_url": "https://www.acerentacar.com/assets/Licensee/Licensee-Mountains.jpg",
+      "source_tag": "script-data",
+      "context": "sition:{desktop:\"50% 90%\"}},topRight:{src:\"\",objectPosition:{desktop:\"\"}}},licensee:{topLeft:{src:\"/assets/Licensee/Licensee.jpg\",objectPosition:{desktop:\"50% 53%\"}},topRight:{src:\"/assets/Licensee/Licensee-Mountains.jpg\",objectPosition:{desktop:\"50% 30%\"}}}}}},3127:function(e,o,n){\"use strict\";n.d(o,{h:function(){return t}});let t={homepa",
+      "content_type": "image/webp",
+      "bytes": 26826,
+      "sha256": "410c0a945cbac7f9166071c4c30bffdda0b042ecb349f13ba78059cced503e08",
+      "source_sha256": "3a83fb60aac18dbc8e4c9d8e36dcefe0f2103827058f6c53df17dfeec01aa36d",
+      "dhash": "c01ce03003027080",
+      "width": 960,
+      "height": 800,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-014.webp",
+      "source_url": "https://www.acerentacar.com/assets/HomePage/Desktop/Homepage-Landing-Image-ES.jpg",
+      "source_tag": "script-data",
+      "context": "{src:\"/assets/Licensee/Licensee-Mountains.jpg\",objectPosition:{desktop:\"50% 30%\"}}}}}},3127:function(e,o,n){\"use strict\";n.d(o,{h:function(){return t}});let t={homepage:{main:{src:\"/assets/HomePage/Desktop/Homepage-Landing-Image-ES.jpg\",objectPosition:{mobile:\"50% 0%\",desktop:\"0% 0%\"}},memberRewards1:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewards",
+      "content_type": "image/webp",
+      "bytes": 540934,
+      "sha256": "96fd05f5ea7c6c36430886f907cd10037bfe0fd411331707e20c9010fe874d99",
+      "source_sha256": "4e85dc18b60631952bb03d364ca68f5276426d9a5dd2ed58e8397eafea46dbf0",
+      "dhash": "e8838b23278f63c4",
+      "width": 2200,
+      "height": 1308,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-015.webp",
+      "source_url": "https://www.acerentacar.com/assets/HomePage/Desktop/Homepage-Member-Rewards-ES.jpg",
+      "source_tag": "script-data",
+      "context": "{h:function(){return t}});let t={homepage:{main:{src:\"/assets/HomePage/Desktop/Homepage-Landing-Image-ES.jpg\",objectPosition:{mobile:\"50% 0%\",desktop:\"0% 0%\"}},memberRewards1:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewards-ES.jpg\",objectPosition:{desktop:\"50% 0%\"}},memberRewards2:{src:\"/assets/HomePage/Desktop/Map-ES.png\",objectPosition:{desktop:\"\"",
+      "content_type": "image/webp",
+      "bytes": 246618,
+      "sha256": "8d7a45b171f228cc06c33a00bafcd13fdf56a1725e73953e4d82ec2fa8ba5057",
+      "source_sha256": "452ae82086210ca8bdb755bd46761d3337640b1d4220c9bc9fa76d9f15e50918",
+      "dhash": "16030f3323030b4d",
+      "width": 2072,
+      "height": 1447,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-016.webp",
+      "source_url": "https://www.acerentacar.com/assets/HomePage/Desktop/Map-ES.png",
+      "source_tag": "script-data",
+      "context": "ectPosition:{mobile:\"50% 0%\",desktop:\"0% 0%\"}},memberRewards1:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewards-ES.jpg\",objectPosition:{desktop:\"50% 0%\"}},memberRewards2:{src:\"/assets/HomePage/Desktop/Map-ES.png\",objectPosition:{desktop:\"\"}}},bookingPath:{vehicleList:{signUpModal:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewa",
+      "content_type": "image/webp",
+      "bytes": 43906,
+      "sha256": "9732922565c88f71e9b87e7c516f0ccda8fe5527c03285fe57b83cb79af1ed15",
+      "source_sha256": "83c6ac453478b8c7cc5fc2b69826027ce490688fdb25650075c2281360fced29",
+      "dhash": "2110148104246050",
+      "width": 956,
+      "height": 804,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-017.webp",
+      "source_url": "https://www.acerentacar.com/assets/Member/Member-Join-Overlay-ES.jpg",
+      "source_tag": "script-data",
+      "context": "0%\",desktop:\"50% 35%\"}},agent:{src:\"/assets/HomePage/Desktop/Homepage-Landing-Image-ES.jpg\",objectPosition:{mobile:\"60% 0%\",desktop:\"0% 0%\"}}},static:{memberRewards:{topImage:{src:\"/assets/Member/Member-Join-Overlay-ES.jpg\",objectPosition:{mobile:\"50% 30%\",desktop:\"50% 30%\"}},bottomImage:{src:\"/assets/HomePage/Desktop/Homepage-Member-Rewards",
+      "content_type": "image/webp",
+      "bytes": 978702,
+      "sha256": "8cc793201b8900972e8609b7a25303d6015bb0658fa2b9b8cf43b700118a97dd",
+      "source_sha256": "36513b4c3a037ec4089a74fca66c71b4c47490244cd7dfe5176b0f128fbd431d",
+      "dhash": "9d9d959496ba2e07",
+      "width": 2121,
+      "height": 1414,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-018.webp",
+      "source_url": "https://www.acerentacar.com/assets/static/B2B.jpg",
+      "source_tag": "script-data",
+      "context": "age-Member-Rewards-ES.jpg\",objectPosition:{desktop:\"0% 100%\"}}},agentEnroll:{header:{src:\"/assets/Agent/TA-Enroll-Header.jpg\",objectPosition:{desktop:\"0% 85%\"}}},b2b:{topLeft:{src:\"/assets/static/B2B.jpg\",objectPosition:{desktop:\"50% 30%\"}},topRight:{src:\"/assets/static/Licensee-Mountains.jpg\",objectPosition:{desktop:\"50% ",
+      "content_type": "image/webp",
+      "bytes": 144290,
+      "sha256": "cc1ec1db64ec4870c90f64428d24189894c10dff43295fa3b6f3f7516120d798",
+      "source_sha256": "15f8d7cb6c6a01fcd74bdc6f3302253c4aa051ba421b6f3641a759eceeba6a38",
+      "dhash": "444d9c333c2f3339",
+      "width": 960,
+      "height": 800,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-019.webp",
+      "source_url": "https://www.acerentacar.com/assets/Licensee/Spanish-Licensee.jpg",
+      "source_tag": "script-data",
+      "context": "{src:\"/assets/static/B2B.jpg\",objectPosition:{desktop:\"50% 30%\"}},topRight:{src:\"/assets/static/Licensee-Mountains.jpg\",objectPosition:{desktop:\"50% 35%\"}}},licensee:{topLeft:{src:\"/assets/Licensee/Spanish-Licensee.jpg\",objectPosition:{desktop:\"50% 73%\"}},topRight:{src:\"/assets/licensee/Blue-Mountains2.png\",objectPosition:{desktop:\"50% 1",
+      "content_type": "image/webp",
+      "bytes": 53782,
+      "sha256": "34c66a4ed4862e05acd756723e01134080aaa2aefc2f06ce5004ed6cacf8a544",
+      "source_sha256": "3a43745c82b86db12016e9b2d71fa025b382d8c532ff30fa18646ca9958df823",
+      "dhash": "17a61f1e2e76370f",
+      "width": 960,
+      "height": 800,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-020.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/car-key-thin-full.svg",
+      "source_tag": "script-data",
+      "context": "jsxs)(\"div\",{className:_().menu_column,children:[e.isAuthenticated&&!r&&(0,o.jsxs)(l(),{href:\"/Member\",onClick:c,className:_().menu_item,passHref:!0,children:[(0,o.jsx)(\"img\",{src:\"/assets/Icons/car-key-thin-full.svg\",alt:\"car\",className:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.reservations})]}),e.isAuthenticated&&r&&(0,o.js",
+      "content_type": "image/svg+xml",
+      "bytes": 2003,
+      "sha256": "e03fba37276fafa713c5bd3fa7c8b7e4ce9b0c5beb2de155d0333325ff470fd8",
+      "source_sha256": "e03fba37276fafa713c5bd3fa7c8b7e4ce9b0c5beb2de155d0333325ff470fd8",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-021.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/magnifying-glass-thin-full.svg",
+      "source_tag": "script-data",
+      "context": ".menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.reservations})]}),(0,o.jsxs)(l(),{href:\"/Reservation\",onClick:c,className:_().menu_item,passHref:!0,children:[(0,o.jsx)(\"img\",{src:\"/assets/Icons/magnifying-glass-thin-full.svg\",alt:\"car\",className:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.lookup})]}),(0,o.jsxs)(l(),{href:\"/Locations\",o",
+      "content_type": "image/svg+xml",
+      "bytes": 612,
+      "sha256": "5ca41e77a73cd172153961b04e2d314b54413b1b40ea9fbd431eb81c0df66eea",
+      "source_sha256": "5ca41e77a73cd172153961b04e2d314b54413b1b40ea9fbd431eb81c0df66eea",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-022.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/location-dot-sharp-thin-full.svg",
+      "source_tag": "script-data",
+      "context": "Name:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.lookup})]}),(0,o.jsxs)(l(),{href:\"/Locations\",onClick:c,className:_().menu_item,passHref:!0,children:[(0,o.jsx)(\"img\",{src:\"/assets/Icons/location-dot-sharp-thin-full.svg\",alt:\"car\",className:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.locations})]}),(0,o.jsxs)(l(),{href:\"/Static/Li",
+      "content_type": "image/svg+xml",
+      "bytes": 1072,
+      "sha256": "cafcc4d883fde4044975a86d3ac6af130b8d20f9b64793ca15fd05cfefaed6af",
+      "source_sha256": "cafcc4d883fde4044975a86d3ac6af130b8d20f9b64793ca15fd05cfefaed6af",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-023.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/file-certificate-thin-full.svg",
+      "source_tag": "script-data",
+      "context": "menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.locations})]}),(0,o.jsxs)(l(),{href:\"/Static/Licensee\",onClick:c,className:_().menu_item,passHref:!0,children:[(0,o.jsx)(\"img\",{src:\"/assets/Icons/file-certificate-thin-full.svg\",alt:\"car\",className:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.licensee})]}),(0,o.jsxs)(l(),{href:\"/Static/B2B",
+      "content_type": "image/svg+xml",
+      "bytes": 1595,
+      "sha256": "b84b8931ae79626d0199d12a781291e8c7240b753eb0cc790965b44af61a28b1",
+      "source_sha256": "b84b8931ae79626d0199d12a781291e8c7240b753eb0cc790965b44af61a28b1",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-024.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/handshake-sharp-thin-full.svg",
+      "source_tag": "script-data",
+      "context": "e:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.licensee})]}),(0,o.jsxs)(l(),{href:\"/Static/B2B\",onClick:c,className:_().menu_item,passHref:!0,children:[(0,o.jsx)(\"img\",{src:\"/assets/Icons/handshake-sharp-thin-full.svg\",alt:\"car\",className:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.b2b})]}),!r&&(0,o.jsxs)(l(),{href:\"/Agent\",onCl",
+      "content_type": "image/svg+xml",
+      "bytes": 1049,
+      "sha256": "9f7ba774137633ed19768d8776eba6b5e698085d75e0037cea0a660e9dd52d9f",
+      "source_sha256": "9f7ba774137633ed19768d8776eba6b5e698085d75e0037cea0a660e9dd52d9f",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-025.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/suitcase-thin-full.svg",
+      "source_tag": "script-data",
+      "context": "assName:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.b2b})]}),!r&&(0,o.jsxs)(l(),{href:\"/Agent\",onClick:c,className:_().menu_item,passHref:!0,children:[(0,o.jsx)(\"img\",{src:\"/assets/Icons/suitcase-thin-full.svg\",alt:\"car\",className:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.ta})]}),(0,o.jsxs)(l(),{href:\"/Member/Remove\",o",
+      "content_type": "image/svg+xml",
+      "bytes": 824,
+      "sha256": "0d702fc753b6beeb939f67c0079e1fc8a354a9b254bb6089dd6728e2bae40ee0",
+      "source_sha256": "0d702fc753b6beeb939f67c0079e1fc8a354a9b254bb6089dd6728e2bae40ee0",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-026.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/file-circle-minus-thin-full.svg",
+      "source_tag": "script-data",
+      "context": "Name:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.ta})]}),(0,o.jsxs)(l(),{href:\"/Member/Remove\",onClick:c,className:_().menu_item,passHref:!0,children:[(0,o.jsx)(\"img\",{src:\"/assets/Icons/file-circle-minus-thin-full.svg\",alt:\"car\",className:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.remove})]}),(0,o.jsxs)(l(),{href:\"/Static/Conta",
+      "content_type": "image/svg+xml",
+      "bytes": 1195,
+      "sha256": "ed456847f69f948563ba65c85c05a6a993d63df08e2e1ef1151ae7041e64e383",
+      "source_sha256": "ed456847f69f948563ba65c85c05a6a993d63df08e2e1ef1151ae7041e64e383",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-027.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/user-headset-thin-full.svg",
+      "source_tag": "script-data",
+      "context": ").menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.remove})]}),(0,o.jsxs)(l(),{href:\"/Static/ContactUs\",onClick:c,className:_().menu_item,passHref:!0,children:[(0,o.jsx)(\"img\",{src:\"/assets/Icons/user-headset-thin-full.svg\",alt:\"car\",className:_().menu_icon}),(0,o.jsx)(\"span\",{children:i.footer.contact})]}),e.isAuthenticated&&(0,o.jsxs)(o.Fr",
+      "content_type": "image/svg+xml",
+      "bytes": 1323,
+      "sha256": "c705ac7b745f069f570cc7979add52a6081eaa11c6a9a202ee6194b978413b0f",
+      "source_sha256": "c705ac7b745f069f570cc7979add52a6081eaa11c6a9a202ee6194b978413b0f",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-028.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/hand-holding-star-thin-full.svg",
+      "source_tag": "script-data",
+      "context": "0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(A,{isTransparent:!1}),(0,o.jsxs)(l(),{href:\"/Member/Rewards\",onClick:d,className:w().menu_item,passHref:!0,children:[(0,o.jsx)(\"img\",{src:\"/assets/Icons/hand-holding-star-thin-full.svg\",alt:\"user\",className:w().menu_icon}),(0,o.jsx)(\"span\",{children:a.footer.rewards})]})]})}),!r.isAuthenticated&&(0,o.jsx",
+      "content_type": "image/svg+xml",
+      "bytes": 2172,
+      "sha256": "26b99f8a62e207410e327616e1401841b6a865507350eb81774eaef6e975afa5",
+      "source_sha256": "26b99f8a62e207410e327616e1401841b6a865507350eb81774eaef6e975afa5",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-029.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/search.svg",
+      "source_tag": "script-data",
+      "context": "Date)}),(0,o.jsx)(\"div\",{className:$().time,children:eI(\"DropOffTime\",y.dropOffTime)})]})]}),(0,o.jsx)(\"div\",{className:$().flex_icon_item,children:(0,o.jsx)(u(),{alt:\"search\",src:\"/assets/Icons/search.svg\",width:20,height:20,onClick:()=>e_()})})]})})};var et=n(4002),en=n(6122),eo=n.n(en),ei=n(1722);function ea(e){let{header",
+      "content_type": "image/svg+xml",
+      "bytes": 658,
+      "sha256": "13baeba8f68def296fca8e0f1bb7691f6f3d6b476fc24860460783ac22c227c7",
+      "source_sha256": "13baeba8f68def296fca8e0f1bb7691f6f3d6b476fc24860460783ac22c227c7",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-030.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/user-dark-full.svg",
+      "source_tag": "script-data",
+      "context": "xShadow,c>=800?\"12%\":c>=650?\"15%\":\"30%\",E.color,E.color,E.color,E.color,n,E.boxShadow,E.color,E.color]]])+\" \"+(eo().header_icon||\"\")}),!t.isTransparentHeader&&(0,o.jsx)(\"img\",{src:\"/assets/Icons/user-dark-full.svg\",alt:\"user\",className:a().dynamic([[\"f094ba4ec3d17cc\",[E.background,E.color,E.boxShadow,c>=800?\"12%\":c>=650?\"15%\":\"30%\",",
+      "content_type": "image/svg+xml",
+      "bytes": 763,
+      "sha256": "115d88143fd784ee267bf83845188a8fbcd33f55a6612027bfe2752e82e40a07",
+      "source_sha256": "115d88143fd784ee267bf83845188a8fbcd33f55a6612027bfe2752e82e40a07",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-031.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/bars-staggered-dark-full.svg",
+      "source_tag": "script-data",
+      "context": "boxShadow,c>=800?\"12%\":c>=650?\"15%\":\"30%\",E.color,E.color,E.color,E.color,n,E.boxShadow,E.color,E.color]]])+\" \"+(eo().menu_icon||\"\")}),!t.isTransparentHeader&&(0,o.jsx)(\"img\",{src:\"/assets/Icons/bars-staggered-dark-full.svg\",alt:\"menu\",onClick:()=>T(),className:a().dynamic([[\"f094ba4ec3d17cc\",[E.background,E.color,E.boxShadow,c>=800?\"12%\":c>=",
+      "content_type": "image/svg+xml",
+      "bytes": 662,
+      "sha256": "7c3206b0542c374c6b64aa1867055393d1cd3eea3b5138713c86525fc5ebb2c7",
+      "source_sha256": "7c3206b0542c374c6b64aa1867055393d1cd3eea3b5138713c86525fc5ebb2c7",
+      "dhash": "",
+      "width": 640,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/ace-rent-a-car/reference-032.svg",
+      "source_url": "https://www.acerentacar.com/assets/Icons/eye-solid.svg",
+      "source_tag": "script-data",
+      "context": "}}),type:t?\"password\":\"text\",style:e.getFieldState(\"password\").error?{borderColor:\"red\"}:{}}),n&&(0,s.jsx)(\"img\",{tabIndex:0,onClick:()=>n(!t),className:d().eye_icon,alt:\"eye\",src:\"/assets/Icons/eye-solid.svg\",width:\"22\",height:\"22\"})]})}function b(e,t,n){let o=(0,c.useRouter)(),i=\"en\"===o.locale?u.v:p.y;return(0,s.jsxs)(\"div\",",
+      "content_type": "image/svg+xml",
+      "bytes": 994,
+      "sha256": "550b23ab54094ad36af45ca7ecfcfbd7a7fc48f95119edce407b4426b2c7b7c6",
+      "source_sha256": "550b23ab54094ad36af45ca7ecfcfbd7a7fc48f95119edce407b4426b2c7b7c6",
+      "dhash": "",
+      "width": 576,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.acerentacar.com/"
+      ]
     }
   ]
 }

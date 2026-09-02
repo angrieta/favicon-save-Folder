@@ -2,10 +2,21 @@
   "company": "Advantage",
   "category": "렌터카_글로벌",
   "requested_url": "https://www.advantage.com/",
-  "page_url": "https://advantage.com/",
+  "page_url": "https://www.advantage.com/",
   "page_title": "Cheap Car Rentals | Advantage Rent a Car",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://advantage.com/blog/rent-a-convertible/image/jpeg:HTTPError; asset:https://advantage.com/blog/rental-cars-for-road-trips/image/png:HTTPError; asset:https://advantage.com/blog/returning-rental-car-after-hours/image/jpeg:HTTPError; asset:https://advantage.com/blog/car-rental-hacks/image/jpeg:HTTPError; asset:https://advantage.com/blog/what-do-you-need-to-rent-a-car/image/jpeg:HTTPError; asset:https://advantage.com/blog/one-way-car-rental/image/jpeg:HTTPError; asset:https://advantage.com/blog/what-happens-crash-rental-car/image/jpeg:HTTPError; asset:https://rent.advantage.com/wp-content/uploads/2020/12/location-marker-2.svg:ConnectionError; asset:https://rent.advantage.com/wp-content/uploads/2020/12/calendar-1.svg:ConnectionError; asset:https://rent.advantage.com/wp-content/uploads/2020/12/clock-1.svg:ConnectionError; asset:https://advantage.com/hqdefault.jpg:HTTPError; asset:https://advantage.com/marker.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 16,
+    "scripts": 19,
+    "candidates": 215,
+    "attempted_assets": 215,
+    "errors": 18,
+    "collected_at": "2026-09-03T08:31:04.502551+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,63 +31,475 @@
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/advantage/logo-1.png",
-      "source_url": "https://advantage.com/wp-content/uploads/2021/07/advantage-1.png",
-      "source_tag": "json-ld.logo",
-      "context": "structured data logo",
-      "content_type": "image/png",
-      "bytes": 1773,
-      "sha256": "366a07ed501eb04313939591699ebabaa1e7619a0aa3cfeb516b1ea0f686084d",
-      "width": 259,
-      "height": 48
+      "path": "assets/렌터카_글로벌/advantage/logo-001.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2025/09/Advantage-Car-Rental-LOGO-scaled.jpg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "idth: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2560px, 100vw\" src=\"https://advantage.com/wp-content/uploads/2025/09/Advantage-Car-Rental-LOGO-scaled.jpg\" srcset=\"https://advantage.com/wp-content/uploads/2025/09/Advantage-Car-Rental-LOGO-scaled.jpg 2560w, https://advantage.",
+      "content_type": "image/webp",
+      "bytes": 42518,
+      "sha256": "9e73cfdeea06bd3c6276f9f62fe7779e1eb969ddd1ed96fd78fe0ccf07bf8af2",
+      "source_sha256": "3c9e9c67d67f05bcde5edbba7cfdeddde1968ebad60527a586f2aae9958685e1",
+      "dhash": "16c0cab6ae766906",
+      "width": 2200,
+      "height": 701,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/",
+        "https://advantage.com/blog/can-i-rent-a-car-for-someone-else/",
+        "https://advantage.com/blog/can-you-rent-a-car-with-a-debit-card/",
+        "https://advantage.com/blog/car-rental-hacks/",
+        "https://advantage.com/blog/do-you-need-good-credit-to-rent-a-car/",
+        "https://advantage.com/blog/how-much-does-it-cost-to-rent-a-car/",
+        "https://advantage.com/blog/how-to-setup-a-monthly-car-rental/",
+        "https://advantage.com/blog/no-car-insurance-can-i-rent-a-car/",
+        "https://advantage.com/blog/one-way-car-rental/",
+        "https://advantage.com/blog/rent-a-convertible/",
+        "https://advantage.com/blog/rental-cars-for-road-trips/",
+        "https://advantage.com/blog/returning-rental-car-after-hours/",
+        "https://advantage.com/blog/what-do-you-need-to-rent-a-car/",
+        "https://advantage.com/blog/what-happens-crash-rental-car/"
+      ]
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/advantage/logo-2.webp",
-      "source_url": "https://advantage.com/wp-content/uploads/2025/09/Advantage-Car-Rental-LOGO-scaled.jpg",
-      "source_tag": "img:semantic-logo",
-      "context": "img wp-image-9454 Advantage Car Rental LOGO span et_pb_image_wrap a div et_pb_module et_pb_image et_pb_image_0_tb_header div et_pb_column et_pb_column_1_5 et_pb_column_1_tb_header et_pb_css_mix_blend_mode_passthrough",
+      "path": "assets/렌터카_글로벌/advantage/logo-002.png",
+      "source_url": "https://advantage.com/wp-content/uploads/2022/07/logo-adv.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "-last-child\">\n<div class=\"et_pb_module et_pb_image et_pb_image_0\">\n<span class=\"et_pb_image_wrap\"><img alt=\"\" class=\"wp-image-4692\" decoding=\"async\" height=\"41\" loading=\"lazy\" src=\"https://advantage.com/wp-content/uploads/2022/07/logo-adv.png\" title=\"logo-adv\" width=\"98\"/></span>\n</div><div class=\"et_pb_module et_pb_text et_pb_text_0 et_pb_text_align_left et_pb",
+      "content_type": "image/png",
+      "bytes": 1183,
+      "sha256": "14026d7575b9f00999bdfeb0942b43223525a9c56a263fdfc1d0aa7d13b9b74a",
+      "source_sha256": "517ec876ba3ba5100fee9bc090f00087f2e437de031e49229def8c2f5bb65bc7",
+      "dhash": "158899d1cdef6b73",
+      "width": 98,
+      "height": 41,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-001.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2020/12/Img-2-scaled.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "al/\" property=\"og:url\"/>\n<meta content=\"Advantage Rent a Car\" property=\"og:site_name\"/>\n<meta content=\"2020-11-20T08:02:05+00:00\" property=\"article:published_time\"/>\n<meta content=\"https://advantage.com/wp-content/uploads/2020/12/Img-2-scaled.jpg\" property=\"og:image\"/>\n<meta content=\"2560\" property=\"og:image:width\"/>\n<meta content=\"1707\" property=\"og:image:height\"/",
       "content_type": "image/webp",
-      "bytes": 35688,
-      "sha256": "077798be7827d0be1f36d982ee3d1728d36bb7c134a039224b1c2c14b096e7e8",
-      "width": 1600,
-      "height": 510
+      "bytes": 105244,
+      "sha256": "b2b7a9c1a12d6f4dd84b131333eaa947963322635a45918a562da8e5de1dc446",
+      "source_sha256": "26cc019b11bd822ba121bfee4731cee9a6a65e2a001f4c958920e9b54f916dcd",
+      "dhash": "cdcdcdcccc8c8ccc",
+      "width": 2200,
+      "height": 1467,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/how-to-setup-a-monthly-car-rental/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-002.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2020/12/tamara-garcevic-dmHPlLvOSas-unsplash.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "img wp-image-2575 tamara-garcevic-dmHPlLvOSas-unsplash span et_pb_image_wrap div et_pb_title_featured_container div et_pb_module et_pb_post_title et_pb_post_title_1_tb_body fl-post-single futured-image-radius et_pb_bg_layout_light et_pb_text_align_center div et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child div et_pb_row et_pb_row_0_tb_body",
+      "content_type": "image/webp",
+      "bytes": 244494,
+      "sha256": "b6b1f4507693dad7a20c2afd0e7c68bc39630b2ad229748d8bb54ed83dc2b971",
+      "source_sha256": "9f420bc68a4418372e9f2923b79a2cf8c622c57db8314b4694716878762dba0d",
+      "dhash": "4367743737031b13",
+      "width": 1920,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/how-much-does-it-cost-to-rent-a-car/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-003.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2020/12/key-791390_1920.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "img wp-image-2572 key-791390_1920 span et_pb_image_wrap div et_pb_title_featured_container div et_pb_module et_pb_post_title et_pb_post_title_1_tb_body fl-post-single futured-image-radius et_pb_bg_layout_light et_pb_text_align_center div et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child div et_pb_row et_pb_row_0_tb_body",
+      "content_type": "image/webp",
+      "bytes": 40846,
+      "sha256": "3409ba15d3728cc63329f2b5562668eff63821f66678761b481dcf39da510e5f",
+      "source_sha256": "57ffae570a3a59d97d2df7df21407496f9a31d030ef21fee17451394ac615a07",
+      "dhash": "2c83f33b9999e1c7",
+      "width": 1920,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/can-i-rent-a-car-for-someone-else/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-004.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2020/12/two-paddles-axe-and-leatherwork-na8l3EPqpvY-unsplash.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "idth: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1920px, 100vw\" src=\"https://advantage.com/wp-content/uploads/2020/12/two-paddles-axe-and-leatherwork-na8l3EPqpvY-unsplash.jpg\" srcset=\"https://advantage.com/wp-content/uploads/2020/12/two-paddles-axe-and-leatherwork-na8l3EPqpvY-unsplash.jp",
+      "content_type": "image/webp",
+      "bytes": 104046,
+      "sha256": "e9c1c446c356f35ad27d9d5aa5bb7771ed80d294862264d7468d1c41727b10d1",
+      "source_sha256": "21ec5b06cdba2b7fba2daf717ad70f63c40bd6e987a5e95749769f7c24de71d2",
+      "dhash": "16260696610f1f1b",
+      "width": 1920,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/can-you-rent-a-car-with-a-debit-card/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-005.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2020/12/stephen-phillips-hostreviews-co-uk-em37kS8WJJQ-unsplash.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "idth: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1920px, 100vw\" src=\"https://advantage.com/wp-content/uploads/2020/12/stephen-phillips-hostreviews-co-uk-em37kS8WJJQ-unsplash.jpg\" srcset=\"https://advantage.com/wp-content/uploads/2020/12/stephen-phillips-hostreviews-co-uk-em37kS8WJJQ-unspl",
+      "content_type": "image/webp",
+      "bytes": 203738,
+      "sha256": "580d27530c772133e8d4f90f84e5c07c1d23a9d01d57698ff0bb85cd2d635aec",
+      "source_sha256": "ae34b868525ed66d9578cb5cffe94ce4ca1027d57a610b2b9ba05c63cb9d03a8",
+      "dhash": "bbb3dd5d61e0e869",
+      "width": 1920,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/do-you-need-good-credit-to-rent-a-car/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-006.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2021/04/sarah-brown-3eg3Iuq-3gQ-unsplash.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "img wp-image-2579 sarah-brown-3eg3Iuq-3gQ-unsplash span et_pb_image_wrap div et_pb_title_featured_container div et_pb_module et_pb_post_title et_pb_post_title_1_tb_body fl-post-single futured-image-radius et_pb_bg_layout_light et_pb_text_align_center div et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child div et_pb_row et_pb_row_0_tb_body",
+      "content_type": "image/webp",
+      "bytes": 208448,
+      "sha256": "e6ce8f0bc610315a9cdb7b036f6bb51fdfc2724e7bba37badc0d441190ad3fe4",
+      "source_sha256": "c70b1e5099b2f686ad33b918bad84f320c41bc6fd76cc430d41c628445aeadb2",
+      "dhash": "9d3d5bcbcb3fcdcf",
+      "width": 1920,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/no-car-insurance-can-i-rent-a-car/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-007.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2021/04/koke-mayayo-thevisualkiller-uG8RGApPGWk-unsplash-scaled.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "idth: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2560px, 100vw\" src=\"https://advantage.com/wp-content/uploads/2021/04/koke-mayayo-thevisualkiller-uG8RGApPGWk-unsplash-scaled.jpg\" srcset=\"https://advantage.com/wp-content/uploads/2021/04/koke-mayayo-thevisualkiller-uG8RGApPGWk-unsplash-sca",
+      "content_type": "image/webp",
+      "bytes": 244060,
+      "sha256": "923efa24c53237028fd19d826dfdf2004d18114d458621c3e8c0e214ab68ae06",
+      "source_sha256": "840076b5b631dc7ef491edc0d60fdc9d997daed1eeb18ba196c3d59398908ee5",
+      "dhash": "f91b8ea64e2438e2",
+      "width": 2200,
+      "height": 1691,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/rent-a-convertible/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-008.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2021/04/averie-woodard-5d20kdvFCfA-unsplash.png",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "img wp-image-2929 averie-woodard-5d20kdvFCfA-unsplash span et_pb_image_wrap div et_pb_title_featured_container div et_pb_module et_pb_post_title et_pb_post_title_1_tb_body fl-post-single futured-image-radius et_pb_bg_layout_light et_pb_text_align_center div et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child div et_pb_row et_pb_row_0_tb_body",
+      "content_type": "image/webp",
+      "bytes": 157838,
+      "sha256": "e2074a52eaa7047a443d37ee03f3913db07eeca839e944d78de25d9dd8923bb0",
+      "source_sha256": "8cb723e0083dc225b7e3ebc5ef26e23975edff1b01a74ba2deb0bc8ec3051d17",
+      "dhash": "1db131996727c3c1",
+      "width": 959,
+      "height": 639,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/rental-cars-for-road-trips/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-009.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2021/04/jordan-graff-9TBgvuPAe0Y-unsplash-scaled.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "rs/\" property=\"og:url\"/>\n<meta content=\"Advantage Rent a Car\" property=\"og:site_name\"/>\n<meta content=\"2021-04-29T16:13:59+00:00\" property=\"article:published_time\"/>\n<meta content=\"https://advantage.com/wp-content/uploads/2021/04/jordan-graff-9TBgvuPAe0Y-unsplash-scaled.jpg\" property=\"og:image\"/>\n<meta content=\"2560\" property=\"og:image:width\"/>\n<meta content=\"1920\" property=\"og:image:height\"/",
+      "content_type": "image/webp",
+      "bytes": 104938,
+      "sha256": "fa27f35c0517b70c00dcf8a13f57a7720419eedcb1266af52372916bf6737442",
+      "source_sha256": "68bbc239fbff27bb04125d8e7419ed4d557e5ff3e0bdbd438193cb6b800eb719",
+      "dhash": "90f08c71d73271e0",
+      "width": 2200,
+      "height": 1650,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/returning-rental-car-after-hours/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-010.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2021/04/rupixen-com-Q59HmzK38eQ-unsplash-scaled.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "ks/\" property=\"og:url\"/>\n<meta content=\"Advantage Rent a Car\" property=\"og:site_name\"/>\n<meta content=\"2021-04-29T16:17:55+00:00\" property=\"article:published_time\"/>\n<meta content=\"https://advantage.com/wp-content/uploads/2021/04/rupixen-com-Q59HmzK38eQ-unsplash-scaled.jpg\" property=\"og:image\"/>\n<meta content=\"2560\" property=\"og:image:width\"/>\n<meta content=\"1707\" property=\"og:image:height\"/",
+      "content_type": "image/webp",
+      "bytes": 86724,
+      "sha256": "c232049a0f860ac84daea5b23ac6d3dd5019ddd38a59432d726eb6ff81c1c5e9",
+      "source_sha256": "84ff0e2fc58e7529606acbc5cb865cdd494b072a93d31f9f69edff745bc8b5cc",
+      "dhash": "9cd8f0e5c9b93e8d",
+      "width": 2200,
+      "height": 1467,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/car-rental-hacks/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-011.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2021/04/andras-vas-EeCfOPSeRik-unsplash-scaled.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "ar/\" property=\"og:url\"/>\n<meta content=\"Advantage Rent a Car\" property=\"og:site_name\"/>\n<meta content=\"2021-04-29T16:33:18+00:00\" property=\"article:published_time\"/>\n<meta content=\"https://advantage.com/wp-content/uploads/2021/04/andras-vas-EeCfOPSeRik-unsplash-scaled.jpg\" property=\"og:image\"/>\n<meta content=\"2560\" property=\"og:image:width\"/>\n<meta content=\"1707\" property=\"og:image:height\"/",
+      "content_type": "image/webp",
+      "bytes": 265168,
+      "sha256": "ff7d0f6d3abb2070503cb45b2ed7b6de2e51d9e8d4af93c397b6a6aeb61fea46",
+      "source_sha256": "34ebd923664426fe75a153da05f8d55227315ca7f11c910561c4f89d14d8c6f7",
+      "dhash": "8818190b83da1bb4",
+      "width": 2200,
+      "height": 1467,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/what-do-you-need-to-rent-a-car/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-012.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2021/05/One-Way-Car-Rental.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "img wp-image-2969 One Way Car Rental span et_pb_image_wrap div et_pb_title_featured_container div et_pb_module et_pb_post_title et_pb_post_title_1_tb_body fl-post-single futured-image-radius et_pb_bg_layout_light et_pb_text_align_center div et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child div et_pb_row et_pb_row_0_tb_body",
+      "content_type": "image/webp",
+      "bytes": 376252,
+      "sha256": "ac4ae869fb371e3901a8d68036194334c266cbd506e5a3ce4e963cd2fc3298ac",
+      "source_sha256": "64176a94daf9612871f2603964bd8cf5224eac9ba6126512d9bfe99a048d7697",
+      "dhash": "0d0d1b0b0d0f1f39",
+      "width": 1920,
+      "height": 1678,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/one-way-car-rental/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/advantage/social-013.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2021/06/what-happens-if-you-crash-a-rental-car.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "img wp-image-2986 what happens if you crash a rental car span et_pb_image_wrap div et_pb_title_featured_container div et_pb_module et_pb_post_title et_pb_post_title_1_tb_body fl-post-single futured-image-radius et_pb_bg_layout_light et_pb_text_align_center div et_pb_column et_pb_column_4_4 et_pb_column_0_tb_body et_pb_css_mix_blend_mode_passthrough et-last-child div et_pb_row et_pb_row_0_tb_body",
+      "content_type": "image/webp",
+      "bytes": 693830,
+      "sha256": "6b4c61d6b5cf3d0aa5fa6dfd4eab0e387f1efb009ac6e6c7af42dcff53d534bf",
+      "source_sha256": "1c1568992c836d1578cceed589d2e7ca13e9011bd076b1f75747248e30fa71bb",
+      "dhash": "17321d4d6a23535f",
+      "width": 2000,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/what-happens-crash-rental-car/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/advantage/banner-001.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2023/11/image-7.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "img Explore the Best Things to Do in Rincon Puerto Rico in 2023 a entry-featured-image-url article post-7884 et_pb_post clearfix et_pb_blog_item_2_0 post-7884 post type-post status-publish format-standard has-post-thumbnail hentry category-auto-rental-info category-rent category-trip-planning div et_pb_ajax_pagination_container div et_pb_module et_pb_blog_2_tb_body fl-blog-section et_pb_posts et_p",
+      "content_type": "image/webp",
+      "bytes": 105090,
+      "sha256": "0b1e59ff4140f290df3150a0205dd42f41bc4964a64fb0c5832f0341fd7d8c3c",
+      "source_sha256": "6cb24d6ef9f70b4df31be667e6b27ac75a91e72fec87401fe71657a52f80fa9a",
+      "dhash": "0f050f6b4f0f0d05",
+      "width": 1000,
+      "height": 667,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/can-i-rent-a-car-for-someone-else/",
+        "https://advantage.com/blog/can-you-rent-a-car-with-a-debit-card/",
+        "https://advantage.com/blog/car-rental-hacks/",
+        "https://advantage.com/blog/do-you-need-good-credit-to-rent-a-car/",
+        "https://advantage.com/blog/how-much-does-it-cost-to-rent-a-car/",
+        "https://advantage.com/blog/how-to-setup-a-monthly-car-rental/",
+        "https://advantage.com/blog/no-car-insurance-can-i-rent-a-car/",
+        "https://advantage.com/blog/one-way-car-rental/",
+        "https://advantage.com/blog/rent-a-convertible/",
+        "https://advantage.com/blog/rental-cars-for-road-trips/",
+        "https://advantage.com/blog/returning-rental-car-after-hours/",
+        "https://advantage.com/blog/what-do-you-need-to-rent-a-car/",
+        "https://advantage.com/blog/what-happens-crash-rental-car/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_글로벌/advantage/reference-1.webp",
-      "source_url": "https://advantage.com/wp-content/uploads/2025/09/Advantage-Car-Rental-LOGO-1280x408.jpg",
-      "source_tag": "img:page-image",
-      "context": "img wp-image-9454 Advantage Car Rental LOGO span et_pb_image_wrap a div et_pb_module et_pb_image et_pb_image_0_tb_header div et_pb_column et_pb_column_1_5 et_pb_column_1_tb_header et_pb_css_mix_blend_mode_passthrough",
+      "path": "assets/렌터카_글로벌/advantage/reference-001.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2023/11/image-6.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "img Best Things To Do in Puerto Rico With Kids a entry-featured-image-url article post-7881 et_pb_post clearfix et_pb_blog_item_2_1 post-7881 post type-post status-publish format-standard has-post-thumbnail hentry category-auto-rental-info category-rent category-trip-planning div et_pb_ajax_pagination_container div et_pb_module et_pb_blog_2_tb_body fl-blog-section et_pb_posts et_pb_bg_layout_light",
       "content_type": "image/webp",
-      "bytes": 22964,
-      "sha256": "7bb8e800b7c6406da309a423471c05e938f650e52e46bf8650c14141b45b3345",
-      "width": 1280,
-      "height": 408
+      "bytes": 70540,
+      "sha256": "58f047dec1f67f8bbafd20f2a0e1793d8b433afc49abdd70295cb83b79116fe6",
+      "source_sha256": "512dcf3b253605f57ecc6b53cb369806b7d73fa192152b3b894b0475fab743c7",
+      "dhash": "2f27262767278787",
+      "width": 626,
+      "height": 417,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/blog/can-i-rent-a-car-for-someone-else/",
+        "https://advantage.com/blog/can-you-rent-a-car-with-a-debit-card/",
+        "https://advantage.com/blog/car-rental-hacks/",
+        "https://advantage.com/blog/do-you-need-good-credit-to-rent-a-car/",
+        "https://advantage.com/blog/how-much-does-it-cost-to-rent-a-car/",
+        "https://advantage.com/blog/how-to-setup-a-monthly-car-rental/",
+        "https://advantage.com/blog/no-car-insurance-can-i-rent-a-car/",
+        "https://advantage.com/blog/one-way-car-rental/",
+        "https://advantage.com/blog/rent-a-convertible/",
+        "https://advantage.com/blog/rental-cars-for-road-trips/",
+        "https://advantage.com/blog/returning-rental-car-after-hours/",
+        "https://advantage.com/blog/what-do-you-need-to-rent-a-car/",
+        "https://advantage.com/blog/what-happens-crash-rental-car/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_글로벌/advantage/reference-2.webp",
+      "path": "assets/렌터카_글로벌/advantage/reference-002.webp",
       "source_url": "https://advantage.com/wp-content/uploads/2024/09/william-bout-Vsf30J-DCm8-unsplash-1-scaled-1.webp",
-      "source_tag": "img:page-image",
-      "context": "img wp-image-8382 william-bout-Vsf30J-DCm8-unsplash-1-scaled span et_pb_image_wrap div et_pb_module et_pb_image et_pb_image_1 div et_pb_column et_pb_column_1_2 et_pb_column_5 et_pb_css_mix_blend_mode_passthrough div et_pb_row et_pb_row_2 tw",
+      "source_tag": "html-data, img:image",
+      "context": "idth: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1707px, 100vw\" src=\"https://advantage.com/wp-content/uploads/2024/09/william-bout-Vsf30J-DCm8-unsplash-1-scaled-1.webp\" srcset=\"https://advantage.com/wp-content/uploads/2024/09/william-bout-Vsf30J-DCm8-unsplash-1-scaled-1.webp 1707w, https",
       "content_type": "image/webp",
-      "bytes": 60776,
-      "sha256": "8efdbf4a3bd7a54928e5a8ceb82c63bbc7af0f90ed79a6e1d2e7d3dd7d709e99",
-      "width": 900,
-      "height": 1350
+      "bytes": 93032,
+      "sha256": "a44a63fb2c9cc8f22743f022bb06aae418a983470f77e1d651682cd843478189",
+      "source_sha256": "c880c79fae00bd347b4f59be456535e30f158724195fbdbb3f29f70179c2259b",
+      "dhash": "070fa39365341931",
+      "width": 1334,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_글로벌/advantage/reference-3.webp",
-      "source_url": "https://advantage.com/wp-content/uploads/2024/09/william-bout-Vsf30J-DCm8-unsplash-1-scaled-1-1280x1920.webp",
-      "source_tag": "img:page-image",
-      "context": "img wp-image-8382 william-bout-Vsf30J-DCm8-unsplash-1-scaled span et_pb_image_wrap div et_pb_module et_pb_image et_pb_image_1 div et_pb_column et_pb_column_1_2 et_pb_column_5 et_pb_css_mix_blend_mode_passthrough div et_pb_row et_pb_row_2 tw",
+      "path": "assets/렌터카_글로벌/advantage/reference-003.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2020/12/Group-2032_2x-removebg-preview-1.webp",
+      "source_tag": "html-data, img:image",
+      "context": "/our-vehicles\">VIEW ALL VEHICLES</a>\n</div>\n</div>\n</div><div class=\"owlsliders item\">\n<div class=\"home-slide\">\n<div class=\"car-image\">\n<img alt=\"Special SUV\" decoding=\"async\" src=\"https://advantage.com/wp-content/uploads/2020/12/Group-2032_2x-removebg-preview-1.webp\"/>\n</div>\n<div class=\"car-content\">\n<h3>Special SUV</h3>\n<p></p>\n<a class=\"more\" href=\"/our-vehicles\">VIEW ALL VEHICLES<",
       "content_type": "image/webp",
-      "bytes": 59780,
-      "sha256": "2ad78eb83f6c0afa8e70801be626e0c69215bb6cbc23529b6647430579e681ff",
-      "width": 900,
-      "height": 1350
+      "bytes": 13718,
+      "sha256": "c0199eca9bd09caa233f80f17e12c957cb1f8f07107f69856d1852dacc071845",
+      "source_sha256": "10351ecbe67404ea36e90be49cca6b09a299c9ed40d8a17f5b81984ac7c927da",
+      "dhash": "0e4e0e9e968e2c02",
+      "width": 827,
+      "height": 302,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/advantage/reference-004.svg",
+      "source_url": "https://advantage.com/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.svg",
+      "source_tag": "external-css",
+      "context": "c:url(core/admin/fonts/modules/all/modules.eot);src:url(core/admin/fonts/modules/all/modules.eot?#iefix) format(\"embedded-opentype\"),url(core/admin/fonts/modules/all/modules.woff) format(\"woff\"),url(core/admin/fonts/modules/all/modules.ttf) format(\"truetype\"),url(core/admin/fonts/modules/all/modules.svg#ETmodules) format(\"svg\");font-weight:400;font-style:normal}@font-face{font-family:FontAwesome;f",
+      "content_type": "image/svg+xml",
+      "bytes": 299189,
+      "sha256": "639567f000acf215bbe0bf97270b6ef3db269d1f9245ae2f1dfdcc4e3759315c",
+      "source_sha256": "639567f000acf215bbe0bf97270b6ef3db269d1f9245ae2f1dfdcc4e3759315c",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/",
+        "https://advantage.com/blog/how-to-setup-a-monthly-car-rental/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/advantage/reference-005.svg",
+      "source_url": "https://advantage.com/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-regular-400.svg",
+      "source_tag": "external-css",
+      "context": "lar-400.eot?#iefix) format(\"embedded-opentype\"),url(core/admin/fonts/fontawesome/fa-regular-400.woff2) format(\"woff2\"),url(core/admin/fonts/fontawesome/fa-regular-400.woff) format(\"woff\"),url(core/admin/fonts/fontawesome/fa-regular-400.ttf) format(\"truetype\"),url(core/admin/fonts/fontawesome/fa-regular-400.svg#fontawesome) format(\"svg\")}@font-face{font-family:FontAwesome;font-style:normal;font-wei",
+      "content_type": "image/svg+xml",
+      "bytes": 144714,
+      "sha256": "d42a64dc349a98075e8be12587943f2bd52065a8bb18960d7dc7390b535117e0",
+      "source_sha256": "d42a64dc349a98075e8be12587943f2bd52065a8bb18960d7dc7390b535117e0",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/",
+        "https://advantage.com/blog/how-to-setup-a-monthly-car-rental/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/advantage/reference-006.svg",
+      "source_url": "https://advantage.com/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-solid-900.svg",
+      "source_tag": "external-css",
+      "context": "/fa-solid-900.eot?#iefix) format(\"embedded-opentype\"),url(core/admin/fonts/fontawesome/fa-solid-900.woff2) format(\"woff2\"),url(core/admin/fonts/fontawesome/fa-solid-900.woff) format(\"woff\"),url(core/admin/fonts/fontawesome/fa-solid-900.ttf) format(\"truetype\"),url(core/admin/fonts/fontawesome/fa-solid-900.svg#fontawesome) format(\"svg\")}@font-face{font-family:FontAwesome;font-style:normal;font-weigh",
+      "content_type": "image/svg+xml",
+      "bytes": 917575,
+      "sha256": "1a46e780ce5beb6507d62af8b20a92b33c8f042e87c612f4bbf8330bfc353419",
+      "source_sha256": "1a46e780ce5beb6507d62af8b20a92b33c8f042e87c612f4bbf8330bfc353419",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://advantage.com/",
+        "https://advantage.com/blog/how-to-setup-a-monthly-car-rental/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/advantage/reference-007.svg",
+      "source_url": "https://advantage.com/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.svg",
+      "source_tag": "external-css",
+      "context": "esome/fa-brands-400.woff2) format(\"woff2\"),url(//advantage.com/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.woff) format(\"woff\"),url(//advantage.com/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.ttf) format(\"truetype\"),url(//advantage.com/wp-content/themes/Divi/core/admin/fonts/fontawesome/fa-brands-400.svg#fontawesome) format(\"svg\")}\n@media (min-width:981p",
+      "content_type": "image/svg+xml",
+      "bytes": 747545,
+      "sha256": "e2749cb24a77208abdd9fda35f0d14f091948c44d21f977c8048a3b13e4beccb",
+      "source_sha256": "e2749cb24a77208abdd9fda35f0d14f091948c44d21f977c8048a3b13e4beccb",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://advantage.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/advantage/reference-008.webp",
+      "source_url": "https://advantage.com/wp-content/uploads/2024/09/averie-woodard-5d20kdvFCfA-unsplas-min.webp",
+      "source_tag": "external-css",
+      "context": "e_wrap img{width:auto}}.right-mobile-menu ul.et_mobile_menu{width:90VW;transform:translateX(0%)!important;padding:0}.right-mobile-menu ul.et_mobile_menu{width:90VW;transform:translateX(0%)!important;padding:0}div.et_pb_section.et_pb_section_0{background-image:url(https://advantage.com/wp-content/uploads/2024/09/averie-woodard-5d20kdvFCfA-unsplas-min.webp)!important}.et_pb_section_0.et_pb_section{p",
+      "content_type": "image/webp",
+      "bytes": 193874,
+      "sha256": "38c485f2b8016a8e63ad9fd34c81b059f0a6675d5b5206a9459248196fc83d97",
+      "source_sha256": "6fc6c241dd8bcd05bbcfb29f98586c2e9ab425ba8eb52cc6990eb9edcc63a889",
+      "dhash": "a339999b6f272785",
+      "width": 1990,
+      "height": 720,
+      "variant": "mobile",
+      "source_pages": [
+        "https://advantage.com/"
+      ]
     }
   ]
 }

@@ -4,8 +4,19 @@
   "requested_url": "https://jejerent.com/",
   "page_url": "https://jejerent.com/",
   "page_title": "개인 정보 보호 오류",
-  "collection_status": "partial",
-  "collection_error": "reference:ValueError:https://jejerent.com/rent/resources/fonts/pretendard/woff2/Pretendard-Regular.woff2",
+  "collection_status": "complete",
+  "collection_error": "asset:https://jejerent.com/images/jejumon/customer/btn_edit.jpg:HTTPError; asset:https://jejerent.com/images/jejumon/customer/btn_del.jpg:HTTPError; asset:https://jejerent.com/images/cs_title.png:HTTPError; asset:https://jejerent.com/rent/resources/rent/resources/fonts/pretendard/woff/Pretendard-Black.woff:HTTPError; asset:https://jejerent.com/rent/resources/rent/resources/fonts/pretendard/woff/Pretendard-Bold.woff:HTTPError; asset:https://jejerent.com/rent/resources/rent/resources/fonts/pretendard/woff/Pretendard-Medium.woff:HTTPError; asset:https://jejerent.com/rent/resources/rent/resources/fonts/pretendard/woff/Pretendard-Regular.woff:HTTPError; asset:https://jejerent.com/rent/resources/rent/resources/fonts/pretendard/woff/Pretendard-Light.woff:HTTPError; asset:https://jejerent.com/images/bg.jpg:HTTPError; asset:https://jejerent.com/images/title_bilt.jpg:HTTPError; asset:https://jejerent.com/images/rent_serch_btn2.jpg:HTTPError; asset:https://jejerent.com/images/jejumon/customer/bt_qa.jpg:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 10,
+    "desktop_pages": 10,
+    "mobile_pages": 10,
+    "stylesheets": 3,
+    "scripts": 4,
+    "candidates": 51,
+    "attempted_assets": 51,
+    "errors": 13,
+    "collected_at": "2026-09-03T08:12:04.607025+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -17,6 +28,60 @@
       "sha256": "cca2e89eec135755e7562025931032f3f7dca05475221faf33733bced6101b61",
       "width": 32,
       "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeje-rentcar/banner-001.webp",
+      "source_url": "https://jejerent.com/rent/resources/img/logo2.png",
+      "source_tag": "external-css",
+      "context": " {\n  display: flex;\n  /*justify-content: space-between;*/\n   justify-content: space-around;\n  \n  align-items: center;\n  height: 120px;\n  /*background-color: #eee;*/\n\n}\n.jejurent-header .logo {\n  display: block;\n  width: 165px;\n  height: 100px;\n  /*background: url(../img/logo2.png) no-repeat center/cover;*/\n  background: url(../img/logo-white-BxGs-t8R.png) no-repeat center/cover;\n  \n  text-indent: ",
+      "content_type": "image/webp",
+      "bytes": 13482,
+      "sha256": "128307e8d176f678b5dcd3ad0471fff3fbed8e0f7ce1ccb0ed2afdd547666b2e",
+      "source_sha256": "f486847fd28e519fab58534507ceec3da97f1e66ba3ba9c76e0115d41b891cc1",
+      "dhash": "0100091919590021",
+      "width": 2200,
+      "height": 635,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejerent.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeje-rentcar/logo-001.png",
+      "source_url": "https://jejerent.com/rent/resources/img/logo-white-BxGs-t8R.png",
+      "source_tag": "external-css",
+      "context": "ustify-content: space-around;\n  \n  align-items: center;\n  height: 120px;\n  /*background-color: #eee;*/\n\n}\n.jejurent-header .logo {\n  display: block;\n  width: 165px;\n  height: 100px;\n  /*background: url(../img/logo2.png) no-repeat center/cover;*/\n  background: url(../img/logo-white-BxGs-t8R.png) no-repeat center/cover;\n  \n  text-indent: 9999px;\n}\n.jejurent-header .util {\n  display: flex;\n  align-it",
+      "content_type": "image/png",
+      "bytes": 103726,
+      "sha256": "9f39039ee2699ce42476059e8da213a6ef0fc6272f46617120cdeb8de040030b",
+      "source_sha256": "28a0183f8dab1c359b156144e618400e4826dddb1fb2c11b9227aceca36938ed",
+      "dhash": "2000227b9ab14108",
+      "width": 2200,
+      "height": 1760,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejerent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeje-rentcar/banner-002.webp",
+      "source_url": "https://jejerent.com/images/contents/img_reservation.gif",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"/customer/qna/list.php\">예약상담</a></li>\n<li><a href=\"/customer/customer_r.php\">환불규정</a></li>\n</ul>\n</div> <div class=\"sub_cts\" style=\"height:750px\">\n<div class=\"cs_title\">\n<img src=\"/images/contents/img_reservation.gif\" width=\"700px\"/>\n</div>\n<div class=\"board_body\" style=\"margin: 0 auto ;\">\n<form action=\"customer_res2.php?c=search\" meth",
+      "content_type": "image/webp",
+      "bytes": 10570,
+      "sha256": "c9bbf8ebce57feed7707af1a5110247e8679a6a6e1b6c4fc39bf5484037faf5f",
+      "source_sha256": "b98481a0d690a3bf3947ad3fc5c866fb09728c2c0703b20cae3230533473cd4c",
+      "dhash": "100030b2b2306870",
+      "width": 900,
+      "height": 385,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejerent.com/customer/customer_res.php"
+      ]
     }
   ]
 }

@@ -5,7 +5,18 @@
   "page_url": "https://www.rentawreck.com/",
   "page_title": "Cheap Car Rental Deals | Rental Cars from Rent-A-Wreck | 30 Years of Great Cars, Great Service! - Rent-A-Wreck",
   "collection_status": "complete",
-  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=478446844418156&ev=PageView &noscript=1",
+  "collection_error": "asset:https://www.facebook.com/tr?id=478446844418156&ev=PageView+&noscript=1:ValueError; asset:https://www.rentawreck.com/layout/global/WCSS/%22images%2Fui-icons_555555_256x240.png%22:HTTPError; asset:https://www.rentawreck.com/layout/global/WCSS/%22images%2Fui-icons_777620_256x240.png%22:HTTPError; asset:https://www.rentawreck.com/layout/global/WCSS/%22images%2Fui-icons_444444_256x240.png%22:HTTPError; asset:https://www.rentawreck.com/layout/global/WCSS/%22images%2Fui-icons_cc0000_256x240.png%22:HTTPError; asset:https://www.rentawreck.com/layout/global/WCSS/%22images%2Fui-icons_777777_256x240.png%22:HTTPError; asset:https://www.rentawreck.com/layout/global/WCSS/%22images%2Fui-icons_ffffff_256x240.png%22:HTTPError; asset:https://www.rentawreck.com/layout/global/PCSS/{img imgId='33_controls.png' path='1'}:HTTPError; asset:https://www.rentawreck.com/layout/global/PCSS/{img imgId='257_controls.png' path='1'}:HTTPError; asset:https://www.rentawreck.com/smweb/js/images/loading.gif:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 10,
+    "scripts": 15,
+    "candidates": 40,
+    "attempted_assets": 40,
+    "errors": 10,
+    "collected_at": "2026-09-03T08:32:18.062372+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,75 +31,317 @@
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/rent-a-wreck/logo-1.png",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/logo-001.png",
       "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/24_rentawreck-logo.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img a div logo div nBar header",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "honeBtn\" href=\"tel://(877) 877-0700\"><i class=\"gicons\">phone</i></a><div class=\"accountBtn\"><i class=\"gicons\">person</i></div><div class=\"logo\"><a href=\"/\"><img data-cke-saved-src=\"/smsite/npauto_9/media/imgs/24_rentawreck-logo.png\" src=\"/smsite/npauto_9/media/imgs/24_rentawreck-logo.png\" web1=\"9\" web2=\"9\"/></a></div></div><div class=\"accountMenu\"><u",
       "content_type": "image/png",
       "bytes": 3823,
       "sha256": "d9802b705020d2fb9c948331d3a2f7e4fcad1a5e572d4fed6e9163f35a84f59c",
+      "source_sha256": "94f2d72de4271ce20a7101c67a40718b80716d9d00f0d806806f06893e38d718",
+      "dhash": "18d9e3e6e50acacc",
       "width": 190,
-      "height": 44
+      "height": 44,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/",
+        "https://www.rentawreck.com/airport---cdg---paris.html",
+        "https://www.rentawreck.com/airport---fll.html",
+        "https://www.rentawreck.com/airport---mia--miami.html",
+        "https://www.rentawreck.com/airport-mco-orlando.html",
+        "https://www.rentawreck.com/cancel.htm",
+        "https://www.rentawreck.com/cancun.html",
+        "https://www.rentawreck.com/cheap-car-rental-newark-airport-NJ.htm",
+        "https://www.rentawreck.com/grand-cayman.html",
+        "https://www.rentawreck.com/nice--nce-airport.html",
+        "https://www.rentawreck.com/rental-requirements.htm",
+        "https://www.rentawreck.com/reykjavik.html",
+        "https://www.rentawreck.com/san-juan.html",
+        "https://www.rentawreck.com/vehicle-rental.htm"
+      ]
     },
     {
       "type": "banner",
-      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-1.webp",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-001.webp",
       "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/628644_rentawreck-1.jpg",
-      "source_tag": "img:semantic-banner",
-      "context": "img li bannerli ul bxslider div banner body",
+      "source_tag": "html-data, img:banner, img:image, inline-css",
+      "context": "ey: \"pub_a2e811c033eeae31cf4a4354ca7476e3\" }); }); </script><!-- End ConveyThis code --> <div class=\"banner\"><ul class=\"bxslider\"><li class=\"bannerli\" style=\"background-image: url('/smsite/npauto_9/media/imgs/628644_rentawreck-1.jpg');\"><img border=\"0\" img-data=\"&lt;i&gt;&lt;/i&gt;\" src=\"/smsite/npauto_9/media/imgs/628644_rentawreck-1.jpg\"/></li><li c",
       "content_type": "image/webp",
-      "bytes": 82876,
-      "sha256": "e3a5782dcd858001b5da6fd3b890aa68f07e3f242208d74b94721bf65d8065ac",
+      "bytes": 80536,
+      "sha256": "cfb2fedd516e2da9b3d7866aa2c03cf5764b6100f4d114b9967250c0ed4cb9c2",
+      "source_sha256": "dd75cdbccef543457ae95c86f18b4e918414b3846dbe1e4ede3cf8737b711ce1",
+      "dhash": "2d54d9dbd3876666",
       "width": 1280,
-      "height": 853
+      "height": 853,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/"
+      ]
     },
     {
       "type": "banner",
-      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-2.webp",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-002.webp",
       "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/25_convertible-car.jpg",
-      "source_tag": "img:semantic-banner",
-      "context": "img li bannerli ul bxslider div banner body",
+      "source_tag": "html-data, img:banner, img:image, inline-css",
+      "context": "ntawreck-1.jpg');\"><img border=\"0\" img-data=\"&lt;i&gt;&lt;/i&gt;\" src=\"/smsite/npauto_9/media/imgs/628644_rentawreck-1.jpg\"/></li><li class=\"bannerli\" style=\"background-image: url('/smsite/npauto_9/media/imgs/25_convertible-car.jpg');\"><img border=\"0\" img-data=\"Don't Let the Name Fool You™&lt;i&gt;Rent-A-Wreck puts you in the Driver's Seat!&lt;/i&gt;",
       "content_type": "image/webp",
-      "bytes": 96018,
-      "sha256": "47d64850e04261eaad0720a997da720633d391cf3b17a1581e2f761c7e1c8322",
+      "bytes": 89872,
+      "sha256": "61f0b5febb15e170beba6bbf8505ab8285515988e738769429057e730c65c94b",
+      "source_sha256": "49e1dc6f6ae3b3c868ea3a0e9594e02f6165a76ce3c91d798d04c1e87cf4081e",
+      "dhash": "632f0e7b652539b3",
       "width": 1280,
-      "height": 650
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/rent-a-wreck/reference-1.webp",
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-003.webp",
       "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/628645_rentawreck2.jpg",
-      "source_tag": "img:page-image",
-      "context": "img li bannerli ul bxslider div banner body",
+      "source_tag": "html-data, img:banner, img:image, inline-css",
+      "context": "ou™&lt;i&gt;Rent-A-Wreck puts you in the Driver's Seat!&lt;/i&gt;\" src=\"/smsite/npauto_9/media/imgs/25_convertible-car.jpg\"/></li><li class=\"bannerli\" style=\"background-image: url('/smsite/npauto_9/media/imgs/628645_rentawreck2.jpg');\"><img border=\"0\" img-data=\"&lt;i&gt;&lt;/i&gt;\" src=\"/smsite/npauto_9/media/imgs/628645_rentawreck2.jpg\"/></li><li cl",
       "content_type": "image/webp",
-      "bytes": 101186,
-      "sha256": "81d89424145a5403a4371fa0910f890d0c8fc9b8f5ab8ddee62f062899d42cf7",
+      "bytes": 97464,
+      "sha256": "f57e790f406068e55726d03536213f28422227deae9ab8d9d095660f09b11b82",
+      "source_sha256": "4fb0364676e82c5b48c4a37ed97d979088bd132ffb087fddde184a5e90b892b1",
+      "dhash": "e18c886b7b325b31",
       "width": 1280,
-      "height": 848
+      "height": 848,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/rent-a-wreck/reference-2.webp",
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-004.webp",
       "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/28_happy-customer.jpg",
-      "source_tag": "img:page-image",
-      "context": "img li bannerli ul bxslider div banner body",
+      "source_tag": "html-data, img:banner, img:image, inline-css",
+      "context": "rentawreck2.jpg');\"><img border=\"0\" img-data=\"&lt;i&gt;&lt;/i&gt;\" src=\"/smsite/npauto_9/media/imgs/628645_rentawreck2.jpg\"/></li><li class=\"bannerli\" style=\"background-image: url('/smsite/npauto_9/media/imgs/28_happy-customer.jpg');\"><img border=\"0\" img-data=\"The Zen of Car Rental&lt;i&gt;Rent-A-Wreck and relax&lt;/i&gt;\" src=\"/smsite/npauto_9/medi",
       "content_type": "image/webp",
-      "bytes": 79906,
-      "sha256": "6c40858b222dd97a647f5735fcc9973f876737145a5c5500c2ad9ac18da564d6",
+      "bytes": 75322,
+      "sha256": "51596e0f8829c2a22fa9376d26bbc4342fc8b2cbad4633ecf58d9f9671031ce9",
+      "source_sha256": "41aab0c812bf8d442ba43cd4a80cf1155588893bfab0cf6a6a5ba4128244d129",
+      "dhash": "07213892337953ee",
       "width": 1280,
-      "height": 650
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_글로벌/rent-a-wreck/reference-3.webp",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/reference-001.webp",
       "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/453_play-store.png",
-      "source_tag": "img:page-image",
-      "context": "img a androidLink div appStoreLinks div wrapper footer",
+      "source_tag": "html-data, img:image",
+      "context": "play: flex; justify-content: center;\"><a class=\"androidLink\" href=\"https://play.google.com/store/apps/details?id=com.rentawreck.rentawreckrental&amp;hl=en\"><img data-cke-saved-src=\"/smsite/npauto_9/media/imgs/453_play-store.png\" src=\"/smsite/npauto_9/media/imgs/453_play-store.png\" web1=\"9\" web2=\"9\" width=\"165px\"/></a><a class=\"iosLink\" href=\"http",
       "content_type": "image/webp",
-      "bytes": 7340,
-      "sha256": "3ac5c186502340b21a8ec214022e98ba11fa9fad1a321e1adea0b71333a7764a",
+      "bytes": 7070,
+      "sha256": "34b7075e6200a7058a14a538ed4419748369a718ef13cb0301978d96842b28e3",
+      "source_sha256": "f99e94db53a050e2fd902dca7969572d727f4fdb930873649cd0a83f48eda322",
+      "dhash": "65114c7243452141",
       "width": 646,
-      "height": 250
+      "height": 250,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/",
+        "https://www.rentawreck.com/airport---cdg---paris.html",
+        "https://www.rentawreck.com/airport---fll.html",
+        "https://www.rentawreck.com/airport---mia--miami.html",
+        "https://www.rentawreck.com/airport-mco-orlando.html",
+        "https://www.rentawreck.com/cancel.htm",
+        "https://www.rentawreck.com/cancun.html",
+        "https://www.rentawreck.com/cheap-car-rental-newark-airport-NJ.htm",
+        "https://www.rentawreck.com/grand-cayman.html",
+        "https://www.rentawreck.com/nice--nce-airport.html",
+        "https://www.rentawreck.com/rental-requirements.htm",
+        "https://www.rentawreck.com/reykjavik.html",
+        "https://www.rentawreck.com/san-juan.html",
+        "https://www.rentawreck.com/vehicle-rental.htm"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-005.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/915940_newark.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "operations</h2><ul><li>This location is open 24x7</li></ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=104\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/915940_newark.png\"><div><script id=\"mcjs\"> !function(c,h,i,m,p) { m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.",
+      "content_type": "image/webp",
+      "bytes": 72070,
+      "sha256": "3b396425112c7516d9df9122f6d439683de858126e17f73323b7989d70f7dbf2",
+      "source_sha256": "252600694eace5c0ae31e77a48ca15d2efe892155be0e4aa77110f95d3347c5d",
+      "dhash": "8e3db3a767a7b335",
+      "width": 800,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/cheap-car-rental-newark-airport-NJ.htm"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/reference-002.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/189208_6279-san-juan.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "operations</h2><ul><li>This location is open 24x7</li></ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=226\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/189208_6279-san-juan.jpg\"><div><script id=\"mcjs\"> !function(c,h,i,m,p) { m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.",
+      "content_type": "image/webp",
+      "bytes": 44366,
+      "sha256": "a8785ecb24078681adadf753bc378193829ddac25c7d3f6c504324fede2a917e",
+      "source_sha256": "8d92e49aa207bb67e3c76974118e3aedc5a8c7f6e035ab429029bd5696a95e49",
+      "dhash": "6b6fd29b3bfc87a7",
+      "width": 600,
+      "height": 328,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/san-juan.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-006.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/608062_iceland-1-resize.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "pan>Sunday</span><span>4:00 AM - 6:00 PM</span></li> </ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=1953\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/608062_iceland-1-resize.jpg\"><div><h3>Rent-A-Wreck — Car Rental in Reykjavík, Iceland</h3> Rent-A-Wreck in Reykjavík, Iceland provides affordable an",
+      "content_type": "image/webp",
+      "bytes": 95158,
+      "sha256": "c11db0e791073604944653024892b37077e0fededf8f30c969a4d3766794c5ef",
+      "source_sha256": "a24f5bf2c68e1e8cc421e0eb6eecb0b50203821e907448b10c89f8f1f4d74095",
+      "dhash": "6147f2314e527441",
+      "width": 751,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/reykjavik.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-007.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/608099_cancun-1-resize.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "an>Sunday</span><span>7:00 AM - 10:00 PM</span></li> </ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=1982\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/608099_cancun-1-resize.jpg\"><div><h3>Rent-A-Wreck — Car Rental in Cancún, Mexico</h3> Rent-A-Wreck in Cancún, Mexico provides affordable and depend",
+      "content_type": "image/webp",
+      "bytes": 95534,
+      "sha256": "5918e851fd335060b0ac41bd7468b4ed34b50a216802e695bc49ead3f37b5824",
+      "source_sha256": "0c6885fedfdaf114376ab8f78d1f1cdd0d0c5dff233dbd9f75d71b6f90b04346",
+      "dhash": "91200d181e1b392d",
+      "width": 807,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/cancun.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-008.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/606113_cayman-2-resize.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "an>Sunday</span><span>6:00 AM - 10:00 PM</span></li> </ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=1994\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/606113_cayman-2-resize.jpg\"><div><h3>Rent-A-Wreck — Car Rental in El Calafate, Argentina</h3> Rent-A-Wreck in El Calafate, Argentina provides affor",
+      "content_type": "image/webp",
+      "bytes": 90866,
+      "sha256": "1914d3e4edb3336ea9134c82d420b9d318f94a12c6d25514416133a166e2fe30",
+      "source_sha256": "788665888dc3413c1ac579fdf7abd44a72021771f83311fd98345d0bf9998266",
+      "dhash": "0d0f84211585a3d1",
+      "width": 890,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/grand-cayman.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-009.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/624934_miami.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "an>Sunday</span><span>7:00 AM - 10:00 PM</span></li> </ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=2003\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/624934_miami.jpg\"><div><script id=\"mcjs\"> !function(c,h,i,m,p) { m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.",
+      "content_type": "image/webp",
+      "bytes": 74704,
+      "sha256": "ead4119ebde22a8a62434de66997f204f00ee69fd2892a07d097e919096b408a",
+      "source_sha256": "51792754f8428249c3c1f76cd5342131426bfc2f037c941509e43296de0b0a9e",
+      "dhash": "ff4f66f4acce1e74",
+      "width": 705,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/airport---mia--miami.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-010.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/608040_france-2-resize.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "pan>Sunday</span><span>8:00 AM - 6:00 PM</span></li> </ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=2013\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/608040_france-2-resize.jpg\"><div><h3>Rent-A-Wreck — Car Rental in Nice, France</h3> Rent-A-Wreck in Nice, France provides affordable and dependable",
+      "content_type": "image/webp",
+      "bytes": 66200,
+      "sha256": "3eb5dd610a0fb6ee49ddce62e747f23899990ed1864cada25caf62d57eb09fcc",
+      "source_sha256": "c9dabd3c722a05d62deb1b96cc529a3dbddb65bede5d0730778e529018a68e2a",
+      "dhash": "0858f830783af6cc",
+      "width": 749,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/nice--nce-airport.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-011.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/624928_fort-lauderdale.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "pan>Sunday</span><span>8:00 AM - 8:00 PM</span></li> </ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=2014\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/624928_fort-lauderdale.jpg\"><div><script id=\"mcjs\"> !function(c,h,i,m,p) { m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.",
+      "content_type": "image/webp",
+      "bytes": 71694,
+      "sha256": "1fb9b813f3c251407f01f2ed7a9fbea665cb608e152d05626239d4b251dc5cca",
+      "source_sha256": "ec14be320540010bc775da475e2161073b32bc890420438884f6b1d7d4435b71",
+      "dhash": "0107073327ab7291",
+      "width": 705,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/airport---fll.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-012.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/624935_orlando.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "an>Sunday</span><span>7:00 AM - 10:00 PM</span></li> </ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=2015\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/624935_orlando.jpg\"><div><script id=\"mcjs\"> !function(c,h,i,m,p) { m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.",
+      "content_type": "image/webp",
+      "bytes": 96662,
+      "sha256": "4dbcbc2ad7117b0951b6fe36f0d07439a9083c43fa247109131a8a8926f6ce8b",
+      "source_sha256": "596c9ed581284458be957745355a28e5b371de42e82bfc31ad6d677417a28dd8",
+      "dhash": "26b94084d4c63359",
+      "width": 705,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/airport-mco-orlando.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/rent-a-wreck/banner-013.webp",
+      "source_url": "https://www.rentawreck.com/smsite/npauto_9/media/imgs/608024_france-1-resize.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "pan>Sunday</span><span>8:00 AM - 6:00 PM</span></li> </ul></div><a class=\"salesURI\" href=\"/location-rental-policy.html?l=2025\">Rental Policy</a></div><div class=\"content\"><img src=\"/smsite/npauto_9/media/imgs/608024_france-1-resize.jpg\"><div><script id=\"mcjs\"> !function(c,h,i,m,p) { m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.",
+      "content_type": "image/webp",
+      "bytes": 82968,
+      "sha256": "4b75a31d08bed161180292a949a268f6b252c116be148950c2c0bed3456bbcb2",
+      "source_sha256": "b96d8ee6e56e15362c7b9128bce7544e0fb8bf077583292c2d5739a01f9a61cd",
+      "dhash": "e73d2c8d45373767",
+      "width": 750,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.rentawreck.com/airport---cdg---paris.html"
+      ]
     }
   ]
 }

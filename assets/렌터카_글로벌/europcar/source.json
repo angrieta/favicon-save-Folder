@@ -2,10 +2,21 @@
   "company": "Europcar",
   "category": "렌터카_글로벌",
   "requested_url": "https://www.europcar.com/",
-  "page_url": "https://www.europcar.com/en-us",
+  "page_url": "https://www.europcar.com/",
   "page_title": "Europcar: Rental Cars - Car Rental & Van Rental",
   "collection_status": "complete",
-  "collection_error": "reference:ValueError:https://static.europcar.com/_nuxt/feb07d1.modern.js; reference:ValueError:https://static.europcar.com/_nuxt/a4e87c1.modern.js; reference:ValueError:https://static.europcar.com/_nuxt/css/1bca30c.css; reference:ValueError:https://static.europcar.com/_nuxt/09125e7.modern.js; reference:ValueError:https://static.europcar.com/_nuxt/css/328e143.css; reference:ValueError:https://static.europcar.com/_nuxt/c60c8ed.modern.js",
+  "collection_error": "asset:https://www.europcar.com/en-us/p/600:HTTPError; asset:https://www.europcar.com/en-us/p/car-rental/fleet/type/600:HTTPError; asset:https://www.europcar.com/600:HTTPError; asset:https://www.europcar.com/Europcar:HTTPError; asset:https://www.europcar.com/en-us/p/car-rental/600:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 3,
+    "scripts": 9,
+    "candidates": 71,
+    "attempted_assets": 71,
+    "errors": 5,
+    "collected_at": "2026-09-03T08:26:21.766215+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,767 @@
       "height": 512
     },
     {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/europcar/logo-001.svg",
+      "source_url": "https://static.europcar.com/_nuxt/img/small-logo.0e819a5.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "ooter-awards-wrapper\"><div class=\"footer-awards__brand\"><img alt=\"Europcar\" class=\"os-image footer-awards__brand-logo lazyload\" fetchpriority=\"auto\" height=\"70\" loading=\"lazy\" src=\"https://static.europcar.com/_nuxt/img/small-logo.0e819a5.svg\" width=\"70\"/></div> <ul class=\"footer-awards__items\"><li class=\"footer-awards__item footer-awards__item--3\"><div><div cl",
+      "content_type": "image/svg+xml",
+      "bytes": 1363,
+      "sha256": "5552e405bd221fa73d73ddf89bd2f6f34ade806c5e46d36be5cd2b8e036e3537",
+      "source_sha256": "5552e405bd221fa73d73ddf89bd2f6f34ade806c5e46d36be5cd2b8e036e3537",
+      "dhash": "",
+      "width": 60,
+      "height": 60,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/car-rental",
+        "https://www.europcar.com/en-us/p/car-rental/by-duration",
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/electric",
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/premium",
+        "https://www.europcar.com/en-us/p/mobile-app",
+        "https://www.europcar.com/en-us/p/offers/worldwide-discount",
+        "https://www.europcar.com/en-us/p/van-rental",
+        "https://www.europcar.com/en-us/places/car-rental-france",
+        "https://www.europcar.com/en-us/places/car-rental-germany",
+        "https://www.europcar.com/en-us/places/car-rental-italy",
+        "https://www.europcar.com/en-us/places/car-rental-spain",
+        "https://www.europcar.com/en-us/places/car-rental-united-states-of-america",
+        "https://www.europcar.com/en-us/places/car-rental-worldwide"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/europcar/logo-002.svg",
+      "source_url": "https://static.europcar.com/_nuxt/img/main-logo.569c225.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "ive\" data-test-id=\"header-navigate-link\" href=\"/en-us\"><!-- --> <img alt=\"Go to home page\" class=\"os-image header-logo__image\" fetchpriority=\"auto\" height=\"64\" loading=\"eager\" src=\"https://static.europcar.com/_nuxt/img/main-logo.569c225.svg\" width=\"184\"/></a> <!-- --></div> <nav class=\"header_component__navbar-right\"><ul class=\"header_component__menu header_c",
+      "content_type": "image/svg+xml",
+      "bytes": 6221,
+      "sha256": "6eafb679f88ba3bf2df1f7b0ab9fab4ea0699e79629fcd024172229e3c5f572b",
+      "source_sha256": "6eafb679f88ba3bf2df1f7b0ab9fab4ea0699e79629fcd024172229e3c5f572b",
+      "dhash": "",
+      "width": 184,
+      "height": 64,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/car-rental",
+        "https://www.europcar.com/en-us/p/car-rental/by-duration",
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/electric",
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/premium",
+        "https://www.europcar.com/en-us/p/mobile-app",
+        "https://www.europcar.com/en-us/p/offers/worldwide-discount",
+        "https://www.europcar.com/en-us/p/van-rental",
+        "https://www.europcar.com/en-us/places/car-rental-france",
+        "https://www.europcar.com/en-us/places/car-rental-germany",
+        "https://www.europcar.com/en-us/places/car-rental-italy",
+        "https://www.europcar.com/en-us/places/car-rental-spain",
+        "https://www.europcar.com/en-us/places/car-rental-united-states-of-america",
+        "https://www.europcar.com/en-us/places/car-rental-worldwide"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/europcar/social-001.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/1kF4MdDfdXNDbMYuob7ee6/cfa3eebd17f2f2ffb824048936cc7f5e/europcar-car-rental-.jpg?w=600&h=600",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "bsite\" data-hid=\"og:type\" data-n-head=\"ssr\" property=\"og:type\"/><meta content=\"https://www.europcar.com/en-us\" data-hid=\"og:url\" data-n-head=\"ssr\" property=\"og:url\"/><meta content=\"https://images.ctfassets.net/wmdwnw6l5vg5/1kF4MdDfdXNDbMYuob7ee6/cfa3eebd17f2f2ffb824048936cc7f5e/europcar-car-rental-.jpg?w=600&amp;h=600\" data-hid=\"og:image\" data-n-head=\"ssr\" property=\"og:image\"/><meta content=\"600\" ",
+      "content_type": "image/webp",
+      "bytes": 20394,
+      "sha256": "68794578f6af92cde690d3dc5048edc748ae613bc413d5f078d8cca5a04cb35a",
+      "source_sha256": "b4441c823cbbc923f6cdf2c9f39b899a97364b7c05516fc18aaaf7700f32643b",
+      "dhash": "20e4c08115b33331",
+      "width": 600,
+      "height": 315,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/europcar/social-002.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/ii0QynuToxJpawQ2Nph9z/309ffe7813dee772d4431435dc0557ab/location_voiture_electrique__1_.jpg?w=600&h=600",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "-hid=\"description\" data-n-head=\"ssr\" name=\"description\"/><meta content=\"Electric car rental with Europcar\" data-hid=\"og:title\" data-n-head=\"ssr\" property=\"og:title\"/><meta content=\"https://images.ctfassets.net/wmdwnw6l5vg5/ii0QynuToxJpawQ2Nph9z/309ffe7813dee772d4431435dc0557ab/location_voiture_electrique__1_.jpg?w=600&amp;h=600\" data-hid=\"og:image\" data-n-head=\"ssr\" property=\"og:image\"/><meta cont",
+      "content_type": "image/webp",
+      "bytes": 38630,
+      "sha256": "554ad448983c132348d21582e62d65e09e3d0e38997ab2cae2ddc621f0627746",
+      "source_sha256": "6d186db48bbe9bbfa5ce9012df098cbec87e2a29f2e6d7a55b0ae5e3583ab3ed",
+      "dhash": "cfcfcfc7d5e5859b",
+      "width": 600,
+      "height": 410,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/electric"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/europcar/social-003.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/6NDCFxCJiC7gLgiFPwNImN/c6a41628d61526d4c69547271bc404d7/Van_Hire_Europcar.jpg?w=600&h=600",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "ata-n-head=\"ssr\" name=\"description\"/><meta content=\"Van Rental: Europcar trucks &amp; vans for every need\" data-hid=\"og:title\" data-n-head=\"ssr\" property=\"og:title\"/><meta content=\"https://images.ctfassets.net/wmdwnw6l5vg5/6NDCFxCJiC7gLgiFPwNImN/c6a41628d61526d4c69547271bc404d7/Van_Hire_Europcar.jpg?w=600&amp;h=600\" data-hid=\"og:image\" data-n-head=\"ssr\" property=\"og:image\"/><meta content=\"600\" dat",
+      "content_type": "image/webp",
+      "bytes": 24844,
+      "sha256": "f72dcfbb8a341abaf7a6001e17fd4c349fc9f659a346d3d5ef58fa23ffdf53a4",
+      "source_sha256": "03c0651983a9e6d359b0dc30d1a3962a56f24076843113cfb75e7bd60d049c09",
+      "dhash": "07a21b4f8f09393d",
+      "width": 600,
+      "height": 275,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-001.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/7dQtonNoUWDeSh9iyvicEa/6ad045509d149b3448ccdbb9f0e401f3/geo-hero.jpg",
+      "source_tag": "html-data, inline-css, link:preload",
+      "context": "ata-hid=\"alternate-zh-CN\" data-n-head=\"ssr\" href=\"https://www.europcar.com/zh-cn/places/car-rental-italy\" hreflang=\"zh-CN\" rel=\"alternate\"/><link as=\"image\" data-n-head=\"ssr\" href=\"//images.ctfassets.net/wmdwnw6l5vg5/7dQtonNoUWDeSh9iyvicEa/6ad045509d149b3448ccdbb9f0e401f3/geo-hero.jpg\" rel=\"preload\"/><script data-hid=\"gtm-consent-default\" data-n-head=\"ssr\" type=\"text/javascript\">\n        window.em",
+      "content_type": "image/webp",
+      "bytes": 28992,
+      "sha256": "7e77a6cba5af9d6e453db347499ae20f420675f3066c3787c7b4d270ecbee277",
+      "source_sha256": "3260e47f53e28be13d66d577f28934c90e5de0176928cd5f35878b461fdea46f",
+      "dhash": "c480a021a7733333",
+      "width": 1100,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/places/car-rental-france",
+        "https://www.europcar.com/en-us/places/car-rental-germany",
+        "https://www.europcar.com/en-us/places/car-rental-italy",
+        "https://www.europcar.com/en-us/places/car-rental-spain",
+        "https://www.europcar.com/en-us/places/car-rental-united-states-of-america",
+        "https://www.europcar.com/en-us/places/car-rental-worldwide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-001.webp",
+      "source_url": "https://static.europcar.com/_nuxt/img/map-placeholder.e0a1a01.png",
+      "source_tag": "external-css",
+      "context": "-map-placeholder[data-v-3f535d9f]{-webkit-box-pack:center;-ms-flex-pack:center;display:-webkit-box;display:-ms-flexbox;display:flex;height:100%;justify-content:center;position:relative;width:100%;z-index:0}.os-map-placeholder[data-v-3f535d9f]:after{background:url(/_nuxt/img/map-placeholder.e0a1a01.png) no-repeat 50%;background-size:cover;content:\"\";-webkit-filter:blur(var(--spacing-s));filter:blur",
+      "content_type": "image/webp",
+      "bytes": 17512,
+      "sha256": "b50504511502d61e6ccdb8f92670580b66619df09b7d0982eca0b183d6e3d079",
+      "source_sha256": "e457a6c87a14917c836d7e242a1cd139f3e3c48c51e8b294d38582a6cc010914",
+      "dhash": "6c264e1f3ca48652",
+      "width": 570,
+      "height": 393,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-002.webp",
+      "source_url": "https://static.europcar.com/_nuxt/img/Banner-Privilege-Mobile.5401df2.jpg",
+      "source_tag": "external-css",
+      "context": "x-direction:normal;border:none;cursor:pointer;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;gap:22px;min-height:164px;padding:25px;width:100%}.privilege-banner--dashboard[data-v-62b99c92]{background-image:url(/_nuxt/img/Banner-Privilege-Mobile.5401df2.jpg);background-position:50%;background-size:cover}.privilege-banner--fly-out[data-v-62b99c92",
+      "content_type": "image/webp",
+      "bytes": 19568,
+      "sha256": "b3182183f69ddd7e60ecff4c6f5f64d66375d5745c1be04481cc691cd064551e",
+      "source_sha256": "255ded456ce181d0d777e36bcf70fa25b1ca5bc7b2586ca946ed3fe69b810c8b",
+      "dhash": "00e0841a6686d234",
+      "width": 480,
+      "height": 425,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-003.webp",
+      "source_url": "https://static.europcar.com/_nuxt/img/nlp-banner.f03cfe5.jpg",
+      "source_tag": "external-css",
+      "context": "ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;gap:var(--spacing-s);min-height:164px;padding:25px;width:100%}.loyalty-banner--dashboard[data-v-62b99c92]{background-image:linear-gradient(290.9deg,transparent 3.8%,rgba(0,0,0,.4) 75.26%),url(/_nuxt/img/nlp-banner.f03cfe5.jpg);background-position:50%;background-size:cover}.loyalty-banner--fly-out[data-v-62b99c92]{background-co",
+      "content_type": "image/webp",
+      "bytes": 70672,
+      "sha256": "86100a578b7d979b828a51a7ac21cc896ad2655c0074effc210a53bcef21521d",
+      "source_sha256": "963a134239af705e3373fc9c4fdaf19e6c3c0e1795201156933beb681f11f8fd",
+      "dhash": "9e9793332d6b2b9e",
+      "width": 1365,
+      "height": 910,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-004.webp",
+      "source_url": "https://static.europcar.com/_nuxt/img/membership_desktop.12f6b93.webp",
+      "source_tag": "external-css",
+      "context": "accordion__icon__text[data-v-cc99bf20]{font-size:var(--font-size-xl)}.loyalty-landing-page__membership[data-v-cc99bf20]{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-image:url(/_nuxt/img/membership_desktop.12f6b93.webp);background-position:50%;background-size:cover;display:-webkit-box;display:-ms-flexbox;displa",
+      "content_type": "image/webp",
+      "bytes": 12276,
+      "sha256": "57d98520fa3807b511f85f5c6e666b009a770bbfa2057ac40ae9ebcd2b00147f",
+      "source_sha256": "395310f1831c0cdc2b2110f341ae86ea237770702e978ddaf99e21eb55285efe",
+      "dhash": "2b3b0b4949692b63",
+      "width": 1440,
+      "height": 343,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-005.webp",
+      "source_url": "https://static.europcar.com/_nuxt/img/loyalty_background.d095b73.webp",
+      "source_tag": "external-css",
+      "context": "9]{scrollbar-face-color:var(--color-highlight-3);scrollbar-arrow-color:var(--color-highlight-3);scrollbar-track-color:var(--color-grey-6)}.congratulations-page[data-v-49f54c39]{-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-image:url(/_nuxt/img/loyalty_background.d095b73.webp);background-position:50%;background-repeat:no-repeat;background-size:cover;display:-webkit-bo",
+      "content_type": "image/webp",
+      "bytes": 40858,
+      "sha256": "7c78b26f8e241eea6d004fa79e629e0035f75778c66cd1af9b39b79896d513d8",
+      "source_sha256": "379ca0c18e0b3282966b94301aea31c7ca67efde9aff40d3e47b3b6ae792ac60",
+      "dhash": "898c989892921212",
+      "width": 1440,
+      "height": 872,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-002.webp",
+      "source_url": "https://static.europcar.com/_nuxt/img/loy_background_mobile.f002464.webp",
+      "source_tag": "external-css",
+      "context": "t:no-repeat;background-size:cover;display:-webkit-box;display:-ms-flexbox;display:flex;height:100vh}@media only screen and (max-width:575px){.congratulations-page[data-v-49f54c39]{-webkit-box-align:start;-ms-flex-align:start;align-items:start;background-image:url(/_nuxt/img/loy_background_mobile.f002464.webp);background-position:100%}}@media only screen and (min-width:768px){.congratulations-page[",
+      "content_type": "image/webp",
+      "bytes": 16308,
+      "sha256": "797ee5a2cf9d206f2e34bd748cdd5606900caf152ab7f8da53a9d57a5afa02c2",
+      "source_sha256": "899dc5db2ef5da94f91f666d27b33f9092a647b49923b1d34988c3b8b17f59f8",
+      "dhash": "090821e1c3830606",
+      "width": 375,
+      "height": 1046,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-006.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/3AVzlE6EOEnZ9v0uVTc7B2/397b718620c2cac5edbc44ad49a20c05/Background-HP_IA_VW_VF__1_.jpg?fm=webp",
+      "source_tag": "html-data, inline-css, link:preload",
+      "context": " <portal to=\"dialog-side-modal\"><!-- --></portal> <!-- --> <!-- --></div></div> <div class=\"hero__main pb-3 hero__container\" data-test-id=\"hero__image\" style=\"background-image:url('https://images.ctfassets.net/wmdwnw6l5vg5/3AVzlE6EOEnZ9v0uVTc7B2/397b718620c2cac5edbc44ad49a20c05/Background-HP_IA_VW_VF__1_.jpg?fm=webp');\"><div class=\"highlighted-deal\"> <p class=\"os-text hero__title os-text--size-inh",
+      "content_type": "image/webp",
+      "bytes": 27824,
+      "sha256": "9817c7a166558f97d321d27389f7f025f9f176396ea4264809efb271378d39d9",
+      "source_sha256": "2982834b6d3708fe6e63d9cef92a0431bc8aaf651c946421f4f0c66b8a8a4c44",
+      "dhash": "1f1f0f2336262220",
+      "width": 1280,
+      "height": 569,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-007.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/79qM6oYayvH9E4Zv9QTFX7/ddccde652de4dfb73b5280a83b41665c/Untitled_design__6_.jpg",
+      "source_tag": "html-data, inline-css, link:preload",
+      "context": "ate\"/><link data-hid=\"alternate-sv-SE\" data-n-head=\"ssr\" href=\"https://www.europcar.se/sv-se/p/worldwide\" hreflang=\"sv-SE\" rel=\"alternate\"/><link as=\"image\" data-n-head=\"ssr\" href=\"//images.ctfassets.net/wmdwnw6l5vg5/79qM6oYayvH9E4Zv9QTFX7/ddccde652de4dfb73b5280a83b41665c/Untitled_design__6_.jpg\" rel=\"preload\"/><script data-hid=\"gtm-consent-default\" data-n-head=\"ssr\" type=\"text/javascript\">\n      ",
+      "content_type": "image/webp",
+      "bytes": 79404,
+      "sha256": "8a5f646c35fc11b0b828099aa01839e0481c62b2a707a9302d1068685bb5a031",
+      "source_sha256": "ecace31fbd75f982b4247f9955b17e91050cbc296355d25a856d1746cb76b638",
+      "dhash": "fff6f6fdfcfbe3f3",
+      "width": 1100,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/offers/worldwide-discount"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-003.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/5UhP1ODoSUwAjiKS1U7bKB/ab1ebd97a620579207e0eedbe687800f/Cover_image_-_Content_Page.jpg",
+      "source_tag": "inline-css",
+      "context": "div  content-page__cover background-image:url(//images.ctfassets.net/wmdwnw6l5vg5/5UhP1ODoSUwAjiKS1U7bKB/ab1ebd97a620579207e0eedbe687800f/Cover_image_-_Content_Page.jpg);",
+      "content_type": "image/webp",
+      "bytes": 12138,
+      "sha256": "772fa7fad95f9808d1fc365f70615e8ba7aa69998dc72443461bb02d39bd3552",
+      "source_sha256": "7f70d1764c0dc1a039852fa044a2b8343427e0959c3b1a0857f9a2904fef8c57",
+      "dhash": "4c5d4d4e4e4e4e4f",
+      "width": 895,
+      "height": 250,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/mobile-app"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-008.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/3cJqEglaQEbq2FfICUKHPC/4f4c8bf4452e397fef58cc9112ef5886/car-hire-europcar.jpg",
+      "source_tag": "inline-css",
+      "context": "div  content-page__cover background-image:url(//images.ctfassets.net/wmdwnw6l5vg5/3cJqEglaQEbq2FfICUKHPC/4f4c8bf4452e397fef58cc9112ef5886/car-hire-europcar.jpg);",
+      "content_type": "image/webp",
+      "bytes": 53838,
+      "sha256": "ca01e15687b09b9355de1baa50e1476e983d5d7f7ce55bfae13c564d245f4fea",
+      "source_sha256": "e29569c5631b40cf15e9ea7a01ec8155da299aaf3f3e19ffd6e6e6329bad7581",
+      "dhash": "40c8c08480002125",
+      "width": 1650,
+      "height": 456,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-009.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/2fGGB53i1ZWHcTcxfwKBUu/f006f7874ef295e61b509fa6a2e13183/Premium_Fleet_Banner.jpg",
+      "source_tag": "inline-css",
+      "context": "div  content-page__cover background-image:url(//images.ctfassets.net/wmdwnw6l5vg5/2fGGB53i1ZWHcTcxfwKBUu/f006f7874ef295e61b509fa6a2e13183/Premium_Fleet_Banner.jpg);",
+      "content_type": "image/webp",
+      "bytes": 17344,
+      "sha256": "87b1ddcfbea55d55b5f8ad7013ed35f82034a2ec27993e797f98474295199a44",
+      "source_sha256": "30f06bf951fdd0f7663860d9315ea082ee143c9d66a50779b3dda7edfe8b8aeb",
+      "dhash": "191c1c1c3e3e3838",
+      "width": 1325,
+      "height": 370,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/premium"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-010.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/7rWkwbewlOjxuIU6TDjtvE/4ce8c9ed82de094ba9e083e52b6316f1/car-hire-by-duration-cover.jpg",
+      "source_tag": "inline-css",
+      "context": "div  content-page__cover background-image:url(//images.ctfassets.net/wmdwnw6l5vg5/7rWkwbewlOjxuIU6TDjtvE/4ce8c9ed82de094ba9e083e52b6316f1/car-hire-by-duration-cover.jpg);",
+      "content_type": "image/webp",
+      "bytes": 26674,
+      "sha256": "8e108ad9d6334e74e782dd5e0a69af4cc5a05e29b07a0899583325fddade81b0",
+      "source_sha256": "d4e76679a900b8baa00385043747fca9c619b9d067bb1965dcbc62b04f665997",
+      "dhash": "4f4eccc5c1c5d3d3",
+      "width": 1325,
+      "height": 370,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental/by-duration"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-011.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/6NWirAvZqjMGGrt1uBtTR4/47aaf97d83e933001e018df89d9f7370/EC_LOYALTY_WEBSITE_BANNER___1_.jpg",
+      "source_tag": "html-data",
+      "context": "cle--row\" href=\"/en-us/loyalty-program?utm_source=usa&amp;utm_medium=banner_home_page&amp;utm_campaign=loyalty_program\"><div class=\"os-article__image lazyload lazy-effect\" data-bg=\"//images.ctfassets.net/wmdwnw6l5vg5/6NWirAvZqjMGGrt1uBtTR4/47aaf97d83e933001e018df89d9f7370/EC_LOYALTY_WEBSITE_BANNER___1_.jpg\"></div> <div class=\"os-article__content os-article__content-spacing-left\"><span class=\"os-te",
+      "content_type": "image/webp",
+      "bytes": 39852,
+      "sha256": "4529c86c0bab4504c67a1cd934ceda70739b7a84e65fe363f3c59437a7345974",
+      "source_sha256": "911b70392caef882ed42abe40583efaa4bdf5eee231421b9239f7a49ed70185c",
+      "dhash": "1919191915363634",
+      "width": 960,
+      "height": 540,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/places/car-rental-france",
+        "https://www.europcar.com/en-us/places/car-rental-germany",
+        "https://www.europcar.com/en-us/places/car-rental-italy",
+        "https://www.europcar.com/en-us/places/car-rental-spain",
+        "https://www.europcar.com/en-us/places/car-rental-united-states-of-america",
+        "https://www.europcar.com/en-us/places/car-rental-worldwide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-004.webp",
+      "source_url": "https://www.europcar.com/_nuxt/img/europcar-signature-green@3x.a2d761a.png",
+      "source_tag": "html-data",
+      "context": "   });\n      </script><script data-n-head=\"ssr\" type=\"application/ld+json\">{\"@context\":\"http://www.schema.org\",\"@type\":\"Organization\",\"url\":\"https://www.europcar.com/en-us\",\"logo\":\"/_nuxt/img/europcar-signature-green@3x.a2d761a.png\",\"name\":\"Europcar\"}</script><link as=\"script\" href=\"https://static.europcar.com/_nuxt/feb07d1.modern.js\" rel=\"preload\"/>",
+      "content_type": "image/webp",
+      "bytes": 10090,
+      "sha256": "307609860a9a954765b4852200857fc35c32e6186f46345090aff866ba918354",
+      "source_sha256": "b7ddc51c5c782f51bc6a70231668e82c1e77d9e2801b4f73b267c1ae2ca9b585",
+      "dhash": "906b6d2f0f390da2",
+      "width": 492,
+      "height": 246,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-012.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/7tWjHLsVBCTvJ6oJALtHPq/36cdd9c71bf04035e1533a68783e8612/app_banner_5.jpg",
+      "source_tag": "html-data",
+      "context": "ass=\"highlight-section__wrapper\"><a class=\"os-article os-article--is-alone os-article--row\" href=\" /en-us/p/mobile-app\"><div class=\"os-article__image lazyload lazy-effect\" data-bg=\"https://images.ctfassets.net/wmdwnw6l5vg5/7tWjHLsVBCTvJ6oJALtHPq/36cdd9c71bf04035e1533a68783e8612/app_banner_5.jpg\"></div> <div class=\"os-article__content os-article__content-spacing-left\"><span class=\"os-text os-articl",
+      "content_type": "image/webp",
+      "bytes": 35052,
+      "sha256": "2d4059cbee47c343c0d37f00d1c66e5257c6b55d6a9db88ad7b4a8baf6ad9556",
+      "source_sha256": "d72486732225b3b264d88feb4eb1ce8371d72fa00933c80955fa6c633ddd9a18",
+      "dhash": "9edd4e8bcb4fcdcd",
+      "width": 1100,
+      "height": 551,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.europcar.com/en-us"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-013.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/3dxjnm44jjNlMUMVnCn45L/113e3314d46f77f8d6c3b2e4d58c53d6/europcar-stations.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "s=\"os-text ecw-paragraph\"></div><div class=\"ecw-asset\"><img alt=\"content-page-column\" class=\"os-image lazyload\" fetchpriority=\"auto\" id=\"3dxjnm44jjNlMUMVnCn45L\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/3dxjnm44jjNlMUMVnCn45L/113e3314d46f77f8d6c3b2e4d58c53d6/europcar-stations.jpg\"/></div><div class=\"os-text ecw-paragraph\"></div></div> <div class=\"content-page__column--last inli",
+      "content_type": "image/webp",
+      "bytes": 11392,
+      "sha256": "d874767517085349b73cec504976b69adaa0f1d986dd4fed84b16b9927aef994",
+      "source_sha256": "25dd5ed5d81d8d1d272143c5c71162ce29b3488064ae825412d77e75d7f3fccc",
+      "dhash": "4e1e0e1e1e0e360e",
+      "width": 776,
+      "height": 310,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental",
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-014.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/5jMetbv2C3064gN7vUC3sP/62f44211f564f21ddbace216a6b2f46f/text_block.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "></ul><div class=\"ecw-asset\"><img alt=\"Content Page &gt; Mobile Apps &gt; Text block\" class=\"os-image lazyload\" fetchpriority=\"auto\" id=\"5jMetbv2C3064gN7vUC3sP\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/5jMetbv2C3064gN7vUC3sP/62f44211f564f21ddbace216a6b2f46f/text_block.jpg\"/></div><h3 class=\"os-title os-title--weight-bold os-title--color-standard-1\"><strong>A fully digitalized ",
+      "content_type": "image/webp",
+      "bytes": 41468,
+      "sha256": "28ade560ea610d1df60862212d913c888e8f9f78cbe99391169939d7f429f72a",
+      "source_sha256": "2f97c858b4989f8a677a99d11b20a5621240e9c72014ad041d027c55e8ef0fba",
+      "dhash": "999999991b9bbb3b",
+      "width": 1426,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/mobile-app"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-005.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/2TcJClxKYNpM2LYfgjN0hE/3d2bb80b0f1dbeb69be2950f57a59ef7/additional_icons_10-02-22_1.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "aph\"><div class=\"ecw-entry inline-block align-top\"><div class=\"mini-card\" id=\"69MWSMMloCqsFssj7rxWm2\"><img alt=\"\" class=\"os-image lazyload\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/2TcJClxKYNpM2LYfgjN0hE/3d2bb80b0f1dbeb69be2950f57a59ef7/additional_icons_10-02-22_1.png\"/> <a href=\"https://www.europcar.com/en-us/places/car-rental-worldwide\"><div class=\"os-te",
+      "content_type": "image/webp",
+      "bytes": 5984,
+      "sha256": "c5da4a5d73349b291e0c4316931ee1cc1c9b9d222290e1fe1ba4f1c72f7f2016",
+      "source_sha256": "ce9bdcc691ba6694d8d45cc6f41ec094c3352bf73196410384d005209c4a3bcf",
+      "dhash": "0301256179710123",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-015.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/Ny5A48EVI1XBngMaMdFuu/73bc605740fff996fbf1d27b33dbdad0/moving-with-europcar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "></div><div class=\"ecw-asset\"><img alt=\"Content page &gt; Van Hire &gt; Van Hire tips\" class=\"os-image lazyload\" fetchpriority=\"auto\" id=\"Ny5A48EVI1XBngMaMdFuu\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/Ny5A48EVI1XBngMaMdFuu/73bc605740fff996fbf1d27b33dbdad0/moving-with-europcar.jpg\"/></div><h3 class=\"os-title os-title--weight-bold os-title--color-standard-1\"><strong>Read our Va",
+      "content_type": "image/webp",
+      "bytes": 42256,
+      "sha256": "416dbcb6494da633266660016b71800e2fd4903f510310fa6743d83dbdc7219e",
+      "source_sha256": "db7405b9375f7fae507a456d7e5bc14efa34235b46f38cba6697b8f70e6a7f4f",
+      "dhash": "142c9c9353434303",
+      "width": 1160,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-006.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/HrpMMcZh3zDSqtCX2A0Ll/879abe4a60d4bdef4df12359a159705d/additional_icons_10-02-22_2.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/div><div class=\"ecw-entry inline-block align-top\"><div class=\"mini-card\" id=\"58idwx1bTdBcZK4VGwXjzD\"><img alt=\"\" class=\"os-image lazyload\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/HrpMMcZh3zDSqtCX2A0Ll/879abe4a60d4bdef4df12359a159705d/additional_icons_10-02-22_2.png\"/> <div><div class=\"os-text ecw-paragraph\"><strong>The alliance between performance and ec",
+      "content_type": "image/webp",
+      "bytes": 6882,
+      "sha256": "0bc505a7eb870b069725df2bed740b507a67950bed1188f1cf37fa9e217b32d0",
+      "source_sha256": "e9ec71389bd07d1d430fdcfe4b331ee175f6d190bc704f63faec5f56e658b12b",
+      "dhash": "2301656161610123",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-007.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/4n1ZComIgUR4lsDIA0Wuyg/51dc72edb1f346ac1115ce4505eb4f19/additional_icons_10-02-22_4.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/div><div class=\"ecw-entry inline-block align-top\"><div class=\"mini-card\" id=\"5AHcpsF56mmHdPXEC22g7Q\"><img alt=\"\" class=\"os-image lazyload\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/4n1ZComIgUR4lsDIA0Wuyg/51dc72edb1f346ac1115ce4505eb4f19/additional_icons_10-02-22_4.png\"/> <div><div class=\"os-text ecw-paragraph\"><strong>Vehicles with the latest technology</s",
+      "content_type": "image/webp",
+      "bytes": 5810,
+      "sha256": "cac412465a0f38530ab51ec22b81cc2909eebf758aaf398ab97387d77e37de65",
+      "source_sha256": "18d4d8e690822ac9067554def21aa1db8ebeb6a7afad6d405402ba97b83f0a91",
+      "dhash": "0301616171650123",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental",
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-008.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/369NUPeFOQUNV9sQ6xBWRo/bf20fa9a9f4682b0e3e63a44300b233a/additional_icons_10-02-22_3.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/div><div class=\"ecw-entry inline-block align-top\"><div class=\"mini-card\" id=\"27jMjVyNPiusVbI2fE20DR\"><img alt=\"\" class=\"os-image lazyload\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/369NUPeFOQUNV9sQ6xBWRo/bf20fa9a9f4682b0e3e63a44300b233a/additional_icons_10-02-22_3.png\"/> <div><div class=\"os-text ecw-paragraph\"><strong>The largest fast charging network in E",
+      "content_type": "image/webp",
+      "bytes": 7076,
+      "sha256": "49d76314802f490ed7d29a2e6bfcb2dfa135ff12e17d800974e63685dd4c5654",
+      "source_sha256": "bb12225d57a7ae79281ab4a0852c40ff14a7b5564840d7c3db6188271bf04105",
+      "dhash": "0301313169690103",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-009.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/1FFgIVxLLpFjXmO0qirWTI/b6fa8f8054cd6c93825d15ac1447ee25/location__1_.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "raph\"><div class=\"ecw-entry inline-block align-top\"><div class=\"mini-card\" id=\"42nQ2zRi3uLszEgVxNFMg\"><img alt=\"\" class=\"os-image lazyload\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/1FFgIVxLLpFjXmO0qirWTI/b6fa8f8054cd6c93825d15ac1447ee25/location__1_.png\"/> <div><div class=\"os-text ecw-paragraph\">65 years’ experience providing quality van rental</div><div c",
+      "content_type": "image/webp",
+      "bytes": 15596,
+      "sha256": "01cade38fd3a72c6e00c9ec1cdf95a0618e94708a7ac2a0d80398e439256f049",
+      "source_sha256": "30786738de0610c77dd1759a7187268d07bcf7d2b5e69a3c6538c5c48e000051",
+      "dhash": "9c1f2d4d4b070612",
+      "width": 806,
+      "height": 806,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-010.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/5IvVyrgCLYvtJ5PzxWFvJE/e609017a17bca58e26e47d8dca3097ba/New-vehicles.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/div><div class=\"ecw-entry inline-block align-top\"><div class=\"mini-card\" id=\"61ResGyPHAwIUpym2hoXcq\"><img alt=\"\" class=\"os-image lazyload\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/5IvVyrgCLYvtJ5PzxWFvJE/e609017a17bca58e26e47d8dca3097ba/New-vehicles.png\"/> <div><div class=\"os-text ecw-paragraph\">Extensive range of vans, trucks and cargo vans</div><div clas",
+      "content_type": "image/webp",
+      "bytes": 19676,
+      "sha256": "76a4db3652157fcf8033f6ff2a033d557d271cbc2a7fb3575e601a5c00c185dd",
+      "source_sha256": "88ed54bf0a00b294252a23860fe630f0d419170fbd7b4073cdb3b69dd85d086c",
+      "dhash": "07133b131333131f",
+      "width": 806,
+      "height": 806,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/van-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/europcar/banner-016.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/Fw2dvrg34aJRzIaxKtQp2/428796a7a5ec52098fd868571f7799d3/newsletter-sign-up.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " ecw-paragraph\"></div><div class=\"ecw-asset\"><img alt=\"content-page-car-hire-column 2\" class=\"os-image lazyload\" fetchpriority=\"auto\" id=\"Fw2dvrg34aJRzIaxKtQp2\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/Fw2dvrg34aJRzIaxKtQp2/428796a7a5ec52098fd868571f7799d3/newsletter-sign-up.png\"/></div><div class=\"os-text ecw-paragraph\"></div></div></div></div><div class=\"ecw-entry\"><div clas",
+      "content_type": "image/webp",
+      "bytes": 33026,
+      "sha256": "4fab76d10c0627a31adf292772f8057cd1e6fea933d72e0ce38ddb9a58aa86df",
+      "source_sha256": "47a52bdd8d7dc45dede8ece58c87f74ffabff82ade591140e014ad11555c9dea",
+      "dhash": "173793898b292317",
+      "width": 776,
+      "height": 310,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us/p/car-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-011.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/FKkhunbxg0hIIHkl7tOkM/991d517de0b8bea009b96c739e6875f4/vehicle-image_audi.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "  See more\n      </span></div> <div class=\"vehicle-card__image\"><img alt=\"vehicle-type-premiums\" class=\"os-image vehicle-card__image__img\" fetchpriority=\"auto\" loading=\"eager\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/FKkhunbxg0hIIHkl7tOkM/991d517de0b8bea009b96c739e6875f4/vehicle-image_audi.png\"/></div></div></a><a class=\"vehicle-card d-inline-flex flex-column flex-nowrap text-center text-dec",
+      "content_type": "image/webp",
+      "bytes": 30210,
+      "sha256": "c50063a7d1dd2cce4e0a6fcb996385e1e799a63efb8ce3ad93a17178cc47dcca",
+      "source_sha256": "da818bf4a31551f88a7494478156c7552f804523da08243afede3551ccedd1ec",
+      "dhash": "2019a4335fccf00f",
+      "width": 1000,
+      "height": 667,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-012.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/7eSknBlxG6vxlTW1aPj3Ao/8b5df0bc5500399c70aca09b1595e3ee/vehicle-image_cupra-born_1000x667.png",
+      "source_tag": "html-data, img:image",
+      "context": "t-3\">\n        See more\n      </span></div> <div class=\"vehicle-card__image\"><img alt=\"Electric \" class=\"os-image vehicle-card__image__img\" fetchpriority=\"auto\" loading=\"eager\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/7eSknBlxG6vxlTW1aPj3Ao/8b5df0bc5500399c70aca09b1595e3ee/vehicle-image_cupra-born_1000x667.png\"/></div></div></a><a class=\"vehicle-card d-inline-flex flex-column flex-nowrap text",
+      "content_type": "image/webp",
+      "bytes": 23722,
+      "sha256": "65fcccb8f9adf68c5a45a401e5f4e07f4ca185234347184f86f0e9d05829925f",
+      "source_sha256": "c7cd88cc3295e0f28a03ddf2fedbf6bf8d3ec4e503e64b23e6296cd540842d24",
+      "dhash": "401ce2c09ce8f007",
+      "width": 1000,
+      "height": 667,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-013.webp",
+      "source_url": "https://static.europcar.com/_nuxt/icons/icon_512x512.8e91c7.png",
+      "source_tag": "html-data",
+      "context": "shortcut-icon\" data-n-head=\"ssr\" href=\"https://static.europcar.com/_nuxt/icons/icon_64x64.8e91c7.png\" rel=\"shortcut icon\"/><link data-hid=\"apple-touch-icon\" data-n-head=\"ssr\" href=\"https://static.europcar.com/_nuxt/icons/icon_512x512.8e91c7.png\" rel=\"apple-touch-icon\" sizes=\"512x512\"/><link crossorigin=\"anonymous\" data-hid=\"manifest\" data-n-head=\"ssr\" href=\"https",
+      "content_type": "image/webp",
+      "bytes": 3206,
+      "sha256": "4a5160e0d53b7d42997a74c1b15b11459c47f0adbbc944b4f7f33e69e0161e32",
+      "source_sha256": "0c602c336b00f0ea4932672d2c77ac8b0f754f48d4c9807c2120249ab820ca93",
+      "dhash": "314e9e9e9c8e8638",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/car-rental",
+        "https://www.europcar.com/en-us/p/car-rental/by-duration",
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/electric",
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/premium",
+        "https://www.europcar.com/en-us/p/mobile-app",
+        "https://www.europcar.com/en-us/p/offers/worldwide-discount",
+        "https://www.europcar.com/en-us/p/van-rental",
+        "https://www.europcar.com/en-us/places/car-rental-france",
+        "https://www.europcar.com/en-us/places/car-rental-germany",
+        "https://www.europcar.com/en-us/places/car-rental-italy",
+        "https://www.europcar.com/en-us/places/car-rental-spain",
+        "https://www.europcar.com/en-us/places/car-rental-united-states-of-america",
+        "https://www.europcar.com/en-us/places/car-rental-worldwide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-014.svg",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/33tSNJTzEkY7fFznFsDAOE/23655a30bfb76704b686ecd4d10dccca/NewEuropcar_blog.svg",
+      "source_tag": "html-data",
+      "context": "link\" href=\"https://www.europcar.com/editorial\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"\" class=\"os-image lazyload\" fetchpriority=\"auto\" height=\"25\" loading=\"lazy\" src=\"https://images.ctfassets.net/wmdwnw6l5vg5/33tSNJTzEkY7fFznFsDAOE/23655a30bfb76704b686ecd4d10dccca/NewEuropcar_blog.svg\" width=\"25\"/></a><a class=\"os-button os-button--link os-button--size-medium os-button--variant-link\"",
+      "content_type": "image/svg+xml",
+      "bytes": 1842,
+      "sha256": "c0c7723f52423d0c140f672cb9e7168f02334bc9fd5438f6993fca72c695c17d",
+      "source_sha256": "c0c7723f52423d0c140f672cb9e7168f02334bc9fd5438f6993fca72c695c17d",
+      "dhash": "",
+      "width": 510,
+      "height": 490,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/p/car-rental",
+        "https://www.europcar.com/en-us/p/car-rental/by-duration",
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/electric",
+        "https://www.europcar.com/en-us/p/car-rental/fleet/type/premium",
+        "https://www.europcar.com/en-us/p/mobile-app",
+        "https://www.europcar.com/en-us/p/offers/worldwide-discount",
+        "https://www.europcar.com/en-us/p/van-rental",
+        "https://www.europcar.com/en-us/places/car-rental-france",
+        "https://www.europcar.com/en-us/places/car-rental-germany",
+        "https://www.europcar.com/en-us/places/car-rental-italy",
+        "https://www.europcar.com/en-us/places/car-rental-spain",
+        "https://www.europcar.com/en-us/places/car-rental-united-states-of-america",
+        "https://www.europcar.com/en-us/places/car-rental-worldwide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-015.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/1m2u3TBXT7n3rNnCwPI8ij/6b0c7ecf1674d6b6979753b7060aaeca/October-Sale.jpg",
+      "source_tag": "html-data",
+      "context": "icle--row\" href=\"https://www.europcar.com/editorial/en/places-to-see/the-top-10-destinations-to-visit-in-the-usa-1677/\"><div class=\"os-article__image lazyload lazy-effect\" data-bg=\"//images.ctfassets.net/wmdwnw6l5vg5/1m2u3TBXT7n3rNnCwPI8ij/6b0c7ecf1674d6b6979753b7060aaeca/October-Sale.jpg\"></div> <div class=\"os-article__content os-article__content-spacing-left\"><span class=\"os-text os-article__sub",
+      "content_type": "image/webp",
+      "bytes": 47556,
+      "sha256": "f64c30a087a7c849eedd52173de8e0f17d484b0788acdd4a25fb10d072dcff02",
+      "source_sha256": "c4e1896129cca53507d94648c6d3a2924d519469eb3d7b0555c3edc04efd2cbe",
+      "dhash": "7c6c6c2626776581",
+      "width": 1100,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us",
+        "https://www.europcar.com/en-us/places/car-rental-france",
+        "https://www.europcar.com/en-us/places/car-rental-germany",
+        "https://www.europcar.com/en-us/places/car-rental-italy",
+        "https://www.europcar.com/en-us/places/car-rental-spain",
+        "https://www.europcar.com/en-us/places/car-rental-united-states-of-america",
+        "https://www.europcar.com/en-us/places/car-rental-worldwide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-016.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/73ciKkKHHkXAElI5ER1vAx/8b6330aba478217bd552dbabd4879fb1/Early_Bird_Autumn_600x338.jpg",
+      "source_tag": "html-data",
+      "context": "w-deal__medium\" href=\"https://www.europcar.com/en-us/p/offers/worldwide-discount\"><div class=\"ecw-deal__image lazyload lazy-effect ecw-deal__image ecw-deal__image__medium\" data-bg=\"https://images.ctfassets.net/wmdwnw6l5vg5/73ciKkKHHkXAElI5ER1vAx/8b6330aba478217bd552dbabd4879fb1/Early_Bird_Autumn_600x338.jpg\"><div class=\"ecw-deal__overlay\"></div></div> <div class=\"ecw-deal__sticker ecw-deal__sticke",
+      "content_type": "image/webp",
+      "bytes": 49776,
+      "sha256": "6f945132865487d88e34b5c84cbc4362ffeacf91e9a4f77484ebd799c70c48a0",
+      "source_sha256": "e849d2b1bf10d6a9fbe171385c12de70a427fdb1e1034d5fb9f3ce5a51b8c920",
+      "dhash": "fffff4fcf8e2b32b",
+      "width": 600,
+      "height": 338,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/europcar/reference-017.webp",
+      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/4lOCcIa63dlapg1LxnXvhA/68f0f3050bd124c8409716d4f5571a14/EBSS-HP.jpg",
+      "source_tag": "html-data",
+      "context": "al ecw-deals__deal ecw-deal__small\" href=\"https://www.europcar.com/en-us/business\"><div class=\"ecw-deal__image lazyload lazy-effect ecw-deal__image ecw-deal__image__small\" data-bg=\"https://images.ctfassets.net/wmdwnw6l5vg5/4lOCcIa63dlapg1LxnXvhA/68f0f3050bd124c8409716d4f5571a14/EBSS-HP.jpg\"><div class=\"ecw-deal__overlay\"></div></div> <div class=\"ecw-deal__sticker ecw-deal__sticker__small\"><span cl",
+      "content_type": "image/webp",
+      "bytes": 53612,
+      "sha256": "a7baefd2a0ea8ac8136f83c6dba3d4a57f2968b67f2c2e3f76037c5f715aabed",
+      "source_sha256": "277abfa10c09196ef7f01e83e3e536d60f202068bce96dce10f83422832ad8f0",
+      "dhash": "7f2f3f5f5753524a",
+      "width": 1600,
+      "height": 900,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.europcar.com/en-us"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/europcar/og.jpg",
       "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/1kF4MdDfdXNDbMYuob7ee6/cfa3eebd17f2f2ffb824048936cc7f5e/europcar-car-rental-.jpg?w=600&h=600",
@@ -28,66 +800,6 @@
       "sha256": "b4441c823cbbc923f6cdf2c9f39b899a97364b7c05516fc18aaaf7700f32643b",
       "width": 600,
       "height": 315
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/europcar/logo-1.svg",
-      "source_url": "https://static.europcar.com/_nuxt/img/main-logo.569c225.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img os-image header-logo__image Go to home page a header-logo nuxt-link-exact-active nuxt-link-active div header_component__context-items header header_component__navbar div header-component header_component header_component__container",
-      "content_type": "image/svg+xml",
-      "bytes": 6221,
-      "sha256": "6eafb679f88ba3bf2df1f7b0ab9fab4ea0699e79629fcd024172229e3c5f572b",
-      "width": 184,
-      "height": 64
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/europcar/logo-2.png",
-      "source_url": "https://www.europcar.com/_nuxt/img/europcar-signature-green@3x.a2d761a.png",
-      "source_tag": "json-ld.logo",
-      "context": "structured data logo",
-      "content_type": "image/png",
-      "bytes": 18730,
-      "sha256": "42cb20d381caee9cc8cbb8d347d2d788383ba45c56aa0e75f958ee1cffb7432d",
-      "width": 492,
-      "height": 246
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/europcar/banner-1.webp",
-      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/3AVzlE6EOEnZ9v0uVTc7B2/397b718620c2cac5edbc44ad49a20c05/Background-HP_IA_VW_VF__1_.jpg?fm=webp",
-      "source_tag": "inline-background-image",
-      "context": "div  hero__main pb-3 hero__container background-image:url('https://images.ctfassets.net/wmdwnw6l5vg5/3AVzlE6EOEnZ9v0uVTc7B2/397b718620c2cac5edbc44ad49a20c05/Background-HP_IA_VW_VF__1_.jpg?fm=webp');",
-      "content_type": "image/webp",
-      "bytes": 29116,
-      "sha256": "2c06965ba6485041724f56fe20a93bf75c34e7521632296c1373e2ec1914d85e",
-      "width": 1280,
-      "height": 569
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/europcar/reference-1.webp",
-      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/FKkhunbxg0hIIHkl7tOkM/991d517de0b8bea009b96c739e6875f4/vehicle-image_audi.png",
-      "source_tag": "img:page-image",
-      "context": "img os-image vehicle-card__image__img vehicle-type-premiums div vehicle-card__image div vehicle-card__image-link mt-auto a vehicle-card d-inline-flex flex-column flex-nowrap text-center text-decoration-none text-wrap os-slider__item div os-",
-      "content_type": "image/webp",
-      "bytes": 31486,
-      "sha256": "2c56e67e1f36452fb4bc67770654cb6c72b20e73696d93f505b4439db5f33b29",
-      "width": 1000,
-      "height": 667
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/europcar/reference-2.webp",
-      "source_url": "https://images.ctfassets.net/wmdwnw6l5vg5/7eSknBlxG6vxlTW1aPj3Ao/8b5df0bc5500399c70aca09b1595e3ee/vehicle-image_cupra-born_1000x667.png",
-      "source_tag": "img:page-image",
-      "context": "img os-image vehicle-card__image__img Electric  div vehicle-card__image div vehicle-card__image-link mt-auto a vehicle-card d-inline-flex flex-column flex-nowrap text-center text-decoration-none text-wrap os-slider__item div os-slider__item",
-      "content_type": "image/webp",
-      "bytes": 24374,
-      "sha256": "04c66f05c574405f072388954bdc95684da2a12949c315921f753a16970d2acd",
-      "width": 1000,
-      "height": 667
     }
   ]
 }

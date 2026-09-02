@@ -2,10 +2,19 @@
   "company": "레드캡렌터카",
   "category": "렌터카_국내",
   "requested_url": "https://www.redcaprentcar.com/",
-  "page_url": "https://www.redcap.co.kr/sub/notice/view.php?idx=23",
+  "page_url": "https://www.redcaprentcar.com/",
   "page_title": "레드캡 기업/기관 전문 '출장여행, 렌터카, MICE'",
-  "collection_status": "partial",
-  "collection_error": "reference:HTTPError:https://www.redcap.co.kr/img/common/txt_logo1_on.svg; reference:HTTPError:https://www.redcap.co.kr/img/common/txt_logo2_on.svg; reference:HTTPError:https://www.redcap.co.kr/img/common/txt_logo3_on.svg",
+  "collection_status": "complete",
+  "collection_error": "asset:https://www.redcap.co.kr/img/common/common_info_bg.jpg:HTTPError; asset:https://www.redcap.co.kr/img/common/txt_logo1_on.svg:HTTPError; asset:https://www.redcap.co.kr/img/common/txt_logo2_on.svg:HTTPError; asset:https://www.redcap.co.kr/img/common/txt_logo3_on.svg:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 1,
+    "desktop_pages": 1,
+    "mobile_pages": 1,
+    "stylesheets": 13,
+    "candidates": 70,
+    "errors": 4,
+    "collected_at": "2026-09-03T00:37:11.183215+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,6 +29,186 @@
     },
     {
       "type": "social",
+      "path": "assets/렌터카_국내/redcap-rentcar/social-001.webp",
+      "source_url": "https://www.redcap.co.kr/img/common/redcap_logo001.png",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "ntent=\"레드캡 기업/기관 전문 '출장여행, 렌터카, MICE'\" property=\"og:title\"/>\n<meta content=\"'기업/기관 전문 '해외출장, 기업여행,  MICE 및 장기 렌터카' - 믿을 수 있는 코스닥 상장사 레드캡\" property=\"og:description\"/>\n<meta content=\"/img/common/redcap_logo001.png\" property=\"og:image\">\n<meta name=\"google\" value=\"notranslate\">\n<meta content=\"92e564fd63e7413abf645c357f0b06af7615bf59\" ",
+      "content_type": "image/webp",
+      "bytes": 15158,
+      "sha256": "45cbcbc55550930df2e501e496ea25090e2411ad6617b01c41d53f8f5b410cfb",
+      "source_sha256": "cca611e4f94eb925cb3026a63f6adf3521f2fb63d11dae9cbf929dbb3b67b5e5",
+      "dhash": "008aceaaaab4e800",
+      "width": 1300,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/redcap-rentcar/banner-001.webp",
+      "source_url": "https://www.redcap.co.kr/img/sub/why02.png",
+      "source_tag": "external-css",
+      "context": "y:inline-block; vertical-align: top; width: 0; height: 10px; background: #e60012;}\r\n\r\n\r\n/* -------- way -------- */\r\n.way{overflow: hidden;}\r\n.way .scon01{position:relative; }\r\n.way .scon01::before{content:''; position:absolute; bottom: 0; left: 0; background:url(/img/sub/why02.png) 50% 50% no-repeat; background-size:cover; width: 100%; height: 835px; z-index: -1;}\r\n.way .scon01 .txt{text-align: c",
+      "content_type": "image/webp",
+      "bytes": 18650,
+      "sha256": "de9b06906c0888da61597a9200c63b5453efee41923c00265d6cfd364871aeb5",
+      "source_sha256": "6d366b5207ab4a65b80ba50436819858313577aed333a16df7d5f05bf04499ba",
+      "dhash": "97274f1f3fff3df9",
+      "width": 1920,
+      "height": 835,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/redcap-rentcar/banner-002.webp",
+      "source_url": "https://www.redcap.co.kr/img/sub/why07.png",
+      "source_tag": "external-css",
+      "context": "ght: 50px;}\r\n.way .scon01 .list .item h4{font-weight:bold; font-size:30px; color: #222222; margin: 65px 0 40px;}\r\n.way .scon02{position:relative;}\r\n.way .scon02::before{content:''; position:absolute; bottom: 0; left: 0; width: 100%; height: 1300px; background:url(/img/sub/why07.png) 50% 50% no-repeat; background-size:cover; z-index: -1;}\r\n.way .scon02 .list{margin-bottom:150px; box-sizing:border-b",
+      "content_type": "image/webp",
+      "bytes": 332840,
+      "sha256": "8e17f194614b51783b5532ecd9bd6cacb5e33bb1760454cd5abbe1bacd1f2334",
+      "source_sha256": "127663f6817328f4dd632e064845800e0f0e5ca85a531be8981db03077e02b25",
+      "dhash": "030100080f0d8e4f",
+      "width": 1920,
+      "height": 1515,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/redcap-rentcar/banner-003.webp",
+      "source_url": "https://www.redcap.co.kr/img/sub/ceo02.png",
+      "source_tag": "external-css",
+      "context": "ont-size:30px; letter-spacing:-0.05em; color: #222; margin: 55px 0 32px;}\r\n.way .scon02 .icon_list .item .txt p{font-weight:300; font-size:20px; letter-spacing:-0.025em; color: #222; line-height: 1.6;}\r\n\r\n/* -------- greeting -------- */\r\n.greeting{background:url(/img/sub/ceo02.png) 50% 50% no-repeat;\tbackground-size:cover; overflow: hidden;}\r\n.greeting .cont{}\r\n.greeting .cont .tit{}\r\n.greeting .",
+      "content_type": "image/webp",
+      "bytes": 17204,
+      "sha256": "939716940b6f4ad91a8e03d1e855bcf1b928d1ea1b06a3f97af989d5e77eb5bb",
+      "source_sha256": "6769c6bbed40549a6af4af283beadb9b30642247818a8e4a2f49c067ee2419f5",
+      "dhash": "7b6ef769e9c8d9b9",
+      "width": 1920,
+      "height": 1398,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/redcap-rentcar/reference-001.webp",
+      "source_url": "https://www.redcap.co.kr/img/sub/history_main01.jpg",
+      "source_tag": "external-css",
+      "context": "m:last-of-type{margin-bottom:30vh;}\r\n.history .cont .move_ctn .top_box{position:relative; left: 50%; transform:translateX(-50%); width: 75.66999474513925%; height: 506px; background: #000; z-index: 10;}\r\n.history .cont .move_ctn .item .top_box.bg01{background:url(/img/sub/history_main01.jpg) 50% 0% no-repeat; background-size:cover;}\r\n.history .cont .move_ctn .item .top_box.bg02{background:url(/img",
+      "content_type": "image/webp",
+      "bytes": 286308,
+      "sha256": "cf9172b1a5034d4ec700068b60aa98f006e0aa5e536b16829d404050b42cdc67",
+      "source_sha256": "d1fd30477bfc88ea1cec5a705a9b405c47148419975879b32c5f4944aa54b9eb",
+      "dhash": "8c0c1f3e7cbe0a34",
+      "width": 1440,
+      "height": 1970,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/redcap-rentcar/reference-002.webp",
+      "source_url": "https://www.redcap.co.kr/img/sub/history_main02.jpg",
+      "source_tag": "external-css",
+      "context": "th: 75.66999474513925%; height: 506px; background: #000; z-index: 10;}\r\n.history .cont .move_ctn .item .top_box.bg01{background:url(/img/sub/history_main01.jpg) 50% 0% no-repeat; background-size:cover;}\r\n.history .cont .move_ctn .item .top_box.bg02{background:url(/img/sub/history_main02.jpg) 50% 0% no-repeat; background-size:cover;}\r\n.history .cont .move_ctn .item .top_box.bg03{background:url(/img",
+      "content_type": "image/webp",
+      "bytes": 220782,
+      "sha256": "a51b12e8c38dbabe44f3a6f6efb1f7d03e0c45feffcc80b369a249d398359781",
+      "source_sha256": "31e8b20faa921b0422ca95e6a52371501252229c18a2e9d1ea50a4bfa6ee9b30",
+      "dhash": "9b69391b1b3337c6",
+      "width": 1440,
+      "height": 1974,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/redcap-rentcar/reference-003.webp",
+      "source_url": "https://www.redcap.co.kr/img/sub/history_main03.jpg",
+      "source_tag": "external-css",
+      "context": "/img/sub/history_main01.jpg) 50% 0% no-repeat; background-size:cover;}\r\n.history .cont .move_ctn .item .top_box.bg02{background:url(/img/sub/history_main02.jpg) 50% 0% no-repeat; background-size:cover;}\r\n.history .cont .move_ctn .item .top_box.bg03{background:url(/img/sub/history_main03.jpg) 50% 0% no-repeat; background-size:cover;}\r\n\r\n.history .cont .move_ctn .top_box .txt{display:flex; justify-c",
+      "content_type": "image/webp",
+      "bytes": 211234,
+      "sha256": "e81f2601452d2a7d069f6a5c140efed6895a22ed3936ce21af2d4eecc1c15d79",
+      "source_sha256": "534644778110588e11ec7484686564b17ede1b7f77c1b6734a1cdcbcba04cea4",
+      "dhash": "cf33042004000000",
+      "width": 1440,
+      "height": 1970,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/redcap-rentcar/logo-001.png",
+      "source_url": "https://www.redcap.co.kr/img/common/all_logo.png",
+      "source_tag": "html-data",
+      "context": "\t\t\tf.sk.focus();\r\n\t\t\t\t\treturn false;\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t\t</script>\n<nav class=\"all_gnb\">\n<div class=\"flex_box\">\n<div class=\"left\">\n<div class=\"box\">\n<!-- <div class=\"a_logo\"><img src=\"/img/common/all_logo.png\" alt=\"\"></div> -->\n<ul>\n<li><a href=\"https://blog.naver.com/redcapstory\" target=\"_blank\"><img alt=\"\" src=\"/img/common/ic",
+      "content_type": "image/png",
+      "bytes": 6959,
+      "sha256": "c2d0213d431a88cb7af27c2d2d1da0ac2f5ce3a65185222efdd07aa7a2412dbe",
+      "source_sha256": "a7f68cc029d25a2068802304078890286f4fbd863aff0873bcfce0aebbd27249",
+      "dhash": "26c70f9ef0b2c66e",
+      "width": 115,
+      "height": 119,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/redcap-rentcar/reference-004.svg",
+      "source_url": "https://cdn.jsdelivr.net/npm/@xpressengine/xeicon@2.3.3/fonts/xeicon.svg?3ka2yj=",
+      "source_tag": "external-css",
+      "context": "{font-family:xeicon;src:url(fonts/xeicon.eot?3ka2yj);src:url(fonts/xeicon.eot?3ka2yj#iefix) format(\"embedded-opentype\"),url(fonts/xeicon.woff2?3ka2yj) format(\"woff2\"),url(fonts/xeicon.ttf?3ka2yj) format(\"truetype\"),url(fonts/xeicon.woff?3ka2yj) format(\"woff\"),url(fonts/xeicon.svg?3ka2yj#xeicon) format(\"svg\");font-weight:400;font-style:normal}[class*=\" xi-\"],[class^=xi-]{font-family:xeicon!importan",
+      "content_type": "image/svg+xml",
+      "bytes": 550393,
+      "sha256": "dbed7123e56152d6392c832e790410c451c9b34acc17349afdab98bb98eeeec8",
+      "source_sha256": "dbed7123e56152d6392c832e790410c451c9b34acc17349afdab98bb98eeeec8",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/redcap-rentcar/reference-005.webp",
+      "source_url": "https://www.redcap.co.kr/img/sub/heritage_bg.jpg",
+      "source_tag": "external-css",
+      "context": "or: #fff; margin-top: 14px;}\r\n.heritage.mod .cont .bot .txt_box .tit p:last-of-type{margin-bottom:0;}\r\n\r\n\r\n.heritage .slide_wrap{position:relative; overflow: hidden;  padding: 190px 0;}\r\n.heritage .slide_wrap .bg{position:absolute; top: 0; left: 0; background:url(/img/sub/heritage_bg.jpg);width: 100%; height: 100%; z-index: -1;}\r\n.heritage .slide_wrap .bg.fix{position:fixed; transition:0.3s}\r\n.her",
+      "content_type": "image/webp",
+      "bytes": 181850,
+      "sha256": "459dac2ddf6343628822d93fce09466ccb925e6a33e53b8a8adbd7017c40f86c",
+      "source_sha256": "4de4ad87bd94caab09dcc90f582ee0feaeafdedb3fe8571518fdcae781eb9103",
+      "dhash": "1313131313033313",
+      "width": 1920,
+      "height": 1042,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.redcap.co.kr/sub/notice/view.php?idx=23"
+      ]
+    },
+    {
+      "type": "social",
       "path": "assets/렌터카_국내/redcap-rentcar/og.png",
       "source_url": "https://www.redcap.co.kr/img/common/redcap_logo001.png",
       "source_tag": "og:image",
@@ -28,18 +217,6 @@
       "sha256": "cca611e4f94eb925cb3026a63f6adf3521f2fb63d11dae9cbf929dbb3b67b5e5",
       "width": 1300,
       "height": 650
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/redcap-rentcar/logo-1.png",
-      "source_url": "https://www.redcap.co.kr/img/common/f_logo1.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img logo figure div f_logo div right div info",
-      "content_type": "image/png",
-      "bytes": 2471,
-      "sha256": "252932d41358d92b219bb886f9ded86386772d8888cc489bb4067392ce8439c8",
-      "width": 80,
-      "height": 73
     }
   ]
 }

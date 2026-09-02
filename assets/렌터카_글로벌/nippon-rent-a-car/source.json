@@ -5,7 +5,18 @@
   "page_url": "https://www.nipponrentacar.co.jp/",
   "page_title": "【公式/ベストレート】レンタカーならニッポンレンタカー",
   "collection_status": "complete",
-  "collection_error": "",
+  "collection_error": "asset:https://www.nipponrentacar.co.jp/s/common/img/_gen/header.png:HTTPError; asset:https://www.nipponrentacar.co.jp/s/common/img/_gen/image_set.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 28,
+    "scripts": 36,
+    "candidates": 295,
+    "attempted_assets": 295,
+    "errors": 2,
+    "collected_at": "2026-09-03T08:37:21.2292+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,2567 @@
       "height": 32
     },
     {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-001.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/area/img/95/main.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img 対象期間中の24時間以上のご利用でレンタカー基本料金が税込7,150円～ p sp_none div contents main div container div allWrap_inner",
+      "content_type": "image/webp",
+      "bytes": 43920,
+      "sha256": "3a74f940c9937a4086e64744df93efff127a87946ea5b2a6c45af8a9fed989b1",
+      "source_sha256": "7969ed374251a819da6188bcc28e0f62e2651747b16021825c14fdc34063f9c1",
+      "dhash": "e0e1e179f97873b3",
+      "width": 980,
+      "height": 305,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/area/95.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-002.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/hayawari/img/main_pc.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img sp_none 早割プラン h1 full-width div contents main div container div allWrap_inner",
+      "content_type": "image/webp",
+      "bytes": 342886,
+      "sha256": "e31fff933d380c7e3c216c144319f2a12971c245980dad79f784a8df4f1b9487",
+      "source_sha256": "8ac65ca8851cbb3d2d42dd2caad6fd9392abbb957cacbd0c1f7bd8f07bea6ceb",
+      "dhash": "66e3cfcf4dcf9875",
+      "width": 2000,
+      "height": 441,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/hayawari.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-003.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/weekdaywagon/img/weekdaywagon_pc.png?2025122509=",
+      "source_tag": "img:banner, img:image",
+      "context": "img 平日の利用でレンタカー基本料金が約30%OFF p sp_none div contents main div container div allWrap_inner",
+      "content_type": "image/webp",
+      "bytes": 51118,
+      "sha256": "536955f3f5e7a6fe97e11e14b8a37c3fd21f2f24068dcbe296963bef41bfe07f",
+      "source_sha256": "1aea6e024fb3dbb44b6c5a0ab1175b714c38c012b0fb7b7d358e65e1864c39e0",
+      "dhash": "71a93371616b0616",
+      "width": 980,
+      "height": 305,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/weekdaywagon.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-004.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/weekplan/img/main_pc.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img sp_none 平日/週末プラン  h1 full-width div contents main div container div allWrap_inner",
+      "content_type": "image/webp",
+      "bytes": 60124,
+      "sha256": "ee90d5a283433b5372e78c20737a737fcf9e8ec32d7fc1590d43bb1984a105d7",
+      "source_sha256": "5f3e46fa90650a97176cd953b6715091e1c058cb66786f4a5dab911f1fa63143",
+      "dhash": "e4c4e4ccdcd8e4cc",
+      "width": 2000,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/weekplan.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-005.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/area/img/95/main_sp.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img 対象期間中の24時間以上のご利用でレンタカー基本料金が税込7,150円～ p pc_none div contents main div container div allWrap_inner",
+      "content_type": "image/webp",
+      "bytes": 39494,
+      "sha256": "8102be3f296186eba378cb9be11a677e0724499f766dd363893987ebac48251a",
+      "source_sha256": "62ad5ead341244a7a3b36b2c76a4a41925d86113e7d4a96905f94149e4c63b06",
+      "dhash": "82a2c3ecdc258e69",
+      "width": 680,
+      "height": 508,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/area/95.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-006.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/hayawari/img/main_sp.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "perty=\"og:description\">\n<meta content=\"https://www.nipponrentacar.co.jp/campaign/hayawari.html\" property=\"og:url\">\n<meta content=\"ニッポンレンタカー\" property=\"og:site_name\">\n<meta content=\"https://www.nipponrentacar.co.jp/campaign/hayawari/img/main_sp.jpg\" property=\"og:image\"/>\n<link href=\"https://www.nipponrentacar.co.jp/campaign/hayawari.html\" rel=\"canonical\"/>\n<link href",
+      "content_type": "image/webp",
+      "bytes": 120146,
+      "sha256": "cd0c9c3d2d3029b6f64a2a702556724bd7a2a2f857f741a288d316b6348a40e7",
+      "source_sha256": "7c561ef55d9d08a4f60a9c662ece004d841fd3b7d61d0eba376e08741dbed189",
+      "dhash": "72dbbf331e1b3211",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/hayawari.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-007.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/weekdaywagon/img/weekdaywagon_sp.png?2025122509=",
+      "source_tag": "img:banner, img:image",
+      "context": "img 平日の利用でレンタカー基本料金が約30%OFF p pc_none div contents main div container div allWrap_inner",
+      "content_type": "image/webp",
+      "bytes": 53672,
+      "sha256": "8a49c7cdd41df75599139241ef201042f17c5a1aece840361d88bd49698e07f0",
+      "source_sha256": "ea812450a59625dcd297d927ae8ba37d230b19cc42b8db2f46445a73ff48e360",
+      "dhash": "1539706431d89b97",
+      "width": 680,
+      "height": 508,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/weekdaywagon.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-008.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/weekplan/img/main_sp.jpg",
+      "source_tag": "html-data, img:banner, img:image, meta:og:image ",
+      "context": "perty=\"og:description\">\n<meta content=\"https://www.nipponrentacar.co.jp/campaign/weekplan.html\" property=\"og:url\">\n<meta content=\"ニッポンレンタカー\" property=\"og:site_name\">\n<meta content=\"https://www.nipponrentacar.co.jp/campaign/weekplan/img/main_sp.jpg\" property=\"og:image\"/>\n<link href=\"https://www.nipponrentacar.co.jp/campaign/weekplan.html\" rel=\"canonical\"/>\n<link href",
+      "content_type": "image/webp",
+      "bytes": 50226,
+      "sha256": "3bf5ae68765df7d6661932a289754f3b9e34d32da8439ea090419feff69edaec",
+      "source_sha256": "b8d03e164f4d10edd44ce168db75713284f31220fe9aee0ef4ae2e743273b345",
+      "dhash": "31351141d66b2d33",
+      "width": 680,
+      "height": 508,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/weekplan.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-009.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/line/img/pcLineBnr.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img sp_none ニッポンレンタカーLINE公式アカウントはじめました picture h1 section title main div allWrap_inner",
+      "content_type": "image/webp",
+      "bytes": 30688,
+      "sha256": "284fc5d8a74d850bba3ee204d693c19efc1fd0d75d7da950cd64aca309973992",
+      "source_sha256": "e16bfac5d92a5aa1ff168268b7de9ade00ae678d210905cbb601db292069c926",
+      "dhash": "4eacd15172321313",
+      "width": 1080,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/line/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-001.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/line/img/spLineBnr.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img pc_none ニッポンレンタカーLINE公式アカウントはじめました picture h1 section title main div allWrap_inner",
+      "content_type": "image/webp",
+      "bytes": 20176,
+      "sha256": "8eece11f580e72d753eac9a9d032298926fb903df7d9256867b6058169c89893",
+      "source_sha256": "94a691ce49dc67188a04d934942bbdcab75b9bdb598022336b0de1c1bcb99ee6",
+      "dhash": "7059982f5f1b0f43",
+      "width": 750,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/line/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-010.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/line/img/kensaku2.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img LINEアプリから検索して登録 p div div box1 sp_none div container section maincontent",
+      "content_type": "image/webp",
+      "bytes": 35638,
+      "sha256": "781ed7cfc15340aca0e8ae617f07d01f4c067810ead0cc8a7e11b6b59c2be1ba",
+      "source_sha256": "8fdc83d7d4b7d9228415e0ce834fb9d0d1442e993341694e3e70eeebfe6386dd",
+      "dhash": "aca5651111311111",
+      "width": 856,
+      "height": 446,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/line/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-002.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/weekplan/img/heijitsu.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img 月〜金曜日の出発のご予約で最大25％OFF div imgclass section heijitsu div contents section bg1 main",
+      "content_type": "image/webp",
+      "bytes": 26506,
+      "sha256": "ad384dfb9c76b0591ac23a5c3e5af4b9cf7a32181e07f35bf2041eede50e6cb6",
+      "source_sha256": "27abf605aa1e276d3a37db5227d3869ff926a6a738f34b23afaad3cd8e61ba05",
+      "dhash": "a6a166269c9e8686",
+      "width": 801,
+      "height": 236,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/weekplan.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-011.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/area/img/104/main_sp.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img picture div info__sec02__bnrs section info__sec02 div info__inner main info",
+      "content_type": "image/webp",
+      "bytes": 35024,
+      "sha256": "592179e36059f48adc2c747bdaac0db5eab96934a5b14325d19910e6797e3b92",
+      "source_sha256": "aab254c854a8153de8bbd92a7471e026cabfa3371a60a868adc16eb6dbd2cfac",
+      "dhash": "1129596380822d0b",
+      "width": 680,
+      "height": 508,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-003.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/hayawari/img/wa.png?2023010516=",
+      "source_tag": "img:banner, img:image",
+      "context": "img 60日前・45日前のご予約で最大40％OFF div imgclass section hayawari45 div contents section bg1 main",
+      "content_type": "image/webp",
+      "bytes": 27704,
+      "sha256": "4b3a08ef0c0f208ad61e67e3ce9933a8073bc5edd63865ccb0c4289044511f20",
+      "source_sha256": "ecd63bd03d75d705bbb783aabb833d2c7ca3cae47b70e632eb8836fbce5c667b",
+      "dhash": "d4d0044cbeae8e96",
+      "width": 801,
+      "height": 236,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/hayawari.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-004.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/weekplan/img/weekend.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img 土・日出発のご予約で最大25％OFF div imgclass div contents section weekendfriday main div container",
+      "content_type": "image/webp",
+      "bytes": 27530,
+      "sha256": "2a0ad18a1eee343d33a2feab7bede70f629a7d261b4db542a980fbb7b450598b",
+      "source_sha256": "4cb04c7b61775a4165305d0592bda2c189830ba12152242bf1c943cb78598f2a",
+      "dhash": "a4a14e469e9e8686",
+      "width": 801,
+      "height": 236,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/weekplan.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-005.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/hayawari/img/sa.png?2023010516=",
+      "source_tag": "img:banner, img:image",
+      "context": "img 30日前のご予約で最大30％OFF div imgclass div contents section hayawari30 main div container",
+      "content_type": "image/webp",
+      "bytes": 29002,
+      "sha256": "93135045bd9e494f2b323e997589024ec4e85b7bc7b0faa4d841fbc9aaa9d734",
+      "source_sha256": "c9a62d565cf96b277def153b861b62817aeb4f70700228fab0fb03f39969c83e",
+      "dhash": "d4d024acbcae8694",
+      "width": 801,
+      "height": 236,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/hayawari.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-006.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/line/img/kensaku2_sp.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img LINEアプリから検索して登録 p div box1 pc_none div container section maincontent main",
+      "content_type": "image/webp",
+      "bytes": 34668,
+      "sha256": "9999c92031e72313a76e24c7b6f01b7a2583751179714fd82b3be4e9333fa1c0",
+      "source_sha256": "0b6434f07237d40c53045c66cc4fceaf2d2638513e3fcdef95ee40c913f3268e",
+      "dhash": "6955552167230b43",
+      "width": 419,
+      "height": 846,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/line/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-007.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/campaign/hayawari/img/ss.png?2026051209=",
+      "source_tag": "img:banner, img:image",
+      "context": "img 14日前のご予約で最大20％OFF div imgclass div contents section hayawari7 bg1 main div container",
+      "content_type": "image/webp",
+      "bytes": 25846,
+      "sha256": "3dbdac35e8cdf1b6d408e6be6522e55e272cae58782e667f5cd61dc9c4cc66a9",
+      "source_sha256": "db88cc099ef8ee1edd90c3f27a6e04185f859dc3b3f35414901817fc82e8e556",
+      "dhash": "d4d024aceeee848c",
+      "width": 801,
+      "height": 236,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/campaign/hayawari.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-008.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/PC_com_banner.webp?2023070413=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " </div>\r\n-->\n</div><!-- slideArea sslideArea-MemberAndPRM -->\n</div><!-- appealArea -->\n<!-- ここまでPRM -->\n<div class=\"bannerArea\">\n<a href=\"/member/bestrate/\"><img alt=\"ベストレート\" src=\"/rootImg/index/PC_com_banner.webp?2023070413\"/></a>\n</div>\n<div class=\"topicsArea sectionBlock\">\n<div class=\"sectionBlock_inner\">\n<div class=\"topics_box topics_box_l",
+      "content_type": "image/webp",
+      "bytes": 17796,
+      "sha256": "641c2664d3f1a8a29d5491d5cd07ea2dac0df32ee159c33f5c2eab4d8f4e72f9",
+      "source_sha256": "cc2ec46e2b025158659ea60d2ae797980e17eb112b288dc46b244674adcb6587",
+      "dhash": "493535290d370951",
+      "width": 808,
+      "height": 203,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-001.svg",
+      "source_url": "https://www.nipponrentacar.co.jp/cmn/img/nrc_logo_01.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "=\"allWrap\">\n<div class=\"allWrap_inner\">\n<header class=\"mainHeader\">\n<div class=\"base-heder-desktop\">\n<h1 class=\"base-header-site-logo\">\n<a href=\"/\"><img alt=\"レンタカーならニッポンレンタカー\" src=\"/cmn/img/nrc_logo_01.svg\"/></a>\n</h1>\n<nav class=\"base-header-nav\">\n<ul class=\"base-header-member-nav\">\n<li class=\"base-header-member-nav-item\" d",
+      "content_type": "image/svg+xml",
+      "bytes": 21384,
+      "sha256": "8b875c11642e28db63b9c3855855d286c94024dac2887b1d1920b891c084a7ee",
+      "source_sha256": "8b875c11642e28db63b9c3855855d286c94024dac2887b1d1920b891c084a7ee",
+      "dhash": "",
+      "width": 462,
+      "height": 158,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-002.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/cmn/img/nrc_logo_01.png?2020080715=",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "t=\"Amazonギフトカード\"></a>\r\n      </div> -->\n<header class=\"mainHeader\">\n<nav class=\"mainHeader_topNav\">\n<h1 class=\"mainHeader_headerLogo\"><a href=\"/s/\"><img alt=\"レンタカーならニッポンレンタカー\" src=\"/s/cmn/img/nrc_logo_01.png?2020080715\"/></a></h1>\n<ul class=\"customerMenu customerMenu-misc\">\n<li class=\"customerMenu_item\">\n<a class=\"customerMenu_link setMo",
+      "content_type": "image/webp",
+      "bytes": 3372,
+      "sha256": "4fa9d7028994d015ba884cc7058a69a7131eac75bba9bf67e261b127ce3a10c2",
+      "source_sha256": "7488d115236ee376649ad27969c2e3a4b0f6cf97d48fa10613e8b1bd40353131",
+      "dhash": "3530372d2d2b6b6b",
+      "width": 228,
+      "height": 58,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-009.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/app/campaign/img/hayawari45.png?20260519=",
+      "source_tag": "img:banner, img:image",
+      "context": "img 早割45 h3 div campaignListBox_item li columnComp_box ul columnComp columnComp-type03 campaignListBox div cnpAndPlanArea_body",
+      "content_type": "image/webp",
+      "bytes": 119618,
+      "sha256": "491f43e35a4bda76cbc1c90220777e014e68c49749739fc61fada8d1aabbfb7b",
+      "source_sha256": "c87a8290ed4542dc38f84510f1fa536a4d0675f7933076617292b39e8a783822",
+      "dhash": "336d4b5a5921a6de",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-010.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/app/campaign/img/hayawari30.jpg?20260519=",
+      "source_tag": "img:banner, img:image",
+      "context": "img 早割30 h3 div campaignListBox_item li columnComp_box ul columnComp columnComp-type03 campaignListBox div cnpAndPlanArea_body",
+      "content_type": "image/webp",
+      "bytes": 83980,
+      "sha256": "0d676597de2d31c7a7bda634c7e14fc65932301be7960c5304aecd7cd10715dc",
+      "source_sha256": "4f0505233cad261e7f3135051a94555d33f9c8b2f80bed5c2eeefe13fbd9d4a4",
+      "dhash": "3307690b1f496ac4",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-011.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/app/campaign/img/hayawari14.jpg?2024042413=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "turenumber=\"01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47\">\n<h3> <img alt=\"早割14\" src=\"/app/campaign/img/hayawari14.jpg?2024042413\"/> </h3>\n<!-- <p class=\"campaignListBox_typeIcon campaignListBox_typeIcon-nationwide\">全国</p> -->\n<p class=\"campaignListB",
+      "content_type": "image/webp",
+      "bytes": 74318,
+      "sha256": "6255e772d9667c309b86f4662e03fc80fe9ea4c99b69cbfd1d9402b536db7162",
+      "source_sha256": "14fd8b0fb8db26c4664359f5f0d63ef79d7f96a752c1b934915a89f575c96b6a",
+      "dhash": "79910d694f87c0e4",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-012.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/app/campaign/img/heijitsu.jpg?2026011409=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "-->\n<li class=\"columnComp_box\">\n<div class=\"campaignListBox_item\" data-initialdisplay=\"true\" data-kindnumber=\"01\" data-prefecturenumber=\"09,11,12,14,47\">\n<h3> <img alt=\"平日プラン\" src=\"/app/campaign/img/heijitsu.jpg?2026011409\"/> </h3>\n<!-- <p class=\"campaignListBox_typeIcon campaignListBox_typeIcon-nationwide\">全国</p> -->\n<p class=\"campaignListB",
+      "content_type": "image/webp",
+      "bytes": 45350,
+      "sha256": "ef0c2765d912dc52fae01cce86e833f901c54bbc391791693429fec3bd323e97",
+      "source_sha256": "30f76f1f0ac7d88aa5f8cbcc69d9330180eb51484de7675f82e5ac15d31577d0",
+      "dhash": "c961450521686ce1",
+      "width": 680,
+      "height": 508,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-013.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/app/campaign/img/weekend.jpg?2026011409=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "display=\"true\" data-kindnumber=\"01\" data-prefecturenumber=\"01,02,03,04,05,06,07,08,19,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46\">\n<h3> <img alt=\"週末プラン\" src=\"/app/campaign/img/weekend.jpg?2026011409\"/> </h3>\n<!-- <p class=\"campaignListBox_typeIcon campaignListBox_typeIcon-nationwide\">全国</p> -->\n<p class=\"campaignListB",
+      "content_type": "image/webp",
+      "bytes": 49860,
+      "sha256": "9aa469d11ceafecd012a369315a1a10419c197b3b8c370937f68dc4d42b2e15a",
+      "source_sha256": "0e3c26a8c9d3c147bd12ec716b6b3b183586e7883a799050f6b31c898fb309ce",
+      "dhash": "cb6945c01b496561",
+      "width": 680,
+      "height": 508,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-012.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/shunen_cp.webp?2024110714=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "見る</span></a>\n</div>\n</ul>\n<ul class=\"new_banner\">\n<li class=\"columnComp_box\">\n<a class=\"campaignListBox_item\" href=\"/news_eigyo/cp/anniversary.html\">\n<h3>\n<img alt=\"周年キャンペーン\" src=\"/rootImg/index/shunen_cp.webp?2024110714\"/>\n</h3>\n</a>\n</li>\n<li class=\"columnComp_box\">\n<a class=\"campaignListBox_item\" href=\"/news_eigyo/cp/renewal.html\">\n<h3>",
+      "content_type": "image/webp",
+      "bytes": 44242,
+      "sha256": "2f3dbc6986441f4f69a265dd88996f3bed4f9b72b971328053eb11264d72537d",
+      "source_sha256": "b45ad525436c48d5ab787553787cea3bab30de7035506ef933b80e56ff28966f",
+      "dhash": "b0d4aeeac5846363",
+      "width": 670,
+      "height": 370,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-013.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/renewal_cp.webp?2024110714=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ndex/shunen_cp.webp?2024110714\"/>\n</h3>\n</a>\n</li>\n<li class=\"columnComp_box\">\n<a class=\"campaignListBox_item\" href=\"/news_eigyo/cp/renewal.html\">\n<h3>\n<img alt=\"リニューアルキャンペーン\" src=\"/rootImg/index/renewal_cp.webp?2024110714\"/>\n</h3>\n</a>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div class=\"carPriceArea sectionBlock\">\n<div class=\"sectionBlock_inner\">\n",
+      "content_type": "image/webp",
+      "bytes": 41122,
+      "sha256": "2b3bf91a42c99ed1eaa8c772ff8c7b947cf9cb15c70fad2a068fe98bed606d68",
+      "source_sha256": "bd392ce36f22abd6a555219f1afb09429ebf7123c06094e0057df1abc7b9b1ad",
+      "dhash": "4bc1e2b3d284613b",
+      "width": 670,
+      "height": 370,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-003.png",
+      "source_url": "https://www.nipponrentacar.co.jp/cmn/img/nrc_logo_02.png?2020080715=",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "i>\n</ul>\n</div>\n</div><!-- sectionBlock -->\n</main>\n</div><!-- container -->\n<div class=\"mainFooter\">\n<footer>\n<div class=\"mainFooter_logoBelt\">\n<p><img alt=\"レンタカーならニッポンレンタカー\" src=\"/cmn/img/nrc_logo_02.png?2020080715\"/></p>\n</div><!-- mainFooter_logoBelt -->\n<div class=\"mainFooter_linkItemSet\">\n<ul class=\"mainFooter_link\">\n<li class=\"m",
+      "content_type": "image/png",
+      "bytes": 2979,
+      "sha256": "e84fa3726e1ae27b28dd4e66e580f23bf1683d5fcdabe4f9145f56bc9a52addd",
+      "source_sha256": "ea097bb80fccb955477d2e0c707116312e18025502725454b76c934122fb48e5",
+      "dhash": "3035666e6e6d6d6d",
+      "width": 137,
+      "height": 37,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-004.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/notice_logo_1.png?2025072209=",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "class=\"noticeArea\">\n<button class=\"noticeArea_close\">閉じる</button>\n<div class=\"noticefadeslide\">\n<div><a href=\"/service/point/\" target=\"_blank\"><img alt=\"お好きなマイル/ポイントが貯まっておトク！\" src=\"/rootImg/index/notice_logo_1.png?2025072209\"/></a></div>\n<!-- <div><a href=\"/app/coupon/\" target=\"_blank\"><img src=\"/rootImg/index/notice_logo_2.webp?2023112413\" al",
+      "content_type": "image/webp",
+      "bytes": 11980,
+      "sha256": "d225a2dc6ec09555ae7e87827807943e48e89c044c768449168740d5caef2519",
+      "source_sha256": "76a4a082d418246989605bac8870fa0d189317e07be3d44b8a8a73d502b902df",
+      "dhash": "514931d154559911",
+      "width": 397,
+      "height": 178,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-005.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/share/images/nrc_logo.gif",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "perty=\"og:description\"/>\n<meta content=\"https://www.nipponrentacar.co.jp/car_price/joyo.html\" property=\"og:url\"/>\n<meta content=\"ニッポンレンタカー\" property=\"og:site_name\"/>\n<meta content=\"https://www.nipponrentacar.co.jp/share/images/nrc_logo.gif\" property=\"og:image\"/>\n<link href=\"https://www.nipponrentacar.co.jp/car_price/joyo.html\" rel=\"canonical\"/>\n<link charset",
+      "content_type": "image/webp",
+      "bytes": 2454,
+      "sha256": "9ad835dfaecb9350c9c4e8bc552c32f0b66bdeb67ab941a3711b48742ee66c75",
+      "source_sha256": "498a4861c476cf1596aacf55bb3fead50a9f5fd3caaa27468c50532956ad0c14",
+      "dhash": "32306f4b6b6e4af2",
+      "width": 159,
+      "height": 40,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/",
+        "https://www.nipponrentacar.co.jp/car_price/",
+        "https://www.nipponrentacar.co.jp/car_price/bus.html",
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-006.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/share/img/nrc_logo_og.gif",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "t=\"website\" property=\"og:type\"/>\n<meta content=\"ニッポンレンタカーの公式サイトです。\" property=\"og:description\"/>\n<meta content=\"https://www.nipponrentacar.co.jp/\" property=\"og:url\"/>\n<meta content=\"https://www.nipponrentacar.co.jp/share/img/nrc_logo_og.gif\" property=\"og:image\"/>\n<link href=\"https://www.nipponrentacar.co.jp/s/\" media=\"only screen and (max-width:640px)\" rel=\"a",
+      "content_type": "image/webp",
+      "bytes": 11330,
+      "sha256": "6b544dfbab126b0cb86c1132d5cbd6feed0bdf58740042d3eced803327fd02de",
+      "source_sha256": "b4a0694e8c2a94c24d49ed4aba907c8295361351564bf1b5ff48d567a98560ad",
+      "dhash": "200070d9f9600020",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/",
+        "https://www.nipponrentacar.co.jp/campaign/area/95.html",
+        "https://www.nipponrentacar.co.jp/campaign/weekdaywagon.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-014.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/reason_bg_01.jpg",
+      "source_tag": "external-css",
+      "context": "  margin: 21px auto 0 auto;\r\n  width: 280px;\r\n}\r\n\r\n\r\n\r\n/* ==========================================================================\r\n  reasonArea\r\n========================================================================== */\r\n\r\n\r\n.reasonArea{\r\n  /*background:url(/rootImg/index/reason_bg_01.jpg) 0 0 no-repeat #ffffff;*/\r\n  background-color: #ffffff;\r\n  background-size: cover;\r\n  padding: 49px 0 0 ",
+      "content_type": "image/webp",
+      "bytes": 21660,
+      "sha256": "b1676395ada9f3acc5b41587c00b2118a6cab5a46e76e4b813d7bff79158afd8",
+      "source_sha256": "23111a5be8c9a38094ec1d1f45fe46b18d9165e81d6524808f8925eeb13727a0",
+      "dhash": "383833f9f4361f33",
+      "width": 1280,
+      "height": 878,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-015.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/reason_bg_02.jpg",
+      "source_tag": "external-css",
+      "context": "lute;\r\n  top: calc(50% - 5px);\r\n  right: 0px;\r\n  transform: rotate(45deg);\r\n  width: 6px;\r\n}\r\n\r\n.reasonArea :not(.boxLinkSet) > .boxLink{\r\n  display: block;\r\n  margin: 40px auto 0 auto;\r\n  width: 280px;\r\n}\r\n\r\n/*\r\n  msArea_box\r\n*/\r\n\r\n.msArea_box{\r\n  background:url(/rootImg/index/reason_bg_02.jpg) 0 0 no-repeat #ffffff;\r\n  background-size: cover;\r\n  margin-left: auto;\r\n  margin-right: auto;\r\n  paddi",
+      "content_type": "image/webp",
+      "bytes": 60406,
+      "sha256": "f21ab1f9db39d1e3886a620bcc9ce91c9ffeedb5834dd41ce5f5acbfb17eb9fe",
+      "source_sha256": "ba4adc4c9975f21d083762c25460d320ca1e6e152cab6e62febf49ca7d767040",
+      "dhash": "e0e0f197919d1e5f",
+      "width": 1280,
+      "height": 438,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-007.webp",
+      "source_url": "https://c.marsflag.com/mf/img/mf_finder_logo.png",
+      "source_tag": "external-css",
+      "context": "-space:nowrap;display:block;line-height:1}.mf_finder_organic .mf_finder_mark{background-color:#ffea00}.mf_finder_organic .mf_finder_logo{text-align:center}.mf_finder_organic .mf_finder_logo a{font-size:0;display:inline-block;width:200px;height:18px;background:url(//c.marsflag.com/mf/img/mf_finder_logo.png) no-repeat 0 #fff;background-size:200px 18px;margin-bottom:1rem}.mf_finder_organic .mf_finder",
+      "content_type": "image/webp",
+      "bytes": 2190,
+      "sha256": "20a3720b4d576e57649b91a0c5ddf3c6ac4da860de5944b9c3414e3ebb3511f6",
+      "source_sha256": "0a060ce5e44add27db0e717e5b46931eba6d03c12420409b13178c0386efff1c",
+      "dhash": "20a0a0f0f0b0a020",
+      "width": 400,
+      "height": 36,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-008.png",
+      "source_url": "https://www.nipponrentacar.co.jp/cmn/img/winner_logo_2024.png",
+      "source_tag": "html-data",
+      "context": "</a></li>\n</ul>\n</div><!-- mainFooter_linkItemSet -->\n<div style=\"background-color: #ffffff;\">\n<div class=\"infoPrize\">\n<!-- <div class=\"infoPrize_inner\">\r\n                <img src=\"/cmn/img/winner_logo_2024.png\" alt=\"クオリティ・チョイス・プライズアワード\">\r\n                <p>\r\n                  欧州品質研究協会において、サービス品質を評価する<br>『クオリティ・チョイス・プライズアワード 202",
+      "content_type": "image/png",
+      "bytes": 39802,
+      "sha256": "9a302575fc0beaad897ce5fca525bcc710f9af69fc0cd42eba3e3a841c3492a4",
+      "source_sha256": "a39d9d37308ad73a0a3e8211835bdc51f14d00d74258682ad2e21cda19d630a0",
+      "dhash": "c8666e58e3ccf0e8",
+      "width": 1848,
+      "height": 1905,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-009.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/notice_logo_2.webp?2023112413=",
+      "source_tag": "html-data",
+      "context": "ce/point/\" target=\"_blank\"><img alt=\"お好きなマイル/ポイントが貯まっておトク！\" src=\"/rootImg/index/notice_logo_1.png?2025072209\"/></a></div>\n<!-- <div><a href=\"/app/coupon/\" target=\"_blank\"><img src=\"/rootImg/index/notice_logo_2.webp?2023112413\" alt=\"アプリでGOGO！キャンペーン\" /></a></div> -->\n<!-- <div><a href=\"/campaign/area/summer.html\" target=\"_blank\"><img src=\"/rootIm",
+      "content_type": "image/webp",
+      "bytes": 13050,
+      "sha256": "30ae7d8104e947bcf39c0447a97348c3278a9fb2e6ae33421620ea35210a644b",
+      "source_sha256": "3651773918177c8b2afeeb0f9d1f39fd700a68f681713fc122a4a4393a24404c",
+      "dhash": "7378d4d4d4d4cccc",
+      "width": 391,
+      "height": 180,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-010.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/notice_logo_summer.png?2024060313=",
+      "source_tag": "html-data",
+      "context": "get=\"_blank\"><img src=\"/rootImg/index/notice_logo_2.webp?2023112413\" alt=\"アプリでGOGO！キャンペーン\" /></a></div> -->\n<!-- <div><a href=\"/campaign/area/summer.html\" target=\"_blank\"><img src=\"/rootImg/index/notice_logo_summer.png?2024060313\" alt=\"夏のおトクなプラン特集\" /></a></div> -->\n</div>\n</div>\n<div class=\"returnTop\">\n<button>トップへ戻る</button>\n</div><!-- returnTop -",
+      "content_type": "image/webp",
+      "bytes": 18478,
+      "sha256": "d7f89c51476530ec246e99906abf02e8b482fc0f87b23e168a6b9473500d91a9",
+      "source_sha256": "fc8328c79295124a66c01a3fc047eeddf8a9f6fe3c2d3100b9e8a40bb4e71286",
+      "dhash": "be1755d74969697a",
+      "width": 397,
+      "height": 178,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-011.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/notice_logo_1_sp.webp",
+      "source_tag": "html-data",
+      "context": "     <div class=\"noticeArea\">\r\n      \t\t<button class=\"noticeArea_close\"></button>\r\n\t\t    <div class=\"fadeslide\">\r\n        \t\t<div><a href=\"/service/point/\" target=\"_blank\"><img src=\"/rootImg/index/notice_logo_1_sp.webp\" alt=\"お好きなマイル/ポイントが貯まっておトク！\" /></a></div>\r\n        \t\t<div><a href=\"/app/coupon/\" target=\"_blank\"><img src=\"/rootImg/inde",
+      "content_type": "image/webp",
+      "bytes": 8062,
+      "sha256": "e5062cd91ebf27a6d640f56249fbf6cceaca7ed4505c6d77b687ad9dc9eb2a73",
+      "source_sha256": "c9562efbfeb531a4d705a271e7b486c539a49109a9c5ad919b20ad06830dbe46",
+      "dhash": "594975abaa2a2b55",
+      "width": 413,
+      "height": 132,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-012.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/notice_logo_2_sp.webp?2023112413=",
+      "source_tag": "html-data",
+      "context": "ce/point/\" target=\"_blank\"><img src=\"/rootImg/index/notice_logo_1_sp.webp\" alt=\"お好きなマイル/ポイントが貯まっておトク！\" /></a></div>\r\n        \t\t<div><a href=\"/app/coupon/\" target=\"_blank\"><img src=\"/rootImg/index/notice_logo_2_sp.webp?2023112413\" alt=\"アプリでGOGO！キャンペーン\" /></a></div>\r\n        \t\t<!-- <div><a href=\"/campaign/area/summer.html\" target=\"_blank\"><img src=\"",
+      "content_type": "image/webp",
+      "bytes": 13226,
+      "sha256": "7c947b375baace26c8306d370d837ebed17358c555f66a55a91f1f64a2aa128a",
+      "source_sha256": "aa2751edb246c33343fb341b44e50a44f299b81795f8bbc3d883c378b3dbd479",
+      "dhash": "71e696d4d4d4b2a2",
+      "width": 468,
+      "height": 148,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-013.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/notice_logo_summer_sp.png?2024060313=",
+      "source_tag": "html-data",
+      "context": "k\"><img src=\"/rootImg/index/notice_logo_2_sp.webp?2023112413\" alt=\"アプリでGOGO！キャンペーン\" /></a></div>\r\n        \t\t<!-- <div><a href=\"/campaign/area/summer.html\" target=\"_blank\"><img src=\"/rootImg/index/notice_logo_summer_sp.png?2024060313\" alt=\"夏のおトクなプラン特集\" /></a></div> -->\n<!-- </div>\r\n\t  </div>\r\n-->\n<div class=\"returnTop\" style=\"bottom:110px;\">\n<button>トッ",
+      "content_type": "image/webp",
+      "bytes": 14036,
+      "sha256": "54b0a5fe310146c06319259db67fab19f488f419faafb096c92ee2e0c80a1dd3",
+      "source_sha256": "aa6893402d559d13e4d1caa8d8b400d69f635352cce929ad2f0d16aa83ac44a9",
+      "dhash": "be2761616b3b2b4e",
+      "width": 413,
+      "height": 132,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-016.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_24.webp",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "t=\"新CM\" src=\"/rootImg/index/slide_img_25.webp\"/></a>\n</div>\n<div class=\"slideArea_item\">\n<a href=\"https://www.instagram.com/nippon_rentacar/\" tabindex=\"0\"><img alt=\"車種クラス構成変更\" src=\"/rootImg/index/slide_img_24.webp\"/></a>\n</div>\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/wba/8years.html\" tabi",
+      "content_type": "image/webp",
+      "bytes": 58672,
+      "sha256": "ccd857387f166078a83f77d8c04859c5e80b12b68c072e10bad15a68dd5fecb3",
+      "source_sha256": "54750134377c659f0f984724c41ee000ee65b3565101286a090d3934b7a8066f",
+      "dhash": "f36165652513172c",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-017.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_22.webp",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "013109\" alt=\"ｗ受賞キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/nrapp/1mdl.html\" tabindex=\"0\"><img src=\"/rootImg/index/slide_img_22.webp\" alt=\"アプリ１００万ダウンロードキャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/cm/\" tabindex=\"0\"><img",
+      "content_type": "image/webp",
+      "bytes": 40874,
+      "sha256": "bef713c54da23c32027c4762ea1ddf634964634c71a259f37dc9d1127bdd03a9",
+      "source_sha256": "1cd8da07c58fa607b8843d0c214ecb1e1cbc0619b54eaa76fd6d2b0038c79169",
+      "dhash": "0c1c185a58581918",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-014.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_ev.webp?2025050211=",
+      "source_tag": "html-data, img:image",
+      "context": "stBox_desc\">レンタカーは早めの予約が断然お得！45日前で最大40％OFFから14日前でも20%OFF！</p>-->\n</a>\n</li>\n<li class=\"columnComp_box\">\n<a class=\"campaignListBox_item\" href=\"/service/ev/\">\n<h3>\n<img alt=\"EV\" src=\"/rootImg/index/campaignArea_img_ev.webp?2025050211\"/>\n</h3>\n<!--<p class=\"campaignListBox_desc\">脱炭素の取組みの一環として、電気自動車（EV）を店舗限定で導入しています。</p>-->\n</a>\n</li>\n<!--\r\n             ",
+      "content_type": "image/webp",
+      "bytes": 23752,
+      "sha256": "63a77167d7fe97db91f4061570fca1b969f3e57f6b34e609a315ea8468ebad56",
+      "source_sha256": "44664383dff64e66368f98e02be65bde616ab7dad50ff5161ce566363711479b",
+      "dhash": "31d8c84a4298ecec",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-015.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_nyukai.webp?2026033009=",
+      "source_tag": "html-data, img:image",
+      "context": "ペーンを実施中！</p>\r\n                  </a>\r\n                </li>\r\n-->\n<li class=\"columnComp_box\">\n<a class=\"campaignListBox_item\" href=\"/member/club.html\">\n<h3>\n<img alt=\"入会キャンペーン\" src=\"/rootImg/index/campaignArea_img_nyukai.webp?2026033009\"/>\n</h3>\n<!--<p class=\"campaignListBox_desc\">登録して初めてのご利用後、最大1,000円分のレンタカーポイントプレゼント！</p>-->\n</a>\n</li>\n<!--\r\n            ",
+      "content_type": "image/webp",
+      "bytes": 26892,
+      "sha256": "22454c6743055a9de2529ad5aa9029e8926f9a6bccff99607755450562c75a61",
+      "source_sha256": "e61cfd4aa74deefe4e81d9a41da2a7b147d1a70211c9a209d1515636844a8f3c",
+      "dhash": "e4ccc869336d2623",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-016.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_hayawari.webp",
+      "source_tag": "html-data, img:image",
+      "context": "\r\n                  </a>\r\n                  <a class=\"campaignListBox_item mypageSRMArea\" href=\"/campaign/hayawari.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_hayawari.webp\" alt=\"早割プラン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">レンタカーは早めの予約が断然お得！45日前で最大40",
+      "content_type": "image/webp",
+      "bytes": 82726,
+      "sha256": "7cc9f0e7949025c0e793e0ac8923098cec19bd7f55117fd0795af778f50bdb0f",
+      "source_sha256": "211969030f6ccb560b38a2cb2ad3738443df90beaccf14e4ad44227b32078a09",
+      "dhash": "dbb9655b1b595b35",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-018.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/PC_cnpl_banner.jpg?2021012710=",
+      "source_tag": "html-data",
+      "context": "x/slide_img_app.jpg?2021082510\" alt=\"レンタカーをスムーズに予約できる「ニッポンレンタカーアプリ」が新登場\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <img src=\"/rootImg/index/PC_cnpl_banner.jpg?2021012710\" alt=\"キャンペーンお得なプラン\" style=\"outline:none;\" id=\"PC_cnpl_banner1\">\r\n                <map name=\"otokuplan\">\r\n               ",
+      "content_type": "image/webp",
+      "bytes": 55294,
+      "sha256": "9329bcfbef4160774422102f14bde8233173dd08f3f75199f912ed802644f189",
+      "source_sha256": "1abfea5d0dcd96c14e2132e959d52460500e5c7ba6aa6b4f46f9b30184b9d76a",
+      "dhash": "1434140818c61489",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-019.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_19.webp?2024012413=",
+      "source_tag": "html-data",
+      "context": "             </map>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/55anniversary_point.html\" tabindex=\"0\"><img src=\"/rootImg/index/slide_img_19.webp?2024012413\" alt=\"55周年キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a h",
+      "content_type": "image/webp",
+      "bytes": 64376,
+      "sha256": "75102114eafde137d6ebd3a094260d0dcf7463f9a50b9004339731d481bd2715",
+      "source_sha256": "1fb3381f095bed5c9824988915f7dda7beff70b2073060d862a6ddbe7ff6704a",
+      "dhash": "884e1cd6165e884c",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-020.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_wjyusyou.webp?2025013109=",
+      "source_tag": "html-data",
+      "context": ".webp\" alt=\"楽天ポイントキャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/wba/2025.html\" tabindex=\"0\"><img src=\"/rootImg/index/slide_img_wjyusyou.webp?2025013109\" alt=\"ｗ受賞キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a hr",
+      "content_type": "image/webp",
+      "bytes": 44176,
+      "sha256": "0632c3c33b68e5fccd3b1dd0a1c9433ed46e19c72dd6c3d35c34cbaab105d65c",
+      "source_sha256": "ac16d0d210f33fd01ef1dbbd94acf3094c3e4f510129f14c59634b5afa371a66",
+      "dhash": "be9c5c88d2fc6cdc",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-021.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_23.png",
+      "source_tag": "html-data",
+      "context": "変更\" src=\"/rootImg/index/slide_img_24.webp\"/></a>\n</div>\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/wba/8years.html\" tabindex=\"0\"><img src=\"/rootImg/index/slide_img_23.png\" alt=\"wba受賞キャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/member/club.html\" tabindex=\"0\"",
+      "content_type": "image/webp",
+      "bytes": 83882,
+      "sha256": "4bd880d6098708ecf776301328bb8502bc7e278fc82e30efd36e4867c6e8290f",
+      "source_sha256": "64b6f71a33cc749fa68fe556b29cd93aeed0d0051a42ffab75744b63cbc5b167",
+      "dhash": "934363a703a56593",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-022.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/PC_2022best_banner.webp?2022110909=",
+      "source_tag": "html-data",
+      "context": "alt=\"キャンペーン一覧\" src=\"/rootImg/index/slide_img_22.webp\"/></a>\n</div>\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/wba/\" tabindex=\"0\"><img src=\"/rootImg/index/PC_2022best_banner.webp?2022110909\" alt=\"御礼記念Go!Go!Go!キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n          <div class=\"slideArea_item\">\r\n               ",
+      "content_type": "image/webp",
+      "bytes": 48584,
+      "sha256": "82314e6f97669542bb78ccd1557409605310a33c958256c5e482eed924fd54e2",
+      "source_sha256": "e9224f7040082d71cdb29c3c06a016655b19f5b06834b141d9d0b5b5e637e96e",
+      "dhash": "4e25274525212100",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-023.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/PC_selfservice_banner.webp?2024052413=",
+      "source_tag": "html-data",
+      "context": "=\"便利なサービス\" src=\"/rootImg/index/slide_img_23.webp\"/></a>\n</div>\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/self-service/\" tabindex=\"0\"><img src=\"/rootImg/index/PC_selfservice_banner.webp?2024052413\" alt=\"セルフサービス\"></a>\r\n              </div>\r\n-->\n</div><!-- slideArea slideArea-normalAndSM -->\n</div><!-- appealArea -->\n",
+      "content_type": "image/webp",
+      "bytes": 39112,
+      "sha256": "3adedb902b6c1c3de165c5ed76ce3fdd732b8b352fc5988f546a4498b23b2afc",
+      "source_sha256": "a523d6a6c1fa2d171e58ea1b009979114fe97249ecd2048acef75bfbc06407bb",
+      "dhash": "18181a1a180e1c0c",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-024.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_syoukai.webp?2024092613=",
+      "source_tag": "html-data",
+      "context": "x/slide_img_21.webp\" alt=\"楽天ポイントキャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/syoukai.html\"><img src=\"/rootImg/index/slide_img_syoukai.webp?2024092613\" alt=\"照会キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a hre",
+      "content_type": "image/webp",
+      "bytes": 67088,
+      "sha256": "d56a48427601250996d09cc99be96028f244c870b7fb212aab8cc66bed38fe8d",
+      "source_sha256": "bcfe9536c2735b961c1d09d4d2e6327fc40f71a9954c07166c3568d34ccc2df2",
+      "dhash": "3e325b5a563c1a1a",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-017.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_dpoint.png?2023112413=",
+      "source_tag": "html-data",
+      "context": "           <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/campaign/point/08.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_dpoint.png?2023112413\" alt=\"dポイントキャンペーン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">ニッポンレンタカー×dポイントキャンペー",
+      "content_type": "image/webp",
+      "bytes": 58770,
+      "sha256": "11eebb1aa878ecb5fdea79ab4d0354359595af91a6750850a12a153b95386d40",
+      "source_sha256": "03fc85e4a61d2bc214bfc79bc5b34b872de47de694710f19180606ce88412f1f",
+      "dhash": "712d96d094b07125",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-018.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/info_img_139.jpg?2025033109=",
+      "source_tag": "html-data",
+      "context": "           <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/campaign/point/14.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/info_img_139.jpg?2025033109\" alt=\"dポイントキャンペーン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">期間中に条件を満たしたお客さまにｄポイン",
+      "content_type": "image/webp",
+      "bytes": 57872,
+      "sha256": "7018d44e54684bd635a6aa66817b71b0a92d6d069a334d2026046cc08b6cf13d",
+      "source_sha256": "fe134b884e989196037f162b94cfb8c161e3944170ad397623905ed062bf8654",
+      "dhash": "b3d8cc8141e6946d",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-019.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_32.jpg",
+      "source_tag": "html-data",
+      "context": "           <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/campaign/point/13.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_32.jpg\" alt=\"楽天ポイント付与プレゼント\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">期間中に楽天ポイント付与手続きを行い",
+      "content_type": "image/webp",
+      "bytes": 42330,
+      "sha256": "a6768c688e000adc346aa44834991165b0704dff793c82b0b7cf4a211f43bef6",
+      "source_sha256": "7b4a48361cc56e45c3f2f720fa854019fe509e41ebc69fe319b8628a4c722b75",
+      "dhash": "74652b3c232b4d55",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-020.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_wba2025.png?2025013109=",
+      "source_tag": "html-data",
+      "context": "           <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/campaign/wba/2025.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_wba2025.png?2025013109\" alt=\"ｗ受賞キャンペーン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">W受賞を記念したキャンペーンを実施中！</p",
+      "content_type": "image/webp",
+      "bytes": 39412,
+      "sha256": "26c9b466068001c289f7379f5c1ccedca50c9718e930e4c4d8a9fd16b097c7a0",
+      "source_sha256": "7bac90ef5e755085095e360f65d4e03daab6dacd41822c371e8706000c20f63d",
+      "dhash": "ccf06a40f0b2f079",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-025.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_bakanuri.jpg?2023082913=",
+      "source_tag": "html-data",
+      "context": "      <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/campaign/area/bakanuri.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_bakanuri.jpg?2023082913\" alt=\"「バカ塗りの娘」記念キャンペーン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">堀田真由さん主演映画『バカ塗り",
+      "content_type": "image/webp",
+      "bytes": 44148,
+      "sha256": "545acea6a446bba27fa5b2d7ec58a8b7016c35d5e6dd75284860e39cb14ba935",
+      "source_sha256": "cbc9b526a36da735c7685c6231d2b1558d9e3712ada0006c25e3b689f362a49f",
+      "dhash": "07e6efcac986a2a2",
+      "width": 680,
+      "height": 508,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-021.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_syoukai.webp?2024092613=",
+      "source_tag": "html-data",
+      "context": "s=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item mypageNonMemberArea\" href=\"/campaign/syoukai.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_syoukai.webp?2024092613\" alt=\"照会キャンペーン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">ご家族・お友達へニッポンレンタカーをご紹介いた",
+      "content_type": "image/webp",
+      "bytes": 52230,
+      "sha256": "3c07ddd156b2e9d50233dfc8fa3dbf0ffb3dd78654c97984172258bc00841855",
+      "source_sha256": "15de13fd7bf9e2b3056d7c7cb070606a517bcce8a116e2f286389f3c18a25dd8",
+      "dhash": "f80e555554d4ee4c",
+      "width": 670,
+      "height": 502,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-022.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_WBA.jpg",
+      "source_tag": "html-data",
+      "context": "--\r\n                <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/campaign/wba/\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_WBA.jpg\" alt=\"ポイント山分け\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">キャンペーンページからアンケート回答でレンタカー",
+      "content_type": "image/webp",
+      "bytes": 71728,
+      "sha256": "cf3dee1ecb5846aaed4087ba95cf2a65cab0e6a8ccdefc2a8f440ffe9be87c4c",
+      "source_sha256": "89aea7ee3b40877b6b7a9c36d884d386ec03d41bffbd3c518df799be3a792d3a",
+      "dhash": "dca35151551792e0",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-023.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_29.webp?2022111409=",
+      "source_tag": "html-data",
+      "context": "--\r\n                <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/campaign/wba/\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_29.webp?2022111409\" alt=\"御礼記念Go!Go!Go!キャンペーン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">ブランド・オブ・ザ・イヤ",
+      "content_type": "image/webp",
+      "bytes": 51348,
+      "sha256": "f7137c7b2f3b5fe11a48f7a64df86cf41fe9bd518305703477ca8f27c96cd8fe",
+      "source_sha256": "4aab4c313c578229a751278b605198824922f7ad9bcb4ff1d0ce4d0202f98b04",
+      "dhash": "bc222b716547c8c8",
+      "width": 670,
+      "height": 502,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-024.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_30.jpg?2023041815=",
+      "source_tag": "html-data",
+      "context": "           <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/campaign/point/05.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_30.jpg?2023041815\" alt=\"dpoint\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">ニッポンレンタカー×dポイントのキャンペーン実施中",
+      "content_type": "image/webp",
+      "bytes": 46744,
+      "sha256": "faecde604063076b668b4fe647f08deca9e01472ab47d3953a60c47e41c19956",
+      "source_sha256": "b4b6d2cc92773a01c5a62f62f4ab2c738851b7a32fff6149338ec918ab521f6c",
+      "dhash": "716474395b1654cc",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-025.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_28.png?2022102617=",
+      "source_tag": "html-data",
+      "context": "      <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/campaign/point/04_2210.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_28.png?2022102617\" alt=\"楽天ポイントキャンペーン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">楽天ポイントのキャンペーン実施中！条件",
+      "content_type": "image/webp",
+      "bytes": 51622,
+      "sha256": "8ba8d257d68937595a5e5f308b909a5664fe389678b9f8ac36e3017a99192849",
+      "source_sha256": "4b2913e45b360d554951ffd016153fe72539c3151897b0a0b320c367c2642b87",
+      "dhash": "e475b2e62f4f4d62",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-026.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_19.webp?2024012413=",
+      "source_tag": "html-data",
+      "context": "ーズに予約できる「ニッポンレンタカーアプリ」が新登場\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/55anniversary_point.html\"><img src=\"/s/rootImg/index/slide_img_19.webp?2024012413\" alt=\"55周年キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a h",
+      "content_type": "image/webp",
+      "bytes": 50386,
+      "sha256": "cdf6d339e660fee8cc3be2eb673ac7bc77f71e222084fd98b5bf09bd438f033c",
+      "source_sha256": "1797895714d40fdf06b4eec75a7e75989ad829b34d6f2f1422cc18ff8ea7513c",
+      "dhash": "85bee68e8eccc803",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-027.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_wjyusyou.webp?2025013109=",
+      "source_tag": "html-data",
+      "context": "slide_img_21.webp\" alt=\"楽天ポイントキャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n               <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/wba/2025.html\"><img src=\"/s/rootImg/index/slide_img_wjyusyou.webp?2025013109\" alt=\"ｗ受賞キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n               <div class=\"slideArea_item\">\r\n                <a h",
+      "content_type": "image/webp",
+      "bytes": 46112,
+      "sha256": "dcbfd79a238d9cb3f663c58533191f38e8296e8f4f901879907733f102175ab9",
+      "source_sha256": "92911ad7ff517dbf0e3b3444bc771160c53c7c11dd126e467e0a00c83ead3c26",
+      "dhash": "ecdcf478e92222ea",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-028.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_23.png",
+      "source_tag": "html-data",
+      "context": "t=\"車種クラス構成変更\" src=\"/s/rootImg/index/slide_img_24.webp\"/></a>\n</div>\n<!--\r\n               <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/wba/8years.html\"><img src=\"/s/rootImg/index/slide_img_23.png\" alt=\"wba受賞キャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/member/club.html\"><img alt=\"ニッ",
+      "content_type": "image/webp",
+      "bytes": 63852,
+      "sha256": "9c67be884154881c5737383f9a9444bff72d997f2181653d625a2354fec19613",
+      "source_sha256": "3e50219a27eb5583fc8c94ef17b77de40856b00bee8af7c6f028ffa03592c3d7",
+      "dhash": "8607179a07233b1b",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-029.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/SP_2022best_banner.webp?2022111409=",
+      "source_tag": "html-data",
+      "context": ".htm\"><img alt=\"キャンペーン一覧\" src=\"/s/rootImg/index/slide_img_22.webp\"/></a>\n</div>\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/wba/\"><img src=\"/s/rootImg/index/SP_2022best_banner.webp?2022111409\" alt=\"御礼記念Go!Go!Go!キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--              \r\n              <div class=\"slideArea_item\"",
+      "content_type": "image/webp",
+      "bytes": 38696,
+      "sha256": "bc854e72963ef03a0270463329655f2d2959158cb3661da4d2331dbd90cec3a8",
+      "source_sha256": "5c3d35376be7d7b812dc982f3a64eb2a9cfa0fd70d64d961147ef61ad165598c",
+      "dhash": "7926177323270b23",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-030.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/SP_selfserive_banner.webp?2024052414=",
+      "source_tag": "html-data",
+      "context": "\"><img alt=\"便利なサービス\" src=\"/s/rootImg/index/slide_img_23.webp\"/></a>\n</div>\n<!-- \r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/self-service/\"><img src=\"/s/rootImg/index/SP_selfserive_banner.webp?2024052414\" alt=\"セルフサービス\"></a>\r\n              </div>\r\n-->\n</div><!-- slideArea-->\n</div><!-- appealArea-->\n<!-- ここまで未ログイン-->\n<!-- こ",
+      "content_type": "image/webp",
+      "bytes": 35492,
+      "sha256": "aefb87c396c9bff6659c65cc5625a0bf127b4d82e86d7c075bfd1a92b9214779",
+      "source_sha256": "abb17c66f576db2e34a6c74cb13b0b449b8c6eb7e29118fc34593a05d70984b2",
+      "dhash": "90a8cc8aa8e478f8",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-031.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_syoukai.webp?2024092613=",
+      "source_tag": "html-data",
+      "context": "x/slide_img_21.webp\" alt=\"楽天ポイントキャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/campaign/syoukai.html\"><img src=\"/s/rootImg/index/slide_img_syoukai.webp?2024092613\" alt=\"照会キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n               <div class=\"slideArea_item\">\r\n                <a hr",
+      "content_type": "image/webp",
+      "bytes": 49954,
+      "sha256": "f6d2e36d256d0f997cf4ebf586f68a0e13fe3b358d82858a4e5b3c30acf142c4",
+      "source_sha256": "3760be25a6a7587853e9bd03cc83a4c1f276f5f1c4893262a6f181cc51702930",
+      "dhash": "f88e495555d4ee4c",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-032.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_29.jpg?2022103113=",
+      "source_tag": "html-data",
+      "context": "\r\n\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t</li>\r\n-->\n<!--\r\n\t\t\t\t\t\t\t\t<li class=\"columnComp_box\">\r\n\t\t\t\t\t\t\t\t\t<a class=\"campaignListBox_item\" href=\"/campaign/wba/\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>\r\n\t\t\t\t\t\t\t\t\t\t\t<img src=\"/rootImg/index/campaignArea_img_29.jpg?2022103113\" alt=\"御礼記念Go!Go!Go!キャンペーン\">\r\n\t\t\t\t\t\t\t\t\t\t</h3>\r\n\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t</li>\r\n-->\n<!--\r\n\t\t\t\t\t\t\t\t<li class=\"columnComp_box\"",
+      "content_type": "image/webp",
+      "bytes": 53568,
+      "sha256": "d47b64b374c1166da2a7b52134b42e3a3244b9fe25abdcdad28d4f8b1f3cfc39",
+      "source_sha256": "89d4f879a057877ec3c95260f531094648a141d1cf4d0627b23cdb944f579caf",
+      "dhash": "bc222b716547c8c8",
+      "width": 670,
+      "height": 502,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-033.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/info/info_renew/bnr_campain_sp.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "h2 class=\"info__sec02__subtitle\"><img alt=\"PICK UP プラン・キャンペーン\" src=\"/rootImg/info/info_renew/sec02_subtitle01.svg\"/></h2>\n<div class=\"info__sec02__bnrs\">\n<picture>\n<img alt=\"\" src=\"/rootImg/info/info_renew/bnr_campain_sp.png\"/>\n</picture>\n<picture>\n<img alt=\"\" src=\"../../campaign/area/img/104/main_sp.png\"/>\n</picture>\n<picture>\n<img alt=\"\" src",
+      "content_type": "image/webp",
+      "bytes": 47774,
+      "sha256": "6b6c5657549b844828b1bc5468e288c47d58206e0c78945c05cd3c7da6b10d5e",
+      "source_sha256": "74681c5a6bb914d34da5e7e0761114d7c29fc09f608a37bb8db822707eef5c37",
+      "dhash": "66a8e173ec1d1a69",
+      "width": 680,
+      "height": 508,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-034.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/info/info_renew/bnr_campain2_sp.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mg alt=\"\" src=\"/rootImg/info/info_renew/bnr_campain_sp.png\"/>\n</picture>\n<picture>\n<img alt=\"\" src=\"../../campaign/area/img/104/main_sp.png\"/>\n</picture>\n<picture>\n<img alt=\"\" src=\"/rootImg/info/info_renew/bnr_campain2_sp.png\"/>\n</picture>\n</div>\n<div class=\"info__sec02__title\">\n<h3>全国の営業所でお得なキャンペーンを実施中！<br/>予定が合えばいつもよりお得にレンタル可能！</h3>\n</div>\n<u",
+      "content_type": "image/webp",
+      "bytes": 34104,
+      "sha256": "62d8719d89e0b56627b10aae687bc9186047ec07e45e2842b3793be4d167d84b",
+      "source_sha256": "274ead44220647a702c9f3a33740bdbd938c6983c1c172cbd768058468eeb7da",
+      "dhash": "d49c96666bf12a04",
+      "width": 680,
+      "height": 508,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-026.svg",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/info/info_renew/sec01_maintitle.svg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "->\n<!-- 編集箇所４ START -->\n<!-- コンテンツ本文です。 -->\n<main class=\"info\">\n<div class=\"info__inner\">\n<section class=\"info__sec01\">\n<h1 class=\"info__sec01__title\"><img alt=\"お得なプラン・キャンペーン\" src=\"/rootImg/info/info_renew/sec01_maintitle.svg\"/></h1>\n<figure><img alt=\"車イメージ\" src=\"/rootImg/info/info_renew/sec01_car.jpg\"/></figure>\n<p class=\"info__sec01__readtext",
+      "content_type": "image/svg+xml",
+      "bytes": 9115,
+      "sha256": "e3fbb9bc27c86e52eaca6d5bdc70736693e2b9d70e4c480096565cb38f3895c8",
+      "source_sha256": "e3fbb9bc27c86e52eaca6d5bdc70736693e2b9d70e4c480096565cb38f3895c8",
+      "dhash": "",
+      "width": 759,
+      "height": 232,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-035.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_25.webp",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "p/1mdl.html\"><img src=\"/s/rootImg/index/slide_img_22.webp\" alt=\"アプリ１００万ダウンロードキャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/cm/\"><img alt=\"新CM\" src=\"/s/rootImg/index/slide_img_25.webp\"/></a>\n</div>\n<div class=\"slideArea_item\">\n<a href=\"https://www.instagram.com/nippon_rentacar/\"><img alt=\"車種クラス構成変更\" src",
+      "content_type": "image/webp",
+      "bytes": 22238,
+      "sha256": "2c6422e36eed411d330e24607fa507b3443b3c777b498f46839734285ac9ccab",
+      "source_sha256": "f374535b6e45e80179fbb803a30ccc561e445ea24c3e9050dc04d10a05094135",
+      "dhash": "183c1b1393131303",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-027.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_13.webp?2026033009=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "src=\"/s/rootImg/index/slide_img_23.png\" alt=\"wba受賞キャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/member/club.html\"><img alt=\"ニッポンレンタカーメンバーズクラブ\" src=\"/s/rootImg/index/slide_img_13.webp?2026033009\"/></a>\n</div>\n<div class=\"slideArea_item\">\n<a href=\"/info.htm\"><img alt=\"キャンペーン一覧\" src=\"/s/rootImg/index/slide_img_22.we",
+      "content_type": "image/webp",
+      "bytes": 26690,
+      "sha256": "03cca17b5dbaf5ba4943a2b1266a80da8beda8a9d07ee998805264fe89844f90",
+      "source_sha256": "6010d722912ec89119617fc15d4e3aced633a7153a9ff7c1fd993dda472bd7bf",
+      "dhash": "eccce833236d36a2",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-028.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/na_01.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img div carClass-image div carClass_info section section-carClass-1 section-carClass div ancTab syasyuTab js-tab main carPrice_new",
+      "content_type": "image/webp",
+      "bytes": 19568,
+      "sha256": "d6ec38cb5c74a144dca5681bb4d73e5bd11eeedb643d420cb1f185fa6c3f96f3",
+      "source_sha256": "9ebbb8b9148ad8eee6d6f14ffb73bbdd97079adc380daafeb601813cb75548ea",
+      "dhash": "f0e0c89890f16569",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-029.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_25.webp",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"><img src=\"/rootImg/index/slide_img_22.webp\" alt=\"アプリ１００万ダウンロードキャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/cm/\" tabindex=\"0\"><img alt=\"新CM\" src=\"/rootImg/index/slide_img_25.webp\"/></a>\n</div>\n<div class=\"slideArea_item\">\n<a href=\"https://www.instagram.com/nippon_rentacar/\" tabindex=\"0\"><img alt=\"車",
+      "content_type": "image/webp",
+      "bytes": 26688,
+      "sha256": "b47c490dbcb448ea86baea3249ee2428498c5b16a97091d943c8b6b7bf7d4ba6",
+      "source_sha256": "9af591d1ac99b3e32298177ab0da205efd968cd7d55909865bf6e7aa05d56e20",
+      "dhash": "0826260505050501",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-030.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_13.webp?2026033009=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mg/index/slide_img_23.png\" alt=\"wba受賞キャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/member/club.html\" tabindex=\"0\"><img alt=\"ニッポンレンタカーメンバーズクラブ\" src=\"/rootImg/index/slide_img_13.webp?2026033009\"/></a>\n</div>\n<div class=\"slideArea_item\">\n<a href=\"/info.htm\" tabindex=\"0\"><img alt=\"キャンペーン一覧\" src=\"/rootImg/index/slid",
+      "content_type": "image/webp",
+      "bytes": 28154,
+      "sha256": "928f4ca58c8218cb7fdd668fc1280b23f188426fecbdc825958058a017bcfcdd",
+      "source_sha256": "6a0fa42372e3b338523064bceaae67171d4746393a13a1c28f0da4a263b354b1",
+      "dhash": "fcfaf8ace5eae56d",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-031.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/bus/img_syasyu_type_bus01.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img figure div syasyuType_image js-slider div syasyuType_unit div syasyuType div sectionBlock_inner",
+      "content_type": "image/webp",
+      "bytes": 13462,
+      "sha256": "c77713af43bba6e6262ef229054bb6cb180096e950cd9c04837c25e3e0203647",
+      "source_sha256": "a47aa5f55e86107e195a74a508b4e7d4ffd3d182c233df79beda5ebf6224961d",
+      "dhash": "62c0f8ccc0d4dce0",
+      "width": 680,
+      "height": 260,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/bus.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-032.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_23.webp",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "src=\"/rootImg/index/PC_appcoupon.png?2022110811\" alt=\"アプリクーポン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/service/\" tabindex=\"0\"><img alt=\"便利なサービス\" src=\"/rootImg/index/slide_img_23.webp\"/></a>\n</div>\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/self-service/\" tabindex=\"0",
+      "content_type": "image/webp",
+      "bytes": 38766,
+      "sha256": "02deeeaa9c5ee23a7f35caf562cf69807a1506c0b5d53a9f124801e05a8f567f",
+      "source_sha256": "d1f275fc9ea27900a5c759b3e5f4611c253de476af054c169a2c9eadcbfc9750",
+      "dhash": "2336dc2c3c5d1d3c",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-033.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_26.webp",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "<img src=\"/s/rootImg/index/slide_img_22.webp\" alt=\"アプリ１００万ダウンロードキャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/app/chotoku/\"><img alt=\"超得ワンウェイ\" src=\"/s/rootImg/index/slide_img_26.webp\"/></a>\n</div>\n<div class=\"slideArea_item\">\n<a href=\"/cm/\"><img alt=\"新CM\" src=\"/s/rootImg/index/slide_img_25.webp\"/></a>\n",
+      "content_type": "image/webp",
+      "bytes": 46732,
+      "sha256": "2c1a16d8129b4a42c289affc7d6e5c2283f0e67da628f9967600b6df7b98cbf7",
+      "source_sha256": "129017a432d37311da25a5b79066364a4d8775327547835dd5aa2687eb0329c9",
+      "dhash": "616d679397696f6c",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-034.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/img_charge_other01.png",
+      "source_tag": "img:image",
+      "context": "img figure chargeOther_image li chargeOther_item ul chargeOther_list div chargeOther div sectionBlock_inner",
+      "content_type": "image/webp",
+      "bytes": 10412,
+      "sha256": "d34cd9c0d6558edcb92537b5cabbb88badc33b36a64c2161fc560ba6b8d21664",
+      "source_sha256": "8df337f58b9e1e97d5dfd45ccbf98a47a0b4645e13620314ce3c0a4cec6126bf",
+      "dhash": "5a7a7979717070d1",
+      "width": 590,
+      "height": 277,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-035.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/bus/img_syasyu_type_kau01.png",
+      "source_tag": "img:image",
+      "context": "img figure div syasyuType_image js-slider div syasyuType_unit div syasyuType div sectionBlock_inner",
+      "content_type": "image/webp",
+      "bytes": 16926,
+      "sha256": "7687f179b00ea8f08356ba56a56cd2e35758d1d4a5043cfea4669b9f25391b1b",
+      "source_sha256": "76c1b3b472b465edc4cf05674d9f9187019f39114686992e6069ab23a476b028",
+      "dhash": "1970f2f0d0d0e464",
+      "width": 680,
+      "height": 260,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/bus.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-036.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/img_charge_other02.png",
+      "source_tag": "img:image",
+      "context": "img figure chargeOther_image li chargeOther_item ul chargeOther_list div chargeOther div sectionBlock_inner",
+      "content_type": "image/webp",
+      "bytes": 8582,
+      "sha256": "591f812f18404158c1649a2f8ba3d154e01bc863631ebe3e8520325d4b657f71",
+      "source_sha256": "757bd84c7846c38180415679c52cd0be9c9c634ecfcbb2e1ad56950e96c93ab1",
+      "dhash": "0f3b596e766aeccd",
+      "width": 590,
+      "height": 277,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-037.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_06.webp?2025081909=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ootImg/index/slide_img_23.png\" alt=\"wba受賞キャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/cgi-bin/info_prm.cgi\"><img alt=\"ゴールド会員限定のお得な特典と便利なサービス\" src=\"/s/rootImg/index/slide_img_06.webp?2025081909\"/></a>\n</div>\n<div class=\"slideArea_item\">\n<a href=\"/info.htm\"><img alt=\"キャンペーン一覧\" src=\"/s/rootImg/index/slide_img_22.we",
+      "content_type": "image/webp",
+      "bytes": 38484,
+      "sha256": "93644c1218d100a6d0a2a53093235708a4dc192e2cbe08f78078fd80f97c2d52",
+      "source_sha256": "bca7e1e5c37cb2f361077c47577d0e7d628abfcec5a034f93b638cde28af1968",
+      "dhash": "6b721171735b7941",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-038.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/img_charge_other03.png",
+      "source_tag": "img:image",
+      "context": "img figure chargeOther_image li chargeOther_item ul chargeOther_list div chargeOther div sectionBlock_inner",
+      "content_type": "image/webp",
+      "bytes": 11278,
+      "sha256": "2daac993b8c159173855f84a391eabcacc1d6360040eeb4b858e549f0b77632c",
+      "source_sha256": "e9bc7a5b5ac72578cebe1c1ca667079e53491986fead8c0e27dfc0df419834a8",
+      "dhash": "747960684ed2e078",
+      "width": 590,
+      "height": 277,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-039.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_26.webp",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "rootImg/index/slide_img_22.webp\" alt=\"アプリ１００万ダウンロードキャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/app/chotoku/\" tabindex=\"0\"><img alt=\"超得ワンウェイ\" src=\"/rootImg/index/slide_img_26.webp\"/></a>\n</div>\n<div class=\"slideArea_item\">\n<a href=\"/cm/\" tabindex=\"0\"><img alt=\"新CM\" src=\"/rootImg/index/slide_img_25.w",
+      "content_type": "image/webp",
+      "bytes": 51704,
+      "sha256": "2629c80f6b1840663e4395c0cf14fbe1f09d463653bc67de24ee3b8df75488a1",
+      "source_sha256": "5c47b5deb4ae06850a73d6abc432f1c1d2ad47b50723a18bd8608746634977e0",
+      "dhash": "2c27252326252525",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-040.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/img_case_detail_image01_pc.png?2023011210=",
+      "source_tag": "img:image",
+      "context": "img imgChange 8,030円（24時間までの基本料金） + 1,100円 × 6時間（6時間超過分） → 14,630円 p div case_detailImage div case_detail div case div sectionBlock_inner",
+      "content_type": "image/webp",
+      "bytes": 24008,
+      "sha256": "ba32844148a2fb8d9fa0c4b7ffe468fc2cf966204600fb6317389aab0e49186e",
+      "source_sha256": "acd9bff79228e7c9c80af11faa7c11a4c90b2938449e8fcea694e6930c2bd8fd",
+      "dhash": "c9cacac8d48ea830",
+      "width": 1000,
+      "height": 576,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-041.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/bus/img_syasyu_type_way01.png",
+      "source_tag": "img:image",
+      "context": "img ノアウェルキャブ figure div syasyuType_image js-slider div syasyuType_unit div syasyuType div sectionBlock_inner",
+      "content_type": "image/webp",
+      "bytes": 15892,
+      "sha256": "8cf5bd3bc644d472312d30444de32400a743baff55240d2a6225923366030b7a",
+      "source_sha256": "318974b5882fe5683b5a7ee8e85b637c8879ce6cd2b9a5b615e40b319c9e6afa",
+      "dhash": "48bc7ce888e8cc44",
+      "width": 680,
+      "height": 260,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/bus.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-042.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_06.webp?2025081909=",
+      "source_tag": "html-data, img:image",
+      "context": "slide_img_23.png\" alt=\"wba受賞キャンペーン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/cgi-bin/info_prm.cgi\" tabindex=\"0\"><img alt=\"ゴールド会員限定のお得な特典と便利なサービス\" src=\"/rootImg/index/slide_img_06.webp?2025081909\"/></a>\n</div>\n<div class=\"slideArea_item\">\n<a href=\"/info.htm\" tabindex=\"0\"><img alt=\"キャンペーン一覧\" src=\"/rootImg/index/slid",
+      "content_type": "image/webp",
+      "bytes": 44446,
+      "sha256": "ee8f1801f21c8a2e35ae07400190faa598bb7b20f925bb79e2f69c2493b66bd4",
+      "source_sha256": "130210f0a3e12ae19d73958723afbacbfee67157e399c82de2f6221335368597",
+      "dhash": "2d4c454d454d4549",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-043.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/img_case_detail_image02_pc.png?2023011210=",
+      "source_tag": "img:image",
+      "context": "img imgChange 8,030円（24時間までの基本料金） + 6,490円（以後1日分の追加料金） → 14,520円 p div case_detailImage div case_detail div case div sectionBlock_inner",
+      "content_type": "image/webp",
+      "bytes": 24064,
+      "sha256": "f264191625f8592f5d8a6d716cb8189601b1505c62eccd41af9b804abd6dda1e",
+      "source_sha256": "287ef24750ff793a79730743b3a900d46808c03a4c2351f77670a824cbf7589b",
+      "dhash": "c9ca0eccd48ea830",
+      "width": 1000,
+      "height": 574,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-044.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ax_02.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 15786,
+      "sha256": "59afacde760166889ff556201464d810a4155af6d116a1a7b436c23fc18845cc",
+      "source_sha256": "b8cfcfec67c5b977efa1edbc67d3aeab2f5c5483242601f849f64484a6ffb037",
+      "dhash": "4793332367534d2c",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-045.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ax_05.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 12584,
+      "sha256": "fe83ec8fa8c45333cef2ad5b06d184e89f6d97c30ec2cfad614c6cce871d2f73",
+      "source_sha256": "78b5e009378069d0d5844189b43aff58613bb25f50c61b08e05fe40fb45ef573",
+      "dhash": "0b13972f7d194f08",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-046.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ax_04.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 14650,
+      "sha256": "5d46897b2ddb4cb9ad061183edad29285e6a7954a79d8bf3bfc42d3bd63b7ac1",
+      "source_sha256": "dca5df0254708d412c21cae3e9d940f2c07eaab3405858d5e6d3d0e6fb1516fb",
+      "dhash": "4f9333434b535f2c",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-047.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ax_03.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 14144,
+      "sha256": "173f881745c2bbc2f8f940eac3e9439159739b5c23a577b84186af31eb1d8ff7",
+      "source_sha256": "be15bfb6401f32564452d519663b6ff5b81ff5e5d14aa6a338e0054a0e5e1791",
+      "dhash": "607070e0c2d2c8f1",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-048.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/app_img_01.png?2026010809=",
+      "source_tag": "html-data, img:image",
+      "context": "予約が簡単・スムーズに</p>\n<p class=\"appArea_title\"><img alt=\"ニッポンレンタカーアプリ\" src=\"/rootImg/index/app_title.svg\"/></p>\n<div class=\"appArea_unit\">\n<figure class=\"appArea_image\">\n<img alt=\"\" src=\"/s/rootImg/index/app_img_01.png?2026010809\"/>\n</figure>\n<ul class=\"appArea_list\">\n<li class=\"appArea_item\">\n<a href=\"https://www.nipponrentacar.co.jp/app/store/a.h",
+      "content_type": "image/webp",
+      "bytes": 14330,
+      "sha256": "504b283af9e0e6c29cd0cce18a69dade70b9bd47058ef85a0dc78cb34ecec6c0",
+      "source_sha256": "cde8f9df3bc595c009ca0678d4ee553e3741da3677c3b6516269c80e1732976e",
+      "dhash": "33454d4d45535545",
+      "width": 320,
+      "height": 460,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-049.svg",
+      "source_url": "https://use.fontawesome.com/releases/v5.6.1/webfonts/fa-brands-400.svg",
+      "source_tag": "external-css",
+      "context": "webfonts/fa-brands-400.eot);src:url(../webfonts/fa-brands-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.woff) format(\"woff\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\"),url(../webfonts/fa-brands-400.svg#fontawesome) format(\"svg\")}.fab{font-family:\"Font Awesome 5 Brands\"}@font-face{font-family:\"Font Awesome 5",
+      "content_type": "image/svg+xml",
+      "bytes": 746208,
+      "sha256": "f6ae6226846422df4abf64b65814d3ccd3570af5e0350983fdb01fbc0dd055d6",
+      "source_sha256": "f6ae6226846422df4abf64b65814d3ccd3570af5e0350983fdb01fbc0dd055d6",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-050.svg",
+      "source_url": "https://use.fontawesome.com/releases/v5.6.1/webfonts/fa-regular-400.svg",
+      "source_tag": "external-css",
+      "context": "nts/fa-regular-400.eot);src:url(../webfonts/fa-regular-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.woff) format(\"woff\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\"),url(../webfonts/fa-regular-400.svg#fontawesome) format(\"svg\")}.far{font-weight:400}@font-face{font-family:\"Font Awesome 5 Free\";font-style:n",
+      "content_type": "image/svg+xml",
+      "bytes": 139825,
+      "sha256": "a849aa4ab8a20512c2e073ed66cf146c5615220c74da85c10909eb2c33d3317a",
+      "source_sha256": "a849aa4ab8a20512c2e073ed66cf146c5615220c74da85c10909eb2c33d3317a",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-051.svg",
+      "source_url": "https://use.fontawesome.com/releases/v5.6.1/webfonts/fa-solid-900.svg",
+      "source_tag": "external-css",
+      "context": "l(../webfonts/fa-solid-900.eot);src:url(../webfonts/fa-solid-900.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.woff) format(\"woff\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\"),url(../webfonts/fa-solid-900.svg#fontawesome) format(\"svg\")}.fa,.far,.fas{font-family:\"Font Awesome 5 Free\"}.fa,.fas{font-weight:900}",
+      "content_type": "image/svg+xml",
+      "bytes": 793607,
+      "sha256": "7ad9caabf64ee35d113612f7bb10e531fb17ab431a51e0b088e93f89e1915549",
+      "source_sha256": "7ad9caabf64ee35d113612f7bb10e531fb17ab431a51e0b088e93f89e1915549",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-052.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/app_bg.png",
+      "source_tag": "external-css",
+      "context": "wrap: wrap;\r\n  align-items: flex-start;\r\n  max-width: 1280px;\r\n  width: 100%;\r\n  margin: 0 auto;\r\n}\r\n.appArea .sectionBlock_inner:after{\r\n  position: absolute;\r\n  top: 0;\r\n  right: -52px;\r\n  content: \"\";\r\n  width: 540px;\r\n  height: 303px;\r\n  background-image: url('/rootImg/index/app_bg.png');\r\n  background-repeat: no-repeat;\r\n  z-index: -1;\r\n  \r\n}\r\n.appArea_image{\r\n  position: static;\r\n  width: 16",
+      "content_type": "image/webp",
+      "bytes": 19322,
+      "sha256": "bbeaa0f4e3a9cdfd996985504b5849d77596c4644bb2929cb0af8c69a259631b",
+      "source_sha256": "a5d735d4a9921f7f560c3d2b0b83e29e9e6679b3dd46a8e506daf353eb8fb59e",
+      "dhash": "b230b2b2b6869a68",
+      "width": 540,
+      "height": 303,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-053.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/reason_bg_02.jpg",
+      "source_tag": "external-css",
+      "context": " top: calc(50% - 5px);\n  right: 0px;\n  transform: rotate(45deg);\n  width: 6px;\n}\n\n.reasonArea :not(.boxLinkSet) > .boxLink {\n  display: block;\n  margin: 20px auto 0 auto;\n  width: 100%;\n}\n\n/*\n  Modifierãèª¬æãä¸ä¸1è¡é\n*/\n\n.msArea_box {\n  background: url(/s/rootImg/index/reason_bg_02.jpg) 0 0 no-repeat #cceaf1;\n  background-size: 100% auto;\n  margin-left: auto;\n  margin-right: auto;\n  pad",
+      "content_type": "image/webp",
+      "bytes": 43258,
+      "sha256": "a1a4d98fd4a207bf072957664e2299b33450978694b0a7e4121e4e3ec4fb311e",
+      "source_sha256": "d32e0970da6789e3ad020c2939bb1eed8b55ac8b706c396c336a8d2332d6e122",
+      "dhash": "5e7e7de4e7e5ba60",
+      "width": 750,
+      "height": 480,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-054.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/info/info_renew/pc1.png",
+      "source_tag": "html-data, img:image",
+      "context": "lass=\"tab_content\" id=\"tab1_content\">\n<div class=\"tab_content_description sp_none\">\n<ul>\n<li class=\"heading\">①車種クラス選択画面で「このクラスを選択」ボタンをクリック。</li>\n<li class=\"shadow\"><img alt=\"\" src=\"/rootImg/info/info_renew/pc1.png\"/></li>\n</ul>\n<ul>\n<li class=\"heading\">②利用したいプラン名の「選択」ボタンを押下すると、プランの予約に進みます。</li>\n<li class=\"shadow\"><img alt=\"\" src=\"/r",
+      "content_type": "image/webp",
+      "bytes": 21166,
+      "sha256": "d43b99a1a7a8f504862c23809e7c5d6d34b79f37949d5706bc839275bea07668",
+      "source_sha256": "04d8db52e90355d56b402607ef07d733c175b7683b5d65a33a8a3e9cd29312ee",
+      "dhash": "b6a8b093814e4a31",
+      "width": 838,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-055.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/tieupPoint.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"></button>\n</div><!-- modalBase_header -->\n<div class=\"modalBase_body\">\n<a href=\"javascript:void(0);\" onclick=\"javascript:get_set_Value_JumpToTieUp()\">\n<img alt=\"提携ポイントを連携する\" src=\"/rootImg/index/tieupPoint.png\">\n</img></a>\n</div>\n</div>\n</div><!-- modalBase_inner -->\n</div><!-- modalBase -->\n</div><!-- modal__content -->\n</div>\n",
+      "content_type": "image/webp",
+      "bytes": 29284,
+      "sha256": "f5023f2a67601a03153c10b4fca2b87ae0887faae4cb08bb485b26e388267d52",
+      "source_sha256": "16432c28a08862c9f90eebc04261428c3a7fadddf59a7965c4818da51537d08c",
+      "dhash": "1355375555630707",
+      "width": 600,
+      "height": 500,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-056.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/tieupPoint.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"></button>\n</div><!-- modalBase_header -->\n<div class=\"modalBase_body\">\n<a href=\"javascript:void(0);\" onclick=\"javascript:get_set_Value_JumpToTieUp()\">\n<img alt=\"提携ポイントを連携する\" src=\"/s/rootImg/index/tieupPoint.png\">\n</img></a>\n</div>\n</div><!-- modalBase_inner -->\n</div><!-- modalBase -->\n</div><!-- modal__content -->\n</div>\n</div>\n",
+      "content_type": "image/webp",
+      "bytes": 24704,
+      "sha256": "11509d3c464738261f7f44f3b87857b0aad2829affb44f5d9af46a00f51ce3f6",
+      "source_sha256": "5c1119cb32c31c850001afc9fd53a378c88556dff1886a9e116ec7cd4207ffff",
+      "dhash": "93555d555561070f",
+      "width": 500,
+      "height": 500,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-057.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/nb_01.png",
+      "source_tag": "img:image",
+      "context": "img div carClass-image div carClass_info section section-carClass-2 section-carClass div ancTab syasyuTab js-tab main carPrice_new",
+      "content_type": "image/webp",
+      "bytes": 14726,
+      "sha256": "29a171876eff9635845d63236e6859cf027cab06a918459c32bde24dd687bcca",
+      "source_sha256": "031bc0eadad9929ea1e783af77c0f55af6bdcff89d294ab419a7a37521719baa",
+      "dhash": "8c162719118b0704",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-058.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/nc_01.png",
+      "source_tag": "img:image",
+      "context": "img div carClass-image div carClass_info section section-carClass-3 section-carClass div ancTab syasyuTab js-tab main carPrice_new",
+      "content_type": "image/webp",
+      "bytes": 19372,
+      "sha256": "d03bae973870777ab333ccde98a386f5ff96e9758df11a29b5af9f933407463b",
+      "source_sha256": "3a63d6ba57bb0c9993ce139430ee70895ed0309286c8045390bd1212d3cd37a4",
+      "dhash": "60e090ac98717969",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-059.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ne_01.png",
+      "source_tag": "img:image",
+      "context": "img div carClass-image div carClass_info section section-carClass-4 section-carClass div ancTab syasyuTab js-tab main carPrice_new",
+      "content_type": "image/webp",
+      "bytes": 14564,
+      "sha256": "d59333481a83c741ea8a557238dc37be76fd975916637f376936f7c8a3b4508a",
+      "source_sha256": "5ead95f84a1c49538750b0f56494b2938a130129fa43650bdc847887c8708156",
+      "dhash": "8e70f0ac88da7233",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-060.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/nf_01.png",
+      "source_tag": "img:image",
+      "context": "img div carClass-image div carClass_info section section-carClass-5 section-carClass div ancTab syasyuTab js-tab main carPrice_new",
+      "content_type": "image/webp",
+      "bytes": 12642,
+      "sha256": "255fb300b4fe2d0747237b4885331447cbd7c8db91204dede93a811ffc262129",
+      "source_sha256": "4772137991e9ca30c36ac26afdaff5d7514a44113b748f2bc9132d8df4e9b61c",
+      "dhash": "3070a4ac986d6928",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-061.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/nh_01.png",
+      "source_tag": "img:image",
+      "context": "img div carClass-image div carClass_info section section-carClass-6 section-carClass div ancTab syasyuTab js-tab main carPrice_new",
+      "content_type": "image/webp",
+      "bytes": 19258,
+      "sha256": "2a02215e0bb7f679fcc3281558958485950a0b8439d2acbb1a6084371df3445d",
+      "source_sha256": "eee8d5b0b0edf885471faa9924e154b84b4729e4c58e89d7ac512b7196631283",
+      "dhash": "479b1933096e7605",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-062.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_33.webp",
+      "source_tag": "html-data, img:image",
+      "context": "にｄポイントをプレゼント！</p>\r\n                  </a>\r\n                </li>\r\n-->\n<li class=\"columnComp_box\">\n<a class=\"campaignListBox_item\" href=\"/app/chotoku/\">\n<h3>\n<img alt=\"超得ワンウェイ\" src=\"/rootImg/index/campaignArea_img_33.webp\"/>\n</h3>\n<!--<p class=\"campaignListBox_desc\">レンタカーは早めの予約が断然お得！45日前で最大40％OFFから14日前でも20%OFF！</p>-->\n</a>\n</li>\n<li class=\"",
+      "content_type": "image/webp",
+      "bytes": 55016,
+      "sha256": "9246be8dd5af35d6e18445b1d3c79372eae58fbc018ec4a888fac9cc24e703ad",
+      "source_sha256": "cdee732d327b49df8193264ce8309645a6d224d49ce6089491e14536c913aebc",
+      "dhash": "6269678fd9632121",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-063.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/info/info_renew/pc2.png",
+      "source_tag": "html-data, img:image",
+      "context": "ass=\"shadow\"><img alt=\"\" src=\"/rootImg/info/info_renew/pc1.png\"/></li>\n</ul>\n<ul>\n<li class=\"heading\">②利用したいプラン名の「選択」ボタンを押下すると、プランの予約に進みます。</li>\n<li class=\"shadow\"><img alt=\"\" src=\"/rootImg/info/info_renew/pc2.png\"/></li>\n</ul>\n</div>\n</div>\n<div class=\"tab_content\" id=\"tab2_content\">\n<div class=\"tab_content_description pc_none\">\n<u",
+      "content_type": "image/webp",
+      "bytes": 22530,
+      "sha256": "4eb509ae74811dcf93b82a915e9f94cf7baddd55a7b81a2586b212eac109712f",
+      "source_sha256": "35bb8dd26f5d2d80bd4b555355a62949c743a80952b7ee45ffa30e139f7bc753",
+      "dhash": "498a86ad8d8d2c0f",
+      "width": 854,
+      "height": 352,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/app/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-064.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_smhtouch.png",
+      "source_tag": "html-data, img:image",
+      "context": "を山分けプレゼント！</p>\r\n                  </a>\r\n                </li>\r\n-->\n<li class=\"columnComp_box\">\n<a class=\"campaignListBox_item\" href=\"/guide/reception/\">\n<h3>\n<img alt=\"スマホタッチ\" src=\"/rootImg/index/campaignArea_img_smhtouch.png\"/>\n</h3>\n<!--<p class=\"campaignListBox_desc\">一部店舗限定で当日のカウンター手続きを省略できるセルフサービスを実施中！</p>-->\n</a>\n</li>\n<!--\r\n              ",
+      "content_type": "image/webp",
+      "bytes": 40572,
+      "sha256": "1e1907dcb274e661063c92d9b4eeb6ed60fe798f85d8e94028eeb38e9938ec8f",
+      "source_sha256": "7e63f45fa3bdc73e55f082c512b44d2793f44c75d8b9b3a98d5b09921dd38e8f",
+      "dhash": "d28684b669b62aaa",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-065.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/searchForArea_salesOffice_img_01.webp?2024040515=",
+      "source_tag": "html-data, img:image",
+      "context": "Comp-type01\">\n<div class=\"columnComp_box\">\n<h2 class=\"headingBlock-styleType01\">営業所検索（店舗情報）</h2>\n<div class=\"searchForArea_box searchForArea_box-salesOffice\">\n<img alt=\"営業所一覧\" src=\"/rootImg/index/searchForArea_salesOffice_img_01.webp?2024040515\" usemap=\"#searchForAreaMap\"/>\n<p style=\"cursor: pointer;\">\n<map name=\"searchForAreaMap\">\n<area coords=\"292,4,261,157,301",
+      "content_type": "image/webp",
+      "bytes": 10450,
+      "sha256": "566845503cb563e9860cea60c7560a0ac120ccb55c2e95ac069f7b775e33bec5",
+      "source_sha256": "907fe051f901a5fbb1bb344cc2be6ca46a367471dab388d02ed1fb3dffd0020a",
+      "dhash": "0101130303476fad",
+      "width": 426,
+      "height": 320,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-066.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_16.jpg?2022022211=",
+      "source_tag": "html-data",
+      "context": "rea\" style=\"display: block;\">\n<div class=\"slideArea slider\">\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/cp2203_web.html\" tabindex=\"0\"><img src=\"/rootImg/index/slide_img_16.jpg?2022022211\" alt=\"ニッポンレンタカーアプリ１周年記念キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--              <div class=\"slideArea_item\">\r\n         ",
+      "content_type": "image/webp",
+      "bytes": 60302,
+      "sha256": "597bcf8b0dab6c5ee2c4598d82a7bf8ba98a543181cf5f892d2406ec1bb8005f",
+      "source_sha256": "f61458c3072f036c7281ab2edeeea39715ec2f5343c81359b790fd7625eb516b",
+      "dhash": "4967a0844504c4c5",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-067.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_15.jpg?2021100710=",
+      "source_tag": "html-data",
+      "context": "1\" alt=\"ニッポンレンタカーアプリ１周年記念キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--              <div class=\"slideArea_item\">\r\n                <a href=\"/app/coupon/mop01/\" tabindex=\"0\"><img src=\"/rootImg/index/slide_img_15.jpg?2021100710\" alt=\"ニッポンレンタカーアプリでクーポン配信はじめました\"></a>\r\n              </div>\r\n\r\n              <div class=\"slideArea_item\">\r\n             ",
+      "content_type": "image/webp",
+      "bytes": 136644,
+      "sha256": "ff1c181bbd3acd09d791edd60a2a7c7671374d2eae0393e4eeb0f77a5bff8e11",
+      "source_sha256": "a89ea74c7c9e66e827693bcf98063219181f18e87d43c64953a6194efdc5aeb0",
+      "dhash": "da5b5164c3c742ae",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-068.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_app.jpg?2021082510=",
+      "source_tag": "html-data",
+      "context": "g?2021100710\" alt=\"ニッポンレンタカーアプリでクーポン配信はじめました\"></a>\r\n              </div>\r\n\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/nrapp/\" tabindex=\"0\"><img src=\"/rootImg/index/slide_img_app.jpg?2021082510\" alt=\"レンタカーをスムーズに予約できる「ニッポンレンタカーアプリ」が新登場\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item",
+      "content_type": "image/webp",
+      "bytes": 52678,
+      "sha256": "b9f51a7d309ec608fc2cfff5b09e644705e9ff48854f6cc1aeca80aa34e8e07b",
+      "source_sha256": "f380950d7eb9a8a8ed9c6a85897141b700053c09cdd26ee3c91418e0b94849c9",
+      "dhash": "45678da404c4f797",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-069.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_20.png?2024082615=",
+      "source_tag": "html-data",
+      "context": "2024012413\" alt=\"55周年キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/cp2409_web.html\" tabindex=\"0\"><img src=\"/rootImg/index/slide_img_20.png?2024082615\" alt=\"Amazonギフトカード\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a",
+      "content_type": "image/webp",
+      "bytes": 74332,
+      "sha256": "f10b9c05870da6ee9dbc3277532563f0f8f234505afd0d2c296349e5c95ef902",
+      "source_sha256": "30cb691da4337aef661d4b2cf286efd7ee65cee11e6e8785699eaae4f1655c8c",
+      "dhash": "9c109c5c5cdda200",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-070.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_21.webp",
+      "source_tag": "html-data",
+      "context": "24082615\" alt=\"Amazonギフトカード\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/cp2411_web.html\" tabindex=\"0\"><img src=\"/rootImg/index/slide_img_21.webp\" alt=\"楽天ポイントキャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a",
+      "content_type": "image/webp",
+      "bytes": 70808,
+      "sha256": "7dea7323d05255a032be84d304ca51d43c784122c9885919885330e1048f142a",
+      "source_sha256": "5fe610f84c8b206f5ec08c13318c519c92c85b2186cb8a53ee2467a77404caec",
+      "dhash": "9c12dc5c5ccda200",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-071.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/PC_appcoupon.png?2022110811=",
+      "source_tag": "html-data",
+      "context": "bp?2022110909\" alt=\"御礼記念Go!Go!Go!キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n          <div class=\"slideArea_item\">\r\n                <a href=\"/app/coupon/\" tabindex=\"0\"><img src=\"/rootImg/index/PC_appcoupon.png?2022110811\" alt=\"アプリクーポン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/service/\" tabindex=\"0\"><img alt=\"便",
+      "content_type": "image/webp",
+      "bytes": 79632,
+      "sha256": "60a3d48e27813747b357d3e17a6805f886730b20e32ad70d456f57384fe28e5d",
+      "source_sha256": "24947cdc70fbf53f66a29f685a6d0bd7e19d7898f133c59f50a472da9801accd",
+      "dhash": "b29a989a9a9a9282",
+      "width": 1280,
+      "height": 510,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-072.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_31.webp",
+      "source_tag": "html-data",
+      "context": "              <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/app/cp2411_web.html\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_31.webp\" alt=\"楽天ポイントキャンペーン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">アプリからエントリーするだけ！抽選で楽",
+      "content_type": "image/webp",
+      "bytes": 62360,
+      "sha256": "8e6e22e6b524707bcbeb107ab8661abcb947f9f7bae5942863cc8e6d5cf31f47",
+      "source_sha256": "a2ebaa24b10ae9f9b6d639ebed60b7a4af8fb7f01f08efb5ba58025033f1d290",
+      "dhash": "eab4f869b2f1151d",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-073.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/campaignArea_img_self.webp?2023071815=",
+      "source_tag": "html-data",
+      "context": ">\n<!--\r\n                <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/app/self/\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/campaignArea_img_self.webp?2023071815\" alt=\"セルフレンタカー\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">【メンバーズクラブ会員限定】<br>アプリ専用",
+      "content_type": "image/webp",
+      "bytes": 36086,
+      "sha256": "eab4333893804149b994cc0dbc36ce8eb2db68aecb42abe7138486de2c9ed20d",
+      "source_sha256": "60a38364b50dd9111605c018b168bf48204ab450a99a6ee91d6db08669424191",
+      "dhash": "69c8a1e0e0e8d41b",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-074.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/info_img_22.webp",
+      "source_tag": "html-data",
+      "context": "<!--\r\n                <li class=\"columnComp_box\">\r\n                  <a class=\"campaignListBox_item\" href=\"/app/coupon/\">\r\n                    <h3>\r\n                      <img src=\"/rootImg/index/info_img_22.webp\" alt=\"アプリクーポン\">\r\n                    </h3>\r\n                    <p class=\"campaignListBox_desc\">レンタカー利用中に使える！「ニッポンレンタカーア",
+      "content_type": "image/webp",
+      "bytes": 57416,
+      "sha256": "2c8b35422fb06c38b241279cef8be0e44b74bc3753cddcba6f8564e52c29a7a7",
+      "source_sha256": "c181584f6978c574c17c64c7a14f90ce8f61b5746db772d778f76c37bd4edec2",
+      "dhash": "b6dcd8d4928a8c84",
+      "width": 670,
+      "height": 502,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-075.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_16.jpg?2022022211=",
+      "source_tag": "html-data",
+      "context": "ea\" style=\"display: block;\">\n<div class=\"slideArea slider\">\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/cp2203_web.html\" tabindex=\"-1\"><img src=\"/s/rootImg/index/slide_img_16.jpg?2022022211\" alt=\"ニッポンレンタカーアプリ１周年記念キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--              <div class=\"slideArea_item\">\r\n         ",
+      "content_type": "image/webp",
+      "bytes": 54238,
+      "sha256": "d9cb70d2cbc8544972e217b2b372e585c7c73313c72c9797fb79de1455fc42d9",
+      "source_sha256": "69bebbdbed1a7667d3146acd156a35d71da55734d5e9d4a51fdf075a2328ed2b",
+      "dhash": "03bd85b53335192b",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-076.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_15.jpg?2021100710=",
+      "source_tag": "html-data",
+      "context": "\" alt=\"ニッポンレンタカーアプリ１周年記念キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--              <div class=\"slideArea_item\">\r\n                <a href=\"/app/coupon/mop01/\" tabindex=\"-1\"><img src=\"/s/rootImg/index/slide_img_15.jpg?2021100710\" alt=\"ニッポンレンタカーアプリでクーポン配信はじめました\"></a>\r\n              </div>\r\n\r\n              <div class=\"slideArea_item\">\r\n             ",
+      "content_type": "image/webp",
+      "bytes": 62580,
+      "sha256": "cb6b0772a2af3b95286cda34ee75928503dbbb6665a84eb42dc99142c133405d",
+      "source_sha256": "7ee8753fd2dbe0fae4cdd2ab9fa9033aee8426a0ce5ddecbd90508cefd6451a4",
+      "dhash": "8e262461472e078f",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-077.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_app.jpg?2021082510=",
+      "source_tag": "html-data",
+      "context": "?2021100710\" alt=\"ニッポンレンタカーアプリでクーポン配信はじめました\"></a>\r\n              </div>\r\n\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/nrapp/\" tabindex=\"-1\"><img src=\"/s/rootImg/index/slide_img_app.jpg?2021082510\" alt=\"レンタカーをスムーズに予約できる「ニッポンレンタカーアプリ」が新登場\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item",
+      "content_type": "image/webp",
+      "bytes": 40114,
+      "sha256": "e6760fbb6283a18ba0b70f87fb8738d7f373587b76c9b75c5a106ee50231395b",
+      "source_sha256": "89cb58a3876c562cc54b965f76bfb1daffe258885a26c95668268672e2f30499",
+      "dhash": "8262220b938a9b8b",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-078.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_20.png?2024082816=",
+      "source_tag": "html-data",
+      "context": "_img_19.webp?2024012413\" alt=\"55周年キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/cp2409_web.html\"><img src=\"/s/rootImg/index/slide_img_20.png?2024082816\" alt=\"Amazonギフトカード\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a",
+      "content_type": "image/webp",
+      "bytes": 63718,
+      "sha256": "45dc106b0386be58ab2bbd6c2045dbc9b81dd9b2a0d707c64d158418177f29fd",
+      "source_sha256": "b56924ea223336f3e04331c92c34c33c3aca799c113e01398c2b1b5cb8623ac7",
+      "dhash": "f2e0a8e8f2f35d4d",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-079.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/slide_img_21.webp",
+      "source_tag": "html-data",
+      "context": "img_20.png?2024082816\" alt=\"Amazonギフトカード\"></a>\r\n              </div>\r\n-->\n<!--\r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/cp2411_web.html\"><img src=\"/s/rootImg/index/slide_img_21.webp\" alt=\"楽天ポイントキャンペーン\"></a>\r\n              </div>\r\n-->\n<!--\r\n               <div class=\"slideArea_item\">\r\n                <",
+      "content_type": "image/webp",
+      "bytes": 59060,
+      "sha256": "997db189af57afdac25e1f6034de33279f0548e6f6d1b6541266e2e45e0a08c5",
+      "source_sha256": "bfc6a4f0c9a7b650f2643049669eb7020e556caac2284a1502d7b0b3185c182a",
+      "dhash": "f884b2f2f2f35d5d",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-080.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/s/rootImg/index/SP_appcoupon.webp?2022111409=",
+      "source_tag": "html-data",
+      "context": "22111409\" alt=\"御礼記念Go!Go!Go!キャンペーン\"></a>\r\n              </div>\r\n-->\n<!--              \r\n              <div class=\"slideArea_item\">\r\n                <a href=\"/app/coupon/\"><img src=\"/s/rootImg/index/SP_appcoupon.webp?2022111409\" alt=\"アプリクーポン\"></a>\r\n              </div>\r\n-->\n<div class=\"slideArea_item\">\n<a href=\"/service/\"><img alt=\"便利なサービス\" src=\"",
+      "content_type": "image/webp",
+      "bytes": 50762,
+      "sha256": "ca6b55881fe7457fd1713509e57db4aa1b02c42f2d091202291b49532614e5b0",
+      "source_sha256": "172d3692042281ee03e641432c114f6b2e0aced55dca36cbc86daab38354e9cc",
+      "dhash": "a2ccdcd4c4d48c8c",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-081.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/cmn/img/img_nyukai01.png?2020080715=",
+      "source_tag": "img:image",
+      "context": "img \r\n\t\t\t\t\t\t入会無料 年会費無料 新規入会で初回のレンタカー利用が最大20%割引 figure div modal-nyukai div modalBase_body div modalBase_inner div modalBase modalBase-typeNyukai",
+      "content_type": "image/webp",
+      "bytes": 27882,
+      "sha256": "44d72010ee9e1c34c4e8a1dfde864cbc5088837d3d7f8ece010408abe6e3431b",
+      "source_sha256": "0e1651db530ad875f1c0ce6a227612ed35c10c4a123c0071d15e89be2eb75b23",
+      "dhash": "95f353cd9b190bf6",
+      "width": 784,
+      "height": 274,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-082.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ay_01.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType hide_if_global",
+      "content_type": "image/webp",
+      "bytes": 12420,
+      "sha256": "3e4a1bd3b8a13a2d6d27c2d720f70da92bea3652562513aaf65324d6a661a8b6",
+      "source_sha256": "e35ae4e146ca47564cafe54c3ef3d4c5c65a3250eba428574a22c7d656f006ac",
+      "dhash": "0797392b4b535f2c",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-083.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/cx_02.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 20760,
+      "sha256": "fbfa7e07b282ce2b6c8916fc2a2c63fff8000b957b696a9f1c6f0b86e9ca7bf1",
+      "source_sha256": "94f8cfed178773c9ecada2b6bcb5820c8f69c6e5141dc54b1e056f7aae3abab6",
+      "dhash": "4b1931434b62c44c",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-084.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/cx_01.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 17980,
+      "sha256": "0a077b203770c4118132681d1e93d7f261be97dd902033c898d4aa4587bb8f83",
+      "source_sha256": "db4fe8e7fe1fe764e5da18b6780bec935b97db60ed92f8429be553b807138720",
+      "dhash": "4f13316db32a080b",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-085.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ch_01.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 14486,
+      "sha256": "b1d9e3c8b8517c28f2c2f81dbc014d8be8596ea509d52bdf46426a0ae5b15b54",
+      "source_sha256": "da730aca0a4d3fce51df0229e1b45be5291d474145ce76b31faadd353682ffc1",
+      "dhash": "4793314dcb5b8624",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-086.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ch_02.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 15414,
+      "sha256": "621d9c700ebe0d5557f0f5c3e39477a3114ba41d57623369464c43723e5585d7",
+      "source_sha256": "f5eb088323ca284b647eafc6b18e1aa31bb2f0e62d3e942bf992fc81a33e2bcb",
+      "dhash": "428d1d5123a71c00",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-087.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ch_03.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 14716,
+      "sha256": "5328be71641eb608a5e93118ced4908ff8fe8dad38f5801f1b9b22c789b52030",
+      "source_sha256": "5fed72a5466f1021f7fe416aca9d214884465569663864701999680814653ff3",
+      "dhash": "4f9f316563330e0c",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-088.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/cz_01.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 17018,
+      "sha256": "16d6359b366ee1f4bcedc80de904088475eb0a0c784fa6acaf8e92c3f88a05b6",
+      "source_sha256": "d259554fcce1f05e63463f07909ee3ffa457a228d5a191fc0ad0f77f7d7c19f2",
+      "dhash": "4087152913939708",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-089.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/cz_02.png",
+      "source_tag": "img:image",
+      "context": "img image li ul carType_image div detail_inner div detail_outer div carType_detail",
+      "content_type": "image/webp",
+      "bytes": 14804,
+      "sha256": "aaf7310c0bb9574b4b8dd3571e3f3656465790896b3cf1d0e62c8404b85cf5f7",
+      "source_sha256": "2a191a3f4a3c0fc31dfa7a5b57a20ab82e81770c282a8b0459a92058a3bc5f5d",
+      "dhash": "468f1937745b4e28",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-090.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/ee_01.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType hide_if_global",
+      "content_type": "image/webp",
+      "bytes": 16024,
+      "sha256": "e8a88d217ec9bbb11a34f05c0364bd7cea5fe4217f894cd3f05009e5449bf0ef",
+      "source_sha256": "04223ed9570f95a7d541753282f9d5239ab0f1133d92abbfc68526b15e1a2875",
+      "dhash": "4f9b395b5c565604",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-091.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/fl_01.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 15090,
+      "sha256": "d4a4f9c9719173adad46c7ef856e67677105a0cb8e07f566acbd1621b69f0fdd",
+      "source_sha256": "adc3fdd2a71fd25010224bc7afc346d5df71f9f6641982babc51099e58b68c95",
+      "dhash": "204f1d0937371d42",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-092.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/fl_02.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 15572,
+      "sha256": "48f2792e49e9960feac1b8a2c525a0896e4c9068641c744e63034a41049bc773",
+      "source_sha256": "c9c389e5379ed6a592bd85b9ddd983257265901d86334b1fb2f4316acf66491e",
+      "dhash": "228b1939ac495d10",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-093.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/fs_01.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 15226,
+      "sha256": "3da098b484f76c7c9297c14715cbce10d3278ca75b8e808250e8b1b5a9d4de03",
+      "source_sha256": "e4def58a36d0d61a9569d44437e627c9b6cebe66500d23458fcef0e3571465c3",
+      "dhash": "40bc788ab2b2b2e4",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-094.webp",
+      "source_url": "https://www.nipponrentacar.co.jp/car_price/img/car/fh_01.png",
+      "source_tag": "img:image",
+      "context": "img image li swiper-slide ul swiper-wrapper div swiper div inner-2 div block-carType",
+      "content_type": "image/webp",
+      "bytes": 12708,
+      "sha256": "7b411ce5c652d0944842dcfa7d320eb871ca354bd5a734bb27cd39349e9b9150",
+      "source_sha256": "5028a801b4dfba0102827cd0ff4a8d07f8005ba11de368064f5da45b6ed61332",
+      "dhash": "66871535495b0e04",
+      "width": 524,
+      "height": 294,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.nipponrentacar.co.jp/car_price/joyo.html"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/nippon-rent-a-car/og.gif",
       "source_url": "https://www.nipponrentacar.co.jp/share/img/nrc_logo_og.gif",
@@ -28,90 +2600,6 @@
       "sha256": "b4a0694e8c2a94c24d49ed4aba907c8295361351564bf1b5ff48d567a98560ad",
       "width": 1200,
       "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-1.svg",
-      "source_url": "https://www.nipponrentacar.co.jp/cmn/img/nrc_logo_01.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img レンタカーならニッポンレンタカー a h1 base-header-site-logo div base-heder-desktop header mainHeader",
-      "content_type": "image/svg+xml",
-      "bytes": 21384,
-      "sha256": "8b875c11642e28db63b9c3855855d286c94024dac2887b1d1920b891c084a7ee",
-      "width": 462,
-      "height": 158
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/nippon-rent-a-car/logo-2.png",
-      "source_url": "https://www.nipponrentacar.co.jp/cmn/img/nrc_logo_02.png?2020080715",
-      "source_tag": "img:semantic-logo",
-      "context": "img レンタカーならニッポンレンタカー p div mainFooter_logoBelt footer div mainFooter",
-      "content_type": "image/png",
-      "bytes": 2979,
-      "sha256": "e84fa3726e1ae27b28dd4e66e580f23bf1683d5fcdabe4f9145f56bc9a52addd",
-      "width": 137,
-      "height": 37
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-1.webp",
-      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/shunen_cp.webp?2024110714",
-      "source_tag": "img:semantic-banner",
-      "context": "img 周年キャンペーン h3 a campaignListBox_item li columnComp_box ul new_banner",
-      "content_type": "image/webp",
-      "bytes": 45156,
-      "sha256": "f5f000fe7312984a063b5f7dbcc8c3758ea214db516a0495154eff5d88b97e7e",
-      "width": 670,
-      "height": 370
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/nippon-rent-a-car/banner-2.webp",
-      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/renewal_cp.webp?2024110714",
-      "source_tag": "img:semantic-banner",
-      "context": "img リニューアルキャンペーン h3 a campaignListBox_item li columnComp_box ul new_banner",
-      "content_type": "image/webp",
-      "bytes": 41652,
-      "sha256": "267ed77e821a7751541bf9fbdd2ddc41259014a5ecb5c250cc806e26a9fe6dcb",
-      "width": 670,
-      "height": 370
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-1.webp",
-      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_25.webp",
-      "source_tag": "img:page-image",
-      "context": "img 新CM a div slideArea_item div slideArea slider div appealArea slideArea-NormalAndSRM mypageNonMemberArea",
-      "content_type": "image/webp",
-      "bytes": 28036,
-      "sha256": "fb839f52d548ca5885f4be5f883b101c3a5c0016708a2394ec434eeb6f33b84d",
-      "width": 1280,
-      "height": 510
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-2.webp",
-      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_24.webp",
-      "source_tag": "img:page-image",
-      "context": "img 車種クラス構成変更 a div slideArea_item div slideArea slider div appealArea slideArea-NormalAndSRM mypageNonMemberArea",
-      "content_type": "image/webp",
-      "bytes": 60744,
-      "sha256": "aa043d7ad66a1c808ecd23d2bbbb451694a0433dfb1f009653ac3e826b89f818",
-      "width": 1280,
-      "height": 510
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/nippon-rent-a-car/reference-3.webp",
-      "source_url": "https://www.nipponrentacar.co.jp/rootImg/index/slide_img_13.webp?2026033009",
-      "source_tag": "img:page-image",
-      "context": "img ニッポンレンタカーメンバーズクラブ a div slideArea_item div slideArea slider div appealArea slideArea-NormalAndSRM mypageNonMemberArea",
-      "content_type": "image/webp",
-      "bytes": 28534,
-      "sha256": "6f1271a4b81c560b49b3142b861ac8646e35c5d62259901db2b714b175793c9d",
-      "width": 1280,
-      "height": 510
     }
   ]
 }

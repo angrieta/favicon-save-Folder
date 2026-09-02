@@ -4,8 +4,19 @@
   "requested_url": "https://www.greencar.co.kr/",
   "page_url": "https://www.greencar.co.kr/",
   "page_title": "(주)그린카(Greencar) 공식사이트",
-  "collection_status": "partial",
-  "collection_error": "reference:ValueError:https://www.greencar.co.kr/images/main/section-01-01.mp4; reference:ValueError:https://www.greencar.co.kr/images/main/section-01-02.mp4; reference:ValueError:https://www.greencar.co.kr/images/main/section-01-03.mp4; reference:ValueError:https://www.greencar.co.kr/images/main/section-01-04.mp4",
+  "collection_status": "complete",
+  "collection_error": "asset:https://www.greencar.co.kr/image/sk_ai_logo.png:HTTPError; asset:http://www.greencar.co.kr/images/og-Greencar.png:ConnectTimeout; asset:https://www.greencar.co.kr/images/icons/icon-check-round-blue.svg:HTTPError; asset:https://www.greencar.co.kr/assets/images/logo.png:HTTPError; asset:https://www.greencar.co.kr/images/@temp/main-popup-mo.jpg:HTTPError; asset:https://www.greencar.co.kr/images/@temp/main-popup-pc.jpg:HTTPError; asset:https://www.greencar.co.kr/images/@temp/thumbnail_345x460.jpg:HTTPError; asset:https://www.greencar.co.kr/js/sample.png:HTTPError; asset:https://pentabreed.s3.ap-northeast-2.amazonaws.com/upload/ghp/thumbnailImage/2025/12/23/46dfb596-3be0-48c6-9ba4-475b4bec20f7.jpg:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 15,
+    "desktop_pages": 15,
+    "mobile_pages": 15,
+    "stylesheets": 2,
+    "scripts": 21,
+    "candidates": 211,
+    "attempted_assets": 211,
+    "errors": 9,
+    "collected_at": "2026-09-03T08:08:03.074842+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,1496 @@
       "height": 48
     },
     {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-001.png",
+      "source_url": "https://www.greencar.co.kr/images/service/g-car/banner-logo.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "ascript:void(0);\" onclick=\"fnQRAppInstall(openCommonPop, 'modalQRCommonGcar');\">\n<span class=\"btn-text\">앱 다운로드</span>\n</a>\n</div>\n<div class=\"banner-body\">\n<img alt=\"g-car 로고\" src=\"/images/service/g-car/banner-logo.png\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"section module-a style-a\">\n<div class=\"section-wrap\" dat",
+      "content_type": "image/png",
+      "bytes": 5982,
+      "sha256": "dda35a13b5d06fca09d81f1b89d632117c5196a8ee2ad26c2db4ff15e573cd64",
+      "source_sha256": "27de463204331fd68715fd6228c0b3dfd23adbda8caa20a45b41cf99d3932ddc",
+      "dhash": "000004163f000000",
+      "width": 588,
+      "height": 240,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/service/gcar"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-002.png",
+      "source_url": "https://www.greencar.co.kr/images/service/movus/banner-logo.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "script:void(0);\" onclick=\"fnQRAppInstall(openCommonPop, 'modalQRCommonMovus');\">\n<span class=\"btn-text\">앱 다운로드</span>\n</a>\n</div>\n<div class=\"banner-body\">\n<img alt=\"movus 로고\" src=\"/images/service/movus/banner-logo.png\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"section module-a style-a\">\n<div class=\"section-wrap\" dat",
+      "content_type": "image/png",
+      "bytes": 5556,
+      "sha256": "a4430719ad31699f79e4ef97aac79d9e78be0412a9c9b9c0c094347b0472299c",
+      "source_sha256": "e3d35dbf42d38eb22f195d8262fc74b0fac798d6515b0477cb942e046825a908",
+      "dhash": "000018969e080000",
+      "width": 588,
+      "height": 240,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/service/movus"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-003.png",
+      "source_url": "https://www.greencar.co.kr/images/service/clingwash/banner-logo.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "ipt:void(0);\" onclick=\"fnQRAppInstall(openCommonPop, 'modalQRCommonClingWash');\">\n<span class=\"btn-text\">앱 다운로드</span>\n</a>\n</div>\n<div class=\"banner-body\">\n<img alt=\"세차클링 로고\" src=\"/images/service/clingwash/banner-logo.png\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"section module-a style-a\">\n<div class=\"section-wrap\" dat",
+      "content_type": "image/png",
+      "bytes": 4090,
+      "sha256": "05719a94dac6e9578b33cb28cd0340d30f8e7d40867567e67e473de7a611f6d6",
+      "source_sha256": "1c0508bf567d77a4a7c6af2b38c905a5c052d188448e739ccec16c6c3c12af1f",
+      "dhash": "0400060616060004",
+      "width": 588,
+      "height": 240,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/service/clingwash"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-001.webp",
+      "source_url": "https://www.greencar.co.kr/images/service/g-car/banner-01-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "ll(openCommonPop, 'modalQRCommonGcar');\">\n<span class=\"btn-text\">앱 다운로드</span>\n</a>\n</div>\n</div>\n</div>\n<picture class=\"banner-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/service/g-car/banner-01-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/service/g-car/banner-01-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/i",
+      "content_type": "image/webp",
+      "bytes": 124770,
+      "sha256": "73013d552e3c22afeeac95e18b8dece3b5ed87838ab77b13ad2004ff0ca38b7c",
+      "source_sha256": "a263c34a6ed89317eb274021009b41b6ee86d61c7f567ecbe394e62243c07952",
+      "dhash": "0208010c13252523",
+      "width": 780,
+      "height": 1080,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/service/gcar"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-002.webp",
+      "source_url": "https://www.greencar.co.kr/images/service/g-car/banner-01-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": "div>\n</div>\n</div>\n<picture class=\"banner-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/service/g-car/banner-01-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/service/g-car/banner-01-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/images/service/g-car/banner-01-pc.jpg\"/>\n</picture>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+      "content_type": "image/webp",
+      "bytes": 83308,
+      "sha256": "646d0d96d395e14fe7e0ba01dda30e42304358925e1eb1a52c767bf09425b57c",
+      "source_sha256": "597c0dc452259661df3ad0596f333bf459a1280ca1a8e3518e5adf45d3ae7256",
+      "dhash": "0609131313131309",
+      "width": 1440,
+      "height": 480,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/service/gcar"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-004.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/banner-01-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image, source:logo",
+      "context": "ntal_Service_BI_Guidelines_G_car_0809.pdf\">\n<span class=\"btn-text\">다운로드</span>\n</a>\n</div>\n</div>\n</div>\n<picture class=\"banner-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/ci/banner-01-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/ci/banner-01-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/ima",
+      "content_type": "image/webp",
+      "bytes": 150902,
+      "sha256": "29d49d4527c633e1f5afdc88f731eb632adf86ca8f3b0cd64b546029af957969",
+      "source_sha256": "476f2681167d69c290f4d66baf60ee30dde6d227c3d61378b02851cd68661d42",
+      "dhash": "4c6d6e2a94200000",
+      "width": 700,
+      "height": 1000,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-005.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/banner-01-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image, img:logo, source:banner, source:image, source:logo",
+      "context": "</div>\n</div>\n</div>\n<picture class=\"banner-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/ci/banner-01-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/ci/banner-01-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/images/greencar/ci/banner-01-pc.jpg\"/>\n</picture>\n</div>\n</div>\n</div>\n</div>\n</div>\n</",
+      "content_type": "image/webp",
+      "bytes": 102036,
+      "sha256": "38bf3dd4a3b1305221858bfba3663e5ef5d89183eb7c1b8d41ceda608028a4c4",
+      "source_sha256": "b03b49fa578839ee8fa58fca42f56b22764fa8bfa898c2a43c340de06a88ad4e",
+      "dhash": "0262626260607020",
+      "width": 1440,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-006.svg",
+      "source_url": "https://www.greencar.co.kr/images/common/page-foot-logo-ismsp.svg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "r-util\">\n<div class=\"data-list\">\n<div class=\"data-item\">\n<a class=\"btn isms\" href=\"javascript:void(0);\" onclick=\"openCommonPop('modalIsms');\">\n<img alt=\"정보보호 및 개인정보보호 관리체계 인증\" src=\"/images/common/page-foot-logo-ismsp.svg\"/>\n</a>\n</div>\n<div class=\"data-item\">\n<img alt=\"인천광역시\" src=\"/images/common/page-foot-logo-incheon.svg\"/>\n</div>\n</div>\n",
+      "content_type": "image/svg+xml",
+      "bytes": 102336,
+      "sha256": "4ff40bf616c8631265e397c8c6ada27a66a311ad8512c87e4076385b21699bcf",
+      "source_sha256": "4ff40bf616c8631265e397c8c6ada27a66a311ad8512c87e4076385b21699bcf",
+      "dhash": "",
+      "width": 182,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/",
+        "https://www.greencar.co.kr/greencar/about",
+        "https://www.greencar.co.kr/greencar/ceo",
+        "https://www.greencar.co.kr/greencar/ci",
+        "https://www.greencar.co.kr/greencar/esg",
+        "https://www.greencar.co.kr/greencar/history",
+        "https://www.greencar.co.kr/news/notice",
+        "https://www.greencar.co.kr/news/report",
+        "https://www.greencar.co.kr/service/clingwash",
+        "https://www.greencar.co.kr/service/gcar",
+        "https://www.greencar.co.kr/service/movus"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-007.svg",
+      "source_url": "https://www.greencar.co.kr/images/common/page-foot-logo-incheon.svg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": ";\" onclick=\"openCommonPop('modalIsms');\">\n<img alt=\"정보보호 및 개인정보보호 관리체계 인증\" src=\"/images/common/page-foot-logo-ismsp.svg\"/>\n</a>\n</div>\n<div class=\"data-item\">\n<img alt=\"인천광역시\" src=\"/images/common/page-foot-logo-incheon.svg\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!-- Top 버튼 -->\n<!--common QR code popup-->\n<div aria-hidden=\"true\" aria-labelledb",
+      "content_type": "image/svg+xml",
+      "bytes": 14076,
+      "sha256": "d7956513883391afdf9e86acc557d9b91c552756f0f7147eb3ec46abd2cdf658",
+      "source_sha256": "d7956513883391afdf9e86acc557d9b91c552756f0f7147eb3ec46abd2cdf658",
+      "dhash": "",
+      "width": 130,
+      "height": 32,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/",
+        "https://www.greencar.co.kr/greencar/about",
+        "https://www.greencar.co.kr/greencar/ceo",
+        "https://www.greencar.co.kr/greencar/ci",
+        "https://www.greencar.co.kr/greencar/esg",
+        "https://www.greencar.co.kr/greencar/history",
+        "https://www.greencar.co.kr/news/notice",
+        "https://www.greencar.co.kr/news/report",
+        "https://www.greencar.co.kr/service/clingwash",
+        "https://www.greencar.co.kr/service/gcar",
+        "https://www.greencar.co.kr/service/movus"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-008.svg",
+      "source_url": "https://www.greencar.co.kr/images/common/isms.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "=\"modal-body\">\n<div class=\"isms-display\">\n<div class=\"isms-head\">\n<em class=\"title\">정보보호 및 개인정보보호 관리체계 인증</em>\n</div>\n<div class=\"isms-figure\">\n<img alt=\"ISMS 인증 로고\" id=\"isms\" src=\"/images/common/isms.svg\"/>\n</div>\n<div class=\"isms-body\">\n<div class=\"item\">\n<em class=\"item-title\">인증범위</em>\n<p class=\"item-text\">그린카 서비스(카셰어링,",
+      "content_type": "image/svg+xml",
+      "bytes": 89277,
+      "sha256": "f04be7cb9f906c7097931849afb1d8aa73dd620dcf9f2d4c01e0cb11b4e9554a",
+      "source_sha256": "f04be7cb9f906c7097931849afb1d8aa73dd620dcf9f2d4c01e0cb11b4e9554a",
+      "dhash": "",
+      "width": 180,
+      "height": 180,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/",
+        "https://www.greencar.co.kr/greencar/about",
+        "https://www.greencar.co.kr/greencar/ceo",
+        "https://www.greencar.co.kr/greencar/ci",
+        "https://www.greencar.co.kr/greencar/esg",
+        "https://www.greencar.co.kr/greencar/history",
+        "https://www.greencar.co.kr/news/notice",
+        "https://www.greencar.co.kr/news/report",
+        "https://www.greencar.co.kr/service/clingwash",
+        "https://www.greencar.co.kr/service/gcar",
+        "https://www.greencar.co.kr/service/movus"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-009.png",
+      "source_url": "https://www.greencar.co.kr/images/main/section-04-01-logo-mo.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "oop=\"\" muted=\"\" playsinline=\"\">\n<source src=\"/images/main/section-04-01.mp4\" type=\"video/mp4\"/>\n</video>\n</div>\n<div class=\"swiper-head\">\n<div class=\"logo\">\n<img alt=\"Gcar 로고\" src=\"/images/main/section-04-01-logo-mo.png\"/>\n</div>\n<p class=\"summary\">당신의 라이프스타일에 맞춘 편안한 이동,<br/>카셰어링 서비스 G car</p>\n<a class=\"btn module-line style-a neutral-000",
+      "content_type": "image/png",
+      "bytes": 3028,
+      "sha256": "b7492cdd3246e46d69db04e63c979df326e4145536cc8f94c20ddd63732b7efb",
+      "source_sha256": "f9f345f98648c8224ef0c805dd9bea38138eaf05d4b0cd509aad694dcb50b10e",
+      "dhash": "1402940727270023",
+      "width": 310,
+      "height": 80,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-010.png",
+      "source_url": "https://www.greencar.co.kr/images/main/section-04-02-logo-mo.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "op=\"\" muted=\"\" playsinline=\"\">\n<source src=\"/images/main/section-04-02.mp4\" type=\"video/mp4\"/>\n</video>\n</div>\n<div class=\"swiper-head\">\n<div class=\"logo\">\n<img alt=\"movus 로고\" src=\"/images/main/section-04-02-logo-mo.png\"/>\n</div>\n<p class=\"summary\">원할 때 운전하고 수익을 창출하는,<br/> 차량 탁송 서비스 무버스</p>\n<a class=\"btn module-line style-a neutral-000\" h",
+      "content_type": "image/png",
+      "bytes": 2356,
+      "sha256": "71aa5e4a926364dc90c02ea9d0a22326af504ba186fd750446f95eba407ba52a",
+      "source_sha256": "e4629f075a98cc6330643358cf20eb71c727ee7f37de5becb27c92ba5696b9a3",
+      "dhash": "04300e07ba982a00",
+      "width": 310,
+      "height": 80,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-011.png",
+      "source_url": "https://www.greencar.co.kr/images/main/section-04-03-logo-mo.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": " loop=\"\" muted=\"\" playsinline=\"\">\n<source src=\"/images/main/section-04-03.mp4\" type=\"video/mp4\"/>\n</video>\n</div>\n<div class=\"swiper-head\">\n<div class=\"logo\">\n<img alt=\"클링 로고\" src=\"/images/main/section-04-03-logo-mo.png\"/>\n</div>\n<p class=\"summary\">언제나 새 차처럼,<br/> 비대면 세차 서비스 세차클링</p>\n<a class=\"btn module-line style-a neutral-000\" href=\"/s",
+      "content_type": "image/png",
+      "bytes": 1763,
+      "sha256": "0daff173a149e06133fa6930e3dc1606b93dc9708bffd634bf6e8c4887fa76a4",
+      "source_sha256": "d5a4f3e2419982795ad70f74f4e3ed34896298aafd3f622fb8e643d1c6d35e36",
+      "dhash": "000626869e960600",
+      "width": 350,
+      "height": 80,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-012.svg",
+      "source_url": "https://www.greencar.co.kr/images/greencar/history/logo-greencar.svg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "\n                                                        2월 (주)그린포인트 → 그린카로 상호변경\n\n                                                        <div class=\"data-figure\">\n<img alt=\"\" src=\"/images/greencar/history/logo-greencar.svg\"/>\n</div>\n</div>\n<div class=\"data-item color-b\">6월 롯데그룹 손자회사로 편입 (롯데렌탈의 자회사)</div>\n</div>\n</div>\n</div>\n<div class=\"hist",
+      "content_type": "image/svg+xml",
+      "bytes": 3564,
+      "sha256": "59aab9ebc0800899004b4b65545536876098c65b1218eaa3856deeba9294ccf3",
+      "source_sha256": "59aab9ebc0800899004b4b65545536876098c65b1218eaa3856deeba9294ccf3",
+      "dhash": "",
+      "width": 134,
+      "height": 39,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/history"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-013.svg",
+      "source_url": "https://www.greencar.co.kr/images/greencar/history/logo-clingwash.svg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "                                          9월 방문 세차 플랫폼 ‘세차클링‘ 런칭, 법인 대상 세차 서비스 개시\n                                                        <div class=\"data-figure\">\n<img alt=\"\" src=\"/images/greencar/history/logo-clingwash.svg\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"history-item\">\n<div class=\"history-wrap\">\n<em class=\"year\">2023</em>\n<",
+      "content_type": "image/svg+xml",
+      "bytes": 3037,
+      "sha256": "fc449f53aea50571950fa60d8138f7ef15462986d2e96ed6f9fb5e7ec6565431",
+      "source_sha256": "fc449f53aea50571950fa60d8138f7ef15462986d2e96ed6f9fb5e7ec6565431",
+      "dhash": "",
+      "width": 102,
+      "height": 36,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/history"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-014.svg",
+      "source_url": "https://www.greencar.co.kr/images/greencar/history/logo-movus.svg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "lor-b\">\n                                                        11월 탁송 앱 ‘무버스’ 런칭\n                                                        <div class=\"data-figure\">\n<img alt=\"\" src=\"/images/greencar/history/logo-movus.svg\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"history-item\">\n<div class=\"history-wrap\">\n<em class=\"year\">2024</em>\n<",
+      "content_type": "image/svg+xml",
+      "bytes": 7616,
+      "sha256": "52a162dacaa106b507fc6257a654bb07dbaddbadc81fadc889e48f6c3d540d34",
+      "source_sha256": "52a162dacaa106b507fc6257a654bb07dbaddbadc81fadc889e48f6c3d540d34",
+      "dhash": "",
+      "width": 134,
+      "height": 38,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/history"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-015.svg",
+      "source_url": "https://www.greencar.co.kr/images/greencar/history/logo-gcar.svg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "                                                     9월 그린카 → 롯데렌터카 G car로 BI 리뉴얼\n                                                        <div class=\"data-figure\">\n<img alt=\"\" src=\"/images/greencar/history/logo-gcar.svg\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main>\n</div>\n<!--// page-body -",
+      "content_type": "image/svg+xml",
+      "bytes": 11475,
+      "sha256": "a04cf4f0bae0a231e09d8ed6b5648f2585cd91fbad67332c20d8359b22262937",
+      "source_sha256": "a04cf4f0bae0a231e09d8ed6b5648f2585cd91fbad67332c20d8359b22262937",
+      "dhash": "",
+      "width": 180,
+      "height": 28,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/history"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-016.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/local-head-ci-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image, source:logo",
+      "context": "I/BI</span></li>\n</ul>\n<div class=\"local-subject\">\n<h2 class=\"local-name\">CI/BI</h2>\n</div>\n</div>\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/ci/local-head-ci-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/ci/local-head-ci-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"",
+      "content_type": "image/webp",
+      "bytes": 58060,
+      "sha256": "91aafeaeac93f9aeddc632546dda962355c8f6aa83c4e0721110e50f58381aec",
+      "source_sha256": "90f9ac06e87facc2c6fe9569e4a330ce73ec87be049cd48255da5d350387d6f9",
+      "dhash": "1a10252926042424",
+      "width": 780,
+      "height": 560,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-017.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/local-head-ci-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image, img:logo, source:banner, source:image, source:logo",
+      "context": "iv>\n</div>\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/ci/local-head-ci-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/ci/local-head-ci-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/images/greencar/ci/local-head-ci-pc.jpg\"/>\n</picture>\n</div>\n<div class=\"local-body mod",
+      "content_type": "image/webp",
+      "bytes": 256932,
+      "sha256": "be4187548c0295c98482a8db60c74453fffa3af2980e8493bd74ace3e57952d0",
+      "source_sha256": "547b1ce6664a575109933ef2b2fbd47c0c2cfd284c2cde121b539b161492c99c",
+      "dhash": "1323212725232323",
+      "width": 1920,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-018.png",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/brand-grade-mo.png",
+      "source_tag": "html-data, source:banner, source:image, source:logo",
+      "context": "계도</em>\n<p class=\"section-summary\">그린카와 산하 브랜드의 관계를 구조적으로 이해할 수 있는 정보입니다.</p>\n</div>\n<div class=\"section-body\">\n<picture class=\"figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/ci/brand-grade-mo.png\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/ci/brand-grade-pc.png\"/>\n<img alt=\"\" src=\"/images/greenc",
+      "content_type": "image/png",
+      "bytes": 36395,
+      "sha256": "e57c09aa09ce2641ccaca923cb68008a0ba9281514f0bec276c9193f39cc4939",
+      "source_sha256": "0dbe42d7f02a554aad3598942410b33d9472ae6643e54fdf416127ff1218d9b1",
+      "dhash": "909e863969613b71",
+      "width": 700,
+      "height": 1216,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-019.png",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/brand-grade-pc.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo, source:banner, source:image, source:logo",
+      "context": "div class=\"section-body\">\n<picture class=\"figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/ci/brand-grade-mo.png\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/ci/brand-grade-pc.png\"/>\n<img alt=\"\" src=\"/images/greencar/ci/brand-grade-pc.png\"/>\n</picture>\n<div class=\"board-list module-g\">\n<div class=\"b",
+      "content_type": "image/png",
+      "bytes": 20286,
+      "sha256": "0200c02a8997c5878c2794354366963bed45eb1a2cdcc1f8327b02ee1eadfd3a",
+      "source_sha256": "a49b2a6f1f1ad3e444673867297f12a5949f07a9ca842138ec062daf592f575f",
+      "dhash": "0db0717145552b55",
+      "width": 1440,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-020.svg",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/logo-greencar.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "grade-pc.png\"/>\n</picture>\n<div class=\"board-list module-g\">\n<div class=\"board-item\">\n<div class=\"board-wrap\">\n<div class=\"board-figure\">\n<img alt=\"\" class=\"img logo-greencar\" src=\"/images/greencar/ci/logo-greencar.svg\"/>\n</div>\n<div class=\"board-util\">\n<em class=\"board-subject\">(주)그린카 CI</em>\n<a class=\"btn module-fill style-a neutral-80",
+      "content_type": "image/svg+xml",
+      "bytes": 3560,
+      "sha256": "33f1a68f37787bcee30fc9301ed79d7cec3eb0bd56c799da451d6e5ef2db1098",
+      "source_sha256": "33f1a68f37787bcee30fc9301ed79d7cec3eb0bd56c799da451d6e5ef2db1098",
+      "dhash": "",
+      "width": 252,
+      "height": 73,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-021.svg",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/logo-gcar.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "g\">\n<span class=\"btn-text\">다운로드</span>\n</a>\n</div>\n</div>\n</div>\n<div class=\"board-item\">\n<div class=\"board-wrap\">\n<div class=\"board-figure\">\n<img alt=\"\" class=\"img logo-gcar\" src=\"/images/greencar/ci/logo-gcar.svg\"/>\n</div>\n<div class=\"board-util\">\n<em class=\"board-subject\">롯데렌터카 G car BI</em>\n<a class=\"btn module-fill style-a neutr",
+      "content_type": "image/svg+xml",
+      "bytes": 11435,
+      "sha256": "8bc1f8549eb1365c1592497f28e932f659cf9bb8840a850514f41750e363a365",
+      "source_sha256": "8bc1f8549eb1365c1592497f28e932f659cf9bb8840a850514f41750e363a365",
+      "dhash": "",
+      "width": 304,
+      "height": 47,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-022.svg",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/logo-movus.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "\">\n<span class=\"btn-text\">다운로드</span>\n</a>\n</div>\n</div>\n</div>\n<div class=\"board-item\">\n<div class=\"board-wrap\">\n<div class=\"board-figure\">\n<img alt=\"\" class=\"img logo-movus\" src=\"/images/greencar/ci/logo-movus.svg\"/>\n</div>\n<div class=\"board-util\">\n<em class=\"board-subject\">무버스 BI</em>\n<a class=\"btn module-fill style-a neutral-800\" ",
+      "content_type": "image/svg+xml",
+      "bytes": 7588,
+      "sha256": "b7446b89469f620f574f56088004fa57d994a16150c779be217e9c53465b9877",
+      "source_sha256": "b7446b89469f620f574f56088004fa57d994a16150c779be217e9c53465b9877",
+      "dhash": "",
+      "width": 216,
+      "height": 61,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-023.svg",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/logo-clingwash.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "span class=\"btn-text\">다운로드</span>\n</a>\n</div>\n</div>\n</div>\n<div class=\"board-item\">\n<div class=\"board-wrap\">\n<div class=\"board-figure\">\n<img alt=\"\" class=\"img logo-clingwash\" src=\"/images/greencar/ci/logo-clingwash.svg\"/>\n</div>\n<div class=\"board-util\">\n<em class=\"board-subject\">세차클링 BI</em>\n<a class=\"btn module-fill style-a neutral-800\"",
+      "content_type": "image/svg+xml",
+      "bytes": 3204,
+      "sha256": "78f87d107b29f40deb033cb167ee618e5cde9c8117299df5b9107f1d0a0c3458",
+      "source_sha256": "78f87d107b29f40deb033cb167ee618e5cde9c8117299df5b9107f1d0a0c3458",
+      "dhash": "",
+      "width": 168,
+      "height": 59,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-024.png",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/brand-service-mo.png",
+      "source_tag": "html-data, source:banner, source:image, source:logo",
+      "context": "t\">하위 서비스 브랜드</em>\n<p class=\"section-summary\">G Car를 구성하는 6개의 브랜드를 안내합니다.</p>\n</div>\n<div class=\"section-body\">\n<picture class=\"figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/ci/brand-service-mo.png\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/ci/brand-service-pc.png\"/>\n<img alt=\"\" src=\"/images/gree",
+      "content_type": "image/png",
+      "bytes": 185588,
+      "sha256": "de2c05c41a717fdd0b24f1ff83297914e2ac32084b226a5a7fdedbde5cedc733",
+      "source_sha256": "854002e46bacb3ff375a7ee9fd2a23156553f4a059b25ef0a45c4f4b116d36cf",
+      "dhash": "697971717171716d",
+      "width": 633,
+      "height": 2000,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-025.png",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ci/brand-service-pc.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo, source:banner, source:image, source:logo",
+      "context": "v class=\"section-body\">\n<picture class=\"figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/ci/brand-service-mo.png\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/ci/brand-service-pc.png\"/>\n<img alt=\"\" src=\"/images/greencar/ci/brand-service-pc.png\"/>\n</picture>\n<div class=\"banner-list module-d\">\n<div class",
+      "content_type": "image/png",
+      "bytes": 43858,
+      "sha256": "bca3d857755295dcead3e66f1f94a5a89740d89101be98e8e9cf9a04c5be461c",
+      "source_sha256": "fa6e1793dffbd3332d3ffe142fa27e13181531f382623f9c8b390d563b220aee",
+      "dhash": "091412d4d454d42b",
+      "width": 1440,
+      "height": 696,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ci"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/greencar/social-001.webp",
+      "source_url": "https://ghp-gn-ui.greencar.co.kr/pageMetaImage/2026/03/06/663ecf6c-28e9-4f76-92ab-37a690f1cd63.png",
+      "source_tag": "html-data, meta:og:image ",
+      "context": ", and space through user-centered car-sharing services under Lotte Rental.\" property=\"og:description\"/>\n<meta content=\"http://www.greencar.co.kr\" property=\"og:url\"/>\n<meta content=\"https://ghp-gn-ui.greencar.co.kr/pageMetaImage/2026/03/06/663ecf6c-28e9-4f76-92ab-37a690f1cd63.png\" property=\"og:image\"/>\n<meta content=\"그린카(Greencar) 공식사이트\" property=\"og:site_name\"/>\n<!-- LD+JSON (여러 개 가능) -->\n<script ",
+      "content_type": "image/webp",
+      "bytes": 19708,
+      "sha256": "959fef181cd2d050005346868edd82ddbc9cc5c532dac417fcee1be5a80248cc",
+      "source_sha256": "6b943df24fc1feb76e2668b8aaa4cf24a00ff1a01ecc6890d5e41afb2273149c",
+      "dhash": "006280f2a6a400a4",
+      "width": 2200,
+      "height": 1155,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/greencar/social-002.webp",
+      "source_url": "https://ghp-gn-ui.greencar.co.kr/pageMetaImage/2026/03/05/58ffccc7-7304-4dc1-8dfc-aaaccccfde6d.png",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "CEO 인사말을 전해드립니다. 고객의 일상에 새로운 이동의 즐거움을 더하기 위한 그린카의 약속을 확인해 보세요\" property=\"og:description\"/>\n<meta content=\"http://www.greencar.co.kr/greencar/ceo\" property=\"og:url\"/>\n<meta content=\"https://ghp-gn-ui.greencar.co.kr/pageMetaImage/2026/03/05/58ffccc7-7304-4dc1-8dfc-aaaccccfde6d.png\" property=\"og:image\"/>\n<meta content=\"그린카(Greencar) 공식사이트\" property=\"og:site_name\"/>\n<!-- LD+JSON (여러 개 가능) -->\n<script ",
+      "content_type": "image/webp",
+      "bytes": 4646,
+      "sha256": "802c28342b304cc25b891e0a150986c4e935ca87c2d9182202b941bae3e1eaef",
+      "source_sha256": "4b6ad2d7ea18394a7d00a838b664530031b1c9bdcba6718209ce8ed06253886e",
+      "dhash": "0000000000000000",
+      "width": 2200,
+      "height": 1155,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ceo"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-003.webp",
+      "source_url": "https://www.greencar.co.kr/images/common/bg-noise-1920-1080.png",
+      "source_tag": "external-css",
+      "context": "-direction: column;\n  }\n}\n.banner-list.module-f .banner-item .banner-wrap .banner-head:after {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  content: \"\";\n  display: block;\n  width: 192rem;\n  height: 108rem;\n  background: url(\"/images/common/bg-noise-1920-1080.png\") repeat center;\n  background-size: 1920px;\n}\n@media (max-width: 1023px) {\n  .banner-list.module-",
+      "content_type": "image/webp",
+      "bytes": 1106690,
+      "sha256": "c0b8e9521353d5fe6547255abe68ed5159755ee28b2d23fe5d173223fef15b10",
+      "source_sha256": "be3e054412b36ca72ec6066a5c51a76a422cb7294ba62dd56f7a7db548a90d45",
+      "dhash": "091a0a1a1a189818",
+      "width": 1920,
+      "height": 1080,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-026.png",
+      "source_url": "https://www.greencar.co.kr/images/main/section-04-01-logo.png",
+      "source_tag": "html-data, img:logo",
+      "context": "\">\n<span class=\"current\">01 </span><span class=\"total\"> / 03</span>\n</div>\n<div class=\"swiper-pagination pc\">\n<button class=\"tab-logo active\" data-index=\"0\"><img alt=\"Gcar 로고\" src=\"/images/main/section-04-01-logo.png\"/></button>\n<button class=\"tab-logo\" data-index=\"1\"><img alt=\"movus 로고\" src=\"/images/main/section-04-02-logo.png\"/></but",
+      "content_type": "image/png",
+      "bytes": 3186,
+      "sha256": "2218af958670384754858e78b6fe70786a32103ef8547bf988218a2ac73edb4e",
+      "source_sha256": "dc723aa5b5c6ce00bac12f473454d092a610ea7160648fe3cf8da21dcf01f9c4",
+      "dhash": "3212065a3aba5afb",
+      "width": 196,
+      "height": 30,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-027.png",
+      "source_url": "https://www.greencar.co.kr/images/main/section-04-02-logo.png",
+      "source_tag": "html-data, img:logo",
+      "context": "tton class=\"tab-logo active\" data-index=\"0\"><img alt=\"Gcar 로고\" src=\"/images/main/section-04-01-logo.png\"/></button>\n<button class=\"tab-logo\" data-index=\"1\"><img alt=\"movus 로고\" src=\"/images/main/section-04-02-logo.png\"/></button>\n<button class=\"tab-logo\" data-index=\"2\"><img alt=\"클링 로고\" src=\"/images/main/section-04-03-logo.png\"/></button",
+      "content_type": "image/png",
+      "bytes": 2938,
+      "sha256": "7d0cb19ef61e53478a8e327d80b2af78518b303e05ae79296f933cfdffa0ac56",
+      "source_sha256": "55be3588d13e02d565202247f56890f70276a14f0f8a2379c2096254a03f1917",
+      "dhash": "52dcc2caec585c5c",
+      "width": 150,
+      "height": 42,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/greencar/logo-028.png",
+      "source_url": "https://www.greencar.co.kr/images/main/section-04-03-logo.png",
+      "source_tag": "html-data, img:logo",
+      "context": "tton>\n<button class=\"tab-logo\" data-index=\"1\"><img alt=\"movus 로고\" src=\"/images/main/section-04-02-logo.png\"/></button>\n<button class=\"tab-logo\" data-index=\"2\"><img alt=\"클링 로고\" src=\"/images/main/section-04-03-logo.png\"/></button>\n</div>\n<!-- 모바일용 페이지네이션 컨테이너 별도 추가 -->\n<div class=\"swiper-pagination mo\">\n</div>\n</div>\n</div>\n</div>\n</div>",
+      "content_type": "image/png",
+      "bytes": 2212,
+      "sha256": "1acd9789c753eebebdbd37468892e4b3ca82fcf5257ba65bfc36a800fe87e499",
+      "source_sha256": "d56cc29e196872b2f956957fed02d79ccc32d11ab507fbba13e835b3ccb03627",
+      "dhash": "6de5464c0c4c4c04",
+      "width": 132,
+      "height": 53,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-001.webp",
+      "source_url": "https://www.greencar.co.kr/images/og-Greencar.png",
+      "source_tag": "html-data",
+      "context": "text\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"(주)그린카(Greencar) 공식사이트\", \"alternateName\": [\"그린카\", \"Greencar\", \"G car\"], \"url\": \"https://www.greencar.co.kr\", \"logo\": \"https://www.greencar.co.kr/images/og-Greencar.png\", \"contactPoint\": { \"@type\": \"ContactPoint\", \"telephone\": \"+82-1899-1313\", \"contactType\": \"customer service\", \"areaServe",
+      "content_type": "image/webp",
+      "bytes": 6940,
+      "sha256": "a5dd4ecff18c9953513bc4f1c7d9255baa99a2220873506f8856b290514db878",
+      "source_sha256": "842b010c0a525dfd92cd3b9297ea9bfd389137da794af33c7e8527c2887090e3",
+      "dhash": "0060006169006000",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-004.webp",
+      "source_url": "https://www.greencar.co.kr/images/news/report/local-head-report-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": ">보도자료</span></li>\n</ul>\n<div class=\"local-subject\">\n<h2 class=\"local-name\">보도자료</h2>\n</div>\n</div>\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/news/report/local-head-report-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/news/report/local-head-report-pc.jpg\"/>\n<img alt=\"\" class=\"img\" s",
+      "content_type": "image/webp",
+      "bytes": 45900,
+      "sha256": "1d51cdf003d602e17128e9a07a31ff841ddf95c7a9c00917cacd03a95a6da2db",
+      "source_sha256": "52068dc3e858c0397817560296fc34d34cf6602da034ee581cd1e3df14eb5250",
+      "dhash": "0603060627167a69",
+      "width": 780,
+      "height": 560,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/news/notice",
+        "https://www.greencar.co.kr/news/report"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-005.webp",
+      "source_url": "https://www.greencar.co.kr/images/news/report/local-head-report-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": "</div>\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/news/report/local-head-report-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/news/report/local-head-report-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/images/news/report/local-head-report-pc.jpg\"/>\n</picture>\n</div>\n<div class=\"local-body",
+      "content_type": "image/webp",
+      "bytes": 219036,
+      "sha256": "df130e0ca1ca408a92dd30aa4cfc8a2cf609a8d461378d48a0d3f0247ec2e242",
+      "source_sha256": "a6bd8f263a59cbcca548c98dbb29133230f693cb76434546eb109d1e223f6bb7",
+      "dhash": "1616160c0c1cb452",
+      "width": 1920,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/news/notice",
+        "https://www.greencar.co.kr/news/report"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-006.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/local-head-about-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": ">회사소개</span></li>\n</ul>\n<div class=\"local-subject\">\n<h2 class=\"local-name\">회사소개</h2>\n</div>\n</div>\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/local-head-about-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/local-head-about-pc.jpg\"/>\n<img alt=\"\" class=\"img\"",
+      "content_type": "image/webp",
+      "bytes": 35876,
+      "sha256": "4b8976e9e12ec1d89085cf868d204438783c3581403bda63d9976b68ecf558c9",
+      "source_sha256": "b1c2fdc9b8e9327542bcca7aa3f20ec382240d7f7f786b1310178be92d15e217",
+      "dhash": "040409212629a183",
+      "width": 780,
+      "height": 560,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-007.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/history/local-head-history-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "ext\">연혁</span></li>\n</ul>\n<div class=\"local-subject\">\n<h2 class=\"local-name\">연혁</h2>\n</div>\n</div>\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/history/local-head-history-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/history/local-head-history-pc.jpg\"/>\n<img alt=\"\" class=\"",
+      "content_type": "image/webp",
+      "bytes": 45540,
+      "sha256": "d811fbcbe33b2bc5922cf982caaed5bc501c7d55dda582c28dee89a455895e70",
+      "source_sha256": "037615133d347aa7c9b52dff8bbce5fa040e60511bd322a4532b305fede6b18f",
+      "dhash": "6c34c9241b35428b",
+      "width": 780,
+      "height": 560,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/history"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-008.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/local-head-about-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": "div>\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/local-head-about-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/local-head-about-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/images/greencar/about/local-head-about-pc.jpg\"/>\n</picture>\n</div>\n<div class=\"local-bo",
+      "content_type": "image/webp",
+      "bytes": 200364,
+      "sha256": "bc949075888ab6afd516a5a36bb6c9a09e2ae01c266f42d9b8799daa8a79fce1",
+      "source_sha256": "a3377e0a538fe2d8f53763d40cddf2543b15529dd973fa3c08f0c14d17eb4405",
+      "dhash": "0119232723034703",
+      "width": 1920,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-009.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ceo/local-head-ceo-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": ">\n</div>\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/esg/local-head-esg-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/ceo/local-head-ceo-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/images/greencar/ceo/local-head-ceo-pc.jpg\"/>\n</picture>\n</div>\n<div class=\"local-body m",
+      "content_type": "image/webp",
+      "bytes": 206616,
+      "sha256": "27aae3ee4337d9619f2751ec566d0c3467ca284e6de2df66ce6b2ae81efcf129",
+      "source_sha256": "d7ee9c67a56ef7ec8f117abe5bb64543942448604af2cec37f901ccb715e50f0",
+      "dhash": "08304c4e50252727",
+      "width": 1920,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ceo"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-010.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/history/local-head-history-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": "\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/history/local-head-history-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/history/local-head-history-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/images/greencar/history/local-head-history-pc.jpg\"/>\n</picture>\n</div>\n<div class=\"loca",
+      "content_type": "image/webp",
+      "bytes": 217684,
+      "sha256": "44b41a41e266ec35ec0a817a0e0cb5ca056a2b0113199d0ac8270d3dc433d9a6",
+      "source_sha256": "e757517fbffc6d197a358fd24f6a87df410a78ab0444d98ca24ece3ce0b06ebd",
+      "dhash": "b393544222142225",
+      "width": 1920,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/history"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-011.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/esg/local-head-esg-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": ">\n</div>\n</div>\n<picture class=\"local-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/esg/local-head-esg-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/esg/local-head-esg-pc.jpg\"/>\n<img alt=\"\" class=\"img\" src=\"/images/greencar/esg/local-head-esg-pc.jpg\"/>\n</picture>\n</div>\n<div class=\"local-body m",
+      "content_type": "image/webp",
+      "bytes": 217346,
+      "sha256": "c7e2d3ded49f9efab6b915c482262e3096aa4ec2e7289ae365174874f670f161",
+      "source_sha256": "30ef781d0c569361ac0e8fb9f242fa88e523375b2887dcabf02fd506c587a256",
+      "dhash": "08122727252d2d2d",
+      "width": 1920,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/esg"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-002.webp",
+      "source_url": "https://www.greencar.co.kr/images/service/clingwash/general-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "lass=\"section-body\">\n<div class=\"board-list module-d\">\n<div class=\"board-item\">\n<div class=\"board-wrap\">\n<div class=\"board-figure\">\n<img alt=\"일반 고객 서비스 안내 이미지\" class=\"pc-only\" src=\"/images/service/clingwash/general-pc.jpg\"/>\n<img alt=\"일반 고객 서비스 안내 이미지\" class=\"mo-only\" src=\"/images/service/clingwash/general-mo.jpg\"/>\n</div>\n<div class=\"board",
+      "content_type": "image/webp",
+      "bytes": 67662,
+      "sha256": "c843a3f9cb45dcd97be40cfc5fdd9127db5255d9bd21261b98a535fc6b9a1130",
+      "source_sha256": "c899aac4e4127a5be799b78e5f68f9569644defca28a4d833d150f4303f7b292",
+      "dhash": "06b63b7b2b9d1d09",
+      "width": 690,
+      "height": 690,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/service/clingwash"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-012.webp",
+      "source_url": "https://www.greencar.co.kr/images/service/clingwash/general-mo.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "oard-wrap\">\n<div class=\"board-figure\">\n<img alt=\"일반 고객 서비스 안내 이미지\" class=\"pc-only\" src=\"/images/service/clingwash/general-pc.jpg\"/>\n<img alt=\"일반 고객 서비스 안내 이미지\" class=\"mo-only\" src=\"/images/service/clingwash/general-mo.jpg\"/>\n</div>\n<div class=\"board-head\">\n<p class=\"subject\">일반 고객</p>\n<p class=\"desc\">\n                                       ",
+      "content_type": "image/webp",
+      "bytes": 43528,
+      "sha256": "fa6fa2f0bd41b5456b50345606d674ea1634f7b639e857b3c39ef3bbdf946c7c",
+      "source_sha256": "2d242cd09067cd29957726df0abba53ab0398593698555427d124fa6f5b0f8ad",
+      "dhash": "0d1533371b1a0e1b",
+      "width": 700,
+      "height": 394,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/service/clingwash"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-003.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/ceo/ceo.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "section-wrap\">\n<div class=\"section-body\">\n<div class=\"post-list module-g\">\n<div class=\"post-item\">\n<div class=\"post-wrap\">\n<div class=\"post-figure\">\n<img alt=\"그린카 대표이사 강현빈 사진\" src=\"/images/greencar/ceo/ceo.jpg\"/>\n</div>\n<div class=\"post-info\">\n<p class=\"para\">\n                                                    “Future Mobility,",
+      "content_type": "image/webp",
+      "bytes": 14094,
+      "sha256": "7ece1a17cc719442de0b67ecbeee014e5c38faa448ccccb55f2ef174b20ae9a0",
+      "source_sha256": "81b7c3e7e0f41a3caa4f8eb71e89d20c9aa02200601b45915621dfcaf7e4c762",
+      "dhash": "b20d4d0d6d0b4963",
+      "width": 380,
+      "height": 475,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/ceo"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-004.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/esg/esg-environment.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " 임팩트를 창출하고 있습니다.</p>\n</div>\n<div class=\"section-body\">\n<div class=\"post-list module-b\">\n<div class=\"post-item\">\n<div class=\"post-wrap\">\n<div class=\"post-figure\">\n<img alt=\"환경\" src=\"/images/greencar/esg/esg-environment.jpg\"/>\n</div>\n<div class=\"post-info\">\n<span class=\"post-sub\">Environment</span>\n<em class=\"post-subject\">환경</em>\n<p class=\"p",
+      "content_type": "image/webp",
+      "bytes": 18722,
+      "sha256": "b231b01e1dedcb24f01242f956e3a423cb8636f996fc199070730ccd1442c568",
+      "source_sha256": "c19efa56e3e5d4e01ec30c0190bbdf64903ffb863b314bc12fe4f5904c1fd499",
+      "dhash": "a84048cac4949c9e",
+      "width": 588,
+      "height": 331,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/esg"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-013.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/connect-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "s=\"section-body\">\n<div class=\"post-list module-d\">\n<div class=\"post-item connect\">\n<div class=\"post-wrap\">\n<picture class=\"post-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/connect-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/connect.jpg\"/>\n<img alt=\"\" src=\"/images/greencar/a",
+      "content_type": "image/webp",
+      "bytes": 66432,
+      "sha256": "1633383532ca11e85a0c1a11dbedc520272990b7d5576f3bf85dfc1854c13729",
+      "source_sha256": "7bf519baf91629008899ffaf11cf8abeb661e62139d82b5d2bc5f7dcee32e6ae",
+      "dhash": "000508174f3fbe5b",
+      "width": 700,
+      "height": 748,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-005.webp",
+      "source_url": "https://www.greencar.co.kr/images/service/clingwash/corporate-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "                             </p>\n</div>\n</div>\n</div>\n<div class=\"board-item\">\n<div class=\"board-wrap\">\n<div class=\"board-figure\">\n<img alt=\"기업 고객 서비스 안내 이미지\" class=\"pc-only\" src=\"/images/service/clingwash/corporate-pc.jpg\"/>\n<img alt=\"기업 고객 서비스 안내 이미지\" class=\"mo-only\" src=\"/images/service/clingwash/corporate-mo.jpg\"/>\n</div>\n<div class=\"boa",
+      "content_type": "image/webp",
+      "bytes": 114328,
+      "sha256": "0835d8d7ab9d6787c4e72e26cd9218650a8536ade2e42a58db396539333eabc8",
+      "source_sha256": "a8be2c404fd37be306e46f59f26eec5e2ab1cda1c12e64da907de63ae02c7caf",
+      "dhash": "fe0db2f1c9d0b190",
+      "width": 690,
+      "height": 690,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/service/clingwash"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-006.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/esg/esg-social.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "차량 확대, 차량 폐기물 기반 자원 순환 생태계 조성 등 모빌리티 기업으로서의 역할을 성실히 이행하고 있습니다.</p>\n</div>\n</div>\n</div>\n<div class=\"post-item\">\n<div class=\"post-wrap\">\n<div class=\"post-figure\">\n<img alt=\"사회\" src=\"/images/greencar/esg/esg-social.jpg\"/>\n</div>\n<div class=\"post-info\">\n<span class=\"post-sub\">Social</span>\n<em class=\"post-subject\">사회</em>\n<p class=\"para\">",
+      "content_type": "image/webp",
+      "bytes": 19304,
+      "sha256": "3165c9f827837f8cadc430382e6508d948d887992007edb1ec83a280f5cf3b89",
+      "source_sha256": "6a40d93ef6df39d368442b7c49567722f0f2932725788af28f555883e1b5fd44",
+      "dhash": "8a55333333aa33cc",
+      "width": 588,
+      "height": 330,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/esg"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-014.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/connect.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": "iv class=\"post-wrap\">\n<picture class=\"post-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/connect-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/connect.jpg\"/>\n<img alt=\"\" src=\"/images/greencar/about/connect.jpg\"/>\n</picture>\n<div class=\"post-info\">\n<em class=\"post-subject\">Co",
+      "content_type": "image/webp",
+      "bytes": 92874,
+      "sha256": "6c24586a8581ca3e8631019c7d53c1825e9652e09d654427d90f22bdfb8273be",
+      "source_sha256": "cfc61caa09d59d31920bf19b5a3824212b84a92f07cff539ddb846c1a43dd9c2",
+      "dhash": "3cbc9abab1b1b2b2",
+      "width": 1440,
+      "height": 480,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/greencar/banner-015.webp",
+      "source_url": "https://www.greencar.co.kr/images/service/clingwash/corporate-mo.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "rd-wrap\">\n<div class=\"board-figure\">\n<img alt=\"기업 고객 서비스 안내 이미지\" class=\"pc-only\" src=\"/images/service/clingwash/corporate-pc.jpg\"/>\n<img alt=\"기업 고객 서비스 안내 이미지\" class=\"mo-only\" src=\"/images/service/clingwash/corporate-mo.jpg\"/>\n</div>\n<div class=\"board-head\">\n<p class=\"subject\">기업 고객</p>\n<p class=\"desc\">\n                                       ",
+      "content_type": "image/webp",
+      "bytes": 70468,
+      "sha256": "1aa6dd0eae5038fa027403a3a2e412113fce7922392c89c638c0c1817679d152",
+      "source_sha256": "606c51f8be77994df0f958da0b9d735e81a1b25375cc8e7c539b8b571c4e2eed",
+      "dhash": "ff8ff772e2a2f379",
+      "width": 700,
+      "height": 394,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/service/clingwash"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-007.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/esg/esg-governance.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "등 다양한 외부 이해관계자와 더불어 지속가능한 미래로 나아가기 위해 끊임없는 고민과 노력을 가하고 있습니다.</p>\n</div>\n</div>\n</div>\n<div class=\"post-item\">\n<div class=\"post-wrap\">\n<div class=\"post-figure\">\n<img alt=\"지배구조\" src=\"/images/greencar/esg/esg-governance.jpg\"/>\n</div>\n<div class=\"post-info\">\n<span class=\"post-sub\">Governance</span>\n<em class=\"post-subject\">지배구조</em>\n<p class=\"",
+      "content_type": "image/webp",
+      "bytes": 14036,
+      "sha256": "f7464978ce468ae97b9c7372dbeff3f99a489f05e03a7bfb1677a04b77062adf",
+      "source_sha256": "27f2a96f5b6259ad686d8e7aad289692da2af45bc22d56a91cc8b0868d1dbce5",
+      "dhash": "8c7272616deccccc",
+      "width": 588,
+      "height": 331,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/esg"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-008.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/communicate-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "시간 그리고<br/> 공간을 연결합니다</p>\n</div>\n</div>\n</div>\n<div class=\"post-item communicate\">\n<div class=\"post-wrap\">\n<picture class=\"post-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/communicate-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/communicate.jpg\"/>\n<img alt=\"\" src=\"/images/greenc",
+      "content_type": "image/webp",
+      "bytes": 63702,
+      "sha256": "41ad0d04943cae5715232ef3e2c9071422112644444c85b5bfda97d70004b781",
+      "source_sha256": "de7089178f6e1fe767fb0a7700e72d6033d1e0bb25c08e792d55909855667b2e",
+      "dhash": "2d0eb0b106080000",
+      "width": 700,
+      "height": 748,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-009.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/communicate.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": "lass=\"post-wrap\">\n<picture class=\"post-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/communicate-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/communicate.jpg\"/>\n<img alt=\"\" src=\"/images/greencar/about/communicate.jpg\"/>\n</picture>\n<div class=\"post-info\">\n<em class=\"post-subject",
+      "content_type": "image/webp",
+      "bytes": 46286,
+      "sha256": "25baa793b5d0abfedb35e45d125e761320801be4eed4e86330df2fde12d9f4c4",
+      "source_sha256": "9a602820f2d4b05f501105e23a6298f0392b134119257d14ad64f5afdb8e8045",
+      "dhash": "16275a5858592610",
+      "width": 716,
+      "height": 480,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-010.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/create-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": " 사용자 중심의<br/> 이동 경험을 설계합니다</p>\n</div>\n</div>\n</div>\n<div class=\"post-item create\">\n<div class=\"post-wrap\">\n<picture class=\"post-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/create-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/create.jpg\"/>\n<img alt=\"\" src=\"/images/greencar/ab",
+      "content_type": "image/webp",
+      "bytes": 65822,
+      "sha256": "c2d5cac1d87486e3f874b4fe4a8da9d79edbbf48a1e3bd2afe001d39292359f3",
+      "source_sha256": "5fe970db24d591fad07dcccc70b70b85886e1feec82e0265bd9e32168b41a4fa",
+      "dhash": "b36373bc4c230800",
+      "width": 700,
+      "height": 748,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-011.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/create.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": "div class=\"post-wrap\">\n<picture class=\"post-figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/create-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/create.jpg\"/>\n<img alt=\"\" src=\"/images/greencar/about/create.jpg\"/>\n</picture>\n<div class=\"post-info co-create\">\n<em class=\"post-su",
+      "content_type": "image/webp",
+      "bytes": 46500,
+      "sha256": "7c6b12ccd2bd2e57fd39855772f8a78396a31f3d75479c8284432b2a4ea97bf0",
+      "source_sha256": "4940fbbd9b5f62f6b88a18958eaf895fc1b91ceddc66242351e3693caee2653d",
+      "dhash": "26266666b4582710",
+      "width": 716,
+      "height": 480,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-012.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/about-photo-mo.jpg",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "<br class=\"pc-only\"/> ‘그린카’는 계열사 협업을 통한 효과적인 차량 유지관리 및 매각 시스템을 보유하고 있습니다.</p>\n</div>\n<div class=\"section-body\">\n<picture class=\"figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/about-photo-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/about-photo-pc.jpg\"/>\n<img alt=\"\" src=\"/images/gre",
+      "content_type": "image/webp",
+      "bytes": 47092,
+      "sha256": "d97c02af8b385fdb39d1e6020085e7ffe705cd67ad79c56450a26d58237c0579",
+      "source_sha256": "5b597751df4838c4cfe5447b8cdc71db96c5e59c4c17a1b0f76aa6014815a3b4",
+      "dhash": "a3e9d8696168f1d0",
+      "width": 700,
+      "height": 1896,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-013.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/about-photo-pc.jpg",
+      "source_tag": "html-data, img:banner, img:image, source:banner, source:image",
+      "context": " class=\"section-body\">\n<picture class=\"figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/about-photo-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/about-photo-pc.jpg\"/>\n<img alt=\"\" src=\"/images/greencar/about/about-photo-pc.jpg\"/>\n</picture>\n</div>\n</div>\n</div>\n<div class=\"section mod",
+      "content_type": "image/webp",
+      "bytes": 24818,
+      "sha256": "8bf16d8f7524c5b3c701e8ec1bb6388ee7ec113c91c532572daeac40abd66645",
+      "source_sha256": "51295777ac19c957532679f215b6aebde210008c4f507f5a1caf84401467dfd3",
+      "dhash": "2c525231d4d4dc22",
+      "width": 1440,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-014.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/about-photo02-mo.jpg",
+      "source_tag": "html-data, source:image",
+      "context": "스 ‘세차클링’까지<br class=\"pc-only\"/> 사용자 편의성을 중점으로 모빌리티 그 이상의 프리미엄 서비스를 선도합니다.</p>\n</div>\n<div class=\"section-body\">\n<picture class=\"figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/about-photo02-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/about-photo02-pc.jpg\"/>\n<img alt=\"\" src=\"/images/g",
+      "content_type": "image/webp",
+      "bytes": 35086,
+      "sha256": "9b024279cb67b74b56ac503893df778c85adda13af4b8d749dddad6f24fcdfc8",
+      "source_sha256": "edf3701a17b8316b337cbbcaa289920fcc5ff8e4fe808a6a57fe7e6e59b16e1b",
+      "dhash": "616951d1d0686979",
+      "width": 700,
+      "height": 1850,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-015.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/about-photo02-pc.jpg",
+      "source_tag": "html-data, img:image, source:image",
+      "context": "lass=\"section-body\">\n<picture class=\"figure\">\n<source media=\"(max-width: 1023px)\" srcset=\"/images/greencar/about/about-photo02-mo.jpg\"/>\n<source media=\"(max-width: 1920px)\" srcset=\"/images/greencar/about/about-photo02-pc.jpg\"/>\n<img alt=\"\" src=\"/images/greencar/about/about-photo02-pc.jpg\"/>\n</picture>\n<div class=\"post-list module-f\">\n<div clas",
+      "content_type": "image/webp",
+      "bytes": 22016,
+      "sha256": "b760ab0a1e4124562b27dba95f09b6419bf19c722d84ab9fa366e21fb6bbdabf",
+      "source_sha256": "006d743484e020898df7f5c4f60b0324f42e6f2ef92f3e07110de398c8a612ef",
+      "dhash": "d4cbd4d4cbc4c8c8",
+      "width": 1440,
+      "height": 850,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-016.webp",
+      "source_url": "https://www.greencar.co.kr/images/greencar/about/mobility.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "images/greencar/about/about-photo02-pc.jpg\"/>\n</picture>\n<div class=\"post-list module-f\">\n<div class=\"post-item\">\n<div class=\"post-wrap\">\n<div class=\"post-figure\">\n<img alt=\"\" src=\"/images/greencar/about/mobility.jpg\"/>\n</div>\n<div class=\"post-body\">\n<div class=\"data-list\">\n<div class=\"data-item\">\n<div class=\"data-wrap\">\n<div class=\"da",
+      "content_type": "image/webp",
+      "bytes": 21880,
+      "sha256": "98a90b52222c5d65b9c5f87db348b1b16da424f8602d6ef0b0464cc9ae13981c",
+      "source_sha256": "af7c5d3b683381adeaef59b3664ea4fd2bd29b73abd206ff24768299e8b83f87",
+      "dhash": "9386b68c8cb0b258",
+      "width": 710,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/greencar/about"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-017.svg",
+      "source_url": "https://www.greencar.co.kr/fonts/pretendard/Pretendard-Thin.svg",
+      "source_tag": "external-css",
+      "context": "rd/Pretendard-Thin.woff2\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-Thin.woff\") format(\"woff\"), url(\"../../../fonts/pretendard/Pretendard-Thin.otf\") format(\"opentype\"), url(\"../../../fonts/pretendard/Pretendard-Thin.ttf\") format(\"truetype\"), url(\"../../../fonts/pretendard/Pretendard-Thin.svg\") format(\"svg\");\n  font-display: fallback;\n}\n@font-face {\n  font-family: \"Pretendard\";\n  ",
+      "content_type": "image/svg+xml",
+      "bytes": 7131929,
+      "sha256": "284f34f6168f12aa4f9a87e95b1ff9f6a3b3706e6c06e605f081f7c1f7efabae",
+      "source_sha256": "284f34f6168f12aa4f9a87e95b1ff9f6a3b3706e6c06e605f081f7c1f7efabae",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-018.svg",
+      "source_url": "https://www.greencar.co.kr/fonts/pretendard/Pretendard-ExtraLight.svg",
+      "source_tag": "external-css",
+      "context": ".woff2\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-ExtraLight.woff\") format(\"woff\"), url(\"../../../fonts/pretendard/Pretendard-ExtraLight.otf\") format(\"opentype\"), url(\"../../../fonts/pretendard/Pretendard-ExtraLight.ttf\") format(\"truetype\"), url(\"../../../fonts/pretendard/Pretendard-ExtraLight.svg\") format(\"svg\");\n  font-display: fallback;\n}\n@font-face {\n  font-family: \"Pretendar",
+      "content_type": "image/svg+xml",
+      "bytes": 7078503,
+      "sha256": "242a257a9dfa5a20283aa5a2bd51f63229aa8d9b5b48d0d1c1f851bfc6f8d2b3",
+      "source_sha256": "242a257a9dfa5a20283aa5a2bd51f63229aa8d9b5b48d0d1c1f851bfc6f8d2b3",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-019.svg",
+      "source_url": "https://www.greencar.co.kr/fonts/pretendard/Pretendard-Light.svg",
+      "source_tag": "external-css",
+      "context": "retendard-Light.woff2\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-Light.woff\") format(\"woff\"), url(\"../../../fonts/pretendard/Pretendard-Light.otf\") format(\"opentype\"), url(\"../../../fonts/pretendard/Pretendard-Light.ttf\") format(\"truetype\"), url(\"../../../fonts/pretendard/Pretendard-Light.svg\") format(\"svg\");\n  font-display: fallback;\n}\n@font-face {\n  font-family: \"Pretendard\";\n ",
+      "content_type": "image/svg+xml",
+      "bytes": 7142787,
+      "sha256": "a33d5b455747a380c9a900bf97d2ce1189abb7dc11353c123d138faef87869a9",
+      "source_sha256": "a33d5b455747a380c9a900bf97d2ce1189abb7dc11353c123d138faef87869a9",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-020.svg",
+      "source_url": "https://www.greencar.co.kr/fonts/pretendard/Pretendard-Regular.svg",
+      "source_tag": "external-css",
+      "context": "d-Regular.woff2\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-Regular.woff\") format(\"woff\"), url(\"../../../fonts/pretendard/Pretendard-Regular.otf\") format(\"opentype\"), url(\"../../../fonts/pretendard/Pretendard-Regular.ttf\") format(\"truetype\"), url(\"../../../fonts/pretendard/Pretendard-Regular.svg\") format(\"svg\");\n  font-display: fallback;\n}\n@font-face {\n  font-family: \"Pretendard\";",
+      "content_type": "image/svg+xml",
+      "bytes": 7078539,
+      "sha256": "ad62c23918e23779eb89b4d99d0f08eb65d77251ca348595e01d02a5f910fdbf",
+      "source_sha256": "ad62c23918e23779eb89b4d99d0f08eb65d77251ca348595e01d02a5f910fdbf",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-021.svg",
+      "source_url": "https://www.greencar.co.kr/fonts/pretendard/Pretendard-Medium.svg",
+      "source_tag": "external-css",
+      "context": "ndard-Medium.woff2\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-Medium.woff\") format(\"woff\"), url(\"../../../fonts/pretendard/Pretendard-Medium.otf\") format(\"opentype\"), url(\"../../../fonts/pretendard/Pretendard-Medium.ttf\") format(\"truetype\"), url(\"../../../fonts/pretendard/Pretendard-Medium.svg\") format(\"svg\");\n  font-display: fallback;\n}\n@font-face {\n  font-family: \"Pretendard\";\n",
+      "content_type": "image/svg+xml",
+      "bytes": 7014580,
+      "sha256": "b821e71d7dc8bdbcc411fb979e41453290aaa4ee1855b3031b78437fbe3ecefa",
+      "source_sha256": "b821e71d7dc8bdbcc411fb979e41453290aaa4ee1855b3031b78437fbe3ecefa",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-022.svg",
+      "source_url": "https://www.greencar.co.kr/fonts/pretendard/Pretendard-SemiBold.svg",
+      "source_tag": "external-css",
+      "context": "miBold.woff2\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-SemiBold.woff\") format(\"woff\"), url(\"../../../fonts/pretendard/Pretendard-SemiBold.otf\") format(\"opentype\"), url(\"../../../fonts/pretendard/Pretendard-SemiBold.ttf\") format(\"truetype\"), url(\"../../../fonts/pretendard/Pretendard-SemiBold.svg\") format(\"svg\");\n  font-display: fallback;\n}\n@font-face {\n  font-family: \"Pretendard\"",
+      "content_type": "image/svg+xml",
+      "bytes": 6926621,
+      "sha256": "4fd2c52c78be381ae10411ecbd03125c552151148f3af790c88d42836d911234",
+      "source_sha256": "4fd2c52c78be381ae10411ecbd03125c552151148f3af790c88d42836d911234",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-023.svg",
+      "source_url": "https://www.greencar.co.kr/fonts/pretendard/Pretendard-Bold.svg",
+      "source_tag": "external-css",
+      "context": "d/Pretendard-Bold.woff2\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-Bold.woff\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-Bold.otf\") format(\"opentype\"), url(\"../../../fonts/pretendard/Pretendard-Bold.ttf\") format(\"truetype\"), url(\"../../../fonts/pretendard/Pretendard-Bold.svg\") format(\"svg\");\n  font-display: fallback;\n}\n@font-face {\n  font-family: \"Pretendard\";\n  ",
+      "content_type": "image/svg+xml",
+      "bytes": 6849550,
+      "sha256": "aa8f112b3098d8f0a4e2cdecc956560259279b160a6e049f98ac259a760d673b",
+      "source_sha256": "aa8f112b3098d8f0a4e2cdecc956560259279b160a6e049f98ac259a760d673b",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-024.svg",
+      "source_url": "https://www.greencar.co.kr/fonts/pretendard/Pretendard-ExtraBold.svg",
+      "source_tag": "external-css",
+      "context": "old.woff2\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-ExtraBold.woff\") format(\"woff\"), url(\"../../../fonts/pretendard/Pretendard-ExtraBold.otf\") format(\"opentype\"), url(\"../../../fonts/pretendard/Pretendard-ExtraBold.ttf\") format(\"truetype\"), url(\"../../../fonts/pretendard/Pretendard-ExtraBold.svg\") format(\"svg\");\n  font-display: fallback;\n}\n@font-face {\n  font-family: \"Pretendard",
+      "content_type": "image/svg+xml",
+      "bytes": 6753225,
+      "sha256": "385f4c6b9490d4e9ac0da96dde412513ede9580561439ae05355c5ded82b687c",
+      "source_sha256": "385f4c6b9490d4e9ac0da96dde412513ede9580561439ae05355c5ded82b687c",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-025.svg",
+      "source_url": "https://www.greencar.co.kr/fonts/pretendard/Pretendard-Black.svg",
+      "source_tag": "external-css",
+      "context": "retendard-Black.woff2\") format(\"woff2\"), url(\"../../../fonts/pretendard/Pretendard-Black.woff\") format(\"woff\"), url(\"../../../fonts/pretendard/Pretendard-Black.otf\") format(\"opentype\"), url(\"../../../fonts/pretendard/Pretendard-Black.ttf\") format(\"truetype\"), url(\"../../../fonts/pretendard/Pretendard-Black.svg\") format(\"svg\");\n  font-display: fallback;\n}\n@font-face {\n  font-family: \"Outfit\";\n  fon",
+      "content_type": "image/svg+xml",
+      "bytes": 6666105,
+      "sha256": "1a85ff86fbec055636e4baed1575902862ddf66246df0f8a89e56901f054f674",
+      "source_sha256": "1a85ff86fbec055636e4baed1575902862ddf66246df0f8a89e56901f054f674",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-026.webp",
+      "source_url": "https://www.greencar.co.kr/images/common/bg-noise-571-321.png",
+      "source_tag": "external-css",
+      "context": "-a .board-item {\n    width: 100%;\n    padding: 3rem;\n  }\n}\n.board-list.module-a .board-item:after {\n  position: absolute;\n  top: 0;\n  left: 50%;\n  transform: translateX(-50%);\n  content: \"\";\n  display: block;\n  width: 57.1rem;\n  height: 32.1rem;\n  background: url(\"/images/common/bg-noise-571-321.png\") repeat-x;\n  background-size: 100%;\n}\n@media (max-width: 1023px) {\n  .board-list.module-a .board-i",
+      "content_type": "image/webp",
+      "bytes": 72158,
+      "sha256": "28d9573c414ffed0d27ce9a2ebdd9a16a1b1b90ebafb39521209f11248fa848d",
+      "source_sha256": "c8fdb3564651518f4b4e43ef5dec213330dcad038bd8f806b02975a5d28fa59f",
+      "dhash": "09180a0a88980898",
+      "width": 571,
+      "height": 321,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-027.svg",
+      "source_url": "https://www.greencar.co.kr/images/main/bg-01-01.svg",
+      "source_tag": "html-data, img:image",
+      "context": "iv class=\"section section-02\">\n<div class=\"section-wrap\">\n<div class=\"sub-section sub-section-01\">\n<div class=\"sub-section-wrap\">\n<div class=\"bg\">\n<img alt=\"\" class=\"bg-01-01\" src=\"/images/main/bg-01-01.svg\"/>\n<img alt=\"\" class=\"bg-01-02\" src=\"/images/main/bg-01-02.svg\"/>\n<img alt=\"\" class=\"bg-01-03\" src=\"/images/main/bg-01-0",
+      "content_type": "image/svg+xml",
+      "bytes": 1007,
+      "sha256": "b7761cb29b99c893adf1bd206fc777e992c000def2aec2e3194f6c97baa246ec",
+      "source_sha256": "b7761cb29b99c893adf1bd206fc777e992c000def2aec2e3194f6c97baa246ec",
+      "dhash": "",
+      "width": 777,
+      "height": 1086,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-028.svg",
+      "source_url": "https://www.greencar.co.kr/images/main/bg-02-01.svg",
+      "source_tag": "html-data, img:image",
+      "context": " 사람,\n                                </div>\n</div>\n</div>\n<div class=\"sub-section sub-section-02\">\n<div class=\"sub-section-wrap\">\n<div class=\"bg\">\n<img alt=\"\" class=\"bg-02-01\" src=\"/images/main/bg-02-01.svg\"/>\n<img alt=\"\" class=\"bg-02-02\" src=\"/images/main/bg-02-02.svg\"/>\n</div>\n<div class=\"title\">\n                           ",
+      "content_type": "image/svg+xml",
+      "bytes": 745,
+      "sha256": "b4d8536e842a441d6977bcddd23fd8555b57e98bcffa18de040120e0bae67a4d",
+      "source_sha256": "b4d8536e842a441d6977bcddd23fd8555b57e98bcffa18de040120e0bae67a4d",
+      "dhash": "",
+      "width": 995,
+      "height": 1216,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-029.svg",
+      "source_url": "https://www.greencar.co.kr/images/main/bg-03-01.svg",
+      "source_tag": "html-data, img:image",
+      "context": "  시간\n                                </div>\n</div>\n</div>\n<div class=\"sub-section sub-section-03\">\n<div class=\"sub-section-wrap\">\n<div class=\"bg\">\n<img alt=\"\" class=\"bg-03-01\" src=\"/images/main/bg-03-01.svg\"/>\n<img alt=\"\" class=\"bg-03-02\" src=\"/images/main/bg-03-02.svg\"/>\n<img alt=\"\" class=\"bg-03-03\" src=\"/images/main/bg-03-0",
+      "content_type": "image/svg+xml",
+      "bytes": 549,
+      "sha256": "252daa9f7001ac5013472b032d9aadbd368a5a77c762ff9990e8f77479d66874",
+      "source_sha256": "252daa9f7001ac5013472b032d9aadbd368a5a77c762ff9990e8f77479d66874",
+      "dhash": "",
+      "width": 920,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-030.svg",
+      "source_url": "https://www.greencar.co.kr/images/main/bg-03-02.svg",
+      "source_tag": "html-data, img:image",
+      "context": "class=\"sub-section sub-section-03\">\n<div class=\"sub-section-wrap\">\n<div class=\"bg\">\n<img alt=\"\" class=\"bg-03-01\" src=\"/images/main/bg-03-01.svg\"/>\n<img alt=\"\" class=\"bg-03-02\" src=\"/images/main/bg-03-02.svg\"/>\n<img alt=\"\" class=\"bg-03-03\" src=\"/images/main/bg-03-03.svg\"/>\n</div>\n<div class=\"title\">\n                           ",
+      "content_type": "image/svg+xml",
+      "bytes": 398,
+      "sha256": "6be31ac759a860a50e989b7f2b92d759a48d73499ff4602d47ff0e1625cdc71b",
+      "source_sha256": "6be31ac759a860a50e989b7f2b92d759a48d73499ff4602d47ff0e1625cdc71b",
+      "dhash": "",
+      "width": 920,
+      "height": 920,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-031.webp",
+      "source_url": "https://www.greencar.co.kr/images/main/bg-section-06-02.png",
+      "source_tag": "html-data, img:image",
+      "context": "der\"></div>\n<div class=\"swiper-button-next\"></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"section section-06 active-animation-01\">\n<div class=\"section-bg\">\n<img alt=\"\" src=\"/images/main/bg-section-06-02.png\"/>\n</div>\n<div class=\"section-wrap\">\n<div class=\"section-head\">\n<h3 class=\"section-subject\">더 나은 모빌리티<br class=\"mo-only\"",
+      "content_type": "image/webp",
+      "bytes": 15966,
+      "sha256": "e30f7540d4b5ea330c408263c0850b6bedad710038ad0b9bd0dcb538df294716",
+      "source_sha256": "a74d9dca8c0f059108107e39947a561a93b73814581b7073581d3cd1e860923f",
+      "dhash": "1b018d19b39c0d22",
+      "width": 1272,
+      "height": 967,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-032.webp",
+      "source_url": "https://www.greencar.co.kr/images/main/section-05-01.jpg",
+      "source_tag": "html-data, script-data",
+      "context": "                                 <div class=\"swiper-wrap\">\n                                        <div class=\"swiper-figure\">\n                                            <img src=\"/images/main/section-05-01.jpg\" alt=\"Car interior at sunset\">\n                                        </div>\n                                        <d",
+      "content_type": "image/webp",
+      "bytes": 6848,
+      "sha256": "03e5eb11d428daa88d6d13ed4aaedb9d744e8a09a695540e08e4e40e2f81cace",
+      "source_sha256": "f8fc4e94eb7c8abe879c586d9482192b848609c659299147c6d51cd74b2dc8f3",
+      "dhash": "4727c3c202030183",
+      "width": 345,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-033.webp",
+      "source_url": "https://www.greencar.co.kr/images/main/section-05-02.jpg",
+      "source_tag": "html-data",
+      "context": "                                 <div class=\"swiper-wrap\">\n                                        <div class=\"swiper-figure\">\n                                            <img src=\"/images/main/section-05-02.jpg\" alt=\"Ocean surfing\">\n                                        </div>\n                                        <div class=",
+      "content_type": "image/webp",
+      "bytes": 29548,
+      "sha256": "d6c9403edf8c07153e609d1639b9110c220ca597b4e98e53291b1a5d560d0e00",
+      "source_sha256": "d3c7ac5001ff2f50673d059926b3beb59272480301695de3e38579a205e59c62",
+      "dhash": "0c19e71b72f86ccb",
+      "width": 345,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-034.webp",
+      "source_url": "https://www.greencar.co.kr/images/main/section-05-03.jpg",
+      "source_tag": "html-data",
+      "context": "                                 <div class=\"swiper-wrap\">\n                                        <div class=\"swiper-figure\">\n                                            <img src=\"/images/main/section-05-03.jpg\" alt=\"Green vintage car\">\n                                        </div>\n                                        <div cl",
+      "content_type": "image/webp",
+      "bytes": 32450,
+      "sha256": "cc575e2df828841a129d33a0f9866a82e270ba34a869fd167a18ab11b9f35bbb",
+      "source_sha256": "9a92c48bb1acdbb0820b3fccf222a29b0fa532ea23735fdedf7356c06daca1f1",
+      "dhash": "7ade3b0f8e0f1f35",
+      "width": 345,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-035.webp",
+      "source_url": "https://www.greencar.co.kr/images/main/section-05-04.jpg",
+      "source_tag": "html-data",
+      "context": "                                 <div class=\"swiper-wrap\">\n                                        <div class=\"swiper-figure\">\n                                            <img src=\"/images/main/section-05-04.jpg\" alt=\"Road through forest\">\n                                        </div>\n                                        <div ",
+      "content_type": "image/webp",
+      "bytes": 61858,
+      "sha256": "e5779fe1caca6b1fdad6a72d666e6f4fceb499bb31d5e3155ba8e4b26d70ed41",
+      "source_sha256": "ec1991d31085629060fc70683824eec6896204263551e4f0784557e753d1d403",
+      "dhash": "ffffbfcfebc9f1ff",
+      "width": 345,
+      "height": 460,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/greencar/reference-036.webp",
+      "source_url": "https://pentabreed.s3.ap-northeast-2.amazonaws.com/upload/gcar/popupImage/60708341-6747-4344-a89b-08c77a164476.jpg",
+      "source_tag": "script-data",
+      "context": "At,             // \"2025-11-26 13:48\",\n            updatedBy,             // \"ksj\",\n            updatedAt,             // \"2025-11-26 13:48\",\n            imageUrl,              // \"https://pentabreed.s3.ap-northeast-2.amazonaws.com/upload/gcar/popupImage/60708341-6747-4344-a89b-08c77a164476.jpg\"\n        } = popup\n\n        if (blankYn === 'Y') {\n            popupHtmlArr.push(`\n            <div clas",
+      "content_type": "image/webp",
+      "bytes": 27118,
+      "sha256": "19e9508bfee55f5da3caf1e5fc8c7590975b154ccddba3e00ac72e5575949ef3",
+      "source_sha256": "4e2d295ddadaae6adf55ec783a21ec14ec5fb2e013701172e2a1bc2016df18e1",
+      "dhash": "dfe7abb3b9b9f363",
+      "width": 1439,
+      "height": 1090,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.greencar.co.kr/"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_국내/greencar/og.png",
       "source_url": "https://ghp-gn-ui.greencar.co.kr/pageMetaImage/2026/03/06/663ecf6c-28e9-4f76-92ab-37a690f1cd63.png",
@@ -28,66 +1529,6 @@
       "sha256": "6b943df24fc1feb76e2668b8aaa4cf24a00ff1a01ecc6890d5e41afb2273149c",
       "width": 2400,
       "height": 1260
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/greencar/logo-1.png",
-      "source_url": "https://www.greencar.co.kr/images/og-Greencar.png",
-      "source_tag": "json-ld.logo",
-      "context": "structured data logo",
-      "content_type": "image/png",
-      "bytes": 12141,
-      "sha256": "1249d53ba20b6bb3529b34deed1ecaad37fb2dbd82bb5125128f967ca6af451b",
-      "width": 1200,
-      "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/greencar/logo-2.png",
-      "source_url": "https://www.greencar.co.kr/images/main/section-04-01-logo-mo.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img Gcar 로고 div logo div swiper-head div swiper-wrap div swiper-item swiper-slide swiper-slide-active",
-      "content_type": "image/png",
-      "bytes": 3028,
-      "sha256": "b7492cdd3246e46d69db04e63c979df326e4145536cc8f94c20ddd63732b7efb",
-      "width": 310,
-      "height": 80
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/greencar/reference-1.svg",
-      "source_url": "https://www.greencar.co.kr/images/main/bg-01-01.svg",
-      "source_tag": "img:page-image",
-      "context": "img bg-01-01 div bg div sub-section-wrap div sub-section sub-section-01 div section-wrap",
-      "content_type": "image/svg+xml",
-      "bytes": 1007,
-      "sha256": "b7761cb29b99c893adf1bd206fc777e992c000def2aec2e3194f6c97baa246ec",
-      "width": 777,
-      "height": 1086
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/greencar/reference-2.svg",
-      "source_url": "https://www.greencar.co.kr/images/main/bg-02-01.svg",
-      "source_tag": "img:page-image",
-      "context": "img bg-02-01 div bg div sub-section-wrap div sub-section sub-section-02 div section-wrap",
-      "content_type": "image/svg+xml",
-      "bytes": 745,
-      "sha256": "b4d8536e842a441d6977bcddd23fd8555b57e98bcffa18de040120e0bae67a4d",
-      "width": 995,
-      "height": 1216
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/greencar/reference-3.svg",
-      "source_url": "https://www.greencar.co.kr/images/main/bg-03-01.svg",
-      "source_tag": "img:page-image",
-      "context": "img bg-03-01 div bg div sub-section-wrap div sub-section sub-section-03 div section-wrap",
-      "content_type": "image/svg+xml",
-      "bytes": 549,
-      "sha256": "252daa9f7001ac5013472b032d9aadbd368a5a77c762ff9990e8f77479d66874",
-      "width": 920,
-      "height": 920
     }
   ]
 }

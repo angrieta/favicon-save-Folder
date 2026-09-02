@@ -5,7 +5,18 @@
   "page_url": "https://pickcarjeju.com/",
   "page_title": "픽카제주 - 제주 렌트카 가격비교",
   "collection_status": "partial",
-  "collection_error": "banner:ValueError:https://pickcarjeju.com/assets/coastal-drive.mp4; reference:ValueError:https://pickcarjeju.com/assets/coastal-drive.mp4",
+  "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 3,
+    "desktop_pages": 3,
+    "mobile_pages": 3,
+    "stylesheets": 2,
+    "scripts": 4,
+    "candidates": 97,
+    "attempted_assets": 97,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:11:20.240996+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,6 +31,45 @@
     },
     {
       "type": "social",
+      "path": "assets/렌터카_국내/pickcar-jeju/social-001.webp",
+      "source_url": "https://pickcarjeju.com/assets/coastal-drive.jpg",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "erty=\"og:title\"/>\n<meta content=\"제주도 렌터카를 한 번에 비교하고 숨은 비용 없는 총액으로 바로 예약하세요.\" property=\"og:description\"/>\n<meta content=\"https://pickcarjeju.com/\" property=\"og:url\"/>\n<meta content=\"https://pickcarjeju.com/assets/coastal-drive.jpg\" property=\"og:image\"/>\n<meta content=\"ko_KR\" property=\"og:locale\"/>\n<meta content=\"summary_large_image\" name=\"twitter:ca",
+      "content_type": "image/webp",
+      "bytes": 113088,
+      "sha256": "2466db44f0284a1ff22ac0d49634531ab9aa74ab12143bec6b038851490d0cef",
+      "source_sha256": "60de5190e1cb13d54ebdbe2db6112cb70b8a93529f28a79fea1aabebc687da84",
+      "dhash": "1f1d1f1f39b58b17",
+      "width": 1376,
+      "height": 768,
+      "variant": "shared",
+      "source_pages": [
+        "https://pickcarjeju.com/",
+        "https://pickcarjeju.com/index.html",
+        "https://pickcarjeju.com/menu.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pickcar-jeju/reference-001.webp",
+      "source_url": "https://pickcarjeju.com/assets/icon-512.png",
+      "source_tag": "html-data",
+      "context": "rnateName\": \"PickCar Jeju\",\r\n        \"legalName\": \"주식회사 동행컴퍼니\",\r\n        \"url\": \"https://pickcarjeju.com/\",\r\n        \"logo\": {\r\n          \"@type\": \"ImageObject\",\r\n          \"url\": \"https://pickcarjeju.com/assets/icon-512.png\",\r\n          \"width\": 512,\r\n          \"height\": 512\r\n        },\r\n        \"image\": \"https://pickcarjeju.com/assets/coasta",
+      "content_type": "image/webp",
+      "bytes": 6996,
+      "sha256": "4b1d8478644408ce21bc433be2cfb3b3ecce5fa943027878c04c1eaa3f1fde3a",
+      "source_sha256": "83fddf098eb58d1a0550048ca40fb25176803fc6a1e6530eea098ecff5d10fbf",
+      "dhash": "331d173717173523",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://pickcarjeju.com/",
+        "https://pickcarjeju.com/index.html"
+      ]
+    },
+    {
+      "type": "social",
       "path": "assets/렌터카_국내/pickcar-jeju/og.jpg",
       "source_url": "https://pickcarjeju.com/assets/coastal-drive.jpg",
       "source_tag": "og:image",
@@ -28,18 +78,6 @@
       "sha256": "60de5190e1cb13d54ebdbe2db6112cb70b8a93529f28a79fea1aabebc687da84",
       "width": 1376,
       "height": 768
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/pickcar-jeju/logo-1.png",
-      "source_url": "https://pickcarjeju.com/assets/icon-512.png",
-      "source_tag": "json-ld.@graph[1].logo.url",
-      "context": "structured data logo",
-      "content_type": "image/png",
-      "bytes": 16561,
-      "sha256": "e61602e8a041064be093e4f424eb2617af473f49a5866848af165f6b2439f749",
-      "width": 512,
-      "height": 512
     }
   ]
 }

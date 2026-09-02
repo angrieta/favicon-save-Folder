@@ -2,10 +2,21 @@
   "company": "Avis",
   "category": "렌터카_글로벌",
   "requested_url": "https://www.avis.com/",
-  "page_url": "https://www.avis.com/en/home",
+  "page_url": "https://www.avis.com/",
   "page_title": "Car Rentals from Avis | Book Online & Save Now",
   "collection_status": "complete",
-  "collection_error": "",
+  "collection_error": "asset:https://www.avis.com/en/help/usa-faqs/1:HTTPError; asset:https://www.avis.com/_next/static/chunks/-white_featured.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 3,
+    "scripts": 26,
+    "candidates": 79,
+    "attempted_assets": 79,
+    "errors": 2,
+    "collected_at": "2026-09-03T08:25:20.290793+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,692 @@
       "height": 64
     },
     {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/avis/banner-001.svg",
+      "source_url": "https://www.avis.com/_next/static/media/avis-hero-banner-background.9ddd6f6a.svg",
+      "source_tag": "html-data, img:banner, img:image, script-data",
+      "context": " mui-1rqqug9\"><div class=\"MuiBox-root mui-ctpux\"><img alt=\"background image\" data-nimg=\"fill\" data-testid=\"image-component\" decoding=\"async\" fetchpriority=\"high\" sizes=\"100vw\" src=\"/_next/static/media/avis-hero-banner-background.9ddd6f6a.svg\" srcset=\"/_next/static/media/avis-hero-banner-background.9ddd6f6a.svg 640w, /_next/static/media/avis-hero-banner-backgro",
+      "content_type": "image/svg+xml",
+      "bytes": 577,
+      "sha256": "dc176e70bb61781a2b6ff9a8897bcc43f855505edd0ff0edb737ac18f3684cd5",
+      "source_sha256": "dc176e70bb61781a2b6ff9a8897bcc43f855505edd0ff0edb737ac18f3684cd5",
+      "dhash": "",
+      "width": 1360,
+      "height": 409,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.avis.com/en/cars/vehicles/us",
+        "https://www.avis.com/en/customer-service/faqs/usa/avis-car-sales",
+        "https://www.avis.com/en/customer-service/faqs/usa/car-assignment",
+        "https://www.avis.com/en/customer-service/faqs/usa/rental-locations-vehicles",
+        "https://www.avis.com/en/customer-service/faqs/usa/rental-policies",
+        "https://www.avis.com/en/help/usa-faqs/how-much-to-rent-a-car",
+        "https://www.avis.com/en/help/usa-faqs/lease-vs-rent",
+        "https://www.avis.com/en/help/usa-faqs/rent-for-someone-else",
+        "https://www.avis.com/en/help/usa-faqs/rent-without-insurance",
+        "https://www.avis.com/en/help/usa-faqs/rental-car-return",
+        "https://www.avis.com/en/home",
+        "https://www.avis.com/en/offers/us-offers/upgrade-on-us",
+        "https://www.avis.com/en/products-and-services/products"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/avis/logo-001.svg",
+      "source_url": "https://images.avis.com/is/content/abggwebprod/Logo-1?fmt=png-alpha&bfc=on",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img Logo.svg a MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways mui-m6tjvf div MuiBox-root mui-0 div MuiToolbar-root MuiToolbar-regular mui-mt8ald div MuiContainer-root MuiContainer-maxWidthXl mui-1v1a3wg header MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionRelative mui-1qiinxv",
+      "content_type": "image/svg+xml",
+      "bytes": 7680,
+      "sha256": "1341cc49cc4996d7944de608a2d78d2f3722cfddc057d024b82541dd6bdda4bd",
+      "source_sha256": "1341cc49cc4996d7944de608a2d78d2f3722cfddc057d024b82541dd6bdda4bd",
+      "dhash": "",
+      "width": 52,
+      "height": 22,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.avis.com/en/cars/vehicles/us",
+        "https://www.avis.com/en/customer-service/faqs/usa/avis-car-sales",
+        "https://www.avis.com/en/customer-service/faqs/usa/avis-car-sales/non-smoking",
+        "https://www.avis.com/en/customer-service/faqs/usa/car-assignment",
+        "https://www.avis.com/en/customer-service/faqs/usa/rental-locations-vehicles",
+        "https://www.avis.com/en/customer-service/faqs/usa/rental-policies",
+        "https://www.avis.com/en/help/usa-faqs/how-much-to-rent-a-car",
+        "https://www.avis.com/en/help/usa-faqs/lease-vs-rent",
+        "https://www.avis.com/en/help/usa-faqs/rent-for-someone-else",
+        "https://www.avis.com/en/help/usa-faqs/rent-without-insurance",
+        "https://www.avis.com/en/help/usa-faqs/rental-car-return",
+        "https://www.avis.com/en/home",
+        "https://www.avis.com/en/offers/us-offers/upgrade-on-us",
+        "https://www.avis.com/en/products-and-services/products"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/avis/logo-002.webp",
+      "source_url": "https://www.avis.com/content/dam/avis/na/us/common/offers/avis-car-rental-social-brand-1200x630.jpg",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "ntal car return process as easy and straightforward as possible. Find answers to all your questions about how to return your rental car.\" name=\"twitter:description\"/><meta content=\"https://www.avis.com/content/dam/avis/na/us/common/offers/avis-car-rental-social-brand-1200x630.jpg\" name=\"twitter:image\"/><link href=\"/next/avis/fonts.css\" rel=\"stylesheet\"/><script>\n    window.dataLayer = window.dataL",
+      "content_type": "image/webp",
+      "bytes": 10348,
+      "sha256": "5bd69ee92e61c196f4728f107844673f9e23417c253e671f2add336b90b2730c",
+      "source_sha256": "70279e6203b33b1687eb9adc6f3a224a303622b20ea1ecbabc75a950412d2fba",
+      "dhash": "2000686961680028",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.avis.com/en/cars/vehicles/us",
+        "https://www.avis.com/en/customer-service/faqs/usa/avis-car-sales",
+        "https://www.avis.com/en/customer-service/faqs/usa/avis-car-sales/non-smoking",
+        "https://www.avis.com/en/customer-service/faqs/usa/car-assignment",
+        "https://www.avis.com/en/customer-service/faqs/usa/rental-locations-vehicles",
+        "https://www.avis.com/en/customer-service/faqs/usa/rental-policies",
+        "https://www.avis.com/en/help/usa-faqs/how-much-to-rent-a-car",
+        "https://www.avis.com/en/help/usa-faqs/lease-vs-rent",
+        "https://www.avis.com/en/help/usa-faqs/rent-for-someone-else",
+        "https://www.avis.com/en/help/usa-faqs/rent-without-insurance",
+        "https://www.avis.com/en/help/usa-faqs/rental-car-return",
+        "https://www.avis.com/en/home",
+        "https://www.avis.com/en/offers/us-offers/upgrade-on-us",
+        "https://www.avis.com/en/products-and-services/products"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/avis/logo-003.svg",
+      "source_url": "https://images.avis.com/is/content/abggwebprod/AV1S_F1RST_WHITE_RGB?fmt=png-alpha&bfc=on",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img brand logo Membership advertisement logo div MuiBox-root mui-7oo1u div MuiBox-root mui-qv33cc div MuiBox-root mui-1sb7ptk section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400",
+      "content_type": "image/svg+xml",
+      "bytes": 3921,
+      "sha256": "84f2a1854113ffbaa2195ba166cef134c23e133fad0153600a7c7447829828e7",
+      "source_sha256": "84f2a1854113ffbaa2195ba166cef134c23e133fad0153600a7c7447829828e7",
+      "dhash": "",
+      "width": 10441,
+      "height": 1440,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/avis/logo-004.png",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-preferred-logo-2?fmt=png-alpha&bfc=on",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img brand logo Membership advertisement logo div MuiBox-root mui-7oo1u div MuiBox-root mui-qv33cc div MuiBox-root mui-1sb7ptk section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400",
+      "content_type": "image/png",
+      "bytes": 2577,
+      "sha256": "e339b04d5c923a5f68e6223c9c38ddcd71aafd6294a35a8a40fa656d8e9335e9",
+      "source_sha256": "fa6fa830ae9fa104eee675501b4a1f1c52aedb49de2966e9d349ce3943b68c07",
+      "dhash": "0000000000000000",
+      "width": 338,
+      "height": 43,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/avis/banner-002.svg",
+      "source_url": "https://www.avis.com/_next/static/media/budget-location-banner-bg.c329266e.svg",
+      "source_tag": "script-data",
+      "context": "//xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oACAECAQE/AH//xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oACAEDAQE/AH//2Q==\",blurWidth:8,blurHeight:8}},24743:(e,t,a)=>{a.r(t),a.d(t,{default:()=>s});let s={src:\"/_next/static/media/budget-location-banner-bg.c329266e.svg\",height:368,width:1329,blurWidth:0,blurHeight:0}},25023:(e,t,a)=>{a.d(t,{H:()=>c});var s=a(77487),i=a(64145),n=a(80115),",
+      "content_type": "image/svg+xml",
+      "bytes": 1246,
+      "sha256": "53fb734180688f7370b37dea7caa0feb21fcff3dce8da3367b9a79493adb347d",
+      "source_sha256": "53fb734180688f7370b37dea7caa0feb21fcff3dce8da3367b9a79493adb347d",
+      "dhash": "",
+      "width": 1329,
+      "height": 368,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-001.webp",
+      "source_url": "https://www.avis.com/_next/static/media/avis-download-button-logo.0475ea47.png",
+      "source_tag": "script-data",
+      "context": "s}})}):(0,n.jsx)(l.$,{aemAttributes:e,model:t,partProps:{adsCardStyling:c},dynamicMediaConfig:d.N.avis.MEMBERSHIP_ADDS})}},65398:(e,t,o)=>{o.r(t),o.d(t,{default:()=>n});let n={src:\"/_next/static/media/avis-download-button-logo.0475ea47.png\",height:460,width:460,blurDataURL:\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAFVBMVEXUAynWEjX",
+      "content_type": "image/webp",
+      "bytes": 5512,
+      "sha256": "3b70499d1ad207b6d991477be59c0d277b8790466fa729c76f65c94cc489bef5",
+      "source_sha256": "091653834e3bcc40ea5b8f7ed9b2a1536916f80bae343fbe862a5771c7978c59",
+      "dhash": "21d2216b51934c91",
+      "width": 460,
+      "height": 460,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-002.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-firstv2r2-1440x720:3-4?wid=375&hei=516&bfc=on",
+      "source_tag": "source:banner, source:image",
+      "context": "source picture div MuiBox-root mui-1d9ygux section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400 main aem-container-style_main__JO44S",
+      "content_type": "image/webp",
+      "bytes": 16282,
+      "sha256": "cda89d6c73636ab5a3b54243b2b5670ab459de08ed76c9a177f93d7651f6d141",
+      "source_sha256": "03a23bd77ba41ffa348bd866694c61c9e5e33810207548fc38719309ec2acfc7",
+      "dhash": "19318408483109e6",
+      "width": 375,
+      "height": 516,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/avis/banner-003.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-rental-car-return-faq-750x750:16-9?fmt=png-alpha&bfc=on",
+      "source_tag": "img:banner, img:image",
+      "context": "img Media Image div MuiBox-root mui-13q58no div MuiBox-root mui-5fbyer div MuiBox-root mui-1kxonj9 div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row mui-x0maj0 main aem-container-style_main__JO44S",
+      "content_type": "image/webp",
+      "bytes": 34876,
+      "sha256": "d2fc5a3a7c87ca0c74215adde10f8367946562932933f7d1f6c3179b78ed0788",
+      "source_sha256": "ba51df256ff7c3d4e815c65856731b62f26cc14df900cd22e13f48c2e65cfba2",
+      "dhash": "06313178db9d3c18",
+      "width": 1440,
+      "height": 810,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/help/usa-faqs/rental-car-return"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-003.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-rental-car-return-faq-750x750:1-1?fmt=png-alpha&bfc=on",
+      "source_tag": "img:banner, img:image",
+      "context": "img Media Image div MuiBox-root mui-13q58no div MuiBox-root mui-5fbyer div MuiBox-root mui-1kxonj9 div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row mui-x0maj0 main aem-container-style_main__JO44S",
+      "content_type": "image/webp",
+      "bytes": 10564,
+      "sha256": "9c014f7ad2d335aee6583d73c24fa088ff95864fd37dc12af4a6387c060fedd1",
+      "source_sha256": "b95c2d8561ce1999c7efb53ce0b46872564a98e5a3fe9940130fa84aaab3d6fb",
+      "dhash": "0f433179df1c1f3c",
+      "width": 375,
+      "height": 375,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/help/usa-faqs/rental-car-return"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/avis/banner-004.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-firstv2r2-1440x720:16-9?wid=1440&hei=609&bfc=on",
+      "source_tag": "img:banner, img:image, source:banner, source:image",
+      "context": "img avis-globalweb-firstv2r2-1440x720.jpg picture div MuiBox-root mui-1d9ygux section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400 main aem-container-style_main__JO44S",
+      "content_type": "image/webp",
+      "bytes": 59720,
+      "sha256": "70bfbe8cce9f6203cbd5b86b17079976c12d8506a6b4fd7a25546aef3ee6c447",
+      "source_sha256": "326940ad958f6523f8ca66947db04c42d04af0179458641342ce80de70e87ba0",
+      "dhash": "5c8d130b1313573c",
+      "width": 1440,
+      "height": 609,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-004.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/shutterstock_2506227165_darken:3-4?wid=375&hei=516&bfc=on",
+      "source_tag": "source:banner, source:image",
+      "context": "source picture div MuiBox-root mui-1d9ygux section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400 main aem-container-style_main__JO44S",
+      "content_type": "image/webp",
+      "bytes": 22128,
+      "sha256": "a1d110941f2913e70f1014688ec71f563dc7db1e77c89495496b9fbeb5ca5770",
+      "source_sha256": "ddbde04df959e3d331f8a07c2eed0813125061da01b08c0831fa7f573e49c18e",
+      "dhash": "40001b3864636969",
+      "width": 375,
+      "height": 516,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-005.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/shutterstock_2506227165_darken:16-9?wid=1440&hei=609&bfc=on",
+      "source_tag": "img:banner, img:image, source:banner, source:image",
+      "context": "img Excited playful European couple in sunglasses driving luxury car, enjoying music, singing and smiling, spouses going on vacation, windshield view picture div MuiBox-root mui-1d9ygux section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400 main aem-container-style_main__JO44S",
+      "content_type": "image/webp",
+      "bytes": 56646,
+      "sha256": "4fa3ab5f8cc6e90e74636c4113951ffa2862d942b46843d87516d369a4364a8a",
+      "source_sha256": "8e120415c3f4e20e46c115161330977effb04e9c5a363fd531b82919778a6c28",
+      "dhash": "8004001084849093",
+      "width": 1440,
+      "height": 609,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-006.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-hp-paynow-summer-r2:9-16?fmt=png-alpha&wid=558&hei=752&bfc=on",
+      "source_tag": "img:image",
+      "context": "img Young woman smiling at camera while sitting in convertible car. Man driving while couple enjoys sunny summer journey together. Travel and lifestyle concept. div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-m3good div",
+      "content_type": "image/webp",
+      "bytes": 58260,
+      "sha256": "5ec76a753cc18ff20c952a605bd82d8a523585f1b1a8dce3723582538d5aa000",
+      "source_sha256": "910e0281b6801934c4dadb2591c5f53fb21fdace172c2d324d2c0f6774ad71a6",
+      "dhash": "975d5c5359c96532",
+      "width": 558,
+      "height": 752,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-007.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-hp-paynow-summer-r2:4-5?fmt=png-alpha&wid=343&hei=430&bfc=on",
+      "source_tag": "img:image",
+      "context": "img Young woman smiling at camera while sitting in convertible car. Man driving while couple enjoys sunny summer journey together. Travel and lifestyle concept. div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-m3good div",
+      "content_type": "image/webp",
+      "bytes": 27836,
+      "sha256": "0216b626f7b86827f1663ab03aa1c3e50fa8be5c232c87e0a84ed486d0788da3",
+      "source_sha256": "50c97b416b085186f96f42ff4f68314cd3bfc8162f1233f1ad36756c2f3b1021",
+      "dhash": "951d595359c96530",
+      "width": 343,
+      "height": 430,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-008.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/amazontest3:16-9?fmt=png-alpha&wid=558&hei=344&bfc=on",
+      "source_tag": "img:image",
+      "context": "img amazontest3.png div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-1nmyu7j div",
+      "content_type": "image/webp",
+      "bytes": 9670,
+      "sha256": "5dbc71e745bcc092651edef92b4de300de35c8e99331236acb99716a1161479f",
+      "source_sha256": "583bb75a8e8211bc46947044817fbc0b838907d9874b53f3a0f969e599f62c4b",
+      "dhash": "8f696971f0cc3200",
+      "width": 558,
+      "height": 344,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-009.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/amazontest3:4-5?fmt=png-alpha&wid=343&hei=430&bfc=on",
+      "source_tag": "img:image",
+      "context": "img amazontest3.png div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-1nmyu7j div",
+      "content_type": "image/webp",
+      "bytes": 9750,
+      "sha256": "413d5e0907971ea8dfba25ccc98598e549812a8fd977aa30cc2811fd4a1ad868",
+      "source_sha256": "854991531a993733220e8cabad40098694c4dd71617cab224ac0ad9ad28d6c54",
+      "dhash": "0eece4b443b40000",
+      "width": 343,
+      "height": 430,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-010.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-offers-freeupgrade-edit:16-9?fmt=png-alpha&wid=558&hei=344&bfc=on",
+      "source_tag": "img:image",
+      "context": "img avis-globalweb-offers-freeupgrade-edit.jpg div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-13s4mim div",
+      "content_type": "image/webp",
+      "bytes": 36120,
+      "sha256": "41f1b3d60024fb27508d328d6d1c447fd0a3f7a96d499ce61276b43af0965de6",
+      "source_sha256": "f2ecf18e406bdd36b4af88870e8c8f64a8ca7a029ea5cc0bdea928457d822df8",
+      "dhash": "e048b138a5671b0f",
+      "width": 558,
+      "height": 344,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-011.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-offers-freeupgrade-edit:4-5?fmt=png-alpha&wid=343&hei=430&bfc=on",
+      "source_tag": "img:image",
+      "context": "img avis-globalweb-offers-freeupgrade-edit.jpg div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-13s4mim div",
+      "content_type": "image/webp",
+      "bytes": 23938,
+      "sha256": "1e738c0f553cda58cab19f05de71b56534edf43e7bb11ffc4d3781a0913664d2",
+      "source_sha256": "83ebdbb095ed452638d971f49b974cbe304bc380145e2ee055ca191747d6dce2",
+      "dhash": "7c728c3e19b50b25",
+      "width": 343,
+      "height": 430,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-012.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-appr2:9-16?wid=375&hei=574&bfc=on",
+      "source_tag": "source:image",
+      "context": "source picture div right MuiBox-root mui-1a9to0o div MuiBox-root mui-8xsxkm div MuiBox-root mui-ifmqwy div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400",
+      "content_type": "image/webp",
+      "bytes": 27738,
+      "sha256": "e8db54f901ca6c9ccc7ccc39186c01575346cf913e48259a6fd1f8ebd1d4fdc7",
+      "source_sha256": "86d044ca0a2260115dbaf0afab04759ee3139df0e0876f6de3d88fd4dd34bf1b",
+      "dhash": "0da18e34059e5908",
+      "width": 375,
+      "height": 574,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-013.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-appr2:2-1?wid=1440&hei=705&bfc=on",
+      "source_tag": "img:image, source:image",
+      "context": "img Mockup image of a woman holding and using mobile phone with blank screen while opening the car door picture div right MuiBox-root mui-1a9to0o div MuiBox-root mui-8xsxkm div MuiBox-root mui-ifmqwy div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400",
+      "content_type": "image/webp",
+      "bytes": 51728,
+      "sha256": "2cf14738ac040b5b720554a4badaabc210b690132050192631469c75967058f6",
+      "source_sha256": "552ff137550ec23536d12cb9159299e67003d6409eb526d809ebd7befa953be2",
+      "dhash": "1a2e4912360c9890",
+      "width": 1440,
+      "height": 705,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-014.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-hp-losangeles-1:9-16?fmt=png-alpha&wid=558&hei=752&bfc=on",
+      "source_tag": "img:image",
+      "context": "img avis-globalweb-hp-losangeles.png div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-m3good div",
+      "content_type": "image/webp",
+      "bytes": 76560,
+      "sha256": "512c798d030baa084d32ecb2f31dbd37ad9040f7c033dba96653d7f52bcaa54f",
+      "source_sha256": "cd807cb596c923f95d856e7889aab2b329de72c8ae1c40a63ead43664ffa4d5e",
+      "dhash": "304e0d99985b5f9c",
+      "width": 558,
+      "height": 752,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-015.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-hp-losangeles-1:4-5?fmt=png-alpha&wid=343&hei=430&bfc=on",
+      "source_tag": "img:image",
+      "context": "img avis-globalweb-hp-losangeles.png div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-m3good div",
+      "content_type": "image/webp",
+      "bytes": 31612,
+      "sha256": "7d01a4a1e3c281ceebecdb5dd5be37bd1545f4238e9795ebedf793445dd77d88",
+      "source_sha256": "d56355ff41a35df6062d7c6978fb4ac68a2fc59b049907d0ddff57a9da67ed8a",
+      "dhash": "384c4dd9d95bbecc",
+      "width": 343,
+      "height": 430,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-016.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/shutterstock_1073272577:16-9?fmt=png-alpha&wid=558&hei=344&bfc=on",
+      "source_tag": "img:image",
+      "context": "img Drone Photography Sunrise in Denver, Colorado div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-1nmyu7j div",
+      "content_type": "image/webp",
+      "bytes": 48176,
+      "sha256": "e7bbcd8badbbf5f91a1f282f74c468f3a7e510aae1776f6a500ece66e17f5732",
+      "source_sha256": "dd830dfb99eca487aa9a761453c9903117813d86f32808d4b3d9b402090fb9cd",
+      "dhash": "067ff86fbca46cb8",
+      "width": 558,
+      "height": 344,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-017.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/shutterstock_1073272577:4-5?fmt=png-alpha&wid=343&hei=430&bfc=on",
+      "source_tag": "img:image",
+      "context": "img Drone Photography Sunrise in Denver, Colorado div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-1nmyu7j div",
+      "content_type": "image/webp",
+      "bytes": 24988,
+      "sha256": "09bfd5de0e3458980e2a6b065c26d585968e9a72814ba86909ccf86e37498b0c",
+      "source_sha256": "ed7b9c262483bf6aa3ecca548557caa76131ad88538fb2c119efb258b4e8fed7",
+      "dhash": "f0fc3ee65b312cd0",
+      "width": 343,
+      "height": 430,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-018.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-hp-orlandov2:16-9?fmt=png-alpha&wid=558&hei=344&bfc=on",
+      "source_tag": "img:image",
+      "context": "img Spectacular fireworks illuminate the night sky at Epcot in Walt Disney World, Orlando, Florida. div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-13s4mim div",
+      "content_type": "image/webp",
+      "bytes": 37210,
+      "sha256": "5fab3d172b422daa29399e29e2c4790246042a317577307e6639939b8ac43428",
+      "source_sha256": "2575865c86fd0c00ef56ff99456e10c7a9ddb0e6eab748e255f8cfebe6224e0b",
+      "dhash": "9c1c3c1c2f6393a1",
+      "width": 558,
+      "height": 344,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-019.webp",
+      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-hp-orlandov2:4-5?fmt=png-alpha&wid=343&hei=430&bfc=on",
+      "source_tag": "img:image",
+      "context": "img Spectacular fireworks illuminate the night sky at Epcot in Walt Disney World, Orlando, Florida. div MuiBox-root mui-vm4oer div MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root mui-dos1lg a div MuiBox-root mui-13s4mim div",
+      "content_type": "image/webp",
+      "bytes": 28916,
+      "sha256": "ad41bf20c8f4a6f5749d539d0a75a24cc3a76842d29d11a1d8824c8397d8d6c3",
+      "source_sha256": "af6d15d5a0961d4845096fa626268894d310d267c89d27d208950b267afbac7a",
+      "dhash": "304d8d9f1352369d",
+      "width": 343,
+      "height": 430,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-020.webp",
+      "source_url": "https://www.avis.com/_next/static/media/vehicle.b5f3c02c.png",
+      "source_tag": "script-data",
+      "context": "eEffect)(()=>(b.current=!0,l&&R(),()=>{b.current=!1}),[l]),{data:m,isLoading:N,isFetching:C,isError:h,error:E,refetch:R}}},17200:(e,t,a)=>{a.r(t),a.d(t,{default:()=>s});let s={src:\"/_next/static/media/vehicle.b5f3c02c.png\",height:272,width:652,blurDataURL:\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAJ1BMVEVMaXF5e30",
+      "content_type": "image/webp",
+      "bytes": 11764,
+      "sha256": "73e286f9536ed8a3cfde503aefef5ec0ba68520733ae30999a794af5ad00172b",
+      "source_sha256": "1c5704e2f744da3960a056683f86a102e9d13d1cdbdbb34c57677177ed3cde7a",
+      "dhash": "0e06132313070802",
+      "width": 652,
+      "height": 272,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-021.webp",
+      "source_url": "https://www.avis.com/_next/static/media/location-map-placeholder.a3a270f6.jpg",
+      "source_tag": "script-data",
+      "context": "AAJcEhZcwAACxMAAAsTAQCanBgAAAAjSURBVHicY2BlYGZkZmBnY+Dj5ebh5uZhYOBiZOLkZGLhAAAHqACbxzH5IgAAAABJRU5ErkJggg==\",blurWidth:8,blurHeight:3}},24116:(e,t,a)=>{a.d(t,{A:()=>s});let s={src:\"/_next/static/media/location-map-placeholder.a3a270f6.jpg\",height:1200,width:1200,blurDataURL:\"data:image/jpeg;base64,/9j/2wBDAAoKCgoKCgsMDAsPEA4QDxYUExMUFiIYGhgaGCIzICUgICUgMy03",
+      "content_type": "image/webp",
+      "bytes": 3930,
+      "sha256": "5d30139e1a3c30560755e3f2e8651211da9fc20758767b9d109d03b9683328ae",
+      "source_sha256": "59a86d2728d2fcf9d4839c0b5644377e7f3e5e1a88eee5595e6543c0e4d8e7cc",
+      "dhash": "0000000000000000",
+      "width": 1200,
+      "height": 1200,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-022.webp",
+      "source_url": "https://www.avis.com/content/dam/cars/l/2018/jeep/2018-jeep-grand-cherokee-overland-2wd-suv-black.png",
+      "source_tag": "script-data",
+      "context": "\".00\",\"additional_days\":\"55.00\"}},\"currencyCode\":\"USD\",\"milesInformation\":[{\"type\":\"AVERAGE\",\"value\":\"UNL\",\"unit\":\"MLS\"},{\"type\":\"PERIOD\",\"value\":\"UNL\",\"unit\":\"MLS\"}]}],\"imageUrl\":\"/content/dam/cars/l/2018/jeep/2018-jeep-grand-cherokee-overland-2wd-suv-black.png\",\"imageUrlFeatured\":\"/content/dam/cars/l/2018/jeep/2018-jeep-grand-cherokee-overland-2wd-suv-black_featured.png\",\"vehicl",
+      "content_type": "image/webp",
+      "bytes": 11456,
+      "sha256": "5891085a64d2cacb84d27a6a2131e9c9ab7ca9b658c48e7437fde0a77e7a45c3",
+      "source_sha256": "aaf0b04501d8bc3722adfa955e0225c96002d1086d27f11e548332432fce820d",
+      "dhash": "430f0fa6db696914",
+      "width": 510,
+      "height": 240,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-023.webp",
+      "source_url": "https://www.avis.com/content/dam/cars/l/2018/jeep/2018-jeep-grand-cherokee-overland-2wd-suv-black_featured.png",
+      "source_tag": "script-data",
+      "context": "NL\",\"unit\":\"MLS\"},{\"type\":\"PERIOD\",\"value\":\"UNL\",\"unit\":\"MLS\"}]}],\"imageUrl\":\"/content/dam/cars/l/2018/jeep/2018-jeep-grand-cherokee-overland-2wd-suv-black.png\",\"imageUrlFeatured\":\"/content/dam/cars/l/2018/jeep/2018-jeep-grand-cherokee-overland-2wd-suv-black_featured.png\",\"vehicleType\":\"Cargo Van\",\"carGroupName\":\"Jeep Grand Cherokee AWD or Similar\",\"duration\":7,\"associatedProducts\":[{\"type",
+      "content_type": "image/webp",
+      "bytes": 15372,
+      "sha256": "ffdc79849a7dfc3d60b973781dc2e726e419d7358b598f8e18afd67923643dd2",
+      "source_sha256": "b9df95d91c9e573385118b6970b423dc4b423f60ca1fc381e485f0d31c14a346",
+      "dhash": "0b0b19590d642d8c",
+      "width": 510,
+      "height": 240,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-024.webp",
+      "source_url": "https://www.avis.com/_next/static/media/car-not-available.05cc2caa.png",
+      "source_tag": "script-data",
+      "context": "p()??!1;return(0,s.useMemo)(()=>{let e=r;return o&&(e=e?.filter(({url:e})=>!e.includes(\"protectioncoverage\"))),e},[r,o])}},68788:(e,t,a)=>{a.r(t),a.d(t,{default:()=>s});let s={src:\"/_next/static/media/car-not-available.05cc2caa.png\",height:240,width:510,blurDataURL:\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAMAAACEE47CAAAAG1BMVEVMaXGzs7O",
+      "content_type": "image/webp",
+      "bytes": 3638,
+      "sha256": "31fada2abe4c675dbf2f86fa8b63f558883157a4bf66f4341f1952b29b3998ac",
+      "source_sha256": "6b428339518004f63f6f614d11b7cdfe92fb18ca5d46f434e0bdcf538a6ed480",
+      "dhash": "004030f0d4c6e000",
+      "width": 510,
+      "height": 240,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-025.svg",
+      "source_url": "https://www.avis.com/_next/static/media/budget-dealcard-grid-bg.fee0e8e5.svg",
+      "source_tag": "script-data",
+      "context": "x)(\"clipPath\",{id:\"clip0_2030_73527\",children:(0,n.jsx)(\"rect\",{width:\"1440\",height:\"2000px\",rx:\"42\",fill:\"white\"})})})]})},2505:(e,t,o)=>{o.r(t),o.d(t,{default:()=>n});let n={src:\"/_next/static/media/budget-dealcard-grid-bg.fee0e8e5.svg\",height:310,width:1248,blurWidth:0,blurHeight:0}},3595:(e,t,o)=>{o.d(t,{j:()=>n.j});var n=o(84858)},6896:(e,t,o)=>{o.d(t",
+      "content_type": "image/svg+xml",
+      "bytes": 1194,
+      "sha256": "7f1e4203ee1c8781e86b14362626ec2010f0df7f3066d08facec2bfcb898a5dd",
+      "source_sha256": "7f1e4203ee1c8781e86b14362626ec2010f0df7f3066d08facec2bfcb898a5dd",
+      "dhash": "",
+      "width": 1248,
+      "height": 310,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-026.svg",
+      "source_url": "https://www.avis.com/_next/static/media/asymetric-card-avis-small.14ccba01.svg",
+      "source_tag": "script-data",
+      "context": "dth:\"100%\"},dealCardBorderStyles:{borderRadius:\"2px\"}},u={headlineTextStyle:{color:\"#FFF\",paddingTop:\"24px\",width:\"100%\",textAlign:\"center\",fontSize:{xs:\"40px\",lg:\"64px\"}}},g={src:\"/_next/static/media/asymetric-card-avis-small.14ccba01.svg\",height:803,width:1440,blurWidth:0,blurHeight:0},m={src:\"/_next/static/media/asymmetric-card-avis-primary1.377cd2b2.svg\"",
+      "content_type": "image/svg+xml",
+      "bytes": 258,
+      "sha256": "b3c1b9f1c37d40a4b46c3a6a691f8b8cb7c0599c478c1ac40b8dffe35a1c3999",
+      "source_sha256": "b3c1b9f1c37d40a4b46c3a6a691f8b8cb7c0599c478c1ac40b8dffe35a1c3999",
+      "dhash": "",
+      "width": 1440,
+      "height": 803,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-027.svg",
+      "source_url": "https://www.avis.com/_next/static/media/asymmetric-card-avis-primary1.377cd2b2.svg",
+      "source_tag": "script-data",
+      "context": "00%\",textAlign:\"center\",fontSize:{xs:\"40px\",lg:\"64px\"}}},g={src:\"/_next/static/media/asymetric-card-avis-small.14ccba01.svg\",height:803,width:1440,blurWidth:0,blurHeight:0},m={src:\"/_next/static/media/asymmetric-card-avis-primary1.377cd2b2.svg\",height:1211,width:1440,blurWidth:0,blurHeight:0},x=({aemAttributes:e,model:t,config:o})=>{let x={backgroundStyles:{padd",
+      "content_type": "image/svg+xml",
+      "bytes": 261,
+      "sha256": "5165ba2f19c3548e7a1aee91ffaa7c1ff4a4a986246ee8d1f6110583ddba6ef7",
+      "source_sha256": "5165ba2f19c3548e7a1aee91ffaa7c1ff4a4a986246ee8d1f6110583ddba6ef7",
+      "dhash": "",
+      "width": 1440,
+      "height": 1211,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/avis/reference-028.svg",
+      "source_url": "https://www.avis.com/_next/static/media/avis-desktop-bg.049a6d23.svg",
+      "source_tag": "script-data",
+      "context": "h:0,blurHeight:0},featuredCardBackdrop:{src:\"/_next/static/media/avis_featured_card_backdrop.0674e5cd.svg\",height:208,width:320,blurWidth:0,blurHeight:0},titleBannerDesktopBg:{src:\"/_next/static/media/avis-desktop-bg.049a6d23.svg\",height:316,width:1440,blurWidth:0,blurHeight:0},titleBannerMobileBg:{src:\"/_next/static/media/avis-mobile-bg.08095b7f.s",
+      "content_type": "image/svg+xml",
+      "bytes": 236,
+      "sha256": "b0a787bef3f182014b7207641b66229976020c4b614d66e453bacbbe971fd08b",
+      "source_sha256": "b0a787bef3f182014b7207641b66229976020c4b614d66e453bacbbe971fd08b",
+      "dhash": "",
+      "width": 1440,
+      "height": 316,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.avis.com/en/home"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/avis/og.jpg",
       "source_url": "https://www.avis.com/content/dam/avis/na/us/common/offers/avis-car-rental-social-brand-1200x630.jpg",
@@ -28,91 +725,6 @@
       "sha256": "70279e6203b33b1687eb9adc6f3a224a303622b20ea1ecbabc75a950412d2fba",
       "width": 1200,
       "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/avis/logo-1.svg",
-      "source_url": "https://images.avis.com/is/content/abggwebprod/Logo-1?bfc=on&fmt=png-alpha&wid=52&hei=16",
-      "source_tag": "json-ld.@graph[1].logo",
-      "context": "structured data logo",
-      "content_type": "image/svg+xml",
-      "bytes": 7680,
-      "sha256": "1341cc49cc4996d7944de608a2d78d2f3722cfddc057d024b82541dd6bdda4bd",
-      "width": 52,
-      "height": 22
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/avis/logo-2.svg",
-      "source_url": "https://images.avis.com/is/content/abggwebprod/AV1S_F1RST_WHITE_RGB?fmt=png-alpha&bfc=on",
-      "source_tag": "img:semantic-logo",
-      "context": "img brand logo Membership advertisement logo div MuiBox-root mui-7oo1u div MuiBox-root mui-qv33cc div MuiBox-root mui-1sb7ptk section MuiBox-root mui-kw71nm",
-      "content_type": "image/svg+xml",
-      "bytes": 3921,
-      "sha256": "84f2a1854113ffbaa2195ba166cef134c23e133fad0153600a7c7447829828e7",
-      "width": 10441,
-      "height": 1440
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/avis/banner-1.webp",
-      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-firstv2r2-1440x720:16-9?wid=1440&hei=609&bfc=on",
-      "source_tag": "picture:semantic-banner",
-      "context": "picture div MuiBox-root mui-1d9ygux section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400 main aem-container-style_main__JO44S",
-      "content_type": "image/webp",
-      "bytes": 62466,
-      "sha256": "03c6fc76b8b5dafded41acaf038136543f46646c7a3094df77b2d077ba97de8b",
-      "width": 1440,
-      "height": 609
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/avis/logo-2.svg",
-      "source_url": "https://images.avis.com/is/content/abggwebprod/AV1S_F1RST_WHITE_RGB?fmt=png-alpha&bfc=on",
-      "source_tag": "img:semantic-banner",
-      "context": "img brand logo Membership advertisement logo div MuiBox-root mui-7oo1u div MuiBox-root mui-qv33cc div MuiBox-root mui-1sb7ptk section MuiBox-root mui-kw71nm",
-      "content_type": "image/svg+xml",
-      "bytes": 3921,
-      "sha256": "84f2a1854113ffbaa2195ba166cef134c23e133fad0153600a7c7447829828e7",
-      "width": 10441,
-      "height": 1440,
-      "reused_from": "logo"
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/avis/reference-1.webp",
-      "source_url": "https://images.avis.com/is/image/abggwebprod/avis-globalweb-firstv2r2-1440x720:3-4?wid=375&hei=516&bfc=on",
-      "source_tag": "picture:page-image",
-      "context": "picture div MuiBox-root mui-1d9ygux section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400 main aem-container-style_main__JO44S",
-      "content_type": "image/webp",
-      "bytes": 16998,
-      "sha256": "9ab42e2722176be398936bffd47febbe50f7c42cb87e41d403209dd5e50aaff7",
-      "width": 375,
-      "height": 516
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/avis/reference-2.webp",
-      "source_url": "https://images.avis.com/is/image/abggwebprod/shutterstock_2506227165_darken:3-4?wid=375&hei=516&bfc=on",
-      "source_tag": "picture:page-image",
-      "context": "picture div MuiBox-root mui-1d9ygux section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400 main aem-container-style_main__JO44S",
-      "content_type": "image/webp",
-      "bytes": 22900,
-      "sha256": "c7e82cc076755d67a6ff6b9d99f9764aebc86a90abc940ec9bf3526c65a62af1",
-      "width": 375,
-      "height": 516
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/avis/reference-3.webp",
-      "source_url": "https://images.avis.com/is/image/abggwebprod/shutterstock_2506227165_darken:16-9?wid=1440&hei=609&bfc=on",
-      "source_tag": "picture:page-image",
-      "context": "picture div MuiBox-root mui-1d9ygux section MuiBox-root mui-kw71nm div abg-adobe-target-main-content-block MuiGrid2-root MuiGrid2-container MuiGrid2-direction-xs-row MuiGrid2-grid-xs-12 mui-852400 main aem-container-style_main__JO44S",
-      "content_type": "image/webp",
-      "bytes": 60392,
-      "sha256": "d9ac9b7c247ddc489289a38294a5591545e19d14076727bbe4ee39d030202673",
-      "width": 1440,
-      "height": 609
     }
   ]
 }

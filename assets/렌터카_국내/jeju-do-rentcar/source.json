@@ -2,46 +2,223 @@
   "company": "제주도렌터카닷컴",
   "category": "렌터카_국내",
   "requested_url": "https://jejudorentacar.com/",
-  "page_url": "https://jejudorentacar.com",
+  "page_url": "https://jejudorentacar.com/",
   "page_title": "제주도렌타카 jejudorentacar.com | 제주도렌트카 가격비교 · 제주렌트카 예약",
   "collection_status": "complete",
-  "collection_error": "",
+  "collection_error": "asset:https://m.jejudorentacar.com/images/sub/bg_line.png:HTTPError; asset:https://m.jejudorentacar.com/images/sub/dot_bg.gif:HTTPError; asset:https://m.jejudorentacar.com/images/sub/bullet_air_info.png:HTTPError; asset:https://m.jejudorentacar.com/images/sub/bullet_info.png:HTTPError; asset:https://m.jejudorentacar.com/images/sub/center_dotline.png:HTTPError; asset:https://m.jejudorentacar.com/mobile/images/system/bg_per_select.png:HTTPError; asset:https://m.jejudorentacar.com/images/main/drop_date.gif:HTTPError; asset:https://m.jejudorentacar.com/images/sub/search_result_none.png:HTTPError; asset:https://jejudorentacar.com/css/images/controls.png:HTTPError; asset:https://m.jejudorentacar.com/css/images/controls.png:HTTPError; asset:https://jejudorentacar.com/images/sub/sub_seacrh_bar_bg.gif:HTTPError; asset:https://jejudorentacar.com/images/sub/bullet_sub_search.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 28,
+    "scripts": 23,
+    "candidates": 275,
+    "attempted_assets": 275,
+    "errors": 52,
+    "collected_at": "2026-09-03T08:12:24.24979+09:00"
+  },
   "assets": [
     {
       "type": "logo",
-      "path": "assets/렌터카_국내/jeju-do-rentcar/logo-1.png",
-      "source_url": "https://jejudorentacar.com/images/logo_jejudorentacar.com.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img a div logo div top_cont body",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/logo-001.png",
+      "source_url": "https://m.jejudorentacar.com/images/logo_jejudorentacar.com.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "/ajax/libs/font-awesome/6.5.1/css/all.min.css\" rel=\"stylesheet\"/>\n</meta></head>\n<body>\n<div id=\"wrapper\">\n<div id=\"header\">\n<h1><a href=\"/index.html\"><img alt=\"제주도렌터카 | 제주닷투\" src=\"/images/logo_jejudorentacar.com.png\"/></a></h1>\n<!-- <div style=\"position: relative; height: 0px; top: -55px; left: 110px;\">\r\n\t\t<a href=\"http://pf.kakao.com",
       "content_type": "image/png",
       "bytes": 3347,
       "sha256": "9fc3a2b262182071b3519c6adb0feb838e5900f30c1d50b84fd1d75c0f4b83de",
+      "source_sha256": "881aa1205b9a52e0dffb4fef3280666b577f5001feef4affe5ae8654aa554db9",
+      "dhash": "00b0a0dae6e6d000",
       "width": 310,
-      "height": 59
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/jeju-do-rentcar/logo-2.png",
-      "source_url": "https://jejudorentacar.com/images/logo_footer_jejudorentacar.com.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img div logo div center div copy body",
-      "content_type": "image/png",
-      "bytes": 3330,
-      "sha256": "a7929bf8667212a104f7b40da7dae29388d53334fa3cbb6a3a6887c28fca2d8f",
-      "width": 310,
-      "height": 59
+      "height": 59,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejudorentacar.com/",
+        "https://m.jejudorentacar.com/board/list.php?board=board_notice_rent",
+        "https://m.jejudorentacar.com/board/list.php?board=board_qna_rent",
+        "https://m.jejudorentacar.com/board/read.php?board=board_notice_rent&id=10",
+        "https://m.jejudorentacar.com/board/read.php?board=board_notice_rent&id=12",
+        "https://m.jejudorentacar.com/board/read.php?board=board_notice_rent&id=38",
+        "https://m.jejudorentacar.com/board/read.php?board=board_notice_rent&id=5",
+        "https://m.jejudorentacar.com/real_rent/list.php",
+        "https://m.jejudorentacar.com/real_rent/list.php?rent_type%5B%5D=%EA%B3%A0%EA%B8%89",
+        "https://m.jejudorentacar.com/real_rent/list.php?rent_type%5B%5D=%EC%88%98%EC%9E%85",
+        "https://m.jejudorentacar.com/real_rent/list.php?rent_type%5B%5D=%EC%A4%91%ED%98%95",
+        "https://m.jejudorentacar.com/real_rent/list.php?rent_type%5B%5D=RV%2FSUV",
+        "https://m.jejudorentacar.com/rent_pass/list.php"
+      ]
     },
     {
       "type": "banner",
-      "path": "assets/렌터카_국내/jeju-do-rentcar/banner-1.webp",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/banner-001.webp",
+      "source_url": "https://jejudorentacar.com/images/main/bg_top_img.png",
+      "source_tag": "external-css",
+      "context": "adding:6px 12px 4px 12px;line-height:30px;font-family: 'ëì', Dotum, AppleGothic, Helvetica, Sans-serif;}\r\n\r\n\r\n.main_event_wrap {width:100%; height:520px; border-top: 2px solid #1369aa;} /*width:100%; height: 519px; border-top:1px solid #d7dde5; background:url(/images/main/bg_top_img.png) 50% 50% no-repeat ;  background-size: cover; */\r\n.main_event_wrap img {} \r\n\r\n\r\n/*ë©ì¸ ì¶ì²ìì´ì¹´í\u0085ë",
+      "content_type": "image/webp",
+      "bytes": 110772,
+      "sha256": "f827f21eec1306c7de4c8783659d20ce536ab8c0ca6dfeb8e6f4d123c45e71cb",
+      "source_sha256": "40775b70acb4a98f99dd0a241093173a1f260d34d163395fb0ede9eaa25ff2f0",
+      "dhash": "7f7d3e5e3e9f5f3f",
+      "width": 1903,
+      "height": 519,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejudorentacar.com/",
+        "https://jejudorentacar.com/board/list.php?board=board_notice_rent",
+        "https://jejudorentacar.com/real_rent/list.php?rent_type%5B%5D=%EA%B3%A0%EA%B8%89"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/banner-002.webp",
+      "source_url": "https://jejudorentacar.com/images/main/banner_bg.png",
+      "source_tag": "external-css",
+      "context": "lid #d7dde5; background:url(/images/main/bg_top_img.png) 50% 50% no-repeat ;  background-size: cover; */\r\n.main_event_wrap img {} \r\n\r\n\r\n/*ë©ì¸ ì¶ì²ìì´ì¹´í\u0085ë*/\r\n\r\n\r\n\r\n\r\n\r\n\r\n/*ë² ëìì*/\r\n\r\n#banner_area{\r\n\twidth:100%;\r\n\theight:476px;\r\n\tbackground: url(/images/main/banner_bg.png) 0 0 repeat;\r\n}\r\n#banner_area ul{\r\n\twidth:1200px;\r\n\tmargin:auto;\r\n}\r\n#banner_area ul li{\r\n\tfloat:left;\r\n\tmarg",
+      "content_type": "image/webp",
+      "bytes": 24690,
+      "sha256": "8b17b4579517105ac186300687d8f91bec3ac07725d2fb785fa64063e0a19548",
+      "source_sha256": "f20a284c57a54299d60473abbb6052830e8c41a55d34c6a8f87e0c55b00ff71a",
+      "dhash": "e76e0f6ee73d484c",
+      "width": 2200,
+      "height": 476,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejudorentacar.com/",
+        "https://jejudorentacar.com/board/list.php?board=board_notice_rent",
+        "https://jejudorentacar.com/real_rent/list.php?rent_type%5B%5D=%EA%B3%A0%EA%B8%89"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/banner-003.webp",
+      "source_url": "https://jejudorentacar.com/images/main/summber_bg02.jpg",
+      "source_tag": "external-css",
+      "context": "weight:500;}\r\n.main_tab_r_pang li.on a, .main_tab_r_pang li.on1 a{ color: #fff;}\r\n.main_tab_r_pang li:last-child {margin-right: 0px;}\r\n\r\n\r\n\r\n\r\n\r\n/*ì¶ì²ììë*/\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n/*ë² ëìì*/\r\n\r\n.tour_area{\r\n\twidth:100%;\r\n\theight:447px;\r\n\tbackground: url(/images/main/summber_bg02.jpg) 0 0 repeat;\r\n\tdisplay:inline-block;\r\n\r\n}\r\n.tour_area .tour_banner{\r\n\r\n\twidth:1200px;\r\n\theight:397px;\r\n\tma",
+      "content_type": "image/webp",
+      "bytes": 47922,
+      "sha256": "db36c31896a25343e3b6345a4e56db2753c701850cfd689fa7c96f6b6ae5a438",
+      "source_sha256": "9d682aa0472c738ae82846ff7eecba7edf2298b7cbd8f7f3c22456db3919705b",
+      "dhash": "ece496cc1e87e323",
+      "width": 1900,
+      "height": 446,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejudorentacar.com/",
+        "https://jejudorentacar.com/board/list.php?board=board_notice_rent",
+        "https://jejudorentacar.com/real_rent/list.php?rent_type%5B%5D=%EA%B3%A0%EA%B8%89"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/banner-004.webp",
+      "source_url": "https://jejudorentacar.com/images/main/tour_bg.jpg",
+      "source_tag": "external-css",
+      "context": " .list .icon {position:absolute; top:10px; left:10px; }\r\n\r\n\r\n.main_best .best_tab_list .no_bottom_R {margin-right:0px;}\r\n.main_best .best_tab_list .no_bottom_B {margin-bottom:10px;}\r\n\r\n\r\n\r\n\r\n.main_jejuinfo{width:100%;min-width:1200px; height:374px; background:url(/images/main/tour_bg.jpg) 0px 0px no-repeat;}\r\n.main_jejuinfo .tour_banner li{float:left; margin-top:60px; margin-right:25px;}\r\n.main_je",
+      "content_type": "image/webp",
+      "bytes": 13618,
+      "sha256": "5f38b31054f886c8a69daa0188d16ef61ad4bdc314f8ef8c7a336952709a38b6",
+      "source_sha256": "fc54fe7fdd22ba65908314394d717bc3c7a246f50a8edb294c4ccdb2c858d623",
+      "dhash": "3f3f0707c7e7e765",
+      "width": 2000,
+      "height": 347,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejudorentacar.com/",
+        "https://jejudorentacar.com/board/list.php?board=board_notice_rent",
+        "https://jejudorentacar.com/real_rent/list.php?rent_type%5B%5D=%EA%B3%A0%EA%B8%89"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/reference-001.webp",
+      "source_url": "https://m.jejudorentacar.com/images/sub/plan_bg.png",
+      "source_tag": "external-css",
+      "context": "\n.search_date {clear:both; margin:auto; border:1px solid blue;}\r\n.search_date2 {clear:both; width:95%; margin:auto; }\r\n\r\n\r\n\r\n\r\n\r\n/* í ì¸í¨í¤ì§ë©ì¸_ì¬í¬ì´*/\r\n.package_main_box{overflow:hidden;  width:100%; height:936px; text-align: center; background:url(/images/sub/plan_bg.png) repeat-x ; background-size: cover; }\r\n\r\n.package_main_box .tit_package_m {margin:15px 0;}\r\n.package_main_box .b",
+      "content_type": "image/webp",
+      "bytes": 4382,
+      "sha256": "549959604742885eab049527e2ea73543709be7da52edfa1eb58c050bee1c11b",
+      "source_sha256": "c8fab86c1d56fbf83cea79e34d2692ce5e2b83a6c2d53b3090b14ffa40cb7b06",
+      "dhash": "315089a000000000",
+      "width": 1000,
+      "height": 936,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejudorentacar.com/",
+        "https://m.jejudorentacar.com/real_rent/list.php",
+        "https://m.jejudorentacar.com/real_rent/list.php?rent_type%5B%5D=%EC%A4%91%ED%98%95"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/reference-002.webp",
+      "source_url": "https://m.jejudorentacar.com/images/main/main_rent.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img li a ul bxslider_main link div wrapper",
+      "content_type": "image/webp",
+      "bytes": 15486,
+      "sha256": "5a75c50b349f0c8c55befbb7ab6f0695ed76df22621d6ae8e7afb444aa972aa1",
+      "source_sha256": "d73d3f6f23dee061abc518729406289cf5d58379a4ebe7aa18d5c44ad683547b",
+      "dhash": "020d0c1e160c2e8e",
+      "width": 640,
+      "height": 370,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m.jejudorentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/reference-003.webp",
       "source_url": "https://jejudorentacar.com/images/main/rent_main_img.jpg",
-      "source_tag": "inline-background-image",
+      "source_tag": "inline-css",
       "context": "div   width:100%;height:650px;background: url('../images/main/rent_main_img.jpg') center center no-repeat #ffffff;",
       "content_type": "image/webp",
-      "bytes": 31552,
-      "sha256": "1312bafc82399fa9894b72d30dfbbf3aea71223c7955443fdf320034c38a2f98",
-      "width": 1800,
-      "height": 573
+      "bytes": 39346,
+      "sha256": "870c6233d6ffdfb827391095781ab81e7969b991dd41bd8e1a1752efa7bf1127",
+      "source_sha256": "e1e5c952e941b759158f1bd45c3e77c882adf5a207afde178c125576f8d5c929",
+      "dhash": "10090d0d0c0c0c0c",
+      "width": 2200,
+      "height": 700,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejudorentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/reference-004.webp",
+      "source_url": "https://jejudorentacar.com/images/call_table_bg.png",
+      "source_tag": "external-css",
+      "context": "\n  font-size: 14px;\n  line-height: 14px;\n}\n\n\n/*ì¸ë¼ì¸ë¬ë ¥ì ì²´*/\n.datepicker__inner {\n  padding: 0px;\n\n}\n\n/*ë¬ë ¥í\u0085ì´ë¸*/\n.datepicker__month {\n  font-size: 12px;\n\tmin-width:408px;\n\nborder-spacing: 10px;\nborder-collapse: separate;\n\n\nbackground-image: url(../images/call_table_bg.png);\n}\n\n\n/*ë\u0085ëì ì²´*/\n.datepicker__month-caption {\n  border-bottom: 0px solid #dcdcdc;\n  height: 2.5em;\n  v",
+      "content_type": "image/webp",
+      "bytes": 436,
+      "sha256": "b4a9967ed9b7d81fa79f69624480e426c9acf85423b2ef51946a87a0f34d2a4c",
+      "source_sha256": "5a1b42f93e1d191d9f22ce0097ca05b94a4be7514b7f41d9e4ec78f4a4a28c76",
+      "dhash": "0000000000000000",
+      "width": 410,
+      "height": 386,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejudorentacar.com/rent_pass/list.php"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-do-rentcar/reference-005.webp",
+      "source_url": "https://jejudorentacar.com/images/img-loading.gif",
+      "source_tag": "script-data",
+      "context": "     */\n    createOverlay: function() {\n      var overlay = $('<div class=\"loading-overlay loading-theme-' + this.settings.theme + '\"><div class=\"loading-overlay-content\"><img src=\"../images/img-loading.gif\" alt=\"로딩중입니다.\" ></div></div>')\n        .addClass(this.settings.hiddenClass)\n        .hide()\n        .appendTo('body');\n\n",
+      "content_type": "image/webp",
+      "bytes": 1204,
+      "sha256": "d252c7f076411b789cf38a578c5678df9afd7c739e5068ef2905b9d8ac750a77",
+      "source_sha256": "c20edb006b2a78e8e3f4978de5abf334d411726441be628480e8851ff6b45187",
+      "dhash": "00100c4c4c0c1000",
+      "width": 441,
+      "height": 291,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejudorentacar.com/"
+      ]
     }
   ]
 }

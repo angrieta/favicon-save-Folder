@@ -2,10 +2,21 @@
   "company": "Payless",
   "category": "렌터카_글로벌",
   "requested_url": "https://www.paylesscar.com/",
-  "page_url": "https://www.paylesscar.com/en/home",
+  "page_url": "https://www.paylesscar.com/",
   "page_title": "Get the Best Rental Cars at Discount Rates | Payless Rent a Car",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://www.paylesscar.com/content/dam/payless/na/us/common/locations/General%20Info@2x.png:HTTPError; asset:https://www.paylesscar.com/content/dam/payless/na/us/common/locations/Type@2x.png:HTTPError; asset:https://www.paylesscar.com/etc/designs/payless/reservationlib/images/dropdownarrow.png:HTTPError; asset:https://www.paylesscar.com/etc/designs/payless/landingpagelib/clientlib/images/Contact-Background.png:HTTPError; asset:https://www.paylesscar.com/etc/designs/payless/reservationlib/clientlib/images/Circles_dealsdetails_yellow_mobile.png:HTTPError; asset:https://www.paylesscar.com/etc/designs/payless/landingpagelib/images/sr/emblem.png:HTTPError; asset:https://www.paylesscar.com/reservationlib/clientlib/images/image-unavailable.png:HTTPError; asset:https://www.paylesscar.com/clientlib/images/unavailable.png:HTTPError; asset:https://www.paylesscar.com/etc/designs/platform/myBuys.png:HTTPError; asset:https://www.paylesscar.com/etc/designs/platform/mostRecentIcon.png:HTTPError; asset:https://www.paylesscar.com/etc/clientcontext/shared/thumbnail/content.png:HTTPError; asset:https://www.paylesscar.com/contextstores/profiledata/resources/birthday_cake.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 5,
+    "scripts": 13,
+    "candidates": 80,
+    "attempted_assets": 80,
+    "errors": 39,
+    "collected_at": "2026-09-03T08:29:19.876656+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,325 @@
       "height": 16
     },
     {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-001.webp",
+      "source_url": "https://www.paylesscar.com/content/dam/payless/na/us/common/offers/Yellow_Car.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "a-sly-test='' data-sly-unwrap>\r\n\t\t\t\t\t<p class=\"text-size-1x \"></p>\r\n\t\t\t\t</div> -->\n</div>\n<div class=\"right-promocar-img\">\n<img alt=\"Pay Now. Save Big.\" class=\"img-responsive\" src=\"/content/dam/payless/na/us/common/offers/Yellow_Car.png\"/>\n</div>\n</div>\n<a class=\"link\" href=\"/en/deals/us-offers/pay-now-and-save\" target=\"_self\">Learn More <span class=\"rsaq",
+      "content_type": "image/webp",
+      "bytes": 30522,
+      "sha256": "1e95699da1fb0ff6d57d3e5ff41539b20a505ab49c73955e27b084e244116282",
+      "source_sha256": "699584c41ecb2f6833a3ec2341234a0e54e5dad2fe15dd0bd754078481804dac",
+      "dhash": "79f0fcc1c5c9c183",
+      "width": 540,
+      "height": 295,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/payless/social-001.webp",
+      "source_url": "https://www.paylesscar.com/content/dam/payless/na/us/common/offers/payless-thumbnail-2440x1000.jpg",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "scription\" property=\"og:description\"/>\n<meta content=\"website\" property=\"og:type\"/>\n<meta content=\"https://www.paylesscar.com/en/home\" id=\"ogUrl\" property=\"og:url\"/>\n<meta content=\"https://www.paylesscar.com/content/dam/payless/na/us/common/offers/payless-thumbnail-2440x1000.jpg\" property=\"og:image\"/>\n<meta content=\"Payless | Rent a Car\" property=\"og:site_name\"/>\n<meta content=\"summary_large_image",
+      "content_type": "image/webp",
+      "bytes": 52480,
+      "sha256": "7beb7cb0856850431ad906cddba4db288beeaefda1eaa5e4a08d1818fb192c95",
+      "source_sha256": "f5a4106f6ef408dee0568c0f38b0f40d3a1167176daa56092cc96bba520e0423",
+      "dhash": "00b2f2b272c2e220",
+      "width": 2200,
+      "height": 902,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us",
+        "https://www.paylesscar.com/en/customer-service/faq/global/car-rates",
+        "https://www.paylesscar.com/en/customer-service/faq/global/rental-policies",
+        "https://www.paylesscar.com/en/deals/partners/rental-car-momma",
+        "https://www.paylesscar.com/en/home",
+        "https://www.paylesscar.com/en/locations/us/fl/miami/mia",
+        "https://www.paylesscar.com/en/locations/us/fl/orlando/mco",
+        "https://www.paylesscar.com/en/locations/us/ga/atlanta/atl",
+        "https://www.paylesscar.com/en/locations/us/il/chicago/ord",
+        "https://www.paylesscar.com/en/locations/us/nv/las-vegas/las",
+        "https://www.paylesscar.com/en/locations/us/tx/dallas/dfw",
+        "https://www.paylesscar.com/en/locations/us/tx/houston/hou",
+        "https://www.paylesscar.com/en/programs",
+        "https://www.paylesscar.com/en/programs/convention-and-groups"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/payless/banner-001.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/common/clientlib/images/backgrounds/circles/gct/Circles_green_L.png",
+      "source_tag": "external-css",
+      "context": "age:url('../common/clientlib/images/backgrounds/circles/gct/Circles_blue_L.png');background-size:auto 330px}\n.bg-circle.cyellow{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_yellow_L.png')}\n.bg-circle.cgreen{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_green_L.png')}\n}\n.login-screen{background-image:url(\"../common/images/US-tab",
+      "content_type": "image/webp",
+      "bytes": 9236,
+      "sha256": "ff7e0a11602261a7c7e2720dcc3b42fb0e3ff2e98ac8920583810415595b0bdb",
+      "source_sha256": "3cffb90b83e5d973abdcdaef03f82f9a26a17a1dbda4f4e20b5a0ab1c03b2efa",
+      "dhash": "553491a424262626",
+      "width": 1054,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us",
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/payless/banner-002.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/reservationlib/clientlib/images/campaign_mob.jpg",
+      "source_tag": "external-css",
+      "context": "-20{margin-top:20px}\n.mob_extra_msg{margin-top:10px;padding:0}\n.mob-child-hid-chk{margin-top:15px}\n.mob-child-hid-chk .mob-fst-chk{padding-left:0;padding-top:0}\n.memNameInp{width:100%}\n.campain_mob_cont{padding:50px 0;height:auto}\n.campaign_mob_img{background:url(\"clientlib/images/campaign_mob.jpg\") no-repeat center;width:100%;height:150px}\n.hideForMobile{display:none}\n.padsubChild{padding-left:0}",
+      "content_type": "image/webp",
+      "bytes": 408,
+      "sha256": "1e79ce5965798610f06110ea88d436e353d8c0eed3c213b8ae4ca246a23fae30",
+      "source_sha256": "796e05eabdc4191112ab779d28b37c990aa25d2db1066637bc6fc1418aa40281",
+      "dhash": "0000000000000000",
+      "width": 603,
+      "height": 320,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-002.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/reservationlib/clientlib/images/offers-full-bleedimg-mob.png",
+      "source_tag": "external-css",
+      "context": "m:35px}\n.stepTwo-partial .campaign_Container.container-fluid{padding:0 15px 20px;margin-bottom:20px}\n.offers-container .grid-wrapper.container-fluid{padding:15px}\n.drop-off-content .close-icon-black{margin:8px 0 0 0}\n.campaign_mob_img{background:rgba(0,0,0,0) url(clientlib/images/offers-full-bleedimg-mob.png) no-repeat scroll center center / cover;height:200px}\n.keydrop-bannertxt{position:absolute",
+      "content_type": "image/webp",
+      "bytes": 13544,
+      "sha256": "31d386b24ba94a504fc458cbd3efed909cea32991fb6ee3cf886d83b5ecf676a",
+      "source_sha256": "705ce917682cc1594d40ca5177728dc54dfff4fd9c8c704d8c3f6c3806d4d75c",
+      "dhash": "106081391d171607",
+      "width": 630,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/payless/logo-001.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/common/clientlib/images/loader-logo.png",
+      "source_tag": "external-css",
+      "context": "50,250;stroke-dashoffset:-100}\n100%{stroke-dasharray:150,250;stroke-dashoffset:-250}\n}\n.spinnerLoader:before{background:#0e1d3f;position:absolute;width:110px;height:110px;top:0;left:0;right:0;bottom:0;margin:auto;border-radius:20px;content:\"\";background-image:url(../common/clientlib/images/loader-logo.png);background-position:center center;background-repeat:no-repeat;background-size:50px auto}\n.sp",
+      "content_type": "image/webp",
+      "bytes": 2546,
+      "sha256": "950a356a81830e6868a541499e18060299080350ddad7124f205e63b39efbb20",
+      "source_sha256": "bc3f2e46c49a85ec3cf6a7f904d478addb74508e9cc9f53e998e3560d19b3972",
+      "dhash": "eccc24a2b42412dd",
+      "width": 184,
+      "height": 59,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us",
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/payless/banner-003.webp",
+      "source_url": "https://www.paylesscar.com/content/dam/payless/na/us/common/page-title/payless-location-page-generic-hero-2016-ford-fiesta-1305x400.jpg/jcr:content/renditions/cq5dam.web.1536.400.jpg",
+      "source_tag": "html-data",
+      "context": "93RX_content_dam_payless_na_us_common_page_title_payless_location_page_generic_hero_2016_ford_fiesta_1305x400_jpg']={\"Renditions\":[{\"width\":1536,\"height\":400,\"dpr\":2,\"defaultFile\":\"/content/dam/payless/na/us/common/page-title/payless-location-page-generic-hero-2016-ford-fiesta-1305x400.jpg/jcr:content/renditions/cq5dam.web.1536.400.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":37",
+      "content_type": "image/webp",
+      "bytes": 30718,
+      "sha256": "7b42ef79659074df3f489192ffeb8318a1452fa9f4872f49018d403435237018",
+      "source_sha256": "770c63a08a6eb849f6b6f2d276a12001629a1763bfe8ccb9e89f761aae053e79",
+      "dhash": "6f270b0911011119",
+      "width": 1305,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.paylesscar.com/en/locations/us/fl/miami/mia",
+        "https://www.paylesscar.com/en/locations/us/fl/orlando/mco",
+        "https://www.paylesscar.com/en/locations/us/ga/atlanta/atl",
+        "https://www.paylesscar.com/en/locations/us/il/chicago/ord",
+        "https://www.paylesscar.com/en/locations/us/nv/las-vegas/las",
+        "https://www.paylesscar.com/en/locations/us/tx/dallas/dfw",
+        "https://www.paylesscar.com/en/locations/us/tx/houston/hou"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/payless/banner-004.webp",
+      "source_url": "https://www.paylesscar.com/content/dam/payless/na/us/common/page-title/payless-programs-generic-gradient-bkgrd-1305x250.jpg/jcr:content/renditions/cq5dam.web.1536.400.jpg",
+      "source_tag": "html-data",
+      "context": ";Campaign['7TBCE_content_dam_payless_na_us_common_page_title_payless_programs_generic_gradient_bkgrd_1305x250_jpg']={\"Renditions\":[{\"width\":1536,\"height\":400,\"dpr\":2,\"defaultFile\":\"/content/dam/payless/na/us/common/page-title/payless-programs-generic-gradient-bkgrd-1305x250.jpg/jcr:content/renditions/cq5dam.web.1536.400.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":375,\"height\":1",
+      "content_type": "image/webp",
+      "bytes": 3196,
+      "sha256": "226ab3a84797c25e1936457bbe5a90a0cf5fbd90f03fe4b04642c1cc8c12929d",
+      "source_sha256": "1988459ec26739bebd446a3ad590956bd36d7fe6ba61bdf34e65b2d2bd3fa7c2",
+      "dhash": "8242442111842141",
+      "width": 2088,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.paylesscar.com/en/customer-service/faq/global/car-rates",
+        "https://www.paylesscar.com/en/customer-service/faq/global/rental-policies",
+        "https://www.paylesscar.com/en/deals/partners/rental-car-momma",
+        "https://www.paylesscar.com/en/programs",
+        "https://www.paylesscar.com/en/programs/convention-and-groups"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-003.webp",
+      "source_url": "https://www.paylesscar.com/content/dam/cars/l/2019/ford/2019-ford-fiesta-se-5door-2wd-hatchback-blue_featured.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/span>\r\n\t\t\t\t\t\tin {{rental.city}}!\r\n\t\t\t\t\t</h3>\n<span class=\"hrsAgo\">{{vm.getDifferenceHour(rental.createdDate)}}</span>\n</div>\n<div class=\"car-section\">\n<img alt=\"car image\" altsrc=\"/content/dam/cars/l/2019/ford/2019-ford-fiesta-se-5door-2wd-hatchback-blue_featured.png\" class=\"car-img img-responsive\" ng-src=\"{{vm.carModelImgs[rental.carGroup] || '/content/dam/cars/l/2019/ford/2019-ford-f",
+      "content_type": "image/webp",
+      "bytes": 14206,
+      "sha256": "fd8455f0a88d681e9e6ae8b37f48bc293cdd134968b2e2022102b16f43b7d843",
+      "source_sha256": "8153cbeb8c351b0ecf99e40a0e692548736cf19c2d0e45bffce2981dea138362",
+      "dhash": "469b1b514d4d6d4d",
+      "width": 510,
+      "height": 240,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-004.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/reservationlib/clientlib/images/home-d.png",
+      "source_tag": "external-css",
+      "context": "/home/clientlib/images/backgrounds/circles/home-deals-home-green1.png);background-size:auto 100%;background-position:top left}\n.rental-section{padding-bottom:80px;min-height:400px}\n.step1-res-wrapper{padding-bottom:40px}\n.rental-section:after{background-image:url(../reservationlib/clientlib/images/home-d.png);background-repeat:no-repeat;background-position:bottom left;padding-bottom:80px;backgroun",
+      "content_type": "image/webp",
+      "bytes": 3598,
+      "sha256": "33926a1621ec56e735d1996b208408ed6124c3431db0d9fcc8d4320105636de9",
+      "source_sha256": "57dd84cbde78d31ed6e4e594023f15a43dc8cea0c04beb57c8b9729f31a04cb8",
+      "dhash": "0c8c8b23195c2c2c",
+      "width": 1426,
+      "height": 656,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us",
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-005.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/common/clientlib/images/backgrounds/circles/gct/Circles_blue_M.png",
+      "source_tag": "external-css",
+      "context": "s/circles/gct/Circles_yellow_S.png')}\n.bg-circle.cgreen{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_green_S.png')}\n@media only screen and (max-width:991px) and (min-width:768px){.bg-circle,.bg-circle.cblue{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_blue_M.png');background-size:auto 270px}\n.bg-circle.cyellow{background-image",
+      "content_type": "image/webp",
+      "bytes": 8834,
+      "sha256": "42d6e84186a36b8c10d7edb3299cc58004a5823d088859a37eb14e46bd8e4447",
+      "source_sha256": "64aac716674d84defc94f8fb01e91f48f6d98357f9626d03b652c80f025cb4b8",
+      "dhash": "86964f6286262706",
+      "width": 966,
+      "height": 510,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us",
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-006.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/common/clientlib/images/backgrounds/circles/gct/Circles_yellow_M.png",
+      "source_tag": "external-css",
+      "context": "n_S.png')}\n@media only screen and (max-width:991px) and (min-width:768px){.bg-circle,.bg-circle.cblue{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_blue_M.png');background-size:auto 270px}\n.bg-circle.cyellow{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_yellow_M.png')}\n.bg-circle.cgreen{background-image:url('../common/clientlib/",
+      "content_type": "image/webp",
+      "bytes": 12412,
+      "sha256": "855937f63b97b677db2188409b957aa42d54192bae75117d0f14b27c42b6effa",
+      "source_sha256": "97225cd487a146afe95438f09fa323b442a823dac5161f5defe0f9092357469f",
+      "dhash": "6032909466a62726",
+      "width": 966,
+      "height": 510,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us",
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-007.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/common/clientlib/images/backgrounds/circles/gct/Circles_green_M.png",
+      "source_tag": "external-css",
+      "context": "age:url('../common/clientlib/images/backgrounds/circles/gct/Circles_blue_M.png');background-size:auto 270px}\n.bg-circle.cyellow{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_yellow_M.png')}\n.bg-circle.cgreen{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_green_M.png')}\n}\n@media only screen and (min-width:992px){.bg-circle,.bg-cir",
+      "content_type": "image/webp",
+      "bytes": 8678,
+      "sha256": "3dfde7be99507c598396c91f077a36c7cc2d6f73faecbf845565ee27d8021729",
+      "source_sha256": "269e145ff16274fef7583bc0d08d0077e3794a475e87593e1d7ff7ebcb369abb",
+      "dhash": "4016919426262726",
+      "width": 967,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us",
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-008.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/common/clientlib/images/backgrounds/circles/gct/Circles_blue_L.png",
+      "source_tag": "external-css",
+      "context": "ib/images/backgrounds/circles/gct/Circles_yellow_M.png')}\n.bg-circle.cgreen{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_green_M.png')}\n}\n@media only screen and (min-width:992px){.bg-circle,.bg-circle.cblue{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_blue_L.png');background-size:auto 330px}\n.bg-circle.cyellow{background-image",
+      "content_type": "image/webp",
+      "bytes": 9498,
+      "sha256": "78e51e62ccb98984fd836ff98ae44c35d7983bbaf745c361ebdaf636efcdb749",
+      "source_sha256": "4f3bb0e81af5d5feb184c449a91afa59f16325e6af8726a18c4bbafa52d5cb9c",
+      "dhash": "96b64746a6262626",
+      "width": 1054,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us",
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-009.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/common/clientlib/images/backgrounds/circles/gct/Circles_yellow_L.png",
+      "source_tag": "external-css",
+      "context": "les/gct/Circles_green_M.png')}\n}\n@media only screen and (min-width:992px){.bg-circle,.bg-circle.cblue{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_blue_L.png');background-size:auto 330px}\n.bg-circle.cyellow{background-image:url('../common/clientlib/images/backgrounds/circles/gct/Circles_yellow_L.png')}\n.bg-circle.cgreen{background-image:url('../common/clientlib/",
+      "content_type": "image/webp",
+      "bytes": 13090,
+      "sha256": "e711ec108eda2f9813071c3853309f1ce8d0e3e29b41fb3906d9acbc79b1cd21",
+      "source_sha256": "823a74ca822105fe4c7f2449906b626a9e7b434ecc175771f87a58eb462988f6",
+      "dhash": "5135b1b524a62626",
+      "width": 1054,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us",
+        "https://www.paylesscar.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/payless/reference-010.webp",
+      "source_url": "https://www.paylesscar.com/etc/designs/payless/reservationlib/clientlib/images/Circles_dealsdetails_yellow.png",
+      "source_tag": "external-css",
+      "context": "nd-image:url(../reservationlib/clientlib/images/Circles_dealsdetails_yellow_mobile.png);background-position:top right;background-repeat:no-repeat;background-size:100%}\n}\n@media only screen and (min-width:768px){.ld-header-sm.bg-circle.cyellow{background-image:url(../reservationlib/clientlib/images/Circles_dealsdetails_yellow.png);background-position:top right;background-repeat:no-repeat;background",
+      "content_type": "image/webp",
+      "bytes": 1164,
+      "sha256": "0798b457286da3f17e62c8302f57ba448bd3efaee1c287cee285dee523fb005c",
+      "source_sha256": "86b7c54387cbb8ad3a2aa86c119ae55e99f7b422cbd4e8b133859c421df925bd",
+      "dhash": "470787c74747c707",
+      "width": 1155,
+      "height": 246,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.paylesscar.com/en/cars/vehicles/us"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/payless/og.jpg",
       "source_url": "https://www.paylesscar.com/content/dam/payless/na/us/common/offers/payless-thumbnail-2440x1000.jpg",
@@ -28,18 +358,6 @@
       "sha256": "f5a4106f6ef408dee0568c0f38b0f40d3a1167176daa56092cc96bba520e0423",
       "width": 2440,
       "height": 1000
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/payless/reference-1.webp",
-      "source_url": "https://www.paylesscar.com/content/dam/payless/na/us/common/offers/Yellow_Car.png",
-      "source_tag": "img:page-image",
-      "context": "img img-responsive Pay Now. Save Big. div right-promocar-img div cell-content-text div cell-content cell-ht-1x-sm div image section home-offers",
-      "content_type": "image/webp",
-      "bytes": 31352,
-      "sha256": "eaa64c295f7faa1988accfac299cbc4bd90028af7e58fb3e8d2b525a1cab29e3",
-      "width": 540,
-      "height": 295
     }
   ]
 }

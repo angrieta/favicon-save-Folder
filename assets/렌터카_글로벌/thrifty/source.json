@@ -2,10 +2,21 @@
   "company": "Thrifty",
   "category": "렌터카_글로벌",
   "requested_url": "https://www.thrifty.com/",
-  "page_url": "https://www.thrifty.com/us/en",
+  "page_url": "https://www.thrifty.com/",
   "page_title": "Deals on Car Rentals | Save with Thrifty",
-  "collection_status": "complete",
-  "collection_error": "reference:ValueError:https://www.thrifty.com/fonts/rubik-v31-latin_latin-ext-500.woff2; reference:ValueError:https://www.thrifty.com/fonts/rubik-v31-latin_latin-ext-700.woff2; reference:ValueError:https://www.thrifty.com/fonts/rubik-v31-latin_latin-ext-italic.woff2; reference:ValueError:https://www.thrifty.com/fonts/rubik-v31-latin_latin-ext-regular.woff2",
+  "collection_status": "partial",
+  "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 3,
+    "scripts": 36,
+    "candidates": 61,
+    "attempted_assets": 61,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:28:05.267228+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,174 @@
       "height": 152
     },
     {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/thrifty/logo-001.webp",
+      "source_url": "https://www.thrifty.com/images/ThriftyHeaderLogo.gif",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "d=\"Car_Rental_Information\" style=\"display: none\"></span><div id=\"ThriftyHeaderContainer\">\n<div class=\"Left\">\n<a href=\"/index.aspx\"><img alt=\"Thrifty Header Logo\" class=\"Brand\" src=\"/images/ThriftyHeaderLogo.gif\"/></a><div class=\"Links\">\n<span><a href=\"/local_sites_index.aspx\">Thrifty Local</a> | <a href=\"/CustomerCare/content.asp",
+      "content_type": "image/webp",
+      "bytes": 2144,
+      "sha256": "4f2904ae1014fad6fb18d5f8678c5e65543e973cbd264fbf0f6516342c4694ad",
+      "source_sha256": "49db52ca7879a0e1c213ab1087a53973580081bd42c2a645d1b33e6f0838bb60",
+      "dhash": "cdce2e7656566525",
+      "width": 162,
+      "height": 41,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.thrifty.com/Car_Rental_Information/content.aspx",
+        "https://www.thrifty.com/Car_Rental_Information/content/Airport_Car_Rentals.aspx",
+        "https://www.thrifty.com/Car_Rental_Information/content/Car_Rental_Discounts.aspx",
+        "https://www.thrifty.com/Car_Rental_Information/content/One_Way_Car_Rental.aspx",
+        "https://www.thrifty.com/Car_Rental_Information/content/Rental_Car_Insurance.aspx",
+        "https://www.thrifty.com/Car_Rental_Information/content/Used_Vehicle_Peace_of_Mind.aspx"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/thrifty/logo-002.webp",
+      "source_url": "https://www.thrifty.com/content/dam/thrifty/global/homepage/thrifty_homepage_sept_2025_extended.rendition.large.webp",
+      "source_tag": "html-data, img:banner, img:image, img:logo, link:preload",
+      "context": "TM-KTCL6ZR\" style=\"display:none;visibility:hidden\" width=\"0\"></iframe>\n</noscript>\n<img alt=\"hero image\" class=\"preload-img\" decoding=\"async\" fetchpriority=\"high\" height=\"860\" src=\"https://www.thrifty.com/content/dam/thrifty/global/homepage/thrifty_homepage_sept_2025_extended.rendition.large.webp\" style=\"display:none\" width=\"1920\"/>\n<div id=\"spa-root\"></div>\n<script src=\"/etc.clientlibs/vulcan-aem",
+      "content_type": "image/webp",
+      "bytes": 180862,
+      "sha256": "e1bc0299b67035b833621da2b6f2e5ca6652540eecc9d4d76d5a39a2c63ddd4f",
+      "source_sha256": "ad72889cf1ab9de705f13ab7038c6733fbd2df71c5786d1399159e1736d7db24",
+      "dhash": "ece8cc4cc2d2d252",
+      "width": 1640,
+      "height": 516,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.thrifty.com/us/en"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/thrifty/logo-003.webp",
+      "source_url": "https://www.thrifty.com/~/media/Thrifty/Images/Deals/CARFAX_Escort.ashx",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img Carfax logo p div content div RightColumn div BodyOutline div LeftColumnLayout",
+      "content_type": "image/webp",
+      "bytes": 7726,
+      "sha256": "a3532d5d647834769a8569fa145c5f5496832d207dfc4c70b1640d539e172195",
+      "source_sha256": "b4fde8d9fa53dd35968bc640b3ddfee719189ae1acdbfcdbc1348833da1d9bd8",
+      "dhash": "74f8ce5eb2b998ba",
+      "width": 150,
+      "height": 141,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.thrifty.com/Car_Rental_Information/content/Used_Vehicle_Peace_of_Mind.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/thrifty/reference-001.webp",
+      "source_url": "https://www.thrifty.com/Car_Rental_Information/content/~/media/E5D4235247054A3A8E58ED132C60806F.ashx",
+      "source_tag": "img:banner, img:image",
+      "context": "img div div div bodyText div programsList div content",
+      "content_type": "image/webp",
+      "bytes": 21580,
+      "sha256": "ec485e5fac03395deb755ef249660ce6b25ff44e63648a429e15a7c758b1af49",
+      "source_sha256": "7645c42aac126b1942c726c51199c0cf4552b5ca841474fabc7ccde2a8ebd3d5",
+      "dhash": "23871629191d0604",
+      "width": 695,
+      "height": 430,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.thrifty.com/Car_Rental_Information/content/Airport_Car_Rentals.aspx",
+        "https://www.thrifty.com/Car_Rental_Information/content/One_Way_Car_Rental.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/thrifty/reference-002.webp",
+      "source_url": "https://www.thrifty.com/Car_Rental_Information/content/~/media/294FC1F7CBA94FAF9DA02A0E3D43BB05.ashx",
+      "source_tag": "img:banner, img:image",
+      "context": "img center div div bodyText div programsList div content",
+      "content_type": "image/webp",
+      "bytes": 25982,
+      "sha256": "fa75eab05fb8aa5302662d95dca7c32d44e5afaf860f0b62fc0a6a90cda2b33a",
+      "source_sha256": "58090bb84eed2f9f7b49966ba430430e3b7180be7e7742a2ed7ff0d6daf6ea7a",
+      "dhash": "65659f1606072939",
+      "width": 600,
+      "height": 254,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.thrifty.com/Car_Rental_Information/content/One_Way_Car_Rental.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/thrifty/reference-003.webp",
+      "source_url": "https://www.thrifty.com/Car_Rental_Information/content/~/media/922000EF20574491BDAC80AA3C323DD5.ashx",
+      "source_tag": "img:banner, img:image",
+      "context": "img center div div bodyText div programsList div content",
+      "content_type": "image/webp",
+      "bytes": 40700,
+      "sha256": "6e7e29806afae6296958e764b5633fa237cee309d6cceef653a62b54e81587a7",
+      "source_sha256": "34fb43d6f56e6f3094227ea607cf6462193e6948ff18ee2b441740ce6bec6e0e",
+      "dhash": "20c94f174f47073b",
+      "width": 600,
+      "height": 285,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.thrifty.com/Car_Rental_Information/content/Rental_Car_Insurance.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/thrifty/reference-004.webp",
+      "source_url": "https://www.thrifty.com/Car_Rental_Information/content/~/media/0674F58A9F3D443FAECB17CD2A2976D7.ashx",
+      "source_tag": "img:banner, img:image",
+      "context": "img center div div bodyText div programsList div content",
+      "content_type": "image/webp",
+      "bytes": 24496,
+      "sha256": "d7c0b8f7f774a69d78a3fdd5fffeee62d9626084289b8fd6bd8cfb3a5eb8ff10",
+      "source_sha256": "0e73f1885ca0b18d2bd78990bf6ca4bad9f3bef489b2e902955912fbfb3d6b12",
+      "dhash": "2121212303818086",
+      "width": 600,
+      "height": 262,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.thrifty.com/Car_Rental_Information/content/Airport_Car_Rentals.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/thrifty/reference-005.webp",
+      "source_url": "https://www.thrifty.com/Car_Rental_Information/content/~/media/0CBAC54217804F70A1114AFA1557BD3E.ashx",
+      "source_tag": "img:banner, img:image",
+      "context": "img center div div bodyText div programsList div content",
+      "content_type": "image/webp",
+      "bytes": 53192,
+      "sha256": "333cc5510e8beec372635906329089749ef05c4d1d62835536971970e9754458",
+      "source_sha256": "53ac0cb676fef062ca926268630d375f2bef6df51277a2a9af99ab0b270745dc",
+      "dhash": "9d791693c23e4f27",
+      "width": 600,
+      "height": 389,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.thrifty.com/Car_Rental_Information/content/Rental_Car_Insurance.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/thrifty/reference-006.webp",
+      "source_url": "https://www.thrifty.com/Car_Rental_Information/content/~/media/8801082E665342AA9F9322B57A22F21B.ashx",
+      "source_tag": "img:banner, img:image",
+      "context": "img center div div bodyText div programsList div content",
+      "content_type": "image/webp",
+      "bytes": 38616,
+      "sha256": "12320e7d42f92392b56f47950575a1809b59087df8848384b4223ec78ab24ca2",
+      "source_sha256": "708f8b91b2efda7331ad466912f3440a689795f6af0e7846211e65f634f9b655",
+      "dhash": "597074e4f0706059",
+      "width": 600,
+      "height": 293,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.thrifty.com/Car_Rental_Information/content/Airport_Car_Rentals.aspx"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/thrifty/og.png",
       "source_url": "https://www.thrifty.com/content/dam/thrifty/global/thrifty.rendition.medium.png",
@@ -28,31 +207,6 @@
       "sha256": "3bb12e55e3ba0cb9cfcea99c2a39b21e0bafe02149f766dd1b83d2fae0f00eaf",
       "width": 319,
       "height": 239
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/thrifty/logo-1.webp",
-      "source_url": "https://www.thrifty.com/content/dam/thrifty/global/homepage/thrifty_homepage_sept_2025_extended.rendition.large.webp",
-      "source_tag": "img:semantic-logo",
-      "context": "img preload-img hero image body home-page page basicpage brand-thrifty html [document]",
-      "content_type": "image/webp",
-      "bytes": 239506,
-      "sha256": "409cdece92c9c4b93fce52dd10a1b5f5f3a73a9db3d92ff26ac0dc376d47a50f",
-      "width": 1600,
-      "height": 503
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/thrifty/logo-1.webp",
-      "source_url": "https://www.thrifty.com/content/dam/thrifty/global/homepage/thrifty_homepage_sept_2025_extended.rendition.large.webp",
-      "source_tag": "img:semantic-banner",
-      "context": "img preload-img hero image body home-page page basicpage brand-thrifty html [document]",
-      "content_type": "image/webp",
-      "bytes": 239506,
-      "sha256": "409cdece92c9c4b93fce52dd10a1b5f5f3a73a9db3d92ff26ac0dc376d47a50f",
-      "width": 1600,
-      "height": 503,
-      "reused_from": "logo"
     }
   ]
 }

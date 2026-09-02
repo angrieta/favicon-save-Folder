@@ -2,10 +2,21 @@
   "company": "퍼시픽렌터카",
   "category": "렌터카_국내",
   "requested_url": "https://www.pacificrentcar.co.kr/",
-  "page_url": "https://pacificrentcar.co.kr/",
+  "page_url": "https://www.pacificrentcar.co.kr/",
   "page_title": "퍼시픽렌터카",
   "collection_status": "complete",
   "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 9,
+    "scripts": 13,
+    "candidates": 78,
+    "attempted_assets": 78,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:11:21.824133+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,39 +31,414 @@
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_국내/pacific-rentcar/logo-1.png",
+      "path": "assets/렌터카_국내/pacific-rentcar/logo-001.png",
       "source_url": "https://pacificrentcar.co.kr/img/logo.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img 퍼시픽렌터카 로고 a img-logo div wrap hd-contents pc_header header header body",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "\n<!-- } 팝업레이어 끝 -->\n<!-- 상단 시작 { -->\n<header id=\"header\">\n<div class=\"wrap hd-contents pc_header\">\n<a class=\"img-logo\" href=\"https://pacificrentcar.co.kr\"><img alt=\"퍼시픽렌터카 로고\" src=\"https://pacificrentcar.co.kr/img/logo.png\"/></a>\n<nav>\n<ul>\n<!-- <li><a href=\"https://pacificrentcar.co.kr/pages/info/company.php\">회사소개</a></li> -->\n<li><a href=\"",
       "content_type": "image/png",
       "bytes": 9199,
       "sha256": "aed13a3393461ad419b1816b25d6d7e351f41a1b6273ca89a333d1502e702da0",
+      "source_sha256": "0537ba413363979eea02c485dac7211f6b4909a42302362f48e4753985a6995f",
+      "dhash": "343460625246191b",
       "width": 340,
-      "height": 80
+      "height": 80,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/",
+        "https://pacificrentcar.co.kr/bbs/board.php?bo_table=notice",
+        "https://pacificrentcar.co.kr/bbs/board.php?bo_table=notice&wr_id=12",
+        "https://pacificrentcar.co.kr/bbs/faq.php",
+        "https://pacificrentcar.co.kr/bbs/faq.php?fm_id=1",
+        "https://pacificrentcar.co.kr/bbs/faq.php?fm_id=5",
+        "https://pacificrentcar.co.kr/pages/info/branch.php",
+        "https://pacificrentcar.co.kr/pages/info/company.php",
+        "https://pacificrentcar.co.kr/pages/info/insurance-info.php",
+        "https://pacificrentcar.co.kr/pages/info/long-term_01.php",
+        "https://pacificrentcar.co.kr/pages/info/long-term_02.php",
+        "https://pacificrentcar.co.kr/pages/info/long-term_03.php",
+        "https://pacificrentcar.co.kr/pages/info/provision.php",
+        "https://pacificrentcar.co.kr/pages/info/rent-info.php",
+        "https://pacificrentcar.co.kr/pages/resv/index.php",
+        "https://pacificrentcar.co.kr/pages/resv/resv_check.php"
+      ]
     },
     {
       "type": "banner",
-      "path": "assets/렌터카_국내/pacific-rentcar/banner-1.webp",
+      "path": "assets/렌터카_국내/pacific-rentcar/banner-001.webp",
       "source_url": "https://pacificrentcar.co.kr/img/mid_ban.png",
-      "source_tag": "img:semantic-banner",
-      "context": "img mid-ban 자차보험 확인하기 배너 - 클릭시 보험안내 페이지로 이동 a section wrap main-section sec3 div container div container_wr",
+      "source_tag": "img:banner, img:image",
+      "context": "img mid-ban 자차보험 확인하기 배너 - 클릭시 보험안내 페이지로 이동 a section wrap main-section sec3 div container div container_wr div wrapper",
       "content_type": "image/webp",
-      "bytes": 31910,
-      "sha256": "cf6af59a8a6e19862ca4c14d207dce06831861c185e8a4afbb0abe91e4168b69",
-      "width": 1800,
-      "height": 332
+      "bytes": 38780,
+      "sha256": "4947b8bba936eb98faee91966f76930f913d7fa43eb0ef11775f7b9a3bbdc940",
+      "source_sha256": "fd47c837a1e5fd6dab5c82494b8d5caf06e0a74a52e74a06637ca7145db8fb9c",
+      "dhash": "4122333232b20b43",
+      "width": 2200,
+      "height": 406,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/pacific-rentcar/banner-002.webp",
+      "source_url": "https://pacificrentcar.co.kr/img/main_ban_01X4.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img 비행기 figure li box ul div banner-area div bg-inner",
+      "content_type": "image/webp",
+      "bytes": 15304,
+      "sha256": "304546955c38637e1791586722a710497faf1af1ac03c958ff90afa391788ad8",
+      "source_sha256": "79e40a223d71ed46a66437784082068d84d8f1e861186112dbcefe9794a2e783",
+      "dhash": "00e8da8c98f4c400",
+      "width": 848,
+      "height": 667,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/pacific-rentcar/banner-003.webp",
+      "source_url": "https://pacificrentcar.co.kr/img/bg_01.png",
+      "source_tag": "external-css",
+      "context": " Policy - Privacy & Use\r\n>>> 10.0 admin - login\r\n>>> 11.0 long term\r\n    section 01 - long head\r\n>>> 12.0 company\r\n*/\r\n\r\n\r\n/* -->>> 1.0 main > section 01 - BG & search area */\r\n#main { position: relative; overflow: hidden; }\r\n.main_bg {\r\n    background-image: url('../img/bg_01.png');\r\n    width: 100%;\r\n    background-size: cover;\r\n    background-repeat: no-repeat;\r\n    background-position: center ",
+      "content_type": "image/webp",
+      "bytes": 76232,
+      "sha256": "ce16a103e4d274ed9c13bd8874947f71f306162a91ab90f126f17c3de6e8a2fc",
+      "source_sha256": "822e4bec3d6b25537723b7ca4b5853210ac784626eb3d8aa0574e679bb61a8ff",
+      "dhash": "0d0d0f43634b6d39",
+      "width": 1920,
+      "height": 980,
+      "variant": "mobile",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_국내/pacific-rentcar/reference-1.webp",
-      "source_url": "https://pacificrentcar.co.kr/img/main_ban_01X4.png",
-      "source_tag": "img:page-image",
-      "context": "img 비행기 figure li box ul div banner-area",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-001.svg",
+      "source_url": "https://pacificrentcar.co.kr/img/long-02-car.svg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "카 장단점</a></li>\n<li><a href=\"long-term_03.php\">견적요청(법인 장기)</a></li>\n</ul>\n</div>\n<!-- 장기 장점 -->\n<section class=\"wrap\">\n<div class=\"long-term_02\">\n<div class=\"long_02_img\">\n<img src=\"https://pacificrentcar.co.kr/img/long-02-car.svg\"/>\n</div>\n<div class=\"long_02_txt\">\n<ul>\n<li>\n<strong>유지비용 측면</strong>\n<p>일시적인 목돈 투입이 없어 보다 수익성 높은 부분에 투자가 가능합니다.<br/>\n ",
+      "content_type": "image/svg+xml",
+      "bytes": 540569,
+      "sha256": "915663c3aa7a344f8f87cf9e8d2ba4b4884cfda8fc05803e288f56b03e8917ee",
+      "source_sha256": "915663c3aa7a344f8f87cf9e8d2ba4b4884cfda8fc05803e288f56b03e8917ee",
+      "dhash": "",
+      "width": 486,
+      "height": 541,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/pages/info/long-term_02.php"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-002.webp",
+      "source_url": "https://pacificrentcar.co.kr/img/ceo.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "h2 class=\"inline\">회사소개</h2>\n<p>퍼시픽렌터카에 오신 것을 환영합니다.</p>\n</div>\n</div>\n</section>\n<section class=\"wrap\">\n<div class=\"company-contents\">\n<div class=\"photo\">\n<img alt=\"대표이사 증명사진\" src=\"https://pacificrentcar.co.kr/img/ceo.png\"/>\n</div>\n<div class=\"greetings\">\n<p>퍼시픽렌터카에 오신 것을 환영합니다.<br/><br/>\r\n        저는 1982년부터 오늘까지 근 50년 동안 오직 렌터카만을 경영해왔습니다.<",
       "content_type": "image/webp",
-      "bytes": 16042,
-      "sha256": "c9094d51c959ea8bae97c14f2081f721a95febd52190b2d88b49b6794fee95c6",
-      "width": 848,
-      "height": 667
+      "bytes": 22270,
+      "sha256": "80b1b12dc73e82958089162ff0bfea0b0a9ff36075f8674089ebdcd2389692fe",
+      "source_sha256": "24c9b9dc9ac016e0e28ea2ee642745524cdb9d32b7883ebf4b48f9c305479fdf",
+      "dhash": "23256341cc4c2c87",
+      "width": 375,
+      "height": 525,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/pages/info/company.php"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-003.webp",
+      "source_url": "https://pacificrentcar.co.kr/data/editor/2507/thumb-f3c692124db9db72f58e56eb3de81a1a_1751948457_9968_600x848.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ew_image.php?fn=%2Fdata%2Feditor%2F2507%2Ff3c692124db9db72f58e56eb3de81a1a_1751948457_9968.jpg\" target=\"_blank\"><img alt=\"f3c692124db9db72f58e56eb3de81a1a_1751948457_9968.jpg\" src=\"https://pacificrentcar.co.kr/data/editor/2507/thumb-f3c692124db9db72f58e56eb3de81a1a_1751948457_9968_600x848.jpg\"/></a></div><p><br/></p></p>\n</td>\n</tr>\n</tbody>\n</table>\n<div class=\"bbs-btn-area\">\n<a href=\"https://pac",
+      "content_type": "image/webp",
+      "bytes": 44110,
+      "sha256": "0e36117a3b59a0f77fa5711ab6d3969279781bd81b1a5a1be9986c6b6e3901b3",
+      "source_sha256": "19ece0148b1154de917cdf3e3ac7992c987d6585095d0d247be77e5c74c54310",
+      "dhash": "d6d6ac85c191e068",
+      "width": 600,
+      "height": 848,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/bbs/board.php?bo_table=notice&wr_id=12"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/pacific-rentcar/banner-004.webp",
+      "source_url": "https://reborn.roof926.com/static/images/PACIFIC/20MORG.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "하는 기회</p>\n<h1><span class=\"point-blue\">실시간</span> 완전면책포함된 특가 차량</h1>\n</hgroup>\n<ul class=\"car-list-card\">\n<li class=\"car-card\">\n<div class=\"card-top\">\n<figure><img alt=\"모닝 어반\" src=\"https://reborn.roof926.com/static/images/PACIFIC/20MORG.png\"/></figure>\n<label class=\"label-year detail-gray\">2022년형</label>\n<p class=\"car-name\">모닝 어반</p>\n<div class=\"car-info poin",
+      "content_type": "image/webp",
+      "bytes": 24842,
+      "sha256": "77f364318145e01b330a42df7bf6d3d1f58274bfcc63c6cb83a6d35cfd135fa1",
+      "source_sha256": "93899a7ae7c266b68239197061e0abb1e0fbf8deac5f16ebcf269518f0f45bc2",
+      "dhash": "78703de2a9aac8f0",
+      "width": 758,
+      "height": 417,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/pacific-rentcar/banner-005.webp",
+      "source_url": "https://reborn.roof926.com/static/images/PACIFIC/MO.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "p>\n</div>\n<button class=\"btn-card-resv default detail-gray\" type=\"button\">마감</button>\n</div>\n</li>\n<li class=\"car-card\">\n<div class=\"card-top\">\n<figure><img alt=\"모닝 (24년 썬루프)\" src=\"https://reborn.roof926.com/static/images/PACIFIC/MO.jpg\"/></figure>\n<label class=\"label-year detail-gray\">2024~2025년형</label>\n<p class=\"car-name\">모닝 (24년 썬루프)</p>\n<div class=\"c",
+      "content_type": "image/webp",
+      "bytes": 18538,
+      "sha256": "20c207a4028c930acab518cf3e7cfd49098ed8935abcdeb20ca614433cb90d09",
+      "source_sha256": "b3a7489dcd7dffceb2ae5976e9ac263b1daf3038c4c4af898a0e23e0db391f37",
+      "dhash": "4034f4ec9ad2f006",
+      "width": 574,
+      "height": 428,
+      "variant": "mobile",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-004.webp",
+      "source_url": "https://reborn.roof926.com/static/images/PACIFIC/TNRAY.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ass=\"btn-card-resv primary\" onclick=\"doResv2('26MO'); return false;\" type=\"button\">예약</button>\n</div>\n</li>\n<li class=\"car-card\">\n<div class=\"card-top\">\n<figure><img alt=\"레이 \" src=\"https://reborn.roof926.com/static/images/PACIFIC/TNRAY.png\"/></figure>\n<label class=\"label-year detail-gray\">2022년형</label>\n<p class=\"car-name\">레이 </p>\n<div class=\"car-info point2",
+      "content_type": "image/webp",
+      "bytes": 25550,
+      "sha256": "89e2797b88dfd725861668631a9970c99a03b27cdf08f5c183ed2635df9c9cdf",
+      "source_sha256": "d92b4cebdf2dbd95c0b6cbc157e8835f2487526b4904c6d330b2fc7a0b1ec6fe",
+      "dhash": "7064c8ad9a9392e1",
+      "width": 732,
+      "height": 404,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-005.webp",
+      "source_url": "https://reborn.roof926.com/static/images/PACIFIC/24RAY.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "특가</p>\n</div>\n<button class=\"btn-card-resv default detail-gray\" type=\"button\">마감</button>\n</div>\n</li>\n<li class=\"car-card\">\n<div class=\"card-top\">\n<figure><img alt=\"레이 (24년)\" src=\"https://reborn.roof926.com/static/images/PACIFIC/24RAY.png\"/></figure>\n<label class=\"label-year detail-gray\">2024~2025년형</label>\n<p class=\"car-name\">레이 (24년)</p>\n<div class=\"car-i",
+      "content_type": "image/webp",
+      "bytes": 26804,
+      "sha256": "93e1827cafb8757ea5ac993ee886a34166d9f5c45a66c3beef13f61e8c6e2fb3",
+      "source_sha256": "f7edb2964f259d2ff12d41100ec65f9811be6487fa70453678f3ab7a99509670",
+      "dhash": "1526212d5b5b0cc0",
+      "width": 669,
+      "height": 429,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-006.webp",
+      "source_url": "https://reborn.roof926.com/static/images/PACIFIC/26RAY.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "card-resv primary\" onclick=\"doResv2('24RAY'); return false;\" type=\"button\">예약</button>\n</div>\n</li>\n<li class=\"car-card\">\n<div class=\"card-top\">\n<figure><img alt=\"레이 (25~26년)\" src=\"https://reborn.roof926.com/static/images/PACIFIC/26RAY.jpg\"/></figure>\n<label class=\"label-year detail-gray\">2025~2026년형</label>\n<p class=\"car-name\">레이 (25~26년)</p>\n<div class=\"ca",
+      "content_type": "image/webp",
+      "bytes": 20112,
+      "sha256": "cd1f3b6fb2019cb7ba1c394b8c4bf24bfda2c9007f878865eaac911854465fd2",
+      "source_sha256": "b9b61f3e3c8cec27fb652e737e327c6c0d8cb5b9fdf89be0a08264542bf20671",
+      "dhash": "8874e0a4ae8ab210",
+      "width": 574,
+      "height": 428,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-007.webp",
+      "source_url": "https://reborn.roof926.com/static/images/PACIFIC/REV.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "card-resv primary\" onclick=\"doResv2('26RAY'); return false;\" type=\"button\">예약</button>\n</div>\n</li>\n<li class=\"car-card\">\n<div class=\"card-top\">\n<figure><img alt=\"레이 EV (25년)\" src=\"https://reborn.roof926.com/static/images/PACIFIC/REV.png\"/></figure>\n<label class=\"label-year detail-gray\">2025년형</label>\n<p class=\"car-name\">레이 EV (25년)</p>\n<div class=\"car-inf",
+      "content_type": "image/webp",
+      "bytes": 9296,
+      "sha256": "7d267d670d04af360b3f32c65d9fe8f0933460388acdec474c4c3ccab929b545",
+      "source_sha256": "71186de9cc4094abffc7f9da8a51a7591f8b6d68e79e4e7b0129f3d8c429aaf5",
+      "dhash": "ccc8d8d8f8c8c800",
+      "width": 640,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-008.webp",
+      "source_url": "https://reborn.roof926.com/static/images/PACIFIC/CSPT.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ">\n</div>\n<button class=\"btn-card-resv default detail-gray\" type=\"button\">마감</button>\n</div>\n</li>\n<li class=\"car-card\">\n<div class=\"card-top\">\n<figure><img alt=\"캐스퍼 터보 인스퍼레이션\" src=\"https://reborn.roof926.com/static/images/PACIFIC/CSPT.jpg\"/></figure>\n<label class=\"label-year detail-gray\">2022년형</label>\n<p class=\"car-name\">캐스퍼 터보 인스퍼레이션</p>\n<div class=\"car-i",
+      "content_type": "image/webp",
+      "bytes": 20086,
+      "sha256": "545753a893f86005c56dd57ae43d2370aa1d1350f07ac5a1648d762794ccc759",
+      "source_sha256": "13365cb50d5d71f7eaac9ff775281c08c25527a99659b0ff15f8e1ebbd6a6303",
+      "dhash": "00f0708b9392f006",
+      "width": 574,
+      "height": 428,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-009.svg",
+      "source_url": "https://reborn.roof926.com/static/images/PACIFIC/27CSP.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "-resv primary\" onclick=\"doResv2('CSPT'); return false;\" type=\"button\">예약</button>\n</div>\n</li>\n<li class=\"car-card\">\n<div class=\"card-top\">\n<figure><img alt=\"캐스퍼 터보 (26년 썬루프)\" src=\"https://reborn.roof926.com/static/images/PACIFIC/27CSP.png\"/></figure>\n<label class=\"label-year detail-gray\">2026년형</label>\n<p class=\"car-name\">캐스퍼 터보 (26년 썬루프)</p>\n<div class=\"ca",
+      "content_type": "image/svg+xml",
+      "bytes": 1139950,
+      "sha256": "0bf56eafce6b611e20997907f6905d8b90c4782f85a5425b1d49deb47e8d9ec5",
+      "source_sha256": "0bf56eafce6b611e20997907f6905d8b90c4782f85a5425b1d49deb47e8d9ec5",
+      "dhash": "",
+      "width": 716,
+      "height": 716,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-010.webp",
+      "source_url": "https://reborn.roof926.com/static/images/PACIFIC/CSP.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/div>\n<button class=\"btn-card-resv default detail-gray\" type=\"button\">마감</button>\n</div>\n</li>\n<li class=\"car-card\">\n<div class=\"card-top\">\n<figure><img alt=\"캐스퍼 인스퍼레이션 (썬루프)\" src=\"https://reborn.roof926.com/static/images/PACIFIC/CSP.png\"/></figure>\n<label class=\"label-year detail-gray\">2022~2023년형</label>\n<p class=\"car-name\">캐스퍼 인스퍼레이션 (썬루프)</p>\n<div clas",
+      "content_type": "image/webp",
+      "bytes": 25584,
+      "sha256": "b081d5acdf2bcc3646466b0f9099016d1d250cf79b8d84663db2f8ea2851eaf2",
+      "source_sha256": "134d8ecbd45026b65178bf27ab20454e3fadf91b87347809e1c80ee0b9be9e4d",
+      "dhash": "b5b0219b1b9e0c12",
+      "width": 675,
+      "height": 479,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-011.webp",
+      "source_url": "https://pacificrentcar.co.kr/img/return_01.png",
+      "source_tag": "html-data, img:image",
+      "context": "주 공항 셔틀버스 운행</dt>\n<dd>08:00 ~ 19:40까지 20분 간격으로 항시 운행 합니다.</dd>\n</dl>\n</div>\n</div>\n<div class=\"take-over\">\n<h4>반납 절차</h4>\n<ul>\n<li>\n<div class=\"return-img\"><img alt=\"내비게이션 터치\" src=\"https://pacificrentcar.co.kr/img/return_01.png\"/></div>\n<p>퍼시픽렌터카 제주지점으로 오세요<br/>제주시 공항서로 89</p>\n</li>\n<li>\n<div class=\"return-img\"><img alt=\"차량 확인\" src=\"https://pacif",
+      "content_type": "image/webp",
+      "bytes": 24776,
+      "sha256": "2a424e169fa56f2cac3a4087b6d75aed235d0b9becf4f695272449d3dde15e03",
+      "source_sha256": "ff84ce45c36ea35d357091943bdd1002092d56cbbd52d075107127155f1331d7",
+      "dhash": "8caeccd4a6ae6cce",
+      "width": 560,
+      "height": 380,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/pages/info/rent-info.php"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-012.webp",
+      "source_url": "https://pacificrentcar.co.kr/img/return_02.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"><img alt=\"내비게이션 터치\" src=\"https://pacificrentcar.co.kr/img/return_01.png\"/></div>\n<p>퍼시픽렌터카 제주지점으로 오세요<br/>제주시 공항서로 89</p>\n</li>\n<li>\n<div class=\"return-img\"><img alt=\"차량 확인\" src=\"https://pacificrentcar.co.kr/img/return_02.png\"/></div>\n<p>차량 외관 상태 및 연료량 확인 후<br/>반납이 완료 됩니다.</p>\n</li>\n<li>\n<div class=\"return-img\"><img alt=\"소지품 없는 차량 내부\" src=\"http",
+      "content_type": "image/webp",
+      "bytes": 20504,
+      "sha256": "b0e13d7bcda9ace8fe3399145d665b66a3119ba218e23f70e38d362ca6b3931e",
+      "source_sha256": "3e34963372ba9cd149ffd5fb5fd937caf1ef95cc9e960d138c6dbf5e4f3707c9",
+      "dhash": "e59193999f9b2323",
+      "width": 560,
+      "height": 380,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/pages/info/rent-info.php"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-013.webp",
+      "source_url": "https://pacificrentcar.co.kr/img/return_03.png",
+      "source_tag": "html-data, img:image",
+      "context": " alt=\"차량 확인\" src=\"https://pacificrentcar.co.kr/img/return_02.png\"/></div>\n<p>차량 외관 상태 및 연료량 확인 후<br/>반납이 완료 됩니다.</p>\n</li>\n<li>\n<div class=\"return-img\"><img alt=\"소지품 없는 차량 내부\" src=\"https://pacificrentcar.co.kr/img/return_03.png\"/></div>\n<p>차량에 소지품을 두고 내리지 않도록<br/>꼼꼼히 확인해 주세요.</p>\n</li>\n<li>\n<div class=\"return-img\"><img alt=\"제주공항\" src=\"https://pac",
+      "content_type": "image/webp",
+      "bytes": 27794,
+      "sha256": "ba8970f77587597bf7100527e349a19aecb40f3ddfa417e439f87ca7e59ed7f0",
+      "source_sha256": "093b7b633b67ddff2940a39ae3e46b6dde1e188bb8769465cf97798b7c9b0aa1",
+      "dhash": "4dd4333333172b63",
+      "width": 560,
+      "height": 380,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/pages/info/rent-info.php"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-014.webp",
+      "source_url": "https://pacificrentcar.co.kr/img/return_04.png",
+      "source_tag": "html-data, img:image",
+      "context": " alt=\"소지품 없는 차량 내부\" src=\"https://pacificrentcar.co.kr/img/return_03.png\"/></div>\n<p>차량에 소지품을 두고 내리지 않도록<br/>꼼꼼히 확인해 주세요.</p>\n</li>\n<li>\n<div class=\"return-img\"><img alt=\"제주공항\" src=\"https://pacificrentcar.co.kr/img/return_04.png\"/></div>\n<p>셔틀버스에 탑승하면<br/>제주공항 출발층까지 모셔다 드려요.</p>\n</li>\n</ul>\n<div class=\"take-txt border\">\n<dl>\n<dt class=\"primary\">인수",
+      "content_type": "image/webp",
+      "bytes": 59478,
+      "sha256": "6e9e9e9e00de043ad1c7924f9ff668474d7da903190d361f13b727d529f5a9de",
+      "source_sha256": "a140eafd7e786111b7752a396ff568a571b2b1a4c53060d7be59216b542e9cc2",
+      "dhash": "1e0581813be59d39",
+      "width": 560,
+      "height": 380,
+      "variant": "shared",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/pages/info/rent-info.php"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejusok/reference-015.svg",
+      "source_url": "https://pacificrentcar.co.kr/js/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+      "source_tag": "external-css",
+      "context": "esome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'),url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'),url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'),url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'),url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-blo",
+      "content_type": "image/svg+xml",
+      "bytes": 444379,
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "source_sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/pacific-rentcar/reference-016.webp",
+      "source_url": "https://pacificrentcar.co.kr/img/company-bg.png",
+      "source_tag": "external-css",
+      "context": "days .month { width: 85px; margin: 0 5px 0 25px; }\r\n.long-personal { margin-top: 130px; }\r\n.long-personal span { margin: 0 12px; }\r\n.jeju-info { margin-top: 70px; }\r\n.long-form .pp2-label { width: 25%; }\r\n\r\n\r\n/* >>> 12.0 company */\r\n.company { \r\n  background: url(../img/company-bg.png);\r\n  background-repeat: no-repeat;\r\n  background-position: 100% 100%;\r\n  background-size: 60%;\r\n  padding: 120px 0",
+      "content_type": "image/webp",
+      "bytes": 39030,
+      "sha256": "7afbbd435c9f3457f740d856ba0d6acea077ba9ff4689db16b021c7d47736007",
+      "source_sha256": "ec40a3c7a79e1b600ef8e2e8da82d155221e52aa318240695bdac3d1e959e604",
+      "dhash": "46464f0f062762e1",
+      "width": 1424,
+      "height": 386,
+      "variant": "desktop",
+      "source_pages": [
+        "https://pacificrentcar.co.kr/"
+      ]
     }
   ]
 }

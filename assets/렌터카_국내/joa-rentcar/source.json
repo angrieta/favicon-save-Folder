@@ -4,92 +4,525 @@
   "requested_url": "https://joarent.com/",
   "page_url": "https://joarent.com/",
   "page_title": "조아렌트카",
-  "collection_status": "complete",
+  "collection_status": "partial",
   "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 2,
+    "scripts": 1,
+    "candidates": 85,
+    "attempted_assets": 85,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:10:38.881206+09:00"
+  },
   "assets": [
     {
-      "type": "logo",
-      "path": "assets/렌터카_국내/joa-rentcar/logo-1.png",
-      "source_url": "https://joarent.com/images/main/footerlogo.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img w-16 lg:w-auto JOA 조아렌트 로고 div flex-shrink-0 div flex items-start justify-center lg:justify-start gap-6 lg:gap-8 div container footer text-gray-800 py-8 lg:py-20 bg-joa-gray",
-      "content_type": "image/png",
-      "bytes": 3179,
-      "sha256": "5f373bbc1e57ee2c0d88154535702638e56efd2859ab2444125b4ad7427b82cd",
-      "width": 82,
-      "height": 54
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/joa-rentcar/logo-2.png",
-      "source_url": "https://joarent.com/images/top/kakao.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img KakaoTalk 바로가기 a block div fixed right-0 top-0 w-[50%] h-auto max-h-screen overflow-y-auto bg-white shadow-2xl flex flex-col z-50 div fixed inset-0 z-[9999] lg:hidden nav bg-white relative z-50",
-      "content_type": "image/png",
-      "bytes": 9177,
-      "sha256": "6cddf2d95aa4d5bf7893f1f90c5fbc0685da13328067f1e5b9eb52369713216b",
-      "width": 355,
-      "height": 105
-    },
-    {
       "type": "banner",
-      "path": "assets/렌터카_국내/joa-rentcar/banner-1.webp",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-001.webp",
       "source_url": "https://joarent.com/images/pcBanner/Banner_1.png",
-      "source_tag": "img:semantic-banner",
-      "context": "img w-full h-auto block 블랙박스 무료장착 div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden div relative w-full",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "rSlider\">\n<div class=\"flex transition-transform duration-700 ease-in-out\" id=\"bannerTrack\">\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"블랙박스 무료장착\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_1.png\">\n</img></div>\n<div class=\"w-full flex-shrink-0\">\n<a class=\"block\" href=\"https://jejudt.kr\" rel=\"noopener noreferrer\" ta",
       "content_type": "image/webp",
-      "bytes": 20728,
-      "sha256": "134b7a4181713717dcdde4c9027d82c0d7544607f032c320b164fe7f09c6ea0f",
-      "width": 1800,
-      "height": 514
+      "bytes": 21654,
+      "sha256": "3a12060443b4e3f3365646d80c895c92b5274f34d957dbeca5300d2af901ada5",
+      "source_sha256": "b0e2bb5ab810f1e4cbf54102dd2f8453fd6da30d891d4915a6065a1d4bd90b20",
+      "dhash": "0442191616651a04",
+      "width": 1920,
+      "height": 548,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
     },
     {
       "type": "banner",
-      "path": "assets/렌터카_국내/joa-rentcar/banner-2.webp",
-      "source_url": "https://joarent.com/images/pcBanner/Banner_2.png",
-      "source_tag": "img:semantic-banner",
-      "context": "img w-full h-auto block 카시트 예약 a block div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden",
-      "content_type": "image/webp",
-      "bytes": 19450,
-      "sha256": "da5af61d02b63c23eb626a6cd81878e0890dcf8f2fa87e461302c608f8810a3f",
-      "width": 1800,
-      "height": 514
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/joa-rentcar/reference-1.webp",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-002.webp",
       "source_url": "https://joarent.com/images/pcBanner/Banner_3.png",
-      "source_tag": "img:page-image",
-      "context": "img w-full h-auto block 무인 반납가능 div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden div relative w-full",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "t=\"카시트 예약\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_2.png\">\n</img></a>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"무인 반납가능\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_3.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"예약고객 쿠폰적립\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Bann",
       "content_type": "image/webp",
-      "bytes": 25906,
-      "sha256": "3d4dc391b63a099ebd07cb3e05816a509d8f1b0176d006a982e2d045c41dc350",
-      "width": 1800,
-      "height": 514
+      "bytes": 27104,
+      "sha256": "a5605e1718ffd4da9ae272eccf6073ed5c82cf0b1124ea7b28ae906ab2fe174d",
+      "source_sha256": "332c225aa8a0c8ac94ea2d2454b95ef721975c6ab6443d9213112c45e3929471",
+      "dhash": "044c3a1214190a00",
+      "width": 1920,
+      "height": 548,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_국내/joa-rentcar/reference-2.webp",
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-003.webp",
       "source_url": "https://joarent.com/images/pcBanner/Banner_4.png",
-      "source_tag": "img:page-image",
-      "context": "img w-full h-auto block 예약고객 쿠폰적립 div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden div relative w-full",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "<img alt=\"무인 반납가능\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_3.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"예약고객 쿠폰적립\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_4.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"셔틀버스 운영\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner",
       "content_type": "image/webp",
-      "bytes": 26876,
-      "sha256": "87b89cb2e21917eb6c089a4239163e93f9891cc357d5090bc2107fd746460c87",
-      "width": 1800,
-      "height": 514
+      "bytes": 27692,
+      "sha256": "3029849d3fbf9ce29cc02216dd2fc0784436f2ff60e2f233851968a806d8c139",
+      "source_sha256": "b7ebd46d4a4c5e39f9a536e4ad3928aa10362d737e50a7f7a8db7d8a348ff7c6",
+      "dhash": "0428121612520608",
+      "width": 1920,
+      "height": 548,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-004.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_5.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "<img alt=\"예약고객 쿠폰적립\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_4.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"셔틀버스 운영\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_5.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"취소 수수료\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_",
+      "content_type": "image/webp",
+      "bytes": 21346,
+      "sha256": "8e76529c235ab414fee0f4ee2871ac1aef9a4978682827068792333cdcef71c7",
+      "source_sha256": "a651b077de470592c9554f5770d23660e5b3821f728c99ab3cd15f1a12473107",
+      "dhash": "102e273a19150200",
+      "width": 1920,
+      "height": 548,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-005.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_6.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\">\n<img alt=\"셔틀버스 운영\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_5.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"취소 수수료\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_6.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"전차량 금연\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_",
+      "content_type": "image/webp",
+      "bytes": 33444,
+      "sha256": "8e8fb06d7a39bd408b315273d19434423910432cd072f9e89dd88973e585c9dc",
+      "source_sha256": "436ad2766b4de7e91ed3118715a3edaa100a200def096805824a51853231b889",
+      "dhash": "041212141c180400",
+      "width": 1920,
+      "height": 548,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-006.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_7.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "0\">\n<img alt=\"취소 수수료\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_6.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"전차량 금연\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_7.png\"/>\n</div>\n</div>\n<!-- 슬라이더 페이지네이션 -->\n<div class=\"absolute bottom-6 left-1/2 -translate-x-1/2 flex gap-2 z-10\">\n<button ",
+      "content_type": "image/webp",
+      "bytes": 24356,
+      "sha256": "ab72fa4e750c20bca79bc70d2ade4f1e3b7b157a39a030da963141413247d7b7",
+      "source_sha256": "b056093e7ef3362623a176cbe636ede637a9337183a21b0f2a37188080019daa",
+      "dhash": "06292d9936180804",
+      "width": 1920,
+      "height": 548,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-007.webp",
+      "source_url": "https://joarent.com/images/mobileBanner/Banner_1.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "r\">\n<div class=\"flex transition-transform duration-700 ease-in-out\" id=\"mobileBannerTrack\">\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"블랙박스 무료장착\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_1.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<a class=\"block\" href=\"https://jejudt.kr\" rel=\"noopener noreferrer\" target=",
+      "content_type": "image/webp",
+      "bytes": 20354,
+      "sha256": "21238b34f21624181cd896af5ec192c0b215618e2c7d6fdbb937b15f24fd82e5",
+      "source_sha256": "09fac9da4e81f81f4142bb39ba89a42bc5c59058c7c8d27a70bfa0dbd6314fbf",
+      "dhash": "2727064a8d9d6108",
+      "width": 720,
+      "height": 740,
+      "variant": "mobile",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-008.webp",
+      "source_url": "https://joarent.com/images/mobileBanner/Banner_3.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "lt=\"카시트 예약\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_2.png\"/>\n</a>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"무인 반납가능\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_3.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"예약고객 쿠폰적립\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/",
+      "content_type": "image/webp",
+      "bytes": 24916,
+      "sha256": "7cc449e9fb7bb19cede255db840b4abcb5c99f3b4d335a25252dffecfe433fb5",
+      "source_sha256": "61e197efda3b4bd80f13874bc8db802d76d95fde6acfe062bc53fa76eb5976fb",
+      "dhash": "380f136944dcb14c",
+      "width": 720,
+      "height": 740,
+      "variant": "mobile",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-009.webp",
+      "source_url": "https://joarent.com/images/mobileBanner/Banner_4.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " alt=\"무인 반납가능\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_3.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"예약고객 쿠폰적립\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_4.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"셔틀버스 운영\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Ba",
+      "content_type": "image/webp",
+      "bytes": 25566,
+      "sha256": "bef5952829df11f229270a33d76f92140a38bd86d375eabf3159454fc76ae609",
+      "source_sha256": "8412df233e2010eb9cc3092811de9bbf35a07a8dfcccc1e07aab9927368dfbd8",
+      "dhash": "270fa4684b460a24",
+      "width": 720,
+      "height": 740,
+      "variant": "mobile",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-010.webp",
+      "source_url": "https://joarent.com/images/mobileBanner/Banner_5.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " alt=\"예약고객 쿠폰적립\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_4.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"셔틀버스 운영\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_5.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"취소 수수료\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Ban",
+      "content_type": "image/webp",
+      "bytes": 19896,
+      "sha256": "81101d3cf717b4f52481e10677577c2d1f24ce27e6a40a1acf1f46b6b83e155a",
+      "source_sha256": "967bb5113dd066a685946139e71d044f32ebf70ee26e7b644df1a17a58147fd9",
+      "dhash": "189e3599d1d12e50",
+      "width": 720,
+      "height": 740,
+      "variant": "mobile",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-011.webp",
+      "source_url": "https://joarent.com/images/mobileBanner/Banner_6.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "img alt=\"셔틀버스 운영\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_5.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"취소 수수료\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_6.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"전차량 금연\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Ban",
+      "content_type": "image/webp",
+      "bytes": 30548,
+      "sha256": "a84344630026561be3158baed2c7333476485ae71ecd7f2d1394a1fc914fb629",
+      "source_sha256": "5081dc224d9a5dbb899f06dfa5b29b6ec63e64336265a6ccc9239c928b9d40fe",
+      "dhash": "040762526c482204",
+      "width": 720,
+      "height": 740,
+      "variant": "mobile",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-012.webp",
+      "source_url": "https://joarent.com/images/mobileBanner/Banner_7.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "<img alt=\"취소 수수료\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_6.png\"/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"전차량 금연\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_7.png\"/>\n</div>\n</div>\n</div>\n<!-- 모바일 검색 영역 -->\n<div class=\"lg:hidden\">\n<div class=\"container relative -mt-11 px-4\">\n<!-- 슬라이",
+      "content_type": "image/webp",
+      "bytes": 22132,
+      "sha256": "995bc5e13f832fc1aa89bfc584073aa647a34995c09af74b4f6595e4b673002f",
+      "source_sha256": "688c6802f1435e3a3c6eeb3e971aee0d8314dd722f235199613c722d2bb76dbd",
+      "dhash": "06060a9995e2320c",
+      "width": 720,
+      "height": 740,
+      "variant": "mobile",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_국내/joa-rentcar/reference-3.webp",
-      "source_url": "https://joarent.com/images/pcBanner/Banner_5.png",
-      "source_tag": "img:page-image",
-      "context": "img w-full h-auto block 셔틀버스 운영 div w-full flex-shrink-0 div bannerTrack flex transition-transform duration-700 ease-in-out div bannerSlider hidden lg:block relative w-full overflow-hidden div relative w-full",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-001.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F167.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "img max-w-full max-h-full object-contain mix-blend-multiply EV6 롱레인지에어 EV 2023~24 div w-full flex items-center justify-center div car-card flex-none w-[calc((100%-90px)/4)] bg-gray-100 rounded-lg p-6 transition-opacity duration-300 flex flex-col items-center justify-between div carSliderTrack flex gap-[30px] transition-transform duration-500 ease-out div overflow-visible div relative",
       "content_type": "image/webp",
-      "bytes": 20894,
-      "sha256": "174650b073bc83e51789d78e35f86e12dd8ad3a51004e6467e8a8ec3743492cd",
-      "width": 1800,
-      "height": 514
+      "bytes": 10124,
+      "sha256": "955927fa481b10ff4132ff50027908352bb25c5e93fd9ad7ad038c9e91838ea1",
+      "source_sha256": "3b49c0bc776df0443ac70837e7b0b05cfc5c5da80d46a334c19c73ef14126338",
+      "dhash": "00248978f2daf000",
+      "width": 475,
+      "height": 411,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/",
+        "https://joarent.com/longterm"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-013.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_2.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mg></div>\n<div class=\"w-full flex-shrink-0\">\n<a class=\"block\" href=\"https://jejudt.kr\" rel=\"noopener noreferrer\" target=\"_blank\">\n<img alt=\"카시트 예약\" class=\"w-full h-auto block\" src=\"/images/pcBanner/Banner_2.png\">\n</img></a>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"무인 반납가능\" class=\"w-full h-auto block\" src=\"/images/pcBan",
+      "content_type": "image/webp",
+      "bytes": 20122,
+      "sha256": "4682cf10d5fdb216f55f3e9e3e657809cffe9247292afab3e95d562ba0b72658",
+      "source_sha256": "5ee2ddd193f56fbc5bfce7c89af1f6c8da1b7e3c3b0f815f8164f859fe4c4701",
+      "dhash": "083616999e490800",
+      "width": 1920,
+      "height": 548,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-002.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F147.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ect-video lg:aspect-auto lg:h-full bg-transparent rounded-lg overflow-hidden\">\n<img alt=\"스포티지\" class=\"w-full h-full object-cover\" onerror=\"this.src='/images/rent/testcar.png'\" src=\"https://retail.joarent.net/image_proxy.php?url=http://joarent.net/image/147.jpeg\"/>\n</div>\n</div>\n<!-- 차량 스펙 -->\n<div class=\"flex-1 flex flex-col justify-end border-b border-dashed border-gray-300\">\n<d",
+      "content_type": "image/webp",
+      "bytes": 32688,
+      "sha256": "0dc01028ecc64bdd58cf67094799e459fb24cc12ed1fb70f05d6202cf3302dee",
+      "source_sha256": "d06adc29142312abf53e60fff1b647f0741e3fea280b9bf4bede4382bcbab06c",
+      "dhash": "10403cfcd2d21088",
+      "width": 1150,
+      "height": 1058,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/longterm"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-014.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F140.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "pect-video lg:aspect-auto lg:h-full bg-transparent rounded-lg overflow-hidden\">\n<img alt=\"싼타페\" class=\"w-full h-full object-cover\" onerror=\"this.src='/images/rent/testcar.png'\" src=\"https://retail.joarent.net/image_proxy.php?url=http://joarent.net/image/140.jpeg\"/>\n</div>\n</div>\n<!-- 차량 스펙 -->\n<div class=\"flex-1 flex flex-col justify-end border-b border-dashed border-gray-300\">\n<d",
+      "content_type": "image/webp",
+      "bytes": 32834,
+      "sha256": "f08046d3b6590e9c6dbc265b831c243d315591f3d3959400dbb6d16ade23f06e",
+      "source_sha256": "5e3ab6ee9267396537950d76fb4f6e55ef2489446e558950967dddbc7770f416",
+      "dhash": "304034f0c2d2d200",
+      "width": 1037,
+      "height": 837,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/longterm"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-003.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F172.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " 영역 -->\n<div class=\"w-full flex items-center justify-center\" style=\"height: 180px;\">\n<img alt=\"더 뉴 아반떼CN7 2026\" class=\"max-w-full max-h-full object-contain mix-blend-multiply\" src=\"https://retail.joarent.net/image_proxy.php?url=http://joarent.net/image/172.jpeg\"/>\n</div>\n<!-- 하단 정보 영역 -->\n<div class=\"w-full flex flex-col items-center gap-3\">\n<div class=\"flex gap-2 text-xs text-gr",
+      "content_type": "image/webp",
+      "bytes": 17176,
+      "sha256": "7a7225a42683f2c60d3e16738d9a00fa6a1356d8123ad3d18f6495e2dd93d8bd",
+      "source_sha256": "3d610ba3dc30da164bec943ec0c790170f66880ab665d19e4a818a34c6bf794e",
+      "dhash": "00300170f0cac020",
+      "width": 758,
+      "height": 636,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/",
+        "https://joarent.com/longterm"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-015.webp",
+      "source_url": "https://joarent.com/images/mobileBanner/Banner_2.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<a class=\"block\" href=\"https://jejudt.kr\" rel=\"noopener noreferrer\" target=\"_blank\">\n<img alt=\"카시트 예약\" class=\"w-full h-auto block\" src=\"/images/mobileBanner/Banner_2.png\"/>\n</a>\n</div>\n<div class=\"w-full flex-shrink-0\">\n<img alt=\"무인 반납가능\" class=\"w-full h-auto block\" src=\"/images/mobileBann",
+      "content_type": "image/webp",
+      "bytes": 17996,
+      "sha256": "663c4aed4b25e9905be0bbf61fac250cd3af8e5f0003f86466f8ea74a025590a",
+      "source_sha256": "2fa922f9d952f7f70423b9489a83879d3f42fc9873454bb50bd93b0fef9cebc9",
+      "dhash": "96170f4c5532320c",
+      "width": 720,
+      "height": 747,
+      "variant": "mobile",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-004.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F151.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "t-video lg:aspect-auto lg:h-full bg-transparent rounded-lg overflow-hidden\">\n<img alt=\"카니발9인승\" class=\"w-full h-full object-cover\" onerror=\"this.src='/images/rent/testcar.png'\" src=\"https://retail.joarent.net/image_proxy.php?url=http://joarent.net/image/151.jpeg\"/>\n</div>\n</div>\n<!-- 차량 스펙 -->\n<div class=\"flex-1 flex flex-col justify-end border-b border-dashed border-gray-300\">\n<d",
+      "content_type": "image/webp",
+      "bytes": 9196,
+      "sha256": "4c810018cc6e00b97a69dd38dab3a7ca55722d737754a9899924d16e0d43ff28",
+      "source_sha256": "e54a407b86a37b38610b6116c23d27a08f8765e3c16cb07774f65d40a3e770e6",
+      "dhash": "1042b878dadae000",
+      "width": 426,
+      "height": 356,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/longterm"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-005.webp",
+      "source_url": "https://joarent.com/images/mobileBanner/Banner_8.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "오톡 실시간 예약 상담\" src=\"/images/main/mid_6.png\">\n</img></a>\n</div>\n</div>\n</div>\n<!-- 신규혜택 -->\n<div class=\"container mt-6 lg:mt-[50px]\">\n<img alt=\"신규혜택 배너\" class=\"lg:hidden w-full\" src=\"/images/mobileBanner/Banner_8.png\">\n<img alt=\"신규혜택 배너\" class=\"hidden lg:block w-full\" src=\"/images/pcBanner/Banner_9.png\">\n</img></img></div>\n<!-- 중간 배너 (",
+      "content_type": "image/webp",
+      "bytes": 15410,
+      "sha256": "f0a16494f1b6c0eca4c72d6a0b01e45bc554fd16eb82ad2e5582a6ae65903593",
+      "source_sha256": "aed8eabc986f1eed3363bb5523cada08b40b627dc7f8af7b0f4535ce98094bff",
+      "dhash": "80d4c39c9cb28499",
+      "width": 688,
+      "height": 234,
+      "variant": "mobile",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-016.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_9.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "div class=\"container mt-6 lg:mt-[50px]\">\n<img alt=\"신규혜택 배너\" class=\"lg:hidden w-full\" src=\"/images/mobileBanner/Banner_8.png\">\n<img alt=\"신규혜택 배너\" class=\"hidden lg:block w-full\" src=\"/images/pcBanner/Banner_9.png\">\n</img></img></div>\n<!-- 중간 배너 (PC만 표시) -->\n<div class=\"hidden lg:block relative w-full mt-44\">\n<img alt=\"제주 렌터카 이벤트 배너",
+      "content_type": "image/webp",
+      "bytes": 25164,
+      "sha256": "31f1363b2c318bd8270a590b745575a64402fb12c05dc58b7fb6da10ac7b1fe2",
+      "source_sha256": "08ade65e6c3d2ca872cc57d3c66bbe753c670a6de74bd73de56a6cf63e190569",
+      "dhash": "606d819c94a4849b",
+      "width": 1157,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/joa-rentcar/banner-017.webp",
+      "source_url": "https://joarent.com/images/pcBanner/Banner_8.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ll\" src=\"/images/pcBanner/Banner_9.png\">\n</img></img></div>\n<!-- 중간 배너 (PC만 표시) -->\n<div class=\"hidden lg:block relative w-full mt-44\">\n<img alt=\"제주 렌터카 이벤트 배너\" class=\"w-full\" src=\"/images/pcBanner/Banner_8.png\"/>\n</div>\n<!-- 하단 콘텐츠 섹션 -->\n<div class=\"container mt-16 lg:mt-40 mb-28 lg:mb-44\">\n<div class=\"grid grid-cols-1 lg:grid-",
+      "content_type": "image/webp",
+      "bytes": 139166,
+      "sha256": "6098a87ad88ae986e3bf5be560df3f920f1035ef3597dc87c7cff509eed3925d",
+      "source_sha256": "9d6a9d6e2a58d631e746d00f2f533749799cb921c859f76f743b088ef7657c4c",
+      "dhash": "b184ec690b4c3232",
+      "width": 1920,
+      "height": 526,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-006.svg",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F247.jpeg",
+      "source_tag": "html-data, img:image",
+      "context": "img max-w-full max-h-full object-contain mix-blend-multiply 더 올 뉴 셀토스 1.6터보 2026 div w-full flex items-center justify-center div car-card flex-none w-[calc((100%-90px)/4)] bg-gray-100 rounded-lg p-6 transition-opacity duration-300 flex flex-col items-center justify-between div carSliderTrack flex gap-[30px] transition-transform duration-500 ease-out div overflow-visible div relative",
+      "content_type": "image/svg+xml",
+      "bytes": 192142,
+      "sha256": "675f99aa171504828d7ae9372881ea37d30714dace53b675087ba1f3bb2429f2",
+      "source_sha256": "675f99aa171504828d7ae9372881ea37d30714dace53b675087ba1f3bb2429f2",
+      "dhash": "",
+      "width": 716,
+      "height": 716,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-007.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F231.png",
+      "source_tag": "html-data, img:image",
+      "context": "이미지 영역 -->\n<div class=\"w-full flex items-center justify-center\" style=\"height: 180px;\">\n<img alt=\"그랜저 GN7 2027\" class=\"max-w-full max-h-full object-contain mix-blend-multiply\" src=\"https://retail.joarent.net/image_proxy.php?url=http://joarent.net/image/231.png\"/>\n</div>\n<!-- 하단 정보 영역 -->\n<div class=\"w-full flex flex-col items-center gap-3\">\n<div class=\"flex gap-2 text-xs text-gr",
+      "content_type": "image/webp",
+      "bytes": 31138,
+      "sha256": "295266f1b55f82eacd41fc9244f5996d948a0aadac41eb3ff06d2b1b699264ac",
+      "source_sha256": "ce45907d1be7d978d483c80a1d263ca31a8eee069b057b35d11f26cdf7cb78fb",
+      "dhash": "00e0f0d2e2d4cc00",
+      "width": 1280,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-008.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F210.png",
+      "source_tag": "html-data, img:image",
+      "context": "이미지 영역 -->\n<div class=\"w-full flex items-center justify-center\" style=\"height: 180px;\">\n<img alt=\"쏘나타 디엣지 2026\" class=\"max-w-full max-h-full object-contain mix-blend-multiply\" src=\"https://retail.joarent.net/image_proxy.php?url=http://joarent.net/image/210.png\"/>\n</div>\n<!-- 하단 정보 영역 -->\n<div class=\"w-full flex flex-col items-center gap-3\">\n<div class=\"flex gap-2 text-xs text-gr",
+      "content_type": "image/webp",
+      "bytes": 28834,
+      "sha256": "34880817456b8a5b6ecc048c1f681ed59fac540eaf68f1bfa4b73a9dc2dacd10",
+      "source_sha256": "1770bb926dbe35cbf573ba2f66379beede0a72aee8eec6cfd1ad2d30cbf3699f",
+      "dhash": "308170f0c2c00098",
+      "width": 1075,
+      "height": 1075,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-009.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F217.png",
+      "source_tag": "html-data, img:image",
+      "context": " 이미지 영역 -->\n<div class=\"w-full flex items-center justify-center\" style=\"height: 180px;\">\n<img alt=\"더 뉴 모닝 2027\" class=\"max-w-full max-h-full object-contain mix-blend-multiply\" src=\"https://retail.joarent.net/image_proxy.php?url=http://joarent.net/image/217.png\"/>\n</div>\n<!-- 하단 정보 영역 -->\n<div class=\"w-full flex flex-col items-center gap-3\">\n<div class=\"flex gap-2 text-xs text-gr",
+      "content_type": "image/webp",
+      "bytes": 29598,
+      "sha256": "c37a78cbad87bdd1482ad61a18ca51e3ccc034d65a2805d488891b0446d56279",
+      "source_sha256": "160904e43bf0db564b518d9286f74c90c8c0ef980de493c7cb4cd9e5cab86b89",
+      "dhash": "00849494948c88f0",
+      "width": 1280,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-010.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F200.png",
+      "source_tag": "html-data, img:image",
+      "context": "지 영역 -->\n<div class=\"w-full flex items-center justify-center\" style=\"height: 180px;\">\n<img alt=\"미니쿠퍼 컨버터블 2026\" class=\"max-w-full max-h-full object-contain mix-blend-multiply\" src=\"https://retail.joarent.net/image_proxy.php?url=http://joarent.net/image/200.png\"/>\n</div>\n<!-- 하단 정보 영역 -->\n<div class=\"w-full flex flex-col items-center gap-3\">\n<div class=\"flex gap-2 text-xs text-gr",
+      "content_type": "image/webp",
+      "bytes": 54418,
+      "sha256": "e78b78265d207943a9497dae72922c5a49f71717993fb7d21c8dcd185b289614",
+      "source_sha256": "7242405b02d99a5cbfe026c15834e294037761c93cc203bd84949c535e528caa",
+      "dhash": "308230f8f0d0f001",
+      "width": 1536,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/joa-rentcar/reference-011.webp",
+      "source_url": "https://retail.joarent.net/image_proxy.php?url=http%3A%2F%2Fjoarent.net%2Fimage%2F157.jpeg",
+      "source_tag": "html-data, img:image",
+      "context": "미지 영역 -->\n<div class=\"w-full flex items-center justify-center\" style=\"height: 180px;\">\n<img alt=\"스타리아 투어러 2026\" class=\"max-w-full max-h-full object-contain mix-blend-multiply\" src=\"https://retail.joarent.net/image_proxy.php?url=http://joarent.net/image/157.jpeg\"/>\n</div>\n<!-- 하단 정보 영역 -->\n<div class=\"w-full flex flex-col items-center gap-3\">\n<div class=\"flex gap-2 text-xs text-gr",
+      "content_type": "image/webp",
+      "bytes": 8758,
+      "sha256": "75c4d88b250a6f165d5740000f03fdc9748b80e0c86b6888cc0de96c5d7fd127",
+      "source_sha256": "eac29aeef13f6197d3f9fa89218385e08348e156c66d8934d4b2c2ed72707d1f",
+      "dhash": "0042946cded2f000",
+      "width": 403,
+      "height": 367,
+      "variant": "shared",
+      "source_pages": [
+        "https://joarent.com/"
+      ]
     }
   ]
 }

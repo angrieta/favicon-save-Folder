@@ -5,7 +5,18 @@
   "page_url": "https://zzimcar.com/",
   "page_title": "찜카 | 렌트카·항공권·숙소 실시간 가격비교",
   "collection_status": "complete",
-  "collection_error": "reference:ValueError:https://zzimcar.com/_nuxt/3.8964b057eabae1006463.js; reference:ValueError:https://zzimcar.com/_nuxt/6.1f397a0a9946442fbb4c.js; reference:ValueError:https://zzimcar.com/_nuxt/css/57774f8.css; reference:ValueError:https://zzimcar.com/_nuxt/139.6833abe20299e3026640.js; reference:ValueError:https://zzimcar.com/_nuxt/css/fe1c10b.css; reference:ValueError:https://zzimcar.com/_nuxt/5.8b7fb19475244e8db2a7.js",
+  "collection_error": "asset:https://domestic-rentcar.zzimcar.com/찜카 대표 이미지:HTTPError; asset:https://m-domestic-rentcar.zzimcar.com/찜카 대표 이미지:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 28,
+    "scripts": 36,
+    "candidates": 255,
+    "attempted_assets": 255,
+    "errors": 2,
+    "collected_at": "2026-09-03T08:13:16.733413+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,1852 @@
       "height": 32
     },
     {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-001.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20250829_144209.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": " class=\"cursor-pointer px-[4px] outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"찜카 회원은 국내렌트카 무제한 할인\" class=\"w-full cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20250829_144209.png\"/></div></div></div><div aria-hidden=\"true\" class=\"slick-slide slick-",
+      "content_type": "image/webp",
+      "bytes": 17142,
+      "sha256": "fc9dbbb6a2b6cce8e9db88aacd847cf25f350e9af441b75fdbf1ea0f696637c6",
+      "source_sha256": "ba99c842b2903e8f56ebbdd91c5da79463a4ef793a90bd1a31b0010ec6d6a9ed",
+      "dhash": "5ab92df381a7ab08",
+      "width": 640,
+      "height": 304,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m-domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-002.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20260416_180126.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "v class=\"cursor-pointer px-[4px] outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"렌트카/투어택시 베스트리뷰 이벤트\" class=\"w-full cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20260416_180126.png\"/></div></div></div></div></div></div><div class=\"body_14_medium abso",
+      "content_type": "image/webp",
+      "bytes": 35102,
+      "sha256": "45021ecbeb5762ee57037c3ec1595e98582918a6f32a25ce05489ea68f5a0a9f",
+      "source_sha256": "3deb2ae097ac06567633ee813ac5973aaa25fcab90b19634e6b3085f4df4e413",
+      "dhash": "49181ca6a4c69646",
+      "width": 1280,
+      "height": 608,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m-domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-003.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/_%EC%9C%84%ED%81%B4%EB%A6%AC%20%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20250909_153300.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "><div><div class=\"cursor-pointer px-[4px] outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"무이자 할부 안내\" class=\"w-full cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/_%EC%9C%84%ED%81%B4%EB%A6%AC%20%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20250909_153300.png\"/></div></div></div></div></div></div>",
+      "content_type": "image/webp",
+      "bytes": 13542,
+      "sha256": "7ad2e1dfba438abed1dd16d141fc13e04f663735d8058d53ee7b6ffd6e1b5f04",
+      "source_sha256": "af12ce265176427745bcd241dd3e92af393f321cd96b460a73fcdf09cb2bd22b",
+      "dhash": "5a98bcacae8c2c8c",
+      "width": 640,
+      "height": 304,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m-weekly-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-004.webp",
+      "source_url": "https://promotion.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpc-banner.9642fa50.png&w=3840&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img w-full h-auto hidden w1180:block main-banner div max-w-[680px] w1180:max-w-[1180px] w-full mx-auto bg-white body __variable_fd7b0d __variable_e0f90c antialiased min-h-screen overflow-x-hidden html [document]",
+      "content_type": "image/webp",
+      "bytes": 35790,
+      "sha256": "0bda4e69c951ece3f4450b380adb23a2e4e54c51e6587072a8126153ea8e1f16",
+      "source_sha256": "74258f4eeb5ad07f939ba290dca5eeba08b1cd6da18dc2171022b575f14a47a5",
+      "dhash": "827571a726a55712",
+      "width": 1180,
+      "height": 756,
+      "variant": "shared",
+      "source_pages": [
+        "https://promotion.zzimcar.com/event/discount_on_payment"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-005.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_pc_580x180_20260416_180140.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "ass=\"cursor-pointer outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"렌트카/투어택시 베스트리뷰 이벤트\" class=\"h-[180px] w-[580px] cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_pc_580x180_20260416_180140.png\"/></div></div></div></div></div><button class=\"slick-arrow slick-next\" ",
+      "content_type": "image/webp",
+      "bytes": 23996,
+      "sha256": "e803a05be6d805d37d14b747c4444e029543cd8ac3d2afb34d2bec2cb3037c07",
+      "source_sha256": "6a0c5f24d797396697bf3750d1d8bd18172d705bda3c094b259d2dd1af2f682e",
+      "dhash": "a41a59d9ccaa36c6",
+      "width": 1160,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-006.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20251010_152007.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "div class=\"cursor-pointer px-[4px] outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"찜카X제주카시트대여 혜택 안내\" class=\"w-full cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20251010_152007.png\"/></div></div></div><div aria-hidden=\"true\" class=\"slick-slide slick-",
+      "content_type": "image/webp",
+      "bytes": 39350,
+      "sha256": "d190401c373f56f087d0dc0344f7e24b9587e473927da67bebc31d3819fc4d5e",
+      "source_sha256": "1719bad293ae49b8ab03c2820f110a8117ed1e734f80ffb616b35ea05eac8f24",
+      "dhash": "7e3a3eaea6968e6e",
+      "width": 1280,
+      "height": 608,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m-domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-007.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/_%EC%9C%84%ED%81%B4%EB%A6%AC%20%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_pc_1352%5E420_20250909_153230.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "v><div class=\"cursor-pointer outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"무이자 할부 안내\" class=\"h-[210px] w-[676px] cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/_%EC%9C%84%ED%81%B4%EB%A6%AC%20%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_pc_1352%5E420_20250909_153230.png\"/></div></div></div></div></div></div",
+      "content_type": "image/webp",
+      "bytes": 21688,
+      "sha256": "8654e33fdf2edab2404a4d0b66ae80a21d3bce114538a018859f9f5ab30238d2",
+      "source_sha256": "4c79b897c200f03d73b7b3a77a6331b00c7943b3d0b2c5c7ca693ce6131805f1",
+      "dhash": "4d8c8ccccccc2ccc",
+      "width": 1352,
+      "height": 420,
+      "variant": "desktop",
+      "source_pages": [
+        "https://weekly-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-001.webp",
+      "source_url": "https://promotion.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmo-banner.76482c4d.png&w=1920&q=100",
+      "source_tag": "img:banner, img:image",
+      "context": "img w-full h-auto block w1180:hidden main-banner div max-w-[680px] w1180:max-w-[1180px] w-full mx-auto bg-white body __variable_fd7b0d __variable_e0f90c antialiased min-h-screen overflow-x-hidden html [document]",
+      "content_type": "image/webp",
+      "bytes": 28140,
+      "sha256": "cfd82c5eb4975a233b08c64d60d479f4a3c40cecf3f0b462e2a96dafc103a086",
+      "source_sha256": "60841880b41bdb8aa1cb0e95426bdf89766901208cefbe188931c4bbbc03f5be",
+      "dhash": "814e699b9e4b0a35",
+      "width": 680,
+      "height": 756,
+      "variant": "shared",
+      "source_pages": [
+        "https://promotion.zzimcar.com/event/discount_on_payment"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-008.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_%EA%B5%AD%EB%82%B4_pc_580x180_20260203_155643.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "ursor-pointer outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"항공권 예약 시 렌트카 20% 할인 프로모션\" class=\"h-[180px] w-[580px] cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_%EA%B5%AD%EB%82%B4_pc_580x180_20260203_155643.png\"/></div></div></div><div aria-hidden=\"true\" class=\"s",
+      "content_type": "image/webp",
+      "bytes": 46362,
+      "sha256": "39ad0295e3bb31efaca2cd6551d5dd5f77565e9a4bf8bd2cbe02b739ed3ce89f",
+      "source_sha256": "617efa7effdd988c56ebdea1d4e3e34aa1c46ee2355e287db6e5dc43d4b3f5cc",
+      "dhash": "b6e7337959699133",
+      "width": 1160,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-009.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_%EA%B5%AD%EB%82%B4_mo_640%5E304_20260203_155614.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "s=\"cursor-pointer px-[4px] outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"항공권 예약 시 렌트카 20% 할인 프로모션\" class=\"w-full cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_%EA%B5%AD%EB%82%B4_mo_640%5E304_20260203_155614.png\"/></div></div></div><div aria-hidden=\"true\" class=",
+      "content_type": "image/webp",
+      "bytes": 77300,
+      "sha256": "5a92b4b59481ce11446c23c59af1d010824837caefe11581faf744de41f64993",
+      "source_sha256": "b3d52bfb5c5ab58df46934865b8f81dbc02379f3cb1fe8c1f148f55a566410f4",
+      "dhash": "a467502c6c693136",
+      "width": 1280,
+      "height": 608,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m-domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-010.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_pc_580x180_20260701_094650.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": " class=\"cursor-pointer outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"찜카 X 포도뮤지엄 프로모션\" class=\"h-[180px] w-[580px] cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_pc_580x180_20260701_094650.png\"/></div></div></div><div aria-hidden=\"true\" class=\"slick-slide slick-cl",
+      "content_type": "image/webp",
+      "bytes": 33418,
+      "sha256": "60f505062a3fae39775148f6b1317911a81bc7fd457df102640a46af161805a9",
+      "source_sha256": "f5301e1e5f55ef1066e0cef8b79cf44b33d7643ca2e91c9a067c5e41a2a7ed58",
+      "dhash": "c43404cfc6c7c73b",
+      "width": 1740,
+      "height": 540,
+      "variant": "desktop",
+      "source_pages": [
+        "https://domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-011.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20260701_094746.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "<div class=\"cursor-pointer px-[4px] outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"찜카 X 포도뮤지엄 프로모션\" class=\"w-full cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_mo_640%5E304_20260701_094746.png\"/></div></div></div><div aria-hidden=\"true\" class=\"slick-slide slick-",
+      "content_type": "image/webp",
+      "bytes": 53608,
+      "sha256": "3209d6cdc1106c4b1ca9dd6647435a605b79e3c27201ec5ec7a32f50124e902b",
+      "source_sha256": "95b92e3f75686a9da4e13cc775209f3fe3f7b13da8be124323c5120d8d6de4e7",
+      "dhash": "42a928eaa5adb602",
+      "width": 1920,
+      "height": 912,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m-domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-012.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_pc_580x180_20251010_152039.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "class=\"cursor-pointer outline-none\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"찜카X제주카시트대여 혜택 안내\" class=\"h-[180px] w-[580px] cursor-pointer rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EB%A0%8C%ED%8A%B8%EC%B9%B4%20%EB%B0%B0%EB%84%88_pc_580x180_20251010_152039.png\"/></div></div></div><div aria-hidden=\"true\" class=\"slick-slide slick-cl",
+      "content_type": "image/webp",
+      "bytes": 30400,
+      "sha256": "7a1802b12c1984e8e03fb0dfd4e54054ed1a29879352e040c7612ac328ec26e0",
+      "source_sha256": "160abd1f2be1da7d4b6da3e667e1e9944dcf5b34f7a33fde621fcd991ae616c6",
+      "dhash": "f0235bdac6949a5a",
+      "width": 1160,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-001.svg",
+      "source_url": "https://front-cdn.zzimcar.com/images/zzim_logo_pc.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo, link:preload, script-data",
+      "context": "=\"\" style=\"top:0px;transform:translateY(44px);\"><div class=\"common-header-inner\" data-v-29815fb0=\"\"><button data-v-29815fb0=\"\"><img alt=\"찜카\" class=\"logo-pc\" data-v-29815fb0=\"\" src=\"https://front-cdn.zzimcar.com/images/zzim_logo_pc.svg\"/> <img alt=\"찜카\" class=\"logo-mo\" data-v-29815fb0=\"\" src=\"https://front-cdn.zzimcar.com/images/zzim_logo_mo.svg\"/></butto",
+      "content_type": "image/svg+xml",
+      "bytes": 2756,
+      "sha256": "80652599eac73d8b47c3919d2b3646f7d5d05b7c24d180d6254327eafba4df44",
+      "source_sha256": "80652599eac73d8b47c3919d2b3646f7d5d05b7c24d180d6254327eafba4df44",
+      "dhash": "",
+      "width": 120,
+      "height": 40,
+      "variant": "shared",
+      "source_pages": [
+        "https://domestic-rentcar.zzimcar.com/main",
+        "https://global-rentcar.zzimcar.com/",
+        "https://promotion.zzimcar.com/event/discount_on_payment",
+        "https://promotion.zzimcar.com/event/domestic_sales",
+        "https://weekly-rentcar.zzimcar.com/main",
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-002.svg",
+      "source_url": "https://front-cdn.zzimcar.com/images/zzim_logo_mo.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo, link:preload, script-data",
+      "context": "a-v-29815fb0=\"\"><img alt=\"찜카\" class=\"logo-pc\" data-v-29815fb0=\"\" src=\"https://front-cdn.zzimcar.com/images/zzim_logo_pc.svg\"/> <img alt=\"찜카\" class=\"logo-mo\" data-v-29815fb0=\"\" src=\"https://front-cdn.zzimcar.com/images/zzim_logo_mo.svg\"/></button> <div class=\"right-buttons\" data-v-29815fb0=\"\"><div class=\"tooltip-wrapper\" data-v-29815fb0=\"\"><button class=",
+      "content_type": "image/svg+xml",
+      "bytes": 1560,
+      "sha256": "62436d16f27cd737ae754695c5a08516d463b2fa05330a445412c8f3a0f6337e",
+      "source_sha256": "62436d16f27cd737ae754695c5a08516d463b2fa05330a445412c8f3a0f6337e",
+      "dhash": "",
+      "width": 50,
+      "height": 24,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/",
+        "https://m-domestic-rentcar.zzimcar.com/main",
+        "https://m-weekly-rentcar.zzimcar.com/main",
+        "https://promotion.zzimcar.com/event/domestic_sales",
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-013.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%ED%95%B4%EC%99%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4%EB%B0%B0%EB%84%88_pc_676x210_20260803_103443.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "] px-[4px] outline-none desktop:px-[0px]\" style=\"width:100%;display:inline-block\" tabindex=\"-1\"><img alt=\"찜카X허츠렌터카 공동 프로모션\" class=\"tablet:rounded-[16px] w-full rounded-[10px]\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%ED%95%B4%EC%99%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4%EB%B0%B0%EB%84%88_pc_676x210_20260803_103443.png\"/></div></div></div></div></div></div></div></div></div>",
+      "content_type": "image/webp",
+      "bytes": 47194,
+      "sha256": "cd0017eb0459ac6d96b267dbe12617b913533995eac7fc11d1f527176e520c66",
+      "source_sha256": "c413dd7d39c927aece6337afe6167286305033e804ab91ff517c429f9d6993c1",
+      "dhash": "01c1c53535756516",
+      "width": 1352,
+      "height": 420,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-014.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_mo_320x80_20260701_094530.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "href=\"https://zzimcar.com/notice-event/event/75\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카 X 포도뮤지엄 프로모션\" data-v-d38cad3c=\"\" fetchpriority=\"high\" loading=\"eager\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_mo_320x80_20260701_094530.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c",
+      "content_type": "image/webp",
+      "bytes": 31622,
+      "sha256": "896d96eaeb77c4fafca1c39e50137d808076151c721539794afbaffd57a856b2",
+      "source_sha256": "a365f81366ec86398ba94af59887d9cf8304874fbebfdfb9677654720e9c4b6d",
+      "dhash": "0d0ceeefa6a63682",
+      "width": 1920,
+      "height": 480,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-015.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_mo_320x80_20260803_103258.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "href=\"https://zzimcar.com/notice-event/event/76\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카X허츠렌터카 공동 프로모션\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_mo_320x80_20260803_103258.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c",
+      "content_type": "image/webp",
+      "bytes": 35100,
+      "sha256": "294ea544d4b3a10672215325c77c850524b83a0cd2336a2eb3bd970b25892fd4",
+      "source_sha256": "ec79317b4ac90459a6c40859b6feec45eaddcf0de214fc2682c6afd29a94b2d0",
+      "dhash": "8183737159590736",
+      "width": 1280,
+      "height": 320,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-016.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%E1%84%92%E1%85%A9%E1%86%B7%20%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5-MO%20banner%2001_20260828_142837.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"\" href=\"https://zzimcar.com/notice-event/event/77\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카 친구 추천 이벤트\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%E1%84%92%E1%85%A9%E1%86%B7%20%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5-MO%20banner%2001_20260828_142837.png",
+      "content_type": "image/webp",
+      "bytes": 19888,
+      "sha256": "26f73246688675ad4e082b6ede579cd95b7bc6392e5922f59a1c1a63728f0697",
+      "source_sha256": "aa1794ee5d4545a0ab51f654eea09b6827fca3336b5d33b5b30485f5decd5861",
+      "dhash": "0c2d86cec4cecc2e",
+      "width": 960,
+      "height": 240,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-017.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-2_20260424_093721.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ef=\"https://zzimcar.com/notice-event/event/8\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"항공권 예약 시 렌터카 20% 할인\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-2_20260424_093721.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://promotion.zzi",
+      "content_type": "image/webp",
+      "bytes": 26744,
+      "sha256": "2dabc4ec598e50a94da3e50500a0c0221e528336fece5d2202e938c379b73fe2",
+      "source_sha256": "b3b9d5729f871c287fe2f827b639ad77a349f50bdc9345d4c4dd905a1c260405",
+      "dhash": "f6f25b395958d293",
+      "width": 960,
+      "height": 240,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-018.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-4_20260424_093809.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "omotion.zzimcar.com/event/discount_on_payment\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카 서비스 결제 추가 할인 혜택\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-4_20260424_093809.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://zzimcar.com/n",
+      "content_type": "image/webp",
+      "bytes": 17014,
+      "sha256": "e2d9c58dac651a0fbc06317e91b201cd0c9dc70e96d45a4830f25d2ae83ccff9",
+      "source_sha256": "b55a9447cfcd1500efe5643a2c0a06becf66bf5c0cbd0fb316a7e34a9c381095",
+      "dhash": "08043431535b6213",
+      "width": 960,
+      "height": 240,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-019.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-5_20260424_093838.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "f=\"https://zzimcar.com/notice-event/event/56\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"렌트카·투어택시 베스트 리뷰 이벤트\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-5_20260424_093838.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://zzimcar.com/n",
+      "content_type": "image/webp",
+      "bytes": 17006,
+      "sha256": "80b43b5c4f55d4c086744ac506a40ec0d4278d3f879929a76238219749aee3a0",
+      "source_sha256": "218319d497be8bf32af35c67cf227bfd66b60024ddc0f213754b386f4a1b7bc8",
+      "dhash": "025ca4a4e4cc3c46",
+      "width": 960,
+      "height": 240,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-020.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-6_20260424_093903.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\" href=\"https://zzimcar.com/notice-event/event/53\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"국내숙소 리뷰 작성 이벤트\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-6_20260424_093903.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://zzimcar.com/n",
+      "content_type": "image/webp",
+      "bytes": 17738,
+      "sha256": "520b6446cecdfd1623b3e626279213b329645f670894cae4cb8518c1244621c9",
+      "source_sha256": "ecb59f839e7aa8ff90842f7c78fa2b7f09d50d59675898ef1d354a43d0fbab67",
+      "dhash": "5280595219794111",
+      "width": 960,
+      "height": 240,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-021.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-2_20260423_170240.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "824076=\"\"><a class=\"embla__slide embla__slide--single\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/60\"><img alt=\"찜케터PICK! 강릉 오션뷰 숙소.zip\" data-v-2d824076=\"\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-2_20260423_170240.png\"/></a><a class=\"embla__slide embla__slide--single\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/",
+      "content_type": "image/webp",
+      "bytes": 27464,
+      "sha256": "06f4c2eb9049c2e7848c88ee308a026a52d0190f07cb9fa3dd6456838d712ecf",
+      "source_sha256": "66df8d86ac1d8bf4df7d97a24923f0d7bb9cd94e9a985c9b6741dd7af5ab9679",
+      "dhash": "8d8d1f1f179707df",
+      "width": 960,
+      "height": 360,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-022.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-3_20260423_170312.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "png\"/></a><a class=\"embla__slide embla__slide--single\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/61\"><img alt=\"찜케터PICK! 서울 감성 스테이.zip\" data-v-2d824076=\"\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-3_20260423_170312.png\"/></a><a class=\"embla__slide embla__slide--single\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/",
+      "content_type": "image/webp",
+      "bytes": 52468,
+      "sha256": "b38f924621e8ba5aceafbbb558d6a57bfa5fb2a953ff9311ed0b492ca161be57",
+      "source_sha256": "9c81da8e27d5c86775579ec5fb93a3194d538e8393f365d0a16de4c90362c630",
+      "dhash": "c46c4d07470d491f",
+      "width": 960,
+      "height": 360,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-023.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-4_20260423_170352.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "png\"/></a><a class=\"embla__slide embla__slide--single\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/62\"><img alt=\"찜케터PICK! 제주 가성비 숙소.zip\" data-v-2d824076=\"\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-4_20260423_170352.png\"/></a><a class=\"embla__slide embla__slide--single\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/",
+      "content_type": "image/webp",
+      "bytes": 24262,
+      "sha256": "f6f89c85094bcc4f99f10b3c25743ae0ca4a0800d29e3b0a72636e3cfea43827",
+      "source_sha256": "524a6f8a0f6a7c28d716aec067de0070fa6558e53db1ccdd47694a7469fbc89f",
+      "dhash": "1faf8f97bf3b3725",
+      "width": 960,
+      "height": 360,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-024.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-5_20260423_170417.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ".png\"/></a><a class=\"embla__slide embla__slide--single\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/59\"><img alt=\"찜케터PICK! 제주 돌담 숙소.zip\" data-v-2d824076=\"\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-5_20260423_170417.png\"/></a></div></div> <button aria-label=\"이전 배너\" class=\"nav-btn nav-prev\" data-v-2d824076=\"\"><img alt=\"arrow_for",
+      "content_type": "image/webp",
+      "bytes": 55908,
+      "sha256": "f5fff25961ea231a1676bf96cc2a229075f0c6d8cddc331ea994d89fb177dd1e",
+      "source_sha256": "4017fe4896537dea8f8fbfd4901202a11ac2ac24281d018a430cbad15cd79064",
+      "dhash": "87a4c5d7652326a6",
+      "width": 960,
+      "height": 360,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-025.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2002%20-2_20260423_170005.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "slide--pair\" data-v-2d824076=\"\"><a class=\"banner-card\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/60\"><img alt=\"찜케터PICK! 강릉 오션뷰 숙소.zip\" data-v-2d824076=\"\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2002%20-2_20260423_170005.png\"/></a><a class=\"banner-card\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/61\"><img alt=\"찜케",
+      "content_type": "image/webp",
+      "bytes": 27048,
+      "sha256": "054482483ad18b697a785aab83e058a2e6054f63dbf2431aadfad8a1d0fefdb7",
+      "source_sha256": "94c1b18296e2f49d7e7842ba3b6c525c8e6454d069f5b483f1c20f988bd259b0",
+      "dhash": "a73f1f170f17c7db",
+      "width": 1120,
+      "height": 350,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-026.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2002%20-3_20260423_170038.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "%20-2_20260423_170005.png\"/></a><a class=\"banner-card\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/61\"><img alt=\"찜케터PICK! 서울 감성 스테이.zip\" data-v-2d824076=\"\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2002%20-3_20260423_170038.png\"/></a></div><div class=\"embla__slide embla__slide--pair\" data-v-2d824076=\"\"><a class=\"banner-card\" data-v-2d8",
+      "content_type": "image/webp",
+      "bytes": 49890,
+      "sha256": "4c9c9129b04e061a1a996428101e23d579b13f4e6cd25861c02c60539f2dc04b",
+      "source_sha256": "8bfeee6d4a8ee2b677e2c1565442af86f772f6f2b0ba1833aa74e4aee0f7f29d",
+      "dhash": "c4694d474745490f",
+      "width": 1120,
+      "height": 350,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-027.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2002%20-4_20260423_170108.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "slide--pair\" data-v-2d824076=\"\"><a class=\"banner-card\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/62\"><img alt=\"찜케터PICK! 제주 가성비 숙소.zip\" data-v-2d824076=\"\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2002%20-4_20260423_170108.png\"/></a><a class=\"banner-card\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/59\"><img alt=\"찜케",
+      "content_type": "image/webp",
+      "bytes": 26656,
+      "sha256": "323a57f897b935960178aa29ae33c223d7ad0ecdc08f609bed6692f4e5782973",
+      "source_sha256": "7c5cdb83d8dc0b5d7c80676dc3a721e567e4e4dd311d8c874c35df823f997815",
+      "dhash": "27b79f9f172725c4",
+      "width": 1120,
+      "height": 350,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-028.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2002%20-5_20260423_170135.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "2%20-4_20260423_170108.png\"/></a><a class=\"banner-card\" data-v-2d824076=\"\" href=\"https://zzimcar.com/notice-event/event/59\"><img alt=\"찜케터PICK! 제주 돌담 숙소.zip\" data-v-2d824076=\"\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2002%20-5_20260423_170135.png\"/></a></div></div></div> <button aria-label=\"이전 배너\" class=\"nav-btn nav-prev\" data-v-2d824076=\"\"><img alt=\"arr",
+      "content_type": "image/webp",
+      "bytes": 53412,
+      "sha256": "53ba7b0d91333954bf9c858f38bf8584afd0a9b1c8e281b1d95e368f59a6543c",
+      "source_sha256": "2a626963440c8ffa22949957486efac9ea766b4c70c863f01956b410906a53e6",
+      "dhash": "8fa4c4c54537a766",
+      "width": 1120,
+      "height": 350,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-029.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-8_20260424_093954.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "f=\"https://zzimcar.com/notice-event/event/46\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카X제주카시트대여 할인 혜택 안내\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-8_20260424_093954.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://promotion.zzi",
+      "content_type": "image/webp",
+      "bytes": 17908,
+      "sha256": "09d1d01515fa773fff7022a355aa9437a7c07b8e852768189f69cfa09d009796",
+      "source_sha256": "730eab014ee4d240c2811773515be66fc0d82d16060033a14f7e9f725fd81fd6",
+      "dhash": "8b4ba6b2d3d24e26",
+      "width": 960,
+      "height": 240,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-030.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-9_20260424_094015.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "https://promotion.zzimcar.com/event/domestic_sales\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"가입만 해도 무제한 할인\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-9_20260424_094015.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://zzimcar.com/n",
+      "content_type": "image/webp",
+      "bytes": 14722,
+      "sha256": "8174b53185bd1731b4e0ce01057f1ffdfd2438b09c35466303f108047afa51de",
+      "source_sha256": "9ff05355164311778a88b951de2c852b5ca9f7bf868e15465c98e10f5cbe1efc",
+      "dhash": "261a848593924d8c",
+      "width": 960,
+      "height": 240,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-031.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-10_20260424_094038.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "3c=\"\" href=\"https://zzimcar.com/notice-event/event/36\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"친구 추천 프로모션\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2001-10_20260424_094038.png\"/></div></a></div></div></div> <span class=\"pagination\" data-v-d38cad3c=\"\">\n      1 / 10\n    </span></div> <div",
+      "content_type": "image/webp",
+      "bytes": 16598,
+      "sha256": "fd8e949001d53d05aba5635e4fb9f43cd91881b55eb24e20eb30335a96cee353",
+      "source_sha256": "d1e39a5a4d2792b4dca25f89b817457ba4476f6ef4d8a96ca6f312f564031288",
+      "dhash": "142cb1d5b3b35f26",
+      "width": 960,
+      "height": 240,
+      "variant": "mobile",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-032.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_pc_1140x130_20260803_103356.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ref=\"https://zzimcar.com/notice-event/event/76\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카X허츠렌터카 공동 프로모션\" data-v-d38cad3c=\"\" fetchpriority=\"high\" loading=\"eager\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_pc_1140x130_20260803_103356.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad",
+      "content_type": "image/webp",
+      "bytes": 33590,
+      "sha256": "57bd23955873fb6ca4fbce674679c944cd37683cf72c0e2eddadf7125ad7b56e",
+      "source_sha256": "6542277768d7623f34756c06940352a90861bea32baf99c089149cf48f03663a",
+      "dhash": "0408733b21711116",
+      "width": 2200,
+      "height": 251,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-033.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%E1%84%92%E1%85%A9%E1%86%B7%20%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5-PC%20banner%2001_20260828_142908.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"\" href=\"https://zzimcar.com/notice-event/event/77\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카 친구 추천 이벤트\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%E1%84%92%E1%85%A9%E1%86%B7%20%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5-PC%20banner%2001_20260828_142908.png",
+      "content_type": "image/webp",
+      "bytes": 35256,
+      "sha256": "9de13e38413c30622d39a986269eddef37ff15265a3241b87607c892f5ccfab1",
+      "source_sha256": "c21d92a38a0c7f17fb7db59a99d46d6ad60ba77b109fa6afce4436bee8cd6aa9",
+      "dhash": "0d3ccccea4a51a86",
+      "width": 2200,
+      "height": 251,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-034.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_pc_1140x130_20260701_094601.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " href=\"https://zzimcar.com/notice-event/event/75\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카 X 포도뮤지엄 프로모션\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_pc_1140x130_20260701_094601.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad",
+      "content_type": "image/webp",
+      "bytes": 28292,
+      "sha256": "f469044b8396009c61145fa2ea49b140aaf09d57f1e85b537b7ef83c0f2a8fc8",
+      "source_sha256": "8df5da0d62ba938e1bd6af6967a16678f0071d8e3f476d8ce44498f1b33d6d6f",
+      "dhash": "0356a686c6c63686",
+      "width": 2200,
+      "height": 251,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-035.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-2_20260423_170734.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ef=\"https://zzimcar.com/notice-event/event/8\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"항공권 예약 시 렌터카 20% 할인\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-2_20260423_170734.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://promotion.zzi",
+      "content_type": "image/webp",
+      "bytes": 57948,
+      "sha256": "bac4c3687753b19dd750b8b0eafd1f40cbc9d1a7b637f3486a82889c60abcc95",
+      "source_sha256": "6f89a890bd1eb30ec2a5d16a2528f706c6ca54e9bfc90cfefeb249b16e8ba440",
+      "dhash": "f9f1796832129393",
+      "width": 2200,
+      "height": 251,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/zzimcar/social-001.webp",
+      "source_url": "https://zzimcar.s3.ap-northeast-2.amazonaws.com/common/image/meta/og_image.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image , script-data",
+      "context": "=\"telephone=070-4348-3333, address=제주특별자치도 제주시 첨단로 330, 디동 3층 엠-310호(영평동, 세미양빌딩), email=naturemobility@naturemobility.com\" data-n-head=\"ssr\" name=\"format-detection\"/><meta content=\"https://zzimcar.s3.ap-northeast-2.amazonaws.com/common/image/meta/og_image.png\" data-hid=\"og:image\" data-n-head=\"ssr\" property=\"og:image\"/><meta content=\"렌트카가격비교, 렌터카예약, 국내항공권, 해외항공권, 숙소가격비교, 여행플래너, ",
+      "content_type": "image/webp",
+      "bytes": 25708,
+      "sha256": "1a58d25ab4a234e82c86c67a046d0b8b1422336a39b03f7e83f3db4b539e9b2e",
+      "source_sha256": "cb30aa8c140e5d977a703143bad6ebd47dbccce328641140b5df6951d1187a28",
+      "dhash": "249ae260e6e6a254",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://domestic-rentcar.zzimcar.com/main",
+        "https://global-rentcar.zzimcar.com/",
+        "https://m-domestic-rentcar.zzimcar.com/main",
+        "https://m-weekly-rentcar.zzimcar.com/main",
+        "https://weekly-rentcar.zzimcar.com/main",
+        "https://zzimcar.com/",
+        "https://zzimcar.com/notice-event/event/36",
+        "https://zzimcar.com/notice-event/event/46",
+        "https://zzimcar.com/notice-event/event/53",
+        "https://zzimcar.com/notice-event/event/56",
+        "https://zzimcar.com/notice-event/event/59",
+        "https://zzimcar.com/notice-event/event/60",
+        "https://zzimcar.com/notice-event/event/61",
+        "https://zzimcar.com/notice-event/event/62",
+        "https://zzimcar.com/notice-event/event/75",
+        "https://zzimcar.com/notice-event/event/76",
+        "https://zzimcar.com/notice-event/event/77",
+        "https://zzimcar.com/notice-event/event/8"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-036.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-4_20260423_170905.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "omotion.zzimcar.com/event/discount_on_payment\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카 서비스 결제 추가 할인 혜택\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-4_20260423_170905.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://zzimcar.com/n",
+      "content_type": "image/webp",
+      "bytes": 30084,
+      "sha256": "48865a059abcf8de10686172eb0577633e443ca82fc162556468f453bb3d3f37",
+      "source_sha256": "8c6688dee93f33dcc2018fc4bd3e50c4e608ce89a7645b82b24e9c7754903c16",
+      "dhash": "0484591931318521",
+      "width": 2200,
+      "height": 251,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-037.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-5_20260423_171010.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "f=\"https://zzimcar.com/notice-event/event/56\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"렌트카·투어택시 베스트 리뷰 이벤트\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-5_20260423_171010.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://zzimcar.com/n",
+      "content_type": "image/webp",
+      "bytes": 29754,
+      "sha256": "b7578c8b8b95ab5e1aba527aa1c9e6c2b1572def236c5c3dde64544aeff726ba",
+      "source_sha256": "3275a8e0abb514b6dddbdcf14f5c0bb326bafa03c2a310c366ae9f6312c2c53a",
+      "dhash": "2d5ca4a4c4c6364b",
+      "width": 2200,
+      "height": 251,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-038.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-6_20260423_171037.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\" href=\"https://zzimcar.com/notice-event/event/53\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"국내숙소 리뷰 작성 이벤트\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-6_20260423_171037.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://zzimcar.com/n",
+      "content_type": "image/webp",
+      "bytes": 35668,
+      "sha256": "874b04502a9888fa81050ee986667b0f32d87c158769ebf4dd619426f1eb8c51",
+      "source_sha256": "14f1fc79bb9f8d7f55b626feb401239ba4d2191792f5773621db60645264da61",
+      "dhash": "02b1295919588010",
+      "width": 2200,
+      "height": 251,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-039.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-8_20260423_171135.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "f=\"https://zzimcar.com/notice-event/event/46\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"찜카X제주카시트대여 할인 혜택 안내\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-8_20260423_171135.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://promotion.zzi",
+      "content_type": "image/webp",
+      "bytes": 28512,
+      "sha256": "c4fe0d89642e70ada1c5c3b1795117642f22445fddb20c765e506b099c5e622a",
+      "source_sha256": "f9e8615f522380fd6156d7c99cfac6687d8f42f1f594d0d0f53fa66846ca658f",
+      "dhash": "0c1687c3cac65686",
+      "width": 2200,
+      "height": 251,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-040.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-9_20260423_171211.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "https://promotion.zzimcar.com/event/domestic_sales\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"가입만 해도 무제한 할인\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-9_20260423_171211.png\"/></div></a></div><div class=\"embla__slide\" data-v-d38cad3c=\"\"><a data-v-d38cad3c=\"\" href=\"https://zzimcar.com/n",
+      "content_type": "image/webp",
+      "bytes": 28146,
+      "sha256": "db664e3be74d9f907dcad8e225accb14c378ed6c6802ad66fe93e3f1c07829dc",
+      "source_sha256": "2d11161aaf8d29240dcd9639c3e222d1684ce660034684715d906e76bf84fb34",
+      "dhash": "0614a5a4c6ce3686",
+      "width": 2200,
+      "height": 251,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-041.webp",
+      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-10_20260423_171245.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "3c=\"\" href=\"https://zzimcar.com/notice-event/event/36\"><div class=\"slide-ratio\" data-v-d38cad3c=\"\"><img alt=\"친구 추천 프로모션\" data-v-d38cad3c=\"\" fetchpriority=\"auto\" loading=\"lazy\" src=\"https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/PC%20banner%2001-10_20260423_171245.png\"/></div></a></div></div></div> <span class=\"pagination\" data-v-d38cad3c=\"\">\n      1 / 10\n    </span></div></div",
+      "content_type": "image/webp",
+      "bytes": 29226,
+      "sha256": "489af1f20a42c36456050d76a67c902f2d546313e268c376c4278f883fe6d764",
+      "source_sha256": "7d044b223fff2260e76f387eeab0158d9d1d5caafb4a4c85a13428db99c97adf",
+      "dhash": "160de5b68f87168e",
+      "width": 2200,
+      "height": 251,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-042.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/f62da353-c947-405a-867a-6ecb32626c16_hertz-rental-car-popular-destinations.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "i><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"허츠 렌터카 인기 여행지는?｜TOP 5와 최대 15% 할인 프로모션\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/f62da353-c947-405a-867a-6ecb32626c16_hertz-rental-car-popular-destinations.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"c",
+      "content_type": "image/webp",
+      "bytes": 60500,
+      "sha256": "f1e2f4aa214c956a5bdf9468f4fcd3b6a2cb46a494447c7255ea03a2126e804d",
+      "source_sha256": "57d23638ea4a97ec650dc6c355cbcf6065d687cc59d5cbeca06f5df6801c76d6",
+      "dhash": "245919396161b24c",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-003.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_01_hertz.d1ae370e.png&w=256&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img provider logo div hidden shrink-0 pr-[50px] desktop:block div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 17878,
+      "sha256": "22eb7311136c13b517737ffa270640267f1de1d4a02862a40ab168f885eaec72",
+      "source_sha256": "a1a9ae518dc51dda0047bccd03dd772ea1dbb88b6ad1023c96e417052162f4e1",
+      "dhash": "336f27a5dbae47b3",
+      "width": 230,
+      "height": 80,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-004.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_01_hertz.d1ae370e.png&w=128&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img provider logo div block shrink-0 pr-[24px] desktop:hidden div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 11777,
+      "sha256": "794404f0f46bb1a89ed73aea10bdd2761dfb1b25437689f89655c072ab7672c2",
+      "source_sha256": "56570db9ecf79e396806286a86b2a60cc46f9cad9ac6b5b2f53e1ca52dbd25b6",
+      "dhash": "16b7b7a598666791",
+      "width": 128,
+      "height": 45,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-005.webp",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_02_budget.c57fe3ed.png&w=256&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img provider logo div hidden shrink-0 pr-[50px] desktop:block div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/webp",
+      "bytes": 2122,
+      "sha256": "55b480558469afba87070368532824f776c5280036bcf56e8eae8a4cd002fc0d",
+      "source_sha256": "c576ff8178ab42e84c40dbd55e083b43707a5dec23acce24eea03d94f3c2e7ef",
+      "dhash": "15ea14551b13f20d",
+      "width": 216,
+      "height": 80,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-006.webp",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_02_budget.c57fe3ed.png&w=128&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img provider logo div block shrink-0 pr-[24px] desktop:hidden div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/webp",
+      "bytes": 1332,
+      "sha256": "7caf8872371187f72d44a88cb6a9ec1d428cef800da4cd8dfede5aa5da0a7786",
+      "source_sha256": "bb60c47117d712aab9c42e478816eeee3bdde8d3665348d4b3639a0e8dd91f41",
+      "dhash": "15ca14151b13720d",
+      "width": 128,
+      "height": 47,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-007.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_03_avis.b35dba4e.png&w=128&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img provider logo div hidden shrink-0 pr-[50px] desktop:block div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 9063,
+      "sha256": "a8acdd5ff46bbef2d9f3bef98068d2e40cde735e899f7ad044ace0823eb9e357",
+      "source_sha256": "ce7752f53097e752468d0974a8c0db44412e91ac65a09bc948f5bfcc105c5f62",
+      "dhash": "ce11232b2d5b5324",
+      "width": 128,
+      "height": 59,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-008.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_03_avis.b35dba4e.png&w=96&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img provider logo div block shrink-0 pr-[24px] desktop:hidden div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 6054,
+      "sha256": "767ac6370e3a8149de0cff77448b1534f219d9607552262b591ae4f4f9ff46d1",
+      "source_sha256": "bbd13f5c7e9313f79fded20f84c991d0093da79415b845bacf91eb55b261896d",
+      "dhash": "5621232b3d5b5324",
+      "width": 96,
+      "height": 44,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-009.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_04_europcar.1a6558c4.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img provider logo div hidden shrink-0 pr-[50px] desktop:block div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 18913,
+      "sha256": "632225eb547efada963a25785bbb608c37f43e6265964e11ac00df92bad18f94",
+      "source_sha256": "b9fecf1f8669464a5caa8b016515bcb0f680fd9d2c51e991640d4311e58ce7dc",
+      "dhash": "85624d2d6b0f17e8",
+      "width": 248,
+      "height": 80,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-010.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_05_dollar.d119b398.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img provider logo div hidden shrink-0 pr-[50px] desktop:block div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 26122,
+      "sha256": "cfc31692c68145974455c011f4b07658aa7453cb26f0b7fd68e2f0c8558d572e",
+      "source_sha256": "4fcfc67d0a392ac83c5e868c179bf814a28e85e6e9e61af0df1c75e7df256f34",
+      "dhash": "4c4eb14d6d290901",
+      "width": 226,
+      "height": 80,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-011.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_05_dollar.d119b398.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img provider logo div block shrink-0 pr-[24px] desktop:hidden div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 13248,
+      "sha256": "5842233de81c38735614bc1f1080f8ea859288dae4e6e7cae1cccb2887cc4af2",
+      "source_sha256": "3fe34b8fc58e3e818cf6b132b911b7eff13544c7e8f1df750c61e91c9dfc74f3",
+      "dhash": "e5e5951b1632320f",
+      "width": 128,
+      "height": 45,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-012.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_06_gogoout.624db8d6.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img provider logo div hidden shrink-0 pr-[50px] desktop:block div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 31695,
+      "sha256": "486446bf8a3c79d4cc7106145cf7cc2d56143dea426782363626e58603136aaf",
+      "source_sha256": "3a80cee43e3843b6d65ccdbef5d21f730747f78ccddb7b20b4eb63e37427898e",
+      "dhash": "a2b2126252d29ad8",
+      "width": 256,
+      "height": 63,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-013.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_06_gogoout.624db8d6.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img provider logo div hidden shrink-0 pr-[50px] desktop:block div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 10727,
+      "sha256": "49a6e8ed221af97fe3d5311c1e94a6123474b5f5b182e87248cfbfb7d5edbe93",
+      "source_sha256": "f82fad4f05f5b534c5dba08c7151ae40a75a4828f6fae3456568abdf968b9782",
+      "dhash": "7272129212b2d353",
+      "width": 128,
+      "height": 31,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-014.png",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprovider_logo_07_okmobility.e20a57b6.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img provider logo div hidden shrink-0 pr-[50px] desktop:block div flex whitespace-nowrap div relative w-full overflow-hidden main flex flex-col gap-[50px] desktop:m-auto desktop:max-w-[1180px] desktop:gap-12 body",
+      "content_type": "image/png",
+      "bytes": 19437,
+      "sha256": "1fb7c25a10a2ae0ef13123460d0cab729e62630703ead1f1480b664537f5007a",
+      "source_sha256": "2d1a0326765b805e51849a79bfc364730227b7f79bd3a771c145cfb58a27bc2b",
+      "dhash": "0686b434145c0100",
+      "width": 256,
+      "height": 67,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/zzimcar/banner-043.webp",
+      "source_url": "https://zzimcar-promotion.s3.ap-northeast-2.amazonaws.com/domestic_sales/domestic_sales_og_2.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "00원 이내로 1일 대여\" name=\"description\"/><meta content=\"가입만 해도 무제한 할인\" property=\"og:title\"/><meta content=\"조건 없이 할인되니까 국내 렌트카 10,000원 이내로 1일 대여\" property=\"og:description\"/><meta content=\"https://zzimcar-promotion.s3.ap-northeast-2.amazonaws.com/domestic_sales/domestic_sales_og_2.png\" property=\"og:image\"/><meta content=\"summary_large_image\" name=\"twitter:card\"/><meta content=\"가입만 해도 무제한 할인\" name=\"twitt",
+      "content_type": "image/webp",
+      "bytes": 32200,
+      "sha256": "580b41679d18818dcdd9747138cdd3886e2fba8e7e85eb61c580f3b82022d4ab",
+      "source_sha256": "54a461021740487501cb5d0afae8801c20c77fa402a012fc7a34a3780458e19a",
+      "dhash": "8978b793b4b4b55b",
+      "width": 1200,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://promotion.zzimcar.com/event/domestic_sales"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/zzimcar/social-002.webp",
+      "source_url": "https://zzimcar-promotion.s3.ap-northeast-2.amazonaws.com/discount_on_payment/og.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": " content=\"찜카 결제 추가 할인 혜택 안내\" name=\"description\"/><meta content=\"결제할 때 한 번 더 할인 찜하기\" property=\"og:title\"/><meta content=\"찜카 결제 추가 할인 혜택 안내\" property=\"og:description\"/><meta content=\"https://zzimcar-promotion.s3.ap-northeast-2.amazonaws.com/discount_on_payment/og.png\" property=\"og:image\"/><meta content=\"summary_large_image\" name=\"twitter:card\"/><meta content=\"결제할 때 한 번 더 할인 찜하기\" name=\"",
+      "content_type": "image/webp",
+      "bytes": 16370,
+      "sha256": "8ba9391786519d17c0ed96e0a1b4f0204e0bc4960d96f97543bafa66c348444a",
+      "source_sha256": "db1e3ce4bc4c9c48a2a88d2938d0af88154a2cb42359a40050366edeecd61006",
+      "dhash": "2ad6d033333b628b",
+      "width": 600,
+      "height": 315,
+      "variant": "shared",
+      "source_pages": [
+        "https://promotion.zzimcar.com/event/discount_on_payment"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/zzimcar/logo-015.svg",
+      "source_url": "https://front-cdn.zzimcar.com/images/back.svg",
+      "source_tag": "html-data, img:logo, link:preload, script-data",
+      "context": "img zzim-logo button w1180:hidden w-[24px] h-[24px] flex items-center justify-center div mx-auto w-full max-w-[768px] w1180:max-w-[1180px] px-[20px] flex items-center justify-between h-full header fixed z-30 top-0 left-0 right-0 w-full h-[56px] w1180:h-[64px] bg-white border-b border-custom-gray-300 body __variable_fd7b0d __variable_e0f90c antialiased min-h-screen overflow-x-hidden html",
+      "content_type": "image/svg+xml",
+      "bytes": 502,
+      "sha256": "57e6a8011241197447c2902de0e94c2b1cb9ec3d8e188db7501b86ee684fac26",
+      "source_sha256": "57e6a8011241197447c2902de0e94c2b1cb9ec3d8e188db7501b86ee684fac26",
+      "dhash": "",
+      "width": 8,
+      "height": 14,
+      "variant": "shared",
+      "source_pages": [
+        "https://promotion.zzimcar.com/event/discount_on_payment",
+        "https://promotion.zzimcar.com/event/domestic_sales",
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-002.svg",
+      "source_url": "https://zzimcar.com/css/common/fontawesome-free-5.9.0-web/webfonts/fa-brands-400.svg",
+      "source_tag": "external-css",
+      "context": "webfonts/fa-brands-400.eot);src:url(../webfonts/fa-brands-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.woff) format(\"woff\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\"),url(../webfonts/fa-brands-400.svg#fontawesome) format(\"svg\")}.fab{font-family:\"Font Awesome 5 Brands\"}@font-face{font-family:\"Font Awesome 5",
+      "content_type": "image/svg+xml",
+      "bytes": 689922,
+      "sha256": "85eee11562ca8330dd6e3e7b726309ab95110e062d72c759abc83f897b8ed074",
+      "source_sha256": "85eee11562ca8330dd6e3e7b726309ab95110e062d72c759abc83f897b8ed074",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-003.svg",
+      "source_url": "https://zzimcar.com/css/common/fontawesome-free-5.9.0-web/webfonts/fa-regular-400.svg",
+      "source_tag": "external-css",
+      "context": "nts/fa-regular-400.eot);src:url(../webfonts/fa-regular-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.woff) format(\"woff\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\"),url(../webfonts/fa-regular-400.svg#fontawesome) format(\"svg\")}.far{font-weight:400}@font-face{font-family:\"Font Awesome 5 Free\";font-style:n",
+      "content_type": "image/svg+xml",
+      "bytes": 144451,
+      "sha256": "e14de0404bcbe28ac413bd4c992f552af250da30823e635ab9a7656e50e77bc8",
+      "source_sha256": "e14de0404bcbe28ac413bd4c992f552af250da30823e635ab9a7656e50e77bc8",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-004.svg",
+      "source_url": "https://zzimcar.com/css/common/fontawesome-free-5.9.0-web/webfonts/fa-solid-900.svg",
+      "source_tag": "external-css",
+      "context": "l(../webfonts/fa-solid-900.eot);src:url(../webfonts/fa-solid-900.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.woff) format(\"woff\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\"),url(../webfonts/fa-solid-900.svg#fontawesome) format(\"svg\")}.fa,.far,.fas{font-family:\"Font Awesome 5 Free\"}.fa,.fas{font-weight:900}",
+      "content_type": "image/svg+xml",
+      "bytes": 839388,
+      "sha256": "4ee1b170ff51b7fda11acef551d1ef492c0ebc1aff8e5712d3e30fcbb835776d",
+      "source_sha256": "4ee1b170ff51b7fda11acef551d1ef492c0ebc1aff8e5712d3e30fcbb835776d",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-005.svg",
+      "source_url": "https://domestic-rentcar.zzimcar.com/_next/static/media/slick.f895cfdf.svg",
+      "source_tag": "external-css",
+      "context": "ormal;src:url(/_next/static/media/slick.25572f22.eot);src:url(/_next/static/media/slick.25572f22.eot?#iefix) format(\"embedded-opentype\"),url(/_next/static/media/slick.653a4cbb.woff) format(\"woff\"),url(/_next/static/media/slick.6aa1ee46.ttf) format(\"truetype\"),url(/_next/static/media/slick.f895cfdf.svg#slick) format(\"svg\")}.slick-next,.slick-prev{font-size:0;line-height:0;position:absolute;top:50%;",
+      "content_type": "image/svg+xml",
+      "bytes": 2152,
+      "sha256": "12459f221a0b787bf1eaebf2e4c48fca2bd9f8493f71256c3043e7a0c7e932f6",
+      "source_sha256": "12459f221a0b787bf1eaebf2e4c48fca2bd9f8493f71256c3043e7a0c7e932f6",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://domestic-rentcar.zzimcar.com/main"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-006.webp",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftip_thumbnail_01_pc.0a9ddc06.png&w=1200&q=75",
+      "source_tag": "img:image",
+      "context": "img block h-full w-full object-fill desktop:hidden OO없으면 렌트카 대여 안된대요. div h-[200px] w-[200px] flex-col justify-end overflow-hidden rounded-xl desktop:h-[280px] desktop:w-[280px] desktop:rounded-2xl a text-xl font-bold not-italic leading-[normal] text-white div flex w-full items-center justify-between gap-3 overflow-y-scroll px-5 desktop:gap-5 desktop:overflow-y-visible desktop:px-0 div flex flex-c",
+      "content_type": "image/webp",
+      "bytes": 9552,
+      "sha256": "0271372c3bd27cd46d0e29291a84ddbe4809372a50be8d67f52341398c40925d",
+      "source_sha256": "17ea8cd70df1fd6dd3687ac9b58404f0ed4164c54cbc4dbfe93b9638144b7c4d",
+      "dhash": "056061e11ac88931",
+      "width": 560,
+      "height": 560,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-007.webp",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftip_thumbnail_02_pc.7a2f0ca2.png&w=1200&q=75",
+      "source_tag": "img:image",
+      "context": "img block h-full w-full object-fill desktop:hidden 나라 별 운전 방법 어떻게 다를까? div h-[200px] w-[200px] flex-col justify-end overflow-hidden rounded-xl desktop:h-[280px] desktop:w-[280px] desktop:rounded-2xl a text-xl font-bold not-italic leading-[normal] text-white div flex w-full items-center justify-between gap-3 overflow-y-scroll px-5 desktop:gap-5 desktop:overflow-y-visible desktop:px-0 div flex flex-",
+      "content_type": "image/webp",
+      "bytes": 9770,
+      "sha256": "9b4ec5f12eee9692903f67ed2ea126b9295fbef3a2e9c66853ad63a922687fa0",
+      "source_sha256": "92daea88d5b1b2019b0de5970e2f78c1af15fae1d7ba04f8e6b84d6113ebe5f8",
+      "dhash": "4db229b236d2a02d",
+      "width": 560,
+      "height": 560,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-008.webp",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftip_thumbnail_03_pc.469aa529.png&w=1200&q=75",
+      "source_tag": "img:image",
+      "context": "img block h-full w-full object-fill desktop:hidden CDW? NOC? 해외렌트카 보험 어렵지 않아요. div h-[200px] w-[200px] flex-col justify-end overflow-hidden rounded-xl desktop:h-[280px] desktop:w-[280px] desktop:rounded-2xl a text-xl font-bold not-italic leading-[normal] text-white div flex w-full items-center justify-between gap-3 overflow-y-scroll px-5 desktop:gap-5 desktop:overflow-y-visible desktop:px-0 div fl",
+      "content_type": "image/webp",
+      "bytes": 10188,
+      "sha256": "a891e105c13e169c30d32233a8900f251af0b77c86052b545e4dc400a4d6005e",
+      "source_sha256": "3eb47b1cdbafd84050258b79ae81caf62b886dc42c60e070e49e7f85785fce7f",
+      "dhash": "05303ab234a48219",
+      "width": 560,
+      "height": 560,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-009.webp",
+      "source_url": "https://global-rentcar.zzimcar.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftip_thumbnail_04_pc.0602e9f4.png&w=1200&q=75",
+      "source_tag": "img:image",
+      "context": "img block h-full w-full object-fill desktop:hidden 해외렌트카 예약 어떻게 해야 할까요? div h-[200px] w-[200px] flex-col justify-end overflow-hidden rounded-xl desktop:h-[280px] desktop:w-[280px] desktop:rounded-2xl a text-xl font-bold not-italic leading-[normal] text-white div flex w-full items-center justify-between gap-3 overflow-y-scroll px-5 desktop:gap-5 desktop:overflow-y-visible desktop:px-0 div flex flex",
+      "content_type": "image/webp",
+      "bytes": 10044,
+      "sha256": "ee2d5fc2e4e95eb38eb32227d09fde313ea7f9c5a8b7a495eecc963af926539f",
+      "source_sha256": "50b629d9b094d8cafe60e79469beb77c8ced6310417bea5a49136a3d0a4fc0d9",
+      "dhash": "073839b214809029",
+      "width": 560,
+      "height": 560,
+      "variant": "shared",
+      "source_pages": [
+        "https://global-rentcar.zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-010.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/fa289632-7f46-4b8c-9e3d-3ecc43c9a61d_______________.png",
+      "source_tag": "html-data, img:image",
+      "context": "ata-v-250160cc=\"\"><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/fa289632-7f46-4b8c-9e3d-3ecc43c9a61d_______________.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail",
+      "content_type": "image/webp",
+      "bytes": 167972,
+      "sha256": "0c38cd43913d546e5a9c0e21ec16bafc481ff25edd1b9b5a1b977e4d6fda98c5",
+      "source_sha256": "a395a8ccab0db8f0387911162d98dedb3059c728f6b684b2d32651f0ae062a9e",
+      "dhash": "3bcf6bc619a95657",
+      "width": 1500,
+      "height": 1500,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-011.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/05eea0f0-6417-491d-a534-2cc5b710c555_______________-1.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/05eea0f0-6417-491d-a534-2cc5b710c555_______________-1.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbna",
+      "content_type": "image/webp",
+      "bytes": 170250,
+      "sha256": "dc35f2004ccdc230fb20376cc4940d1bbb89c645bee8b47a190895f9ad885312",
+      "source_sha256": "71ec6d2001ff494a7602dd1d6f3d8a567a57eff0a05f6c832b6e586fd97012b1",
+      "dhash": "51138f5b733c3347",
+      "width": 1500,
+      "height": 1500,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-012.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/0015a04b-330e-4f61-ada8-5f205314ced9_______________-3.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/0015a04b-330e-4f61-ada8-5f205314ced9_______________-3.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbna",
+      "content_type": "image/webp",
+      "bytes": 555242,
+      "sha256": "d457404b5c6b59ffbc4198001556ca8e19a6e8c11fe1547e09f14435263c6b86",
+      "source_sha256": "b7c43c1da1bfc6cef563d29240706d450170db53893086701bcea5cae3bbd9d1",
+      "dhash": "6974632f2d6d4363",
+      "width": 1500,
+      "height": 1500,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-013.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/dcc87581-eb76-4edb-b131-b61c8e9c6884_______________-5.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/dcc87581-eb76-4edb-b131-b61c8e9c6884_______________-5.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbna",
+      "content_type": "image/webp",
+      "bytes": 107044,
+      "sha256": "201720823d56d70b38a66380c172c454ae1a297ae316c722812b462b31fdb206",
+      "source_sha256": "59ac7c57bded27f4d833127f8e4b52e1569684257434b982b38e19f1da69d270",
+      "dhash": "7ebce9ebfbe9d6ba",
+      "width": 1500,
+      "height": 1500,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-014.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/c3defd6b-95c2-43bc-b8c6-5a5bb91ba8b4_______________.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/c3defd6b-95c2-43bc-b8c6-5a5bb91ba8b4_______________.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail",
+      "content_type": "image/webp",
+      "bytes": 233760,
+      "sha256": "027743749d38606e678afb92dc61fa69941d85093af5205918ef0545c238f788",
+      "source_sha256": "0ab6780f0c0ca64735e95aab3343d4d66905207e1075a6e4d48154d0e917fb39",
+      "dhash": "160d37dd7fa6260c",
+      "width": 1500,
+      "height": 1500,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-015.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/3ff5f560-8554-4bce-a4e3-6964a79e7bea_______________-4.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/3ff5f560-8554-4bce-a4e3-6964a79e7bea_______________-4.png\" width=\"160\"/></div></li></ul></div> <button aria-label=\"다음\" class=\"slider-btn next\" data-",
+      "content_type": "image/webp",
+      "bytes": 205684,
+      "sha256": "e6f75dca859dee9d0e437a179f23f082879db6060921e8475f3c6cc05a591fdf",
+      "source_sha256": "2551d480abb872d938549387e5e9875c54deabb9fc71a1f35ea52fd78c540850",
+      "dhash": "07494b4b494d4f0f",
+      "width": 1500,
+      "height": 1500,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-016.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/c8ad9dd7-b702-4a16-8bfe-5872ad562ec5__________.png",
+      "source_tag": "html-data, img:image",
+      "context": "ata-v-250160cc=\"\"><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/c8ad9dd7-b702-4a16-8bfe-5872ad562ec5__________.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" dat",
+      "content_type": "image/webp",
+      "bytes": 12706,
+      "sha256": "3938073e8558af01a555f55ee3aec1b263e8388525a6afdbc4c85149b4849881",
+      "source_sha256": "97a143664d725a6ddd95ea83da8992c9e41cfc2eb99535775befb51d67f15dc2",
+      "dhash": "0000066971060000",
+      "width": 1200,
+      "height": 1200,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-017.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/b4efa675-a640-4e9f-ba35-02c7d5c54646____OK____.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/b4efa675-a640-4e9f-ba35-02c7d5c54646____OK____.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" dat",
+      "content_type": "image/webp",
+      "bytes": 9266,
+      "sha256": "7f6fd868043086b9c4b4db7766d73117aad70d1c2c6889b19c83e9fbcac734f3",
+      "source_sha256": "f2b330ce0acf29a92eea187af2dc9d77e3c477c3b0e740f53f6b2fd2612bcdbf",
+      "dhash": "0050067171065000",
+      "width": 1200,
+      "height": 1200,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-018.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/4dcdb10d-cccc-4cdd-8d32-f727c33d594f___________________.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/4dcdb10d-cccc-4cdd-8d32-f727c33d594f___________________.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumb",
+      "content_type": "image/webp",
+      "bytes": 10672,
+      "sha256": "24d3ed84b27728f61f7bc6599cc417899ab2d64c27a62b16df74c43f3597076d",
+      "source_sha256": "feb509daa2816d9212367fc3181e0cf3655f099025665033c37515408d7cba27",
+      "dhash": "0060066969066800",
+      "width": 1200,
+      "height": 1200,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-019.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/2aee5f29-2aaf-4c51-85e2-f660f9caf6d7_________________.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/2aee5f29-2aaf-4c51-85e2-f660f9caf6d7_________________.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbna",
+      "content_type": "image/webp",
+      "bytes": 9398,
+      "sha256": "746c1902a85dd5faca122d3535d3021145feaf2c2c20392face509c75a4117b2",
+      "source_sha256": "d0788c2ae2548f45a1bcaac276f614c505fda312df4821a9bb5848413f9e7a80",
+      "dhash": "00100a71650a2000",
+      "width": 1200,
+      "height": 1200,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-020.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/4f7da0e2-a29c-467c-b234-10c1a73d0ca3_________________.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/4f7da0e2-a29c-467c-b234-10c1a73d0ca3_________________.png\" width=\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbna",
+      "content_type": "image/webp",
+      "bytes": 11208,
+      "sha256": "79328c3bc7927cbf50a0bbfe191c8ef661a0337538c44283ea317cbcc397cc1d",
+      "source_sha256": "48bc912a986fb8134e8778c45e32a5fb377d52695f7738d85b6d7abdd78b49f7",
+      "dhash": "00400661600e4000",
+      "width": 1200,
+      "height": 1200,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-021.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/f27dc45c-7582-46e8-9e9a-5749d8f00937__________________________.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"160\"/></div></li><li class=\"card-item\" data-v-250160cc=\"\"><div class=\"card-thumbnail\" data-v-250160cc=\"\"><img data-v-250160cc=\"\" draggable=\"false\" height=\"160\" loading=\"lazy\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/region-cards/f27dc45c-7582-46e8-9e9a-5749d8f00937__________________________.png\" width=\"160\"/></div></li></ul></div> <button aria-label=\"다음\" class=\"slider-btn ne",
+      "content_type": "image/webp",
+      "bytes": 20936,
+      "sha256": "ba6b803f972cae6d629e5a1b0c714866cf3056a6038bc785127985c62e12e672",
+      "source_sha256": "9f5ba576ba13b244a48064e67aa82630c74627d3ecc53e8082505c206f62ef42",
+      "dhash": "0040025848164000",
+      "width": 1500,
+      "height": 1500,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-022.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/bca2bd2a-f044-4d83-a345-22ae14aae000_jeju-rentcar-price-best-time.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"\"><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"제주도 렌트카 가격, 언제 예약해야 가장 쌀까? (2026 최신)\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/bca2bd2a-f044-4d83-a345-22ae14aae000_jeju-rentcar-price-best-time.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-title",
+      "content_type": "image/webp",
+      "bytes": 21330,
+      "sha256": "93f14781ef6fe513974eaec4225118039e16c250fe3f8facdbcfc557af0a2b3c",
+      "source_sha256": "e5f60709a97f6771315b5e1709f4e0930a851dd52464a1123973705ea5b6d699",
+      "dhash": "2418b83079702408",
+      "width": 1540,
+      "height": 866,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-023.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/5470327c-46a2-4ff9-9de0-17ac67346afe_thumbnail_-_8.png",
+      "source_tag": "html-data, img:image",
+      "context": "><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"제주도 렌트카 처음이라면? 예약부터 이용까지 총정리 (2026 최신)\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/5470327c-46a2-4ff9-9de0-17ac67346afe_thumbnail_-_8.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-title\" data-v-1e0ae0",
+      "content_type": "image/webp",
+      "bytes": 29830,
+      "sha256": "6942c15e389c0541c46ae3a584748014338f272c5f1f82b2e3f97fbecfab7f67",
+      "source_sha256": "0035864c568b5dcd27bf44f12a97ebc4d07332de18fb3e6f2fc2b47ff7887d7d",
+      "dhash": "0836b06170791a24",
+      "width": 1540,
+      "height": 866,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-024.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/5900f683-190b-42eb-bbfd-e6cdaed0a28f_thumbnail_-_2.png",
+      "source_tag": "html-data, img:image",
+      "context": "p></div></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"제주도 렌트카 차종 추천, 상황별로 한번에 정리\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/5900f683-190b-42eb-bbfd-e6cdaed0a28f_thumbnail_-_2.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-title\" data-v-1e0ae0",
+      "content_type": "image/webp",
+      "bytes": 35970,
+      "sha256": "2f785234b7a8f3fe34764cda4f30c6d49022e57f2d65c6ee1bb93b5057cdf7f7",
+      "source_sha256": "f9fd92b90f1571c1211d5dd79146e774e1c166bb62284ec56e7b905b8d421227",
+      "dhash": "2852b1616131122c",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-025.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/ba236d74-c254-40d3-b725-02c60590cdb4_jeju-rentcar-insurance-guide__1_.png",
+      "source_tag": "html-data, img:image",
+      "context": "li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"제주도 렌트카 보험 꼭 필요할까? 완전자차 vs 일반자차 차이 완벽 정리\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/ba236d74-c254-40d3-b725-02c60590cdb4_jeju-rentcar-insurance-guide__1_.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-t",
+      "content_type": "image/webp",
+      "bytes": 29604,
+      "sha256": "70c5241f8b9a55e1ef5f3594d666d88803e5a6288889216bd2207359418bbfde",
+      "source_sha256": "8c25253a44ae7dce7e372b65114036529c01be0bd4aab56f8ca760251b453af4",
+      "dhash": "1428693969b2b20c",
+      "width": 1540,
+      "height": 866,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-026.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/c6588a75-ce4d-4aee-af04-5065eae72117_jeju-rentcar-review-guide__1_.png",
+      "source_tag": "html-data, img:image",
+      "context": "p></div></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"제주도 렌트카 후기, 이렇게 보면 실패 없습니다\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/c6588a75-ce4d-4aee-af04-5065eae72117_jeju-rentcar-review-guide__1_.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-titl",
+      "content_type": "image/webp",
+      "bytes": 22734,
+      "sha256": "088eece7f56142b6a7a3333943f250c51cc29acc9e233a2820c89015dc654352",
+      "source_sha256": "0f0731aab9d7dd37d5cc61e3b40b3bedf5845445932e7ab49b4e2b2f89175b12",
+      "dhash": "241a327272b2320c",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-027.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/2457c95d-6462-4879-8080-a059044f698c_jeju-rentcar-booking-checklist__9_.png",
+      "source_tag": "html-data, img:image",
+      "context": "</p></div></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"제주도 렌트카 예약 전 꼭 알아야 할 7가지\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/2457c95d-6462-4879-8080-a059044f698c_jeju-rentcar-booking-checklist__9_.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card",
+      "content_type": "image/webp",
+      "bytes": 27526,
+      "sha256": "29dde6171fdd57c98e226dd5ff832c5a2ca7b83b42febf8c53118cc1e1d51240",
+      "source_sha256": "8bbbe3acdcef7eae59ba349103868f944fe38fd6e96ba1ffe94e553b74465970",
+      "dhash": "04183a786160b24c",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-028.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/7e005fb5-c529-4c7f-aa75-28601da1fab9_jeju-rentcar-pickup-return-guide__3_.png",
+      "source_tag": "html-data, img:image",
+      "context": "트</p></div></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"제주도 렌트카 인수·반납 방법 완벽 가이드\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/7e005fb5-c529-4c7f-aa75-28601da1fab9_jeju-rentcar-pickup-return-guide__3_.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"ca",
+      "content_type": "image/webp",
+      "bytes": 14726,
+      "sha256": "ba7066fa63c8b070da3abb852e155ac0b333912edcbbe17c2421b66b8c963b16",
+      "source_sha256": "42efab53b295ae1f6c9c3bb85e62b0e029b0fe11b9b7d480fdc24189416e3670",
+      "dhash": "2418696971710630",
+      "width": 1540,
+      "height": 866,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-029.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/186d90c8-9541-4b53-bd4c-e842e32830bc_jeju-rentcar-shuttle-guide__1_.png",
+      "source_tag": "html-data, img:image",
+      "context": "iv></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"제주도 렌트카 셔틀 이용 방법, 처음이라면 꼭 확인하세요\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/186d90c8-9541-4b53-bd4c-e842e32830bc_jeju-rentcar-shuttle-guide__1_.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-tit",
+      "content_type": "image/webp",
+      "bytes": 29234,
+      "sha256": "c648d8c02c944b7566a1aba1d0d29e7cda5709eb8aeb5d91adb74b9916fbe5e3",
+      "source_sha256": "95a33fe5cf5f1617cf81da9b920734cafff9bb828170107eb84c648af7a91e71",
+      "dhash": "0828b27169611240",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-030.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/de7a4172-4cb5-4d0d-a627-aac0dc1c6ed0_thumbnail_-_0527.png",
+      "source_tag": "html-data, img:image",
+      "context": "번에</p></div></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"운전 중 돌발상황 대처는 이렇게 하세요.\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/de7a4172-4cb5-4d0d-a627-aac0dc1c6ed0_thumbnail_-_0527.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-title\" data-v-1e0",
+      "content_type": "image/webp",
+      "bytes": 28110,
+      "sha256": "bdf8f26f32a10053257cf3a51233680d165d7eb1079f8dc55413fee692a0a7a1",
+      "source_sha256": "88331b3700daeaf46cc32e7e91536a3094ba7dc77c7692a53a111882081d6016",
+      "dhash": "2018686261790a64",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-031.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/575d6034-298d-4f83-8ddb-f235e9ee4fa0_japan-rent-a-car-checklist-guide.png",
+      "source_tag": "html-data, img:image",
+      "context": "<li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"일본 렌트카 예약 전 꼭 확인할 것 5가지, 국제운전면허증부터 보험까지\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/575d6034-298d-4f83-8ddb-f235e9ee4fa0_japan-rent-a-car-checklist-guide.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-t",
+      "content_type": "image/webp",
+      "bytes": 52198,
+      "sha256": "f402f2b76215da78737a12ae2b72d7251e130d32e4e1d657c0563dfd96905f7b",
+      "source_sha256": "a93ddf58d67c5db8a33775cea9dea1d1845130ca148fc6737ff26452fcf90b37",
+      "dhash": "083671797179611a",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-032.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/75d3e501-ec8e-4eaf-87f8-6842d5942662_jeju-rentcar-thesaferentcar__59_.png",
+      "source_tag": "html-data, img:image",
+      "context": "i><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"더 세이프 렌트카 이용 가이드｜초보운전자에게 추천하는 제주도 렌트카\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/75d3e501-ec8e-4eaf-87f8-6842d5942662_jeju-rentcar-thesaferentcar__59_.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-t",
+      "content_type": "image/webp",
+      "bytes": 34936,
+      "sha256": "b0c7c669156501fcb8d29da7234fb52ee857c11aba4fc8a287a4d623e5d2adbc",
+      "source_sha256": "b10f207526b434737cc68960af2cd537dff53383826293d8c5994c8ad131723a",
+      "dhash": "0812b0b9b971621c",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-033.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/f97e9859-c0ef-450e-891c-565febcd23c2_ai-travel-planner-itinerary-guide.png",
+      "source_tag": "html-data, img:image",
+      "context": "p></div></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"AI 여행플래너로 여행 일정표 알차게 짜는 방법\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/f97e9859-c0ef-450e-891c-565febcd23c2_ai-travel-planner-itinerary-guide.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-",
+      "content_type": "image/webp",
+      "bytes": 48078,
+      "sha256": "86a7631ae4c4a7b9b20d4188f5db812b4b7ce188ece3f0f0c1aedf979230f92d",
+      "source_sha256": "1499382f4833d2ca629389ae9d568b3f1147bd92f14a1d16e2f91e5922cb16ae",
+      "dhash": "2c1261617961210e",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-034.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/4fe594f4-c839-4f67-b787-23b230d47f30_guam-rent-a-car-checklist.png",
+      "source_tag": "html-data, img:image",
+      "context": "iv></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"괌 렌트카 이용 가이드｜운전면허증·보험·주유·주차 총정리\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/4fe594f4-c839-4f67-b787-23b230d47f30_guam-rent-a-car-checklist.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p class=\"card-title\" d",
+      "content_type": "image/webp",
+      "bytes": 52900,
+      "sha256": "f727f7312a599c7293038d40cc2e081e75fc0a8c69ec3dd8c7b94a384c87d9ec",
+      "source_sha256": "0a4f0df0580aca8f8bfc799b7fbedac13c30581ea0f24e8b7ca526f6be3b0892",
+      "dhash": "241a797179693214",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-035.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/a87a640e-7d26-481a-81bc-5a29223cbb60_japan-rental-car-insurance-cdw-noc-scdw-guide.png",
+      "source_tag": "html-data, img:image",
+      "context": "/li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"일본 렌트카 보험 비교｜CDW·NOC·SCDW 차이와 선택 방법\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/a87a640e-7d26-481a-81bc-5a29223cbb60_japan-rental-car-insurance-cdw-noc-scdw-guide.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p ",
+      "content_type": "image/webp",
+      "bytes": 38938,
+      "sha256": "bcce18bcfaf7004356d331107fac3e9c1089371acd5f85816bd44482ab4b0aae",
+      "source_sha256": "98d13383111243a0d279653121e4919233d27f81911b3071d21754f4497b8cd3",
+      "dhash": "5826616961613408",
+      "width": 2200,
+      "height": 1237,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-036.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/e9b8433c-7bf0-433d-9789-ed4088a2f8a7_east-jeju-drive-course-from-jeju-airport-1.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "div></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"제주 동쪽 드라이브 코스 추천｜제주공항에서 토산포구까지\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/e9b8433c-7bf0-433d-9789-ed4088a2f8a7_east-jeju-drive-course-from-jeju-airport-1.jpg\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><p cla",
+      "content_type": "image/webp",
+      "bytes": 456694,
+      "sha256": "cdbb9417b5d484207be5f808850ce605a60a49a463de3bda88b3f7d1c609e814",
+      "source_sha256": "5c066f053e56df7b3ef31ad7d89dabce328de38f6c73e2b441c4995e599c3814",
+      "dhash": "07030f191b47c030",
+      "width": 2200,
+      "height": 1467,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-037.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/a5c07a6f-51a8-4b9f-a11b-088c46954e69_Recommended_domestic_summer_travel_destinations.png",
+      "source_tag": "html-data, img:image",
+      "context": "iv></li><li class=\"card-item\" data-v-1e0ae040=\"\"><div class=\"card-thumbnail\" data-v-1e0ae040=\"\"><img alt=\"국내 여름 여행지 추천 10곳｜지역별 계곡과 바다 총정리\" data-v-1e0ae040=\"\" draggable=\"false\" src=\"https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/a5c07a6f-51a8-4b9f-a11b-088c46954e69_Recommended_domestic_summer_travel_destinations.png\"/></div> <div class=\"card-info\" data-v-1e0ae040=\"\"><",
+      "content_type": "image/webp",
+      "bytes": 417312,
+      "sha256": "5b500e1ef00910e62d7024df6c064d118472c76aaac84ffb75dc58ea1dbb886d",
+      "source_sha256": "ea3e3118f267e06f270ced76aa899ee9a921c70f1b0197bcd63cf1381d4dff91",
+      "dhash": "23a351a10982e344",
+      "width": 1200,
+      "height": 800,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-038.webp",
+      "source_url": "https://zzimcar.s3.ap-northeast-2.amazonaws.com/int/image/main/icon-planner-3.gif",
+      "source_tag": "html-data, script-data",
+      "context": "3b7dccc4=\"\" href=\"https://planner.zzimcar.com/\"><!-- --> <div class=\"service-content\" data-v-087aab4e=\"\"><img alt=\"planner\" class=\"service_icon\" data-v-087aab4e=\"\" height=\"56\" src=\"https://zzimcar.s3.ap-northeast-2.amazonaws.com/int/image/main/icon-planner-3.gif\" width=\"56\"/> <p data-v-087aab4e=\"\">\n      여행플래너\n    </p></div></a> <a class=\"service-button\" data-v-087aab4e=\"\" data-v-",
+      "content_type": "image/webp",
+      "bytes": 8900,
+      "sha256": "fb9012b9b2787179afdf23cdfc2a033c491404760c536e4d0ad70444b31b30c0",
+      "source_sha256": "9c330aefd1627f5f15a6dacf0a6d76bde8c69ff904a34de15b3e586c4abf0552",
+      "dhash": "c0c8c4727eccc8c4",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-039.webp",
+      "source_url": "https://zzimcar.s3.ap-northeast-2.amazonaws.com/int/image/main/icon-ticket.gif",
+      "source_tag": "html-data, script-data",
+      "context": "\"https://zzimcar.cafe24.com/?utm_source=zzimcar\"><!-- --> <div class=\"service-content\" data-v-087aab4e=\"\"><img alt=\"ticket\" class=\"service_icon\" data-v-087aab4e=\"\" height=\"56\" src=\"https://zzimcar.s3.ap-northeast-2.amazonaws.com/int/image/main/icon-ticket.gif\" width=\"56\"/> <p data-v-087aab4e=\"\">\n      찜카할인권\n    </p></div></a> <button class=\"more-btn\" data-v-3b7dccc4=\"\"><div cla",
+      "content_type": "image/webp",
+      "bytes": 11922,
+      "sha256": "7b07ca972e3626541e988e9cf3b38a264707bcb8e3c9216820e63ca85e6d1b7a",
+      "source_sha256": "9b2318995df1ba3f30a9061d31024206e55d5f63cabfa6272da8301f040febbb",
+      "dhash": "0961070f331f1c03",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-040.webp",
+      "source_url": "https://promotion.zzimcar.com/_next/static/media/bg-deco.c129fa3d.png",
+      "source_tag": "script-data",
+      "context": "removeItem(c),console.error(\"tha visit 저장 실패:\",e)})}catch(e){console.error(\"trid 저장 실패:\",e)}},[e]),null}},2721:function(){},9674:function(e,t,a){\"use strict\";a.r(t),t.default={src:\"/_next/static/media/bg-deco.c129fa3d.png\",height:689,width:375,blurDataURL:\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAMAAADp7a43AAAAD1BMVEV1t/+cs/+",
+      "content_type": "image/webp",
+      "bytes": 14330,
+      "sha256": "e927f9811b3a48c8485facbdb19c7b179d1cd6cea047f721733348a7aac45994",
+      "source_sha256": "547c1dc36e7406d9c28e5f1fa0e252c7826344455e5634e5fc1f98e9690db66d",
+      "dhash": "3ec63e39814371b8",
+      "width": 375,
+      "height": 689,
+      "variant": "desktop",
+      "source_pages": [
+        "https://promotion.zzimcar.com/event/domestic_sales"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/zzimcar/reference-041.webp",
+      "source_url": "https://zzim-main-content.s3.ap-northeast-2.amazonaws.com/magazine/thumbnails/a50544e9-7cd5-423c-be72-358dc33b54b0_________________1.jfif",
+      "source_tag": "img:image",
+      "context": "img 부모님과 함께 가기 좋은 제주 맛집 추천 BEST 5 div card-thumbnail li card-item ul card-list div embla div slider-wrapper",
+      "content_type": "image/webp",
+      "bytes": 169784,
+      "sha256": "d1e9b0de68f93df997233f2a8bed76693935bb4f2e647c5cd526255c38d72011",
+      "source_sha256": "99850abad69816de32d7dd2d30aece94908922ce8fb32e0b2c21909c490e424f",
+      "dhash": "397760e0e0e2f91b",
+      "width": 1125,
+      "height": 1138,
+      "variant": "shared",
+      "source_pages": [
+        "https://zzimcar.com/"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_국내/zzimcar/og.png",
       "source_url": "https://zzimcar.s3.ap-northeast-2.amazonaws.com/common/image/meta/og_image.png",
@@ -28,90 +1885,6 @@
       "sha256": "cb30aa8c140e5d977a703143bad6ebd47dbccce328641140b5df6951d1187a28",
       "width": 1200,
       "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/zzimcar/logo-1.svg",
-      "source_url": "https://front-cdn.zzimcar.com/images/zzim_logo_pc.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img logo-pc 찜카 button div common-header-inner div common-header div fixed-top-header",
-      "content_type": "image/svg+xml",
-      "bytes": 2756,
-      "sha256": "80652599eac73d8b47c3919d2b3646f7d5d05b7c24d180d6254327eafba4df44",
-      "width": 120,
-      "height": 40
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/zzimcar/logo-2.svg",
-      "source_url": "https://front-cdn.zzimcar.com/images/zzim_logo_mo.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img logo-mo 찜카 button div common-header-inner div common-header div fixed-top-header",
-      "content_type": "image/svg+xml",
-      "bytes": 1560,
-      "sha256": "62436d16f27cd737ae754695c5a08516d463b2fa05330a445412c8f3a0f6337e",
-      "width": 50,
-      "height": 24
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_국내/zzimcar/banner-1.webp",
-      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-2_20260423_170240.png",
-      "source_tag": "img:semantic-banner",
-      "context": "img 찜케터PICK! 강릉 오션뷰 숙소.zip a embla__slide embla__slide--single div embla__container div embla div banner-section-inner",
-      "content_type": "image/webp",
-      "bytes": 28566,
-      "sha256": "3e28275332786ad71ba6044357683a21b0a2da5c9ccaa624c7bbf01783fb4e89",
-      "width": 960,
-      "height": 360
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_국내/zzimcar/banner-2.webp",
-      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-3_20260423_170312.png",
-      "source_tag": "img:semantic-banner",
-      "context": "img 찜케터PICK! 서울 감성 스테이.zip a embla__slide embla__slide--single div embla__container div embla div banner-section-inner",
-      "content_type": "image/webp",
-      "bytes": 54512,
-      "sha256": "6d10f880098d96cdf12a80d375df96e98394616cb4b9464fc408df6025c47971",
-      "width": 960,
-      "height": 360
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/zzimcar/reference-1.webp",
-      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-4_20260423_170352.png",
-      "source_tag": "img:page-image",
-      "context": "img 찜케터PICK! 제주 가성비 숙소.zip a embla__slide embla__slide--single div embla__container div embla div banner-section-inner",
-      "content_type": "image/webp",
-      "bytes": 25396,
-      "sha256": "0a09b3bc6b6d96415638bc5455a8bb360163eca0d0e68cb06473488967acef11",
-      "width": 960,
-      "height": 360
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/zzimcar/reference-2.webp",
-      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/MO%20banner%2002%20-5_20260423_170417.png",
-      "source_tag": "img:page-image",
-      "context": "img 찜케터PICK! 제주 돌담 숙소.zip a embla__slide embla__slide--single div embla__container div embla div banner-section-inner",
-      "content_type": "image/webp",
-      "bytes": 58098,
-      "sha256": "9bbbb4b4f99b114cceb164f1b79118256f4128c9900313b1d529edaf65068319",
-      "width": 960,
-      "height": 360
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/zzimcar/reference-3.webp",
-      "source_url": "https://zzimcar-prod.s3.ap-northeast-2.amazonaws.com/zzimcar/banner/%EC%88%99%EC%86%8C%20%EB%B0%B0%EB%84%88_mo_320x80_20260701_094530.png",
-      "source_tag": "img:page-image",
-      "context": "img 찜카 X 포도뮤지엄 프로모션 div slide-ratio a div embla__slide div embla__container",
-      "content_type": "image/webp",
-      "bytes": 31252,
-      "sha256": "ff5c48d60b96a8fe72c6a831c3a017800fe6878e67027f4401fa51190150e1d6",
-      "width": 1800,
-      "height": 450
     }
   ]
 }

@@ -4,8 +4,19 @@
   "requested_url": "https://nissan-rentacar.com/",
   "page_url": "https://nissan-rentacar.com/",
   "page_title": "日産レンタカー",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://nissan-rentacar.com/car/車種・料金 | 日産レンタカー:HTTPError; asset:https://nissan-rentacar.com/日産レンタカー:HTTPError; asset:https://nissan-rentacar.com/car/の車両一覧 | 日産レンタカー:HTTPError; asset:https://nissan-rentacar.com/car/日産レンタカー:HTTPError; asset:https://nissan-rentacar.com/car/料金体系 | 日産レンタカー:HTTPError; asset:https://nissan-rentacar.com/car/rates/福祉車両 | 日産レンタカー:HTTPError; asset:https://nissan-rentacar.com/car/ワンウェイドライブサービス料金:HTTPError; asset:https://nissan-rentacar.com/car/types/I/detail/キャラバン チェアキャブ | 日産レンタカー:HTTPError; asset:https://nissan-rentacar.com/car/types/I/detail/クリッパーリオ チェアキャブ | 日産レンタカー:HTTPError; asset:https://nissan-rentacar.com/car/types/I/detail/セレナ チェアキャブ | 日産レンタカー:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 3,
+    "scripts": 36,
+    "candidates": 202,
+    "attempted_assets": 202,
+    "errors": 10,
+    "collected_at": "2026-09-03T08:39:39.139915+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,2085 @@
       "height": 180
     },
     {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-001.webp",
+      "source_url": "https://nissan-rentacar.com/bg-footer-sp.png",
+      "source_tag": "html-data, img:banner, img:image, script-data",
+      "context": "splay:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%\"/><noscript><img alt=\"bg-footer-sp\" data-nimg=\"fill\" decoding=\"async\" loading=\"lazy\" src=\"/bg-footer-sp.png\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:",
+      "content_type": "image/webp",
+      "bytes": 60632,
+      "sha256": "5fb664098da2522492dc3b15c5614246412eb7b5f3202b0cac09a22f22b19293",
+      "source_sha256": "4baf38c1ab125aa6b5393ba22f85463a5df1cf5a5abc299d3344fba38fe13a8e",
+      "dhash": "c44051120c022606",
+      "width": 563,
+      "height": 438,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/",
+        "https://nissan-rentacar.com/car/customer-information",
+        "https://nissan-rentacar.com/car/fee-structure",
+        "https://nissan-rentacar.com/car/incidental-charges",
+        "https://nissan-rentacar.com/car/line-up",
+        "https://nissan-rentacar.com/car/option-fee",
+        "https://nissan-rentacar.com/car/rates/60",
+        "https://nissan-rentacar.com/car/spent-fee",
+        "https://nissan-rentacar.com/car/type-list",
+        "https://nissan-rentacar.com/car/type-list?init_type=I",
+        "https://nissan-rentacar.com/car/types/I/detail/M400",
+        "https://nissan-rentacar.com/car/types/I/detail/M401",
+        "https://nissan-rentacar.com/car/types/I/detail/M411",
+        "https://nissan-rentacar.com/etccard-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-001.webp",
+      "source_url": "https://nissan-rentacar.com/uploaded_files/car_image/29/image/0c457d7c6cc8feade2db7f052ac203cd.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "com\",\"logo\":\"https://nissan-rentacar.com/ja-seo-logo.png\"}</script><link as=\"image\" data-next-head=\"\" href=\"/ic-logo-sm.png\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"https://nissan-rentacar.com/uploaded_files/car_image/29/image/0c457d7c6cc8feade2db7f052ac203cd.png\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"/bg-footer.png\" rel=\"preload\"/><link as=\"style\" href=\"/_next/st",
+      "content_type": "image/webp",
+      "bytes": 51670,
+      "sha256": "af36c32917f170c94adb39122fcf0197756dc00a58dd7dd1e7175732830065bf",
+      "source_sha256": "fa9240d4ca5b04b3de0ca5c17a91033f52317914aa639e8b0f1dea45e29deec0",
+      "dhash": "0b3971694949713d",
+      "width": 1460,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/types/I/detail/M411"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-002.webp",
+      "source_url": "https://nissan-rentacar.com/uploaded_files/car_image/75/image/27baf11af8a1824d154d62dc4dca19c2.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "com\",\"logo\":\"https://nissan-rentacar.com/ja-seo-logo.png\"}</script><link as=\"image\" data-next-head=\"\" href=\"/ic-logo-sm.png\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"https://nissan-rentacar.com/uploaded_files/car_image/75/image/27baf11af8a1824d154d62dc4dca19c2.png\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"/bg-footer.png\" rel=\"preload\"/><link as=\"style\" href=\"/_next/st",
+      "content_type": "image/webp",
+      "bytes": 43784,
+      "sha256": "ac56aead8d54cfe8253b61a9a88257c99d0dc31a3980a984d07f9001ea2da2da",
+      "source_sha256": "2e19cc6e12b9bf0eb9e40cc937da708b8664dd0a445549791cd0d4f841121ef7",
+      "dhash": "1b736b133339713d",
+      "width": 1460,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/types/I/detail/M400"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-003.webp",
+      "source_url": "https://nissan-rentacar.com/uploaded_files/car_image/48/image/1b2c1bc64cb45e358b5766149cd0e9af.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "com\",\"logo\":\"https://nissan-rentacar.com/ja-seo-logo.png\"}</script><link as=\"image\" data-next-head=\"\" href=\"/ic-logo-sm.png\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"https://nissan-rentacar.com/uploaded_files/car_image/48/image/1b2c1bc64cb45e358b5766149cd0e9af.png\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"/bg-footer.png\" rel=\"preload\"/><link as=\"style\" href=\"/_next/st",
+      "content_type": "image/webp",
+      "bytes": 28868,
+      "sha256": "ba7fc08c796b0582225f92c7787f9bbce84de18e5d763fd26e80edaa06d84477",
+      "source_sha256": "1fa92e25309ed7f3455d879c3188abec0f8b875e5cec6d7b54c21804b780c4ee",
+      "dhash": "2b1b3b233363333b",
+      "width": 1460,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/types/I/detail/M401"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/logo-001.png",
+      "source_url": "https://nissan-rentacar.com/ic-logo-sm.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo, link:preload, script-data",
+      "context": "\":\"Organization\",\"name\":\"nissan-rentacar\",\"url\":\"https://nissan-rentacar.com\",\"logo\":\"https://nissan-rentacar.com/ja-seo-logo.png\"}</script><link as=\"image\" data-next-head=\"\" href=\"/ic-logo-sm.png\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"/img-home-bgr-sp.jpg\" rel=\"preload\"/><link as=\"image\" data-next",
+      "content_type": "image/png",
+      "bytes": 3236,
+      "sha256": "822162e6904c982b170c2c9dfffafc2f1ea8eb5c2447d415ba182481cceaa575",
+      "source_sha256": "c19c1e9f880a3f4039ba71ba23fe34daafdc4e3ee1b9fb45486ae1d1f7d16c5a",
+      "dhash": "68e8e8686868e8e8",
+      "width": 237,
+      "height": 72,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/",
+        "https://nissan-rentacar.com/car/customer-information",
+        "https://nissan-rentacar.com/car/fee-structure",
+        "https://nissan-rentacar.com/car/incidental-charges",
+        "https://nissan-rentacar.com/car/line-up",
+        "https://nissan-rentacar.com/car/option-fee",
+        "https://nissan-rentacar.com/car/rates/60",
+        "https://nissan-rentacar.com/car/spent-fee",
+        "https://nissan-rentacar.com/car/type-list",
+        "https://nissan-rentacar.com/car/type-list?init_type=I",
+        "https://nissan-rentacar.com/car/types/I/detail/M400",
+        "https://nissan-rentacar.com/car/types/I/detail/M401",
+        "https://nissan-rentacar.com/car/types/I/detail/M411",
+        "https://nissan-rentacar.com/etccard-rental"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/logo-002.svg",
+      "source_url": "https://nissan-rentacar.com/img-group-name-footer.svg",
+      "source_tag": "html-data, img:image, img:logo, script-data",
+      "context": "in-width:100%;max-width:100%;min-height:100%;max-height:100%\"/><noscript><img alt=\"img-group-name-logo\" class=\"cursor-pointer\" data-nimg=\"fill\" decoding=\"async\" loading=\"lazy\" src=\"/img-group-name-footer.svg\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:",
+      "content_type": "image/svg+xml",
+      "bytes": 10603,
+      "sha256": "43232e6d2a0f56ae108262ce6330761b35e7ed3c46e3c4444a411be0f699aae0",
+      "source_sha256": "43232e6d2a0f56ae108262ce6330761b35e7ed3c46e3c4444a411be0f699aae0",
+      "dhash": "",
+      "width": 225,
+      "height": 13,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/",
+        "https://nissan-rentacar.com/car/customer-information",
+        "https://nissan-rentacar.com/car/fee-structure",
+        "https://nissan-rentacar.com/car/incidental-charges",
+        "https://nissan-rentacar.com/car/line-up",
+        "https://nissan-rentacar.com/car/option-fee",
+        "https://nissan-rentacar.com/car/rates/60",
+        "https://nissan-rentacar.com/car/spent-fee",
+        "https://nissan-rentacar.com/car/type-list",
+        "https://nissan-rentacar.com/car/type-list?init_type=I",
+        "https://nissan-rentacar.com/car/types/I/detail/M400",
+        "https://nissan-rentacar.com/car/types/I/detail/M401",
+        "https://nissan-rentacar.com/car/types/I/detail/M411",
+        "https://nissan-rentacar.com/etccard-rental"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/logo-003.svg",
+      "source_url": "https://nissan-rentacar.com/img-nissan-brand-logo.svg",
+      "source_tag": "html-data, img:image, img:logo, script-data",
+      "context": "-width:100%;max-width:100%;min-height:100%;max-height:100%\"/><noscript><img alt=\"img-nissan-brand-logo\" class=\"cursor-pointer\" data-nimg=\"fill\" decoding=\"async\" loading=\"lazy\" src=\"/img-nissan-brand-logo.svg\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:",
+      "content_type": "image/svg+xml",
+      "bytes": 3718,
+      "sha256": "d68e41e72f61d90815ce86a55d382485fa7243ef471fb621dd03c5210e277a1a",
+      "source_sha256": "d68e41e72f61d90815ce86a55d382485fa7243ef471fb621dd03c5210e277a1a",
+      "dhash": "",
+      "width": 39,
+      "height": 32,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/",
+        "https://nissan-rentacar.com/car/customer-information",
+        "https://nissan-rentacar.com/car/fee-structure",
+        "https://nissan-rentacar.com/car/incidental-charges",
+        "https://nissan-rentacar.com/car/line-up",
+        "https://nissan-rentacar.com/car/option-fee",
+        "https://nissan-rentacar.com/car/rates/60",
+        "https://nissan-rentacar.com/car/spent-fee",
+        "https://nissan-rentacar.com/car/type-list",
+        "https://nissan-rentacar.com/car/type-list?init_type=I",
+        "https://nissan-rentacar.com/car/types/I/detail/M400",
+        "https://nissan-rentacar.com/car/types/I/detail/M401",
+        "https://nissan-rentacar.com/car/types/I/detail/M411",
+        "https://nissan-rentacar.com/etccard-rental"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/logo-004.webp",
+      "source_url": "https://nissan-rentacar.com/ja-seo-logo.png",
+      "source_tag": "html-data, meta:og:image , script-data",
+      "context": "rty=\"og:description\"/><meta content=\"https://nissan-rentacar.com/\" data-next-head=\"\" property=\"og:url\"/><meta content=\"website\" data-next-head=\"\" property=\"og:type\"/><meta content=\"https://nissan-rentacar.com/ja-seo-logo.png\" data-next-head=\"\" property=\"og:image\"/><meta content=\"日産レンタカー\" data-next-head=\"\" property=\"og:image:alt\"/><meta content",
+      "content_type": "image/webp",
+      "bytes": 66832,
+      "sha256": "e80ae9e9abeb6532c17ff5e752c8c8da6cdac7e1deec4be0f6f56222340fcae0",
+      "source_sha256": "0370105d5a478a96d8bcbdf70b7babc6b96994a878acb1280b5d5b3934ffb31e",
+      "dhash": "188783869a9a1c1c",
+      "width": 1000,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/",
+        "https://nissan-rentacar.com/car/customer-information",
+        "https://nissan-rentacar.com/car/fee-structure",
+        "https://nissan-rentacar.com/car/incidental-charges",
+        "https://nissan-rentacar.com/car/line-up",
+        "https://nissan-rentacar.com/car/option-fee",
+        "https://nissan-rentacar.com/car/rates/60",
+        "https://nissan-rentacar.com/car/spent-fee",
+        "https://nissan-rentacar.com/car/type-list",
+        "https://nissan-rentacar.com/car/type-list?init_type=I",
+        "https://nissan-rentacar.com/car/types/I/detail/M400",
+        "https://nissan-rentacar.com/car/types/I/detail/M401",
+        "https://nissan-rentacar.com/car/types/I/detail/M411",
+        "https://nissan-rentacar.com/etccard-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-002.webp",
+      "source_url": "https://nissan-rentacar.com/bg-footer.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload, script-data",
+      "context": "mage\" data-next-head=\"\" href=\"/ic-logo-sm.png\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"/img-home-bgr-sp.jpg\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"/bg-footer.png\" rel=\"preload\"/><link as=\"style\" href=\"/_next/static/css/e01137de622bf311.css\" rel=\"preload\"/><link data-n-g=\"\" href=\"/_",
+      "content_type": "image/webp",
+      "bytes": 113626,
+      "sha256": "c3f34c00aeb6f2c12a2dfc87beb5d5758306b82dad63417f936c4ca907237cc1",
+      "source_sha256": "b73161d4c8eee52673cf9d490e33f99188a6c7ed748a00b5e607e5b26bd35c84",
+      "dhash": "0c0408090110110b",
+      "width": 1440,
+      "height": 372,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/",
+        "https://nissan-rentacar.com/car/customer-information",
+        "https://nissan-rentacar.com/car/fee-structure",
+        "https://nissan-rentacar.com/car/incidental-charges",
+        "https://nissan-rentacar.com/car/line-up",
+        "https://nissan-rentacar.com/car/option-fee",
+        "https://nissan-rentacar.com/car/rates/60",
+        "https://nissan-rentacar.com/car/spent-fee",
+        "https://nissan-rentacar.com/car/type-list",
+        "https://nissan-rentacar.com/car/type-list?init_type=I",
+        "https://nissan-rentacar.com/car/types/I/detail/M400",
+        "https://nissan-rentacar.com/car/types/I/detail/M401",
+        "https://nissan-rentacar.com/car/types/I/detail/M411",
+        "https://nissan-rentacar.com/etccard-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-004.webp",
+      "source_url": "https://nissan-rentacar.com/img-mobile-footer.png",
+      "source_tag": "html-data, img:image, script-data",
+      "context": "display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%\"/><noscript><img alt=\"img-mobile\" data-nimg=\"fill\" decoding=\"async\" loading=\"lazy\" src=\"/img-mobile-footer.png\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:",
+      "content_type": "image/webp",
+      "bytes": 75486,
+      "sha256": "73c5879d1f16982d96bbc60b06f6e0cad272bda8a6864373e266f375b1b7c5be",
+      "source_sha256": "7153734efb02dd13d29cf96c0afa5ac67f437dff3f30c0c976dbb5df8a56e152",
+      "dhash": "70b2868e96968686",
+      "width": 690,
+      "height": 682,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/",
+        "https://nissan-rentacar.com/car/customer-information",
+        "https://nissan-rentacar.com/car/fee-structure",
+        "https://nissan-rentacar.com/car/incidental-charges",
+        "https://nissan-rentacar.com/car/line-up",
+        "https://nissan-rentacar.com/car/option-fee",
+        "https://nissan-rentacar.com/car/rates/60",
+        "https://nissan-rentacar.com/car/spent-fee",
+        "https://nissan-rentacar.com/car/type-list",
+        "https://nissan-rentacar.com/car/type-list?init_type=I",
+        "https://nissan-rentacar.com/car/types/I/detail/M400",
+        "https://nissan-rentacar.com/car/types/I/detail/M401",
+        "https://nissan-rentacar.com/car/types/I/detail/M411",
+        "https://nissan-rentacar.com/etccard-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-003.svg",
+      "source_url": "https://nissan-rentacar.com/bg-journal-left.svg",
+      "source_tag": "external-css",
+      "context": "ransparent}.md\\:bg-white{--tw-bg-opacity:1;background-color:rgba(255,255,255,1);background-color:rgba(255,255,255,var(--tw-bg-opacity,1))}.md\\:bg-\\[url\\(\\/covid-notes-kv\\.svg\\)\\]{background-image:url(/covid-notes-kv.svg)}.md\\:bg-bgJournalLeft{background-image:url(/bg-journal-left.svg)}.md\\:bg-bgJournalRight{background-image:url(/bg-journal-right.svg)}.md\\:bg-esmForBizBg{background-image:url(/img-e",
+      "content_type": "image/svg+xml",
+      "bytes": 156,
+      "sha256": "3a37814f4813b4cd23188a92e6aa4b9d6ec39e3feb3b835e90fa61d32c383270",
+      "source_sha256": "3a37814f4813b4cd23188a92e6aa4b9d6ec39e3feb3b835e90fa61d32c383270",
+      "dhash": "",
+      "width": 628,
+      "height": 415,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-004.svg",
+      "source_url": "https://nissan-rentacar.com/bg-journal-right.svg",
+      "source_tag": "external-css",
+      "context": "55,255,255,1);background-color:rgba(255,255,255,var(--tw-bg-opacity,1))}.md\\:bg-\\[url\\(\\/covid-notes-kv\\.svg\\)\\]{background-image:url(/covid-notes-kv.svg)}.md\\:bg-bgJournalLeft{background-image:url(/bg-journal-left.svg)}.md\\:bg-bgJournalRight{background-image:url(/bg-journal-right.svg)}.md\\:bg-esmForBizBg{background-image:url(/img-esmforbiz-bg-pc.svg)}.md\\:bg-scIntroduction{background-image:url(/s",
+      "content_type": "image/svg+xml",
+      "bytes": 181,
+      "sha256": "ec98cd613b2d46a33ab60a9b6beb802a4345758925fd777ae878c2c56626d1e4",
+      "source_sha256": "ec98cd613b2d46a33ab60a9b6beb802a4345758925fd777ae878c2c56626d1e4",
+      "dhash": "",
+      "width": 628,
+      "height": 415,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-005.svg",
+      "source_url": "https://nissan-rentacar.com/covid-notes-kv.svg",
+      "source_tag": "external-css",
+      "context": "9,var(--tw-bg-opacity,1))}.md\\:bg-transparent{background-color:transparent}.md\\:bg-white{--tw-bg-opacity:1;background-color:rgba(255,255,255,1);background-color:rgba(255,255,255,var(--tw-bg-opacity,1))}.md\\:bg-\\[url\\(\\/covid-notes-kv\\.svg\\)\\]{background-image:url(/covid-notes-kv.svg)}.md\\:bg-bgJournalLeft{background-image:url(/bg-journal-left.svg)}.md\\:bg-bgJournalRight{background-image:url(/bg-jo",
+      "content_type": "image/svg+xml",
+      "bytes": 267268,
+      "sha256": "c2b403018ea8ad7e496fc21afc7ac7415e9b7bb671c7a53b7bef251454bdf41a",
+      "source_sha256": "c2b403018ea8ad7e496fc21afc7ac7415e9b7bb671c7a53b7bef251454bdf41a",
+      "dhash": "",
+      "width": 1440,
+      "height": 453,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-006.svg",
+      "source_url": "https://nissan-rentacar.com/img-esmforbiz-bg-pc.svg",
+      "source_tag": "external-css",
+      "context": "ity,1))}.md\\:bg-\\[url\\(\\/covid-notes-kv\\.svg\\)\\]{background-image:url(/covid-notes-kv.svg)}.md\\:bg-bgJournalLeft{background-image:url(/bg-journal-left.svg)}.md\\:bg-bgJournalRight{background-image:url(/bg-journal-right.svg)}.md\\:bg-esmForBizBg{background-image:url(/img-esmforbiz-bg-pc.svg)}.md\\:bg-scIntroduction{background-image:url(/sc-introduction-bg.svg)}.md\\:bg-srgIntroduction{background-image:",
+      "content_type": "image/svg+xml",
+      "bytes": 181532,
+      "sha256": "3bd4e9631dddd7e9b2019f7cd4e617a228709cf99796d19161de36f051b030ae",
+      "source_sha256": "3bd4e9631dddd7e9b2019f7cd4e617a228709cf99796d19161de36f051b030ae",
+      "dhash": "",
+      "width": 1440,
+      "height": 698,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-007.svg",
+      "source_url": "https://nissan-rentacar.com/sc-introduction-bg.svg",
+      "source_tag": "external-css",
+      "context": "/covid-notes-kv.svg)}.md\\:bg-bgJournalLeft{background-image:url(/bg-journal-left.svg)}.md\\:bg-bgJournalRight{background-image:url(/bg-journal-right.svg)}.md\\:bg-esmForBizBg{background-image:url(/img-esmforbiz-bg-pc.svg)}.md\\:bg-scIntroduction{background-image:url(/sc-introduction-bg.svg)}.md\\:bg-srgIntroduction{background-image:url(/img-srg-introduction-bg.svg)}.md\\:bg-\\[length\\:628px_415px\\]{back",
+      "content_type": "image/svg+xml",
+      "bytes": 2531,
+      "sha256": "fdd957cd92f7a98397866ac54c8dc0ac71f060b6d236e8376b9b4ce74490b181",
+      "source_sha256": "fdd957cd92f7a98397866ac54c8dc0ac71f060b6d236e8376b9b4ce74490b181",
+      "dhash": "",
+      "width": 1440,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-005.webp",
+      "source_url": "https://nissan-rentacar.com/overseas-seo-logo.png",
+      "source_tag": "script-data",
+      "context": "lt_description,openGraph:{type:\"website\",locale:{en:\"en_US\",ja:\"Ja_JP\",ko:\"ko_KR\",th:\"th_TH\",zh:\"zh_TW\"}[l],url:c,images:[{url:\"ja\"===l?\"\".concat(c,\"/ja-seo-logo.png\"):\"\".concat(c,\"/overseas-seo-logo.png\"),alt:i()}]},twitter:{cardType:\"summary_large_image\"},additionalMetaTags:[{property:\"facebook-domain-verification\",conte",
+      "content_type": "image/webp",
+      "bytes": 48418,
+      "sha256": "910cb7d8d8f6ae0b7aea5810eca106664331dd3cf9423d9f64062647b9ec79cd",
+      "source_sha256": "9ad8e7866bbcb71f806faaee3fb5f08d47d8fbfbf3d1c785ca909c934d110d6d",
+      "dhash": "0f8f8f871e47c181",
+      "width": 1000,
+      "height": 500,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/",
+        "https://nissan-rentacar.com/car/customer-information",
+        "https://nissan-rentacar.com/car/fee-structure",
+        "https://nissan-rentacar.com/car/line-up",
+        "https://nissan-rentacar.com/car/rates/60"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-006.webp",
+      "source_url": "https://nissan-rentacar.com/img-home-bgr-sp.jpg",
+      "source_tag": "html-data, img:banner, img:image, link:preload, script-data",
+      "context": "com\",\"logo\":\"https://nissan-rentacar.com/ja-seo-logo.png\"}</script><link as=\"image\" data-next-head=\"\" href=\"/ic-logo-sm.png\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"/img-home-bgr-sp.jpg\" rel=\"preload\"/><link as=\"image\" data-next-head=\"\" href=\"/bg-footer.png\" rel=\"preload\"/><link as=\"style\" href=\"/_next/st",
+      "content_type": "image/webp",
+      "bytes": 60754,
+      "sha256": "e66ec675f4b47b2984ee17823ae1ec13fa24cc01a3d1f51de11b3ce0a29b5725",
+      "source_sha256": "889d129e40b4605cefcb831a2a8695281e63fc6b3b3df4fa68753ed606d512da",
+      "dhash": "0323850f0d253103",
+      "width": 750,
+      "height": 248,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-008.webp",
+      "source_url": "https://nissan-rentacar.com/collaboration-banner-empty.png",
+      "source_tag": "script-data",
+      "context": "=>{e.companyCollaborationState.data={...t.payload,...!t.payload.logo_image_url?{logo_image_url:\"/collaboration-logo-empty.png\"}:{},...!t.payload.banner_image_url?{banner_image_url:\"/collaboration-banner-empty.png\"}:{}},e.companyCollaborationState.companyCollaborationStatus.status=o.k.FULFILLED}),e.addCase(v.rejected,(e,t)=>{e.compa",
+      "content_type": "image/webp",
+      "bytes": 2510,
+      "sha256": "f8f6031158601ad936b410864fa6454383c6a6e447fd541a25e4532c986ead10",
+      "source_sha256": "eeab2b12d4055a0ad805710b4d23d6774e2b0088f126857dca1aa999b6fdc509",
+      "dhash": "0000000000000000",
+      "width": 2200,
+      "height": 614,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-009.webp",
+      "source_url": "https://nissan-rentacar.com/img-home-bgr.jpg",
+      "source_tag": "script-data",
+      "context": "objectPosition:\"top\",layout:\"fill\",priority:!0})}):(0,a.jsx)(\"div\",{className:\"relative w-full md:min-h-[569px] min-h-[460px] hidden md:block\",children:\"ja\"===n?(0,a.jsx)(p(),{src:\"/img-home-bgr.jpg\",alt:\"img-home-bgr\",priority:!0,objectFit:\"cover\",layout:\"fill\"}):(0,a.jsx)(p(),{src:\"/img-home-bgr-overseas.jpg\",alt:\"i",
+      "content_type": "image/webp",
+      "bytes": 583956,
+      "sha256": "f377946810441e7f361a3573ca2e66f4a7d50e1d08617f844e04a5b28a026dee",
+      "source_sha256": "583e636c1b3b696f9597173404cb8710d3edac8ef6ed3bf44166faaf2f28e221",
+      "dhash": "0f230f1d0d292323",
+      "width": 2200,
+      "height": 869,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-010.webp",
+      "source_url": "https://nissan-rentacar.com/img-home-bgr-overseas.jpg",
+      "source_tag": "script-data",
+      "context": "[569px] min-h-[460px] hidden md:block\",children:\"ja\"===n?(0,a.jsx)(p(),{src:\"/img-home-bgr.jpg\",alt:\"img-home-bgr\",priority:!0,objectFit:\"cover\",layout:\"fill\"}):(0,a.jsx)(p(),{src:\"/img-home-bgr-overseas.jpg\",alt:\"img-home-bgr\",priority:!0,objectFit:\"cover\",layout:\"fill\"})}),(0,a.jsx)(\"div\",{className:\"absolute top-2 w-full\",c",
+      "content_type": "image/webp",
+      "bytes": 182948,
+      "sha256": "badb408cf18144271b0c3077800260ec3019e722cca6df2d50d1ab40f021964f",
+      "source_sha256": "0653ae5cbd05e278c0364a43e57146a0f3f0bdf3c21ad20d27db082c073fa0cb",
+      "dhash": "020d0c80a0508824",
+      "width": 2200,
+      "height": 869,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-011.webp",
+      "source_url": "https://nissan-rentacar.com/uploaded_files/car_image/30/image/835384bf28d97a631d7288a6bb9a44ae.png",
+      "source_tag": "html-data, img:image",
+      "context": "rder-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0\"><img alt=\"https://nissan-rentacar.com/uploaded_files/car_image/30/image/835384bf28d97a631d7288a6bb9a44ae.png\" class=\"rounded\" data-nimg=\"fill\" decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAA",
+      "content_type": "image/webp",
+      "bytes": 76986,
+      "sha256": "085fa4aae14812a0ff2ad63304a69c0b4ba7d0cf55f708441f885084903e7df3",
+      "source_sha256": "f9da4651560bf56c2fb53b0ccea3fcc6e57a9cef543c29f661cedd93bd31cea5",
+      "dhash": "2d2def874fe21a3c",
+      "width": 1460,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/types/I/detail/M411"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-012.webp",
+      "source_url": "https://nissan-rentacar.com/uploaded_files/car_image/31/image/432167cea96fd04344ee06a0877b894f.png",
+      "source_tag": "html-data, img:image",
+      "context": "rder-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0\"><img alt=\"https://nissan-rentacar.com/uploaded_files/car_image/31/image/432167cea96fd04344ee06a0877b894f.png\" class=\"rounded\" data-nimg=\"fill\" decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAA",
+      "content_type": "image/webp",
+      "bytes": 78078,
+      "sha256": "0589c825b1c19cd5b0088f9c8bb61df665248419ad3c9c2f2abef726578db03c",
+      "source_sha256": "b74e79cc5d5869530d8604552882d5b3f610a22edaa152326c51beff9d04ad9e",
+      "dhash": "47794755554d5d53",
+      "width": 1460,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/types/I/detail/M411"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-013.webp",
+      "source_url": "https://nissan-rentacar.com/uploaded_files/car_image/32/image/b4088899e7fca177f2ffbddc57bd6be7.png",
+      "source_tag": "html-data, img:image",
+      "context": "rder-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0\"><img alt=\"https://nissan-rentacar.com/uploaded_files/car_image/32/image/b4088899e7fca177f2ffbddc57bd6be7.png\" class=\"rounded\" data-nimg=\"fill\" decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAA",
+      "content_type": "image/webp",
+      "bytes": 60684,
+      "sha256": "5242c01af03121c0838ae823f75c9ea1e4091e4fe7e4b66870bd90754348cf6f",
+      "source_sha256": "ca5a85fe7c47acf0c25eb0d723501190c11a3962f05a59d72391ba58884c70fe",
+      "dhash": "23672d5931214303",
+      "width": 1460,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/types/I/detail/M411"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/banner-014.webp",
+      "source_url": "https://nissan-rentacar.com/uploaded_files/car_image/49/image/acfeda6019311b2a4650be852d5584b2.png",
+      "source_tag": "html-data, img:image",
+      "context": "rder-box;display:block;overflow:hidden;width:initial;height:initial;background:none;opacity:1;border:0;margin:0;padding:0;position:absolute;top:0;left:0;bottom:0;right:0\"><img alt=\"https://nissan-rentacar.com/uploaded_files/car_image/49/image/acfeda6019311b2a4650be852d5584b2.png\" class=\"rounded\" data-nimg=\"fill\" decoding=\"async\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAA",
+      "content_type": "image/webp",
+      "bytes": 54900,
+      "sha256": "0b7d2969a933e6b6e221740ca6735ebc84c4ccce982bd33fcb039ed2c2ac16bf",
+      "source_sha256": "2bbd54b55f32671552d45b4dffb4242b85ba06223c7a2aeb7d618428cd6ff719",
+      "dhash": "0b1953474d3b3d07",
+      "width": 1460,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/types/I/detail/M401"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-007.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2048x978/1fcbccd075/etc_.jpg/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img self-start div w-full flex div div div max-w-[58.5rem] mx-auto px-4 md:px-0 mt-6 md:mt-14 mb-[4.5rem] md:mb-24 div __next",
+      "content_type": "image/webp",
+      "bytes": 45122,
+      "sha256": "f4437cad85ea8c6fb62996a4c826627e0b769e8a4cf50da26ccd5cc1e8d65568",
+      "source_sha256": "d73ada564d613007e70cd4fef46b3dede3fe8c7284a357d5e06bdcda17171a8c",
+      "dhash": "1e26a4a6cecc1c9b",
+      "width": 2048,
+      "height": 978,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/etccard-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-008.webp",
+      "source_url": "https://a.storyblok.com/f/160498/654x396/224298b5e7/sumb.jpg/m/",
+      "source_tag": "img:image",
+      "context": "img rounded-lg noscript span div relative aspect-[166.6/100.51] rounded-lg div grid gap-2 md:gap-6 grid-cols-2 md:grid-cols-3 mt-3 md:mt-9 div mt-9 md:mt-14",
+      "content_type": "image/webp",
+      "bytes": 50842,
+      "sha256": "5b1c660b420cd7035ebcd6eb4fcb287eed264b1d7e3294bd9fdd296cf145b385",
+      "source_sha256": "0795db493b8568e084de689994c8dbb294653f9b4a8ff24861785f5ea4ca010d",
+      "dhash": "5959fc9b988001c3",
+      "width": 654,
+      "height": 396,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-009.webp",
+      "source_url": "https://a.storyblok.com/f/160498/5555x3404/51ecfc68f2/23day.png/m/",
+      "source_tag": "img:image",
+      "context": "img rounded-lg noscript span div relative aspect-[166.6/100.51] rounded-lg div grid gap-2 md:gap-6 grid-cols-2 md:grid-cols-3 mt-3 md:mt-9 div mt-9 md:mt-14",
+      "content_type": "image/webp",
+      "bytes": 119862,
+      "sha256": "48f9089ebf9c343ace86c89c649950b1ebc4e7afe627b7d463894c6711a6a53a",
+      "source_sha256": "e4c42a0b8f6eaedbbbc2266ed7faf08f7e182cd0d4d2e7c7828e72318d20f9a9",
+      "dhash": "595874dc54686d67",
+      "width": 2200,
+      "height": 1348,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-010.webp",
+      "source_url": "https://a.storyblok.com/f/160498/592x254/1c04e224d1/3tu.webp/m/",
+      "source_tag": "img:image",
+      "context": "img rounded-t-lg noscript span div aspect-[343/147] md:aspect-[296/127] relative div flex flex-col shadow-common md:hover:shadow-commonHover rounded-lg cursor-pointer div grid gap-4 md:gap-6 grid-cols-1 md:grid-cols-3 mt-3 md:mt-12",
+      "content_type": "image/webp",
+      "bytes": 10924,
+      "sha256": "43ae9e6590a30797e1a1c93c1069f937aed8d002bc644b4809b8335bee50f057",
+      "source_sha256": "2b95a7fa9c0be7a407d9cc66ce81e9d3f5d91505f9fe16c7c7e1a5716543213a",
+      "dhash": "3b3a72d2dec6ccdc",
+      "width": 592,
+      "height": 254,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-011.webp",
+      "source_url": "https://nissan-rentacar.com/uploaded_files/car_equipment/9/image/7ae5158aaf6039db5f025b943c9d933e.png",
+      "source_tag": "html-data, img:image",
+      "context": "2c1bc64cb45e358b5766149cd0e9af.png\",\"https://nissan-rentacar.com/uploaded_files/car_image/49/image/acfeda6019311b2a4650be852d5584b2.png\"],\"equipment\":[{\"name\":\"ETC車載器\",\"image_url\":\"https://nissan-rentacar.com/uploaded_files/car_equipment/9/image/7ae5158aaf6039db5f025b943c9d933e.png\"},{\"name\":\"カーナビ\",\"image_url\":\"https://nissan-rentacar.com/uploaded_files/car_equipment/10/image/fc57b79e6a149be88fe90",
+      "content_type": "image/webp",
+      "bytes": 12934,
+      "sha256": "d5aa8a76c7ecf2e3a24a442733556a3f57c2cc16374760550fada5283404e564",
+      "source_sha256": "6b42df36fa57678f1e41975a909e45b05189dfaf5cfc92daf43bdd736b441316",
+      "dhash": "c080a2eab2b2eaf2",
+      "width": 1600,
+      "height": 1600,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/types/I/detail/M400",
+        "https://nissan-rentacar.com/car/types/I/detail/M401",
+        "https://nissan-rentacar.com/car/types/I/detail/M411"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-012.webp",
+      "source_url": "https://a.storyblok.com/f/160498/592x254/9a4c8bbc46/app.webp/m/",
+      "source_tag": "img:image",
+      "context": "img rounded-t-lg noscript span div aspect-[343/147] md:aspect-[296/127] relative div flex flex-col shadow-common md:hover:shadow-commonHover rounded-lg cursor-pointer div grid gap-4 md:gap-6 grid-cols-1 md:grid-cols-3 mt-3 md:mt-12",
+      "content_type": "image/webp",
+      "bytes": 5498,
+      "sha256": "c952ff0734a127c95c2fd7fecc662e6521191a73ab978169705ec2d0d7ae47a9",
+      "source_sha256": "dcacbf84e9ba1c0dfd95ea1097bd3ec91549292b18c7b14bd8caaf763145a7c1",
+      "dhash": "3332696b336d7969",
+      "width": 592,
+      "height": 254,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-013.webp",
+      "source_url": "https://nissan-rentacar.com/uploaded_files/car_equipment/10/image/fc57b79e6a149be88fe90fcc863dd6b2.png",
+      "source_tag": "html-data, img:image",
+      "context": "png\"],\"equipment\":[{\"name\":\"ETC車載器\",\"image_url\":\"https://nissan-rentacar.com/uploaded_files/car_equipment/9/image/7ae5158aaf6039db5f025b943c9d933e.png\"},{\"name\":\"カーナビ\",\"image_url\":\"https://nissan-rentacar.com/uploaded_files/car_equipment/10/image/fc57b79e6a149be88fe90fcc863dd6b2.png\"}],\"car_features\":[{\"car_feature_name\":\"ハイルーフ\"},{\"car_feature_name\":\"車椅子可\"}],\"standard_price\":{\"column_name\":[\"6時間\",",
+      "content_type": "image/webp",
+      "bytes": 12224,
+      "sha256": "546b73c196d73338401b55190fb774e78c11fcfc69fda2df370927115af66d3d",
+      "source_sha256": "f016c6e2ea5efc8c6deb132ea2172a4b90bf884c15cbd4f285e97654b9b2f11f",
+      "dhash": "18b4b6190b27aa82",
+      "width": 1601,
+      "height": 1600,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/types/I/detail/M400",
+        "https://nissan-rentacar.com/car/types/I/detail/M401",
+        "https://nissan-rentacar.com/car/types/I/detail/M411"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-014.webp",
+      "source_url": "https://a.storyblok.com/f/160498/592x254/939e5f3c66/img-attraction-advanced-technology.jpg/m/",
+      "source_tag": "img:image",
+      "context": "img rounded-t-lg noscript span div aspect-[343/147] md:aspect-[296/127] relative div flex flex-col shadow-common md:hover:shadow-commonHover rounded-lg cursor-pointer div grid gap-4 md:gap-6 grid-cols-1 md:grid-cols-3 mt-3 md:mt-12",
+      "content_type": "image/webp",
+      "bytes": 5432,
+      "sha256": "e9cefe650b68ce29d0e40cbffafc60bf9acfaf9221075ae5a2c3290ef23b9ca1",
+      "source_sha256": "70ccd12ddb34bd39e70b0147bea45f4c9fc2d8f110d6ff373363f64e5568009c",
+      "dhash": "f8e4daf9b1b2f4e8",
+      "width": 592,
+      "height": 254,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-015.webp",
+      "source_url": "https://nissan-rentacar.com/img-home-service-info-sp.jpg",
+      "source_tag": "html-data, img:image, script-data",
+      "context": "none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%\"/><noscript><img data-nimg=\"fill\" decoding=\"async\" loading=\"lazy\" src=\"/img-home-service-info-sp.jpg\" style=\"position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:",
+      "content_type": "image/webp",
+      "bytes": 64044,
+      "sha256": "6c5b47c2ec6fc6dd540d6c23f3f9bec16100ee750904f8302d5f8b162472011e",
+      "source_sha256": "1d8b12548a620f9fcab340ac10dd8d7aea4b9230dc63b062d60ad3b0fe2903ca",
+      "dhash": "8ce5e5454767ec4d",
+      "width": 721,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-016.webp",
+      "source_url": "https://a.storyblok.com/f/160498/801x801/c3e3a4af1f/l2-5.png/m/",
+      "source_tag": "img:image",
+      "context": "img noscript span div relative h-12 w-12 div rounded-lg md:min-w-[28.5rem] shadow-common md:hover:shadow-commonHover flex items-start bg-white px-5 py-7 cursor-pointer div grid z-10 gap-3 md:gap-6 grid-cols-1 md:grid-cols-2 mt-4 md:mt-9",
+      "content_type": "image/webp",
+      "bytes": 16618,
+      "sha256": "09fd4645ca78536a3f853ba5346dd7d7db8d231b685336b14df5d494b7a66d75",
+      "source_sha256": "75efcd96d97a6321f918b8a737cedbd0b4b7d7d185590c3f4c80161cd2e33b03",
+      "dhash": "c28698b170f2d6c6",
+      "width": 801,
+      "height": 801,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-017.webp",
+      "source_url": "https://nissan-rentacar.com/bg-corporate-member.png",
+      "source_tag": "external-css",
+      "context": "svg)}.bg-accentHighlighter{background-image:linear-gradient(transparent,70%,rgba(195,0,47,.3) 70%)}.bg-bgJournalLeft{background-image:url(/bg-journal-left.svg)}.bg-bgJournalRight{background-image:url(/bg-journal-right.svg)}.bg-corporateMember{background-image:url(/bg-corporate-member.png)}.bg-esmForBizBgSP{background-image:url(/img-esmforbiz-bg-sp.svg)}.bg-gradient-to-r{background-image:linear-gra",
+      "content_type": "image/webp",
+      "bytes": 18978,
+      "sha256": "e1f4da121b8392790b50d82a8e63202751eb28f090bae0715c1223bfa9fabfd0",
+      "source_sha256": "e5a96d61fa93a1aeb9d69492f16e36d76dd01fdb7a9c49b43e454cbc333ab4ed",
+      "dhash": "070303010080c0c0",
+      "width": 1440,
+      "height": 764,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-018.svg",
+      "source_url": "https://nissan-rentacar.com/img-esmforbiz-bg-sp.svg",
+      "source_tag": "external-css",
+      "context": "parent,70%,rgba(195,0,47,.3) 70%)}.bg-bgJournalLeft{background-image:url(/bg-journal-left.svg)}.bg-bgJournalRight{background-image:url(/bg-journal-right.svg)}.bg-corporateMember{background-image:url(/bg-corporate-member.png)}.bg-esmForBizBgSP{background-image:url(/img-esmforbiz-bg-sp.svg)}.bg-gradient-to-r{background-image:linear-gradient(to right,var(--tw-gradient-stops))}.bg-gradientComparison{b",
+      "content_type": "image/svg+xml",
+      "bytes": 181526,
+      "sha256": "2fff1c559c0295dce7a2a7897f2933f29dbd2f416ac6177a9c203ed22b63e51a",
+      "source_sha256": "2fff1c559c0295dce7a2a7897f2933f29dbd2f416ac6177a9c203ed22b63e51a",
+      "dhash": "",
+      "width": 375,
+      "height": 401,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-019.svg",
+      "source_url": "https://nissan-rentacar.com/bg-gradient-comparison.svg",
+      "source_tag": "external-css",
+      "context": ")}.bg-corporateMember{background-image:url(/bg-corporate-member.png)}.bg-esmForBizBgSP{background-image:url(/img-esmforbiz-bg-sp.svg)}.bg-gradient-to-r{background-image:linear-gradient(to right,var(--tw-gradient-stops))}.bg-gradientComparison{background-image:url(/bg-gradient-comparison.svg)}.bg-scIntroductionSP{background-image:url(/sc-introduction-bg-sp.png)}.bg-srgIntroductionSP{background-imag",
+      "content_type": "image/svg+xml",
+      "bytes": 1503,
+      "sha256": "9b08b9999f1c9d7cd75a63eabe0b8f22fbbea15995a45359906e614813e24ad1",
+      "source_sha256": "9b08b9999f1c9d7cd75a63eabe0b8f22fbbea15995a45359906e614813e24ad1",
+      "dhash": "",
+      "width": 1064,
+      "height": 757,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-020.webp",
+      "source_url": "https://nissan-rentacar.com/sc-introduction-bg-sp.png",
+      "source_tag": "external-css",
+      "context": "g-esmForBizBgSP{background-image:url(/img-esmforbiz-bg-sp.svg)}.bg-gradient-to-r{background-image:linear-gradient(to right,var(--tw-gradient-stops))}.bg-gradientComparison{background-image:url(/bg-gradient-comparison.svg)}.bg-scIntroductionSP{background-image:url(/sc-introduction-bg-sp.png)}.bg-srgIntroductionSP{background-image:url(/img-srg-introduction-bg-sp.svg)}.bg-tertiaryGradient{background-",
+      "content_type": "image/webp",
+      "bytes": 5002,
+      "sha256": "bf6664d93906902531c9f40501c2c1a286ae07545fbd0760a3579f0aae78799e",
+      "source_sha256": "30fcf7c80bf14aa1c0a26dc99601d52aa89a48f45e75f6ef9a49b11c686b2cd8",
+      "dhash": "072f3f7f7ffd5dcf",
+      "width": 750,
+      "height": 1160,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-021.svg",
+      "source_url": "https://nissan-rentacar.com/img-srg-introduction-bg-sp.svg",
+      "source_tag": "external-css",
+      "context": "ient-to-r{background-image:linear-gradient(to right,var(--tw-gradient-stops))}.bg-gradientComparison{background-image:url(/bg-gradient-comparison.svg)}.bg-scIntroductionSP{background-image:url(/sc-introduction-bg-sp.png)}.bg-srgIntroductionSP{background-image:url(/img-srg-introduction-bg-sp.svg)}.bg-tertiaryGradient{background-image:linear-gradient(180deg,rgba(249,249,249,0),#F9F9F9)}.from-\\[\\#FFB",
+      "content_type": "image/svg+xml",
+      "bytes": 4618,
+      "sha256": "89676c4569a9f09f85e4008cabb96f5f9f99d1f407223f7eb2ded25a28b0efe9",
+      "source_sha256": "89676c4569a9f09f85e4008cabb96f5f9f99d1f407223f7eb2ded25a28b0efe9",
+      "dhash": "",
+      "width": 375,
+      "height": 580,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-022.svg",
+      "source_url": "https://nissan-rentacar.com/img-srg-introduction-bg.svg",
+      "source_tag": "external-css",
+      "context": "urnal-left.svg)}.md\\:bg-bgJournalRight{background-image:url(/bg-journal-right.svg)}.md\\:bg-esmForBizBg{background-image:url(/img-esmforbiz-bg-pc.svg)}.md\\:bg-scIntroduction{background-image:url(/sc-introduction-bg.svg)}.md\\:bg-srgIntroduction{background-image:url(/img-srg-introduction-bg.svg)}.md\\:bg-\\[length\\:628px_415px\\]{background-size:628px 415px}.md\\:bg-right{background-position:100%}.md\\:p-",
+      "content_type": "image/svg+xml",
+      "bytes": 5208,
+      "sha256": "65da2117bad89d815f38e171c5d0bf7e7093d58a69f62b59638fa115d67afbab",
+      "source_sha256": "65da2117bad89d815f38e171c5d0bf7e7093d58a69f62b59638fa115d67afbab",
+      "dhash": "",
+      "width": 1440,
+      "height": 640,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-023.webp",
+      "source_url": "https://a.storyblok.com/f/160498/551x550/6482e602e3/etccard.png/m/",
+      "source_tag": "img:image",
+      "context": "img noscript span div relative h-12 w-12 div rounded-lg md:min-w-[28.5rem] shadow-common md:hover:shadow-commonHover flex items-start bg-white px-5 py-7 cursor-pointer div grid z-10 gap-3 md:gap-6 grid-cols-1 md:grid-cols-2 mt-4 md:mt-9",
+      "content_type": "image/webp",
+      "bytes": 8678,
+      "sha256": "e752e88055abe7ea623d3ed228e341fc1a0736ae0f8160491cc9c0ba6e53eb49",
+      "source_sha256": "072e45925ee73f07240f59d5db9489db383138595ecbf66f92c2dcf61d77dd07",
+      "dhash": "26392e3f0f074313",
+      "width": 551,
+      "height": 550,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-024.webp",
+      "source_url": "https://a.storyblok.com/f/160498/551x550/7f3d317187/chargingcard.png/m/",
+      "source_tag": "img:image",
+      "context": "img noscript span div relative h-12 w-12 div rounded-lg md:min-w-[28.5rem] shadow-common md:hover:shadow-commonHover flex items-start bg-white px-5 py-7 cursor-pointer div grid z-10 gap-3 md:gap-6 grid-cols-1 md:grid-cols-2 mt-4 md:mt-9",
+      "content_type": "image/webp",
+      "bytes": 7918,
+      "sha256": "4f10f8ff0dc89d3420bdef1b5cb639e769d7e4276693a70d06768c7a8fa49cbd",
+      "source_sha256": "67c768dba126e2ae1cc2fdab97d5610016559d7976a227bce3baaa98a3d5c2ee",
+      "dhash": "223c3f3f3f1f271f",
+      "width": 551,
+      "height": 550,
+      "variant": "mobile",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-025.webp",
+      "source_url": "https://a.storyblok.com/f/173525/1000x477/1574e7cd75/3-v2.jpg",
+      "source_tag": "html-data",
+      "context": "9-6b73-402d-ae39-1c776f49e10f\",\"body\":[{\"_uid\":\"2ee1ea18-2bef-40ee-a100-bb24aca3bba7\",\"image\":{\"id\":213772044420997,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/173525/1000x477/1574e7cd75/3-v2.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{\"size\":\"1000x477\"},\"is_external_url\":false},\"style\":\"\",\"width\":\"\",\"heig",
+      "content_type": "image/webp",
+      "bytes": 90796,
+      "sha256": "53852e6d0346c588aea30dab94589c4974cd0b63148ea067d0549da3c98525a1",
+      "source_sha256": "ddf5e8543c12a013e046afff570b0846084a8a67dd373b1e6859029a02db04ed",
+      "dhash": "0d0dbedb9a988183",
+      "width": 1000,
+      "height": 477,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-026.webp",
+      "source_url": "https://a.storyblok.com/f/173525/481x360/1ff55a704c/1-2-100.jpg",
+      "source_tag": "html-data",
+      "context": "dden\":false,\"component\":\"sbTableView\"},{\"_uid\":\"5b407b8c-34a5-403e-befb-361efc5c61aa\",\"image\":{\"id\":213480762619280,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/173525/481x360/1ff55a704c/1-2-100.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{\"size\":\"481x360\"},\"is_external_url\":false},\"style\":\"\",\"width\":\"480px\",\"",
+      "content_type": "image/webp",
+      "bytes": 10298,
+      "sha256": "8dc6da9d70dcce44ff5894ef80f72cebb17dad4c001f305e23613bcb0e2f2552",
+      "source_sha256": "751fd3872f5fd7158c5e4223b4cb99adb9f4a3a1e531d3d7b19c5057742ab58f",
+      "dhash": "1880786896d6c601",
+      "width": 481,
+      "height": 360,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-027.webp",
+      "source_url": "https://a.storyblok.com/f/173525/481x360/8d829f43b8/5-100.jpg",
+      "source_tag": "html-data",
+      "context": "dden\":false,\"component\":\"sbTableView\"},{\"_uid\":\"08ea873a-a3a1-409c-8465-c9ab708aec1e\",\"image\":{\"id\":213480762635668,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/173525/481x360/8d829f43b8/5-100.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{\"size\":\"481x360\"},\"is_external_url\":false},\"style\":\"\",\"width\":\"480px\",\"",
+      "content_type": "image/webp",
+      "bytes": 20088,
+      "sha256": "0e8556aa7f34e0619d2daee444c7820fc7499f81625bf064e1f43b9f9c0aa65e",
+      "source_sha256": "c4b187fd9058b4bd8e08381fac5e2bd3dc63c842deef004bede47b9c59b71ce9",
+      "dhash": "1c9d9d6febe9f89a",
+      "width": 481,
+      "height": 360,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-028.webp",
+      "source_url": "https://a.storyblok.com/f/173525/481x360/ccae990cb4/4-100.jpg",
+      "source_tag": "html-data",
+      "context": "dden\":false,\"component\":\"sbTableView\"},{\"_uid\":\"1e924f3b-b274-4818-b90c-792b4c30af0a\",\"image\":{\"id\":213480762631571,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/173525/481x360/ccae990cb4/4-100.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{\"size\":\"481x360\"},\"is_external_url\":false},\"style\":\"\",\"width\":\"480px\",\"",
+      "content_type": "image/webp",
+      "bytes": 20334,
+      "sha256": "7dfa98431a4a961f443e3243afeaeae8e6a10208e35a1921cd6d91c84eb446bd",
+      "source_sha256": "59a7d6ef65fb554c3431ee7f161437054f1728f1c706066ed776c04e417cb12c",
+      "dhash": "236eeb49292c4ac9",
+      "width": 481,
+      "height": 360,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-029.webp",
+      "source_url": "https://a.storyblok.com/f/173525/480x360/f2582ffa46/6-100.jpg",
+      "source_tag": "html-data",
+      "context": "dden\":false,\"component\":\"sbTableView\"},{\"_uid\":\"9ffb5663-877f-458e-a4e5-6d5aac8ad1c3\",\"image\":{\"id\":213482985207342,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/173525/480x360/f2582ffa46/6-100.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{\"size\":\"480x360\"},\"is_external_url\":false},\"style\":\"\",\"width\":\"480px\",\"",
+      "content_type": "image/webp",
+      "bytes": 21084,
+      "sha256": "9be64b010bfd37bbe01deff06854699e7a9995ffe229f42db0dfe572c6c4e505",
+      "source_sha256": "4bf54fb742419663ecc4459e30cea264e73d38f5847c58a8fe217d5fd3a11aa9",
+      "dhash": "8d2d270e7dc470c0",
+      "width": 480,
+      "height": 360,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-030.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1151x719/cb17a5c019/v4p2.jpg",
+      "source_tag": "html-data",
+      "context": "22c3d25f-6c18-4636-b652-7bb80130d1c9\",\"body\":[{\"_uid\":\"a1d80667-7784-48c5-9694-0b3f1d3f66bd\",\"image\":{\"id\":14882902,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1151x719/cb17a5c019/v4p2.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"c",
+      "content_type": "image/webp",
+      "bytes": 14832,
+      "sha256": "61246650651b6624450dca51caa8f3127ce2f798b6eba80dddbaa8dc6ef03f3f",
+      "source_sha256": "edc5c18dccb3bd24a40d99467a75daaecab41ba23d5ef3211a133cb1740d0ee6",
+      "dhash": "8800c4e8d4dcc400",
+      "width": 1151,
+      "height": 719,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-031.webp",
+      "source_url": "https://a.storyblok.com/f/160498/3582x2169/85694fad2b/23day-4.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"7295a8ee-7c81-4009-8f0f-eee19f56c3c6\",\"image\":{\"id\":198622814046997,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/3582x2169/85694fad2b/23day-4.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 317346,
+      "sha256": "13022d4ba2a54631eacd80c6f88e6ca72f838e5550409e949ab3f87ee21ed49f",
+      "source_sha256": "7ca85b9c5d0f60d97bee28b2d8ba958dfc6a4dc53ec92f9af120f3b23fafd794",
+      "dhash": "e5e131414303336d",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-032.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/f6cdbc098b/23day-1.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"59705005-fc1c-4b26-a903-fd3a27eff587\",\"image\":{\"id\":190500910489935,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/f6cdbc098b/23day-1.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 174266,
+      "sha256": "0b929072602db928ee10783efb264b573811d9007d2d42618edbdac04c26dfd8",
+      "source_sha256": "519f324853863380c7f01bdb3f5072b97ebe767fa4c58655de9ae3357ad608e5",
+      "dhash": "832accd41453cbcf",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-033.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/50e1d82528/23day-5-hp-png.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"247bf594-b761-4e34-aa16-3da30cfd44dd\",\"image\":{\"id\":179180449089232,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/50e1d82528/23day-5-hp-png.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 169456,
+      "sha256": "7df4a2ec2555376d69ada68a7fa00f07d7bc1b590d69dd63f8113e4bb77a8f3d",
+      "source_sha256": "56bee8a3765005ae4937d3409a4b268638d9e10c04cca3bea6dd49d992fdc8bc",
+      "dhash": "69d155399535156d",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-034.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/2cc36b51c7/23day-4-01-1.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"7e768cac-0fbd-43b7-84e3-fae14998ed20\",\"image\":{\"id\":168588366156676,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/2cc36b51c7/23day-4-01-1.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 179314,
+      "sha256": "72fbb8ffe5b229b71cd34446d13164d33c184114b4a2cbfb8d2790fabd1d0934",
+      "source_sha256": "0228c5b07a6214aef77bdac1a5052b3cfd4ccd8554530ec2cef7dcee57da8d56",
+      "dhash": "078f1f279e2b2b53",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-035.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1455/978199feb7/23day-1.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"d1e481a3-dad2-4dcc-92b2-a7fd4b392fed\",\"image\":{\"id\":157887594397227,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1455/978199feb7/23day-1.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 275418,
+      "sha256": "9042bfd1ba9f8d137dd389852b9ad602584efb273a6ec5d9d598f9b453328767",
+      "source_sha256": "6bd9ceb5882235a1f3e2e96efcf525f8ed7c803edf10d47fca7af524b59fb63f",
+      "dhash": "26327b317a767249",
+      "width": 2200,
+      "height": 1175,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-036.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/263e1a21d7/23day-1-1.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"c17706c9-0bfd-4f8a-8120-899453db87c2\",\"image\":{\"id\":136267221298481,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/263e1a21d7/23day-1-1.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 149408,
+      "sha256": "8b70b86b4374056fb460f7ca2313d4a6b2a25f16737380507bcbf30fa7ebf9ac",
+      "source_sha256": "da97b7775123b33dca609893cfefce98f89253828053ae87c095db193e65253a",
+      "dhash": "71f0f871c4c4d47b",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-037.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/0b7f429a9c/23day-12.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"a4999dd1-4525-4c1d-a7ed-93b248bdbf7a\",\"image\":{\"id\":125991305502505,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/0b7f429a9c/23day-12.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 135216,
+      "sha256": "6972c14a9e5ec130856285c7b369fdc0a5cec5521d3392bb30d7463946f93e79",
+      "source_sha256": "c157879fd128c3116ac37949fb9f85df1fadaca5041f63658598084c47214385",
+      "dhash": "1c7555454d555596",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-038.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1965x1188/21daa1ba4e/23day-11-_v2.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"68e4019a-89c4-4fa5-8e64-f490d0678f58\",\"image\":{\"id\":114316761842375,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1965x1188/21daa1ba4e/23day-11-_v2.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 164318,
+      "sha256": "46360c165da1dc2b07979fb41e5046d202dba3b5ecb5e5a10c0970219f45e48e",
+      "source_sha256": "5bd7d6e45cff4510d0cace9d4cc074d12497b51c287bae3455a51d1345273178",
+      "dhash": "4d174c4e46cb1c7b",
+      "width": 1965,
+      "height": 1188,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-039.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/3ab7048ac8/23day-10-3.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"6fcee5d0-e6e1-4db9-95bb-5b2604010529\",\"image\":{\"id\":103488220255754,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/3ab7048ac8/23day-10-3.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 160378,
+      "sha256": "a66cd2ea1caf5423efffd822657eabccb9a1ef3e7d58e9a6acb27d2eff0a2d8d",
+      "source_sha256": "36f115677c28bf0fade57f33fbb07e74d2d8ffe62b3236809ca9ef540a13aece",
+      "dhash": "130d2fa3a62e969e",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-040.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/7241c7ffb7/0054129507.png",
+      "source_tag": "html-data",
+      "context": "gBottom\":\"\",\"justifyContent\":\"center\"},{\"_uid\":\"c46ed8e9-cdb7-4a08-b0b5-220034cd1ec7\",\"image\":{\"id\":103488325830159,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/7241c7ffb7/0054129507.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 104094,
+      "sha256": "06a9cc5d49eba361859d9ec208b7130b184e4d8c745cb56fd32647b654d76311",
+      "source_sha256": "b925401fdffba76bf3df0a1f6b79935912abbdbee3e8a0f404254e8499747ff6",
+      "dhash": "090d415175514155",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-041.webp",
+      "source_url": "https://a.storyblok.com/f/160498/800x587/716f38d167/23day-10-5.png",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"47b3468b-1a0b-41b7-8e60-c2ee77687c6a\",\"image\":{\"id\":104135826070013,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/800x587/716f38d167/23day-10-5.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 36086,
+      "sha256": "83f2430ebd6cfcdac57efe7f10a8461488e9d5186c98c8577a0a38971f97fe63",
+      "source_sha256": "bb52b8c66a959f08a8e037a19be934f5f041be2d04553a624057c26d28ad6c43",
+      "dhash": "c0c0848c8ccd0a1c",
+      "width": 800,
+      "height": 587,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-042.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/aa74e9c6bb/23day-10-1.png",
+      "source_tag": "html-data",
+      "context": "\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"da752df8-2967-4e6f-9d1f-fe53c081f0e1\",\"image\":{\"id\":92488388475987,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/aa74e9c6bb/23day-10-1.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 201342,
+      "sha256": "1c3e0860e9d2e82e22fadfefabfa079b1de3edac81d2a0f4c0c40d29ddb879be",
+      "source_sha256": "1a1142b214070187afe80062645c25e6d2d26508af588ce479d40d3237af6b9d",
+      "dhash": "37269eaf23b33351",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-043.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/64d22268e2/23day-_2508.png",
+      "source_tag": "html-data",
+      "context": "ngBottom\":\"\",\"justifyContent\":\"center\"},{\"_uid\":\"fd1617b3-9fe4-4a97-a1b8-030568793353\",\"image\":{\"id\":82591675991782,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/64d22268e2/23day-_2508.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 154778,
+      "sha256": "1995013257243fcc46bd9f252c1c113c689be7388c5a5609ec6ba514b57b32ce",
+      "source_sha256": "3e28f211f9aa832c677f7193e41496df0f8460994c668387bcfa84dd46fe434f",
+      "dhash": "b3a38ee6cad07484",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-044.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2725x1650/4667264207/23day-3.png",
+      "source_tag": "html-data",
+      "context": "\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"49727084-fb40-4167-b997-b4bd32aae37f\",\"image\":{\"id\":72667043512740,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2725x1650/4667264207/23day-3.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 165236,
+      "sha256": "fde3dd6968690b8b09c92276936ab97d59d1a19b0600cead859cabcb17e9448d",
+      "source_sha256": "68f6bc54f7a71b5f6a395896a5acc01e719e44565281429744f390319f604fef",
+      "dhash": "377b4c4c4e8a8e6f",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-045.webp",
+      "source_url": "https://a.storyblok.com/f/160498/7725x4122/7b9844d699/23day-6-1.png",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"648d7f9f-1d27-4c67-a8f1-fc61e0a8b4e8\",\"image\":{\"id\":23240174,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/7725x4122/7b9844d699/23day-6-1.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 115372,
+      "sha256": "74daac8793148eb5e1abf17710a8535bfbd81504d7ad69f8a74e221f0390cd30",
+      "source_sha256": "76cc5df168b78266421d011f2579678b2e185a57abf3c814a94ee3d63235b3ef",
+      "dhash": "654647132b2b2333",
+      "width": 2200,
+      "height": 1174,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-046.webp",
+      "source_url": "https://a.storyblok.com/f/160498/7725x4122/9cfcfe3096/23-1.png",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"7d235d0a-6a55-41a7-95a3-bd505c749566\",\"image\":{\"id\":22365929,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/7725x4122/9cfcfe3096/23-1.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 440808,
+      "sha256": "ed62988f812c13c4ebb37a14207fd1783985e876122274dda5a6377278b5ab6e",
+      "source_sha256": "f8964999f979b4dd14cb8b4215f7c38c0370e6cfb8a7e0f1b6478b97e78264c2",
+      "dhash": "c9494f09c94e7479",
+      "width": 2200,
+      "height": 1174,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-047.webp",
+      "source_url": "https://a.storyblok.com/f/160498/7796x4943/b52981dbc7/23.png",
+      "source_tag": "html-data",
+      "context": "op\":\"\",\"marginBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"9af07930-4315-4141-863f-5f0c68fb1a0f\",\"image\":{\"id\":22320022,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/7796x4943/b52981dbc7/23.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 192652,
+      "sha256": "fd807519426aba32702084fb718f2b6a61bbd85126d3f69b683e7ff25d25c858",
+      "source_sha256": "932d7ad0834545a47158711564835210a44fcb629aadea48d23408e1234493c5",
+      "dhash": "496d6d694c0d1712",
+      "width": 2200,
+      "height": 1395,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-048.webp",
+      "source_url": "https://a.storyblok.com/f/160498/7796x4193/71ba166162/23day2504_vf.png",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"9c0bc72f-efc4-44fb-bbee-41bb80100df9\",\"image\":{\"id\":21931089,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/7796x4193/71ba166162/23day2504_vf.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 117560,
+      "sha256": "33e81a0727df188663fcc744bb42df2f238787ce5ec1831c476e511c104f62a5",
+      "source_sha256": "4fcc0b18432fc98a8ae7545a3c8e281ba73a5254fa8f9e04108326e6ca5bf37b",
+      "dhash": "cd4d961f33ce9591",
+      "width": 2200,
+      "height": 1183,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-049.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x792/0df843d4f4/250321_ncrs_23day-_654x396_.png",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"52808034-27d1-4df8-92bb-86ac57f1388b\",\"image\":{\"id\":21484328,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x792/0df843d4f4/250321_ncrs_23day-_654x396_.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 82852,
+      "sha256": "7135f477a329d82c2e514bbe8ec0225e8242ec9c929ecca978c5b551928f435f",
+      "source_sha256": "bfb7e9dbf9b639376128492114902bbc6f7bccb8801c324adda2405cf40e68f0",
+      "dhash": "962321133b66370f",
+      "width": 1308,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-050.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1962x1615/37599a00fc/1.png",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"a82a0850-a410-4a9f-bdb7-d479fc2482b2\",\"image\":{\"id\":21484329,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1962x1615/37599a00fc/1.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 63184,
+      "sha256": "d46ce6fc3c56f77a0e66adc7ee7ca9d90b92413401b49f89025d40b44e039328",
+      "source_sha256": "0ed0ff09e0d329f54dedf941ad047f81c6d7d7b270ecacc22f62d46a80d35a8a",
+      "dhash": "88b6309696d4942b",
+      "width": 1962,
+      "height": 1615,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-051.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1962x1188/9f81bc32ff/3_1.jpg",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"fc7fb83c-479f-47bb-bbe4-f1dd4a5e7ad7\",\"image\":{\"id\":20736521,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1962x1188/9f81bc32ff/3_1.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 85878,
+      "sha256": "7287e2195fa4933ca9a762d1546a98eec7ecd6fd5130cfd10ca2c56876d6e261",
+      "source_sha256": "2ab555bc152f47bba7d6efcbb7646d6753b669659003574251fcac18dea9d03d",
+      "dhash": "0151d15155560604",
+      "width": 1962,
+      "height": 1188,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-052.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1962x1857/64b1f4c93d/sub.png",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"dd8b68db-b2fd-4b5e-bb76-78e1b3f7a503\",\"image\":{\"id\":20941178,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1962x1857/64b1f4c93d/sub.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 97454,
+      "sha256": "32d8f3868ca7b28cacae9b8e11146a7cec03f6817ec1e6301aff6c6d837baf8c",
+      "source_sha256": "550c4285e964e4eff81dba35ee5f050d4b69eb4fad089d8047356acd462e4395",
+      "dhash": "0094b6929694942b",
+      "width": 1962,
+      "height": 1857,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-053.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1963x1188/9fa0605411/2-30122.png",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"ceb4796a-d534-4310-8937-0ba3a4fd5292\",\"image\":{\"id\":20096284,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1963x1188/9fa0605411/2-30122.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 71088,
+      "sha256": "60286284cb19f2a7a45e7cb8c9af350d0e8493a782854f81f96dbc58fe8f11ba",
+      "source_sha256": "35d3d5a49fa65097b181931ceb0412d76d5014e91db7b3048631854e7465dfe5",
+      "dhash": "5078d0c9c8b23232",
+      "width": 1963,
+      "height": 1188,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-054.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1963x1305/5f7e36ed4a/2-20122.png",
+      "source_tag": "html-data",
+      "context": "\"paddingBottom\":\"\",\"justifyContent\":\"center\"},{\"_uid\":\"a3449af3-70af-4cf1-8b07-41f7f3a5e73d\",\"image\":{\"id\":20096288,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1963x1305/5f7e36ed4a/2-20122.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 74796,
+      "sha256": "5e0db14f79bdc5025720c05ffd53453ab85f867f310076ddc75f1518fd347d31",
+      "source_sha256": "1c00db57bd79032dcc06c686a1d0c8fa73f4a0f1f32235c2750b7b5517dc2928",
+      "dhash": "cce46ae0e5b232b2",
+      "width": 1963,
+      "height": 1305,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-055.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1963x1440/a79202c781/70122.png",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"2b08580a-ab50-4d80-aaf9-a096176a37eb\",\"image\":{\"id\":20096283,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1963x1440/a79202c781/70122.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 117232,
+      "sha256": "23610bbc0bf6a561e66e1f55bc7369edaa26aafaeae5263a599898bc0e4da167",
+      "source_sha256": "a482bfb44da24106ba3ff1a3ad1b1cef7e5aa0432acf10983212c8917023edcb",
+      "dhash": "40402c0cc85c5812",
+      "width": 1963,
+      "height": 1440,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-056.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1962x1188/aa0530d3b8/v1x3.jpg",
+      "source_tag": "html-data",
+      "context": "\"paddingBottom\":\"\",\"justifyContent\":\"center\"},{\"_uid\":\"37dd744b-c104-4c0b-beea-ef3ce17b26e0\",\"image\":{\"id\":19266660,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1962x1188/aa0530d3b8/v1x3.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 264852,
+      "sha256": "45e62cfafedc24d74f86165c7bfc1fb38008d7d56eae4295b1af5ea6b5826493",
+      "source_sha256": "eccbed1d3356290c1cda8843611f931a1ac43a918184ad5d99717dfaf15c1bc0",
+      "dhash": "69df9190e8acccdc",
+      "width": 1962,
+      "height": 1188,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-057.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x792/3b196faa23/1fix.jpg",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"a2dbd693-3958-4d1a-8145-d129e5d6bc8c\",\"image\":{\"id\":18608877,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x792/3b196faa23/1fix.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 86986,
+      "sha256": "77d6dd7dbe54188923ee51de62323bac2db83d009f5a2281acf0e754c7379aa8",
+      "source_sha256": "ff38756926ac5640467ed4eaf2b292d218ff0bf7c6d59ab7f494812d7d13b22f",
+      "dhash": "25072717170f1f0c",
+      "width": 1308,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-058.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x1308/e0a11fe7d1/7fix.jpg",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"ddc097d1-b475-473a-9d37-8faaae3bb9cc\",\"image\":{\"id\":18608880,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x1308/e0a11fe7d1/7fix.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 54874,
+      "sha256": "baeb26308e789172ddf83404904d54a45c45acac824218e838f5e8dafa1c81cc",
+      "source_sha256": "2c676283f0956faffc9135e077372f3428b3b8c3cb068ff8a393ba4366fca51c",
+      "dhash": "b2f0d0e0e09c9e0e",
+      "width": 1308,
+      "height": 1308,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-059.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x626/1b9d98e847/13fix.jpg",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"ccd48318-aed4-47db-b91b-f5a5bd7dad28\",\"image\":{\"id\":18608878,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x626/1b9d98e847/13fix.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 50684,
+      "sha256": "ad75d98605cd1367aea83de9dfb5272930a9c4062f8f2e44ce0737f81a7041f3",
+      "source_sha256": "9fee14f8db7e88e1472f08c5b0553322b244b8401d8cfc0b605b3f98e0c0a0f3",
+      "dhash": "808ca09286a2c606",
+      "width": 1308,
+      "height": 626,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-060.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1962x1188/31a622cb03/1prod.jpg",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"84992cfe-6179-405b-8a71-f4c67b47b2f9\",\"image\":{\"id\":17760384,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1962x1188/31a622cb03/1prod.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 256856,
+      "sha256": "2c4898e2ec6f99eeb13e1fa5024ea99e65ffa606f25f50c69cb5527385527d40",
+      "source_sha256": "b7ab7f65bdce6b4830d9592be543bd5cc72104e1a4d3f3646a0b7fe58bceb008",
+      "dhash": "1a9b9c8c4b43262c",
+      "width": 1962,
+      "height": 1188,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-061.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1962x1284/bf1a0d9fc0/7prod.jpg",
+      "source_tag": "html-data",
+      "context": "op\":\"\",\"marginBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"bb560240-3cf0-4c96-9ff6-ebfb09a09b2a\",\"image\":{\"id\":17760385,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1962x1284/bf1a0d9fc0/7prod.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 145542,
+      "sha256": "0c19de9a57b3e631ed301001859cbe6a9ab52ab93ef61464d5c86251847f13cf",
+      "source_sha256": "b0f1238877f54bd59a25940fd496a4fa46f0aa5e9a8333718861450ea1c5af63",
+      "dhash": "3697939296b13620",
+      "width": 1962,
+      "height": 1284,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-062.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2616x1584/f003145065/x2-5.jpg",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"53c699b8-89d5-40e3-85fa-c70f6cace0d5\",\"image\":{\"id\":17385854,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2616x1584/f003145065/x2-5.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 357208,
+      "sha256": "f8afac8fa3e52b783f4b214f94c1e18aa6bcb40f73d1d848d5a9aae423238e6f",
+      "source_sha256": "8dbe6e2fca8208dc5399b4861ea4a55378af8072c3df09ea21a0fa7aabb3a25c",
+      "dhash": "041ad8c4ccd4e49c",
+      "width": 2200,
+      "height": 1332,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-063.webp",
+      "source_url": "https://a.storyblok.com/f/160498/2616x1172/9c5a6bd960/sub_.jpg",
+      "source_tag": "html-data",
+      "context": "op\":\"\",\"marginBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"0190bba7-4c14-4c3b-8b78-969e8476afe6\",\"image\":{\"id\":17400115,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/2616x1172/9c5a6bd960/sub_.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 119880,
+      "sha256": "d44428974aa8eb8930c493f0417784770fe76f1be2f292572ff5d9409dafd689",
+      "source_sha256": "0988cf29450afc2865a436fdf22587b0ec519766049164533b8f4508c674f898",
+      "dhash": "b2b29296b2963260",
+      "width": 2200,
+      "height": 986,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-064.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1962x1188/e2885cb153/23day08.jpg",
+      "source_tag": "html-data",
+      "context": "ustifyContent\":\"center\",\"backgroundColor\":\"\"},{\"_uid\":\"937ad1f8-29ed-4f27-b58c-b7961ed6d04e\",\"image\":{\"id\":17017359,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1962x1188/e2885cb153/23day08.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"c",
+      "content_type": "image/webp",
+      "bytes": 97466,
+      "sha256": "e3da1e477188ce2e2007d639f57aae8c5311d9f41359c263e6509ec3204b5ef3",
+      "source_sha256": "81f0aebabe4ae1b0dcee7bae2c2668a734474872c17a9b08f3716887e6240dc9",
+      "dhash": "52533353793d7575",
+      "width": 1962,
+      "height": 1188,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-065.webp",
+      "source_url": "https://a.storyblok.com/f/160498/3376x800/d591c7b524/4.jpg",
+      "source_tag": "html-data",
+      "context": "argintBottomSp\":\"\",\"onlyShowForMember\":false},{\"_uid\":\"8a696a77-f0fa-4150-be38-30645a27984b\",\"image\":{\"id\":17017405,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/3376x800/d591c7b524/4.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"c",
+      "content_type": "image/webp",
+      "bytes": 31600,
+      "sha256": "dd96846c2ef460ec78606d19f3bec5481a89af348f6bab679986c20cbd23d9b6",
+      "source_sha256": "ba39b9dfba361fd85f820f4b6f8ab58a859e8f67eb40c0979e64bca5ee2124d0",
+      "dhash": "6969060e86a6e606",
+      "width": 2200,
+      "height": 521,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-066.webp",
+      "source_url": "https://a.storyblok.com/f/160498/3609x800/304ac65e2a/5.jpg",
+      "source_tag": "html-data",
+      "context": "argintBottomSp\":\"\",\"onlyShowForMember\":false},{\"_uid\":\"010dcbcc-1e7a-4a62-bf7f-cba933785c12\",\"image\":{\"id\":17017407,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/3609x800/304ac65e2a/5.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"c",
+      "content_type": "image/webp",
+      "bytes": 29392,
+      "sha256": "db51b40730a2e51bcba86cab433b12f8769e921bdb0c85939989e5198c01e6df",
+      "source_sha256": "6b0705d6b370988a36b6f01bf2025b95f1d43194a816e3645d73dbdeae4ce416",
+      "dhash": "40068a0ad6d20200",
+      "width": 2200,
+      "height": 488,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-067.webp",
+      "source_url": "https://a.storyblok.com/f/160498/3250x800/4fad26387b/6.jpg",
+      "source_tag": "html-data",
+      "context": "t\":\"\",\"paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"636fd369-b0fe-4c26-940d-e38661521472\",\"image\":{\"id\":17017410,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/3250x800/4fad26387b/6.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"c",
+      "content_type": "image/webp",
+      "bytes": 45786,
+      "sha256": "04349401f46d6aea439159d042310ced102f95dfa27f08e00bc13ce764e0d6b9",
+      "source_sha256": "a0ca1443e1e27fc21e9772724eeae53feb9371f703db76b98ab8ef9ed37ed49e",
+      "dhash": "34a4a6c2d6065606",
+      "width": 2200,
+      "height": 542,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-068.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x792/e60866a076/top.jpg",
+      "source_tag": "html-data",
+      "context": "ustifyContent\":\"center\",\"backgroundColor\":\"\"},{\"_uid\":\"03a473dd-72ff-47f2-91c6-eaa8c766499e\",\"image\":{\"id\":16677923,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x792/e60866a076/top.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"c",
+      "content_type": "image/webp",
+      "bytes": 70346,
+      "sha256": "61a05aeb63e7993bc9b8aee2c12be07769ea455630fad1748682b0dca24a0b0f",
+      "source_sha256": "f7fd43eac42a8da8a94392d500e8fc191257d40c002174b59b15a50bbcf51391",
+      "dhash": "4b43aa1b33dd2d3b",
+      "width": 1308,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-069.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x792/592e0c0219/_b.jpg",
+      "source_tag": "html-data",
+      "context": "ustifyContent\":\"center\",\"backgroundColor\":\"\"},{\"_uid\":\"1c11ad67-1b62-4326-990e-9c0fb8bec586\",\"image\":{\"id\":16304005,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x792/592e0c0219/_b.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"c",
+      "content_type": "image/webp",
+      "bytes": 129802,
+      "sha256": "6ba25798012bd3d5998a1d58ec3ccdd1949a4a80f000e9abaa496227608016ed",
+      "source_sha256": "31e2f62caf137751f3d9acf24cd3fc5e52612979ec2b7f5010bd4223b57bb770",
+      "dhash": "12ce87c3968e8e96",
+      "width": 1308,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-070.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x792/789d8d5a24/23day_2405.png",
+      "source_tag": "html-data",
+      "context": "ustifyContent\":\"center\",\"backgroundColor\":\"\"},{\"_uid\":\"bf09f072-4b43-4e35-b169-16bcda7dd995\",\"image\":{\"id\":15974572,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x792/789d8d5a24/23day_2405.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"c",
+      "content_type": "image/webp",
+      "bytes": 217148,
+      "sha256": "184ec091a5c89203b561a8820ea3b8aba0b40d88e0a668f686b8b7006f6aa2ad",
+      "source_sha256": "f3099942b341fc783bc791f419242e621a578b2e153ab7545ee5084e3278ed72",
+      "dhash": "4969253da1a39a88",
+      "width": 1308,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-071.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x792/fa67238de5/23day0422.jpg",
+      "source_tag": "html-data",
+      "context": "ustifyContent\":\"center\",\"backgroundColor\":\"\"},{\"_uid\":\"7aacd812-beee-4984-b389-086ce9e0e0fe\",\"image\":{\"id\":15420353,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x792/fa67238de5/23day0422.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"100%\",\"height\":\"",
+      "content_type": "image/webp",
+      "bytes": 68530,
+      "sha256": "3bf7349edcbbc58459412ea84696d07296ebe86426cc3f6d0a7275f96c5ac486",
+      "source_sha256": "74e96ad530818ec02d45f313ef6d3db4bbd34cc9bfc16ca2d12e907a66b8fb8a",
+      "dhash": "2e334c4d0d8c18b9",
+      "width": 1308,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-072.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x792/aff6fdf838/10322.jpg",
+      "source_tag": "html-data",
+      "context": "ustifyContent\":\"center\",\"backgroundColor\":\"\"},{\"_uid\":\"a4fcc99d-ca8a-42a1-b923-41e73f037786\",\"image\":{\"id\":14914656,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x792/aff6fdf838/10322.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"width\":\"100%\",\"height\":\"",
+      "content_type": "image/webp",
+      "bytes": 89898,
+      "sha256": "ebcda21f74f74c614713f1064c3f694e35f92b12983a6a2e1ff3967d47c8f131",
+      "source_sha256": "6706ee1ec37ad43d0e5b3c90c8a42a9d8c8a7396eb5c170601e74366e02a4dfb",
+      "dhash": "9c0f254daba79f1e",
+      "width": 1308,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-073.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1308x792/ddeb433778/gj.png",
+      "source_tag": "html-data",
+      "context": "9-4586-4f66-bb01-791bb140175a\",\"body\":[{\"_uid\":\"66a23911-1e01-44ca-8284-3f035923c00b\",\"image\":{\"id\":201163938541029,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1308x792/ddeb433778/gj.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"\",\"component\":\"sbImage\"",
+      "content_type": "image/webp",
+      "bytes": 106460,
+      "sha256": "265f13ea328e56875ef21139b9f46a5913741974c46c7f1375fc71cf11ba0eba",
+      "source_sha256": "3107dd344bd43b9ea22441c9c83d8b6d1a4c0e517b5f70f12ceb160f68a9e233",
+      "dhash": "2e39b161595df8c1",
+      "width": 1308,
+      "height": 792,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-074.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1962x1188/616bcc0ec7/gj-sub.jpg",
+      "source_tag": "html-data",
+      "context": "paddingBottom\":\"\",\"justifyContent\":\"\"},{\"_uid\":\"30b34eb7-1f53-4bfe-a92c-82a8ea131e94\",\"image\":{\"id\":201473389345060,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1962x1188/616bcc0ec7/gj-sub.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"100%\",\"spImage\":{\"id\":2014734689876",
+      "content_type": "image/webp",
+      "bytes": 53910,
+      "sha256": "eb6bb827bcac9a5aecaba3159f59a596168b0b0170aed847456693123a732fa1",
+      "source_sha256": "eb86c248d8e0a222081f1568d76391767803f0ac5d6cacbc3ac1edaf757ae1a4",
+      "dhash": "f0c082b672b6b600",
+      "width": 1962,
+      "height": 1188,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-075.webp",
+      "source_url": "https://a.storyblok.com/f/160498/654x1447/768dfb3a21/gj-spsub.jpg",
+      "source_tag": "html-data",
+      "context": "ight\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"100%\",\"spImage\":{\"id\":201473468987688,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/654x1447/768dfb3a21/gj-spsub.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"component\":\"sbResponsiveImage\",\"marginTop\":",
+      "content_type": "image/webp",
+      "bytes": 28534,
+      "sha256": "aa9566c46cf009a36f18b2276b96ceead4393c8ed77f996d0f4f127c31fad518",
+      "source_sha256": "1adcaf8ded4a57e2f383099f7baa03207c2adfdad052da176e5cd606f1562d70",
+      "dhash": "88d0f0d0f010f030",
+      "width": 654,
+      "height": 1447,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-076.webp",
+      "source_url": "https://a.storyblok.com/f/160498/4000x2667/d38bbe1d62/92166e0b3d.png",
+      "source_tag": "html-data",
+      "context": "d32948e8-e120-46b3-b2ec-0082755a2b77\",\"body\":[{\"_uid\":\"5bd7e740-191b-4777-acfa-6116f8ad00c1\",\"image\":{\"id\":19476616,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/4000x2667/d38bbe1d62/92166e0b3d.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"200px\",\"component\":\"sbI",
+      "content_type": "image/webp",
+      "bytes": 143134,
+      "sha256": "fa9f3c87167f0ea4abb1418f25fca0f65fbf1bced2a54bbf5df7de23f0b7c9bc",
+      "source_sha256": "c4e2f074ef936cd2bc788dd6f362b2f6569e1315de97aa0b891a8a177403fc5e",
+      "dhash": "264f99330f172c38",
+      "width": 2200,
+      "height": 1467,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-077.webp",
+      "source_url": "https://a.storyblok.com/f/160498/4200x2800/aa19d4a741/_-_.png",
+      "source_tag": "html-data",
+      "context": "b5bee084-9713-4919-8c74-80d2addff781\",\"body\":[{\"_uid\":\"bcebbb3b-2448-405e-b669-fdb4bcf7af13\",\"image\":{\"id\":19476625,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/4200x2800/aa19d4a741/_-_.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"width\":\"\",\"height\":\"200px\",\"component\":\"sbI",
+      "content_type": "image/webp",
+      "bytes": 88242,
+      "sha256": "8e6658c2e5d45ed74a4b9d470264e7001366d1e409230c962df765dde99c1832",
+      "source_sha256": "60c23b9e4c0249d1c12968f02cff9f4ef911655a4eea3b9a756f51fd11b90576",
+      "dhash": "0a240e3f030b0c41",
+      "width": 2200,
+      "height": 1467,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-078.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1080x654/ccce0c8610/1.jpg",
+      "source_tag": "html-data",
+      "context": "をしよう!!\",\"advertisementOnly\":true,\"campaignStartTime\":\"2026-07-25 00:00\",\"campaignPreviewImage\":{\"id\":77504641753556,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1080x654/ccce0c8610/1.jpg\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false}},\"slug\":\"hojokincp_kusatsu\",\"full_slug\":\"cam",
+      "content_type": "image/webp",
+      "bytes": 80968,
+      "sha256": "9d300d1daece4e3ab03c5579244725d26eca92535a516284993bef1ab7b360f2",
+      "source_sha256": "469d30d948c2faa1235bd19a862c4ad76a8718a888222ea24077d04deca55633",
+      "dhash": "06f9b971595df8c1",
+      "width": 1080,
+      "height": 654,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-079.webp",
+      "source_url": "https://a.storyblok.com/f/160498/801x801/c3e3a4af1f/l2-5.png",
+      "source_tag": "html-data",
+      "context": "lication\"},{\"title\":\"23ボーナスクラブ\",\"description\":\"レンタカーを初めてご利用の方も、たまにご利用の方も、いつもご利用の方も断然便利でお得な日産レンタカーの会員制度です。\",\"icon\":{\"id\":6375289,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/801x801/c3e3a4af1f/l2-5.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"is_external_url\":false},\"link\":\"/23member\"},{\"title\":\"福祉車両のご案内\",\"description\":\"安心して",
+      "content_type": "image/webp",
+      "bytes": 22960,
+      "sha256": "396a870d45bc770a34ba6ee30578ed04ba19a84f2d4b2154b6fc4a7c2114b46a",
+      "source_sha256": "23b26dd7c851732c796483d3ba8424f5afe1f8a7a306e4ace8ffea32ea0f6b8c",
+      "dhash": "c28698b170f2d2ce",
+      "width": 801,
+      "height": 801,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-080.webp",
+      "source_url": "https://a.storyblok.com/f/160498/551x550/7f3d317187/chargingcard.png",
+      "source_tag": "html-data",
+      "context": "},\"link\":\"/etccard-rental\"},{\"title\":\"充電カードの貸出について\",\"description\":\"電気自動車のレンタル時に便利な充電カードを無料貸出\",\"icon\":{\"id\":16703427,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/551x550/7f3d317187/chargingcard.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_private\":false,\"is_external_url\":false},\"link\":\"other/EV-Charging",
+      "content_type": "image/webp",
+      "bytes": 9040,
+      "sha256": "e681f0ff88e4780cc9729e5d4fe5a0be29cbf7e37554348676d5a892fb2a63c5",
+      "source_sha256": "cca4b2718c0ea5039c407468c614d525513636cde20d21e1fe03e1eb15e9555d",
+      "dhash": "223c3e3f3f1f271b",
+      "width": 551,
+      "height": 550,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-081.webp",
+      "source_url": "https://a.storyblok.com/f/160498/556x556/57ef27e15d/icon.png",
+      "source_tag": "html-data",
+      "context": "her/EV-ChargingCard\"},{\"title\":\"マイナ免許証のご利用について\",\"description\":\"マイナ免許証をご利用いただくお客様はこちらをご覧ください。\",\"icon\":{\"id\":21416584,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/556x556/57ef27e15d/icon.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"link\":\"notes/maina_menkyo\"},{\"title\":\"レンタカー",
+      "content_type": "image/webp",
+      "bytes": 14458,
+      "sha256": "803c4ffbd6f8433b20ef9bf8884428f6ada1edd30ac24e49414293067cfdb00b",
+      "source_sha256": "ae9535a3a00565b8f4c86de7b2bd26f21b9d634365f26c6d75837ae3bd9b210f",
+      "dhash": "0f035171e049230f",
+      "width": 556,
+      "height": 556,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-082.webp",
+      "source_url": "https://a.storyblok.com/f/160498/1601x1601/56e42d5f4f/a4-5-2x.png",
+      "source_tag": "html-data",
+      "context": "lse},\"link\":\"/moving\"},{\"title\":\"海外の日産レンタカー\",\"description\":\"海外へご旅行の際も日産レンタカーをご利用できます。\",\"icon\":{\"id\":110810826566871,\"alt\":\"\",\"name\":\"\",\"focus\":\"\",\"title\":\"\",\"source\":\"\",\"filename\":\"https://a.storyblok.com/f/160498/1601x1601/56e42d5f4f/a4-5-2x.png\",\"copyright\":\"\",\"fieldtype\":\"asset\",\"meta_data\":{},\"is_external_url\":false},\"link\":\"other/guam_info\"}],\"ciam_email\":\"\",\"",
+      "content_type": "image/webp",
+      "bytes": 75256,
+      "sha256": "1a94b9a60b1daff3fb7b519ddf8978f6ff418d2fe5db72d57efeacc4417120c0",
+      "source_sha256": "67e30f2eceae39563da26603afc34f13e4de52cb00fccfd6f9a63a29971a6e80",
+      "dhash": "0058d9d098f03084",
+      "width": 1601,
+      "height": 1601,
+      "variant": "shared",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-083.webp",
+      "source_url": "https://nissan-rentacar.com/accident-example-1.png",
+      "source_tag": "script-data",
+      "context": "In the parking lot\",\"content\":\"Get the correct feeling of the width of the car!!\",\"desc\":[\"Right angle adjustment of the mirrors.\",\"Turn the steering wheel with caution.\"],\"image\":\"/accident-example-1.png\"},\"accident_example_2\":{\"title\":\"Rear-end accident\",\"content\":\"Keep your eyes on the road!!\",\"desc\":[\"DO NOT use cellpho",
+      "content_type": "image/webp",
+      "bytes": 13632,
+      "sha256": "636f0a0ae9eefa5119efa52f348430b8f77b30fd4982d6f76ab8e380eb6fe150",
+      "source_sha256": "23c9b1249a99884c40c866bf4379b655fad134592c594ed47f718cfe0f8a4c91",
+      "dhash": "6d8e3c2d19964d32",
+      "width": 540,
+      "height": 361,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-084.webp",
+      "source_url": "https://nissan-rentacar.com/accident-example-2.png",
+      "source_tag": "script-data",
+      "context": "xample_2\":{\"title\":\"Rear-end accident\",\"content\":\"Keep your eyes on the road!!\",\"desc\":[\"DO NOT use cellphone or GPS during driving. Please pull over when you use them. \"],\"image\":\"/accident-example-2.png\"},\"accident_example_3\":{\"title\":\"At the intersection\",\"content\":\"Right turn:Beware of oncoming car and two-wheeler behin",
+      "content_type": "image/webp",
+      "bytes": 10116,
+      "sha256": "d7cdfab4c7d9a41de5ec37968abc2a96a6ee3e385341d51c63240a70afe58895",
+      "source_sha256": "d4aca241e74b6a27c17f4a4c03cfa521c2546d99b86bfc6c6bb10cf322eb8eda",
+      "dhash": "6a32920763034e00",
+      "width": 540,
+      "height": 361,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-085.webp",
+      "source_url": "https://nissan-rentacar.com/accident-example-3.png",
+      "source_tag": "script-data",
+      "context": "Watch out for oncoming cars.\",\"Left turn1:Turn on the left blinkers early. \",\"Left turn2:Please consider inner wheel difference and slow down when you make a left turn. \"],\"image\":\"/accident-example-3.png\"},\"accident_example_4\":{\"title\":\"Skidding accident caused by rain or snow \",\"content\":\"Consider the road condition!!\\\\nY",
+      "content_type": "image/webp",
+      "bytes": 26370,
+      "sha256": "769c049e21191bbfc9b10c60bc9ef80b7317aba90ff3ae08ae2d6e0516aeddd0",
+      "source_sha256": "361ea918900ae17cfc387afe6e10ddd52fa2a805a0e14d489e8a20fb3a3f9788",
+      "dhash": "0e0f0f0c0c4f070e",
+      "width": 540,
+      "height": 801,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-086.webp",
+      "source_url": "https://nissan-rentacar.com/accident-example-4.png",
+      "source_tag": "script-data",
+      "context": "istance between the vehicles, because it\\'s wet and/or icy. \",\"desc\":[\"Operate accelerator, brake and steering wheel carefully. \",\"Be careful even on the straight road. \"],\"image\":\"/accident-example-4.png\"},\"three_requests_from_nissan\":\"3 requests from NISSAN\",\"traffic_rules\":\"Traffic rules\",\"title\":\"Confirmation of Importa",
+      "content_type": "image/webp",
+      "bytes": 14586,
+      "sha256": "17f575106d822907ced353d8aa95aad477209bc7677020e98db4ad8ec539f58f",
+      "source_sha256": "709d32e654798287fcaf1f1ebd38eb60996d1251311e4f45934b2c7e5ef3b99d",
+      "dhash": "0d0e1f3163278c49",
+      "width": 540,
+      "height": 361,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-087.webp",
+      "source_url": "https://nissan-rentacar.com/img-home-bgr-overseas-sp.jpg",
+      "source_tag": "script-data",
+      "context": "d:hidden\",children:\"ja\"===n?(0,a.jsx)(p(),{src:\"/img-home-bgr-sp.jpg\",alt:\"img-home-bgr-sp\",objectFit:\"contain\",objectPosition:\"top\",layout:\"fill\",priority:!0}):(0,a.jsx)(p(),{src:\"/img-home-bgr-overseas-sp.jpg\",alt:\"img-home-bgr-sp\",objectFit:\"contain\",objectPosition:\"top\",layout:\"fill\",priority:!0})}):(0,a.jsx)(\"div\",{className",
+      "content_type": "image/webp",
+      "bytes": 23780,
+      "sha256": "ef06d821cda9eee9212b724a430e55c38a119ee5d8a1fb4a9162ce25895888e1",
+      "source_sha256": "1ab9c922e3bb9cdf1b62335d90aa51450edf7bc5dd4eb38671e7686c551d73d1",
+      "dhash": "4416129140c03312",
+      "width": 750,
+      "height": 250,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-088.webp",
+      "source_url": "https://nissan-rentacar.com/img-home-service-info.jpg",
+      "source_tag": "script-data",
+      "context": "{informations:s}=e,t=(0,j.hy)(),{push:l}=(0,i.useRouter)(),r=(0,N.Ay)();return(0,a.jsxs)(\"div\",{className:\"relative\",children:[(0,a.jsx)(p(),{src:t?\"/img-home-service-info-sp.jpg\":\"/img-home-service-info.jpg\",layout:\"fill\"}),(0,a.jsx)(\"div\",{className:\"max-w-[58.5rem] mx-auto px-4 md:px-0 pt-9 md:pt-16 pb-12 md:pb-[5.125rem]\",",
+      "content_type": "image/webp",
+      "bytes": 69078,
+      "sha256": "fbde5edc27c11f01084a13ff7ac6942cfae4b162ccc3e9d063d1793b3de07afd",
+      "source_sha256": "44863e60eb80dff145e922b80edad8f7f5a6f14ca42b764288a7a447c6c3ee0b",
+      "dhash": "3b2bfbf3faf2fef6",
+      "width": 1440,
+      "height": 836,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-089.webp",
+      "source_url": "https://nissan-rentacar.com/img-child-seat.png",
+      "source_tag": "script-data",
+      "context": ":t.car.option_fee.table.labels.type_name,description:t.car.option_fee.table.labels.description}},N=e=>{let t=(0,f.Xo)(e);return[{typeName:t.car.option_fee.table.seat.type1,imgPath:\"/img-child-seat.png\",description:t.car.option_fee.table.seat.des1},{typeName:t.car.option_fee.table.seat.type2,imgPath:\"/img-child-seat.png\"",
+      "content_type": "image/webp",
+      "bytes": 39142,
+      "sha256": "37790bf9ada2b6dd1634b462fdc1f7e714850b332c492c1bd88d9a594aee3fac",
+      "source_sha256": "fac5b957d8ebd3eba2bf89222c636ed6e667002d1deda525ec81d97884d5e1b1",
+      "dhash": "00f030f0d8d0f192",
+      "width": 512,
+      "height": 683,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/option-fee"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-090.webp",
+      "source_url": "https://nissan-rentacar.com/img-child-seat-junior.png",
+      "source_tag": "script-data",
+      "context": "t.des1},{typeName:t.car.option_fee.table.seat.type2,imgPath:\"/img-child-seat.png\",description:t.car.option_fee.table.seat.des2},{typeName:t.car.option_fee.table.seat.type3,imgPath:\"/img-child-seat-junior.png\",description:t.car.option_fee.table.seat.des3}]},C={pc:{header:\"border border-primary bg-secondary px-4 py-2 text-[14px]",
+      "content_type": "image/webp",
+      "bytes": 37270,
+      "sha256": "36c8fc73baea4186134ba45c7de694b8512762c456a33008db05a00de2790663",
+      "source_sha256": "210d43be3c37bbae37edaa0f260bb228ebfb0ea68378c2174e02e43e1786efba",
+      "dhash": "46c0e1debce0f91a",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/option-fee"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-091.svg",
+      "source_url": "https://nissan-rentacar.com/price-table.svg",
+      "source_tag": "script-data",
+      "context": "ar-12\",children:[\"※\",s.spent_fee.unit_yen_including_tax]})}),(0,r.jsx)(\"div\",{className:\"relative w-full aspect-[319/178] md:aspect-[647/342]\",children:(0,r.jsx)(b(),{src:\"ja\"===t?\"/price-table.svg\":\"/price-table-other.svg\",alt:\"price-table\",layout:\"fill\",objectFit:\"contain\"})})]}),(0,r.jsxs)(\"div\",{className:\"mt-6 m",
+      "content_type": "image/svg+xml",
+      "bytes": 179090,
+      "sha256": "c096e1aa9a9c217c6baf7f4127c7e58f5ac4269b58ace10c26a26ad7241f3ee8",
+      "source_sha256": "c096e1aa9a9c217c6baf7f4127c7e58f5ac4269b58ace10c26a26ad7241f3ee8",
+      "dhash": "",
+      "width": 648,
+      "height": 343,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/spent-fee"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-092.svg",
+      "source_url": "https://nissan-rentacar.com/price-table-other.svg",
+      "source_tag": "script-data",
+      "context": "\",s.spent_fee.unit_yen_including_tax]})}),(0,r.jsx)(\"div\",{className:\"relative w-full aspect-[319/178] md:aspect-[647/342]\",children:(0,r.jsx)(b(),{src:\"ja\"===t?\"/price-table.svg\":\"/price-table-other.svg\",alt:\"price-table\",layout:\"fill\",objectFit:\"contain\"})})]}),(0,r.jsxs)(\"div\",{className:\"mt-6 md:mt-8\",children:[(0,r.js",
+      "content_type": "image/svg+xml",
+      "bytes": 191857,
+      "sha256": "21590758c86405f556adea98f84f652c2b4780c6d34fedae3763d2f368d55fbd",
+      "source_sha256": "21590758c86405f556adea98f84f652c2b4780c6d34fedae3763d2f368d55fbd",
+      "dhash": "",
+      "width": 648,
+      "height": 343,
+      "variant": "desktop",
+      "source_pages": [
+        "https://nissan-rentacar.com/car/spent-fee"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/nissan-rent-a-car/og.webp",
       "source_url": "https://nissan-rentacar.com/ja-seo-logo.png",
@@ -28,67 +2118,6 @@
       "sha256": "0370105d5a478a96d8bcbdf70b7babc6b96994a878acb1280b5d5b3934ffb31e",
       "width": 1000,
       "height": 500
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/nissan-rent-a-car/og.webp",
-      "source_url": "https://nissan-rentacar.com/ja-seo-logo.png",
-      "source_tag": "json-ld.logo",
-      "content_type": "image/webp",
-      "bytes": 532254,
-      "sha256": "0370105d5a478a96d8bcbdf70b7babc6b96994a878acb1280b5d5b3934ffb31e",
-      "width": 1000,
-      "height": 500,
-      "context": "structured data logo",
-      "reused_from": "social"
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/nissan-rent-a-car/logo-2.png",
-      "source_url": "https://nissan-rentacar.com/ic-logo-sm.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img logo-sm span div relative h-[36px] w-[118px] div flex items-center ul flex justify-between mb-2.5",
-      "content_type": "image/png",
-      "bytes": 3236,
-      "sha256": "822162e6904c982b170c2c9dfffafc2f1ea8eb5c2447d415ba182481cceaa575",
-      "width": 237,
-      "height": 72
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-1.webp",
-      "source_url": "https://nissan-rentacar.com/img-home-bgr-sp.jpg",
-      "source_tag": "img:page-image",
-      "context": "img img-home-bgr-sp span div relative w-full md:min-h-[569px] min-h-[460px] md:hidden div flex flex-col relative div w-full mx-auto px-0 mt-0",
-      "content_type": "image/webp",
-      "bytes": 63400,
-      "sha256": "e151035b4f1af1722df8e8a7378cee319c85644f1dd9871d2e890bf5048e0fdc",
-      "width": 750,
-      "height": 248
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-2.webp",
-      "source_url": "https://a.storyblok.com/f/160498/654x396/224298b5e7/sumb.jpg/m/",
-      "source_tag": "img:page-image",
-      "context": "img rounded-lg noscript span div relative aspect-[166.6/100.51] rounded-lg div grid gap-2 md:gap-6 grid-cols-2 md:grid-cols-3 mt-3 md:mt-9",
-      "content_type": "image/webp",
-      "bytes": 52204,
-      "sha256": "60583e86c3c63a497975c33d734f25572ec3ac351b6c8f784a80f01b358819c2",
-      "width": 654,
-      "height": 396
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/nissan-rent-a-car/reference-3.webp",
-      "source_url": "https://a.storyblok.com/f/160498/5555x3404/51ecfc68f2/23day.png/m/",
-      "source_tag": "img:page-image",
-      "context": "img rounded-lg noscript span div relative aspect-[166.6/100.51] rounded-lg div grid gap-2 md:gap-6 grid-cols-2 md:grid-cols-3 mt-3 md:mt-9",
-      "content_type": "image/webp",
-      "bytes": 102654,
-      "sha256": "a65766cd71c36d181e32dcbe3dd83df400c4204c8e6af084042e4a1f9050d583",
-      "width": 1800,
-      "height": 1103
     }
   ]
 }

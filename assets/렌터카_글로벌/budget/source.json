@@ -2,10 +2,21 @@
   "company": "Budget",
   "category": "렌터카_글로벌",
   "requested_url": "https://www.budget.com/",
-  "page_url": "https://www.budget.com/en/home",
+  "page_url": "https://www.budget.com/",
   "page_title": "Discount car rental rates and rental car deals | Budget Car Rental",
-  "collection_status": "partial",
-  "collection_error": "logo:HTTPError:https://www.budget.com/budgetWeb/images/newlayout/budgetLogoNew1.png",
+  "collection_status": "complete",
+  "collection_error": "asset:https://www.budget.com/reservationlib/clientlib/images/bus_stop.png:HTTPError; asset:https://www.budget.com/reservationlib/clientlib/images/shuttles.png:HTTPError; asset:https://www.budget.com/content/dam/avis/na/us/common/google-login-button-1x.png:HTTPError; asset:https://www.budget.com/etc/designs/budget/common/clientlib/fonts/Nunito-Sans/NunitoSans-Regular-400.ttf:HTTPError; asset:https://www.budget.com/etc/designs/budget/common/clientlib/fonts/Nunito-Sans/NunitoSans-ExtraBold-800.ttf:HTTPError; asset:https://www.budget.com/etc/designs/budget/common/clientlib/fonts/Nunito-Sans/NunitoSans-SemiBold-600.ttf:HTTPError; asset:https://www.budget.com/etc/designs/budget/common/clientlib/fonts/Nunito-Sans/NunitoSans-Black-900.ttf:HTTPError; asset:https://www.budget.com/etc/designs/budget/common/clientlib/fonts/Teko/Teko-Medium..woff:HTTPError; asset:https://www.budget.com/etc/designs/budget/home/clientlib/images/guided-res.png:HTTPError; asset:https://www.budget.com/etc/designs/budget/landingpagelib/clientlib/images/Contact-Background.png:HTTPError; asset:https://www.budget.com/etc/designs/budget/landingpagelib/images/pointer-tier-bg.png:HTTPError; asset:https://www.budget.com/etc/designs/budget/locationclientlib/images/pointer-tier-bg.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 8,
+    "scripts": 13,
+    "candidates": 548,
+    "attempted_assets": 300,
+    "errors": 32,
+    "collected_at": "2026-09-03T08:27:38.335434+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -17,6 +28,1353 @@
       "sha256": "6e0052272a588528ebc11d0a785f538dfad24b70f3620eac7643da2c3b09075f",
       "width": 57,
       "height": 57
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-001.webp",
+      "source_url": "https://www.budget.com/content/dam/cars/l/2019/chrysler/2019-chrysler-300-limited-sedan-black_featured.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"visible-xs\" ng-if=\"deviceType=== carRentalConstant.deviceTypeMobile\"><span class=\"white\">Chrysler 300 and Similar</span></span>\n</div>\n</div>\n</hrgroup>\n<img class=\"carImage\" src=\"/content/dam/cars/l/2019/chrysler/2019-chrysler-300-limited-sedan-black_featured.png\"/>\n</div>\n</div>\n</section>\n<!--/* Single Line headline title changes */ -->\n<!-- /* Double Line headline title changes ",
+      "content_type": "image/webp",
+      "bytes": 14018,
+      "sha256": "986957a26d459a6228ce84e7c199e69cc8d7776b7bc8b313d1ce7c1e646fbd3a",
+      "source_sha256": "c84867fc588b7275067c6da97fdd43fc8e5ca156fda4f2c77f96b737d9e08f84",
+      "dhash": "4b1b0d4f64564624",
+      "width": 510,
+      "height": 240,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/cars/vehicles/us/h"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-001.webp",
+      "source_url": "https://www.budget.com/etc/designs/budget/common/clientlib/images/mobVmc-bg.jpg",
+      "source_tag": "external-css",
+      "context": "member{font-size:1.1em;line-height:30px;padding:15px 30px 11px;background:#fff}\n.auth-member>p:first-child{font-weight:bold}\n.auth-member>p span{font-weight:bold}\n.auth-reservation{line-height:23px;padding:12px 25px}\n.auth-reservation-slider3{background-image:url(\"../common/clientlib/images/mobVmc-bg.jpg\")}\n.auth-reservation>h1{font-size:1.4em;line-height:23px;margin:7px 0 0}\n.date-time{font-size:",
+      "content_type": "image/webp",
+      "bytes": 30572,
+      "sha256": "f7ff297be2efeb706c057163d6bbbbc2be74d579fea0197226da6f8f88a8a47f",
+      "source_sha256": "82deccbdabf6d76e09bc8b348faac524ae6a76d6a1d88746c1bddd54efb85cf4",
+      "dhash": "070707030c0f0f0f",
+      "width": 767,
+      "height": 371,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp",
+        "https://www.budget.com/en/cars/vehicles/us",
+        "https://www.budget.com/en/home",
+        "https://www.budget.com/en/locations/us/ny/new-york-city",
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-002.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/Confirmation_Promo_bg.png",
+      "source_tag": "external-css",
+      "context": "ner-add{display:inline-block;padding-top:5px}\n.amazon-gc-banner-disclaimer{font-size:1.1rem;position:relative;left:auto}\n}\n@media(min-width:768px){.prime-account-btn .btn{white-space:nowrap;padding:10px 12px;font-size:1em}\n}\n.budgetCreatCmpbg{background-image:url(../../../../content/dam/budget/na/us/common/offers/Confirmation_Promo_bg.png)}\n.prime-account-btn .btn{padding:10px 5px;font-size:.9em;w",
+      "content_type": "image/webp",
+      "bytes": 7150,
+      "sha256": "444d1bba8ae2c0145ff41d6371b2a7b791bb57494fdebe2334a35e4420cb42fc",
+      "source_sha256": "399c92ac1d95460349a3150dbf28de51bacfbb07ab70a03822537faede888812",
+      "dhash": "ea0cf17e0f600600",
+      "width": 2200,
+      "height": 588,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp",
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-002.webp",
+      "source_url": "https://www.budget.com/etc/designs/avis/common/clientlib/images/global_sprite.png",
+      "source_tag": "external-css",
+      "context": "d_img{background-position-x:-25px;background-position-y:-50px}\n.profile-content-wrapper li{font-size:1em}\n.amazon-prime-promo h3.h1-substitute{font-size:1.23em}\n.amazon-tier-img-wrapper img{width:160px}\n}\n.arrow-for-link,.arrow-for-link-white{background-image:url(\"../../avis/common/clientlib/images/global_sprite.png\");background-repeat:no-repeat;display:inline-block;background-size:550px 550px}\n.a",
+      "content_type": "image/webp",
+      "bytes": 49442,
+      "sha256": "4d50eeeb3778fc7b70433d72e90bea166cabd180194c5732891a4e6e19132c22",
+      "source_sha256": "4276ae968156d38aeae426ecbfc9c9427f80f1a9d058fabaef9aff867e1d58dc",
+      "dhash": "dad25292aacad69e",
+      "width": 1100,
+      "height": 1280,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp",
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-003.webp",
+      "source_url": "https://www.budget.com/etc/designs/avis/reservationlib/clientlib/images/image-unavailable.png",
+      "source_tag": "external-css",
+      "context": ".dualPayOption p{text-align:left}\n.singlePayOptions .paybtndtl .paynow p.payamntr{text-align:center}\n.keydrop-bannertxt{position:absolute;top:37px;padding-left:20px}\n.hide-mobile{display:none}\n}\n.mar-top-desk{margin-top:50px}\n.img-unavailable{background-image:url('../../avis/reservationlib/clientlib/images/image-unavailable.png');background-size:cover;background-repeat:no-repeat;background-positio",
+      "content_type": "image/webp",
+      "bytes": 5578,
+      "sha256": "dfb0f35c2dc0778a19767040250723f242ffdbb76abb59166c121dcfc6937ca0",
+      "source_sha256": "39804f6157f895b2434772cf5fcd4c863c70dab3d307a4542136ca0f2fd315cd",
+      "dhash": "122cce0b3347c003",
+      "width": 510,
+      "height": 240,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-004.webp",
+      "source_url": "https://www.budget.com/etc/designs/budget/reservationlib/clientlib/images/keyBanner.png",
+      "source_tag": "external-css",
+      "context": "rgin-top:20px}\n.mob_extra_msg{margin-top:10px}\n.mob-child-hid-chk{margin-top:15px}\n.mob-child-hid-chk .mob-fst-chk{padding-left:0}\n.memNameInp{width:100%}\n.campain_mob_cont{background:#ed5505 !important;padding:50px 0;height:auto}\n.campaign_mob_img{background:url(\"clientlib/images/keyBanner.png\") no-repeat center;width:100%;height:150px}\n.hideForMobile{display:none}\n.padsubChild{padding-left:0}\n.p",
+      "content_type": "image/webp",
+      "bytes": 6760,
+      "sha256": "d6f914433b7de511e420b3f4f98b5fa20b5ca2e1407b4d3e4767e973c453d40d",
+      "source_sha256": "2fc8093e9e91cd69a14ecd9604832429087e236dd33f7357dfda311181b50e87",
+      "dhash": "00000d324943521a",
+      "width": 773,
+      "height": 250,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/budget/logo-001.svg",
+      "source_url": "https://www.budget.com/etc/designs/budget/selfcheckoutlib/clientlib/images/clear/budget-clear-logo.svg",
+      "source_tag": "external-css",
+      "context": ".mob-btn .btn{width:100%;background:#00285f;color:#fff;font-size:15px}\n}\n.clear-promo-main{padding:20px !important}\n.clear-promo-main .logos-section{display:flex;align-items:center}\n.clear-promo-main .logos-section .abg-clear-logo{width:250px;background-image:url(../selfcheckoutlib/clientlib/images/clear/budget-clear-logo.svg);background-position:center;background-size:contain;background-repeat:no",
+      "content_type": "image/svg+xml",
+      "bytes": 12709,
+      "sha256": "9f174ddd28e0534a3d82be9b6b4f702d9d8c4742dc53a0ff92ece85a1a56b101",
+      "source_sha256": "9f174ddd28e0534a3d82be9b6b4f702d9d8c4742dc53a0ff92ece85a1a56b101",
+      "dhash": "",
+      "width": 249,
+      "height": 32,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-003.webp",
+      "source_url": "https://www.budget.com/etc/designs/budget/common/clientlib/images/vmc-bg.jpg",
+      "source_tag": "external-css",
+      "context": "0px 0 0 0}\n.tripit-container .tripit-signin-modal span.close-icon-black{top:20px;right:20px}\n.tripit-banner{height:150px}\n.title-caption{font-size:1em}\n.banner-Content h1{font-size:1.4em}\n.regSegment{margin:40px 15px 120px}\n}\n.VMC-container{background:#f8f8f8 url(\"../common/clientlib/images/vmc-bg.jpg\") no-repeat scroll center center;max-width:100%;background-size:cover;padding:70px 6% 200px 6%}\n.",
+      "content_type": "image/webp",
+      "bytes": 307414,
+      "sha256": "fd55a54071585e0b69c2a3cb94a56e6ae8d17ea451c9e3844f177a4b8d14cf51",
+      "source_sha256": "deda94a32ff66c178ce35f7452312e695a0f700b6fcb6a4fa10bccb340eb2dfd",
+      "dhash": "0707030c1c0f070f",
+      "width": 2200,
+      "height": 1237,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/budget/logo-002.png",
+      "source_url": "https://www.budget.com/etc/designs/budget/reservationlib/clientlib/images/loader-logo.png",
+      "source_tag": "external-css",
+      "context": "t:60px;padding-left:15px;padding-top:16px}\n.TPClientEmbeddedChatIframeContainterDiv{display:none;z-index:50000;position:absolute;background-color:white;top:0;left:0;width:400px;height:475px;overflow-x:hidden;overflow-y:hidden;background:rgba(255,255,255,0.75) url(clientlib/images/loader-logo.png) no-repeat scroll center center;background-size:50px auto}\n.TPClientEmbeddedChatIframeContainterMOBILED",
+      "content_type": "image/png",
+      "bytes": 2970,
+      "sha256": "444ac6bb85428dbe1726012230510089408bc48f6cbeb5e38439c0c1399960d8",
+      "source_sha256": "3c3bf626d89a134a59ff87efddd6670e1b6e5aae55e23a709ecab6411b8d4438",
+      "dhash": "0000000000000000",
+      "width": 160,
+      "height": 50,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-004.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-deals-flashsaler2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg",
+      "source_tag": "html-data",
+      "context": "offers/budget-deals-flashsaler2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.1536.1008.webp\",\"defaultFileMimeType\":\"image/webp\"},{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-flashsaler2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-flashsaler2-2440x1000.jpg/jc",
+      "content_type": "image/webp",
+      "bytes": 27074,
+      "sha256": "45666f2d418121cd7ad940c685488ccd0178dcae35d25272296292f442b39b6c",
+      "source_sha256": "b1b09a2267ddc9cae34ae1d4851520ec35fbd98888e6489b29735e54d688978c",
+      "dhash": "a313614347830a0e",
+      "width": 915,
+      "height": 375,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/home",
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-005.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-bluebackground-600x250.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg",
+      "source_tag": "html-data",
+      "context": " Campaign= Campaign || {};Campaign['B9SSA_content_dam_budget_na_us_common_offers_budget_bluebackground_600x250_jpg']={\"Renditions\":[{\"width\":768,\"height\":504,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-bluebackground-600x250.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-bluebackground-600x250.jpg/jcr:content/",
+      "content_type": "image/webp",
+      "bytes": 358,
+      "sha256": "2115e0fccc4e60e6d90a1e674a490f873a812d4e6351b40809d0d012633a336e",
+      "source_sha256": "e0480547af059aa0caf4e53476e11e3203fcb6faaf741074c6e6cdac64257b66",
+      "dhash": "0000000000000000",
+      "width": 600,
+      "height": 250,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/cars/vehicles/us/h",
+        "https://www.budget.com/en/customer-care/faqs/global/requirements-for-renting"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-005.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/locations/FeaturedImage@2x.png",
+      "source_tag": "html-data, inline-css",
+      "context": "ation==carRentalConstant.resFlowModify || (vm.getPageURL === carRentalConstant.step1aErrorPageName || vm.getURLMtd())), 'adjust-image-height' : true}\" style=\"background-image: url('/content/dam/budget/na/us/common/locations/FeaturedImage@2x.png')\">\n<div class=\"res-heroBanner\" ng-class=\"{'mcp-avis-hero-banner':vm.isAvisAPACDesktop,'mcp-budget-hero-banner':vm.isBud",
+      "content_type": "image/webp",
+      "bytes": 13642,
+      "sha256": "c9009a0b7c5511a1cb7bf0794cd20079c8ab4aaa45cd0ee1f0d7a65f7ed43b3f",
+      "source_sha256": "72d6e22d46debae383210b7a7bf87af05d68f5060cc950f54e69e0535356eb28",
+      "dhash": "0000000000000000",
+      "width": 2200,
+      "height": 1574,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/fl/orlando",
+        "https://www.budget.com/en/locations/us/ny/new-york-city"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-006.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-hp-summersavings-2440x1000-opt.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg",
+      "source_tag": "html-data",
+      "context": "n= Campaign || {};Campaign['FQOFB_content_dam_budget_na_us_common_offers_budget_hp_summersavings_2440x1000_opt_jpg']={\"Renditions\":[{\"width\":768,\"height\":504,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-summersavings-2440x1000-opt.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-summersavings-2440x1000-opt.",
+      "content_type": "image/webp",
+      "bytes": 93068,
+      "sha256": "6eee0cf83d368062d2dac7a729f5355f1104da99b5f6d47aee423ae89e4cc636",
+      "source_sha256": "ca9dbfb4268718d21d3ee81ff64c3e2d62f1effc9e685794a44bbfcd89b5ba05",
+      "dhash": "b4d8cdc414298994",
+      "width": 1230,
+      "height": 504,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-007.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg",
+      "source_tag": "html-data",
+      "context": " Campaign || {};Campaign['1SJUH_content_dam_budget_na_us_common_offers_budget_amazon_unauthenticated_desktop26_jpg']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-deskto",
+      "content_type": "image/webp",
+      "bytes": 19164,
+      "sha256": "01a8a55c046faaa90b59d8a3f66ad06fbfa9ccf2b812b7377a206a652257c755",
+      "source_sha256": "fd09500f09ae6535fde6101fc6f4b6a611790121473ad07c56aeb994342aabea",
+      "dhash": "0f0f0f161101080c",
+      "width": 1068,
+      "height": 700,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-008.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-hp-digcheckinr2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg",
+      "source_tag": "html-data",
+      "context": "mpaign= Campaign || {};Campaign['EBVBS_content_dam_budget_na_us_common_offers_budget_hp_digcheckinr2_2440x1000_jpg']={\"Renditions\":[{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-digcheckinr2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-digcheckinr2-2440x1000.jpg/jcr:co",
+      "content_type": "image/webp",
+      "bytes": 5518,
+      "sha256": "af98243d2ba50ead767477460d75a391d7885b41765c2eaefa675506035ddf48",
+      "source_sha256": "20e5dfae748d5d186c4e5917e838707c099d0de029cbd267e8e0c91daf063816",
+      "dhash": "1f0f0f0f0f0f0703",
+      "width": 915,
+      "height": 375,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-009.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-hp-weekly-travel-2400x1000r2.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg",
+      "source_tag": "html-data",
+      "context": "ign= Campaign || {};Campaign['QTI9K_content_dam_budget_na_us_common_offers_budget_hp_weekly_travel_2400x1000r2_jpg']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-weekly-travel-2400x1000r2.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-weekly-travel-2400x1000r2.jpg/",
+      "content_type": "image/webp",
+      "bytes": 89854,
+      "sha256": "0c8571023b2043d808d897cf0882394a52eee6f5d255b17594a4127f13fffe71",
+      "source_sha256": "c60a484649248f2184ba8c18a5a66bbe430973292a6104cf2e7296552b457bbf",
+      "dhash": "0000404040404080",
+      "width": 1680,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-010.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-aarp-hp-offer-2440x1000_opt.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg",
+      "source_tag": "html-data",
+      "context": "aign= Campaign || {};Campaign['TV9O7_content_dam_budget_na_us_common_offers_budget_aarp_hp_offer_2440x1000_opt_jpg']={\"Renditions\":[{\"width\":768,\"height\":504,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-aarp-hp-offer-2440x1000_opt.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-aarp-hp-offer-2440x1000_opt.jpg/jc",
+      "content_type": "image/webp",
+      "bytes": 59578,
+      "sha256": "52250f931f18ddc2dbd6c1a04a188cef96c01e915329c21f4727fc9704fcaf32",
+      "source_sha256": "fc0f697c955d61aada15b7147f70904810eb38ca7802ddaddd3a9300fed0e363",
+      "dhash": "0d0c0c2ca4342c26",
+      "width": 1210,
+      "height": 504,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-011.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-deals-freeupgrade24-2440x1000-gradient.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg",
+      "source_tag": "html-data",
+      "context": "ign || {};Campaign['685CD_content_dam_budget_na_us_common_offers_budget_deals_freeupgrade24_2440x1000_gradient_jpg']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-freeupgrade24-2440x1000-gradient.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-freeupgrade24-244",
+      "content_type": "image/webp",
+      "bytes": 58750,
+      "sha256": "589cb1e6992944c1e49c8ee4b88abc1d533a8b692100a4714f85dbae1dcd48c6",
+      "source_sha256": "afc7a45ee7f86115b8af4eb29ed8c4b0cdbaa17a69b0c2f09494a906c6bb8356",
+      "dhash": "0000000400302030",
+      "width": 1708,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-012.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-deals-ustocanada-2440x1000.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg",
+      "source_tag": "html-data",
+      "context": "paign= Campaign || {};Campaign['RA1VE_content_dam_budget_na_us_common_offers_budget_deals_ustocanada_2440x1000_jpg']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-ustocanada-2440x1000.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-ustocanada-2440x1000.jpg/jcr:",
+      "content_type": "image/webp",
+      "bytes": 158438,
+      "sha256": "d817bbc95302c8831fdadb8025cdb348299debd58e50b8ef035b86f72d3466d1",
+      "source_sha256": "0f10e22f8710f0742d1c45183c6231164bdcb04d720898e7c1c6106e69d4ee98",
+      "dhash": "0101011ace9c189b",
+      "width": 1708,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-013.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/page-title/car-with-stripes_h500.png/jcr:content/renditions/cq5dam.web.1536.400.png",
+      "source_tag": "html-data",
+      "context": "var Campaign= Campaign || {};Campaign['CRMNW_content_dam_budget_na_us_common_page_title_car_with_stripes_h500_png']={\"Renditions\":[{\"width\":1536,\"height\":400,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/page-title/car-with-stripes_h500.png/jcr:content/renditions/cq5dam.web.1536.400.png\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/png\"},{\"width\":375,\"height\":150,\"dpr\":1,\"defaultFile\":\"/co",
+      "content_type": "image/webp",
+      "bytes": 24982,
+      "sha256": "c00925b52a5f03138423556367b9e1edaf65a8c7a5cc9ff786b788ec64faa0f4",
+      "source_sha256": "121699616840c1431e8b62b54e3badd525771c15dab1e634c1c34cec04acc5b0",
+      "dhash": "5a5a5b1758585858",
+      "width": 1952,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/cars/vehicles/us"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-014.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/page-title/sweeter-ride-banner.jpg/jcr:content/renditions/cq5dam.web.1536.400.jpg",
+      "source_tag": "html-data",
+      "context": "t>var Campaign= Campaign || {};Campaign['E95SL_content_dam_budget_na_us_common_page_title_sweeter_ride_banner_jpg']={\"Renditions\":[{\"width\":1536,\"height\":400,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/page-title/sweeter-ride-banner.jpg/jcr:content/renditions/cq5dam.web.1536.400.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":375,\"height\":150,\"dpr\":1,\"defaultFile\":\"/con",
+      "content_type": "image/webp",
+      "bytes": 49072,
+      "sha256": "b08b3dcab0008726f3a03bf8ac26e18380fbc3fe175f1f1c7b48fa3250630a9c",
+      "source_sha256": "d0970a8f027b506bf03c07c01a6e43a1cf26b739f203457df94ae79d0f6b62c9",
+      "dhash": "170f57154e1a1e04",
+      "width": 972,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/cars/sweeter-rides"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-015.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/page-title/sweeter-ride-banner.jpg/jcr:content/renditions/cq5dam.web.2440.500.jpg",
+      "source_tag": "html-data",
+      "context": "age-title/sweeter-ride-banner.jpg/jcr:content/renditions/cq5dam.web.768.200.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":2440,\"height\":500,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/page-title/sweeter-ride-banner.jpg/jcr:content/renditions/cq5dam.web.2440.500.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":1220,\"height\":250,\"dpr\":1,\"defaultFile\":\"/co",
+      "content_type": "image/webp",
+      "bytes": 69046,
+      "sha256": "21bc0b029a679e636157d136fef9edf38e74dc6f8d35c6328ebb38e1f2605d48",
+      "source_sha256": "8df464903a31a33c31a4e0633b5d5a8d0fd8d9167a487f3b31e86e306596c0fa",
+      "dhash": "178f57154e1a1e84",
+      "width": 1215,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/cars/sweeter-rides"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-016.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-location-boston-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg",
+      "source_tag": "html-data",
+      "context": "mpaign= Campaign || {};Campaign['19SRH_content_dam_budget_na_us_common_offers_budget_location_boston_2440x1000_jpg']={\"Renditions\":[{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-location-boston-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFil",
+      "content_type": "image/webp",
+      "bytes": 65272,
+      "sha256": "94033f46955b5e2a635f9c146d3fbbed8863733bba5796bf10f31a1b90ba27d7",
+      "source_sha256": "cd013ee3b9ca5acceb8b01e2a9964613e04c492fcdbe731aacd0149d1e2c4901",
+      "dhash": "3418189494c2243c",
+      "width": 915,
+      "height": 375,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-017.webp",
+      "source_url": "https://www.budget.com/content/dam/avis/na/us/common/offers/avis-locations-denver-v2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg",
+      "source_tag": "html-data",
+      "context": "mpaign= Campaign || {};Campaign['NI5NA_content_dam_avis_na_us_common_offers_avis_locations_denver_v2_2440x1000_jpg']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/avis/na/us/common/offers/avis-locations-denver-v2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"/content/dam/avis/na/us/common/offers/avis-locations-denver-v2-2440x1000.jpg/jcr:co",
+      "content_type": "image/webp",
+      "bytes": 127314,
+      "sha256": "6fca3028ef038dabc17524265fed6f7a29a49f191a92b1761d464692bd38e561",
+      "source_sha256": "60f041c6bf67b05db046d9968d08f544ef2ca9b35f177e38dca4eeed7128ad68",
+      "dhash": "40808040c9eaaa11",
+      "width": 1708,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-018.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-location-detroit-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg",
+      "source_tag": "html-data",
+      "context": "paign= Campaign || {};Campaign['9XXP6_content_dam_budget_na_us_common_offers_budget_location_detroit_2440x1000_jpg']={\"Renditions\":[{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-location-detroit-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFi",
+      "content_type": "image/webp",
+      "bytes": 52290,
+      "sha256": "f27f69899993ef9b0a91cfc94362572fa478bf1a5459b8e4cace3ef5b26437be",
+      "source_sha256": "5abff60cc826b8283adad28f9f0ca127f85d919fa5592d0df614315c76717f30",
+      "dhash": "a66978d6d9d176ed",
+      "width": 915,
+      "height": 375,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-019.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-locations-orlando-v2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg",
+      "source_tag": "html-data",
+      "context": "n= Campaign || {};Campaign['FX2RC_content_dam_budget_na_us_common_offers_budget_locations_orlando_v2_2440x1000_jpg']={\"Renditions\":[{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-locations-orlando-v2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-locations-orlando-v2-2440x1000.",
+      "content_type": "image/webp",
+      "bytes": 44220,
+      "sha256": "15b1a770273f3ba4f02a22ed3213b747bd70124f42289203841c840d8b0ea99e",
+      "source_sha256": "9111fcd604f8f13ccaef0833d3d152a64c3c72df0bab4f69fb119e34e8b8feab",
+      "dhash": "3f3f2f0f160e2b06",
+      "width": 915,
+      "height": 375,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-020.webp",
+      "source_url": "https://www.budget.com/content/dam/avis/na/us/common/offers/avis-locations-los-angeles-2440x1000.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg",
+      "source_tag": "html-data",
+      "context": "aign= Campaign || {};Campaign['M4QXA_content_dam_avis_na_us_common_offers_avis_locations_los_angeles_2440x1000_jpg']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/avis/na/us/common/offers/avis-locations-los-angeles-2440x1000.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"/content/dam/avis/na/us/common/offers/avis-locations-los-angeles-2440x1000.jpg/jc",
+      "content_type": "image/webp",
+      "bytes": 193768,
+      "sha256": "bdb41c9fec8107d9b6da26bb00391f69a2a1f946d24442f67b0aeaac6ae0b0d2",
+      "source_sha256": "fa9b2f0ce811af2ca5308fe81d5ca53e72c8da257f7d7d3ec4957e97cb2bc22d",
+      "dhash": "7bdbb77f1616b38b",
+      "width": 1708,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-006.webp",
+      "source_url": "https://www.budget.com/content/dam/avis/na/us/common/locations/phoenix.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg",
+      "source_tag": "html-data",
+      "context": "ign-img\">\n<script>var Campaign= Campaign || {};Campaign['I130T_content_dam_avis_na_us_common_locations_phoenix_jpg']={\"Renditions\":[{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/avis/na/us/common/locations/phoenix.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/avis/na",
+      "content_type": "image/webp",
+      "bytes": 16276,
+      "sha256": "5d3e05a4869bb80ef433ce949f056eb861b6b7187de82b925f5a948541ded01b",
+      "source_sha256": "3258df3a673d0e213c2355ba03d572daaa91842f1693dd10cb3f967c3e8b8680",
+      "dhash": "6001011151444d1a",
+      "width": 375,
+      "height": 375,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-021.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-weekly-travel-2400x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg",
+      "source_tag": "html-data",
+      "context": "Campaign= Campaign || {};Campaign['PPJLQ_content_dam_budget_na_us_common_offers_budget_weekly_travel_2400x1000_jpg']={\"Renditions\":[{\"width\":768,\"height\":504,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-weekly-travel-2400x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-weekly-travel-2400x1000.jpg/jcr:conten",
+      "content_type": "image/webp",
+      "bytes": 95838,
+      "sha256": "3957e587ff90659863c348ceda223f3a22bbe5747b31e40d400948f8c972a01b",
+      "source_sha256": "ae15d6def2e5518e6f9cf7e3d5125260c41c9a5b1f5e863ab597b383d84c33c1",
+      "dhash": "3f3f29fd2d0d4d04",
+      "width": 1210,
+      "height": 504,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/offers/us-offers/weekly-car-rental-deal?ICID=bg-all-240614-hp-s4-weekly"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-022.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-blue-background-2440x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg",
+      "source_tag": "html-data",
+      "context": "mpaign= Campaign || {};Campaign['AGHGA_content_dam_budget_na_us_common_offers_budget_blue_background_2440x1000_jpg']={\"Renditions\":[{\"width\":768,\"height\":504,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-blue-background-2440x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-blue-background-2440x1000.jpg/jcr:co",
+      "content_type": "image/webp",
+      "bytes": 1202,
+      "sha256": "f4c86ddc245f2dfdcd1e9db2506bd60f9b7b4cc8a23ce586e9fb97e9cf615dc0",
+      "source_sha256": "344e205ad4a9e972df746a2183cca7b4d9e2a78002e26ec38e4b00faa37e7cc1",
+      "dhash": "0000000000000000",
+      "width": 1230,
+      "height": 504,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/products-services/services/long-term-car-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-023.webp",
+      "source_url": "https://www.budget.com/content/dam/cars/xl/2023/tesla/2023-tesla-model-3-sedan-blue_featured.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "source_tag": "html-data",
+      "context": "mpaign= Campaign || {};Campaign['KCCU0_content_dam_cars_xl_2023_tesla_2023_tesla_model_3_sedan_blue_featured_png']={\"Renditions\":[{\"width\":1280,\"height\":1280,\"dpr\":2,\"defaultFile\":\"/content/dam/cars/xl/2023/tesla/2023-tesla-model-3-sedan-blue_featured.png/jcr:content/renditions/cq5dam.web.1280.1280.png\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/png\"}],\"MobileRenditions\":[]};</script>\n<div class=\"",
+      "content_type": "image/webp",
+      "bytes": 17958,
+      "sha256": "d97b25084a3e828a1c7cb6f6775aa96c0bc89544c8e8335d6114add8ba1cd972",
+      "source_sha256": "39011f9832b711c4bd322e8295545667202d5dab50a23f4c9193325c8653cbf7",
+      "dhash": "208b19385d2c0c10",
+      "width": 660,
+      "height": 440,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/products-services/services/long-term-car-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-024.webp",
+      "source_url": "https://www.budget.com/content/dam/cars/xl/2023/ford/2023-ford-mustang-ecoboost-premium-convertible-white_featured.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "source_tag": "html-data",
+      "context": ";Campaign['VJG9M_content_dam_cars_xl_2023_ford_2023_ford_mustang_ecoboost_premium_convertible_white_featured_png']={\"Renditions\":[{\"width\":1280,\"height\":1280,\"dpr\":2,\"defaultFile\":\"/content/dam/cars/xl/2023/ford/2023-ford-mustang-ecoboost-premium-convertible-white_featured.png/jcr:content/renditions/cq5dam.web.1280.1280.png\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/png\"}],\"MobileRenditions\":[]};",
+      "content_type": "image/webp",
+      "bytes": 16684,
+      "sha256": "14588eb05228c64569affacf0a1d63f1dc88868cdf97973b796aa5427a91c36a",
+      "source_sha256": "4965424ea5365c44efb613e287a227c47521dc5d58640f362ac358fa30208b76",
+      "dhash": "21060f111b0b0013",
+      "width": 660,
+      "height": 440,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/products-services/services/long-term-car-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-025.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/icons-rental/budget-chicago-road-trip-thumbnail-900x600@2x.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "source_tag": "html-data",
+      "context": "};Campaign['NAR9L_content_dam_budget_na_us_common_icons_rental_budget_chicago_road_trip_thumbnail_900x600_2x_png']={\"Renditions\":[{\"width\":1280,\"height\":1280,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/icons-rental/budget-chicago-road-trip-thumbnail-900x600@2x.png/jcr:content/renditions/cq5dam.web.1280.1280.png\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/png\"}],\"MobileRenditions\":[]};<",
+      "content_type": "image/webp",
+      "bytes": 27638,
+      "sha256": "d769cd89cf496f039904a7324a8bfc3d5812d6d49b8238cc6c6cb7aefe2b5fd1",
+      "source_sha256": "9fded609e145aff321d65978055e08d1e129286ccf59b22f09ddb8e39f941eac",
+      "dhash": "ff7f7f7f3d4e6f6e",
+      "width": 480,
+      "height": 480,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/products-services/services/long-term-car-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-026.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/page-title/Budget-FAQ-Hero.png/jcr:content/renditions/cq5dam.web.1536.400.png",
+      "source_tag": "html-data",
+      "context": "cript>var Campaign= Campaign || {};Campaign['HK052_content_dam_budget_na_us_common_page_title_Budget_FAQ_Hero_png']={\"Renditions\":[{\"width\":1536,\"height\":400,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/page-title/Budget-FAQ-Hero.png/jcr:content/renditions/cq5dam.web.1536.400.png\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/png\"},{\"width\":375,\"height\":150,\"dpr\":1,\"defaultFile\":\"/content/",
+      "content_type": "image/webp",
+      "bytes": 65946,
+      "sha256": "6e9cd98d460016fb377e4655a8297f9c4666eab79e6aa949b868c62f2678d141",
+      "source_sha256": "b42b3a1e7b246e3001a17f1780a6f9218cbb22ae83c5b627b17adab62b4c0771",
+      "dhash": "0501030307074f2d",
+      "width": 2200,
+      "height": 382,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/customer-care/faqs/global/requirements-for-renting"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-027.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-location-new-york-city-2440x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg",
+      "source_tag": "html-data",
+      "context": " Campaign || {};Campaign['ALDWV_content_dam_budget_na_us_common_offers_budget_location_new_york_city_2440x1000_jpg']={\"Renditions\":[{\"width\":768,\"height\":504,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-location-new-york-city-2440x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":1536,\"height\":1008,\"dpr\":2,\"d",
+      "content_type": "image/webp",
+      "bytes": 106704,
+      "sha256": "18bbceefc4c9dc2ac049cbd106e56a8e75b898d5f593b281b4482e38cbc6a5d8",
+      "source_sha256": "a555645f8ed924f56c33a1d8004626b52d94726004ebb7e7b676bedb7ec31eb8",
+      "dhash": "0141c32f9582242c",
+      "width": 1229,
+      "height": 504,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/ny/new-york-city"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-028.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/locations/budget-location-luxury-bmw-5-series-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg",
+      "source_tag": "html-data",
+      "context": " || {};Campaign['EXVV8_content_dam_budget_na_us_common_locations_budget_location_luxury_bmw_5_series_2440x1000_jpg']={\"Renditions\":[{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/locations/budget-location-luxury-bmw-5-series-2440x1000.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":750,\"height\":750,\"dp",
+      "content_type": "image/webp",
+      "bytes": 27638,
+      "sha256": "2a2f55afcf7de3c8ec1ab43acb5155bd6fc17df6f43c1508b059db834ba39377",
+      "source_sha256": "68aefcf1913be778ac370158eb74a0b8f450fd03b44aee631d5aba8e3b8925b7",
+      "dhash": "df4f075918987cf4",
+      "width": 915,
+      "height": 375,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/ny/new-york-city"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-029.webp",
+      "source_url": "https://www.budget.com/content/dam/avis/na/us/common/offers/new-york-city-new-york-central-park-location-2440x1000.png/jcr:content/renditions/cq5dam.web.900.700.png",
+      "source_tag": "html-data",
+      "context": "{};Campaign['TFHTL_content_dam_avis_na_us_common_offers_new_york_city_new_york_central_park_location_2440x1000_png']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/avis/na/us/common/offers/new-york-city-new-york-central-park-location-2440x1000.png/jcr:content/renditions/cq5dam.web.900.700.png\",\"webpFile\":\"/content/dam/avis/na/us/common/offers/new-york-city-new-york-ce",
+      "content_type": "image/webp",
+      "bytes": 273742,
+      "sha256": "645352a9e92218742154f4991e3b54917776cf1c67c910973b7298ab2f4e396f",
+      "source_sha256": "5b877936e83f9c10c5904478fb227eb0bda712698aa2663c913ca7dffdb46388",
+      "dhash": "1f1f0f19199a9c39",
+      "width": 1708,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/ny/new-york-city"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-030.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/new-york-city-2440x1000.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg",
+      "source_tag": "html-data",
+      "context": "pt>var Campaign= Campaign || {};Campaign['6STMG_content_dam_budget_na_us_common_offers_new_york_city_2440x1000_jpg']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/new-york-city-2440x1000.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/cont",
+      "content_type": "image/webp",
+      "bytes": 101592,
+      "sha256": "2f53a83b65f78b9683bd8ff43156ed5996f278afae2b2a22e71c8ca3db856760",
+      "source_sha256": "fade333cebe1d13c6212e8743543de3bb9208453f88c1d0f947b4ad10d5b4437",
+      "dhash": "339296486ca7b6ae",
+      "width": 1708,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/ny/new-york-city"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-031.webp",
+      "source_url": "https://www.budget.com/content/dam/avis/na/us/common/offers/location-new-york-city-broadway-new-york-2440x1000.png/jcr:content/renditions/cq5dam.web.900.700.png",
+      "source_tag": "html-data",
+      "context": " || {};Campaign['0BZ1B_content_dam_avis_na_us_common_offers_location_new_york_city_broadway_new_york_2440x1000_png']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/avis/na/us/common/offers/location-new-york-city-broadway-new-york-2440x1000.png/jcr:content/renditions/cq5dam.web.900.700.png\",\"webpFile\":\"/content/dam/avis/na/us/common/offers/location-new-york-city-broadw",
+      "content_type": "image/webp",
+      "bytes": 159740,
+      "sha256": "e73b86eca87c539cab5e457b282f958c08876dad4f66398cd028fe9baf11ac3a",
+      "source_sha256": "03aaf07877d4ce4ea46e77fcc19d69e48201e7290caa43d9003f960d142df7c4",
+      "dhash": "1313779797b39707",
+      "width": 1708,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/ny/new-york-city"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-032.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/locations/budget-locations-city-orlando-2440x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg",
+      "source_tag": "html-data",
+      "context": "mpaign || {};Campaign['7973N_content_dam_budget_na_us_common_locations_budget_locations_city_orlando_2440x1000_jpg']={\"Renditions\":[{\"width\":768,\"height\":504,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/locations/budget-locations-city-orlando-2440x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":1536,\"height\":1008,\"dpr\":2",
+      "content_type": "image/webp",
+      "bytes": 127298,
+      "sha256": "5ee7944992a296abeb89a7bc534321be0e19e7defaac8bfd5e5ba173c5fac7bb",
+      "source_sha256": "3bbaacca420966e0691e823caf32149ee579e7d2379d382fd76bcd3fd8a446e0",
+      "dhash": "0f0f0f0b0194923c",
+      "width": 1229,
+      "height": 504,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/fl/orlando"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-033.webp",
+      "source_url": "https://www.budget.com/content/dam/avis/na/us/common/offers/location-orlando-florida-2440x500.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg",
+      "source_tag": "html-data",
+      "context": "ampaign= Campaign || {};Campaign['UB518_content_dam_avis_na_us_common_offers_location_orlando_florida_2440x500_jpg']={\"Renditions\":[{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/avis/na/us/common/offers/location-orlando-florida-2440x500.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"/content/dam/avis/na/us/common/offers/location-orlando-florida-2440x500.jpg/jcr:cont",
+      "content_type": "image/webp",
+      "bytes": 124374,
+      "sha256": "7ed2668b37e5342f37a03ca0346ceb7cda14ccf3598f29c4918a1f0ad23862f0",
+      "source_sha256": "b84c45a3465cb7b51fcdcea129c76974b881afe6cad03eb1aa1c193732eafb2a",
+      "dhash": "0f26169e0a021b3a",
+      "width": 1830,
+      "height": 375,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/fl/orlando"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-007.webp",
+      "source_url": "https://www.budget.com/content/dam/avis/na/us/common/offers/budget-location-minivan-rental-chrysler-pacifica-750x750.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg",
+      "source_tag": "html-data",
+      "context": ";Campaign['S2BEP_content_dam_avis_na_us_common_offers_budget_location_minivan_rental_chrysler_pacifica_750x750_jpg']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/avis/na/us/common/offers/budget-location-minivan-rental-chrysler-pacifica-750x750.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"/content/dam/avis/na/us/common/offers/budget-location-minivan",
+      "content_type": "image/webp",
+      "bytes": 52464,
+      "sha256": "2532560e68c1e9735f5332695ad5c06175a4cce67b24dae9f2b4789a187bb332",
+      "source_sha256": "0d1e0ab7d9550225a66e7a005114526e16ed8244abeb883128f9ef133d4b89aa",
+      "dhash": "3f4727b874eafac6",
+      "width": 700,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/fl/orlando"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/budget/banner-034.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/dl-veterans-advantage-2440x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg",
+      "source_tag": "html-data",
+      "context": "ampaign= Campaign || {};Campaign['41ZO2_content_dam_budget_na_us_common_offers_dl_veterans_advantage_2440x1000_jpg']={\"Renditions\":[{\"width\":768,\"height\":504,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/dl-veterans-advantage-2440x1000.jpg/jcr:content/renditions/cq5dam.web.768.504.jpg\",\"webpFile\":\"\",\"defaultFileMimeType\":\"image/jpeg\"},{\"width\":1536,\"height\":1008,\"dpr\":2,\"defaultFi",
+      "content_type": "image/webp",
+      "bytes": 33556,
+      "sha256": "7b2444de56141ee29facb839e60de7b5308fdae289781225325ccf5c75704c90",
+      "source_sha256": "42e6b0e635db837bcf61fae6d0943fd00e36f4d55f6d699db45718623dfbd116",
+      "dhash": "000002060403030d",
+      "width": 1229,
+      "height": 504,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/offers/partner-offers/25-off-car-rentals-for-military-veterans"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-008.webp",
+      "source_url": "https://www.budget.com/content/dam/cars/xl/2020/ford/2020-ford-edge-st-4wd-suv-silver_featured.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ge-SS-r slid-container text-center skrollable skrollable-after load-animate\" load-animate=\"\">\n<div class=\"img-container hidden-xs\">\n<div class=\"override-img\">\n<img alt=\"image\" src=\"/content/dam/cars/xl/2020/ford/2020-ford-edge-st-4wd-suv-silver_featured.png\"/>\n</div>\n<p class=\"md-car-name hidden-xs\">Ford Edge Rental or Similar Standard SUV Rentals </p>\n</div>\n<div class=\"img-",
+      "content_type": "image/webp",
+      "bytes": 23672,
+      "sha256": "c163fc1cd078b45dbdc5ea146d01f3865949f40bea7738dac6b7865d0fe04505",
+      "source_sha256": "dffb3863d6dfacdff05724e7ebbf3d69bdc23737ea58a8f33f33eef7ec2ffe8f",
+      "dhash": "42131d099b1b4c13",
+      "width": 660,
+      "height": 440,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/cars/sweeter-rides"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-009.webp",
+      "source_url": "https://www.budget.com/content/dam/cars/xl/2021/ford/2021-ford-expedition-xlt-suv-silver_featured.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "SS-l slid-container text-center skrollable skrollable-after load-animate load-animate\" load-animate=\"\">\n<div class=\"img-container\">\n<div class=\"override-img\">\n<img alt=\"image\" src=\"/content/dam/cars/xl/2021/ford/2021-ford-expedition-xlt-suv-silver_featured.png\"/>\n</div>\n<p class=\"hidden-xs\">Chevy Suburban SUV Rental or Similar Premium SUV Rental</p>\n</div>\n<div class=\"blue text-",
+      "content_type": "image/webp",
+      "bytes": 26078,
+      "sha256": "79e0a1c344892331d3f0626e2f7dd6f3fbdfb0aa21e684874bd8d5cf3f9af593",
+      "source_sha256": "f157771f9a248f913f6460e3ed2b3408154744ac0122193427cf47c3f623f003",
+      "dhash": "42131d4193af4c92",
+      "width": 660,
+      "height": 440,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/cars/sweeter-rides"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-010.webp",
+      "source_url": "https://www.budget.com/content/dam/cars/xl/2020/ford/2020-ford-mustang-fastback-ecoboost-coupe-blue_featured.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ite-bg large-SS-l slid-container text-center skrollable skrollable-after load-animate\" load-animate=\"\">\n<div class=\"img-container\">\n<div class=\"override-img\">\n<img alt=\"image\" src=\"/content/dam/cars/xl/2020/ford/2020-ford-mustang-fastback-ecoboost-coupe-blue_featured.png\"/>\n</div>\n<p class=\"hidden-xs\">Midsize Electric Car</p>\n</div>\n<div class=\"blue text-left TC-sec\">\n<h2 class=\"blue hidde",
+      "content_type": "image/webp",
+      "bytes": 22062,
+      "sha256": "8a96d143e58818ef4de2a3fb08e1469eea1d07e56da59f39606f4ec6bdb997a6",
+      "source_sha256": "2bc0c9a94bf6c2952d90d692e5915708f237d311b8128c63153391a96ea527b2",
+      "dhash": "200b0b095b060410",
+      "width": 660,
+      "height": 440,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/cars/sweeter-rides"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-011.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/26_Di_060826_BU_website_summer_sale_text_desktop_1626x358_1.png",
+      "source_tag": "html-data, img:image",
+      "context": "ing invisible to push the reswidget -->\n<div class=\"h1-title orange-dark\" ng-class=\"{'white' : false}\" ng-if=\"!vm.isModal()\">\n<span class=\"hidden-xs\">\n<img alt=\"\" height=\"50%\" src=\"/content/dam/budget/na/us/common/offers/26_Di_060826_BU_website_summer_sale_text_desktop_1626x358_1.png\" width=\"50%\"/> \n              </span>\n<span class=\"visible-xs-inline-block\">\n                 \n            </span>\n",
+      "content_type": "image/webp",
+      "bytes": 27890,
+      "sha256": "adbef8381ee632e5d9c6f5ebc586e9087455bbc5e5cf71495d0b1d3856e20942",
+      "source_sha256": "ccaae843b09d41fcb9aba6f09c26ff11952101d02b0295d306ad9a2779a3832f",
+      "dhash": "a2b282a068686868",
+      "width": 1626,
+      "height": 358,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-012.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-app-landingpage-spendlessr2.png",
+      "source_tag": "html-data, img:image",
+      "context": "ccess to promotions? Check. Start your trip off right when you rent using the Budget app.</p>\n</div>\n</div>\n<div class=\"col-sm-5 similarCarImg similarCarImg-large-right\">\n<img src=\"/content/dam/budget/na/us/common/offers/budget-app-landingpage-spendlessr2.png\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"visible-xs\">\n<div class=\"similarCarContainer\">\n<div class=\"similarCarB",
+      "content_type": "image/webp",
+      "bytes": 44104,
+      "sha256": "e94039b0acf6d5f0fb82c7a51fcb0f961e8b236cb2762423c282cecd2d62a289",
+      "source_sha256": "ebb2247c3edf9ce84c31efeb85245a9dbd6e4277cda345e8229dfe046ed19099",
+      "dhash": "001e1e8f8f971f00",
+      "width": 1480,
+      "height": 1067,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-013.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-app-landingpage-savetimer2.png",
+      "source_tag": "html-data, img:image",
+      "context": "-xs\">\n<div class=\"similarCarContainer-large\">\n<div class=\"bg-white similarCarBlock-large\">\n<div class=\"row\">\n<div class=\"col-sm-5 similarCarImg similarCarImg-large-left\">\n<img src=\"/content/dam/budget/na/us/common/offers/budget-app-landingpage-savetimer2.png\"/>\n</div>\n<div class=\"col-sm-7\">\n<div class=\"similarCarHeading\">\n<p>Save time. Period.</p>\n</div>\n<div></div>\n<div class",
+      "content_type": "image/webp",
+      "bytes": 73360,
+      "sha256": "cf601c6d6c47efa02a87aa015761f6fd8ee2dd7628a9a615530abf3a5b6de713",
+      "source_sha256": "52034a905b1aff4d48858f232f38065707726fc0e1a256a4b5c59315193f14a7",
+      "dhash": "01078e9e1e3e9e00",
+      "width": 1483,
+      "height": 1067,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-014.webp",
+      "source_url": "https://www.budget.com/content/dam/cars/l/2019/buick/2019-buick-lacrosse-essence-sedan-black.png",
+      "source_tag": "html-data, img:image",
+      "context": "nd an easy-to-use infotainment system. You’ll love the luxurious and spacious cabin, too.</p>\n</div>\n</div>\n<div class=\"col-sm-5 similarCarImg similarCarImg-large-right\">\n<img src=\"/content/dam/cars/l/2019/buick/2019-buick-lacrosse-essence-sedan-black.png\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"visible-xs\">\n<div class=\"similarCarContainer\">\n<div class=\"similarCarB",
+      "content_type": "image/webp",
+      "bytes": 10222,
+      "sha256": "4fc8e2221d7ab389f06058fe256df204c69d560e83b4df120b44813ca3ab3809",
+      "source_sha256": "33ec584e66e5c90592067e42f5d337238b4bd15bd8de0b1a9e11b19706a5d92e",
+      "dhash": "20870f955d6b6108",
+      "width": 510,
+      "height": 240,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/cars/vehicles/us/h"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-015.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-app-landingpage-header-r3.jpg",
+      "source_tag": "inline-css",
+      "context": "div  heroBan background-image: url(/content/dam/budget/na/us/common/offers/budget-app-landingpage-header-r3.jpg)",
+      "content_type": "image/webp",
+      "bytes": 19160,
+      "sha256": "6104072895d881b79e6ee99509c4c5b9c29a3c6a687ca6c38844a0d813ed1413",
+      "source_sha256": "b2e83e7bba3cb181c75c1c6e107b3fa4fcf41574e4ad1283b73e1f8f95bae8f1",
+      "dhash": "000c000c2c131212",
+      "width": 2200,
+      "height": 910,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-016.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/forms/shutterstock_1882428598_edited.jpg",
+      "source_tag": "html-data, inline-css",
+      "context": "ageProperty to show new design -->\n<section class=\"page-title-with-img container-fluid smBizSec full-bleed-width partner1-bright-img pad-left-right-0\" style=\"background-image: url('/content/dam/budget/na/us/common/forms/shutterstock_1882428598_edited.jpg');height:auto;\">\n<div class=\"row\">\n<div class=\"col-md-7 col-sm-11 col-xs-12 col-centered mrg-left-5 padrgt-9\">\n<div clas",
+      "content_type": "image/webp",
+      "bytes": 166722,
+      "sha256": "04d1798430c14fc91d240a83cd6016f992265721abadcce1b6be463addf85f6b",
+      "source_sha256": "952310d9e53b92d518e645adac0c46c7cf02fbe22911ab893c8272a060c4bd6b",
+      "dhash": "2225232525375f87",
+      "width": 2200,
+      "height": 1112,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/programs/business-car-rental/partner-21"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-017.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/faq/terms-and-conditions.png",
+      "source_tag": "html-data, img:image",
+      "context": "ms outline most things you'll need to know to qualify for a rental at your specific location.</p>\n<p>Look for rental terms and conditions on your confirmation page</p>\n<p><img src=\"/content/dam/budget/na/us/common/faq/terms-and-conditions.png\"/></p>\n<p>At the bottom of location pages and your confirmation e-mail</p>\n<p><img src=\"/content/dam/budget/na/us/common",
+      "content_type": "image/webp",
+      "bytes": 6898,
+      "sha256": "8e55be971c4b309a74d73bec416829e44eb686f56319d9b5c82941995306493d",
+      "source_sha256": "f7393be54e57ca1babd4738d3c328bca459e19319dc18f454a23aca5771195b8",
+      "dhash": "0140000000000000",
+      "width": 739,
+      "height": 278,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/customer-care/faqs/global/requirements-for-renting"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-018.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/faq/budget-terms-and-conditions.png",
+      "source_tag": "html-data, img:image",
+      "context": "irmation page</p>\n<p><img src=\"/content/dam/budget/na/us/common/faq/terms-and-conditions.png\"/></p>\n<p>At the bottom of location pages and your confirmation e-mail</p>\n<p><img src=\"/content/dam/budget/na/us/common/faq/budget-terms-and-conditions.png\"/></p>\n<p>And also near the bottom of the page on step 4 of the <a href=\"/en/reservation/make-reservation\">online reserv",
+      "content_type": "image/webp",
+      "bytes": 21968,
+      "sha256": "ebc27e48e31357993c0ee10d0ad1dbc5d972581c998041e289c7a2caf76cb9b3",
+      "source_sha256": "4438abe78744cefc47fa376c6f15068fc059730c9e378d969e1c9e7fabca3851",
+      "dhash": "1b80020002002100",
+      "width": 662,
+      "height": 341,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/customer-care/faqs/global/requirements-for-renting"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-019.webp",
+      "source_url": "https://www.budget.com/etc/designs/budget/common/clientlib/images/Visa_Brandmark_Blue_RGB_2021.png",
+      "source_tag": "external-css",
+      "context": ".unionPay,.master,.visa,.jcb,.diner{height:25px;width:41px}\n.unionPay{background-position:-291px -133px}\n.american{background-position:-95px -106px}\n.discover{background-position:-136px -106px}\n.master{background-position:-178px -106px}\n.visa{background-image:url(\"../common/clientlib/images/Visa_Brandmark_Blue_RGB_2021.png\");background-size:contain;background-repeat:no-repeat;margin:4px !important",
+      "content_type": "image/webp",
+      "bytes": 14674,
+      "sha256": "f4c836e405fb5277ca0690b6c38b63da2b9503698823b7b5c2e4cfbd4c92e4d1",
+      "source_sha256": "f52dab94dba43b9306fc18a5c5b8db7a358dd1cd041f88c398bcf63d1bbb7bf3",
+      "dhash": "29aab28a898ebbb9",
+      "width": 1000,
+      "height": 324,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp",
+        "https://www.budget.com/en/cars/vehicles/us",
+        "https://www.budget.com/en/home",
+        "https://www.budget.com/en/locations/us/ny/new-york-city",
+        "https://www.budget.com/en/offers/us-offers/rental-car-flash-sale?ICID=bg-all-230413-hp-s4-flashsale"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-020.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/faq/travel-agent.png",
+      "source_tag": "html-data, img:image",
+      "context": "terms-and-conditions.png\"/></p>\n<p>And also near the bottom of the page on step 4 of the <a href=\"/en/reservation/make-reservation\">online reservation process</a>.</p>\n<p><img src=\"/content/dam/budget/na/us/common/faq/travel-agent.png\"/></p>\n<p>Rules at <a>l</a><a href=\"/en/locations/find-a-location\">icensee-owned locations</a> and locations outside of ",
+      "content_type": "image/webp",
+      "bytes": 11074,
+      "sha256": "980e0137b79594d3597b3356d1db45342e89d49e4f4244ea36ae313278a60de0",
+      "source_sha256": "8ccd4fe93b095067af823202ff7daff59e4a213f90ccd02f216848ddd62651ff",
+      "dhash": "608290a82c82d0a0",
+      "width": 558,
+      "height": 254,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/customer-care/faqs/global/requirements-for-renting"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-021.webp",
+      "source_url": "https://www.budget.com/etc/designs/budget/common/clientlib/images/guided-res.png",
+      "source_tag": "external-css",
+      "context": "al,sans-serif;font-size:1.6em;margin:10px 0 0}\n.guideText p{color:#f78b00;font-family:Custom-Demi,Arial,sans-serif;font-size:1em;margin:0 0 50px}\n.slider-ppl input[type=radio]:checked+.head-count-con .customChk,.bestCar,.slider-ppl .customChk{background-image:url(\"../common/clientlib/images/guided-res.png\");background-repeat:no-repeat;background-size:640px 400px}\n.slider-ppl .customChk{background-",
+      "content_type": "image/webp",
+      "bytes": 44148,
+      "sha256": "65dfc63d6a41ce2a83f8413e6067de379806304dfbd54c1c201c21010f774c3f",
+      "source_sha256": "658368cf948b174fe36c753cd38600fbdf468f3151538eeaeaab9de9bf1dfce3",
+      "dhash": "ad2dd52d290a8cd0",
+      "width": 1280,
+      "height": 800,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp",
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-022.webp",
+      "source_url": "https://www.budget.com/etc/designs/avis/common/clientlib/images/mitek-gif.gif",
+      "source_tag": "external-css",
+      "context": "tion .profile_mitek_add_section_inner{width:50%;display:block;left:50%;transform:translateX(-50%);position:absolute;bottom:25px}\n.profile_mitek_add_section:before{content:\"\";width:40%;height:50%;background-position:center;background-size:100%;background-image:url(\"../../avis/common/clientlib/images/mitek-gif.gif\") !important;background-repeat:no-repeat;display:flex !important;position:relative;top",
+      "content_type": "image/webp",
+      "bytes": 560,
+      "sha256": "3abd1e7cad71bbc2badbd1b058806a159520ae8e756aaf5b73417c34206791de",
+      "source_sha256": "c1a54a71f7267bafc8d9d366206bb60d7c07bd7e8064c7cbb123397b0c12f96c",
+      "dhash": "0000000000000000",
+      "width": 670,
+      "height": 388,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-023.webp",
+      "source_url": "https://www.budget.com/etc/designs/platform/selfcheckoutlib/clientlib/styles/images/ghost_barcode.png",
+      "source_tag": "external-css",
+      "context": "portant;height:100% !important}\n.DL_BACK_PDF #mitekHintMessage.medium::before{margin-top:0 !important;margin-bottom:0 !important;margin-right:10px !important;margin-left:0 !important;background-position:center !important}\n.integrator.PDF417_BARCODE{background:url('../../platform/selfcheckoutlib/clientlib/styles/images/ghost_barcode.png') no-repeat}\n.DL_BACK_PDF #mitekHintMessage.medium{top:55% !im",
+      "content_type": "image/webp",
+      "bytes": 21110,
+      "sha256": "2e213b762eb44c91695e2befeb1db4db21beb65298f729f49df894fb524be751",
+      "source_sha256": "95ed81a7569ad367de5e22d9b573325d7a817cc6762862389782acdde8bdfe3f",
+      "dhash": "4400486a726a0008",
+      "width": 912,
+      "height": 575,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-024.webp",
+      "source_url": "https://www.budget.com/etc/designs/platform/selfcheckoutlib/clientlib/styles/images/ghost_barcode_portrait.png",
+      "source_tag": "external-css",
+      "context": "kHintMessage.medium{transform:translate(-50%,-50%) rotate(90deg);width:80% !important;top:50% !important;left:50% !important;right:auto !important}\n.DL_BACK_PDF .PDF417_BARCODE{background-position:right center !important}\n.integrator.PDF417_BARCODE{background:url('../../platform/selfcheckoutlib/clientlib/styles/images/ghost_barcode_portrait.png') no-repeat}\n.verify-identity-content{position:relati",
+      "content_type": "image/webp",
+      "bytes": 21172,
+      "sha256": "cb06ba8c936a97750428521029c176694aae89851a4ed5afefb5294253fd98ea",
+      "source_sha256": "286240223543b0c1e5f9548963cd92c761e6e0af5297e45f5f7a6b93d7d9301c",
+      "dhash": "7161696169697171",
+      "width": 575,
+      "height": 912,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/car-rental-app?ICID=bg-all-241023-header-globalapp"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-025.webp",
+      "source_url": "https://www.budget.com/content/dam/avis/na/us/common/offers/budget-location-lifestyle-business-man-walking-in-airport-with-suitcase-750x750.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg",
+      "source_tag": "html-data",
+      "context": "t_dam_avis_na_us_common_offers_budget_location_lifestyle_business_man_walking_in_airport_with_suitcase_750x750_jpg']={\"Renditions\":[{\"width\":900,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/avis/na/us/common/offers/budget-location-lifestyle-business-man-walking-in-airport-with-suitcase-750x750.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"/content/dam/avis/na/us/common/offers/",
+      "content_type": "image/webp",
+      "bytes": 56354,
+      "sha256": "65a379742a6f4ff4620a8cc56dda62138afc4e4c0ea202d2cd98327c87bbabe1",
+      "source_sha256": "ab0beeaa21bba8513dd9a2965f7cb7d5953eedfda4d6b89d759fcc7acfe79a68",
+      "dhash": "c5e5e6c4c6daf2f6",
+      "width": 700,
+      "height": 700,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/locations/us/fl/orlando",
+        "https://www.budget.com/en/locations/us/ny/new-york-city"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-026.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-hp-summersavings-bg.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg",
+      "source_tag": "html-data",
+      "context": "avings-2440x1000-opt.jpg/jcr:content/renditions/cq5dam.web.2440.1600.webp\",\"defaultFileMimeType\":\"image/webp\"}],\"MobileRenditions\":[{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-summersavings-bg.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-summersavings-bg.jpg/jcr:content/rendit",
+      "content_type": "image/webp",
+      "bytes": 91628,
+      "sha256": "b6f38d7d386997114667aa5a4280565569a87c8b18a5cde80c0bd1e8dcb7a517",
+      "source_sha256": "6d7e3afd1a4afcd39ae131cf8b9912256909eeaea8ab5ced03c68e81fa8abb9c",
+      "dhash": "7a5e562cacdb1bc3",
+      "width": 750,
+      "height": 750,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-027.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.900.700.webp",
+      "source_tag": "html-data",
+      "context": "0,\"height\":700,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.900.700.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.900.700.webp\",\"defaultFileMimeType\":\"image/webp\"},{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/c",
+      "content_type": "image/webp",
+      "bytes": 17956,
+      "sha256": "3526b963b422fcb93044305b51d972297fdea403f4e8757c35c1a05b5348ce22",
+      "source_sha256": "be854bf3f88e2b41f20f427d1842fb175a39c8b488aff2bffa92e8d850b60df2",
+      "dhash": "070f0f161101080c",
+      "width": 1068,
+      "height": 700,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-028.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg",
+      "source_tag": "html-data",
+      "context": "ers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.900.700.webp\",\"defaultFileMimeType\":\"image/webp\"},{\"width\":375,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-deskto",
+      "content_type": "image/webp",
+      "bytes": 7508,
+      "sha256": "4ad1cecdb59e751bb2a2161fa969108b1ab599bb15e193e9500c10852128f634",
+      "source_sha256": "215b1db5960b0cd8c2ec0c37d28b2cee7d842333ec6ac4b3ca87334ca02bfb5f",
+      "dhash": "0f0f0f1e1101080c",
+      "width": 572,
+      "height": 375,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-029.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.375.375.webp",
+      "source_tag": "html-data",
+      "context": "5,\"height\":375,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.375.375.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.375.375.webp\",\"defaultFileMimeType\":\"image/jpg\"},{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/co",
+      "content_type": "image/webp",
+      "bytes": 7344,
+      "sha256": "eee3958f19133000dd98009371c9cfa5637155e5d88df75dc952755199d16930",
+      "source_sha256": "c38e645fd8f188e759537cce27eb0f103c9561657d9f074a8c810fbb105f7d2b",
+      "dhash": "0f0f0f1e1101080c",
+      "width": 572,
+      "height": 375,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-030.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.450.350.webp",
+      "source_tag": "html-data",
+      "context": "0,\"height\":350,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.450.350.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.450.350.webp\",\"defaultFileMimeType\":\"image/webp\"},{\"width\":1400,\"height\":900,\"dpr\":2,\"defaultFile\":\"/",
+      "content_type": "image/webp",
+      "bytes": 6538,
+      "sha256": "a1e0f25eeeae7fa3b7b149bd646f40d51d03f27a379eac17f895b77b4f4c69da",
+      "source_sha256": "cd98e942751dd92b988ca85a307a59bbb04da5dfb23fc3da36771f66d810aa9b",
+      "dhash": "070f0f1e1101288c",
+      "width": 534,
+      "height": 350,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-031.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.1400.900.jpg",
+      "source_tag": "html-data",
+      "context": "rs/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.450.350.webp\",\"defaultFileMimeType\":\"image/webp\"},{\"width\":1400,\"height\":900,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.1400.900.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-deskt",
+      "content_type": "image/webp",
+      "bytes": 28074,
+      "sha256": "a7caa7857a767d4a8e6308ba4072da76098643042bc954209b78078f2633d5cc",
+      "source_sha256": "4a2054b2f76e6507a31525c751265cbc037474a46e591a25447b966b3c4c3562",
+      "dhash": "0f0f0f1e1101280c",
+      "width": 1373,
+      "height": 900,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-032.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.700.450.webp",
+      "source_tag": "html-data",
+      "context": "0,\"height\":450,\"dpr\":1,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.700.450.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-unauthenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.700.450.webp\",\"defaultFileMimeType\":\"image/jpg\"}],\"MobileRenditions\":[{\"width\":750,\"height\":750,\"dpr\"",
+      "content_type": "image/webp",
+      "bytes": 9762,
+      "sha256": "b0eede0a36afcead54e2afba79e24901538249dec5d96d136842f1adb06b9686",
+      "source_sha256": "56337bc7f35c7dc4191b5dfb98044f4046423c134bab671b3e5611523924f9af",
+      "dhash": "070f0f1e3121080c",
+      "width": 686,
+      "height": 450,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-033.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-amazon-authenticated-mobile25.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg",
+      "source_tag": "html-data",
+      "context": "authenticated-desktop26.jpg/jcr:content/renditions/cq5dam.web.700.450.webp\",\"defaultFileMimeType\":\"image/jpg\"}],\"MobileRenditions\":[{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-authenticated-mobile25.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-amazon-authenticated-mobile25.jp",
+      "content_type": "image/webp",
+      "bytes": 31778,
+      "sha256": "28f5c94fda705ee14dd6c57b3ab8a9425a0d94ad0ad950520a8dd2551559df8b",
+      "source_sha256": "d077909829cd1215c80a8b2a65d445b655498fcb5f9abc79017ecd67431c14c9",
+      "dhash": "2098476b65213a85",
+      "width": 750,
+      "height": 750,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-034.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-hp-digcheckin-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg",
+      "source_tag": "html-data",
+      "context": "-digcheckinr2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.750.750.webp\",\"defaultFileMimeType\":\"image/jpg\"}],\"MobileRenditions\":[{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-digcheckin-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-digcheckin-750x750.jpg/jcr:content/re",
+      "content_type": "image/webp",
+      "bytes": 9698,
+      "sha256": "d004a2fa994cd2400b99494f379f578fef8122279859d061ab5a5b526ad60773",
+      "source_sha256": "e930e6430dbda3107c4b8aa0fee3375dfb8e88482f5f0c5fd6bd2b52812bde15",
+      "dhash": "1d154f1b9b463102",
+      "width": 750,
+      "height": 750,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-035.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-hp-digcheckin-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.webp",
+      "source_tag": "html-data",
+      "context": "{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-digcheckin-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-digcheckin-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.webp\",\"defaultFileMimeType\":\"image/jpg\"}]};</script>\n<div class=\"heroBan\" data-reference=\"EBVBS_content_",
+      "content_type": "image/webp",
+      "bytes": 8114,
+      "sha256": "7d056253f31f17e4ab7cf1a0d31eb29802caed5979f729709f12532f044d4d99",
+      "source_sha256": "7dd8a193db8737e75b8626ca30c74419a83f5650f07409b91e711201322e85e0",
+      "dhash": "1b154f1b9b463112",
+      "width": 750,
+      "height": 750,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-036.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-deals-flashsale-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg",
+      "source_tag": "html-data",
+      "context": "s-flashsaler2-2440x1000.jpg/jcr:content/renditions/cq5dam.web.750.750.webp\",\"defaultFileMimeType\":\"image/jpg\"}],\"MobileRenditions\":[{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-flashsale-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-flashsale-750x750.jpg/jcr:conten",
+      "content_type": "image/webp",
+      "bytes": 23104,
+      "sha256": "3c25bfaecd3f5209965027b6ef6eda639fd3b1e240a671c0a7202742e69a68fb",
+      "source_sha256": "c4a6bcd63c81013c150872fb952e469352344ee34b3a5a8b65ab00260b02a95a",
+      "dhash": "9a730fbfff3f3cf8",
+      "width": 750,
+      "height": 750,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-037.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-deals-flashsale-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.webp",
+      "source_tag": "html-data",
+      "context": "width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-flashsale-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-deals-flashsale-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.webp\",\"defaultFileMimeType\":\"image/jpg\"}]};</script>\n<div class=\"heroBan\" data-reference=\"6P0V9_conten",
+      "content_type": "image/webp",
+      "bytes": 19938,
+      "sha256": "d31d67f0f2c2c30c3f9eab265d81e165fb19bf9551ffb6309cc892e109d5d472",
+      "source_sha256": "aa497540e9eb769f5f91a8cd498393a770bba52ab4c6d99be10aa0379b948ba3",
+      "dhash": "9a730f3fff3f3cd8",
+      "width": 750,
+      "height": 750,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/budget/reference-038.webp",
+      "source_url": "https://www.budget.com/content/dam/budget/na/us/common/offers/budget-hp-weekly-travel-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg",
+      "source_tag": "html-data",
+      "context": "ekly-travel-2400x1000r2.jpg/jcr:content/renditions/cq5dam.web.700.450.webp\",\"defaultFileMimeType\":\"image/jpg\"}],\"MobileRenditions\":[{\"width\":750,\"height\":750,\"dpr\":2,\"defaultFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-weekly-travel-750x750.jpg/jcr:content/renditions/cq5dam.web.750.750.jpg\",\"webpFile\":\"/content/dam/budget/na/us/common/offers/budget-hp-weekly-travel-750x750.jpg/jcr:cont",
+      "content_type": "image/webp",
+      "bytes": 73422,
+      "sha256": "e42554311cfd66c7e5f575786d8e96d575dd16185c050cd250919be175b35155",
+      "source_sha256": "c1cb712174774592609ecafc3792d0f1e7c86f8ca6b6a9a54f571a2912e3f650",
+      "dhash": "0032594043f1e2c2",
+      "width": 750,
+      "height": 750,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.budget.com/en/home"
+      ]
     }
   ]
 }

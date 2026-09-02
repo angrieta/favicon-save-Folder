@@ -4,8 +4,19 @@
   "requested_url": "https://www.gongcar.kr/",
   "page_url": "https://www.gongcar.kr/",
   "page_title": "공카 - 장기렌트 지원금 주는 곳 · 당일 최대 180만원 현금지원 비교 사이트",
-  "collection_status": "partial",
+  "collection_status": "complete",
   "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 8,
+    "desktop_pages": 8,
+    "mobile_pages": 8,
+    "stylesheets": 3,
+    "scripts": 36,
+    "candidates": 623,
+    "attempted_assets": 300,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:09:04.061702+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,52 +30,2207 @@
       "height": 722
     },
     {
+      "type": "banner",
+      "path": "assets/렌터카_국내/gongcar/banner-001.webp",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fhero-bg.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img object-cover section relative flex h-[960px] items-center justify-center overflow-hidden px-5 text-center text-white mobile:h-[812px] mobile:px-4 div w-full bg-white main body min-h-screen bg-colorswhite font-sans text-colorsgray-800 html",
+      "content_type": "image/webp",
+      "bytes": 17614,
+      "sha256": "88395023553f3127a116e6413d6971cca7bab952bcf4d2bb1568bc236a49bf1d",
+      "source_sha256": "9418c4fa6367a661c3e4bb053fa1d424eef8452f758a66e6c800a82a93b4ec1b",
+      "dhash": "cbc9cc0c99994d23",
+      "width": 1024,
+      "height": 684,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/gongcar/reference-001.webp",
+      "source_url": "https://www.gongcar.kr/images/introduce/strength-transparent.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "img pointer-events-none absolute inset-0 size-full max-w-none object-cover div absolute hidden overflow-hidden transition-[filter,box-shadow] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] mobile:block bottom-0 left-0 top-0 aspect-[2816/2475] article group relative flex h-[400px] w-[320px] shrink-0 flex-col items-start gap-[10px] overflow-hidden rounded-[24px] bg-colorsgray-100 p-8 mobile:aspect-",
+      "content_type": "image/webp",
+      "bytes": 82594,
+      "sha256": "06a98af2c9c6e0d4ddce7a0928d023c1c6394a68f99d1feed7cb030c2d69b3bf",
+      "source_sha256": "1d49f800cf21a264e0a68401a67c38e4b323ea2f67392cfff07d63ede6fd60ed",
+      "dhash": "0f4f3c49cf5d49c9",
+      "width": 1024,
+      "height": 900,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/gongcar/reference-002.webp",
+      "source_url": "https://www.gongcar.kr/images/introduce/strength-customer.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "img pointer-events-none absolute inset-0 size-full max-w-none object-cover object-bottom div absolute hidden overflow-hidden transition-[filter,box-shadow] duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] mobile:block left-0 right-[-4px] top-[0.5px] aspect-[519/825] article group relative flex h-[400px] w-[320px] shrink-0 flex-col items-start gap-[10px] overflow-hidden rounded-[24px] bg-colorsgray-",
+      "content_type": "image/webp",
+      "bytes": 60762,
+      "sha256": "65ed1273e665c6e1d25e7fccee52b85818d46e514f864b5724407d73774ec2af",
+      "source_sha256": "597bc3303a308582a401c7390779840152eafafb68d9976d0bb96089e2fcccac",
+      "dhash": "010004a95979e988",
+      "width": 572,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/gongcar/banner-002.webp",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fproof-bg.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img object-cover mobile:object-center section proof relative scroll-mt-24 overflow-hidden px-10 py-[120px] mobile:px-4 mobile:py-[60px] div w-full bg-white main body min-h-screen bg-colorswhite font-sans text-colorsgray-800 html",
+      "content_type": "image/webp",
+      "bytes": 56252,
+      "sha256": "9a8991eb46939c9336fa88930744acbe5b50757f3071c7febcc7a64ddfad61d7",
+      "source_sha256": "90640b2cceb414871e3ff8b99ce028c805c071d93312b4d9b4bd28b183099732",
+      "dhash": "392746a4e5e56561",
+      "width": 1616,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/gongcar/reference-003.svg",
+      "source_url": "https://www.gongcar.kr/images/home/cta.png",
+      "source_tag": "html-data, img:banner, img:image, script-data",
+      "context": "img transition-opacity duration-500 ease-out opacity-0 absolute right-0 h-[442px] w-[442px] object-cover mobile:right-[-20px] mobile:h-[216px] mobile:w-[216px] cta-banner div relative mx-auto flex h-[442px] max-w-[1120px] items-center justify-start overflow-hidden mobile:h-[216px] section bg-gradient-to-r from-[#F6F9FF] to-[#EAF0FF] px-10 pt-5 pb-0 mobile:pt-10 mobile:pr-0 mobile:pb-0 mobile:pl-4 ",
+      "content_type": "image/svg+xml",
+      "bytes": 3376368,
+      "sha256": "ffc596e888eac72104991a255d342c6eb76d2a9e4f4c2be4c7cf06f5b918203b",
+      "source_sha256": "ffc596e888eac72104991a255d342c6eb76d2a9e4f4c2be4c7cf06f5b918203b",
+      "dhash": "",
+      "width": 716,
+      "height": 716,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/gongcar/reference-004.webp",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fceo-profile.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img object-cover 공카 대표 황기연 div relative h-[620px] w-[400px] min-w-[400px] shrink-0 overflow-hidden rounded-[24px] mobile:h-[400px] mobile:min-h-[400px] mobile:w-[328px] mobile:min-w-[328px] div mx-auto flex w-full max-w-[1120px] flex-nowrap content-center items-center gap-[60px] mobile:max-w-[1000px] mobile:flex-col mobile:gap-10 section message scroll-mt-24 overflow-hidden px-10 pb-[60px] pt-[120",
+      "content_type": "image/webp",
+      "bytes": 9866,
+      "sha256": "aca46e06d8ba1597bb6f414875506b81b121e5fe9253653905c82d6e9777b82b",
+      "source_sha256": "06c5a438bcbf57e96d9900301b7bd89dddf30596b195f73a973547b7bb9684e3",
+      "dhash": "32b2b24c4cc4c470",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/gongcar/reference-005.webp",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fceo-profile.png&w=384&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img object-cover 공카 대표 황기연 div relative h-[620px] w-[400px] min-w-[400px] shrink-0 overflow-hidden rounded-[24px] mobile:h-[400px] mobile:min-h-[400px] mobile:w-[328px] mobile:min-w-[328px] div mx-auto flex w-full max-w-[1120px] flex-nowrap content-center items-center gap-[60px] mobile:max-w-[1000px] mobile:flex-col mobile:gap-10 section message scroll-mt-24 overflow-hidden px-10 pb-[60px] pt-[120",
+      "content_type": "image/webp",
+      "bytes": 6622,
+      "sha256": "63eb3c46bd13b80bbfa24fcfaac59953a188c914f706d9982a4b3eefcfab3eba",
+      "source_sha256": "272610ee779073ce43c9d044acefca600981253ad0a415a94d3d7ff71ff1514c",
+      "dhash": "3232324c4cc4c470",
+      "width": 384,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
       "type": "logo",
-      "path": "assets/렌터카_국내/gongcar/logo-1.svg",
+      "path": "assets/렌터카_국내/gongcar/logo-001.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fnav-logo-white.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img object-contain 공카 a relative h-[43px] w-[200px] shrink-0 mobile:h-6 mobile:w-28 공카 홈으로 이동 div flex min-w-px flex-1 items-center justify-between gap-6 max-w-[1000px] mobile:justify-center header fixed left-0 right-0 top-0 z-50 flex items-center justify-center px-10 py-4 backdrop-blur-[10px] transition-colors duration-300 bg-white/[0.01] text-colorsgray-200 div w-full bg-white main",
+      "content_type": "image/png",
+      "bytes": 41154,
+      "sha256": "b86434f59fad6cd7d0eab7f2b341bdfd099dd64c7088a8c77e96dbbe2c1683ae",
+      "source_sha256": "0ecd5c988bc9ff65d14b34d5aa7f8c241a44beac71efbfa8012f8957921cfd4f",
+      "dhash": "00c8c8c88090b100",
+      "width": 800,
+      "height": 172,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-002.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fnav-logo-white.png&w=256&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img object-contain 공카 a relative h-[43px] w-[200px] shrink-0 mobile:h-6 mobile:w-28 공카 홈으로 이동 div flex min-w-px flex-1 items-center justify-between gap-6 max-w-[1000px] mobile:justify-center header fixed left-0 right-0 top-0 z-50 flex items-center justify-center px-10 py-4 backdrop-blur-[10px] transition-colors duration-300 bg-white/[0.01] text-colorsgray-200 div w-full bg-white main",
+      "content_type": "image/png",
+      "bytes": 11507,
+      "sha256": "7c69c24bed53c082f2a362ac017cc4e8ab50e2a9b04aa94709af53cee08e4d50",
+      "source_sha256": "99923e84b1d63214bb7a1ba46c0f0eca0dea2b0f93ebe0ad8be0f7dc54eb2559",
+      "dhash": "a4581a010d898b93",
+      "width": 256,
+      "height": 55,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-003.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fnav-logo-white.png&w=384&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img object-contain 공카 a relative h-[43px] w-[200px] shrink-0 mobile:h-6 mobile:w-28 공카 홈으로 이동 div flex min-w-px flex-1 items-center justify-between gap-6 max-w-[1000px] mobile:justify-center header fixed left-0 right-0 top-0 z-50 flex items-center justify-center px-10 py-4 backdrop-blur-[10px] transition-colors duration-300 bg-white/[0.01] text-colorsgray-200 div w-full bg-white main",
+      "content_type": "image/png",
+      "bytes": 18855,
+      "sha256": "1cefd9f3de83c015c6ff11c230caecd18fce0ed0e4f3bc722a26c1c94f6ada37",
+      "source_sha256": "4c1607bfd931b5df3bf1a92277e002241e2069c93ca5d5f3ee017853d73c64cd",
+      "dhash": "585849091989b3a2",
+      "width": 384,
+      "height": 83,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-004.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fnav-logo-white.png&w=640&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img object-contain 공카 a relative h-[43px] w-[200px] shrink-0 mobile:h-6 mobile:w-28 공카 홈으로 이동 div flex min-w-px flex-1 items-center justify-between gap-6 max-w-[1000px] mobile:justify-center header fixed left-0 right-0 top-0 z-50 flex items-center justify-center px-10 py-4 backdrop-blur-[10px] transition-colors duration-300 bg-white/[0.01] text-colorsgray-200 div w-full bg-white main",
+      "content_type": "image/png",
+      "bytes": 34859,
+      "sha256": "ce3dcb5999b66bdc7cec4ab8dea1dc8b7054a56ad6cf8f4eda56cc95b48fd29f",
+      "source_sha256": "b0e3197a3d9563e84f5002332302273155c9b80375664f9a43ed2247a691291b",
+      "dhash": "00584a050b89b302",
+      "width": 640,
+      "height": 138,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-005.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fnav-logo-white.png&w=750&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img object-contain 공카 a relative h-[43px] w-[200px] shrink-0 mobile:h-6 mobile:w-28 공카 홈으로 이동 div flex min-w-px flex-1 items-center justify-between gap-6 max-w-[1000px] mobile:justify-center header fixed left-0 right-0 top-0 z-50 flex items-center justify-center px-10 py-4 backdrop-blur-[10px] transition-colors duration-300 bg-white/[0.01] text-colorsgray-200 div w-full bg-white main",
+      "content_type": "image/png",
+      "bytes": 41035,
+      "sha256": "4fd947c71ed5757aa27153790f52b3ed67bcb8585bed659d45a2e0ada14c6a8b",
+      "source_sha256": "a9b5b71687bf33fe13a1db311f71478f1a6c40e289eed4390ece08206aeab598",
+      "dhash": "05585c458b8bb202",
+      "width": 750,
+      "height": 161,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-006.svg",
       "source_url": "https://www.gongcar.kr/images/footer/brand-power-emblem.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img h-14 w-11 object-contain 2026 올해의 브랜드파워 렌터카 부문 1위 div flex items-center gap-1.5 div flex flex-wrap items-center gap-4 div flex flex-col items-start gap-7 w-full div flex flex-col items-start gap-6 max-w-[1120px] w-full",
+      "source_tag": "html-data, img:image, img:logo, link:preload, script-data",
+      "context": "n.js\" rel=\"preload\"/><link as=\"image\" href=\"/images/footer/appstore.svg\" rel=\"preload\"/><link as=\"image\" href=\"/images/footer/google-play.svg\" rel=\"preload\"/><link as=\"image\" href=\"/images/footer/brand-power-emblem.svg\" rel=\"preload\"/><link as=\"image\" href=\"/images/footer/ministry-of-sme.svg\" rel=\"preload\"/><title>공카 - 장기렌트 지원금 주는 곳 · 당일",
       "content_type": "image/svg+xml",
       "bytes": 172231,
       "sha256": "5b2c72cb89b2d7c954ecb9ecb9232c55bf62bd4746204ea76e1be87ec96e4b4d",
+      "source_sha256": "5b2c72cb89b2d7c954ecb9ecb9232c55bf62bd4746204ea76e1be87ec96e4b4d",
+      "dhash": "",
       "width": 43,
-      "height": 56
+      "height": 56,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/",
+        "https://www.gongcar.kr/accident-rent/list",
+        "https://www.gongcar.kr/daily-rent",
+        "https://www.gongcar.kr/direct/list",
+        "https://www.gongcar.kr/introduce",
+        "https://www.gongcar.kr/monthly-rent",
+        "https://www.gongcar.kr/no-screening/list",
+        "https://www.gongcar.kr/review"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_국내/gongcar/reference-1.svg",
-      "source_url": "https://www.gongcar.kr/images/home/like.png",
-      "source_tag": "img:page-image",
-      "context": "img h-full w-full object-contain 렌트 추천 div flex size-16 items-center justify-center p-2 mobile:p-2 transition-transform duration-300 group-hover:scale-105 mobile:size-17 div group flex flex-col items-center gap-2 cursor-pointer div flex w-f",
-      "content_type": "image/svg+xml",
-      "bytes": 1965088,
-      "sha256": "18673a85a93172a6bd57c0cf3c4b4d5361ee320605354b0b9b19785d3d2fbc9a",
-      "width": 716,
-      "height": 716
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-007.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-01.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 1 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 36874,
+      "sha256": "13d2326849bbb97d8f69b939d5a73c7c29c7c58d5bdda4c5d1c4b0da153b57b6",
+      "source_sha256": "1daf82c73d16c66a6d17eae5f07f777c2dbfcd7cbaa46b2214e0f57ac46ba44c",
+      "dhash": "000080a2a2a20000",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_국내/gongcar/reference-2.svg",
-      "source_url": "https://www.gongcar.kr/images/home/main-no-screening.png",
-      "source_tag": "img:page-image",
-      "context": "img h-full w-full object-contain 무심사 div flex size-16 items-center justify-center rounded-2xl p-2 mobile:p-1 transition-transform duration-300 group-hover:scale-105 mobile:size-17 div relative a group relative flex flex-col items-center gap",
-      "content_type": "image/svg+xml",
-      "bytes": 1350613,
-      "sha256": "f9defb297fbe2fb64704fc2ae7f795ce28b2fe871dd6aa2fa0848f8eea040b6c",
-      "width": 716,
-      "height": 716
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-008.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-01.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 1 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 6097,
+      "sha256": "e238e8bf45d69f47d6785ccdddb616f58ae0c581fadb23b568c17e830b815492",
+      "source_sha256": "b662559612bc6eb61aafedb4ac36ce9522b75ed87e231ca7328df81a27e9655f",
+      "dhash": "0000351bab8c0000",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_국내/gongcar/reference-3.svg",
-      "source_url": "https://www.gongcar.kr/images/home/main-monthly.png",
-      "source_tag": "img:page-image",
-      "context": "img h-full w-full object-contain 한달렌트 div flex size-16 items-center justify-center rounded-2xl p-2 mobile:p-1 transition-transform duration-300 group-hover:scale-105 mobile:size-17 div relative a group relative flex flex-col items-center ga",
-      "content_type": "image/svg+xml",
-      "bytes": 1368223,
-      "sha256": "b47c36c82e20c361d9eb0b95e6df6406d563e59882dae178c62a8ece8619d3f7",
-      "width": 716,
-      "height": 716
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-009.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-01.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 1 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 8930,
+      "sha256": "296e27a45098bb646e7d4ed64304bf56ff35a3f6b9fc5b7eef25314602512133",
+      "source_sha256": "606bcf3097414b1ea8eae39776189882011d622c29ea3c5546effc1b450a7d56",
+      "dhash": "0000d4a9e2e60080",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-010.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-01.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 1 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 21345,
+      "sha256": "671aa3440df46beebff0f2133ef5ca245fdda4d54ff4080a68b4cbe7677e2aff",
+      "source_sha256": "8478798aa36dfe91d402d9ceed44c3a39681427652e9a3dc8d3ce083241562aa",
+      "dhash": "0100414d61f20020",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-011.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-01.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 1 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 37881,
+      "sha256": "c1db9b31bccea0d4756bc83ee47503a572b8ad00cdcd6a0595518d12356464a1",
+      "source_sha256": "118e12e11aa7220ca0909ac4983edefad52db09dcde5d34e2ba7b2642f55d193",
+      "dhash": "000045492fb40000",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-012.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-01.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 1 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 59925,
+      "sha256": "e5a02a2e93c49b6de8f5f4ce0238aa7684975b424e7d82e330881b9051338066",
+      "source_sha256": "747622cc67ee41134464b96a695a08254a56f70a262f6a3e818e912debd55c8b",
+      "dhash": "0000254933a20000",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-013.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-01.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 1 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 70474,
+      "sha256": "552479b93777e7848594aa7f8974198d83f01b6073cdfc5642141571e62ed7e7",
+      "source_sha256": "d1f98a70bcf33415135daba60626eaddea181eba80dd5571ecf0450b37e6cf0f",
+      "dhash": "000055493b820800",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-014.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-01.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 1 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 68785,
+      "sha256": "4c696bec658cb4090174726d791a024c4c60674893d449512ebec2fcdd3a6a7f",
+      "source_sha256": "8c8500ca703fd1e2a1bfe2c98b1f036ce0552e6b6f6afbc5ff3c2e915b4a4788",
+      "dhash": "010025493ba01100",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-015.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-02.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 2 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 88576,
+      "sha256": "e8dca188a7d428eb98c6dba6a26d0c55822624c273cea5ed42fdc96a0bd73b3c",
+      "source_sha256": "356c79875545d13371fc75c6554a2df968fe8722613fc81df147a1f5dbff0388",
+      "dhash": "800082aaaa824480",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-016.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-02.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 2 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 7169,
+      "sha256": "1b6077326d39cef0a482b6b3c6d52b8c319e608a9774d34a23a09230f6ddfb5e",
+      "source_sha256": "ad694d27c26006ff32dc14dabd0ded89a336c9956c126b7156577c53f37ea80a",
+      "dhash": "a200a78b45454020",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-017.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-02.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 2 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 10091,
+      "sha256": "3aadd8579acb02689470134ce554bd6c891265358fcd77f924a13a5aef2ba51a",
+      "source_sha256": "6a555066395339748631575f5946fcd27fa47e43ede1f8442f375ee8b91c76ee",
+      "dhash": "0000414945450000",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-018.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-02.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 2 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 25028,
+      "sha256": "785ab38d6d76794eef42ee1cf2ab2a4e11f24029e7a3798f16deb45a5e1c2ad9",
+      "source_sha256": "a8825c88fa557c1bfe9dfaa2b6d91f55b51c6eb063d0cdfee71672db8d64181b",
+      "dhash": "0100710955550001",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-019.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-02.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 2 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 40116,
+      "sha256": "062201a474a1944473ba38354ddd2ffad46ccd87c4387c49a673acd9156b3991",
+      "source_sha256": "1104d607fcfdc952b00a3c2c5ff9c09bb710cf0cb701e0922d325f75fa4de819",
+      "dhash": "4000515545550041",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-020.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-02.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 2 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 72385,
+      "sha256": "0c678faba31c93b3c9c1d4ff20a86ced939571e60bae46fe2b6fa6528175bd1d",
+      "source_sha256": "912927fea7e7671e1662e8688b1170d6884acf0d064f6fb21dc9bcda64a82fc9",
+      "dhash": "4000655151412041",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-021.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-02.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 2 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 85802,
+      "sha256": "d90bce91b976ab14fb2bf4a0c8680ee7cf610bd7e42ed018a22c1a7553996a34",
+      "source_sha256": "1cbef21c66a49ef7b31ed1a1b40c51d1135b32b7e3f139feff371c6d4b35d1c9",
+      "dhash": "0000705755550001",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-022.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-02.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 2 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 93825,
+      "sha256": "2195ea9d14a2e0007716a90f0c2a16aa82912dc5ee9c4d744e39d7f22d03f24d",
+      "source_sha256": "84b07c8ea782bfdc1206f9b64341de1b3b4117565482f2d17c6d96a22ad57d8d",
+      "dhash": "0000615545450040",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-023.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-03.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 3 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 19343,
+      "sha256": "848b2f68af4ba43ee48c2bc8bb64da08c25889424b221b348b84e3a96996e277",
+      "source_sha256": "0be7c1e75e50d9d19b07376118fe9b18798a5ff6c0a3b5a9876a9fffef758ab2",
+      "dhash": "0000c1f4f0c10000",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-024.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-03.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 3 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 5544,
+      "sha256": "3dd6e392a994ffe8e2bf1d55ba96e617dcfe60910cc992a748d51b987943a985",
+      "source_sha256": "0fe53b460f25d9ff050b39fc5a993b1c0b3be70ad535628a294112969abf25cf",
+      "dhash": "4100436371710021",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-025.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-03.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 3 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 8269,
+      "sha256": "aabb80b768e7467542d6765e930ec5eaad87e3dcfe025673429096f8feca9f5b",
+      "source_sha256": "8a0c5e3636db6f286ca906eb4573faee4cfb40e0009809d9090158ba6989984e",
+      "dhash": "2100776565750020",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-026.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-03.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 3 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 20527,
+      "sha256": "1e995952caaee3064a8ba3b6f3e9ad39119ab73f831544d864a820d00e18a70e",
+      "source_sha256": "0ad51dcdde702a566a2b066c572f2faca58a5b357c29e037adb24b11e8f1027a",
+      "dhash": "41005d41694d8060",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-027.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-03.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 3 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 31891,
+      "sha256": "3b3d42dcd81c7b298f7b8c847720c1f912d70dd109ebe56d16c0746d6ba6dbb5",
+      "source_sha256": "d82d306e1a8f04e24e2bfe6535590764433314ba682aee4ba82d461dc97e179c",
+      "dhash": "4000436379400140",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-028.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-03.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 3 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 57474,
+      "sha256": "0d43f7b93d22c454cf604d3b9935ae23449326757e026b8f6317c577312866d2",
+      "source_sha256": "3d4773475aef18a8602b11610e1fe5a0b93325067241c0240601cffc141f3920",
+      "dhash": "4080406b69409240",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-029.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-03.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 3 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 68571,
+      "sha256": "f6b62f804b29d2c1de43039935afca567cd7203e6d2d465cb2b99b767547ecc1",
+      "source_sha256": "ca59c30438a9416a46ef819e1d7bbe537cb971a99e3466048d1f1b68eb46f6d6",
+      "dhash": "4000424369000100",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-030.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-03.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 3 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 75010,
+      "sha256": "aa314dc6989fc918cdcd23ea8e9f6e283a973a94a34b856cee15da37a98ba555",
+      "source_sha256": "87c82c00aef23948dc06354a5a7251968c12a2cf97380ba2f7d5f2d866670f70",
+      "dhash": "4081406369001200",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-031.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-04.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 4 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 96010,
+      "sha256": "85207c4c6517ecc8c40fe7271c7a6018d30fb5582b0e56c53baa45cf94586edd",
+      "source_sha256": "a5ad0f95e7b5f4a0f0f9390b4f36daa8c0b2bed9e79cfc4e0448f622e4337708",
+      "dhash": "0000e1e0e0f100c0",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-032.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-04.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 4 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 6074,
+      "sha256": "8ea69cedf5b6a41574f6001be0ac336bb7d5b9b98b95d59035520cf58543154d",
+      "source_sha256": "036777da62f45db67a2e74120ab36bc7a604ec3c08897a617fc0d73db3f65446",
+      "dhash": "206870f169706809",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-033.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-04.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 4 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 8876,
+      "sha256": "9c6fd1dccf7d86657407366be253405fc10beca4f241e45aa01cac6aa478ba38",
+      "source_sha256": "d92d08c315f7e4125c1aa0fa17f4778de4f750feac6b1da01b502e4ae553bf09",
+      "dhash": "006860e96d690820",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-034.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-04.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 4 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 22921,
+      "sha256": "d026487c54e3a09acb8c345af15953c2c1e26c1a1ac1ac98743d816b2de0c66f",
+      "source_sha256": "d5395bfa3e5e0e3119fe6a91b2c46ce2d1d78d6cd676816efb29395f6d212b23",
+      "dhash": "0040606169600060",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-035.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-04.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 4 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 40586,
+      "sha256": "3a81ace5f2cf9555ead65c4940e6b14d81b1cd088ce9fd91a1297da2789e3de8",
+      "source_sha256": "75b62e9db142de3410afae2d6bcb20bef3937f5d35d0a0e478584e498fe94e4f",
+      "dhash": "204060616d600040",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-036.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-04.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 4 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 80599,
+      "sha256": "2258cfda308aec614cd5c47d7869d481be8333f1b3db67795b5383df3910ac65",
+      "source_sha256": "34cc1ff1b26d1b1056321a4afdb5738a60b08a938ee923250ab52506735dbcb8",
+      "dhash": "004060696d600040",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-037.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-04.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 4 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 100635,
+      "sha256": "bc96db38f1f028ad0523a06a22a6466833a1e8530c98fa8d09d1e66bb4b46fe0",
+      "source_sha256": "490451b174bc7078eef954f26a6ef7e3e0d6139a14661684777d39f0d9125c99",
+      "dhash": "0040606165600040",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-038.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-05.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 5 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 41875,
+      "sha256": "29ad79a24306dbc869435bace067a82dfbcaa8707bb2051dc0283f29bbf07215",
+      "source_sha256": "6f1268cf2768744c676131c07e9882f7bc7f6047e7e5a214271c07e5f65a1cf0",
+      "dhash": "8007dcf479d9d900",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-039.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-05.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 5 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 8836,
+      "sha256": "090918a4651e2fb61b3413319285054a895209ed85947d86b770bacaaa51514a",
+      "source_sha256": "86db74e1223f0679fae096792ba769f44bfc9092a1782bba3c38bab68867efb1",
+      "dhash": "032b2b4f1b191100",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-040.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-05.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 5 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 13245,
+      "sha256": "5bf770352efdf7d569923e96a820ea7cbbeb5c4abf58776b7501c219601644aa",
+      "source_sha256": "62f1b7c842cc900ecc2352263fb8d4b5a93d8359872cb9700effd55bf73897e8",
+      "dhash": "0013130b1b1b1b00",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-041.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-05.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 5 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 31655,
+      "sha256": "6c14481fa41947d56f5c2a79d7494ec28ea6695e7cbb502223935d7190fbb0cf",
+      "source_sha256": "d710e90f84bc65f2d32d7fc352d85780339b95413e9edfb8e164527479922d8e",
+      "dhash": "0012232d131b1b00",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-042.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-05.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 5 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 49443,
+      "sha256": "51c24a7ba2eae32d7c7af85ce93fc6d9961f4010d579bb7d06607e9847eeaa1c",
+      "source_sha256": "7f8e66962713f6ea857a1dd1c9b1f0ab476dd126b569b6d9a4fe9279a2fda059",
+      "dhash": "0012031b1b131300",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-043.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-05.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 5 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 91047,
+      "sha256": "d5b3f5c587f63bd8331179170e67644d867fd6c68e0e37fdda333e66131ce09a",
+      "source_sha256": "d4d48087eea430ee7fa76e6d8dc3269d28ff3b0949613b7af78c5941b9e963d8",
+      "dhash": "0002331b1b1b1300",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-044.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-05.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 5 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 110183,
+      "sha256": "490852cbf4ed89da34afc86042e6400113345765ed064e677e01ad8f890229f3",
+      "source_sha256": "d70c3bedd77d7a40f9ed1be7d2703b077ddd8b2c5331db5b34d59ccde5b94174",
+      "dhash": "0002231b1b1b1b00",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-045.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-06.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 6 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 45092,
+      "sha256": "8107af85638a26f4c5d46b69d60487e18ee63f1b27a3928b1a21c9790ed250d4",
+      "source_sha256": "914b58d30bdcade6edad1a5dfa2dd233c0c3f8952c113d23894d8aa525c0d07c",
+      "dhash": "8000e3d4ec35c020",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-046.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-06.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 6 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 6016,
+      "sha256": "129566132537d4e4c5958b385f76e0c99f51e60913e02ab4bdab2bc22663ec4a",
+      "source_sha256": "ce1cd9b49543d50cd5f96764668af3147c3094aef4ba3c1fa8c95cc217b15e78",
+      "dhash": "12003373495b1061",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-047.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-06.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 6 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 8190,
+      "sha256": "53d20e18f8fbc85751abe6d6d9b1bf8d125cedb8d871f56ad4066e8cb1d80fd0",
+      "source_sha256": "c8b52064a5fac996c4620232c8fc00c97026e1d1a5ae2112086835c79aadeb10",
+      "dhash": "11007b790d1d0008",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-048.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-06.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 6 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 19221,
+      "sha256": "e8f8bfd2967ac80d4488e03a96ce85c4b7ba88cf62da7edf093bc778ddd85d9d",
+      "source_sha256": "d0666c0244419e388e902500d0736f7f3b72136ab5ff5dfe21a268dbea255b25",
+      "dhash": "550075350d1f0008",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-049.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-06.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 6 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 33866,
+      "sha256": "7301520ed57af8d1affc36c688aec47035b9b3ea1354e60bc98fe5b8f82243d6",
+      "source_sha256": "bd6ffcdaf8d9471eb51905745249c1506212673ea61f7c14c0cb7008966e52fb",
+      "dhash": "50087131091b0008",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-050.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-06.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 6 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 53747,
+      "sha256": "8dca20399f62b200afcdec618dd5c7556895dc22e1a82b7b8ac79581677015c1",
+      "source_sha256": "811f649e95b8c649c5f80ed27fc6c362a3c35be4434b1f7436b088ccaebbcb64",
+      "dhash": "200960351b100110",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-051.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-06.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 6 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 62469,
+      "sha256": "af667e909a952be4751de93e576398d35072051c4d90821efffd254d11032e91",
+      "source_sha256": "34514b5eab547c6e5520f4250761326b538ca31ec5b91b165572abe1c2eab9a3",
+      "dhash": "200170310b100010",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-052.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-06.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 6 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 66882,
+      "sha256": "ee6089eabea1cbfd12616998598f6c0863abf3855ce274a026ad930eccf372aa",
+      "source_sha256": "ffcc9fa65c7ef688ff3bfba0f27ba79b1c0b25a437ae3a5190239bd3c4ffdd49",
+      "dhash": "200960311b900110",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-053.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-07.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 7 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 17772,
+      "sha256": "8d3f4d217d02fe3c5adcda96ee9d83199ce276f7e9037b25d69ab1f827dae26b",
+      "source_sha256": "250191b05ef96358e234b6fb0a9a40807c0369733f449c4672003d1ae8b04e86",
+      "dhash": "004000c4c4a00040",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-054.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-07.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 7 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 4735,
+      "sha256": "524f29e5fe12dd7284a6796c93dad19ed3236fe2be5ad04893f76d6012624219",
+      "source_sha256": "342771cae84583bd39c897ebb4dc7823742072d2a42e3179b9b196450145ac27",
+      "dhash": "0100536365630003",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-055.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-07.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 7 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 7045,
+      "sha256": "c4ffd49203edccfbd06a5c204901e9c9291f6b7c58b2330eef41487a28ed03fe",
+      "source_sha256": "20d04aa8f755ea08c13bff0a139f6876bf7d96fb598160ca73a3a11a2653a563",
+      "dhash": "0b000b65253d0001",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-056.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-07.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 7 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 17242,
+      "sha256": "6661cc05d26df4e70546432caec36b37a0d12c1533ea5e95a2b8d9c813a2ada8",
+      "source_sha256": "edbcf163897221491a8ccb9225f07ea210dfecc3aab2b4e440e85e4c0f17d15c",
+      "dhash": "0500672727450001",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-057.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-07.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 7 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 27662,
+      "sha256": "5f25182a478ea8bb7830702d6a8b722d832ddde5184a83aaefd209c0bd6b6f35",
+      "source_sha256": "9541d761ab293fed4867b14800a9dec8ac96fa3acfcb6307f240b6587241d05d",
+      "dhash": "0000430323210001",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-058.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-07.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 7 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 49262,
+      "sha256": "b7351d18bd31874d2b975eeca51624f1ef1316500a0c1ea7f8f36479ab939e9e",
+      "source_sha256": "bccddede54203dcaf66f54e0883340dafab0e1d275c0909486a7c3b4a8f1d15e",
+      "dhash": "0005704123300000",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-059.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-07.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 7 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 60253,
+      "sha256": "2ef2c4d2a569b0b15f149c55d683f13c5ba4f39c902beaf2e00ef50cdf4ab886",
+      "source_sha256": "99c62c03a1e81f7ea77d539763e181b9caf1dd1495d856e0ce198a5ff1b03a56",
+      "dhash": "0001484323000000",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-060.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-07.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 7 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 63425,
+      "sha256": "71062d5d162310920635179ba728facc778050834a9b12702d85ab70aea9d3bf",
+      "source_sha256": "1e91526c2fbeeb61b620f779cf4b501ef544ed53b7bd9e94f9b3979dbfce98a9",
+      "dhash": "0002405333050000",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-061.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-08.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 8 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 141495,
+      "sha256": "403513e4e1f19765833d5628b830ac8cbe01bdd7f2a1803d1ae0383ff3e85882",
+      "source_sha256": "6cf1bd2474318ec5d2a3b2ac4f24c80f5d4cba84a22d256a97184a36e29660a2",
+      "dhash": "2a00bafab4bc0020",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-062.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-08.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 8 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 7666,
+      "sha256": "876976d6d99ae41593447f8c0459f7360a7025e4fdd63bc1c63a3d9638e0b39f",
+      "source_sha256": "bdd5384a8aef5e87656edbc517b03035b6c3179c881429ce26f80dc3ee22c24c",
+      "dhash": "200069696b6b6106",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-063.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-08.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 8 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 11659,
+      "sha256": "1bdcc004ac6621d170dd2d5e06fcc12953fcf8188e536341743b64e338763bce",
+      "source_sha256": "b5f1a7cf6dde4cdfc357b2ef47bbe240993abcc55504af75061b41c62e3ded9b",
+      "dhash": "21406969ebcb0040",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-064.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-08.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 8 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 32790,
+      "sha256": "3dd08c81de9f271c08dd38c2cd58d5433a231932fd779d1669433602f62b0f14",
+      "source_sha256": "cdae28eb1dc2f65e8ab1f4ba39bf16f860cb9b51769d7d2f65c28842b567e2b4",
+      "dhash": "6100696d4b6b000a",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-065.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-08.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 8 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 55588,
+      "sha256": "dfc2d93987cbca859b5c422179ddb526f3c2f3689e90f78c4326e366ba6dd6a4",
+      "source_sha256": "893ab8063da9ccac14c0ab9cbf672fd77cf166462d9ee2f7550674ea056210dd",
+      "dhash": "6a00636d4b4b0042",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-066.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-08.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 8 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 108804,
+      "sha256": "1fee7f6865b020b31c161ec78da01c24728a203b40a2b822539da82dfb18bea1",
+      "source_sha256": "82f169187b15581e3dc6373ee8fa2f15fa5a2cdecb1a134d554b17650b0c5030",
+      "dhash": "610063614b4b0042",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-067.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-08.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 8 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 130754,
+      "sha256": "7459abab920d76b8abd4675277e8645ba9196413847ca2e878612585871296d0",
+      "source_sha256": "eb17dcd2f0674c6ad548c5203b2aac952b910978b2282ee21f41cb628fe86c2f",
+      "dhash": "62006b6d4b4b0042",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-068.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-08.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 8 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 142850,
+      "sha256": "087f995a47568ef260baf6b5a821a2fd3aaade06e7910dc5e6cad18ed0ff663b",
+      "source_sha256": "c1ea05f560b1c03629c74f0a14e9995e2a6740100bae811848d70e3e99ac0e48",
+      "dhash": "6400676d4b430042",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-069.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-09.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 9 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 48117,
+      "sha256": "f85da40a884457cc46dc16c90e154e946b2216ac0dc34bcbaac6c231a50984c8",
+      "source_sha256": "dec42fbf6a46b1db19effe550b56345b0637ec0f9d2b182a307cc5eb84c54366",
+      "dhash": "00c0d5b6a6a6a600",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-070.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-09.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 9 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 8675,
+      "sha256": "248d2c2ce897b1eb2531e7881f369a4763d160c02bb41529150569c12e375f48",
+      "source_sha256": "ea9b409ca3c2e94a45a21e9518f1fe89f7b6312bed8c1f4dbf701b1b39fa948c",
+      "dhash": "b4343a24244b4300",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-071.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-09.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 9 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 12941,
+      "sha256": "84064473e8ca7261c7dc45e7cb0402c7bca3b711d8e68db0d85067bee6ee5c90",
+      "source_sha256": "075b048e4bfa3bab67e6b0547f8ae8069e59d0351b1933adffc24ee4fef5d681",
+      "dhash": "3034302c2c43c300",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-072.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-09.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 9 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 31082,
+      "sha256": "9b783ec4ddf1d70a7ce5b961e3b693ef156a143434b07f768b86e331c91f6748",
+      "source_sha256": "84351817d5b36a925e0e578ed4f439d2c364368f65f78116a098276e3b16d997",
+      "dhash": "0034123c2c434b00",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-073.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-09.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 9 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 49844,
+      "sha256": "ab56d962ec2c1b52f71c78b99614a8d3fad3a53237ae57ae5b32e0b98fe33ea5",
+      "source_sha256": "28c43f8420283bb2aefcb21e8c153b7945b71251085cb887fea354577cc81ab3",
+      "dhash": "003c133c2c614100",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-074.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-09.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 9 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 90209,
+      "sha256": "7f498c331691004d4bc7c468f03c922b3757c166d4f5cc46007ba831d9a381f1",
+      "source_sha256": "3e71b019d30fbc47ceab0aa1e0d6577de9091050529c2678abf85435e997a4e8",
+      "dhash": "0034133c2c414100",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-075.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-10.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 10 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 75411,
+      "sha256": "49e11ee3069635c1712c68bab1bb957811744a5b30cd3286e85d1baa417eeccc",
+      "source_sha256": "7932dbef6eb2de0893f0db5d1e1bd5853767623ad9ad5f659abcc9d7b323e3a1",
+      "dhash": "008090d8d4808800",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-076.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-10.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 10 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 7310,
+      "sha256": "873581de3566e57462f710c4384bc6138f6e4f84422ed75f811622bfaebc1574",
+      "source_sha256": "093ae6181a11cca158b586d1aa9092b824e156e4268b5556db5a603c21016880",
+      "dhash": "40b0735be2767000",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-077.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-10.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 10 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 11312,
+      "sha256": "1ae073e619eaa83a940d1c94f3cf4481e0ce28b9d9f6db996dc0f8b0c5c4f120",
+      "source_sha256": "a402f188283a30a60b097c4f66391b609fd389ce75e8bf790bf246e8f23de874",
+      "dhash": "00a0775763636008",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-078.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-10.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 10 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 25039,
+      "sha256": "9e1c17a446ab85c96a8b97ea30155d10adeab063ef7a7da271748eaf4738e777",
+      "source_sha256": "84011361f255a66754f988cbf6a1373c31bcf53aa2880a27046e6764cbc29c25",
+      "dhash": "006063456b6a6000",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-079.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-10.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 10 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 40891,
+      "sha256": "f91d12146d2b506b8e4309c14af3c4aad78606a2406b224fb65a09812f642f4f",
+      "source_sha256": "2671440d290520f5e8ab1499d2a43d2dd142db5ba435cf68585f9b7420f455ef",
+      "dhash": "00606a45696a7000",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-080.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-10.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 10 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 71006,
+      "sha256": "7c7e9fc12a5733b027e38b22f22d0d2406bff597e358740d519cfd9f9a5d57ab",
+      "source_sha256": "2c13d140836c1c581df80198b1da2f04175a6f1a587652dae84df146cb2a62f2",
+      "dhash": "002069616b606400",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-081.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-10.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 10 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 77373,
+      "sha256": "97ad137ef3a10ed922b2704ef535d715b73b28bc0010355cc9027c3d9cb7e431",
+      "source_sha256": "8d04f1e57e3b78e840f7c08757426c746b76e136e0409fe5f6a5a46f7b6b4ae5",
+      "dhash": "002068676b606400",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-082.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-10.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 10 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 86845,
+      "sha256": "d3038ef0da44ee7cfc9eeaa241065ca26221943042f1692da4b2a39fbc86dd8d",
+      "source_sha256": "e2e67bc0dcb04011f6e5afcf72f545e907f41936a9beaabb9abdecd33614edc8",
+      "dhash": "00a068676b686400",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-083.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-11.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 11 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 53632,
+      "sha256": "735aa65803083f3dfea0062f77b01d11a5734de1c954d993529496878685a26a",
+      "source_sha256": "023fe053005f7ace59b203a038b773aa76868ffd86f6099c244c9ce3a87e0123",
+      "dhash": "108230e4e0a00280",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-084.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-11.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 11 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 6674,
+      "sha256": "f948edc8419bb519aae9530b8850536c9b43bebb3119a29704ea80be3a8279ba",
+      "source_sha256": "9057177f32f1c74751d53a4ab0c4cfd00726f1d5b400f1f6700fe028c6586085",
+      "dhash": "40026f6c19190081",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-085.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-11.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 11 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 10834,
+      "sha256": "3cf8a641a46ade17836d0a7504f736942f88c7c56aa5abb884d4a483abe8ede9",
+      "source_sha256": "9859ce3ec2e16c2fce748416bfd357026b4626e337611da5c35d917932ad0156",
+      "dhash": "401e1f4959130001",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-086.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-11.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 11 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 25719,
+      "sha256": "afe84c80489290406a839682c35a6531dffeffb93b72fb4fe016b3f0df4955d0",
+      "source_sha256": "28f37539756c7c8fb4535b01176795e4ce5c22aa4c6666fb5abbacc964b9c5f8",
+      "dhash": "000b03437d5f0001",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-087.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-11.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 11 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 42842,
+      "sha256": "4b4ba63793cd7a5bd26f40d60f71d56ed2d7ef021d4294ec612f0e292b1873f8",
+      "source_sha256": "790d21792c1d08e77a52592695989c035c8379fde60190b9865a95bfb7bc58d8",
+      "dhash": "08200e0f595a0002",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-088.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-11.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 11 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 74636,
+      "sha256": "61eae731c965e8f994a1ac3e3aebd38f75d1ae6f4adc8c0136f27132406151e6",
+      "source_sha256": "0b06ca63dce47df8b2578f67e7c1362422a908966b241d6b5ee1b2544050e45a",
+      "dhash": "02100e4d5d5a0010",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-089.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-11.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 11 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 84165,
+      "sha256": "adb3dccb4e26638011bbc6b61118c1e681ba5511b50090b066873ac2fea4ad50",
+      "source_sha256": "c0db0b4c3fc53c447a23a9ddce10a3bfb01ba136f96b19730991e9cf6fc1c826",
+      "dhash": "08210e495d5a0050",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-090.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-11.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 11 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 88913,
+      "sha256": "608a4b5c3b01ade8eceb943c39240dcb50cb5854d2085825fbf635bc204be83e",
+      "source_sha256": "16dc0b06f12563ea9a0f025d9c4151e19cdbdd1d96e28283721d67a37835f11d",
+      "dhash": "00210e495d520050",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-091.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-12.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 12 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 48511,
+      "sha256": "b0585b8f01ab7382718629216d3a02242616a938fdc372092b4070cbef742ea3",
+      "source_sha256": "484cf8e4b72f0fb71a4838cb3d9924ebe8feb3414e5252b8b1d1019e1ab3035c",
+      "dhash": "00687071e4c6e500",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-092.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-12.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 12 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 9407,
+      "sha256": "a6adf4364d0b31fad152fd8b0ca39db486dd993504040d58760958c43921f344",
+      "source_sha256": "0d92391abaa7fcfa2855ed81ad4cdf3ab874ea476745084150384f29d3ebbf99",
+      "dhash": "343abe240e822434",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-093.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-12.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 12 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 13433,
+      "sha256": "5b79e1d51ec5f3618d7ef89b9009c73c8a88fee427ef00128d3b1e351ba4015e",
+      "source_sha256": "3db16445e7bb2c0c01cb7bec2755b2e7e656bfdab7e2f6fdaea912fcd22a748b",
+      "dhash": "3430b52d0e416525",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-094.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-12.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 12 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 33064,
+      "sha256": "aced652b63708eaac0a9726372a0f1b9e6e5a9e7ea4cdc033c4f18b3b30cac38",
+      "source_sha256": "1dbc663562ad6f4e6fb87689c913ff0ead576fa5e7ff6db6079aa1da45c55ad5",
+      "dhash": "2834bd0c0d256554",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-095.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-12.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 12 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 51941,
+      "sha256": "f6d698183ffb7991cf37941a6ea49b497137c886f9b30a90e8c423b4b8b1961f",
+      "source_sha256": "7e5345a5fa37f15eab071e688030edfa8aed3eae35706b8502bf977a5874adce",
+      "dhash": "08b4990c4d256510",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-096.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-12.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 12 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 117035,
+      "sha256": "5d7514b53abd670ed4d51290b99c1344bb6f15a057310bc504e5351f9b642f6a",
+      "source_sha256": "dc71675efcf0a90a79ffcd17fc3e920d71d2d0f3dfa9e29c802af578ea1dfe6a",
+      "dhash": "08b49a0c4d256500",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-097.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-13.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 13 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 74584,
+      "sha256": "521fca6f415b77ce667d8c211dadf8479bb2f603163ec93dba74bad7ef96b1ab",
+      "source_sha256": "09b1fd8f2c28c9d462a3de1a603e990282d180c0cd6419ce8adf56b420d63f42",
+      "dhash": "44006decf6298020",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-098.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-13.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 13 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 8424,
+      "sha256": "f3078d4511dce9e8d21e3661f181bf59d81c009b4f248852505eeb00fe9018c5",
+      "source_sha256": "81bf45ffafd22e02bb403143ad392bf23592749dd9a1df016a723e8677b1c90e",
+      "dhash": "4000f2fbd6822a40",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-099.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-13.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 13 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 12187,
+      "sha256": "c244b3bc3cf9a89f389c421b90c5bfa303989b1013e7c3e77ba43f2ef7ede9e2",
+      "source_sha256": "904a768d310cc79b4242fc38b1fba683d4148c825f62aac01efe557844dcc0d0",
+      "dhash": "4000f2f294990010",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-100.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-13.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 13 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 32009,
+      "sha256": "4e0355ee185fa39c26117393689b1df62b5f2cd8157ea2ca87762fcdd713b3ee",
+      "source_sha256": "e2f2ff6c645eb77a78b4ef95f1684e1fdf58443e3d93ee24cb5abf5662858fa1",
+      "dhash": "1100336bd39900a5",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-101.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-13.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 13 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 53141,
+      "sha256": "594ad0ff5e5f266dcfd6c239341bd040681350f6b04bda753b2f8411cc58e02f",
+      "source_sha256": "32d6d450ed484b9e13a5fde7e1888e70f9f469b522d13479dd4b420260396f83",
+      "dhash": "11003969d9994001",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-102.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-13.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 13 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 95210,
+      "sha256": "22d75a561700b8732055c8978e4d1480c7933b07391cabef4b7b317f0155ecdd",
+      "source_sha256": "d57082afd3726c595ba8055cf04302e4965e123419e82df1cd30b36242379151",
+      "dhash": "2000327bcb094000",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-103.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-13.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 13 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 112015,
+      "sha256": "56e4ac582d32434b7f5287c6c8d5286f0e4bc885c9e71b125d84f7bbfec8fe05",
+      "source_sha256": "8ea7c9619580957af303c4e4358af98460fa8c2d0be9313ab7990631f4a9e9a7",
+      "dhash": "0000336bc9094000",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-104.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-13.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 13 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 125522,
+      "sha256": "b14456cfd0c9c73e9513bcb2f786ff7c273f1e75082bb22ea5871a3e8f3ae5fd",
+      "source_sha256": "d5d34e4c50284c3ba6a797ea141b2372692460fbf7c4b9e9f873109d7a9d730a",
+      "dhash": "0000327bcb094001",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-105.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-14.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 14 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 38389,
+      "sha256": "c9accbd025c06052b4594d398976fcde13d9f985d6f2deabeeb491c020d13752",
+      "source_sha256": "ecdb0c369f19765fd1ba4ed58b7ef94fe000d36826646de762b9d31741ce5ed0",
+      "dhash": "00000082a2000000",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-106.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-14.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 14 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 6047,
+      "sha256": "a2c1d7b94281302f02374ae2ad29593e5b5139862247f159ca03d36531c9d119",
+      "source_sha256": "6dcd8d6f8fea52506a840e24e8cbfda648282cf6b63bdcac63f0d0d871343339",
+      "dhash": "0000545456440000",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-107.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-14.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 14 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 8138,
+      "sha256": "7eebe9cd690eb3fd649f61116f23da0ec681935ebad03eb80258f515568544c2",
+      "source_sha256": "7e7ed9fc78a31e7103cb7051b992892ac0b264817b8e48275c0db9bbfb75959a",
+      "dhash": "400045524a490000",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-108.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-14.png&w=256&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 14 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 18984,
+      "sha256": "99aabe957eb1cd897088a89999dfc0ee53760939e57b89d187fba997b75c25b9",
+      "source_sha256": "82c03d6ce68f18e794f98a3a41b5223427cf623b7965f8a666a30429aa2fe953",
+      "dhash": "8014406167420000",
+      "width": 256,
+      "height": 154,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-109.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-14.png&w=384&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 14 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 30907,
+      "sha256": "5ef0329bded393f907ba9e89f7aef3a53d91fb053f643c74be47899784dc52e9",
+      "source_sha256": "9f2e2eb9abf60910f8a7498558704d1a9ab5a371a273be8dbd569e1d7ad2e0b7",
+      "dhash": "0000404171401000",
+      "width": 384,
+      "height": 230,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-110.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-14.png&w=640&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 14 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 53089,
+      "sha256": "557c99bfcb1e99bb80bfc6795d053c14ad2900b912798d17130a8ad9cc594594",
+      "source_sha256": "e930e05a6edcd76f60bd940a583c4dfb7eb4356f3b1573e262cb27cfeaec2e75",
+      "dhash": "0010404b41000100",
+      "width": 640,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-111.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-14.png&w=750&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 14 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 62711,
+      "sha256": "d0c1ebdb4461db6427de162352eeca119cef9a45f23fde1a2a3961eb7e3e8924",
+      "source_sha256": "16a64a8d3826f186e8a4d41e8991fb021d0557870c1ae426763c508a87dc2a21",
+      "dhash": "0000005353000000",
+      "width": 750,
+      "height": 450,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-112.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-14.png&w=828&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 14 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 70705,
+      "sha256": "287a0d9ca4fd7fb68d01774838c281542b68d92a2925463861061bb899cb2e0a",
+      "source_sha256": "129b2ae55651ba5cea2e36be8e8087eeafa2f2bff3a38f65f0f32ad16d6467fe",
+      "dhash": "0000004141000000",
+      "width": 828,
+      "height": 497,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-113.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-15.png&w=3840&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 15 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 14681,
+      "sha256": "c01c3b0ee719df29b3a5abbded5dd65bf66aa5111d1de2f106528645a42795c7",
+      "source_sha256": "020cb56b9c64a9380097ccdbf8513a223a4f2964ce6ee5c99ce185fa1f42e931",
+      "dhash": "400034f4cc670040",
+      "width": 1000,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-114.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-15.png&w=96&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 15 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 2892,
+      "sha256": "327123053ea75185b0d0e0cf2baf3f5b0590c6867e2c2667f92ce3f9139ae0e4",
+      "source_sha256": "47638cd51727f24404166f8f590837616254581d80e15282a771a4a1ef1bda73",
+      "dhash": "4040292b2b2b0000",
+      "width": 96,
+      "height": 58,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/gongcar/logo-115.png",
+      "source_url": "https://www.gongcar.kr/_next/image?url=%2Fimages%2Fintroduce%2Fpartners%2Fpartner-15.png&w=128&q=75",
+      "source_tag": "img:image, img:logo",
+      "context": "img object-contain 공카 파트너사 로고 15 div relative h-20 w-[133px] shrink-0 overflow-hidden mobile:h-10 mobile:w-[67px] div flex shrink-0 items-center gap-[60px] pr-[60px] mobile:gap-5 mobile:pr-5 div flex w-max items-center will-change-transform div relative h-20 w-full overflow-hidden mobile:h-10 div flex w-full flex-col gap-[80px] mobile:gap-10",
+      "content_type": "image/png",
+      "bytes": 3967,
+      "sha256": "93eca3ef18ae5b6a4f1be4e27cde1451497969a58606a64115fefc4a481ef5b6",
+      "source_sha256": "c3645686261232b251cc138386b192a060c8b111b559811dfcc3079511128b5d",
+      "dhash": "00002b2b330c1000",
+      "width": 128,
+      "height": 77,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.gongcar.kr/introduce"
+      ]
     }
   ]
 }

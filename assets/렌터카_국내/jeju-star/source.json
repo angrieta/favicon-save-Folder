@@ -5,7 +5,18 @@
   "page_url": "https://jejustar.co.kr/",
   "page_title": "제주스타 AI 렌트카",
   "collection_status": "complete",
-  "collection_error": "reference:ValueError:https://jejustar.co.kr/assets/video/starai.mp4",
+  "collection_error": "asset:https://m.jejustar.co.kr/assets/css/font/nbg/NanumBarunGothicBold.eot:HTTPError; asset:https://m.jejustar.co.kr/assets/css/font/nbg/NanumBarunGothicBold.woff:HTTPError; asset:https://m.jejustar.co.kr/assets/css/font/nbg/NanumBarunGothicBold.ttf:HTTPError; asset:https://m.jejustar.co.kr/assets/css/font/NanumBarunGothicBold.eot:HTTPError; asset:https://m.jejustar.co.kr/assets/css/font/NanumBarunGothicBold.woff:HTTPError; asset:https://m.jejustar.co.kr/assets/css/font/NanumBarunGothicBold.ttf:HTTPError; asset:https://m.jejustar.co.kr/assets/css/font/NanumGothic-ExtraBold.eot:HTTPError; asset:https://m.jejustar.co.kr/assets/css/font/NanumGothic-ExtraBold.woff2:HTTPError; asset:https://m.jejustar.co.kr/assets/css/font/NanumGothic-ExtraBold.woff:HTTPError; asset:https://m.jejustar.co.kr/assets/css/font/NanumGothic-ExtraBold.ttf:HTTPError; asset:https://jejustar.co.kr/hqdefault.jpg:HTTPError; asset:https://jejustar.co.kr/assets/js/images/icon_cal.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 27,
+    "scripts": 25,
+    "candidates": 292,
+    "attempted_assets": 292,
+    "errors": 46,
+    "collected_at": "2026-09-03T08:09:33.698302+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,1487 @@
       "height": 64
     },
     {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-001.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1784612681.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "n class=\"sound-icon muted\"></span>\n</button>\n</div>\n</div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=407&amp;u=https%3A%2F%2Fnaver.me%2FxuFACMLw\"><img alt=\"조례안\" src=\"https://img.jejustar.co.kr/upload/main/1784612681.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=427&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><i",
+      "content_type": "image/webp",
+      "bytes": 90230,
+      "sha256": "b17ef3610fbf54c930f2357e90a9176ca191086482c78d90f0dd242807ba9b84",
+      "source_sha256": "9a6e1da7465ca211da00ede129d167cc72ac1727cdae51fd88e0696007fe4cb3",
+      "dhash": "071f276765256569",
+      "width": 1920,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-002.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1785370305.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ".jejustar.co.kr/upload/main/1784612681.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=427&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\"노셔틀\" src=\"https://img.jejustar.co.kr/upload/main/1785370305.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=429&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><i",
+      "content_type": "image/webp",
+      "bytes": 103906,
+      "sha256": "6296c6c8cb17b0786a1b47bb14ffea3a77f2f686c8a806eefb99dc8286f2ffcd",
+      "source_sha256": "216d8cabf915113d3c33dd3adc79e9691dc5f1829b65b4cf0e520a3931e08277",
+      "dhash": "0691917051697979",
+      "width": 1920,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-003.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1784612681.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "</div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"main/go?s=407&amp;u=https%3A%2F%2Fnaver.me%2FxuFACMLw\"><img alt=\"조례안\" src=\"https://img.jejustar.co.kr/upload/main/1784612681.png\"/></a> </div>\n</div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"",
+      "content_type": "image/webp",
+      "bytes": 71272,
+      "sha256": "224a9dc174c32bb957c6c1a28b124251811ff09c3001340cb1e4916285fac180",
+      "source_sha256": "0669638dd50418b8d277d05a783560e7b9a34d0812ffeb4954f9e17c0435167d",
+      "dhash": "82c3c3e3c3ec8e0e",
+      "width": 1000,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-004.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1786087395.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ar.co.kr/upload/main/1785370305.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=429&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\" 왜공항왜공항왜공항\" src=\"https://img.jejustar.co.kr/upload/main/1786087395.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=428&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><i",
+      "content_type": "image/webp",
+      "bytes": 71876,
+      "sha256": "b099eea0c418fac79ee3b7ecc0d586a94c0df23aab4d4085c2af30a3063823b0",
+      "source_sha256": "e6db26df7f857a1e25f93b36164ccb6a3f972fb5e53e89f67c067949226b595e",
+      "dhash": "1c68716979796969",
+      "width": 1920,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-005.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1785370306.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"main/go?s=427&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\"노셔틀\" src=\"https://img.jejustar.co.kr/upload/main/1785370306.jpg\"/></a> </div>\n</div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"",
+      "content_type": "image/webp",
+      "bytes": 122686,
+      "sha256": "dbb6b3abad580bc19eab12b1c0485c80a5f6f1fad7d5ad42a9063bea50b1861d",
+      "source_sha256": "b89a0bc0a707c05ee0af86b6af8d71ca5d3182fa77fb2750450021d8a1e7320f",
+      "dhash": "3c11978ed49898b0",
+      "width": 1000,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-006.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1786003547.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "jejustar.co.kr/upload/main/1786087395.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=428&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\"이제그만\" src=\"https://img.jejustar.co.kr/upload/main/1786003547.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=417&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><i",
+      "content_type": "image/webp",
+      "bytes": 86540,
+      "sha256": "82dc064bb80a8c3bc91f7940ab64c9e3bb4350550927d15afbad25f336411c05",
+      "source_sha256": "6859e733e8ca6fa1fa210d7a5110490f07901f336f2e5cb901e2c5e2380e6f3c",
+      "dhash": "71cecce54446361b",
+      "width": 1920,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-007.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1786087368.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "iv class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"main/go?s=429&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\" 왜공항왜공항왜공항\" src=\"https://img.jejustar.co.kr/upload/main/1786087368.jpg\"/></a> </div>\n</div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"",
+      "content_type": "image/webp",
+      "bytes": 104702,
+      "sha256": "7f583a27c25864c95abf3a3069c865d3ae2899a2cd3909dc9135210fc4005272",
+      "source_sha256": "9fbf5650d25bdecb6ff588c013238d81d6ca09debc78277a29e018ffffd0a569",
+      "dhash": "9af0cc1b592a4a5a",
+      "width": 1000,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-008.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1785194685.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ejustar.co.kr/upload/main/1786003547.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=417&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\"소중한시간\" src=\"https://img.jejustar.co.kr/upload/main/1785194685.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=425&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><i",
+      "content_type": "image/webp",
+      "bytes": 81476,
+      "sha256": "d52eaf6475959e40beb7c29def5ee7244573c59fea7324ff84b470188d17de5f",
+      "source_sha256": "0b23689ecae972cf460272dadc9db3ed607a9442968a1fd708965029ebc4e692",
+      "dhash": "b2b2717979797984",
+      "width": 1920,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-009.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1786003548.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "iv>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"main/go?s=428&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\"이제그만\" src=\"https://img.jejustar.co.kr/upload/main/1786003548.jpg\"/></a> </div>\n</div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"",
+      "content_type": "image/webp",
+      "bytes": 72758,
+      "sha256": "141d35b1273bbf42604be374dbad474859f0bc8b5ff3a27fb0d94d0e9dfca9c5",
+      "source_sha256": "64b8778abab01e80d73eb0fd4688f8bb51a08a1c1ed5ed3a840cab3baaa8338e",
+      "dhash": "8ca6fc29090c2c11",
+      "width": 1000,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-010.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1786087036.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ar.co.kr/upload/main/1785194685.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=425&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\"차량가격이렇게될거다\" src=\"https://img.jejustar.co.kr/upload/main/1786087036.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=414&amp;u=https%3A%2F%2Flumiverse.kr\"><img alt=\"루",
+      "content_type": "image/webp",
+      "bytes": 163654,
+      "sha256": "bd7423c52688ac905b926927780301326d3bee963f0d03d1d75865675e31b56e",
+      "source_sha256": "c2fc64fe7f26e3f0bcae6a9b85a17558f044d6bf01d35539fb2784d6d3c31269",
+      "dhash": "23d44acbe94b1b56",
+      "width": 1920,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-011.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1785194686.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "v>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"main/go?s=417&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\"소중한시간\" src=\"https://img.jejustar.co.kr/upload/main/1785194686.jpg\"/></a> </div>\n</div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"",
+      "content_type": "image/webp",
+      "bytes": 113396,
+      "sha256": "2231feecf3a3bd17a0e3eacc642834acb821959ad490d5dabfdf030430b7bbdc",
+      "source_sha256": "a172b9fef46ff28a2cd44656842d97f02e3b9bb0025bd638bf2dc78e633755bd",
+      "dhash": "e8fa485c5e5a8b4f",
+      "width": 1000,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-012.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1783575174.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ps://img.jejustar.co.kr/upload/main/1786087036.jpg\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=414&amp;u=https%3A%2F%2Flumiverse.kr\"><img alt=\"루미너스\" src=\"https://img.jejustar.co.kr/upload/main/1783575174.png\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=406&amp;u=https%3A%2F%2Fjejustar.co.kr%2Frent%2Fd",
+      "content_type": "image/webp",
+      "bytes": 233588,
+      "sha256": "4b63d7c5c6e83cebb9a270956b73d954708642efc3d187253980303b37cd382c",
+      "source_sha256": "67ad1b2000d0325280f8491dabc1c8eaeeecf31f666d7189488c951140baf9de",
+      "dhash": "581c2c28c8e8dc58",
+      "width": 1920,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-013.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1786087036.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "iv class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"main/go?s=425&amp;u=https%3A%2F%2Fjejustar.co.kr%2Fmain\"><img alt=\"차량가격이렇게될거다\" src=\"https://img.jejustar.co.kr/upload/main/1786087036.png\"/></a> </div>\n</div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"",
+      "content_type": "image/webp",
+      "bytes": 110140,
+      "sha256": "73417274a3cf243da68b47d20281bfba9b0bf00c474662d2e6cfe96d2f7106be",
+      "source_sha256": "4b9ac6f42a8b58bbcc605df4e8bd25ca70baa56ea30025efe0f9753faee4d701",
+      "dhash": "a6dbcbdb394b4d45",
+      "width": 1000,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-014.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1769671514.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "d/main/1783575174.png\"/></a> </div>\n<div class=\"item\" data-is-video=\"0\">\n<a href=\"/main/go?s=406&amp;u=https%3A%2F%2Fjejustar.co.kr%2Frent%2Fdirections_info\"><img alt=\"차고지변경 \" src=\"https://img.jejustar.co.kr/upload/main/1769671514.png\"/></a> </div>\n</div>\n<!-- //slideList -->\n<!-- thumsList -->\n<div class=\"owl-controls\">\n<div class=\"owl-dots thumbsList\"",
+      "content_type": "image/webp",
+      "bytes": 57806,
+      "sha256": "b653e000949bc7f1e33d2aa133e617a27b13d1b67f7d2df35aba7193e8d50471",
+      "source_sha256": "b1be05b85abced22f15f3e8eaeb273cb9e11332e1a8e8748042e2cf140b43a4c",
+      "dhash": "0892696423302404",
+      "width": 1920,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-015.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1783415505.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/div>\n</div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"main/go?s=414&amp;u=https%3A%2F%2Flumiverse.kr\"><img alt=\"루미너스\" src=\"https://img.jejustar.co.kr/upload/main/1783415505.jpg\"/></a> </div>\n</div>\n<div class=\"clear\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"",
+      "content_type": "image/webp",
+      "bytes": 157446,
+      "sha256": "d60a7977fb615ccf0acd19fe2fc66ac5937d1fcffaad2295c7363b3a3f53e815",
+      "source_sha256": "b4b8ee64f97045e034c83c289da70b0128c5814a18c0dcf391c31a88d55e4bab",
+      "dhash": "292754cd69697969",
+      "width": 1000,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-016.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1776411242.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "e\">\n<!-- slideList -->\n<div class=\"list\">\n<div class=\"item\" data-is-video=\"1\">\n<div class=\"video-slide-wrap\">\n<video autoplay=\"\" class=\"slide-video\" muted=\"\" playsinline=\"\" poster=\"https://img.jejustar.co.kr/upload/main/1776411242.jpg\" preload=\"auto\">\n<source src=\"https://jejustar.co.kr/assets/video/starai.mp4\" type=\"video/mp4\"/>\n</video>\n<button aria-l",
+      "content_type": "image/webp",
+      "bytes": 131886,
+      "sha256": "36703d311042a2e3fb4eb370ebf4c308a56699d5fd4a9c0c293d787134b61d0b",
+      "source_sha256": "e2200b02e721909c68097239c4fe0428f1172263a28213a44c10a06119e7b28f",
+      "dhash": "f059e2c9dc969190",
+      "width": 1920,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-017.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1769671515.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "r\"></div>\n</li>\n<li>\n<div class=\"main_banner_img\">\n<div class=\"centered\">\n<a href=\"main/go?s=406&amp;u=https%3A%2F%2Fjejustar.co.kr%2Frent%2Fdirections_info\"><img alt=\"차고지변경 \" src=\"https://img.jejustar.co.kr/upload/main/1769671515.png\"/></a> </div>\n</div>\n<div class=\"clear\"></div>\n</li>\n</ul>\n</div>\n<div class=\"clear\"></div>\n</div>\n<!-- //메인슬라이드 -->\n<st",
+      "content_type": "image/webp",
+      "bytes": 54768,
+      "sha256": "746b5db193585986aea3a7e11dd58609b67149ec264ee79b8eddeaf683c6049a",
+      "source_sha256": "d350b271065e6a3591ccbe8397279721e58b41fc85f6580d7a014c983ba80da5",
+      "dhash": "a482b6c4e0e5cb23",
+      "width": 1000,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-star/logo-001.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/logo_ai.png?3=",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "예약확인/취소</a></li>\n</ul>\n</div>\n<!-- //utilNav -->\n</div>\n<!-- //headerTop -->\n<!-- headerBottom -->\n<div class=\"headerBottom\">\n<h1 class=\"logo\">\n<a href=\"/\">\n<img alt=\"제주스타렌터카\" src=\"/assets/images/logo_ai.png?3\" style=\"\"/>\n</a>\n</h1>\n<!-- gnb -->\n<div id=\"gnb\">\n<ul class=\"depth1\">\n<li style=\"width: 90px;\">\n<a href=\"/rent/car_list",
+      "content_type": "image/webp",
+      "bytes": 1466,
+      "sha256": "2fbecbf98c668afacd499fae28eadfc7f735f9a52a3aafa81668b500deed453b",
+      "source_sha256": "d32340fcea5bd019da311c93045a0fb680aa02fa02b3c9df9a3cb212658d7f94",
+      "dhash": "035a5a5e3a3a1f35",
+      "width": 176,
+      "height": 33,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/",
+        "https://jejustar.co.kr/event/event_list",
+        "https://jejustar.co.kr/event/event_list/display/end",
+        "https://jejustar.co.kr/event/fighting_list",
+        "https://jejustar.co.kr/event/fighting_list?page=2",
+        "https://jejustar.co.kr/event/fighting_list?page=3",
+        "https://jejustar.co.kr/event/fighting_list?page=4",
+        "https://jejustar.co.kr/event/fighting_list?page=5",
+        "https://jejustar.co.kr/event/fighting_list?page=6",
+        "https://jejustar.co.kr/event/fighting_list?page=7",
+        "https://jejustar.co.kr/event/fighting_list?page=8",
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3",
+        "https://jejustar.co.kr/rent/directions_info",
+        "https://jejustar.co.kr/rent/rental_info"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jeju-star/social-001.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/meta_image.jpg",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "eta content=\"website\" property=\"og:type\"/>\n<meta content=\"끌리면 타라! 제주스타렌터카\" property=\"og:title\"/>\n<meta content=\"제주렌터카 이용객 8명 중 1명은 제주스타★\" property=\"og:description\"/>\n<meta content=\"https://jejustar.co.kr/assets/images/meta_image.jpg\" property=\"og:image\"/>\n<meta content=\"http://jejustar.co.kr/\" property=\"og:url\"/>\n<!--[if lt IE 9]>\n\t<script src=\"http:/",
+      "content_type": "image/webp",
+      "bytes": 87276,
+      "sha256": "10a6895f36af2fd11e7481007d864a8d283689aa11bf3519cd7a379ec3d859be",
+      "source_sha256": "b2a83fd170a47f57a5456a6040523da2eeb7145456097456564341e9dcc9dab8",
+      "dhash": "96939c6c460d09bc",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/",
+        "https://jejustar.co.kr/event/event_list",
+        "https://jejustar.co.kr/event/event_list/display/end",
+        "https://jejustar.co.kr/event/fighting_list",
+        "https://jejustar.co.kr/event/fighting_list?page=2",
+        "https://jejustar.co.kr/event/fighting_list?page=3",
+        "https://jejustar.co.kr/event/fighting_list?page=4",
+        "https://jejustar.co.kr/event/fighting_list?page=5",
+        "https://jejustar.co.kr/event/fighting_list?page=6",
+        "https://jejustar.co.kr/event/fighting_list?page=7",
+        "https://jejustar.co.kr/event/fighting_list?page=8",
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3",
+        "https://jejustar.co.kr/rent/directions_info",
+        "https://jejustar.co.kr/rent/rental_info",
+        "https://m.jejustar.co.kr/",
+        "https://m.jejustar.co.kr/event/event_list?display=1",
+        "https://m.jejustar.co.kr/guide"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-star/logo-002.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/main/pop_cctv_title.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "->\n</div>\n<!-- // 회사소개 -->\n</div>\n</div>\n<!-- //content-->\n<div class=\"pop_cctv\" id=\"pop_cctv\" style=\"display: none;\">\n<div class=\"pop_cctv_box\">\n<p class=\"title\"><img alt=\"-\" src=\"/assets/images/main/pop_cctv_title.png\"/></p>\n<p class=\"txt\"><img alt=\"-\" src=\"/assets/images/main/pop_cctv_txt.png\" style=\"margin-top:6px;\"/></p>\n<div class=\"",
+      "content_type": "image/webp",
+      "bytes": 12468,
+      "sha256": "70b7e921d5f061a02e7c13ccff80dd0b61cf78b97d1c4a2a2b46915ca64f64c3",
+      "source_sha256": "090ae398f943d344a5ad38b1a77184616e59b9675705123f6d12c6b348f0d03a",
+      "dhash": "969696b05551514d",
+      "width": 658,
+      "height": 76,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-star/logo-003.png",
+      "source_url": "https://img.jejustar.co.kr/popup/1787108339.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "order=\"0\" src=\"https://img.jejustar.co.kr/popup/btn_close.png\"/></a></div>\n<div>\n<div class=\"lv_box\" style=\" height: 550; width: 450; overflow: hidden;\"><img alt=\"\" border=\"0\" src=\"https://img.jejustar.co.kr/popup/1787108339.png\" usemap=\"#map_popup_414\"/></div>\n</div>\n</div>\n<script type=\"text/javascript\">\n\t\t\tif (getCookie(\"popup_layer_414\") != \"d",
+      "content_type": "image/png",
+      "bytes": 308002,
+      "sha256": "44d21ab6a6da63aac32d3de6553c1f21c7df2b4a1e6dbead39d7463b0b32eed8",
+      "source_sha256": "5e8f0b630b7e6e2fc4f07da8edf6acdb7140edd8b2a7c18be2b02173fdbc49c6",
+      "dhash": "2bab716971b28686",
+      "width": 410,
+      "height": 550,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-018.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/main/190527_04.jpg",
+      "source_tag": "external-css",
+      "context": "ter; background:#e9e9e9; padding-top: 20px; height: 320px;}\n.main_03 {width: 100%; text-align: center; margin-bottom: 40px; margin-top: 20px;}\n.main_04 {\n\twidth: 100%; text-align: center; height: 370px; padding:137px 0 0 0; box-sizing: border-box;\n\tbackground:url(/assets/images/main/190527_04.jpg) center top; margin-bottom:10px; background-size: cover;}\n\t.main_04 .main_btn_01 {margin-right: 20px;}",
+      "content_type": "image/webp",
+      "bytes": 38996,
+      "sha256": "c3492073d8f82520ebd72b19ca3cb7a9530582cd0de73f82f058604fa37f0a62",
+      "source_sha256": "009e80c807ddc2a7073004a8343e516a0bbc8bef068ef515688ef01167ab446f",
+      "dhash": "0106060706060405",
+      "width": 1920,
+      "height": 370,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-001.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/bg_bestcar.jpg",
+      "source_tag": "external-css",
+      "context": "tCars .owl-nav { font-size: 0; }\n\n#bestCars .mmm_text{ font-size: 18px; padding:0 15px 15px 15px; font-family:NanumSquare; letter-spacing:-0.5px; color:#1b5fd0; display:none; }\n/*bestCars E*/\n\n/* starBestCars */\n#starBestCars { position: relative; background: url(/assets/images/bg_bestcar.jpg) no-repeat center top; padding-bottom: 0; margin-top: 0; }\n#starBestCars .list { position: relative; width",
+      "content_type": "image/webp",
+      "bytes": 37360,
+      "sha256": "0905ac2a50cdacf6f248cae046bad5a7355bc1a9eabf762eee8009765d76e4eb",
+      "source_sha256": "15409f9dd60de60b1689cd6c9de58bde128157f554ee4a5c4709c97fd07c2c29",
+      "dhash": "0101718d4e562464",
+      "width": 1920,
+      "height": 452,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-star/logo-004.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/common/footer_logo_v4.png",
+      "source_tag": "external-css",
+      "context": "ft: 0; }\n\t\t\t#footerNav ul li a { font-size: 15px; color: #333; font-family: 'Malgun Gothic', 'Nanum Gothic' !important; }\n\n\n\n#footer .footerBottom .copyright { position: relative; width: 1060px; margin: 0 auto; font-size: 12px; padding: 20px 50px; background: url('/assets/images/common/footer_logo_v4.png') right 55px no-repeat;}\n\t#footer .footerBottom .copyright span { display: block; line-height:",
+      "content_type": "image/webp",
+      "bytes": 3044,
+      "sha256": "f12bc37c863a00272cc0cb0153b04505c69c7d9a05a51f163d704227c18699d5",
+      "source_sha256": "7fe41ffcd5bb3a963b049a70ba9b3452f2638175507d50452d37e10b9570a8ee",
+      "dhash": "0e0e0c0e2e2c0e2c",
+      "width": 460,
+      "height": 54,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-002.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/main_06.jpg",
+      "source_tag": "external-css",
+      "context": "¸ ìì  ê´ë ¨ 2016-08-31 */\n\n/* ìì¬ê°ì  */\n#star_info{ background:url(/assets/images/main_03.jpg) center bottom no-repeat; text-align: center; width: 100%; margin-top: 30px;}\n#star_info img{ margin: auto auto;}\n\n/* íì¬ìê° */\n#ci_info{ background:url(/assets/images/main_06.jpg) center top no-repeat; text-align: center; width: 100%; margin-top: 30px; height: 454px;}\n#ci_info img{ margi",
+      "content_type": "image/webp",
+      "bytes": 143696,
+      "sha256": "98cc407f7423f72a743fbfa2bb426cf0027a0ef38b8071a536c256b8d38e8e15",
+      "source_sha256": "9d5851b174808f60d40ee7a2eeafa1f442feaaa5da27ac6cfbe0ad9cefbec4bf",
+      "dhash": "0f1f2f1f0fde4d4d",
+      "width": 1920,
+      "height": 453,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-star/logo-005.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/logo_ai_m.png?4=",
+      "source_tag": "external-css",
+      "context": "er_right.png) 0 0 no-repeat;\n\t\t\tbackground-size: 23px;\n\t\t\tbackground-position: right;\n\t\t\t}\n\t\t#header_gr .logo_box {\n\t\t\tmargin: auto auto; margin-top: -23px;\n\t\t\t}\n\t\t\t#header_gr .logo_box .logo { width:150px ; height: 29px; display:inline-block;\n\t\t\t\tbackground: url(/assets/images/logo_ai_m.png?4) 0 0 no-repeat;\n\t\t\t\tbackground-size: 150px 29px;\n\t\t\t\tbackground-position: center;\n\t\t\t\tmargin: auto auto;\n",
+      "content_type": "image/webp",
+      "bytes": 1330,
+      "sha256": "18b5e62f3d7e000c07a57845ad9d0e2c0832212ee2dbfcd9e2a2d6522537fb19",
+      "source_sha256": "a039e370cd08fcfe5a31d92033adfba9ea0fd71885b9d82931ccfa8971a64fb5",
+      "dhash": "035a5a5f3a3a3f35",
+      "width": 150,
+      "height": 29,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-star/logo-006.png",
+      "source_url": "https://m.jejustar.co.kr/assets/images/logo_b.png",
+      "source_tag": "external-css",
+      "context": "und-color:#f7f7f7 !important;}\n.join .header_gr{padding:24px 0 10px 0; margin-bottom:0 !important;}\n\t.join .logo_gr{float:inherit !important; text-align:center; margin:auto auto;}\n\t.join .logo_gr .logo{width:75px; height:33px; display:inline-block; background:url(../images/logo_b.png) 0 0 no-repeat; background-size:75px;}\n\t.join .btn_gr{float:inherit !important; display:none;}\n*/\n\n.join .content{w",
+      "content_type": "image/png",
+      "bytes": 6820,
+      "sha256": "d376aced99956ab07e834cc47419a8121e16990da3b42bbd54de92aa0c6c8137",
+      "source_sha256": "bebbb478a58616fb23c8a1f9727e8597174cb9406258bfabded236cfb4542021",
+      "dhash": "3d55652553456547",
+      "width": 150,
+      "height": 66,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-star/logo-007.png",
+      "source_url": "https://m.jejustar.co.kr/assets/images/logo_g.png",
+      "source_tag": "external-css",
+      "context": "-sizing: border-box;\n\tfont-weight:normal; text-decoration: none; font-size: 15px; float: left; text-align: left;\n\tfont-family: Nanum Square, Nanum Gothic, Malgun Gothic, sans-serif !important;\n}\n\n.sv_menu_gr .sv_menu_00{ width: 100%; height: 58px; background: url(/assets/images/logo_g.png) center 16px no-repeat #fff; background-size: 90px;}\n\t.sv_menu_gr .sv_menu_00 span{display: none;}\n\n.sv_menu_g",
+      "content_type": "image/png",
+      "bytes": 4790,
+      "sha256": "cd43ce21d9d69423874e6613ca6fda24eab5a43be5f85f05e8197fcfd7ba22ec",
+      "source_sha256": "b12a1edf15f9e02748d55b97bb8d15b63e8f94b6abd1d8576fff6012946892b2",
+      "dhash": "a2a2a2a2a2a2a2a2",
+      "width": 180,
+      "height": 52,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-019.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1472176032.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "Reserv').show();\n</script>\n<!-- //header -->\n<!-- content -->\n<div class=\"contentWrap event\">\n<!-- subVisual -->\n<div id=\"subVisual\">\n<div class=\"list\">\n<div class=\"item\"><img src=\"https://img.jejustar.co.kr/upload/main/1472176032.jpg\"/></div>\n</div>\n<h2><span>이벤트</span></h2>\n</div>\n<!-- //subVisual -->\n<div id=\"content\">\n<!-- contentTop -->\n<div class=",
+      "content_type": "image/webp",
+      "bytes": 117140,
+      "sha256": "a9c5bd5d88b8bb1489e269e046a0f630c18b8a9833f2924b5d9fff0a620754af",
+      "source_sha256": "5f514996a1aa0a74f5d2d5bd3915fdb28b57abcb1762f643b73199233f5b40af",
+      "dhash": "27373e3c363d5f4e",
+      "width": 1920,
+      "height": 390,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/event/event_list",
+        "https://jejustar.co.kr/event/event_list/display/end",
+        "https://jejustar.co.kr/event/fighting_list",
+        "https://jejustar.co.kr/event/fighting_list?page=2",
+        "https://jejustar.co.kr/event/fighting_list?page=3",
+        "https://jejustar.co.kr/event/fighting_list?page=4",
+        "https://jejustar.co.kr/event/fighting_list?page=5",
+        "https://jejustar.co.kr/event/fighting_list?page=6",
+        "https://jejustar.co.kr/event/fighting_list?page=7",
+        "https://jejustar.co.kr/event/fighting_list?page=8"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-003.webp",
+      "source_url": "http://jejustar.co.kr/assets/images/app/app_event_sns_f.jpg",
+      "source_tag": "script-data",
+      "context": "벤트\";\n\tvar desc1 = \"렌터카 할인은 기본! 여행정보와 주유소 위치까지 한번에!\";\n\tvar desc2 = \"제주스타 APP 리뉴얼 기념 특급 이벤트!! 렌터카 할인은 기본! 여행정보와 주유소 위치까지 한번에!\";\n\tvar hashtag = \"제주스타 APP 리뉴얼 기념 특급 이벤트\";\n\tvar image = \"http://jejustar.co.kr/assets/images/app/app_event_sns_f.jpg\";\n\n\tif (sType == 'b')\n\t\tpopupBlog();\n\telse if (sType == 'k')\n\t\tshareKakaostory(desc2, sShortUrl);\n\telse if (sType == 'f'",
+      "content_type": "image/webp",
+      "bytes": 25964,
+      "sha256": "dcd5d7d073f27aac82ede3782c6e4d6cf8f642c2e8d99ee95e77fb3b22917cdc",
+      "source_sha256": "3f644899e8b54c135b627683a69134cbe56a7ea15e84b36569b5feadd4596f42",
+      "dhash": "a3a7b5e2abaf9e9f",
+      "width": 530,
+      "height": 280,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/event/event_list",
+        "https://jejustar.co.kr/event/fighting_list"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-004.webp",
+      "source_url": "http://new.jejustar.co.kr/assets/images/app/app_event_sns_b.jpg",
+      "source_tag": "script-data",
+      "context": "ent/event_pop_close.png\" alt=\"닫기\"></a></div>';\n\tsHtml +='\t<div class=\"event_pop_selected\">아래 내용을 복사하여 블로그에 올려주세요.</div>';\n\tsHtml +='\t<textarea class=\"in_box\">';\n\tsHtml +='<img src=\"http://new.jejustar.co.kr/assets/images/app/app_event_sns_b.jpg\" sqeid=\"QE_147520235068292331\"><br><br>';\n\tsHtml +='<strong style=\"font-size:18px;color:#ff4800\">제주스타 APP 리뉴얼 기념 특급 이벤트<",
+      "content_type": "image/webp",
+      "bytes": 71980,
+      "sha256": "218508b35b6b71dfa71ac62f43a270c28165139f0bc65c69305555fa89d26efe",
+      "source_sha256": "e6a13d49166d34de1a14f98b681fb35b91d3ac3c1ff675da3d57ec0517fb9f0f",
+      "dhash": "a2b3a19ccabeb6f6",
+      "width": 900,
+      "height": 900,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/event/event_list",
+        "https://jejustar.co.kr/event/fighting_list"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-020.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/carlist_bn.jpg?1=",
+      "source_tag": "script-data",
+      "context": "false;\n\nfunction getReserveCarList(car_kind, car_kind_gubun, kind_str, gubun)\n{\n\tvar check_import = false;\n\n\t$('.list_bt_banner img').show();\n\t$('.list_bt_banner img').attr('src', '/assets/images/car/carlist_bn.jpg?1'); // 리스트하단 기본 배너 이미지 경로\n\n\tsc_car_kind_gubun = car_kind_gubun;\n\n\t$.ajax({\n\t\ttype: 'POST',\n\t\turl: '/rent/getReserveCarLis",
+      "content_type": "image/webp",
+      "bytes": 56446,
+      "sha256": "bb382313fd09c1d27c998d4bab299edf3a93fbdcd8381d3fb2d2f526d8739d98",
+      "source_sha256": "9a03990f692e8a70aec49b5da3ff2ddd387cb2d78f848541d14310fd3d91e8ff",
+      "dhash": "f1b1a3b6dab4a6d0",
+      "width": 1060,
+      "height": 420,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-star/banner-021.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/main/1776411243.jpg",
+      "source_tag": "html-data",
+      "context": "class=\"item\">\n<ul class=\"content-slider\">\n<li>\n<div class=\"video-slide-wrap\">\n<div class=\"main_banner_video\">\n<video autoplay=\"\" class=\"slide-video\" muted=\"\" playsinline=\"\" poster=\"https://img.jejustar.co.kr/upload/main/1776411243.jpg\" preload=\"auto\">\n<source src=\"https://jejustar.co.kr/assets/video/starai.mp4\" type=\"video/mp4\"/>\n</video>\n</div>\n<button",
+      "content_type": "image/webp",
+      "bytes": 63882,
+      "sha256": "36102bc7bfd8af8a40880b0220977873018550ee1154609ee5fb2ef0ff22f097",
+      "source_sha256": "595d29dd7262b4ea851bdfd7cfac78f3a074d340dd84bbb73c7e6fc3a7f6fc3e",
+      "dhash": "c031b0583a226044",
+      "width": 1000,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-005.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/guide/main_btn_a.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "- // 타이틀 -->\n<div>\n<!-- 내용 -->\n<div class=\"txt_c mt10 mb20\">고객님의 편안한 여행을 위해<br/>이용안내를 제공합니다.</div>\n<div class=\"main_in_gr\">\n<a href=\"/guide/star_a_01\"><img class=\"main_btn_bn\" src=\"/assets/images/guide/main_btn_a.jpg\"/></a>\n<a href=\"/guide/star_b_09\"><img class=\"main_btn_bn\" src=\"/assets/images/guide/main_btn_b.jpg\"/></a>\n<a href=\"/gui",
+      "content_type": "image/webp",
+      "bytes": 11108,
+      "sha256": "bb289fe9a50f82826d3ace2f888a353497f2f8ad1f920c6e49f27e7eb292b85e",
+      "source_sha256": "0f88720e6db11bddd5bb3cdb66a8aafd077e516b698556e59ccd60f584b1bf51",
+      "dhash": "4494646466242524",
+      "width": 640,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/guide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-006.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/guide/main_btn_b.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "div class=\"main_in_gr\">\n<a href=\"/guide/star_a_01\"><img class=\"main_btn_bn\" src=\"/assets/images/guide/main_btn_a.jpg\"/></a>\n<a href=\"/guide/star_b_09\"><img class=\"main_btn_bn\" src=\"/assets/images/guide/main_btn_b.jpg\"/></a>\n<a href=\"/guide/star_c_01\"><img class=\"main_btn_bn\" src=\"/assets/images/guide/main_btn_c.jpg\"/></a>\n<div class=\"c",
+      "content_type": "image/webp",
+      "bytes": 14736,
+      "sha256": "4d1b0ed12a1a656e8907a94b9ec3cab93a66335ca35919bf43a318274ddc8f88",
+      "source_sha256": "72cf63469f32393736d6f3f4d4c0be4e056aa3a70d44d28c3e90b28cf5328ac6",
+      "dhash": "288a383830228210",
+      "width": 640,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/guide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-007.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/guide/main_btn_c.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "e/main_btn_a.jpg\"/></a>\n<a href=\"/guide/star_b_09\"><img class=\"main_btn_bn\" src=\"/assets/images/guide/main_btn_b.jpg\"/></a>\n<a href=\"/guide/star_c_01\"><img class=\"main_btn_bn\" src=\"/assets/images/guide/main_btn_c.jpg\"/></a>\n<div class=\"clear\"></div>\n<!-- div class=\"select_tit\">전체 메뉴 보기</div -->\n<select class=\"select_list_01 wd80\" id=\"s",
+      "content_type": "image/webp",
+      "bytes": 9684,
+      "sha256": "8869f7186366f777d831ca60d9697bae398791bcc61466b4976791162b24d037",
+      "source_sha256": "8fddbecb35f1e5b3f6868b941347cb6ee8cc561daf9e51b6b6e9d6955c69a951",
+      "dhash": "11923a7c36769013",
+      "width": 640,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/guide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-008.webp",
+      "source_url": "https://img.jejustar.co.kr/upload/event/upload_star/ee38bc9ad25a9b9ba6cad45f930c4903.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "nt-slider\">\n<li>\n<div class=\"m_event_img\">\n<div class=\"centered\"><a href=\"javascript:;\" onclick=\"location.href='/event/event_detail?seq=168&amp;main=Y'\"><img class=\"landscape\" src=\"https://img.jejustar.co.kr/upload/event/upload_star/ee38bc9ad25a9b9ba6cad45f930c4903.png\"/></a></div>\n</div>\n<div class=\"clear\"></div>\n</li>\n</ul>\n</div>\n<div class=\"clear\"></div>\n</div>\n</div>\n</div><!-- //co",
+      "content_type": "image/webp",
+      "bytes": 25884,
+      "sha256": "f0389076d8025d3318e7db2c173dfc135ac08dc9dde0ef8eef25f96c1f2cf613",
+      "source_sha256": "fcfc725aac4c26d04a281d03e0a3593f33e20167e196404e08b8dda951af94dd",
+      "dhash": "4515614555495d49",
+      "width": 877,
+      "height": 296,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-009.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/bus_map_01.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "dp_inb\"><b>셔틀버스 운영 시간 : 08:00 ~ 20:00</b> (배차간격 : 약20분 간격)</span-->\n<h3 class=\"mt_50\">공항 &gt; 셔틀버스 탑승 상세 설명</h3>\n<div class=\"float_l wd_50p\">\n<img alt=\"이미지 약도\" class=\"wd_100p\" src=\"/assets/images/car/bus_map_01.jpg\"/>\n<span>1</span> 1층 5번 게이트로 나와서 건널목 2개를 건너 오른쪽 편으로 이동합니다.\n\t\t\t\t\t\t</div>\n<div class=\"float_r wd_50p\">\n<img alt=\"이미지 약도\" c",
+      "content_type": "image/webp",
+      "bytes": 117736,
+      "sha256": "b0de68af4bdc84d8b3908d8469dd1b3c34249a1d4410bbd92633b3bc2704dffd",
+      "source_sha256": "9f49bab31bdab435ce6c711042bf7517e9b1aa0b7b997d4481fb7a0eaf21d02f",
+      "dhash": "ff6f4d452d2f47d6",
+      "width": 900,
+      "height": 675,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/directions_info"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-010.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/ev_info_02.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "> <span>닫기</span></a></div>\n<h3>전기차 충전방법 안내</h3>\n<div class=\"textArea pop_txtar01\" style=\"background: #fff; width: 550px; height: 500px;\">\n<div class=\"ev_info_img\">\n<div>\n<img src=\"https://m.jejustar.co.kr/assets/images/ev_info_02.jpg\"/>\n<!--\n\t\t\t\t\t\t<IMG src=\"https://m.jejustar.co.kr/assets/images/ev_info_03.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t<IMG src=\"https://m.",
+      "content_type": "image/webp",
+      "bytes": 28246,
+      "sha256": "db9438fda45abf85f373978c0ca318a14cfc093b0395eff67fa6030a2838e63f",
+      "source_sha256": "8373d00b146de0800e193791ed3b6c0fa9dd3ee89eebc5a7b0075b49a411cab0",
+      "dhash": "687926a6a6a2a133",
+      "width": 720,
+      "height": 412,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-011.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/bus_map_02.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "\" src=\"/assets/images/car/bus_map_01.jpg\"/>\n<span>1</span> 1층 5번 게이트로 나와서 건널목 2개를 건너 오른쪽 편으로 이동합니다.\n\t\t\t\t\t\t</div>\n<div class=\"float_r wd_50p\">\n<img alt=\"이미지 약도\" class=\"wd_100p\" src=\"/assets/images/car/bus_map_02.jpg\"/>\n<span>2</span> 조금 가다 보면 렌터카 하우스 표지판이 보이고, 그대로 직진합니다.\n\t\t\t\t\t\t</div>\n<div class=\"clear\"></div>\n<div class=\"float_l wd_50",
+      "content_type": "image/webp",
+      "bytes": 93404,
+      "sha256": "ffdf5f6c1bf8191c8512a96ddc7bc4d156dd68d6c54fc2a39beb0c82d167ce86",
+      "source_sha256": "833756b94f1271b7bbe6a75b2d1e4fbd71f6b015e13e3fb99a005bfa503dcbb4",
+      "dhash": "1796ccad3f69e96c",
+      "width": 900,
+      "height": 675,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/directions_info"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-012.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/bus_map_03_new.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "_map_02.jpg\"/>\n<span>2</span> 조금 가다 보면 렌터카 하우스 표지판이 보이고, 그대로 직진합니다.\n\t\t\t\t\t\t</div>\n<div class=\"clear\"></div>\n<div class=\"float_l wd_50p\">\n<img alt=\"이미지 약도\" class=\"mt_20 wd_100p\" src=\"/assets/images/car/bus_map_03_new.jpg\"/>\n<span>3</span> 렌터카 하우스 건물을 지나서 계속 직진합니다.\n\t\t\t\t\t\t</div>\n<div class=\"float_r wd_50p\">\n<img alt=\"이미지 약도\" class=\"mt_20 wd_",
+      "content_type": "image/webp",
+      "bytes": 47670,
+      "sha256": "a38c2a0a35ac3333a871b8aaf4b948c1c06635f266ae05fe730aad0328db7f98",
+      "source_sha256": "79796e41420e10ba79bb0388d4e2f1bfaad9e81686c19febd984c56f8fb1f60d",
+      "dhash": "96c6cccc4b4bc6ea",
+      "width": 900,
+      "height": 675,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/directions_info"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-013.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/3.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "m.jejustar.co.kr/assets/images/ev_info_04.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t-->\n<img class=\"mt_40\" src=\"https://m.jejustar.co.kr/assets/images/ev_info_06.jpg\"/><br/>\n</div>\n<div>\n<img src=\"/assets/images/car/ev_info_img/3.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/4.jpg\"/><br/>\n<strong>차 종류에 따라 그에 맞는 충전 커넥터(충전방식)을 선택</strong><br/>\n\t\t\t",
+      "content_type": "image/webp",
+      "bytes": 87580,
+      "sha256": "48d22311697842c322ad4445c0f199d82d5a8da74c2e43bd348ddc8a75062edd",
+      "source_sha256": "4a1d47402d0cabae389bd937b425ff9686df562222c396aa34edc7b61cf2d235",
+      "dhash": "d4dccec6c6d7564e",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-014.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/bus_map_06_new.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "_100p\" src=\"/assets/images/car/bus_map_03_new.jpg\"/>\n<span>3</span> 렌터카 하우스 건물을 지나서 계속 직진합니다.\n\t\t\t\t\t\t</div>\n<div class=\"float_r wd_50p\">\n<img alt=\"이미지 약도\" class=\"mt_20 wd_100p\" src=\"/assets/images/car/bus_map_06_new.jpg\"/>\n<span>4</span> 예약하신 렌트카업체 셔틀 차량에 탑승합니다.\n\t\t\t\t\t\t</div>\n<div class=\"clear\"></div>\n<h3>공항 &gt; 셔틀버스 탑승 안내</h3>\n<h4 class=",
+      "content_type": "image/webp",
+      "bytes": 62062,
+      "sha256": "4479988448c8623ced74d45b418298f7150b4913540ad9c2ccc6774c8946b26e",
+      "source_sha256": "41098953b52daafb0a80766a18503d5007d54d75fcccee1f4738736716e06a4c",
+      "dhash": "ddd5d7d7d3d7d5d3",
+      "width": 900,
+      "height": 675,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/directions_info"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-015.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/4.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "t_20\">\n\t\t\t\t\t\t-->\n<img class=\"mt_40\" src=\"https://m.jejustar.co.kr/assets/images/ev_info_06.jpg\"/><br/>\n</div>\n<div>\n<img src=\"/assets/images/car/ev_info_img/3.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/4.jpg\"/><br/>\n<strong>차 종류에 따라 그에 맞는 충전 커넥터(충전방식)을 선택</strong><br/>\n\t\t\t\t\t\t※ 아이오닉은 같은 현대/기아계열인 레이, 소울과 같이 <br/>\n\t\t\t\t\t\tDC 차데모 방식",
+      "content_type": "image/webp",
+      "bytes": 51154,
+      "sha256": "eb1935158ac62b4d8c29f712d952d9dbe0ce17c693b2d4cf2ea067f8b2b90ac3",
+      "source_sha256": "e7706cb3f4b0f07e157c3c11222e8b02cc0df7024705084ec90a728d6a8d5785",
+      "dhash": "e8d6c6d4d4e8dcec",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-016.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/5.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "images/car/ev_info_img/4.jpg\"/><br/>\n<strong>차 종류에 따라 그에 맞는 충전 커넥터(충전방식)을 선택</strong><br/>\n\t\t\t\t\t\t※ 아이오닉은 같은 현대/기아계열인 레이, 소울과 같이 <br/>\n\t\t\t\t\t\tDC 차데모 방식으로 선택 합니다.<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/5.jpg\"/><br/>\n\t\t\t\t\t\t※ ﻿﻿충전구를 열고 충전구 모양을 보고 선택하셔도 됩니다.<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/6.jpg\"/><br/>\n<stron",
+      "content_type": "image/webp",
+      "bytes": 43284,
+      "sha256": "8c9cf547fb39ceb949344d5e44f0bd047bd1984daec1bcdbd5340fc44973892f",
+      "source_sha256": "c83152617a794b65973690fa3e2307a067619e4046daa42a657bb54e22037ee7",
+      "dhash": "19383c7c34343819",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-017.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/6.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "은 현대/기아계열인 레이, 소울과 같이 <br/>\n\t\t\t\t\t\tDC 차데모 방식으로 선택 합니다.<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/5.jpg\"/><br/>\n\t\t\t\t\t\t※ ﻿﻿충전구를 열고 충전구 모양을 보고 선택하셔도 됩니다.<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/6.jpg\"/><br/>\n<strong>이렇게 화면에도 DC 차데모 방식에 아이오닉이 나옵니다.</strong><br/>\n\t\t\t\t\t\t※ ﻿﻿파란색 DC 차데모 선택!<br/>\n<br/>\n<img src=\"/assets/imag",
+      "content_type": "image/webp",
+      "bytes": 33344,
+      "sha256": "99ece9cf19157171b03099f9bea818001a30eda0754206215af197a102a6415e",
+      "source_sha256": "667ec364e8bc17693155e35869d43db8329567e63a68ebc78ce8308377fb6c2f",
+      "dhash": "80b89c96969cb8a0",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-018.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/7.jpg",
+      "source_tag": "html-data, img:image",
+      "context": " 보고 선택하셔도 됩니다.<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/6.jpg\"/><br/>\n<strong>이렇게 화면에도 DC 차데모 방식에 아이오닉이 나옵니다.</strong><br/>\n\t\t\t\t\t\t※ ﻿﻿파란색 DC 차데모 선택!<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/7.jpg\"/><br/>\n<strong>회원카드 인증은 교통카드 기능이 있는<br/>\n\t\t\t\t\t\t개인 신용/체크카드로 할 수 있습니다.</strong>\n<br/>\n<!-- <IMG src=\"/assets/images/car/e",
+      "content_type": "image/webp",
+      "bytes": 29216,
+      "sha256": "2f50123b2c17208e63951ee44bd351326db4fb9441445f97f36c324b1a999447",
+      "source_sha256": "f3ff8f94dafa25aaeaa196ab028ccc7b77217abc9877266bb4ab213483b09a53",
+      "dhash": "80b89e86a69ebcb0",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-019.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/12.jpg",
+      "source_tag": "html-data, img:image",
+      "context": " 앞유리에 붙어 있습니다.</strong><BR>\n\t\t\t\t\t\t<BR>\n\t\t\t\t\t\t<IMG src=\"/assets/images/car/ev_info_img/10.jpg\"><BR>\n\t\t\t\t\t\t<strong>회원인증을 위해 카드를 카드인식하는 곳에 접촉시킵니다</strong><BR>\n\t\t\t\t\t\t<BR> -->\n<img src=\"/assets/images/car/ev_info_img/12.jpg\"/><br/>\n<strong>회원인증이 완료되면 커넥터 박스가 자동으로 열립니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/13.jpg\"/><br/",
+      "content_type": "image/webp",
+      "bytes": 42340,
+      "sha256": "199c3bcdf796ddfcc8d4efc130d47e467680fa58d8a6bc4f85b577957c7a79f0",
+      "source_sha256": "341c3a7b0a1d27c423aa3886b7e764676fc607aa0a91dc59003298a74aadc76a",
+      "dhash": "570e0676343464a5",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-020.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/13.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "원인증을 위해 카드를 카드인식하는 곳에 접촉시킵니다</strong><BR>\n\t\t\t\t\t\t<BR> -->\n<img src=\"/assets/images/car/ev_info_img/12.jpg\"/><br/>\n<strong>회원인증이 완료되면 커넥터 박스가 자동으로 열립니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/13.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/14.jpg\"/><br/>\n<strong>박스가 열린 후 커넥터를 꺼냅니다!</strong><br/>\n<br/>\n<img src",
+      "content_type": "image/webp",
+      "bytes": 64468,
+      "sha256": "f24c662135a41d6b8f0481acac0201dc086851105040dfbdbac428f81c6ee8c7",
+      "source_sha256": "5d4f395199b8011867df1e322ea5779463b675e12c5a8deb510d639410117ff2",
+      "dhash": "d3c1d1c3d3dad3d3",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-021.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/14.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "\n<img src=\"/assets/images/car/ev_info_img/12.jpg\"/><br/>\n<strong>회원인증이 완료되면 커넥터 박스가 자동으로 열립니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/13.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/14.jpg\"/><br/>\n<strong>박스가 열린 후 커넥터를 꺼냅니다!</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/16.jpg\"/><br/>\n<strong>",
+      "content_type": "image/webp",
+      "bytes": 76198,
+      "sha256": "284a0dbe8c99e064208d6a5fc69b7d57243e8427b31df49c5ba73b233543fab1",
+      "source_sha256": "e139de8f071ea8cb0675712f5fb4dcc4ade27cde70631ba9e9f174f3599d2559",
+      "dhash": "696169696368626b",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-022.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/16.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/13.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/14.jpg\"/><br/>\n<strong>박스가 열린 후 커넥터를 꺼냅니다!</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/16.jpg\"/><br/>\n<strong>충전구 덮개를 열고 커넥터를 충전구에 연결 합니다.</strong><br/>\n\t\t\t\t\t\t※ 충전구는 차량 내부, 핸들 왼쪽에서 버튼을 누르면 열 수 있습니다.<br/>\n<br/>\n<img",
+      "content_type": "image/webp",
+      "bytes": 33422,
+      "sha256": "63365984c458cef135f30c2254d3315089d1989dc549ce18daf136c9a79412f5",
+      "source_sha256": "c51b5641a36e416e004f596240dc74aa771ebcc5a152989bb4082520fe79c728",
+      "dhash": "0703595c1c9c4d61",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-023.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/17.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "\n<br/>\n<img src=\"/assets/images/car/ev_info_img/16.jpg\"/><br/>\n<strong>충전구 덮개를 열고 커넥터를 충전구에 연결 합니다.</strong><br/>\n\t\t\t\t\t\t※ 충전구는 차량 내부, 핸들 왼쪽에서 버튼을 누르면 열 수 있습니다.<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/17.jpg\"/><br/>\n<strong>커넥터가 제대로 연결이 된걸 확인 후에<br/>\n\t\t\t\t\t\t충전시작 버튼을 누르세요</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_",
+      "content_type": "image/webp",
+      "bytes": 29888,
+      "sha256": "363f43f4d90a7a65c4c7ddd73197a3d18d59a544f8266d5da0b9b6a9323208fb",
+      "source_sha256": "a40574009b6b21fb72d309fa280ef49c2ad0a82eab1fe2cd8ac831b9ad230e91",
+      "dhash": "c09c9e9e9498d0c0",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-024.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/19.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "부, 핸들 왼쪽에서 버튼을 누르면 열 수 있습니다.<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/17.jpg\"/><br/>\n<strong>커넥터가 제대로 연결이 된걸 확인 후에<br/>\n\t\t\t\t\t\t충전시작 버튼을 누르세요</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/19.jpg\"/><br/>\n<strong>충전시간, 남은 시간, 충전전력을 확인할 수 있습니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/20.jpg\"/><br",
+      "content_type": "image/webp",
+      "bytes": 33448,
+      "sha256": "6d5fe6eb80b653a043f4dd7073d6f610673469d24ff1f89f14b176093c02ba38",
+      "source_sha256": "3f57bfa0b2db8a13e83def0b0bba6575bab49e20b8b3ab41eafcef0378345ca5",
+      "dhash": "8680b696869686c0",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-025.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/20.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "이 된걸 확인 후에<br/>\n\t\t\t\t\t\t충전시작 버튼을 누르세요</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/19.jpg\"/><br/>\n<strong>충전시간, 남은 시간, 충전전력을 확인할 수 있습니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/20.jpg\"/><br/>\n<strong>차 내부에서도 충전 상황을 확인할 수 있습니다.</strong><br/>\n\t\t\t\t\t\t※ 급속 충전시에는 0~80%까지 약 30~40분정도 소요되고<br/>\n\t\t\t\t\t\t완속 충전기를 사용 ",
+      "content_type": "image/webp",
+      "bytes": 26706,
+      "sha256": "e647a133063497e6557f686469d5c644c38cd940e44d2e4959157d0966c2d582",
+      "source_sha256": "76c20daa91e586d4727b0dd46a6ec803baf197ad32582105c2b2b9232e612b24",
+      "dhash": "e31f8d8dcdd5f4fc",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-026.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/21.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "확인할 수 있습니다.</strong><br/>\n\t\t\t\t\t\t※ 급속 충전시에는 0~80%까지 약 30~40분정도 소요되고<br/>\n\t\t\t\t\t\t완속 충전기를 사용 할 시에는 4시간정도 걸립니다.<br/>\n\t\t\t\t\t\t(완속충전 케이블은 제공되지 않으므로 필요시 직접 소지하고 오셔야합니다.)<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/21.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/22.jpg\"/><br/>\n<strong>아이오닉은 차량 외부에서도 충전을 확인 할 수 있습니다.</strong><br/>\n<b",
+      "content_type": "image/webp",
+      "bytes": 65150,
+      "sha256": "22b2822514a576783f5f0529a07bb85ede5ae19b39d0a4f8573645e2c53dffc4",
+      "source_sha256": "9960104817c7301d4dbd5af9d3ec7fac517664c9a1db987226a06bdac61fc2af",
+      "dhash": "f8c869bd9c6ce4f4",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-027.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/22.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "40분정도 소요되고<br/>\n\t\t\t\t\t\t완속 충전기를 사용 할 시에는 4시간정도 걸립니다.<br/>\n\t\t\t\t\t\t(완속충전 케이블은 제공되지 않으므로 필요시 직접 소지하고 오셔야합니다.)<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/21.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/22.jpg\"/><br/>\n<strong>아이오닉은 차량 외부에서도 충전을 확인 할 수 있습니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/23.jpg\"/><b",
+      "content_type": "image/webp",
+      "bytes": 37636,
+      "sha256": "c06842e3afaadf2a7eebdaaaf25e3f4a71512ef929e566281a4344ce2ca8caea",
+      "source_sha256": "520aaf40473cdfa45dbe693aa9eb0bd8e6ba86e1df0ec9b1191e68b8ef1a8971",
+      "dhash": "b1c086850b0b1226",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-028.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/23.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "img src=\"/assets/images/car/ev_info_img/21.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/22.jpg\"/><br/>\n<strong>아이오닉은 차량 외부에서도 충전을 확인 할 수 있습니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/23.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/24.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/25.jpg\"/><br/>\n",
+      "content_type": "image/webp",
+      "bytes": 37044,
+      "sha256": "9b9c6b4bdca6e6abeb021732b4c5e730dd76b12fd5e40db00009aa17d2b4f0a4",
+      "source_sha256": "b0bec6355462ddd59aaa6beeda7254935788b96dd5744de4ff8f4ccab3b8e926",
+      "dhash": "8280b6b2a6a29e80",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-029.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/24.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "img src=\"/assets/images/car/ev_info_img/22.jpg\"/><br/>\n<strong>아이오닉은 차량 외부에서도 충전을 확인 할 수 있습니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/23.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/24.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/25.jpg\"/><br/>\n<strong>﻿﻿충전이 완료되면 충전완료 버튼을 누르면 됩니다.</strong><br/>\n<br/>",
+      "content_type": "image/webp",
+      "bytes": 23352,
+      "sha256": "038d90516e3677141f6e0cd03c3961e8bff477c8d902c8a15c950f627e321265",
+      "source_sha256": "278061b2e19e9147cddf1356dc154367e4d29f87ad0b5b464837142e178113fe",
+      "dhash": "63958d8dcd8de4fc",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-030.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/25.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "strong>아이오닉은 차량 외부에서도 충전을 확인 할 수 있습니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/23.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/24.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/25.jpg\"/><br/>\n<strong>﻿﻿충전이 완료되면 충전완료 버튼을 누르면 됩니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/26.jpg\"/><br/>",
+      "content_type": "image/webp",
+      "bytes": 29150,
+      "sha256": "a256d77291db2516a4eecaaa3e92615868835624a1f7334e32a3b9fb3e0772f4",
+      "source_sha256": "633b95d00df8a5ed1a5e1b3a9a06b38b5882b66b71b9f0b3356604b0e693cfaf",
+      "dhash": "c0c09c96969d9cc0",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-031.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/26.jpg",
+      "source_tag": "html-data, img:image",
+      "context": ">\n<img src=\"/assets/images/car/ev_info_img/24.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/25.jpg\"/><br/>\n<strong>﻿﻿충전이 완료되면 충전완료 버튼을 누르면 됩니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/26.jpg\"/><br/>\n<strong>﻿﻿충전 커넥터(커플러)를 분리해 주세요</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/27.jpg\"/><br/>\n<img ",
+      "content_type": "image/webp",
+      "bytes": 22992,
+      "sha256": "89e25557136b0550e80eee3b4151bbb1ed197c2fc554847289f150d9fc0cabbd",
+      "source_sha256": "f2ecd9747cad4cbf1cd276f955b7fcc8a25a318714f219a777c02916f2c99864",
+      "dhash": "c0c09e9696969cd0",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-032.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/27.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "><br/>\n<strong>﻿﻿충전이 완료되면 충전완료 버튼을 누르면 됩니다.</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/26.jpg\"/><br/>\n<strong>﻿﻿충전 커넥터(커플러)를 분리해 주세요</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/27.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/28.jpg\"/><br/>\n\t\t\t\t\t\t다음사람을 위해 커넥터를 원위치에 돌려놓는 센스!<br/>\n\t\t\t\t\t\t​편리하게 전기차 이",
+      "content_type": "image/webp",
+      "bytes": 37962,
+      "sha256": "11fe4533ace3dd3b4af3de02823d423e9228bec7cca3ca1da51cb164588e7653",
+      "source_sha256": "03e438578183d29384a3bd09774bc0a679f83982d1e1d7a8daebc120582fde54",
+      "dhash": "1323099c149cace5",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-033.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/28.jpg",
+      "source_tag": "html-data, img:image",
+      "context": ">\n<br/>\n<img src=\"/assets/images/car/ev_info_img/26.jpg\"/><br/>\n<strong>﻿﻿충전 커넥터(커플러)를 분리해 주세요</strong><br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/27.jpg\"/><br/>\n<img src=\"/assets/images/car/ev_info_img/28.jpg\"/><br/>\n\t\t\t\t\t\t다음사람을 위해 커넥터를 원위치에 돌려놓는 센스!<br/>\n\t\t\t\t\t\t​편리하게 전기차 이용하고 즐거운 제주여행 되세요.<br/>\n<br/>\n</div>\n</div>\n<style>\n\t\t\t\t\t",
+      "content_type": "image/webp",
+      "bytes": 71584,
+      "sha256": "c61173a98bd0780018f300f85bff2e087cf0d7dedffa316c0e02844e02f44f43",
+      "source_sha256": "efe666d1124dee06147be800a7ffedb314596fed32e62e4abe450c6b22450146",
+      "dhash": "e72bf06c66786a6b",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-034.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/bg_starshop.gif",
+      "source_tag": "external-css",
+      "context": "5a21; font-size: 24px; }\n\n\t\t\t\t#coupons .list .item .info .benefit { margin-top: 10px; font-size: 13px; color: #999; display:inline-block; }\n\t\t\t\t\t#coupons .list .item .info .benefit strong { color: #1f8301; }\n/*coupons E*/\n\n/*starShop*/\n#starShop { background: url(/assets/images/bg_starshop.gif) no-repeat center center; height: 495px; }\n\t#starShop h2 { padding-top: 45px !important; }\n\t#starShop .bt",
+      "content_type": "image/webp",
+      "bytes": 17082,
+      "sha256": "d7c1c058aceea82aeb1ace655eb73b2c8763784a9402f13dfe30c95a5dfa5665",
+      "source_sha256": "6b29178e1b5dd4c68121b9a204eb33b1bf66e7c2efda5e1ffa333058a0b7ccba",
+      "dhash": "2a4a0b8d06020203",
+      "width": 1920,
+      "height": 495,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-035.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/main_04.jpg",
+      "source_tag": "external-css",
+      "context": "important; color:#0350c2 !important; text-align:left !important; width:1060px !important; margin:auto auto !important; margin-bottom:-20px; padding-left:10px; padding-top:35px !important; padding-bottom:0 !important;}\n\n/* ì¹´í\u0085 */\n.main_v2_cartel{ background:url(/assets/images/main_04.jpg) center top no-repeat;}\n.main_v2_cartel h2{ font-size:23px !important; color:#0350c2 !important; text-align:l",
+      "content_type": "image/webp",
+      "bytes": 221242,
+      "sha256": "93d4ec3230ca9b73f59127650f3e8ca22dcea505cabd85c2e7aca7c279d3583b",
+      "source_sha256": "c6321f8c33c1309886a8df378332049e48f925ced8496df8d05fea3a5f9b9ad5",
+      "dhash": "3d3f3e3fb3337372",
+      "width": 1920,
+      "height": 477,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-036.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/login_box_bg.png",
+      "source_tag": "external-css",
+      "context": "or: #000;\n\topacity : 0.5; filter:alpha(opacity=50); position: absolute; z-index: 999; box-sizing: border-box;}\n\n.snapjs-right .snap-content,\n.snapjs-left .snap-content{overflow: hidden !important;}\n\n/* ë§ì´ë©ë´ */\n.snap-drawer-right .login_box{background: url(../images/login_box_bg.png) #6397e4 no-repeat; background-size:265px; height: 145px; color: #fff; }\n\t.snap-drawer-right .login_box .prof",
+      "content_type": "image/webp",
+      "bytes": 4222,
+      "sha256": "c2f2e59d441bc48ebbeccfb852b04cd306160f6203115c1c98952f997b10d692",
+      "source_sha256": "0311ea645a29cba7182f6963f7e0146bb2444465e99aec7b5630929079a04398",
+      "dhash": "ffdffffff7676fef",
+      "width": 795,
+      "height": 447,
+      "variant": "mobile",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-037.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/rentcar_vbg.jpg",
+      "source_tag": "external-css",
+      "context": "fo4_1 ul{margin:20px 0;}\n.info4_1 li{font-family:dotum; font-size:12px; color:#666; padding:6px 0;}\n.etc_info_map img { margin-bottom: 40px; }\n\n.info4_2 h3 em{ font-style:normal; vertical-align:2px; font-size:14px; padding:0 5px;}\n.info4_2 .youtube{background:url(/assets/images/car/rentcar_vbg.jpg) top left no-repeat #fff; width:1060px; height:625px;}\n.info4_2 .youtube iframe{margin:45px;}\n.info4_",
+      "content_type": "image/webp",
+      "bytes": 57758,
+      "sha256": "32a0c79790fe590af0b33f35b6236d3fc5b84c4f408301dfce1f75ff9ee1a0f8",
+      "source_sha256": "394e0a0d162d1d940fb90426a01c5c70c98eb5c7588983c2cfcf2fef893d9c61",
+      "dhash": "2ca5276f6fcfe1bb",
+      "width": 1060,
+      "height": 625,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-038.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/join/join_intro_bg.jpg",
+      "source_tag": "external-css",
+      "context": "/* top_wrap  */\n.top_wrap {\n\twidth: 1020px;\n\tpadding: 225px 20px 40px 20px;\n\tbackground: url('/assets/images/join/join_intro_bg.jpg') no-repeat;\n}\n.top_wrap .txt_r,\n.top_wrap .txt_c{text-align:left !important;}\n.top_wrap .txt_c{margin-left: 24px; margin-top:5px;}\n.top_wrap .txt_c .mr_16{ marg",
+      "content_type": "image/webp",
+      "bytes": 47358,
+      "sha256": "0e17e84da5893d94cdaa6077344baeb91cda6b75299ab3a5ac11b5c22ca095f4",
+      "source_sha256": "634d4bcee526c9880a7a71b39f289d439d0cad9bc29e2b84cbb5c62deedc786f",
+      "dhash": "0c1c181d868a3535",
+      "width": 1060,
+      "height": 418,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-039.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/ev_info_190117_01.jpg",
+      "source_tag": "html-data, img:image",
+      "context": ".<br/>\n\t\t\t\t\t２. 차량 <span style=\"color: #0B51D2;\">이용 중 발생하는 충전비는 고객님 부담</span>입니다.<br/>\n\t\t\t\t\t    (별도 충전카드 미판매)<br/>\n\t\t\t\t\t３. 반납시 100km 정도 운행가능토록 반납해주시면 됩니다.</div>\n<img border=\"0\" src=\"/assets/images/car/ev_info_img/ev_info_190117_01.jpg\"/>\n<a class=\"pop_wrap\" data-pop-wrap-id=\"ev_in_map_popup\" href=\"javascript:;\"><img border=\"0\" src=\"/assets/images/car/ev",
+      "content_type": "image/webp",
+      "bytes": 49052,
+      "sha256": "1603dec2df7ed4f43b29a69046ca031ca7259a5d1f39dde8ecd3615893e958b0",
+      "source_sha256": "f5c88297b7ab70d231bfdbd904eda36a5598d87410fbe9c4767a3eedbc3f8b96",
+      "dhash": "1caa8248498682d4",
+      "width": 720,
+      "height": 998,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-040.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/ev_info_190117_02.jpg",
+      "source_tag": "html-data, img:image",
+      "context": ".</div>\n<img border=\"0\" src=\"/assets/images/car/ev_info_img/ev_info_190117_01.jpg\"/>\n<a class=\"pop_wrap\" data-pop-wrap-id=\"ev_in_map_popup\" href=\"javascript:;\"><img border=\"0\" src=\"/assets/images/car/ev_info_img/ev_info_190117_02.jpg\"/></a>\n<img border=\"0\" src=\"/assets/images/car/ev_info_img/ev_info_190117_03.jpg\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n<",
+      "content_type": "image/webp",
+      "bytes": 35338,
+      "sha256": "94f6132887c64d02ed7fcab004678cd6293200baa876de32e93bf4550b07be54",
+      "source_sha256": "ac1993fbfcc4e3875a80336cbbd44dafe8b25c6a42d764ec80636c4a06968f68",
+      "dhash": "a88686c8c069c4c4",
+      "width": 720,
+      "height": 557,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-041.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/ev_info_190117_03.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "\"/>\n<a class=\"pop_wrap\" data-pop-wrap-id=\"ev_in_map_popup\" href=\"javascript:;\"><img border=\"0\" src=\"/assets/images/car/ev_info_img/ev_info_190117_02.jpg\"/></a>\n<img border=\"0\" src=\"/assets/images/car/ev_info_img/ev_info_190117_03.jpg\"/>\n</div>\n</div>\n</div>\n</div>\n</div>\n<style>\n\t.ev_new_info_img img { width: 100%; float: left; margin:0 0 0 0; }\n</styl",
+      "content_type": "image/webp",
+      "bytes": 33228,
+      "sha256": "3ad3ad04264d9cbcec2836a3df64a0e9ddfa5f52441deb2545892be375ac5b44",
+      "source_sha256": "871e2bd2dd58310bb4aa8db015ba4c8771ed2b1e0b6fb21b3566410de53bc4e8",
+      "dhash": "868aa18696a8e868",
+      "width": 720,
+      "height": 592,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-042.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/ev_info_03.jpg",
+      "source_tag": "html-data",
+      "context": "r01\" style=\"background: #fff; width: 550px; height: 500px;\">\n<div class=\"ev_info_img\">\n<div>\n<img src=\"https://m.jejustar.co.kr/assets/images/ev_info_02.jpg\"/>\n<!--\n\t\t\t\t\t\t<IMG src=\"https://m.jejustar.co.kr/assets/images/ev_info_03.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t<IMG src=\"https://m.jejustar.co.kr/assets/images/ev_info_08.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t<IMG src=\"ht",
+      "content_type": "image/webp",
+      "bytes": 51478,
+      "sha256": "dfbfe8a4b62aae48db141dcfdb9b9fc110fe8468473f91570b84cb21ce7e163b",
+      "source_sha256": "5562504a48fd8fbd5863d62a45649c501513bc689c7505e464fce78d236bc2d1",
+      "dhash": "68dcdce6a2cc9898",
+      "width": 720,
+      "height": 796,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-043.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/ev_info_08.jpg",
+      "source_tag": "html-data",
+      "context": "\n<div>\n<img src=\"https://m.jejustar.co.kr/assets/images/ev_info_02.jpg\"/>\n<!--\n\t\t\t\t\t\t<IMG src=\"https://m.jejustar.co.kr/assets/images/ev_info_03.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t<IMG src=\"https://m.jejustar.co.kr/assets/images/ev_info_08.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t<IMG src=\"https://m.jejustar.co.kr/assets/images/ev_info_04.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t-->\n<img cla",
+      "content_type": "image/webp",
+      "bytes": 32676,
+      "sha256": "8b49f8c44abb52e34dd855df5bfdf35b9106fc317c3e6b45b89d5617c05e4452",
+      "source_sha256": "00396fc22225fdb8531872bc449aa68e13cb7a23ee5da0d46d60145c72dcb924",
+      "dhash": "5894b68e8e8e8e80",
+      "width": 720,
+      "height": 732,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-044.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/ev_info_04.jpg",
+      "source_tag": "html-data",
+      "context": "IMG src=\"https://m.jejustar.co.kr/assets/images/ev_info_03.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t<IMG src=\"https://m.jejustar.co.kr/assets/images/ev_info_08.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t<IMG src=\"https://m.jejustar.co.kr/assets/images/ev_info_04.jpg\" class=\"mt_20\">\n\t\t\t\t\t\t-->\n<img class=\"mt_40\" src=\"https://m.jejustar.co.kr/assets/images/ev_info_06.jpg\"/><br/>\n</div>\n<",
+      "content_type": "image/webp",
+      "bytes": 13550,
+      "sha256": "0d699eff1ddd1f94ac2774c838dee38eee68fd01cff7e25505f32df63b5ad96b",
+      "source_sha256": "54d4e94a8a9731ebdab447941b0fcb4cf4ef60c7ef66cc5283118714ddc485b9",
+      "dhash": "68c8c4c4c4c4c4c4",
+      "width": 720,
+      "height": 679,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-045.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/8.jpg",
+      "source_tag": "html-data",
+      "context": "\t\t\t\t※ ﻿﻿파란색 DC 차데모 선택!<br/>\n<br/>\n<img src=\"/assets/images/car/ev_info_img/7.jpg\"/><br/>\n<strong>회원카드 인증은 교통카드 기능이 있는<br/>\n\t\t\t\t\t\t개인 신용/체크카드로 할 수 있습니다.</strong>\n<br/>\n<!-- <IMG src=\"/assets/images/car/ev_info_img/8.jpg\"><BR>\n\t\t\t\t\t\t<strong>회원카드는 운전석 왼쪽 위 앞유리에 붙어 있습니다.</strong><BR>\n\t\t\t\t\t\t<BR>\n\t\t\t\t\t\t<IMG src=\"/assets/images/car/ev_info_img/",
+      "content_type": "image/webp",
+      "bytes": 43338,
+      "sha256": "1e9597fd84e56bd02ac38fbb135f3f0aeed3c1f81148c9faf60a69e7205b7bea",
+      "source_sha256": "3feba852d89644014716ef7bfd30a9358674feee1eb19aa0364a83cdbc794683",
+      "dhash": "5840878502307179",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-046.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_info_img/10.jpg",
+      "source_tag": "html-data",
+      "context": "\t\t\t개인 신용/체크카드로 할 수 있습니다.</strong>\n<br/>\n<!-- <IMG src=\"/assets/images/car/ev_info_img/8.jpg\"><BR>\n\t\t\t\t\t\t<strong>회원카드는 운전석 왼쪽 위 앞유리에 붙어 있습니다.</strong><BR>\n\t\t\t\t\t\t<BR>\n\t\t\t\t\t\t<IMG src=\"/assets/images/car/ev_info_img/10.jpg\"><BR>\n\t\t\t\t\t\t<strong>회원인증을 위해 카드를 카드인식하는 곳에 접촉시킵니다</strong><BR>\n\t\t\t\t\t\t<BR> -->\n<img src=\"/assets/images/car/ev_info_img/1",
+      "content_type": "image/webp",
+      "bytes": 52782,
+      "sha256": "e0274097afdb31ad4e536b373d43e222ffcc850cb274e5268d90636ac83ef5e9",
+      "source_sha256": "33ff1ad313dbb3405628d045195b7220a0e09af4740f726e734a77ebb3317b3d",
+      "dhash": "735b4a62634a4664",
+      "width": 900,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-047.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/car/ev_map_info.jpg",
+      "source_tag": "html-data",
+      "context": "textArea pop_txtar01\" style=\"background: #fff; width: 550px; height: 500px;\">\n<div class=\"ev_info_img\">\n<img border=\"0\" src=\"/assets/images/car/ev_map_sh_info2.jpg\"/>\n<!-- img src=\"/assets/images/car/ev_map_info.jpg\" usemap=\"#Map_ev_map_info\" border=\"0\" onfocus=\"blur()\">\n\t\t\t\t\t<map name=\"Map_ev_map_info\">\n\t\t\t\t\t\t<area shape=\"rect\" coord",
+      "content_type": "image/webp",
+      "bytes": 18356,
+      "sha256": "c339f0c94d7d7a6e618957b19016cdb8f3874f4cabcf716e0e1340c913b439a4",
+      "source_sha256": "815b620d8ff5b575bed2dcb28665a299e7426ed579f58b5a7b4b6d06fb5dcaf4",
+      "dhash": "b090beb0b090b070",
+      "width": 430,
+      "height": 360,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/car_list/1",
+        "https://jejustar.co.kr/rent/car_list/3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-048.webp",
+      "source_url": "https://m.jejustar.co.kr/assets/images/popup/161020_img_03_v2.png",
+      "source_tag": "html-data",
+      "context": "ssets/images/popup/161020_btn_c.png\" class=\"c_img\"></a>\n\t<a href=\"/main/go?s=163&u=intent%3A%2F%2Fscan%2F%23Intent%3Bscheme%3DNMJstarapp%3Bpackage%3Dcom.NMJstarapp%3Bend\"><img src=\"/assets/images/popup/161020_img_03_v2.png\" class=\"in_img\"></a>\n\t<a onclick=\"document.getElementById('popup_main').style.visibility = 'hidden';\" href=\"#\"><img src=",
+      "content_type": "image/webp",
+      "bytes": 44432,
+      "sha256": "feefb6df34d3202221ec96f1e1744bdf360ddf4600b59620b40aaea1a4c6a6a9",
+      "source_sha256": "b5c89e8a33167f1fa412f57e319787de87353791e33a6bb29e941596245b5553",
+      "dhash": "e8f0f4f6f4ecaaf4",
+      "width": 1080,
+      "height": 804,
+      "variant": "shared",
+      "source_pages": [
+        "https://m.jejustar.co.kr/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-star/reference-049.webp",
+      "source_url": "https://jejustar.co.kr/assets/images/walk/map.png?2=",
+      "source_tag": "html-data",
+      "context": " 들고 다녀야 하는 불편해소</li>\n<li>갑작스런 셔틀차량 만석으로 항공편 시간에 지장을 줄 소지 있음</li>\n<li>일행이 티켓팅을 미리 하면 시간단축 되어 여유있게 면세점 쇼핑 가능</li>\n</ul>\n</div>\n</div>\n<!--div class=\"info4_3 cont_wd\">\n\t\t\t\t\t\t<img src=\"/assets/images/walk/map.png?2\" class=\"info3_1_img\" border=\"0\" onfocus=\"blur()\" />\n\t\t\t\t\t</div-->\n<!-- 제주스타 // -->\n</div>\n</div>\n</div>\n</div>\n<!-- //co",
+      "content_type": "image/webp",
+      "bytes": 156066,
+      "sha256": "eb5619fd6320089e9f368f940d7a6fc38a198f69edf903339a04009fbf77a2a8",
+      "source_sha256": "5ba68d53e38518854a3e9b92e6dae26a4b62ecfc6503131bd3b7666adfc1fc1b",
+      "dhash": "40394832d2505050",
+      "width": 700,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://jejustar.co.kr/rent/directions_info"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_국내/jeju-star/og.jpg",
       "source_url": "https://jejustar.co.kr/assets/images/meta_image.jpg",
@@ -28,78 +1520,6 @@
       "sha256": "b2a83fd170a47f57a5456a6040523da2eeb7145456097456564341e9dcc9dab8",
       "width": 1200,
       "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/jeju-star/logo-1.webp",
-      "source_url": "https://jejustar.co.kr/assets/images/logo_ai.png?3",
-      "source_tag": "img:semantic-logo",
-      "context": "img 제주스타렌터카 a h1 logo div headerBottom div header",
-      "content_type": "image/webp",
-      "bytes": 1668,
-      "sha256": "00eadb84d4667fc6a465e6af933756e0e8ab27d05aead8eabd936c86f37ada1c",
-      "width": 176,
-      "height": 33
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/jeju-star/logo-2.png",
-      "source_url": "https://img.jejustar.co.kr/popup/1787108339.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img div lv_box div div popup_layer_414 body bi",
-      "content_type": "image/png",
-      "bytes": 308002,
-      "sha256": "44d21ab6a6da63aac32d3de6553c1f21c7df2b4a1e6dbead39d7463b0b32eed8",
-      "width": 410,
-      "height": 550
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_국내/jeju-star/banner-1.webp",
-      "source_url": "https://jejustar.co.kr/assets/images/main/190527_04.jpg",
-      "source_tag": "style-background-image",
-      "context": "%; text-align: center; margin-bottom: 40px; margin-top: 20px;}\n.main_04 {\n\twidth: 100%; text-align: center; height: 370px; padding:137px 0 0 0; box-sizing: border-box;\n\tbackground:url(/assets/images/main/190527_04.jpg) center top; margin-bo",
-      "content_type": "image/webp",
-      "bytes": 36972,
-      "sha256": "b6707e5bc02e1d167e23a02bffab3189861ce797951b450c47ed99ab77572678",
-      "width": 1800,
-      "height": 347
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/jeju-star/reference-1.webp",
-      "source_url": "https://img.jejustar.co.kr/upload/main/1784612681.jpg",
-      "source_tag": "img:page-image",
-      "context": "img 조례안 a div item div list div mainSlide",
-      "content_type": "image/webp",
-      "bytes": 87960,
-      "sha256": "820de481c6a83cdbbf0a2c0cbd281260fc0a128ef49fce2bf9e6a324465a5478",
-      "width": 1800,
-      "height": 572
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/jeju-star/reference-2.webp",
-      "source_url": "https://img.jejustar.co.kr/upload/main/1785370305.jpg",
-      "source_tag": "img:page-image",
-      "context": "img 노셔틀 a div item div list div mainSlide",
-      "content_type": "image/webp",
-      "bytes": 98108,
-      "sha256": "5d4da29c48246d02c087bfaf5ffe9b645a2d122f823a4355821772ad7de7f484",
-      "width": 1800,
-      "height": 572
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/jeju-star/reference-3.webp",
-      "source_url": "https://img.jejustar.co.kr/upload/main/1786087395.jpg",
-      "source_tag": "img:page-image",
-      "context": "img  왜공항왜공항왜공항 a div item div list div mainSlide",
-      "content_type": "image/webp",
-      "bytes": 67984,
-      "sha256": "e7fd3295cb50fae275a3dcf3c52d3ea10578e86da943f133c0ba7074b717ec14",
-      "width": 1800,
-      "height": 572
     }
   ]
 }

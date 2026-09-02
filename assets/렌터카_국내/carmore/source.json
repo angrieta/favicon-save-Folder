@@ -2,10 +2,21 @@
   "company": "카모아",
   "category": "렌터카_국내",
   "requested_url": "https://carmore.kr/",
-  "page_url": "https://carmore.kr/home/",
+  "page_url": "https://carmore.kr/",
   "page_title": "제주렌트카 가격비교 1위 카모아 | 실시간 최저가 비교 예약",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://carmore.kr/images/jejubaksa/logo-imobi.svg:HTTPError; asset:https://carmore.kr/images/logo/logo-tmobi.png:HTTPError; asset:https://carmore.kr/icon/logo-teamo2-grey.svg:HTTPError; asset:https://carmore.kr/logo/logo-hotelmore-active-pc.svg:HTTPError; asset:https://carmore.kr/logo/logo-hotelmore-disable-pc.svg:HTTPError; asset:https://carmore.kr/logo/logo-carmore-active-pc.svg:HTTPError; asset:https://carmore.kr/logo/logo-carmore-disable-pc.svg:HTTPError; asset:https://carmore.kr/_next/static/chunks/logo/logo-carmore.svg:HTTPError; asset:https://carmore.kr/images/logo/logo-jejubaksa.webp:HTTPError; asset:https://carmore.kr/favicon/android-icon-32x32.png:HTTPError; asset:https://carmore.kr/favicon/android-icon-16x16.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 26,
+    "scripts": 36,
+    "candidates": 605,
+    "attempted_assets": 300,
+    "errors": 11,
+    "collected_at": "2026-09-03T08:08:54.237456+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,1427 @@
       "height": 180
     },
     {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-001.svg",
+      "source_url": "https://carmore.kr/static/images/logo/logo-carmore-active-pc.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo, link:preload",
+      "context": "\"@type\":\"ContactPoint\",\"contactType\":\"customer service\",\"telephone\":\"1544-5344\",\"areaServed\":\"KR\",\"availableLanguage\":\"Korean\"}}</script><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/logo/logo-carmore-active-pc.svg\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/logo/logo-hotelmore-disable-pc.svg\" rel=\"prel",
+      "content_type": "image/svg+xml",
+      "bytes": 1514,
+      "sha256": "83e333873e5ead73a242bb78a746127bc559003232e2aa0c0ddbb278886c7490",
+      "source_sha256": "83e333873e5ead73a242bb78a746127bc559003232e2aa0c0ddbb278886c7490",
+      "dhash": "",
+      "width": 95,
+      "height": 28,
+      "variant": "desktop",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%A0%9C%EC%A3%BC%EA%B0%80%EC%A1%B1%EC%97%AC%ED%96%89",
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/carlist.html?rt=1&ssac=Q_1&ssat=1",
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-002.svg",
+      "source_url": "https://carmore.kr/static/images/logo/logo-hotelmore-disable-pc.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo, link:preload",
+      "context": "eLanguage\":\"Korean\"}}</script><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/logo/logo-carmore-active-pc.svg\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/logo/logo-hotelmore-disable-pc.svg\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/icon/icon-line-user.svg\" rel=\"preload\"/><link",
+      "content_type": "image/svg+xml",
+      "bytes": 2925,
+      "sha256": "0a1b752d81394d018a753615e445cadee5e028dc241ce3e83a786b5a31981b93",
+      "source_sha256": "0a1b752d81394d018a753615e445cadee5e028dc241ce3e83a786b5a31981b93",
+      "dhash": "",
+      "width": 87,
+      "height": 18,
+      "variant": "desktop",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%A0%9C%EC%A3%BC%EA%B0%80%EC%A1%B1%EC%97%AC%ED%96%89",
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/carlist.html?rt=1&ssac=Q_1&ssat=1",
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-003.png",
+      "source_url": "https://carmore.kr/static/images/logo/logo-jejubaksa.webp",
+      "source_tag": "html-data, img:image, img:logo, link:preload",
+      "context": "elmore-disable-pc.svg\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/icon/icon-line-user.svg\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/logo/logo-jejubaksa.webp\" rel=\"preload\"/><meta content=\"60\" name=\"next-head-count\"/><link as=\"style\" href=\"/_next/static/css/eaa119db90646a21.css",
+      "content_type": "image/png",
+      "bytes": 39976,
+      "sha256": "84e20c6f4cf104339740f7a7a186a4a3413fb8a1518a9404e3dd674f2d4d21b8",
+      "source_sha256": "c42acd02d1d9338476988058aff5d11bbd4a8584ad40f23049651650792e26d6",
+      "dhash": "e0af4d4d4d4b6a60",
+      "width": 352,
+      "height": 96,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%A0%9C%EC%A3%BC%EA%B0%80%EC%A1%B1%EC%97%AC%ED%96%89",
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/carlist.html?rt=1&ssac=Q_1&ssat=1",
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-001.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1783478660008_20260708114420.jpg",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "트카, 제주도렌트카비교, 제주렌트카최저가, 제주렌트카비교\",\"metaTitle\":\" | 최저가는 카모아\",\"metaDescription\":\"제주도렌트카, 여러 업체 가격을 비교해서 가장 저렴하게 예약하는 방법 — 카모아 최저가보장제로 안심하고 예약하세요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1783478660008_20260708114420.jpg\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region",
+      "content_type": "image/webp",
+      "bytes": 702146,
+      "sha256": "d016b157e067ccd66531cb1776ff898bfd5950a5205b6045d3eb1d5db8095f69",
+      "source_sha256": "78770f859e88b18f865fd7bb0a523a747e31c8738b42ce1b5d21f6ae5e77eea5",
+      "dhash": "e023012089674360",
+      "width": 2200,
+      "height": 1650,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%A0%9C%EC%A3%BC%EA%B0%80%EC%A1%B1%EC%97%AC%ED%96%89"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-002.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1783404792876_20260707151314.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "이베이\",\"regionSearchKeywords\":\"타이베이렌트카\",\"metaTitle\":\" 가격비교, 최저가 예약\",\"metaDescription\":\"2,000만 명의 선택! 카모아에서 대만(타이베이) 렌트카를 준비하세요. 365일 한국어로 상담 가능.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1783404792876_20260707151314.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region",
+      "content_type": "image/webp",
+      "bytes": 285580,
+      "sha256": "b4a9ee147432db72b002f302800e1dc4fa56210586f81b162e947e4e25e53016",
+      "source_sha256": "cb5cfa8cf152c40ff7adb7c584180cb2464f40f95e8d4f689f162bf2bb1fc2fb",
+      "dhash": "d0182c22373cbed0",
+      "width": 1920,
+      "height": 819,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-003.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1783404796630_20260707151317.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "능.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1783404792876_20260707151314.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1783404796630_20260707151317.png\",\"bannerSubtitle\":\"차종과 보험 추천, 운전 꿀팁, 여행 코스까지 한 곳에서 만나보세요\",\"ogImage\":\"\",\"serviceTitle\":\"타이베이 렌트카 여행은 역",
+      "content_type": "image/webp",
+      "bytes": 264076,
+      "sha256": "be1fdc6d9b051bbc3bba87b8b5b4b3f820535235be20f154adb108dbb0593404",
+      "source_sha256": "2ad3b8c13814a6939d9a29a96c6ad8b7fb8f5fa37ae7d4efb76b01e8763a26f6",
+      "dhash": "f9986d42535591b2",
+      "width": 1484,
+      "height": 1060,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-004.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785217124116_20260728143845.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "ywords\":\"일본렌트카, 도요타렌트카, 일본렌트카비용, 일본렌트카추천, 일본렌터카\",\"metaTitle\":\" 최저가 예약\",\"metaDescription\":\"2,000만 명의 선택! 365일 한국어로 상담 가능한 카모아에서 일본 렌트카를 준비해보세요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785217124116_20260728143845.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region",
+      "content_type": "image/webp",
+      "bytes": 259362,
+      "sha256": "b379dd087d61e0da8f0fc1c9299dfcec1a76e934ca668a0a30d87d2af2c7b8a5",
+      "source_sha256": "ac8f8120c53ae36bcf6cad11249f376c42afdd0c1b74ccec608ed9ca1af7dad1",
+      "dhash": "d97937296919b8d0",
+      "width": 1920,
+      "height": 664,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-005.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786590361344_20260813120603.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "\"오사카렌트카, 오사카렌트카추천, 오사카렌트카가격, 오사카렌트카비용, 간사이공항렌트카\",\"metaTitle\":\" 최저가 예약\",\"metaDescription\":\"2,000만 명의 선택! 365일 한국어 상담이 가능한 카모아에서 오사카 렌트카를 준비하세요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786590361344_20260813120603.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region",
+      "content_type": "image/webp",
+      "bytes": 259992,
+      "sha256": "27722bb03e0267f765dadd0e937f4b2d17edc7010443cf734a2976df08db7b64",
+      "source_sha256": "0ee937dd4d90b1ea348e57d3728f469ec844201339b6798ad690b2dc565b9652",
+      "dhash": "3d3bbeb9b8eea9ac",
+      "width": 1942,
+      "height": 536,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-006.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782115490741_20260622170451.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "마렌트카, 로마렌트카추천, 이탈리아렌트카, 이탈리아렌트카비용, 이탈리아렌터카\",\"metaTitle\":\" 가격비교, 최저가 예약\",\"metaDescription\":\"2,000만 명의 선택! 카모아에서 로마 렌트카를 준비하세요. 365일 한국어로 상담 가능.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782115490741_20260622170451.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region",
+      "content_type": "image/webp",
+      "bytes": 354956,
+      "sha256": "e9812dfdf6f6f2d3edd32a0025f5bf1537aaff20cef3f23cfb6baaf6ffc1b587",
+      "source_sha256": "1a25ab0a086d2be436baa5dd78c2a9f8dbab7813a1599d3726d74d1d7e6c52cf",
+      "dhash": "690f2b3333072529",
+      "width": 1774,
+      "height": 887,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-007.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786601788852_20260813151630.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "트카, 시즈오카렌트카추천, 시즈오카역렌트카, 시즈오카렌트카가격, 시즈오카토요타렌트카\",\"metaTitle\":\" 최저가 예약\",\"metaDescription\":\"2,000만 명의 선택! 365일 한국어 상담이 가능한 카모아에서 시즈오카 렌트카를 준비하세요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786601788852_20260813151630.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region",
+      "content_type": "image/webp",
+      "bytes": 124982,
+      "sha256": "d38ac1614f2d3e1ed8dc6969270abbd91f2c2abbdbdd62b4b7c70ff7141f6a24",
+      "source_sha256": "ab0bc5fcf5f9c1ebf99d382d5b8f3c60eded349c8cb19239783a5914856af3da",
+      "dhash": "5f0f8f3b381e9959",
+      "width": 1942,
+      "height": 550,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-008.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785727151726_20260803121912.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "ords\":\"도쿄렌트카, 도쿄렌트카추천, 도쿄렌트카가격, 도쿄렌트카보험, 도쿄렌트카비교\",\"metaTitle\":\" 최저가 예약\",\"metaDescription\":\"2,000만 명의 선택! 365일 한국어 상담이 가능한 카모아에서 도쿄 렌트카를 준비하세요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785727151726_20260803121912.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region",
+      "content_type": "image/webp",
+      "bytes": 174190,
+      "sha256": "6ecf63c5d778535859fc15d85bf3e7cbd3e29625e32128ed6e0ee3ab07ad5cd7",
+      "source_sha256": "9a52f58fb9f057003b2215d88d8fc4cb1e69c54fdd398c6b7240f80fdf5666dd",
+      "dhash": "1f5dddddd4bdb55a",
+      "width": 1536,
+      "height": 574,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-009.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785395408938_20260730161025.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": ":\"대마도렌트카, 대마도렌트카추천, 이즈하라렌트카추천, 히타카츠렌트카, 이즈하라렌트카\",\"metaTitle\":\" 최저가 예약\",\"metaDescription\":\"2,000만 명의 선택! 365일 한국어 상담이 가능한 카모아에서 대마도 렌트카를 준비하세요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785395408938_20260730161025.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region",
+      "content_type": "image/webp",
+      "bytes": 236894,
+      "sha256": "af651d3af14d97b83775cec59189467dad3a3a10cd9d8025931d7d4efd8db85c",
+      "source_sha256": "d63dd2f2b7665b3b13717e1e60a86ce070036a224327e62dff6d27a626aeed0d",
+      "dhash": "5fa7252c8f940232",
+      "width": 1774,
+      "height": 803,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-010.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1787216418724_20260820180019.png",
+      "source_tag": "html-data, source:banner, source:image",
+      "context": "\"나고야렌트카, 나고야렌트카추천, 나고야렌트카가격, 나고야렌트카비용, 나고야렌트카여행\",\"metaTitle\":\" 최저가 예약\",\"metaDescription\":\"2,000만 명의 선택! 365일 한국어 상담이 가능한 카모아에서 나고야 렌트카를 준비하세요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1787216418724_20260820180019.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region",
+      "content_type": "image/webp",
+      "bytes": 444724,
+      "sha256": "3873fe667191db509bcfeccee2af638dea90b3ff3372b5bddfb60ab93d4dc882",
+      "source_sha256": "2628fa593d88165bc19e47211f64faf952a4c7433ef184242f3315231e3561c0",
+      "dhash": "bbd35db46a62559d",
+      "width": 1942,
+      "height": 696,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-011.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785217122025_20260728143843.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785217124116_20260728143845.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785217122025_20260728143843.png\",\"bannerSubtitle\":\"차종과 보험, 실시간 가격까지 한 곳에서 비교해보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws.com/reg",
+      "content_type": "image/webp",
+      "bytes": 415646,
+      "sha256": "6038a2f18aa63a25ce600d453bf35ad41dfd5d45f445ed916df5df712b26d610",
+      "source_sha256": "f34477326bdcbc48154fbff6b16d58eb2f5ceec2fe2f28f640faa7f6c606874e",
+      "dhash": "fc7d3d391998d253",
+      "width": 1484,
+      "height": 1060,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-001.svg",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786590250926_20260813120412.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786590361344_20260813120603.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786590250926_20260813120412.png\",\"bannerSubtitle\":\"차종과 보험 추천, 운전 꿀팁, 여행 코스까지 한 곳에서 만나보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws",
+      "content_type": "image/svg+xml",
+      "bytes": 2752172,
+      "sha256": "1a200060cb861099590e2684770dab648e54192d9d10e6c16b6cd42aadddc5f6",
+      "source_sha256": "1a200060cb861099590e2684770dab648e54192d9d10e6c16b6cd42aadddc5f6",
+      "dhash": "",
+      "width": 716,
+      "height": 716,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-012.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782115493131_20260622170453.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "능.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782115490741_20260622170451.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782115493131_20260622170453.png\",\"bannerSubtitle\":\"차종과 보험 추천, 운전 꿀팁, 여행 코스까지 한 곳에서 만나보세요\",\"ogImage\":\"https://carmoreweb.s3.amazonaws.",
+      "content_type": "image/webp",
+      "bytes": 335638,
+      "sha256": "5bd1381c1df49ecc558f21667ac6cbe589fe03f2cb506664f4fd49b970013809",
+      "source_sha256": "cdbcf2d6dc54a3ea839779c28da00523d7682dd6b51576ad55e28609785663eb",
+      "dhash": "ff076d753505244c",
+      "width": 1489,
+      "height": 1056,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-013.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786601707683_20260813151509.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786601788852_20260813151630.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786601707683_20260813151509.png\",\"bannerSubtitle\":\"차종, 보험, 원화 결제까지 한국어로 안내받고 간편하게 예약해보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws",
+      "content_type": "image/webp",
+      "bytes": 268794,
+      "sha256": "f9dddcde4104f501ad1800feb14e1e29d7bbbc129451fa78c1d391517b2a3bae",
+      "source_sha256": "11505e9301f5b2be42ae352c653eb4bd6020825768078f69c740401c0d00b98d",
+      "dhash": "bf2fcd381c8d0f8f",
+      "width": 1484,
+      "height": 1060,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-002.svg",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785727037853_20260803121718.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785727151726_20260803121912.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785727037853_20260803121718.png\",\"bannerSubtitle\":\"차종과 보험 추천, 운전 꿀팁, 여행 코스까지 한 곳에서 만나보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws",
+      "content_type": "image/svg+xml",
+      "bytes": 2622693,
+      "sha256": "674af6eb55545398ba11d42201ad2229e845699087adeb6c60127403b3645016",
+      "source_sha256": "674af6eb55545398ba11d42201ad2229e845699087adeb6c60127403b3645016",
+      "dhash": "",
+      "width": 716,
+      "height": 716,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-014.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785395688757_20260730161452.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785395408938_20260730161025.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785395688757_20260730161452.png\",\"bannerSubtitle\":\"차종, 보험, 원화 결제까지 한국어로 안내받고 간편하게 예약해보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws",
+      "content_type": "image/webp",
+      "bytes": 280970,
+      "sha256": "79cd3d91774c8224083b32666cbce7881a19b19bb8fb6aff832f8a22771543c7",
+      "source_sha256": "8f5c7cc5609460044066d27826f1f455cab10b020191e5717818de3b09671bd9",
+      "dhash": "675fa7249d8a191d",
+      "width": 1484,
+      "height": 1060,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-015.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1787215650814_20260820174731.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "요.\",\"metaKeywords\":null,\"bannerImagePc\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1787216418724_20260820180019.png\",\"bannerImageMobile\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1787215650814_20260820174731.png\",\"bannerSubtitle\":\"차종과 보험 추천, 운전 꿀팁, 여행 코스까지 한 곳에서 만나보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws",
+      "content_type": "image/webp",
+      "bytes": 421256,
+      "sha256": "c9d5c593be5dcffb05ce0fafa421be95ab4f10b5107b345b4ab15f099679ad38",
+      "source_sha256": "c9f525d60bd6a5eb9329fda9fd0bf2a5b4615f59a784975dd08ead4046058a0a",
+      "dhash": "f8bc717e2662d51d",
+      "width": 1484,
+      "height": 1060,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-016.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/pc-jeju-main-img-banner-01.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "n/icon-line-user.svg\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/logo/logo-jejubaksa.webp\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/jeju-home/pc-jeju-main-img-banner-01.png\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/jeju-home/mo-jeju-main-img-banner-01.png\" rel",
+      "content_type": "image/webp",
+      "bytes": 17414,
+      "sha256": "f4be34d3db858e879c8657ecb3e666aea06153d5c34869aa434e5287f20e33d4",
+      "source_sha256": "b0a08268c5ede990ddd62f677b75552148921cd40f7d16e7bde4f36ea362ef28",
+      "dhash": "0c0c07d3d7d7dd0d",
+      "width": 2200,
+      "height": 474,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-017.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/pc-jeju-main-img-banner-05.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "vrD1 style_Hidden__A2CdI\"><div class=\"style_Banner__K2659\"><img alt=\"제주 최다 유모차·카시트 업체 보유\" class=\"style_Image__LUeoQ\" data-nimg=\"1\" decoding=\"async\" height=\"382\" loading=\"lazy\" src=\"/static/images/jeju-home/pc-jeju-main-img-banner-05.png\" style=\"color:transparent\" width=\"375\"/><div class=\"style_Wrapper__8Io8y style_HasManyStrollersBadge__OfdSc\"><span class",
+      "content_type": "image/webp",
+      "bytes": 8634,
+      "sha256": "4cc2f8b8ef8cf848f782f97ecf1d69e3fe907e651685bdfbeec2c0864d870e5e",
+      "source_sha256": "b5a708db5ffd7a994d7bbdc58d3b5eca261094b5b93df9f87fee45fb40f8dec8",
+      "dhash": "70707070723030b0",
+      "width": 1450,
+      "height": 313,
+      "variant": "desktop",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-018.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/pc-jeju-main-img-banner-02.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "Hidden__A2CdI\"><div class=\"style_Banner__K2659\"><img alt=\"무료취소로 여행 걱정 No! 취소수수료 역시 업계 최저\" class=\"style_Image__LUeoQ\" data-nimg=\"1\" decoding=\"async\" height=\"382\" loading=\"lazy\" src=\"/static/images/jeju-home/pc-jeju-main-img-banner-02.png\" style=\"color:transparent\" width=\"375\"/><div class=\"style_Wrapper__8Io8y style_FreeCancelBadge__080Qx\"><span class=\"styl",
+      "content_type": "image/webp",
+      "bytes": 22354,
+      "sha256": "f395d90fe5c2b4e568ae738828b9046b4c20b816c2fca5732531fce7061ec227",
+      "source_sha256": "9b2b0ad3fed4c28ceedf0fc1d1f67e61411565e8e531f767fab939bf71103c30",
+      "dhash": "000d187ddd68e4cc",
+      "width": 2200,
+      "height": 474,
+      "variant": "desktop",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-019.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/pc-jeju-main-img-banner-03.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "den__A2CdI\"><div class=\"style_Banner__K2659\"><img alt=\"카모아가 더 비싸다구요? 최저가가 아니면 400% 돌려드려요\" class=\"style_Image__LUeoQ\" data-nimg=\"1\" decoding=\"async\" height=\"382\" loading=\"lazy\" src=\"/static/images/jeju-home/pc-jeju-main-img-banner-03.png\" style=\"color:transparent\" width=\"375\"/><div class=\"style_Wrapper__8Io8y style_LowestPriceBadge__NwB4k\"><span class=\"sty",
+      "content_type": "image/webp",
+      "bytes": 14428,
+      "sha256": "56094a3d576ff7143b07d9f622158dea68ee874fe5a79f5bbfd8ebd0f658e8be",
+      "source_sha256": "dc6d842a53745b09b509e1d0864aa7520e0a87f254f3002da677259eddd95e14",
+      "dhash": "0000104834b2b2b2",
+      "width": 2200,
+      "height": 474,
+      "variant": "desktop",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-020.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/pc-jeju-main-img-banner-04.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "n__A2CdI\"><div class=\"style_Banner__K2659\"><img alt=\"렌트카 예약 서비스, 누적 이용 고객 &amp; 재이용률 1등!\" class=\"style_Image__LUeoQ\" data-nimg=\"1\" decoding=\"async\" height=\"382\" loading=\"lazy\" src=\"/static/images/jeju-home/pc-jeju-main-img-banner-04.png\" style=\"color:transparent\" width=\"375\"/><div class=\"style_Wrapper__8Io8y style_FirstRankBadge__FOI02\"><span class=\"style",
+      "content_type": "image/webp",
+      "bytes": 19152,
+      "sha256": "e68b3702e2b704d1dc71b97bf4412700547c65972c0b2916fd05af212c5a6a38",
+      "source_sha256": "2d84d64f62b49515fb8eeec5af4a7e75198dbe50337bbe3270051d4b676b2959",
+      "dhash": "4c2a2232aa480c4c",
+      "width": 2200,
+      "height": 474,
+      "variant": "desktop",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-021.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/mo-jeju-main-img-banner-01.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "webp\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/jeju-home/pc-jeju-main-img-banner-01.png\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/jeju-home/mo-jeju-main-img-banner-01.png\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"/static/images/icon/icon-approval-pink-red.svg\" rel=\"preload",
+      "content_type": "image/webp",
+      "bytes": 13506,
+      "sha256": "4b7e773b6c5b08a86267c4ff7c3bc368f7abaee92bf0f8fe9007ed905f0caacc",
+      "source_sha256": "e2bbb99a074584e8aba5ebbac1855d04c90cb295d923bf44a593ad17542fc466",
+      "dhash": "1f17012142239c2c",
+      "width": 750,
+      "height": 700,
+      "variant": "mobile",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-022.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/mo-jeju-main-img-banner-05.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "vrD1 style_Hidden__A2CdI\"><div class=\"style_Banner__K2659\"><img alt=\"제주 최다 유모차·카시트 업체 보유\" class=\"style_Image__LUeoQ\" data-nimg=\"1\" decoding=\"async\" height=\"382\" loading=\"lazy\" src=\"/static/images/jeju-home/mo-jeju-main-img-banner-05.png\" style=\"color:transparent\" width=\"375\"/><div class=\"style_Wrapper__8Io8y style_HasManyStrollersBadge__OfdSc\"><span class",
+      "content_type": "image/webp",
+      "bytes": 23142,
+      "sha256": "2c36b52b27aaa6f8597e27b9c8fa75a173d2d21299d8c46ad4fdd568253dab74",
+      "source_sha256": "2fb353b07c2c63adb7bd2454d7537d24bb2f19079f978b5cb642a2eac75485c0",
+      "dhash": "f0f0f0f892e3e3ce",
+      "width": 750,
+      "height": 700,
+      "variant": "mobile",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-023.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/mo-jeju-main-img-banner-02.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "Hidden__A2CdI\"><div class=\"style_Banner__K2659\"><img alt=\"무료취소로 여행 걱정 No! 취소수수료 역시 업계 최저\" class=\"style_Image__LUeoQ\" data-nimg=\"1\" decoding=\"async\" height=\"382\" loading=\"lazy\" src=\"/static/images/jeju-home/mo-jeju-main-img-banner-02.png\" style=\"color:transparent\" width=\"375\"/><div class=\"style_Wrapper__8Io8y style_FreeCancelBadge__080Qx\"><span class=\"styl",
+      "content_type": "image/webp",
+      "bytes": 22940,
+      "sha256": "b1bdaad984195da6e638eccbead21843300be6a98196602cd4d67816035b4f03",
+      "source_sha256": "113f1e18c55f7c1e583f5fcddfec2d886e36800453bb7d6a5b2f7092f8879582",
+      "dhash": "060641338b66620e",
+      "width": 750,
+      "height": 700,
+      "variant": "mobile",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-024.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/mo-jeju-main-img-banner-03.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "den__A2CdI\"><div class=\"style_Banner__K2659\"><img alt=\"카모아가 더 비싸다구요? 최저가가 아니면 400% 돌려드려요\" class=\"style_Image__LUeoQ\" data-nimg=\"1\" decoding=\"async\" height=\"382\" loading=\"lazy\" src=\"/static/images/jeju-home/mo-jeju-main-img-banner-03.png\" style=\"color:transparent\" width=\"375\"/><div class=\"style_Wrapper__8Io8y style_LowestPriceBadge__NwB4k\"><span class=\"sty",
+      "content_type": "image/webp",
+      "bytes": 15352,
+      "sha256": "66773d445c3287675f066319b991a1c9a23d1cd820f30b8f03921d16eedef8f1",
+      "source_sha256": "90db01c056ab9a1d05ef1bbc3641609095045aea6656b256dbe8050788133175",
+      "dhash": "0002608b74f0d06c",
+      "width": 750,
+      "height": 700,
+      "variant": "mobile",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-025.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/mo-jeju-main-img-banner-04.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "n__A2CdI\"><div class=\"style_Banner__K2659\"><img alt=\"렌트카 예약 서비스, 누적 이용 고객 &amp; 재이용률 1등!\" class=\"style_Image__LUeoQ\" data-nimg=\"1\" decoding=\"async\" height=\"382\" loading=\"lazy\" src=\"/static/images/jeju-home/mo-jeju-main-img-banner-04.png\" style=\"color:transparent\" width=\"375\"/><div class=\"style_Wrapper__8Io8y style_FirstRankBadge__FOI02\"><span class=\"style",
+      "content_type": "image/webp",
+      "bytes": 17190,
+      "sha256": "6a5c505de642a618b7914a18f977d2d126ba1172a6580eb48075d00f6f67b84e",
+      "source_sha256": "bb541feed210af7ad716ba99fa8da1278af876d475bcac3b1a0ab1c8cf5f3153",
+      "dhash": "cc11ccf04d4c0e0f",
+      "width": 750,
+      "height": 700,
+      "variant": "mobile",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-004.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-1_20260209155126.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "ndmarkId=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"허츠\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-1_20260209155126.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/png",
+      "bytes": 110436,
+      "sha256": "27225e2a628455d2ae5c9d803109d7a810c395f66546a1574e93b3ff1c5de385",
+      "source_sha256": "41b40014409ebd0be3f91ac1493040e5a4c5bcabf9ae3c03256d3e0ef7c79c61",
+      "dhash": "128ceca2e6a69800",
+      "width": 1800,
+      "height": 900,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/carmore/social-001.webp",
+      "source_url": "https://d1y0pslxvt2ep5.cloudfront.net/ogimg/image-og-teamo2-250924.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image , meta:og:image:secure_url , meta:og:image:url ",
+      "context": "property=\"fb:app_id\"><meta content=\"카모아\" property=\"og:site_name\"><meta content=\"https://carmore.kr/home\" property=\"og:url\"><meta content=\"website\" property=\"og:type\"><meta content=\"https://d1y0pslxvt2ep5.cloudfront.net/ogimg/image-og-teamo2-250924.png\" property=\"og:image\"><meta content=\"https://d1y0pslxvt2ep5.cloudfront.net/ogimg/image-og-teamo2-250924.png\" property=\"og",
+      "content_type": "image/webp",
+      "bytes": 25700,
+      "sha256": "2dbd21095c2f797e8ed92c37cc7a56a799a7ef898529d12128dc40272b476f0b",
+      "source_sha256": "0e216c5a9a734f32a63becc84645a6e3ab833a38439a00c53e8fdab0bb369d18",
+      "dhash": "01090b0f38f3063c",
+      "width": 601,
+      "height": 315,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/",
+        "https://carmore.kr/home/car-rentals/%EC%A0%9C%EC%A3%BC%EA%B0%80%EC%A1%B1%EC%97%AC%ED%96%89",
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/carlist.html?rt=1&ssac=Q_1&ssat=1",
+        "https://carmore.kr/home/jeju",
+        "https://carmore.kr/home/rent",
+        "https://carmore.kr/home/rent?rt=1",
+        "https://carmore.kr/home/rent?rt=1&isOverSeas=false",
+        "https://carmore.kr/home/rent?rt=1&isOverSeas=true",
+        "https://carmore.kr/home/rent?rt=2",
+        "https://carmore.kr/home/rent?rt=5"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-003.webp",
+      "source_url": "https://d1y0pslxvt2ep5.cloudfront.net/event/banner/banner_shortcut_1756775115_243.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "html?a=325\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"최저가 모아! 최저가 아닐시 400% 보상!\" class=\"style_Image__0xeaz\" data-nimg=\"1\" decoding=\"async\" height=\"220\" loading=\"lazy\" src=\"https://d1y0pslxvt2ep5.cloudfront.net/event/banner/banner_shortcut_1756775115_243.png\" style=\"color:transparent\" width=\"568\"/></a></div></div><div style=\"flex:0 0 calc((100% - (24px * 1)) / 2)\"><div class=\"",
+      "content_type": "image/webp",
+      "bytes": 17814,
+      "sha256": "e2ac18fd82132eb236b6ad9df47d98a3fb63364131f0cdfef836a4fb241cafbc",
+      "source_sha256": "5e6b91f9af7841b5b6ecf681ab418011ae089b72daef29481d834e0b14fb0f00",
+      "dhash": "3f3eceb6948e7639",
+      "width": 750,
+      "height": 292,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-026.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/family-lounge-event-mo-banner.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "l?a=190\" rel=\"noopener noreferrer\" target=\"_blank\"><img alt=\"카모아 VIP 멤버십 혜택! 혜택존 이용방법 안내\" class=\"style_Image__0xeaz\" data-nimg=\"1\" decoding=\"async\" height=\"220\" loading=\"lazy\" src=\"/static/images/jeju-home/family-lounge-event-mo-banner.png\" style=\"color:transparent\" width=\"568\"/></a></div></div></div></div></div><div class=\"style_ShowToMobile__BsNVt\"><div cl",
+      "content_type": "image/webp",
+      "bytes": 45600,
+      "sha256": "1fe10aae90ecc1ae2aab4f6f0cffeead3851e8f405c9dc2a47bc4450689fd38c",
+      "source_sha256": "6bd87aa246901b81cc48d9e6537f950271481dae81e00dba0574c4a27d8c9e6c",
+      "dhash": "0f0f9797b6b32f8f",
+      "width": 1125,
+      "height": 438,
+      "variant": "mobile",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-005.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-3_20260108112337.jpg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "ndmarkId=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"버젯\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-3_20260108112337.jpg\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/webp",
+      "bytes": 8926,
+      "sha256": "b71d9f878e3c9acf8c0e1067b8ab68b59586cadfbc274bb4138a432f37c2b864",
+      "source_sha256": "3e50d2b9115fb1f8e458058ee22afe41346361cfd6d61b926d8bd8fd25b554b6",
+      "dhash": "0014c1aaac6c8028",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-006.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-2_20260228121255.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "dmarkId=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"알라모\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-2_20260228121255.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/png",
+      "bytes": 34336,
+      "sha256": "04b534d18f039e0c35b7cf1986bb5f04f139afed732659dfde99f040e591757a",
+      "source_sha256": "cc37b1a07c992da2e47e5cdc82b93fde375a3876f04c249748a9c855fe1c1351",
+      "dhash": "608b74554bbd4209",
+      "width": 820,
+      "height": 410,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-007.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260108162915.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "kId=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"도요타 렌터카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260108162915.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/png",
+      "bytes": 13680,
+      "sha256": "fee323b525b27d0b6f95863fa2dd76a40b7a621c01d92654f3db791d256ac0bc",
+      "source_sha256": "ffbedf851d59702d62f76df4e32fd600b904926b79f15799bc3a9f3015acda72",
+      "dhash": "34caccdcc4c4ca30",
+      "width": 247,
+      "height": 123,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-008.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-3_20260113153751.jpg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "arkId=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"닛폰렌터카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-3_20260113153751.jpg\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/webp",
+      "bytes": 8524,
+      "sha256": "79f61b65f6d94729d824ce3762f984dfdd59624dd365fb2843f3caa9a584be7b",
+      "source_sha256": "dd85bac48676869eec0a4bd8210cc40b571b23697a33f59a715bf03f6f279990",
+      "dhash": "c23037666d699464",
+      "width": 400,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-009.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260109143953.jpg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "kId=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"스카이 렌트카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260109143953.jpg\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BrandRow__KC4ZT\"><span class=\"ColorGrey2 Text-P1-B style_Wr",
+      "content_type": "image/webp",
+      "bytes": 4036,
+      "sha256": "0d1a8a7c4994d8c38c3df41804321153bae4be6cf861af43c7e8689978642c30",
+      "source_sha256": "c80719d8eb8f9b372eb151c05b9dbbb3e9d050de26c46cd79ba28893f2fa02a6",
+      "dhash": "10b271697971b210",
+      "width": 365,
+      "height": 183,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-010.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-2_20260108163500.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "arkId=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"유유렌터카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-2_20260108163500.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BrandRow__KC4ZT\"><span class=\"ColorGrey2 Text-P1-B style_Wr",
+      "content_type": "image/png",
+      "bytes": 19216,
+      "sha256": "ff3ec43a008a42b5ea69dc4467424435f0c36be679ea334affaee0c568160f73",
+      "source_sha256": "6df00ba4425a04ee571008a4a231e5ef6782ec133ef19234aefabb17dd522840",
+      "dhash": "0008808ccc800280",
+      "width": 345,
+      "height": 172,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-011.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260109142838.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "kId=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"스즈키 렌터카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260109142838.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/png",
+      "bytes": 43879,
+      "sha256": "001c2c2742e512439c556656fe3c3baebcdf4d7645f49bdd8d27eae98da3214a",
+      "source_sha256": "e7945b4d1ec984e235de3c2bc4d74e2b3f5374f3909824b72d969a4eeb14adbf",
+      "dhash": "004400a4b4004000",
+      "width": 1352,
+      "height": 676,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-012.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-0_20260109151452.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "Id=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"오키나와 렌트카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-0_20260109151452.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/png",
+      "bytes": 15458,
+      "sha256": "22d1104ccb2d045b9b5d84dacaa73cad1d2a300cc7eb2125e00bb446ff049456",
+      "source_sha256": "8b2f1ce9717b9decceca517bea2aef9050b96d892e0f11ad73b8024f86bbe1d4",
+      "dhash": "0020c44b2b056d80",
+      "width": 410,
+      "height": 205,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-013.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-MC18.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "Id=30\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"니코니코 렌터카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-MC18.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/webp",
+      "bytes": 10232,
+      "sha256": "2bcd5d4f85a80ccbe7a173fc4a571c09b2190bf1051a868396b1431140ed6a82",
+      "source_sha256": "3555c32a4cdf33f8367449513c21e028b6e61d0de5cffa5b5ed6baaccf780453",
+      "dhash": "b2696969696971b2",
+      "width": 400,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-014.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-MC43.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "er-slide style_SlideWrap__yz_09\" role=\"listitem\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"Good 카렌탈\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-MC43.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BrandRow__KC4ZT\"><span class=\"ColorGrey2 Text-P1-B style_Wr",
+      "content_type": "image/webp",
+      "bytes": 5688,
+      "sha256": "799feb5c808489341dceff7e074ff5140ed498c6aa27ada46b984c52b3570da9",
+      "source_sha256": "7b1c1eff7dff3b113fd46d3cd183bce29eab6b9b35360b2bb9685a7ba917df83",
+      "dhash": "4000c0ccd4c01080",
+      "width": 400,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-015.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-MC56.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "wiper-slide style_SlideWrap__yz_09\" role=\"listitem\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"허즈렌트카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-MC56.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/webp",
+      "bytes": 6358,
+      "sha256": "4d7b8114c955554caf7ab240e40a7fd53057d3e0eff5b74ea748b200d02882a0",
+      "source_sha256": "99d750104d04571dd6b989e1c137c48b8d02f86bea5b4dbdda7c9d7712ee9696",
+      "dhash": "a041d8f0d0d003d0",
+      "width": 400,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-016.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-5_20260424151457.jpg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "per-slide style_SlideWrap__yz_09\" role=\"listitem\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"IWS 렌터카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-5_20260424151457.jpg\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/webp",
+      "bytes": 44888,
+      "sha256": "c074a87b77f9c9c0ceca339c9d14be539fdf87cc9ba87896dadb4a27ec778de4",
+      "source_sha256": "221dfd4f0942252ce6e65776f0f0f734aa18a66ff79fb2636d10ca573cd1516e",
+      "dhash": "21ca312969722800",
+      "width": 2200,
+      "height": 1088,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-017.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-2_20260209155145.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "=\"swiper-slide style_SlideWrap__yz_09\" role=\"listitem\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"달러\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-2_20260209155145.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/png",
+      "bytes": 134106,
+      "sha256": "6904c457d99fd8c6cad781e223a0fa7c2c84cce102f5b4cbcc1e8c32755a9209",
+      "source_sha256": "4950db35a00546969db0ecac286561cf3c546b547a85a396502865a2da7200da",
+      "dhash": "44b0b4b284bc3401",
+      "width": 2200,
+      "height": 1100,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-018.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-5_20260424142615.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "wiper-slide style_SlideWrap__yz_09\" role=\"listitem\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"IX 렌탈\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-5_20260424142615.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/webp",
+      "bytes": 34302,
+      "sha256": "d8e5307a2b652582d2d83809e1618977b30cc5fd7614da630e12d0a050706cff",
+      "source_sha256": "458da681dd7c97ed985200bea219a9451b7a1ae44b54911d068721843e73f0c7",
+      "dhash": "802a80b4aa330031",
+      "width": 2200,
+      "height": 1088,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-019.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-MC49.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "iper-slide style_SlideWrap__yz_09\" role=\"listitem\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"허윈 렌트카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-MC49.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BrandRow__KC4ZT\"><span class=\"ColorGrey2 Text-P1-B style_Wr",
+      "content_type": "image/webp",
+      "bytes": 6366,
+      "sha256": "d0684a5e4743d1e78b072fbe7b00d17c8026041c166eea74986de53e6cabd35c",
+      "source_sha256": "7adecd4b149b56d29f8e9b5b77c16defa94e1d1fc35840393dcfaf50c88b8754",
+      "dhash": "16b06969b2716960",
+      "width": 400,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-020.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-3_20260228115900.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "er-slide style_SlideWrap__yz_09\" role=\"listitem\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"쓰리프티 카렌탈\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-3_20260228115900.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/png",
+      "bytes": 63233,
+      "sha256": "a5adf7a77d78ba4c3266ee7abbe82a77ce607e86e94c6278050ad75a9e47369b",
+      "source_sha256": "6063cbd43e11ef733d9c52278133aa30896545953a1f9a5b23d4a59df5f6038b",
+      "dhash": "21989cc2d2d60440",
+      "width": 550,
+      "height": 275,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-021.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-0_20260108103645.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "markId=222\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"유럽카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-0_20260108103645.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BrandRow__KC4ZT\"><span class=\"ColorGrey2 Text-P1-B style_Wr",
+      "content_type": "image/png",
+      "bytes": 29548,
+      "sha256": "e822489555c938375c663f700796a63b8411e5afad745a12f4af4f89f6c1a2e4",
+      "source_sha256": "854b2563a291cd0f1e0e05a6247cd7240484b900aa246ac0d7a9f4eb392a9bf4",
+      "dhash": "40816a4d2f0f7108",
+      "width": 400,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-022.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260228120156.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "arkId=222\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"에이비스\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260228120156.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/png",
+      "bytes": 40233,
+      "sha256": "e041e08a85e84a59c50f99500920a009a20b6aaeb0368ccb0d39a7669e971016",
+      "source_sha256": "757b192db7495c45911e836306a77195beb14773857feabff91fedd25d68f023",
+      "dhash": "21c823233b53c401",
+      "width": 400,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-023.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260108113940.jpg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "arkId=222\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"그린모션\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-4_20260108113940.jpg\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/webp",
+      "bytes": 8754,
+      "sha256": "629dd6bc42aa58358479de4c52a4089e5f4b1b6598dfe7465002f4ce0e5c8041",
+      "source_sha256": "40251cae659e0b5f1974913aee4f504a969cd58a260450fe093e5a0d81887ef4",
+      "dhash": "d48ae4f8d2c8a8d4",
+      "width": 691,
+      "height": 345,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-024.png",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-2_20260227172155.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "Id=222\" rel=\"noopener noreferrer\" target=\"_blank\"><div class=\"style_Card__aUuw7\"><div class=\"style_LogoWrap__jNsXj\"><img alt=\"식스트 렌트카\" class=\"style_Logo__qFcEH\" loading=\"lazy\" src=\"https://carmoreweb.s3.amazonaws.com/company/prod/CARMORE_company_logo-2_20260227172155.png\"/></div><div class=\"style_InfoWrap__Bi9FH\"><div class=\"style_BadgeRow__yQfJz\"><div class=\"style_Layout__pP4M_\"><img alt=",
+      "content_type": "image/png",
+      "bytes": 13689,
+      "sha256": "26dd6406c5f7006520782c9f5b6dade56a9efcb88a6f6e196e5ecc08d149866d",
+      "source_sha256": "a7723e89dda63d974ffe1fa5825627f3c198d693babc3d915b427093bb925ff9",
+      "dhash": "922dcc98c8c8946b",
+      "width": 420,
+      "height": 210,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-025.png",
+      "source_url": "https://d1y0pslxvt2ep5.cloudfront.net/logo/carmore-logo.png",
+      "source_tag": "html-data, script-data",
+      "context": "\n      \"@type\": \"Organization\",\n      \"name\": \"카모아\",\n      \"alternateName\": [\n        \"carmore\",\n        \"제주렌트카 카모아\"\n      ],\n      \"url\": \"https://carmore.kr/home\",\n      \"logo\": \"https://d1y0pslxvt2ep5.cloudfront.net/logo/carmore-logo.png\",\n      \"description\": \"제주렌트카부터 서울·경기, 괌·사이판·일본까지 최저가로 여행가기! 2000만명이 선택한 카모아에서 간편하고 빠르게 렌트카 가격을 비교하고 예약하세요.\",\n      \"sam",
+      "content_type": "image/png",
+      "bytes": 5418,
+      "sha256": "f690a573eadd609a86dbf898e8649f7533307a659122a6d6ae6295feeff1d0de",
+      "source_sha256": "4495cab5440e468bb1244e64fc5f34d4fe5d642b157f45171d5e801048274a5a",
+      "dhash": "000094dad02c8000",
+      "width": 500,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/",
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%A0%9C%EC%A3%BC%EA%B0%80%EC%A1%B1%EC%97%AC%ED%96%89",
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/carlist.html?rt=1&ssac=Q_1&ssat=1",
+        "https://carmore.kr/home/jeju",
+        "https://carmore.kr/home/rent",
+        "https://carmore.kr/home/rent?rt=1",
+        "https://carmore.kr/home/rent?rt=1&isOverSeas=false",
+        "https://carmore.kr/home/rent?rt=1&isOverSeas=true",
+        "https://carmore.kr/home/rent?rt=2",
+        "https://carmore.kr/home/rent?rt=5"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/carmore/social-002.svg",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1783673204315_20260710174646.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785217122025_20260728143843.png\",\"bannerSubtitle\":\"차종과 보험, 실시간 가격까지 한 곳에서 비교해보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1783673204315_20260710174646.png\",\"serviceTitle\":\"일본 렌트카 여행은 역시 카모아!\",\"serviceSubtitle\":\"일본어 몰라도 걱정 NO! 예약부터 반납까지 함께합니다.\",\"reservation",
+      "content_type": "image/svg+xml",
+      "bytes": 2651178,
+      "sha256": "17d8294859c3882e94d36036a4e208965a8ccd66acce20e0c1f7eefda23c36ef",
+      "source_sha256": "17d8294859c3882e94d36036a4e208965a8ccd66acce20e0c1f7eefda23c36ef",
+      "dhash": "",
+      "width": 716,
+      "height": 716,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-027.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782116358835_20260622171918.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "/carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786590250926_20260813120412.png\",\"bannerSubtitle\":\"차종과 보험 추천, 운전 꿀팁, 여행 코스까지 한 곳에서 만나보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782116358835_20260622171918.png\",\"serviceTitle\":\"오사카 렌트카 여행은 역시 카모아!\",\"serviceSubtitle\":\"일본어 몰라도 걱정 NO! 예약부터 반납까지 카모아가 함께합니다.\",\"reser",
+      "content_type": "image/webp",
+      "bytes": 60970,
+      "sha256": "b8953daa8eac8137ea197ee1588efaf0496a9d4930fd163e3862572364c56352",
+      "source_sha256": "6d02d255e22e0050d142a29fb7c44f4d3b1fb0face38ab10326ba549bd232f72",
+      "dhash": "4d492f4e2a0e2e6e",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/carmore/social-003.svg",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782114830249_20260622165350.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "//carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782115493131_20260622170453.png\",\"bannerSubtitle\":\"차종과 보험 추천, 운전 꿀팁, 여행 코스까지 한 곳에서 만나보세요\",\"ogImage\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782114830249_20260622165350.png\",\"serviceTitle\":\"로마 렌트카 여행은 역시 카모아!\",\"serviceSubtitle\":\"즐거운 로마 렌트카 여행을 위한 꿀팁들을 만나보세요\",\"reservationBen",
+      "content_type": "image/svg+xml",
+      "bytes": 1978073,
+      "sha256": "122308df24b60511e456d1261775a7752fefa98f497cfaac6314049a543a7f6d",
+      "source_sha256": "122308df24b60511e456d1261775a7752fefa98f497cfaac6314049a543a7f6d",
+      "dhash": "",
+      "width": 716,
+      "height": 716,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-028.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782114403505_20260622164643.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "/carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1786601707683_20260813151509.png\",\"bannerSubtitle\":\"차종, 보험, 원화 결제까지 한국어로 안내받고 간편하게 예약해보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782114403505_20260622164643.png\",\"serviceTitle\":\"시즈오카 렌트카는 역시 카모아!\",\"serviceSubtitle\":\"일본어 몰라도 걱정 NO! 예약부터 반납까지 함께합니다.\",\"reservationB",
+      "content_type": "image/webp",
+      "bytes": 80948,
+      "sha256": "dcdff8bbfa3121adcc8be3613ae33f0e4a80c588c21739bdc347699ed5104b69",
+      "source_sha256": "5dc3c8d9c57e98b1f782a40bded9d803f76cefb590769d3e40ecd5975621db96",
+      "dhash": "616d2466216cd3e1",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-029.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782112748092_20260622161908.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "/carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785727037853_20260803121718.png\",\"bannerSubtitle\":\"차종과 보험 추천, 운전 꿀팁, 여행 코스까지 한 곳에서 만나보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782112748092_20260622161908.png\",\"serviceTitle\":\"도쿄 렌트카 여행은 역시 카모아!\",\"serviceSubtitle\":\"일본어 몰라도 걱정 NO! 예약부터 반납까지 카모아가 함께합니다.\",\"reserv",
+      "content_type": "image/webp",
+      "bytes": 75350,
+      "sha256": "95ca3426745cc919e3381fb1ee93b33b0f52f75c804f42773dc3645b0d7e0dbe",
+      "source_sha256": "91965213e7d2fa5b9d6529f00fee86384e0692d6b6b1a8110bd25c275932c396",
+      "dhash": "616d5a4d4f2be665",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-030.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782110856834_20260622154736.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "/carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1785395688757_20260730161452.png\",\"bannerSubtitle\":\"차종, 보험, 원화 결제까지 한국어로 안내받고 간편하게 예약해보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782110856834_20260622154736.png\",\"serviceTitle\":\"대마도 렌트카는 역시 카모아!\",\"serviceSubtitle\":\"일본어 몰라도 걱정 NO! 예약부터 반납까지 함께합니다.\",\"reservationBe",
+      "content_type": "image/webp",
+      "bytes": 43564,
+      "sha256": "b01d5925aacda6b499f64d4952e9d95d2f661a3363fc26f68e81d196b2acaf4c",
+      "source_sha256": "e75ccf7ac4eab57365af90a471d51ffb87a90a70288c03741e0337fa95f42752",
+      "dhash": "414d6f3e39911c1a",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-031.webp",
+      "source_url": "https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782105972559_20260622142612.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "/carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1787215650814_20260820174731.png\",\"bannerSubtitle\":\"차종과 보험 추천, 운전 꿀팁, 여행 코스까지 한 곳에서 만나보세요!\",\"ogImage\":\"https://carmoreweb.s3.amazonaws.com/region-home/prod/CARMORE_region-home_region-home-1782105972559_20260622142612.png\",\"serviceTitle\":\"나고야 렌트카 여행은 역시 카모아!\",\"serviceSubtitle\":\"일본어 몰라도 걱정 NO! 예약부터 반납까지 카모아가 함께합니다.\",\"reser",
+      "content_type": "image/webp",
+      "bytes": 64068,
+      "sha256": "2d8a324c6b663d09f5a1cad990b69bdc255309689578f1479985d63944257700",
+      "source_sha256": "2889cb4cd413a70804b980a7d307a6de32860185dd7e007081bb959bddd41917",
+      "dhash": "296d2e4e1aad6c43",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-032.webp",
+      "source_url": "https://carmore.kr/static/images/icon/dynamic_region/img-bottom-banner-car.png",
+      "source_tag": "inline-css",
+      "context": "aside  style_Banner__hkn3_ background-image:url(/static/images/icon/dynamic_region/img-bottom-banner-car.png)",
+      "content_type": "image/webp",
+      "bytes": 10294,
+      "sha256": "8f071fd49fe4ef7adf8f85bc1856e4c788072066d50da460301e439244956d21",
+      "source_sha256": "c4f9d7a1eb7a6640f4759df3470411734f6d385368e1efebe8f081ba496b8873",
+      "dhash": "8183cb89c8c8898d",
+      "width": 1740,
+      "height": 242,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%A0%9C%EC%A3%BC%EA%B0%80%EC%A1%B1%EC%97%AC%ED%96%89",
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/carmore/logo-026.svg",
+      "source_url": "https://carmore.kr/static/images/icon/logo-teamo2-grey.svg",
+      "source_tag": "html-data, img:logo",
+      "context": "dress class=\"style_Information__aRroi\"><div class=\"style_Company__a7nI1\"><img alt=\"carmore-logo\" data-nimg=\"1\" decoding=\"async\" fetchpriority=\"auto\" height=\"20\" loading=\"lazy\" src=\"/static/images/icon/logo-teamo2-grey.svg\" style=\"color:transparent\" width=\"95\"/><div class=\"style_Content__GEDep\"><p>주식회사 팀오투 | 대표자: 홍성주 | 사업자등록번호: 286-88-00238<",
+      "content_type": "image/svg+xml",
+      "bytes": 6077,
+      "sha256": "d2a025824c574fe606c40f2b70b8a89e744823159fc14bb0fe74477d127c4bc8",
+      "source_sha256": "d2a025824c574fe606c40f2b70b8a89e744823159fc14bb0fe74477d127c4bc8",
+      "dhash": "",
+      "width": 95,
+      "height": 19,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%A0%9C%EC%A3%BC%EA%B0%80%EC%A1%B1%EC%97%AC%ED%96%89",
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/carlist.html?rt=1&ssac=Q_1&ssat=1",
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-033.webp",
+      "source_url": "https://carmore.kr/home/images/banner-web-to-app.png",
+      "source_tag": "external-css",
+      "context": "mDkv6w1WtTtH0{background:#00000080}.BojszesgHThHVd5ezJX3{color:#f1f4f9}.ePwsw6IQ7SeheZFCtB87{background:#f1f4f9}.ZVUvDKevnxSKYzQWtLAJ{border-radius:8px;padding:1.5rem;display:flex;align-items:center;gap:16px;width:100%;max-width:1032px;height:162px;background:url(/home/images/banner-web-to-app.png) no-repeat right;background-size:cover}.B4zPEA_Qd39CkFvBMVXr{flex:1 1;display:flex;flex-direction:col",
+      "content_type": "image/webp",
+      "bytes": 13014,
+      "sha256": "c1789f188c04056009008e546f2be104a4530d867c562e10e58ea0a34aa483eb",
+      "source_sha256": "fe8127776f95447ee7942d9d042474f9cc1d520248c37d2d7b72617593a21d06",
+      "dhash": "8183c38988c98985",
+      "width": 2064,
+      "height": 322,
+      "variant": "mobile",
+      "source_pages": [
+        "https://carmore.kr/home/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/carmore/banner-034.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/jeju-home-main-banner.png",
+      "source_tag": "external-css",
+      "context": "height:100%}#__next>main{width:100%;min-height:100%;display:flex;flex-direction:column}#__next{--bg-swiper-prev-btn:url(/static/images/btn/btn_circle_arrow_left.svg);--bg-swiper-next-btn:url(/static/images/btn/btn_circle_arrow_right.svg);--bg-jeju-main-banner:url(/static/images/jeju-home/jeju-home-main-banner.png)}html.__keep-lock-scroll{overflow:hidden;width:100%}a,a:hover{text-decoration:none}a{",
+      "content_type": "image/webp",
+      "bytes": 49310,
+      "sha256": "77182b62c08cfa93ede79470b6122f145e9b47244f9236a4182c35ac553c5320",
+      "source_sha256": "594d5cc4b44ec96bbf9d669767e8501b2ad36ac8a765ee4a33f67401611cc916",
+      "dhash": "03070f3d3f35c99a",
+      "width": 2200,
+      "height": 531,
+      "variant": "desktop",
+      "source_pages": [
+        "https://carmore.kr/home/carlist.html?rt=1&ssac=Q_1&ssat=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-004.webp",
+      "source_url": "https://carmore.kr/static/images/common-loading.gif",
+      "source_tag": "html-data",
+      "context": "te\" aria-relevant=\"additions text\" class=\"Toastify\"></section><div class=\"style_Layout__1pvcR style_Hide__9_hf2\"><div class=\"style_Loading__pWaDZ\"><img alt=\"loading animation\" src=\"/static/images/common-loading.gif\"/></div></div><!--/$--><div id=\"modals\"></div><div id=\"app_version\" style=\"display:none;position:fixed;top:16px;right:16",
+      "content_type": "image/webp",
+      "bytes": 11782,
+      "sha256": "f15e14ee5f2038443f470a323ecb439180c158b6be6cc049e8fb80fbde5bd7ed",
+      "source_sha256": "d4747b15698a4c9440a0acb19824b05f80ce2189e23f46c42236872d00197ac4",
+      "dhash": "04000c8e96960002",
+      "width": 480,
+      "height": 480,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/car-rentals/%EB%82%98%EA%B3%A0%EC%95%BC%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8C%80%EB%A7%88%EB%8F%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%8F%84%EC%BF%84%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EB%A1%9C%EB%A7%88%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%8B%9C%EC%A6%88%EC%98%A4%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%98%A4%EC%82%AC%EC%B9%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%9D%BC%EB%B3%B8%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/car-rentals/%EC%A0%9C%EC%A3%BC%EA%B0%80%EC%A1%B1%EC%97%AC%ED%96%89",
+        "https://carmore.kr/home/car-rentals/%ED%83%80%EC%9D%B4%EB%B2%A0%EC%9D%B4%EB%A0%8C%ED%8A%B8%EC%B9%B4",
+        "https://carmore.kr/home/carlist.html?rt=1&ssac=Q_1&ssat=1",
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-005.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/thumbnail-01.png",
+      "source_tag": "html-data, img:image",
+      "context": "tyle_SlideWrap__FQG2J\"><article class=\"style_Layout__AMYDl\"><img alt=\"김포공항 주차장 할인 카모아 혜택\" class=\"style_Image__mez_R\" data-nimg=\"1\" decoding=\"async\" height=\"150\" loading=\"lazy\" src=\"/static/images/jeju-home/thumbnail-01.png\" style=\"color:transparent\" width=\"150\"/><div class=\"style_Dim__FfRLs\"></div><a class=\"link style_Layout__NnSfh style_Pri",
+      "content_type": "image/webp",
+      "bytes": 10548,
+      "sha256": "56575691e6451339ac41dae24e828f4bb0cc9755de3e68a16fae52c4ca7056b7",
+      "source_sha256": "633c819f89ae9526dbcbe6e58f9f0579f91e4d1e1fbb72cbb3673ebac54aff0c",
+      "dhash": "030ddc2c01c4ece1",
+      "width": 576,
+      "height": 576,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-006.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/thumbnail-03.png",
+      "source_tag": "html-data, img:image",
+      "context": "e style_SlideWrap__FQG2J\"><article class=\"style_Layout__AMYDl\"><img alt=\"하리보 해피월드 카모아 혜택\" class=\"style_Image__mez_R\" data-nimg=\"1\" decoding=\"async\" height=\"150\" loading=\"lazy\" src=\"/static/images/jeju-home/thumbnail-03.png\" style=\"color:transparent\" width=\"150\"/><div class=\"style_Dim__FfRLs\"></div><a class=\"link style_Layout__NnSfh style_Pri",
+      "content_type": "image/webp",
+      "bytes": 72060,
+      "sha256": "cab7df2bdb5907844c471806e9ad4574cd964b22777335e59b84255e15b3d98e",
+      "source_sha256": "5b3a4aa4d5606514c99a159db7f9cd5797f5266d822244920999da2691eb62fe",
+      "dhash": "23e4b4246ccc642f",
+      "width": 576,
+      "height": 576,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-007.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/thumbnail-05.png",
+      "source_tag": "html-data, img:image",
+      "context": "e_SlideWrap__FQG2J\"><article class=\"style_Layout__AMYDl\"><img alt=\"웅이네 보말칼국수 제주본점 카모아 혜택\" class=\"style_Image__mez_R\" data-nimg=\"1\" decoding=\"async\" height=\"150\" loading=\"lazy\" src=\"/static/images/jeju-home/thumbnail-05.png\" style=\"color:transparent\" width=\"150\"/><div class=\"style_Dim__FfRLs\"></div><a class=\"link style_Layout__NnSfh style_Pri",
+      "content_type": "image/webp",
+      "bytes": 81382,
+      "sha256": "323668463b671251709f051f08a72bc1e102261cd5c387317d10ca196d8035e0",
+      "source_sha256": "ce2285c9ea66666dad21e7b10ff749d61388a4984eb64c9e932d3a96c009db89",
+      "dhash": "09cc6669ca40e343",
+      "width": 576,
+      "height": 576,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-008.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/thumbnail-06.png",
+      "source_tag": "html-data, img:image",
+      "context": "ide style_SlideWrap__FQG2J\"><article class=\"style_Layout__AMYDl\"><img alt=\"젤라떼리아섬 카모아 혜택\" class=\"style_Image__mez_R\" data-nimg=\"1\" decoding=\"async\" height=\"150\" loading=\"lazy\" src=\"/static/images/jeju-home/thumbnail-06.png\" style=\"color:transparent\" width=\"150\"/><div class=\"style_Dim__FfRLs\"></div><a class=\"link style_Layout__NnSfh style_Pri",
+      "content_type": "image/webp",
+      "bytes": 45726,
+      "sha256": "6459b6a6412ac14041d43181e39950e2272df57e8ad3155d5914f86761d2107d",
+      "source_sha256": "a63fb2d3bb2ec0fa8d92faea3f5f101fca8e791e41fe9f639470b79bdd0b36cd",
+      "dhash": "5658534153534351",
+      "width": 576,
+      "height": 576,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-009.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/thumbnail-08.png",
+      "source_tag": "html-data, img:image",
+      "context": "-slide style_SlideWrap__FQG2J\"><article class=\"style_Layout__AMYDl\"><img alt=\"안도르 카모아 혜택\" class=\"style_Image__mez_R\" data-nimg=\"1\" decoding=\"async\" height=\"150\" loading=\"lazy\" src=\"/static/images/jeju-home/thumbnail-08.png\" style=\"color:transparent\" width=\"150\"/><div class=\"style_Dim__FfRLs\"></div><a class=\"link style_Layout__NnSfh style_Pri",
+      "content_type": "image/webp",
+      "bytes": 105298,
+      "sha256": "e114370db053e9aa6a6776a2f1273b9f71ff901311a317eccff309c25dda3f71",
+      "source_sha256": "2bb5783e1bee8e8182922864e102470ef12b7048bdb1491e051b6a220cff3195",
+      "dhash": "0c8cb2a0e0a85fc7",
+      "width": 576,
+      "height": 576,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-010.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/thumbnail-09.png",
+      "source_tag": "html-data, img:image",
+      "context": "tyle_SlideWrap__FQG2J\"><article class=\"style_Layout__AMYDl\"><img alt=\"박물관은살주있다 제주 카모아 혜택\" class=\"style_Image__mez_R\" data-nimg=\"1\" decoding=\"async\" height=\"150\" loading=\"lazy\" src=\"/static/images/jeju-home/thumbnail-09.png\" style=\"color:transparent\" width=\"150\"/><div class=\"style_Dim__FfRLs\"></div><a class=\"link style_Layout__NnSfh style_Pri",
+      "content_type": "image/webp",
+      "bytes": 82176,
+      "sha256": "fd230a590725e00e283992bf4cfa32ebd2a6bdfea6b0946b6a2cb410ae2383bb",
+      "source_sha256": "140ec2f38ff82189a573726922aca3d1f0519e44040c38ff55b477f15b861609",
+      "dhash": "c6470b1337639731",
+      "width": 576,
+      "height": 576,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/carmore/reference-011.webp",
+      "source_url": "https://carmore.kr/static/images/jeju-home/thumbnail-10.png",
+      "source_tag": "html-data, img:image",
+      "context": "slide style_SlideWrap__FQG2J\"><article class=\"style_Layout__AMYDl\"><img alt=\"리부아르 카모아 혜택\" class=\"style_Image__mez_R\" data-nimg=\"1\" decoding=\"async\" height=\"150\" loading=\"lazy\" src=\"/static/images/jeju-home/thumbnail-10.png\" style=\"color:transparent\" width=\"150\"/><div class=\"style_Dim__FfRLs\"></div><a class=\"link style_Layout__NnSfh style_Pri",
+      "content_type": "image/webp",
+      "bytes": 75014,
+      "sha256": "70f3a9eb5f97957266166a3d3f81fe75700a88de3eefe001a0a054aeb485e340",
+      "source_sha256": "4d70175491d53fb7f84d78afc70b86b56aa773f28ee55e0104b65d2fff75f201",
+      "dhash": "56525212094d584c",
+      "width": 576,
+      "height": 576,
+      "variant": "shared",
+      "source_pages": [
+        "https://carmore.kr/home/jeju"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_국내/carmore/og.png",
       "source_url": "https://d1y0pslxvt2ep5.cloudfront.net/ogimg/image-og-teamo2-250924.png",
@@ -28,18 +1460,6 @@
       "sha256": "0e216c5a9a734f32a63becc84645a6e3ab833a38439a00c53e8fdab0bb369d18",
       "width": 601,
       "height": 315
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/carmore/logo-1.png",
-      "source_url": "https://d1y0pslxvt2ep5.cloudfront.net/logo/carmore-logo.png",
-      "source_tag": "json-ld.logo",
-      "context": "structured data logo",
-      "content_type": "image/png",
-      "bytes": 5418,
-      "sha256": "f690a573eadd609a86dbf898e8649f7533307a659122a6d6ae6295feeff1d0de",
-      "width": 500,
-      "height": 500
     }
   ]
 }

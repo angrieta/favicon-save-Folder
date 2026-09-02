@@ -2,10 +2,21 @@
   "company": "카플랫",
   "category": "렌터카_국내",
   "requested_url": "https://www.carplat.co.kr/",
-  "page_url": "https://www.carplat.co.kr/login?redirectTo=%2F",
+  "page_url": "https://www.carplat.co.kr/",
   "page_title": "카플랫",
   "collection_status": "partial",
-  "collection_error": "reference:ValueError:https://www.carplat.co.kr/_next/static/chunks/0w05wc0hfy2o7.js; reference:ValueError:https://dapi.kakao.com/v2/maps/sdk.js?appkey=1f4ff85d3f250d6da6bab2a250c58649&autoload=false&libraries=services,clusterer",
+  "collection_error": "asset:https://www.carplat.co.kr/_next/static/chunks/assets/login_left_banner.png:HTTPError; asset:https://www.carplat.co.kr/_next/static/chunks/assets/login_left_car.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 2,
+    "desktop_pages": 2,
+    "mobile_pages": 2,
+    "stylesheets": 3,
+    "scripts": 24,
+    "candidates": 9,
+    "attempted_assets": 9,
+    "errors": 2,
+    "collected_at": "2026-09-03T08:12:08.453682+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,15 +31,21 @@
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_국내/carplat/reference-1.webp",
+      "path": "assets/렌터카_국내/carplat/reference-001.webp",
       "source_url": "https://www.carplat.co.kr/assets/login_left_car.png",
-      "source_tag": "img:page-image",
-      "context": "img absolute bottom-0 max-w-fit Login background div z-fixed fixed top-0 left-0 h-full main bg-background-strong flex h-screen w-full items-center justify-center pl-200 body pretendard_37e71238-module__GBIs1W__className html carplat",
+      "source_tag": "img:banner, img:image",
+      "context": "img absolute bottom-0 max-w-fit Login background div z-fixed fixed top-0 left-0 h-full main bg-background-strong flex h-screen w-full items-center justify-center pl-200 body pretendard_37e71238-module__GBIs1W__className html carplat [document]",
       "content_type": "image/webp",
-      "bytes": 33350,
-      "sha256": "f1a8f2fe7fac0dd2108179490dacb47ba480fdf4864b7ca58523709850b24a0e",
+      "bytes": 32234,
+      "sha256": "fc4e4bc51ed59f9ce6e6e1c073b198995ffeb05b04b7e4dcc86b11401a0a1bbe",
+      "source_sha256": "19dadd6cdb0aeac97a51345f44c84499392795e4ff1a75aed7a0f88dbcd29d15",
+      "dhash": "0111391b03010f1c",
       "width": 400,
-      "height": 800
+      "height": 800,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.carplat.co.kr/login?redirectTo=%2F"
+      ]
     }
   ]
 }

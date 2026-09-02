@@ -4,8 +4,19 @@
   "requested_url": "https://rent.toyota.co.jp/",
   "page_url": "https://rent.toyota.co.jp/",
   "page_title": "レンタカーならトヨタレンタカー【公式】",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://oval-neo-ht-trunk-public.plant.netyearcraft.net/img/common/btn_play_appBnr.png:ConnectTimeout; asset:https://rent.toyota.co.jp/sp/css/fonts/slick.woff:HTTPError; asset:https://rent.toyota.co.jp/sp/css/fonts/slick.ttf:HTTPError; asset:https://rent.toyota.co.jp/sp/css/fonts/slick.svg:HTTPError; asset:https://rent.toyota.co.jp/common/global/webfonts/fa-duotone-900.eot:HTTPError; asset:https://rent.toyota.co.jp/common/global/webfonts/fa-duotone-900.woff2:HTTPError; asset:https://rent.toyota.co.jp/common/global/webfonts/fa-duotone-900.woff:HTTPError; asset:https://rent.toyota.co.jp/common/global/webfonts/fa-duotone-900.ttf:HTTPError; asset:https://rent.toyota.co.jp/common/global/webfonts/fa-duotone-900.svg:HTTPError; asset:https://rent.toyota.co.jp/common/global/webfonts/fa-light-300.eot:HTTPError; asset:https://rent.toyota.co.jp/common/global/css/images/controls.png:HTTPError; asset:https://rent.toyota.co.jp/common/global/css/images/border.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 28,
+    "scripts": 36,
+    "candidates": 202,
+    "attempted_assets": 201,
+    "errors": 13,
+    "collected_at": "2026-09-03T08:37:23.23543+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,1077 @@
       "height": 32
     },
     {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-001.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_notice_license_eng.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "anner__inner\">\n<a class=\"m_middle_banner\" href=\"https://rent.toyota.co.jp/global_eng/drive/\" target=\"_blank\">\n<div class=\"m_middle_banner__img crop_sp\">\n<img alt=\"運転資格事前確認バナー\" src=\"/global_img/common/top_notice_license_eng.png\"/>\n</div>\n</a>\n</div>\n</div>\n<!-- CONTENTS -->\n<div class=\"wrp_contents\">\n<h3 msgid=\"134008\">Before Renting in Japan</h3",
+      "content_type": "image/webp",
+      "bytes": 38816,
+      "sha256": "3d7964579ce56dd3bb39110667fc52e887bbc1ba752366a71d7c0d63b9184ecf",
+      "source_sha256": "246bdd33aaa2cfc3b25fd1d0eeffa1a4798ee1318e1b2b54cfbf5099d1f8772b",
+      "dhash": "73552af6d2b296b6",
+      "width": 1148,
+      "height": 322,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-002.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_notice_license_zh-tw.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ner__inner\">\n<a class=\"m_middle_banner\" href=\"https://rent.toyota.co.jp/global_zh-tw/drive/\" target=\"_blank\">\n<div class=\"m_middle_banner__img crop_sp\">\n<img alt=\"運転資格事前確認バナー\" src=\"/global_img/common/top_notice_license_zh-tw.png\"/>\n</div>\n</a>\n</div>\n</div>\n<!-- CONTENTS -->\n<div class=\"wrp_contents\">\n<h3 msgid=\"134008\">在日本租車之前</h3>\n<div class=\"wr",
+      "content_type": "image/webp",
+      "bytes": 44874,
+      "sha256": "10663d3ba1f453b4b65ea655bcbbdea62a3e21ea2974950c47abe32f05faa930",
+      "source_sha256": "695b079094c57def61d921738fd5fcf0314f2389ad2533b3e091fd3ba05b6f5a",
+      "dhash": "1b5b30f992b2bab6",
+      "width": 1148,
+      "height": 322,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/zh-tw/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-003.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_notice_license_ko.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "banner__inner\">\n<a class=\"m_middle_banner\" href=\"https://rent.toyota.co.jp/global_ko/drive/\" target=\"_blank\">\n<div class=\"m_middle_banner__img crop_sp\">\n<img alt=\"運転資格事前確認バナー\" src=\"/global_img/common/top_notice_license_ko.png\"/>\n</div>\n</a>\n</div>\n</div>\n<!-- CONTENTS -->\n<div class=\"wrp_contents\">\n<h3 msgid=\"134008\">일본에서 렌터카를 이용하기 전에</h3>\n<div",
+      "content_type": "image/webp",
+      "bytes": 38264,
+      "sha256": "97dc3a870e01b5c48e7d05f375914a6f2bad742a0e37f42a84cab898b2ca68f0",
+      "source_sha256": "ebdd94f2e44b75f4948113f3222e5cfba1483174ab0e5f981a0dd31730ccf814",
+      "dhash": "2b1924e691b3b2b2",
+      "width": 1148,
+      "height": 322,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/ko/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-004.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_notice_license_th.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "banner__inner\">\n<a class=\"m_middle_banner\" href=\"https://rent.toyota.co.jp/global_th/drive/\" target=\"_blank\">\n<div class=\"m_middle_banner__img crop_sp\">\n<img alt=\"運転資格事前確認バナー\" src=\"/global_img/common/top_notice_license_th.png\"/>\n</div>\n</a>\n</div>\n</div>\n<!-- CONTENTS -->\n<div class=\"wrp_contents\">\n<h3 msgid=\"134008\">ก่อนเช่ารถในญี่ปุ่น</h3>\n<d",
+      "content_type": "image/webp",
+      "bytes": 42228,
+      "sha256": "dc0292fd7f77c30dd88abbd1386ad7068bb1331d015fa777c56c747fcf8c8413",
+      "source_sha256": "59cdd6a7217b4aa2d694ecf33ef3938168b05d7ed5d4bf7ab9c39857db0b6017",
+      "dhash": "5b512cd2d3b3b2b2",
+      "width": 1148,
+      "height": 322,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/th/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/logo-001.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/logo_header.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "\n</div>\n</div>\n</div>\n</div>\n<div class=\"l_header_main l_header\">\n<div class=\"l_header__inner wrp_container\"><a class=\"l_header__logo\" href=\"/eng/\"><img alt=\"TOYOTA Renta car\" src=\"/global_img/common/logo_header.png\"/></a><a class=\"l_header__menu_open js_set_btn_menu\" href=\"#\"><i class=\"fas fa-bars\"></i></a></div>\n</div>\n<!-- 通貨計算のJS-",
+      "content_type": "image/webp",
+      "bytes": 3246,
+      "sha256": "905e028c98c27ca6cf76d1802b479bd5db150239fb3b9ee466a40b64faa6a72c",
+      "source_sha256": "714d1322c39cdcbbe6c808f9b293c3594859c1d117913c0891d1306d1275dc4d",
+      "dhash": "0422a24d596d2d00",
+      "width": 235,
+      "height": 30,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/",
+        "https://rent.toyota.co.jp/ko/",
+        "https://rent.toyota.co.jp/th/",
+        "https://rent.toyota.co.jp/zh-tw/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/logo-002.png",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/sp/img/common/logo.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "rAARvhlKj+S6lHYJgLka+9tG+6jOV7Vb/nZh/q\"/>\n</div>\n<div id=\"wrapper\">\n<header id=\"header\">\n<div id=\"toplogo\">\n<a href=\"/sp/\" id=\"linkTopLogo\">\n<img alt=\"トヨタレンタカー トヨタレンタカーWebサイト\" src=\"/sp/img/common/logo.png\" width=\"166\"/></a>\n</div>\n<div class=\"swcBox\" id=\"divLoginBefore\">\n<a id=\"swc_search\"></a>\n<a href=\"/login/index.aspx\" i",
+      "content_type": "image/png",
+      "bytes": 5028,
+      "sha256": "4e93f0bff1ac7c31eb6c4aca475891dce43ee4688b0c49cceb25bed7ba59917e",
+      "source_sha256": "f5c58d5ed74acbced851d8a2ff5bc8dc4235702033cdebd7fa823122a8fc40f6",
+      "dhash": "c0dcdcb2c6d4d0c0",
+      "width": 332,
+      "height": 36,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rent.toyota.co.jp/sp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/logo-003.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/common/logo.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "/style>\n<header class=\"c_header\">\n<div class=\"u_inner\" id=\"divResponsiveHeader\">\n<p class=\"header_logo\">\n<a href=\"/\" id=\"lnkLogo\">\n<img alt=\"トヨタレンタカー　トヨタレンタカーWebサイト\" height=\"\" src=\"/img/common/logo.png\" width=\"\"/>\n</a>\n</p>\n</div>\n</header>\n<div class=\"c_wrapper\">\n<div class=\"p_pageTitle\">\n<div class=\"u_inner\">\n<h1><a hr",
+      "content_type": "image/webp",
+      "bytes": 3512,
+      "sha256": "61865c1a86c1bc8f4140817ffda51f32ab7ff0640376fe54ae9825865aa0b656",
+      "source_sha256": "6bf3699e9868de4500c545d4a9f3e16caaf06d720f337de1e629fd60c5462982",
+      "dhash": "0422a24d596d6d00",
+      "width": 257,
+      "height": 28,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/service/charge/pricelist.aspx?tab=B"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/social-001.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/ogp.gif",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "プの車種をご用意してお待ちしています。\" id=\"PageHeadMetaSnsDescription\" property=\"og:description\"/><meta content=\"https://rent.toyota.co.jp/\" id=\"PageHeadMetaSnsUrl\" property=\"og:url\"/><meta content=\"https://rent.toyota.co.jp/img/ogp.gif\" id=\"PageHeadMetaSnsImage\" property=\"og:image\"/><meta content=\"トヨタレンタカー\" id=\"PageHeadMetaSnsSiteName\" property=\"og:site_",
+      "content_type": "image/webp",
+      "bytes": 12366,
+      "sha256": "b8d5cd96eb609f637f00c84098b11fb14db89aa87e42f70e3362544399ac64dc",
+      "source_sha256": "845060fcfc9c8878651696b8c943ff709019cee5d82376325a0a9fba6f948695",
+      "dhash": "00116616a6320e96",
+      "width": 468,
+      "height": 468,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/",
+        "https://rent.toyota.co.jp/service/charge/pricelist.aspx?tab=B",
+        "https://rent.toyota.co.jp/sp/",
+        "https://rent.toyota.co.jp/static/inquiry/",
+        "https://rent.toyota.co.jp/static/service/discount/",
+        "https://rent.toyota.co.jp/static/service/insurance/",
+        "https://rent.toyota.co.jp/static/service/monthly/",
+        "https://rent.toyota.co.jp/static/service/oneway/",
+        "https://rent.toyota.co.jp/static/service/option/",
+        "https://rent.toyota.co.jp/static/system/price/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/social-002.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/global/common/fb_img.png",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "moking and hybrid cars, etc.\" id=\"PageHeadMetaSnsDescription\" msgid=\"800060\" property=\"og:description\"/>\n<meta content=\"\" id=\"PageHeadMetaSnsUrl\" property=\"og:url\"/>\n<meta content=\"https://rent.toyota.co.jp/global/common/fb_img.png\" id=\"PageHeadMetaSnsImage\" property=\"og:image\"/>\n<meta content=\"TOYOTA Rent a Car\" id=\"PageHeadMetaSnsSiteName\" property",
+      "content_type": "image/webp",
+      "bytes": 14012,
+      "sha256": "11c6abd2461dbfe922eb225b2d2a9777f6f0b275c5877c440361d4664a6a0b19",
+      "source_sha256": "e780cff0546a1dc5aeaad6def9b31d1dad1ccd9db6cfb63b2e691b8ee5b823bc",
+      "dhash": "d0ecccd4d8fce4d0",
+      "width": 600,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/",
+        "https://rent.toyota.co.jp/ko/",
+        "https://rent.toyota.co.jp/th/",
+        "https://rent.toyota.co.jp/zh-tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-001.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/toppage/bg_result.png",
+      "source_tag": "external-css",
+      "context": " ecre ç´å£²æ©æå_Ræ²ç¸ãã©ã¤ã¢ã«ä¿®æ­£ STR */\r\n/* // 2025/06/09 ecre ã¤ã³ããã¦ã³ããæéæ¹å® STR */\r\n.result_main {\r\n  width: 497px;\r\n  height: 527px;\r\n  padding: 18px 34px;\r\n  position: absolute;\r\n  top: 0;\r\n  left: 0;\r\n  background: url(\"/img/toppage/bg_result.png\") no-repeat 0 0;\r\n  -webkit-background-size: cover;\r\n          background-size: cover;\r\n  -webkit-box-sizing",
+      "content_type": "image/webp",
+      "bytes": 1772,
+      "sha256": "7d368df0cb89b8570c9a48ac7298dd83e2bae3af97f171ea198cbb9469254eeb",
+      "source_sha256": "69fcbaf1d9671985962416ba34133fad5112a5069ab4316e624a5026123e16c9",
+      "dhash": "0000000000000000",
+      "width": 497,
+      "height": 461,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/",
+        "https://rent.toyota.co.jp/static/inquiry/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-005.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_pc.png",
+      "source_tag": "external-css",
+      "context": "on: absolute;\n\t\t\t\ttop: 5px;\n\t\t\t\tleft: 0;\n\t\t\t\tright: -24px;\n\t\t\t\tbottom: 0; }\n\t\t\t\t.wrp_kv__slide__text img {\n\t\t\t\t\t\tvisibility: hidden;\n\t\t\t\t\t\theight: 252px; }\n\t\t.wrp_kv__slide__img {\n\t\t\t\theight: 305px; }\n.wrp_kv__slide__item_00 .wrp_kv__slide__img {\n\tbackground: url(\"/global_img/common/top_main_pc.png\") no-repeat top center;\n\tbackground-size: 1200px auto;\n\tbackground-position: top center;\n}\n/*\t\t.wrp_",
+      "content_type": "image/webp",
+      "bytes": 78622,
+      "sha256": "36bac052593ab7112914df05b2a19d0f5e40355af8e00d130d8f3daf5a40b756",
+      "source_sha256": "77ee898f6e50de89367d3d0c58ff65d3186a2f508a4e2b78e4032b120b8ee4cb",
+      "dhash": "1d35614ece214800",
+      "width": 1500,
+      "height": 480,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-006.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_pc01.png",
+      "source_tag": "external-css",
+      "context": "; }\n.wrp_kv__slide__item_00 .wrp_kv__slide__img {\n\tbackground: url(\"/global_img/common/top_main_pc.png\") no-repeat top center;\n\tbackground-size: 1200px auto;\n\tbackground-position: top center;\n}\n/*\t\t.wrp_kv__slide__item_01 .wrp_kv__slide__img {\n\t\t\t\tbackground: url(\"/global_img/common/top_main_pc01.png\") no-repeat top center;\n\t\t\t\tbackground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_02 .wrp_kv__sli",
+      "content_type": "image/webp",
+      "bytes": 108600,
+      "sha256": "f8e127df91e3811b363f2f41c2d4f4510db6c034f40d8216fe4c1239874446fa",
+      "source_sha256": "f759663985dee84dfe65829191a80dcd11c74ffe88447048541ea42716f983c0",
+      "dhash": "3d35614ece230bd0",
+      "width": 1980,
+      "height": 556,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-007.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_pc02.png",
+      "source_tag": "external-css",
+      "context": "und-position: top center;\n}\n/*\t\t.wrp_kv__slide__item_01 .wrp_kv__slide__img {\n\t\t\t\tbackground: url(\"/global_img/common/top_main_pc01.png\") no-repeat top center;\n\t\t\t\tbackground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_02 .wrp_kv__slide__img {\n\t\t\t\tbackground: url(\"/global_img/common/top_main_pc02.png\") no-repeat top center;\n\t\t\t\tbackground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_03 .wrp_kv__sli",
+      "content_type": "image/webp",
+      "bytes": 197040,
+      "sha256": "43cd1b937d3c79c722d1709751caacaa5987f70ce7427326e41fa5fa8ecfb17b",
+      "source_sha256": "035ba50122b1ff369667f9acf36cb91610b1b372f1e45f77870a40013ed9658d",
+      "dhash": "8007338d0fc6602d",
+      "width": 1440,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-008.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_pc03.png",
+      "source_tag": "external-css",
+      "context": "ckground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_02 .wrp_kv__slide__img {\n\t\t\t\tbackground: url(\"/global_img/common/top_main_pc02.png\") no-repeat top center;\n\t\t\t\tbackground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_03 .wrp_kv__slide__img {\n\t\t\t\tbackground: url(\"/global_img/common/top_main_pc03.png\") no-repeat top center;\n\t\t\t\tbackground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_04 .wrp_kv__sli",
+      "content_type": "image/webp",
+      "bytes": 140930,
+      "sha256": "5aa6f07b4ee2a917737be2bb4a1b4c42710d3381b228429970c9290bbf9f29a5",
+      "source_sha256": "04552363a41fcdd253c37d7a319765fd2872eb182916a5085baed81d91ee0b50",
+      "dhash": "7c7c6d6567667871",
+      "width": 1440,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-009.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_pc04.png",
+      "source_tag": "external-css",
+      "context": "ckground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_03 .wrp_kv__slide__img {\n\t\t\t\tbackground: url(\"/global_img/common/top_main_pc03.png\") no-repeat top center;\n\t\t\t\tbackground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_04 .wrp_kv__slide__img {\n\t\t\t\tbackground: url(\"/global_img/common/top_main_pc04.png\") no-repeat top center;\n\t\t\t\tbackground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_05 .wrp_kv__sli",
+      "content_type": "image/webp",
+      "bytes": 87582,
+      "sha256": "80bd6820454f690977844515108d2467a2051b18e93858dc23c78a237aa57f78",
+      "source_sha256": "433bf1d20ce02515b2c8534d62ad7f1eb0783b518d8d588b8cffbf0a3d0029e2",
+      "dhash": "d3d2d9dceeeeeefd",
+      "width": 1440,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-010.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_pc05.png",
+      "source_tag": "external-css",
+      "context": "ckground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_04 .wrp_kv__slide__img {\n\t\t\t\tbackground: url(\"/global_img/common/top_main_pc04.png\") no-repeat top center;\n\t\t\t\tbackground-size: 1200px auto; }\n\t\t.wrp_kv__slide__item_05 .wrp_kv__slide__img {\n\t\t\t\tbackground: url(\"/global_img/common/top_main_pc05.png\") no-repeat top center;\n\t\t\t\tbackground-size: 1200px auto; }*/\n\t\t.wrp_kv__image {\n\t\t\t\tposition: rel",
+      "content_type": "image/webp",
+      "bytes": 178612,
+      "sha256": "e98711b19df265c1d4507176598a83deab1b5793aff902c85c55516ff94cbdfe",
+      "source_sha256": "a9df1263f07fb47acd397a2acec3396cee54c42aef450207077e951d87cc8787",
+      "dhash": "3f6cc90d0f191c36",
+      "width": 1440,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-011.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_sp.png",
+      "source_tag": "external-css",
+      "context": ";\n\t\t\t\t\t\t\t\twidth: auto;\n\t\t\t\t\t\t\t\tmin-width: 0;\n\t\t\t\t\t\t\t\tbottom: 3px; }\n\t\t\t\t\t\t\t\t.wrp_kv__slide__text img {\n\t\t\t\t\t\t\t\t\t\theight: 129px; }\n\n\t\t\t\t\t\t.wrp_kv__slide__img {\n\t\t\t\t\t\t\theight: auto;\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\t.wrp_kv__slide__item_00 .wrp_kv__slide__img {\n\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp.png\") no-repeat center top;\n\t\t\t\t\t\t\tbackground-size: cover;\n\t\t\t\t\t\t\tbackground-position-y: top;\n\t\t\t\t\t\t\tasp",
+      "content_type": "image/webp",
+      "bytes": 84136,
+      "sha256": "f26dc410de8e5dda9622c3295b054153269779700d3c5abfafa04879e6733dc3",
+      "source_sha256": "6ce4c9ede99c3cc779eb71f42174276fdc2799214972d0d74385b1413a5f7a85",
+      "dhash": "2d34594ece298000",
+      "width": 1500,
+      "height": 660,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-002.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_sp01.png",
+      "source_tag": "external-css",
+      "context": "lobal_img/common/top_main_sp.png\") no-repeat center top;\n\t\t\t\t\t\t\tbackground-size: cover;\n\t\t\t\t\t\t\tbackground-position-y: top;\n\t\t\t\t\t\t\taspect-ratio: 16 / 5;\n\t\t\t\t\t\t\theight: auto;\n\t\t\t\t\t\t}\n\t\t\t\t\t\t\n\t\t\t\t\t\t.wrp_kv__slide__item_01 .wrp_kv__slide__img {\n\t\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp01.png\") no-repeat center;\n\t\t\t\t\t\t\t\tbackground-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_02 .wrp_kv__slide",
+      "content_type": "image/webp",
+      "bytes": 142218,
+      "sha256": "f99c00883282ab72d5b1f61aabccb18c689551b16a408e8587a688f66e5759a7",
+      "source_sha256": "640762000b182733a0baef1c5dd92509aaca65a48b6a6b6a8d2f2e49212cd10f",
+      "dhash": "0f262363de177188",
+      "width": 1500,
+      "height": 1280,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-003.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_sp02.png",
+      "source_tag": "external-css",
+      "context": "uto;\n\t\t\t\t\t\t}\n\t\t\t\t\t\t\n\t\t\t\t\t\t.wrp_kv__slide__item_01 .wrp_kv__slide__img {\n\t\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp01.png\") no-repeat center;\n\t\t\t\t\t\t\t\tbackground-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_02 .wrp_kv__slide__img {\n\t\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp02.png\") no-repeat center;\n\t\t\t\t\t\t\t\tbackground-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_03 .wrp_kv__slide",
+      "content_type": "image/webp",
+      "bytes": 711638,
+      "sha256": "90634d97be4ec9aab12c21bfd4b1c0d24244d1cc508167f5ee34426649b46982",
+      "source_sha256": "b56dec658a2f1913ef4a7973fba34b9840ff0df23e478601592b8f96fe1c200d",
+      "dhash": "193290564725130d",
+      "width": 1500,
+      "height": 1280,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-004.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_sp03.png",
+      "source_tag": "external-css",
+      "context": "ound-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_02 .wrp_kv__slide__img {\n\t\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp02.png\") no-repeat center;\n\t\t\t\t\t\t\t\tbackground-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_03 .wrp_kv__slide__img {\n\t\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp03.png\") no-repeat center;\n\t\t\t\t\t\t\t\tbackground-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_04 .wrp_kv__slide",
+      "content_type": "image/webp",
+      "bytes": 311544,
+      "sha256": "13407b286b0a7dfc80d948a0eeb2f1f9ce13755ac76d5f706f624cea3a907a12",
+      "source_sha256": "3499588b842dcde827b4081f5f8b8223833c0601171529d5bc5f2fd7ba3c19c9",
+      "dhash": "ffdf78fcf8edf77b",
+      "width": 1500,
+      "height": 1280,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-005.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_sp04.png",
+      "source_tag": "external-css",
+      "context": "ound-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_03 .wrp_kv__slide__img {\n\t\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp03.png\") no-repeat center;\n\t\t\t\t\t\t\t\tbackground-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_04 .wrp_kv__slide__img {\n\t\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp04.png\") no-repeat center;\n\t\t\t\t\t\t\t\tbackground-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_05 .wrp_kv__slide",
+      "content_type": "image/webp",
+      "bytes": 142962,
+      "sha256": "4e76d87a25813679b06c78abb84055d19d90fed958141b64c38062a7eec60fb7",
+      "source_sha256": "141d411b2b9475e37d1632222155d9671c39b9d4752aa2431a24b56e28de05ad",
+      "dhash": "fffdb3b09bdb4a68",
+      "width": 1500,
+      "height": 1280,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-006.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_main_sp05.png",
+      "source_tag": "external-css",
+      "context": "ound-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_04 .wrp_kv__slide__img {\n\t\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp04.png\") no-repeat center;\n\t\t\t\t\t\t\t\tbackground-size: cover; }\n\t\t\t\t\t\t.wrp_kv__slide__item_05 .wrp_kv__slide__img {\n\t\t\t\t\t\t\t\tbackground: url(\"/global_img/common/top_main_sp05.png\") no-repeat center;\n\t\t\t\t\t\t\t\tbackground-size: cover; }\n\t\t\t\t\t\t.wrp_kv__form {\n\t\t\t\t\t\t\t\tposition: rela",
+      "content_type": "image/webp",
+      "bytes": 503112,
+      "sha256": "3a4fcd87196b76e0747c6eb9843c965a99aad670b20d636003726c0b1916cbbe",
+      "source_sha256": "eba558c9c6c02353f8ccee3b0058cf877a2ae5394fb082387751f79a4ae3b93a",
+      "dhash": "ff7fff6973f1bc9e",
+      "width": 1500,
+      "height": 1280,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-012.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/external_banners/eng_esim.png",
+      "source_tag": "html-data, img:image",
+      "context": "vitime.com/en/esim/?cid=navitime.toyota.rentacar.top.banner&amp;thx=navitime.toyota.rentacar.top.banner\" target=\"_blank\">\n<div class=\"m_partner_list__box__wrp_img\"><img alt=\"\" src=\"/global_img/common/external_banners/eng_esim.png\"/></div>\n</a>\n</div>\n</div>\n</div>\n</div>\n<span id=\"lblSuggestJson\"><script class=\"suggest-json\" type=\"application/json\"",
+      "content_type": "image/webp",
+      "bytes": 29528,
+      "sha256": "e95759a97c38a422f8e609cfbdeb7e3e866988b927c46a59a21103a4714369ff",
+      "source_sha256": "4f49cc553452b0f8cde25d66f23a89dbe6b9e17c74d067f7c213627a905643e7",
+      "dhash": "74394961f1490d1b",
+      "width": 686,
+      "height": 420,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-013.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/external_banners/zh-tw_esim.png",
+      "source_tag": "html-data, img:image",
+      "context": "ime.com/zh-tw/esim/?cid=navitime.toyota.rentacar.top.banner&amp;thx=navitime.toyota.rentacar.top.banner\" target=\"_blank\">\n<div class=\"m_partner_list__box__wrp_img\"><img alt=\"\" src=\"/global_img/common/external_banners/zh-tw_esim.png\"/></div>\n</a>\n</div>\n</div>\n</div>\n</div>\n<span id=\"lblSuggestJson\"><script class=\"suggest-json\" type=\"application/json\"",
+      "content_type": "image/webp",
+      "bytes": 28212,
+      "sha256": "9b2db926cf5c1eedf339ccfda5692412aa099cc365a7279a3ab58a6b871f74d1",
+      "source_sha256": "a2dfbd325ecf811ca35371ffe574e3ed0ffeb1289ecdbf67586453d2fe6edb76",
+      "dhash": "2c2d616111698d19",
+      "width": 686,
+      "height": 420,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/zh-tw/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-014.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/external_banners/ko_esim.png",
+      "source_tag": "html-data, img:image",
+      "context": "vitime.com/ko/esim/?cid=navitime.toyota.rentacar.top.banner&amp;thx=navitime.toyota.rentacar.top.banner\" target=\"_blank\">\n<div class=\"m_partner_list__box__wrp_img\"><img alt=\"\" src=\"/global_img/common/external_banners/ko_esim.png\"/></div>\n</a>\n</div>\n</div>\n</div>\n</div>\n<span id=\"lblSuggestJson\"><script class=\"suggest-json\" type=\"application/json\"",
+      "content_type": "image/webp",
+      "bytes": 27798,
+      "sha256": "cb0c20f65fd3f14d8f89df18f6ddcaa0a862da561aa781e0cb1bdd369a5adea7",
+      "source_sha256": "7c8fda09cf26b41b7d183e03f532eac379390dc25d897ac8bd104d940294dd58",
+      "dhash": "5859494991498d19",
+      "width": 686,
+      "height": 420,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/ko/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-015.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/external_banners/th_esim.png",
+      "source_tag": "html-data, img:image",
+      "context": "vitime.com/th/esim/?cid=navitime.toyota.rentacar.top.banner&amp;thx=navitime.toyota.rentacar.top.banner\" target=\"_blank\">\n<div class=\"m_partner_list__box__wrp_img\"><img alt=\"\" src=\"/global_img/common/external_banners/th_esim.png\"/></div>\n</a>\n</div>\n</div>\n</div>\n</div>\n<span id=\"lblSuggestJson\"><script class=\"suggest-json\" type=\"application/json\"",
+      "content_type": "image/webp",
+      "bytes": 29944,
+      "sha256": "e3e5ce36911eec812861d9547144bcdffd989a6bc42212ecbcb0bd2250df2a73",
+      "source_sha256": "fb5666e27f01b937d701f040a9848caf876e60f4efc5a5a1eb444e633270c103",
+      "dhash": "5c593171c1498d1b",
+      "width": 686,
+      "height": 420,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/th/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-007.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_oneway01.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ount/\">お得な割引サービス</a></li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"content_wrap oneway\">\n<div class=\"content_right\">\n<div class=\"mb20 mv\">\n<img alt=\"便利な乗り捨てシステムです\" src=\"/static/common/img/service/img_oneway01.png\"/>\n</div>\n<div class=\"mb20\">\n<img alt=\"例えばこんなことができます！\" class=\"only_pc\" src=\"/static/common/img/service/img_oneway02-pc.p",
+      "content_type": "image/webp",
+      "bytes": 23544,
+      "sha256": "cbed513bc12e07d35643adcbfaf9f7ced0dbbf3b99d01b6ffe2d039141dbeb64",
+      "source_sha256": "0c113698d2d9887ef0611a3c781c9895f950eb0c97f420f6a6e84a18e0c015c8",
+      "dhash": "b6868e51c9617171",
+      "width": 700,
+      "height": 316,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/service/oneway/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-008.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_price01-sp.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ass=\"payment_flow only_pc\">\n<img alt=\"基本料金＋付帯料金（✕日数）＝ご利用総額\" src=\"/static/common/img/service/img_service_charge_shikumi_01.png\"/>\n</div>\n<div class=\"payment_flow only_sp\">\n<img src=\"/static/common/img/service/img_price01-sp.png\"/>\n</div>\n<div class=\"box text_feft\">\n<p>お得な割引サービス「トヨタレンタカーメンバー割引」</p>\n<ul class=\"list-text ml10\">\n<li class=\"mb10\">\r\n\t\t",
+      "content_type": "image/webp",
+      "bytes": 17038,
+      "sha256": "aa48ad066661a00c4590c5f004464805ba0107eb32f34ffdc639886f4dd11a0b",
+      "source_sha256": "383fa78bdae30e57e790e1ecb32a5ce327cfba60d8851a77c9396dd25da5d169",
+      "dhash": "0f45290c0c690606",
+      "width": 600,
+      "height": 650,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/system/price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-009.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_oneway02-pc.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "_right\">\n<div class=\"mb20 mv\">\n<img alt=\"便利な乗り捨てシステムです\" src=\"/static/common/img/service/img_oneway01.png\"/>\n</div>\n<div class=\"mb20\">\n<img alt=\"例えばこんなことができます！\" class=\"only_pc\" src=\"/static/common/img/service/img_oneway02-pc.png\"/>\n<img alt=\"\" class=\"only_sp\" src=\"/static/common/img/service/img_oneway02-sp.png\"/>\n</div>\n<ul class=\"caution_list\">\n<",
+      "content_type": "image/webp",
+      "bytes": 20792,
+      "sha256": "e8b70ded47b6c73c15d59eae6454a2d3e15d59bc8576d325c1346f21d0cc2002",
+      "source_sha256": "163a4846b11374d95f11f265a2e1fb2b9e4203f5410c33f4b34d27eb7c5dcc59",
+      "dhash": "68686c4dccc49bb2",
+      "width": 700,
+      "height": 206,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/service/oneway/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-010.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/sp/img/toppage/news/bnr_sp_25_ser_g_member.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "u/inquiry/\"><span>予約照会・変更・取消</span></a>\n</div>\n</div>\n</section>\n<div>\n<a href=\"/static/member/individual/index.html?padid=ag270_fr_top_to_25_individual\" target=\"_blank\">\n<img src=\"https://cmjprfestaren03.blob.core.windows.net/rent-type1/sp/img/toppage/news/bnr_sp_25_ser_g_member.png\" style=\"margin-top:20px\"/>\n</a>\n</div>\n<nav class=\"submenu\">\n<ul>\n<li><a class=\"dummybtn_shopdetail\" href=\"/sp/shop",
+      "content_type": "image/webp",
+      "bytes": 20378,
+      "sha256": "ffd51d1fd484c8a1c622159acc563f001cf02b510749fc681cf984012c5862a8",
+      "source_sha256": "f5d161cc8f8a16bf564cddcc4fa25f2303972f1bc3342c5cb5a9c249345a0d8c",
+      "dhash": "fff1b3b49c733173",
+      "width": 750,
+      "height": 280,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rent.toyota.co.jp/sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-011.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_service_charge_shikumi_02.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "div>\n<div class=\"price_table_cnt\">\n<div class=\"price_table_ttl\">1時間ごと</div>\n<ul><li>1,320円/時</li></ul>\n</div>\n</div>\n<div class=\"mt40 text_center only_pc\">\n<img alt=\"料金計算例の図解\" src=\"/static/common/img/service/img_service_charge_shikumi_02.png\"/>\n</div>\n<div class=\"mt40 text_center only_sp\">\n<img class=\"mb10\" src=\"/static/common/img/service/img_p1_vitz_graph_01.",
+      "content_type": "image/webp",
+      "bytes": 38794,
+      "sha256": "07c4c7d147787e72de18d51b82001e56ec9eb1abaadab0e4999d30e19d0666d3",
+      "source_sha256": "6f9d8b59f1771faa792a9a6a316523d3e2987e5451b5a4f891435563611b9033",
+      "dhash": "182c1c1c04607871",
+      "width": 646,
+      "height": 485,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/system/price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-012.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_oneway02-sp.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "vice/img_oneway01.png\"/>\n</div>\n<div class=\"mb20\">\n<img alt=\"例えばこんなことができます！\" class=\"only_pc\" src=\"/static/common/img/service/img_oneway02-pc.png\"/>\n<img alt=\"\" class=\"only_sp\" src=\"/static/common/img/service/img_oneway02-sp.png\"/>\n</div>\n<ul class=\"caution_list\">\n<li>※1ナンバー(トラック)は北海道内でワンウェイシステムをご利用いただけません。</li>\n<li>※ワンウェイシステムのご利用にはあらかじめお申込が必要です。<",
+      "content_type": "image/webp",
+      "bytes": 18648,
+      "sha256": "11a16777671d6340a4214d97d2eacfc638a6884fb548b03e962ceeb843fe43dd",
+      "source_sha256": "ebd150908877b424db8544fa0bedcb1db22343440ccd148046faec5f6a5e1c71",
+      "dhash": "68e822629bab22ab",
+      "width": 590,
+      "height": 374,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/service/oneway/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-016.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/sp/img/top/guide_slide_01.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"secBox\" id=\"sec_guide\">\n<h2 class=\"tit_01\">トヨタレンタカーのご案内</h2>\n<p class=\"lead\">はじめてご利用になられる方はこちらをご覧ください。</p>\n<ul class=\"slider\">\n<li><a href=\"/sp/structure/\"><img alt=\"\" src=\"/sp/img/top/guide_slide_01.png\"/></a></li>\n<li><a href=\"/sp/3hours/\"><img alt=\"\" src=\"/sp/img/top/guide_slide_02.png\"/></a></li>\n<li><a href=\"/sp/struc",
+      "content_type": "image/webp",
+      "bytes": 15388,
+      "sha256": "7e23bc7e886780697baea214618e87e2ef77b7c418edad018ce3abf7e6150183",
+      "source_sha256": "56e922f76466fd745782f1efcb5b77cc6db68de963b41cc9554036dbb331033b",
+      "dhash": "796949b132306a49",
+      "width": 750,
+      "height": 580,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rent.toyota.co.jp/sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-013.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_p1_vitz_graph_01.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " text_center only_pc\">\n<img alt=\"料金計算例の図解\" src=\"/static/common/img/service/img_service_charge_shikumi_02.png\"/>\n</div>\n<div class=\"mt40 text_center only_sp\">\n<img class=\"mb10\" src=\"/static/common/img/service/img_p1_vitz_graph_01.png\"/>\n<img src=\"/static/common/img/service/img_p1_vitz_graph_02.png\"/>\n</div>\n<p class=\"mt20 caution\">※ベース料金（時間料金）、超過料金を最も安",
+      "content_type": "image/webp",
+      "bytes": 17144,
+      "sha256": "98cb17ae5d0e5b0ccbf56adc210dd760f35c80126795cf1f0b032dd4b850917b",
+      "source_sha256": "8d1e15e804416c3e9d4d47c09bfd83139f8fa5b905863932d5ead5f166ac2397",
+      "dhash": "c2092c4848321039",
+      "width": 544,
+      "height": 313,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/system/price/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-017.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/sp/img/top/guide_slide_02.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "じめてご利用になられる方はこちらをご覧ください。</p>\n<ul class=\"slider\">\n<li><a href=\"/sp/structure/\"><img alt=\"\" src=\"/sp/img/top/guide_slide_01.png\"/></a></li>\n<li><a href=\"/sp/3hours/\"><img alt=\"\" src=\"/sp/img/top/guide_slide_02.png\"/></a></li>\n<li><a href=\"/sp/structure/appeal/\"><img alt=\"\" src=\"/sp/img/top/guide_slide_03.png\"/></a></li>\n</ul>\n<p cla",
+      "content_type": "image/webp",
+      "bytes": 14044,
+      "sha256": "bca589475287145d14e885aa6f1e915058a3a6de308296794b15db7445b88d78",
+      "source_sha256": "9808fbf67a5f2fa8ead37d335dfdfec1ce7e27d383903e2f29e468530442d03a",
+      "dhash": "3061436617336969",
+      "width": 750,
+      "height": 580,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rent.toyota.co.jp/sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-014.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_p1_vitz_graph_02.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "g/service/img_service_charge_shikumi_02.png\"/>\n</div>\n<div class=\"mt40 text_center only_sp\">\n<img class=\"mb10\" src=\"/static/common/img/service/img_p1_vitz_graph_01.png\"/>\n<img src=\"/static/common/img/service/img_p1_vitz_graph_02.png\"/>\n</div>\n<p class=\"mt20 caution\">※ベース料金（時間料金）、超過料金を最も安い組合せで適用いたします。<br/>上記例の場合、超過が6時間以上であれば、同じ料金で72時間（3日）ご利用いただけます。</p>",
+      "content_type": "image/webp",
+      "bytes": 18044,
+      "sha256": "5f80254239498cd8fed82fa8c77154dad23ff5bd0a99010230194c87e890d723",
+      "source_sha256": "c8f404b0ae2f1432e17dde3d221f6485d8acc7928140de32ad263effec5ae29b",
+      "dhash": "2040c8c8e2e2e4c4",
+      "width": 544,
+      "height": 273,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/system/price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-015.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_hoken_intro.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " src=\"/static/common/img/service/img_hoken_anc03.png\" width=\"176\"/></a>\n</div>\n<div class=\"figure\">\n<img alt=\"レンタカー料金に含まれる保険・補償　自己負担額（免責額）の免除　ノンオペレーションチャージのお支払免除\" height=\"307\" src=\"/static/common/img/service/img_hoken_intro.png\" width=\"518\"/>\n</div>\n</div>\n<ul class=\"mt15\">\n<li>※1：1,2ナンバー車は2,200円（税込10%）/24時間</li>\n<li>※2：8ナンバー車両はベースとなる車両ナンバーに準じたオプ",
+      "content_type": "image/webp",
+      "bytes": 16980,
+      "sha256": "f1e85d84937c91e45017ef2adb45cf5e855f16aabe0f761bba3a51cda22cb8c8",
+      "source_sha256": "6dad844f3a56245238bcfa109417fd10df2693e2a4a3cbe9228e473741e5d924",
+      "dhash": "9296803670c24658",
+      "width": 518,
+      "height": 307,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/service/insurance/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/banner-018.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/sp/img/top/guide_slide_03.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "sp/img/top/guide_slide_01.png\"/></a></li>\n<li><a href=\"/sp/3hours/\"><img alt=\"\" src=\"/sp/img/top/guide_slide_02.png\"/></a></li>\n<li><a href=\"/sp/structure/appeal/\"><img alt=\"\" src=\"/sp/img/top/guide_slide_03.png\"/></a></li>\n</ul>\n<p class=\"link\"><a class=\"link_arrow\" href=\"/sp/member-guide/\">トヨタレンタカーメンバーのご案内</a></p>\n<p class=\"link",
+      "content_type": "image/webp",
+      "bytes": 18450,
+      "sha256": "71f9559b15b2969f454af1e2259604d6754611c5ce086b0fd4346adf71be635e",
+      "source_sha256": "eca72b2a3f9afbec024f5f0cd2144832cd455818598aa2e4c5b39f373f32dc47",
+      "dhash": "44686676a6a4e939",
+      "width": 750,
+      "height": 580,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rent.toyota.co.jp/sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-016.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_hoken_basic-pc.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "y_sp\"/><span>保険・補償</span></div>\n</h3>\n<div class=\"mt20 text_center basic\">\n<p class=\"mb25 f14-16 font_w\">万一ご利用中の事故が発生した場合に<br/>補償限度額の範囲で補償されます。</p>\n<img alt=\"\" class=\"only_pc\" src=\"/static/common/img/service/img_hoken_basic-pc.png\"/>\n<ul class=\"only_sp\">\n<li><img alt=\"対人補償 1名につき無制限\" src=\"/static/common/img/service/img_hoken_basic-sp01.png\"/></li>\n<l",
+      "content_type": "image/webp",
+      "bytes": 34016,
+      "sha256": "d9dc296504994610bb9cb9e0113e9f9c1f9c9f0fb49bbc60b7aba4e0e965a18f",
+      "source_sha256": "2101cd8f5b22e5aef99a2a0edd16b4526d59f7f8b755dfdcd3bbca4d4d967cca",
+      "dhash": "2bcecc2984ccc8d8",
+      "width": 660,
+      "height": 379,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/service/insurance/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-017.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_contents_multilingual.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "nts_list__inner\">\r\n\t\t　          <a class=\"m_contents_list__box js-modal-open cboxElement\" data-target=\"modal01\" href=\"\">\n<div class=\"m_contents_list__box__wrp_img\"><img alt=\"\" src=\"/global_img/common/top_contents_multilingual.png\"/></div>\n<p class=\"m_contents_list__box__title\" msgid=\"134749\">Multilingual Support Services</p>\n<p msgid=\"134750\"></p>\n",
+      "content_type": "image/webp",
+      "bytes": 29252,
+      "sha256": "218f0e25dc917b7075bba548b1bf7e43d2efb580cf25adcc314c8a85b2156d29",
+      "source_sha256": "d254f5b172dbc26c22db029570d0f94d8a93c5195c1af92a436c4bce07c7e846",
+      "dhash": "27a6a6a68a352426",
+      "width": 686,
+      "height": 420,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/",
+        "https://rent.toyota.co.jp/ko/",
+        "https://rent.toyota.co.jp/th/",
+        "https://rent.toyota.co.jp/zh-tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-018.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_contents_trafficrules.png",
+      "source_tag": "html-data, img:image",
+      "context": "/p>\n<p msgid=\"134750\"></p>\n</a>\n<a class=\"m_contents_list__box js-modal-open cboxElement\" data-target=\"modal02\" href=\"\">\n<div class=\"m_contents_list__box__wrp_img\"><img alt=\"\" src=\"/global_img/common/top_contents_trafficrules.png\"/></div>\n<p class=\"m_contents_list__box__title\" msgid=\"134751\">TRAFFIC RULES</p>\n<p msgid=\"134752\"></p>\n</a>\n<a class=\"m",
+      "content_type": "image/webp",
+      "bytes": 20390,
+      "sha256": "47dfba4596cafb169c98918c17f0faccf5a24864b7aff18f9bc76a4a2f667686",
+      "source_sha256": "46cd91adbd4bfbaaf6a3bee344aa7c5f15cf5236d82fd87ab368de8d951e4cc7",
+      "dhash": "c2264e4c4c3430b1",
+      "width": 686,
+      "height": 420,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/",
+        "https://rent.toyota.co.jp/ko/",
+        "https://rent.toyota.co.jp/th/",
+        "https://rent.toyota.co.jp/zh-tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-019.webp",
+      "source_url": "https://rent.toyota.co.jp/global_img/common/top_contents_rentalprocedures.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "/p>\n<p msgid=\"134752\"></p>\n</a>\n<a class=\"m_contents_list__box js-modal-open cboxElement\" data-target=\"modal03\" href=\"\">\n<div class=\"m_contents_list__box__wrp_img\"><img alt=\"\" src=\"/global_img/common/top_contents_rentalprocedures.jpg\"/></div>\n<p class=\"m_contents_list__box__title\" msgid=\"134753\">RENTAL PROCEDURES</p>\n<p msgid=\"134754\"></p>\n</a>\n<!-- <a",
+      "content_type": "image/webp",
+      "bytes": 18234,
+      "sha256": "8d6abca61eea25c6e16095e16dd8eac2eb4e25a05d0d1c6d3f01b6ed0d47b853",
+      "source_sha256": "27ef75076815e62211fd20e5de9bf80bf2e410e5c00072589c4922ededf3bfb8",
+      "dhash": "6dbc72c493a25c2f",
+      "width": 686,
+      "height": 420,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/",
+        "https://rent.toyota.co.jp/ko/",
+        "https://rent.toyota.co.jp/th/",
+        "https://rent.toyota.co.jp/zh-tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-020.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c1_class.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "k_C1\">\n<h3 class=\"p_title_blk u_mb2\">\n<span id=\"ChargeClassUC_0_lblClassName_0\">C1クラス</span>\n</h3>\n</div>\n<div class=\"p_pricelist_img\">\n<img id=\"ChargeClassUC_0_imgCarClass_0\" src=\"https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c1_class.png\">\n</img></div>\n<div id=\"ChargeClassUC_0_priceList_0\">\n<span class=\"u_mb1\">(税込10%)</span>\n<div class=\"p_pricelist_tblBox ",
+      "content_type": "image/webp",
+      "bytes": 25874,
+      "sha256": "c8e2aef7597233442cfa89576827afc8f6a74f2591ff9e6a994b4f1f2d54bedd",
+      "source_sha256": "efd234ef178aec67410bdf72eb0de14ae0d4c6d92995b88370e062f9b88216fe",
+      "dhash": "08e2c0b8aee8d2b0",
+      "width": 680,
+      "height": 348,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/service/charge/pricelist.aspx?tab=B"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-021.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c2_class.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "k_C2\">\n<h3 class=\"p_title_blk u_mb2\">\n<span id=\"ChargeClassUC_1_lblClassName_1\">C2クラス</span>\n</h3>\n</div>\n<div class=\"p_pricelist_img\">\n<img id=\"ChargeClassUC_1_imgCarClass_1\" src=\"https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c2_class.png\"/>\n</div>\n<div id=\"ChargeClassUC_1_priceList_1\">\n<span class=\"u_mb1\">(税込10%)</span>\n<div class=\"p_pricelist_tblBox u_mb2",
+      "content_type": "image/webp",
+      "bytes": 23504,
+      "sha256": "ea365549a67e710209749cd20ee657d5d6f596a7e4cf6cb89733b8f51ba4e597",
+      "source_sha256": "e91bd9cb3e3e08347da21fef54bd888aa4640b03c1c2be8ae200f09402f31c7b",
+      "dhash": "64e29894ee78fa30",
+      "width": 680,
+      "height": 348,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/service/charge/pricelist.aspx?tab=B"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-022.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c3_class.png",
+      "source_tag": "html-data, img:image",
+      "context": "k_C3\">\n<h3 class=\"p_title_blk u_mb2\">\n<span id=\"ChargeClassUC_2_lblClassName_2\">C3クラス</span>\n</h3>\n</div>\n<div class=\"p_pricelist_img\">\n<img id=\"ChargeClassUC_2_imgCarClass_2\" src=\"https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c3_class.png\"/>\n</div>\n<div id=\"ChargeClassUC_2_priceList_2\">\n<span class=\"u_mb1\">(税込10%)</span>\n<div class=\"p_pricelist_tblBox u_mb2",
+      "content_type": "image/webp",
+      "bytes": 23652,
+      "sha256": "b34d162224ae5549d773fb2c0cdd1f09cd62f102c6de066ab911c88892e04cd3",
+      "source_sha256": "6123853900e3b462459b70bff60412fa1023beb57ea0db9c394b62871ffe25e9",
+      "dhash": "1862a9b8e27cbc30",
+      "width": 680,
+      "height": 348,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/service/charge/pricelist.aspx?tab=B"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-023.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_hoken_disclaimer01.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "t_center mt20 boxWrap\">\n<h4 class=\"palt or\">自己負担額（免責額）の免除</h4>\n<p class=\"mb10\">対物補償、車両補償のうち<br class=\"only_sp\"/>お客様にご負担いただく金額が免除されます。</p>\n<img alt=\"自己負担額（免責額）の免除\" height=\"217\" src=\"/static/common/img/service/img_hoken_disclaimer01.png\" width=\"554\"/>\n</div>\n<p class=\"caution mt10\">※バス・大型貨物車は10万円</p>\n<p class=\"caution mt20\" style=\"font-weight: bold; color",
+      "content_type": "image/webp",
+      "bytes": 11452,
+      "sha256": "d92a13639ceac6d541b3dbc13996d751b85a7577866825c7a92bd0bb699fdf83",
+      "source_sha256": "96fd7ad2af4bab425edd6b3261931b805bca1b9ba07eb122f7d761d9001136cd",
+      "dhash": "303030b5ddc0c190",
+      "width": 554,
+      "height": 217,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/service/insurance/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-024.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c4_class.png",
+      "source_tag": "html-data, img:image",
+      "context": "k_C4\">\n<h3 class=\"p_title_blk u_mb2\">\n<span id=\"ChargeClassUC_3_lblClassName_3\">C4クラス</span>\n</h3>\n</div>\n<div class=\"p_pricelist_img\">\n<img id=\"ChargeClassUC_3_imgCarClass_3\" src=\"https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c4_class.png\"/>\n</div>\n<div id=\"ChargeClassUC_3_priceList_3\">\n<span class=\"u_mb1\">(税込10%)</span>\n<div class=\"p_pricelist_tblBox u_mb2",
+      "content_type": "image/webp",
+      "bytes": 24378,
+      "sha256": "365a176d37b042920c82c24a94f2388ce0bd1481ba3e3c744a4732626f1dd196",
+      "source_sha256": "18fb7a5f79fb5b482eb80f8d926d2d77e7591970b6d16359b395a41e0279a835",
+      "dhash": "24e08894e4f2b870",
+      "width": 680,
+      "height": 348,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/service/charge/pricelist.aspx?tab=B"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-025.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c5_class.png",
+      "source_tag": "html-data, img:image",
+      "context": "k_C5\">\n<h3 class=\"p_title_blk u_mb2\">\n<span id=\"ChargeClassUC_4_lblClassName_4\">C5クラス</span>\n</h3>\n</div>\n<div class=\"p_pricelist_img\">\n<img id=\"ChargeClassUC_4_imgCarClass_4\" src=\"https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c5_class.png\"/>\n</div>\n<div id=\"ChargeClassUC_4_priceList_4\">\n<span class=\"u_mb1\">(税込10%)</span>\n<div class=\"p_pricelist_tblBox u_mb2",
+      "content_type": "image/webp",
+      "bytes": 17218,
+      "sha256": "74856faf3d9aa4709a65bcae57a1ce233e7e0fdf5e9a4c8fef0a8e0640e9a2e2",
+      "source_sha256": "373cd17da858bb9e600685afad8cb7756387c21a8e92093ea9726f5781d6ec4c",
+      "dhash": "20e0f190bcb2b020",
+      "width": 680,
+      "height": 348,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/service/charge/pricelist.aspx?tab=B"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-026.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/ze4_class.png",
+      "source_tag": "html-data, img:image",
+      "context": "ZE4\">\n<h3 class=\"p_title_blk u_mb2\">\n<span id=\"ChargeClassUC_5_lblClassName_5\">ZE4クラス</span>\n</h3>\n</div>\n<div class=\"p_pricelist_img\">\n<img id=\"ChargeClassUC_5_imgCarClass_5\" src=\"https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/ze4_class.png\"/>\n</div>\n<div id=\"ChargeClassUC_5_priceList_5\">\n<span class=\"u_mb1\">(税込10%)</span>\n<div class=\"p_pricelist_tblBox u_mb2",
+      "content_type": "image/webp",
+      "bytes": 12972,
+      "sha256": "9378d590589cc7c7f9955f7d05495e4c70db98b105d97979293e6edfd3227028",
+      "source_sha256": "6755d5357ce678ad83c9002471b88f912c7969a26cd4298f94cf1fc37a5740e2",
+      "dhash": "a49878e4f0c8c010",
+      "width": 680,
+      "height": 348,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/service/charge/pricelist.aspx?tab=B"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-027.webp",
+      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c0_class.png",
+      "source_tag": "html-data, img:image",
+      "context": "k_C0\">\n<h3 class=\"p_title_blk u_mb2\">\n<span id=\"ChargeClassUC_6_lblClassName_6\">C0クラス</span>\n</h3>\n</div>\n<div class=\"p_pricelist_img\">\n<img id=\"ChargeClassUC_6_imgCarClass_6\" src=\"https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/car/class/c0_class.png\"/>\n</div>\n<div id=\"ChargeClassUC_6_priceList_6\">\n<span class=\"u_mb1\">(税込10%)</span>\n<div class=\"p_pricelist_tblBox u_mb2",
+      "content_type": "image/webp",
+      "bytes": 21470,
+      "sha256": "962f8426bc1e5871b6f86de003945e50f88afe9aa58662063518f1f65c9d19cb",
+      "source_sha256": "2c10718ffa5b0a351910f8fc7e199211d4333207cfbc4f98bc36a007c72bebcd",
+      "dhash": "26e0f8beda785812",
+      "width": 680,
+      "height": 348,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/service/charge/pricelist.aspx?tab=B"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-028.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_hoken_JAF.png",
+      "source_tag": "html-data, img:image",
+      "context": "のJAFロードサービスセンターが利用できます。<br/>\r\n                        また、全国のJAF提携施設で会員優待サービスが受けられます。\r\n                    </p>\n<div class=\"mt30 jaf_img\"><img alt=\"JAFコールセンター：24時間OK! 英・中・韓OK!\" src=\"/static/common/img/service/img_hoken_JAF.png\"/></div>\n<ul class=\"caution_list mt30\">\n<li>※レンタカー基本料金への「JAF割引」は適用対象外。</li>\n<li>※T2（標準デッキ以外）・T3・T4・BUSクラスは対象外。</li>\n<li>",
+      "content_type": "image/webp",
+      "bytes": 13338,
+      "sha256": "2d0ad5377ea8d9369fddafe3841a250d5f77b6f09e7f6ed9a7ad7d865c34df47",
+      "source_sha256": "39ee0a736ac6d326d16a2dfb866b740159ec2c4204d56db284645d8161d835f0",
+      "dhash": "2e6ca2cacbcae289",
+      "width": 627,
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/service/insurance/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-029.webp",
+      "source_url": "https://rent.toyota.co.jp/static/common/img/service/img_hoken_basic-sp04.png",
+      "source_tag": "html-data, img:image",
+      "context": "ervice/img_hoken_basic-sp02.png\"/></li>\n<li><img alt=\"車両補償 1事故につき車両時価額まで\" src=\"/static/common/img/service/img_hoken_basic-sp03.png\"/></li>\n<li><img alt=\"人身傷害補償 1名につき3,000万円まで\" src=\"/static/common/img/service/img_hoken_basic-sp04.png\"/></li>\n</ul>\n</div>\n<div class=\"bdBox_green mt20\">\n<div class=\"cautionArea\">\n<span>注意！</span>\n<p class=\"palt\">保険・補償制度が<",
+      "content_type": "image/webp",
+      "bytes": 22820,
+      "sha256": "ea079630980d170e45adaa05543b1e52cfafebd20b2f4aeb291116481753ff39",
+      "source_sha256": "fcab11dc26b6ca9fb98fdb3cae0790e374422ba2ce4c997f142f1316b87343f6",
+      "dhash": "cc0fdcd4ccac9285",
+      "width": 600,
+      "height": 242,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/static/service/insurance/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejusok/reference-015.svg",
+      "source_url": "https://rent.toyota.co.jp/fonts/fontawesome-webfont.svg?v=4.7.0",
+      "source_tag": "external-css",
+      "context": "awesome-webfont.eot?#iefix&v=4.7.0\") format('embedded-opentype'), url(\"/fonts/fontawesome-webfont.woff2?v=4.7.0\") format('woff2'), url(\"/fonts/fontawesome-webfont.woff?v=4.7.0\") format('woff'), url(\"/fonts/fontawesome-webfont.ttf?v=4.7.0\") format('truetype'), url(\"/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular\") format('svg');\r\n  font-weight: normal;\r\n  font-style: normal;\r\n}\r\n.fa {\r\n  ",
+      "content_type": "image/svg+xml",
+      "bytes": 444379,
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "source_sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://rent.toyota.co.jp/",
+        "https://rent.toyota.co.jp/sp/",
+        "https://rent.toyota.co.jp/static/inquiry/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-031.webp",
+      "source_url": "https://image.syncsearch.jp/image/preview.gif",
+      "source_tag": "external-css",
+      "context": "T1Phtf1drf/diDg2363Xb8Ok9HT+GVYLFebNxI2q+VieBmPnp7Hk+kwmy9ImM+G6WT8/B+x7fT23apjWgAAAABJRU5ErkJggg==) no-repeat 0 0;\n}\ndiv#ss-preview img#ss-preview-image {\n  border: 1px solid #CCCCCC;\n}\n\ndiv#ss-main.ie6 div#ss-preview, body.ie7 div#ss-preview {\n  background: url(//image.syncsearch.jp/image/preview.gif) no-repeat 0 0;\n}\ndiv#ss-main.ie6 div#ss-preview-container, body.ie7 div#ss-preview-container {\n",
+      "content_type": "image/webp",
+      "bytes": 544,
+      "sha256": "ee48b24bd4934f7d72a0de32b3d778ef8a6c796ed208edd86dae0a497a57e7e1",
+      "source_sha256": "bbe0446aee9bd0a8580dce0fe4d362a76ff3e5f8d1a9a804320f87b53adb914b",
+      "dhash": "0101010101010101",
+      "width": 436,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rent.toyota.co.jp/sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-032.svg",
+      "source_url": "https://rent.toyota.co.jp/common/global/webfonts/fa-brands-400.svg",
+      "source_tag": "external-css",
+      "context": "webfonts/fa-brands-400.eot);src:url(../webfonts/fa-brands-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-brands-400.woff2) format(\"woff2\"),url(../webfonts/fa-brands-400.woff) format(\"woff\"),url(../webfonts/fa-brands-400.ttf) format(\"truetype\"),url(../webfonts/fa-brands-400.svg#fontawesome) format(\"svg\")}.fab{font-family:\"Font Awesome 5 Brands\"}@font-face{font-family:\"Font Awesome 5",
+      "content_type": "image/svg+xml",
+      "bytes": 691747,
+      "sha256": "7e98c48405d641defcbaa8836fcecc13320a44f5b74390dcea5851f67271cba6",
+      "source_sha256": "7e98c48405d641defcbaa8836fcecc13320a44f5b74390dcea5851f67271cba6",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-033.svg",
+      "source_url": "https://rent.toyota.co.jp/common/global/webfonts/fa-light-300.svg",
+      "source_tag": "external-css",
+      "context": "l(../webfonts/fa-light-300.eot);src:url(../webfonts/fa-light-300.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-light-300.woff2) format(\"woff2\"),url(../webfonts/fa-light-300.woff) format(\"woff\"),url(../webfonts/fa-light-300.ttf) format(\"truetype\"),url(../webfonts/fa-light-300.svg#fontawesome) format(\"svg\")}.fal{font-weight:300}@font-face{font-family:\"Font Awesome 5 Pro\";font-style:norm",
+      "content_type": "image/svg+xml",
+      "bytes": 2066646,
+      "sha256": "9bdfa5883ccab7fb563a51572dbb9bd2a43057fcecea70626f906da4c1511857",
+      "source_sha256": "9bdfa5883ccab7fb563a51572dbb9bd2a43057fcecea70626f906da4c1511857",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-034.svg",
+      "source_url": "https://rent.toyota.co.jp/common/global/webfonts/fa-regular-400.svg",
+      "source_tag": "external-css",
+      "context": "nts/fa-regular-400.eot);src:url(../webfonts/fa-regular-400.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-regular-400.woff2) format(\"woff2\"),url(../webfonts/fa-regular-400.woff) format(\"woff\"),url(../webfonts/fa-regular-400.ttf) format(\"truetype\"),url(../webfonts/fa-regular-400.svg#fontawesome) format(\"svg\")}.fal,.far{font-family:\"Font Awesome 5 Pro\"}.far{font-weight:400}@font-face{fon",
+      "content_type": "image/svg+xml",
+      "bytes": 1856861,
+      "sha256": "69d6e70d98bc5b464f74cf525251c74350746c6bccaf3d88837b6388b87167a5",
+      "source_sha256": "69d6e70d98bc5b464f74cf525251c74350746c6bccaf3d88837b6388b87167a5",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/toyota-rent-a-car/reference-035.svg",
+      "source_url": "https://rent.toyota.co.jp/common/global/webfonts/fa-solid-900.svg",
+      "source_tag": "external-css",
+      "context": "l(../webfonts/fa-solid-900.eot);src:url(../webfonts/fa-solid-900.eot?#iefix) format(\"embedded-opentype\"),url(../webfonts/fa-solid-900.woff2) format(\"woff2\"),url(../webfonts/fa-solid-900.woff) format(\"woff\"),url(../webfonts/fa-solid-900.ttf) format(\"truetype\"),url(../webfonts/fa-solid-900.svg#fontawesome) format(\"svg\")}.fa,.fas{font-family:\"Font Awesome 5 Pro\";font-weight:900}",
+      "content_type": "image/svg+xml",
+      "bytes": 1514718,
+      "sha256": "89c3e6b0d78c9cbaa5a886d787a6e564a7bab61e5a4ab55b0aca7f464f72cb53",
+      "source_sha256": "89c3e6b0d78c9cbaa5a886d787a6e564a7bab61e5a4ab55b0aca7f464f72cb53",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rent.toyota.co.jp/eng/"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/toyota-rent-a-car/og.gif",
       "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/ogp.gif",
@@ -28,30 +1110,6 @@
       "sha256": "845060fcfc9c8878651696b8c943ff709019cee5d82376325a0a9fba6f948695",
       "width": 468,
       "height": 468
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/toyota-rent-a-car/logo-1.webp",
-      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/common/logo.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img トヨタレンタカー　トヨタレンタカーWebサイト a div logo_box div bottom_left div header_bottom_in",
-      "content_type": "image/webp",
-      "bytes": 3838,
-      "sha256": "646d3b643fcd505b9c96b47c87751169cfa5b6c48a3af45f39fcad2028219451",
-      "width": 257,
-      "height": 28
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/toyota-rent-a-car/logo-2.webp",
-      "source_url": "https://cmjprfestaren03.blob.core.windows.net/rent-type1/img/common/img_logo_appBnr.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img div app_bnr_logo div app_bnr_in div app_bnr main",
-      "content_type": "image/webp",
-      "bytes": 2084,
-      "sha256": "505f74337c09acb80d6809753fc9b556bfbea07cd00c337cf96587db8271fa29",
-      "width": 82,
-      "height": 83
     }
   ]
 }

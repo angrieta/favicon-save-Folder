@@ -2,10 +2,21 @@
   "company": "Goldcar",
   "category": "렌터카_글로벌",
   "requested_url": "https://www.goldcar.es/",
-  "page_url": "https://www.goldcar.es/es-es/",
+  "page_url": "https://www.goldcar.es/",
   "page_title": "Alquiler de coches baratos | Goldcar",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://www.goldcar.es/assets/fonts/open-sans-v18-latin_greek-ext-300italic.woff:HTTPError; asset:https://www.goldcar.es/assets/fonts/open-sans-v18-latin_greek-ext-300italic.ttf:HTTPError; asset:https://www.goldcar.es/assets/fonts/open-sans-v18-latin_greek-ext-300italic.svg:HTTPError; asset:https://www.goldcar.es/assets/fonts/fontawesome-webfont.eot?v=3.2.1:HTTPError; asset:https://www.goldcar.es/assets/fonts/glyphicons-halflings-regular.eot:HTTPError; asset:https://www.goldcar.es/assets/fonts/glyphicons-halflings-regular.woff2:HTTPError; asset:https://www.goldcar.es/assets/fonts/glyphicons-halflings-regular.woff:HTTPError; asset:https://www.goldcar.es/assets/fonts/glyphicons-halflings-regular.ttf:HTTPError; asset:https://www.goldcar.es/assets/fonts/glyphicons-halflings-regular.svg:HTTPError; asset:https://www.goldcar.es/assets/img/extras/offer_AdditionalDriver_1_gr.jpg:HTTPError; asset:https://www.goldcar.es/assets/img/extras/offer_AdditionalDriver_1_ru.jpg:HTTPError; asset:https://www.goldcar.es/hqdefault.jpg:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 7,
+    "scripts": 8,
+    "candidates": 284,
+    "attempted_assets": 284,
+    "errors": 25,
+    "collected_at": "2026-09-03T08:31:33.679744+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,64 +30,1321 @@
       "height": 180
     },
     {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-001.webp",
+      "source_url": "https://www.goldcar.es/assets/img/link_section/keyngo/desktop/banner_keyngo_desktop_es.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "w=\"0\"> <div class=\"links-section--white links-section-size links-section-index\" data-section-col=\"0\"> <img class=\"links-section-img links-section-img-position--left hidden-xs\" src=\"/assets/img/link_section/keyngo/desktop/banner_keyngo_desktop_es.jpg\"/> <img class=\"links-section-img links-section-img-position--left visible-xs img-responsive\" src=\"/assets/img/link_secti",
+      "content_type": "image/webp",
+      "bytes": 21312,
+      "sha256": "f0a7e5bd6ae0454fa87a3eed559a8dda84938c1c272de8ea7cbe55d0c619b45d",
+      "source_sha256": "b3fa3b141395595a81a034b4d12ffd18ea55d7a5ee60edc0dd772fb56bfdd19e",
+      "dhash": "e1a19088c91b9a9e",
+      "width": 600,
+      "height": 600,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-002.webp",
+      "source_url": "https://www.goldcar.es/assets/img/link_section/super_relax/desktop/banner_super_relax_desktop_es.jpg?v=1",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "</div> <div class=\"links-section--grey links-section-size links-section-index\" data-section-col=\"3\"> <img class=\"links-section-img links-section-img-position--right hidden-xs\" src=\"/assets/img/link_section/super_relax/desktop/banner_super_relax_desktop_es.jpg?v=1\"/> <img class=\"links-section-img links-section-img-position--right visible-xs img-responsive\" src=\"/assets/img/link_sect",
+      "content_type": "image/webp",
+      "bytes": 89228,
+      "sha256": "8e8ce90ec9dd5b55c97f4876bddc1e7528f1176975534b69632a958b52a2559f",
+      "source_sha256": "b64336f6f4425eccfa20b1ab01dc73b00723aecbd81160bcb82a2272a31e9b20",
+      "dhash": "86471e0f479848cc",
+      "width": 601,
+      "height": 601,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/goldcar/logo-1.svg",
+      "path": "assets/렌터카_글로벌/goldcar/logo-001.svg",
       "source_url": "https://www.goldcar.es/assets/img/goldcar.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img img-responsive logo-header Goldcar agencia de alquiler de coches div hidden-xs a div float-left div header-section-desktop hidden-xs",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "\",\n                \"legalName\":\"Goldcar Spain S.L.\",\n                \"url\":\"https://www.goldcar.es/es-es/\",\n                \"telephone\":\"(+34) 918 344 064\",\n                \"logo\":\"https://www.goldcar.es/assets/img/goldcar.svg\",\n                \"image\":\"https://www.goldcar.es/assets/img/goldcarblue/coche_goldcar_blue.jpg\",\n                \"descr",
       "content_type": "image/svg+xml",
       "bytes": 3289,
       "sha256": "73f68786111fe9b238da3648eb203a1c175b0dd6e33fd01acad04410bccf3ca6",
+      "source_sha256": "73f68786111fe9b238da3648eb203a1c175b0dd6e33fd01acad04410bccf3ca6",
+      "dhash": "",
       "width": 230,
-      "height": 50
+      "height": 50,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/",
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/long-term-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/one-day-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/week-end-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/extras/young-driver-19-24-years-old/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/size/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/size/7-9-seater-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/automatic-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/economy-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/electric-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/family-car-hire/",
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/goldcar/banner-001.webp",
+      "source_url": "https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/GC_Content_Pages_Banner_EN.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "class=\"col-xs-12\"> <div class=\"row background_black\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"\" class=\"img-responsive\" src=\"https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/GC_Content_Pages_Banner_EN.jpeg\"/> <div class=\"row\" id=\"clock\"> </div> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div clas",
+      "content_type": "image/webp",
+      "bytes": 46314,
+      "sha256": "a3620a7a1fea9bcf838193d1f1beb88e5b47f4880c5fc49714c47c619a06f3fa",
+      "source_sha256": "0b5fc4a8aeed897dc3e6294d65c2add06c3d5cab0db13931efaa0d5195b18f9a",
+      "dhash": "a31e19ef3fbfbe7f",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/fleet/size/"
+      ]
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/goldcar/logo-2.png",
+      "path": "assets/렌터카_글로벌/goldcar/logo-002.webp",
       "source_url": "https://www.goldcar.es/assets/img/footer/logo.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img footer--logo-goldcar a footer-logo-xs-padding li footer-sm ul nav navbar-nav div bs-navbar-footer-1",
-      "content_type": "image/png",
-      "bytes": 4816,
-      "sha256": "dd893c9c9d50b6dfb14e954385338319195c0d127dd607fa5bf35c5fd505b375",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "avigation\"> <div id=\"bs-navbar-footer-1\"> <ul class=\"nav navbar-nav\"> <li class=\"footer-sm\"> <a class=\"footer-logo-xs-padding\" href=\"/es-es/\"><img class=\"footer--logo-goldcar\" src=\"/assets/img/footer/logo.png\"/></a> </li> <li class=\"footer-sm footer-sm-bottom\"> <span class=\"text-footer-green\">¡Nos vemos en la carretera!</span> ",
+      "content_type": "image/webp",
+      "bytes": 4840,
+      "sha256": "391112e9d011d5bf3984ca9cf7e4aa901ef90c0b8d7f1489c37df4c3569ada5c",
+      "source_sha256": "ea75e74f4553d52fdd293f9a3464b054d19d61129be24708dec600c3af338395",
+      "dhash": "8f1921696b734b1f",
       "width": 191,
-      "height": 200
+      "height": 200,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/goldcar/reference-1.webp",
-      "source_url": "https://www.goldcar.es/assets/img/link_section/keyngo/desktop/banner_keyngo_desktop_es.jpg",
-      "source_tag": "img:page-image",
-      "context": "img links-section-img links-section-img-position--left hidden-xs div links-section--white links-section-size links-section-index div links-section-row div col-xs-12 links-section-flex div row links-section",
-      "content_type": "image/webp",
-      "bytes": 21772,
-      "sha256": "0f0266552449fe804a620cdcae346fede27948e83e248432fe84f13c2faeb332",
-      "width": 600,
-      "height": 600
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/goldcar/logo-003.png",
+      "source_url": "https://www.goldcar.es/assets/img/club_home/club_goldcar.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "=\"row info-club padding-15 padding-top-15 padding-right-0\"> <div class=\"col-xs-12 alta-club-no-test\"> <img alt=\"Club Goldcar\" class=\"img-responsive center-block cabecera-logo\" src=\"/assets/img/club_home/club_goldcar.png\"/> <img alt=\"rent a car discounts\" class=\"center-block img-regalos\" src=\"/assets/img/club_home/ico/ico-regalos.png\"/> <h",
+      "content_type": "image/png",
+      "bytes": 21898,
+      "sha256": "090ba13e5f95cd6379ec5d389e6253e620cf96642cc4f4fa2513ade4ab6b7dbb",
+      "source_sha256": "8144fe0d5fae733404c1398415ed0886365dafd79347a2cc916818e0ad3f8c8f",
+      "dhash": "929a3634d1c5959b",
+      "width": 500,
+      "height": 51,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/",
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/long-term-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/one-day-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/week-end-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/extras/young-driver-19-24-years-old/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/size/7-9-seater-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/automatic-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/economy-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/electric-car-hire/",
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/family-car-hire/"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/goldcar/reference-2.webp",
-      "source_url": "https://www.goldcar.es/assets/img/link_section/super_relax/desktop/banner_super_relax_desktop_es.jpg?v=1",
-      "source_tag": "img:page-image",
-      "context": "img links-section-img links-section-img-position--right hidden-xs div links-section--grey links-section-size links-section-index div links-section-row links-section-margin-left div col-xs-12 links-section-flex div row links-section",
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/goldcar/banner-002.webp",
+      "source_url": "https://www.goldcar.es/assets/img/banners/black_friday_2020_home.png",
+      "source_tag": "external-css",
+      "context": "nner-lateral{background-size:auto!important}}@media (min-width:1650px){.black-friday.banner-lateral{background-repeat:no-repeat;background-position:top center;background-attachment:fixed;background-size:cover}.home.black-friday.banner-lateral{background-image:url(/assets/img/banners/black_friday_2020_home.png)}#availability.black-friday.banner-lateral{background-image:url(/assets/img/banners/black",
       "content_type": "image/webp",
-      "bytes": 92270,
-      "sha256": "0f84b451745bf33bba81ffc1e87adb73d1ea2154857e50ddc45daf4003be5072",
-      "width": 601,
-      "height": 601
+      "bytes": 30902,
+      "sha256": "a7e87bdb1ac3a6ed11fa5e726b45f6b826a307a0394dac7ffa4336e504863ff7",
+      "source_sha256": "1f8deccffdc505d95614c065b1472257af3a36282c4743d85884c4428b831c4a",
+      "dhash": "c0d4c0c0c0c08080",
+      "width": 1760,
+      "height": 750,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
     },
     {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/goldcar/reference-3.webp",
-      "source_url": "https://www.goldcar.es/assets/img/goldcarblue/coche_goldcar_blue.jpg",
-      "source_tag": "json-ld.image",
-      "context": "structured data image",
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/goldcar/banner-003.webp",
+      "source_url": "https://www.goldcar.es/assets/img/banners/black_friday_2020_dispo.png",
+      "source_tag": "external-css",
+      "context": "repeat:no-repeat;background-position:top center;background-attachment:fixed;background-size:cover}.home.black-friday.banner-lateral{background-image:url(/assets/img/banners/black_friday_2020_home.png)}#availability.black-friday.banner-lateral{background-image:url(/assets/img/banners/black_friday_2020_dispo.png)}}.black-friday.gc-184-test{color:#fff}.black-friday.gc-184-test .div-new-res-resu .negr",
       "content_type": "image/webp",
-      "bytes": 111298,
-      "sha256": "083f5fd9d25b5d66f94d07c15e0f785c076cfae7ccc308fcaf510a5ed295fe44",
+      "bytes": 18886,
+      "sha256": "fdfba863c95fc02fbcc9af1e4dc14ec96ce53fcab4ae952e1eca62df6a6f44ae",
+      "source_sha256": "5b36b59e662e18205f760caac38f8264af26179c1ca3688a6404a024eca0c9e7",
+      "dhash": "c0d4c0c0c0c0c000",
+      "width": 1760,
+      "height": 750,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/goldcar/banner-004.webp",
+      "source_url": "https://www.goldcar.es/assets/img/banners/cyber_monday_2018.png",
+      "source_tag": "external-css",
+      "context": "000!important}@media (min-width:1770px){.cyber-monday.banner-lateral{background-size:auto!important}}@media (min-width:1650px){.cyber-monday.banner-lateral{background-repeat:no-repeat;background-position:top center;background-attachment:fixed;background-image:url(/assets/img/banners/cyber_monday_2018.png);background-size:contain}}.cyber-monday .p-extras #CoverSuperRelax .borde,.cyber-monday .p-ext",
+      "content_type": "image/webp",
+      "bytes": 41028,
+      "sha256": "3a54ee16b275bbfdcd92d15cdd02519b90b246a025b7a9babf7b608090a7f885",
+      "source_sha256": "2ee774f76611d1d1f61aa55c17ac9b679e0b562c1ce4d16477052c99994212db",
+      "dhash": "d4d4d4d4d4d4d4d4",
+      "width": 1760,
+      "height": 750,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/goldcar/banner-005.webp",
+      "source_url": "https://www.goldcar.es/assets/img/api-google-map-2.jpg",
+      "source_tag": "external-css",
+      "context": "dia .datos p.cliente{font-size:10px}.main-offices .fondo-opinion-media .datos i{font-size:1em}.main-offices .fondo-opinion-media .datos .total-opiniones{margin-top:5px;margin-bottom:5px;font-size:14px}}.mapa-google{max-width:100%;height:550px;background-image:url(/assets/img/api-google-map-2.jpg);background-size:cover;background-position:center center;background-repeat:no-repeat}.mapa-google .titl",
+      "content_type": "image/webp",
+      "bytes": 42008,
+      "sha256": "11f44caf8f94be2764ab1505903c9d2671a65d80ddcee660fb06b609ea577c39",
+      "source_sha256": "2e7c16de1194d86b70a753cd5457615e755cf9e87601d3b32e08b36abd11796a",
+      "dhash": "1b717533632f9595",
       "width": 1170,
-      "height": 456
+      "height": 550,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/goldcar/banner-006.webp",
+      "source_url": "https://images.unsplash.com/photo-1543440724-e469d1faa3c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
+      "source_tag": "external-css",
+      "context": ":1}.menu-links .section-club .text-menu-links{font-size:24px;color:#fff;font-weight:700}.menu-links .section-club .masthead__mask__text{font-size:20rem;font-weight:800;text-align:center;text-transform:uppercase;letter-spacing:1rem;color:transparent;background:url(https://images.unsplash.com/photo-1543440724-e469d1faa3c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80) no-",
+      "content_type": "image/webp",
+      "bytes": 40882,
+      "sha256": "ea85e65a56779ae79497e5c6139b26fe361733e9923c79eaa11bc62fc2ece82e",
+      "source_sha256": "0fc75cb26265c22a43471926ee96c0ab0d31bfd7ba771dfe0d5a5978191c0d4a",
+      "dhash": "0b07133b27263d19",
+      "width": 1050,
+      "height": 701,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/goldcar/banner-007.webp",
+      "source_url": "https://www.goldcar.es/assets/img/banners/banner_lat_precios_locos_es.png",
+      "source_tag": "external-css",
+      "context": "r}.banner-patricks-day img{width:100px}@media (min-width:1700px){.precios-locos.banner-lateral{background-repeat:no-repeat;background-position:top center;background-attachment:fixed;background-size:1750px auto}.precios-locos.banner-lateral.es{background-image:url(/assets/img/banners/banner_lat_precios_locos_es.png)}.precios-locos.banner-lateral.en{background-image:url(/assets/img/banners/banner_la",
+      "content_type": "image/webp",
+      "bytes": 72120,
+      "sha256": "e2b28b93350a8426d5d1287adbed83a9e91682f06dd0b2ab6c2bf07913ac4ae2",
+      "source_sha256": "e4a704f9e8bb6b561f9386c0069438ca950f528891e83d106436f8c2873bf93d",
+      "dhash": "d4d4d4d4d4d4d400",
+      "width": 1670,
+      "height": 840,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/goldcar/banner-008.webp",
+      "source_url": "https://www.goldcar.es/assets/img/banners/banner_lat_flash_nov_es.png",
+      "source_tag": "external-css",
+      "context": "s{background-image:url(/assets/img/banners/banner_lat_precios_locos_en.png)}}@media (min-width:1630px){.flash-24.banner-lateral{background-repeat:no-repeat;background-position:top center;background-attachment:fixed}.flash-24.banner-lateral.es{background-image:url(/assets/img/banners/banner_lat_flash_nov_es.png)}.flash-24.banner-lateral.en{background-image:url(/assets/img/banners/banner_lat_flash_n",
+      "content_type": "image/webp",
+      "bytes": 26464,
+      "sha256": "c2839e7b89e955be2438de64f425fc23021a484746984e24ba5c0b68106f6836",
+      "source_sha256": "476ddcce3757cb5e0fd8ecfa2ad4b0225951e2a74bb6882c5fe5e1c663508232",
+      "dhash": "d4d4d4d4d4d40080",
+      "width": 1670,
+      "height": 840,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/goldcar/banner-009.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/img/banners/offer_campanya20170730_es.png",
+      "source_tag": "external-css",
+      "context": "oldcarweb/img/banners/offer_campanya20170730_gr.png)}.campanya20170730.banner-lateral.ar{background-image:url(https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/img/banners/offer_campanya20170730_es.png)}.campanya20170730.banner-lateral.mx{background-image:url(https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/img/banners/offer_campanya20170730_es.png)}.campanya20170730.banner-lateral.us{bac",
+      "content_type": "image/webp",
+      "bytes": 35920,
+      "sha256": "6f1f01e990735926a00b0bbd5c2aa35786503b78ed08b595eedb5f725fbab14f",
+      "source_sha256": "9a672f0cc69d27eff2aa823123e30f3d47740864484ed460897bf7ea82a4e501",
+      "dhash": "d4d4c0d4d4d4d400",
+      "width": 1670,
+      "height": 840,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/goldcar/logo-004.webp",
+      "source_url": "https://www.goldcar.es/assets/img/footer/goldcar-logo-footer.png",
+      "source_tag": "external-css",
+      "context": "kground-color:transparent}@media (max-width:767px){.footer-web .footer-logo-xs-padding{padding:15px 0}}.footer-web .footer--logo-goldcar{width:70px;height:70px;background-position:0 25px}.footer-web .footerico.footer--logo-goldcar{width:190px;background-image:url(/assets/img/footer/goldcar-logo-footer.png);background-size:contain}.footer-web .text-footer-green{color:#daed56!important;font-size:18p",
+      "content_type": "image/webp",
+      "bytes": 9756,
+      "sha256": "b2a4fa04619659ade06741ce32f1b7ea987f032028b4259729abf3be237b2d6b",
+      "source_sha256": "72e0ba60b0a1ddba33325067c36f719ce5a3ed496eef9e43bd9fa56a90e5c3b6",
+      "dhash": "6aaaa5acada99b98",
+      "width": 1137,
+      "height": 174,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-003.webp",
+      "source_url": "https://www.goldcar.es/assets/img/goldcarblue/coche_goldcar_blue.jpg",
+      "source_tag": "html-data",
+      "context": "\":\"https://www.goldcar.es/es-es/\",\n                \"telephone\":\"(+34) 918 344 064\",\n                \"logo\":\"https://www.goldcar.es/assets/img/goldcar.svg\",\n                \"image\":\"https://www.goldcar.es/assets/img/goldcarblue/coche_goldcar_blue.jpg\",\n                \"description\": \"Goldcar dispone actualmente de más de 95 oficinas para el alquiler de coches, situadas",
+      "content_type": "image/webp",
+      "bytes": 105884,
+      "sha256": "716565edd19f5fe7b527aa1a393f1c5ab94d5303c3e2a809d32e5c6fcfba06cb",
+      "source_sha256": "13dfcca8ba0576de532d70752a2f929247334bde131a01dbdecd1081e45d4ba9",
+      "dhash": "391b71722a29e167",
+      "width": 1170,
+      "height": 456,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-004.webp",
+      "source_url": "https://www.goldcar.es/assets/img/newsletter/newsletter_left.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "div> </div> </div> <div class=\"newsletter-section col-md-12\"> <div class=\"hidden-xs hidden-sm col-md-5 pad-both img-left resize-img\"> <img class=\"img-responsive margin-center\" src=\"/assets/img/newsletter/newsletter_left.jpg\"/> </div> <img class=\"visible-xs visible-sm img-responsive margin-center\" src=\"/assets/img/newsletter/newsletter_left.jp",
+      "content_type": "image/webp",
+      "bytes": 307772,
+      "sha256": "579d20715977450a4b9c0f6d7a9a49d5a9bf478ee5e1c6844a3b27780a359bfa",
+      "source_sha256": "2729f5749f6004fe2b8bf52ad2845c54825f5d10423fd7fed32811b3704f41d0",
+      "dhash": "1c543d13131b317c",
+      "width": 2200,
+      "height": 1466,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-005.webp",
+      "source_url": "https://www.goldcar.es/assets/img/newsletter/newsletter_right.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ng=es\" target=\"_blank\"> Suscríbete </a> </div> </div> </div> <div class=\"hidden-xs hidden-sm col-md-5 pad-both img-right resize-img\"> <img class=\"img-responsive margin-center\" src=\"/assets/img/newsletter/newsletter_right.jpg\"/> </div> <img class=\"visible-xs visible-sm img-responsive margin-center\" src=\"/assets/img/newsletter/newsletter_right.j",
+      "content_type": "image/webp",
+      "bytes": 156882,
+      "sha256": "928bcc737d3138c0ae80bd7587f0564aa783b2ba48f415a07e35c353c6f761cc",
+      "source_sha256": "9099c3f478615f6c6cb866e67a661547cfa4816746acf1bdfc204784a6f7207c",
+      "dhash": "2f3b9fa6aea7910d",
+      "width": 2200,
+      "height": 1467,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-006.webp",
+      "source_url": "https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/LP_duration_en.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "div> </div> <div class=\"col-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"\" class=\"img-responsive\" src=\"https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/LP_duration_en.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">duration<",
+      "content_type": "image/webp",
+      "bytes": 41336,
+      "sha256": "9f10d8f549c2fb1df85527d8bfdf8581b01c2e54fd9d4f8f3809d8fe693ed04b",
+      "source_sha256": "7dcae2c55c3b2915fbdabbf0e74c417f3e62e48582534156be57969288eb03d4",
+      "dhash": "e66a8ea381948294",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-007.webp",
+      "source_url": "https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/LP_long-term_en.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "lass=\"col-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"Long-term car hire\" class=\"img-responsive\" src=\"https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/LP_long-term_en.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">long-term",
+      "content_type": "image/webp",
+      "bytes": 63250,
+      "sha256": "4e2814dac895ae6a56d0461f1234750efb17f45c1a8a151c04b3d1a322e2fda0",
+      "source_sha256": "fc731d7a3c8e79626c64feb5245d21335a5eb33280b0877ba2fb25cc45ea29bd",
+      "dhash": "32ba8a80a868082a",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/long-term-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-008.webp",
+      "source_url": "https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/one-day-car-rental.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"col-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"Hire a Car for One Day\" class=\"img-responsive\" src=\"https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/one-day-car-rental.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">one-day-c",
+      "content_type": "image/webp",
+      "bytes": 43156,
+      "sha256": "38567533fc5c533da491cb8345940265195a3ff9aeab02acbf3a46c3a240cb96",
+      "source_sha256": "7a40b78c12c21e41a296a67a2023a76bc9e9b75c1ea7553d0c6da35a93baa850",
+      "dhash": "8abedea62fa68e9e",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/one-day-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-009.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/weekend-car-rental.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"col-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"Weekend Car Hire\" class=\"img-responsive\" src=\"https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/weekend-car-rental.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">weekend-c",
+      "content_type": "image/webp",
+      "bytes": 93570,
+      "sha256": "b6da0ea4abe8f606b830f531a6403b96b624ac228007a5b0ca2ddf4eea240afc",
+      "source_sha256": "794c7d433e7c840915b20a9524baef6cefebe4b86d4b6078ca77104d1c9685ea",
+      "dhash": "4f37733a382e2f8d",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/week-end-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-010.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/Car-Hire-Online.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "v class=\"col-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"Car Hire Online\" class=\"img-responsive\" src=\"https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/Car-Hire-Online.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">car-hire-",
+      "content_type": "image/webp",
+      "bytes": 18884,
+      "sha256": "67643cc6436a00eaaeddadb8d74fb7511675974439858d1b63d9ca2e8b629320",
+      "source_sha256": "d7c9ac9851c7699916d3da8cde41ac36afb436fb610febe27ce79c25546d96be",
+      "dhash": "a3a58ff3b2f4b4b4",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/extras/young-driver-19-24-years-old/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-011.webp",
+      "source_url": "https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/7-9-seats_en.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "l-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"7 and 9 seat minivan hire \" class=\"img-responsive\" src=\"https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/7-9-seats_en.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">7-9-seate",
+      "content_type": "image/webp",
+      "bytes": 52236,
+      "sha256": "864f1f9c1d13c8105018ef7e140a708ee0851f0998e217b9bf351a8e54114f4b",
+      "source_sha256": "efa91c3bc66ba8967b1a2ec2575605e64bb1fb1daf8aed811af2ea28cf8e7d79",
+      "dhash": "928e66766e6e6c6c",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/fleet/size/7-9-seater-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-012.webp",
+      "source_url": "https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/automatic-car-rental.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "lass=\"col-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"Automatic Car Hire\" class=\"img-responsive\" src=\"https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/automatic-car-rental.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">automatic",
+      "content_type": "image/webp",
+      "bytes": 28678,
+      "sha256": "5d2cf3a8c3e03de8e3b9c35576e1ffef86e425c36cc24d41909dfe9177b419eb",
+      "source_sha256": "70e372cfa3c78bdf961826e1b9bb326381f44849397c0d2c21d425810944d75c",
+      "dhash": "9b9d868e93968e61",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/automatic-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-013.webp",
+      "source_url": "https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/economy-car-rental.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"col-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"Economy Car Hire\" class=\"img-responsive\" src=\"https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/economy-car-rental.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">economy-c",
+      "content_type": "image/webp",
+      "bytes": 49992,
+      "sha256": "8606b0e35cf8793c4ddc382175dc1b3d8f63cb96575d64483636f82471519af4",
+      "source_sha256": "9e77330d26d329cf9574f931ef73d9fc26d09ee1f8f49f44b65389a95ce1d3c1",
+      "dhash": "674fcffceceeda1c",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/economy-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-014.webp",
+      "source_url": "https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/electromaps-es.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " <div class=\"col-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"electromaps\" class=\"img-responsive\" src=\"https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/electromaps-es.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">electrico",
+      "content_type": "image/webp",
+      "bytes": 41884,
+      "sha256": "8ddcbf4e58888537782f426b45426417cdfc70a9fa21bb8d7914109a178c8ba9",
+      "source_sha256": "2e8b660347dd4da2ddd64201915dde00ef2baa12df6fb00a6cd3c03b2bb5fa45",
+      "dhash": "c4fc4fc9cce6c5cd",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/electric-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-015.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/rent-a-family-car-goldcar.jpeg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"col-xs-12\"> <div class=\"row\"> <div class=\"col-xs-12 col-md-8\"> <div class=\"row\"> <div class=\"col-xs-12 capa_imagen\"> <img alt=\"Family hire cars\" class=\"img-responsive\" src=\"https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/rent-a-family-car-goldcar.jpeg\"/> </div> </div> </div> <div class=\"hidden\" id=\"promoCode_landing\"></div> <div class=\"hidden\" id=\"url_landing\">family-ca",
+      "content_type": "image/webp",
+      "bytes": 56970,
+      "sha256": "78a987e3660e131e0ec2cc89a12a8abf65c75fb37d0ceae26e1517648ef79c0c",
+      "source_sha256": "4c01b66ed1bd76553ad9d905473114c7a49e537f7c5d949b49011d312d61e8ae",
+      "dhash": "47d96c461634f238",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/family-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-016.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/monthy-car-hire.jpeg",
+      "source_tag": "html-data, img:image",
+      "context": "are a member of our club you will receive a <a href=\"https://www.goldcar.es/en-gb/offers/\"><b>small gift</b></a>. </p><p style=\"text-align: center\"><img alt=\"Monthly car hire\" src=\"https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/monthy-car-hire.jpeg\"/></p><p></p><h3><span id=\"docs-internal-guid-27a85ed8-7fff-4667-873e-af6286422135\"><h2 style=\"line-height: 1.295; margi",
+      "content_type": "image/webp",
+      "bytes": 63466,
+      "sha256": "45a44d849aa6905fd1401e30b503e925dc304c1bc51b3f7cf54d5c1c585efffa",
+      "source_sha256": "3557da15e3ce5e0255ae191f92554457daf61ef0213b0c8473de5d218c18dcd4",
+      "dhash": "1c543d13131b317c",
+      "width": 800,
+      "height": 495,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/long-term-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-017.webp",
+      "source_url": "https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/economy-car-hire.jpeg",
+      "source_tag": "html-data, img:image",
+      "context": "ntal vehicle by choosing a certain group, but not the specific model. By doing this, we avoid overbooking.</p><p style=\"text-align: center\"><img alt=\"Goldcar Economy Car Hire\" src=\"https://goldcar.s3.eu-west-1.amazonaws.com/goldcarweb/landings/full/economy-car-hire.jpeg\"/></p><h2>The Goldcar Family</h2><p>If you love travelling and are always on the hunt for cheap trips, you can now be pa",
+      "content_type": "image/webp",
+      "bytes": 41182,
+      "sha256": "786f7815d927a8fc5631d6639444984ebe076575f4bf0a101b35241d3f9cbb83",
+      "source_sha256": "cd03782e2d5e8722bf5cee1d4d8c8a2307eea15690b0da170ac62d8cc61406cf",
+      "dhash": "6db69692b26424b6",
+      "width": 1182,
+      "height": 396,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/economy-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-018.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/family-car-hire-goldcar.jpeg",
+      "source_tag": "html-data, img:image",
+      "context": " Kia Carens, Citroen Grand C4 Picasso, Opel Zafira or similar </li><li>Group JJ: Volkswagen Touran or similar</li></ul><p style=\"text-align: center\"><img alt=\"family hire car\" src=\"https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/family-car-hire-goldcar.jpeg\"/></p><p></p><p>Goldcar family rental cars Within our modern fleet that is renewed annually, you'll find automatic cars ",
+      "content_type": "image/webp",
+      "bytes": 41402,
+      "sha256": "6e5ebd9768bd8017078390653c5f9baf0db6ffde6487b71e28bd5949b0806144",
+      "source_sha256": "81485b1f9d113053bb21c3680733bfdf906fa60e409c441dd09eb84e84f2e6db",
+      "dhash": "32b6b692852624b6",
+      "width": 1163,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/family-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-019.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/week-end-car-rental.jpeg",
+      "source_tag": "html-data, img:image",
+      "context": " rental market in European </b>car rental market, with a modern and extensive fleet that is always at low prices. </p><p style=\"text-align: center\"><img alt=\"Weekend Car Hire\" src=\"https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/week-end-car-rental.jpeg\"/></p><h2>Why hire a car for a weekend?</h2><p>If you are thinking of <b>renting a car</b> you can check our website for",
+      "content_type": "image/webp",
+      "bytes": 66376,
+      "sha256": "013f8295cfbe6ae839df46b3329e47022e7b1fd2660ac0949e19c397dbd3bfec",
+      "source_sha256": "b7ad54df5ce9a43d31539a196e540d1a71a5c366023bd317f0307a0798a38e79",
+      "dhash": "2e0d0b0923670f17",
+      "width": 762,
+      "height": 449,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/by-duration/week-end-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-020.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/family-automatic-car-hire.jpeg",
+      "source_tag": "html-data, img:image",
+      "context": "up E: Ford Focus Aut., Skoda Yeti Aut. or similar</li><li>Group FF: Seat León SW Aut., Opel Astra SW Aut. or similar </li></ul><p></p><p><img alt=\"Automatic family rental car\" src=\"https://s3-eu-west-1.amazonaws.com/goldcar/goldcarweb/landings/full/family-automatic-car-hire.jpeg\"/></p><p><br/></p><h2>What are you waiting for ? Discover out best 7-seat models. </h2><p>We have family vehicles from t",
+      "content_type": "image/webp",
+      "bytes": 44648,
+      "sha256": "f24b0f293756a37a2efdc9954659e09f93fb8d604768888d1e821ab80577085d",
+      "source_sha256": "965665c2a4619b2ce28876ecff04695e86ba1f957ce0d1de3e34999c3972d7fc",
+      "dhash": "09b6b2b28e3424b6",
+      "width": 1162,
+      "height": 384,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/en-gb/car-rental/fleet/type/family-car-hire/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-021.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_1.png",
+      "source_tag": "html-data, img:image",
+      "context": "tainer-img col-sm-12\"> <a class=\"no-style\" href=\"/es-es/alquiler-de-coches/oficinas/espana/alicante/aeropuerto-alicante/\"> <img alt=\"Alquiler de coches en Alicante Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_1.png\"/> <img alt=\"Alquiler de coches en Alicante Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_destina",
+      "content_type": "image/webp",
+      "bytes": 1486,
+      "sha256": "ae0b59bf9d35aa63207af2ac978ba7cd4fd5e6e93de6f0cac4210256ea9b439b",
+      "source_sha256": "01e68ff7e5305cc06108e21326700f77025dbf64b5a73b956743898fb0256751",
+      "dhash": "0109092001282828",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-022.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/destinos/ALC.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "\"img-top coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_1b.png\"/> <img alt=\"Alquiler de coches en Alicante Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destinos/ALC.jpg\"/> <div class=\"text-dest visto title-v2\">Alicante Aeropuerto</div> </a> </div> </div> <div class=\"destino col-sm-4 col-x",
+      "content_type": "image/webp",
+      "bytes": 42858,
+      "sha256": "7391849c9dd9bc95e50816cb30c6e7600c028d9ccc9eef6778db065450b75312",
+      "source_sha256": "c719eff522ba2fb2c7f488e7caa481e620a29e5f5388a9910d905994b2267d8b",
+      "dhash": "97d4d99a888d6738",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-023.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_2.png",
+      "source_tag": "html-data, img:image",
+      "context": "tainer-img col-sm-12\"> <a class=\"no-style\" href=\"/es-es/alquiler-de-coches/oficinas/espana/mallorca/aeropuerto-mallorca/\"> <img alt=\"Alquiler de coches en Mallorca Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_2.png\"/> <img alt=\"Alquiler de coches en Mallorca Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_destina",
+      "content_type": "image/webp",
+      "bytes": 1864,
+      "sha256": "4bfda6426901dda882ff4bbe62cf8df42cc18708470259dea3c7d6edaa18c50b",
+      "source_sha256": "7adb6aaac99fd6056ff4ce9ce66c504ac2b0265082bea5e987e167a70eb3b1b5",
+      "dhash": "0003030001282800",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-024.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/destinos/PMI.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "\"img-top coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_2b.png\"/> <img alt=\"Alquiler de coches en Mallorca Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destinos/PMI.jpg\"/> <div class=\"text-dest visto title-v2\">Mallorca Aeropuerto</div> </a> </div> </div> <div class=\"destino col-sm-4 col-x",
+      "content_type": "image/webp",
+      "bytes": 31558,
+      "sha256": "152c3adf3f6641966abcee6dc70f79b10218fc14ccabe647cbf3ccda1ac152d4",
+      "source_sha256": "57757d86943d34262d7a4a401f18a3235517df832c7059d1a96dd82886c5151d",
+      "dhash": "48e4f063ef9da066",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-025.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_3.png",
+      "source_tag": "html-data, img:image",
+      "context": "lass=\"container-img col-sm-12\"> <a class=\"no-style\" href=\"/es-es/alquiler-de-coches/oficinas/espana/ibiza/aeropuerto-ibiza/\"> <img alt=\"Alquiler de coches en Ibiza Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_3.png\"/> <img alt=\"Alquiler de coches en Ibiza Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_destinatio",
+      "content_type": "image/webp",
+      "bytes": 516,
+      "sha256": "2052931d45238f63ad2788675ba7b22b2b90dde62935b8a58e09a54f0a398616",
+      "source_sha256": "cd3575b3cf17f220d31e7f3e01b08f3fb21b7cade7865be5d3875a4176b549f2",
+      "dhash": "0001010020282820",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-026.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/destinos/IBZ.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "ss=\"img-top coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_3b.png\"/> <img alt=\"Alquiler de coches en Ibiza Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destinos/IBZ.jpg\"/> <div class=\"text-dest visto title-v2\">Ibiza Aeropuerto</div> </a> </div> </div> <div class=\"destino col-sm-4 col-xs-1",
+      "content_type": "image/webp",
+      "bytes": 27456,
+      "sha256": "3927bdc58bd77ec81619d1025147d647e732cc13b960baaadf66e6f354aa62f9",
+      "source_sha256": "0308d7579e3264a7f5ee85c089fd5d3515d8139cf900fe4a6a8d663bbbc82141",
+      "dhash": "7134084480194904",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-027.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_4.png",
+      "source_tag": "html-data, img:image",
+      "context": " col-sm-12\"> <a class=\"no-style\" href=\"/es-es/alquiler-de-coches/oficinas/espana/las-palmas/aeropuerto-gran-canaria/\"> <img alt=\"Alquiler de coches en Gran Canaria Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_4.png\"/> <img alt=\"Alquiler de coches en Gran Canaria Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_des",
+      "content_type": "image/webp",
+      "bytes": 1076,
+      "sha256": "31ff7c7ad8fc6828fec83e0573cbdb9275da37dd44fb200947f4f9a568fa2ef1",
+      "source_sha256": "a322dd2dfff6a6986808aecde00a4d6aaa9691940ef2757fec4c1b78a89637ba",
+      "dhash": "0109010001282820",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-028.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/destinos/LPA.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "-top coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_4b.png\"/> <img alt=\"Alquiler de coches en Gran Canaria Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destinos/LPA.jpg\"/> <div class=\"text-dest visto title-v2\">Gran Canaria Aeropuerto</div> </a> </div> </div> <div class=\"destino col-sm-4 c",
+      "content_type": "image/webp",
+      "bytes": 51794,
+      "sha256": "a61cc9b98e9b44e0d3559dfa1a6615588dd393d336452264989da347e2e4e302",
+      "source_sha256": "e8eeadacf9208b9393fa1c005f173feb546b338e2fbb9096e929ca82cffd2b74",
+      "dhash": "73f2214d02021c7b",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-029.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_5.png",
+      "source_tag": "html-data, img:image",
+      "context": "s=\"container-img col-sm-12\"> <a class=\"no-style\" href=\"/es-es/alquiler-de-coches/oficinas/espana/madrid/aeropuerto-madrid/\"> <img alt=\"Alquiler de coches en Madrid Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_5.png\"/> <img alt=\"Alquiler de coches en Madrid Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_destinati",
+      "content_type": "image/webp",
+      "bytes": 1170,
+      "sha256": "a3dd54033cae3dbf4e007a7ee459bf2d8366ec773b5ce486a9bb1bdd9da46645",
+      "source_sha256": "9e6f7338d6463b534d20e456eb53e1f3718945a5d3d4c68915969f3f9251ab86",
+      "dhash": "0009012001282800",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-030.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-300.svg",
+      "source_tag": "external-css",
+      "context": "ets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-300.woff2\") format(\"woff2\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-300.woff\") format(\"woff\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-300.ttf\") format(\"truetype\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-300.svg#Roboto\") format(\"svg\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyri",
+      "content_type": "image/svg+xml",
+      "bytes": 42598,
+      "sha256": "73514e2ffef7fc2f75eeb63cdfada429e6ab96375dcbe7c14100ab032d9da00b",
+      "source_sha256": "73514e2ffef7fc2f75eeb63cdfada429e6ab96375dcbe7c14100ab032d9da00b",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-031.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-regular.svg",
+      "source_tag": "external-css",
+      "context": "boto/roboto-v16-greek_cyrillic_latin-ext-regular.woff2\") format(\"woff2\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-regular.woff\") format(\"woff\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-regular.ttf\") format(\"truetype\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-regular.svg#Roboto\") format(\"svg\"),url(\"/assets/fonts/roboto/roboto-v16-greek_",
+      "content_type": "image/svg+xml",
+      "bytes": 42302,
+      "sha256": "d643784c1e68c899e0920d38706d43c9f824ff6eb31361ad1f69641a31dda687",
+      "source_sha256": "d643784c1e68c899e0920d38706d43c9f824ff6eb31361ad1f69641a31dda687",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-032.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-italic.svg",
+      "source_tag": "external-css",
+      "context": "/roboto/roboto-v16-greek_cyrillic_latin-ext-italic.woff2\") format(\"woff2\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-italic.woff\") format(\"woff\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-italic.ttf\") format(\"truetype\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-italic.svg#Roboto\") format(\"svg\"),url(\"/assets/fonts/roboto/roboto-v16-greek_c",
+      "content_type": "image/svg+xml",
+      "bytes": 46418,
+      "sha256": "756769f2c9d55f867240676ca6c254f37695cee5d65b40b4f6cf52890636a332",
+      "source_sha256": "756769f2c9d55f867240676ca6c254f37695cee5d65b40b4f6cf52890636a332",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-033.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-500.svg",
+      "source_tag": "external-css",
+      "context": "ts/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-500.woff2\") format(\"woff2\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-extt-500.woff\") format(\"woff\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-500.ttf\") format(\"truetype\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-500.svg#Roboto\") format(\"svg\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyri",
+      "content_type": "image/svg+xml",
+      "bytes": 41974,
+      "sha256": "1de1002d97858f67ce4d6db52771b2850b2608c5b587d21b39d696dc34f8f559",
+      "source_sha256": "1de1002d97858f67ce4d6db52771b2850b2608c5b587d21b39d696dc34f8f559",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-034.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-700.svg",
+      "source_tag": "external-css",
+      "context": "/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-700.woff2\") format(\"woff2\"),url(\"/assets/fonts/roboto/roboto-greek_cyrillic_latin-ext-700.woff\") format(\"woff\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-700.ttf\") format(\"truetype\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyrillic_latin-ext-700.svg#Roboto\") format(\"svg\"),url(\"/assets/fonts/roboto/roboto-v16-greek_cyri",
+      "content_type": "image/svg+xml",
+      "bytes": 42201,
+      "sha256": "fe18654cf04d0e09b70827b82a89861eab37f1694795e0baac6e3f55f7ad0daf",
+      "source_sha256": "fe18654cf04d0e09b70827b82a89861eab37f1694795e0baac6e3f55f7ad0daf",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-035.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/opensans/open-sans-v18-latin_greek-ext-regular.svg",
+      "source_tag": "external-css",
+      "context": "ets/fonts/opensans/open-sans-v18-latin_greek-ext-regular.woff2\") format(\"woff2\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-regular.woff\") format(\"woff\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-regular.ttf\") format(\"truetype\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-regular.svg#OpenSans\") format(\"svg\")}@font-face{font-family:'Open Sans';font-style",
+      "content_type": "image/svg+xml",
+      "bytes": 48631,
+      "sha256": "182b524b2a23de29d4c759d1ce3543e838a36a6fc4b9c1d7edf94de77456bc92",
+      "source_sha256": "182b524b2a23de29d4c759d1ce3543e838a36a6fc4b9c1d7edf94de77456bc92",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-036.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/opensans/open-sans-v18-latin_greek-ext-300.svg",
+      "source_tag": "external-css",
+      "context": "\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-300.woff2\") format(\"woff2\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-300.woff\") format(\"woff\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-300.ttf\") format(\"truetype\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-300.svg#OpenSans\") format(\"svg\")}@font-face{font-family:'Open Sans';font-style:ita",
+      "content_type": "image/svg+xml",
+      "bytes": 47595,
+      "sha256": "5e525cd544778c5ba7723f591720027f5dfa8c62e0a70e40662f11b0b775eca0",
+      "source_sha256": "5e525cd544778c5ba7723f591720027f5dfa8c62e0a70e40662f11b0b775eca0",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-037.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/opensans/open-sans-v18-latin_greek-ext-italic.svg",
+      "source_tag": "external-css",
+      "context": "assets/fonts/opensans/open-sans-v18-latin_greek-ext-italic.woff2\") format(\"woff2\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-italic.woff\") format(\"woff\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-italic.ttf\") format(\"truetype\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-italic.svg#OpenSans\") format(\"svg\")}@font-face{font-family:'Open Sans';font-style:",
+      "content_type": "image/svg+xml",
+      "bytes": 51185,
+      "sha256": "4556d91e00a94a029f8a8cf3ee5d558638d96e79b3fe4229008472158d59d672",
+      "source_sha256": "4556d91e00a94a029f8a8cf3ee5d558638d96e79b3fe4229008472158d59d672",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-038.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/opensans/open-sans-v18-latin_greek-ext-600.svg",
+      "source_tag": "external-css",
+      "context": "\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-600.woff2\") format(\"woff2\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-600.woff\") format(\"woff\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-600.ttf\") format(\"truetype\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-600.svg#OpenSans\") format(\"svg\")}@font-face{font-family:'Open Sans';font-style:nor",
+      "content_type": "image/svg+xml",
+      "bytes": 48365,
+      "sha256": "360ffa0c70f61f241e2c2d24632a122d793b5e92046d58b8799b10e3ad5e1b6f",
+      "source_sha256": "360ffa0c70f61f241e2c2d24632a122d793b5e92046d58b8799b10e3ad5e1b6f",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-039.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/opensans/open-sans-v18-latin_greek-ext-700.svg",
+      "source_tag": "external-css",
+      "context": "\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-700.woff2\") format(\"woff2\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-700.woff\") format(\"woff\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-700.ttf\") format(\"truetype\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-700.svg#OpenSans\") format(\"svg\")}@font-face{font-family:'Open Sans';font-style:ita",
+      "content_type": "image/svg+xml",
+      "bytes": 48234,
+      "sha256": "bcbd8edbb1310379f6aebcd5eccad8657be1bd200df6da61f68ad3183225a36c",
+      "source_sha256": "bcbd8edbb1310379f6aebcd5eccad8657be1bd200df6da61f68ad3183225a36c",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-040.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/opensans/open-sans-v18-latin_greek-ext-700italic.svg",
+      "source_tag": "external-css",
+      "context": "nts/opensans/open-sans-v18-latin_greek-ext-700italic.woff2\") format(\"woff2\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-700italic.woff\") format(\"woff\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-700italic.ttf\") format(\"truetype\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-700italic.svg#OpenSans\") format(\"svg\")}@font-face{font-family:'Open Sans';font-sty",
+      "content_type": "image/svg+xml",
+      "bytes": 50418,
+      "sha256": "ee491e7ee163c7c750d624478e62693dfc4ebe2c635dcd35b31cbe9907d9eb51",
+      "source_sha256": "ee491e7ee163c7c750d624478e62693dfc4ebe2c635dcd35b31cbe9907d9eb51",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-041.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/opensans/open-sans-v18-latin_greek-ext-800.svg",
+      "source_tag": "external-css",
+      "context": "\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-800.woff2\") format(\"woff2\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-800.woff\") format(\"woff\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-800.ttf\") format(\"truetype\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-800.svg#OpenSans\") format(\"svg\")}@font-face{font-family:'Open Sans';font-style:ita",
+      "content_type": "image/svg+xml",
+      "bytes": 48354,
+      "sha256": "ab8ebb57a65c82a81d7e0a861a7c48a0dce8e662e2e7f254ea29453de4fd01ac",
+      "source_sha256": "ab8ebb57a65c82a81d7e0a861a7c48a0dce8e662e2e7f254ea29453de4fd01ac",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-042.svg",
+      "source_url": "https://www.goldcar.es/assets/fonts/opensans/open-sans-v18-latin_greek-ext-600italic.svg",
+      "source_tag": "external-css",
+      "context": "nts/opensans/open-sans-v18-latin_greek-ext-600italic.woff2\") format(\"woff2\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-600italic.woff\") format(\"woff\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-600italic.ttf\") format(\"truetype\"),url(\"/assets/fonts/opensans/open-sans-v18-latin_greek-ext-600italic.svg#OpenSans\") format(\"svg\")}@font-face{font-family:'Open Sans';font-sty",
+      "content_type": "image/svg+xml",
+      "bytes": 50757,
+      "sha256": "c320397e22e022df18011a7d607995499994e3fad46f9ec7ad75a88a4ba86d42",
+      "source_sha256": "c320397e22e022df18011a7d607995499994e3fad46f9ec7ad75a88a4ba86d42",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-043.webp",
+      "source_url": "https://www.goldcar.es/assets/img/background_home/background_14.jpg",
+      "source_tag": "external-css",
+      "context": "der-right{border-color:#000!important}@media (max-width:991px){.crazy-monday .titulo-home-crazy-monday{font-size:50px}}@media (max-width:769px){.crazy-monday .titulo-home-crazy-monday{font-size:40px}}@media (max-width:1070px){.crazy-monday-04{background-image:url(\"/assets/img/background_home/background_14.jpg\")!important}}@media (max-width:769px){.crazy-monday-04{background-image:none!important}}.",
+      "content_type": "image/webp",
+      "bytes": 30472,
+      "sha256": "ecf36ec57d79d6399aa28570b8466023545172aac48beb705318dd4e76323beb",
+      "source_sha256": "3cf0c77c5f87a775d747bbe64e9cdde8d2cc765f3bfbaad34025e26b1c40e664",
+      "dhash": "02607c7c64006000",
+      "width": 1600,
+      "height": 550,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-044.webp",
+      "source_url": "https://www.goldcar.es/assets/img/halloween/telarana.png",
+      "source_tag": "external-css",
+      "context": "nd (min-width:767px){.document-data-upload-form .document-data-upload-form,.document-data-upload-form .document-submit-success{margin-left:-15px;margin-right:-15px}}body.is-halloween{position:relative}@media (min-width:1400px){body.is-halloween:before{content:url(/assets/img/halloween/telarana.png);position:fixed;right:0;top:0}}body.is-halloween .blood:before{content:url(/assets/img/halloween/bloo",
+      "content_type": "image/webp",
+      "bytes": 13476,
+      "sha256": "cd24568df8f15f0be61824dad5eb3d8b0f8abfa49a2ded4523424b9e5d1d5399",
+      "source_sha256": "906a61e6be1ccdbfdabf54b55508b9c367d0a4cfc74a66661693f3fbbbdfbf7a",
+      "dhash": "b183a1a5a1a480a0",
+      "width": 373,
+      "height": 389,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-045.webp",
+      "source_url": "https://www.goldcar.es/assets/img/landingpages/app_degradado.png",
+      "source_tag": "external-css",
+      "context": "h2{font-size:26px;line-height:22px}.landing-app .seccion-1 p{font-size:16px}.landing-app .seccion-2 h3{font-size:22px}.landing-app .seccion-2 p{font-size:13px}.landing-app .seccion-3 p{font-size:16px}}.landing-escanea{background-color:#cddc39;background-image:url(\"/assets/img/landingpages/app_degradado.png\");background-repeat:repeat-x}.landing-escanea .seccion-1{color:#000;margin-top:25px}.landing",
+      "content_type": "image/webp",
+      "bytes": 1536,
+      "sha256": "2a3eec68c30da4918a348f45c82c8020759541a3ae118c9486b4580ae38e2298",
+      "source_sha256": "ab18f4d67b44f6bb252b7b102fe1d34de7d40eaedc6a998060d162e01ea0e8fa",
+      "dhash": "0000000000000000",
+      "width": 1500,
+      "height": 484,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-046.webp",
+      "source_url": "https://www.goldcar.es/assets/img/reserva_incluye_clickngo.png",
+      "source_tag": "external-css",
+      "context": "so-reservas .titulo--upper{text-transform:uppercase}.progreso-reservas .pais{font-style:italic}.ver_politica label.error,.ver_terminos label.error{display:block}.extra.extra-horizontal .enlace-tc{font-style:italic;color:#322ad3}#info-clickngo{background-image:url(/assets/img/reserva_incluye_clickngo.png);background-color:#000;background-repeat:no-repeat;background-position:right;background-size:10",
+      "content_type": "image/webp",
+      "bytes": 21094,
+      "sha256": "ef3aa51d4e03ef1c32afb039da4186a49f47df34f9a7739b9a2f827b2fbc6266",
+      "source_sha256": "38e45df5e0309c5dbc433992fb68e058aa60bff6f224f46d50381f10c66e9504",
+      "dhash": "939624a4322d0f9c",
+      "width": 876,
+      "height": 240,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-047.webp",
+      "source_url": "https://www.goldcar.es/assets/img/click_n_go_availability.png",
+      "source_tag": "external-css",
+      "context": "ifa-dispo .tipo-tarifa .pack15114-background{background-color:#f1e491!important}.new-tarifas-4 .tarifa-dispo .tipo-tarifa .subtitulo-tarifa-Pack15114{line-height:1.3em!important;padding-top:10px;font-size:12px}.new-tarifas-4 .paquete-clickngo{background-image:url(/assets/img/click_n_go_availability.png);background-repeat:no-repeat;background-position:right;background-size:100% 100%;border:1px soli",
+      "content_type": "image/webp",
+      "bytes": 17604,
+      "sha256": "ffc5acdb5160e485688d1e0facbb3295af9e0aae8b5c7af7a0dcd3f08b655a6e",
+      "source_sha256": "65920300675bb6710867697295264c788580d1764797a7bd6773221000c20408",
+      "dhash": "cda9adb5b5b19b9a",
+      "width": 679,
+      "height": 333,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-048.webp",
+      "source_url": "https://www.goldcar.es/assets/img/modal_keyngo.jpg",
+      "source_tag": "external-css",
+      "context": "arUpgrade{margin:0;padding:0;font-size:26px}.modal-upgrade-dispo .dialogUpgradeTest .modal-content hr{margin:0;padding:0}.modal-upgrade-dispo .dialogUpgradeTest .modal-content .btnSelCar{background:#fff;color:#000}.modal-keyngo-dispo .modal-content{background:url(/assets/img/modal_keyngo.jpg);background-size:100% 100%;background-repeat:no-repeat;height:320px}.modal-keyngo-dispo .modal-content .ven",
+      "content_type": "image/webp",
+      "bytes": 8430,
+      "sha256": "0e0f11cca910ccbe87d60b421b275bac6a4bca058bef0676450627afc2c0073a",
+      "source_sha256": "fa40ad54d36d5bbf44ee7a32325993654f767a2e27abe586863e1aa89ed4c76a",
+      "dhash": "d058260616161616",
+      "width": 600,
+      "height": 320,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-049.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/destinos/MAD.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "s=\"img-top coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_5b.png\"/> <img alt=\"Alquiler de coches en Madrid Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destinos/MAD.jpg\"/> <div class=\"text-dest visto title-v2\">Madrid Aeropuerto</div> </a> </div> </div> <div class=\"destino col-sm-4 col-xs-",
+      "content_type": "image/webp",
+      "bytes": 24276,
+      "sha256": "9721f0278cb5d219d4c6c35b1a744dedfe9bf2ee9c3635d71a0f7f3f939d34d6",
+      "source_sha256": "2e2663f84fd05af839da2e88bbdf17a0804299b9606a769eef77966ed82e20b6",
+      "dhash": "21a1b7626333d333",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-050.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_6.png",
+      "source_tag": "html-data, img:image",
+      "context": "ner-img col-sm-12\"> <a class=\"no-style\" href=\"/es-es/alquiler-de-coches/oficinas/espana/barcelona/aeropuerto-barcelona/\"> <img alt=\"Alquiler de coches en Barcelona Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_6.png\"/> <img alt=\"Alquiler de coches en Barcelona Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_destin",
+      "content_type": "image/webp",
+      "bytes": 2144,
+      "sha256": "c74187de478700fd64fd009e057aa6938a61e0db44c29844013940ecf8a1273a",
+      "source_sha256": "eecdb7eb6d00b8e81c0fc4b05df43df7fdea57dfc5045df537e2a076170fbe68",
+      "dhash": "0109092001282800",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-051.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/destinos/BCN.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "img-top coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_6b.png\"/> <img alt=\"Alquiler de coches en Barcelona Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destinos/BCN.jpg\"/> <div class=\"text-dest visto title-v2\">Barcelona Aeropuerto</div> </a> </div> </div> <div class=\"destino col-sm-4 col-",
+      "content_type": "image/webp",
+      "bytes": 49022,
+      "sha256": "cb2da919b79f7797e67020fb2c0b2b76db99987cad9f00b9226143f865405668",
+      "source_sha256": "111904828d60c0ed0ee47e6b31cf22f07706325935aa9f1a1079dd30fd3491b8",
+      "dhash": "c52d1f8d0d3c24b1",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-052.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_7.png",
+      "source_tag": "html-data, img:image",
+      "context": "s=\"no-style\" href=\"/es-es/alquiler-de-coches/oficinas/espana/san-cristobal-de-la-laguna/aeropuerto-tenerife-norte/\"> <img alt=\"Alquiler de coches en Tenerife Norte Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_7.png\"/> <img alt=\"Alquiler de coches en Tenerife Norte Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_d",
+      "content_type": "image/webp",
+      "bytes": 2468,
+      "sha256": "cda3958fec5110868cc028bdf13005db1857d3660426539214c46113364630d5",
+      "source_sha256": "185209aaf916a58462c82bd1c7ed501835d915ab66d97f25fac6c83ed4329083",
+      "dhash": "0105050100313430",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-053.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/destinos/TFN.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "op coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_7b.png\"/> <img alt=\"Alquiler de coches en Tenerife Norte Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destinos/TFN.jpg\"/> <div class=\"text-dest visto title-v2\">Tenerife Norte Aeropuerto</div> </a> </div> </div> <div class=\"destino col-sm-4",
+      "content_type": "image/webp",
+      "bytes": 18500,
+      "sha256": "48783b5cd519466b050308b760a5ead576897b57ea75434eba38c5a16e65f616",
+      "source_sha256": "71fcb58491eb6061f2d293d3a0520eda24e25d2ac55bed839a13e40042bacb53",
+      "dhash": "0977040101040000",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-054.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_8.png",
+      "source_tag": "html-data, img:image",
+      "context": "s=\"container-img col-sm-12\"> <a class=\"no-style\" href=\"/es-es/alquiler-de-coches/oficinas/espana/malaga/aeropuerto-malaga/\"> <img alt=\"Alquiler de coches en Málaga Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_8.png\"/> <img alt=\"Alquiler de coches en Málaga Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_destinati",
+      "content_type": "image/webp",
+      "bytes": 936,
+      "sha256": "da7666af8e8ddc55c627bc6a2defe2c4fd70352a3fd8eda7831771c1c4267014",
+      "source_sha256": "37786d127c509bcc566c7f9f29890508fe2035e2e303328be67edb8d5df57331",
+      "dhash": "0001010001503820",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-055.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_8b.png",
+      "source_tag": "html-data, img:image",
+      "context": "álaga Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_8.png\"/> <img alt=\"Alquiler de coches en Málaga Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_8b.png\"/> <img alt=\"Alquiler de coches en Málaga Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destin",
+      "content_type": "image/webp",
+      "bytes": 1502,
+      "sha256": "aa4ea76856aa50140697e84038d4ee80961edc98f595b11040215f104367af6f",
+      "source_sha256": "8191f3f773d8f7d0dc2d865c0bcdeb7cfacbdd944b6b2571b0c305e5dc11d223",
+      "dhash": "0003030001503820",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-056.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/destinos/AGP.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "s=\"img-top coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_8b.png\"/> <img alt=\"Alquiler de coches en Málaga Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destinos/AGP.jpg\"/> <div class=\"text-dest visto title-v2\">Málaga Aeropuerto</div> </a> </div> </div> <div class=\"destino col-sm-4 col-xs-",
+      "content_type": "image/webp",
+      "bytes": 45544,
+      "sha256": "b221d1c7ed36536dd78789631edd8fc2835a098403367396dde4f297ca59fc56",
+      "source_sha256": "c5f5d74a4e63e0907c2daa7ee266d9576f18b05d5bcf9d8e324b1ca4e6f8c349",
+      "dhash": "0d1b36349acbe7e5",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-057.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/backgrounds/background_home_9.png",
+      "source_tag": "html-data, img:image",
+      "context": "container-img col-sm-12\"> <a class=\"no-style\" href=\"/es-es/alquiler-de-coches/oficinas/espana/sevilla/aeropuerto-sevilla/\"> <img alt=\"Alquiler de coches en Sevilla Aeropuerto\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_9.png\"/> <img alt=\"Alquiler de coches en Sevilla Aeropuerto\" class=\"img-top coloured-icons\" src=\"/assets/img/home/top_destinat",
+      "content_type": "image/webp",
+      "bytes": 1086,
+      "sha256": "83688b5615662becd84bd1f316e35b73d768c359b77cf1e3d2ad366378c4bf6e",
+      "source_sha256": "932025ab6e35cde2b03cb8157b4dddddf9eb63ccac4b9d8fa8f6148196fc7998",
+      "dhash": "0009090001202000",
+      "width": 400,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-058.webp",
+      "source_url": "https://www.goldcar.es/assets/img/home/top_destinations/destinos/SVQ.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "=\"img-top coloured-icons\" src=\"/assets/img/home/top_destinations/backgrounds/background_home_9b.png\"/> <img alt=\"Alquiler de coches en Sevilla Aeropuerto\" class=\"img-top blue\" src=\"/assets/img/home/top_destinations/destinos/SVQ.jpg\"/> <div class=\"text-dest visto title-v2\">Sevilla Aeropuerto</div> </a> </div> </div> </div> </div> </div> <div class=\"ro",
+      "content_type": "image/webp",
+      "bytes": 36468,
+      "sha256": "8c6906db84c069e96010fe5bac0fda19fd06b5d5a5ee242a79f2f91e83f57f02",
+      "source_sha256": "977a9eef99eeab9cc7f4f43ac29f0c0cca73bfd8dcec70879cee3742afe65fc4",
+      "dhash": "8fabe366f23334b9",
+      "width": 350,
+      "height": 350,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/goldcar/reference-059.webp",
+      "source_url": "https://www.goldcar.es/assets/img/landingpages/app_moviles.png",
+      "source_tag": "html-data, img:image",
+      "context": "seccion-apps row\"> <div class=\"col-xs-12 col-sm-6 col-lg-push-6 col-md-push-6 col-sm-push-6 div-mobile-image\"> <img alt=\"Goldcar App movil\" class=\"img-responsive mobile-image\" src=\"/assets/img/landingpages/app_moviles.png\"/> </div> <div class=\"col-xs-12 col-sm-5 text-center info col-lg-pull-4 col-md-pull-5 col-sm-pull-5 col-lg-4\"> <h2 class",
+      "content_type": "image/webp",
+      "bytes": 49190,
+      "sha256": "7b84bce081d3a6c21ec97456f35e8dbe0e8948e19ff5f81a2132204e812a0f08",
+      "source_sha256": "804d41d0b7a8eb2857fee2247a0731e3dd8aa37598fbddaaaf08545e0826f126",
+      "dhash": "9630211132c99cd8",
+      "width": 548,
+      "height": 533,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.goldcar.es/es-es/"
+      ]
     }
   ]
 }

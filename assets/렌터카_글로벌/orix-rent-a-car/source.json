@@ -5,7 +5,18 @@
   "page_url": "https://car.orix.co.jp/",
   "page_title": "【公式】レンタカー予約ならオリックスレンタカー",
   "collection_status": "complete",
-  "collection_error": "",
+  "collection_error": "asset:https://car.orix.co.jp/share/PIE.php:HTTPError; asset:https://fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Regular.woff2:HTTPError; asset:https://fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Regular.woff:HTTPError; asset:https://fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Regular.otf:HTTPError; asset:https://fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Medium.woff2:HTTPError; asset:https://fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Medium.woff:HTTPError; asset:https://fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Medium.otf:HTTPError; asset:https://fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Bold.woff2:HTTPError; asset:https://fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Bold.woff:HTTPError; asset:https://fonts.gstatic.com/ea/notosansjp/v5/NotoSansJP-Bold.otf:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 28,
+    "scripts": 36,
+    "candidates": 359,
+    "attempted_assets": 300,
+    "errors": 10,
+    "collected_at": "2026-09-03T08:38:30.573964+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,3135 @@
       "height": 180
     },
     {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/logo-001.svg",
+      "source_url": "https://car.orix.co.jp/assets/img/common/logo/logo_01.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": " -->\n<header class=\"header\">\n<!-- ここからロゴ -->\n<h1 class=\"header-logo\"><a class=\"header-logo-link\" href=\"https://car.orix.co.jp/\"><img alt=\"オリックスレンタカー\" class=\"header-logo-image\" src=\"https://car.orix.co.jp/assets/img/common/logo/logo_01.svg\"/></a></h1>\n<!-- /ここまでロゴ -->\n<!-- ここからヘッダーメニュー -->\n<ul class=\"header-utility\">\n<li class=\"header-utility-item s-min-for-",
+      "content_type": "image/svg+xml",
+      "bytes": 248238,
+      "sha256": "d08c6b8a099ddfb078ce459f9cfd099e3b1fc886784565f947880460c1918c11",
+      "source_sha256": "d08c6b8a099ddfb078ce459f9cfd099e3b1fc886784565f947880460c1918c11",
+      "dhash": "",
+      "width": 579,
+      "height": 133,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4",
+        "https://car.orix.co.jp/order_fm/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-001.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/michinoeki_tohoku_2026spring.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "n-campaign-block\" href=\"https://car.orix.co.jp/campaign/michinoeki_tohoku_2026spring.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【東北限定】道の駅お買い物券付きキャンペーン ! 2026年春夏\" src=\"https://car.orix.co.jp/camps_image_bnr/michinoeki_tohoku_2026spring.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【東北限定】道の駅お買い物券付きキャンペーン ! 2026年春夏</p",
+      "content_type": "image/webp",
+      "bytes": 80378,
+      "sha256": "8358b40787feadd3bdd74b11101d2403939d93ac82560f4aebf9849ba52ce8eb",
+      "source_sha256": "c314afb391e4ed190c81b3b53f7f469589fa095f23f2e48ce815d5900bb2e88d",
+      "dhash": "e52791b2aad54d69",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-002.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/fuji_q_2026summer.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "l--tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/fuji_q_2026summer.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"レンタでFuji-Q 夏\" src=\"https://car.orix.co.jp/camps_image_bnr/fuji_q_2026summer.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">レンタでFuji-Q 夏</p>\n</div>\n<div class=",
+      "content_type": "image/webp",
+      "bytes": 89182,
+      "sha256": "fe9fb544f5f8e07bbaafdd602d2e75117a838142fcc2af8b3335d7ed62392b03",
+      "source_sha256": "7d44ba6094f22b9146d83a10650841984c27c6c9fa0abe6cb6f0e71359c21f15",
+      "dhash": "844c48edd6b08661",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-003.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/rentacar_self02_honshu.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mn-campaign-block\" href=\"https://car.orix.co.jp/campaign/rentacar_self02_honshu04.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【セルフ貸出プラン】免責補償・安心パック込み (本州 : 4月～9月)\" src=\"https://car.orix.co.jp/camps_image_bnr/rentacar_self02_honshu.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【セルフ貸出プラン】免責補償・安心パック込み (本州 : 4月～9月)",
+      "content_type": "image/webp",
+      "bytes": 39972,
+      "sha256": "f84f1f817a376aa662503ce3502dfdfb20ffac04b09dbc1c667d2f9dd3d22de1",
+      "source_sha256": "6eb2f5d081ae1a78d58c88a7f379ceebd8a6c54377727d99cc9ba35dcca200c7",
+      "dhash": "9b9b5bdb5b9b9696",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-004.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/michinoeki_hokkaido_2026autumn.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mpaign-block\" href=\"https://car.orix.co.jp/campaign/michinoeki_hokkaido_2026autumn.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【北海道エリア】道の駅お買い物券付きキャンペーン ! ～2026秋～\" src=\"https://car.orix.co.jp/camps_image_bnr/michinoeki_hokkaido_2026autumn.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【北海道エリア】道の駅お買い物券付きキャンペーン ! ～2026秋～<",
+      "content_type": "image/webp",
+      "bytes": 80264,
+      "sha256": "898700fa5045761f51993247d6e376fa51168419ce3ffbead5184fcc680416ec",
+      "source_sha256": "23c7a7199604988882479eba443710bb505a2d7446c79f80acaef33b70a6ee8e",
+      "dhash": "8d8e55b3ab974d4b",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-005.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/fuji_q_2026summer_onsen.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/fuji_q_2026summer_onsen.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"レンタでFuji-Q+ふじやま温泉 夏\" src=\"https://car.orix.co.jp/camps_image_bnr/fuji_q_2026summer_onsen.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">レンタでFuji-Q+ふじやま温泉 夏</p>\n</div>\n<div",
+      "content_type": "image/webp",
+      "bytes": 90214,
+      "sha256": "fd2bbe15c8a1755aba66dd832758494e6bfa915d781e37924a7b8be19dbefd22",
+      "source_sha256": "422ee28ea451a6a6199b2e5615d65cd8a32e09b8667c639068cfbe8df4b45567",
+      "dhash": "844c48edd6d06661",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-006.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/michinoeki_shikoku_2026spring.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "-campaign-block\" href=\"https://car.orix.co.jp/campaign/michinoeki_shikoku_2026spring.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【四国限定】道の駅お買い物券付きキャンペーン ! 2026年春夏\" src=\"https://car.orix.co.jp/camps_image_bnr/michinoeki_shikoku_2026spring.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【四国限定】道の駅お買い物券付きキャンペーン ! 2026年春夏</p",
+      "content_type": "image/webp",
+      "bytes": 69352,
+      "sha256": "c79dd6142e4e8d95bf42a1a340e64d6e43e1f9f86c4244978d4d1b232ce40255",
+      "source_sha256": "5c15d3c97222d2e7af6aedb5ebdef23143fce706cd19b5188a41669eff4ad77e",
+      "dhash": "b99696a20a964c72",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-007.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/haya2026_spring_honshu3.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/haya2026_spring_honshu3.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【早予約14-3】本州+四国 春夏のレンタカースペシャル\" src=\"https://car.orix.co.jp/camps_image_bnr/haya2026_spring_honshu3.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【早予約14-3】本州+四国 春夏のレンタカースペシャル</p>\n</",
+      "content_type": "image/webp",
+      "bytes": 42616,
+      "sha256": "0999dc99e0470056134f6f38efd8d38df012c27634ae1071d4a099131420c720",
+      "source_sha256": "412bcae371717dedbad0e6a938fae67bb37afa164f72be7997cfa8a9524add80",
+      "dhash": "3179292b6644cd5b",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-008.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/michinoeki_hokkaido_2026winter.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mpaign-block\" href=\"https://car.orix.co.jp/campaign/michinoeki_hokkaido_2026winter.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【北海道エリア】道の駅お買い物券付きキャンペーン ! ～2026冬～\" src=\"https://car.orix.co.jp/camps_image_bnr/michinoeki_hokkaido_2026winter.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【北海道エリア】道の駅お買い物券付きキャンペーン ! ～2026冬～<",
+      "content_type": "image/webp",
+      "bytes": 81262,
+      "sha256": "66b10a46dc1a337f600292a7cf25ac11b7df6c5e490aa1bac06655441c196a5f",
+      "source_sha256": "d52204862346d596ecd85abad509bd0989e6582f9d84fe2374e128f78e9f3142",
+      "dhash": "8d8e54b3ab964f4d",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?opg=3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-009.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/harmonyland2026.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "col--tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/harmonyland2026.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"レンタでハーモニーランド\" src=\"https://car.orix.co.jp/camps_image_bnr/harmonyland2026.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">レンタでハーモニーランド</p>\n</div>\n<div class=",
+      "content_type": "image/webp",
+      "bytes": 48956,
+      "sha256": "400ffcf79682a22f60a5d252b0f860a79a83b60b6d42d9ff76a0a87f204aa5ed",
+      "source_sha256": "730eb16ddad15761564b994703c59b9f179ac24dfe875308fd6362a08bc6cce3",
+      "dhash": "b9d3c6d4d9392e26",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-010.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/michinoeki_chugoku_2026spring.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "-campaign-block\" href=\"https://car.orix.co.jp/campaign/michinoeki_chugoku_2026spring.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【中国限定】道の駅お買い物券付きキャンペーン ! 2026年春夏\" src=\"https://car.orix.co.jp/camps_image_bnr/michinoeki_chugoku_2026spring.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【中国限定】道の駅お買い物券付きキャンペーン ! 2026年春夏</p",
+      "content_type": "image/webp",
+      "bytes": 84894,
+      "sha256": "2121b9349790f28c7deb3a1b88eff690d67905bfeff370acef29b6e7f82237f6",
+      "source_sha256": "fe010ff722fdf6b4e60467e74e162928f448fe02992923a503183e90fdd26fc8",
+      "dhash": "290b93aaaf0f6e2b",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-011.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2025101701_alphard.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "st-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2025101701_alphard.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"羽田空港店からの発着でお得にレンタル ! アルファード指定スペシャルプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2025101701_alphard.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">羽田空港店からの発着でお得にレンタル ! アルファード指定スペシャルプ",
+      "content_type": "image/webp",
+      "bytes": 48788,
+      "sha256": "064a5065de1ffb1a85f8393c364755df1fb5eba274eda132fb51dc5448a783f0",
+      "source_sha256": "8a5c40cabbbbb2430789739dd70cc6aaffb8f3bebc474a20b7d68071b1b923e1",
+      "dhash": "3f1f5d1f3b937b3b",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-012.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/rentacar_self02.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "paign-block\" href=\"https://car.orix.co.jp/campaign/rentacar_self02_honshu05.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【セルフ貸出プラン】免責補償・安心パック込み、満タン不要 (本州 : 4月～9月)\" src=\"https://car.orix.co.jp/camps_image_bnr/rentacar_self02.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【セルフ貸出プラン】免責補償・安心パック込み、満タン不要 (本州 : ",
+      "content_type": "image/webp",
+      "bytes": 40306,
+      "sha256": "3f65b3a41c607a76c7b5c4454f20df614d87559edc763e0d5c1cf815dcf216eb",
+      "source_sha256": "71e29f7edbcad4c8713dd27f80197fda0deab3d05d89ac9691623c4839e29b2e",
+      "dhash": "9b9b5bdb5b9b9096",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-013.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/haya2026_spring_honshu2.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ss=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/haya2026_spring_honshu2.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【早予約15】本州+四国 春夏のレンタカースペシャル\" src=\"https://car.orix.co.jp/camps_image_bnr/haya2026_spring_honshu2.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【早予約15】本州+四国 春夏のレンタカースペシャル</p>\n</di",
+      "content_type": "image/webp",
+      "bytes": 42482,
+      "sha256": "14a1660d592ec10eda1657802b983369f83788b7a23f6906bc81ab5733b9132b",
+      "source_sha256": "6dab54d9b44691bc343ddc72c671c5b74cc1b916ef77cf2a2f20bcbef8daf677",
+      "dhash": "1959293b6644cd5b",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-014.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026041701_ferrypon.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "st-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026041701_ferrypon.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"津軽海峡フェリーご利用のお客さま限定 ! フェリポンレンタカープラン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026041701_ferrypon.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">津軽海峡フェリーご利用のお客さま限定 ! フェリポンレンタカープラン ",
+      "content_type": "image/webp",
+      "bytes": 57564,
+      "sha256": "8a599024d06152271d54563e20102fcc0474161ed9dd65efa18fb746df2cf156",
+      "source_sha256": "0fe5cc2a7d7345c9367c919dd6d72ec8ee5706cdd21f3d9093dc441fba2a814d",
+      "dhash": "6d2533838f1f27cc",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-015.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026013002_10peroff.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4489\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"直前でも連休でも ! いつでも10%OFFキャンペーン春夏\" src=\"https://car.orix.co.jp/camps_image_bnr/2026013002_10peroff.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">直前でも連休でも ! いつでも10%OFFキャンペーン春夏</p>\n<",
+      "content_type": "image/webp",
+      "bytes": 26450,
+      "sha256": "3af7537f2ddc1094956b1b88dca8bec38edbe561229870387099c6359030d701",
+      "source_sha256": "d5ef1c7023b6ea51017c009cb3a8795b62c9dbd26fb9bb74f6fc0230b995555b",
+      "dhash": "0bcecc9dc66d6c4e",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-016.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/summerland2026_summerA.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/summerland2026_summerA.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"レンタでサマーランド2026夏【A期間】\" src=\"https://car.orix.co.jp/camps_image_bnr/summerland2026_summerA.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">レンタでサマーランド2026夏【A期間】</p>\n</div>\n<di",
+      "content_type": "image/webp",
+      "bytes": 66966,
+      "sha256": "538609381e69bb1f7ca87d0f905809baad9e2eb9793f516ff21af81de4a48f56",
+      "source_sha256": "c4152354639baa2f8867ce8e31007db7da55564cc2571aa6547c0cd18526546e",
+      "dhash": "3b6b6e2e3b929492",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-017.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026052905_hkd_omakase.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4653\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"北海道限定 ! 5名乗り無指定プラン ～2026秋～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026052905_hkd_omakase.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">北海道限定 ! 5名乗り無指定プラン ～2026秋～</p>\n</di",
+      "content_type": "image/webp",
+      "bytes": 32124,
+      "sha256": "c69e89f843780d776b1bd6a2df24ffa5c9c3c695bd2b1f2ffaabcf08ee50eaa0",
+      "source_sha256": "5666a225223d803041b64ce8cb7a043fae402b9ad0e5bbb353b9e180e65f130a",
+      "dhash": "69697a269e59391c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-001.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_rentacar_selfLP_pc.jpg?v=250711",
+      "source_tag": "source:banner, source:image",
+      "context": "source picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 79898,
+      "sha256": "e235445f85fb4884b497341d8bd69b177f63dc3f181679ec3e5516a1529c0c51",
+      "source_sha256": "cef0772ae94402f36681bab9cf8da17a81b6a6f23dc301e57170ce0dba0d107d",
+      "dhash": "2d0f0fcf9f0d2d3f",
+      "width": 1280,
+      "height": 810,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-018.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/haya2026_springLP.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "<li class=\"list-cmn-campaign-item\">\n<a class=\"list-cmn-campaign-block\" href=\"/campaign/haya2026_springLP.html\">\n<figure class=\"list-cmn-campaign-head\"><img alt=\"春夏のレンタカースペシャル\" src=\"/camps_image_bnr/haya2026_springLP.jpg\"/></figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">春夏のレンタカースペシャル</p>\n<p class=\"list-cmn",
+      "content_type": "image/webp",
+      "bytes": 49790,
+      "sha256": "55d13c1504bdd6673229f033e43a1a7cb97df15ea1d3f68c8a084bbd653365c5",
+      "source_sha256": "cad842540ada2668761ec4bd9954856b8c9700d0ddb25f8746b9a925251044c2",
+      "dhash": "5969692b6244cd5b",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-019.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/awaji_appleland_2026summer.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "n-campaign-block\" href=\"https://car.orix.co.jp/campaign/awaji_appleland_2026summer.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"レンタでAWAJI HELLO KITTY APPLE LAND 夏\" src=\"https://car.orix.co.jp/camps_image_bnr/awaji_appleland_2026summer.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">レンタでAWAJI HELLO KITTY APPLE LAND 夏<",
+      "content_type": "image/webp",
+      "bytes": 51190,
+      "sha256": "fa2b5a4ad8aeebf2c858e8789e78736eca454e761bf684b1cd5a39b9acfce0d4",
+      "source_sha256": "7c5cd2deaccfadbcc3125188ae9003700c42651072fe109d049bd5ce9aad89fd",
+      "dhash": "1e1f98517131b0b3",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-020.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/michinoeki_kyushu_2026spring.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "n-campaign-block\" href=\"https://car.orix.co.jp/campaign/michinoeki_kyushu_2026spring.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【九州限定】道の駅お買い物券付きキャンペーン ! 2026年春夏\" src=\"https://car.orix.co.jp/camps_image_bnr/michinoeki_kyushu_2026spring.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【九州限定】道の駅お買い物券付きキャンペーン ! 2026年春夏</p",
+      "content_type": "image/webp",
+      "bytes": 75850,
+      "sha256": "f2e609bd76f5c664ae5cdd629549ea1145af4e0df141095d0606d553bb2b6942",
+      "source_sha256": "73fdcdc2bba45b0acecd01523524cfc44efb8eeaf45c956a85b2b03e896f5cb4",
+      "dhash": "33f373a22bd68c24",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=3"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-021.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022701_japanesecar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "aign-block\" href=\"https://car.orix.co.jp/campaign/2026022701_japanesecar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"2026春 国産高級車体感プラン ～ワンランク上のモビリティで楽しむ特別なドライブ体験～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022701_japanesecar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">2026春 国産高級車体感プラン ～ワンランク上のモビリティで楽しむ特",
+      "content_type": "image/webp",
+      "bytes": 46158,
+      "sha256": "9aeaecd087f6e777089d34e293cf1c5fb8d54b8739c7ac9beced173874c2b956",
+      "source_sha256": "ee48002411d2c1313265bcb618f98c351b82c11538f74df689c71387cea80016",
+      "dhash": "0f1f1f47f1b1d1e9",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-022.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026032705_classomakase.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4590\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"～クラスお任せ～ 5人乗り以上 !! 禁煙車限定 !! 2026春夏お得なドライブプラン !!\" src=\"https://car.orix.co.jp/camps_image_bnr/2026032705_classomakase.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">～クラスお任せ～ 5人乗り以上 !! 禁煙車限定 !! 2026春夏お",
+      "content_type": "image/webp",
+      "bytes": 30256,
+      "sha256": "9b92ae8096e9058cf1ab9d97426d6a7b1518fc4444fa49c3fc9d0e24f657c4cc",
+      "source_sha256": "83ea79d02e8b91579cbbf6a257abdbd5dd1bb78dee9ea094816d1f484a6b8968",
+      "dhash": "698bcfc99931ad85",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-002.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_rentacar_selfLP_sp.jpg?v=250711",
+      "source_tag": "img:banner, img:image",
+      "context": "img オリックスレンタカーのセルフ貸出プラン picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 78768,
+      "sha256": "9a171cfa4e12830d1da65bb7df04f193a6bc1001c37e675c65a0c8a3ae8afc0e",
+      "source_sha256": "96c43439d07bad2c8fce7b323eb6b242ecd45480c41918fb5d7f453e68691a3c",
+      "dhash": "9b9b5b5b5b9a1896",
+      "width": 1280,
+      "height": 567,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-023.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/michinoekiLP.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ">\n<li class=\"list-cmn-campaign-item\">\n<a class=\"list-cmn-campaign-block\" href=\"/campaign/michinoekiLP.html\">\n<figure class=\"list-cmn-campaign-head\"><img alt=\"道の駅お買い物券付きキャンペーン\" src=\"/camps_image_bnr/michinoekiLP.jpg\"/></figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">道の駅お買い物券付きキャンペーン</p>\n<p class=\"list-",
+      "content_type": "image/webp",
+      "bytes": 84188,
+      "sha256": "e5fa139b6d79c2cabda08e3d61e429310275db14ea2076e7dc5aa166419a5954",
+      "source_sha256": "c5ec383786c9a9d539d12e0e9cc6c287b4f06b0db3071359a43e850b1d77c16e",
+      "dhash": "cacc362a16858d63",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-024.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/sagamikoresort2026_spring.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/sagamikoresort2026_spring.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"レンタでさがみ湖 MORI MORI 春夏\" src=\"https://car.orix.co.jp/camps_image_bnr/sagamikoresort2026_spring.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">レンタでさがみ湖 MORI MORI 春夏</p>\n</div>\n<d",
+      "content_type": "image/webp",
+      "bytes": 90322,
+      "sha256": "88b7f9c6b5c8fdd0c14c3962d8d43672dd1dfa7f64943f9db844403e6e9eea05",
+      "source_sha256": "f4fea918dc3f28b682dfb3289ce26d1d223b09a1c1cbfcfeeda0e696d6731096",
+      "dhash": "6ce8ab656409a970",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-025.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022702_importedcar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mpaign-block\" href=\"https://car.orix.co.jp/campaign/2026022702_importedcar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"2026春 輸入車体感プラン ～ワンランク上のモビリティで楽しむ特別なドライブ体験～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022702_importedcar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">2026春 輸入車体感プラン ～ワンランク上のモビリティで楽しむ特別な",
+      "content_type": "image/webp",
+      "bytes": 36414,
+      "sha256": "e56c8c0d71fa92b648342699098030bbe1b29d754830fbdf290583e0957496b8",
+      "source_sha256": "04bf594887c24221ee49a6ef143efd04a5d36acf54f7aa72c3e114da2792b8fc",
+      "dhash": "0dc51f8dc76d29f1",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-026.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026052904_hkd_hybrid.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4651\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"北海道限定 ! 人気のハイブリッド車が勢ぞろい ! ～2026秋～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026052904_hkd_hybrid.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">北海道限定 ! 人気のハイブリッド車が勢ぞろい ! ～2026秋～</",
+      "content_type": "image/webp",
+      "bytes": 34254,
+      "sha256": "316dbe8d9153cecc1c7c290fd53e32cfb5f2e9a84be016d50a6a01e4cd6d1e8d",
+      "source_sha256": "3861ebc8f9f619b5d0a024ce3f9b4dcc33c533bcbc441ebfc29ea13c2d06c717",
+      "dhash": "ec6d5d9fefd6c5ec",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-027.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031304_jimny.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026031304_jimny.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"東戸塚駅前店・湘南台駅前店限定 ジムニー体感プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031304_jimny.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">東戸塚駅前店・湘南台駅前店限定 ジムニー体感プラン</p>\n</div",
+      "content_type": "image/webp",
+      "bytes": 38674,
+      "sha256": "4743550d9b3375e13f10a22f291823513b1b66ace600fa2394fa4722097b98d4",
+      "source_sha256": "13da7d18e2bb911df82d1bd94cc73456adb7c7774a302abeea2c6bdefa6f9773",
+      "dhash": "0ef1d8d86d3353c7",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-028.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071703_hkd_omakase.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4683\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"北海道限定 ! 5名乗り無指定プラン ! 全車4WD・スタッドレスタイヤ標準装備 ! ～2026冬～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071703_hkd_omakase.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">北海道限定 ! 5名乗り無指定プラン ! 全車4WD・スタッドレスタイ",
+      "content_type": "image/webp",
+      "bytes": 39742,
+      "sha256": "2033e43fca633c7093b56a8c2c29cd8078b52a4091b5d7735fecef72076185b1",
+      "source_sha256": "27706395ddaf07cbe479304a7e5189d906eecafb7113c8ed5e7c97a8fa51a70f",
+      "dhash": "6e6a7a26de59393c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-003.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_harmonyland2026_pc.jpg",
+      "source_tag": "source:banner, source:image",
+      "context": "source picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 79274,
+      "sha256": "77dec921a203c40ac1d9edc453c96274f8c539307d658d0c1f8648ce1e3fd695",
+      "source_sha256": "37343878cb8a850465330d0e48cde7ef747b5b0848cf52b135edbc28758db9b3",
+      "dhash": "12ad8d9628699962",
+      "width": 1280,
+      "height": 810,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-029.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026032702_alphard.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026032702_alphard.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"アルファード (Zグレード7人乗り) 限定プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026032702_alphard.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">アルファード (Zグレード7人乗り) 限定プラン</p>\n</div>",
+      "content_type": "image/webp",
+      "bytes": 18474,
+      "sha256": "d24aa5fd556147a2fb9b89e2da6c89a70e44e6ff638e8912ce3a5ae81b49dd3f",
+      "source_sha256": "8405c91daad93b89a344eb42fbe8e551e2488f97f5e990cecdf8262b46cb7632",
+      "dhash": "39c3c64ddacace05",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-030.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071708_hkd_hybrid.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4688\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"北海道限定 ! 人気のハイブリッド車が勢ぞろい ! 全車4WD・スタッドレスタイヤ標準装備 ! ～2026冬～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071708_hkd_hybrid.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">北海道限定 ! 人気のハイブリッド車が勢ぞろい ! 全車4WD・スタッ",
+      "content_type": "image/webp",
+      "bytes": 46404,
+      "sha256": "38679040f2c95fe66f22707063bfd8e3a5809a0607248141db5ed6809fbe71a5",
+      "source_sha256": "7bb1521e9da23152ae8158c54722ee6da7e59f3ccbaf782b462b57372ff2baaf",
+      "dhash": "97696d9ffb6d45eb",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-031.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026082101_aomori.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4717\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【けえってこい青森 ! 青森駅前店発着限定割プラン】\" src=\"https://car.orix.co.jp/camps_image_bnr/2026082101_aomori.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【けえってこい青森 ! 青森駅前店発着限定割プラン】</p>\n</di",
+      "content_type": "image/webp",
+      "bytes": 47868,
+      "sha256": "cec879ccd4a0cdf86770d5e1bbebf84fc6bcb0c3c69824ad31ac060ff005e7aa",
+      "source_sha256": "cc365f02f3a3dbd75196e9e58067d68bef1763ffcfb4b21606ab5bfd9462f740",
+      "dhash": "df97974f16969416",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-004.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_harmonyland2026_sp.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img レンタでハーモニーランド picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 149008,
+      "sha256": "0931b04d3f2f25d6d65962f7c2c76ffc5fc8f8bcbd5041b4cb2981c24a487a49",
+      "source_sha256": "8b0a03f6d8691d2e603a191980ac7a9f2da2259b61e53d9b39220704f07152fa",
+      "dhash": "b952c2c755d94b2a",
+      "width": 1280,
+      "height": 567,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-032.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026051502_jimny.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "l--tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026051502_jimny.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"ジムニー Enjoyプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026051502_jimny.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">ジムニー Enjoyプラン</p>\n</div>\n<div class",
+      "content_type": "image/webp",
+      "bytes": 33010,
+      "sha256": "dc6b5d2389b3fadd138e859c776b1f3c56ced906e1041c76f1665b797eecbaa0",
+      "source_sha256": "d2f9410dd3360dad532682e41c92f90b8fbb3555249d367a87a6d0900682991b",
+      "dhash": "938e3ca41af93534",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-033.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071006_suv.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "st-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026071006_suv.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【期間限定】最大40%OFF !! 夏～秋のお出かけに ! SUV無指定プラン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071006_suv.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【期間限定】最大40%OFF !! 夏～秋のお出かけに ! SUV無指",
+      "content_type": "image/webp",
+      "bytes": 27802,
+      "sha256": "1e76fcd7c9e5d2e487b890167ab3196a3cc0dda5119b00af3169bbb81ce8cd76",
+      "source_sha256": "0ba4888977182c81de4c698ae2083999dedad2634711698da07655f254a940ee",
+      "dhash": "f8dcce9ba5c4fc78",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/logo-002.svg",
+      "source_url": "https://car.orix.co.jp/assets/img/common/logo/logo_orix_auto.svg",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": " -->\n<!-- ここから概要 -->\n<div class=\"footer-overview\">\n<div class=\"contents-frame\">\n<p class=\"footer-overview-logo\"><img alt=\"ORIX オリックス自動車株式会社\" class=\"footer-overview-logo-image\" src=\"https://car.orix.co.jp/assets/img/common/logo/logo_orix_auto.svg\"/></p>\n<ul class=\"footer-overview-list\">\n<li class=\"footer-overview-list-item\"><a class=\"footer-overview-list-link\" href",
+      "content_type": "image/svg+xml",
+      "bytes": 5975,
+      "sha256": "34d2b2fa8551f2331a604d93eee1e6b39cf0a2c74d659b39d7a8e55ee2ee3e6c",
+      "source_sha256": "34d2b2fa8551f2331a604d93eee1e6b39cf0a2c74d659b39d7a8e55ee2ee3e6c",
+      "dhash": "",
+      "width": 215,
+      "height": 22,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4",
+        "https://car.orix.co.jp/order_fm/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-034.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/fuji_qLP.jpg?v=260601",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\n</a>\n</li>\n<li class=\"list-cmn-campaign-item\">\n<a class=\"list-cmn-campaign-block\" href=\"/campaign/fuji_qLP.html\">\n<figure class=\"list-cmn-campaign-head\"><img alt=\"レンタでFuji-Q\" src=\"/camps_image_bnr/fuji_qLP.jpg?v=260601\"/></figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">レンタでFuji-Q</p>\n<p class=\"list-cmn-ca",
+      "content_type": "image/webp",
+      "bytes": 88678,
+      "sha256": "4a942175fe8b7ffa117af268ad45b184b90113880918e900026205c932f1fbfe",
+      "source_sha256": "e953a24ec642ebe26b5b4a812c5ff24f0f39b5201e0f594b7aa91aa592fbaa94",
+      "dhash": "844c5cedd6b08661",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-035.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026051503_suv.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "--tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026051503_suv.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"SUVドライブ Enjoyプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026051503_suv.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">SUVドライブ Enjoyプラン</p>\n</div>\n<div cl",
+      "content_type": "image/webp",
+      "bytes": 28832,
+      "sha256": "ceb7f6d771b6a48933d53c1fb280bdd02a40ba9f5567be9a0dbefdeecf56876d",
+      "source_sha256": "ff5b735d253a1fb34fe1f5e5021706ff8893bc4a0dcd6e7f8b019a6ad78ec722",
+      "dhash": "938f38a002da8eac",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-036.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026060503_hakodate.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4657\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"函館・旭川エリア発着限定 ! 夏～秋のお出かけに ! コンパクトカープラン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026060503_hakodate.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">函館・旭川エリア発着限定 ! 夏～秋のお出かけに ! コンパクトカープ",
+      "content_type": "image/webp",
+      "bytes": 48682,
+      "sha256": "d3ac973c294543b7d76bd5d8d30671d6c703a1b0349bf5b377463e831163d3b9",
+      "source_sha256": "1af08312005ddd34c96ae6e5f3cf709ffb79ef8204cc8aa536a69c9d770e80b9",
+      "dhash": "0f25b4b066420940",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-005.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_haya2026_spring_pc.jpg",
+      "source_tag": "source:banner, source:image",
+      "context": "source picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 89770,
+      "sha256": "47873a358c37347075d727749d3d7944aea374dc122c76feb65d594f67784823",
+      "source_sha256": "15fd1a4a06243b2a7dd6aa7155981b5b4a0ba68a78c853731952a35de0d11caa",
+      "dhash": "99091909575dd99c",
+      "width": 1280,
+      "height": 810,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-037.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026051504_yaris.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026051504_yaris.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"ヤリスクロスハイブリッド Enjoyプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026051504_yaris.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">ヤリスクロスハイブリッド Enjoyプラン</p>\n</div>\n<d",
+      "content_type": "image/webp",
+      "bytes": 32628,
+      "sha256": "dbe38c24713021211665b55cc40b1ee900da4b3e11fb8a87c80907cd3b5b76d7",
+      "source_sha256": "3fa8a26c08f138ccb3597322b704b10ca64d4337a620448ab4be44d38eb2db56",
+      "dhash": "938f38a81ceb6a70",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-006.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_haya2026_spring_sp.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img 春夏のレンタカースペシャル picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 94354,
+      "sha256": "55323627c1c15312867b2c7c6deaa5ae3fb416e2a5270d1c2e2d4f646550f8ff",
+      "source_sha256": "5d17cff054b6dca24231c63400c9c607622a5f4e58c9562c29d722161f83c8bc",
+      "dhash": "5939296c64e4cd5a",
+      "width": 1280,
+      "height": 567,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-038.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026051505_volkswagen.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "2\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026051505_volkswagen.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"フォルクスワーゲン Enjoyプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026051505_volkswagen.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">フォルクスワーゲン Enjoyプラン</p>\n</div>\n<div ",
+      "content_type": "image/webp",
+      "bytes": 32290,
+      "sha256": "d959764a8b621b100a7c5285fc5b9cd157b47e3659df75c59fbcd3389b969ff8",
+      "source_sha256": "f8447e28f89d47d4697e4c42121ee126159121ad0ea5d108c4c5c8f57be0d79d",
+      "dhash": "938f38b076633a38",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-039.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071702_oki_ev.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "campaign-block\" href=\"https://car.orix.co.jp/campaign/2026071702_oki_ev.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"満充電不要・免責補償料込み ! 店舗発着限定 電気自動車体感プラン !! (9月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071702_oki_ev.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">満充電不要・免責補償料込み ! 店舗発着限定 電気自動車体感プラン !",
+      "content_type": "image/webp",
+      "bytes": 30826,
+      "sha256": "b8571f96c581bbe8d9e6e1090152d948a34d29c5196c079c26be7bc89f2b3ae0",
+      "source_sha256": "7df11489af62d3e36c51816aae345df4bd595f9884882aed6efc65366c37739b",
+      "dhash": "650f0f1711028643",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-007.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_yanase_rentacar_pc.jpg?v=251107",
+      "source_tag": "source:banner, source:image",
+      "context": "source picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 193004,
+      "sha256": "e140a40a0c4f58c88c231e4ab7b8786a0acb22af1928171a159e6b0b9731b3c3",
+      "source_sha256": "e0a2d6cfd9b3695a667eef8752d5818545e04df827dc3de792bec7be0a0369d8",
+      "dhash": "75539b4b2b326c75",
+      "width": 1280,
+      "height": 810,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-040.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071704_alphard.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "st-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026071704_alphard.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"ALPHARD 7人乗スペシャルプライスプラン (2026年7月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071704_alphard.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">ALPHARD 7人乗スペシャルプライスプラン (2026年7月～12",
+      "content_type": "image/webp",
+      "bytes": 21126,
+      "sha256": "93da6b43935f5190060323b1b08c2c721eeccc8cf847bd8c8b374c93a06a0d40",
+      "source_sha256": "a8400aa121db53cc99dc8d8f20d1673c0c9cf8a21e41048978533be8f76a6623",
+      "dhash": "e1d9090d2f6f4c70",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-008.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_yanase_rentacar_sp.jpg?v=251107",
+      "source_tag": "img:banner, img:image",
+      "context": "img 『YANASEのレンタカー』選べる輸入車、上質なドライブをレンタカーで体感（※外部サイトへ遷移します） picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
+      "content_type": "image/webp",
+      "bytes": 145198,
+      "sha256": "b317762483f7cba255cab60d10ec81d9207702fecda286dc8a58a9a3b6612dee",
+      "source_sha256": "37ca4a498a77da4ed0bac96eb3e4c63bb1e2c898175b0532a082d63002cb5f06",
+      "dhash": "a3b2f091d34bdfdd",
+      "width": 1280,
+      "height": 567,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-041.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026080706_bz4x.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4714\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"電気自動車「bZ4X」 Enjoyプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026080706_bz4x.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">電気自動車「bZ4X」 Enjoyプラン</p>\n</div>\n<di",
+      "content_type": "image/webp",
+      "bytes": 29764,
+      "sha256": "bd149e96bc6a581e2b50db21302931b3c93f2e47644891deb408bc6a7cebc1ad",
+      "source_sha256": "aa0c675c7c44afa67c1dbdd262865694b574665cd90a5615fad6a7212ff5f400",
+      "dhash": "938f38a818d96968",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-042.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026081701_axiohybrid.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4715\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"那覇空港アネックス店発着限定!低燃費でお得なカローラアクシオハイブリッドプラン!\" src=\"https://car.orix.co.jp/camps_image_bnr/2026081701_axiohybrid.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">那覇空港アネックス店発着限定!低燃費でお得なカローラアクシオハイブリッ",
+      "content_type": "image/webp",
+      "bytes": 29942,
+      "sha256": "316207d843acd932b91633bd1908d7110ae65c8c2f9ae39692225e1fd8b91c2c",
+      "source_sha256": "a62edc293a2d5d59170cd60a4450d0fff8f10d70a2321173ff320d8b679a1459",
+      "dhash": "68839a9a7b3ab842",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-043.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022703_sportscar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "paign-block\" href=\"https://car.orix.co.jp/campaign/2026022703_sportscar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"2026春 スポーツカー体感プラン ～ワンランク上のモビリティで楽しむ特別なドライブ体験～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022703_sportscar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">2026春 スポーツカー体感プラン ～ワンランク上のモビリティで楽しむ",
+      "content_type": "image/webp",
+      "bytes": 39794,
+      "sha256": "86540013fddb232277c0bd610dde3379522944ec151a1b31463e7828907c14e7",
+      "source_sha256": "1cfaa2f213daa9c5b13ac38df1e1468eb33bbfd7d68547368a1ec186adf892cb",
+      "dhash": "0b091f4d67d999b1",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-044.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022704_sportscar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "st-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026022704_sportscar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"出発の7日前から指定予約OK ! スポーツカー推し活プラン 2026春\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022704_sportscar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">出発の7日前から指定予約OK ! スポーツカー推し活プラン 2026春",
+      "content_type": "image/webp",
+      "bytes": 54782,
+      "sha256": "c16e878c9366d2bbf7cbdea1a13a9ed74b51bc6f73de3c1d46b1e4183fc3f44a",
+      "source_sha256": "055d1b01d7a217911c4aace499176cc6670f1e6c2bbf5651ae47b0c8e8a86526",
+      "dhash": "49e999f6c6c8f47e",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-045.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022705_evcar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "s=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026022705_evcar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"自動車の未来をいち早く体感 ! 電気自動車レンタルプラン 2026春\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022705_evcar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">自動車の未来をいち早く体感 ! 電気自動車レンタルプラン 2026春<",
+      "content_type": "image/webp",
+      "bytes": 27920,
+      "sha256": "5efd8bb68a6d69278c7bb115cdec5c5989e59ba987b698ee7392d77375f90559",
+      "source_sha256": "be1a9757b33728add337bf5892d5a9e742ece5b4c2cd2f6867edbdcd5bc2c730",
+      "dhash": "2f750f3371c9d961",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-046.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031303_roadsterMT.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ass=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026031303_roadsterMT.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"海老名店限定 ロードスター (MT車) 春夏体感プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031303_roadsterMT.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">海老名店限定 ロードスター (MT車) 春夏体感プラン</p>\n</d",
+      "content_type": "image/webp",
+      "bytes": 27416,
+      "sha256": "465202c33adad63809e8d675407c0b13c654460aad0d87d85e864538d198fedb",
+      "source_sha256": "f5848797679aa844e0246d4c9796383ef5eff02509185bd02a722daa0a005ea7",
+      "dhash": "c25e765626327ada",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-047.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031305_civic.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026031305_civic.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"海老名店限定 CIVIC typeR (MT) 体感プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031305_civic.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">海老名店限定 CIVIC typeR (MT) 体感プラン</p>\n<",
+      "content_type": "image/webp",
+      "bytes": 40108,
+      "sha256": "a061b458f66af13d57d1974e9d064372a36c6d21915a68a1b5e55124bb724449",
+      "source_sha256": "fb54ed09662b3bae03e07a9c2196688a6c010cbf77b7a768b30c918971c4aa4e",
+      "dhash": "691e5e1b9066160c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-048.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031306_roadster990s.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026031306_roadster990s.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"平塚西口駅前店限定 ロードスター990S (MT) 体感プラン !!\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031306_roadster990s.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">平塚西口駅前店限定 ロードスター990S (MT) 体感プラン !!<",
+      "content_type": "image/webp",
+      "bytes": 52882,
+      "sha256": "b9b3d00d4eba2b093ad8b5e9e51f2d34fc24f71307390754c67a3b1c3d45cf86",
+      "source_sha256": "841f1f607d97656e42bd2189405b724b3012f77aa97db4d59f392093c195c73b",
+      "dhash": "7048426a4ce2d4f4",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-049.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031307_copenGR.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ss=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026031307_copenGR.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"海老名店に初登場 ! コペンGRスポーツ (AT) 体感プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031307_copenGR.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">海老名店に初登場 ! コペンGRスポーツ (AT) 体感プラン</p>",
+      "content_type": "image/webp",
+      "bytes": 36026,
+      "sha256": "4469daf7ac4aaf83dbb93b4d619f7058734f790b39556373e613b818aa382c27",
+      "source_sha256": "c7f03f0ec2aaf239be9d8e0deb9b15e13784ecf9a35dc5b02d5877ebe5734718",
+      "dhash": "ce048c1311734566",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-050.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031308_fairladyZ.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "campaign-block\" href=\"https://car.orix.co.jp/campaign/2026031308_fairladyZ.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【海老名店限定】フェアレディZ VersionST (9速AT) 30%OFFプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031308_fairladyZ.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【海老名店限定】フェアレディZ VersionST (9速AT) 30",
+      "content_type": "image/webp",
+      "bytes": 46370,
+      "sha256": "78ffe86b9c7158a8b56d2a2e7062c3fd40c8037b3df29f44362cc77d5d095a58",
+      "source_sha256": "153bb6a685c54bac317162ea5792d7b85e10e1180b5a70b1f9970ac505c3d3e9",
+      "dhash": "b137966604996b68",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-051.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031902_roadsterAT.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026031902_roadsterAT.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【東戸塚・湘南台・鎌倉大船 3店舗合同】ロードスター (AT) 体感プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031902_roadsterAT.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【東戸塚・湘南台・鎌倉大船 3店舗合同】ロードスター (AT) 体感プ",
+      "content_type": "image/webp",
+      "bytes": 54794,
+      "sha256": "d1563b6b241115e3698ebabebda7795dd29f36dfaf83baf4bc15bd6ad3a0ef34",
+      "source_sha256": "9c619e7fb65b594fc0049b5114071bae5ee385e500b00b89e8d3bd345d4f66d8",
+      "dhash": "a91d4da797183b1c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-052.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031903_copenGR.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ampaign-block\" href=\"https://car.orix.co.jp/campaign/2026031903_copenGR.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"湘南台駅前店限定 COPEN GR SPORT (MT) 体感プラン !! ※免許制限あり\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031903_copenGR.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">湘南台駅前店限定 COPEN GR SPORT (MT) 体感プラン ",
+      "content_type": "image/webp",
+      "bytes": 43306,
+      "sha256": "ee46e423504997c98e774590d2896c3b60e113583a3723102584f87f8341c1ea",
+      "source_sha256": "930f078c3b7d6aba282e830d609ccc34b31ec2370ae96eb4f59d0d9c020dcc95",
+      "dhash": "ce849c1311734564",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-053.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031904_roadster.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "campaign-block\" href=\"https://car.orix.co.jp/campaign/2026031904_roadster.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"東戸塚駅前店・湘南台駅前店限定 ロードスター (MT) 体感プラン ! ※免許制限あり\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031904_roadster.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">東戸塚駅前店・湘南台駅前店限定 ロードスター (MT) 体感プラン !",
+      "content_type": "image/webp",
+      "bytes": 68642,
+      "sha256": "da4c69bb781dac796e79bf02c8c535cad3155e365ae88e8686923068f9bbcc86",
+      "source_sha256": "52f894c8433cd1c3a8b276bc3e05d144ea94f7f3edb47b9c2678f8cc7e52fb02",
+      "dhash": "eaa63fede6727c1e",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-054.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026031905_swiftsport.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "aign-block\" href=\"https://car.orix.co.jp/campaign/2026031905_swiftsport.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"東戸塚駅前店・湘南台駅前店限定 スイフトスポーツ (6速MT) 体感プラン ※免許制限あり\" src=\"https://car.orix.co.jp/camps_image_bnr/2026031905_swiftsport.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">東戸塚駅前店・湘南台駅前店限定 スイフトスポーツ (6速MT) 体感プ",
+      "content_type": "image/webp",
+      "bytes": 48508,
+      "sha256": "2267602fc372994b78a786c7d02b99042a87796840d3db8b43148eb1a5992c4d",
+      "source_sha256": "108d391d27ff2046aac0a2d5fdb7ee01299dbc56f448a48065ad2ef6fd98150b",
+      "dhash": "d656376d6d8b3bd9",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-055.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026082102_sportscar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "paign-block\" href=\"https://car.orix.co.jp/campaign/2026082102_sportscar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"スポーツカー体感プラン～ワンランク上のモビリティで楽しむ特別なドライブ体験～ 2026秋冬\" src=\"https://car.orix.co.jp/camps_image_bnr/2026082102_sportscar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">スポーツカー体感プラン～ワンランク上のモビリティで楽しむ特別なドライブ",
+      "content_type": "image/webp",
+      "bytes": 37428,
+      "sha256": "c1232401cff9e9f2a32a7ef8638bf9f34b559b66469d49aaf479654e0b007236",
+      "source_sha256": "a4c39cbf5b70d61d301cd785b345fdb06408a795f8fd49c902a1a40172f67f3e",
+      "dhash": "0b191b0d67d999b1",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-056.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026082103_japanesecar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "aign-block\" href=\"https://car.orix.co.jp/campaign/2026082103_japanesecar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"国産高級車体感プラン～ワンランク上のモビリティで楽しむ特別なドライブ体験～ 2026秋冬\" src=\"https://car.orix.co.jp/camps_image_bnr/2026082103_japanesecar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">国産高級車体感プラン～ワンランク上のモビリティで楽しむ特別なドライブ体",
+      "content_type": "image/webp",
+      "bytes": 46874,
+      "sha256": "715c29fd22fce2e0b6508097b158be030787998ee729bc0745a9adb5a5f30563",
+      "source_sha256": "0637d7aa2d5662456203799240984762c344681c2d3cb6e0f484300ac820723d",
+      "dhash": "0f591b4471b1d5e9",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-057.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026082104_evcar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026082104_evcar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"自動車の未来をいち早く体感 ! 電気自動車レンタルプラン 2026秋冬\" src=\"https://car.orix.co.jp/camps_image_bnr/2026082104_evcar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">自動車の未来をいち早く体感 ! 電気自動車レンタルプラン 2026秋冬",
+      "content_type": "image/webp",
+      "bytes": 28154,
+      "sha256": "7844871f9d617208b63afbaa7b85ffd8fc1a9715749343c11bf7d6c31ceaba94",
+      "source_sha256": "f5a0ad3eb5e42ba5a07eeb275da37f16f489131b05e7469ca0ba6e949683c0cb",
+      "dhash": "0f450f3371c9d961",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-058.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026082105_sportscar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "t-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026082105_sportscar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"出発の7日前から指定予約OK ! スポーツカー推し活プラン 2026秋冬\" src=\"https://car.orix.co.jp/camps_image_bnr/2026082105_sportscar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">出発の7日前から指定予約OK ! スポーツカー推し活プラン 2026秋",
+      "content_type": "image/webp",
+      "bytes": 56646,
+      "sha256": "ab315c9d24254fe44b5ed59e0b7a3297fd369e9b0526c8757215787a74009f1b",
+      "source_sha256": "c291587bc4fcd3cfcdf050e238218ce7a1e12b3d08dbc2ed207a7f27e962d851",
+      "dhash": "6d499936c6ca9436",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-059.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026082106_importedcar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mpaign-block\" href=\"https://car.orix.co.jp/campaign/2026082106_importedcar.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"輸入車体感プラン～ワンランク上のモビリティで楽しむ特別なドライブ体験～ 2026秋冬\" src=\"https://car.orix.co.jp/camps_image_bnr/2026082106_importedcar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">輸入車体感プラン～ワンランク上のモビリティで楽しむ特別なドライブ体験～",
+      "content_type": "image/webp",
+      "bytes": 37382,
+      "sha256": "4a20744fb408ffb49d66dbc943839a863162f156c673374f635e511f3cbe5cd5",
+      "source_sha256": "bf2c4de53744f58bb160795c7e203b84c4a1486e4e0d78dc2681a8c8e4f6ac3c",
+      "dhash": "0d451b0dc76d2931",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-060.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2025101702_hanedakuko.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4418\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"羽田空港店『発着専用』台数限定 特別割引プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2025101702_hanedakuko.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">羽田空港店『発着専用』台数限定 特別割引プラン</p>\n</div>\n",
+      "content_type": "image/webp",
+      "bytes": 41744,
+      "sha256": "7f1b5fe2ed9e5e01df8a37395790b98ce201238ada95edc162d79c24c89a97b3",
+      "source_sha256": "4e11f04a4ebea6be341a78f4a6c2d5601d8430bf25df5e0dbeca89760f7dd0e5",
+      "dhash": "333327252d385103",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-061.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026011601_online.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "aign-block\" href=\"https://car.orix.co.jp/campaign/2026011601_online.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"オンライン接客限定 ! ガソリン満タン返し不要 ! お手軽オールインパック !! (1月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026011601_online.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">オンライン接客限定 ! ガソリン満タン返し不要 ! お手軽オールインパ",
+      "content_type": "image/webp",
+      "bytes": 36890,
+      "sha256": "26308ca9878582bd9005c2484870e7d0f7d5d0fd060203cc7feb798d79b90256",
+      "source_sha256": "5576a2c504363ac3774ae4b6097726cba26b11b493b53bbc80b90ffb59d389a1",
+      "dhash": "a5b73f3a795887a7",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-062.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026021302_classomakase.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ss=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4514\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"5人乗り以上確定 ! ワンウェイもできるクラス無指定 2026年春夏プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026021302_classomakase.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">5人乗り以上確定 ! ワンウェイもできるクラス無指定 2026年春夏プ",
+      "content_type": "image/webp",
+      "bytes": 41326,
+      "sha256": "83b480a0298cac9aa03a93d43d5ac5574672c9ef02016ffaf4fd6af5b5e12b25",
+      "source_sha256": "0a2a17819b061310b5100cf96b4834c40350b5ba1af8830387ab159f0df41e61",
+      "dhash": "7164e89b8fb133b1",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-063.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026021301_classomakase.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "s=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4515\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【同一店舗発着限定】5人乗り以上確定 ! クラス無指定 2026年春夏プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026021301_classomakase.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【同一店舗発着限定】5人乗り以上確定 ! クラス無指定 2026年春夏",
+      "content_type": "image/webp",
+      "bytes": 42336,
+      "sha256": "b84619b2d83a7fad934efb30803b9fc10c83abd6aa0f7c636ca3b59b36d3a321",
+      "source_sha256": "14202d6efee8a891662c010ed2c97c64042532d0fbb7f3954a2a47c306d3f2a4",
+      "dhash": "71e4e89b8fb1b3f1",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-064.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022001_kyushu30.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "--tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026022001_kyushu30.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"九州 早予約30プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022001_kyushu30.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">九州 早予約30プラン</p>\n</div>\n<div class=\"",
+      "content_type": "image/webp",
+      "bytes": 35980,
+      "sha256": "b70103088327cff8757c572bdfbada6d7489113c4cfd0c6ca4ff4922b26722d7",
+      "source_sha256": "acf1e27c46ef30c860a93e19eee870a559419c2cde2c82c1edae80f6b428d938",
+      "dhash": "103232716240d1d5",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-065.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022002_omakase.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4518\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【藤沢市民・横浜市泉区民限定】～地域密着・日頃の感謝～ 免責補償料込み5人乗り以上お任せプラン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022002_omakase.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【藤沢市民・横浜市泉区民限定】～地域密着・日頃の感謝～ 免責補償料込み",
+      "content_type": "image/webp",
+      "bytes": 60092,
+      "sha256": "820573e3e005f6a6b05e783da1f55fd6063c8e7aa3569fa5554fc165556a2f6c",
+      "source_sha256": "db11bd51886d45eba0d570acf9c2d911d32c667ec88f3f65e539a758188510bf",
+      "dhash": "37f58e964c69b869",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-066.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022004_chushikoku30.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4520\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【中四国エリア対象】30%OFF特別プラン !! 和歌山駅前店・南紀白浜空港店もご利用可能 !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022004_chushikoku30.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【中四国エリア対象】30%OFF特別プラン !! 和歌山駅前店・南紀白",
+      "content_type": "image/webp",
+      "bytes": 39118,
+      "sha256": "9812c985014294ae7efaf3a4d8034d625f54a75839c0207f1e79909ea515ccd7",
+      "source_sha256": "fe08ec72fda9a3fbd0b49ac5d9135a7813caf9fd1173d2b9495d098724d7e131",
+      "dhash": "0f0f0f0e2b25306e",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-067.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022005_chushikoku40.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4521\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【中四国エリア対象】ハイシーズン料金より最大40%OFFの特別プラン 和歌山県内2店舗でも\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022005_chushikoku40.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【中四国エリア対象】ハイシーズン料金より最大40%OFFの特別プラン ",
+      "content_type": "image/webp",
+      "bytes": 40988,
+      "sha256": "b4bc84a41670f62760b062ed4f15ef3b4593add65a1620dc1a2543b2a1307075",
+      "source_sha256": "56735f30b7cd1fc2a76100da80d840a9341f9f732ad525d9214d5b97f0531b88",
+      "dhash": "0f0f0f1a9b25602f",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-068.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022706_kinki_30per.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "paign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4543\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"最大30%OFF ! 近畿エリアセレクト9店舗＆大阪・神戸空港店舗限定 ! ドライブを彩るプレミアムプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022706_kinki_30per.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">最大30%OFF ! 近畿エリアセレクト9店舗＆大阪・神戸空港店舗限定",
+      "content_type": "image/webp",
+      "bytes": 41358,
+      "sha256": "1f7fd358fae3955f55bb68561a691bf7bdca93cfae419d8ba1c93cca42fb6a58",
+      "source_sha256": "6217d212908b3ba9fb97427791c2bfdb67ebad620727da462817a8a4c2bce47d",
+      "dhash": "989729292c252b43",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-069.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026022707_kinki_35per.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "st-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4544\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"最大35%OFF ! 近畿エリアセレクト4店舗限定 ! ドライブを彩るプレミアムプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026022707_kinki_35per.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">最大35%OFF ! 近畿エリアセレクト4店舗限定 ! ドライブを彩る",
+      "content_type": "image/webp",
+      "bytes": 39568,
+      "sha256": "085d0b2f2b6c1d0b14c2a203087f8cd5fc6b0b6befc26b645317e119561d743c",
+      "source_sha256": "61ea851d4b2fc6cf88186aa817a6c5b640080944b0f23adca3a068e1bc7eef31",
+      "dhash": "898b37656973d3c1",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-070.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026030606_suv.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4553\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"最大42%OFF ! RD～REクラスゆったり5人乗りドライブプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026030606_suv.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">最大42%OFF ! RD～REクラスゆったり5人乗りドライブプラン<",
+      "content_type": "image/webp",
+      "bytes": 34868,
+      "sha256": "0ee69dde905b49f280c52abfb5a6214430c5c5032fa4adef13b9beb6c90cd481",
+      "source_sha256": "24405fdc3aa0119e89fb9027099d47241b500cb3452ce4631f60c5182d07b956",
+      "dhash": "706473673b1c49c9",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-071.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026030607_20peroff.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "b=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4554\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"神奈川＆八王子対象8店舗20%OFFプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026030607_20peroff.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">神奈川＆八王子対象8店舗20%OFFプラン</p>\n</div>\n<d",
+      "content_type": "image/webp",
+      "bytes": 24536,
+      "sha256": "c4c536358b57f8a81f42e597e486735645352b950de7dc56bafa6359b60fab2d",
+      "source_sha256": "3ffc50bdf68ee5989c4b1bc7be2f6d522da03dbbc67494ccd8751ba1ed317c4c",
+      "dhash": "95c85a32caac85b8",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-072.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026030608_student.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "st-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4555\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"学生証を提示してお得に利用しよう ! 学割プラン 20%OFF＆免責補償制度加入料込み\" src=\"https://car.orix.co.jp/camps_image_bnr/2026030608_student.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">学生証を提示してお得に利用しよう ! 学割プラン 20%OFF＆免責補",
+      "content_type": "image/webp",
+      "bytes": 42054,
+      "sha256": "cfe95803d34630a4dd19c009d8ced7e24eb0fb986ece1b0c0ba5e8536d3f3647",
+      "source_sha256": "19a83dba5c4b10f3e33411e5462fb3d8e41be3e0ff5675afd6549bf8b54d0ed4",
+      "dhash": "74785917959b9bc7",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-073.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026040301_osaka.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4596\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"大阪府8店舗限定 35%OFFプラン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026040301_osaka.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">大阪府8店舗限定 35%OFFプラン !</p>\n</div>\n<di",
+      "content_type": "image/webp",
+      "bytes": 30438,
+      "sha256": "71f43b0b618ed2daea789a3afd6a30dffe94f8b6f8a697000be20dc37e83f4f7",
+      "source_sha256": "dd9779a1e1d78d4e3a25262bb3769cd3a0ed63def9604725fd6826f8bf628242",
+      "dhash": "580c86d4a3c6fc24",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-074.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026040303_ishioka.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ass=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026040303_ishioka.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"石岡駅前店限定 ! 期間中対象クラス基本料金30%OFF !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026040303_ishioka.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">石岡駅前店限定 ! 期間中対象クラス基本料金30%OFF !</p>\n",
+      "content_type": "image/webp",
+      "bytes": 39756,
+      "sha256": "d157da012927d1f33e7ff61c1d979ba5d6d84672eb0e2f9cd7402c0528477841",
+      "source_sha256": "93b2684c2d2006fdf12e460f24c232329d4b73572837db658d8f20f0b10ffde8",
+      "dhash": "9dd8adacac6d8c8a",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-075.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026041002_kyusyu.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " data-col--tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4608\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"九州プライムプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026041002_kyusyu.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">九州プライムプラン</p>\n</div>\n<div class=\"li",
+      "content_type": "image/webp",
+      "bytes": 53104,
+      "sha256": "247d15f30ee93a4a951ec77301ab79cefb755d7570468481b2025673511854fc",
+      "source_sha256": "4d11704d747d7c1e5358a53245b097fdcf7c0011f3274f712b3c67799e30947d",
+      "dhash": "c6a5a74321e7662a",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-076.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026041003_omakase.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4609\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【戸塚・港南・保土ヶ谷・旭区民限定】～地域密着～免責込み5人乗り以上おまかせ格安プラン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026041003_omakase.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【戸塚・港南・保土ヶ谷・旭区民限定】～地域密着～免責込み5人乗り以上お",
+      "content_type": "image/webp",
+      "bytes": 48838,
+      "sha256": "7f5325d30c69c235de75e5bfe12d0086b1ea12062b256dfecb5e367e74a1fd73",
+      "source_sha256": "11714f3a7ffe02efd154ccb7a21d43f9be34487c7783150a8c382075ed84420b",
+      "dhash": "cb6b33232b33b19f",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-077.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026041004_ecocar.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4610\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"東千葉店・木更津店・流山向小金店限定 人気のエコカー30%OFF !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026041004_ecocar.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">東千葉店・木更津店・流山向小金店限定 人気のエコカー30%OFF !<",
+      "content_type": "image/webp",
+      "bytes": 35684,
+      "sha256": "ad6e7f712892a133183f9577124885c7fc47ae6013e016d89c2c7322e84c00e0",
+      "source_sha256": "edb2d6a6342ea11414a69523881f45831afe4dafb7254d999526baab671dafd0",
+      "dhash": "0d4d2991d2899b79",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-078.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026041006_15peroff.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4612\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"熊谷店・本庄店合同開催 15%OFF＆タクシー代割引プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026041006_15peroff.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">熊谷店・本庄店合同開催 15%OFF＆タクシー代割引プラン</p>\n<",
+      "content_type": "image/webp",
+      "bytes": 36960,
+      "sha256": "4bab7d748c2f2c591f0cae94e9c7e39ba997fe010e6617394871035c38f0132f",
+      "source_sha256": "aa7d7f7f77836800d93959e05b37793ba4d57681263aa3307e1235c88c2ef1b1",
+      "dhash": "8a9b92525e9636ce",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-079.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/260518_3.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4637\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"加古川店限定!いつでもお得プラン!平日限定で最寄り駅まで送迎可能!\" src=\"https://car.orix.co.jp/camps_image_bnr/260518_3.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">加古川店限定!いつでもお得プラン!平日限定で最寄り駅まで送迎可能!</",
+      "content_type": "image/webp",
+      "bytes": 22776,
+      "sha256": "05d283679cbe1725441bc438917425598a8622db8e2b53dea07fffeb143a126d",
+      "source_sha256": "3d3a351112ab07132cef256b6351e8f4413e59aff77a178ce3b70f58ac792335",
+      "dhash": "a55a1d1f66dc3972",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-080.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026052203_kisaradu.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "st-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaign/2026052203_kisaradu.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"木更津駅前店限定 ! 最大39%OFF ! サマーシーズン応援プラン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026052203_kisaradu.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">木更津駅前店限定 ! 最大39%OFF ! サマーシーズン応援プラン ",
+      "content_type": "image/webp",
+      "bytes": 65202,
+      "sha256": "6ebc928c661643356a2e82e750079b3a3792713e99c8b8c5e6d4712ef9f3b27e",
+      "source_sha256": "926ad6dddd988f05ec791b22cc1c4fb08a7d20828dea780a5ecf55417c488048",
+      "dhash": "86868794961e0f3e",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-081.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026052901_okinawa60.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ign-block\" href=\"https://car.orix.co.jp/campaign/2026052901_okinawa60.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【早予約60】最大49%OFF ! 店舗限定・沖縄レンタカースペシャル !! (9月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026052901_okinawa60.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【早予約60】最大49%OFF ! 店舗限定・沖縄レンタカースペシャル",
+      "content_type": "image/webp",
+      "bytes": 44154,
+      "sha256": "7200f3dfd56d750c9ed2ab51fec8b8f45415bb3fdcc0ab8229e3aa65a2748e85",
+      "source_sha256": "a05f5a5fbbe03acd17feb37f6532b69b1f64291d0640b2fd200afe328fd696fc",
+      "dhash": "3d2566264e5a1a5e",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-082.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026052901_nahakuko60.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " href=\"https://car.orix.co.jp/campaign/2026052901_nahakuko60.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【早予約60】最大55%OFF ! 那覇空港店・おもろまち駅前店限定レンタカースペシャル !! (9月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026052901_nahakuko60.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【早予約60】最大55%OFF ! 那覇空港店・おもろまち駅前店限定レ",
+      "content_type": "image/webp",
+      "bytes": 51560,
+      "sha256": "917a732dde7907bbae270422302ba651fdbc2e3ab00c30aa9d9265469a43b2db",
+      "source_sha256": "168d68ec9af5d91641dfdc48c997ffabfd5e018116a4e8956eab2570e46b7199",
+      "dhash": "3d256627ce9a1c5c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-083.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026060501_gunma.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "b=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4655\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"群馬県内7店舗限定 特別30%OFFプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026060501_gunma.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">群馬県内7店舗限定 特別30%OFFプラン</p>\n</div>\n<d",
+      "content_type": "image/webp",
+      "bytes": 44162,
+      "sha256": "de9322cb25bda5e3f0b87cf54c254e62e7ea40470626578289bbffdaf50ad7f0",
+      "source_sha256": "9f82a91986a1a766431c0c83cb3006f6017919e09faa83b7ca9a7b1107d72c98",
+      "dhash": "7460e7e330387676",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-084.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026060504_soga.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ta-col--tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4658\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"夏の音、そのまま秋へ !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026060504_soga.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">夏の音、そのまま秋へ !</p>\n</div>\n<div class=",
+      "content_type": "image/webp",
+      "bytes": 36056,
+      "sha256": "05da619e7e1a56cef75543aab54d7527ab3ddec299bb192bee44cfe7d15e8d76",
+      "source_sha256": "bfeff9b7c301ab6cfcdc7c8aa7a1fc6a0feba6ff3a5f6a7222aea230a6f1abe7",
+      "dhash": "3f5f43a3ed094162",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-085.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026060505_usui.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "s=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4659\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"臼井店・京成臼井駅前カウンター店限定!最大38%OFF!夏、秋ドライブプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026060505_usui.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">臼井店・京成臼井駅前カウンター店限定!最大38%OFF!夏、秋ドライブ",
+      "content_type": "image/webp",
+      "bytes": 42132,
+      "sha256": "56ba0ad8769757b9c31197676619ea5d8ad270435b1b1808d9c8a1c350fa0a80",
+      "source_sha256": "5ab3c344dc3411fa19a3e7042290d586306478a999a865dca8d30775b337fb36",
+      "dhash": "247052440bc9cdc7",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-086.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026061201_goi.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mpaign-block\" href=\"https://car.orix.co.jp/campaign/2026061201_goi.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【五井駅前店・五井駅前西口カウンター限定】最大39%OFF ! サマー＆オータムドライブフェア !!\" src=\"https://car.orix.co.jp/camps_image_bnr/2026061201_goi.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【五井駅前店・五井駅前西口カウンター限定】最大39%OFF ! サマー",
+      "content_type": "image/webp",
+      "bytes": 38202,
+      "sha256": "4a6f4d5087b66b17fc0d25aa9b85c3c8a61ce46a5651ddffaa6ba71a139d0c58",
+      "source_sha256": "adb431d1cf60fbb02a405ea80edb138916455388198a41d9eafc425f72b74874",
+      "dhash": "4f272535a34783c3",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-087.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026061202_mobara.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4664\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"茂原駅東口店限定 ! 最大38%OFF ! 夏休み＆秋のおでかけ応援プラン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026061202_mobara.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">茂原駅東口店限定 ! 最大38%OFF ! 夏休み＆秋のおでかけ応援プ",
+      "content_type": "image/webp",
+      "bytes": 46184,
+      "sha256": "924360d6abc9ce51e9ac5493b9afa5c28a20028b16356347ff91c87de05b8f06",
+      "source_sha256": "7ef597790150fce1de1307425646d4fe225d9ff6756218361e257a347f053e6e",
+      "dhash": "97870d6c5cc6de6c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-088.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026061203_tateyama.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4665\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"館山駅前店 OPEN1周年記念感謝祭 ! 最大39%OFF !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026061203_tateyama.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">館山駅前店 OPEN1周年記念感謝祭 ! 最大39%OFF !</p>",
+      "content_type": "image/webp",
+      "bytes": 39324,
+      "sha256": "cf24b8d1fccfc5d21cc5f3ab1032e4c0e31d18ab38b4dc6995529e213f8d4b0f",
+      "source_sha256": "e73ade6e1abccf829b40d0ad9c551cc9b536af8180f8f62f6e265dba6c574e09",
+      "dhash": "ccf8f6bb137559cb",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-089.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026061902_okinawa30.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ign-block\" href=\"https://car.orix.co.jp/campaign/2026061902_okinawa30.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【早予約30】最大40%OFF ! 店舗限定・沖縄レンタカースペシャル !! (9月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026061902_okinawa30.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【早予約30】最大40%OFF ! 店舗限定・沖縄レンタカースペシャル",
+      "content_type": "image/webp",
+      "bytes": 42884,
+      "sha256": "71eb77440f8a886fd3943ad7a06ed6179a9425395778361d7dc9f509d660c494",
+      "source_sha256": "84183cd7f14742ab26523aff696c809329f07dfcb9e0cb9027b7ebef2450ae07",
+      "dhash": "3d2566264a5a1d5e",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-090.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026061903_hybrid.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4672\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"ハイブリッドコンパクトカー Enjoyプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026061903_hybrid.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">ハイブリッドコンパクトカー Enjoyプラン</p>\n</div>\n<",
+      "content_type": "image/webp",
+      "bytes": 31106,
+      "sha256": "4edbb5e01d812dd2da76744c92b2d858ff7b4c57907d29fc250592129c536361",
+      "source_sha256": "3cdb0515c21225110866030edeeeadf563e6068cfeee73e8c3f9e3369d652a0f",
+      "dhash": "938e38a80cf3353c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-091.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071002_40peroff.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4674\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"『夏も秋もサマー＆オータムプラン』～夏も秋もレンタカーでGO !!～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071002_40peroff.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">『夏も秋もサマー＆オータムプラン』～夏も秋もレンタカーでGO !!～<",
+      "content_type": "image/webp",
+      "bytes": 78104,
+      "sha256": "d843b57b47f2f305e3e2648ba28b1dc0e22119aaa6d4ca22f953eb3c2b4643c9",
+      "source_sha256": "1e884374342e9349dc7465cb92d2fd833b9028498afbc6f96b0c721b3daf3fcc",
+      "dhash": "ddd7178f3e710c3c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-092.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071003_utsunomiya.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ign-block\" href=\"https://car.orix.co.jp/campaign/2026071003_utsunomiya.html\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"利用するなら長時間利用がおすすめ ! 72時間以上利用で基本料金が通常より30%お得なプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071003_utsunomiya.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">利用するなら長時間利用がおすすめ ! 72時間以上利用で基本料金が通常",
+      "content_type": "image/webp",
+      "bytes": 68756,
+      "sha256": "fdf7293d6d896546a54925cf5877b3af53fa9e76b0a2161227306fcfb44ae162",
+      "source_sha256": "c78fb4cc24b6ff6bcf262ebf3d688de59cc9ccf5979e8f141db98a674ea9f94d",
+      "dhash": "f3b9e74d66112c91",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-093.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071004_yamanashi.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4676\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"『山梨県限定』富士の国やまなし・夏の観光プラン !!\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071004_yamanashi.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">『山梨県限定』富士の国やまなし・夏の観光プラン !!</p>\n</di",
+      "content_type": "image/webp",
+      "bytes": 37106,
+      "sha256": "060274d0d4e75e1f3ed75b4282511289be3c098aab6d52039657733c7096e802",
+      "source_sha256": "ae42a8efb12ef819d0ea2ca03883615f5d08111c7b8110f687c9e3f20fd56ef5",
+      "dhash": "a46560c8e8bc0b23",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-094.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071005_tochigi.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4677\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"栃木県の学生応援 !! ～免責補償料込み安心プラン～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071005_tochigi.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">栃木県の学生応援 !! ～免責補償料込み安心プラン～</p>\n</di",
+      "content_type": "image/webp",
+      "bytes": 59414,
+      "sha256": "e73c2e03ec7b2f07f682c17080c89eb4bbed66371e40d49ecc4323d90d57c0c1",
+      "source_sha256": "8e8e120294fcb2aeeea6c7de1bc4b6b43a6b9016cdc83bae74ff7f25ed0de239",
+      "dhash": "47442dd8d80e2c6c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-095.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071706_kanto.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4686\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【関東地区2026】『移動で広げる夏＆秋の観光体験 ! 』夏秋・レンタカープラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071706_kanto.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【関東地区2026】『移動で広げる夏＆秋の観光体験 ! 』夏秋・レンタ",
+      "content_type": "image/webp",
+      "bytes": 76260,
+      "sha256": "63da75d1bd52377913b6accb9779d1c8cce1b5910f741ea265a7cefa73b52e66",
+      "source_sha256": "11b24e6b45542412ae16d81b204a1d222ed7266afeb2b5275ee98404fa429a4b",
+      "dhash": "1b63414568532e0e",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-096.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026071707_niigataekimae.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4687\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"新潟駅前東大通店限定 ! 夏のドライブプラン !! 土日祝日月曜出発が超お得 !!\" src=\"https://car.orix.co.jp/camps_image_bnr/2026071707_niigataekimae.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">新潟駅前東大通店限定 ! 夏のドライブプラン !! 土日祝日月曜出発が",
+      "content_type": "image/webp",
+      "bytes": 85326,
+      "sha256": "106a2f4f6de975b483789f060cf9c22b18673f469383b728838e9e5171992ae3",
+      "source_sha256": "ca92aef8e0d84989755df8cfbf8f78fe40ef9547ad5b36932d92321070cca25b",
+      "dhash": "081137e58d1bb879",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-097.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026072401_nahakuko.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ampaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4692\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"那覇空港から近くて便利 ! 那覇空港アネックス店限定 ! レコメンドカープラン !! (9月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026072401_nahakuko.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">那覇空港から近くて便利 ! 那覇空港アネックス店限定 ! レコメンドカ",
+      "content_type": "image/webp",
+      "bytes": 41460,
+      "sha256": "420066f51c285309d83c26bf87634c8c98fc5fe1413d7203d67752e709552e72",
+      "source_sha256": "d653c94a3c370f92d52f2d26acccab5f929d71c006e34cb936b207a03ded2b40",
+      "dhash": "ca9293df474979f2",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-098.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/260724.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4694\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"夏休み!お盆!シルバーウィークもお得にドライブ!欲張りドライブプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/260724.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">夏休み!お盆!シルバーウィークもお得にドライブ!欲張りドライブプラン<",
+      "content_type": "image/webp",
+      "bytes": 21670,
+      "sha256": "1b1f5237ecfb5445aa9508fd1df306b20a8448c34b48c9c435be1e4f12892380",
+      "source_sha256": "e20d6c436ac477de00acbe4ebf64596b2d8ed4d65bb6f889cfe3327129ab6680",
+      "dhash": "4576794f669cb972",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-099.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026070301_kachigawa.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4695\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"勝川駅前店オープンキャンペーン ! ～最大40%OFF～\" src=\"https://car.orix.co.jp/camps_image_bnr/2026070301_kachigawa.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">勝川駅前店オープンキャンペーン ! ～最大40%OFF～</p>\n</",
+      "content_type": "image/webp",
+      "bytes": 33320,
+      "sha256": "58a20647e533155f1f445580bfcb8c9466960c1bac9041f704394cbfb04b4361",
+      "source_sha256": "4935efe91b9f67769c4bd7103d7c7e1888b5c1772f73e9da036591f06d5f06fd",
+      "dhash": "4858272167e24949",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-100.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026073101_nahakuko.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ist-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4697\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"那覇空港店・おもろまち駅前店限定 ! 台数限定スペシャルプラン ! (9月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026073101_nahakuko.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">那覇空港店・おもろまち駅前店限定 ! 台数限定スペシャルプラン ! (",
+      "content_type": "image/webp",
+      "bytes": 40294,
+      "sha256": "2814169117f159a374b98ae22b9025c4e7d5ca897f6e5f70a88021e73709674d",
+      "source_sha256": "6c74fbbb1ac546dda1e87f354f262eb3f40844d4149c101bfa159462529111ea",
+      "dhash": "336372d3b95b1653",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-101.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026073102_nanba.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4698\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"なんば駅道頓堀店 新規オープンキャンペーン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026073102_nanba.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">なんば駅道頓堀店 新規オープンキャンペーン !</p>\n</div>\n",
+      "content_type": "image/webp",
+      "bytes": 67652,
+      "sha256": "c9435364b69ed9f6b5bd9e4bef6becebac6f743a4f73ce7d1429fe992f21b5af",
+      "source_sha256": "c0e4e77c5a9664de10cdc6f303aeb71204c4ceba70e86439ec1846893b0abb29",
+      "dhash": "0e1f6545c60e1c1c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-102.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026073103_onna.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ass=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4699\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"恩納リゾート地区限定 ! 台数限定スペシャルプラン ! (9月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026073103_onna.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">恩納リゾート地区限定 ! 台数限定スペシャルプラン ! (9月～12月",
+      "content_type": "image/webp",
+      "bytes": 59292,
+      "sha256": "b106f6d5134e9079a0e77ca769d560f7db3cee2b6fc059e632b5a711599ac2c3",
+      "source_sha256": "630b4e7d6603d53d88c342a325fa59f1fc7541aeeadcea64450168a6c15a584b",
+      "dhash": "173333226b332327",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-103.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026073104_okinawa.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4700\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"最大44%OFF ! とってもお得な沖縄ドライブプラン !! (9月～12月)\" src=\"https://car.orix.co.jp/camps_image_bnr/2026073104_okinawa.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">最大44%OFF ! とってもお得な沖縄ドライブプラン !! (9月～",
+      "content_type": "image/webp",
+      "bytes": 41022,
+      "sha256": "e9d75afd622745ed2c450f8ac6c8362623ffff6f178fbe03610ca93dba33dd33",
+      "source_sha256": "5c90d9623ce40f3333cb2dc4e16a692aa040e63e2f7d3548e1262021ac57a425",
+      "dhash": "0b8c3d1930d14622",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-104.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026080701_40peroff.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4702\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"春日部駅西口店・南越谷店限定 40%OFFスペシャルプラン !!\" src=\"https://car.orix.co.jp/camps_image_bnr/2026080701_40peroff.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">春日部駅西口店・南越谷店限定 40%OFFスペシャルプラン !!</p",
+      "content_type": "image/webp",
+      "bytes": 35898,
+      "sha256": "064e82138f027da052f20e1b6b4115e940d6a6960201194c7c46aa4fc3a970ec",
+      "source_sha256": "fcb5febfbd8e418b245d30c6f69ce712d4450ebf7d5012d7a8ffb13f5c1c6c18",
+      "dhash": "0106c6467a7276cf",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-105.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026080702_gifu.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mpaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4703\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【リニューアルOPEN記念】長く借りるほどお得 ! 24時間を越えた2日目以降の基本料金最大50%OFF\" src=\"https://car.orix.co.jp/camps_image_bnr/2026080702_gifu.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【リニューアルOPEN記念】長く借りるほどお得 ! 24時間を越えた2",
+      "content_type": "image/webp",
+      "bytes": 59434,
+      "sha256": "1521df965d46edab0d77af4f13e226ff6a6502a66087e25f1d7c0158edcd3836",
+      "source_sha256": "7cc3764bb0da44ed5be3fd30acb140808239f5dd06a4ba3efae92cddb7bb19e9",
+      "dhash": "3bb3f3a6e4e4433f",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-106.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026080704_classomakase.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4704\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"5人乗り以上確定 ! ワンウェイもできるクラス無指定2026-2027年秋冬プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026080704_classomakase.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">5人乗り以上確定 ! ワンウェイもできるクラス無指定2026-2027",
+      "content_type": "image/webp",
+      "bytes": 42726,
+      "sha256": "20dee805001b025e7a972986d0e7d10e97eaf09f05978ad210d0c0e36cd02653",
+      "source_sha256": "2a5aae33e78e9495f87d2859aac61bfa3beb7472f8593e142cc3ad524033a83b",
+      "dhash": "5964689b8f3133b7",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-107.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026080703_classomakase.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ist-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4705\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"【同一店舗発着限定】5人乗り以上確定 ! クラス無指定2026-2027年秋冬プラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026080703_classomakase.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">【同一店舗発着限定】5人乗り以上確定 ! クラス無指定2026-202",
+      "content_type": "image/webp",
+      "bytes": 44320,
+      "sha256": "dea4df3973cd151b7ea0fa769dc5b8ef830c4aa874dc33c805ec088f10c6dfa9",
+      "source_sha256": "1f750ef6e474ff253d684c6f8701d94539f55ba2defc4630c73cfd76a0a95307",
+      "dhash": "79e4689b8fb1b3f7",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-108.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026080705_wakuwaku.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ist-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4706\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"見つけたらラッキー ! 当日でもOK ! 夏限定ワクワクおまかせレンタカープラン !\" src=\"https://car.orix.co.jp/camps_image_bnr/2026080705_wakuwaku.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">見つけたらラッキー ! 当日でもOK ! 夏限定ワクワクおまかせレンタ",
+      "content_type": "image/webp",
+      "bytes": 58386,
+      "sha256": "aebcf15d911cb5ce382ce22fa90741d6f46f1ad64fe109f91da54397c96e6e47",
+      "source_sha256": "95267b0d2ff4a174c01b4d4932c878c93a53ec8261111cfe3b0e14f73c5e6d2c",
+      "dhash": "464eccd4e8ec7333",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-109.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026081702_30peroff.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4716\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"本八幡店限定 スペシャルプライスプラン 最大30%OFF !!\" src=\"https://car.orix.co.jp/camps_image_bnr/2026081702_30peroff.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">本八幡店限定 スペシャルプライスプラン 最大30%OFF !!</p>",
+      "content_type": "image/webp",
+      "bytes": 44528,
+      "sha256": "a36b988ab82651f6a9d553c3436ca82ec873c13e07f196f01b965e6947164a44",
+      "source_sha256": "ff35b620575add0413ac5b795bdc2eb94dd655ccf47994711b856b82cee4d887",
+      "dhash": "cb0bcbcb8d00f07c",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-110.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/260824.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "-col--tb=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4723\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"バリよかプライスキャンペーン\" src=\"https://car.orix.co.jp/camps_image_bnr/260824.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">バリよかプライスキャンペーン</p>\n</div>\n<div clas",
+      "content_type": "image/webp",
+      "bytes": 18172,
+      "sha256": "1fcc51aa884a3cc0eecccdcf70bafee4d3b10630dc392140324398b1de654717",
+      "source_sha256": "93a812e6751756ad51dafebb1f12c909511fe30439d1b6c74650db2a1da1c544",
+      "dhash": "b04e3b2f6e9c3972",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-111.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026082801_miyazaki.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ist-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4730\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"宮崎県4店舗限定 宮崎をもっと楽しむ ! レンタカー最大40%OFF特別プラン !!\" src=\"https://car.orix.co.jp/camps_image_bnr/2026082801_miyazaki.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">宮崎県4店舗限定 宮崎をもっと楽しむ ! レンタカー最大40%OFF特",
+      "content_type": "image/webp",
+      "bytes": 48104,
+      "sha256": "42edf2b8e86e63153bbb0d3fa5689c9a80bad9f7e35d34c627dcbaa4f8e13a7a",
+      "source_sha256": "ee8e2d0c92c5042a5e46cb6fd64bbb57a3140e9de5bad5097322724f1bbcb550",
+      "dhash": "b81d9d3663a9bbf4",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-112.webp",
+      "source_url": "https://car.orix.co.jp/camps_image_bnr/2026082802_niigata.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=\"6/12\">\n<a class=\"list-cmn-campaign-block\" href=\"https://car.orix.co.jp/campaigns_page/?campk=4731\">\n<figure class=\"list-cmn-campaign-head\">\n<img alt=\"お出かけ支援 ! 秋のお得に乗れちゃうプラン\" src=\"https://car.orix.co.jp/camps_image_bnr/2026082802_niigata.jpg\"/>\n</figure>\n<div class=\"list-cmn-campaign-body\">\n<p class=\"list-cmn-campaign-title\">お出かけ支援 ! 秋のお得に乗れちゃうプラン</p>\n</div>\n<",
+      "content_type": "image/webp",
+      "bytes": 70132,
+      "sha256": "ccd6ba372e738c1d5d43819bd2472f80ef3689b288fec7899406311ba54cb57a",
+      "source_sha256": "cf462b64f174e8ba1fa2a709a8907dc6ad6af0b63f654735491fccef37910d19",
+      "dhash": "060e06666400014e",
+      "width": 640,
+      "height": 394,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/campaigns/?opg=1"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/logo-003.svg",
+      "source_url": "https://car.orix.co.jp/assets/img/common/logo/logo_orix_group.svg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "店舗を探す -->\n<!-- ここからオリックスグループ -->\n<div class=\"mod-cmn-group\">\n<div class=\"mod-cmn-group-in\">\n<p class=\"mod-cmn-group-title\"><img alt=\"ORIX オリックスグループ\" class=\"mod-cmn-group-logo\" src=\"https://car.orix.co.jp/assets/img/common/logo/logo_orix_group.svg\"/>個人のお客さま向けサービスのご案内</p>\n<div class=\"nav-cmn-inline\">\n<ul class=\"nav-cmn-inline-list\">\n<li class=\"nav-cmn-inline-item\"><a",
+      "content_type": "image/svg+xml",
+      "bytes": 4150,
+      "sha256": "53b7e168bb2daf1c77cc8ecf0c75deabb4262c1cc50140ea8f7a53119dd12e78",
+      "source_sha256": "53b7e168bb2daf1c77cc8ecf0c75deabb4262c1cc50140ea8f7a53119dd12e78",
+      "dhash": "",
+      "width": 180,
+      "height": 23,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/logo-004.webp",
+      "source_url": "https://car.orix.co.jp/eng/share/img/logoOrixAutoCorp.png",
+      "source_tag": "img:image, img:logo",
+      "context": "img Orix Auto Corporation p logo div contInner cFix div footerCont02 footer div page",
+      "content_type": "image/webp",
+      "bytes": 3998,
+      "sha256": "01d96a29f8cb4c8b3fe4add9e471ae9098b2360685e6e113a86d07f467a40919",
+      "source_sha256": "7e1499af89beed5eb232c81fcc63835c3f4fd8485e8c49cdf5c950bfd16d6243",
+      "dhash": "1a822caeae2a0c0d",
+      "width": 376,
+      "height": 42,
+      "variant": "desktop",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-009.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/ogimage.png",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "/>\n<meta content=\"website\" property=\"og:type\"/>\n<meta content=\"レンタカー予約ならオリックスレンタカー\" property=\"og:title\"/>\n<meta content=\"https://car.orix.co.jp/\" property=\"og:url\"/>\n<meta content=\"https://car.orix.co.jp/assets/img/common/img/ogimage.png\" property=\"og:image\"/>\n<meta content=\"オリックスレンタカーなら会員限定の割引や格安キャンペーンでレンタカーが予約できます。\" property=\"og:description\"/>\n<!-- ここまでO",
+      "content_type": "image/webp",
+      "bytes": 12318,
+      "sha256": "9cd82fe79de450b3dbd0eef1d159e9d70fa2d380959345065db393694925551f",
+      "source_sha256": "031356c069196a4392506fc061400e793251cedf7b086a4dc4a97c73faa0d5cd",
+      "dhash": "2810b2b0f0b21028",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-010.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/campaign/bg_campaign_01.jpg",
+      "source_tag": "external-css",
+      "context": "\n  .mod-campaign-label-fill {\n    font-size: 1.2rem;\n  }\n}\n\n/*doc\r\n---\r\nname: mod-campaign-search\r\ncategory: component\r\ntag: Module\r\n---\r\n\r\n```ejs\r\n```\r\n*/\n.mod-campaign-search {\n  position: relative;\n  padding-top: 40px;\n  padding-bottom: 40px;\n  background: url(/assets/img/campaign/bg_campaign_01.jpg) no-repeat center center;\n  background-size: cover;\n}\n\n@media screen and (max-width: 599px) {\n  ",
+      "content_type": "image/webp",
+      "bytes": 26132,
+      "sha256": "93cced737d26cceb2f9d91da9d5c0a82086828aeee84801947ae5254caeb378b",
+      "source_sha256": "feb517249a850485e396d716e943e52baee04a8246b2dc1c5a95ed39e2ff2cd2",
+      "dhash": "583a34353dd998b2",
+      "width": 1440,
+      "height": 461,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-011.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/bg/bg_01.jpg",
+      "source_tag": "external-css",
+      "context": "gn {\n  padding: 30px 0;\n  border-top: 1px solid #ccc;\n}\n@media screen and (max-width: 599px) {\n  .area-cmn-campaign {\n    padding: 15px 0;\n  }\n}\n\n/*doc\n---\nname: area-cmn-topics\ncategory: component\ntag: Area\n---\n\n```ejs\n```\n*/\n.area-cmn-topics {\n  background: url(/assets/img/common/bg/bg_01.jpg) no-repeat center center;\n  background-size: cover;\n}\n.area-cmn-topics .slick-dots li {\n  background-col",
+      "content_type": "image/webp",
+      "bytes": 81392,
+      "sha256": "89cc1d1594ffa4ce8c7e61c5fbe16b89066d79418b35d9e5d1f6736fc4ab72d5",
+      "source_sha256": "a92d0960c7ae7567c627c7c9ee378ea8178d679a947442930f0f05b3c8c370f2",
+      "dhash": "401ac5e969e9914f",
+      "width": 1120,
+      "height": 744,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-012.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/bg/bg_02.jpg",
+      "source_tag": "external-css",
+      "context": "sual-link {\n  height: 710px;\n}\n@media screen and (max-width: 959px) {\n  .hero-cmn.s-oneway .hero-cmn-mainvisual-link {\n    height: auto;\n  }\n}\n\n.hero-cmn-reserv {\n  position: relative;\n  width: 50%;\n  height: 655px;\n  padding: 20px 0 20px 11.1%;\n  background: url(/assets/img/common/bg/bg_02.jpg) no-repeat center center;\n  background-size: cover;\n  color: #fff;\n  overflow: hidden;\n  z-index: 2;\n  -",
+      "content_type": "image/webp",
+      "bytes": 78906,
+      "sha256": "3c5afe0c77a0f012f99d639e439f94639b1be12628e8c7c2d3baa1e1a10a68a6",
+      "source_sha256": "c376f61487f5ec17293456974b16f9e849435abd962fe48bcf5324d0f6602ffd",
+      "dhash": "bf96c6c7c16b435b",
+      "width": 1120,
+      "height": 747,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-013.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/bg/bg_03.jpg",
+      "source_tag": "external-css",
+      "context": "l-align: middle;\n}\n.txt-cmn-icon + .mod-cmn-pdf img {\n  vertical-align: middle;\n}\n\n/*doc\n---\nname: mod-cmn-shop\ncategory: component\ntag: Module\n---\n\n```ejs\n```\n*/\n.mod-cmn-shop {\n  position: relative;\n  padding-top: 40px;\n  padding-bottom: 40px;\n  background: url(/assets/img/common/bg/bg_03.jpg) no-repeat center center;\n  background-size: cover;\n}\n@media screen and (max-width: 599px) {\n  .mod-cmn-",
+      "content_type": "image/webp",
+      "bytes": 59148,
+      "sha256": "fd3a00489964656874d0dad7b43da1f288246d780801306e917be477bde0b714",
+      "source_sha256": "cfb5113d9fb10a50aa9a600b08227882c0cbc503b73a11c3170019f0b9924bdc",
+      "dhash": "33030e245e55e188",
+      "width": 1120,
+      "height": 738,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-014.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_book_01_pc.jpg",
+      "source_tag": "external-css",
+      "context": "Module\n---\n*/\n.mod-cmn-book {\n  display: -webkit-box;\n  display: -webkit-flex;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-align: center;\n  -webkit-align-items: center;\n  -ms-flex-align: center;\n  align-items: center;\n  height: 442px;\n  background: url(/assets/img/common/img/img_book_01_pc.jpg) no-repeat center;\n  background-size: cover;\n  color: #ab1d34;\n}\n@media screen and (max-width:",
+      "content_type": "image/webp",
+      "bytes": 34120,
+      "sha256": "d5642091a5f21892c69fea9c1f40c9852551ba7bcebed8a128e70b61bbba6db3",
+      "source_sha256": "7ee4ceefdbb53a2e2ded51da5676671f9164f76e65e935d1171aa412676e1b1e",
+      "dhash": "c080804040c08040",
+      "width": 1440,
+      "height": 442,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-015.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_book_01_sp.jpg",
+      "source_tag": "external-css",
+      "context": "ground: url(/assets/img/common/img/img_book_01_pc.jpg) no-repeat center;\n  background-size: cover;\n  color: #ab1d34;\n}\n@media screen and (max-width: 959px) {\n  .mod-cmn-book {\n    display: block;\n    height: 450px;\n    padding-top: 50px;\n    background-image: url(/assets/img/common/img/img_book_01_sp.jpg);\n    background-position: center bottom;\n  }\n}\n@media screen and (max-width: 599px) {\n  .mod-",
+      "content_type": "image/webp",
+      "bytes": 16506,
+      "sha256": "0f8db59144f618eebc68e3951fe12366882ba65649e4b4d32fd14865d7d66585",
+      "source_sha256": "9438281787575b9b8e7af27f1b8458c4d8f5b01517f6bba895feed97d65509ab",
+      "dhash": "0000008951e9635b",
+      "width": 959,
+      "height": 450,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-016.webp",
+      "source_url": "https://car.orix.co.jp/eng/img/bg_KvImgLine.jpg",
+      "source_tag": "external-css",
+      "context": "====================================================\n\n // Key Visual Image Line\n\n==========================================================================================*/\n#KeyVisualImgLine {\n\tclear:both;\n\twidth:100%;\t\n\tmin-height:250px;\n\tbackground:#FFE5DB url(../img/bg_KvImgLine.jpg) no-repeat center top;\n\t-moz-background-size:cover;\n\tbackground-size:cover;\n}\n#KeyVisualImgLine .secInner {\n\twid",
+      "content_type": "image/webp",
+      "bytes": 26472,
+      "sha256": "959dfd10b202c96a43b8e2180c4a2a0b15f75ddaced0efa8332147a28b6b79d5",
+      "source_sha256": "af637e809ba853768d1a432a8791bd04b9596871a1ab99d72f75ea7772311334",
+      "dhash": "b4b1b1b132333109",
+      "width": 2000,
+      "height": 416,
+      "variant": "desktop",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-113.webp",
+      "source_url": "https://car.orix.co.jp/eng/camps_image/prepaid.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ass=\"flexslider\"><ul class=\"slides\" id=\"slides\">\n<li>\n<a href=\"https://car.orix.co.jp/eng_sp/campaign/prepaid.html\">\n<img alt=\"Prepaid Discount Plan (Honshu， Kyushu， Shikoku)\" src=\"https://car.orix.co.jp/eng/camps_image/prepaid.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/eng_sp/campaign/allinclusive2026kyusyu.html\">\n<img alt=\"All Inclusive",
+      "content_type": "image/webp",
+      "bytes": 28208,
+      "sha256": "0426b827e728c1c5013d0586bfcabdd8f70d251312285cc3eb209c134a82e344",
+      "source_sha256": "85067d98deedeaaa413c0a18369a029569fd125f8f26a964c015dce3213ef693",
+      "dhash": "3e3e2735246138f0",
+      "width": 600,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/",
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-114.webp",
+      "source_url": "https://car.orix.co.jp/eng/camps_image/allinclusive2026kyusyu.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "jp/eng/camps_image/prepaid.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/eng_sp/campaign/allinclusive2026kyusyu.html\">\n<img alt=\"All Inclusive Protection Plan Kyusyu\" src=\"https://car.orix.co.jp/eng/camps_image/allinclusive2026kyusyu.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/eng_sp/campaign/hkd2026winter.html\">\n<img alt=\"Hokkaido! Special Autu",
+      "content_type": "image/webp",
+      "bytes": 21242,
+      "sha256": "0c5e7a509175f7f4e6091ab684de5df4b171f52d64b890668800911356850243",
+      "source_sha256": "3ae6e281f5f53cded06efb66a1940bbaf741767812d19dac98bff140edac5a27",
+      "dhash": "97979f964ecc9c33",
+      "width": 600,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/",
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-115.webp",
+      "source_url": "https://car.orix.co.jp/eng/camps_image/hkd2026winter.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "e/allinclusive2026kyusyu.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/eng_sp/campaign/hkd2026winter.html\">\n<img alt=\"Hokkaido! Special Autumn-Winter Car Rental Plan\" src=\"https://car.orix.co.jp/eng/camps_image/hkd2026winter.jpg\"/>\n</a>\n</li>\n<!------ //flexslider,slides ------></ul></div>\n<!-- //[inner,CampaignListArea] --></div></section>\n<!----",
+      "content_type": "image/webp",
+      "bytes": 26526,
+      "sha256": "47bda0eb2df3de94fbb717a7be61897faba8e347b7aaa0be60aa059639bd100d",
+      "source_sha256": "eb7a68dd90e81a69d050092291dee163315d9641658af0b587b1e0e062e01697",
+      "dhash": "a05858799397c070",
+      "width": 600,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/",
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-116.webp",
+      "source_url": "https://car.orix.co.jp/tw/camps_image/prepaid.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "xslider,slides ------>\n<div class=\"flexslider\"><ul class=\"slides\" id=\"slides\">\n<li>\n<a href=\"https://car.orix.co.jp/tw_sp/campaign/prepaid.html\">\n<img alt=\"事前付款優惠方案(本州・九州・四國)\" src=\"https://car.orix.co.jp/tw/camps_image/prepaid.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/tw_sp/campaign/allinclusive2026kyusyu.html\">\n<img alt=\"全面保障方案 九州\" src",
+      "content_type": "image/webp",
+      "bytes": 30368,
+      "sha256": "86981eec4a78316c006ed483e655e482ad08aff857368dce3ac97920d6148680",
+      "source_sha256": "4ed81bae03cd884838eceb35556e025d1518e1257c317693b20c3d500ca14c88",
+      "dhash": "3e3e2526246138f0",
+      "width": 600,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/tw/",
+        "https://car.orix.co.jp/tw_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-117.webp",
+      "source_url": "https://car.orix.co.jp/tw/camps_image/allinclusive2026kyusyu.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "國)\" src=\"https://car.orix.co.jp/tw/camps_image/prepaid.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/tw_sp/campaign/allinclusive2026kyusyu.html\">\n<img alt=\"全面保障方案 九州\" src=\"https://car.orix.co.jp/tw/camps_image/allinclusive2026kyusyu.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/tw_sp/campaign/hkd2026winter.html\">\n<img alt=\"北海道!秋～冬超值租車方案\" src=\"htt",
+      "content_type": "image/webp",
+      "bytes": 20786,
+      "sha256": "9fe3b43f26cc824714d1954ea0b1a7d1870c36cf31afe45d3e241491b06e0307",
+      "source_sha256": "ecb92b89d973000054cc442925d00e5a83433ecf0bd37dfad90695d777e60930",
+      "dhash": "97979f964ecc5a3b",
+      "width": 600,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/tw/",
+        "https://car.orix.co.jp/tw_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-118.webp",
+      "source_url": "https://car.orix.co.jp/tw/camps_image/hkd2026winter.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ttps://car.orix.co.jp/tw/camps_image/allinclusive2026kyusyu.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/tw_sp/campaign/hkd2026winter.html\">\n<img alt=\"北海道!秋～冬超值租車方案\" src=\"https://car.orix.co.jp/tw/camps_image/hkd2026winter.jpg\"/>\n</a>\n</li>\n<!------ //flexslider,slides ------></ul></div>\n<!-- //[inner,CampaignListArea] --></div></section>\n<!----",
+      "content_type": "image/webp",
+      "bytes": 27106,
+      "sha256": "293df9d3cd45f90a8f1fc3b732c4b03421449628d71f742cf84acdc8fcd01ac5",
+      "source_sha256": "9de249f878e63459248fe6262c6c21ff48304116e03566a300ca46971c204bab",
+      "dhash": "205055799397c070",
+      "width": 600,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/tw/",
+        "https://car.orix.co.jp/tw_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-119.webp",
+      "source_url": "https://car.orix.co.jp/kr/camps_image/prepaid.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er,slides ------>\n<div class=\"flexslider\"><ul class=\"slides\" id=\"slides\">\n<li>\n<a href=\"https://car.orix.co.jp/kr_sp/campaign/prepaid.html\">\n<img alt=\"사전 결제 할인 플랜 (혼슈·규슈·시코쿠)\" src=\"https://car.orix.co.jp/kr/camps_image/prepaid.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/kr_sp/campaign/allinclusive2026kyusyu.html\">\n<img alt=\"올 인클루시브 프로텍션 플",
+      "content_type": "image/webp",
+      "bytes": 27896,
+      "sha256": "c4b4f2cb0bbc06f5cb8480faf87fa842e279378591a5f306e2c8e5f2c07fab1c",
+      "source_sha256": "57e1ee03fd6ba5e52c0b492adb2d4eac319d606a4d73e7227aaa5c6799bbf75a",
+      "dhash": "3e3c3525256138f0",
+      "width": 600,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/kr/",
+        "https://car.orix.co.jp/kr_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-120.webp",
+      "source_url": "https://car.orix.co.jp/kr/camps_image/allinclusive2026kyusyu.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "https://car.orix.co.jp/kr/camps_image/prepaid.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/kr_sp/campaign/allinclusive2026kyusyu.html\">\n<img alt=\"올 인클루시브 프로텍션 플랜 규슈\" src=\"https://car.orix.co.jp/kr/camps_image/allinclusive2026kyusyu.jpg\"/>\n</a>\n</li>\n<li>\n<a href=\"https://car.orix.co.jp/kr_sp/campaign/hkd2026winter.html\">\n<img alt=\"홋카이도! 가을~겨울 특가 렌터카 플랜\" ",
+      "content_type": "image/webp",
+      "bytes": 23002,
+      "sha256": "64bb014b3eb59b7b2ad6c5c2fbeab76803859e2d22c63f1bc427a94047003ec0",
+      "source_sha256": "f2164ecd9078e64b546858438a0a0795065d3ddfd2af2ae51f58c7377ecfc115",
+      "dhash": "97979f96ce8bb277",
+      "width": 600,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/kr/",
+        "https://car.orix.co.jp/kr_sp/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-017.webp",
+      "source_url": "https://car.orix.co.jp/eng_sp/img/img_Compact_type.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img Compact div Image li cFix ul cFix div slide div content",
+      "content_type": "image/webp",
+      "bytes": 16144,
+      "sha256": "85a6662116d0e4c21c6f1c6be8007aa1c50039c8d6947c217508d06d9f8a5c44",
+      "source_sha256": "96e045c0a1fd7545a099e243e26491297e0f7aeee34f8d2e17aa002656aeda71",
+      "dhash": "40b4f0e0c28e80a2",
+      "width": 600,
+      "height": 476,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-121.webp",
+      "source_url": "https://car.orix.co.jp/eng/img/img_KvImgLine.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img div Image div secInner cFix section KeyVisualImgLine div page body",
+      "content_type": "image/webp",
+      "bytes": 34070,
+      "sha256": "d53bfbc25ce24453bbb938423aa23335f76a1f307fc718175ac2695dfd49ad99",
+      "source_sha256": "03bc4b1647bfd50106c4812788388c6c2413dd7896961917e2c82d44159eb1e9",
+      "dhash": "a6a6a6a387a3329a",
+      "width": 600,
+      "height": 278,
+      "variant": "desktop",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-018.webp",
+      "source_url": "https://car.orix.co.jp/eng_sp/img/img_Sedan_type.png?v=210611",
+      "source_tag": "img:banner, img:image",
+      "context": "img Standard div Image li cFix ul cFix div slide div content",
+      "content_type": "image/webp",
+      "bytes": 18474,
+      "sha256": "e19a33598357eb1f2dd3cc829f424d3bcec092039317acef6f197f02ddc84183",
+      "source_sha256": "379ad31a207a98d8a122a7a774758fe1310afaab4d02f1023f63fa729be8da10",
+      "dhash": "0805f8784f5f9c02",
+      "width": 600,
+      "height": 476,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-122.webp",
+      "source_url": "https://car.orix.co.jp/eng/img/img_RentalGuide.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img RentalGuide div Image div unit s-flex fade div secBody cFix div secInner section RentingDrivingArea",
+      "content_type": "image/webp",
+      "bytes": 41606,
+      "sha256": "cb9f14c8ed62d5fa18a5a5471e00d9dbdf0c0dbb64f10ed188f2128eca69c931",
+      "source_sha256": "95d299e2d79737dffaf6a50410d7274b1683bf4674f69ab0e1c2906e38a3490b",
+      "dhash": "cc941637531313c3",
+      "width": 600,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-019.webp",
+      "source_url": "https://car.orix.co.jp/eng_sp/img/img_Hybrid_EV_type.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img Eco-car and EV div Image li cFix ul cFix div slide div content",
+      "content_type": "image/webp",
+      "bytes": 15132,
+      "sha256": "02327cb33405cb0c3ef17652bf352fafac18e76d609ee23d67b3bbd76559386b",
+      "source_sha256": "239baadeb560971953104e87eae3c9cd7bd78962f2d36cc43c67a7b44a3598f9",
+      "dhash": "228030f4ca9a809a",
+      "width": 600,
+      "height": 476,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-123.webp",
+      "source_url": "https://car.orix.co.jp/eng/img/img_DrivinginJapan.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img Driving in Japan div Image div unit s-flex fade div secBody cFix div secInner section RentingDrivingArea",
+      "content_type": "image/webp",
+      "bytes": 20368,
+      "sha256": "3f60fc73a7ca92f92d45dab0cb9aaeaa4612e0e75bd5672f604406f65875c592",
+      "source_sha256": "b460a1db3a5b637271a64b21ecf3f09554e8b3fd79e53f968c175545c04f5200",
+      "dhash": "d4d0d4d4d4d4d4d4",
+      "width": 600,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-020.webp",
+      "source_url": "https://car.orix.co.jp/eng_sp/img/img_RV_MiniVan_type.png",
+      "source_tag": "img:banner, img:image",
+      "context": "img RV and Minivan div Image li cFix ul cFix div slide div content",
+      "content_type": "image/webp",
+      "bytes": 17224,
+      "sha256": "3c586139c7fb58b81d60d935b440c3032c4776e034fb34a5b1421da13027e028",
+      "source_sha256": "fd462296532314ad31b2a97e7ccedbd0d2cb2c7d752aed6346fcc3bacbaa8bd0",
+      "dhash": "0140dc13931c0812",
+      "width": 600,
+      "height": 476,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-124.webp",
+      "source_url": "https://car.orix.co.jp/eng/img/img_RequiredIDs.jpg",
+      "source_tag": "img:banner, img:image",
+      "context": "img Required IDs div Image div unit s-flex fade div secBody cFix div secInner section RentingDrivingArea",
+      "content_type": "image/webp",
+      "bytes": 38714,
+      "sha256": "6032e674abedd8fe68361ed0221dde6389c010c853c78ad9777a0229c5cb617d",
+      "source_sha256": "80e69c0ae81a05709d8ed942336553b5556e5ec710dab702b4d7ffc3a971a7b7",
+      "dhash": "e2c20e0444d59b0e",
+      "width": 600,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-125.webp",
+      "source_url": "https://car.orix.co.jp/eng_sp/img/img_Wagon_type.png?v=210611",
+      "source_tag": "img:banner, img:image",
+      "context": "img Wagon div Image li cFix ul cFix div slide div content",
+      "content_type": "image/webp",
+      "bytes": 17540,
+      "sha256": "d884a68c28f90a3ba5a62a851b7a748bf5dc58c36e28232b23048c0f9475c8d7",
+      "source_sha256": "0b2cfec65976a7880e166ae12e6c066b2847e0b6de7b5027f859a822c572ce8b",
+      "dhash": "0280fed093379862",
+      "width": 600,
+      "height": 476,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-126.webp",
+      "source_url": "https://car.orix.co.jp/eng_sp/img/img_Van_MiniVan_type.png?v=250124",
+      "source_tag": "img:banner, img:image",
+      "context": "img Van and Mini Cargo Van div Image li cFix ul cFix div slide div content",
+      "content_type": "image/webp",
+      "bytes": 21490,
+      "sha256": "13284223d55ee629f9dcb675a8fbf9248519f57d30306db5588fa69ee5d60910",
+      "source_sha256": "b3c84ecf08951d3a7891238599fdb606bfde30307f50de08ae54a7b024423ee7",
+      "dhash": "003d4ccc92c78832",
+      "width": 600,
+      "height": 476,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-127.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Compact.png?v=210611",
+      "source_tag": "html-data, img:image",
+      "context": "rice_compact.html\">\n<p class=\"nav-cmn-global-submenu-car-label\">乗用車</p>\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Compact.png?v=210611\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 12490,
+      "sha256": "a8cf54e62f206ae98f4b0d76473450e84c7edaec8027bae9454f3dd2d5588753",
+      "source_sha256": "11abdc514d4ece67b073d67f67373558e4803b1d002d8dc161e38886ecab2266",
+      "dhash": "0e17932323030f00",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-128.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Sedan.png?v=210611",
+      "source_tag": "html-data, img:image",
+      "context": "/price_sedan.html\">\n<p class=\"nav-cmn-global-submenu-car-label\">乗用車</p>\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Sedan.png?v=210611\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 13704,
+      "sha256": "d6e26696fa1cb8419b8b1be0b3b3077c78c14c45d2247b8539362a437d282d9d",
+      "source_sha256": "f6f80f7feb250a8e64b10227364817529a773ec0ec7fcd982108a68d867837fb",
+      "dhash": "21468b192f1f0e1d",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-129.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Eco.png",
+      "source_tag": "html-data, img:image",
+      "context": "ce/price_eco.html\">\n<p class=\"nav-cmn-global-submenu-car-label\">乗用車</p>\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Eco.png\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 12680,
+      "sha256": "8fe8b2327270da67dd2dc871526ccec599b1895ebca744c5c7f7c57f28cde501",
+      "source_sha256": "46a167d6c55db5f7dcb7b78d4cdaddbc0163e0845190ea73ad7333a28f618fed",
+      "dhash": "11468f1127535e01",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-130.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Rv.png?v=220128",
+      "source_tag": "html-data, img:image",
+      "context": "ice/price_rv.html\">\n<p class=\"nav-cmn-global-submenu-car-label\">乗用車</p>\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Rv.png?v=220128\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 16352,
+      "sha256": "4c2f2dab674a3d12aabdee2151954bd47cb2acb0252a161556ac4e03fb1a61cb",
+      "source_sha256": "bb80dc2ba6adb6b7b6bd34d88a78715f7c14ec7e060cb7d52a08b9fd5ddad226",
+      "dhash": "204797390b130f08",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-131.webp",
+      "source_url": "https://car.orix.co.jp/eng/img/img_Sedan_type.png?v=210611",
+      "source_tag": "img:banner, img:image",
+      "context": "img Standard div Image li fade cFix ul cFix div slide div content",
+      "content_type": "image/webp",
+      "bytes": 19330,
+      "sha256": "f8ff7249f189ec85eb16977aec8f11e71297c9b263ef458b7518c9de73b2ff18",
+      "source_sha256": "7893e02e1a2445a19be4d0456ff02e3ae30858b2b4250cef21f6893c9bb3ba7b",
+      "dhash": "11469b194f5f9c02",
+      "width": 600,
+      "height": 476,
+      "variant": "desktop",
+      "source_pages": [
+        "https://car.orix.co.jp/eng/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-132.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Wagon.png?v=210611",
+      "source_tag": "html-data, img:image",
+      "context": "/price_wagon.html\">\n<p class=\"nav-cmn-global-submenu-car-label\">乗用車</p>\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Wagon.png?v=210611\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 13366,
+      "sha256": "3dd12b6e278604de1ed3905f8ba6531a09ff81f4087e0f31872b137804d793a9",
+      "source_sha256": "88c745e651e88e21cc78099420b10b424cbab1af1dc1a7436d18eac8a72288d4",
+      "dhash": "000f1d3149373718",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-133.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Loaded_Van.png",
+      "source_tag": "html-data, img:image",
+      "context": "oaded_van.html\">\n<p class=\"nav-cmn-global-submenu-car-label\">商用・貨物車</p>\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Loaded_Van.png\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 16608,
+      "sha256": "6d602a05dc1fc151e0b26831e7ad9dcfe539ee51e00c0f4f84ffd52e6d806faf",
+      "source_sha256": "ec57efc3b031032fbe5d0e3094bd7e19226bc73af6f1acd995aaf0c9da8ac1bf",
+      "dhash": "000f2d4d43574f08",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-134.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Trucks_Hira.png",
+      "source_tag": "html-data, img:image",
+      "context": "ucks_hira.html\">\n<p class=\"nav-cmn-global-submenu-car-label\">商用・貨物車</p>\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Trucks_Hira.png\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 10326,
+      "sha256": "9271348018cb4323a82711321d9f16c75dd8d6bfd2348a1f3d4e87cc7cb10788",
+      "source_sha256": "6f48375c86d669fc365abff5c10e3c81c6f28d67f2d7f23658f70d44161dc3e0",
+      "dhash": "00079697372e0d00",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-135.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Trucks_Alumi.png",
+      "source_tag": "html-data, img:image",
+      "context": "cks_alumi.html\">\n<p class=\"nav-cmn-global-submenu-car-label\">商用・貨物車</p>\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Trucks_Alumi.png\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 14952,
+      "sha256": "343c994b2441684b49de0f500d6ff5b95f7cdf677f161e4f9c5b99844ea5b448",
+      "source_sha256": "c1c7dc66a583805022ada20a893dee9db32982608e9ecd30e8a7302116944502",
+      "dhash": "4787870727271713",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-136.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Microbus.png",
+      "source_tag": "html-data, img:image",
+      "context": "al-submenu-car-link\" href=\"https://car.orix.co.jp/price/microbus.html\">\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Microbus.png\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 16258,
+      "sha256": "d8978ed3069d3315152b72119e567d43cf0e80893995efbefd41c35774d075da",
+      "source_sha256": "ab49fa795864d02c23c055e75eded561f734dad14b2f27239caa41ff19cee766",
+      "dhash": "1c4f714725115709",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-137.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Welcab.png",
+      "source_tag": "html-data, img:image",
+      "context": "obal-submenu-car-link\" href=\"https://car.orix.co.jp/price/welcab.html\">\n<figure class=\"nav-cmn-global-submenu-car-symbol\">\n<img alt=\"\" class=\"nav-cmn-global-submenu-car-image\" src=\"https://car.orix.co.jp/assets/img/common/img/img_Car_Welcab.png\"/>\n<figcaption class=\"nav-cmn-global-submenu-car-caption txt-cmn-icon\"><i class=\"ico-cmn-material-arrow-right s-arrow-sm",
+      "content_type": "image/webp",
+      "bytes": 20606,
+      "sha256": "6a0799596c4cc62f60529ca5e02da9de9779d3bf9aa5bbb62917370eda36f6ef",
+      "source_sha256": "663b70d13f274b5d7e8e91ddc8f4744f0e85c12bf3799768199f2cbb020896fb",
+      "dhash": "20830f666e262308",
+      "width": 512,
+      "height": 290,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/",
+        "https://car.orix.co.jp/campaign/",
+        "https://car.orix.co.jp/campaigns/?dv=1",
+        "https://car.orix.co.jp/campaigns/?dv=2",
+        "https://car.orix.co.jp/campaigns/?dv=3",
+        "https://car.orix.co.jp/campaigns/?opg=1",
+        "https://car.orix.co.jp/campaigns/?opg=2",
+        "https://car.orix.co.jp/campaigns/?opg=3",
+        "https://car.orix.co.jp/campaigns/?opg=4"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-138.webp",
+      "source_url": "https://car.orix.co.jp/eng/userguide/img/img_Faq.jpg",
+      "source_tag": "img:image",
+      "context": "img Image:FAQs div Image div unitBody cFix div unit cFix div ContentsSelect cFix div secInner",
+      "content_type": "image/webp",
+      "bytes": 18696,
+      "sha256": "47a4b8596a563887369b23bda64d75081b3fcd38dcd89c4a573e31026b47fc96",
+      "source_sha256": "98796827de61d7ab55631592c5b01844f29f3d5cb4ea4606aaea6182b3e39508",
+      "dhash": "1263ceccec1ccc2c",
+      "width": 600,
+      "height": 400,
+      "variant": "mobile",
+      "source_pages": [
+        "https://car.orix.co.jp/eng_sp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-139.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/bnr/bnr_shop_assessment26_w1200.jpg",
+      "source_tag": "inline-css",
+      "context": "div  mod-cmn-club-image s-bgimg-position-top s-height-short-bgimg-position-top only-pc background-image:url(/assets/img/common/bnr/bnr_shop_assessment26_w1200.jpg);",
+      "content_type": "image/webp",
+      "bytes": 46410,
+      "sha256": "1b2de63b6df8a857847b773d3e0a4a80448666d5d824afeec175b35c7b1debe6",
+      "source_sha256": "30520e61a7a329c9af6ada266a9d6af063ff5ce537edeb083e2d798c3b60aade",
+      "dhash": "898a0e8f858d8444",
+      "width": 1200,
+      "height": 300,
+      "variant": "desktop",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-140.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/bnr/bnr_shop_assessment26_w959.jpg",
+      "source_tag": "inline-css",
+      "context": "div  mod-cmn-club-image s-bgimg-position-top s-height-short-bgimg-position-top no-pc background-image:url(/assets/img/common/bnr/bnr_shop_assessment26_w959.jpg);",
+      "content_type": "image/webp",
+      "bytes": 43742,
+      "sha256": "1f3db475d09f04ee752a103ac09dd550313ff56e50c5d2d539f275a07bfa98e5",
+      "source_sha256": "8297fe3d9c5fad4a70f5bbd409ae447cad68e89beeab09d24c948f6cec43db1f",
+      "dhash": "0c2b0f0e060e86a6",
+      "width": 959,
+      "height": 300,
+      "variant": "desktop",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-141.webp",
+      "source_url": "https://car.orix.co.jp/assets/img/common/bnr/bnr_job_w1200_ver200904.jpg",
+      "source_tag": "inline-css",
+      "context": "div  mod-cmn-club-image s-height-short background-image:url(/assets/img/common/bnr/bnr_job_w1200_ver200904.jpg);",
+      "content_type": "image/webp",
+      "bytes": 61438,
+      "sha256": "a2f90380d7990319c4a337ac88d445390bc771217258676a237cb74bd035f736",
+      "source_sha256": "e9e137739519ecea590792aef2d94e34c26792f4c091854ca9fe3151abf259e2",
+      "dhash": "6456dede969496d6",
+      "width": 1200,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://car.orix.co.jp/"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/orix-rent-a-car/og.png",
       "source_url": "https://car.orix.co.jp/assets/img/common/img/ogimage.png",
@@ -28,90 +3168,6 @@
       "sha256": "031356c069196a4392506fc061400e793251cedf7b086a4dc4a97c73faa0d5cd",
       "width": 1200,
       "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/orix-rent-a-car/logo-1.svg",
-      "source_url": "https://car.orix.co.jp/assets/img/common/logo/logo_01.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img header-logo-image オリックスレンタカー a header-logo-link h1 header-logo header header div wrapper wrapper",
-      "content_type": "image/svg+xml",
-      "bytes": 248238,
-      "sha256": "d08c6b8a099ddfb078ce459f9cfd099e3b1fc886784565f947880460c1918c11",
-      "width": 579,
-      "height": 133
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/orix-rent-a-car/logo-2.svg",
-      "source_url": "https://car.orix.co.jp/assets/img/common/logo/logo_orix_group.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img mod-cmn-group-logo ORIX オリックスグループ p mod-cmn-group-title div mod-cmn-group-in div mod-cmn-group footer footer",
-      "content_type": "image/svg+xml",
-      "bytes": 4150,
-      "sha256": "53b7e168bb2daf1c77cc8ecf0c75deabb4262c1cc50140ea8f7a53119dd12e78",
-      "width": 180,
-      "height": 23
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-1.webp",
-      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_rentacar_selfLP_pc.jpg?v=250711",
-      "source_tag": "picture:semantic-banner",
-      "context": "picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
-      "content_type": "image/webp",
-      "bytes": 83918,
-      "sha256": "f34797d3391499e907f99dc6291326a8524ab09faebd66c0df766c6902a5c506",
-      "width": 1280,
-      "height": 810
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_글로벌/orix-rent-a-car/banner-2.webp",
-      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_rentacar_selfLP_sp.jpg?v=250711",
-      "source_tag": "picture:semantic-banner",
-      "context": "picture hero-cmn-mainvisual-image a hero-cmn-mainvisual-link s-height-exp li hero-cmn-mainvisual-item ul hero-cmn-mainvisual-list div hero-cmn-mainvisual",
-      "content_type": "image/webp",
-      "bytes": 82560,
-      "sha256": "a2cd219c9538766bdf46a1a4c451a759bd157e1e0da10394851418d746e12a84",
-      "width": 1280,
-      "height": 567
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-1.webp",
-      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Compact.png?v=210611",
-      "source_tag": "img:page-image",
-      "context": "img nav-cmn-global-submenu-car-image figure nav-cmn-global-submenu-car-symbol a nav-cmn-global-submenu-car-link li nav-cmn-global-submenu-car-item ul nav-cmn-global-submenu-car",
-      "content_type": "image/webp",
-      "bytes": 13000,
-      "sha256": "3ed37d4621e683d97028dc8a9acb22334fd7facb017415e25b5b190d35dc389d",
-      "width": 512,
-      "height": 290
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-2.webp",
-      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Sedan.png?v=210611",
-      "source_tag": "img:page-image",
-      "context": "img nav-cmn-global-submenu-car-image figure nav-cmn-global-submenu-car-symbol a nav-cmn-global-submenu-car-link li nav-cmn-global-submenu-car-item ul nav-cmn-global-submenu-car",
-      "content_type": "image/webp",
-      "bytes": 14124,
-      "sha256": "d13daf2a478a8edb2949a85b64409d2b02c7159c67dc7b280bf3951c9339bc49",
-      "width": 512,
-      "height": 290
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/orix-rent-a-car/reference-3.webp",
-      "source_url": "https://car.orix.co.jp/assets/img/common/img/img_Car_Eco.png",
-      "source_tag": "img:page-image",
-      "context": "img nav-cmn-global-submenu-car-image figure nav-cmn-global-submenu-car-symbol a nav-cmn-global-submenu-car-link li nav-cmn-global-submenu-car-item ul nav-cmn-global-submenu-car",
-      "content_type": "image/webp",
-      "bytes": 13224,
-      "sha256": "45f38aa974ad9406313bfc098008355f5bf65ffdb11b728a1c4b195bd9786844",
-      "width": 512,
-      "height": 290
     }
   ]
 }

@@ -2,10 +2,21 @@
   "company": "Times Car Rental",
   "category": "렌터카_글로벌",
   "requested_url": "https://www.timescar-rental.com/",
-  "page_url": "https://www.timescar-rental.com/en/",
+  "page_url": "https://www.timescar-rental.com/",
   "page_title": "Rent A Car in Japan with Times | Times CAR RENTAL: Your Car Hire Company",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://www.timescar-renal.com/common/images/ogp.png:ConnectionError; asset:https://www.timescar-rental.com/images/shop/en/hokkaido_bg_5_001.png:HTTPError; asset:https://www.timescar-rental.com/common/fonts/fontawesome-webfont.svg?v=4.7.0:HTTPError; asset:https://www.timescar-rental.com/dynamic/js/clusterermarker1.png:HTTPError; asset:https://www.timescar-rental.com/dynamic/js/clusterermarker2.png:HTTPError; asset:https://www.timescar-rental.com/dynamic/js/clusterermarker3.png:HTTPError; asset:https://www.timescar-rental.com/dynamic/js/clusterermarker4.png:HTTPError; asset:https://www.timescar-rental.com/dynamic/js/clusterermarker5.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 26,
+    "scripts": 30,
+    "candidates": 82,
+    "attempted_assets": 82,
+    "errors": 8,
+    "collected_at": "2026-09-03T08:37:58.211357+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,658 @@
       "height": 152
     },
     {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/times-car-rental/logo-001.webp",
+      "source_url": "https://www.timescar-rental.com/common/images/header_logo002.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "日本</a></li>\n</ul>\n</li>\n</ul>\n</nav>\n</div>\n</div>\n</div>\n<div class=\"hd_logo-navi\">\n<div class=\"container\">\n<div class=\"hd_logo hd_logo2\">\n<h1>\n<a href=\"/en/\"><img alt=\"logo\" src=\"/common/images/header_logo002.png\"/></a>\n</h1>\n</div>\n<div class=\"hd_logo_right\">\n<div class=\"button-wrapper fl wi-25 mwi-15 wi-250 m-wi-180\">\n<a class=\"r",
+      "content_type": "image/webp",
+      "bytes": 2240,
+      "sha256": "6231905c2825f9743dbef9194b77c8772a4728c3d886e2180f8e8c92b99fdbe4",
+      "source_sha256": "e49ec3e96001ee1a0d6ca7862e55348ed54b60b9cff5dfc951f22c3234aafe75",
+      "dhash": "d0d0c1d3d4d8d0d0",
+      "width": 346,
+      "height": 64,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/en/ap/shop/",
+        "https://www.timescar-rental.com/en/beginner/",
+        "https://www.timescar-rental.com/en/deals/",
+        "https://www.timescar-rental.com/en/help/",
+        "https://www.timescar-rental.com/en/japan/license.html",
+        "https://www.timescar-rental.com/en/japan/rules.html",
+        "https://www.timescar-rental.com/en/price/",
+        "https://www.timescar-rental.com/en/support/",
+        "https://www.timescar-rental.com/en/topics/",
+        "https://www.timescar-rental.com/ko/",
+        "https://www.timescar-rental.com/zh_hk/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/times-car-rental/social-001.webp",
+      "source_url": "https://www.timescar-rental.com/common/images/ogp.png",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "ng Tokyo, Hokkaido, Kyoto, and Okinawa. With Times CAR RENTAL, you may enjoy our various car line up and special deals &amp; promotions.\" property=\"og:description\"/>\n<meta content=\"https://www.timescar-rental.com/common/images/ogp.png\" property=\"og:image\"/>\n<meta content=\"https://www.timescar-rental.com/en/\" property=\"og:url\"/>\n<!-- /OGP -->\n<!-- Twitte",
+      "content_type": "image/webp",
+      "bytes": 5492,
+      "sha256": "fcaf745f311ab15fd7170d6dfe7610dab7494c766c45c433f805ece8c3909a75",
+      "source_sha256": "2e3f13024537dfadbe3e562386db9b39b6a4304037bc0bf667c06cad6b27295b",
+      "dhash": "000000aca4000000",
+      "width": 600,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/en/ap/shop/",
+        "https://www.timescar-rental.com/en/beginner/",
+        "https://www.timescar-rental.com/en/price/",
+        "https://www.timescar-rental.com/en/support/",
+        "https://www.timescar-rental.com/en/topics/",
+        "https://www.timescar-rental.com/ko/",
+        "https://www.timescar-rental.com/zh_hk/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-001.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_banne_pc.jpg",
+      "source_tag": "external-css",
+      "context": "ext-align: center;\r\n}\r\n\r\n.banner-headline-wrapper {\r\n  display: none;\r\n}\r\n\r\n#top .image-box a:after {\r\n  content: \"\\f054\";\r\n  font-family: FontAwesome;\r\n  font-size: 1rem;\r\n  position: absolute;\r\n  right: 12px;\r\n  top: 15px;\r\n}\r\n\r\n#top-banner {\r\n  background: url(../../images/top/top_banne_pc.jpg) no-repeat top center;\r\n  background-size: cover;\r\n  padding: 40px 0px;\r\n  display: inline-block;\r\n  w",
+      "content_type": "image/webp",
+      "bytes": 227444,
+      "sha256": "48190693c5e35d6a4fe271b36479f02ff41f4ba402ccb5360510c549f59a560c",
+      "source_sha256": "f0767272fd49c4833ae214dd585f2a881e507d535c80de34669a895dc4e280bf",
+      "dhash": "3e22222626f296d6",
+      "width": 1600,
+      "height": 575,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-002.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_banne_sp.jpg",
+      "source_tag": "external-css",
+      "context": "search-form .mobile-submit {\r\n    background-color: #fad600;\r\n    border: none;\r\n    padding: 15px;\r\n    width: 90%;\r\n    margin-top: 10px;\r\n    text-transform: uppercase;\r\n    font-size: 1.7rem;\r\n    font-weight: 600;\r\n  }\r\n\r\n  #top-banner {\r\n    background: url(../../images/top/top_banne_sp.jpg) no-repeat top center;\r\n    background-size: cover;\r\n    display: inline-block;\r\n    margin-bottom: 40",
+      "content_type": "image/webp",
+      "bytes": 103108,
+      "sha256": "ceac7a2899562a09921a54d80be388ebea94fbf6299f0f9aa8cd2ea6dde0745f",
+      "source_sha256": "8721f31904cb7ce2c8624650f4a61a0ecd2758762517d68c16a63daab15fd28c",
+      "dhash": "0e8e32979c8fd1d2",
+      "width": 750,
+      "height": 480,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-001.webp",
+      "source_url": "https://www.timescar-rental.com/images/price/index_ph007.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "div class=\"grid-12\">\n<div class=\"ttl-lv2\">\n<h2>Super promotion</h2>\n</div>\n</div>\n<div class=\"grid-lg-5 grid-lg-6 grid-md-6 grid-sm-12 image-wrapper\"><img alt=\"Get a discount\" src=\"/images/price/index_ph007.png\"/></div>\n<div class=\"grid-lg-7 grid-lg-6 grid-md-6 grid-sm-12 grid-12\">\n<p>Various promotions are available nationwide f",
+      "content_type": "image/webp",
+      "bytes": 19434,
+      "sha256": "6bec665471debf2fc820768ad5cc4f6d2e08d5d3136197da972db935a8721d95",
+      "source_sha256": "c8e6b0d2f94be396deeb5e80dc5ae791da73bf1cc21f1145897fd72088938bfc",
+      "dhash": "a4ba999993333f7f",
+      "width": 540,
+      "height": 284,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/price/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-003.webp",
+      "source_url": "https://www.timescar-rental.com/images/help/index_ph001.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "er image-box-shadow\">\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12 col1\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\"><img alt=\"For First-Time Customers\" src=\"/images/help/index_ph001.png\"/></div>\n<div class=\"image-box-content\">\n<h3>For First-Time Customers</h3>\n<p>We offer various tips and services to cust",
+      "content_type": "image/webp",
+      "bytes": 32628,
+      "sha256": "f1e61f0c35a74e372e6b18f5af8cc46f57eb98b5aed1eea57b901114d77fa1ca",
+      "source_sha256": "ce4c16aaec1d5f89a3bc79751218efe993b67896c1c534eb5f7b44009877d6f2",
+      "dhash": "b978acad8686c5c3",
+      "width": 690,
+      "height": 363,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/help/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-004.webp",
+      "source_url": "https://www.timescar-rental.com/images/beginner/index_ph001.png?20240625=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "apper image-box-shadow\">\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\">\n<img alt=\"How to Make a Reservation\" src=\"/images/beginner/index_ph001.png?20240625\"/>\n</div>\n<div class=\"image-box-content\">\n<h3>How to Make a Reservation</h3>\n<p>This section provides an easy-to-underst",
+      "content_type": "image/webp",
+      "bytes": 46500,
+      "sha256": "037f08a511b6ca901da3d4613c08529cfa6f734bfa7ad69d6dffb58eda5ee5fc",
+      "source_sha256": "8c4a9d5095f8c733da28b9ce7156e4a7a45cdda0e5f47e0fde532a01f96e49bb",
+      "dhash": "3b5b5b1459a93c38",
+      "width": 687,
+      "height": 363,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/beginner/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-002.webp",
+      "source_url": "https://www.timescar-rental.com/images/japan/license_ph001.png?20190830=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"grid-md-4 grid-sm-4 grid-12 first\">\n<div class=\"box-wrapper\">\n<h3><span>International Driving Permit</span></h3>\n<div class=\"image-wrapper\">\n<span><img alt=\"Driver’s License\" src=\"/images/japan/license_ph001.png?20190830\"/></span>\n</div>\n</div>\n</div>\n<div class=\"grid-md-4 grid-sm-4 grid-12\">\n<div class=\"box-wrapper\">\n<h3><span>Valid passp",
+      "content_type": "image/webp",
+      "bytes": 5282,
+      "sha256": "31a64e6acc282ff8beffa4eac18ea52ff87d635846a81bf22157d84b44601c72",
+      "source_sha256": "108442309b2d1111508d65fc05ec4f226219ccea07dfe64c27d32b755a360578",
+      "dhash": "9696969696969696",
+      "width": 446,
+      "height": 278,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/japan/license.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-003.webp",
+      "source_url": "https://www.timescar-rental.com/images/japan/rules_ph001.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"row rules\">\n<div class=\"grid-12\">\n<h2 class=\"ttl-lv2\">Basic Rules</h2>\n<h3 class=\"ttl-lv3\">Driving on the left</h3>\n<div class=\"image-wrapper\">\n<img alt=\"Driving on the left\" src=\"/images/japan/rules_ph001.png\"/>\n</div>\n<div class=\"content-wrapper\">\n<p>Always drive on the left side of the road.</p>\n</div>\n</div>\n<div class=\"grid",
+      "content_type": "image/webp",
+      "bytes": 44260,
+      "sha256": "dcbb69c58beab9384857c8f352e3e426df4ae902db487c4abf5c615f1bd288ec",
+      "source_sha256": "7e4ee65d38cf6645703e7893764e9a8cd785f761c028c702adc1726405769613",
+      "dhash": "4ddf67cf4d93a3e3",
+      "width": 540,
+      "height": 284,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/japan/rules.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-005.webp",
+      "source_url": "https://www.timescar-rental.com/images/help/index_ph002.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\n</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12 col2\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\"><img alt=\"Information on Driving in Japan\" src=\"/images/help/index_ph002.png\"/></div>\n<div class=\"image-box-content\">\n<h3>Information on Driving in Japan</h3>\n<p>These are the rules of the road and",
+      "content_type": "image/webp",
+      "bytes": 48488,
+      "sha256": "813a2a0d5fdd95a55039bc66b0a41ef5e307f864128292a33d4bcb6aecee1e80",
+      "source_sha256": "3eba6d03603de17d6e639057ff1ad09297cac76a53ebde0cb091a7de3da3b486",
+      "dhash": "db8e24a4e4e56d4d",
+      "width": 690,
+      "height": 363,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/help/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-006.webp",
+      "source_url": "https://www.timescar-rental.com/images/beginner/index_ph002.png?20200415=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "</a>\n</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\">\n<img alt=\"Pick-up, Return, and Settlement\" src=\"/images/beginner/index_ph002.png?20200415\"/>\n</div>\n<div class=\"image-box-content\">\n<h3>Pick-up, Return, and Settlement</h3>\n<p>This section provides information ",
+      "content_type": "image/webp",
+      "bytes": 20814,
+      "sha256": "3426ee5916ad6185b580fbef87cda1aaf0129f56254a0a56155306b3f3487ab6",
+      "source_sha256": "543edbc44e71761a5ed5b4443a729b679903659e97fad8adb214680665a9e3b3",
+      "dhash": "5b93cb1931399833",
+      "width": 690,
+      "height": 363,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/beginner/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-004.webp",
+      "source_url": "https://www.timescar-rental.com/images/japan/rules_ph002.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/div>\n<div class=\"grid-12\">\n<h3 class=\"ttl-lv3\">Use of seatbelts by all seated passengers</h3>\n<div class=\"image-wrapper\">\n<img alt=\"Use of seatbelts by all seated passengers\" src=\"/images/japan/rules_ph002.png\"/>\n</div>\n<div class=\"content-wrapper\">\n<p>Every driver and every occupant of a motor vehicle is required by law to wear",
+      "content_type": "image/webp",
+      "bytes": 31988,
+      "sha256": "ccb4530ff8c2fe1b173f153a883bc632945087a77ed80a5c9337ca7a9fb23acb",
+      "source_sha256": "3530daf5f612f390c3ea023758f67c0b46a5f135871ffec66e804b4d6acd033f",
+      "dhash": "cd5c5ec6e6262569",
+      "width": 540,
+      "height": 284,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/japan/rules.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-007.webp",
+      "source_url": "https://www.timescar-rental.com/images/help/index_ph003.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12 col3\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\"><img alt=\"Compensation, Accident &amp; Car Troubles\" src=\"/images/help/index_ph003.png\"/></div>\n<div class=\"image-box-content\">\n<h3>Compensation, Accident &amp; Car Troubles</h3>\n<p>What to do and compensati",
+      "content_type": "image/webp",
+      "bytes": 33974,
+      "sha256": "ee5458c080bc4a1364893f435c68cd286ee90904f369e8f0481d6311241a43ba",
+      "source_sha256": "ad5d03136d58cdcda197b9ec691b9c46109f759bcf39662cf79d575037597c87",
+      "dhash": "9068ccc84cb51442",
+      "width": 690,
+      "height": 363,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/help/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-008.webp",
+      "source_url": "https://www.timescar-rental.com/images/beginner/index_ph003.png?20240625=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "eturn.html\"></a>\n</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\">\n<img alt=\"Selecting a Vehicle\" src=\"/images/beginner/index_ph003.png?20240625\"/>\n</div>\n<div class=\"image-box-content\">\n<h3>Selecting a Vehicle</h3>\n<p>This section provides suggestions on which veh",
+      "content_type": "image/webp",
+      "bytes": 27386,
+      "sha256": "2be27ed329d75233e0414d789a8e674f329b988c212d39a3e5724d9d2f828d7f",
+      "source_sha256": "5b0f81034001567aaf813fc0bec1d1e8a292414886b9fb4a216a58f498a814df",
+      "dhash": "8000d292a4e77498",
+      "width": 687,
+      "height": 363,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/beginner/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-005.webp",
+      "source_url": "https://www.timescar-rental.com/images/japan/license_ph003.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "sm-4 grid-12\">\n<div class=\"box-wrapper\">\n<h3><span>Valid driver’s license issued by your home country</span></h3>\n<div class=\"image-wrapper\">\n<span><img alt=\"Driver’s License\" src=\"/images/japan/license_ph003.png\"/></span>\n</div>\n</div>\n</div>\n<div class=\"grid-md-4 grid-sm-4 grid-12 space_btm\">\n<div class=\"box-wrapper\">\n<h3><span>V",
+      "content_type": "image/webp",
+      "bytes": 15598,
+      "sha256": "0bd7ceabe5c15f2c4a5fe9eb28239e494e004f710f1b5b8cad79406f1172b65e",
+      "source_sha256": "e93ef78275cf0588478ba6583f57caf5d28c3c5f20ccd0caa1db00f00987dfed",
+      "dhash": "1333899096ce8e9a",
+      "width": 446,
+      "height": 278,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/japan/license.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-006.webp",
+      "source_url": "https://www.timescar-rental.com/images/japan/rules_ph003.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "2\">\n<h3 class=\"ttl-lv3\">Prohibition of smartphone/cellphone use while driving</h3>\n<div class=\"image-wrapper\">\n<img alt=\"Prohibition of smartphone/cellphone use while driving\" src=\"/images/japan/rules_ph003.png\"/>\n</div>\n<div class=\"content-wrapper\">\n<p>Stop the vehicle in a safe location that is off the road before using your sm",
+      "content_type": "image/webp",
+      "bytes": 12298,
+      "sha256": "99353380913f9e93f7f64b8985a98c13f417d77ee3d81d64b3457803febc7588",
+      "source_sha256": "2eed2535f09b5d03225d82ea09157e7c6520334e00fd34c90b0560e17a209df8",
+      "dhash": "439090d1517969cc",
+      "width": 540,
+      "height": 284,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/japan/rules.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-009.webp",
+      "source_url": "https://www.timescar-rental.com/images/help/index_ph004.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "></a>\n</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12 col4\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\"><img alt=\"Frequently Asked Questions\" src=\"/images/help/index_ph004.png\"/></div>\n<div class=\"image-box-content\">\n<h3>Frequently Asked Questions</h3>\n<p>These are frequently asked questions abo",
+      "content_type": "image/webp",
+      "bytes": 29476,
+      "sha256": "79d1ecf04b35743f23ab42621eb9768619af716971c0675fdc46de27df4ef707",
+      "source_sha256": "4e1c7c307e2fd96d319187f6fa8abb3c1c669d82e4030209bb0554b3031d682d",
+      "dhash": "de5a19c7cd899395",
+      "width": 690,
+      "height": 363,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/help/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-010.webp",
+      "source_url": "https://www.timescar-rental.com/images/beginner/index_ph004.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12\">\n<div class=\"image-box box-h-auto\">\n<div class=\"image-box-image-wrapper\">\n<img alt=\"How to Use GPS Navigation\" src=\"/images/beginner/index_ph004.png\"/>\n</div>\n<div class=\"image-box-content\">\n<h3>How to Use GPS Navigation</h3>\n<p>This section provides a thorough explana",
+      "content_type": "image/webp",
+      "bytes": 30100,
+      "sha256": "13d4fd403243186d52dfb008c14d7ca9774498c00828cdbd24a519a0ae19268f",
+      "source_sha256": "f146c658a13e1e134ccb57f3f1f7062bb18162355cedd14c5a643181918eeb03",
+      "dhash": "1ccf1c273726ac9c",
+      "width": 690,
+      "height": 363,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/beginner/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-007.webp",
+      "source_url": "https://www.timescar-rental.com/images/japan/rules_ph004.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "road before using your smartphone or cellphone.</p>\n</div>\n</div>\n<div class=\"grid-12\">\n<h3 class=\"ttl-lv3\">Speed limit</h3>\n<div class=\"image-wrapper\">\n<img alt=\"Speed limit\" src=\"/images/japan/rules_ph004.png\"/>\n</div>\n<div class=\"content-wrapper\">\n<p>In most cases, the speed limit on expressways is 80km/h to 100km/h, and 30km/",
+      "content_type": "image/webp",
+      "bytes": 9550,
+      "sha256": "df07322b970ffda515b225b9a380a51e3e7336dff1a49b548f6b605211e91a6c",
+      "source_sha256": "0c65ffd845489d943f666f1996a682d3b358f7872d3a531eb6a5eaf3d80d60da",
+      "dhash": "0c08080c2c0c2c2c",
+      "width": 540,
+      "height": 284,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/japan/rules.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/times-car-rental/banner-011.webp",
+      "source_url": "https://www.timescar-rental.com/images/help/index_ph005.png?20200415=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\"/en/faq/\"></a>\n</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12 col5\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\"><img alt=\"Customer Service\" src=\"/images/help/index_ph005.png?20200415\"/></div>\n<div class=\"image-box-content\">\n<h3>Customer Service</h3>\n<p>For your safety, Times CAR RENTAL offers various s",
+      "content_type": "image/webp",
+      "bytes": 34296,
+      "sha256": "a632f29c06d48632de2e50ece950d65e8d6ea1bd49e602d94bb85da657e7e93e",
+      "source_sha256": "c2f9fe981c24ec7a6ca5f186ca7baba1bec8ed9d77ffc334bf8b9c63724b4ac4",
+      "dhash": "80180c98c8c2a999",
+      "width": 690,
+      "height": 363,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/help/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-008.webp",
+      "source_url": "https://www.timescar-rental.com/images/japan/rules_ph005.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "h, and 30km/h to 60km/h on non-expressways.</p>\n</div>\n</div>\n<div class=\"grid-12\">\n<h3 class=\"ttl-lv3\">Toddler seats</h3>\n<div class=\"image-wrapper\">\n<img alt=\"Toddler seats\" src=\"/images/japan/rules_ph005.png\"/>\n</div>\n<div class=\"content-wrapper\">\n<p>Children below 6 years of age are required by law to use toddler seats.</p>\n<",
+      "content_type": "image/webp",
+      "bytes": 20152,
+      "sha256": "88bc59e03817e451dec23cc02a2a57c9e87a022b42d6fbc1b95e91275febaf5c",
+      "source_sha256": "38882a782d77c5ef3c06fae256c54a3ce93c49b41b28f84a2fbaed3d4989d9fe",
+      "dhash": "115151434b9b1b0b",
+      "width": 540,
+      "height": 284,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/japan/rules.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-009.webp",
+      "source_url": "https://www.timescar-rental.com/images/japan/rules_ph006.png?20240625=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "d by law to use toddler seats.</p>\n</div>\n</div>\n<div class=\"grid-12\">\n<h3 class=\"ttl-lv3\">Vehicle height/width</h3>\n<div class=\"image-wrapper\"><img alt=\"Vehicle height/width\" src=\"/images/japan/rules_ph006.png?20240625\"/></div>\n<div class=\"content-wrapper\">\n<p>The height and width of the rental car may be different from those of the vehi",
+      "content_type": "image/webp",
+      "bytes": 16306,
+      "sha256": "da42de1479112e534b0e3b8db21f366e4d97b0899188b9b743ef122d0b0006fb",
+      "source_sha256": "cde3f18452124afd8afefede70c9e393255e3841cba2af2a3453077835f4b271",
+      "dhash": "8c63e498f6f839d3",
+      "width": 540,
+      "height": 284,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/japan/rules.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-010.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_ph001.png?20200120=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "e-box\">\n<div class=\"row\">\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12 grid-12\">\n<div class=\"image-box\">\n<h3>Japan Network</h3>\n<div class=\"image-box-image-wrapper\">\n<img src=\"/images/top/top_ph001.png?20200120\">\n</img></div>\n<div class=\"image-box-content\">\n<p>Japan Airport and Station Hokkaido,Tokyo,Kyoto, Oosaka,Fukuoka,Okinawa",
+      "content_type": "image/webp",
+      "bytes": 42134,
+      "sha256": "d50e4e13d8786ed7a680b2726a8bd555f9b9c57e21ede324273d1e60488f2fcf",
+      "source_sha256": "1a9a41a1b784ec97fb5aba878250cec6dac7fcda39ea5675adca08c7aa56777e",
+      "dhash": "c4cf1bffc78eabff",
+      "width": 690,
+      "height": 545,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/ko/",
+        "https://www.timescar-rental.com/zh_hk/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-011.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_ph002.png",
+      "source_tag": "html-data, img:image",
+      "context": "/div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12 grid-12\">\n<div class=\"image-box models\">\n<h3>Abundant car models</h3>\n<div class=\"image-box-image-wrapper\">\n<img src=\"/images/top/top_ph002.png\">\n</img></div>\n<div class=\"image-box-content\">\n<p>We have Quality &amp; Availability in all Car models</p>\n</div>\n<a cla",
+      "content_type": "image/webp",
+      "bytes": 16616,
+      "sha256": "c89a36e34dc66b47444385cff4c226d1868dcbe31dd0d41142d3f00c8bb8d30b",
+      "source_sha256": "ede3e6a0e54921009e07c70530f8a1956e95b0b29b6aeeafbf7eb9e2ed6a8273",
+      "dhash": "00009025da982c51",
+      "width": 690,
+      "height": 544,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/ko/",
+        "https://www.timescar-rental.com/zh_hk/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-012.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_ph003.png?20200415=",
+      "source_tag": "html-data, img:image",
+      "context": "iv>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12 grid-12\">\n<div class=\"image-box service\">\n<h3>Compensation Service</h3>\n<div class=\"image-box-image-wrapper\">\n<img src=\"/images/top/top_ph003.png?20200415\"/>\n</div>\n<div class=\"image-box-content\">\n<p>Times CAR RENTAL offers industry’s top class compensation service!</p>\n</di",
+      "content_type": "image/webp",
+      "bytes": 29398,
+      "sha256": "7379778e44d5e64fab152f262f30808f6a9167c313e02ae44b8a3d9584be92d5",
+      "source_sha256": "689aeea41f98f717ecf50143b43921335cc30af9cc9e2577f7182584f1e47c34",
+      "dhash": "032d8cc61e1844cc",
+      "width": 690,
+      "height": 544,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/ko/",
+        "https://www.timescar-rental.com/zh_hk/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-013.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_ph004.png?20200415=",
+      "source_tag": "html-data, img:image",
+      "context": "w\">\n<div class=\"row\">\n<div class=\"grid-lg-4 grid-md-4 grid-sm-12 grid-12 grid-12\">\n<div class=\"image-box\">\n<h3>Beginner’s guide</h3>\n<div class=\"image-box-image-wrapper\">\n<img src=\"/images/top/top_ph004.png?20200415\"/>\n</div>\n<div class=\"image-box-content\">\n<p>How to use Times CAR RENTAL for the first time</p>\n</div>\n<a class=\"box-ove",
+      "content_type": "image/webp",
+      "bytes": 46354,
+      "sha256": "50c6e4cc3744bf1bd444032b502631f4cdfc3f7ee6aee47669496cccdd38b47f",
+      "source_sha256": "d33f8ce8b0b3d5157c5f3600253fb0e59711e2649bb3c358629243d2f560a7e7",
+      "dhash": "fcdfbcb2909a8e0e",
+      "width": 690,
+      "height": 544,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/ko/",
+        "https://www.timescar-rental.com/zh_hk/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-014.webp",
+      "source_url": "https://www.timescar-rental.com/images/price/index_ph001.png?20240625=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mage-box-shadow\">\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\">\n<blockquote>\n<p><img alt=\"Compact Vehicles\" src=\"/images/price/index_ph001.png?20240625\"/></p>\n</blockquote>\n</div>\n<div class=\"image-box-content\">\n<blockquote>\n<h3>Compact Vehicles</h3>\n<p>Small, easy-to-dri",
+      "content_type": "image/webp",
+      "bytes": 15704,
+      "sha256": "89ad8ca1fc1c60de08ac5358ae42ce628f16491a6c51b5fbb7e6d11e376b6814",
+      "source_sha256": "38eafa28721e54b76b02c04750cb3dc729d6471a73f8280a82100e539ad9e04a",
+      "dhash": "04e0e4e4ca9eb818",
+      "width": 540,
+      "height": 248,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-015.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_ph005.png",
+      "source_tag": "html-data, img:image",
+      "context": "a>\n</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-12 grid-12 grid-12\">\n<div class=\"image-box models\">\n<h3>Want to drive?</h3>\n<div class=\"image-box-image-wrapper\">\n<img src=\"/images/top/top_ph005.png\"/>\n</div>\n<div class=\"image-box-content\">\n<p>Japanese License Required</p>\n</div>\n<a class=\"box-overlap-link\" href=\"/en/",
+      "content_type": "image/webp",
+      "bytes": 36052,
+      "sha256": "76b57b2d1bc8d1ce2708ff6c834c874f9c82a4533d45d36af70d7ee0f24f1fa9",
+      "source_sha256": "34b2f00ca682b6621a1808ed4c302a620ce67320cf8eec921d3c27e65beea572",
+      "dhash": "8d1d5f7fcf9dc9a0",
+      "width": 690,
+      "height": 544,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/ko/",
+        "https://www.timescar-rental.com/zh_hk/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-016.webp",
+      "source_url": "https://www.timescar-rental.com/images/price/index_ph002.png?20260728=",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/\"></a>\n</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper px-30\">\n<blockquote>\n<p><img alt=\"Sedans\" src=\"/images/price/index_ph002.png?20260728\"/></p>\n</blockquote>\n</div>\n<div class=\"image-box-content\">\n<blockquote>\n<h3>Sedans</h3>\n<p>Very comfortable vehicles wh",
+      "content_type": "image/webp",
+      "bytes": 7956,
+      "sha256": "b9ad7970110413cdbf72c2b09270a52977e2e36ea294ca936be90c99627afb09",
+      "source_sha256": "eb0745584ab08872f4559194a0879370bc59690d34e324917fcc3a85fb2a8a4f",
+      "dhash": "10201838e4d0e060",
+      "width": 540,
+      "height": 248,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-017.webp",
+      "source_url": "https://www.timescar-rental.com/images/top/top_ph006.png",
+      "source_tag": "html-data, img:image",
+      "context": "</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-12 grid-12 grid-12\">\n<div class=\"image-box service\">\n<h3>Driving in japan</h3>\n<div class=\"image-box-image-wrapper\">\n<img src=\"/images/top/top_ph006.png\"/>\n</div>\n<div class=\"image-box-content\">\n<p>How to learn Japanese traffic rules</p>\n</div>\n<a class=\"box-overlap-link\" ",
+      "content_type": "image/webp",
+      "bytes": 102242,
+      "sha256": "0d6b862c224e1a0e450c90302517e8805f8f08622d09a344a047bcf67ad355f3",
+      "source_sha256": "e7db3876d5a6ae9ab9cd039e8ba392def2c73ed0bdf9c7d7e2a750082741de36",
+      "dhash": "3b4bc8b5b7cd496b",
+      "width": 690,
+      "height": 544,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/",
+        "https://www.timescar-rental.com/ko/",
+        "https://www.timescar-rental.com/zh_hk/",
+        "https://www.timescar-rental.com/zh_tw/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-018.webp",
+      "source_url": "https://www.timescar-rental.com/images/price/index_ph003.png?20230703=",
+      "source_tag": "html-data, img:image",
+      "context": ">\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\">\n<blockquote>\n<p><img alt=\"Sports Cars Imported Cars\" src=\"/images/price/index_ph003.png?20230703\"/></p>\n</blockquote>\n</div>\n<div class=\"image-box-content\">\n<blockquote>\n<h3>Sports Cars</h3>\n<p>Vehicle class for activ",
+      "content_type": "image/webp",
+      "bytes": 8436,
+      "sha256": "dd700943674e1eb936bcec070dd46f35ef685b113fe3951d9ebb071f679ba277",
+      "source_sha256": "edcdf52ceab1e35c12d907815da577edf97e636e8ed98cd9ab7b5976d17f3025",
+      "dhash": "0814726968f13040",
+      "width": 540,
+      "height": 258,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-019.webp",
+      "source_url": "https://www.timescar-rental.com/images/price/index_ph004.png?20260728=",
+      "source_tag": "html-data, img:image",
+      "context": "\"></a>\n</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\">\n<blockquote>\n<p><img alt=\"Minivans Vans\" src=\"/images/price/index_ph004.png?20260728\"/></p>\n</blockquote>\n</div>\n<div class=\"image-box-content\">\n<blockquote>\n<h3>Minivans/Vans</h3>\n<p>Vehicles that are per",
+      "content_type": "image/webp",
+      "bytes": 14308,
+      "sha256": "8404ca8c25fc69c7d66713571c9e38aaef85f7990606a62e4ee1699171738ca9",
+      "source_sha256": "a67ed6c6fb59fdb3091aa2413630aaf69c55a2f3171feaa8f468a0b7de4f911f",
+      "dhash": "4026e4ec82a4d819",
+      "width": 540,
+      "height": 248,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-020.webp",
+      "source_url": "https://www.timescar-rental.com/images/price/index_ph005.png?20220728=",
+      "source_tag": "html-data, img:image",
+      "context": "\n</div>\n</div>\n<div class=\"grid-lg-4 grid-md-4 grid-sm-6 grid-12\">\n<div class=\"image-box\">\n<div class=\"image-box-image-wrapper\">\n<blockquote>\n<p><img alt=\"Station Wagons SUVs\" src=\"/images/price/index_ph005.png?20220728\"/></p>\n</blockquote>\n</div>\n<div class=\"image-box-content\">\n<blockquote>\n<h3>Station Wagons/SUVs</h3>\n<p>Vehicle class t",
+      "content_type": "image/webp",
+      "bytes": 16970,
+      "sha256": "940e1d5b9fb33a9031531beca7463532ff19a8e51edd0adc44d9dc5fea6bce35",
+      "source_sha256": "47754357726788b0cab0b2bcfef904edd76638dbee3497f8b86ce3dc3d64347d",
+      "dhash": "0470e4eca6969838",
+      "width": 540,
+      "height": 248,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/price/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/times-car-rental/reference-021.webp",
+      "source_url": "https://www.timescar-rental.com/images/price/index_ph006.png?20260728=",
+      "source_tag": "html-data, img:image",
+      "context": "-1 Class Price List</h4>\n</div>\n</div>\n<div class=\"grid-12\">\n<div class=\"wrapper table-1\">\n<table>\n<tr>\n<td class=\"mobile-hide img-border wi-300\" rowspan=\"3\"><img alt=\"MAZDA2\" src=\"/images/price/index_ph006.png?20260728\"/><br/>\r\n                MAZDA2</td>\n<td class=\"td-fs-15 td-bg-alice-blue\" colspan=\"3\">Base Fees</td>\n<td class=\"td-fs-1",
+      "content_type": "image/webp",
+      "bytes": 13764,
+      "sha256": "0c2d76e694cf15fcc9baba63b3f00283d54c03112a9fe4f82c0d0c0160f1ecb6",
+      "source_sha256": "92f69c643cb7d365941d79f4a4668a18844bd1b9d42775f9986d2fa31df7254d",
+      "dhash": "40b87ce69a98c0e0",
+      "width": 498,
+      "height": 274,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.timescar-rental.com/en/price/"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/times-car-rental/og.png",
       "source_url": "https://www.timescar-rental.com/common/images/ogp.png",
@@ -28,54 +691,6 @@
       "sha256": "2e3f13024537dfadbe3e562386db9b39b6a4304037bc0bf667c06cad6b27295b",
       "width": 600,
       "height": 600
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/times-car-rental/logo-1.png",
-      "source_url": "https://www.timescar-rental.com/common/images/header_logo002.png",
-      "source_tag": "img:semantic-logo",
-      "context": "img logo a h1 div hd_logo hd_logo2 div container",
-      "content_type": "image/png",
-      "bytes": 3850,
-      "sha256": "e0d169b85a35914ecd16888b4431ba1a69ee683018f6e4d9c2b7223e66ad822a",
-      "width": 346,
-      "height": 64
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/times-car-rental/reference-1.webp",
-      "source_url": "https://www.timescar-rental.com/images/top/top_ph001.png?20200120",
-      "source_tag": "img:page-image",
-      "context": "img div image-box-image-wrapper div image-box div grid-lg-4 grid-md-4 grid-sm-6 grid-12 grid-12 div row",
-      "content_type": "image/webp",
-      "bytes": 44484,
-      "sha256": "15b3900e62a04c847110ade139c506e6b32d92571f0d1e8d0a265c4b7881fd42",
-      "width": 690,
-      "height": 545
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/times-car-rental/reference-2.webp",
-      "source_url": "https://www.timescar-rental.com/images/top/top_ph002.png",
-      "source_tag": "img:page-image",
-      "context": "img div image-box-image-wrapper div image-box models div grid-lg-4 grid-md-4 grid-sm-6 grid-12 grid-12 div row",
-      "content_type": "image/webp",
-      "bytes": 17222,
-      "sha256": "121bb123d2bbace41bb4c470b046ea31e00b356740fe0bd0a445c0d652c18835",
-      "width": 690,
-      "height": 544
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/times-car-rental/reference-3.webp",
-      "source_url": "https://www.timescar-rental.com/images/top/top_ph003.png?20200415",
-      "source_tag": "img:page-image",
-      "context": "img div image-box-image-wrapper div image-box service div grid-lg-4 grid-md-4 grid-sm-6 grid-12 grid-12 div row",
-      "content_type": "image/webp",
-      "bytes": 31420,
-      "sha256": "d949d1f91e89a897e811baced676bb8fb11bad76df167a89f5a9c169f34c8128",
-      "width": 690,
-      "height": 544
     }
   ]
 }

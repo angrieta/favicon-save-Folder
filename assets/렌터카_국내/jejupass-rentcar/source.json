@@ -4,8 +4,19 @@
   "requested_url": "https://www.jejupass.com/",
   "page_url": "https://www.jejupass.com/",
   "page_title": "제주렌터카 가격비교 최저가 예약 | 제주패스·제주도렌트카·카페패스",
-  "collection_status": "partial",
-  "collection_error": "reference:ValueError:https://www.jejupass.com/assets/WwwMainView.707a5ab3.js; reference:ValueError:https://www.jejupass.com/assets/FooterView.c788d5d0.js; reference:ValueError:https://www.jejupass.com/assets/RentcarSearchView.f5161890.js; reference:ValueError:https://www.jejupass.com/assets/SelectSingle.f00c8798.js; reference:ValueError:https://www.jejupass.com/assets/ImagePopup.3727b25c.js",
+  "collection_status": "complete",
+  "collection_error": "asset:https://static-www.jejupass.com/pc/images/common/logo_promotion/logo_christmas.png:HTTPError; asset:https://static-www.jejupass.com/mobile/images/common/MO_interparkos_whlb_logo.png:HTTPError; asset:https://event.jejupass.com/resource/MO/images/esg/@esg_banner_member.png:HTTPError; asset:https://help.jejupass.com/resource/MO/images/esg/@esg_banner_member.png:HTTPError; asset:https://www.jejupass.com/resource/PC/images/air/bg_interBanner.jpg:HTTPError; asset:https://static-www.jejupass.com/resource/MO/images/common/no_search.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 28,
+    "scripts": 29,
+    "candidates": 373,
+    "attempted_assets": 300,
+    "errors": 6,
+    "collected_at": "2026-09-03T08:10:33.916825+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,1105 @@
       "height": 180
     },
     {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-001.webp",
+      "source_url": "https://www.jejupass.com/resource/PC/images/popup/img_20230609_main.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "data-v-aecbfe35=\"\"><section class=\"layPop popDiscount\" data-v-aecbfe35=\"\" id=\"popDiscount\" tabindex=\"0\"><div data-v-aecbfe35=\"\"><img alt=\"제주패스 특가·쿠폰 할인 이벤트\" data-v-aecbfe35=\"\" src=\"https://www.jejupass.com/resource/PC/images/popup/img_20230609_main.png\"/></div><a class=\"btnDefault btnM action btnEvent\" data-v-aecbfe35=\"\" href=\"https://event.jejupass.com/web/events/1242?s",
+      "content_type": "image/webp",
+      "bytes": 17364,
+      "sha256": "f757a774101da21fcaaa43418bdb3f594de11f0aacb0394cd7fc3620c534e3cf",
+      "source_sha256": "6a06b50ace096310632c964e984f1a727b0f263953995eb435b9bd92378feef1",
+      "dhash": "69f44dee3ae8e429",
+      "width": 367,
+      "height": 587,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar",
+        "https://rentcar.jejupass.com/web/rentcar?region=japan&administrativeCode=9801010100"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejupass-rentcar/banner-001.webp",
+      "source_url": "https://static-file.jejupass.com/download/3873047",
+      "source_tag": "img:banner, img:image",
+      "context": "img 리뷰 이벤트. figure a div mainBannerItem div swiper-slide slide-content listItem div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 224642,
+      "sha256": "e636f75e06810aec886efbccf7b15fa47d42206b9bbccc584c4d76c6ce24ccbe",
+      "source_sha256": "5605856b13b0964ac30ea7ce1cd18655a48810c6abf8be044b67ab7b4a99bb75",
+      "dhash": "fdffa7b7dfb9bbe3",
+      "width": 2200,
+      "height": 891,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar?region=japan&administrativeCode=9801010100"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-002.webp",
+      "source_url": "https://static-file.jejupass.com/download/3873048",
+      "source_tag": "img:banner, img:image",
+      "context": "img 리뷰 이벤트. figure a bannerType div swiper-slide slide-content div swiper-wrapper div swiper swiper-container bannerType01 jp",
+      "content_type": "image/webp",
+      "bytes": 220872,
+      "sha256": "3006ead7c84560a5b3f1824c13210681ad0863855a3a47587bc9be6218cd1bb4",
+      "source_sha256": "2b7dcb8e889008e43b57719a06dfe0b48d8657374a967eb2ded683f67f4835b7",
+      "dhash": "7673f977cbcff307",
+      "width": 1340,
+      "height": 1676,
+      "variant": "shared",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar?region=japan&administrativeCode=9801010100"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejupass-rentcar/banner-002.webp",
+      "source_url": "https://static-file.jejupass.com/download/1202287",
+      "source_tag": "img:banner, img:image",
+      "context": "img 제주패스 카톡 채널 추가 시 렌터카 쿠폰 총 1만원 증정 이벤트 a div promotionItem div swiper-slide slide-content listItem div swiper-wrapper div swiper swiper-container promotionList",
+      "content_type": "image/webp",
+      "bytes": 16776,
+      "sha256": "daca5549571f70493fbb0ee94ecaae6cefdff5aa3c6d0835489beb87bdc68ab6",
+      "source_sha256": "151a9c3759d53de57ee034f2392d698eafe6595c0d95da2d6b7bdb6250e7fd2b",
+      "dhash": "808bb6a692d2b100",
+      "width": 736,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jejupass-rentcar/social-001.webp",
+      "source_url": "https://rentcar.jejupass.com/images/og/home_og_1200x630.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": ">제주렌터카 가격비교 최저가 예약 | 제주패스·제주도렌트카·카페패스</title>\n<meta content=\"website\" property=\"og:type\"/>\n<meta content=\"제주렌터카 가격비교 최저가 예약 | 제주패스·제주도렌트카·카페패스\" property=\"og:title\"/>\n<meta content=\"https://rentcar.jejupass.com/images/og/home_og_1200x630.png\" property=\"og:image\"/>\n<meta content=\"제주렌터카·제주도렌트카 최저가 가격비교는 제주패스. AI 차량 추천으로 21,000대 실시간 비교, 제주공항 렌터카부터 오키나와·후쿠오카 등 일본 ",
+      "content_type": "image/webp",
+      "bytes": 26184,
+      "sha256": "79bd0bec957c90277aee94f8267d42fb3a1538b7e82f9f13a4a0f1026a6398e5",
+      "source_sha256": "4b8b26580a2c31b0930f701961ecb3f8d5de6204c7b12339ae27c3e35ac7bbf7",
+      "dhash": "41b6cc8d8eee8c36",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://event.jejupass.com/web/event/events",
+        "https://event.jejupass.com/web/events",
+        "https://event.jejupass.com/web/events?status=IN_PROGRESS",
+        "https://rentcar.jejupass.com/mobile/",
+        "https://rentcar.jejupass.com/web",
+        "https://www.jejupass.com/",
+        "https://www.jejupass.com/mobile/",
+        "https://www.jejupass.com/mobile/introduce/company"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jejupass-rentcar/social-002.webp",
+      "source_url": "https://rentcar.jejupass.com/images/og/rentcar_og_jeju_1200x630.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image , script-data",
+      "context": "차량 추천(카랑이) 제공.\"},{\"@type\":\"Product\",\"@id\":\"https://www.jejupass.com/#rentcar-product\",\"name\":\"제주패스 제주 렌트카 실시간 가격비교\",\"description\":\"제주 렌터카 21,000대·81개 제휴사 실시간 최저가 비교예약 서비스\",\"image\":\"https://rentcar.jejupass.com/images/og/rentcar_og_jeju_1200x630.png\",\"brand\":{\"@type\":\"Organization\",\"name\":\"제주패스\"},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":4.2,\"reviewCo",
+      "content_type": "image/webp",
+      "bytes": 26994,
+      "sha256": "9c7c3ea8f227f39ce4a53eff2a700f60c4247f38d6a5bdb5c78e03da5b1a4a36",
+      "source_sha256": "69a0b263c3a656ea6cd5250e899d0f5d3c39c99d71f51785bb281cb4089d84bf",
+      "dhash": "88868c8d8e8e8e96",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://event.jejupass.com/web/events",
+        "https://rentcar.jejupass.com/mobile/",
+        "https://rentcar.jejupass.com/mobile/rentcar",
+        "https://rentcar.jejupass.com/web",
+        "https://rentcar.jejupass.com/web/rentcar",
+        "https://www.jejupass.com/",
+        "https://www.jejupass.com/mobile/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jejupass-rentcar/social-003.webp",
+      "source_url": "https://rentcar.jejupass.com/images/og/rentcar_og_inland_1200x630.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image , script-data",
+      "context": "카 가격비교 - 서울·부산·강릉 최저가 예약 | 제주패스</title>\n<meta content=\"website\" property=\"og:type\"/>\n<meta content=\"서울·부산·강릉 국내렌트카 실시간 가격비교, 공항·KTX역 인수 | 제주패스\" property=\"og:title\"/>\n<meta content=\"https://rentcar.jejupass.com/images/og/rentcar_og_inland_1200x630.png\" property=\"og:image\"/>\n<meta content=\"서울·부산·강릉·여수·대구, 전국 국내렌트카 지역별 최저가 비교. 공항·KTX역 인수까지 한 번에 예약.\" property=\"og:descripti",
+      "content_type": "image/webp",
+      "bytes": 21306,
+      "sha256": "845df2db4cf924cd980945a360ff3f15bbc55114f1fd924f465166bd74d81f59",
+      "source_sha256": "7e1005813ef4db80ce5780b20ba10156f84a6be9e84b039dc0023865a1c642cf",
+      "dhash": "4c8c8ccda58ccc2c",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://event.jejupass.com/web/events",
+        "https://rentcar.jejupass.com/mobile/rentcar/inland",
+        "https://rentcar.jejupass.com/mobile/rentcar/inland?region=inland&administrativeCode=1150000001",
+        "https://rentcar.jejupass.com/web",
+        "https://rentcar.jejupass.com/web/rentcar/inland",
+        "https://rentcar.jejupass.com/web/rentcar/inland?region=inland&administrativeCode=1150000001",
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jejupass-rentcar/social-004.webp",
+      "source_url": "https://rentcar.jejupass.com/images/og/rentcar_og_japan_1200x630.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image , script-data",
+      "context": "오키나와·후쿠오카·삿포로 실시간 최저가 예약 | 제주패스</title>\n<meta content=\"website\" property=\"og:type\"/>\n<meta content=\"일본 렌트카 - 오키나와·후쿠오카·삿포로, 한국어 키오스크 인수 | 제주패스\" property=\"og:title\"/>\n<meta content=\"https://rentcar.jejupass.com/images/og/rentcar_og_japan_1200x630.png\" property=\"og:image\"/>\n<meta content=\"오키나와·후쿠오카·삿포로 일본 렌트카 실시간 비교. 한국어 키오스크 인수와 예약 안내까지 한 번에.\" property=\"og:description\"",
+      "content_type": "image/webp",
+      "bytes": 25242,
+      "sha256": "72e74a26da8b4a059ffbdb5492ab01698e93b83e52418bc16e3af3e140b192e9",
+      "source_sha256": "ba25a138c4fd0496ca7144c0582f96d816bae2a3ce995e5bcaf5863717a0a9d7",
+      "dhash": "4e8e8e8daee6e60d",
+      "width": 1200,
+      "height": 630,
+      "variant": "shared",
+      "source_pages": [
+        "https://event.jejupass.com/web/events",
+        "https://rentcar.jejupass.com/mobile/rentcar?region=japan&administrativeCode=9801010100",
+        "https://rentcar.jejupass.com/web",
+        "https://rentcar.jejupass.com/web/rentcar?region=japan&administrativeCode=9801010100",
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jejupass-rentcar/social-005.webp",
+      "source_url": "https://static-file.jejupass.com/download/1258007",
+      "source_tag": "meta: twitter:image, meta:og:image ",
+      "context": " twitter:image",
+      "content_type": "image/webp",
+      "bytes": 25582,
+      "sha256": "c7f0c735297ee0b1ff8c14a5c58c2d9e3eb8bca935c7018f42003d9281682e5e",
+      "source_sha256": "69fea61962ea23ec680e71e7f835c2b191b16e9c5fc1ee06a69bb73b54683340",
+      "dhash": "268d8ba6f2d0e906",
+      "width": 828,
+      "height": 468,
+      "variant": "shared",
+      "source_pages": [
+        "https://event.jejupass.com/mobile/events/1242?status=IN_PROGRESS&sortSeq=2",
+        "https://event.jejupass.com/web/events/1242?status=IN_PROGRESS&sortSeq=2"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-001.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_sonocalm_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.sonobelle {width: 209px;background: url('/pc/images/common/WEB_sonobelle_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.sonocalm {width: 196px;height: 30px;background: url('/pc/images/common/WEB_sonocalm_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n\n/* 크리스마스 프로모션 로고 */\n/* #header .logo.winter{p",
+      "content_type": "image/png",
+      "bytes": 5616,
+      "sha256": "f5b5246e739f8ce5e722cd8ef28cacd83e82a2efbf0b70fe02f92901968d112d",
+      "source_sha256": "38445426b3d0523a25eaab0824c8ea9b8bebbeee6c114e6b4b8d130b2a4895fe",
+      "dhash": "10a05259b9263420",
+      "width": 340,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-002.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/logo_promotion/logo_christmas.png",
+      "source_tag": "external-css",
+      "context": "osition:relative;top:-6px;width:220px;height:93px;font-size:0;background:url('/pc/images/common/logo_promotion/logo_christmas.png') no-repeat 0 0 / contain;} */\n/* #header .logo.winter{position:absolute;top:-28px;width:220px;height:93px;font-size:0;background:url('/pc/images/common/logo_promotion/logo_christmas.png') no-repeat 0 0 / contain;}\n#header .testPresent{width:220px;height:46px}\n#header .",
+      "content_type": "image/png",
+      "bytes": 49371,
+      "sha256": "275f239f2175790ee824e4e33468e8352f927d288e0af3142fa47c5595136c91",
+      "source_sha256": "b93eb8cea481cad17de6553ea59355c03cc9246003fc12ef744ccbaeb4a192b5",
+      "dhash": "c8945ba6a6b41982",
+      "width": 382,
+      "height": 161,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-003.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/logo_promotion/img_present.png",
+      "source_tag": "external-css",
+      "context": "rl('/pc/images/common/logo_promotion/logo_christmas.png') no-repeat 0 0 / contain;}\n#header .testPresent{width:220px;height:46px}\n#header .logo.winter > .loc_present{position:absolute;top:53px;left:100px;z-index:2;width:64px;height:25px;font-size:0;background:url('/pc/images/common/logo_promotion/img_present.png') no-repeat 0 0 / contain;}\n#header .logo > .treeSvg, \n#header .logo > .loc_present,\n#",
+      "content_type": "image/png",
+      "bytes": 6142,
+      "sha256": "b99b882894368a649680727bf36f46b4d477a2052cd603773f3760f53df4cc9d",
+      "source_sha256": "35c709deee837d04723f5d12a2b300b6291d06f3d305e4e2e325bb1771c7c716",
+      "dhash": "959e8e9e9a1b9c9e",
+      "width": 107,
+      "height": 42,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-004.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/logo_promotion/logo_sakura.png",
+      "source_tag": "external-css",
+      "context": "{\n  0% {\n    transform: translateY(-10px) translateX(0);\n    opacity: 1;\n  }\n  100% {\n    transform: translateY(100vh) translateX(100px);\n    opacity: 0;\n  }\n} */\n\n#header .logo.sakura{position:absolute;top:-26px;width:220px;height:84px;font-size:0;background:url('/pc/images/common/logo_promotion/logo_sakura.png') no-repeat center 0 / contain}\n#header .logo_protion, #header.sticky .logo_protion:ha",
+      "content_type": "image/png",
+      "bytes": 62235,
+      "sha256": "8b7cdf925f9e518538c16861abfff4f7898c51ff8762f32e3d2caaa6874f3b4c",
+      "source_sha256": "94a8048f3bb9da42da128255d87b38cd09fba9334169c01b78fb10891b03cec2",
+      "dhash": "86566775d4d4ed69",
+      "width": 382,
+      "height": 161,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejupass-rentcar/banner-003.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/main/bg_news.png",
+      "source_tag": "external-css",
+      "context": "-position: -140px 0;\n}\n.mainCont .mainNews {\n  position: relative;\n  padding: 40px 0;\n  text-align: center;\n}\n.mainCont .mainNews:before {\n  content: \"\";\n  display: block;\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  background: url(/resource/MO/images/main/bg_news.png) no-repeat;\n  background-size: cover;\n}\n.mainCont .mainNews .titDep4 {\n  position: relative;\n}\n.mai",
+      "content_type": "image/webp",
+      "bytes": 4142,
+      "sha256": "fac2b89f668b973841724e9e00637af2a4526f766fd8b0f54d29f332e91a519c",
+      "source_sha256": "2af5b7bb3271bfbb354d8bf1c3949faa4b8abe68fda5714772cdb376d2657b8e",
+      "dhash": "2b23a04100008041",
+      "width": 670,
+      "height": 402,
+      "variant": "mobile",
+      "source_pages": [
+        "https://event.jejupass.com/mobile/events?status=IN_PROGRESS"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-005.png",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/common/logo_promotion/logo.png",
+      "source_tag": "external-css",
+      "context": "nLogo.winter {\n  display:inline-block;\n  width:144px;\n  height:52px;\n  margin:-3px 0 0 8px;\n}\n.wrapper header .mainLogo.winter > a:after {\n  display:none\n}\n.wrapper header .mainLogo.winter .logo{position:absolute;width:144px;height:61px;font-size:0;background:url(/resource/MO/images/common/logo_promotion/logo.png) no-repeat 0 0 / contain}\n.wrapper header .mainLogo.winter .logo > .loc_present{posit",
+      "content_type": "image/png",
+      "bytes": 45466,
+      "sha256": "36f1567dfb3d8f68a59426b590f17c5754c5acd08a91fbcad6bcb0bcd72abab6",
+      "source_sha256": "e467b399fb68e61a848d7208cc84a414d318205d3ecd1188ce3e48766384f36f",
+      "dhash": "c8945ba6a6a61d86",
+      "width": 382,
+      "height": 161,
+      "variant": "mobile",
+      "source_pages": [
+        "https://event.jejupass.com/mobile/events?status=IN_PROGRESS"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-006.webp",
+      "source_url": "https://www.jejupass.com/logo.jpg",
+      "source_tag": "html-data, script-data",
+      "context": "anization\",\n        \"name\": \"제주패스\",\n        \"legalName\": \"(주)캐플릭스\",\n        \"url\": \"https://www.jejupass.com\",\n        \"logo\": {\n          \"@type\": \"ImageObject\",\n          \"url\": \"https://www.jejupass.com/logo.jpg\"\n        },\n        \"contactPoint\": {\n          \"@type\": \"ContactPoint\",\n          \"telephone\": \"+82-1544-0445\",\n       ",
+      "content_type": "image/webp",
+      "bytes": 1728,
+      "sha256": "ac274951dbd61079e488ebf6c7124d198b2098dc2966dd90ff716aa8bc5f18da",
+      "source_sha256": "4ce5f0bd049d743048d51f1048e37c5faf9641a543f0f0d1c29bc61819d77b29",
+      "dhash": "0097929a7226a600",
+      "width": 140,
+      "height": 40,
+      "variant": "shared",
+      "source_pages": [
+        "https://event.jejupass.com/mobile/events",
+        "https://event.jejupass.com/mobile/events/1242?status=IN_PROGRESS&sortSeq=2",
+        "https://event.jejupass.com/mobile/events?status=IN_PROGRESS",
+        "https://help.jejupass.com/web",
+        "https://help.jejupass.com/web/help/notice/RENTCAR/2503?tabCode=RENTCAR",
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-007.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_jejuair2_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "font-size: 0;background-image: url('/pc/images/common/spr_layout.png');}\n#header .logo.jejuair {width: 240px;background: url('/pc/images/common/WEB_jejuair_whlb_logo.png') no-repeat 0 0;}\n#header .logo.jejuair_x_jejupass {width: 280px;height: 40px;background: url('/pc/images/common/WEB_jejuair2_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.tripleos {width: 247px;backgroun",
+      "content_type": "image/png",
+      "bytes": 5915,
+      "sha256": "caf328e29ebe87596e0481e16826606ac4c80b93c16b10a10dcfdf8e2f473b1a",
+      "source_sha256": "29cd7e7e5095916e942c079a90ef961e36af32872b891203e7485e5a35a70506",
+      "dhash": "00507a1939b6f600",
+      "width": 364,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-008.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_tripleos_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "/WEB_jejuair_whlb_logo.png') no-repeat 0 0;}\n#header .logo.jejuair_x_jejupass {width: 280px;height: 40px;background: url('/pc/images/common/WEB_jejuair2_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.tripleos {width: 247px;background: url('/pc/images/common/WEB_tripleos_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.interparkos {width: 255px;backgr",
+      "content_type": "image/png",
+      "bytes": 4666,
+      "sha256": "6ee38b28bc74bda605d699a023f736bd27fc9b40ddf1f48b3882de7f482755d1",
+      "source_sha256": "f90c9fa86fed88ce559c0c42e9fd5a392beda08b4e6cb80463a68ff2da97d802",
+      "dhash": "00b6f2797bb43400",
+      "width": 342,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-009.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_interparkos_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "juair2_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.tripleos {width: 247px;background: url('/pc/images/common/WEB_tripleos_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.interparkos {width: 255px;background: url('/pc/images/common/WEB_interparkos_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.jinair {width: 216px;backgrou",
+      "content_type": "image/png",
+      "bytes": 5325,
+      "sha256": "267f25b3d11408e489746fa898af49fe5f7f77aead283e6f376dba030e9734ae",
+      "source_sha256": "9f47018be145a01e77daad0644cf02e20e481aecebd80ca55f064a8f35fef5ef",
+      "dhash": "0000c0d2d3d20000",
+      "width": 482,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-010.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_jinair_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "pleos_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.interparkos {width: 255px;background: url('/pc/images/common/WEB_interparkos_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.jinair {width: 216px;background: url('/pc/images/common/WEB_jinair_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.digiloca {width: 188px;background:",
+      "content_type": "image/png",
+      "bytes": 4571,
+      "sha256": "837d9ddfaebd5c72eac4e99c0c14a8425978bf2953f1ef3df7c05b4a861a9f78",
+      "source_sha256": "9aab56c224207a91e79e59a9aed4d02eeb8f740feab117736fc1bfcf82d8b122",
+      "dhash": "009aba9d9dda5200",
+      "width": 432,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-011.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_parata_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.digiloca {width: 188px;background: url('/pc/images/common/WEB_digiloca_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.parata {width: 280px;height:40px;background: url('/pc/images/common/WEB_parata_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.airbusan {width: 242px;height:52px",
+      "content_type": "image/png",
+      "bytes": 4325,
+      "sha256": "8caba3dd2589cf722edb399bece534bf001b79e162a77fbd0cac6ec643d49d4e",
+      "source_sha256": "1c9cbeba13f5d8bd021274d5c187377664d1a25a05e77af96ed63c0b6f32f899",
+      "dhash": "0080dcacadca8000",
+      "width": 372,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-012.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_airbusan_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "png') no-repeat 0 0; background-size: contain;}\n#header .logo.parata {width: 280px;height:40px;background: url('/pc/images/common/WEB_parata_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.airbusan {width: 242px;height:52px;background: url('/pc/images/common/WEB_airbusan_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.tway {width: 236px;height:52px;b",
+      "content_type": "image/png",
+      "bytes": 5709,
+      "sha256": "28c5a03433a7000f365b466b086f0c9830d779cc03f4a5cd44cc7e9c7a463ad1",
+      "source_sha256": "6cd8ed993effacae775f6419a741de79cf25a37648ddd2a79b70206b9e7c5f99",
+      "dhash": "204072b839363000",
+      "width": 242,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-013.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_tway_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "png') no-repeat 0 0; background-size: contain;}\n#header .logo.airbusan {width: 242px;height:52px;background: url('/pc/images/common/WEB_airbusan_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.tway {width: 236px;height:52px;background: url('/pc/images/common/WEB_tway_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.nol {width: 266px;height:52px;backgr",
+      "content_type": "image/png",
+      "bytes": 4841,
+      "sha256": "9131ccd2a3740c3836c92a39807bb40db776bca8f8cde13fc42e55bdda79a598",
+      "source_sha256": "26096591acb85d043ae62938576d50e7d659d1cb2365dd9e4c80bd0ff6f64ffe",
+      "dhash": "2080e27171242040",
+      "width": 236,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-014.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_nol_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "hlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.tway {width: 236px;height:52px;background: url('/pc/images/common/WEB_tway_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.nol {width: 266px;height:52px;background: url('/pc/images/common/WEB_nol_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.sonobelle {width: 209px;background: u",
+      "content_type": "image/png",
+      "bytes": 4115,
+      "sha256": "41c3c7ea0f8f1af2100974e27e82c9795d7ee9958f05165e281ab88f90cdf6dd",
+      "source_sha256": "1ef8e020ce15f6bf417425704daee8fa04aede3551b3d4a3e81b838a82b76d35",
+      "dhash": "8008d2f3f56d0020",
+      "width": 238,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-015.png",
+      "source_url": "https://www.jejupass.com/pc/images/common/WEB_sonobelle_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "B_tway_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.nol {width: 266px;height:52px;background: url('/pc/images/common/WEB_nol_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.sonobelle {width: 209px;background: url('/pc/images/common/WEB_sonobelle_whlb_logo.png') no-repeat 0 0; background-size: contain;}\n#header .logo.sonocalm {width: 196px;height: ",
+      "content_type": "image/png",
+      "bytes": 9533,
+      "sha256": "34ade719781a47654f892eb3ce2b915285e499abad8a4045ef050a3a76eb7b7e",
+      "source_sha256": "e3446d2a3226feee55aea5f2da8cb8e726123fa3a3c84bfd4b3bcc9f610b694a",
+      "dhash": "40b2b05d595a9a00",
+      "width": 418,
+      "height": 52,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-016.png",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/common/MO_interparkos_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "15 ë¦¬ì°¨ë ì¶ê° */\n  background-size: contain;\n}\n\n.wrapper header .mainLogo.interparkosLogo a {\n  width: 265px;\n}\n.wrapper header .mainLogo.interparkosLogo a:after {\n  width: 244px;\n  height: 26px;\n  margin-top: -13px;\n  margin-left: -113px;\n  background: url(/resource/MO/images/common/MO_interparkos_whlb_logo.png) no-repeat 0 0;\n  /* 2024.04.15 ë¦¬ì°¨ë ì¶ê° */\n  background-size: contain;\n",
+      "content_type": "image/png",
+      "bytes": 8661,
+      "sha256": "79f007035724cd53d35f7112860b1dd2ddc07471a784a020a2520b681c06be11",
+      "source_sha256": "c00167826cdc99af685de8837672ced4c30c61de1229ee0794572f56143a2bc9",
+      "dhash": "8082888d8d8e8a80",
+      "width": 488,
+      "height": 52,
+      "variant": "mobile",
+      "source_pages": [
+        "https://event.jejupass.com/mobile/events?status=IN_PROGRESS"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-017.png",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/common/MO_digiloca_whlb_logo.png",
+      "source_tag": "external-css",
+      "context": "contain;\n}\n/* // 24.04.11 ì¸í°íí¬ í¸ë¦¬í W/L */\n\n/* .wrapper header .mainLogo.digilocaLogo a {\n  width: 209px;\n}\n.wrapper header .mainLogo.digilocaLogo a:after {\n  width: 188px;\n  height: 26px;\n  margin-top: -13px;\n  margin-left: -113px;\n  background: url(/resource/MO/images/common/MO_digiloca_whlb_logo.png) no-repeat 0 0;\n  background-size: contain;\n} */\n\n/* // [D] 260427 í\u0085ë : ë í",
+      "content_type": "image/png",
+      "bytes": 5487,
+      "sha256": "bed703999746b15e8291a1737740270c4cf6573b44e263b31ed769248f849aab",
+      "source_sha256": "cece0de119d94ae4ec661dbf92a9d7ce90aeeb5f8cd253cba2228a2788383e70",
+      "dhash": "00f2b08989b6a400",
+      "width": 376,
+      "height": 52,
+      "variant": "mobile",
+      "source_pages": [
+        "https://event.jejupass.com/mobile/events?status=IN_PROGRESS"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-018.svg",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/shuttlemap/logo.svg",
+      "source_tag": "external-css",
+      "context": "ding: 50px 40px;\n  border-radius: 0 40px 40px 0;\n  background-color: #fff;\n}\n.wrapper .shuttlemapHeader .topLogo {\n  position: static;\n  width: 211px;\n  height: 35px;\n}\n.wrapper .shuttlemapHeader .topLogo a {\n  width: 100%;\n  height: 100%;\n  background-image: url(\"/resource/PC/images/shuttlemap/logo.svg\");\n}\n.wrapper .shuttlemapHeader .topLogo a:after {\n  display: none;\n}\n.wrapper .shuttlemapHeade",
+      "content_type": "image/svg+xml",
+      "bytes": 3136,
+      "sha256": "8cf8f4ee0ae4e864cca24d9f9058453a400fe0bbb25e41e5b7bd79d9f89b1cbf",
+      "source_sha256": "8cf8f4ee0ae4e864cca24d9f9058453a400fe0bbb25e41e5b7bd79d9f89b1cbf",
+      "dhash": "",
+      "width": 211,
+      "height": 35,
+      "variant": "desktop",
+      "source_pages": [
+        "https://help.jejupass.com/web"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jejupass-rentcar/logo-019.png",
+      "source_url": "https://www.jejupass.com/pc/images/jejupass_new-logo_og.png",
+      "source_tag": "html-data",
+      "context": "@type\":\"Organization\",\"@id\":\"https://www.jejupass.com/#organization\",\"name\":\"제주패스\",\"alternateName\":\"JEJUPASS\",\"url\":\"https://www.jejupass.com/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.jejupass.com/pc/images/jejupass_new-logo_og.png\"},\"sameAs\":[\"https://www.instagram.com/jejupass.official/\",\"https://blog.naver.com/jejupass_official\",\"https://www.youtu",
+      "content_type": "image/png",
+      "bytes": 31076,
+      "sha256": "172b21591f629602b896f49b826bbaa53d452baf71518103399b08727b247252",
+      "source_sha256": "79017196153ef636610d31cc70044c038cee5234d7b9e4001bddf47e7c604456",
+      "dhash": "10b2b2b2b2b2b2b2",
+      "width": 1600,
+      "height": 800,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/",
+        "https://rentcar.jejupass.com/web",
+        "https://www.jejupass.com/",
+        "https://www.jejupass.com/mobile/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejupass-rentcar/banner-004.webp",
+      "source_url": "https://rentcar.jejupass.com/mobile/images/rentcar/img_benefits_tab1_1.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "t\" data-v-58800278=\"\"><!--[--><div class=\"tabContentWrap v2 tabON\" data-v-58800278=\"\" id=\"tabContents01\"><div class=\"infoBox\" data-v-58800278=\"\"><img alt=\"\" data-v-58800278=\"\" src=\"/mobile/images/rentcar/img_benefits_tab1_1.png\"/><img alt=\"\" data-v-58800278=\"\" src=\"/mobile/images/rentcar/img_benefits_tab1_2.png\"/></div><!-- --><!-- --><!-- --></d",
+      "content_type": "image/webp",
+      "bytes": 78448,
+      "sha256": "b0e8a325e15c04220d7e7c9388e3abbd89707deab07ea36a7c6c888f43e0199f",
+      "source_sha256": "49644d000d1ed003e237582e04e2e8a1eed85c7775f7a4b0f6f533e3f4fc5460",
+      "dhash": "969675652b332b82",
+      "width": 848,
+      "height": 1197,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejupass-rentcar/banner-005.webp",
+      "source_url": "https://static-file.jejupass.com/download/3318023",
+      "source_tag": "img:banner, img:image",
+      "context": "img 고객센터 채널 figure a div mainBannerItem div swiper-slide slide-content listItem div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 76954,
+      "sha256": "97ae2a61ebc7cf5e1a71095c3e35e2bcbd1e55ddbd0db73d8d70b89762695098",
+      "source_sha256": "58d43d3de10eaae4d79076e4d5e610d14182853adbca193bf5412f488fbaa8ad",
+      "dhash": "13070f0f0f096580",
+      "width": 2200,
+      "height": 891,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar?region=japan&administrativeCode=9801010100"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-003.webp",
+      "source_url": "https://static-file.jejupass.com/download/3318048",
+      "source_tag": "img:banner, img:image",
+      "context": "img 고객센터 채널 figure a bannerType div swiper-slide slide-content div swiper-wrapper div swiper swiper-container bannerType01 jp",
+      "content_type": "image/webp",
+      "bytes": 97580,
+      "sha256": "dd4fcdcc2d9d200de59666a3e101e7a70e5e810e96b6905b7460b88e81718a5e",
+      "source_sha256": "bdb2983f412497713b80a2e313387950d7d16c7d7d12eeeb7a753579335a1a97",
+      "dhash": "57574cc93b7bf900",
+      "width": 1340,
+      "height": 1676,
+      "variant": "shared",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar?region=japan&administrativeCode=9801010100"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-004.webp",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/main/07-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "3&amp;vhctySeCode=07&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure class=\"figure\" data-v-19d3f824=\"\"><img alt=\"제주 준중형 렌트카 추천 현대 아반떼\" data-v-19d3f824=\"\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/PC/images/main/07-1.jpg\"/></figure><dl class=\"infoArea\" data-v-19d3f824=\"\"><dt class=\"txtSubject\" data-v-19d3f824=\"\">요즘 준중형은 중형만큼 커요</dt><dd cla",
+      "content_type": "image/webp",
+      "bytes": 46980,
+      "sha256": "4d82aea035463d1dd2b9b983c4147b38661e8ee7758c66adedbfaf2517f93e3c",
+      "source_sha256": "2558c386d9841c0944d2f9cc772ab5aa0adbfb34e785f4a0cad5df207e862036",
+      "dhash": "8d80c52d301b4bd0",
+      "width": 678,
+      "height": 508,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejupass-rentcar/banner-006.webp",
+      "source_url": "https://rentcar.jejupass.com/mobile/images/rentcar/img_benefits_tab1_2.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " id=\"tabContents01\"><div class=\"infoBox\" data-v-58800278=\"\"><img alt=\"\" data-v-58800278=\"\" src=\"/mobile/images/rentcar/img_benefits_tab1_1.png\"/><img alt=\"\" data-v-58800278=\"\" src=\"/mobile/images/rentcar/img_benefits_tab1_2.png\"/></div><!-- --><!-- --><!-- --></div><div class=\"tabContentWrap v2\" data-v-58800278=\"\" id=\"tabContents02\"><!-- --><!-- ",
+      "content_type": "image/webp",
+      "bytes": 41068,
+      "sha256": "d1882c004b96cf38b4044ba363f70002c853b50dbe92165788010caa39ceff88",
+      "source_sha256": "fc294dfc75f633fdd68176a44b2b6c5c86b6e637bc05d80222119624a7265e94",
+      "dhash": "3033433f4f0b5253",
+      "width": 848,
+      "height": 997,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejupass-rentcar/banner-007.webp",
+      "source_url": "https://static-file.jejupass.com/download/3117968",
+      "source_tag": "img:banner, img:image",
+      "context": "img 일본 렌터카의 모든 것 figure a div mainBannerItem div swiper-slide slide-content listItem div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 247900,
+      "sha256": "399cf7bc8405af58e72f5bfc70e6dfd3176682511a023f34992444bedd2ff250",
+      "source_sha256": "12b661486f1d0fead15e294211afac31e07e20116a4cf8b7e9270d4cb8254d6e",
+      "dhash": "04202206136b6906",
+      "width": 2200,
+      "height": 891,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar?region=japan&administrativeCode=9801010100"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-005.webp",
+      "source_url": "https://static-file.jejupass.com/download/3199747",
+      "source_tag": "img:banner, img:image",
+      "context": "img 일본 렌터카의 모든 것 figure a bannerType div swiper-slide slide-content div swiper-wrapper div swiper swiper-container bannerType01 jp",
+      "content_type": "image/webp",
+      "bytes": 62676,
+      "sha256": "d0be0558880740442a636a2467850c48064b2fb423073ac5a6ed58448abc5fac",
+      "source_sha256": "9faade49e5f10f77103bce6549fd0b0b8f880305f6d84a98efd5d8b629d29a08",
+      "dhash": "622767ccc2785a9f",
+      "width": 594,
+      "height": 743,
+      "variant": "shared",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar?region=japan&administrativeCode=9801010100"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-006.webp",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/main/01-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=03&amp;vhctySeCode=01&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure class=\"figure\" data-v-19d3f824=\"\"><img alt=\"제주 경차 렌트카 추천 기아 레이\" data-v-19d3f824=\"\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/PC/images/main/01-1.jpg\"/></figure><dl class=\"infoArea\" data-v-19d3f824=\"\"><dt class=\"txtSubject\" data-v-19d3f824=\"\">운전이 어렵다면 경차 추천</dt><dd clas",
+      "content_type": "image/webp",
+      "bytes": 55144,
+      "sha256": "9ad3aa31405bd38873c5d5f0c930d731b2d7c7742ca8a86c671cf6a539a9426e",
+      "source_sha256": "76237593a04555f6af4f59579eba1da54961cf8dbe31c399f3d74427615788ae",
+      "dhash": "fcfdff987063e6dc",
+      "width": 678,
+      "height": 508,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-007.webp",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/main/03-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "=03&amp;vhctySeCode=03&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure class=\"figure\" data-v-19d3f824=\"\"><img alt=\"제주 중형 렌트카 추천 기아 K5\" data-v-19d3f824=\"\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/PC/images/main/03-1.jpg\"/></figure><dl class=\"infoArea\" data-v-19d3f824=\"\"><dt class=\"txtSubject\" data-v-19d3f824=\"\">3인 이상 가족끼리 여행할 때</dt><dd cl",
+      "content_type": "image/webp",
+      "bytes": 37592,
+      "sha256": "c88f7fc6bba6557711539dd35cd06897c5534b136d173727657b7a2d8597fbed",
+      "source_sha256": "2710c788b07a86c159f256f25b402f84b57aa4e336f7e2ca9a9fed8b0333bcad",
+      "dhash": "0f0700003813929c",
+      "width": 678,
+      "height": 508,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-008.webp",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/main/05-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "3&amp;vhctySeCode=05&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure class=\"figure\" data-v-19d3f824=\"\"><img alt=\"제주 SUV 렌트카 추천 기아 모하비\" data-v-19d3f824=\"\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/PC/images/main/05-1.jpg\"/></figure><dl class=\"infoArea\" data-v-19d3f824=\"\"><dt class=\"txtSubject\" data-v-19d3f824=\"\">비포장 많은 제주에 딱 좋아</dt><dd cla",
+      "content_type": "image/webp",
+      "bytes": 58622,
+      "sha256": "4665a7d984582caf44829c06e915b84a98022d699129f1531792afff9c19c4d7",
+      "source_sha256": "1f8556ba41b3c44bb717b807c65d459af4ba77c15dce541c75c75ed01d47d671",
+      "dhash": "4050aec63543f2b2",
+      "width": 678,
+      "height": 508,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-009.webp",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/main/04-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "&amp;vhctySeCode=04&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure class=\"figure\" data-v-19d3f824=\"\"><img alt=\"제주 고급 렌트카 추천 제네시스 G70\" data-v-19d3f824=\"\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/PC/images/main/04-1.jpg\"/></figure><dl class=\"infoArea\" data-v-19d3f824=\"\"><dt class=\"txtSubject\" data-v-19d3f824=\"\">더 안락한 여행을 원한다면</dt><dd clas",
+      "content_type": "image/webp",
+      "bytes": 58320,
+      "sha256": "9b16ce1ea08a8c1527db7027d238072db694aebb64e6dc70ccee434fb64ac3fb",
+      "source_sha256": "00e20629ba37833d41ae15822bdf1a6a918ef1dcff9f70c37833385ad5ef0d5b",
+      "dhash": "7b4ce9f8c0e7b2c0",
+      "width": 678,
+      "height": 508,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-010.webp",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/main/06-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "3&amp;vhctySeCode=06&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure class=\"figure\" data-v-19d3f824=\"\"><img alt=\"제주 승합차 렌트카 추천 기아 카니발\" data-v-19d3f824=\"\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/PC/images/main/06-1.jpg\"/></figure><dl class=\"infoArea\" data-v-19d3f824=\"\"><dt class=\"txtSubject\" data-v-19d3f824=\"\">4인 이상 이보다 편할 수 없어요</dt><dd ",
+      "content_type": "image/webp",
+      "bytes": 40490,
+      "sha256": "35f2bfdd839572b6697fe719b82024bc06f9863e890f380026487118ea93ce5d",
+      "source_sha256": "25308f0c0fb6c0edc0d28ac5275e54beac349368051164d17c35ef7f6c9f5541",
+      "dhash": "3d3b2f68e5494bb0",
+      "width": 678,
+      "height": 508,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejupass-rentcar/banner-008.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/main/07-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "amp;vhctySeCode=07&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure data-v-e07d7cb8=\"\"><img alt=\"제주 준중형 렌트카 추천 현대 아반떼\" data-v-e07d7cb8=\"\" decoding=\"async\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/MO/images/main/07-1.jpg\"/></figure><dl class=\"context\" data-v-e07d7cb8=\"\"><dt class=\"carName\" data-v-e07d7cb8=\"\">요즘 준중형은 중형만큼 커요</dt><dd data-v-",
+      "content_type": "image/webp",
+      "bytes": 47944,
+      "sha256": "169eb15586eab6048593596ac09a28f8037037204aadb985431eaf5c677b30bc",
+      "source_sha256": "bb45eeec6fc84d8b03391e43730ccf6c6de5af8f59964b0e06a02ae75038dbe6",
+      "dhash": "9d91852d301b4bd0",
+      "width": 678,
+      "height": 508,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-011.webp",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/main/08-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "3&amp;vhctySeCode=08&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure class=\"figure\" data-v-19d3f824=\"\"><img alt=\"제주 전기차 렌트카 추천 기아 EV6\" data-v-19d3f824=\"\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/PC/images/main/08-1.jpg\"/></figure><dl class=\"infoArea\" data-v-19d3f824=\"\"><dt class=\"txtSubject\" data-v-19d3f824=\"\">고유가 시대, 선택이 아닌 필수</dt><dd c",
+      "content_type": "image/webp",
+      "bytes": 48486,
+      "sha256": "5e563b799ba862860327b433da3d8e1938b718144f396b046244a3788cb38995",
+      "source_sha256": "994c8bf09ab160f63fa7b81d7392a85379761d335e47b0f479341f61e8fb72b0",
+      "dhash": "96b7629839139ae1",
+      "width": 678,
+      "height": 508,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejupass-rentcar/banner-009.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/main/01-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "3&amp;vhctySeCode=01&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure data-v-e07d7cb8=\"\"><img alt=\"제주 경차 렌트카 추천 기아 레이\" data-v-e07d7cb8=\"\" decoding=\"async\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/MO/images/main/01-1.jpg\"/></figure><dl class=\"context\" data-v-e07d7cb8=\"\"><dt class=\"carName\" data-v-e07d7cb8=\"\">운전이 어렵다면 경차 추천</dt><dd data-v-e",
+      "content_type": "image/webp",
+      "bytes": 58878,
+      "sha256": "f8c9e30159ecf18a7ace2d6ce861270b98b4eabcfceafd3536000a09505e85bd",
+      "source_sha256": "c4a3d3cc5db28e1a1522935efeeb560374daccd1c1e8bce7750d2620c7905021",
+      "dhash": "7c7dbfd87367c6dc",
+      "width": 678,
+      "height": 508,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-012.webp",
+      "source_url": "https://static-www.jejupass.com/resource/PC/images/main/09-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "p;vhctySeCode=09&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure class=\"figure\" data-v-19d3f824=\"\"><img alt=\"제주 수입차 렌트카 추천 미니 쿠퍼 컨버터블\" data-v-19d3f824=\"\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/PC/images/main/09-1.jpg\"/></figure><dl class=\"infoArea\" data-v-19d3f824=\"\"><dt class=\"txtSubject\" data-v-19d3f824=\"\">커플여행 플렉스가 필요할 때</dt><dd cla",
+      "content_type": "image/webp",
+      "bytes": 55622,
+      "sha256": "e1b59e7d69efc3d39b7b843b573bcbbc4b621cdff08754701e20f1adcccf7f18",
+      "source_sha256": "52ab602246e234b128022971599deb03d14049fb398b65ed003452e0b1df7fbf",
+      "dhash": "bf6df330e8cea6c3",
+      "width": 678,
+      "height": 508,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-013.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/main/03-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "3&amp;vhctySeCode=03&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure data-v-e07d7cb8=\"\"><img alt=\"제주 중형 렌트카 추천 기아 K5\" data-v-e07d7cb8=\"\" decoding=\"async\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/MO/images/main/03-1.jpg\"/></figure><dl class=\"context\" data-v-e07d7cb8=\"\"><dt class=\"carName\" data-v-e07d7cb8=\"\">3인 이상 가족끼리 여행할 때</dt><dd data-v",
+      "content_type": "image/webp",
+      "bytes": 38898,
+      "sha256": "3a5ab1a35ef2e15a117eec25f419ea8b0b6c1f367abdd66d75a78d7cf4e0453f",
+      "source_sha256": "ba3d019bf45cc7d3c60d840a1483a0327c1853b9a5540157e56253c9dff8ec76",
+      "dhash": "8f8700003813929c",
+      "width": 678,
+      "height": 508,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-014.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/main/05-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "amp;vhctySeCode=05&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure data-v-e07d7cb8=\"\"><img alt=\"제주 SUV 렌트카 추천 기아 모하비\" data-v-e07d7cb8=\"\" decoding=\"async\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/MO/images/main/05-1.jpg\"/></figure><dl class=\"context\" data-v-e07d7cb8=\"\"><dt class=\"carName\" data-v-e07d7cb8=\"\">비포장 많은 제주에 딱 좋아</dt><dd data-v-",
+      "content_type": "image/webp",
+      "bytes": 59286,
+      "sha256": "e824d1ed6adb9db05d71b63aa386e707fd5ad4ea105a2093dfb4b79ba2cac105",
+      "source_sha256": "7f5e46f8c5efe8797557857981f5f6b99df469be35a92312e278776384133b8a",
+      "dhash": "34342ec63543f2b2",
+      "width": 678,
+      "height": 508,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-015.webp",
+      "source_url": "https://static-file.jejupass.com/download/1089710",
+      "source_tag": "img:banner, img:image",
+      "context": "img 제주패스 유모차·카시트 초간단 대여 서비스 a div promotionItem div swiper-slide slide-content listItem div swiper-wrapper div swiper swiper-container promotionList",
+      "content_type": "image/webp",
+      "bytes": 13718,
+      "sha256": "af3a8d31b25a9a2870260c1772ae2a652a30aa0ae0eed0c80e7a627c15cc8946",
+      "source_sha256": "dc77a44949bf1b52e9aee834cf573d495afb65f07528d71983c77c933014b94a",
+      "dhash": "2b69395b5b5b584c",
+      "width": 736,
+      "height": 360,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-016.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/main/04-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "mp;vhctySeCode=04&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure data-v-e07d7cb8=\"\"><img alt=\"제주 고급 렌트카 추천 제네시스 G70\" data-v-e07d7cb8=\"\" decoding=\"async\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/MO/images/main/04-1.jpg\"/></figure><dl class=\"context\" data-v-e07d7cb8=\"\"><dt class=\"carName\" data-v-e07d7cb8=\"\">더 안락한 여행을 원한다면</dt><dd data-v-e",
+      "content_type": "image/webp",
+      "bytes": 57244,
+      "sha256": "9e1ffdec4c9ecbdfe5c8d55d76016b545358695234777878558e8bbd0c918414",
+      "source_sha256": "32dde9d9f5690dbd7c485f7299e7e1e931a39b46bab660813c34ed26a687c9fc",
+      "dhash": "736cedf9e0e792c0",
+      "width": 678,
+      "height": 508,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-017.webp",
+      "source_url": "https://rentcar.jejupass.com/pc/images/rentcar/img_inland_rcm1.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "pplcCode=02&amp;region=inland&amp;administrativeCode=2644000001&amp;administrativeCode2=2644000001&amp;rand=pDj4S0SI\"><figure data-v-65e4b5db=\"\"><img alt=\"\" data-v-65e4b5db=\"\" src=\"/pc/images/rentcar/img_inland_rcm1.png\"/></figure><span class=\"regionBadge\" data-v-65e4b5db=\"\">부산 렌터카</span></a></li><li data-v-65e4b5db=\"\"><a class=\"\" data-v-",
+      "content_type": "image/webp",
+      "bytes": 20338,
+      "sha256": "f0d81c8bc039edded7c2cde1f169ebec02aba3db0681ffe8bed69c776af137e2",
+      "source_sha256": "649fe30bfc7bdb3ca2844b46823d2825357190c398205505ff28298cf8cf6af8",
+      "dhash": "2d2b3182a8b9f3a9",
+      "width": 544,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar/inland",
+        "https://rentcar.jejupass.com/web/rentcar/inland?region=inland&administrativeCode=1150000001"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-018.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/main/06-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "amp;vhctySeCode=06&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure data-v-e07d7cb8=\"\"><img alt=\"제주 승합차 렌트카 추천 기아 카니발\" data-v-e07d7cb8=\"\" decoding=\"async\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/MO/images/main/06-1.jpg\"/></figure><dl class=\"context\" data-v-e07d7cb8=\"\"><dt class=\"carName\" data-v-e07d7cb8=\"\">4인 이상 이보다 편할 수 없어요</dt><dd data",
+      "content_type": "image/webp",
+      "bytes": 41684,
+      "sha256": "9fdc057d3f360f1b2a71961b71563f2f227562ee3e4bf04d894326f5089a9b19",
+      "source_sha256": "5bd7d3ec59a51753958c611a4ac98e1dc5071f68dd626aa96833455abea9f4a9",
+      "dhash": "9d9b9f68e5494bb2",
+      "width": 678,
+      "height": 508,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-019.webp",
+      "source_url": "https://rentcar.jejupass.com/pc/images/rentcar/img_inland_rcm2.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "pplcCode=02&amp;region=inland&amp;administrativeCode=4613000001&amp;administrativeCode2=4613000001&amp;rand=ArE6pGLb\"><figure data-v-65e4b5db=\"\"><img alt=\"\" data-v-65e4b5db=\"\" src=\"/pc/images/rentcar/img_inland_rcm2.png\"/></figure><span class=\"regionBadge\" data-v-65e4b5db=\"\">여수 렌터카</span></a></li><li data-v-65e4b5db=\"\"><a class=\"\" data-v-",
+      "content_type": "image/webp",
+      "bytes": 23596,
+      "sha256": "d97946b85d8fa7c9ba8e318527a046e99d34dc721d1af8823f8773554bb9f333",
+      "source_sha256": "ddcdb6315e84ac5a204cef5208b456341c899c90f628952e4b49e3a1c921b872",
+      "dhash": "0304173f343d9956",
+      "width": 544,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar/inland",
+        "https://rentcar.jejupass.com/web/rentcar/inland?region=inland&administrativeCode=1150000001"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-020.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/main/08-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "amp;vhctySeCode=08&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure data-v-e07d7cb8=\"\"><img alt=\"제주 전기차 렌트카 추천 기아 EV6\" data-v-e07d7cb8=\"\" decoding=\"async\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/MO/images/main/08-1.jpg\"/></figure><dl class=\"context\" data-v-e07d7cb8=\"\"><dt class=\"carName\" data-v-e07d7cb8=\"\">고유가 시대, 선택이 아닌 필수</dt><dd data-",
+      "content_type": "image/webp",
+      "bytes": 48438,
+      "sha256": "d08a1afdf1568e26b979d383b9f107ef2f8e16fef3dc8d168c27953ad2fb334d",
+      "source_sha256": "ff5f52aff18c88a9abbaeda95b5f1931ec8303acea38d355fe63610f9277a823",
+      "dhash": "9697a2d839139ae1",
+      "width": 678,
+      "height": 508,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-021.webp",
+      "source_url": "https://rentcar.jejupass.com/pc/images/rentcar/img_inland_rcm3.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "pplcCode=02&amp;region=inland&amp;administrativeCode=2811000001&amp;administrativeCode2=2811000001&amp;rand=a0jrM2md\"><figure data-v-65e4b5db=\"\"><img alt=\"\" data-v-65e4b5db=\"\" src=\"/pc/images/rentcar/img_inland_rcm3.png\"/></figure><span class=\"regionBadge\" data-v-65e4b5db=\"\">인천 렌터카</span></a></li><li data-v-65e4b5db=\"\"><a class=\"\" data-v-",
+      "content_type": "image/webp",
+      "bytes": 82122,
+      "sha256": "1836e1f49714db52a0b00478b2a2782bfdbee6bef9ae2cf792104069ca13edf4",
+      "source_sha256": "6a76d1497041f661252c4ac84aa3cf28fd475cc359e5803668442d8651370264",
+      "dhash": "e1ddd94d949f29e1",
+      "width": 544,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar/inland",
+        "https://rentcar.jejupass.com/web/rentcar/inland?region=inland&administrativeCode=1150000001"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-022.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/main/09-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "vhctySeCode=09&amp;driverYearLmtYn=N&amp;driverLicenseYear=3\"><figure data-v-e07d7cb8=\"\"><img alt=\"제주 수입차 렌트카 추천 미니 쿠퍼 컨버터블\" data-v-e07d7cb8=\"\" decoding=\"async\" loading=\"lazy\" src=\"https://static-www.jejupass.com/resource/MO/images/main/09-1.jpg\"/></figure><dl class=\"context\" data-v-e07d7cb8=\"\"><dt class=\"carName\" data-v-e07d7cb8=\"\">커플여행 플렉스가 필요할 때</dt><dd data-v-",
+      "content_type": "image/webp",
+      "bytes": 55148,
+      "sha256": "7e18612be1a1e0e016415b80240ac12b18c2a2786279c8563d0e084e2bf52a34",
+      "source_sha256": "34ca365219f5ae24109b425259b8bdac94f75b8a2cc6f328f9b15a5ab29a4930",
+      "dhash": "9a6fb370e8ce24c1",
+      "width": 678,
+      "height": 508,
+      "variant": "mobile",
+      "source_pages": [
+        "https://rentcar.jejupass.com/mobile/rentcar"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-023.webp",
+      "source_url": "https://rentcar.jejupass.com/pc/images/rentcar/img_inland_rcm4.png",
+      "source_tag": "html-data, img:image",
+      "context": "pplcCode=02&amp;region=inland&amp;administrativeCode=4713000002&amp;administrativeCode2=4713000002&amp;rand=2PMFHVoi\"><figure data-v-65e4b5db=\"\"><img alt=\"\" data-v-65e4b5db=\"\" src=\"/pc/images/rentcar/img_inland_rcm4.png\"/></figure><span class=\"regionBadge\" data-v-65e4b5db=\"\">경주 렌터카</span></a></li><!--]--></ul></div></div></div></main></di",
+      "content_type": "image/webp",
+      "bytes": 52130,
+      "sha256": "ae777f261c366984f979612a989a0a9ed600abb805d36b03395b9344f2570827",
+      "source_sha256": "32451301c3a3e9932aa1ae102bb6fd64bfa1641d0c21e9743bb4f0e798c205c6",
+      "dhash": "1d911e3cb124b49d",
+      "width": 544,
+      "height": 400,
+      "variant": "desktop",
+      "source_pages": [
+        "https://rentcar.jejupass.com/web/rentcar/inland",
+        "https://rentcar.jejupass.com/web/rentcar/inland?region=inland&administrativeCode=1150000001"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-024.webp",
+      "source_url": "https://www.jejupass.com/pc/images/common/bg_appDown.png?v2=",
+      "source_tag": "external-css",
+      "context": ":block;margin-bottom:14px;font-size:18px;font-weight:700;color:#202020;line-height:21px}\n.footTop .footMenu > li > a{display:block;line-height:35px}\n.footAppDown {width:383px;height:247px;padding:43px 39px 0;border:solid #EAEAEA;border-width:0 1px;background: url(../images/common/bg_appDown.png?v2) no-repeat 265px 48px;background-size: 80px}\n.footAppDown h5{margin-bottom:12px}\n.footAppDown .txt, .",
+      "content_type": "image/webp",
+      "bytes": 5198,
+      "sha256": "8ff42e67fcd74316537bb81f82acc1fd7630d6d24e7c34988cb570d404e9dc11",
+      "source_sha256": "54b67f3bcfa73d7196e1712aea8c47eab6508049ef66fef339275c6fed71cf62",
+      "dhash": "b692baaeaa5c9497",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejupass.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-025.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/common/bg_app_type01.png",
+      "source_tag": "external-css",
+      "context": "ding: 32px 0 216px;\n  position: relative;\n  overflow: hidden;\n  margin-bottom: 24px;\n}\n.layPop.popAppInduce .layContainer::after {\n  content: \"\";\n  display: block;\n  width: 100%;\n  height: 100%;\n  position: absolute;\n  left: 8px;\n  bottom: -2px;\n  background: url(/resource/MO/images/common/bg_app_type01.png) no-repeat;\n  background-size: 334px;\n  background-position: 50% 100%;\n}\n.layPop.popAppIndu",
+      "content_type": "image/webp",
+      "bytes": 28834,
+      "sha256": "af03792dae89703f0bcbe18bfbb8fddb383b5d3bd0f559eb8decf67b68d41d0c",
+      "source_sha256": "8a5e84ab88c070ea0282dd97f6d0725427cf1a54899b5f1f5821797802ca4582",
+      "dhash": "3003103b596d0d1f",
+      "width": 670,
+      "height": 602,
+      "variant": "mobile",
+      "source_pages": [
+        "https://event.jejupass.com/mobile/events?status=IN_PROGRESS"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejupass-rentcar/reference-026.webp",
+      "source_url": "https://static-www.jejupass.com/resource/MO/images/common/bg_app_type02.png",
+      "source_tag": "external-css",
+      "context": "n-top: 16px;\n  text-decoration: underline;\n}\n.layPop.popAppInduce .closeL::after {\n  display: none;\n}\n.layPop.popAppInduce.type02 .layContainer {\n  background: #18225C;\n}\n.layPop.popAppInduce.type02 .layContainer::after {\n  left: 0;\n  bottom: 0;\n  background: url(/resource/MO/images/common/bg_app_type02.png) no-repeat;\n  background-size: 334px;\n  background-position: 50% 100%;\n}\n.layPop.popAppIndu",
+      "content_type": "image/webp",
+      "bytes": 31240,
+      "sha256": "bfd7b219bc8bce0dd525f5e8f67a8f7b1a17d1bf2aca966991e5ea0fc31cec17",
+      "source_sha256": "5394d7f4759dd3792ffcd76512ee388477f888c95213f43df2c39822ee471806",
+      "dhash": "18011c3939652d8f",
+      "width": 670,
+      "height": 598,
+      "variant": "mobile",
+      "source_pages": [
+        "https://event.jejupass.com/mobile/events?status=IN_PROGRESS"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_국내/jejupass-rentcar/og.png",
       "source_url": "https://rentcar.jejupass.com/images/og/home_og_1200x630.png",
@@ -26,30 +1136,6 @@
       "content_type": "image/png",
       "bytes": 74305,
       "sha256": "4b8b26580a2c31b0930f701961ecb3f8d5de6204c7b12339ae27c3e35ac7bbf7",
-      "width": 1200,
-      "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/jejupass-rentcar/logo-1.png",
-      "source_url": "https://www.jejupass.com/pc/images/jejupass_new-logo_og.png",
-      "source_tag": "json-ld.@graph[0].logo.url",
-      "context": "structured data logo",
-      "content_type": "image/png",
-      "bytes": 31076,
-      "sha256": "172b21591f629602b896f49b826bbaa53d452baf71518103399b08727b247252",
-      "width": 1600,
-      "height": 800
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_국내/jejupass-rentcar/reference-1.webp",
-      "source_url": "https://rentcar.jejupass.com/images/og/rentcar_og_jeju_1200x630.png",
-      "source_tag": "json-ld.@graph[4].image",
-      "context": "structured data image",
-      "content_type": "image/webp",
-      "bytes": 27788,
-      "sha256": "c89b194e0bb2554329f286caba90a6205fee073ca69f5ee0891c2b3ac6938c7d",
       "width": 1200,
       "height": 630
     }

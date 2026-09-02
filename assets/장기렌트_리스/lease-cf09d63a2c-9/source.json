@@ -1,0 +1,76 @@
+{
+  "company": "신한카드 마이카",
+  "category": "장기렌트_리스",
+  "requested_url": "https://mycar.shinhancard.com/conts/html/auto/rental/rentalcar/ADPFM111R61.html",
+  "page_url": "https://mycar.shinhancard.com/conts/html/auto/rental/rentalcar/ADPFM111R61.html",
+  "page_title": "신한카드 마이카",
+  "collection_status": "partial",
+  "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 1,
+    "desktop_pages": 1,
+    "mobile_pages": 1,
+    "stylesheets": 0,
+    "scripts": 6,
+    "candidates": 21,
+    "attempted_assets": 21,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:19:57.907602+09:00"
+  },
+  "assets": [
+    {
+      "type": "social",
+      "path": "assets/장기렌트_리스/lease-cf09d63a2c-9/social-001.webp",
+      "source_url": "https://mycar.shinhancard.com/conts/images/logo1_800x800.png",
+      "source_tag": "html-data, meta:og:image ",
+      "context": "\" sizes=\"180x180\"/>\n<link href=\"/conts/images/touch-icon-ipad-retina.png\" rel=\"apple-touch-icon\" sizes=\"167x167\"/>\n<link href=\"/conts/manifest.json\" rel=\"manifest\"/>\n<meta content=\"https://mycar.shinhancard.com/conts/images/logo1_800x800.png\" property=\"og:image\"/>\n<meta content=\"신한 마이카\" name=\"apple-mobile-web-app-title\"/>\n<meta content=\"ko_KR\" property=\"og:loc",
+      "content_type": "image/webp",
+      "bytes": 6728,
+      "sha256": "ffa4f58a62850d2699d12f82ce68e2b4e127f10769c9e7d8800538917eed7a22",
+      "source_sha256": "32c8101fdff8214632cd46895da0123b18e00c04d9428f0d5795303fc83f5aa0",
+      "dhash": "002000ecf8004000",
+      "width": 800,
+      "height": 800,
+      "variant": "shared",
+      "source_pages": [
+        "https://mycar.shinhancard.com/conts/html/auto/rental/rentalcar/ADPFM111R61.html"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/lease-cf09d63a2c-9/reference-001.webp",
+      "source_url": "https://mycar.shinhancard.com/conts/images/auto/at_section_rental_calendar.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/div>\n</div>\n</div>\n</div>\n<section class=\"at_section at_intro\">\n<div class=\"ly_inner\">\n<div class=\"object_area rental\">\n<div data-animation=\"on\">\n<img alt=\"\" class=\"calendar\" src=\"/conts/images/auto/at_section_rental_calendar.png\"/>\n<img alt=\"\" class=\"car\" src=\"/conts/images/auto/at_section_rental_car01.png\"/>\n</div>\n<img alt=\"\" class=\"mark\" data-a",
+      "content_type": "image/webp",
+      "bytes": 1716,
+      "sha256": "2c0663f9182bbf1ae7149a37b7a16421b2db28e1cee3d86c6857e131da911b8f",
+      "source_sha256": "2e95e5afecf9711558e90e2af02ea38c4b2fb0c9974f7b4778559430813df935",
+      "dhash": "68d438d6d6d6c0e8",
+      "width": 715,
+      "height": 260,
+      "variant": "shared",
+      "source_pages": [
+        "https://mycar.shinhancard.com/conts/html/auto/rental/rentalcar/ADPFM111R61.html"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/lease-cf09d63a2c-9/banner-001.webp",
+      "source_url": "https://mycar.shinhancard.com/conts/images/auto/at_section_rental_m01.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "class=\"mark\" data-animation=\"rotateIn\" data-delay=\"800\" src=\"/conts/images/auto/at_section_rental_mark.png\"/>\n</div>\n<div class=\"m_object_area\" data-animation=\"on\"><img alt=\"\" src=\"/conts/images/auto/at_section_rental_m01.png\"/></div>\n<h1 class=\"eyebrow\">신한카드 장기렌터카 상품안내</h1>\n<div class=\"tit_box type2\" data-animation=\"on\">\n<p class=\"tit\">저렴한 월 렌",
+      "content_type": "image/webp",
+      "bytes": 19154,
+      "sha256": "4e0046877a6cdf3c95e19282bf65bf90f42c1d23344f8e3960146457e3e2d07a",
+      "source_sha256": "e0ddab6d4a81bb4a28deb4bfbf531b1dce5466d71a95aaf2f76a3db39dd52f66",
+      "dhash": "4d126cf293cfd3d2",
+      "width": 1080,
+      "height": 475,
+      "variant": "shared",
+      "source_pages": [
+        "https://mycar.shinhancard.com/conts/html/auto/rental/rentalcar/ADPFM111R61.html"
+      ]
+    }
+  ]
+}

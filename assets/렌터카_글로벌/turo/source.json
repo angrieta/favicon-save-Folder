@@ -4,8 +4,19 @@
   "requested_url": "https://turo.com/",
   "page_url": "https://turo.com/",
   "page_title": "Turo car rental marketplace | Car rentals, reimagined",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/display/Turo-Go-Brand.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/display/Turo-Go-Locked-Brand.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/display/Turo-Go-Unlocked-Brand.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/display/USB-Audio-Brand.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/display/USB-Brand.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/display/USB-Charger-Brand.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/display/Webpage-Brand.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/display/Wheelchair-Brand.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/flags/Canada.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/flags/Great-Britain.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/flags/USA.svg:HTTPError; asset:https://resources.turo.com/next-js/0.0.1/_next/static/chunks/assets/vector-images/logo/Logo-Turo.svg:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 7,
+    "mobile_pages": 7,
+    "stylesheets": 0,
+    "scripts": 36,
+    "candidates": 679,
+    "attempted_assets": 300,
+    "errors": 130,
+    "collected_at": "2026-09-03T08:33:47.162794+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,1093 @@
       "height": 96
     },
     {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/turo/banner-001.webp",
+      "source_url": "https://resources.turo.com/f/253489/523x366/1d724ef339/2502_hiwp_hero_1x.jpg/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-hgzn0g-StyledImage e1cwme4v0 \" \" div seo-pages-17xu5x9 e1evl7bh1 div seo-pages-1hl0zj1 e1evl7bh0 div seo-pages-1vn3lxn e10e49jh0 div body",
+      "content_type": "image/webp",
+      "bytes": 31872,
+      "sha256": "36da5f6f27cfeceffe169761e5e891ee646b1689a1f91ef188ec43381fd7619e",
+      "source_sha256": "97dc10bf7edf4140937fcc15a6ddab72a5d0078ff22d7bee2f519153ea17437c",
+      "dhash": "1a280808020326a6",
+      "width": 523,
+      "height": 366,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/how-turo-works"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/turo/logo-001.png",
+      "source_url": "https://resources.turo.com/f/81934/303x85/fa4bef491b/travelers_web_606_169-new.png/m/",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img eor27s23 seo-pages-jpvlj7-StyledImage e1cwme4v0 Travelers insurance logo div seo-pages-7k4ygn eor27s21 div seo-pages-9k43sj eor27s20 div seo-pages-18gg0zj e1fkan3y0 div body",
+      "content_type": "image/png",
+      "bytes": 8557,
+      "sha256": "0033af636cf94a9df0ba2ef2ed3a8c9143dcc1ef48bbe2396efa158a7cd13853",
+      "source_sha256": "aa4fe35c5af0efc17307ba6d87aea606f52891cdc877be68bb083f8003b99e67",
+      "dhash": "8006d4d0d8d8ce00",
+      "width": 303,
+      "height": 85,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/turo/logo-002.png",
+      "source_url": "https://resources.turo.com/f/81934/606x169/acf36f4e78/travelers_web_606_169-2x-new.png/m/",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img eor27s23 seo-pages-jpvlj7-StyledImage e1cwme4v0 Travelers insurance logo div seo-pages-7k4ygn eor27s21 div seo-pages-9k43sj eor27s20 div seo-pages-18gg0zj e1fkan3y0 div body",
+      "content_type": "image/png",
+      "bytes": 12729,
+      "sha256": "2a5a803853c2335195a3b804abfd104a057ae8d9ad24f1145113541f21cc2842",
+      "source_sha256": "c9e867eb269090d1097d8af298799b52c05cb2e1daf7fad1bad734c876dde09a",
+      "dhash": "00d606dcd8d8c800",
+      "width": 606,
+      "height": 169,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/turo/logo-003.png",
+      "source_url": "https://resources.turo.com/f/81934/244x60/4f48518616/outside_logo-2x.png/m/",
+      "source_tag": "img:image, img:logo",
+      "context": "img seo-pages-1j12ddy-StyledImage e1cwme4v0 “Liberty Mutual, the fifth-largest insurance company in the U.S., is Turo’s exclusive provider.” div seo-pages-u1jr60 e14dtyxp3 div seo-pages-1itlyx3 e14dtyxp2 div seo-pages-f9ew6g e14dtyxp1 div seo-pages-sv3cwc e14dtyxp0 div",
+      "content_type": "image/png",
+      "bytes": 3822,
+      "sha256": "bd50676632043933aa523b6e04dce044ef66b997e11740756b027dd9c7efb56a",
+      "source_sha256": "0d70f7bb2046bdde5b0b6ce935f7fb60ccfc60f222ad9cd3fd4cc168b5af6025",
+      "dhash": "0000000000000000",
+      "width": 244,
+      "height": 60,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/turo/social-001.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/og-image.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "ivers to pickup trucks, from trusted, local hosts on the Turo car rental marketplace.\" property=\"og:description\"/><meta content=\"https://turo.com\" property=\"og:url\"/><meta content=\"https://resources.turo.com/next-js/0.0.1/og-image.png\" property=\"og:image\"/><meta content=\"summary_large_image\" name=\"twitter:card\"/><meta content=\"Turo car rental marketplac",
+      "content_type": "image/webp",
+      "bytes": 4800,
+      "sha256": "9019e197c29153f85d689a9d0339334a1922e6541aeb2f983a28c8a6102f73f6",
+      "source_sha256": "8d18e04f5813f9a7bc79f83e911c7a6f536d37bd148b4b7db47fb91346ee9b3a",
+      "dhash": "01a05b278f538401",
+      "width": 720,
+      "height": 720,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/",
+        "https://turo.com/us/en/car-rental/united-states/gift-cards-landing",
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/carculator",
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/hosting-101",
+        "https://turo.com/us/en/car-rental/united-states/insurance",
+        "https://turo.com/us/en/car-rental/united-states/list-your-car"
+      ]
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_글로벌/turo/social-002.webp",
+      "source_url": "https://resources.turo.com/f/253489/1040x658/6b31f10eaa/htw-thumb.jpg/m/",
+      "source_tag": "meta: twitter:image, meta:og:image ",
+      "context": " twitter:image",
+      "content_type": "image/webp",
+      "bytes": 47870,
+      "sha256": "754192b25b0be21d9c95f8d01d29c9aecacf98f008becd16c5a20e20319ad072",
+      "source_sha256": "44da7b477920adb39cc414a707687a71e07f44d8b48d383c1493cbbc4927f979",
+      "dhash": "19150d0d09030121",
+      "width": 1040,
+      "height": 658,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/how-turo-works"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/turo/banner-002.webp",
+      "source_url": "https://resources.turo.com/f/81934/1680x380/7f3a9fcae3/mt_tam_desktop.jpg/m/",
+      "source_tag": "external-css",
+      "context": "asis:100%;-ms-flex-preferred-size:100%;flex-basis:100%;max-width:100%;}}.seo-pages-1x51zoe{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;background-image:url('//resources.turo.com/f/81934/1680x380/7f3a9fcae3/mt_tam_desktop.jpg/m/');-webkit-background-position:0 0;background-position:0 0;backgr",
+      "content_type": "image/webp",
+      "bytes": 42170,
+      "sha256": "1bc5045d4ec5e14813fc4f7c31e068b6a4fa910210bd2e6e41dfb61340efbc0a",
+      "source_sha256": "50607dec636f8780dbfa2f195800f469904043ac903a94243256dd07c8a38340",
+      "dhash": "00d0d0d2d1426a79",
+      "width": 1680,
+      "height": 380,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/carculator",
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-001.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/cones@2x.2cgb_3at8iiz9.jpg",
+      "source_tag": "script-data",
+      "context": "kpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD1fybqHUDMLvMMjcwmPpwB1z7frUWad7m3NGULW1XU/9k=\"};e.s([\"default\",0,o],734282)},570373,e=>{e.q(\"https://resources.turo.com/next-js/0.0.1/_next/static/media/cones@2x.2cgb_3at8iiz9.jpg\")},925798,e=>{e.q(\"https://resources.turo.com/next-js/0.0.1/_next/static/media/turo-logo.06-f-gt8tbhob.png\")},874759,e=>",
+      "content_type": "image/webp",
+      "bytes": 16746,
+      "sha256": "fecae6936fbcbe8688ac5465c5be5df2ce863992cfaf2bef863f78bc8bf3615b",
+      "source_sha256": "f59ffa2795d4de90a770ee60b833a673960db88db05647213f09f20a89e41e05",
+      "dhash": "484840d2d2f8bc42",
+      "width": 750,
+      "height": 422,
+      "variant": "desktop",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/turo/banner-003.webp",
+      "source_url": "https://resources.turo.com/f/253489/751x422/02b9e1c4af/htw_step-1-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-kodgwq-StyledImage e1cwme4v0 animated hand holding phone div seo-pages-1fi00rw e10e49jh0 div seo-pages-1cmqxjl e10e49jh0 div seo-pages-ou2i6p e2olula0 div highlights seo-pages-1xbzkt6 e10e49jh0 section how-to-book",
+      "content_type": "image/webp",
+      "bytes": 12580,
+      "sha256": "bcb522e7c1f0da4076915fa6254b58d28fd63c6b953c88dcd04e7def3f040eab",
+      "source_sha256": "b4f349233598889cefee3b3f2aa79a270f5fe0157acfe82f40a0296f39c6f52b",
+      "dhash": "b070b0b2f2f2e4e0",
+      "width": 751,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/how-turo-works"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/turo/banner-004.webp",
+      "source_url": "https://resources.turo.com/f/253489/750x422/ae5a6c239d/htw_step-2-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-kodgwq-StyledImage e1cwme4v0 animation of finding a car div seo-pages-1fi00rw e10e49jh0 div seo-pages-1cmqxjl e10e49jh0 div seo-pages-ou2i6p e2olula0 div highlights seo-pages-1xbzkt6 e10e49jh0 section how-to-book",
+      "content_type": "image/webp",
+      "bytes": 14734,
+      "sha256": "d3a23f535811f72e21b26058dd5c4f88149e52d0cb1f48ab1599b63c08aacd05",
+      "source_sha256": "02c9540bfaaf651b16c74e4ff9b86dd850fe97360dd6af55f4e0271bb732e43e",
+      "dhash": "6d6dece8dcd8da90",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/how-turo-works"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/turo/banner-005.webp",
+      "source_url": "https://resources.turo.com/f/253489/750x422/6b97d88447/htw_step-3-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-kodgwq-StyledImage e1cwme4v0 rear view of a car div seo-pages-1fi00rw e10e49jh0 div seo-pages-1cmqxjl e10e49jh0 div seo-pages-ou2i6p e2olula0 div highlights seo-pages-1xbzkt6 e10e49jh0 section how-to-book",
+      "content_type": "image/webp",
+      "bytes": 8718,
+      "sha256": "8dea8504ed0fd4d32ac653ec0258b231658aad8d24d761c0cf5a5b1f85643b00",
+      "source_sha256": "a25dfe9c48a904544dbd878f66ce53053b3166681d5a8c22d5385d414c5de294",
+      "dhash": "0076da4c2869cdcc",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/how-turo-works"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-002.webp",
+      "source_url": "https://resources.turo.com/f/81934/468x263/74448b99c6/illustration_insurance_468c263.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-o9qxd6-StyledImage e1cwme4v0 \" \" div seo-pages-1kljgc7 ekjxxgd0 div seo-pages-q6ar1c e1fkan3y0 div seo-pages-h15m07 e10e49jh0 section protected div",
+      "content_type": "image/webp",
+      "bytes": 8144,
+      "sha256": "cbcc7287c7ff34fdd3c8856616b0ad87eb31db80bcd4db9bb5a71d237dc52198",
+      "source_sha256": "f750c1767e5d8b91e45c499ecd16826b98324de8c8105f0c26cfb30eb52efdb5",
+      "dhash": "0090e460f0eccc90",
+      "width": 468,
+      "height": 263,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/how-turo-works"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-003.webp",
+      "source_url": "https://resources.turo.com/f/81934/936x527/c8c25603b8/illustration_insurance_468c263-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-o9qxd6-StyledImage e1cwme4v0 \" \" div seo-pages-1kljgc7 ekjxxgd0 div seo-pages-q6ar1c e1fkan3y0 div seo-pages-h15m07 e10e49jh0 section protected div",
+      "content_type": "image/webp",
+      "bytes": 18064,
+      "sha256": "6c0fd3e022a98e88b48fe1ef925e0e37c77371fa7a6b3fb8aad09b3254514d7c",
+      "source_sha256": "ad980063e030e82c7e0bc7f9ac557a5198d1d1ca8451dddd54065be28053f353",
+      "dhash": "0090e460f0eccc90",
+      "width": 936,
+      "height": 527,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/how-turo-works"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-004.webp",
+      "source_url": "https://resources.turo.com/f/81934/768x328/ca355ea214/mt_tam_tablet.jpg/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-1di24xx-StyledImage e1cwme4v0 Start your engine! div seo-pages-t1i72l eea6wca0 div etcpmq90 seo-pages-1ifg7vh e1wfhujh0 div seo-pages-tsx82u e10e49jh0 div body",
+      "content_type": "image/webp",
+      "bytes": 31824,
+      "sha256": "9620fb1d80703951e27276d4e8ae865f9b068f58a56e3f8de5a1e345e2f150fd",
+      "source_sha256": "d7f32ff3ccfb5777677bf1554ce11657b81d46244f5c37d16c5638b3bdedbe70",
+      "dhash": "8291c25a59e56667",
+      "width": 768,
+      "height": 328,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/carculator",
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-005.webp",
+      "source_url": "https://resources.turo.com/f/81934/751x423/cb9c4231e8/lm-gift-card-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-10ptlah-StyledImage e1cwme4v0 \" \" div seo-pages-1xkpjb3 e10e49jh0 div seo-pages-5usyn3 e10e49jh0 div seo-pages-1g2y9yj e1fkan3y0 div seo-pages-p8xvjm e13jk8pp2 div seo-pages-1bjqhii e10e49jh0",
+      "content_type": "image/webp",
+      "bytes": 14078,
+      "sha256": "45b9f8f09b79ddb250ff2a0cbc72913fafa805e9ae65a1e20d5d8c5ebf6433d1",
+      "source_sha256": "64068495d8f92b5f01744ba3e5066d6d917bee77b94c749ed807bd2eb5bdf966",
+      "dhash": "f89494b0acb2b6d8",
+      "width": 751,
+      "height": 423,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/gift-cards-landing"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-006.webp",
+      "source_url": "https://resources.turo.com/f/81934/1126x634/2a2819cacb/lm-gift-card-3x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-10ptlah-StyledImage e1cwme4v0 \" \" div seo-pages-1xkpjb3 e10e49jh0 div seo-pages-5usyn3 e10e49jh0 div seo-pages-1g2y9yj e1fkan3y0 div seo-pages-p8xvjm e13jk8pp2 div seo-pages-1bjqhii e10e49jh0",
+      "content_type": "image/webp",
+      "bytes": 21516,
+      "sha256": "d038831260e6a70bb221b0d554c6753515a785c2173cacaac90f1a0499dc0d3e",
+      "source_sha256": "228fe3e65f529f3f14d7bdd3daae2bd3811d28f6f13684d7363a1961695d27e1",
+      "dhash": "e8d494b0ecb2b6d8",
+      "width": 1126,
+      "height": 634,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/gift-cards-landing"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-007.webp",
+      "source_url": "https://resources.turo.com/f/81934/592x291/466d6a90b8/carport.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-1di24xx-StyledImage e1cwme4v0 Insurance & vehicle protection for Turo hosts div seo-pages-1jvqbwo eea6wca0 div etcpmq90 seo-pages-19ad316 e1wfhujh0 div seo-pages-pyf31z emjgyea0 div seo-pages-pjc22c emjgyea0 div",
+      "content_type": "image/webp",
+      "bytes": 11172,
+      "sha256": "402b8554509a2fd78aabaeac60c72a2a778810a5da7bca4a2a06e98e12ea1152",
+      "source_sha256": "5434cc79ad9a4b729bcbe1af0db19e205bd841edf3614ca5135bcfb1d72cc537",
+      "dhash": "4ec7033b4b4b0b6d",
+      "width": 592,
+      "height": 291,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-008.webp",
+      "source_url": "https://resources.turo.com/f/81934/1184x582/473052b7c5/carport-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-1di24xx-StyledImage e1cwme4v0 Insurance & vehicle protection for Turo hosts div seo-pages-1jvqbwo eea6wca0 div etcpmq90 seo-pages-19ad316 e1wfhujh0 div seo-pages-pyf31z emjgyea0 div seo-pages-pjc22c emjgyea0 div",
+      "content_type": "image/webp",
+      "bytes": 24968,
+      "sha256": "4e79268e9150ff50831e6957ce9dd9889f0eb0318d7fa6442586e67509346b83",
+      "source_sha256": "5712afcf2483ef64fe996be3ea0bc81d24240bcb4f7a67020ed620b144682567",
+      "dhash": "4ec7033b4b4b0b6d",
+      "width": 1184,
+      "height": 582,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-009.webp",
+      "source_url": "https://resources.turo.com/f/253489/750x422/d999e501b7/ill_keyskeychain_light-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img seo-pages-127x1gk-StyledImage e1cwme4v0 Keys Keychain div seo-pages-19318gt e1dnb2be0 a seo-pages-1ygxwh4-StyledText div seo-pages-hakhho e1hkb4ei0 div seo-pages-z6z3bs e2olula0 div seo-pages-3l8ive emjgyea0",
+      "content_type": "image/webp",
+      "bytes": 14388,
+      "sha256": "8dde9592e313d812f4779b8009e992e3c3986608cf644faedb8db0ed4c89c183",
+      "source_sha256": "91556beacc85a2d1638f6721d6da04674f07bdffdd621d91146ab16117a9fb71",
+      "dhash": "13033339292f0706",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/hosting-101"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-010.webp",
+      "source_url": "https://resources.turo.com/f/253489/1500x360/34d54963f9/2502_carculator_1x.jpg/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-7hpa40-StyledImage e1cwme4v0 Group of vehicles div seo-pages-tsx82u e10e49jh0 div body html [document]",
+      "content_type": "image/webp",
+      "bytes": 90532,
+      "sha256": "5507aadfea812e13fc15398b3d516c08de2a0e8d8267deca705034db6ba80863",
+      "source_sha256": "84c1ce51f8ed53dcdc833fe7adafa90c06b8124c61be26264ed84daf0b4dec8a",
+      "dhash": "cf57b9f991996e1f",
+      "width": 1500,
+      "height": 360,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/carculator"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-011.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_1136.1llp6v43yxpex.webp",
+      "source_tag": "html-data, link:preload, script-data, source:banner, source:image",
+      "context": "a/2508_hp_All_928@2x.0k0bnzdwczcaq.webp\" media=\"(min-width: 992px) and (max-width: 1199px) and (min-resolution: 1.3dppx)\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_1136.1llp6v43yxpex.webp\" media=\"(min-width: 1200px) and (max-width: 1499px) and (max-resolution: 1.29dppx)\" rel=\"preload\"/><link as=\"image\" fetc",
+      "content_type": "image/webp",
+      "bytes": 13484,
+      "sha256": "d2e5e21e8ef9fc7c75adfdf005df38e48a9fbe32ebe8ab4268518bb34bfb7da0",
+      "source_sha256": "75dc8ba8d50ea3ea363f9c72ef28a2cbaf3a7163a093e5d387a47b3313ba6c7f",
+      "dhash": "3f3f3f1b1e9cb865",
+      "width": 1136,
+      "height": 312,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-012.webp",
+      "source_url": "https://resources.turo.com/f/253489/1500x480/955c0cf5c5/herouslyc_1x.webp/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-zuy73p-StyledImage e1cwme4v0 Turo host and small business entrepreneur Lucky D. smiling in front of cars div body html [document]",
+      "content_type": "image/webp",
+      "bytes": 62758,
+      "sha256": "16659bc2ce2c1556c2548e92d0bfc0788c6622de12e2c390bea141ed3a073c34",
+      "source_sha256": "21574ddab23c52c075fc4cd50879d32f13b970955d63ed47966cb54789aa3d7e",
+      "dhash": "1a109c6d6f2fab8b",
+      "width": 1500,
+      "height": 480,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/list-your-car"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-013.webp",
+      "source_url": "https://resources.turo.com/f/81934/1006x670/cd7c496281/inspire-a-journey-2x.jpg/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-1fyt2jq-StyledImage e1cwme4v0 Open road with rock face in the distance div seo-pages-1y2b8ua ekjxxgd0 div seo-pages-1jdi5l6 eea6wca0 div etcpmq90 seo-pages-5hlk6s e1wfhujh0 div seo-pages-1gspvl e1fkan3y0 div [object Object] seo-pages-806hlf e10e49jh0",
+      "content_type": "image/webp",
+      "bytes": 83754,
+      "sha256": "c1ca8b77ff815f2083304dfb311f5d86a75cea6febb0cc28f95f23398ccd3feb",
+      "source_sha256": "05251fedadf96494b2fe9ea55217aec2454e5e7eee8c7f932d9f0e8dbee32d49",
+      "dhash": "6460727065e5e370",
+      "width": 1006,
+      "height": 670,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/gift-cards-landing"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-014.webp",
+      "source_url": "https://resources.turo.com/f/253489/648x364/385f98fa9b/ill_shieldcheck-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img seo-pages-127x1gk-StyledImage e1cwme4v0 Shield Check div seo-pages-19318gt e1dnb2be0 a seo-pages-1ygxwh4-StyledText div seo-pages-hakhho e1hkb4ei0 div seo-pages-z6z3bs e2olula0 div seo-pages-3l8ive emjgyea0",
+      "content_type": "image/webp",
+      "bytes": 13192,
+      "sha256": "2c18ade1d2fc218282b5e2c62592cf10b3c43aafe3af38a8ad36703ece030c97",
+      "source_sha256": "47cb04db5619286d6b04fe747bcfd913b395698a75cdcea2dc65b8b97da21419",
+      "dhash": "0c1633232b33174c",
+      "width": 648,
+      "height": 364,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/hosting-101"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-015.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_928.2ee7zhdffkq2i.webp",
+      "source_tag": "html-data, link:preload, script-data, source:banner, source:image",
+      "context": "ia/2508_hp_All_720@2x.1m-9c8b-mjufu.webp\" media=\"(min-width: 768px) and (max-width: 991px) and (min-resolution: 1.3dppx)\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_928.2ee7zhdffkq2i.webp\" media=\"(min-width: 992px) and (max-width: 1199px) and (max-resolution: 1.29dppx)\" rel=\"preload\"/><link as=\"image\" fetch",
+      "content_type": "image/webp",
+      "bytes": 10956,
+      "sha256": "53d8e2662e2042ad05e451895f6ba934aaf3ec8cd8f9b7b69ecd9fb1ebdfb04f",
+      "source_sha256": "c27cea25d30fd3f679ef6f14682a5b3cc4765f49dee207ce1e73f7b9e26b0e21",
+      "dhash": "3f3f3f1b1e9cf825",
+      "width": 928,
+      "height": 270,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-016.webp",
+      "source_url": "https://resources.turo.com/f/253489/494x696/e646fb5178/toptips_lyc_1x.webp/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-irz5cf-StyledImage e1cwme4v0 renting your car out div seo-pages-1r61amd e10e49jh0 div seo-pages-161d9nq e10e49jh0 div seo-pages-1lyzxe5 ekjxxgd0 div seo-pages-108yph7 e1evl7bh1 div seo-pages-1rfmdrm e1evl7bh0",
+      "content_type": "image/webp",
+      "bytes": 23248,
+      "sha256": "f9dd2233a022121065e4aa5a7056f96f16e70c9fa57a773841d2b2a7028faf11",
+      "source_sha256": "e77c063c14438a2fb7d5fbe1fedc16acda7324829500eb8c92495fa9faff0c91",
+      "dhash": "1c7be3ef9b3d9c60",
+      "width": 494,
+      "height": 696,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/list-your-car"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-017.webp",
+      "source_url": "https://resources.turo.com/f/81934/972x211/099089a45d/gc-designs.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-441pw6-StyledImage e1cwme4v0 Gift card images div [object Object] seo-pages-sud3wj e10e49jh0 div seo-pages-1jukbtz ekjxxgd0 div seo-pages-ogdsuy eea6wca0 div etcpmq90 seo-pages-5hlk6s e1wfhujh0 div seo-pages-17ht3yd e1fkan3y0",
+      "content_type": "image/webp",
+      "bytes": 29004,
+      "sha256": "bd286cf9fe3a751f459defecfa4165e8df06c1596ae43040e195df104b34c058",
+      "source_sha256": "3e66e8d9c7433a4e94dc9ed80d1257ea9d3330a96c21ffd509f8adb83dc717ae",
+      "dhash": "e56428b2862c6565",
+      "width": 972,
+      "height": 211,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/gift-cards-landing"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-018.webp",
+      "source_url": "https://resources.turo.com/f/81934/784x352/849d2797fd/liability-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img e1l170nb0 seo-pages-1di24xx-StyledImage e1cwme4v0 Up to $750,000 in liability insurance div seo-pages-wv15il eea6wca0 div etcpmq90 seo-pages-5hlk6s e1wfhujh0 div seo-pages-59hfd2 emjgyea0 div seo-pages-18gg0zj e1fkan3y0 div",
+      "content_type": "image/webp",
+      "bytes": 16482,
+      "sha256": "ccfdb9076748a7357767a769aa3ea2ec0f668e877bef8055cc474fa7a76e99d3",
+      "source_sha256": "85937d29f3d56dcbdcb9ceb6e60bb40b1f134615fe7582a244eb19b3bccb9625",
+      "dhash": "6425afac904c4d91",
+      "width": 784,
+      "height": 352,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-019.webp",
+      "source_url": "https://resources.turo.com/f/253489/750x424/94517b02b1/ill_camera_light-2x.png/m/",
+      "source_tag": "img:banner, img:image",
+      "context": "img seo-pages-127x1gk-StyledImage e1cwme4v0 Camera div seo-pages-19318gt e1dnb2be0 a seo-pages-1ygxwh4-StyledText div seo-pages-hakhho e1hkb4ei0 div seo-pages-z6z3bs e2olula0 div seo-pages-3l8ive emjgyea0",
+      "content_type": "image/webp",
+      "bytes": 12560,
+      "sha256": "693afd6f7712dcb7a3efb00cb975543f97eb23510f494f04be4f2c1f123c4053",
+      "source_sha256": "d59d2ba9dd6263f6e58ab391edd5d4cbd83108d9eff25be295dabe202382b320",
+      "dhash": "000e06860b69370e",
+      "width": 750,
+      "height": 424,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/hosting-101"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-020.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_720.28fd0voaiculx.webp",
+      "source_tag": "html-data, link:preload, script-data, source:image",
+      "context": "edia/2508_hp_All_360@2x.1e9er7cfavz4s.webp\" media=\"(min-width: 0px) and (max-width: 767px) and (min-resolution: 1.3dppx)\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_720.28fd0voaiculx.webp\" media=\"(min-width: 768px) and (max-width: 991px) and (max-resolution: 1.29dppx)\" rel=\"preload\"/><link as=\"image\" fetchp",
+      "content_type": "image/webp",
+      "bytes": 8378,
+      "sha256": "fe8b82ce19f09aa4201d2b6c7deb053e545fdc87df28453d05a23dfbe016386e",
+      "source_sha256": "0c2120bcdc048523384322f0eb9fc79091fac1f0deeb93d686ebf05e823cdb88",
+      "dhash": "b77f3f3f1f1ebc65",
+      "width": 720,
+      "height": 270,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-021.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_720@2x.1m-9c8b-mjufu.webp",
+      "source_tag": "html-data, link:preload, script-data, source:image",
+      "context": "edia/2508_hp_All_720.28fd0voaiculx.webp\" media=\"(min-width: 768px) and (max-width: 991px) and (max-resolution: 1.29dppx)\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_720@2x.1m-9c8b-mjufu.webp\" media=\"(min-width: 768px) and (max-width: 991px) and (min-resolution: 1.3dppx)\" rel=\"preload\"/><link as=\"image\" fetchpr",
+      "content_type": "image/webp",
+      "bytes": 21396,
+      "sha256": "a4c99f5377a9c27c957adfdf149674d4d3849ba986fafe7370cadf8b47e614d3",
+      "source_sha256": "381db697e0b12bf5b9c32be1f30941969b1b3d2c8466a1c12cdadcc40abff419",
+      "dhash": "737f3f3f1f1ebc65",
+      "width": 1440,
+      "height": 540,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-022.webp",
+      "source_url": "https://resources.turo.com/f/81934/784x336/03401325eb/protection-2x.png/m/",
+      "source_tag": "img:image",
+      "context": "img e1l170nb0 seo-pages-1di24xx-StyledImage e1cwme4v0 Varying levels of vehicle protection div seo-pages-16rimzj eea6wca0 div etcpmq90 seo-pages-5hlk6s e1wfhujh0 div seo-pages-59hfd2 emjgyea0 div seo-pages-18gg0zj e1fkan3y0 div",
+      "content_type": "image/webp",
+      "bytes": 15852,
+      "sha256": "47a804432fc3256739a59cb6d4088862dc68df015dc00b0e05e82f33e4c81ac7",
+      "source_sha256": "6b537a2841656050b36facdd99e2bd985cdc95cbcf69e33caca32e5b50dad879",
+      "dhash": "4d84123b2b71691d",
+      "width": 784,
+      "height": 336,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-023.webp",
+      "source_url": "https://resources.turo.com/f/253489/750x422/8c8cb28cfe/ill_shieldcar_light-2x.png/m/",
+      "source_tag": "img:image",
+      "context": "img seo-pages-127x1gk-StyledImage e1cwme4v0 Shield Check div seo-pages-19318gt e1dnb2be0 a seo-pages-1ygxwh4-StyledText div seo-pages-hakhho e1hkb4ei0 div seo-pages-z6z3bs e2olula0 div seo-pages-3l8ive emjgyea0",
+      "content_type": "image/webp",
+      "bytes": 13654,
+      "sha256": "c76a127d815924be59b11a582f6840a4a80885f3c7eb14189b8b3e36e0a85be2",
+      "source_sha256": "69058028da61c919642e303d524b4768acdfe0d8c5d67cd9f73ab0592aac812f",
+      "dhash": "030b0d71732b0e04",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/hosting-101"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-024.webp",
+      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_360@2x.1e9er7cfavz4s.webp",
+      "source_tag": "html-data, link:preload, script-data, source:image",
+      "context": "/media/2508_hp_All_360.1nwk5ra00nuw5.webp\" media=\"(min-width: 0px) and (max-width: 767px) and (max-resolution: 1.29dppx)\" rel=\"preload\"/><link as=\"image\" fetchpriority=\"high\" href=\"https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_360@2x.1e9er7cfavz4s.webp\" media=\"(min-width: 0px) and (max-width: 767px) and (min-resolution: 1.3dppx)\" rel=\"preload\"/><link as=\"image\" fetchprio",
+      "content_type": "image/webp",
+      "bytes": 17824,
+      "sha256": "2e1ad8e2be42b98fffc5ed650d1ad44fd068cac2d2f6c536cc78bec4fb0bbc96",
+      "source_sha256": "38de5c831acda09d15bbd95f487f5bf29dbdab26e6ba6a2d99cfc95a5d6362c0",
+      "dhash": "1fcf7c373ec41d79",
+      "width": 720,
+      "height": 576,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-025.webp",
+      "source_url": "https://resources.turo.com/f/81934/784x396/83a1d77b5e/roadside_assistance-2x.png/m/",
+      "source_tag": "img:image",
+      "context": "img e1l170nb0 seo-pages-1di24xx-StyledImage e1cwme4v0 24/7 roadside assistance div seo-pages-wv15il eea6wca0 div etcpmq90 seo-pages-5hlk6s e1wfhujh0 div seo-pages-rx5ln5 emjgyea0 div seo-pages-18gg0zj e1fkan3y0 div",
+      "content_type": "image/webp",
+      "bytes": 22564,
+      "sha256": "46748d83ba40aeaa31cdf5d4f17eb083099e4bfdc930470274ae9a6b972ca312",
+      "source_sha256": "29fa85e89dc5a68e778d4fd82da5b2ea6e699e7c5c69c07d8fc091a36c385b15",
+      "dhash": "3991a3a3c3ca5361",
+      "width": 784,
+      "height": 396,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-026.webp",
+      "source_url": "https://resources.turo.com/f/253489/648x365/ec3ec5e7c8/ill_contactless-2x.png/m/",
+      "source_tag": "img:image",
+      "context": "img seo-pages-127x1gk-StyledImage e1cwme4v0 Contactless div seo-pages-19318gt e1dnb2be0 a seo-pages-1ygxwh4-StyledText div seo-pages-hakhho e1hkb4ei0 div seo-pages-z6z3bs e2olula0 div seo-pages-3l8ive emjgyea0",
+      "content_type": "image/webp",
+      "bytes": 7406,
+      "sha256": "9c42cf82d6aee6ff824c05a3f1d89cee4715f0db953107227c351c03a6778871",
+      "source_sha256": "8a409bfb9429caef1be6a58429aa9e80530018d7a4424a39c246968f356eeae2",
+      "dhash": "1207933333372f03",
+      "width": 648,
+      "height": 365,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/hosting-101"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-027.webp",
+      "source_url": "https://resources.turo.com/f/81934/768x328/a2de57523e/red_car.jpg/m/",
+      "source_tag": "img:image",
+      "context": "img e1l170nb0 seo-pages-1di24xx-StyledImage e1cwme4v0 Choose the plan that’s right for you div seo-pages-yx7wvp eea6wca0 div etcpmq90 seo-pages-19ad316 e1wfhujh0 div seo-pages-12odiic e1fkan3y0 div body",
+      "content_type": "image/webp",
+      "bytes": 13440,
+      "sha256": "98035a1cb22f52b9bd2249b8208df408b0e9513a2fde7ef7002039d8c5d6459d",
+      "source_sha256": "8e7ea31aba67826d59c59831b277a8dabab372109fed73c62b86c7a6db9c7d2f",
+      "dhash": "21336164e4e4c0e2",
+      "width": 768,
+      "height": 328,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-028.webp",
+      "source_url": "https://resources.turo.com/f/253489/750x422/2c0661a979/ill_piggybankdeposit_light-2x.png/m/",
+      "source_tag": "img:image",
+      "context": "img seo-pages-127x1gk-StyledImage e1cwme4v0 Shield Check div seo-pages-19318gt e1dnb2be0 a seo-pages-1ygxwh4-StyledText div seo-pages-hakhho e1hkb4ei0 div seo-pages-z6z3bs e2olula0 div seo-pages-3l8ive emjgyea0",
+      "content_type": "image/webp",
+      "bytes": 10146,
+      "sha256": "c10f52461515f7e7058e1dbaa56db4dcbac251743fc87c255a984cb9b21d52f2",
+      "source_sha256": "a04e09be2a9c0c626499c88d47bc486235b78ae5b9d99c93e157fd77d58711ee",
+      "dhash": "0c0e0d0f9616632b",
+      "width": 750,
+      "height": 422,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/host-hub/resources/hosting-101"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-029.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/AIKN3LovSBaajfHPc4lPqQ.445x297.jpg",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Chevrolet Traverse 2026 in Arlington div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 21084,
+      "sha256": "a552250c6c1a46cc01576853594dc508f3aed6e378e9cbf62dc9bd271d6cd46d",
+      "source_sha256": "4fde3a016e812eeb55ce082585dbf380834728740da7865d52d4a0b333113b01",
+      "dhash": "2d252d392266d0c7",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-030.webp",
+      "source_url": "https://resources.turo.com/f/253489/684x556/3bd4e13301/2502_hostinsurance_photo1_2x.jpg/m/",
+      "source_tag": "img:image",
+      "context": "img e1l170nb0 seo-pages-1di24xx-StyledImage e1cwme4v0 Man in blue car div seo-pages-18dkoxf eea6wca0 div etcpmq90 seo-pages-19ad316 e1wfhujh0 div seo-pages-12odiic e1fkan3y0 div body",
+      "content_type": "image/webp",
+      "bytes": 39510,
+      "sha256": "254b42a84a58837b6ca2a84ce652c68c11c02b02b4ffc2029fb3efe766b7ce4b",
+      "source_sha256": "d8aac2c1992e008573c0b37673a765488ae3972c49f6f5cd7c2653a6d3b3572f",
+      "dhash": "cf38e2c4355bdbe4",
+      "width": 684,
+      "height": 556,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/insurance"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-031.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/8AWgTg-pReqSln1n-lo0eA.445x297.heic",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Nissan Rogue 2026 in Arlington div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 27602,
+      "sha256": "44bddd642d1c555a9079afd040362099d6dec9b27a137e5ad7fba3ef9304f6c6",
+      "source_sha256": "6347c816750052259448f9cdbc0bf9e72b7f2a8cebc16fce2f3c323f8358a8f8",
+      "dhash": "3edee57109b9fc3c",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-032.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/DIawzupgQHK-ZBygC5T5hg.445x297.jpg",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Dodge Durango 2026 in Irving div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 21362,
+      "sha256": "f4e1685200b5a4dd6681ce3fef1f37515ff6ef3de71bd5c1e5eb2ec799dd1c6d",
+      "source_sha256": "d17ef9f81fe0886cf5b7c506293b2163c55576343a2a3473bd69df4a9c80259f",
+      "dhash": "2703992969411361",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-033.webp",
+      "source_url": "https://resources.turo.com/f/253489/544x345/cb93d62949/list-your-car_illu_1x.png/m/",
+      "source_tag": "img:image",
+      "context": "img e1l170nb0 seo-pages-15p23m6-StyledImage e1cwme4v0 Car div seo-pages-161d9nq e10e49jh0 div seo-pages-1q6g47l e10e49jh0 div seo-pages-13nqr62 ekjxxgd0 div seo-pages-108yph7 e1evl7bh1 div seo-pages-1rfmdrm e1evl7bh0",
+      "content_type": "image/webp",
+      "bytes": 10440,
+      "sha256": "1c9284a264f03be558059f7577a837a48162b049c4bb463733224add7b880978",
+      "source_sha256": "b061e4c77a1e74159e85ebc86fdaff06cbf349e7294dd165f6239e4e689bd28f",
+      "dhash": "8e172b5541696d6d",
+      "width": 544,
+      "height": 345,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/list-your-car"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-034.webp",
+      "source_url": "https://resources.turo.com/f/253489/1087x690/614347ef6f/list-your-car_illu_2x.png/m/",
+      "source_tag": "img:image",
+      "context": "img e1l170nb0 seo-pages-15p23m6-StyledImage e1cwme4v0 Car div seo-pages-161d9nq e10e49jh0 div seo-pages-1q6g47l e10e49jh0 div seo-pages-13nqr62 ekjxxgd0 div seo-pages-108yph7 e1evl7bh1 div seo-pages-1rfmdrm e1evl7bh0",
+      "content_type": "image/webp",
+      "bytes": 22396,
+      "sha256": "34d43bb5570eea6a0868cb152ed446dfb4d508ae967649141a35ed8697c69c79",
+      "source_sha256": "9c67190ce8824cab9c0c2a9ce3e7926b9c9442a2a05772565a4000864c9d5f2b",
+      "dhash": "8c172b1541696d6d",
+      "width": 1087,
+      "height": 690,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/list-your-car"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-035.webp",
+      "source_url": "https://resources.turo.com/f/253489/416x298/651b5da5fd/htw_keyhandoff.png/m/",
+      "source_tag": "img:image",
+      "context": "img e1l170nb0 seo-pages-1rcnnkk-StyledImage e1cwme4v0 car key being passed between hands div seo-pages-1lrm3q e1evl7bh1 div seo-pages-muvnsd e1evl7bh0 div seo-pages-1sp6jy3 e10e49jh0 div seo-pages-v5fncq e1fkan3y0 div seo-pages-7zfsu0 e10e49jh0",
+      "content_type": "image/webp",
+      "bytes": 16886,
+      "sha256": "e2aa028972fb11402c64d300701c19d057f4121d9089fc6e1a71a96b66fdf748",
+      "source_sha256": "16929a275cfabdbd13701cf61a8696619fe43b942ae3e19937508ad5d209bc95",
+      "dhash": "9998349333a33e73",
+      "width": 416,
+      "height": 298,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/how-turo-works"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-036.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/u83JNS9mQKmNxv1d83ceYg.445x297.jpg",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Subaru Crosstrek 2026 in Grapevine div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 27228,
+      "sha256": "ab699ff01c0892ca5ebf0b84eeab9a1818f7bdac41759dcb608da87553d89352",
+      "source_sha256": "149104b1acdc3979925675599a439638c3c2fb3284e8c0e71258d0b72d19e181",
+      "dhash": "1fcf4a3838c6f8e8",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-037.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/u83JNS9mQKmNxv1d83ceYg.582x388.jpg",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Subaru Crosstrek 2026 in Grapevine div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 47030,
+      "sha256": "910e29dc4b56ea4cfa1d1fafcca4a89fb5e039b1a38b46bc018353e234b81f94",
+      "source_sha256": "6d12f062b76989d004553b4a2d907d62deeca6689f6f19ceb3187eaf14c7f0a5",
+      "dhash": "1fcf4a3838c6e8c8",
+      "width": 582,
+      "height": 388,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-038.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/u83JNS9mQKmNxv1d83ceYg.720x480.jpg",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Subaru Crosstrek 2026 in Grapevine div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 68990,
+      "sha256": "164529f55106808a0f89e2eed865a6c52c3608de88ba14446edf9c8cccc7f2e1",
+      "source_sha256": "93e34977d0b74419ce8b88b562f117871c1540d3c7b28a90582153ebb88b6209",
+      "dhash": "1fcf4a1838c6e8e8",
+      "width": 720,
+      "height": 480,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-039.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/2agwiJVjRRGn4Huv-7n0DA.445x297.heic",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Chevrolet Equinox 2026 in Arlington div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 27382,
+      "sha256": "95a796503c8a6c83d243537c900fb4b48ab440486a1fffef388902b5b072d0c9",
+      "source_sha256": "1c9df85d8ebdca6a2f9cf2a70a32e7b4a4001af6b6e79cdc9506544cb00ebb89",
+      "dhash": "646c2c66acacde78",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-040.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/Jk0jeSKyQLab0UYFKJYK0Q.445x297.jpg",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Nissan Rogue 2026 in Irving div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 26106,
+      "sha256": "ae9773ee138bc2b83d389ab2263333ac50a8b5aafbecdfabc14e607044514f9b",
+      "source_sha256": "acc7e7d02578048797486369d5e851e74d190675fa3ad99eef6c2ef71b590ae6",
+      "dhash": "7233dbd97cf0f00b",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-041.webp",
+      "source_url": "https://resources.turo.com/f/253489/560x367/78c2ca0705/list-your-car-lifestyle-img_1x.png/m/",
+      "source_tag": "img:image",
+      "context": "img e1l170nb0 seo-pages-irz5cf-StyledImage e1cwme4v0 earning money with your car div seo-pages-1l7kvpt e10e49jh0 div seo-pages-161d9nq e10e49jh0 div seo-pages-1lyzxe5 ekjxxgd0 div seo-pages-108yph7 e1evl7bh1 div seo-pages-1rfmdrm e1evl7bh0",
+      "content_type": "image/webp",
+      "bytes": 29568,
+      "sha256": "7c69150ce9135778bd5fd41181bba77064487175c59f6a0759c2d6015d05dc80",
+      "source_sha256": "eeb5c59d766e58fa8d1b091d72fda0506e035e9091579c6d1b23f742c72596ee",
+      "dhash": "f8e28c244c47c281",
+      "width": 560,
+      "height": 367,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/list-your-car"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-042.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/z2YUDoU8TCqy4s7C-iyMcQ.445x297.heic",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Nissan Kicks 2026 in Euless div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 20698,
+      "sha256": "bc286068b4b8b5a285d6d7d07f7f526a2e366047c62d8016692e8438d6df3f2d",
+      "source_sha256": "942795c2d11955673ed2cbc8e1dc84ebf34491f8e44c34751e1f9147dcc1ed23",
+      "dhash": "202c0708d4e1c30c",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-043.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/4_dtoWqtSOqfVJanXMPmKg.445x297.jpg",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Nissan Kicks 2026 in Coppell div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 7590,
+      "sha256": "d81c10b86006e896f1a0b7d5c6411347b910e569c27c32f43169fd0533976264",
+      "source_sha256": "8cb4765315ac42b165d524344d2f90a5c06f1a2b09fd9bb26a8e71957a7d68db",
+      "dhash": "5170ccb036ccec05",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-044.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/4_dtoWqtSOqfVJanXMPmKg.582x388.jpg",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Nissan Kicks 2026 in Coppell div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 11212,
+      "sha256": "21652795e0ca0882065c9f3560217cc144ae783480aea5cf0874666b2731f1a1",
+      "source_sha256": "87923a257b35d2c4aa142d4b5359659f9f9a65e7b0553ee7260383bf00d538ed",
+      "dhash": "11b0ccb036ccec05",
+      "width": 582,
+      "height": 388,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-045.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/SQ8Y8JZhRJuBwxkFdD-7gg.445x297.heic",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Chrysler Pacifica 2021 in Honolulu div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 23762,
+      "sha256": "36adc0a3f36f6e023df7f496d0d2499cbddd70f9301ca844dddfe8761d2fec15",
+      "source_sha256": "98b2b5cda6cdaa3f07b8a6d9bfc605fc02b48b71d9e61d247924d1fe2c48ab5e",
+      "dhash": "f9d3fc1d2726a9ff",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-046.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/NqHQ_knYRAKVjKZFlMZBfQ.445x297.heic",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Honda CR-V 2021 in Honolulu div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 33084,
+      "sha256": "99066bab65dccc350669c8b00d9b931dae71b6ca4696319d756761a2c4191831",
+      "source_sha256": "19a77fe557900a27a6cefd88d1dc9fb562af427a071d0bd5bb625c7c15eb4028",
+      "dhash": "4bf6348fce6c99d1",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-047.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/RQFm_ZVNSFqStvgErWFQXQ.445x297.heic",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Jeep Wrangler 4xe 2021 in Honolulu div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 35946,
+      "sha256": "3914e9355c0f0e4e8e6ee55837436e45a515fa259714365b91c9db35a08ad702",
+      "source_sha256": "2dd1c6cb8b39493f5eb28ee5f00dc8eee4d9d22116c57bd9395a0351aa6238b5",
+      "dhash": "5c8d868684840fcf",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-048.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/0gJmsHM0TGOUmJsBAGXlpQ.445x297.heic",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Jeep Wrangler 4xe 2023 in Honolulu div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 37252,
+      "sha256": "dcecef26efb7a1b17fd719270bf440186f13095cb49040b4f41f34c073d79da5",
+      "source_sha256": "411fad8d1069f5b361e69eb887c00af4a17f8cb1aeb1644d14888f55ec2bcf9e",
+      "dhash": "e16ddcd8f4d8f038",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-049.webp",
+      "source_url": "https://resources.turo.com/f/253489/1480x807/b8c8d6e059/monthly-trips-video-thumbnail_2x.png/m/",
+      "source_tag": "img:image",
+      "context": "img e11v78u62 seo-pages-ubs72q-StyledImage e1cwme4v0 Jordan Miller, a Turo host in Denver, Colorado for almost four years, shares his experience with monthly trips div seo-pages-dfpqc0 e11v78u61 div seo-pages-j7qwjs e11v78u60 div seo-pages-esjqy6 e10e49jh0 div seo-pages-1eecfg0 e10e49jh0 div seo-pages-alh26y e1fkan3y0",
+      "content_type": "image/webp",
+      "bytes": 46524,
+      "sha256": "cd6c1390ddc0bfe263155593ac03cc675cecb0e28645b61752ad3ede49039934",
+      "source_sha256": "7d37b5514b53a9c8332490356809168101ae50100c05c21a793297fda91a6a46",
+      "dhash": "353736c1b29e6e6c",
+      "width": 1480,
+      "height": 807,
+      "variant": "mobile",
+      "source_pages": [
+        "https://turo.com/us/en/car-rental/united-states/list-your-car"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/turo/reference-050.webp",
+      "source_url": "https://images.turo.com/media/vehicle/images/ztC1grpcTDOWWKs5YIY_IA.445x297.heic",
+      "source_tag": "img:image",
+      "context": "img seo-pages-pbxiq6-StyledImage e1cwme4v0 Toyota Sienna 2020 in Honolulu div seo-pages-1ylxarc a seo-pages-1ufhpzl div seo-pages-1w9lkuq div seo-pages-1nrfuom e1l1g7o0 div seo-pages-cldjpe",
+      "content_type": "image/webp",
+      "bytes": 21944,
+      "sha256": "bbea0925475f40794ff128ed8c0634cbffc2e61da00c8f8aeee3372a299ea25b",
+      "source_sha256": "277243470cf9566667dd724bb2fff24cd1028b4250fff9cb4c0be0b9ba7edc64",
+      "dhash": "88c3c28e17138338",
+      "width": 445,
+      "height": 297,
+      "variant": "shared",
+      "source_pages": [
+        "https://turo.com/"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/turo/og.png",
       "source_url": "https://resources.turo.com/next-js/0.0.1/og-image.png",
@@ -28,42 +1126,6 @@
       "sha256": "8d18e04f5813f9a7bc79f83e911c7a6f536d37bd148b4b7db47fb91346ee9b3a",
       "width": 720,
       "height": 720
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/turo/reference-1.webp",
-      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_360@2x.1e9er7cfavz4s.webp",
-      "source_tag": "picture:page-image",
-      "context": "picture div seo-pages-1df9kca div seo-pages-1e54vvi div seo-pages-1tj84td div",
-      "content_type": "image/webp",
-      "bytes": 19050,
-      "sha256": "4d6409cd38b28c1a6e54968820ee1da694bdc4e3fdea5f75993414c117167362",
-      "width": 720,
-      "height": 576
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/turo/reference-2.webp",
-      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_720.28fd0voaiculx.webp",
-      "source_tag": "picture:page-image",
-      "context": "picture div seo-pages-1df9kca div seo-pages-1e54vvi div seo-pages-1tj84td div",
-      "content_type": "image/webp",
-      "bytes": 9012,
-      "sha256": "7f16192d54bccebc2eb2dbb23b784a3fb6515c8db395c43266f37b7a2a0fe6d7",
-      "width": 720,
-      "height": 270
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/turo/reference-3.webp",
-      "source_url": "https://resources.turo.com/next-js/0.0.1/_next/static/media/2508_hp_All_720@2x.1m-9c8b-mjufu.webp",
-      "source_tag": "picture:page-image",
-      "context": "picture div seo-pages-1df9kca div seo-pages-1e54vvi div seo-pages-1tj84td div",
-      "content_type": "image/webp",
-      "bytes": 22658,
-      "sha256": "74402d2e11547e1a17309b8e0deead9007a446f0e08d167929cbf634a74a1ec0",
-      "width": 1440,
-      "height": 540
     }
   ]
 }

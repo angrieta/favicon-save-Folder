@@ -2,10 +2,21 @@
   "company": "돌하루팡",
   "category": "렌터카_국내",
   "requested_url": "https://www.dolharupang.com/",
-  "page_url": "https://www.dolharupang.com/cars",
+  "page_url": "https://www.dolharupang.com/",
   "page_title": "제주렌트카 돌하루팡 - 제주도 렌트카 가격비교 최저가 1위",
   "collection_status": "complete",
-  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1116176109689604&ev=PageView&noscript=1; reference:HTTPError:https://gmb.acecounter.com/ac?uid=BH5A41762871588&je=n; reference:ValueError:https://www.dolharupang.com/_next/static/chunks/6faaacf609c3a525.js",
+  "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 18,
+    "desktop_pages": 18,
+    "mobile_pages": 18,
+    "stylesheets": 3,
+    "scripts": 36,
+    "candidates": 2297,
+    "attempted_assets": 300,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:09:59.727656+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,606 @@
       "height": 16
     },
     {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-001.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fimg.dolharupang.com%2Fonepple%2F%ED%8C%8C%EB%A6%AC%EB%B0%94%EA%B2%8C%EB%9C%A8+%EC%A0%9C%EC%A3%BC%EA%B3%B5%ED%95%AD%EB%A0%8C%ED%84%B0%EC%B9%B4%ED%95%98%EC%9A%B0%EC%8A%A4%EC%A0%90%2F2026%2F07%2F01%2Fthumbnail960%2Fec53fb4a-1dac-48c2-902a-ffcc0b17ac3a.webp&w=3840&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img object-cover 파리바게뜨 제주공항렌터카하우스점 사진 1 button inline-flex items-center justify-center gap-2 whitespace-nowrap font-bold shadow-none transition-[color,background-color,opacity] focus-visible:outline-none focus-visible:ring-0 focus-visible:ring-offset-0 active:opacity-50 active:scale-[0.97] touch-manipulation select-none disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [",
+      "content_type": "image/webp",
+      "bytes": 46582,
+      "sha256": "69dc0507f16a217a5d94d65af4e56045fa13b8fac7be6dc5a44c04592939af1d",
+      "source_sha256": "941ca5e16a8ed05eeeceb3ae591c55cf145e1c763f02f6f2b0d73738423e3f87",
+      "dhash": "01890ccccccc6467",
+      "width": 960,
+      "height": 640,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass",
+        "https://www.dolharupang.com/plus-pass/place/15f1e504-a524-4f7d-ba04-69937e85a64d"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-002.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-mascots.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroMascots section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary div flex flex-1 flex-col div flex min-h-screen flex-col bg-background",
+      "content_type": "image/png",
+      "bytes": 98714,
+      "sha256": "1bc43bbf1785925f79e85fbfcdf3f2f55fa89ab111eeb3970bb0f34635845a81",
+      "source_sha256": "f5f895146a0fa807e03a81a0cb4fbbc0e505315ed9804ab10496b4b916196fab",
+      "dhash": "b3b33232b33333b3",
+      "width": 690,
+      "height": 210,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-003.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-mascots.png&w=128&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroMascots section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary div flex flex-1 flex-col div flex min-h-screen flex-col bg-background",
+      "content_type": "image/png",
+      "bytes": 12106,
+      "sha256": "c158998a69ee72b2f6af6aab2c1cd297085b5749a7e26f68380390e8c1eac6ec",
+      "source_sha256": "512fd5c23c53a0c025f902e09ac3c0513a14addd0291ac4201981c7b1ad1c1c4",
+      "dhash": "4d4d6d6d6d6d4d4d",
+      "width": 128,
+      "height": 39,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-004.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fonepple-hero-scene.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroScene section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary div flex flex-1 flex-col div flex min-h-screen flex-col bg-background",
+      "content_type": "image/webp",
+      "bytes": 106614,
+      "sha256": "b347e026267690d0889437510d141ec36651999fc7f729b8179de12ad157fa1a",
+      "source_sha256": "24f8ffbedce931eb491d330aa904c77c0758ffd802d8435f1ede927dece5e08e",
+      "dhash": "0013ccb4ba0a71d0",
+      "width": 2000,
+      "height": 1893,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-005.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fonepple-hero-scene.jpg&w=640&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroScene section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary div flex flex-1 flex-col div flex min-h-screen flex-col bg-background",
+      "content_type": "image/webp",
+      "bytes": 20896,
+      "sha256": "efb728adbe53f64cdf62921210472339aa91c5dae5ae91c381f470e6f159e55c",
+      "source_sha256": "e4987dd5c27c007967a9fc9dd2294eae706dd58e08b2184374d089101c68ef00",
+      "dhash": "0413ccb4ba0a61c0",
+      "width": 640,
+      "height": 605,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-006.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fonepple-hero-scene.jpg&w=1080&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroScene section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary div flex flex-1 flex-col div flex min-h-screen flex-col bg-background",
+      "content_type": "image/webp",
+      "bytes": 46584,
+      "sha256": "9c3706e764a789d4f5e4aa925fa42abd7cff6eca30fafda2a1093a6a88bdd171",
+      "source_sha256": "b12f054a226dd24d35947a81ee51ccb32ae25ce189158058ed3ce3fa80815a2e",
+      "dhash": "0013ccb4ba0a71d0",
+      "width": 1080,
+      "height": 1022,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-001.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2F227%2F0a3a2dcba3ac5d9a97dc0e00482240d0.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 그리스신화박물관&트릭아미술관 입장권 이용 안내 1 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 p",
+      "content_type": "image/webp",
+      "bytes": 145836,
+      "sha256": "d028a3c8577cc0d856a2a8a9c55419be33e436a5af5bc8cc39cbafb0bdd68abe",
+      "source_sha256": "6c1b9b750950fff52887316409974f798257b56f0070889bc6aa8d9bcf804d94",
+      "dhash": "0f0f1beb9b96b296",
+      "width": 1000,
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets",
+        "https://www.dolharupang.com/tickets/detail/prod_00690d8ac07c30c"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-002.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fmain%2F77%2F62616e6e6572567.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 세계자동차 + 피아노박물관 입장권 이용 안내 1 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 px",
+      "content_type": "image/webp",
+      "bytes": 161298,
+      "sha256": "3f54951afea4c96146d29789405df2886f3175c6474fa7727bbc7de62911f857",
+      "source_sha256": "452075af5b0a07f8778e767c3cc8bd08085cb05a9e4d1705ed03aa86be256086",
+      "dhash": "8099222749c4d517",
+      "width": 1000,
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets",
+        "https://www.dolharupang.com/tickets/detail/prod_006912bfe170966"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-003.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fmain%2F654%2F62616e6e65725f78694.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 러브랜드 입장권 이용 안내 1 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 px-4 py-6 bg",
+      "content_type": "image/webp",
+      "bytes": 121926,
+      "sha256": "99e4977dd35e72a078d4bd24a98ae5364e913869b405a49eec8b7e8b3587a998",
+      "source_sha256": "82b1e85c70a355c71bc7e975bae4ba297fbbea903f0f5b5d15242b5631f5a9c8",
+      "dhash": "2f0f97a726179b93",
+      "width": 1000,
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets",
+        "https://www.dolharupang.com/tickets/detail/prod_00690d961b5b9ae"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-004.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fmain%2F45%2F62616e6e65725f78127.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 주식회사 비체올린 입장권 및 패키지권 이용 안내 1 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 ",
+      "content_type": "image/webp",
+      "bytes": 209264,
+      "sha256": "6be484e750266e6b710a4fa149f275fcda9e8f75a2bc91e04733adabea30553b",
+      "source_sha256": "4633a0dd67742f0301c15ac2f5cc51792450899b0a730636b197c27a743b69e3",
+      "dhash": "eb67439edeb7494d",
+      "width": 1000,
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets",
+        "https://www.dolharupang.com/tickets/detail/prod_00690ef0b1ddd40"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-005.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2F213%2Fc07a4eb9d5ca215eb3678ea37ce8fb4d.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 이상한나라의앨리스 입장권 이용 안내 1 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 px-4 py",
+      "content_type": "image/webp",
+      "bytes": 49916,
+      "sha256": "2d6f507c35771e2b5cad637c186c8c7013dd15bcd393a226f24c4d07468a1645",
+      "source_sha256": "989f8d88f49690fa6e3295d42f4d64696417776276539e5f324fdb89fdf1481a",
+      "dhash": "500cad2d2d498d25",
+      "width": 1000,
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets",
+        "https://www.dolharupang.com/tickets/detail/prod_006916c079961d1"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-007.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-benefit-discount.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroCardIcon div plus-pass-design-system-module__1fugiG__heroCard div plus-pass-design-system-module__1fugiG__heroCards section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary",
+      "content_type": "image/png",
+      "bytes": 38742,
+      "sha256": "0d48fc2bb36fe1aec77bf06544f6f9be35c124dca2578686364ab03a1c6edbc2",
+      "source_sha256": "f001aa86b90de4e74cd6f45cfd1ca1d6a655c5aa1ccc0efbba453589f1922086",
+      "dhash": "4cbf734ccece7e9c",
+      "width": 300,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-008.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-benefit-discount.png&w=128&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroCardIcon div plus-pass-design-system-module__1fugiG__heroCard div plus-pass-design-system-module__1fugiG__heroCards section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary",
+      "content_type": "image/png",
+      "bytes": 15496,
+      "sha256": "26df0ca9270ea979ca8c76214d3983281db52e15a98b3a390d784ae3e31c662d",
+      "source_sha256": "0bdb585a78949d230f92beca5acbf1f61cfe13ee61746fb6b62325c5456fc1d2",
+      "dhash": "02039b0b0f2f0e0d",
+      "width": 128,
+      "height": 128,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-009.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-benefit-discount.png&w=256&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroCardIcon div plus-pass-design-system-module__1fugiG__heroCard div plus-pass-design-system-module__1fugiG__heroCards section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary",
+      "content_type": "image/png",
+      "bytes": 36125,
+      "sha256": "e3f6ac7d09442ccc99d5748f1cb74c9e6cd75f5e7e2ed662e6275d0066c4bd11",
+      "source_sha256": "f70a6b9b87fe188561af7b324d226c1027ce20beeee5cbd7809343d91e3d9e59",
+      "dhash": "22438b1b0f0e0e4d",
+      "width": 256,
+      "height": 256,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-010.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-benefit-oneplus.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroCardIcon div plus-pass-design-system-module__1fugiG__heroCard div plus-pass-design-system-module__1fugiG__heroCards section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary",
+      "content_type": "image/png",
+      "bytes": 36813,
+      "sha256": "9ed9443b7b6266340a40decce76677d174b94bab69ae0372b63f40f26f008975",
+      "source_sha256": "aee07d7930910309d6824cf3a99633147bf3a7c0923cd9bac67eefd6eef400d2",
+      "dhash": "00feae929adad200",
+      "width": 300,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-011.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-benefit-oneplus.png&w=128&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroCardIcon div plus-pass-design-system-module__1fugiG__heroCard div plus-pass-design-system-module__1fugiG__heroCards section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary",
+      "content_type": "image/png",
+      "bytes": 15841,
+      "sha256": "40c9d4a0f27e89c6060a79cfd7d7a9e757f2d9ff6f7a0bdf7fb0901795123b6a",
+      "source_sha256": "4cff92deca74f753c383f5503ab3261a23f1be66c22e006e7e3476b1873139ad",
+      "dhash": "034b7f111b0b3581",
+      "width": 128,
+      "height": 128,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-012.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-benefit-oneplus.png&w=256&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroCardIcon div plus-pass-design-system-module__1fugiG__heroCard div plus-pass-design-system-module__1fugiG__heroCards section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary",
+      "content_type": "image/png",
+      "bytes": 36777,
+      "sha256": "84d27dec7ab975e704c4a5cf1bdc92047d6287aa817ae01fc3632fb18c453b4f",
+      "source_sha256": "50b8f64280fdb9cb122eb5d6de0a99569050412b3f4538624b8aaf3de93e513b",
+      "dhash": "02075f110b0b3500",
+      "width": 256,
+      "height": 256,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-013.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-benefit-free.png&w=3840&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroCardIcon div plus-pass-design-system-module__1fugiG__heroCard div plus-pass-design-system-module__1fugiG__heroCards section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary",
+      "content_type": "image/png",
+      "bytes": 36262,
+      "sha256": "cf41e78608a0e67498a35ca45284c32b3a6fec7cfc92f2fa1e5d0e6bcd6379ae",
+      "source_sha256": "d12a1a5e50db55de07c945071a4d64dcf39c7f71fab564c82896f125dece922d",
+      "dhash": "eef6cecccfcecfcb",
+      "width": 300,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-014.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-benefit-free.png&w=128&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroCardIcon div plus-pass-design-system-module__1fugiG__heroCard div plus-pass-design-system-module__1fugiG__heroCards section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary",
+      "content_type": "image/png",
+      "bytes": 15716,
+      "sha256": "8d1b829b8f1d194dbb66fd1c165e2d991fab9a180e7b8b033d17ba4560dc5bdf",
+      "source_sha256": "2ceb827a2b63fae97f6dc10a171fe96d652ed8f64167bce0a175bdec64ac7a6d",
+      "dhash": "3333494d0f0f0f0f",
+      "width": 128,
+      "height": 128,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/dolharupang/logo-015.png",
+      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fplus-pass%2Fhero-benefit-free.png&w=256&q=75",
+      "source_tag": "img:banner, img:image, img:logo",
+      "context": "img plus-pass-design-system-module__1fugiG__heroCardIcon div plus-pass-design-system-module__1fugiG__heroCard div plus-pass-design-system-module__1fugiG__heroCards section plus-pass-design-system-module__1fugiG__hero div mx-auto w-full max-w-[600px] flex-1 bg-ds-white main plus-pass-design-system-module__1fugiG__scope flex min-h-full flex-1 flex-col bg-brand-bg-primary",
+      "content_type": "image/png",
+      "bytes": 33215,
+      "sha256": "b4ee8f5e25e786883a8fe6cbc53b2ea1eba04909c3e0cc9eb5fdca3b953b5068",
+      "source_sha256": "763bd6dfe2093159cce3d798d07a634d50846a72bfb52b2d412b63362b57d5cb",
+      "dhash": "33330f0d0f0f0f0f",
+      "width": 256,
+      "height": 256,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/plus-pass"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/dolharupang/banner-001.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fdetail%2F227%2F63686174626f74736.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 그리스신화박물관&트릭아미술관 입장권 이용 안내 2 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 p",
+      "content_type": "image/webp",
+      "bytes": 35558,
+      "sha256": "d3b8fd0313e0181284291abe61d2552eaa875a5dafdf76f208c6e3ab3931c566",
+      "source_sha256": "0d33e43871ba445b7b2932d38966e9485d551dc4eefe452949761da220a37125",
+      "dhash": "595153714d195949",
+      "width": 860,
+      "height": 570,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_00690d8ac07c30c"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/dolharupang/banner-002.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fdetail%2F654%2F5feca091ec868debb0a9ebb2955fec97acebb0b1ecb694eab080048.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 러브랜드 입장권 이용 안내 2 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 px-4 py-6 bg",
+      "content_type": "image/webp",
+      "bytes": 35726,
+      "sha256": "70dca4e438a15cfb2bd6954d3ba3f5b07ada03a91bb6e8dd304adc0dcde34d20",
+      "source_sha256": "a9054639c23395c93d50e2fc084127da6c8046dae4cec0d2b781ce4f0b4870e2",
+      "dhash": "5953f3714d195923",
+      "width": 860,
+      "height": 600,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_00690d961b5b9ae"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/dolharupang/banner-003.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fdetail%2F654%2F5feca091ec868debb0a9ebb2955fec97acebb0b1ecb694eab080048.jpg&w=750&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 러브랜드 입장권 이용 안내 2 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 px-4 py-6 bg",
+      "content_type": "image/webp",
+      "bytes": 30806,
+      "sha256": "9aeefc074ee3af7354cbcb4a321d036b88809c7847e7c7b4f0490dc9edb47fe3",
+      "source_sha256": "543e89f299e2fac7f59600752cd1c7cb545d3d9a8682b18705a554c7adb1d0f2",
+      "dhash": "5953f3714d195907",
+      "width": 750,
+      "height": 523,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_00690d961b5b9ae"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/dolharupang/banner-004.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fdetail%2F654%2F5feca091ec868debb0a9ebb2955fec97acebb0b1ecb694eab080048.jpg&w=828&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 러브랜드 입장권 이용 안내 2 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 px-4 py-6 bg",
+      "content_type": "image/webp",
+      "bytes": 34604,
+      "sha256": "2fea637abceeb74527a8d1706130b06b28b9d780c89d4dd7c8579b0106f46af2",
+      "source_sha256": "1715a8f9aec308e7d9105c95134ca67515520367eef59704942299c42f622162",
+      "dhash": "5953f3714d195943",
+      "width": 828,
+      "height": 578,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_00690d961b5b9ae"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/dolharupang/banner-005.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fimg.dolharupang.com%2Fglb-region%2F2026%2F07%2F24%2Fthumbnail720%2F30f7198c-5ba5-46a6-b1d7-bb9483cf2be2.webp&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img object-cover 도쿄 div relative flex min-h-[68px] w-full items-center justify-center overflow-hidden rounded-ds-lg bg-ds-bg-card section flex flex-col gap-3 div flex flex-col gap-7 div S:0 body font-sans antialiased",
+      "content_type": "image/webp",
+      "bytes": 23968,
+      "sha256": "4138961666d09e996c9bfde608e8a7b668583e32c9f5986a8951dc78c7558de6",
+      "source_sha256": "bce5e5f5282d0c5ff17ffd3a7a2fc6890d0e5de2337f7edd5f2ba10de20a62ec",
+      "dhash": "ffffff6f6dc3d7dd",
+      "width": 720,
+      "height": 332,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/cs/cars-global/guide"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/dolharupang/banner-006.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fdetail%2F227%2F389.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 그리스신화박물관&트릭아미술관 입장권 이용 안내 3 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 p",
+      "content_type": "image/webp",
+      "bytes": 19758,
+      "sha256": "92f1955cff226766b8c556c6e846251c4ef48a44e155b09207e3cb7059a47b22",
+      "source_sha256": "0210e5d51b331c7cb6159352fde6797e2e62aee03d7aaed68ca618809833d49f",
+      "dhash": "4c0e70d8cce4c403",
+      "width": 860,
+      "height": 351,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_00690d8ac07c30c"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/dolharupang/banner-007.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fimg.dolharupang.com%2Fglb-region%2F2026%2F07%2F23%2Fthumbnail720%2Fd9e78be0-8af6-43c4-92dd-4c9f00c24c89.webp&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img object-cover 미야코지마 div relative flex min-h-[68px] w-full items-center justify-center overflow-hidden rounded-ds-lg bg-ds-bg-card section flex flex-col gap-3 div flex flex-col gap-7 div S:0 body font-sans antialiased",
+      "content_type": "image/webp",
+      "bytes": 52086,
+      "sha256": "966f72f5134166ef0da1ec0b459c32527a77a9747e1c16bed5b37650ecdd0fd8",
+      "source_sha256": "41f370b279cbba497ca6325b526f9802d493db349b164b55ab27d215c96e964e",
+      "dhash": "f06b7f3351014142",
+      "width": 720,
+      "height": 480,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/cs/cars-global/guide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-006.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fimg.dolharupang.com%2Fglb-region%2F2026%2F07%2F23%2Fthumbnail720%2Fd9e78be0-8af6-43c4-92dd-4c9f00c24c89.webp&w=640&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img object-cover 미야코지마 div relative flex min-h-[68px] w-full items-center justify-center overflow-hidden rounded-ds-lg bg-ds-bg-card section flex flex-col gap-3 div flex flex-col gap-7 div S:0 body font-sans antialiased",
+      "content_type": "image/webp",
+      "bytes": 37086,
+      "sha256": "31516e3c33cad926e55f04ffd4cb12e7284c4f5d1b161de3981ca1fddd16573b",
+      "source_sha256": "8f02aba11e1592c90f366c925d5db7542ae2b04da914ad01e5102233e2cddf79",
+      "dhash": "f86b7f3351014142",
+      "width": 640,
+      "height": 427,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/cs/cars-global/guide"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-007.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fdetail%2F227%2F312d31eab7b8eba6acec8aa4ec8ba0ed9994ebb095ebacbceab48026ed8ab8eba6adec9584ec9db4ebafb8ec88a0eab4805f696e74726f619.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 그리스신화박물관&트릭아미술관 입장권 이용 안내 4 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 p",
+      "content_type": "image/webp",
+      "bytes": 203492,
+      "sha256": "9730d650e5e1e0d88a119c467183eeb26b7ac477c854778053daf872c854fc55",
+      "source_sha256": "61d12c10c2e88e30290f401ce883066bedef5f9c68802d10cd32d0e31e25542e",
+      "dhash": "055cdb8624252525",
+      "width": 770,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_00690d8ac07c30c"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-008.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fdetail%2F227%2F312d31eab7b8eba6acec8aa4ec8ba0ed9994ebb095ebacbceab48026ed8ab8eba6adec9584ec9db4ebafb8ec88a0eab4805f696e74726f619.jpg&w=640&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 그리스신화박물관&트릭아미술관 입장권 이용 안내 4 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 p",
+      "content_type": "image/webp",
+      "bytes": 143292,
+      "sha256": "df05ff859439a98e108e8867ef7c2da7942b5945a2926a83bd6cd74643d27277",
+      "source_sha256": "7319ebc4dcdfc015488022c0c6170d36c29473ee37606b9f2c30fe0ace05503f",
+      "dhash": "051cdb8424252525",
+      "width": 640,
+      "height": 1662,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_00690d8ac07c30c"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-009.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2F213%2Fc0bf4965fe91bbf2265430586073fcc5.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 이상한나라의앨리스 입장권 이용 안내 4 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 px-4 py",
+      "content_type": "image/webp",
+      "bytes": 130934,
+      "sha256": "646d559caecf5151c7082144ab121877a7605dd2d11df9288f7ded4b221abae5",
+      "source_sha256": "66b5154550e24d512c8776d109f1902516af223d75feb8983244fbd7c2c0b45a",
+      "dhash": "ac1eb935034f8c80",
+      "width": 800,
+      "height": 2000,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_006916c079961d1"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-010.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fdetail%2F227%2F332d30453.jpg&w=3840&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 그리스신화박물관&트릭아미술관 입장권 이용 안내 5 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 p",
+      "content_type": "image/webp",
+      "bytes": 13038,
+      "sha256": "fd79cc188816b732f03174d69fa0cd3dbcfc43ec319f27375eab5f86340d2d91",
+      "source_sha256": "f3cd7eb5bbe22149c482f503cfbcefa242b0422e96af7668de9259e27f83a6cc",
+      "dhash": "007069696c508c86",
+      "width": 860,
+      "height": 226,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_00690d8ac07c30c"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/dolharupang/reference-011.webp",
+      "source_url": "https://www.dolharupang.com/_next/image?url=https%3A%2F%2Fd1u2vr8ckypv7x.cloudfront.net%2Flscompany-api%2Fdeal%2Fimage%2Fdetail%2F227%2F332d30453.jpg&w=750&q=75",
+      "source_tag": "img:banner, img:image",
+      "context": "img block h-auto w-full object-cover object-top 그리스신화박물관&트릭아미술관 입장권 이용 안내 5 div ticket-usage-image flex w-full flex-col overflow-hidden transition-[max-height] duration-300 max-h-80 div relative section overflow-hidden bg-background div radix-_R_3qinpfiv5tharb_-content-usage ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 p",
+      "content_type": "image/webp",
+      "bytes": 11474,
+      "sha256": "b12c033108de3c17f2888bc69047534f40331f2a45ee0632de3881d77ce98bb2",
+      "source_sha256": "e0fab3ec952f55452e2530e5df0a9299fa568d6cbca85b7f2a494ce62204ee3b",
+      "dhash": "007079696c508c82",
+      "width": 750,
+      "height": 197,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dolharupang.com/tickets/detail/prod_00690d8ac07c30c"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_국내/dolharupang/og.jpg",
       "source_url": "https://www.dolharupang.com/images/meta-img-dolharupang.jpg",
@@ -28,42 +639,6 @@
       "sha256": "c21f79f76599df97b075ea35bef52958ce0bd01d9e2d3a58a0629d72d04d20f2",
       "width": 1200,
       "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/dolharupang/logo-1.png",
-      "source_url": "https://www.dolharupang.com/images/dolharupang_logo.png",
-      "source_tag": "json-ld[0].logo.url",
-      "context": "structured data logo",
-      "content_type": "image/png",
-      "bytes": 15547,
-      "sha256": "d054590479bfdaa527f4bdab5ddfe0abe9634cbf8f610b9ecfd7a67102a83a1c",
-      "width": 446,
-      "height": 90
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_국내/dolharupang/logo-2.png",
-      "source_url": "https://www.dolharupang.com/_next/image?url=%2Fimages%2Fdolharupang_logo.png&w=640&q=75",
-      "source_tag": "img:semantic-logo",
-      "context": "img h-auto w-[148px] lg:w-[172px] 돌하루팡 div flex flex-col gap-4 lg:flex lg:gap-4 div flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between lg:gap-8 div border-t border-ds-border-footer pt-6 lg:pt-5 div space-y-5 pt-6 lg:space-y-",
-      "content_type": "image/png",
-      "bytes": 18471,
-      "sha256": "9c4bb635d2335082a5a9b1fe9b34511e03250e8492c69806c2f50b3862ed83ec",
-      "width": 446,
-      "height": 90
-    },
-    {
-      "type": "banner",
-      "path": "assets/렌터카_국내/dolharupang/banner-1.webp",
-      "source_url": "https://www.dolharupang.com/images/loading/carousel_loading_v2.gif",
-      "source_tag": "img:semantic-banner",
-      "context": "img object-cover 프로모션 배너 로딩 중 div relative w-full overflow-hidden bg-muted aspect-375/170 div lg:hidden div flex flex-col lg:grid lg:grid-cols-9 lg:gap-2 div relative mx-auto w-full max-w-page",
-      "content_type": "image/webp",
-      "bytes": 2494,
-      "sha256": "a1cbe521758f1eef6895611650b4312e152640c582ea8400a371a60eac10ca36",
-      "width": 1100,
-      "height": 500
     }
   ]
 }

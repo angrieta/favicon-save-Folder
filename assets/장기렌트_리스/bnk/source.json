@@ -1,0 +1,887 @@
+{
+  "company": "BNK캐피탈 자동차금융",
+  "category": "장기렌트_리스",
+  "requested_url": "https://www.bnkcapital.co.kr/",
+  "page_url": "https://www.bnkcapital.co.kr/",
+  "page_title": "BNK캐피탈 자동차금융",
+  "collection_status": "complete",
+  "collection_error": "asset:https://web.bnkcapital.co.kr/resources/images/index/v3/icon_next.svg:HTTPError; asset:https://web.bnkcapital.co.kr/resources/images/common/icon_clock.svg:HTTPError; asset:https://web.bnkcapital.co.kr/resources/images/prdt/icon_top.svg:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 26,
+    "desktop_pages": 26,
+    "mobile_pages": 26,
+    "stylesheets": 1,
+    "candidates": 232,
+    "errors": 3,
+    "collected_at": "2026-09-03T00:38:13.525696+09:00"
+  },
+  "assets": [
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-001.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/life/life_img_swiper_mo_01.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "ext/static/1gzG89gXyX9okQkudfF4K/_buildManifest.js\"></script><script defer=\"\" src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/life/life_img_swiper_mo_01.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_mo_02.png\" rel=\"preload\"/><link as=\"image\"",
+      "content_type": "image/webp",
+      "bytes": 27640,
+      "sha256": "f1bcf6cfba9972e1d8553f9cfdb35aca0e6cbc542faee2b70efd0a175cb00c8e",
+      "source_sha256": "8bbb4fc4015bea018a245e4a09e205f5463611c5d8b5c2266099827b29a6fab3",
+      "dhash": "26567262674d312d",
+      "width": 888,
+      "height": 690,
+      "variant": "mobile",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/life/bnkc/LifeBnkc010M01?headerDisplay=Y"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-002.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/life/life_img_swiper_mo_02.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "t/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/life/life_img_swiper_mo_01.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_mo_02.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_mo_03.png\" rel=\"preload\"/><div id=\"__next\"",
+      "content_type": "image/webp",
+      "bytes": 29624,
+      "sha256": "ce029be84dbd4f4ad6ef0a03eb7d2b0014906a44cb962f7e7fbf3034975de53b",
+      "source_sha256": "b805cf174bea0710a05e5f35951eb538731f2b4bab112a9e0f56428f238b7f13",
+      "dhash": "37130b33134b1333",
+      "width": 888,
+      "height": 690,
+      "variant": "mobile",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/life/bnkc/LifeBnkc010M01?headerDisplay=Y"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/bnk/logo-001.png",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/common/header_logo.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo, link:preload",
+      "context": "ext/static/1gzG89gXyX9okQkudfF4K/_buildManifest.js\"></script><script defer=\"\" src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/common/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_01.pn",
+      "content_type": "image/png",
+      "bytes": 3965,
+      "sha256": "1ec9dba4f747dc2074267d46060db385117958899c621fc7dad1d44979d006f2",
+      "source_sha256": "5f1554813070ec349bff89ebea0da68e0705f82255ab9623d5c23c436347b1a2",
+      "dhash": "94e234b4b21694b4",
+      "width": 420,
+      "height": 72,
+      "variant": "shared",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/cmct/prpl/CmctPrpl010M01",
+        "https://web.bnkcapital.co.kr/view/cspt/cpst/CsptCpst010M01",
+        "https://web.bnkcapital.co.kr/view/cspt/ctpp/CsptCtpp010M01",
+        "https://web.bnkcapital.co.kr/view/cspt/ctpp/CsptCtpp020M01",
+        "https://web.bnkcapital.co.kr/view/cspt/ctpp/CsptCtpp030M01",
+        "https://web.bnkcapital.co.kr/view/cspt/ctpp/CsptCtpp060M01",
+        "https://web.bnkcapital.co.kr/view/intr/coif/IntrCoif020M01",
+        "https://web.bnkcapital.co.kr/view/life/bnkc/LifeBnkc010M01?headerDisplay=Y",
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01",
+        "https://web.bnkcapital.co.kr/view/main/view/MainView020M01?headerDisplay=Y"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-001.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/life/life_img_swiper_pc_01.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "c=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/common/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_pc_01.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_pc_02.png\" rel=\"preload\"/><link as=\"image\"",
+      "content_type": "image/webp",
+      "bytes": 8588,
+      "sha256": "c031bd9836d6b82c4f270f17a47877e107308f34b3daeab3628560ff2419c3b8",
+      "source_sha256": "63c1b74cc5e1a65d406cc28b57c398b35da68056eeec956d33fc7c936466323e",
+      "dhash": "3657566f494b696d",
+      "width": 620,
+      "height": 268,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/life/bnkc/LifeBnkc010M01?headerDisplay=Y"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-003.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/life/life_img_swiper_mo_03.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "ref=\"/resources/images/life/life_img_swiper_mo_01.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_mo_02.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_mo_03.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidden=\"true\" id=\"pageUpper\" style=\"position:absolute;top:0;left:0;width:1px;",
+      "content_type": "image/webp",
+      "bytes": 28422,
+      "sha256": "78b3ab90402852d283fd29e210e2a4866eb0bf4794682da1e17d71d61223fd89",
+      "source_sha256": "ff7b458864b5e77b960169cf662433e210be64cf8cbefbf06cff9d4c6a8952ed",
+      "dhash": "372b0b2b3b033371",
+      "width": 888,
+      "height": 690,
+      "variant": "mobile",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/life/bnkc/LifeBnkc010M01?headerDisplay=Y"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-002.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/life/life_img_swiper_pc_02.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "image\" href=\"/resources/images/common/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_pc_01.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_pc_02.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_pc_03.png\" rel=\"preload\"/><link as=\"image\"",
+      "content_type": "image/webp",
+      "bytes": 9446,
+      "sha256": "c8a9c5c4e0e8eef4ba5feba0fd4c72c13c5219967c61a8efd2889a79b8f39614",
+      "source_sha256": "c707acc8d59af797ba711d1812c008fa87fe14dc555d30cfa24f6f8eb3894a22",
+      "dhash": "36474b7347563656",
+      "width": 620,
+      "height": 268,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/life/bnkc/LifeBnkc010M01?headerDisplay=Y"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-003.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/life/life_img_swiper_pc_03.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "ref=\"/resources/images/life/life_img_swiper_pc_01.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_pc_02.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/life/life_img_swiper_pc_03.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/common/p_wa.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidd",
+      "content_type": "image/webp",
+      "bytes": 6376,
+      "sha256": "3715f51473b673407badaeeb22341601e65b3bd7f949b085936d9840f4f590d8",
+      "source_sha256": "9116641fd38adfe4e4d6cacbe899cacb6b5a32ec00072b86e2591e7bc6cf2a1c",
+      "dhash": "4606565676467b7b",
+      "width": 620,
+      "height": 268,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/life/bnkc/LifeBnkc010M01?headerDisplay=Y"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/bnk/logo-002.png",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/prtn/header_logo.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo, link:preload",
+      "context": "ext/static/1gzG89gXyX9okQkudfF4K/_buildManifest.js\"></script><script defer=\"\" src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/prtn/header_logo.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidden=\"true\" id=\"pageUpper\" style=\"position:absolute;top:0;left:0;width:1px;",
+      "content_type": "image/png",
+      "bytes": 3049,
+      "sha256": "1b8c6eb2ba9cad95db518498c146fed47395e1c05c54dcc76829cd1db04c4812",
+      "source_sha256": "756f63af25c80b7140b81192ffe5fefd3cc719cbedf9c0575d024ddb8da7f488",
+      "dhash": "e4e274b4b2129494",
+      "width": 300,
+      "height": 42,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/prtn/logn/PrtnLogn010M01"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/장기렌트_리스/bnk/logo-003.png",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/header_logo.png",
+      "source_tag": "html-data, img:banner, img:image, img:logo, link:preload",
+      "context": "ext/static/1gzG89gXyX9okQkudfF4K/_buildManifest.js\"></script><script defer=\"\" src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/glbl/header_logo.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidden=\"true\" id=\"pageUpper\" style=\"position:absolute;top:0;left:0;width:1px;",
+      "content_type": "image/png",
+      "bytes": 7269,
+      "sha256": "f53662efe0c0a3407f8476285bce2a38085f2a6317441af2ab4f3c414c84a635",
+      "source_sha256": "00617c9d68f61351d9b840f3272a1c0062abf69ea2d2de3cc3a8c26895b8a7dc",
+      "dhash": "da5a75b5129292b2",
+      "width": 504,
+      "height": 84,
+      "variant": "shared",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl010M01",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl011M01",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl012M01",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl013M01",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl014M01",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl015M01",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl060M01",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl070M01",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl070M01?num=3",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl070M01?num=4",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl070M01?num=5",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl070M01?num=6",
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl070M01?num=7"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-004.webp",
+      "source_url": "https://web.bnkcapital.co.kr/_next/static/media/subLoading.bda5ac27.gif",
+      "source_tag": "external-css",
+      "context": "e;font-weight:weight}.eform_setting_view_cencelButton{right:15px}.eform_setting_view_table{padding-top:10px;padding-left:10px;font-size:12pt!important}.eform_setting_view_checkbox,.eform_setting_view_select{padding:10px}.eform_subLoading_wait{background-image:url(/_next/static/media/subLoading.bda5ac27.gif)}.eform_mirroring_wait,.eform_subLoading_wait{border:0;position:absolute;width:422px;top:120",
+      "content_type": "image/webp",
+      "bytes": 8182,
+      "sha256": "20e8c2086a80c4650a0c9fd89a3921def017f5633f21d58bf330194bd4b35a10",
+      "source_sha256": "f4f9500977c6c18c9ebfb9773e1da74094ab0efcfdacb8765021472aa44cfaf2",
+      "dhash": "0101490149c8d403",
+      "width": 839,
+      "height": 572,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-005.webp",
+      "source_url": "https://web.bnkcapital.co.kr/_next/static/media/mirroring.073b3059.gif",
+      "source_tag": "external-css",
+      "context": "ckground-image:url(/_next/static/media/subLoading.bda5ac27.gif)}.eform_mirroring_wait,.eform_subLoading_wait{border:0;position:absolute;width:422px;top:120px;height:287px;background-repeat:no-repeat;background-size:cover}.eform_mirroring_wait{background-image:url(/_next/static/media/mirroring.073b3059.gif)}.eform_sign_wait{background-image:url(/_next/static/media/signwait.becac96e.gif)}.eform_sign",
+      "content_type": "image/webp",
+      "bytes": 7848,
+      "sha256": "c7f6371faba7bec53a65717b62c79c50653818c104c9436b914b2a47e3f9f9e2",
+      "source_sha256": "a98c78c6bb38015f3238442c3772bd68c83516c96d676b7dde816d733f2b3861",
+      "dhash": "030dcc8c41c8e403",
+      "width": 839,
+      "height": 572,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-006.webp",
+      "source_url": "https://web.bnkcapital.co.kr/_next/static/media/signwait.becac96e.gif",
+      "source_tag": "external-css",
+      "context": "ait,.eform_subLoading_wait{border:0;position:absolute;width:422px;top:120px;height:287px;background-repeat:no-repeat;background-size:cover}.eform_mirroring_wait{background-image:url(/_next/static/media/mirroring.073b3059.gif)}.eform_sign_wait{background-image:url(/_next/static/media/signwait.becac96e.gif)}.eform_sign_wait,.eform_singleSign_wait{border:0;position:absolute;width:382px;top:120px;heig",
+      "content_type": "image/webp",
+      "bytes": 5124,
+      "sha256": "9e8d586d653c1326a21f516153a2bfc2b6ad97434f8567de606fcaef948ae105",
+      "source_sha256": "ec238b4418be744a57c0b3c86ce9edcfb768212de97daaa3c952d1234d2b1140",
+      "dhash": "27279a92a292a2a2",
+      "width": 764,
+      "height": 572,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-007.webp",
+      "source_url": "https://web.bnkcapital.co.kr/_next/static/media/signwait.91257cdc.jpg",
+      "source_tag": "external-css",
+      "context": "ait{background-image:url(/_next/static/media/signwait.becac96e.gif)}.eform_sign_wait,.eform_singleSign_wait{border:0;position:absolute;width:382px;top:120px;height:286px;background-repeat:no-repeat;background-size:cover}.eform_singleSign_wait{background-image:url(/_next/static/media/signwait.91257cdc.jpg)}.eform_singleSign_wait_canvas{border:0;position:absolute;width:360px;top:70px;left:10px;heigh",
+      "content_type": "image/webp",
+      "bytes": 4294,
+      "sha256": "78e7ec4a15f1cba52ea770d46f82ba8db4e1a3d8061021cfee36dd449046f863",
+      "source_sha256": "3beac0e62e091c087716147410bc134b32c9b2c52dad0337ad877fc93bc15036",
+      "dhash": "2727010101010101",
+      "width": 764,
+      "height": 572,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-008.webp",
+      "source_url": "https://web.bnkcapital.co.kr/_next/static/media/keyboardwait.2eef55b5.gif",
+      "source_tag": "external-css",
+      "context": "round-image:url(/_next/static/media/signwait.91257cdc.jpg)}.eform_singleSign_wait_canvas{border:0;position:absolute;width:360px;top:70px;left:10px;height:200px}.eform_keyboard_wait{border:0;position:absolute;width:382px;top:120px;height:286px;background-image:url(/_next/static/media/keyboardwait.2eef55b5.gif);background-repeat:no-repeat;background-size:cover}.eform_wait_close_button{position:absol",
+      "content_type": "image/webp",
+      "bytes": 10658,
+      "sha256": "9bdd5167f76f24b903d222c6ff81605370a8db161e2d3f3365a55e7124312a59",
+      "source_sha256": "73de4da480a8d9d86b790ff03837ec642930bafd1765fb7ccb078e57413dd924",
+      "dhash": "2727c0b2aaaa8e61",
+      "width": 764,
+      "height": 572,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-009.svg",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/common/icon_samsungwallet.svg",
+      "source_tag": "external-css",
+      "context": "und-repeat:no-repeat;background-position:50% 50%;background-size:cover}.hasicon .MuiButtonBase-root.button-mobilepass .icon{background-image:url(/resources/images/common/icon_mobile.svg)}.hasicon .MuiButtonBase-root.button-samsungwallet .icon{background-image:url(/resources/images/common/icon_samsungwallet.svg)}.hasicon .MuiButtonBase-root.button-mobilepass.Mui-disabled.Mui-selected,.hasicon .MuiB",
+      "content_type": "image/svg+xml",
+      "bytes": 45159,
+      "sha256": "f5e6cf27e6c9d63bea4e8238bfe0b33472b26a0e84d095e38f878a687c01a9f8",
+      "source_sha256": "f5e6cf27e6c9d63bea4e8238bfe0b33472b26a0e84d095e38f878a687c01a9f8",
+      "dhash": "",
+      "width": 480,
+      "height": 480,
+      "variant": "mobile",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-004.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/img_glbl_main.png",
+      "source_tag": "external-css",
+      "context": ".ux-pane.intro .ux-link.about .ux-item-icon .ux-item-image.custom-office{background-position:calc(var(--size) * -2) calc(var(--size) * 0)}.submain.glbl .ux-pane.intro .ux-content>.bg{position:absolute;top:0;right:20px;width:204px;height:192px;background-image:url(/resources/images/glbl/img_glbl_main.png);background-size:cover;transform:translateY(-100%)}.submain.glbl .h4.global-navigation{gap:20px",
+      "content_type": "image/webp",
+      "bytes": 30894,
+      "sha256": "9e52c5a382d7877ce8dba632864b3883d801d75d09be197733a98dc59031f02d",
+      "source_sha256": "9cebb8645663118ceb5713bf94e2c8e0909d812ba47fc6994bd8206ade538554",
+      "dhash": "1f3b5b1b19693316",
+      "width": 612,
+      "height": 576,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-010.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/temp/id_card_01_mono.png",
+      "source_tag": "external-css",
+      "context": "o:calc(224 / 344);position:relative;width:var(--rw);height:calc(var(--rw) * var(--ratio))}.ui-idcard .idcard{position:absolute;width:100%;height:100%;overflow:hidden;background-repeat:no-repeat;background-size:cover}.ui-idcard.t1 .idcard.back{background-image:url(/resources/images/temp/id_card_01_mono.png)}.ui-idcard.t1 .idcard.front{background-image:url(/resources/images/common/id_card_01.png)}.u",
+      "content_type": "image/webp",
+      "bytes": 27386,
+      "sha256": "3c2338b960d58a7c6c44076f8b20fa91fc854310a1f5e8767c8b85d843873216",
+      "source_sha256": "ac567729fcfcf220c8eab85d66a7536af5a7844b4029b0c148acf748dc40c888",
+      "dhash": "012c0c0c4c6d6905",
+      "width": 1032,
+      "height": 672,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-011.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/common/id_card_01.png",
+      "source_tag": "external-css",
+      "context": "-idcard .idcard{position:absolute;width:100%;height:100%;overflow:hidden;background-repeat:no-repeat;background-size:cover}.ui-idcard.t1 .idcard.back{background-image:url(/resources/images/temp/id_card_01_mono.png)}.ui-idcard.t1 .idcard.front{background-image:url(/resources/images/common/id_card_01.png)}.ui-idcard.t2 .idcard.back{background-image:url(/resources/images/temp/id_card_02_mono.png)}.ui",
+      "content_type": "image/webp",
+      "bytes": 29244,
+      "sha256": "e2daa428faace797f7389cb15d0aeb27215801b5c81540c6bd01fff0baee4041",
+      "source_sha256": "883cb0371491b76cf9f795d0a114bc49112504b58ee791817ca29cea82b53a8c",
+      "dhash": "414d4d4d4d4d6145",
+      "width": 1032,
+      "height": 672,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-012.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/temp/id_card_02_mono.png",
+      "source_tag": "external-css",
+      "context": "t:no-repeat;background-size:cover}.ui-idcard.t1 .idcard.back{background-image:url(/resources/images/temp/id_card_01_mono.png)}.ui-idcard.t1 .idcard.front{background-image:url(/resources/images/common/id_card_01.png)}.ui-idcard.t2 .idcard.back{background-image:url(/resources/images/temp/id_card_02_mono.png)}.ui-idcard.t2 .idcard.front{background-image:url(/resources/images/common/id_card_02.png)}.u",
+      "content_type": "image/webp",
+      "bytes": 30760,
+      "sha256": "abce725e5eca8ee9784ea9c02195d61868e64c510f62b309db2e652b1bdb0a41",
+      "source_sha256": "4b3f928634a95294abfc10ea10a375476bba57cc665df29a3be09de04d57025a",
+      "dhash": "053d59c1c9c94931",
+      "width": 1032,
+      "height": 672,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-005.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/ldng/popframe.png",
+      "source_tag": "external-css",
+      "context": "ay:.5s}.qr-mark .ux-title h3{opacity:0;transform:translateY(200px);animation-delay:.8s}.credit-visual{position:absolute;bottom:-3px;right:149px;margin-left:220px;width:338px;height:464px}.credit-visual-frame{top:0;width:inherit;height:inherit;background-image:url(/resources/images/ldng/popframe.png);background-position:0 0}.credit-visual-cont,.credit-visual-frame{position:absolute;left:0;backgroun",
+      "content_type": "image/webp",
+      "bytes": 5318,
+      "sha256": "496adf02df38cb0d74ba5823532cf7816bcfb35e3b0ed8077e83b13b60918980",
+      "source_sha256": "3eb211240570dab8997c100c92494487199f8e629ff8518a5846c0c879682c9f",
+      "dhash": "0355414141010101",
+      "width": 677,
+      "height": 929,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-006.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/ldng/popcontent.png",
+      "source_tag": "external-css",
+      "context": "th:inherit;height:inherit;background-image:url(/resources/images/ldng/popframe.png);background-position:0 0}.credit-visual-cont,.credit-visual-frame{position:absolute;left:0;background-repeat:no-repeat;background-size:100%}.credit-visual-cont{background-image:url(/resources/images/ldng/popcontent.png)}.credit-visual-cont,.credit-visual-cont2{bottom:0;width:304px;height:515px;background-position:0 ",
+      "content_type": "image/webp",
+      "bytes": 26856,
+      "sha256": "f26762678797b9e9eda7a388f0ffdf0772faf4ec65e66e02fbd79caaa1b57c0a",
+      "source_sha256": "e3642cb109dbd9a25888f8c14e9e4c4c5aba170fb65accc83606d96edd132d83",
+      "dhash": "0380868e9e9e8e9a",
+      "width": 608,
+      "height": 758,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-007.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/ldng/ctrtcontent.png",
+      "source_tag": "external-css",
+      "context": "redit-visual-cont{background-image:url(/resources/images/ldng/popcontent.png)}.credit-visual-cont,.credit-visual-cont2{bottom:0;width:304px;height:515px;background-position:0 100%;margin-left:16px}.credit-visual-cont2{position:absolute;left:0;background-image:url(/resources/images/ldng/ctrtcontent.png);background-repeat:no-repeat;background-size:100%}.credit-visual{transform:translateY(200px)}.cre",
+      "content_type": "image/webp",
+      "bytes": 27200,
+      "sha256": "555501ec589422ae092e467e6a3476c2d57a8d66ab7c3d5a2547a752d06eb632",
+      "source_sha256": "0ed042df30d1fdec1bc6c9047bf7e1b0b60f455f26b6b4273ee3fc65493e22c8",
+      "dhash": "0380848e9e9e8e9a",
+      "width": 608,
+      "height": 758,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-008.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/ldng/autoframe.png",
+      "source_tag": "external-css",
+      "context": "n-delay:.5s}.auto-land .ux-title h3{opacity:0;transform:translateY(200px);animation-delay:.8s}.auto-visual{position:absolute;bottom:0;right:149px;margin-left:220px;width:338px;height:464px}.auto-visual-frame{top:0;width:inherit;height:inherit;background-image:url(/resources/images/ldng/autoframe.png);background-position:0 0}.auto-visual-cont,.auto-visual-frame{position:absolute;left:0;background-r",
+      "content_type": "image/webp",
+      "bytes": 5852,
+      "sha256": "df2aea6e7c4c5cf74bd13e7be7d27866f52e79ebf616f4600f502bad1a18ac6f",
+      "source_sha256": "c9f6e80fc56b61f99d5d33845d505615d4e0bf35a1bc41b8cffe6f1ba35ce40a",
+      "dhash": "4141454545454545",
+      "width": 666,
+      "height": 928,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-009.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/ldng/autocontent.png",
+      "source_tag": "external-css",
+      "context": "kground-image:url(/resources/images/ldng/autoframe.png);background-position:0 0}.auto-visual-cont,.auto-visual-frame{position:absolute;left:0;background-repeat:no-repeat;background-size:100%}.auto-visual-cont{bottom:0;width:304px;height:515px;background-image:url(/resources/images/ldng/autocontent.png);background-position:0 100%;margin-left:16px}.auto-visual{transform:translateY(200px)}.auto-visua",
+      "content_type": "image/webp",
+      "bytes": 27838,
+      "sha256": "1614f3b2758a30177128c1cd2d36a1b637c16ed4183879d0f3c07d1b9fc3f96f",
+      "source_sha256": "9dced586beecdfbe0bef94a3545a3bc86aa34a6d3440c902ec8f618eace5c90f",
+      "dhash": "03a084be9c969e9e",
+      "width": 607,
+      "height": 746,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-010.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/ldng/icon_auto.png",
+      "source_tag": "external-css",
+      "context": "--bg-fff);border:none;box-shadow:none}.ux-card.bnk-life.box-type04 .ux-card-content .visual{--w:144px;--h:144px;width:var(--w);height:var(--h);border-radius:0;overflow:hidden}.ux-card.bnk-life.box-type04 .ux-card-content .visual .icon.ic-auto{background-image:url(/resources/images/ldng/icon_auto.png);background-repeat:no-repeat;background-size:calc(var(--w)) calc(var(--h))}.ux-card.bnk-life.box-ty",
+      "content_type": "image/webp",
+      "bytes": 12356,
+      "sha256": "1fbde900a2acaecb53c086958b65dd944d52b5cf5889490b6b16aa10d2370bf8",
+      "source_sha256": "406acfa1b975aafda1727b8b3d35f24d79379e54f996d642fd183a36f0950bc3",
+      "dhash": "0f336dd195653b0f",
+      "width": 420,
+      "height": 414,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-013.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/common/icons_login_cert_mob.png",
+      "source_tag": "external-css",
+      "context": "nter;align-items:center}.ux-login .link-login{display:block;--w:96px;--h:96px;width:var(--w);height:var(--h)}.ux-login .link-login .icon{display:block;width:100%;height:100%;background-repeat:no-repeat;background-size:cover;border-radius:24px;background-image:url(/resources/images/common/icons_login_cert_mob.png);box-shadow:0 6px 8px -4px rgba(2,12,34,.15)}.ux-login .link-login.kakao .icon{backgro",
+      "content_type": "image/webp",
+      "bytes": 17136,
+      "sha256": "091152180e6b8eece9b0fad4d448ba32955107fdf8503ce08efd318253132ce9",
+      "source_sha256": "74c23c7a1d6ca66186da53c15b67acf1c1c9c6a620362cf554e2bc8f000a31b1",
+      "dhash": "26c818393938882c",
+      "width": 2016,
+      "height": 288,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-011.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/cmct/icons_customer_voice.png",
+      "source_tag": "external-css",
+      "context": "ween;align-items:center}.ux-title .ux-link .icon.rang{width:24px;height:24px;background-image:url(/resources/images/common/icon_rang.svg);background-size:cover}.ux-icon-link.cmct-customer .icon{--w:56px;--h:56px;width:var(--w);height:var(--h);background-image:url(/resources/images/cmct/icons_customer_voice.png);background-size:calc(var(--w) * 3) calc(var(--h) * 1)}.ux-icon-link.cmct-customer .icon",
+      "content_type": "image/webp",
+      "bytes": 9504,
+      "sha256": "7f25238c9ad88b9d9572204edec0c67ecdaa5dab7f79f63e88cd17f6faa70820",
+      "source_sha256": "b2d23d0675d8bcab7850e2c27c139b9ea9e63c1558682ae5e17b28c145f5f1de",
+      "dhash": "96b672d2d6b2b296",
+      "width": 754,
+      "height": 252,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-012.webp",
+      "source_url": "https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_01.png",
+      "source_tag": "html-data, img:image, link:preload",
+      "context": "c=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/common/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_01.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_02.pn",
+      "content_type": "image/webp",
+      "bytes": 13338,
+      "sha256": "b46412a33419868ffdd74a27acc581d4b197ce71fea85911e9872cff5e789788",
+      "source_sha256": "1fc314d31360bc5ad1abf99f1c51512cdd789ee2b5b2097a05ae1559307008df",
+      "dhash": "88868ec216b8b10f",
+      "width": 540,
+      "height": 412,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-013.webp",
+      "source_url": "https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_02.png",
+      "source_tag": "html-data, img:image, link:preload",
+      "context": "mon/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_01.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_02.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_03.pn",
+      "content_type": "image/webp",
+      "bytes": 17316,
+      "sha256": "67a369c2e95a17c20f422580916ae2b6ba06008dca53848ddca2204fca044f0c",
+      "source_sha256": "55526cfefc7c50e42949b526ebdf836f7e848710745152378f0e62a65bd6219d",
+      "dhash": "8a80c6861c3bd700",
+      "width": 540,
+      "height": 412,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-014.webp",
+      "source_url": "https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_01.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "c=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/common/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_01.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_02.pn",
+      "content_type": "image/webp",
+      "bytes": 29766,
+      "sha256": "ea1bb05365312324c65a5e49a8aa2c2c1f6722c4dd6021a27a275bac95fa08e3",
+      "source_sha256": "5c668eb4eb95ca0ee1652b6e4a3b10117a574ca42014c0b978a09c1fbd7ef4c1",
+      "dhash": "8888a4a216b8b11f",
+      "width": 960,
+      "height": 960,
+      "variant": "mobile",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-015.webp",
+      "source_url": "https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_02.png",
+      "source_tag": "html-data, img:image, link:preload",
+      "context": "mon/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_01.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_02.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_03.pn",
+      "content_type": "image/webp",
+      "bytes": 43428,
+      "sha256": "57f96d78ffdc9f3898a8ea45732101278dd6255756bf4014594f5ae127b5f4cb",
+      "source_sha256": "e55d3de0c448ebaa7fa0f36a003a0e10ab1a4b1610c3fd9f715d63d55d2d40fe",
+      "dhash": "ca80a6ae3a66ad00",
+      "width": 960,
+      "height": 960,
+      "variant": "mobile",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-016.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/intr/photo_18.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "c=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/common/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/intr/photo_18.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/intr/mission_txt.png\" rel=\"preload\"/><link as=\"image\" href=\"/re",
+      "content_type": "image/webp",
+      "bytes": 15140,
+      "sha256": "8a9bba6edc75e9043bfbe00fe55a0dcddb2cddaea7921ba7d17d45ad796501c7",
+      "source_sha256": "950383c4ffcc669b62a0d9c2d1652f32aac056f5d2063f4749d3cec21fc72444",
+      "dhash": "b1b030e4c686a2a2",
+      "width": 320,
+      "height": 417,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/intr/coif/IntrCoif020M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-017.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/eng/global_strategic1-1.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/glbl/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-1.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-2.png\" rel=\"preload\"/><link as=\"imag",
+      "content_type": "image/webp",
+      "bytes": 8138,
+      "sha256": "0a52416c86a9e412a5b5e42f026fca977cd711c32bb54c5a1f6457ec4c548da2",
+      "source_sha256": "86ad32090254579bcde27a6d7852151400c1fc85fdb9cab3247b387b480b7715",
+      "dhash": "908431733171e186",
+      "width": 745,
+      "height": 234,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl011M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-018.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/eng/global_strategic1-2.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "image\" href=\"/resources/images/glbl/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-1.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-2.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-3.png\" rel=\"preload\"/><link as=\"imag",
+      "content_type": "image/webp",
+      "bytes": 6320,
+      "sha256": "cf45311179e12d9a43bb7911445d2276a8a9346446d24e0ad5a3ecb940cf5527",
+      "source_sha256": "c6b770f3cbbd270de955a7763ddac7cf8dbe69f13a8fd5b05dad509d587adcf2",
+      "dhash": "80916161713380a2",
+      "width": 745,
+      "height": 220,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl011M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-019.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/eng/global_strategic2.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/glbl/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic2.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidden=\"true\" id=\"pageUpper\" style=\"position:absolute;top:0;left:0;width:1px;",
+      "content_type": "image/webp",
+      "bytes": 33040,
+      "sha256": "349a8c6fa5f0c6920051f83545b05aa0659c0ec45ba36221c682db367441524f",
+      "source_sha256": "4525348b7296b349a22b31a733260043b1137ec8c04e44d01ce3aa47eefb8691",
+      "dhash": "b2f2ba06f0f0f0cc",
+      "width": 745,
+      "height": 612,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl012M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-020.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/eng/global_strategic3.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/glbl/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic3.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidden=\"true\" id=\"pageUpper\" style=\"position:absolute;top:0;left:0;width:1px;",
+      "content_type": "image/webp",
+      "bytes": 37126,
+      "sha256": "8ded645700b3dd9ade46f0f96c5aa89b46f983393a4ef4cb540ebfae4d0bd158",
+      "source_sha256": "68d881be6b4ec4029b6812224b7d085366ebcd6d88a7c686419a00af9307075a",
+      "dhash": "8264b229e8e8c0cc",
+      "width": 745,
+      "height": 656,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl013M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-014.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/eng/global_strategic4.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/glbl/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic4.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidden=\"true\" id=\"pageUpper\" style=\"position:absolute;top:0;left:0;width:1px;",
+      "content_type": "image/webp",
+      "bytes": 26060,
+      "sha256": "02cc76dda120500b90651b409b0929b0250b65039ebae3cadd013b24ffe8d097",
+      "source_sha256": "6034f213947a447dc727bd5693c46d2465270836d04ceb452b66cb8196a69e95",
+      "dhash": "03e2e813b2f070f0",
+      "width": 745,
+      "height": 610,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl014M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-021.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/eng/global_strategic5.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/glbl/header_logo.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic5.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidden=\"true\" id=\"pageUpper\" style=\"position:absolute;top:0;left:0;width:1px;",
+      "content_type": "image/webp",
+      "bytes": 35390,
+      "sha256": "c4506afac9697fb251a3f92431c4cb39afee2543e766b52bd2ad6decc7194d66",
+      "source_sha256": "bb81e8f9efb2b539c473afc71b263d6ec4524fb62756a0cd24cb1e58df49e505",
+      "dhash": "9490219098b19072",
+      "width": 745,
+      "height": 652,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl015M01"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/장기렌트_리스/bnk/banner-015.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/intr/img_m_07.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "ext/static/1gzG89gXyX9okQkudfF4K/_buildManifest.js\"></script><script defer=\"\" src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/intr/img_m_07.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/intr/mission_txt_m.png\" rel=\"preload\"/><div id=\"__next\"><div ar",
+      "content_type": "image/webp",
+      "bytes": 42264,
+      "sha256": "ec1860644edeb4199597e46f596f1e7d79abc154e9bfc8513d720171cbfda286",
+      "source_sha256": "d4dfd57a4bf74d3f27ffae862accc65c7029322dafda0287864978001ef188f0",
+      "dhash": "00080c0c081a3038",
+      "width": 960,
+      "height": 1141,
+      "variant": "mobile",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/intr/coif/IntrCoif020M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-022.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/intr/mission_txt_m.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "\"\" src=\"/_next/static/1gzG89gXyX9okQkudfF4K/_ssgManifest.js\"></script></head><body><link as=\"image\" href=\"/resources/images/intr/img_m_07.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/intr/mission_txt_m.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidden=\"true\" id=\"pageUpper\" style=\"position:absolute;top:0;left:0;width:1px;",
+      "content_type": "image/webp",
+      "bytes": 8438,
+      "sha256": "9db13b461fa72c05781219cb433258cf8ab711fe1b648703f5f2b07e3a77b2c1",
+      "source_sha256": "6afd5ba330321b3c6de5f4dc7e2df4235ade1c60ebee972816fdb94a119936fd",
+      "dhash": "cf4bb59406341387",
+      "width": 600,
+      "height": 204,
+      "variant": "mobile",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/intr/coif/IntrCoif020M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-023.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/eng/global_strategic1-3.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "\"/resources/images/glbl/eng/global_strategic1-1.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-2.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-3.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-4.png\" rel=\"preload\"/><div id=\"__nex",
+      "content_type": "image/webp",
+      "bytes": 7014,
+      "sha256": "0b7eb4694ae595e952791ded75d6ba43c2a88c837ea77b4da31ff78327066dff",
+      "source_sha256": "835e8ae73abfa63f7da30740a92ec5f11b4b2ad403d7bad7cbb0a8c4edaa2093",
+      "dhash": "c2c9256331318ea2",
+      "width": 745,
+      "height": 210,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl011M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-024.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/glbl/eng/global_strategic1-4.png",
+      "source_tag": "html-data, img:banner, img:image, link:preload",
+      "context": "\"/resources/images/glbl/eng/global_strategic1-2.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-3.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/glbl/eng/global_strategic1-4.png\" rel=\"preload\"/><div id=\"__next\"><div aria-hidden=\"true\" id=\"pageUpper\" style=\"position:absolute;top:0;left:0;width:1px;",
+      "content_type": "image/webp",
+      "bytes": 7814,
+      "sha256": "133371187dbcfab70963a5c86acfb7e85039f78125543d33eef145618e294b5b",
+      "source_sha256": "b63d4fff10d3ecf8034d33d053f19767ad22ff9b9b843b06e20fdee7525d19de",
+      "dhash": "c08141c9f1338c90",
+      "width": 745,
+      "height": 219,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/glbl/engl/GlblEngl011M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-025.webp",
+      "source_url": "https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_03.png",
+      "source_tag": "html-data, img:image, link:preload",
+      "context": "mepage/m_fit_01.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_02.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/m_fit_03.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/index/v3/icon_index_shortcut_camping.png\" rel=\"preload\"/><link ",
+      "content_type": "image/webp",
+      "bytes": 46046,
+      "sha256": "5fd70f6a6c4f8cfc30803937ac54ef25e12538212b706d6305d1ff8be08a4ec5",
+      "source_sha256": "7426061aa9dcc80e77baf89447e3c09ef94b6eebbd4fd9775783c900fa108667",
+      "dhash": "8fd2a3a4b69ad9c2",
+      "width": 960,
+      "height": 960,
+      "variant": "mobile",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-026.webp",
+      "source_url": "https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_03.png",
+      "source_tag": "html-data, img:image, link:preload",
+      "context": "mepage/p_fit_01.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_02.png\" rel=\"preload\"/><link as=\"image\" href=\"https://web.bnkcapital.co.kr/service/api/cmmn/file/mng/image/homepage/p_fit_03.png\" rel=\"preload\"/><link as=\"image\" href=\"/resources/images/index/v3/icon_index_shortcut_camping.png\" rel=\"preload\"/><link ",
+      "content_type": "image/webp",
+      "bytes": 17156,
+      "sha256": "2dcd058db5396710c1948d85b34a989f6c42a4e341e15e94a4dd2fcd2aecf5d9",
+      "source_sha256": "b4f8a5937d948a6162ebcf990d5f792f570f6338ffde7f2655e58407f42bad6b",
+      "dhash": "9f8681866a6dfcf2",
+      "width": 540,
+      "height": 412,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-027.webp",
+      "source_url": "https://web.bnkcapital.co.kr/_next/static/media/checkbox.6d3ba79d.png",
+      "source_tag": "external-css",
+      "context": "ize:14pt;overflow:hidden;text-overflow:ellipsis;border-bottom:1px solid rgb(212,212,212)}.eform_selectbox_menu_list:HOVER{background-color:lavender}.eform_selectbox_menu_selectedList{position:absolute;top:15px;right:3px;height:20px;width:20px;background-image:url(/_next/static/media/checkbox.6d3ba79d.png);background-size:contain;background-repeat:no-repeat}.eform_selectbox_menu_bottom{left:0;botto",
+      "content_type": "image/webp",
+      "bytes": 754,
+      "sha256": "92e58267161a1008026006b2a1d75766d7819c0d14450cec51fae787f3539404",
+      "source_sha256": "a2e8e2677cccad21c841546c3363cd56b850c67e498afae63b55c4c71896a850",
+      "dhash": "0000000000000000",
+      "width": 640,
+      "height": 593,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-028.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/common/id_card_02.png",
+      "source_tag": "external-css",
+      "context": "images/temp/id_card_01_mono.png)}.ui-idcard.t1 .idcard.front{background-image:url(/resources/images/common/id_card_01.png)}.ui-idcard.t2 .idcard.back{background-image:url(/resources/images/temp/id_card_02_mono.png)}.ui-idcard.t2 .idcard.front{background-image:url(/resources/images/common/id_card_02.png)}.ui-idcard .idcard.front:after{display:block;position:absolute;right:4px;bottom:0;left:4px;heig",
+      "content_type": "image/webp",
+      "bytes": 32924,
+      "sha256": "7b02991447ee136c059dc4cdd0de17c42da96576734a26017fc545915faa351d",
+      "source_sha256": "667d1fa2ce2b000039aa6002a24b720d000984269cb5232c011366a108e593b2",
+      "dhash": "453d5dc149c94975",
+      "width": 1032,
+      "height": 672,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/장기렌트_리스/bnk/reference-029.webp",
+      "source_url": "https://web.bnkcapital.co.kr/resources/images/common/icons_stock.png",
+      "source_tag": "external-css",
+      "context": "8.png)}.ux-item .ux-item-image.bank-059{overflow:hidden;border-radius:50%;background-image:url(/resources/images/bank/059.png);background-repeat:no-repeat;background-size:24px 24px;background-position:0 0}.ux-item .ux-item-image[class*=stock]{background-image:url(/resources/images/common/icons_stock.png);background-repeat:no-repeat;background-size:240px 72px}.ux-item .ux-item-image.stock-0001{back",
+      "content_type": "image/webp",
+      "bytes": 26920,
+      "sha256": "793a2a1d7e60aa6455231e97c5170094cde0d5400c1d152a5aa464b93a0b2940",
+      "source_sha256": "303fcf147febb3551535c4522eb4aaf3ef24765240abfbce3b18082e16edb914",
+      "dhash": "34343c595965e5e5",
+      "width": 640,
+      "height": 194,
+      "variant": "desktop",
+      "source_pages": [
+        "https://web.bnkcapital.co.kr/view/main/view/MainView010M01"
+      ]
+    }
+  ]
+}

@@ -4,8 +4,19 @@
   "requested_url": "https://jinair.jejuokrent.com/home/main/main.do",
   "page_url": "https://jinair.jejuokrent.com/home/main/main.do",
   "page_title": "제주OK렌터카",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://jinair.jejuokrent.com/static/img/ok-main-banner05.jpg:HTTPError; asset:https://jinair.jejuokrent.com/static/img/map-sm.jpg:HTTPError; asset:https://jinair.jejuokrent.com/static/img/map-lg.jpg:HTTPError; asset:https://jinair.jejuokrent.com/static/img/m-company-logo-mgmall.png:HTTPError; asset:https://jinair.jejuokrent.com/static/video/video.mp4:ValueError; asset:https://jinair.jejuokrent.com/static/assets/ico/apple-touch-icon-144-precomposed.png:HTTPError; asset:https://jinair.jejuokrent.com/static/fonts/NotoSansCJKkr-Bold.eot:HTTPError; asset:https://jinair.jejuokrent.com/static/assets/img/about/about.jpg:HTTPError; asset:https://jinair.jejuokrent.com/hqdefault.jpg:HTTPError; asset:https://jinair.jejuokrent.com/static/admin/images/common/icon/icon_calendar.gif:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 8,
+    "desktop_pages": 8,
+    "mobile_pages": 8,
+    "stylesheets": 5,
+    "scripts": 10,
+    "candidates": 174,
+    "attempted_assets": 174,
+    "errors": 10,
+    "collected_at": "2026-09-03T08:10:09.600093+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,40 +30,1109 @@
       "height": 256
     },
     {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-001.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/rentalInfo1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "g_box\">\n<!-- CONTENT -->\n<div class=\"col-md-12 content rental-info-content\" id=\"content\">\n<div class=\"rental-info1\" id=\"rental-info1\">\n<div class=\"row\">\n<img alt=\"대여자격 메인 이미지\" src=\"/static/img/rentalInfo1.jpg\"/>\n<span class=\"text_center font-size-L\">렌터카 대여는 다음의 조건을 갖춘 유효한 운전 면허증(국제 운전면허증)을 소지한 분께 가능합니다.</span>\n<p style=\"color:b",
+      "content_type": "image/webp",
+      "bytes": 126926,
+      "sha256": "d05dc6d39620cf534107efd659fbc5acae0958c90f84aff5ab09ea1110d7a16d",
+      "source_sha256": "12e14679667c07e2fc934422c87a7dae31b31fa2823ff429d3c63005c61477e1",
+      "dhash": "97968c1e3273f1b0",
+      "width": 1170,
+      "height": 320,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalInfo/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-002.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/rentalInfo2.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "do?menuCode=MN-PO-1215</a>)</span>참조 바람.<br/>\n</span><br/>\n</p>\n</br></div>\n</div>\n<div class=\"rental-info2 hidden\" id=\"rental-info2\">\n<div class=\"row\">\n<img alt=\"대여자격 메인 이미지\" src=\"/static/img/rentalInfo2.jpg\"/>\n<span class=\"text_center font-size-L\">\r\n\t\t\t                    \t\t\t\t차량대여 중 발생하는 귀책사유로 인한 당사 차량손해(손, 망실)는 고객님께서 차량수리비를 ",
+      "content_type": "image/webp",
+      "bytes": 32714,
+      "sha256": "3db10cf610de0dfd416c85cfaf69d21078229a9eab155fb4ecb47c52d5e962da",
+      "source_sha256": "d6153fd13186586964124ae1877a850a4c8355edc7cdd7b67477a69e1692f502",
+      "dhash": "9fc7e3c4c7c7c5c6",
+      "width": 1170,
+      "height": 320,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalInfo/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-003.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/rentalInfo4.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "위반으로 인한 사고발생 시 보상보험의 일부혜택을 받지 못할 수도 있습니다.</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"rental-info4 hidden\" id=\"rental-info4\">\n<div class=\"row\">\n<img alt=\"셔틀버스 수화물 규정 메인 이미지\" src=\"/static/img/rentalInfo4.jpg\"/>\n<div class=\"box_1 box_style_6\">\n<div class=\"padding_bottom\">셔틀버스 내 수화물 적재, 운반, 승하차 등의 서비스에 대해 아래와 같이 보상 불가합니다.</div>\n",
+      "content_type": "image/webp",
+      "bytes": 41718,
+      "sha256": "00d9410c700c06c607867c91714a46ca6750945788f08804150a087358933c19",
+      "source_sha256": "f6a442d3534ef4d3f293034afc82f0d43ed263636956075d52c1b83f48fa0759",
+      "dhash": "393626485a415a7b",
+      "width": 1170,
+      "height": 320,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalInfo/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-004.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/rentalInfo5.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"list_item\">유모차/카시트 등 포장이 미흡한 상태에서 운송 중 파손.</div>\n</div>\n</div>\n</div>\n<div class=\"rental-info5 hidden\" id=\"rental-info5\">\n<div class=\"row\">\n<img alt=\"취소 수수료 안내 메인 이미지\" src=\"/static/img/rentalInfo5.jpg\"/>\n<span class=\"text_center font-size-L\">\r\n\t\t\t                    \t\t\t\t취소에 따른 수수료 안내사항입니다.\r\n\t\t\t                    \t\t\t</s",
+      "content_type": "image/webp",
+      "bytes": 15912,
+      "sha256": "c7c92899dafc0bcde793bd8511e1c0c6633f620dd71d8302532547c42d7cc91e",
+      "source_sha256": "65e90a15faf3ebe12a28c2860d942b2d6d1d01d7d1129afdcb30bd8635e12441",
+      "dhash": "0f0f1f1b3b3b3b4b",
+      "width": 1170,
+      "height": 320,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalInfo/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-005.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/ok-main-banner01.jpg",
+      "source_tag": "external-css",
+      "context": "ackground-image: url(\"../img/ok-main-banner03.jpg\"); }\n\n.home-visual .item[data-index=\"2\"] { background-image: url(\"../img/ok-main-banner02.jpg\"); }\n\n.home-visual .item[data-index=\"2\"] p { color: #fff; }\n\n.home-visual .item[data-index=\"3\"] { background-image: url(\"../img/ok-main-banner01.jpg\"); }\n\n.home-visual .item[data-index=\"4\"] { background-image: url(\"../img/ok-main-banner04.jpg\"); }\n\n.home-v",
+      "content_type": "image/webp",
+      "bytes": 427296,
+      "sha256": "4edc685985b6a81ca9771b05e04e9ef0b2a2019221ba02446788d067ddac052a",
+      "source_sha256": "828a2e18639661a8f53203156718fdb731eb5265f1a15c5a68f9bdf8797c13df",
+      "dhash": "7afafa172658fc4d",
+      "width": 1920,
+      "height": 781,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-006.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/ok-main-banner02.jpg",
+      "source_tag": "external-css",
+      "context": "l; }\n\n@media (min-width: 992px) { .home-visual .item .visual-content p { margin: 14px 0; font-size: 20px; } }\n\n.home-visual .item[data-index=\"1\"] { background-image: url(\"../img/ok-main-banner03.jpg\"); }\n\n.home-visual .item[data-index=\"2\"] { background-image: url(\"../img/ok-main-banner02.jpg\"); }\n\n.home-visual .item[data-index=\"2\"] p { color: #fff; }\n\n.home-visual .item[data-index=\"3\"] { backgroun",
+      "content_type": "image/webp",
+      "bytes": 62364,
+      "sha256": "87f40466d5aedf56f5f1be23f211667d008638107223822eef038108550497f5",
+      "source_sha256": "e0c2ba088591a38bae275d1e2f7a1a5deda4f413c08ef8bce70cef826a7bbee6",
+      "dhash": "5767cb1b0b4d0d1e",
+      "width": 1920,
+      "height": 781,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-007.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/ok-main-banner03.jpg",
+      "source_tag": "external-css",
+      "context": "l .item .visual-content p { max-width: none; margin: 4px 0; font-size: 64%; font-weight: normal; }\n\n@media (min-width: 992px) { .home-visual .item .visual-content p { margin: 14px 0; font-size: 20px; } }\n\n.home-visual .item[data-index=\"1\"] { background-image: url(\"../img/ok-main-banner03.jpg\"); }\n\n.home-visual .item[data-index=\"2\"] { background-image: url(\"../img/ok-main-banner02.jpg\"); }\n\n.home-v",
+      "content_type": "image/webp",
+      "bytes": 186500,
+      "sha256": "bad393529a1904cbbf189343966ade9cef552f33fff4c8c32f7a4ae1d4fde324",
+      "source_sha256": "d8dbc98cd62a16569bffc172c88b0b054d7cd490e29165cecff1e28ec62015fd",
+      "dhash": "10d0d5696170b0da",
+      "width": 1920,
+      "height": 781,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-008.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/ok-main-banner04.jpg",
+      "source_tag": "external-css",
+      "context": "ackground-image: url(\"../img/ok-main-banner02.jpg\"); }\n\n.home-visual .item[data-index=\"2\"] p { color: #fff; }\n\n.home-visual .item[data-index=\"3\"] { background-image: url(\"../img/ok-main-banner01.jpg\"); }\n\n.home-visual .item[data-index=\"4\"] { background-image: url(\"../img/ok-main-banner04.jpg\"); }\n\n.home-visual .slick-arrow { display: block; position: absolute; bottom: 71px; right: 0; width: 70px; ",
+      "content_type": "image/webp",
+      "bytes": 69164,
+      "sha256": "5afe983152475be7aa8d576141c42ec69133d968f3a809ccac4222dbab2ccafb",
+      "source_sha256": "75adcf050408012a6ef04fceaa7584d8ce14c6aaa8c834a0cbdd7a6fb2fafb4e",
+      "dhash": "d7474743b1323b43",
+      "width": 1920,
+      "height": 781,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-009.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/inner-banner/ok-listing-banner.jpg",
+      "source_tag": "external-css",
+      "context": "right: -6px;\r\n}\r\n@media (max-width: 991px) {\r\n\t.next_image img {\r\n\t\tdisplay: none;\r\n\t}\r\n}\r\n\r\n/* ì¤ìê°ìì½ ë¦¬ì¤í¸ */\r\n@media (max-width: 991px) {\r\n\t.inner-page-banner {\r\n\t\tdisplay: none;\r\n\t}\r\n\t#bg-container {\r\n\t\tpadding: 30px 15px 50px;\r\n\t\tbackground: url('../img/inner-banner/ok-listing-banner.jpg') center center no-repeat; \r\n\t\tbackground-size: cover;\r\n\t}\r\n\t#bg-container .listing-search-co",
+      "content_type": "image/webp",
+      "bytes": 70930,
+      "sha256": "3abafe649e4d77deaee8ef10471ca87a153455c54c3f83c254db058b740d417b",
+      "source_sha256": "f24d3f7dd97294f25c600e9d16e76ab0c5cc57ef34002cc8b50c3b2168ccd71d",
+      "dhash": "039397474371326b",
+      "width": 1920,
+      "height": 1040,
+      "variant": "mobile",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
       "type": "reference",
-      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-1.webp",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-001.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/side_nav_bg.png",
+      "source_tag": "external-css",
+      "context": "ax-width: 991px) { .nav-open .side-nav { -webkit-transform: translate(0, 0); -ms-transform: translate(0, 0); transform: translate(0, 0); } }\r\n\r\n@media (max-width: 991px) { .side-nav:before { content: ''; display: block; width: 100%; height: 145px; background: url(\"../img/side_nav_bg.png\") no-repeat 50% 50%; background-size: cover; } }\r\n\r\n.outer-menu{position:relative;}\r\n\r\n@media (min-width: 992px)",
+      "content_type": "image/webp",
+      "bytes": 27924,
+      "sha256": "fc08680bdba4003b175f31c533a5d1b7458e282abfdc2947721f2b9f09e24be9",
+      "source_sha256": "4809cad1bcdd9a3c0e345037b918f26b96e7d2b71259d1e2b1b50f284c873fb8",
+      "dhash": "0820d6686170daec",
+      "width": 534,
+      "height": 290,
+      "variant": "mobile",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-010.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/shuttle-info-top-lg.jpg",
+      "source_tag": "external-css",
+      "context": "adding: 70% 0 0; background: url(\"../img/shuttle-info-top.jpg\") no-repeat 0 0; background-size: 100% auto; }\r\n\r\n@media (min-width: 992px) { .shuttle-schedule:before { position: absolute; top: 0; left: 0; width: 50%; height: 100%; padding: 0; background-image: url(\"../img/shuttle-info-top-lg.jpg\"); background-position: 100% 50%; background-size: cover; } }\r\n\r\n.shuttle-schedule .info { margin: 0; pa",
+      "content_type": "image/webp",
+      "bytes": 55060,
+      "sha256": "b4e73b11be2b0d4ea73cfb59d8e03f0dbeb53e09d92df47e196ff29547247280",
+      "source_sha256": "e3d0225bbc6ab12b02eeedaf3b8f54298e8787b2c0cc4275dfdc964b9b626bc8",
+      "dhash": "c98690bd0d161c83",
+      "width": 892,
+      "height": 521,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/logo-001.png",
+      "source_url": "https://jinair.jejuokrent.com/static/img/m-company-logo.png",
+      "source_tag": "external-css",
+      "context": "at: left; } }\r\n/* 2018.12.10 ljs ì¶ê° end */\r\n\r\n.gnb .logo .navbar-brand { display: block; top: 0; width: 100%; height: 100%; margin: 0; padding: 0; text-indent: 100%; word-wrap: normal; word-break: normal; white-space: nowrap; overflow: hidden; background: url(\"../img/m-company-logo.png\") no-repeat 0 0; background-size: contain; }\r\n\r\n/* 2018.12.10 ljs ì¶ê° */\r\n.gnb .logo.eastar .navbar-brand ",
+      "content_type": "image/png",
+      "bytes": 7612,
+      "sha256": "255ee238a0c7fb9360dceda4926090ae4601f0cd4737733cd73f15050e8bae9e",
+      "source_sha256": "db26af0fecd86056b891bd8d83b5d65f6f48dd44a1be8f89425bb6b1ee98a4ce",
+      "dhash": "b1b18c8c85848d92",
+      "width": 267,
+      "height": 53,
+      "variant": "mobile",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/logo-002.png",
+      "source_url": "https://jinair.jejuokrent.com/static/img/m-company-logo-eastar.png",
+      "source_tag": "external-css",
+      "context": "contain; }\r\n\r\n/* 2018.12.10 ljs ì¶ê° */\r\n.gnb .logo.eastar .navbar-brand { display: block; top: 0; width: 100%; height: 100%; margin: 0; padding: 0; text-indent: 100%; word-wrap: normal; word-break: normal; white-space: nowrap; overflow: hidden; background: url(\"../img/m-company-logo-eastar.png\") no-repeat 0 0; background-size: contain; }\r\n/* 2018.12.10 ljs ì¶ê° end */\r\n\r\n@media (min-width: 99",
+      "content_type": "image/png",
+      "bytes": 9398,
+      "sha256": "52856dfaa0f011bbb937e0bb2a72bf364264994b1882649c07c30e5b7ce037cb",
+      "source_sha256": "11e712a6cac62fcff46132afa531f7d121fca5814cbf06357746872baea2f985",
+      "dhash": "0428e4944b4f0c24",
+      "width": 266,
+      "height": 36,
+      "variant": "mobile",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/logo-003.png",
+      "source_url": "https://jinair.jejuokrent.com/static/img/company-logo-eastar.png",
+      "source_tag": "external-css",
+      "context": "}\r\n/* 2018.12.10 ljs ì¶ê° end */\r\n\r\n@media (min-width: 992px) { .gnb .logo .navbar-brand { background-image: url(\"../img/company-logo3.png\"); } }\r\n\r\n/* 2018.12.10 ljs ì¶ê° */\r\n@media (min-width: 992px) { .gnb .logo.eastar .navbar-brand { background-image: url(\"../img/company-logo-eastar.png\"); } }\r\n/* 2018.12.10 ljs ì¶ê° end */\r\n\r\n/* 2024.03.18 ì§ìì´ ì¶ê° */\r\n.gnb .logo.jinair { width:",
+      "content_type": "image/png",
+      "bytes": 9216,
+      "sha256": "2757f505ec3731bc77b73e6c9d998de2ed890bb574d3a4e1a5f4663c2f07c82a",
+      "source_sha256": "6d90615c433e090d2cef3f20ab62313dc7b5abdde3fa78fd0fb174ed8559420a",
+      "dhash": "08a8929672f0ccf4",
+      "width": 165,
+      "height": 64,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/logo-004.png",
+      "source_url": "https://jinair.jejuokrent.com/static/img/m-company-logo-jinair.png",
+      "source_tag": "external-css",
+      "context": "ht: 64px; margin: 5px 0; float: left; } }\r\n.gnb .logo.jinair .navbar-brand { display: block; top: 0; width: 100%; height: 100%; margin: 0; padding: 0; text-indent: 100%; word-wrap: normal; word-break: normal; white-space: nowrap; overflow: hidden; background: url(\"../img/m-company-logo-jinair.png\") no-repeat 0 0; background-size: contain; }\r\n@media (min-width: 992px) { .gnb .logo.jinair .navbar-br",
+      "content_type": "image/png",
+      "bytes": 4205,
+      "sha256": "3a5025da8d0f206c3448002b450d6d5c0f435cc9c3fce04b4dbc5ddf3dc176a5",
+      "source_sha256": "96cca1ee458389555eaeec455ebbcc59d120384b0f2ba36ac4c744bc6890f33e",
+      "dhash": "0449045c5b5b0c24",
+      "width": 246,
+      "height": 36,
+      "variant": "mobile",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/logo-005.png",
+      "source_url": "https://jinair.jejuokrent.com/static/img/company-logo-jinair.png",
+      "source_tag": "external-css",
+      "context": "100%; word-wrap: normal; word-break: normal; white-space: nowrap; overflow: hidden; background: url(\"../img/m-company-logo-jinair.png\") no-repeat 0 0; background-size: contain; }\r\n@media (min-width: 992px) { .gnb .logo.jinair .navbar-brand { background-image: url(\"../img/company-logo-jinair.png\"); } }\r\n/* 2024.03.18 ì§ìì´ end */\r\n\r\n/* 2025. 08. 26 ì íì¶ê° */\r\n.gnb .logo.cu { width: 200px;",
+      "content_type": "image/png",
+      "bytes": 4375,
+      "sha256": "f362e72a04677ec1a776453db2aaf96cdcd686a35b78cc4a46eaf77c1eccdcf8",
+      "source_sha256": "e055cc8d1e5e82cfa2718b73a49d194df4c520fe1fbbcea5df1237fd191d1549",
+      "dhash": "00b2acec31d4dcf0",
+      "width": 165,
+      "height": 64,
+      "variant": "mobile",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/logo-006.png",
+      "source_url": "https://jinair.jejuokrent.com/static/img/company-logo-shinhyub.png",
+      "source_tag": "external-css",
+      "context": "nt: 100%; word-wrap: normal; word-break: normal; white-space: nowrap; overflow: hidden; background: url(\"../img/company-logo-shinhyub.png\") no-repeat 0 0; background-size: contain; }\r\n@media (min-width: 992px) { .gnb .logo.cu .navbar-brand { background-image: url(\"../img/company-logo-shinhyub.png\"); } }\r\n/* 2025. 08. 26 ì íì¶ê° */\r\n\r\n.gnb .logo.mgmall { width: 200px; height: 27px; margin: 7px",
+      "content_type": "image/png",
+      "bytes": 5460,
+      "sha256": "d2e59d5dc5ea534069534ca423ef49cd1dd50ca3311e48dba77f350f6e53bcb7",
+      "source_sha256": "498fbcac18dbe2f63563ac4e9d3220b5651606af52b3e7309822f36742e700f2",
+      "dhash": "c0c8c8c8f0d4dc30",
+      "width": 180,
+      "height": 70,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/logo-007.png",
+      "source_url": "https://jinair.jejuokrent.com/static/img/company-logo-mgmall.png",
+      "source_tag": "external-css",
+      "context": "100%; word-wrap: normal; word-break: normal; white-space: nowrap; overflow: hidden; background: url(\"../img/m-company-logo-mgmall.png\") no-repeat 0 0; background-size: contain; }\r\n@media (min-width: 992px) { .gnb .logo.mgmall .navbar-brand { background-image: url(\"../img/company-logo-mgmall.png\"); } }\r\n\r\n\r\n.scrolled .gnb { border-bottom: 1px solid #e7e7e7; }\r\n\r\n.btn-menu { position: absolute; top:",
+      "content_type": "image/png",
+      "bytes": 5352,
+      "sha256": "beaac3133a9e0ae6ce82883e407e9f8f9850cb294a15545e0e6bb49c340bfa7c",
+      "source_sha256": "f5a3cb3fd5377f810b239bb7043045bcaad22f1a4bc066524c53de8e00116b74",
+      "dhash": "809aea8630b49460",
+      "width": 132,
+      "height": 64,
+      "variant": "mobile",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-002.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/normal4.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "해 시 발생하는 비용을 면책(보장) 받을 수 있는 제도로서 자차 수리 한도가 없으며 부분무제한면책과 전액무제한면책 중 선택을 하여 가입할 수 있습니다. (필수가입 아님)</span>\n</p>\n<div class=\"image_box\">\n<div class=\"image_box_1\">\n<img alt=\"일반면책 사항\" src=\"/static/img/normal4.png\"/>\n</div>\n<div class=\"image_box_2\">\n<img alt=\"완전면책 사항\" src=\"/static/img/perfect.png\"/>\n</div>\n</div>\n<p class=\"text_colo",
+      "content_type": "image/webp",
+      "bytes": 23414,
+      "sha256": "49b68f5b9af3bf430eb837013622b2fd97bf4d2dbe9acc1f9bd0aedbb6e433c7",
+      "source_sha256": "3ef50e1731bbc776ab33c28a9f734cb2edada47a12be4a56a887169933f62952",
+      "dhash": "30b2324cf09ada01",
+      "width": 564,
+      "height": 409,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalInfo/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-003.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/shuttle-step01.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "3 class=\"sec-title\">\n<img alt=\"셔틀버스 픽업서비스 (제주공항 - 본사)\" src=\"/static/img/shuttle-step-title.png\"/>\n</h3>\n<ol class=\"timeline-wrap animate\">\n<li class=\"col animate\">\n<img alt=\"\" src=\"/static/img/shuttle-step01.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t제주공항 1층 5번 Gate로 나오세요.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class=\"col animate\">",
+      "content_type": "image/webp",
+      "bytes": 37508,
+      "sha256": "2663885fc221b9d3b300d2a8699c4a0b7333511c5c333dd103c0793c0429c914",
+      "source_sha256": "358b5a27a20d5d90fa34d3d63761e69be282acf8d713faa20e9698bb13c7a8a6",
+      "dhash": "667353d1dcc6c686",
+      "width": 557,
+      "height": 431,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-004.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/perfect.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " (필수가입 아님)</span>\n</p>\n<div class=\"image_box\">\n<div class=\"image_box_1\">\n<img alt=\"일반면책 사항\" src=\"/static/img/normal4.png\"/>\n</div>\n<div class=\"image_box_2\">\n<img alt=\"완전면책 사항\" src=\"/static/img/perfect.png\"/>\n</div>\n</div>\n<p class=\"text_color line_height margin_top_2 margin_bottom_0\">\r\n                                    휴차",
+      "content_type": "image/webp",
+      "bytes": 15784,
+      "sha256": "7bccace3f4e336e93a4b8d9e0f630fa2e7024348da4cb53a4a41ea70833e5ef0",
+      "source_sha256": "847bbe195045712aa6baec109c3a2fdce04822bb9b5148b821a34c71e0983859",
+      "dhash": "30b2324c71e26801",
+      "width": 564,
+      "height": 409,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalInfo/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-005.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/shuttle-step02.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "alt=\"\" src=\"/static/img/shuttle-step01.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t제주공항 1층 5번 Gate로 나오세요.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class=\"col animate\">\n<img alt=\"\" src=\"/static/img/shuttle-step02.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t5번 Gate 앞 횡단보도를 건너서 우측 렌터카하우스로 오세요.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class=\"",
+      "content_type": "image/webp",
+      "bytes": 58502,
+      "sha256": "e975e3803918afc0dc6e0fa09a6d152c96d3af72ef8219a7445c780b4c871957",
+      "source_sha256": "2a2194fa89551a2b25a97b1650f6a525c78bd5c7f719ef54376bb1ddc5638492",
+      "dhash": "4949852f4b870008",
+      "width": 557,
+      "height": 431,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-006.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/shuttle-step03.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "static/img/shuttle-step02.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t5번 Gate 앞 횡단보도를 건너서 우측 렌터카하우스로 오세요.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class=\"col animate\">\n<img alt=\"\" src=\"/static/img/shuttle-step03.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t연결통로를 따라서 렌터카하우스 쪽으로 계속 걸어옵니다.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class=\"col a",
+      "content_type": "image/webp",
+      "bytes": 49608,
+      "sha256": "046ebbfb8b3fa224df7f6477989088cf365d704d4899ea041f48f2289704f6c6",
+      "source_sha256": "2fdfe07e56620e6ad4c8ca8ef95f8b0e4a8487dbb3d556314d40223b8a2c4b06",
+      "dhash": "795d0ee2242468d8",
+      "width": 557,
+      "height": 431,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-007.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/shuttle-step04.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "rc=\"/static/img/shuttle-step03.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t연결통로를 따라서 렌터카하우스 쪽으로 계속 걸어옵니다.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class=\"col animate\">\n<img alt=\"\" src=\"/static/img/shuttle-step04.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t렌터카하우스 건물 앞 CU편의점 방향으로 더 직진해서 걸어옵니다.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class=",
+      "content_type": "image/webp",
+      "bytes": 23278,
+      "sha256": "73e8ab600cc6a841edc9dba94f0797a3864199e5427986a65ccdefb3e8fda3f4",
+      "source_sha256": "34d3c76659e7b8cf792b7cb83e2687db7128edb580bb4a2a710c9afb94d376ca",
+      "dhash": "58b83cfcec6a7a27",
+      "width": 557,
+      "height": 431,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/banner-011.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/shuttle-step05.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "tatic/img/shuttle-step04.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t렌터카하우스 건물 앞 CU편의점 방향으로 더 직진해서 걸어옵니다.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class=\"col animate\">\n<img alt=\"\" src=\"/static/img/shuttle-step05.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t렌터카하우스 건물 앞 CU편의점을 지나 노란팻말 3구역을 찾습니다.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class",
+      "content_type": "image/webp",
+      "bytes": 99820,
+      "sha256": "2bc034bc74ce5c86535aed7991bc4267ec9c5abb6cc9e332de51b8934889f164",
+      "source_sha256": "84f6e14bf3fac1f47af5464433fc3e0bca91cd66917e9028f965fce3951133ee",
+      "dhash": "7f3a1b1b5b530c37",
+      "width": 1036,
+      "height": 802,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-008.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/shuttle-step06.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "atic/img/shuttle-step05.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t렌터카하우스 건물 앞 CU편의점을 지나 노란팻말 3구역을 찾습니다.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n<li class=\"col animate\">\n<img alt=\"\" src=\"/static/img/shuttle-step06.jpg\"/>\n<p>\n<span class=\"dot\"></span>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t 우측 7번째자리, 3구역-7에 정차하는 셔틀버스를 타고 오세요.\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</li>\n</ol>\n</di",
+      "content_type": "image/webp",
+      "bytes": 24552,
+      "sha256": "e3b3c2354a2edbeb4bad4a6b6515729a90934ac458f1cb9fee91ad724e245d18",
+      "source_sha256": "ab9c7332871b367ede77f0a69397712f76ad446009abe4bd19ee78d4db4c9f6c",
+      "dhash": "2020242b7a50073c",
+      "width": 557,
+      "height": 431,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-009.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/guide01-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " 후 좌측 안내데스크에서 차키를 수령합니다. <br/>차량 인수장소로 나가기 전 \"출발 전 체크사항\"을 체크하고 차량 외관과 연료게이지량을 촬영하고 출발하시면 됩니다\r\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</div>\n<ol class=\"stepbystep-wrap\">\n<li class=\"col\">\n<img alt=\"\" src=\"/static/img/guide01-1.jpg\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t셔틀버스 이동 후<br/> 제주OK렌터카 도착\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<",
+      "content_type": "image/webp",
+      "bytes": 30070,
+      "sha256": "1d438c5a9ca6d21ac3f7352f4ae27c721584a8c75167df869b1e7cc1751fcb4e",
+      "source_sha256": "03b4dbdd9dab40947c39e1b7e7dd0f08d3dbaad8b3caca356961efe6389b51cc",
+      "dhash": "6090808cd7c3c840",
+      "width": 375,
+      "height": 387,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-010.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/guide01-2.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ">\n<img alt=\"\" src=\"/static/img/guide01-1.jpg\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t셔틀버스 이동 후<br/> 제주OK렌터카 도착\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<img alt=\"\" src=\"/static/img/guide01-2.jpg\" style=\"width:\t276px; height:285px;\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t키오스크를 통해<br/>임대차 계약서 작성 및 차키수령\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"ang",
+      "content_type": "image/webp",
+      "bytes": 129314,
+      "sha256": "7f065346dd4ee9a56655537a5e13b95c0d429d93027d5ce8d75c7f1361201a76",
+      "source_sha256": "92fbef4535d9e6b06f60180c3751d4061d3318fd4b5f32c42d00afc660b6c22e",
+      "dhash": "647351cc4c1e9e8c",
+      "width": 1080,
+      "height": 1440,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-011.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/guide01-3.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "jpg\" style=\"width:\t276px; height:285px;\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t키오스크를 통해<br/>임대차 계약서 작성 및 차키수령\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<img alt=\"\" src=\"/static/img/guide01-3.jpg\" style=\"width:\t276px; height:285px;\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t출고존으로 이동 후<br/>차량 외관 및 연료량 확인\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angl",
+      "content_type": "image/webp",
+      "bytes": 328270,
+      "sha256": "b96a375be426d95fb45dfe4f987b0cb3cdd7506c05afa48fbc8d2dcfeab8e865",
+      "source_sha256": "4f0ce8bfd141d141f3f04a5c86489c4923cc725478478ab34a39fcf17fd0b023",
+      "dhash": "00cd2640c0dc2665",
+      "width": 1440,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-012.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/guide01-4.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ".jpg\" style=\"width:\t276px; height:285px;\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t출고존으로 이동 후<br/>차량 외관 및 연료량 확인\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<img alt=\"\" src=\"/static/img/guide01-4.jpg\"/>\n<p>차량 인수</p>\n</li>\n</ol>\n</div>\n<div class=\"guide-wrap return\">\n<div class=\"guide-desc\">\n<h3 class=\"service-name\">\n<s",
+      "content_type": "image/webp",
+      "bytes": 32168,
+      "sha256": "eb888490b84fa5c2408f4c79f3b399d025b6622e9db40172d41f5582aa779c51",
+      "source_sha256": "f6402f3644fc60be1513ac46c617e5c6011d3ae69bd577e5d6a2a7c2d4764842",
+      "dhash": "831360693327d478",
+      "width": 375,
+      "height": 387,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-013.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/guide02-1.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "반납하시면서 차량에 두고 내리시는 소지품이 없는지 꼼꼼히 확인하시기 바랍니다.<br class=\"br-class\"/> (분실물에 대해 귀사는 책임을 지지 않습니다.)\r\n\t\t\t\t\t\t\t\t\t\t\t\t</p>\n</div>\n<ol class=\"stepbystep-wrap\">\n<li class=\"col\">\n<img alt=\"\" src=\"/static/img/guide02-1.jpg\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t제주OK렌터카 도착\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<img alt=\"\" src=",
+      "content_type": "image/webp",
+      "bytes": 36490,
+      "sha256": "182ac545a4c5a5863c96feb09df12d30272a6e877474292be50734442e041c9c",
+      "source_sha256": "f728d8e872749ee55765a0e11e1f6fba04448373ea153fe094003ec064f75370",
+      "dhash": "9bfb3bb924bae3cd",
+      "width": 375,
+      "height": 387,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-014.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/jejuok_company.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "b-page about\">\n<div class=\"container\">\n<div class=\"row\">\n<div class=\"col-sm-12\">\n<div class=\"p-10\">\n<div class=\"text-center m-t-0 sm-m-t-50 m-b-30 sm-m-b-80\">\n<img alt=\"OK렌터카\" src=\"/static/img/jejuok_company.jpg\"/>\n</div>\n<div class=\"box_style_1\" style=\"padding-bottom: 0;\">\r\n\t\t\t\t        \t\t\t\t\t제주 OK렌터카 홈페이지 방문을 환영합니다.<br/>\r\n\t\t\t\t\t\t\t\t",
+      "content_type": "image/webp",
+      "bytes": 52032,
+      "sha256": "bfe4797a53d7948d9073186b8e11f0a9777800b496f034175e461c67046aff97",
+      "source_sha256": "224679b4e3fd0be27aa97ddc471df686f1ce438056215f80f0197393659a6c89",
+      "dhash": "0f0f0b176ecf1b3b",
+      "width": 1170,
+      "height": 320,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/about/view.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-015.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/guide02-2.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "<li class=\"col\">\n<img alt=\"\" src=\"/static/img/guide02-1.jpg\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t제주OK렌터카 도착\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<img alt=\"\" src=\"/static/img/guide02-2.jpg\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t차량외관 및<br/> 연료 확인\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<img alt=",
+      "content_type": "image/webp",
+      "bytes": 30710,
+      "sha256": "2cc30f76755082ef26649febc8d2d0ee877e4e05528dc1f49450568a58cf2c53",
+      "source_sha256": "867426f346f2ef2657d0028950d8a0f45cae3b8227bca2a7d4fde1a6e8283607",
+      "dhash": "133d676743483242",
+      "width": 375,
+      "height": 387,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-016.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/guide02-3.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "ss=\"col\">\n<img alt=\"\" src=\"/static/img/guide02-2.jpg\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t차량외관 및<br/> 연료 확인\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<img alt=\"\" src=\"/static/img/guide02-3.jpg\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t셔틀버스 탑승<br/> (배차간격 약 10분)\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<",
+      "content_type": "image/webp",
+      "bytes": 30866,
+      "sha256": "7b91931c2a19a5d33682b3189196c636b2a703de8bdffb8aa32f5801734cbd65",
+      "source_sha256": "27833aac8e002c6622067220972d189b31bb259456ae68ce70b0d37e35279c9e",
+      "dhash": "072001ed387c3d5a",
+      "width": 375,
+      "height": 387,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-017.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/guide02-4.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": ">\n<img alt=\"\" src=\"/static/img/guide02-3.jpg\"/>\n<p>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t셔틀버스 탑승<br/> (배차간격 약 10분)\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"angle\"></span>\n</p>\n</li>\n<li class=\"col\">\n<img alt=\"\" src=\"/static/img/guide02-4.jpg\"/>\n<p>제주공항 3층 도착<br/> (이동시간 약 3분)</p>\n</li>\n</ol>\n</div>\n</div>\n</div>\n<!-- /CONTENT -->\n</div>\n</div>\n</div>\n<!-- /PAGE",
+      "content_type": "image/webp",
+      "bytes": 27034,
+      "sha256": "4560f567c0719bd4304b7504721d1c94a6ccbf2261ce5bd1a198ac7d5c3b8d71",
+      "source_sha256": "d6500a6ad8b8bda6714d8652207a055a8189b1f74bfefe04374f7019756efeb0",
+      "dhash": "40e1e1310343e3d0",
+      "width": 375,
+      "height": 387,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-018.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/pop_kakao_info.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "\t\t\t\t\t\t\t\t\t});\r\n\t\t\t\t\t\t\t\t\t</script>\n</div>\n</div>\n</div>\n</div>\n<!-- 20221021 카카오챗봇 팝업 추가  -->\n<div class=\"pop-kakao\" id=\"pop_kakao\" style=\"display:none;\">\n<img alt=\"카카오 챗봇 사용하기\" src=\"/static/img/pop_kakao_info.jpg\"/>\n<button class=\"close\" onclick=\"javascript:closePop();\"><img alt=\"닫기\" src=\"/static/img/ico_pop_close_white.png\"/></but",
+      "content_type": "image/webp",
+      "bytes": 35888,
+      "sha256": "f4ba0588302b5920e7a6ee7b20ecc23a615e2409f65024b025db35b829fbc7e0",
+      "source_sha256": "38244131083379c427c12039edc51e9700f014b70afa40513fb8a6ff030dbeb2",
+      "dhash": "5c1f4f868c0c070f",
+      "width": 630,
+      "height": 800,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-019.webp",
       "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=AIG",
-      "source_tag": "img:page-image",
-      "context": "img div img-box div item-box div item div cars-carousel",
+      "source_tag": "img:image",
+      "context": "img div img-box div item-box div item div cars-carousel div container",
       "content_type": "image/webp",
-      "bytes": 45426,
-      "sha256": "42cb04631c512ea7ae136c8e8fedb481b15c4899bc7e0f612d5fbd8e16e645aa",
+      "bytes": 43646,
+      "sha256": "91390cb059f841641cd290d0a3c07fa4b34aecf357f67f4ff40908f884246c80",
+      "source_sha256": "7dea679c8fcb2127e7387021403a74bcc908c132ddcea54664e5cbdd90a70d80",
+      "dhash": "00929b395b4eac00",
       "width": 1200,
-      "height": 1000
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-2.webp",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-020.webp",
       "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=NG90",
-      "source_tag": "img:page-image",
-      "context": "img div img-box div item-box div item div cars-carousel",
+      "source_tag": "img:image",
+      "context": "img div img-box div item-box div item div cars-carousel div container",
       "content_type": "image/webp",
-      "bytes": 45756,
-      "sha256": "fefcc444625292cfb76828d84d33e131f435b4aeaa898f48eaced48c83018100",
+      "bytes": 43556,
+      "sha256": "6975bdd59e70cad910fa98c4099fb46bb1c0b0b816fa173d746adf4d0fea2cfd",
+      "source_sha256": "699d24a1db209871e287806ed79153b6c9a30d14b11e4ee1e179534bb8dde5d3",
+      "dhash": "468b3939e62547c6",
       "width": 1280,
-      "height": 720
+      "height": 720,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-3.webp",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-021.webp",
       "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=BECB",
-      "source_tag": "img:page-image",
-      "context": "img div img-box div item-box div item div cars-carousel",
+      "source_tag": "img:image",
+      "context": "img div img-box div item-box div item div cars-carousel div container",
       "content_type": "image/webp",
-      "bytes": 43636,
-      "sha256": "1483e4bd88095d0d7a9fd7986cbd353e196a8bf24e1ac311be21a50450aff766",
+      "bytes": 41424,
+      "sha256": "397672b20ef5ecc28c331d2dafba73c5ccd1dee5ff7448e4e56078f26f4a6e2e",
+      "source_sha256": "916244593a31cbcfdc99aa7ab5dfb93a4d8d3b94b6a4e892469a0025fb4d879c",
+      "dhash": "4800cdd923272c00",
       "width": 1200,
-      "height": 1000
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-022.webp",
+      "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=TNI",
+      "source_tag": "img:image",
+      "context": "img div img-box div item-box div item div cars-carousel div container",
+      "content_type": "image/webp",
+      "bytes": 32810,
+      "sha256": "8336f25b9204c9c492916de7617d3f6755da4e63df2724babf612999d045c204",
+      "source_sha256": "bc08df30f80e63493df69ab4202d43d0b50af95baa9f4e5adfb385d98a7cdc18",
+      "dhash": "08c296b09a9aa6d0",
+      "width": 1200,
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-023.webp",
+      "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=HTU",
+      "source_tag": "img:image",
+      "context": "img div img-box div item-box div item div cars-carousel div container",
+      "content_type": "image/webp",
+      "bytes": 42288,
+      "sha256": "8cfdfbfbab338943b877d7342d4b469bfa33842fc69cd56524d910269bb6c487",
+      "source_sha256": "f4c04c16462ff193a7bdd3062eae802e9869d411554aa4a58a59adfeefff27a0",
+      "dhash": "01bcf8c2ae9e8628",
+      "width": 1200,
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-024.webp",
+      "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=SR9",
+      "source_tag": "img:image",
+      "context": "img div img-box div item-box div item div cars-carousel div container",
+      "content_type": "image/webp",
+      "bytes": 19876,
+      "sha256": "56953623bfb26b81e206609a50b5b6b313570124cf25b02bffa05a8e20d4de3e",
+      "source_sha256": "52a74850cc9097c64e9933a217c2650241bdb40a739f088e43ad445c57e18407",
+      "dhash": "8074ec8c9392e020",
+      "width": 661,
+      "height": 485,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-025.webp",
+      "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=4CV11",
+      "source_tag": "img:image",
+      "context": "img div img-box div item-box div item div cars-carousel br",
+      "content_type": "image/webp",
+      "bytes": 68926,
+      "sha256": "aa231e7ef04d3f613907f18287e204003cab97f7833766e72460d73596bb685a",
+      "source_sha256": "3254b3ffce730f0ba88fddabf50f1af76c8fc79ccc3fcd13e90f1f4b96d4e844",
+      "dhash": "00b0f88c9bbae456",
+      "width": 1200,
+      "height": 1000,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-026.webp",
+      "source_url": "https://jinair.jejuokrent.com/api/search/fileImage.do?vhctyCode=HCA9",
+      "source_tag": "img:image",
+      "context": "img div img-box div item-box div item div cars-carousel br",
+      "content_type": "image/webp",
+      "bytes": 37936,
+      "sha256": "e4685272a64077959b047c51d223bcc9fb9aa17620dd49cce3e323c0a3dbb925",
+      "source_sha256": "f38136e8c2a03001efd52b37621b78ee45eaf1b0e8f179eb4f0342ca94276101",
+      "dhash": "08787c85898e8cc0",
+      "width": 661,
+      "height": 485,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-027.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/ico_kakao.png",
+      "source_tag": "html-data",
+      "context": "tps://www.instagram.com/jejuokrentcar\" target=\"_blank\"><img alt=\"instagram\" src=\"/static/img/icon-insta.png\"/></a></span>\n<span><a href=\"javascript:openPop()\"><img alt=\"kakao\" src=\"/static/img/ico_kakao.png\"/></a></span><!-- 20221021 카카오챗봇 아이콘 수정 팝업호출 -->\n<span><a href=\"https://blog.naver.com/jejuokokok\" target=\"_blank\"><img ",
+      "content_type": "image/webp",
+      "bytes": 12936,
+      "sha256": "817c565fbb42351d070704b4b0082b83e754397b4b06e4ddb7870288486d0acc",
+      "source_sha256": "d61ed61f9db2d6e5b40511e16f8306d05850011d29093ebc577695f8fe7db020",
+      "dhash": "30f0ccb2b2963368",
+      "width": 500,
+      "height": 500,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/about/view.do",
+        "https://jinair.jejuokrent.com/home/bbs/list.do",
+        "https://jinair.jejuokrent.com/home/bbs/list2.do",
+        "https://jinair.jejuokrent.com/home/direction/view.do",
+        "https://jinair.jejuokrent.com/home/event/list.do",
+        "https://jinair.jejuokrent.com/home/main/main.do",
+        "https://jinair.jejuokrent.com/home/rentalInfo/list.do?rental-info1=",
+        "https://jinair.jejuokrent.com/home/rentalProcedure/list.do?rental-info1="
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-028.svg",
+      "source_url": "https://jinair.jejuokrent.com/static/fonts/Montserrat-Regular.svg",
+      "source_tag": "external-css",
+      "context": "u (http://www.fonts2u.com) */\n/* @font-face {\n  font-family: \"Montserrat-Regular\";\n  src: url(\"../fonts/Montserrat-Regular.eot?\") format(\"eot\"), url(\"../fonts/Montserrat-Regular.woff\") format(\"woff\"), url(\"../fonts/Montserrat-Regular.ttf\") format(\"truetype\"), url(\"../fonts/Montserrat-Regular.svg#Montserrat-Regular\") format(\"svg\");\n  font-weight: normal;\n  font-style: normal;\n} */\n/* @font-face kit",
+      "content_type": "image/svg+xml",
+      "bytes": 53412,
+      "sha256": "ed1312b27575464169fd569b75a0ace80eb6f292dc41c8ac923d3f2dc6935766",
+      "source_sha256": "ed1312b27575464169fd569b75a0ace80eb6f292dc41c8ac923d3f2dc6935766",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-029.svg",
+      "source_url": "https://jinair.jejuokrent.com/static/fonts/Oswald-Regular.svg",
+      "source_tag": "external-css",
+      "context": "-face kit by Fonts2u (http://www.fonts2u.com) */\n@font-face {\n  font-family: \"Oswald Regular\";\n  src: url(\"../fonts/Oswald-Regular.eot?\") format(\"eot\"), url(\"../fonts/Oswald-Regular.woff\") format(\"woff\"), url(\"../fonts/Oswald-Regular.ttf\") format(\"truetype\"), url(\"../fonts/Oswald-Regular.svg#Oswald-Regular\") format(\"svg\");\n  font-weight: normal;\n  font-style: normal;\n}\n/* @font-face kit by Fonts2u",
+      "content_type": "image/svg+xml",
+      "bytes": 69106,
+      "sha256": "1964199a8a0eebefc09d73419f653806a349606d977a58ee0a16a894193623a8",
+      "source_sha256": "1964199a8a0eebefc09d73419f653806a349606d977a58ee0a16a894193623a8",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-030.svg",
+      "source_url": "https://jinair.jejuokrent.com/static/fonts/OpenSans-Regular.svg",
+      "source_tag": "external-css",
+      "context": "face kit by Fonts2u (http://www.fonts2u.com) */\n@font-face {\n  font-family: \"Open Sans\";\n  src: url(\"../fonts/OpenSans-Regular.eot?\") format(\"eot\"), url(\"../fonts/OpenSans-Regular.woff\") format(\"woff\"), url(\"../fonts/OpenSans-Regular.ttf\") format(\"truetype\"), url(\"../fonts/OpenSans-Regular.svg#OpenSans\") format(\"svg\");\n  font-weight: normal;\n  font-style: normal;\n}\n/*ëëê³ ëí°í¸*/\n/* @font-",
+      "content_type": "image/svg+xml",
+      "bytes": 68883,
+      "sha256": "2e87e6142ef71ecc0ab9305e2834407a7a982e989c81d5488d78b2e55b7988c3",
+      "source_sha256": "2e87e6142ef71ecc0ab9305e2834407a7a982e989c81d5488d78b2e55b7988c3",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-031.svg",
+      "source_url": "https://jinair.jejuokrent.com/static/fonts/fontawesome-webfont.svg?v=4.5.0",
+      "source_tag": "external-css",
+      "context": "e-webfont.eot?#iefix&v=4.5.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.5.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.5.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.5.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.5.0#fontawesomeregular') format('svg');\n  font-weight: normal;\n  font-style: normal;\n}\n.fa {\n  dis",
+      "content_type": "image/svg+xml",
+      "bytes": 365616,
+      "sha256": "d67041fe5d50eef9ef671643968f7ce6b130eaaaaa2ce4d496b18d0a33aeb87b",
+      "source_sha256": "d67041fe5d50eef9ef671643968f7ce6b130eaaaaa2ce4d496b18d0a33aeb87b",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-032.svg",
+      "source_url": "https://jinair.jejuokrent.com/static/fonts/ElegantIcons.svg",
+      "source_tag": "external-css",
+      "context": "t-face {\n  font-family: 'ElegantIcons';\n  src: url('../fonts/ElegantIcons.eot');\n  src: url('../fonts/ElegantIcons.eot?#iefix') format('embedded-opentype'), url('../fonts/ElegantIcons.woff') format('woff'), url('../fonts/ElegantIcons.ttf') format('truetype'), url('../fonts/ElegantIcons.svg#ElegantIcons') format('svg');\n  font-weight: normal;\n  font-style: normal;\n}\n/* Use the following CSS code if",
+      "content_type": "image/svg+xml",
+      "bytes": 277297,
+      "sha256": "91f068a06a78d5ecdea0571a3b56f51d723ce1adbf5ba64283ecc1805b04e60b",
+      "source_sha256": "91f068a06a78d5ecdea0571a3b56f51d723ce1adbf5ba64283ecc1805b04e60b",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-033.svg",
+      "source_url": "https://jinair.jejuokrent.com/static/fonts/ionicons.svg?v=2.0.0",
+      "source_tag": "external-css",
+      "context": "font-family: \"Ionicons\";\n  src: url(\"../fonts/ionicons.eot?v=2.0.0\");\n  src: url(\"../fonts/ionicons.eot?v=2.0.0#iefix\") format(\"embedded-opentype\"), url(\"../fonts/ionicons.ttf?v=2.0.0\") format(\"truetype\"), url(\"../fonts/ionicons.woff?v=2.0.0\") format(\"woff\"), url(\"../fonts/ionicons.svg?v=2.0.0#Ionicons\") format(\"svg\");\n  font-weight: normal;\n  font-style: normal;\n}\n.ion,\n.ionicons,\n.ion-alert:befo",
+      "content_type": "image/svg+xml",
+      "bytes": 333834,
+      "sha256": "a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc",
+      "source_sha256": "a627d9068c1235d9b3c95c405eb6ecb64a290b159cf5e926c0d96d89b24cd5fc",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-034.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/sp_m_9d0cfc.png",
+      "source_tag": "external-css",
+      "context": "  background-position: 0 -680px;\r\n    margin-top: -8.5px;\r\n    margin-left: -6.5px;\r\n    -webkit-background-size: 722px 718px;\r\n    background-size: 722px 718px;\r\n}\r\n.link_navi:before, .moa_map .link_navi:before {\r\n    overflow: hidden;\r\n    background-image: url(/static/img/sp_m_9d0cfc.png);\r\n    width: 14px;\r\n    height: 17px;\r\n    background-position: -668px -523px;\r\n    margin-top: -8.5px;\r\n  ",
+      "content_type": "image/webp",
+      "bytes": 97686,
+      "sha256": "bd50ebd7f3b93266d9666ed02123129b89eb5043e61dc0a629950b49fdcf80d0",
+      "source_sha256": "9e699d929a1767b577ba7375af9ac821b0bed2c34da32ab7c5eb2ab076831229",
+      "dhash": "970f95fddc7c6cfe",
+      "width": 1444,
+      "height": 1436,
+      "variant": "mobile",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-035.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/shuttle-info-top.jpg",
+      "source_tag": "external-css",
+      "context": "idth: 992px) { .shuttle-schedule { position: relative; left: 50%; width: 100vw; height: 521px; margin-left: -50vw; padding: 0 0 50px 50vw; } }\r\n\r\n.shuttle-schedule:before { content: ''; display: block; height: 0; margin: 0 -28px; padding: 70% 0 0; background: url(\"../img/shuttle-info-top.jpg\") no-repeat 0 0; background-size: 100% auto; }\r\n\r\n@media (min-width: 992px) { .shuttle-schedule:before { po",
+      "content_type": "image/webp",
+      "bytes": 46706,
+      "sha256": "a9ce51e0107f59b413e7c53c3944c48fba1afc402e3c6372f64c1420f538be74",
+      "source_sha256": "756db78217511aca6a1406bb4cdeb1dae10be975a1f295dc238e20c03acd544f",
+      "dhash": "9986a02c1d163423",
+      "width": 750,
+      "height": 521,
+      "variant": "desktop",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-036.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/thumb01.jpg",
+      "source_tag": "html-data",
+      "context": "\n</div>\n</br></br></div>\n</div>\n<div class=\"rq-content-block\" id=\"services\">\n<div class=\"container\">\n<div class=\"about-event\">\n<div id=\"events-carousel\">\n<div class=\"item\" data-bg=\"/static/img/thumb01.jpg\" data-bg-sm=\"/static/img/thumb01_sm.jpg\">\n<h3 class=\"title\">\n<span>합리적인 당신을 위한</span>\n<strong>경차</strong>\n</h3>\n<a href=",
+      "content_type": "image/webp",
+      "bytes": 18638,
+      "sha256": "848afa7afbea77fe2050b2caeb009930d2c40e036e6d85ab7099b09ef8f7c736",
+      "source_sha256": "83ae5932dd8899e09be481474fdc09451a1892d2ee094cb12d0d55417412cc7d",
+      "dhash": "00101086c4d0c38d",
+      "width": 358,
+      "height": 368,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-037.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/thumb02.jpg",
+      "source_tag": "html-data",
+      "context": "mb01_sm.jpg\">\n<h3 class=\"title\">\n<span>합리적인 당신을 위한</span>\n<strong>경차</strong>\n</h3>\n<a href=\"#\" onclick=\"fncSpecial('09'); return false;\">바로가기</a>\n</div>\n<div class=\"item\" data-bg=\"/static/img/thumb02.jpg\" data-bg-sm=\"/static/img/thumb02_sm.jpg\">\n<h3 class=\"title\">\n<span>행복하고 즐거운 제주 여행</span>\n<strong>중소형</strong>\n</h3>\n<a h",
+      "content_type": "image/webp",
+      "bytes": 12786,
+      "sha256": "8d7082be3c9735399a43a009260b6542478b093d912cebc1e367327da16849ec",
+      "source_sha256": "c5a15beafd54b81dfefb01309a02a8be40e904f826d244b0f1dfc212ff970ca6",
+      "dhash": "140c4a008c98800b",
+      "width": 358,
+      "height": 368,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-038.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/thumb03.jpg",
+      "source_tag": "html-data",
+      "context": "pg\">\n<h3 class=\"title\">\n<span>행복하고 즐거운 제주 여행</span>\n<strong>중소형</strong>\n</h3>\n<a href=\"#\" onclick=\"fncSpecial('010,020'); return false;\">바로가기</a>\n</div>\n<div class=\"item\" data-bg=\"/static/img/thumb03.jpg\" data-bg-sm=\"/static/img/thumb03_sm.jpg\">\n<h3 class=\"title\">\n<span>편안하고 즐거운 제주 여행을 위해</span>\n<strong>중형</strong>\n</h3>\n<",
+      "content_type": "image/webp",
+      "bytes": 15874,
+      "sha256": "2d47352ad9f903ffda0f772b053b873ce58e99bf711e606b5392a875027d756b",
+      "source_sha256": "b0623530b33511124c6581f27e810faa787d67dbf0d9ac1721d9a2385f77a7dc",
+      "dhash": "cc75b33230332310",
+      "width": 358,
+      "height": 368,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-039.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/thumb04.jpg",
+      "source_tag": "html-data",
+      "context": ">\n<h3 class=\"title\">\n<span>편안하고 즐거운 제주 여행을 위해</span>\n<strong>중형</strong>\n</h3>\n<a href=\"#\" onclick=\"fncSpecial('030,040'); return false;\">바로가기</a>\n</div>\n<div class=\"item\" data-bg=\"/static/img/thumb04.jpg\" data-bg-sm=\"/static/img/thumb04_sm.jpg\">\n<h3 class=\"title\">\n<span>함께하는 력셔리 여행</span>\n<strong>고급</strong>\n</h3>\n<a href=",
+      "content_type": "image/webp",
+      "bytes": 19182,
+      "sha256": "f6af6e37b0526b8ed921671bdb79e8a46badce6d2eca9b58da1a4416edd10c56",
+      "source_sha256": "220bc361fc21ea2af11baa6ecdcc52d5ab3a29a11f98f01154d712363f30913b",
+      "dhash": "9beebe9adeff350d",
+      "width": 358,
+      "height": 368,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-040.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/thumb05.jpg",
+      "source_tag": "html-data",
+      "context": "e\">\n<span>함께하는 력셔리 여행</span>\n<strong>고급</strong>\n</h3>\n<a href=\"#\" onclick=\"fncSpecial('050,055,060,061,070,075,080,090'); return false;\">바로가기</a>\n</div>\n<div class=\"item\" data-bg=\"/static/img/thumb05.jpg\" data-bg-sm=\"/static/img/thumb05_sm.jpg\">\n<h3 class=\"title\">\n<span>제주 여행의 든든한 동반자</span>\n<strong>RV/SUV</strong>\n</h3>\n<",
+      "content_type": "image/webp",
+      "bytes": 17734,
+      "sha256": "6e58564d302cb7089c6c9f9681730ee9de7c1b4f76cb79ccbe5b291f147891f8",
+      "source_sha256": "3562ef69ce8f228c4c0b3e5736e90130f871da7ae96d7ce4b16eb9de54bfc7d9",
+      "dhash": "18073fef564efafc",
+      "width": 358,
+      "height": 368,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-041.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/thumb08.jpg",
+      "source_tag": "html-data",
+      "context": "g\">\n<h3 class=\"title\">\n<span>제주 여행의 든든한 동반자</span>\n<strong>RV/SUV</strong>\n</h3>\n<a href=\"#\" onclick=\"fncSpecial('91,92'); return false;\">바로가기</a>\n</div>\n<div class=\"item\" data-bg=\"/static/img/thumb08.jpg\" data-bg-sm=\"/static/img/thumb08_sm.jpg\">\n<h3 class=\"title\">\n<span>패밀리카로 손색없는 RV대형</span>\n<strong>RV대형</strong>\n</h3>\n<a",
+      "content_type": "image/webp",
+      "bytes": 87110,
+      "sha256": "fc866671d6a91c847a9bbaeae3549356fa4278994e42882272c59d3e86bb2955",
+      "source_sha256": "baae9753a4d2d79673b45addcf13fc0c303eae6d788912988ae9cc00d471fe79",
+      "dhash": "ff3f07336938130b",
+      "width": 800,
+      "height": 400,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-042.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/thumb06.jpg",
+      "source_tag": "html-data",
+      "context": "m.jpg\">\n<h3 class=\"title\">\n<span>패밀리카로 손색없는 RV대형</span>\n<strong>RV대형</strong>\n</h3>\n<a href=\"#\" onclick=\"fncSpecial('95'); return false;\">바로가기</a>\n</div>\n<div class=\"item\" data-bg=\"/static/img/thumb06.jpg\" data-bg-sm=\"/static/img/thumb06_sm.jpg\">\n<h3 class=\"title\">\n<span>짐이 많아도 거뜬해요</span>\n<strong>승합</strong>\n</h3>\n<a href=",
+      "content_type": "image/webp",
+      "bytes": 8646,
+      "sha256": "eb3748cca09546129b9a2ce4b8ea00cf60f69bd7bb77a176c00df43546ca1c66",
+      "source_sha256": "ef16467223828c7039f4ebc7c31c0a0ed76d84ceb4d2afe9f1a700f15adfbd0f",
+      "dhash": "ffe7f1f1f1f5b8f4",
+      "width": 358,
+      "height": 368,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jeju-ok-rentcar/reference-043.webp",
+      "source_url": "https://jinair.jejuokrent.com/static/img/thumb07.jpg",
+      "source_tag": "html-data",
+      "context": "\n<h3 class=\"title\">\n<span>짐이 많아도 거뜬해요</span>\n<strong>승합</strong>\n</h3>\n<a href=\"#\" onclick=\"fncSpecial('110,120,130,140'); return false;\">바로가기</a>\n</div>\n<div class=\"item\" data-bg=\"/static/img/thumb07.jpg\" data-bg-sm=\"/static/img/thumb07_sm.jpg\">\n<h3 class=\"title\">\n<span>특별한 제주여행을 위해</span>\n<strong>수입/스포츠</strong>\n</h3>\n<a ",
+      "content_type": "image/webp",
+      "bytes": 9412,
+      "sha256": "333037e5ffddedafb8eab13f7e2ceb42683c385d493762970ab6a7fbc339d5ff",
+      "source_sha256": "b2486759e2469395db8bfe29b134f3d3c7093c37bd9e32dd96b34916fc67d82c",
+      "dhash": "ffdfb9f37bdaeabd",
+      "width": 358,
+      "height": 368,
+      "variant": "shared",
+      "source_pages": [
+        "https://jinair.jejuokrent.com/home/main/main.do"
+      ]
     }
   ]
 }

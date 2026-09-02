@@ -2,10 +2,21 @@
   "company": "CarTrawler",
   "category": "렌터카_글로벌",
   "requested_url": "https://www.cartrawler.com/",
-  "page_url": "https://corporate.cartrawler.com/en-gb/",
+  "page_url": "https://www.cartrawler.com/",
   "page_title": "B2B Car Rental & Mobility Solutions for the Travel Industry - CarTrawler",
-  "collection_status": "partial",
-  "collection_error": "",
+  "collection_status": "complete",
+  "collection_error": "asset:https://corporate.cartrawler.com/wp-content/plugins/cool-timeline-pro/assets/css/fonts/slick.ttf:HTTPError; asset:https://corporate.cartrawler.com/wp-content/plugins/cool-timeline-pro/assets/css/fonts/slick.svg:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2022/01/Travix-2.png:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2022/01/Alaska-United.png:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2022/01/Swiss-Eurowings.png:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2022/01/AmericanExpress-Wizz.png:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2022/01/Travix-Westjet.png:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2026/05/SOUTHWEST-e1779711207621-768x512.avif:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2026/05/Compass_static-image-1920-x-1080-px-768x512.png:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-┬aIcon-Integration-Deep-Sky-Mint-RGB-┬aLarge.png:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-┬aIcon-CRM-Deep-Sky-Mint-RGB-┬aLarge.png:HTTPError; asset:https://corporate.cartrawler.com/wp-content/uploads/2023/09/keyngov1.png:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 24,
+    "scripts": 30,
+    "candidates": 277,
+    "attempted_assets": 277,
+    "errors": 164,
+    "collected_at": "2026-09-03T08:36:20.875627+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -19,6 +30,1058 @@
       "height": 180
     },
     {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/cartrawler/banner-001.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2023/06/Sustainability_journeyimage2-1920x1080.png",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "p-offset -->\n<div class=\"hero-component hero-component--large hero-component--media heading-underline\">\n<img alt=\"\" class=\"hero-component__media hero-component__media_desktop\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2023/06/Sustainability_journeyimage2-1920x1080.png\"/>\n<img alt=\"\" class=\"hero-component__media hero-component__media_mobile\" src=\"https://corporate.cartrawler.com/wp-c",
+      "content_type": "image/webp",
+      "bytes": 433830,
+      "sha256": "c47e28eac659e3907855649719e00d9bdfb9738187a70d42e57171fc97e9707e",
+      "source_sha256": "b23db8230c6856622f6893690d33aa5dac122401422c44bf0568a00c53fb7525",
+      "dhash": "7a0c1bf9d91b9bda",
+      "width": 1920,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/sustainability/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/cartrawler/banner-002.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Header-CarTrawler-Airline-Partners-4-1920x1080.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": " class=\"hero-component hero-component--large hero-component--media heading-underline\">\n<img alt=\"Airplane and Tech\" class=\"hero-component__media hero-component__media_desktop\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Header-CarTrawler-Airline-Partners-4-1920x1080.jpg\"/>\n<img alt=\"Airplane and Tech\" class=\"hero-component__media hero-component__media_mobile\" src=\"https://corp",
+      "content_type": "image/webp",
+      "bytes": 241862,
+      "sha256": "f79c85ca549a7c72f597c0e9c8509dee28f1c1e868ea52db4e7f9e5066d53c3d",
+      "source_sha256": "34c241340ddfc2401fd55e76918335dee8993020715215663399d9819c76e9ad",
+      "dhash": "a5a9292909198999",
+      "width": 1920,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-001.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Header-CarTrawler-Technology-Platform-2-768x768.jpg",
+      "source_tag": "html-data, img:banner, img:image",
+      "context": "/uploads/2022/01/Header-CarTrawler-Technology-Platform-2-1920x1080.jpg\"/>\n<img alt=\"Abstract road and mountain road\" class=\"hero-component__media hero-component__media_mobile\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Header-CarTrawler-Technology-Platform-2-768x768.jpg\"/>\n<div class=\"layout-box hero-component__container\">\n<div class=\"hero-component__article hero-component__a",
+      "content_type": "image/webp",
+      "bytes": 113280,
+      "sha256": "8bedcb7e213543226c47ec8fd71243b93516ee2013749f4584b8d1818d7d6a81",
+      "source_sha256": "1a481a6cc7336e5a82309c0a9879767ea78e48d9d27c316b1ec5aad56eb6e068",
+      "dhash": "0507dbdde54a9a39",
+      "width": 768,
+      "height": 768,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/about-us/environmental-social/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/cartrawler/logo-001.svg",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2021/12/ct-logo-dark.svg",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": ".svg\"/><img alt=\"CarTrawler\" class=\"normal-logo\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2021/12/ct-logo-light.svg\"/><img alt=\"CarTrawler\" class=\"sticky-logo\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2021/12/ct-logo-dark.svg\"/></a> </div>\n<div id=\"header-controls-right\">\n<!--<div class=\"mobile-nav-controller-wrap\">\r\n            <div class=\"men",
+      "content_type": "image/svg+xml",
+      "bytes": 10031,
+      "sha256": "a7dd63413c8324e4f0c2efd04750c36c0949e8f0848dc6a95f466e86e455b779",
+      "source_sha256": "a7dd63413c8324e4f0c2efd04750c36c0949e8f0848dc6a95f466e86e455b779",
+      "dhash": "",
+      "width": 258,
+      "height": 40,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/about-us/",
+        "https://corporate.cartrawler.com/en-gb/about-us/cartrawler-leadership/",
+        "https://corporate.cartrawler.com/en-gb/about-us/environmental-social/",
+        "https://corporate.cartrawler.com/en-gb/news-resources/news/company-news/cartrawler-to-join-expedia-group-as-it-enters-next-phase-of-growth-2/",
+        "https://corporate.cartrawler.com/en-gb/news-resources/news/company-news/cartrawler-to-join-expedia-group-as-it-enters-next-phase-of-growth/",
+        "https://corporate.cartrawler.com/en-gb/news-resources/news/partner-announcements/southwest-airlines-selects-cartrawler-to-power-enhanced-car-rental-experience/",
+        "https://corporate.cartrawler.com/en-gb/platform-to-business-p2b-regulation/",
+        "https://corporate.cartrawler.com/en-gb/sustainability/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/cartrawler/logo-002.png",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/KLM-2.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "e-image-inner\" style=\"width : 800px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 37.5%;\"></div><img alt=\"KLM Logo\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/KLM-2.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/png",
+      "bytes": 11009,
+      "sha256": "c4439d9043938352ee0e5676dc11f0967f649a48fe4f8368cf1bceb311fd4a92",
+      "source_sha256": "f97b442d1f17b4e374af94e149a91c63b33c0b11c33e941ed107d8d4815826e6",
+      "dhash": "084d4d0f96969e00",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/cartrawler/logo-003.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2026/06/Southwest-Logo.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "-image-inner\" style=\"width : 264px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 56.0606060606%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2026/06/Southwest-Logo.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 4234,
+      "sha256": "114fb5b04e1dfbd9a368ac38f873b22db8cde7af769f44a106f8f9ff9890e763",
+      "source_sha256": "fc7a851d4e1fe9e8a843edca7f78dbb138fbbf4d2ac05d45f68ada1033ecf6ea",
+      "dhash": "0090002698440004",
+      "width": 264,
+      "height": 148,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/cartrawler/logo-004.png",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/06/LOGO-GOLDCAR.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "\" style=\"width : 409px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 29.3398533007%;\"></div><img alt=\"Goldcar logo\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/06/LOGO-GOLDCAR.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/png",
+      "bytes": 3832,
+      "sha256": "9902d3974cf1e675e5db6ce0dff41051ef1a6ba8948893df34c91ace62327329",
+      "source_sha256": "8c2d8de62a7f17af7a920a51e9ce9e82f97f92a182d3430f2ca448fdf6ac85b5",
+      "dhash": "c025d2d6d4e41ba4",
+      "width": 409,
+      "height": 120,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/cartrawler/logo-005.png",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2025/07/Virgin_Australia_Logo_2022.svg.png",
+      "source_tag": "html-data, img:image, img:logo",
+      "context": "tsu-single-image-inner\" style=\"width : 1200px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 30%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2025/07/Virgin_Australia_Logo_2022.svg.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/png",
+      "bytes": 44356,
+      "sha256": "a4f322f01ebe69b3c0109eac86853d55e601b9a6f2908e94143ab381f9998484",
+      "source_sha256": "735b353843530172b586e205d31d68b7346c89bc5eb7a3fcb058a2c7f8a312be",
+      "dhash": "6868743070706c6c",
+      "width": 1200,
+      "height": 360,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/cartrawler/banner-003.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/CarTrawler-Our-Values-Craic-2.jpg",
+      "source_tag": "external-css",
+      "context": ".tatsu-row > .tatsu-HkadH-fc0-l.tatsu-column{width: 33.33%;}.tatsu-HkadH-fc0-l.tatsu-column > .tatsu-column-inner > .tatsu-column-bg-image-wrap > .tatsu-column-bg-image{background-image: url(https://corporate.cartrawler.com/wp-content/uploads/2022/01/CarTrawler-Our-Values-Craic-2.jpg);background-repeat: no-repeat;background-attachment: scroll;background-position: top center;background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 42494,
+      "sha256": "c984c305d3baaf518160b6e561e87843a49c17c0b43f70ca14f1a3a8e8012b36",
+      "source_sha256": "a243eb71e63fa7608131f00887206d746028612d23824ffb33a02e4662e80126",
+      "dhash": "06161e1e1f1f1f1f",
+      "width": 1920,
+      "height": 1080,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/about-us/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-002.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Thrifty-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Thrifty-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 14510,
+      "sha256": "d8074f17c3bebacc234e152bcc34c7f8c1e324c16a0f4625f3fd4955efdb4641",
+      "source_sha256": "c0aaa4e2cd383a087e98528d2a96e05909de80a7e76afbbe5774347285679804",
+      "dhash": "276627192b2b2b52",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-003.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Our-Board.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Our-Board.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 31044,
+      "sha256": "383fcd3ec60f20efe9c287cc5ecd7f7cacb16854b971c575acd76033a05e1815",
+      "source_sha256": "9ce4f943408831b873914461c198af29ef01baee6be03a9eb01551d6bb732523",
+      "dhash": "9fcc381ff0d3d380",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/about-us/cartrawler-leadership/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-004.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/What-we-do-2.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "age-inner\" style=\"width : 1024px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 100%;\"></div><img alt=\"What-we-do-2\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/What-we-do-2.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 460106,
+      "sha256": "3993aa5e4369a3d7f18895d5d3c758d440c32b91d28371e9f3e8c49b9925806c",
+      "source_sha256": "908e49988b1329d969d01f0a8cdef3b9a572f0d69f5c19dadc778e02c66c162e",
+      "dhash": "bc71350d167bc9ce",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/about-us/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-005.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Environmental-New.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "tsu-single-image-inner\" style=\"width : 768px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 100%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Environmental-New.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 238074,
+      "sha256": "7ff2f18701759eaa87accd6f8de36dab0317cfb225f39d1b321344f8f3239cfe",
+      "source_sha256": "076c1c2541e174fb74a85576ca064de95f8348918dbc08774ef13ed93d8f97c3",
+      "dhash": "63269c3b3e391638",
+      "width": 768,
+      "height": 768,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/about-us/environmental-social/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-006.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Driving-Successful-Partnerships.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Driving-Successful-Partnerships.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 207488,
+      "sha256": "4718655771fe676165d5441f7490bbb1885b876c3c0a3caeab459c31915ee30c",
+      "source_sha256": "7dbfd55f229a2c390bf4e683e3e2b8f65c94eecb58e203eae51d40683a6bc21d",
+      "dhash": "88f3303232445757",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-007.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Flying-is-just-one-part-of-the-journey.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Flying-is-just-one-part-of-the-journey.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5C",
+      "content_type": "image/webp",
+      "bytes": 225526,
+      "sha256": "5c4d5703ecd10d3cc84db03092f9e2bc13498b29140ab1c787e74d84e1b96f1c",
+      "source_sha256": "390355923f90f90eecdfce63e0b1c7da989cd11b705c30b2caacef47b3ccb729",
+      "dhash": "5b5b7e7b795b5a78",
+      "width": 1200,
+      "height": 1200,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-008.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2023/05/GettyImages-1310300608-scaled.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "le-image-inner\" style=\"width : 2560px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 66.6015625%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2023/05/GettyImages-1310300608-scaled.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 470184,
+      "sha256": "d86a2aba3faead78c079ef8f3c5106889d0d8ff177a59ff6e96e7298a9cce2ad",
+      "source_sha256": "93f9253f76b01e4086aebc21fbdbf28c88ff50bcc390fb21ddc16fd7c4526af9",
+      "dhash": "6f0e3f2f4f4f2f8f",
+      "width": 2200,
+      "height": 1465,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/sustainability/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-009.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Budget-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Budget-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 6958,
+      "sha256": "5d20bfe156359f0da7044b2dc0336617622fa5675fa3bc73c6acb47c0d093c8a",
+      "source_sha256": "3ed8036392f2555c97fb9a75bf6bcf24d36f8e5825f85504e0ffb1c41c586c40",
+      "dhash": "0274f4e161638240",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-010.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Governance.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "tsu-single-image-inner\" style=\"width : 768px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 100%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Governance.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 97006,
+      "sha256": "4a6bcdf0830860a147bd06ec629591348ba2b81c60d5d9deac4cd5a1ccc1dd29",
+      "source_sha256": "7f758e604d9c5cd6aff2111c0c236be83abb664ef67f11e249ea04f6c2cfeed1",
+      "dhash": "4c0c93ee46134ecc",
+      "width": 768,
+      "height": 768,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/about-us/environmental-social/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-011.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2023/05/s-migaj-Yui5vfKHuzs-unsplash-scaled.jpeg",
+      "source_tag": "html-data, img:image",
+      "context": "single-image-inner\" style=\"width : 2560px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 63.125%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2023/05/s-migaj-Yui5vfKHuzs-unsplash-scaled.jpeg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYI",
+      "content_type": "image/webp",
+      "bytes": 416420,
+      "sha256": "ef528d9b2b693bfda1c66fa1e783a33ea9eab43776471bab5fe803774c2deaaf",
+      "source_sha256": "c87b2a85a0e6e362c2085ba0d0e1b563f30a1ea0598ad1ba014189ac8b0cfaad",
+      "dhash": "7b0a470704c6430b",
+      "width": 2200,
+      "height": 1389,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/sustainability/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-012.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Alamo-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "\"1\" data-infinite=\"1\">\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Alamo-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 10108,
+      "sha256": "088afdbb0aaebd5dad89284aa716c761703a6f30253ce87157d15caf6b206c85",
+      "source_sha256": "b1ecc594a6385ba1b431b6adcb4b7a6a1a8a8356171aa2e867ae2d2c0ad8e1bd",
+      "dhash": "2b43392b2b1b252b",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-013.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2023/05/grant-ritchie-x1w_Q78xNEY-unsplash-scaled.jpeg",
+      "source_tag": "html-data, img:image",
+      "context": "le-image-inner\" style=\"width : 2560px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 66.6796875%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2023/05/grant-ritchie-x1w_Q78xNEY-unsplash-scaled.jpeg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVO",
+      "content_type": "image/webp",
+      "bytes": 345764,
+      "sha256": "ac67b86b99bfcee2fa26651848b78f0b5a4f074a9bc67bd366b9c593cf53d9ac",
+      "source_sha256": "339b6b7f9459f928716c0edc263986d511e4de8dc79ccdbde7ed6a562f74a08a",
+      "dhash": "0f0f0f0d0e4e4d0e",
+      "width": 2200,
+      "height": 1467,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/sustainability/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-014.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Enterprise-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Enterprise-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 9122,
+      "sha256": "64bc7abe8131cde73c2106c982111394841ef92a087adbdc714b886ec7cdc499",
+      "source_sha256": "5fcbd6923872f9c67384584523ab3aa7488c4008734445227139e293bbb95c05",
+      "dhash": "00c4f25b55c3f800",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-015.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Keddy-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Keddy-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 10876,
+      "sha256": "18d9171762ca0b4c04b5926d31347a06a88f839d4389b09c70a841ef68c5a873",
+      "source_sha256": "894ca2423cfcb48c7e0ebb91f121f0dd274ee3b91ac12ef6e42159527c4b4a8e",
+      "dhash": "5926261e16720e0e",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-016.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/TAP-Air-Portugal.png",
+      "source_tag": "html-data, img:image",
+      "context": "ge tatsu-rybKcBlvTt\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/TAP-Air-Portugal.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 2670,
+      "sha256": "2363771f90a592d7027a2cce6552e4615b9a5df221fa9e3e94e7fb7ab75d1580",
+      "source_sha256": "ed568969a22a4c8e534a8d3563c0982c992243a403098ccbbed1f86beeb7c29e",
+      "dhash": "2000e8e868c02040",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-017.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Payless-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Payless-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 8278,
+      "sha256": "bd5d29c3e144e2648f70496cbb813a6d9cb0923d691a9a1d669573e2a94470ee",
+      "source_sha256": "cfd989bd0e2a688ce00f23c5e083d2b7045f437240d2e4722b718eec1835adf1",
+      "dhash": "00436b270f13032c",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-018.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Maggiore.png",
+      "source_tag": "html-data, img:image",
+      "context": "e tatsu-Byt-YKnye0F\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Maggiore.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 6968,
+      "sha256": "be892106198951235078e698f0a523a3bf8973af71c6ca320e1ea60e36969deb",
+      "source_sha256": "48829fb3e2a3110db34ce7eac7eb69999e8bddd8a943da924475477173b7f4f6",
+      "dhash": "0960675b370d0821",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-019.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Ace-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "n.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Ace-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 4958,
+      "sha256": "445104a055a2d95191f7bec62dc99d2aa1575cc8e786d7dba57ee4116c339ee4",
+      "source_sha256": "3cf31f8bb7081deab728768bc0ac1ec1d8cc7f36ceb239ce0b656eeb2b20e0b0",
+      "dhash": "00049b9216082a24",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-020.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Flizzr.png",
+      "source_tag": "html-data, img:image",
+      "context": "e tatsu-HkiZKF3yx0t\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Flizzr.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 7570,
+      "sha256": "72821f18ab4cfab2ce5cf8d9ea46753ed113d6067bb5f9d02984579492e59887",
+      "source_sha256": "94d6bf6e3e7741f2fbcc13d818ff7ec470fd19991b384444e153c0bebc370a6f",
+      "dhash": "022c2f231b130708",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejusok/reference-015.svg",
+      "source_url": "https://corporate.cartrawler.com/wp-content/plugins/megamenu-pro/icons/fontawesome/fonts/fontawesome-webfont.svg?v=4.7.0",
+      "source_tag": "external-css",
+      "context": "esome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'),url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'),url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'),url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'),url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');font-weight:normal;font-style:normal}.fa{display:inline-blo",
+      "content_type": "image/svg+xml",
+      "bytes": 444379,
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "source_sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-022.svg",
+      "source_url": "https://corporate.cartrawler.com/wp-content/themes/oshin/fonts/custom-fonts/hanskendrick-heavy-webfont.svg",
+      "source_tag": "external-css",
+      "context": "  src: url('custom-fonts/hanskendrick-heavy-webfont.eot?#iefix') format('embedded-opentype'),\n         url('custom-fonts/hanskendrick-heavy-webfont.woff') format('woff'),\n         url('custom-fonts/hanskendrick-heavy-webfont.ttf') format('truetype'),\n         url('custom-fonts/hanskendrick-heavy-webfont.svg#hans_kendrickheavy') format('svg');\n    font-weight: normal;\n    font-style: normal;\n\n}\n\n@f",
+      "content_type": "image/svg+xml",
+      "bytes": 300731,
+      "sha256": "67f6587cff960006c2ecc30eccdf48814468ece33d360f42de659c71faf2be86",
+      "source_sha256": "67f6587cff960006c2ecc30eccdf48814468ece33d360f42de659c71faf2be86",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-023.svg",
+      "source_url": "https://corporate.cartrawler.com/wp-content/themes/oshin/fonts/custom-fonts/hanskendrick-medium-webfont.svg",
+      "source_tag": "external-css",
+      "context": "rc: url('custom-fonts/hanskendrick-medium-webfont.eot?#iefix') format('embedded-opentype'),\n         url('custom-fonts/hanskendrick-medium-webfont.woff') format('woff'),\n         url('custom-fonts/hanskendrick-medium-webfont.ttf') format('truetype'),\n         url('custom-fonts/hanskendrick-medium-webfont.svg#hans_kendrickmedium') format('svg');\n    font-weight: normal;\n    font-style: normal;\n\n}\n\n",
+      "content_type": "image/svg+xml",
+      "bytes": 336901,
+      "sha256": "2b14b36da71bff171a1ec06d4f78097fe70177a7f8ba98e4fc43aa23a386369f",
+      "source_sha256": "2b14b36da71bff171a1ec06d4f78097fe70177a7f8ba98e4fc43aa23a386369f",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-024.svg",
+      "source_url": "https://corporate.cartrawler.com/wp-content/themes/oshin/fonts/custom-fonts/hanskendrick-regular-webfont.svg",
+      "source_tag": "external-css",
+      "context": " url('custom-fonts/hanskendrick-regular-webfont.eot?#iefix') format('embedded-opentype'),\n         url('custom-fonts/hanskendrick-regular-webfont.woff') format('woff'),\n         url('custom-fonts/hanskendrick-regular-webfont.ttf') format('truetype'),\n         url('custom-fonts/hanskendrick-regular-webfont.svg#hans_kendrickregular') format('svg');\n    font-weight: normal;\n    font-style: normal;\n\n}",
+      "content_type": "image/svg+xml",
+      "bytes": 183037,
+      "sha256": "5fd144524c92df79927907e45ba8bb1ae2e3d4d53b2adf8949b5dc576bc48e7f",
+      "source_sha256": "5fd144524c92df79927907e45ba8bb1ae2e3d4d53b2adf8949b5dc576bc48e7f",
+      "dhash": "",
+      "width": 512,
+      "height": 512,
+      "variant": "desktop",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-025.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Austrian-Airlines.png",
+      "source_tag": "html-data, img:image",
+      "context": "su-single-image-inner\" style=\"width : 800px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 37.5%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Austrian-Airlines.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 8944,
+      "sha256": "43d333d775376588dfd0c78429fdb17cc89a2c7d261c000aadadc3a13c0955d9",
+      "source_sha256": "9e0a634d35e72eaf2ae55e5bc8235689cb3f5a025118a4db81bd28cb6cf025bb",
+      "dhash": "0004889527660004",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-026.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Goldcar-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Goldcar-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 3084,
+      "sha256": "6b9b5a6cf0e01bed518c0a7a98023ad563e85bc4463d1792540542462268c872",
+      "source_sha256": "afaed5a4dc922be612ecde7adc8a392abd9bfb5f825ce892ba074d4bf8360a76",
+      "dhash": "00006a2c29530010",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-027.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2026/09/EGXCartrawler_2-1-768x512.png",
+      "source_tag": "html-data, img:image",
+      "context": "-image-inner\" style=\"width : 1920px;\">\n<div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 56.25%;\"></div>\n<img class=\"tatsu-gradient-border\" decoding=\"async\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2026/09/EGXCartrawler_2-1-768x512.png\"/>\n</div>\n<style>.tatsu-SyvpZEkmF{margin: 0px 0px 0px 0px;}.tatsu-SyvpZEkmF .tatsu-single-image-inner{max-width: 100%;}.",
+      "content_type": "image/webp",
+      "bytes": 23126,
+      "sha256": "92206a30ae60609cb85706e4e64107fe891ce184904f0cf09d855c733b52823d",
+      "source_sha256": "5a99761f33564e6c096c7bf048e7cc1b960d95694bf286e34cf83d0863e2854c",
+      "dhash": "6270d9f3715266d9",
+      "width": 768,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/",
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-028.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/B2B-Focus-1.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/B2B-Focus-1.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 191048,
+      "sha256": "ffb0fcef17fc6f9895e54bcfca51a853978086ee51f3f73d2e88ea6115560063",
+      "source_sha256": "ec062a6a831baf1b31ce2ed9317b73a4d38e54f253232368bc18ecabd71d8fb3",
+      "dhash": "860d4b0f0f1df6c7",
+      "width": 1200,
+      "height": 1200,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-029.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-%E2%94%ACaIcon-Meeting-Deep-Sky-Mint-RGB-%E2%94%ACaLarge-1.png",
+      "source_tag": "html-data, img:image",
+      "context": "ge tatsu-B1vnzIHQ3Y\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-┬aIcon-Meeting-Deep-Sky-Mint-RGB-┬aLarge-1.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAAS",
+      "content_type": "image/webp",
+      "bytes": 17178,
+      "sha256": "6ec88e5f85d6d5fc648869d92e6f0c41eed55d13ebf15a1a6a5cb1f05fe189bc",
+      "source_sha256": "6b3fc0b9d92c435c878029753f407b6f9edf4349fd94ae4263e41243a5f41468",
+      "dhash": "00ccccccaaaacc10",
+      "width": 1280,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-030.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-%E2%94%ACaIcon-Car-Deep-Sky-Mint-RGB-%E2%94%ACaLarge.png",
+      "source_tag": "html-data, img:image",
+      "context": "ge tatsu-SJiwJIBQ2K\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-┬aIcon-Car-Deep-Sky-Mint-RGB-┬aLarge.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5",
+      "content_type": "image/webp",
+      "bytes": 13582,
+      "sha256": "7bebd9392f6d0bf87a51f90ee23651d71fc4fe528552e483e002a2dd30ac95e3",
+      "source_sha256": "49a783dec8a20358f26465ced24f3f9b0716871fe508e3002a227855e354a45e",
+      "dhash": "600460dc86cccc01",
+      "width": 1280,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-031.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-%E2%94%ACaIcon-Conference-Deep-Sky-Mint-RGB-%E2%94%ACaLarge.png",
+      "source_tag": "html-data, img:image",
+      "context": "ge tatsu-ryBwkLBmhK\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-┬aIcon-Conference-Deep-Sky-Mint-RGB-┬aLarge.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAA",
+      "content_type": "image/webp",
+      "bytes": 22234,
+      "sha256": "350bb02f50d74423895787053ae95aaa143a486abb33fd4e78a73a17b973cead",
+      "source_sha256": "3b62d950bdc5af2078dbc4f074500a48168ec6468f9176159fb0cae4946ea0b6",
+      "dhash": "10b2f0a0e8d4e8aa",
+      "width": 1280,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-032.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-%E2%94%ACaIcon-Rev.-Mngmt.-Deep-Sky-Mint-RGB-%E2%94%ACaLarge.png",
+      "source_tag": "html-data, img:image",
+      "context": "ge tatsu-HJWhfIHX3F\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/CT-┬aIcon-Rev.-Mngmt.-Deep-Sky-Mint-RGB-┬aLarge.png\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAA",
+      "content_type": "image/webp",
+      "bytes": 21356,
+      "sha256": "0c34b9ea21660fe1d05101d4092cd12ef72a195e709da939a471982f66348505",
+      "source_sha256": "4220e2cf915523febeab0a28f4fb13d90565ce068bd3b4326da5de797a9e6b9f",
+      "dhash": "30e8d4b692d4e830",
+      "width": 1280,
+      "height": 1280,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-033.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Homepage_The-Human-TravelTech-Company.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Homepage_The-Human-TravelTech-Company.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CY",
+      "content_type": "image/webp",
+      "bytes": 380516,
+      "sha256": "2c8eac0b4d876b68e0c041a7c67d4e9b5e894d81ca247e2a669123c5fdc69ea9",
+      "source_sha256": "bcd93c12ebcd9da7ae4b927c7067b64691d9b3ca5b39df1a7d576004046546cf",
+      "dhash": "939796af43c89419",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-034.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Sixt-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Sixt-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 1816,
+      "sha256": "150d33fec4e4a4cbc7cc86f756f6d373802ac2698a26d3fdcfa62221609d6a7b",
+      "source_sha256": "0a1589b731368f1d4cb010a08c3a35facb3697eb45c872022772e0a0849c3421",
+      "dhash": "040d4d5a00080000",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-035.webp",
+      "source_url": "https://cartrawlerdev.wpengine.com/wp-content/uploads/2021/12/768x768.jpg",
+      "source_tag": "html-data",
+      "context": "x;\">\n<div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 100%;\"></div>\n<!-- <img decoding=\"async\" class=\"tatsu-gradient-border\" alt=\"Temp image\" title=\"\" data-src=\"https://cartrawlerdev.wpengine.com/wp-content/uploads/2021/12/768x768.jpg\" src=\"https://cartrawlerdev.wpengine.com/wp-content/uploads/2021/12/768x768.jpg\"> -->\n<div class=\"reveal-block tatsu-ani",
+      "content_type": "image/webp",
+      "bytes": 158448,
+      "sha256": "316afd080792e958a6f37478b94468c5ac3f0b6d9c2210830685a156cd899dc8",
+      "source_sha256": "f948b20ef7299b3d0b8d3b76fd8ed61e99c5645541ba8352cc97305682f5ba06",
+      "dhash": "b70b8b92809e3c35",
+      "width": 768,
+      "height": 768,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-036.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Fox-2.png",
+      "source_tag": "html-data, img:image",
+      "context": "2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Fox-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 13114,
+      "sha256": "55d4fac7f8db647b47416dc349417169499a829ef67e874688ab3d417361d2a4",
+      "source_sha256": "07812b4b609ecbe417fa09f6ebd727ebe2c744f0fedb470774bddb77b9a6ca38",
+      "dhash": "2b072b23233b332b",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-037.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Interrent.png",
+      "source_tag": "html-data, img:image",
+      "context": "2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Interrent.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 2644,
+      "sha256": "109109eeac413a1d157cfba53e4d3b49bc83126da49aa9c3e84b376b2af665c7",
+      "source_sha256": "81f8246364621a6cb459aad4ab7291f85a075142956c73faa90d1705a471c6a7",
+      "dhash": "08140c4d4d101400",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/car-rental-suppliers/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-038.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Airlines-1.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Airlines-1.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 107910,
+      "sha256": "82b3872dd45054e6c67db4d55762c1dffafb58890c2ec09fcdc391813e77f5ce",
+      "source_sha256": "e7f72d546c19ba99aed39f1e28f3fbc56eeab54fed61eb8aedb445fb8e5974ff",
+      "dhash": "8245a0494c181d1a",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-039.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Tech-Travel.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Tech-Travel.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 158386,
+      "sha256": "8480e9e179df4bce62b9bcc588630464756bde47c5d310383a4e4e3aff3a271a",
+      "source_sha256": "6fa9e885bd98dd5dd18354ac394156ceecc757afb27620fee3b50e931b6f0371",
+      "dhash": "e0f6fdb8667a7ce4",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-040.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Car-Rental-Suppliers-3.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Car-Rental-Suppliers-3.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 348560,
+      "sha256": "858d31edd4180f80904abc6ad80119a92a0ca79b00ad8f51083fca79dc7ee38d",
+      "source_sha256": "a2e3f4def89bea7eea289883a03595d612e72ae598bca95a96e00b5bba908532",
+      "dhash": "1b094c17050c2d3f",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-041.webp",
+      "source_url": "http://corporate.cartrawler.com/wp-content/uploads/2022/01/Mobility-Suppliers-3.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"http://corporate.cartrawler.com/wp-content/uploads/2022/01/Mobility-Suppliers-3.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 66662,
+      "sha256": "7acf74a21364d98884261d73985ecd54c3e35cbf4de33a7ac3ce5d431f3d17e6",
+      "source_sha256": "f9d32b40624edb1326926842a81b91886fc29909729e15328aebceafda12298f",
+      "dhash": "32342ae6d6d2c2c1",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-042.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/B2B-Technology-Seamless-Integration%E2%80%8B-1.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "su-single-image-inner\" style=\"width : 1024px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 100%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/B2B-Technology-Seamless-Integration​-1.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5C",
+      "content_type": "image/webp",
+      "bytes": 110154,
+      "sha256": "ab313052bfae6045a039b30a1c19830b648ca4e49142e1da14571dcf9b435e72",
+      "source_sha256": "0e54b0defd0fb36346193402862c1435e3326b4593f1688620ec0482ba41ff75",
+      "dhash": "26831303f1a52c9a",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-043.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Car-Rental-Suppliers-2.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Car-Rental-Suppliers-2.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 374174,
+      "sha256": "3d74847625ccf621458fb7c3ecfa45b538ed2e836c13862acde245c3db346684",
+      "source_sha256": "f0e0c3028d5a1e9081d9e66f2cddb86c3694b9f937e7af1cc81ae72a63849a00",
+      "dhash": "7629493669b93419",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-044.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Revenue-Management-Platform-%E2%80%8B-Personalisation%E2%80%8B-3.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "su-single-image-inner\" style=\"width : 1024px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 100%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Revenue-Management-Platform-​-Personalisation​-3.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAA",
+      "content_type": "image/webp",
+      "bytes": 176036,
+      "sha256": "355d91ab2dfae0c46eddf8e369bb15b91b3195415e067858f9928f229eb73bcd",
+      "source_sha256": "7c3109b5a20bf22c5001660efeda647743c1c9d16d55b0bd76888da9fde90eda",
+      "dhash": "000303830b3e23d6",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-045.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Best-In-Class-Online-Retailing%E2%80%8B.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "su-single-image-inner\" style=\"width : 1024px;\"><div class=\"tatsu-single-image-padding-wrap\" style=\"padding-bottom : 100%;\"></div><img alt=\"\" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Best-In-Class-Online-Retailing​.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "content_type": "image/webp",
+      "bytes": 61482,
+      "sha256": "bc6a6a4f1b09d7baf9ed3e80d39eafffcf945f8a9e2b202b12afc81a4f82ea7c",
+      "source_sha256": "c813df80f40cd023fec85eecb6a1e3d56be862799e8126111cef7055f6827542",
+      "dhash": "c2b1332a235c3920",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-046.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Continuous-Optimisation-Trading-Squads.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "iew zoom-in-in-view\"><div class=\"tatsu-single-image-inner\" style=\"\"><div class=\"tatsu-single-image-padding-wrap\" style=\"\"></div><img alt=\" \" class=\"tatsu-gradient-border\" data-src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Continuous-Optimisation-Trading-Squads.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5C",
+      "content_type": "image/webp",
+      "bytes": 178086,
+      "sha256": "8c56f85b5e23db436ffe12fd1c16e4c81402915ad72346b84a67c701a821a64d",
+      "source_sha256": "9be6993dcd47865c58fc8f84b2b41b1ea84e53900c9b2749178ab80e8d102eb7",
+      "dhash": "c6bcb2cab3274979",
+      "width": 1024,
+      "height": 1024,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-047.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/JetStar-2.png",
+      "source_tag": "html-data, img:image",
+      "context": ">\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"JetStar\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/JetStar-2.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 4654,
+      "sha256": "5e7d402e226cc4a89c937464b8ba7853940ad9c9569a9a8d3f79bfacb54a4777",
+      "source_sha256": "81212f09fdd3446f2ff7e21712a2e54ff8d3955e4a3b01f3bbe3e3797c9f3aaf",
+      "dhash": "0201492949410500",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-048.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/FlyDubai.png",
+      "source_tag": "html-data, img:image",
+      "context": "\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"FlyDubai\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/FlyDubai.png\"/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-c",
+      "content_type": "image/webp",
+      "bytes": 6498,
+      "sha256": "57355e9efd5e82d671905d608ef566f4a0d6d1e6a48a5c9a46ac1622591b0cd2",
+      "source_sha256": "c16944d74d5a24cab3bb8579eba6163e3a1d6080f0c7cd2da5cdd1833f16f7cc",
+      "dhash": "0040575529370001",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/cartrawler/reference-049.webp",
+      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Condor.png",
+      "source_tag": "html-data, img:image",
+      "context": "/>\n</div>\n</div>\n<div class=\"tatsu-media-slide tatsu-carousel-col\">\n<div class=\"tatsu-media-slide-inner tatsu-carousel-col-inner\">\n<img alt=\"Condor\" class=\"tatsu-carousel-img\" src=\"https://corporate.cartrawler.com/wp-content/uploads/2022/01/Condor.png\"/>\n</div>\n</div>\n</div>\n</div>\n</div></div><div class=\"tatsu-column-bg-image-wrap\"><div class=\"tatsu-column-bg-image\"></",
+      "content_type": "image/webp",
+      "bytes": 13772,
+      "sha256": "f5d65f8d5740627e6eadcd773295fc998168d809d9e9eb6fc19ec74ddbefe84b",
+      "source_sha256": "b933080f95ab630b1920bb0f2cad0330c32c55a3a781df33233131a4382ac266",
+      "dhash": "22405b43415b4001",
+      "width": 800,
+      "height": 300,
+      "variant": "shared",
+      "source_pages": [
+        "https://corporate.cartrawler.com/en-gb/who-we-work-with/airlines/"
+      ]
+    },
+    {
       "type": "social",
       "path": "assets/렌터카_글로벌/cartrawler/og.webp",
       "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/ct-social-default.png",
@@ -28,66 +1091,6 @@
       "sha256": "6dd30e3a4e43a529f24c01e8677ca6a69cdb5faae8ba797525ff67d0cbf2ef0d",
       "width": 1200,
       "height": 630
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/cartrawler/logo-1.svg",
-      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2021/12/ct-logo-light.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img transparent-logo dark-scheme-logo CarTrawler a div logo div header-wrap be-wrap clearfix div header-inner-wrap transparent background--dark style1",
-      "content_type": "image/svg+xml",
-      "bytes": 9972,
-      "sha256": "6d955740d947659fc581864585a9ecb4b9e8a88a98413a829780c3d304c2594c",
-      "width": 258,
-      "height": 40
-    },
-    {
-      "type": "logo",
-      "path": "assets/렌터카_글로벌/cartrawler/logo-2.svg",
-      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2021/12/ct-logo-dark.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img sticky-logo CarTrawler a div logo div header-wrap be-wrap clearfix div header-inner-wrap transparent background--dark style1",
-      "content_type": "image/svg+xml",
-      "bytes": 10031,
-      "sha256": "a7dd63413c8324e4f0c2efd04750c36c0949e8f0848dc6a95f466e86e455b779",
-      "width": 258,
-      "height": 40
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/cartrawler/reference-1.webp",
-      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Homepage-The-Human-TravelTech-Company-3.jpg",
-      "source_tag": "img:page-image",
-      "context": "img tatsu-gradient-border   div tatsu-single-image-inner div tatsu-single-image tatsu-module tatsu-image-lazyload tatsu-external-image tatsu-SJfdLTJR2K rounded-corners--left has-tab--right js-in-view zoom-in-in-view div tatsu-column-pad div",
-      "content_type": "image/webp",
-      "bytes": 194800,
-      "sha256": "6b2c0d66b10cebbdca5c7473e80aa8bc6bed32a524e5cfd56df8cac4cd276b83",
-      "width": 1200,
-      "height": 1200
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/cartrawler/reference-2.webp",
-      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/Homapage-Partnerships-Powered-by-CarTrawler.jpg",
-      "source_tag": "img:page-image",
-      "context": "img tatsu-gradient-border   div tatsu-single-image-inner div tatsu-single-image tatsu-module tatsu-image-lazyload tatsu-external-image tatsu-Syfd6pkC3F rounded-corners--left has-tab--right js-in-view zoom-in-in-view div tatsu-column-pad div",
-      "content_type": "image/webp",
-      "bytes": 358158,
-      "sha256": "0f49a766a327e5116f4249ad5ffb29110086defd6abcfe256f596af11e227aa0",
-      "width": 1024,
-      "height": 1024
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/cartrawler/reference-3.webp",
-      "source_url": "https://corporate.cartrawler.com/wp-content/uploads/2022/01/easyJet-Logo.png",
-      "source_tag": "img:page-image",
-      "context": "img tatsu-gradient-border easyJet Logo easyJet-Logo div tatsu-single-image-inner div tatsu-single-image tatsu-module align-center tatsu-image-lazyload tatsu-HJj1-kxwTY div tatsu-column-pad div tatsu-column-pad-wrap",
-      "content_type": "image/webp",
-      "bytes": 10018,
-      "sha256": "cb67b52fa1d3053bdbade84f7d61ff5401905a3b60522ec2a8aa78a065061491",
-      "width": 800,
-      "height": 300
     }
   ]
 }

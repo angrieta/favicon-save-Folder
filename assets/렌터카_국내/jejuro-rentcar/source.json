@@ -5,7 +5,18 @@
   "page_url": "https://www.jejurorentcar.com/",
   "page_title": "제주공항 렌트카 예약 · 제주도 렌트카 최저가 | 제주로렌트카",
   "collection_status": "partial",
-  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1662419574630004&ev=PageView&noscript=1; reference:ValueError:https://a29.smlog.co.kr/smart_bda.php?_account=31441",
+  "collection_error": "asset:https://www.facebook.com/tr?id=1662419574630004&ev=PageView&noscript=1:ValueError; asset:https://a29.smlog.co.kr/smart_bda.php?_account=31441:ValueError; asset:https://www.jejurorentcar.com/assets/favicon-128.png:HTTPError; asset:https://www.jejurorentcar.com/ic_arrow_right.svg:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 2,
+    "desktop_pages": 2,
+    "mobile_pages": 2,
+    "stylesheets": 2,
+    "scripts": 1,
+    "candidates": 140,
+    "attempted_assets": 140,
+    "errors": 4,
+    "collected_at": "2026-09-03T08:11:15.621459+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -17,6 +28,421 @@
       "sha256": "ad7354a98cfcb06a624ccb0e9005ef1367cd18d85db121633182b2987ccb0a76",
       "width": 152,
       "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/렌터카_국내/jejuro-rentcar/social-001.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/android-chrome-512x512.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "ntent=\"제주로 갈 땐 제주로렌트카! 제주공항 렌트카 예약, 보험 포함 최저가, 실시간 예약까지 한 번에. 제주도 렌트카 NO.1\" property=\"og:description\"/>\n<meta content=\"https://jejurorentcar.com\" property=\"og:url\"/>\n<meta content=\"https://www.jejurorentcar.com/assets/android-chrome-512x512.png\" property=\"og:image\"/>\n<meta content=\"ko_KR\" property=\"og:locale\"/>\n<!-- Twitter -->\n<meta content=\"summary_large_image\"",
+      "content_type": "image/webp",
+      "bytes": 20246,
+      "sha256": "138da0f3271b03dab0951a6ff88799d157d31e4094e129da6564883c5be31a74",
+      "source_sha256": "8de73fa028414f909bc640649bfd9207a3a2877a72883fb11f8d242dcf9577b3",
+      "dhash": "0f3355b2b14d330f",
+      "width": 512,
+      "height": 512,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.jejurorentcar.com/",
+        "https://www.jejurorentcar.com/rent-info"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-001.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/newuser-CcoHSsKx.png",
+      "source_tag": "script-data",
+      "context": "-lazy-preloader\"}))),!a&&Yt.createElement(_9e.Provider,{value:x},v(),s&&!O&&Yt.createElement(\"div\",{className:\"swiper-lazy-preloader\"})))});H_e.displayName=\"SwiperSlide\";const JGt=\"/assets/newuser-CcoHSsKx.png\",zGt=\"/assets/referral-BiOQX0uJ.png\",$Gt=\"/assets/retention-CFivtw9C.png\",W_e=\"jejuro_promo_modal_dismissed_until\";funct",
+      "content_type": "image/webp",
+      "bytes": 28856,
+      "sha256": "feccfa2618d0bbd7aa0ecf3d237bc0e182e85f2a6a620e0f58fa484abb6e8322",
+      "source_sha256": "627ff065c103f227f1b27ee3819da0b8941b618984aed1f1744bda1258ac645a",
+      "dhash": "8c7079f9d4e9c1c0",
+      "width": 760,
+      "height": 1014,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-002.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/referral-BiOQX0uJ.png",
+      "source_tag": "script-data",
+      "context": "lement(_9e.Provider,{value:x},v(),s&&!O&&Yt.createElement(\"div\",{className:\"swiper-lazy-preloader\"})))});H_e.displayName=\"SwiperSlide\";const JGt=\"/assets/newuser-CcoHSsKx.png\",zGt=\"/assets/referral-BiOQX0uJ.png\",$Gt=\"/assets/retention-CFivtw9C.png\",W_e=\"jejuro_promo_modal_dismissed_until\";function eYt(){try{const e=localStorage.g",
+      "content_type": "image/webp",
+      "bytes": 37022,
+      "sha256": "e54f69c96598eafcbb91d07b29648c809eaf31b1788cb6c98b9d2455f130c3e4",
+      "source_sha256": "adfc3403902c867560a06bc9d4c268e783f7ba44d860654c55c801c091aea014",
+      "dhash": "c4f8f0f074e9d0d4",
+      "width": 760,
+      "height": 949,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-003.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/retention-CFivtw9C.png",
+      "source_tag": "script-data",
+      "context": "&!O&&Yt.createElement(\"div\",{className:\"swiper-lazy-preloader\"})))});H_e.displayName=\"SwiperSlide\";const JGt=\"/assets/newuser-CcoHSsKx.png\",zGt=\"/assets/referral-BiOQX0uJ.png\",$Gt=\"/assets/retention-CFivtw9C.png\",W_e=\"jejuro_promo_modal_dismissed_until\";function eYt(){try{const e=localStorage.getItem(W_e);return e?new Date().toISO",
+      "content_type": "image/webp",
+      "bytes": 39828,
+      "sha256": "e979a8b80062c486d8bfe1ed2795d69c57b12aa55df5700d425c45476c1a953b",
+      "source_sha256": "6e50e6a95ed4260e3597cdc15e0768f2f8138961fb2fdb6f4377572fb2edfbdf",
+      "dhash": "8c6060c8dcf3c1d4",
+      "width": 760,
+      "height": 949,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-001.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_sale90.jpg",
+      "source_tag": "script-data",
+      "context": ")=>e.COLOR.WHITE};\n  background: ${Ze(qt)};\n  cursor: pointer;\n  white-space: nowrap;\n  transition: opacity 0.2s ease;\n\n  &:hover {\n    opacity: 0.92;\n  }\n`,kYt=[{id:\"sale_90\",img:\"/assets/img/jejuro_hero_sale90.jpg\",imgMobile:\"/assets/img/jejuro_hero_sale90_mobile.jpg\",eyebrow:\"🔥 한정 특가 · 지금 예약\",promo:{top:\"제주 렌터카\",lead:\"최대\",percent:\"",
+      "content_type": "image/webp",
+      "bytes": 92126,
+      "sha256": "5616c87e29a66517739b671b1efdf4a36f7a1cd34118571ec899bd5a56000a78",
+      "source_sha256": "c059314868a78ee46f6e557164034dfa8e3e152e5c6510284e9d27429eb28142",
+      "dhash": "f9edf7eefdf62c1d",
+      "width": 1680,
+      "height": 720,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-002.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_sale90_mobile.jpg",
+      "source_tag": "script-data",
+      "context": "ursor: pointer;\n  white-space: nowrap;\n  transition: opacity 0.2s ease;\n\n  &:hover {\n    opacity: 0.92;\n  }\n`,kYt=[{id:\"sale_90\",img:\"/assets/img/jejuro_hero_sale90.jpg\",imgMobile:\"/assets/img/jejuro_hero_sale90_mobile.jpg\",eyebrow:\"🔥 한정 특가 · 지금 예약\",promo:{top:\"제주 렌터카\",lead:\"최대\",percent:\"90%\",tail:\"할인\"},subtitle:\"정가 대비 최대 90%, 지금 가장 싼 값으로 떠나",
+      "content_type": "image/webp",
+      "bytes": 120628,
+      "sha256": "6ef90128387d2dea042881c818a3869d805195f13e426dde4fa7ce35d722d8a8",
+      "source_sha256": "e0c645706cf8ebba545e90f2f02f0b54e4590811fd5a74d8984633c749031bbe",
+      "dhash": "f8fbfdfef8d415f3",
+      "width": 980,
+      "height": 980,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-003.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_1.jpg",
+      "source_tag": "script-data",
+      "context": "bile.jpg\",eyebrow:\"🔥 한정 특가 · 지금 예약\",promo:{top:\"제주 렌터카\",lead:\"최대\",percent:\"90%\",tail:\"할인\"},subtitle:\"정가 대비 최대 90%, 지금 가장 싼 값으로 떠나세요\",cta:\"특가 차량 보기 →\"},{id:\"fast_pickup_return\",img:\"/assets/img/jejuro_hero_1.jpg\",eyebrow:\"빠른 인수 · 빠른 반납\",title:[\"사전 체크인으로\",\"인수도 반납도 빠르게\"],subtitle:\"복잡한 절차 없이, 도착하면 바로 출발하세요\"},{id:\"car_lineup\",img:\"/as",
+      "content_type": "image/webp",
+      "bytes": 108472,
+      "sha256": "35c2969ca853d4539289330f752e026bae237f89233ce7c96a3f6884ff98790d",
+      "source_sha256": "c93be904db3a653f3c51e54107a5202628710653d13ea9fd3d36d1c7bf20fc8f",
+      "dhash": "03050519270f0e0c",
+      "width": 2200,
+      "height": 943,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-004.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_3.jpg",
+      "source_tag": "script-data",
+      "context": "→\"},{id:\"fast_pickup_return\",img:\"/assets/img/jejuro_hero_1.jpg\",eyebrow:\"빠른 인수 · 빠른 반납\",title:[\"사전 체크인으로\",\"인수도 반납도 빠르게\"],subtitle:\"복잡한 절차 없이, 도착하면 바로 출발하세요\"},{id:\"car_lineup\",img:\"/assets/img/jejuro_hero_3.jpg\",eyebrow:\"경차부터 수입·슈퍼카까지\",title:[\"원하는 그 차,\",\"제주로에 다 있어요\"],subtitle:\"1천여 대 직영 보유 · 전 차량 블랙박스 완비\"},{id:\"blackbox\",img:\"/ass",
+      "content_type": "image/webp",
+      "bytes": 207462,
+      "sha256": "bb08090f644810985fd7b1a86b4805863bbb3cb0b7053ff86abda81a8d9c0a68",
+      "source_sha256": "756fdb97fb49c301e7090a56260d5dc696d781dacd81aabc568a658f893e8183",
+      "dhash": "f3f7f3f1f87c5c58",
+      "width": 2200,
+      "height": 943,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-005.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_blackbox.jpg",
+      "source_tag": "script-data",
+      "context": "면 바로 출발하세요\"},{id:\"car_lineup\",img:\"/assets/img/jejuro_hero_3.jpg\",eyebrow:\"경차부터 수입·슈퍼카까지\",title:[\"원하는 그 차,\",\"제주로에 다 있어요\"],subtitle:\"1천여 대 직영 보유 · 전 차량 블랙박스 완비\"},{id:\"blackbox\",img:\"/assets/img/jejuro_hero_blackbox.jpg\",imgMobile:\"/assets/img/jejuro_hero_blackbox_mobile.jpg\"},{id:\"pet\",img:\"/assets/img/jejuro_hero_pet.jpg\",imgMobile:\"/as",
+      "content_type": "image/webp",
+      "bytes": 147498,
+      "sha256": "5951fcd57508275bcf75b99dc66734c6d80bce1ed82d66e8620447bfa0e046c3",
+      "source_sha256": "8a93a288d68ffcaa017381de6fd80f9ad5084046b45e70ebaaa755bf8c649e06",
+      "dhash": "f3db93a7f3d3bb47",
+      "width": 1915,
+      "height": 821,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-006.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_blackbox_mobile.jpg",
+      "source_tag": "script-data",
+      "context": "juro_hero_3.jpg\",eyebrow:\"경차부터 수입·슈퍼카까지\",title:[\"원하는 그 차,\",\"제주로에 다 있어요\"],subtitle:\"1천여 대 직영 보유 · 전 차량 블랙박스 완비\"},{id:\"blackbox\",img:\"/assets/img/jejuro_hero_blackbox.jpg\",imgMobile:\"/assets/img/jejuro_hero_blackbox_mobile.jpg\"},{id:\"pet\",img:\"/assets/img/jejuro_hero_pet.jpg\",imgMobile:\"/assets/img/jejuro_hero_pet_mobile.jpg\"},{id:\"supercar\",img",
+      "content_type": "image/webp",
+      "bytes": 158026,
+      "sha256": "c3d2d579cffebfa0fc5c6a08f42a9ec31de6f6e4fce511b30f00b28ca1ecbf83",
+      "source_sha256": "a6341eadf0ae6f9907345d60945f992ac513b835195e058b1262bf3b8d0165cc",
+      "dhash": "ee2c1c6271386ec9",
+      "width": 1254,
+      "height": 1254,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-007.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_pet.jpg",
+      "source_tag": "script-data",
+      "context": "주로에 다 있어요\"],subtitle:\"1천여 대 직영 보유 · 전 차량 블랙박스 완비\"},{id:\"blackbox\",img:\"/assets/img/jejuro_hero_blackbox.jpg\",imgMobile:\"/assets/img/jejuro_hero_blackbox_mobile.jpg\"},{id:\"pet\",img:\"/assets/img/jejuro_hero_pet.jpg\",imgMobile:\"/assets/img/jejuro_hero_pet_mobile.jpg\"},{id:\"supercar\",img:\"/assets/img/jejuro_hero_supercar.jpg\",imgMobile",
+      "content_type": "image/webp",
+      "bytes": 188786,
+      "sha256": "671a9af899ebe957c4d02d6594d206c86a33c8ef9f6d082c6d856a8f543ac7b6",
+      "source_sha256": "4d286274b0154e31b1922d08a93b5edebcf715ed61f8f70d312363f8ec09222a",
+      "dhash": "7c8b8f74f07939bc",
+      "width": 1915,
+      "height": 821,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-008.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_pet_mobile.jpg",
+      "source_tag": "script-data",
+      "context": "스 완비\"},{id:\"blackbox\",img:\"/assets/img/jejuro_hero_blackbox.jpg\",imgMobile:\"/assets/img/jejuro_hero_blackbox_mobile.jpg\"},{id:\"pet\",img:\"/assets/img/jejuro_hero_pet.jpg\",imgMobile:\"/assets/img/jejuro_hero_pet_mobile.jpg\"},{id:\"supercar\",img:\"/assets/img/jejuro_hero_supercar.jpg\",imgMobile:\"/assets/img/jejuro_hero_supercar_mobile.jpg\"}],FY",
+      "content_type": "image/webp",
+      "bytes": 184542,
+      "sha256": "b9558d64bb9e1747890d85b63cc97017395de08265b0952db69617096245b657",
+      "source_sha256": "6b2bfe1efba5869adb85c0e033a71273a5e492d868dd0a0089d1d3a6f475ce3e",
+      "dhash": "f7c723e4cda5e07b",
+      "width": 1254,
+      "height": 1254,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-009.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_supercar.jpg",
+      "source_tag": "script-data",
+      "context": "pg\",imgMobile:\"/assets/img/jejuro_hero_blackbox_mobile.jpg\"},{id:\"pet\",img:\"/assets/img/jejuro_hero_pet.jpg\",imgMobile:\"/assets/img/jejuro_hero_pet_mobile.jpg\"},{id:\"supercar\",img:\"/assets/img/jejuro_hero_supercar.jpg\",imgMobile:\"/assets/img/jejuro_hero_supercar_mobile.jpg\"}],FYt=6e3,Q_e=700,Xb=1,BYt=({isMobile:e,searchSlot:t,onBannerVi",
+      "content_type": "image/webp",
+      "bytes": 213578,
+      "sha256": "f26271aecad72ab0276b482130dcd5965fce2aa08ee9f9f9ea8b7ad68d956afe",
+      "source_sha256": "bddb945c2931ce3632657c8a957d93ab46d29debacf23ca386bc2b005788c53f",
+      "dhash": "7b8f93b47cda3879",
+      "width": 1915,
+      "height": 821,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_국내/jejuro-rentcar/banner-010.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_hero_supercar_mobile.jpg",
+      "source_tag": "script-data",
+      "context": "obile.jpg\"},{id:\"pet\",img:\"/assets/img/jejuro_hero_pet.jpg\",imgMobile:\"/assets/img/jejuro_hero_pet_mobile.jpg\"},{id:\"supercar\",img:\"/assets/img/jejuro_hero_supercar.jpg\",imgMobile:\"/assets/img/jejuro_hero_supercar_mobile.jpg\"}],FYt=6e3,Q_e=700,Xb=1,BYt=({isMobile:e,searchSlot:t,onBannerView:r,onBannerClick:n})=>{var v;const[i,o]=$.useState(Xb)",
+      "content_type": "image/webp",
+      "bytes": 191714,
+      "sha256": "5a3074c6de9fe4642f3e5171fe2cdf3ff949d2633cd6a03b5c2cc2d018072ca4",
+      "source_sha256": "5a0a3f29a4f20c3148188ed524022913099e15e57e3c93c7cf49a1e356fca8e9",
+      "dhash": "7fa787707cf2f11f",
+      "width": 1254,
+      "height": 1254,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-004.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_kiosk_desktop.jpg",
+      "source_tag": "script-data",
+      "context": "({theme:e})=>e.WIDTH.PC_LAYOUT};\n  margin: ${({isMobile:e})=>e?\"-40px\":\"-44px\"} auto 0;\n  padding: 0 20px;\n  display: flex;\n  justify-content: center;\n`,Xw=[{id:\"kiosk\",imgDesktop:\"/assets/img/jejuro_kiosk_desktop.jpg\",imgMobile:\"/assets/img/jejuro_kiosk_mobile.jpg\",eyebrow:\"간편한 차량인수\",title:\"무인 키오스크\"},{id:\"goods\",imgDesktop:\"/assets/img",
+      "content_type": "image/webp",
+      "bytes": 83840,
+      "sha256": "0b57da8bc7957723886ca19c04418ae3482111b9962d1e73ae7a2fe1c756e114",
+      "source_sha256": "9b2d7563c175e6d19be9ecc0d32e954b34e376f5fa4badc015a507527f446092",
+      "dhash": "84c4d575fcd5d4c4",
+      "width": 2048,
+      "height": 768,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-005.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_kiosk_mobile.jpg",
+      "source_tag": "script-data",
+      "context": "Mobile:e})=>e?\"-40px\":\"-44px\"} auto 0;\n  padding: 0 20px;\n  display: flex;\n  justify-content: center;\n`,Xw=[{id:\"kiosk\",imgDesktop:\"/assets/img/jejuro_kiosk_desktop.jpg\",imgMobile:\"/assets/img/jejuro_kiosk_mobile.jpg\",eyebrow:\"간편한 차량인수\",title:\"무인 키오스크\"},{id:\"goods\",imgDesktop:\"/assets/img/jejuro_goods_desktop.jpg\",imgMobile:\"/assets/im",
+      "content_type": "image/webp",
+      "bytes": 121702,
+      "sha256": "fccf4bc27e6103b5698e20ab06f2233d14797126e0a072b08c2dc960aac9c80c",
+      "source_sha256": "b0862695c5907e1fe4cd4410e086f2e99655a15ed576001af97885bfbf6056fd",
+      "dhash": "4b535456d0969a90",
+      "width": 1254,
+      "height": 1254,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-006.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_goods_desktop.jpg",
+      "source_tag": "script-data",
+      "context": "ter;\n`,Xw=[{id:\"kiosk\",imgDesktop:\"/assets/img/jejuro_kiosk_desktop.jpg\",imgMobile:\"/assets/img/jejuro_kiosk_mobile.jpg\",eyebrow:\"간편한 차량인수\",title:\"무인 키오스크\"},{id:\"goods\",imgDesktop:\"/assets/img/jejuro_goods_desktop.jpg\",imgMobile:\"/assets/img/jejuro_goods_mobile.jpg\",eyebrow:\"공항보다 저렴한 다양한 기념품\",title:\"제주 굿즈샵\"},{id:\"coffee\",imgDesktop:\"/as",
+      "content_type": "image/webp",
+      "bytes": 315750,
+      "sha256": "c1afc1e0f9c25ff39b887c054feb9478010b246a1e386461d8221c1945b2f70d",
+      "source_sha256": "0a61c2d997c894b82a2c854679eee5a2ba57ce29381320f172459f7e78702840",
+      "dhash": "5212c6c6c64ef3d3",
+      "width": 2048,
+      "height": 768,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-007.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_goods_mobile.jpg",
+      "source_tag": "script-data",
+      "context": "juro_kiosk_desktop.jpg\",imgMobile:\"/assets/img/jejuro_kiosk_mobile.jpg\",eyebrow:\"간편한 차량인수\",title:\"무인 키오스크\"},{id:\"goods\",imgDesktop:\"/assets/img/jejuro_goods_desktop.jpg\",imgMobile:\"/assets/img/jejuro_goods_mobile.jpg\",eyebrow:\"공항보다 저렴한 다양한 기념품\",title:\"제주 굿즈샵\"},{id:\"coffee\",imgDesktop:\"/assets/img/jejuro_coffee_desktop.jpg\",imgMobile:\"/",
+      "content_type": "image/webp",
+      "bytes": 308896,
+      "sha256": "f009ec97c86d51fb535b24e8b38565f91eabd4f95416e16ad978ac968bf6f457",
+      "source_sha256": "ed63d74672782b79c843f4508b7b40be56d9bfde5f93d3b1a167c75fe3a6fb1b",
+      "dhash": "9393a696aac7f858",
+      "width": 1254,
+      "height": 1254,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-008.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_coffee_desktop.jpg",
+      "source_tag": "script-data",
+      "context": "\"},{id:\"goods\",imgDesktop:\"/assets/img/jejuro_goods_desktop.jpg\",imgMobile:\"/assets/img/jejuro_goods_mobile.jpg\",eyebrow:\"공항보다 저렴한 다양한 기념품\",title:\"제주 굿즈샵\"},{id:\"coffee\",imgDesktop:\"/assets/img/jejuro_coffee_desktop.jpg\",imgMobile:\"/assets/img/jejuro_coffee_mobile.jpg\",eyebrow:\"재방문 고객을 위한\",title:\"무료 커피\"}],aHt=6e3,sHt=40,lHt=({isMobile:e})",
+      "content_type": "image/webp",
+      "bytes": 102064,
+      "sha256": "f8d773a2247cd49c48094c3c282b43d4b7bc65436b0121ef3a299651ff1b187e",
+      "source_sha256": "508888742f64903e0fb4b28a9d8ec7988ac0dbf000291997f83dca0ac3591e64",
+      "dhash": "dbcdc5d5d5d155d3",
+      "width": 2048,
+      "height": 768,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-009.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/img/jejuro_coffee_mobile.jpg",
+      "source_tag": "script-data",
+      "context": "s_desktop.jpg\",imgMobile:\"/assets/img/jejuro_goods_mobile.jpg\",eyebrow:\"공항보다 저렴한 다양한 기념품\",title:\"제주 굿즈샵\"},{id:\"coffee\",imgDesktop:\"/assets/img/jejuro_coffee_desktop.jpg\",imgMobile:\"/assets/img/jejuro_coffee_mobile.jpg\",eyebrow:\"재방문 고객을 위한\",title:\"무료 커피\"}],aHt=6e3,sHt=40,lHt=({isMobile:e})=>{const[t,r]=$.useState(0),n=Xw.length>1,i=Xw.le",
+      "content_type": "image/webp",
+      "bytes": 94698,
+      "sha256": "ef1f8d85f73fed3c2769c2e92d6a44a5b78746b3c472f20fc9ab39e684b0555f",
+      "source_sha256": "535a47aed59d9df65510d3c344e0c67baaf90a3909726cf450f4b0fcc443c54a",
+      "dhash": "cec24acacb18c9c6",
+      "width": 1254,
+      "height": 1254,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-010.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/jejuro-offer-privacy-CgjClfjc.png",
+      "source_tag": "script-data",
+      "context": "tionData:o,preReservation:o.preReservation}),y.jsx(PI,{platform:r?\"mobile\":\"desktop\",company:\"jejuro\",isOpen:n,originUrl:\"https://jejurorentcar.com/\",onClose:()=>{i(!1)}})]})},lKt=\"/assets/jejuro-offer-privacy-CgjClfjc.png\",cKt=()=>y.jsx(H2,{children:y.jsx(uKt,{children:y.jsx(\"img\",{src:lKt,width:\"100%\",alt:\"개인정보 제3자 제공 동의\"})})}),uKt=_.div`\n",
+      "content_type": "image/webp",
+      "bytes": 101912,
+      "sha256": "13ea500fa20461b0eecafb1f5c96ad90760edae63369cfc148b1577fa3989607",
+      "source_sha256": "2b069585d878759de846caa1ceb0ded69b3ea960f80d150cbc46065d97d4a6bf",
+      "dhash": "8080808080808080",
+      "width": 833,
+      "height": 2000,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-011.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/carnival-C60MKr2H.png",
+      "source_tag": "script-data",
+      "context": "jt.index)})},[n,i,o]),$.useEffect(()=>{window.scrollTo(0,0)},[]),y.jsx(g0e,{isMobile:s,screenHeight:c-148,children:y.jsx(fE,{type:\"main\",isMobile:s,children:\"결제가 진행중입니다.\"})})},LZt=\"/assets/carnival-C60MKr2H.png\",kZt=\"/assets/K5%20DL3--0kYYVwN.png\",FZt=({onClose:e,onClick:t,vehicleImgUrl:r,vehicleModelName:n,monthPrice:i})=>{const",
+      "content_type": "image/webp",
+      "bytes": 35922,
+      "sha256": "f433f6c9ce2c4ca27f2b3e299a450973c5f9a8d88e0abd2dfa622779cad0cec2",
+      "source_sha256": "79d02912fbba39d17318c29685c40fcaa54f5fc7c4f222d87fecfbddcf9d8eca",
+      "dhash": "46831139594d4d6c",
+      "width": 1174,
+      "height": 603,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_국내/jejuro-rentcar/reference-012.webp",
+      "source_url": "https://www.jejurorentcar.com/assets/K5%20DL3--0kYYVwN.png",
+      "source_tag": "script-data",
+      "context": "=>{window.scrollTo(0,0)},[]),y.jsx(g0e,{isMobile:s,screenHeight:c-148,children:y.jsx(fE,{type:\"main\",isMobile:s,children:\"결제가 진행중입니다.\"})})},LZt=\"/assets/carnival-C60MKr2H.png\",kZt=\"/assets/K5%20DL3--0kYYVwN.png\",FZt=({onClose:e,onClick:t,vehicleImgUrl:r,vehicleModelName:n,monthPrice:i})=>{const{recoilValue:o}=Jt(Yr);return y.jsx(",
+      "content_type": "image/webp",
+      "bytes": 34150,
+      "sha256": "650328fe4b2e2afb8b20f4e51f89479e33336bcfc54cfdec8e973ed787087486",
+      "source_sha256": "350603889690330aee3dbca4201e7635e8f76846f71f653163ce0985165f29ed",
+      "dhash": "26870d1953139c41",
+      "width": 1257,
+      "height": 647,
+      "variant": "mobile",
+      "source_pages": [
+        "https://www.jejurorentcar.com/"
+      ]
     },
     {
       "type": "social",

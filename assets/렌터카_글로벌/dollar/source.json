@@ -6,6 +6,17 @@
   "page_title": "",
   "collection_status": "complete",
   "collection_error": "",
+  "crawl_stats": {
+    "logical_pages": 14,
+    "desktop_pages": 14,
+    "mobile_pages": 14,
+    "stylesheets": 8,
+    "scripts": 36,
+    "candidates": 171,
+    "attempted_assets": 171,
+    "errors": 0,
+    "collected_at": "2026-09-03T08:27:41.761635+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
@@ -20,63 +31,387 @@
     },
     {
       "type": "logo",
-      "path": "assets/렌터카_글로벌/dollar/logo-1.svg",
+      "path": "assets/렌터카_글로벌/dollar/logo-001.svg",
       "source_url": "https://www.dollaragent.kr/dollar_logo.svg",
-      "source_tag": "img:semantic-logo",
-      "context": "img 달러 렌터카 a div ctr_1400 div header-main div header",
+      "source_tag": "html-data, img:banner, img:image, img:logo",
+      "context": "\">\n<div class=\"header-assist\">\n<div class=\"ctr_1400 fixed\" id=\"MemberAgentStatus\"></div>\n</div>\n<div class=\"header-main\">\n<div class=\"ctr_1400\">\n<a href=\"/\">\n<img alt=\"달러 렌터카\" src=\"https://www.dollaragent.kr/dollar_logo.svg\"/></a>\n<div class=\"header-nav\">\n<div class=\"hover\">\n<i></i>\n</div>\n<ul class=\"fnt_18\">\n<li style=\"display: none\">\n<div c",
       "content_type": "image/svg+xml",
       "bytes": 3093,
       "sha256": "79fd64d9edaa5b15a6f518b6adeb0de35442a02db54ce6fb032c31e9e72ae9fd",
+      "source_sha256": "79fd64d9edaa5b15a6f518b6adeb0de35442a02db54ce6fb032c31e9e72ae9fd",
+      "dhash": "",
       "width": 127,
-      "height": 52
+      "height": 52,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollarcarrental.co.kr"
+      ]
     },
     {
       "type": "banner",
-      "path": "assets/렌터카_글로벌/dollar/banner-1.webp",
-      "source_url": "https://img-doollarkr2.gohertz.cn/Upload/image/20200312/20200312022604_5791.jpg",
-      "source_tag": "inline-background-image",
-      "context": "div  index_banner background: url('https://img-doollarkr2.gohertz.cn/Upload/image/20200312/20200312022604_5791.jpg') no-repeat center center",
+      "path": "assets/렌터카_글로벌/dollar/banner-001.webp",
+      "source_url": "https://www.dollar.com/content/dam/dollar/global/blog/adventure/parents-everything-about-under-25-car-rentals/img-hero-UNDER25RENTALS.rendition.medium.jpg",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": " Know About Under 25 Car Rentals\" name=\"twitter:title\"/>\n<meta content=\"Parents: Everything You Need to Know About Under 25 Car Rentals\" name=\"twitter:description\"/>\n<meta content=\"https://www.dollar.com/content/dam/dollar/global/blog/adventure/parents-everything-about-under-25-car-rentals/img-hero-UNDER25RENTALS.rendition.medium.jpg\" name=\"twitter:image\"/>\n<script src=\"/ecom/libs/US/enUS?version=",
       "content_type": "image/webp",
-      "bytes": 270552,
-      "sha256": "a5d419045b867e641b52869ff1558558e839cfd78e793a1a3b86f0df02dc17c1",
-      "width": 1800,
-      "height": 552
+      "bytes": 52316,
+      "sha256": "9604d6b88ff71c5cdce362f9756c5d9f1d15562972019c8cffc3a91885054967",
+      "source_sha256": "913fd474055bf95932969fe41351e2ada46f5396751b7e3c6e13a523e1023087",
+      "dhash": "4dcd96a7173635dd",
+      "width": 1280,
+      "height": 357,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/us/en/blog/adventure/parents-everything-about-under-25-car-rentals"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/dollar/banner-002.webp",
+      "source_url": "https://www.dollar.com/content/dam/dollar/global/blog/adventure/did-you-know-you-can-rent-a-car-at-age-20/img-hero-AGE20RENTALS.rendition.medium.jpg",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "You Can Rent a Car at Age 20? Here’s How.\" name=\"twitter:title\"/>\n<meta content=\"Did You Know You Can Rent a Car at Age 20? Here’s How.\" name=\"twitter:description\"/>\n<meta content=\"https://www.dollar.com/content/dam/dollar/global/blog/adventure/did-you-know-you-can-rent-a-car-at-age-20/img-hero-AGE20RENTALS.rendition.medium.jpg\" name=\"twitter:image\"/>\n<script src=\"/ecom/libs/US/enUS?version=3\"></s",
+      "content_type": "image/webp",
+      "bytes": 53502,
+      "sha256": "23fb9eb2a57356433904c87b454567793145d74e828e403d3d213043f88a96ca",
+      "source_sha256": "67a068f09b15e91b4fa21914b0ac65eab803e556b0aab894c267abcff8cc2031",
+      "dhash": "c6c6c686969e86ca",
+      "width": 1280,
+      "height": 357,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/us/en/blog/adventure/did-you-know-you-can-rent-a-car-at-age-20"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/dollar/logo-002.webp",
+      "source_url": "https://www.hertz.com/content/dam/hertz/global/hertz-logo-black.rendition.medium.png",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "property=\"og:title\"/>\n<meta content=\"https://www.dollar.com/us/en/blog/adventure/how-to-choose-the-right-rental-car-for-your-road-trip-adventure\" property=\"og:url\"/>\n<meta content=\"https://www.hertz.com/content/dam/hertz/global/hertz-logo-black.rendition.medium.png\" property=\"og:image\"/>\n<meta content=\"en_US\" property=\"og:locale\"/>\n<meta content=\"website\" property=\"og:type\"/>\n<meta c",
+      "content_type": "image/webp",
+      "bytes": 3384,
+      "sha256": "fbf4455727b7454b200e77d6471443ad91857374508c1ed169a3f527aadad7d0",
+      "source_sha256": "5e8dd0459399a21b24eaabd3c5703cbbb6a90693f09fdc499db0ee4a8726b130",
+      "dhash": "cc6d71a15a66269a",
+      "width": 270,
+      "height": 98,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/us/en/blog/adventure/how-to-choose-the-right-rental-car-for-your-road-trip-adventure"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/dollar/banner-003.webp",
+      "source_url": "https://www.dollar.com/content/dam/dollar/global/blog/business-travel/introducing-dollar-prestige-how-to-rent-premium-car/img-hero-DOLLARPRESTIGE-1024x286.rendition.medium.jpg",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "=\"Did you know you can save on luxury car rentals with Dollar? Here’s everything you need to know about our Dollar Prestige collection.\" name=\"twitter:description\"/>\n<meta content=\"https://www.dollar.com/content/dam/dollar/global/blog/business-travel/introducing-dollar-prestige-how-to-rent-premium-car/img-hero-DOLLARPRESTIGE-1024x286.rendition.medium.jpg\" name=\"twitter:image\"/>\n<script src=\"/ecom/",
+      "content_type": "image/webp",
+      "bytes": 37024,
+      "sha256": "9e1c115dc4d61a27d54ef3fadc2a5a45323c2bbe75b14371a1063141d2e83825",
+      "source_sha256": "863d26708981fb593a138ef14b6e9d64a1f28c1489f8f567a863a92278d434a5",
+      "dhash": "c5c9d6e6eb2a3830",
+      "width": 1024,
+      "height": 286,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/us/en/blog/business-travel/introducing-dollar-prestige-how-to-rent-premium-car"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/dollar/banner-004.webp",
+      "source_url": "https://www.dollar.com/content/dam/dollar/global/blog/business-travel/how-to-spend-48-hours-in-portland-oregon-dollar-car-rental/img-hero-48HRSPORTLAND.rendition.medium.jpg",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "d to Portland for the weekend, then you better start by calling your destination by its proper initials: PNW, or the Pacific Northwest.\" name=\"twitter:description\"/>\n<meta content=\"https://www.dollar.com/content/dam/dollar/global/blog/business-travel/how-to-spend-48-hours-in-portland-oregon-dollar-car-rental/img-hero-48HRSPORTLAND.rendition.medium.jpg\" name=\"twitter:image\"/>\n<script src=\"/ecom/lib",
+      "content_type": "image/webp",
+      "bytes": 111250,
+      "sha256": "231be3b74e28725df792c9bd88c0fa5268aff9d137c512451059b53f0e2027da",
+      "source_sha256": "c82c4723acde6b29ed243f08d9aaeb75e073b24763e5b21a2c0b9850efd662c0",
+      "dhash": "feee20236f2c2c24",
+      "width": 1280,
+      "height": 357,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/us/en/blog/business-travel/how-to-spend-48-hours-in-portland-oregon-dollar-car-rental"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/dollar/banner-005.webp",
+      "source_url": "https://www.dollar.com/content/dam/dollar/global/blog/family-fun/loan-star-tips-for-financing-first-car/img-hero-LOANSTAR.rendition.medium.jpg",
+      "source_tag": "html-data, meta: twitter:image, meta:og:image ",
+      "context": "u wondering how to finance your first car? The following tips will help make your first car loan process simple and easy to understand.\" name=\"twitter:description\"/>\n<meta content=\"https://www.dollar.com/content/dam/dollar/global/blog/family-fun/loan-star-tips-for-financing-first-car/img-hero-LOANSTAR.rendition.medium.jpg\" name=\"twitter:image\"/>\n<script src=\"/ecom/libs/US/enUS?version=3\"></script>",
+      "content_type": "image/webp",
+      "bytes": 55154,
+      "sha256": "61048ea22336e88e71dc19f3992761f01143a4bac687050ab9158349747ffd12",
+      "source_sha256": "59a96e34b95cb9987faeb81b56c3227576dcde350f3647a84bdafd15951a4459",
+      "dhash": "35b7df5c6c6caeb6",
+      "width": 1280,
+      "height": 357,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/us/en/blog/family-fun/loan-star-tips-for-financing-first-car"
+      ]
     },
     {
       "type": "reference",
-      "path": "assets/렌터카_글로벌/dollar/reference-1.webp",
-      "source_url": "https://img-doollarkr2.gohertz.cn/Upload/image/20200220/20200220055603_2381.jpg",
-      "source_tag": "img:page-image",
-      "context": "img a li ul fixed div index_part3",
-      "content_type": "image/webp",
-      "bytes": 19766,
-      "sha256": "cdfcea8b66c39970ed18f89997af32072d7c58328edb8033fe6e3f5b6c2c3ece",
-      "width": 635,
-      "height": 232
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/dollar/reference-2.webp",
-      "source_url": "https://img-doollarkr2.gohertz.cn/Upload/image/20200218/20200218103234_8925.jpg",
-      "source_tag": "img:page-image",
-      "context": "img a li ul fixed div index_part3",
-      "content_type": "image/webp",
-      "bytes": 19188,
-      "sha256": "55cf61f0dfe4a1b1d5cca8b61473cb33fbbb251f1b2f3ca1c2863be1a415d5fc",
-      "width": 633,
-      "height": 232
-    },
-    {
-      "type": "reference",
-      "path": "assets/렌터카_글로벌/dollar/reference-3.webp",
+      "path": "assets/렌터카_글로벌/dollar/reference-001.webp",
       "source_url": "https://img-dollarkr.gohertz.cn/images/icon_sprite.png",
-      "source_tag": "inline-background-image",
-      "context": "a  bds_fbook share \r\n            background: url('https://img-dollarkr.gohertz.cn/images/icon_sprite.png')\r\n              no-repeat;\r\n            background-position: -115px -128px;\r\n          ",
+      "source_tag": "external-css, html-data, inline-css",
+      "context": "lation-box{position:relative}.cancellation-box .zx-close-btn{position:absolute;width:25px;height:25px;background:url(/images/close_icon_white.png) no-repeat center center;background-size:cover;cursor:pointer;top:26px;right:15px}.dang.manual::before{background:url(/images/icon_sprite.png) no-repeat -248px -170px!important}.dang::before{background:url(/images/dang_icon.png) no-repeat center center!i",
       "content_type": "image/webp",
-      "bytes": 24480,
-      "sha256": "e9bb1d32c1d8e8e6c31f12675cd18095409fe45a0a170cfa9a8b3e431f7ddfb4",
+      "bytes": 23988,
+      "sha256": "4c9f1a020887dd2d0abd56a5df618572846ebfc8508921ec7f76402bf3f6a18f",
+      "source_sha256": "3086d0ede48fc564cce944fa8cfb5a3fab225388a04a5f90b171bffc36429030",
+      "dhash": "bc8c8c4e7c3e9e8c",
       "width": 367,
-      "height": 605
+      "height": 605,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollarcarrental.co.kr"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/dollar/banner-006.webp",
+      "source_url": "https://img-doollarkr2.gohertz.cn/Upload/image/20200312/20200312022604_5791.jpg",
+      "source_tag": "html-data, inline-css",
+      "context": "8C44FE5149CDBBF3\" data-onlineid=\"E6A9FC492B02BE32F3F2E4838AFB8D01\" data_offlineid=\"766F31D508615FB73BCD0A05C8D09EFB\" id=\"DCoupon\">\n<div class=\"index_banner\" style=\"background: url('https://img-doollarkr2.gohertz.cn/Upload/image/20200312/20200312022604_5791.jpg') no-repeat center center\">\n<!-- <img src=\"https://img-dollarkr.gohertz.cn/images/banner.jpg\"> -->\n<div class=\"swiper-co",
+      "content_type": "image/webp",
+      "bytes": 285470,
+      "sha256": "3b6e1aa39297e2dbcf045c7448ea8220aece7aa01e22fc22b0339ed0e86959bd",
+      "source_sha256": "57ea4862569988e1a4d2908322f1ba678e2e104d32faf9c7f871d82c8d6fe2c7",
+      "dhash": "7e7d624a6371758e",
+      "width": 1898,
+      "height": 582,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollarcarrental.co.kr"
+      ]
+    },
+    {
+      "type": "logo",
+      "path": "assets/렌터카_글로벌/dollar/logo-003.png",
+      "source_url": "https://img-dollarkr.gohertz.cn/images/dollar_logo.png",
+      "source_tag": "html-data",
+      "context": "larkr.gohertz.cn/js/html5.js\"></script>\r\n  <script src=\"https://img-dollarkr.gohertz.cn/js/respond.src.js\"></script>\r\n<![endif]-->\n<script type=\"text/javascript\">\r\n  var nullimg = 'https://img-dollarkr.gohertz.cn/images/dollar_logo.png'\r\n  function lod(t) {\r\n    t.onerror = null\r\n    t.src = nullimg\r\n    t.className = 'errorImg'\r\n  }\r\n</script>\n<script s",
+      "content_type": "image/png",
+      "bytes": 2002,
+      "sha256": "7a5a2d86279ca2592c2008cc91320e9752e63cfb6eec44d97f731178bf791b7c",
+      "source_sha256": "f465c1a322ad61bda5b1e237ce0f3785ef21d1146d4adafba4e523192ddcff2a",
+      "dhash": "004d48bb4d5b6b00",
+      "width": 127,
+      "height": 52,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollarcarrental.co.kr"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/dollar/banner-007.webp",
+      "source_url": "https://img-dollarkr.gohertz.cn/images/banner.jpg",
+      "source_tag": "html-data",
+      "context": "oupon\">\n<div class=\"index_banner\" style=\"background: url('https://img-doollarkr2.gohertz.cn/Upload/image/20200312/20200312022604_5791.jpg') no-repeat center center\">\n<!-- <img src=\"https://img-dollarkr.gohertz.cn/images/banner.jpg\"> -->\n<div class=\"swiper-container swiper-no-swiping\" style=\"z-index: 0\">\n<div class=\"swiper-wrapper\" id=\"index_banner_w",
+      "content_type": "image/webp",
+      "bytes": 128480,
+      "sha256": "376dc087796a38e50169c918868f7b58e435d9ab19e43c300b623f7c10eb2c70",
+      "source_sha256": "0d25c6c698d92d86ecf624993fad7d0f185462e2d2fe76086c2d76af21e9dcdd",
+      "dhash": "4b33233336554c51",
+      "width": 1898,
+      "height": 582,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollarcarrental.co.kr"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/dollar/banner-008.webp",
+      "source_url": "https://www.dollar.com/content/dam/dollar/global/blog/business-travel/introducing-dollar-prestige-how-to-rent-premium-car/img-hero-DOLLARPRESTIGE-1024x286.jpg",
+      "source_tag": "html-data",
+      "context": "readcrumbList\"},{\"editor\":\"Dollar\",\"publisher\":{},\"headline\":\"Introducing Dollar Prestige: How to Rent a Premium-Not-Pricey Car\",\"alternativeHeadline\":\"Dollar Travel Blog\",\"image\":\"https://www.dollar.com/content/dam/dollar/global/blog/business-travel/introducing-dollar-prestige-how-to-rent-premium-car/img-hero-DOLLARPRESTIGE-1024x286.jpg\",\"genre\":\"Business Travel\",\"url\":\"https://www.dollar.com\",\"m",
+      "content_type": "image/webp",
+      "bytes": 37054,
+      "sha256": "f898e6be9d5c095c4d8fa8791f9eed37b048498a504db25bc25888591e125620",
+      "source_sha256": "3656c339c40123508cbd636b4f83196c99a4ac9ac065112849dfdda2e3132d3e",
+      "dhash": "c5c9d6e6eb6a3830",
+      "width": 1024,
+      "height": 286,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/us/en/blog/business-travel/introducing-dollar-prestige-how-to-rent-premium-car"
+      ]
+    },
+    {
+      "type": "banner",
+      "path": "assets/렌터카_글로벌/dollar/banner-009.webp",
+      "source_url": "https://www.dollar.com/content/dam/dollar/global/blog/business-travel/how-to-spend-48-hours-in-portland-oregon-dollar-car-rental/img-hero-48HRSPORTLAND.jpg",
+      "source_tag": "html-data",
+      "context": "//schema.org\",\"@type\":\"BreadcrumbList\"},{\"editor\":\"Dollar\",\"publisher\":{},\"headline\":\"How to Spend 48 Hours in Portland, Oregon\",\"alternativeHeadline\":\"Dollar Travel Blog\",\"image\":\"https://www.dollar.com/content/dam/dollar/global/blog/business-travel/how-to-spend-48-hours-in-portland-oregon-dollar-car-rental/img-hero-48HRSPORTLAND.jpg\",\"genre\":\"Business Travel\",\"url\":\"https://www.dollar.com\",\"main",
+      "content_type": "image/webp",
+      "bytes": 155950,
+      "sha256": "82e43e39cdb003ebf47a2b28d3943b354e20ed40f5f61794f2e15761dc843b44",
+      "source_sha256": "4cffc9796499db1c2422ce1f0fce4f6cebbecc861cc8690c9190aca3c5538869",
+      "dhash": "feee20236f2c2c24",
+      "width": 1500,
+      "height": 419,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/us/en/blog/business-travel/how-to-spend-48-hours-in-portland-oregon-dollar-car-rental"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-002.webp",
+      "source_url": "https://img-doollarkr2.gohertz.cn/Upload/image/20200220/20200220055603_2381.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "div>\n<div class=\"ctr_1290\">\n<div class=\"index_part3\">\n<div class=\"tit fnt_50\">여행 가이드</div>\n<ul class=\"fixed\">\n<li> <a href=\"/preferential/index.html\"> <img onerror=\"lod(this)\" src=\"https://img-doollarkr2.gohertz.cn/Upload/image/20200220/20200220055603_2381.jpg\"/> </a> </li> <li> <a href=\"/order/index.html\"> <img onerror=\"lod(this)\" src=\"https://img-dollarkrc2.gohertz.cn/Upload/i",
+      "content_type": "image/webp",
+      "bytes": 18822,
+      "sha256": "a437433bc9b42bca1bc6b1c8a6dd066f4cfa85e4f9492bea45a311e9fec5791e",
+      "source_sha256": "b678f356ccf5443316e703f8c675d0458d1b3245666a26971097f71ad19b6e13",
+      "dhash": "6fcdc6543062e361",
+      "width": 635,
+      "height": 232,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollarcarrental.co.kr"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-003.webp",
+      "source_url": "https://img-doollarkr2.gohertz.cn/Upload/image/20200218/20200218103234_8925.jpg",
+      "source_tag": "html-data, img:image",
+      "context": "ror=\"lod(this)\" src=\"https://img-dollarkrc2.gohertz.cn/Upload/image/20200416/20200416052059_9166.jpg\"/> </a> </li> <li> <a href=\"/member/orders.html\"> <img onerror=\"lod(this)\" src=\"https://img-doollarkr2.gohertz.cn/Upload/image/20200218/20200218103234_8925.jpg\"/> </a> </li> <li> <a href=\"/insurance/\"> <img onerror=\"lod(this)\" src=\"https://img-doollarkr2.gohertz.cn/Upload/image/2",
+      "content_type": "image/webp",
+      "bytes": 18076,
+      "sha256": "722ea6c3fef8a71ea7850c63e505333af4dd3ae70cd77891635ea19959233fab",
+      "source_sha256": "9875b80bef5ced50e01906330ccbc59db000ff3bf98abdc64e9af6d31fdf39da",
+      "dhash": "7e1e1e9e2e36b6f6",
+      "width": 633,
+      "height": 232,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollarcarrental.co.kr"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-004.webp",
+      "source_url": "https://www.dollar.com/~/media/Dollar/Images/Car_Rental_Information/0518-dollar-insurance-header.ashx",
+      "source_tag": "img:image",
+      "context": "img center div td tr table ContentArea",
+      "content_type": "image/webp",
+      "bytes": 29256,
+      "sha256": "29ce9d537cbb31847b447b1a56be84f9e15a56afeea4675903278b15608b724d",
+      "source_sha256": "74cc89d7bbc16c2759d7eb00c206aec3adb53cf715a696285551e81b6ffc3b1d",
+      "dhash": "30644d6c6861696b",
+      "width": 760,
+      "height": 338,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/rental_car_insurance.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-005.webp",
+      "source_url": "https://www.dollar.com/~/media/9C997F89EF22450AB13CF584209BC86E.ashx",
+      "source_tag": "img:image",
+      "context": "img Japan a FontFooterLink2 div FontNormal FontColorReverse RowSpacerTiny div FontNormal FontColorReverse RowSpacerTiny div PageFooterControl_DomesticInternationalLinkPanel div RowSpacerMedium",
+      "content_type": "image/webp",
+      "bytes": 6344,
+      "sha256": "a5ed647fc5e50ce65f215c11e0f41f90724979103b6aeedaca3e76776f9553f9",
+      "source_sha256": "b1398a3c0cc45ddf6996b33e14d2264e9c2b580c708cc80fb1abef8ee231120b",
+      "dhash": "44b271696970b244",
+      "width": 1152,
+      "height": 864,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/airport_car_rental.aspx",
+        "https://www.dollar.com/one_way_car_rental.aspx",
+        "https://www.dollar.com/rental_car_insurance.aspx",
+        "https://www.dollar.com/rental_car_online.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-006.webp",
+      "source_url": "https://www.dollar.com/~/media/Dollar/Images/Miscellaneous/0518-dollar-insurance-FAQs.ashx",
+      "source_tag": "img:image",
+      "context": "img div td tr table ContentArea div",
+      "content_type": "image/webp",
+      "bytes": 30696,
+      "sha256": "8955569389634479dd0f72382726fe87cb8ce9b88cf4e1e9e1a2b58ab9964517",
+      "source_sha256": "42043312cdf6ebde8edbc47837340ba915cf323f3e9e559de14ca19e06c9b4dd",
+      "dhash": "8f8fdaeee2ce1b35",
+      "width": 600,
+      "height": 225,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/rental_car_insurance.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-007.webp",
+      "source_url": "https://www.dollar.com/~/media/51DF2F425B2545299BDAD58D4394F51B.ashx",
+      "source_tag": "img:image",
+      "context": "img South Korea a FontFooterLink2 div FontNormal FontColorReverse RowSpacerTiny div FontNormal FontColorReverse RowSpacerTiny div PageFooterControl_DomesticInternationalLinkPanel div RowSpacerMedium",
+      "content_type": "image/webp",
+      "bytes": 22466,
+      "sha256": "45e4cc94679af6eabb8fb1c09782e56006b8180f12ade0117932df2bbd37193a",
+      "source_sha256": "643ee883fff65af0b5d3982ec8c86a3418ae58d4281a1459ae78c1d82802ec00",
+      "dhash": "ccd49278f0b2d4cc",
+      "width": 1152,
+      "height": 864,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollar.com/airport_car_rental.aspx",
+        "https://www.dollar.com/one_way_car_rental.aspx",
+        "https://www.dollar.com/rental_car_insurance.aspx",
+        "https://www.dollar.com/rental_car_online.aspx"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-008.webp",
+      "source_url": "https://img-dollarkr.gohertz.cn/images/20200604123456.png",
+      "source_tag": "html-data, img:image",
+      "context": " style=\"\r\n          position: absolute;\r\n          top: 50%;\r\n          left: 50%;\r\n          transform: translate(-50%, -50%);\r\n          height: 90%;\r\n        \">\n<img alt=\"\" src=\"https://img-dollarkr.gohertz.cn/images/20200604123456.png\" style=\"height: 100%\"/>\n<span onclick='$(\"#indexYQ_pop\").hide()' style=\"position: absolute; top: -25px; right: -25px; cu",
+      "content_type": "image/webp",
+      "bytes": 42298,
+      "sha256": "f9248affff3c8b2d065c9f8fae61cec708682397eebe21baa86eb6e01a1ab0fd",
+      "source_sha256": "6a0335f82213f8bb733e0deb23b8d01607e76e4279830a001eee194a736aa560",
+      "dhash": "81d0a34dc2e0aaaa",
+      "width": 605,
+      "height": 831,
+      "variant": "shared",
+      "source_pages": [
+        "https://www.dollarcarrental.co.kr"
+      ]
+    },
+    {
+      "type": "reference",
+      "path": "assets/렌터카_글로벌/dollar/reference-009.webp",
+      "source_url": "https://img-dollarkr.gohertz.cn/images/member_bj.jpg",
+      "source_tag": "external-css",
+      "context": "px solid #f41630;padding-left:10px;height:64px;line-height:64px;background:url(/images/jiantou01.png) no-repeat right 0 center;padding-right:20px}.pdl_100{padding-left:100px}.part-2 .summarizeContent{position:relative;width:1290px;height:771px;background:#fff url(/images/member_bj.jpg) no-repeat;background-size:100%;color:#fff}.part-2 .summarizeContent .title h1{padding-top:85px;font-size:48px;fon",
+      "content_type": "image/webp",
+      "bytes": 89262,
+      "sha256": "734a59bffb049ba2a695a361781a9e02e56c0f7460f46e8d51d1364abc2becd4",
+      "source_sha256": "198e784c722a5ccae162ee88f753a2cb2bd3b506a1c611c0cf348fbd3b4142dd",
+      "dhash": "c78d3f76c420a0ce",
+      "width": 1290,
+      "height": 771,
+      "variant": "desktop",
+      "source_pages": [
+        "https://www.dollarcarrental.co.kr"
+      ]
     }
   ]
 }

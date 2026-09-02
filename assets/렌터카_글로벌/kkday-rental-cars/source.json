@@ -4,8 +4,19 @@
   "requested_url": "https://www.kkday.com/",
   "page_url": "https://www.kkday.com/",
   "page_title": "잠시만 기다리십시오…",
-  "collection_status": "page-error",
-  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.kkday.com/",
+  "collection_status": "partial",
+  "collection_error": "desktop:https://www.kkday.com/:HTTPError; mobile:https://www.kkday.com/:HTTPError",
+  "crawl_stats": {
+    "logical_pages": 1,
+    "desktop_pages": 0,
+    "mobile_pages": 0,
+    "stylesheets": 0,
+    "scripts": 0,
+    "candidates": 0,
+    "attempted_assets": 0,
+    "errors": 2,
+    "collected_at": "2026-09-03T08:35:37.290937+09:00"
+  },
   "assets": [
     {
       "type": "favicon",
