@@ -22,18 +22,32 @@
 
 ## 웹에서 할 수 있는 일
 
-- 회사명과 페이지 키워드 검색
-- 업종별 필터
-- 배너, 로고, 소셜, 기타 참고, 파비콘 유형별 필터
-- 배너와 로고 수집 여부별 필터
-- 장기렌트·리스 등 업종별 분류
-- 이미지 수, 회사명, 업종 기준 정렬
-- 회사별 전체 이미지 모달 보기
-- PC, 모바일, 공통 구분과 해상도, 파일 형식, 용량 확인
-- 이미지 파일 저장과 원본 출처 확인
-- 이미지별 하트와 찜한 이미지만 모아보기
-- 동기화 코드로 다른 컴퓨터에서도 같은 찜 목록 사용
-- 라이트 모드와 다크 모드 전환
+**보기**
+- 이미지 벽: 모든 이미지를 한 화면에 펼쳐 보는 기본 보기, 썸네일 크기 S·M·L·XL
+- 회사별: 회사 카드와 대표 색상, 회사별 전체 이미지 모달
+- 보관함: 찜한 이미지와 직접 만든 보드
+
+**필터**
+- 업종 칩: 장기렌트·리스, 렌터카 국내·글로벌, 자동차, 금융, 게임·엔터 등. 이어서 누르면 여러 업종을 함께 봄
+- 유형 탭: 레이아웃, 배너, 로고, 소셜 공유, 사진·콘텐츠, 그래픽·아이콘, 앱 아이콘, 파비콘
+- 상세 필터: 기기(PC·모바일·공통), 비율, 최소 가로 해상도, 톤(밝음·어두움·선명·무채색·투명 배경), 색상, 파일 형식, 수집 상태, 지난 버전 포함
+- 검색: 회사명, 초성(ㄹㄷ), 영문 slug(hyundai)
+- 정렬: 추천, 최근 캠페인(원본 주소의 날짜), 해상도, 회사명, 무작위
+- 필터 상태가 주소에 저장되어 새로고침하거나 링크를 공유해도 같은 화면이 열림
+
+**크게 보기**
+- ←/→ 이동, 체크·흰색·검정 배경, 원본 크기 보기
+- 대표 색상 팔레트와 HEX 복사, 같은 색으로 이미지 찾기
+- 같은 회사 이미지, 비슷한 이미지(지각 해시·색감), 변천사(지난 버전)
+- 이미지를 클립보드에 복사해 Figma에 바로 붙여넣기, 파일 저장, 출처 정보 복사
+
+**모으기와 내보내기**
+- 하트(찜)와 여러 개의 보드
+- 여러 장 선택(Shift+클릭으로 범위 선택) 후 찜, 보드 추가, 나란히 비교(최대 6개), ZIP 저장, 출처 복사
+- ZIP에는 `출처.csv`가 함께 들어감
+- 동기화 코드로 다른 컴퓨터에서도 같은 찜 목록과 보드 사용
+
+단축키는 화면 오른쪽 위 `?` 버튼에서 확인할 수 있습니다.
 
 ## 파일 구조
 
@@ -46,13 +60,27 @@ assets/업종/회사-slug/
   reference-001.*
   source.json
 
+layouts/업종/회사-slug/
+  2026-09-15-pc.webp        전체 페이지 캡처 (날짜별로 쌓임)
+  2026-09-15-mobile.webp
+
+history/업종/회사-slug/
+  2026-10-01/banner-1.webp  재수집 때 교체된 배너·로고·소셜 이미지
+  history.json
+
 index.html
 app.css
 app.js
-manifest.json
+manifest.json               회사와 이미지 목록
+layouts.json                레이아웃 캡처 목록
+history.json                지난 버전 목록
+analysis.json               이미지별 대표 색상, 밝기, 채도, 투명 배경, 그래픽 여부
 manifest.csv
 reference_collector.py
 deep_reference_collector.py
+capture_layouts.mjs
+analyze_assets.py
+history_archive.py
 priority_companies.json
 ```
 
@@ -87,6 +115,27 @@ python deep_reference_collector.py --priority --workers 4
 ```powershell
 python deep_reference_collector.py --company 롯데렌터카
 python deep_reference_collector.py --category 렌터카_국내 --workers 4
+```
+
+두 수집기는 다시 수집할 때 더 이상 쓰지 않는 배너, 로고, 소셜 이미지를 지우지 않고 `history/`로 옮깁니다. 웹에서 `지난 버전 포함`을 켜거나 크게 보기의 `변천사`에서 확인할 수 있습니다.
+
+## 레이아웃 캡처
+
+설치된 Chrome 또는 Edge로 공식 사이트의 PC(1440px)와 모바일(390px) 전체 화면을 캡처합니다. 추가 패키지는 필요 없고 Node.js 22 이상만 있으면 됩니다. 실행한 날짜로 파일이 쌓이므로 주기적으로 실행하면 화면 변천사가 남습니다.
+
+```powershell
+node capture_layouts.mjs --workers 4
+node capture_layouts.mjs --category 장기렌트_리스 --devices pc
+node capture_layouts.mjs --company 롯데렌터카
+node capture_layouts.mjs --skip-existing
+```
+
+## 색상과 톤 분석
+
+수집이나 캡처를 한 뒤에 실행하면 새 이미지만 분석해 `analysis.json`에 더합니다. 색상, 톤 필터와 그래픽·아이콘 분류가 이 파일을 사용합니다.
+
+```powershell
+python analyze_assets.py
 ```
 
 ## 수집 기준

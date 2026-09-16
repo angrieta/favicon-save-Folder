@@ -4,135 +4,254 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
-  <meta name="theme-color" content="#f2f1ec">
+  <meta name="theme-color" content="#f4f3ef">
   <title>브랜드 이미지 레퍼런스</title>
-  <link rel="stylesheet" href="app.css?v=3">
+  <link rel="stylesheet" href="app.css?v=4">
 </head>
 <body>
   <a class="skip-link" href="#library">자료 목록으로 이동</a>
 
-  <header class="masthead">
-    <div class="shell">
-      <div class="masthead-top">
-        <div>
-          <h1>브랜드 이미지 레퍼런스</h1>
-          <p class="intro">회사 공식 사이트의 배너, 로고, 소셜 이미지와 디자인 참고 자료를 한곳에서 비교하세요.</p>
-        </div>
-        <button id="theme-toggle" class="quiet-button" type="button" aria-label="색상 테마 변경">다크 모드</button>
-      </div>
+  <header class="deck">
+    <div class="topbar shell">
+      <a class="brand" href="./" aria-label="브랜드 이미지 레퍼런스 처음 화면">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <span class="brand-name">브랜드 레퍼런스</span>
+      </a>
 
-      <dl id="summary" class="summary" aria-label="수집 현황">
-        <div><dt>회사</dt><dd id="summary-brands">-</dd></div>
-        <div><dt>이미지</dt><dd id="summary-assets">-</dd></div>
-        <div><dt>배너</dt><dd id="summary-banners">-</dd></div>
-        <div><dt>로고</dt><dd id="summary-logos">-</dd></div>
-      </dl>
+      <label class="search-field">
+        <span class="visually-hidden">회사명 또는 키워드 검색</span>
+        <svg aria-hidden="true" viewBox="0 0 20 20"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m13 13 4 4"/></svg>
+        <input id="search" type="search" placeholder="회사명, 초성, 영문 검색 (예: ㄹㄷ, hyundai)" autocomplete="off">
+        <kbd aria-hidden="true">/</kbd>
+      </label>
+
+      <nav class="view-switch" aria-label="보기 방식">
+        <button type="button" data-view="wall" aria-pressed="true">이미지 벽</button>
+        <button type="button" data-view="brands" aria-pressed="false">회사별</button>
+        <button type="button" data-view="saved" aria-pressed="false">보관함 <strong id="saved-count">0</strong></button>
+      </nav>
+
+      <div class="topbar-tools">
+        <button id="help-open" class="icon-button" type="button" aria-label="단축키 안내">?</button>
+        <button id="theme-toggle" class="icon-button" type="button" aria-label="다크 모드로 전환">◐</button>
+      </div>
+    </div>
+
+    <div class="chip-rows shell">
+      <div class="chip-row" role="group" aria-labelledby="category-label">
+        <span id="category-label" class="row-label">업종</span>
+        <div id="category-chips" class="chips"></div>
+      </div>
+      <div class="chip-row" role="group" aria-labelledby="kind-label">
+        <span id="kind-label" class="row-label">유형</span>
+        <div id="kind-tabs" class="chips kind-tabs"></div>
+      </div>
     </div>
   </header>
 
-  <div class="control-deck">
-    <div class="shell">
-      <div class="primary-controls">
-        <label class="search-field">
-          <span>회사명 또는 키워드 검색</span>
-          <input id="search" type="search" placeholder="예: 현대자동차, 여행, 커머스" autocomplete="off">
-        </label>
+  <div class="workspace shell">
+    <aside id="filter-panel" class="filter-panel" aria-label="상세 필터">
+      <div class="panel-head">
+        <h2>상세 필터</h2>
+        <button id="filter-close" class="icon-button panel-close" type="button" aria-label="필터 닫기">✕</button>
+      </div>
+      <dl id="summary" class="summary" aria-label="수집 현황"></dl>
+      <div id="facets"></div>
+    </aside>
 
-        <label>
-          <span>업종</span>
-          <select id="category">
-            <option value="all">전체 업종</option>
-          </select>
-        </label>
-
-        <label>
-          <span>수집 상태</span>
-          <select id="coverage">
-            <option value="all">전체 상태</option>
-            <option value="complete">배너와 로고 보유</option>
-            <option value="missing-banner">배너 없음</option>
-            <option value="missing-logo">로고 없음</option>
-          </select>
-        </label>
-
-        <label>
-          <span>정렬</span>
-          <select id="sort">
-            <option value="assets">이미지 많은 순</option>
-            <option value="name">회사명 순</option>
-            <option value="category">업종 순</option>
-          </select>
-        </label>
+    <main id="library" class="library" tabindex="-1">
+      <div id="saved-bar" class="saved-bar" hidden>
+        <div id="board-tabs" class="board-tabs" role="tablist" aria-label="보관함 보드"></div>
+        <div class="saved-actions">
+          <button id="board-rename" class="text-button" type="button">이름 변경</button>
+          <button id="board-delete" class="text-button danger" type="button">보드 삭제</button>
+          <button id="board-sources" class="text-button" type="button">출처 목록 복사</button>
+          <button id="board-zip" class="quiet-button" type="button">ZIP으로 저장</button>
+          <button id="sync-settings" class="text-button" type="button">기기 간 동기화</button>
+          <span id="sync-status" class="sync-status" aria-live="polite">이 기기에 저장 중</span>
+        </div>
       </div>
 
-      <div class="type-filter" aria-labelledby="type-filter-label">
-        <span id="type-filter-label" class="filter-label">이미지 유형</span>
-        <div id="type-buttons" class="type-buttons" role="group" aria-label="이미지 유형 선택"></div>
+      <div class="result-bar">
+        <div class="result-main">
+          <button id="filter-open" class="quiet-button filter-open" type="button">필터 <strong id="filter-badge" hidden></strong></button>
+          <p id="result-count" aria-live="polite">자료를 불러오는 중입니다.</p>
+        </div>
+        <div class="result-tools">
+          <label class="sort-field">
+            <span class="visually-hidden">정렬</span>
+            <select id="sort">
+              <option value="recommended">추천순</option>
+              <option value="recent">최근 캠페인순</option>
+              <option value="resolution">해상도 높은 순</option>
+              <option value="name">회사명순</option>
+              <option value="random">무작위</option>
+            </select>
+          </label>
+          <button id="shuffle" class="quiet-button" type="button" title="무작위로 다시 섞기 (R)">섞기</button>
+          <div id="density" class="segmented" role="group" aria-label="썸네일 크기">
+            <button type="button" data-density="s" aria-label="작게">S</button>
+            <button type="button" data-density="m" aria-label="보통">M</button>
+            <button type="button" data-density="l" aria-label="크게">L</button>
+            <button type="button" data-density="xl" aria-label="아주 크게">XL</button>
+          </div>
+        </div>
+      </div>
+      <div id="active-filters" class="active-filters" hidden></div>
+
+      <div id="loading-state" class="state-panel" role="status">
+        <strong>이미지 목록을 정리하고 있습니다.</strong>
+        <span>잠시만 기다려 주세요.</span>
+      </div>
+      <div id="error-state" class="state-panel state-error" hidden>
+        <strong>자료를 불러오지 못했습니다.</strong>
+        <span>페이지를 새로고침하거나 로컬 웹 서버에서 열어 주세요.</span>
+      </div>
+      <div id="empty-state" class="state-panel" hidden>
+        <strong id="empty-title">선택한 조건에 맞는 이미지가 없습니다.</strong>
+        <span id="empty-description">필터를 줄이거나 검색어를 바꿔 보세요.</span>
       </div>
 
-      <div class="favorite-toolbar" aria-label="즐겨찾기 도구">
-        <button id="favorites-view" class="favorite-view-button" type="button" aria-pressed="false">
-          <span aria-hidden="true">♡</span> 찜한 이미지 <strong id="favorite-count">0</strong>
-        </button>
-        <button id="sync-settings" class="sync-button" type="button">기기 간 동기화 설정</button>
-        <span id="sync-status" class="sync-status" aria-live="polite">이 기기에 저장 중</span>
-      </div>
-    </div>
+      <section id="wall" class="wall" aria-label="이미지 목록"></section>
+      <section id="brand-grid" class="brand-grid" aria-label="회사별 이미지 자료" hidden></section>
+      <div id="sentinel" class="sentinel" aria-hidden="true"></div>
+    </main>
   </div>
 
-  <main id="library" class="shell library" tabindex="-1">
-    <div class="result-bar">
-      <p id="result-count" aria-live="polite">자료를 불러오는 중입니다.</p>
-      <button id="reset-filters" class="text-button" type="button" hidden>필터 초기화</button>
-    </div>
+  <div id="selection-bar" class="selection-bar" hidden>
+    <strong id="selection-count">0개 선택</strong>
+    <button id="sel-heart" type="button">♥ 찜</button>
+    <button id="sel-board" type="button">보드에 추가</button>
+    <button id="sel-compare" type="button">나란히 비교</button>
+    <button id="sel-zip" type="button">ZIP 저장</button>
+    <button id="sel-sources" type="button">출처 복사</button>
+    <button id="sel-all" type="button">화면 전체 선택</button>
+    <button id="sel-clear" type="button" class="muted">선택 해제</button>
+  </div>
 
-    <div id="loading-state" class="state-panel" role="status">
-      <strong>이미지 목록을 정리하고 있습니다.</strong>
-      <span>잠시만 기다려 주세요.</span>
-    </div>
-    <div id="error-state" class="state-panel state-error" hidden>
-      <strong>자료를 불러오지 못했습니다.</strong>
-      <span>페이지를 새로고침하거나 로컬 웹 서버에서 열어 주세요.</span>
-    </div>
-    <div id="empty-state" class="state-panel" hidden>
-      <strong id="empty-title">선택한 조건에 맞는 회사가 없습니다.</strong>
-      <span id="empty-description">검색어나 필터를 바꿔 보세요.</span>
-    </div>
-    <section id="brand-grid" class="brand-grid" aria-label="회사별 이미지 자료"></section>
-  </main>
-
-  <dialog id="asset-dialog" class="asset-dialog">
-    <div class="dialog-shell">
-      <header class="dialog-header">
-        <div>
-          <p id="dialog-category" class="dialog-category"></p>
-          <h2 id="dialog-title"></h2>
-          <p id="dialog-description" class="dialog-description"></p>
+  <dialog id="viewer" class="viewer" aria-labelledby="viewer-title">
+    <div class="viewer-shell">
+      <div class="viewer-stage">
+        <div class="viewer-toolbar">
+          <button id="viewer-prev" class="icon-button" type="button" aria-label="이전 이미지 (←)">←</button>
+          <span id="viewer-position" class="viewer-position"></span>
+          <button id="viewer-next" class="icon-button" type="button" aria-label="다음 이미지 (→)">→</button>
+          <div id="viewer-bg" class="segmented" role="group" aria-label="미리보기 배경 (T)">
+            <button type="button" data-bg="checker">체크</button>
+            <button type="button" data-bg="light">흰색</button>
+            <button type="button" data-bg="dark">검정</button>
+          </div>
+          <button id="viewer-zoom" class="quiet-button" type="button" aria-pressed="false">원본 크기 (Z)</button>
+          <button id="viewer-close" class="icon-button viewer-close" type="button" aria-label="닫기 (Esc)">✕</button>
         </div>
-        <button id="dialog-close" class="quiet-button" type="button">닫기</button>
-      </header>
-      <div id="dialog-content" class="dialog-content"></div>
+        <div id="viewer-canvas" class="viewer-canvas" data-bg="checker"></div>
+      </div>
+      <aside class="viewer-info">
+        <p id="viewer-category" class="eyebrow"></p>
+        <h2 id="viewer-title"></h2>
+        <p id="viewer-kind" class="viewer-kind"></p>
+        <div id="viewer-actions" class="viewer-actions"></div>
+        <dl id="viewer-facts" class="facts"></dl>
+        <div id="viewer-palette" class="palette-block"></div>
+        <div id="viewer-links" class="viewer-links"></div>
+        <div id="viewer-related"></div>
+      </aside>
     </div>
   </dialog>
 
-  <dialog id="sync-dialog" class="sync-dialog">
-    <div class="sync-dialog-shell">
+  <dialog id="brand-dialog" class="brand-dialog" aria-labelledby="brand-title">
+    <div class="dialog-shell">
       <header class="dialog-header">
         <div>
-          <p class="dialog-category">찜한 이미지</p>
-          <h2>기기 간 동기화</h2>
-          <p class="dialog-description">동기화 코드를 한 번 연결하면 다른 컴퓨터에서도 같은 하트 목록을 불러옵니다.</p>
+          <p id="brand-category" class="eyebrow"></p>
+          <h2 id="brand-title"></h2>
+          <p id="brand-description" class="dialog-description"></p>
+          <div id="brand-actions" class="brand-actions"></div>
         </div>
-        <button id="sync-close" class="quiet-button" type="button">닫기</button>
+        <button id="brand-close" class="icon-button" type="button" aria-label="닫기">✕</button>
       </header>
-      <div class="sync-dialog-content">
+      <div id="brand-content" class="dialog-content"></div>
+    </div>
+  </dialog>
+
+  <dialog id="compare-dialog" class="compare-dialog" aria-labelledby="compare-title">
+    <div class="compare-shell">
+      <header class="dialog-header compact">
+        <div>
+          <h2 id="compare-title">나란히 비교</h2>
+          <label class="inline-check"><input id="compare-sync" type="checkbox" checked> 스크롤 함께 움직이기</label>
+        </div>
+        <button id="compare-close" class="icon-button" type="button" aria-label="닫기">✕</button>
+      </header>
+      <div id="compare-content" class="compare-content"></div>
+    </div>
+  </dialog>
+
+  <dialog id="board-dialog" class="small-dialog" aria-labelledby="board-dialog-title">
+    <form method="dialog" class="small-dialog-shell">
+      <header class="dialog-header compact">
+        <div>
+          <h2 id="board-dialog-title">보드에 추가</h2>
+          <p id="board-dialog-description" class="dialog-description"></p>
+        </div>
+        <button class="icon-button" value="close" aria-label="닫기">✕</button>
+      </header>
+      <div class="small-dialog-content">
+        <div id="board-options" class="board-options"></div>
+        <div class="new-board">
+          <label for="new-board-name">새 보드</label>
+          <div>
+            <input id="new-board-name" type="text" maxlength="40" placeholder="예: 봄 프로모션 무드" autocomplete="off">
+            <button id="new-board-create" class="primary-button" type="button">만들고 추가</button>
+          </div>
+        </div>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="help-dialog" class="small-dialog" aria-labelledby="help-title">
+    <div class="small-dialog-shell">
+      <header class="dialog-header compact">
+        <h2 id="help-title">단축키</h2>
+        <button id="help-close" class="icon-button" type="button" aria-label="닫기">✕</button>
+      </header>
+      <div class="small-dialog-content">
+        <dl class="shortcuts">
+          <div><dt><kbd>/</kbd></dt><dd>검색창으로 이동</dd></div>
+          <div><dt><kbd>G</kbd></dt><dd>이미지 벽과 회사별 보기 전환</dd></div>
+          <div><dt><kbd>0</kbd>~<kbd>8</kbd></dt><dd>유형 탭 바꾸기</dd></div>
+          <div><dt><kbd>R</kbd></dt><dd>무작위로 섞기</dd></div>
+          <div><dt><kbd>←</kbd> <kbd>→</kbd></dt><dd>크게 보기에서 이전·다음 이미지</dd></div>
+          <div><dt><kbd>F</kbd></dt><dd>찜하기</dd></div>
+          <div><dt><kbd>B</kbd></dt><dd>보드에 추가</dd></div>
+          <div><dt><kbd>C</kbd></dt><dd>이미지를 클립보드에 복사 (Figma에 바로 붙여넣기)</dd></div>
+          <div><dt><kbd>D</kbd></dt><dd>파일 저장</dd></div>
+          <div><dt><kbd>S</kbd></dt><dd>선택에 담기 (비교, ZIP 저장용)</dd></div>
+          <div><dt><kbd>T</kbd></dt><dd>미리보기 배경 바꾸기</dd></div>
+          <div><dt><kbd>Z</kbd></dt><dd>원본 크기로 보기</dd></div>
+          <div><dt><kbd>Esc</kbd></dt><dd>닫기, 선택 해제</dd></div>
+        </dl>
+        <p class="sync-note">필터와 보기 상태는 주소에 저장됩니다. 주소를 복사해 공유하면 같은 화면이 열립니다.</p>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog id="sync-dialog" class="small-dialog" aria-labelledby="sync-title">
+    <div class="small-dialog-shell">
+      <header class="dialog-header compact">
+        <div>
+          <p class="eyebrow">보관함</p>
+          <h2 id="sync-title">기기 간 동기화</h2>
+          <p class="dialog-description">동기화 코드를 한 번 연결하면 다른 컴퓨터에서도 같은 찜 목록과 보드를 불러옵니다.</p>
+        </div>
+        <button id="sync-close" class="icon-button" type="button" aria-label="닫기">✕</button>
+      </header>
+      <div class="small-dialog-content">
         <section id="sync-disconnected">
           <h3>새 동기화 시작</h3>
-          <p>현재 찜 목록을 온라인 보관함에 저장하고 이 컴퓨터를 연결합니다.</p>
+          <p>현재 찜 목록과 보드를 온라인 보관함에 저장하고 이 컴퓨터를 연결합니다.</p>
           <button id="sync-create" class="primary-button" type="button">동기화 코드 만들기</button>
-
           <div class="sync-divider"><span>또는</span></div>
-
           <form id="sync-connect-form" class="sync-connect-form">
             <label for="sync-code-input">다른 컴퓨터에서 만든 동기화 코드</label>
             <div>
@@ -141,7 +260,6 @@
             </div>
           </form>
         </section>
-
         <section id="sync-connected" hidden>
           <h3>동기화 연결됨</h3>
           <p>아래 코드를 다른 컴퓨터의 같은 화면에 입력하세요.</p>
@@ -154,13 +272,14 @@
             <button id="sync-disconnect" class="quiet-button" type="button">이 기기 연결 해제</button>
           </div>
         </section>
-
         <p id="sync-message" class="sync-message" aria-live="polite"></p>
         <p class="sync-note">동기화 코드를 아는 사람은 목록을 열 수 있으니 공유하지 마세요. 무료 온라인 보관함은 30일 동안 사용하지 않으면 만료될 수 있습니다.</p>
       </div>
     </div>
   </dialog>
 
-  <script src="app.js?v=3" defer></script>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="app.js?v=4" defer></script>
 </body>
 </html>

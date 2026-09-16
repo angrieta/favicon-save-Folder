@@ -20,6 +20,8 @@ import requests
 from bs4 import BeautifulSoup
 from PIL import Image, UnidentifiedImageError
 
+from history_archive import archive_replaced, rebuild_history_index, stage_previous
+
 
 ROOT = Path(__file__).resolve().parent
 ASSETS = ROOT / "assets"
@@ -402,6 +404,7 @@ def collect_company(row: dict[str, Any]) -> dict[str, Any]:
     updated = dict(row)
     destination = ASSETS / str(row["category"]) / str(row["slug"])
     destination.mkdir(parents=True, exist_ok=True)
+    staged = stage_previous(row)
     session = build_session()
     referer = str(row.get("page_url") or row.get("requested_url") or "")
     assets: list[dict[str, Any]] = []
@@ -545,6 +548,7 @@ def collect_company(row: dict[str, Any]) -> dict[str, Any]:
     updated["collection_status"] = "complete" if updated["logo_count"] and updated["banner_count"] else "partial"
     updated["collection_error"] = "; ".join(errors[-6:])
     cleanup_generated_assets(destination, assets)
+    archive_replaced(row, staged, assets)
 
     source_path = destination / "source.json"
     source_metadata = {
@@ -562,6 +566,7 @@ def collect_company(row: dict[str, Any]) -> dict[str, Any]:
 
 def write_outputs(rows: list[dict[str, Any]]) -> None:
     MANIFEST_JSON.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    rebuild_history_index()
 
     for row in rows:
         destination = ASSETS / str(row["category"]) / str(row["slug"])

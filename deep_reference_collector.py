@@ -23,6 +23,8 @@ import urllib3
 from bs4 import BeautifulSoup
 from PIL import Image, UnidentifiedImageError
 
+from history_archive import archive_replaced, rebuild_history_index, stage_previous
+
 
 ROOT = Path(__file__).resolve().parent
 ASSETS = ROOT / "assets"
@@ -359,6 +361,7 @@ def crawl_company(row: dict[str, Any], max_pages: int, max_assets: int, max_atte
     start_url = str(row.get("requested_url") or row.get("page_url") or "")
     destination = ASSETS / str(row["category"]) / str(row["slug"])
     destination.mkdir(parents=True, exist_ok=True)
+    staged = stage_previous(row)
     desktop = make_session(DESKTOP_UA)
     mobile = make_session(MOBILE_UA)
     pool: dict[str, Candidate] = {}
@@ -533,6 +536,7 @@ def crawl_company(row: dict[str, Any], max_pages: int, max_assets: int, max_atte
         for path in destination.glob(f"{kind}-*.*"):
             if path.relative_to(ROOT).as_posix() not in referenced:
                 path.unlink(missing_ok=True)
+    archive_replaced(row, staged, assets)
 
     updated["page_url"] = start_url
     updated["asset_page_url"] = start_url
@@ -717,6 +721,7 @@ def recover_sources(rows: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], i
 
 def write_outputs(rows: list[dict[str, Any]]) -> None:
     MANIFEST_JSON.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    rebuild_history_index()
     fields = [
         "category", "company", "slug", "requested_url", "page_url", "page_title", "page_status", "page_error",
         "collection_status", "collection_error", "asset_count", "logo_count", "banner_count", "social_count", "reference_count",
