@@ -29,9 +29,10 @@
 
 **필터**
 - 업종 칩: 장기렌트·리스, 렌터카 국내·글로벌, 자동차, 금융, 게임·엔터 등. 이어서 누르면 여러 업종을 함께 봄
-- 유형 탭: 레이아웃, 배너, 로고, 소셜 공유, 사진·콘텐츠, 그래픽·아이콘, 앱 아이콘, 파비콘
+- 유형 탭: 레이아웃, 배너, 로고, 소셜 공유, 메뉴·버튼 아이콘, 사진·콘텐츠, 그래픽·아이콘, 앱 아이콘, 파비콘
 - 상세 필터: 기기(PC·모바일·공통), 비율, 최소 가로 해상도, 톤(밝음·어두움·선명·무채색·투명 배경), 색상, 파일 형식, 수집 상태, 지난 버전 포함
-- 검색: 회사명, 초성(ㄹㄷ), 영문 slug(hyundai)
+- 아이콘 위치: 메뉴·버튼 아이콘을 고르면 헤더, 메뉴, 버튼, 링크, 푸터로 다시 나눠 볼 수 있음
+- 검색: 회사명, 초성(ㄹㄷ), 영문 slug(hyundai), 아이콘 용도(검색, 장바구니, 메뉴)
 - 정렬: 추천, 최근 캠페인(원본 주소의 날짜), 해상도, 회사명, 무작위
 - 필터 상태가 주소에 저장되어 새로고침하거나 링크를 공유해도 같은 화면이 열림
 
@@ -64,6 +65,9 @@ layouts/업종/회사-slug/
   2026-09-15-pc.webp        전체 페이지 캡처 (날짜별로 쌓임)
   2026-09-15-mobile.webp
 
+icons/업종/회사-slug/
+  icon-001.png              메뉴·버튼 아이콘 (3배 크기로 잘라낸 PNG)
+
 history/업종/회사-slug/
   2026-10-01/banner-1.webp  재수집 때 교체된 배너·로고·소셜 이미지
   history.json
@@ -74,11 +78,15 @@ app.js
 manifest.json               회사와 이미지 목록
 layouts.json                레이아웃 캡처 목록
 history.json                지난 버전 목록
+icons.json                  아이콘 목록과 용도, 위치, 배경색
 analysis.json               이미지별 대표 색상, 밝기, 채도, 투명 배경, 그래픽 여부
 manifest.csv
 reference_collector.py
 deep_reference_collector.py
 capture_layouts.mjs
+collect_icons.mjs
+clean_icons.py
+cdp.mjs
 analyze_assets.py
 history_archive.py
 priority_companies.json
@@ -128,6 +136,23 @@ node capture_layouts.mjs --workers 4
 node capture_layouts.mjs --category 장기렌트_리스 --devices pc
 node capture_layouts.mjs --company 롯데렌터카
 node capture_layouts.mjs --skip-existing
+```
+
+## 메뉴·버튼 아이콘 수집
+
+메뉴, 버튼, 링크에 쓰인 아이콘을 회사별로 모읍니다. 아이콘은 대부분 인라인 SVG, 스프라이트, 아이콘 폰트라서 주소만으로는 받을 수 없기 때문에, 화면을 띄운 뒤 아이콘 요소만 3배 크기로 잘라냅니다. 아이콘이 놓였던 배경색과 용도(aria-label, 주변 글자), 위치(헤더·메뉴·버튼·링크·푸터)도 함께 기록합니다.
+
+```powershell
+node collect_icons.mjs --workers 4
+node collect_icons.mjs --company 무신사
+node collect_icons.mjs --category 금융 --skip-existing
+```
+
+잘라낸 이미지에는 사진 조각이나 빈 칸이 섞이므로, 수집한 뒤에는 정리 단계를 실행합니다. 색 수가 많거나 거의 비어 있는 이미지를 지웁니다.
+
+```powershell
+python clean_icons.py --dry-run   # 무엇이 지워질지 먼저 확인
+python clean_icons.py
 ```
 
 ## 색상과 톤 분석

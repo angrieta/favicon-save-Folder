@@ -28,7 +28,7 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "analysis.json"
-SOURCES = ("manifest.json", "layouts.json", "history.json")
+SOURCES = ("manifest.json", "layouts.json", "history.json", "icons.json")
 
 HEX_RE = re.compile(r"#([0-9a-f]{6}|[0-9a-f]{3})\b", re.I)
 RGB_RE = re.compile(r"rgba?\(\s*(\d{1,3})[ ,]+(\d{1,3})[ ,]+(\d{1,3})", re.I)
@@ -154,6 +154,9 @@ def collect_jobs() -> dict[str, str]:
                     add(asset)
             elif "entries" in entry:
                 for asset in entry.get("entries", []):
+                    add(asset)
+            elif "icons" in entry:
+                for asset in entry.get("icons", []):
                     add(asset)
             else:
                 add(entry)

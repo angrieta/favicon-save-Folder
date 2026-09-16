@@ -6,6 +6,7 @@ const KINDS = [
   { id: "banner", label: "배너", hint: "메인 비주얼, 프로모션, 캠페인 영역" },
   { id: "logo", label: "로고", hint: "헤더, 푸터, 구조화 데이터의 로고" },
   { id: "social", label: "소셜 공유", hint: "링크 공유 시 보이는 대표 이미지(OG)" },
+  { id: "icon", label: "메뉴·버튼 아이콘", hint: "메뉴, 버튼, 링크에 쓰인 아이콘" },
   { id: "photo", label: "사진·콘텐츠", hint: "제품, 서비스, 콘텐츠 사진" },
   { id: "graphic", label: "그래픽·아이콘", hint: "일러스트, 아이콘, 단색 그래픽" },
   { id: "appicon", label: "앱 아이콘", hint: "홈 화면 추가용 큰 아이콘" },
@@ -13,7 +14,7 @@ const KINDS = [
 ];
 const KIND_LABELS = Object.fromEntries(KINDS.map((kind) => [kind.id, kind.label]));
 const KIND_ORDER = KINDS.slice(1).map((kind) => kind.id);
-const CONTAINED_KINDS = new Set(["logo", "favicon", "appicon", "graphic"]);
+const CONTAINED_KINDS = new Set(["logo", "favicon", "appicon", "graphic", "icon"]);
 
 const CATEGORY_ORDER = ["장기렌트_리스", "렌터카_국내", "렌터카_글로벌", "자동차", "금융", "게임_엔터", "테크_플랫폼", "유통_커머스", "식품_생활", "항공_여행", "산업_건설_통신"];
 
@@ -42,6 +43,13 @@ const TONE_OPTIONS = [
   { id: "transparent", label: "투명 배경", test: (a) => a.a === 1 },
 ];
 const FORMAT_OPTIONS = ["SVG", "PNG", "WEBP", "JPEG", "ICO", "기타"];
+const AREA_OPTIONS = [
+  { id: "header", label: "헤더" },
+  { id: "menu", label: "메뉴" },
+  { id: "button", label: "버튼" },
+  { id: "link", label: "링크" },
+  { id: "footer", label: "푸터" },
+];
 const COLOR_SWATCHES = [
   { hex: "#e0322d", label: "빨강" },
   { hex: "#f08a24", label: "주황" },
@@ -176,6 +184,7 @@ const DEFAULT_FILTERS = {
   minWidth: 0,
   tones: [],
   formats: [],
+  areas: [],
   color: "",
   coverage: "all",
   archived: false,
@@ -420,11 +429,15 @@ function makeItem(row, asset, extra = {}) {
     dateLabel: extra.dateLabel || "캠페인 날짜",
     archived: Boolean(extra.archived),
     truncated: Boolean(extra.truncated),
+    label: cleanText(extra.label || ""),
+    area: extra.area || "",
+    background: extra.background || "",
+    sourceType: extra.sourceType || "",
     analysis,
   };
 }
 
-function buildItems(manifest, layouts, history) {
+function buildItems(manifest, layouts, history, iconSets) {
   state.rows = manifest.map(normalizeRow);
   state.rowBySlug = new Map(state.rows.map((row) => [row.slug, row]));
   const items = [];
@@ -460,6 +473,24 @@ function buildItems(manifest, layouts, history) {
       truncated: entry.truncated,
       pageUrl: entry.page_url,
     }));
+  });
+
+  iconSets.forEach((company) => {
+    const row = state.rowBySlug.get(company.slug);
+    if (!row) return;
+    (company.icons || []).forEach((entry) => {
+      push(makeItem(row, { ...entry, variant: "desktop" }, {
+        type: "icon",
+        kind: "icon",
+        date: String(company.collected_at || "").slice(0, 10),
+        dateLabel: "수집 날짜",
+        pageUrl: company.page_url,
+        label: entry.label,
+        area: entry.area,
+        background: entry.background,
+        sourceType: entry.source_type,
+      }));
+    });
   });
 
   history.forEach((company) => {
@@ -507,7 +538,7 @@ async function fetchJson(url, optional = false) {
 
 /* ---------- URL state ---------- */
 
-const LIST_PARAMS = { cats: "cat", devices: "device", ratios: "ratio", tones: "tone", formats: "fmt" };
+const LIST_PARAMS = { cats: "cat", devices: "device", ratios: "ratio", tones: "tone", formats: "fmt", areas: "area" };
 
 function readUrl() {
   const params = new URLSearchParams(window.location.search);
@@ -565,6 +596,13 @@ function matchesQuery(row) {
   return /^[ㄱ-ㅎ]+$/.test(compact) && row.initials.includes(compact);
 }
 
+function matchesItem(item) {
+  if (matchesQuery(item.row)) return true;
+  if (state.brand && item.row.slug !== state.brand) return false;
+  const query = state.q.trim().toLocaleLowerCase("ko");
+  return Boolean(query && item.label && item.label.toLocaleLowerCase("ko").includes(query));
+}
+
 function itemPasses(item, skip = "") {
   if (!state.archived && item.archived && state.view !== "saved") return false;
   if (skip !== "cats" && state.cats.length && !state.cats.includes(item.row.category)) return false;
@@ -573,6 +611,7 @@ function itemPasses(item, skip = "") {
   if (skip !== "ratios" && state.ratios.length && !RATIO_OPTIONS.some((option) => state.ratios.includes(option.id) && option.test(item.ratio))) return false;
   if (skip !== "minWidth" && state.minWidth && item.width < state.minWidth) return false;
   if (skip !== "formats" && state.formats.length && !state.formats.includes(item.formatGroup)) return false;
+  if (skip !== "areas" && state.areas.length && !state.areas.includes(item.area)) return false;
   if (skip !== "tones" && state.tones.length) {
     if (!item.analysis || !TONE_OPTIONS.some((option) => state.tones.includes(option.id) && option.test(item.analysis))) return false;
   }
@@ -626,7 +665,7 @@ function sortItems(items) {
 
 function computeList() {
   state.colorLab = state.color ? rgbToLab(hexToRgb(state.color)) : null;
-  const items = baseItems().filter((item) => matchesQuery(item.row) && itemPasses(item) && (state.view !== "brands" || coveragePasses(item.row)));
+  const items = baseItems().filter((item) => matchesItem(item) && itemPasses(item) && (state.view !== "brands" || coveragePasses(item.row)));
   state.list = sortItems(items);
   if (state.view === "brands") {
     const rows = new Map();
@@ -634,7 +673,7 @@ function computeList() {
       if (!rows.has(item.row)) rows.set(item.row, []);
       rows.get(item.row).push(item);
     });
-    const hasItemFilter = state.kind !== "all" || state.devices.length || state.ratios.length || state.minWidth || state.formats.length || state.tones.length || state.color;
+    const hasItemFilter = state.kind !== "all" || state.devices.length || state.ratios.length || state.minWidth || state.formats.length || state.tones.length || state.areas.length || state.color;
     if (!hasItemFilter) {
       state.rows.filter((row) => !rows.has(row) && matchesQuery(row) && (!state.cats.length || state.cats.includes(row.category)) && coveragePasses(row)).forEach((row) => rows.set(row, []));
     }
@@ -649,13 +688,13 @@ function facetCount(skip, predicate) {
   let count = 0;
   const pool = baseItems();
   for (const item of pool) {
-    if (predicate(item) && matchesQuery(item.row) && itemPasses(item, skip)) count += 1;
+    if (predicate(item) && matchesItem(item) && itemPasses(item, skip)) count += 1;
   }
   return count;
 }
 
 function activeFilterCount() {
-  return state.devices.length + state.ratios.length + (state.minWidth ? 1 : 0) + state.tones.length + state.formats.length + (state.color ? 1 : 0) + (state.coverage !== "all" ? 1 : 0) + (state.archived ? 1 : 0);
+  return state.devices.length + state.ratios.length + (state.minWidth ? 1 : 0) + state.tones.length + state.formats.length + state.areas.length + (state.color ? 1 : 0) + (state.coverage !== "all" ? 1 : 0) + (state.archived ? 1 : 0);
 }
 
 /* ---------- chrome rendering ---------- */
@@ -780,6 +819,9 @@ function renderFacets() {
   colors.append(custom);
   fragment.append(facetSection("색상", colors, state.color ? `${state.color.toUpperCase()}와 가까운 색을 가진 이미지를 먼저 보여 줍니다.` : "대표 색상이 비슷한 이미지를 찾습니다."));
 
+  if (state.kind === "icon" || state.areas.length) {
+    fragment.append(facetSection("아이콘 위치", optionChips("areas", AREA_OPTIONS, (id) => (item) => item.area === id), "아이콘이 화면 어디에 쓰였는지로 고릅니다."));
+  }
   fragment.append(facetSection("파일 형식", optionChips("formats", FORMAT_OPTIONS, (id) => (item) => item.formatGroup === id)));
 
   if (state.view === "brands") {
@@ -830,6 +872,7 @@ function renderActiveFilters() {
   if (state.minWidth) add(`가로 ${state.minWidth}px+`, { minWidth: 0 });
   state.tones.forEach((id) => add(TONE_OPTIONS.find((o) => o.id === id)?.label || id, { tones: state.tones.filter((v) => v !== id) }));
   if (state.color) add(`색상 ${state.color.toUpperCase()}`, { color: "" });
+  state.areas.forEach((id) => add(AREA_OPTIONS.find((o) => o.id === id)?.label || id, { areas: state.areas.filter((v) => v !== id) }));
   state.formats.forEach((id) => add(id, { formats: state.formats.filter((v) => v !== id) }));
   if (state.coverage !== "all") add(COVERAGE_OPTIONS.find((o) => o.id === state.coverage).label, { coverage: "all" });
   if (state.archived) add("지난 버전 포함", { archived: false });
@@ -861,7 +904,7 @@ function renderChrome() {
 function displayAspect(item) {
   const inverse = item.height && item.width ? item.height / item.width : 0.75;
   if (item.kind === "layout") return Math.min(inverse, item.variant === "mobile" ? 1.7 : 1.1);
-  if (item.kind === "favicon" || item.kind === "appicon") return 1;
+  if (item.kind === "favicon" || item.kind === "appicon" || item.kind === "icon") return 1;
   if (item.kind === "logo") return Math.min(Math.max(inverse, 0.5), 1);
   return Math.min(Math.max(inverse, 0.28), 2);
 }
@@ -879,6 +922,11 @@ function createTile(item, index) {
   const dominant = item.analysis?.p?.[0]?.[0];
   if (dominant && !CONTAINED_KINDS.has(item.kind)) media.style.backgroundColor = dominant;
   if (CONTAINED_KINDS.has(item.kind)) media.classList.add("is-contained");
+  if (item.kind === "icon" && item.background) {
+    media.classList.remove("is-contained");
+    media.classList.add("is-icon");
+    media.style.backgroundColor = item.background;
+  }
   const image = make("img");
   image.src = item.path;
   image.alt = "";
@@ -897,7 +945,10 @@ function createTile(item, index) {
   heart.dataset.favoriteKey = item.key;
 
   const caption = make("div", "tile-caption");
-  caption.append(make("strong", "", item.row.company), make("span", "", `${KIND_LABELS[item.kind]}${item.width ? ` · ${item.width}×${item.height}` : ""}`));
+  const detail = item.kind === "icon" && item.label
+    ? item.label
+    : `${KIND_LABELS[item.kind]}${item.width ? ` · ${item.width}×${item.height}` : ""}`;
+  caption.append(make("strong", "", item.row.company), make("span", "", detail));
 
   tile.append(hit, check, heart, caption);
   return tile;
@@ -1322,9 +1373,16 @@ function renderViewer() {
 
   const image = make("img", item.kind === "layout" ? "is-layout" : "");
   image.src = item.path;
-  image.alt = `${item.row.company} ${KIND_LABELS[item.kind]}`;
+  image.alt = `${item.row.company} ${KIND_LABELS[item.kind]}${item.label ? ` ${item.label}` : ""}`;
   image.addEventListener("click", () => toggleZoom());
-  elements.viewerCanvas.replaceChildren(image);
+  if (item.kind === "icon" && item.background) {
+    const frame = make("div", "icon-frame");
+    frame.style.background = item.background;
+    frame.append(image);
+    elements.viewerCanvas.replaceChildren(frame);
+  } else {
+    elements.viewerCanvas.replaceChildren(image);
+  }
   elements.viewerCanvas.scrollTo(0, 0);
 
   elements.viewerCategory.textContent = categoryLabel(item.row.category);
@@ -1339,6 +1397,13 @@ function renderViewer() {
     ["용량", formatBytes(item.bytes)],
     ["기기", deviceLabel(item.variant)],
   ];
+  if (item.kind === "icon") {
+    if (item.label) facts.push(["쓰인 곳", item.label]);
+    const area = AREA_OPTIONS.find((option) => option.id === item.area);
+    if (area) facts.push(["위치", area.label]);
+    const sourceTypes = { svg: "인라인 SVG", img: "이미지 파일", background: "CSS 배경", font: "아이콘 폰트" };
+    if (sourceTypes[item.sourceType]) facts.push(["만든 방식", sourceTypes[item.sourceType]]);
+  }
   if (item.date) facts.push([item.dateLabel, item.date]);
   if (item.truncated) facts.push(["참고", "긴 페이지라 일부만 캡처"]);
   if (item.analysis) facts.push(["톤", toneLabel(item.analysis)]);
@@ -1536,18 +1601,22 @@ function openBrand(row) {
 
 function brandGroup(title, items) {
   const group = make("section", "asset-group");
+  if (items.every((item) => item.kind === "icon")) group.classList.add("icon-group");
   const heading = make("div", "asset-group-heading");
   heading.append(make("h3", "", title), make("span", "", `${items.length}개`));
   const grid = make("div", "asset-grid");
   items.forEach((item, index) => {
     const card = button(`asset-thumb kind-${item.kind}${CONTAINED_KINDS.has(item.kind) ? " is-contained" : ""}`, "", () => openViewer(items, index), { "aria-label": `${item.row.company} ${KIND_LABELS[item.kind]} ${index + 1} 크게 보기` });
     const media = make("span", "asset-thumb-media");
+    if (item.kind === "icon" && item.background) media.style.background = item.background;
     const image = make("img");
     image.src = item.path;
     image.alt = "";
     image.loading = "lazy";
     media.append(image);
-    const meta = make("span", "asset-thumb-meta", [item.width ? `${item.width}×${item.height}` : "", item.variant !== "shared" ? deviceLabel(item.variant) : "", item.format, item.date].filter(Boolean).join(" · "));
+    const meta = make("span", "asset-thumb-meta", item.kind === "icon" && item.label
+      ? item.label
+      : [item.width ? `${item.width}×${item.height}` : "", item.variant !== "shared" ? deviceLabel(item.variant) : "", item.format, item.date].filter(Boolean).join(" · "));
     card.append(media, meta);
     grid.append(card);
   });
@@ -2222,15 +2291,16 @@ function setupEvents() {
 
 async function loadLibrary() {
   try {
-    const [manifest, layouts, history, analysis] = await Promise.all([
+    const [manifest, layouts, history, icons, analysis] = await Promise.all([
       fetchJson("manifest.json"),
       fetchJson("layouts.json", true),
       fetchJson("history.json", true),
+      fetchJson("icons.json", true),
       fetchJson("analysis.json", true),
     ]);
     if (!Array.isArray(manifest)) throw new Error("Invalid manifest");
     state.analysis = analysis && typeof analysis === "object" ? analysis : {};
-    buildItems(manifest, Array.isArray(layouts) ? layouts : [], Array.isArray(history) ? history : []);
+    buildItems(manifest, Array.isArray(layouts) ? layouts : [], Array.isArray(history) ? history : [], Array.isArray(icons) ? icons : []);
     elements.loading.hidden = true;
     renderSummary();
     const itemKey = readUrl();

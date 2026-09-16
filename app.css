@@ -532,6 +532,8 @@ kbd {
 }
 .tile-media.is-contained img { padding: 14%; object-fit: contain; }
 .kind-favicon .tile-media.is-contained img, .kind-appicon .tile-media.is-contained img { padding: 26%; image-rendering: auto; }
+.tile-media.is-icon img { padding: 18%; object-fit: contain; }
+.kind-icon .tile-media { box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--ink) 12%, transparent); }
 .tile-media.is-broken::after { color: var(--muted); font-size: 12px; content: "이미지를 표시할 수 없음"; }
 .tile-media.is-broken img { display: none; }
 
@@ -801,6 +803,14 @@ dialog::backdrop { background: rgb(14 16 13 / 0.72); backdrop-filter: blur(6px);
 }
 .viewer-canvas[data-kind="logo"] img, .viewer-canvas[data-kind="favicon"] img, .viewer-canvas[data-kind="appicon"] img, .viewer-canvas[data-kind="graphic"] img { min-width: min(320px, 60%); box-shadow: none; }
 .viewer-canvas[data-kind="favicon"] img { image-rendering: pixelated; }
+.viewer-canvas[data-kind="icon"] img { min-width: 0; width: min(260px, 60%); box-shadow: none; }
+.icon-frame {
+  display: grid;
+  padding: clamp(28px, 6vw, 64px);
+  place-items: center;
+  border-radius: 18px;
+  box-shadow: inset 0 0 0 1px rgb(128 128 128 / 0.28), 0 10px 40px rgb(0 0 0 / 0.12);
+}
 .viewer-canvas[data-kind="layout"] { place-items: start center; }
 .viewer-canvas img.is-layout { max-height: none; }
 .viewer-canvas[data-kind="layout"] img.is-layout { width: min(100%, 1100px); }
@@ -917,6 +927,10 @@ dialog::backdrop { background: rgb(14 16 13 / 0.72); backdrop-filter: blur(6px);
 .asset-thumb.kind-layout .asset-thumb-media img { object-position: top; }
 .asset-thumb.is-contained .asset-thumb-media { background: var(--checker-a); }
 .asset-thumb.is-contained .asset-thumb-media img { padding: 16%; object-fit: contain; }
+.icon-group .asset-grid { grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 8px; }
+.icon-group .asset-thumb-media { aspect-ratio: 1; }
+.icon-group .asset-thumb-media img { padding: 22%; object-fit: contain; }
+.icon-group .asset-thumb-meta { padding: 6px 8px; font-size: 10px; }
 .asset-thumb-meta { overflow: hidden; padding: 8px 10px; color: var(--muted); font-size: 11px; text-overflow: ellipsis; white-space: nowrap; font-variant-numeric: tabular-nums; }
 
 /* compare */
