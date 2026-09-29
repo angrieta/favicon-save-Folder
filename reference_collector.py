@@ -565,7 +565,10 @@ def collect_company(row: dict[str, Any]) -> dict[str, Any]:
 
 
 def write_outputs(rows: list[dict[str, Any]]) -> None:
-    MANIFEST_JSON.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    # Replace the file in one step so a collector reading it never sees half of it.
+    temp = MANIFEST_JSON.with_suffix(".json.tmp")
+    temp.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    os.replace(temp, MANIFEST_JSON)
     rebuild_history_index()
 
     for row in rows:
@@ -613,6 +616,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Collect designer-reference images from official company homepages.")
     parser.add_argument("--limit", type=int, default=0, help="Process only the first N matching companies.")
     parser.add_argument("--company", action="append", default=[], help="Process a company name or slug. May be repeated.")
+    parser.add_argument("--slugs-file", default="", help="Process the slugs listed in this file, one per line.")
     parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS)
     parser.add_argument("--skip-complete", action="store_true", help="Skip rows that already contain a logo and banner.")
     return parser.parse_args()
@@ -625,6 +629,8 @@ def main() -> int:
         return 2
     rows: list[dict[str, Any]] = json.loads(MANIFEST_JSON.read_text(encoding="utf-8"))
     selectors = {value.casefold() for value in args.company}
+    if args.slugs_file:
+        selectors |= {line.strip().casefold() for line in Path(args.slugs_file).read_text(encoding="utf-8").splitlines() if line.strip()}
 
     selected_indices: list[int] = []
     for index, row in enumerate(rows):

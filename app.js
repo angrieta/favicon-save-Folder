@@ -2,11 +2,12 @@
 
 const KINDS = [
   { id: "all", label: "전체" },
-  { id: "layout", label: "레이아웃", hint: "PC·모바일 첫 화면부터 푸터까지 전체 화면" },
+  { id: "layout", label: "레이아웃", hint: "전체 페이지, 첫 화면, 헤더, 네비게이션, 섹션, 카드, 푸터, 플로팅, 팝업" },
+  { id: "button", label: "버튼", hint: "채움·라인 버튼을 스타일별로 하나씩" },
   { id: "banner", label: "배너", hint: "메인 비주얼, 프로모션, 캠페인 영역" },
   { id: "logo", label: "로고", hint: "헤더, 푸터, 구조화 데이터의 로고" },
-  { id: "social", label: "소셜 공유", hint: "링크 공유 시 보이는 대표 이미지(OG)" },
   { id: "icon", label: "메뉴·버튼 아이콘", hint: "메뉴, 버튼, 링크에 쓰인 아이콘" },
+  { id: "social", label: "소셜 공유", hint: "링크 공유 시 보이는 대표 이미지(OG)" },
   { id: "photo", label: "사진·콘텐츠", hint: "제품, 서비스, 콘텐츠 사진" },
   { id: "graphic", label: "그래픽·아이콘", hint: "일러스트, 아이콘, 단색 그래픽" },
   { id: "appicon", label: "앱 아이콘", hint: "홈 화면 추가용 큰 아이콘" },
@@ -14,9 +15,45 @@ const KINDS = [
 ];
 const KIND_LABELS = Object.fromEntries(KINDS.map((kind) => [kind.id, kind.label]));
 const KIND_ORDER = KINDS.slice(1).map((kind) => kind.id);
-const CONTAINED_KINDS = new Set(["logo", "favicon", "appicon", "graphic", "icon"]);
+const CONTAINED_KINDS = new Set(["logo", "favicon", "appicon", "graphic", "icon", "button"]);
 
-const CATEGORY_ORDER = ["장기렌트_리스", "렌터카_국내", "렌터카_글로벌", "자동차", "금융", "게임_엔터", "테크_플랫폼", "유통_커머스", "식품_생활", "항공_여행", "산업_건설_통신"];
+// Parts of a page. "page" is the full-page capture; the rest are cut from it or
+// captured in their own state (popups, floating widgets, opened menus).
+const PART_OPTIONS = [
+  { id: "page", label: "전체 페이지", hint: "첫 화면부터 푸터까지 이어 붙인 캡처" },
+  { id: "hero", label: "첫 화면", hint: "스크롤하기 전 보이는 화면 (히어로)" },
+  { id: "header", label: "헤더", hint: "상단 헤더, 스크롤 시 고정 헤더" },
+  { id: "nav", label: "네비게이션", hint: "GNB, 메가메뉴, 모바일 햄버거 메뉴, 전체 메뉴" },
+  { id: "section", label: "섹션", hint: "본문을 이루는 가로 전체 영역" },
+  { id: "card", label: "카드", hint: "같은 모양이 반복되는 카드 하나" },
+  { id: "footer", label: "푸터", hint: "하단 회사 정보와 링크" },
+  { id: "floating", label: "플로팅", hint: "퀵메뉴, TOP 버튼, 챗봇, 하단 고정 바, 쿠키 배너" },
+  { id: "popup", label: "팝업", hint: "처음 들어오면 뜨는 레이어 팝업·모달" },
+  { id: "form", label: "검색·폼", hint: "검색창, 입력 폼" },
+  { id: "tab", label: "탭", hint: "탭 메뉴, 슬라이드 인디케이터" },
+];
+const PART_LABELS = Object.fromEntries(PART_OPTIONS.map((part) => [part.id, part.label]));
+const KIND_WEIGHT = { layout: 0, banner: 0, button: 1, social: 1, photo: 1, logo: 1, icon: 2, graphic: 2, appicon: 3, favicon: 4 };
+const PART_WEIGHT = { hero: 0, page: 0.5, section: 0.5, popup: 1, card: 1, nav: 1, header: 1.5, footer: 1.5, floating: 2, form: 2, tab: 2 };
+const BUTTON_VARIANT_OPTIONS = [
+  { id: "filled", label: "채움" },
+  { id: "outline", label: "라인" },
+];
+const BUTTON_SHAPE_OPTIONS = [
+  { id: "pill", label: "알약형", hint: "양 끝이 완전히 둥근 버튼" },
+  { id: "rounded", label: "둥근 모서리" },
+  { id: "square", label: "각진 모서리" },
+];
+const REGION_OPTIONS = [
+  { id: "KR", label: "국내" },
+  { id: "GLOBAL", label: "해외" },
+];
+
+const CATEGORY_ORDER = [
+  "장기렌트_리스", "렌터카_국내", "렌터카_글로벌", "자동차", "금융", "핀테크_결제", "테크_플랫폼", "글로벌_SaaS", "AI_서비스",
+  "유통_커머스", "라이프스타일_리테일", "패션_의류", "뷰티_코스메틱", "식품_생활", "가전_디바이스", "게임_엔터", "미디어_콘텐츠",
+  "항공_여행", "스포츠_레저", "교육_헬스케어", "부동산_공간", "문화_공공", "디자인_에이전시", "산업_건설_통신",
+];
 
 const DEVICE_OPTIONS = [
   { id: "desktop", label: "PC" },
@@ -71,7 +108,7 @@ const COVERAGE_OPTIONS = [
   { id: "missing-banner", label: "배너 없음" },
   { id: "missing-logo", label: "로고 없음" },
 ];
-const DENSITY_WIDTH = { s: 170, m: 240, l: 330, xl: 460 };
+const DENSITY_WIDTH = { s: 180, m: 250, l: 340, xl: 480 };
 const BATCH_SIZE = 90;
 const CHOSEONG = "ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ";
 
@@ -94,6 +131,10 @@ const elements = {
   savedCount: $("#saved-count"),
   categoryChips: $("#category-chips"),
   kindTabs: $("#kind-tabs"),
+  subRow: $("#sub-row"),
+  subLabel: $("#sub-label"),
+  subChips: $("#sub-chips"),
+  colorGrid: $("#color-grid"),
   filterPanel: $("#filter-panel"),
   filterOpen: $("#filter-open"),
   filterClose: $("#filter-close"),
@@ -116,6 +157,7 @@ const elements = {
   empty: $("#empty-state"),
   emptyTitle: $("#empty-title"),
   emptyDescription: $("#empty-description"),
+  emptyReset: $("#empty-reset"),
   wall: $("#wall"),
   grid: $("#brand-grid"),
   sentinel: $("#sentinel"),
@@ -179,6 +221,10 @@ const DEFAULT_FILTERS = {
   brand: "",
   cats: [],
   kind: "all",
+  parts: [],
+  bvariants: [],
+  bshapes: [],
+  regions: [],
   devices: [],
   ratios: [],
   minWidth: 0,
@@ -198,6 +244,11 @@ const state = {
   items: [],
   itemByKey: new Map(),
   analysis: {},
+  brandColors: {},
+  counts: {},
+  colorRows: [],
+  colorCounts: {},
+  colorFamilies: {},
   ...structuredClone(DEFAULT_FILTERS),
   density: "m",
   seed: Math.floor(Math.random() * 1e9),
@@ -323,6 +374,26 @@ function hashString(text) {
   return hash >>> 0;
 }
 
+function icon(name, className = "") {
+  const element = make("i", `ph ph-${name}${className ? ` ${className}` : ""}`);
+  element.setAttribute("aria-hidden", "true");
+  return element;
+}
+
+// Large images have a small copy under thumbs/ for the wall (see build_library.py).
+function needsThumb(path, width, height) {
+  if (!path || /\.(svg|ico|gif)(\?|$)/i.test(path) || path.startsWith("thumbs/")) return false;
+  return width > 640 || height > 1280;
+}
+
+function thumbFor(path) {
+  return `thumbs/${path.replace(/\.[a-z0-9]+$/i, "")}.webp`;
+}
+
+function tileSrc(item) {
+  return item.thumb || item.path;
+}
+
 /* ---------- color ---------- */
 
 function hexToRgb(hex) {
@@ -381,20 +452,32 @@ function legacyAssets(row) {
   return assets;
 }
 
+function regionOf(raw, company, category) {
+  if (raw.region === "KR" || raw.region === "GLOBAL") return raw.region;
+  if (category === "렌터카_글로벌") return "GLOBAL";
+  if (/[가-힣]/.test(company) || /korea|코리아/i.test(company) || /\.(kr|co\.kr)(\/|$)/i.test(raw.requested_url || "")) return "KR";
+  return "GLOBAL";
+}
+
 function normalizeRow(raw) {
   const company = cleanText(raw.company);
   const slug = cleanText(raw.slug) || company;
   const category = cleanText(raw.category);
   const pageTitle = cleanText(raw.page_title);
+  const sub = cleanText(raw.sub);
   return {
     company,
     slug,
     category,
+    sub,
+    region: regionOf(raw, company, category),
     page_title: pageTitle,
     official_url: safeHttpUrl(raw.page_url || raw.requested_url),
     status: cleanText(raw.collection_status),
-    search: `${company} ${slug.replaceAll("-", " ")} ${categoryLabel(category)} ${pageTitle}`.toLocaleLowerCase("ko"),
+    search: `${company} ${slug.replaceAll("-", " ")} ${categoryLabel(category)} ${sub} ${pageTitle}`.toLocaleLowerCase("ko"),
     initials: choseong(company.replace(/\s+/g, "")),
+    colors: state.brandColors[slug] || null,
+    mark: "",
     items: [],
     rawAssets: Array.isArray(raw.assets) && raw.assets.length ? raw.assets : legacyAssets(raw),
   };
@@ -407,12 +490,17 @@ function makeItem(row, asset, extra = {}) {
   const type = extra.type || cleanText(asset.type);
   const width = Number(asset.width) || 0;
   const height = Number(asset.height) || 0;
-  const format = formatOf(path);
+  const format = formatOf(extra.region ? extra.region.src : path);
+  const thumb = extra.thumb || (needsThumb(path, width, height) ? thumbFor(path) : "");
   return {
-    key: cleanText(asset.source_sha256 || sha || path),
+    key: cleanText(extra.key || asset.source_sha256 || sha || path),
     row,
     type,
     kind: extra.kind || kindOf(type, asset, analysis),
+    part: extra.part || "",
+    region: extra.region || null,
+    style: extra.style || null,
+    thumb,
     path,
     sourceUrl: safeHttpUrl(asset.source_url),
     sourcePage: safeHttpUrl((asset.source_pages || [])[0] || extra.pageUrl || ""),
@@ -431,35 +519,39 @@ function makeItem(row, asset, extra = {}) {
     truncated: Boolean(extra.truncated),
     label: cleanText(extra.label || ""),
     area: extra.area || "",
-    background: extra.background || "",
+    background: /^#[0-9a-f]{6}$/i.test(extra.background || "") ? extra.background : "",
     sourceType: extra.sourceType || "",
     analysis,
   };
 }
 
-function buildItems(manifest, layouts, history, iconSets) {
+function buildItems(manifest, layouts, history, iconSets, components) {
   state.rows = manifest.map(normalizeRow);
   state.rowBySlug = new Map(state.rows.map((row) => [row.slug, row]));
   const items = [];
-  const seen = new Set();
+  const seenPaths = new Set();
+  // The same picture is shown once, under the first kind it was found as.
+  const seenSha = new Set();
   const push = (item) => {
-    const id = `${item.kind}:${item.path}`;
-    if (!item.path || seen.has(id)) return;
-    seen.add(id);
+    const id = `${item.kind}:${item.part}:${item.path}`;
+    if (!item.path || seenPaths.has(id)) return;
+    if (item.sha && !item.archived) {
+      if (seenSha.has(item.sha)) return;
+      seenSha.add(item.sha);
+    }
+    seenPaths.add(id);
     item.row.items.push(item);
     items.push(item);
   };
-
-  state.rows.forEach((row) => {
-    row.rawAssets.forEach((asset) => push(makeItem(row, asset)));
-    delete row.rawAssets;
-  });
 
   const latest = new Map();
   layouts.forEach((entry) => {
     const id = `${entry.slug}:${entry.device}`;
     if (!latest.has(id) || String(entry.captured_at) > String(latest.get(id).captured_at)) latest.set(id, entry);
   });
+  const layoutByPath = new Map(layouts.map((entry) => [entry.path, entry]));
+
+  // Full-page captures and their parts come first: they are what most people browse for.
   layouts.forEach((entry) => {
     const row = state.rowBySlug.get(entry.slug);
     if (!row) return;
@@ -467,12 +559,70 @@ function buildItems(manifest, layouts, history, iconSets) {
     push(makeItem(row, { ...entry, variant: entry.device === "pc" ? "desktop" : "mobile", source_url: entry.page_url }, {
       type: "layout",
       kind: "layout",
+      part: "page",
       date: String(entry.captured_at || "").slice(0, 10),
       dateLabel: "캡처 날짜",
       archived: !isLatest,
       truncated: entry.truncated,
       pageUrl: entry.page_url,
     }));
+  });
+
+  components.forEach((entry) => {
+    const row = state.rowBySlug.get(entry.slug);
+    if (!row) return;
+    const variant = entry.device === "pc" ? "desktop" : "mobile";
+    const date = String(entry.collected_at || "").slice(0, 10);
+    const source = layoutByPath.get(entry.layout);
+    (entry.regions || []).forEach((region) => {
+      if (!source || !region.thumb) return;
+      const [x, y, w, h] = region.box;
+      push(makeItem(row, { ...region, path: region.thumb, variant, source_url: entry.page_url, width: w, height: h }, {
+        type: "layout",
+        kind: "layout",
+        part: region.kind,
+        key: `${entry.layout}#${region.box.join(",")}`,
+        thumb: region.thumb,
+        region: { src: entry.layout, x, y, w, h, fullWidth: source.width, fullHeight: source.height, pixelRatio: entry.pixel_ratio || 1 },
+        label: region.label,
+        date,
+        dateLabel: "캡처 날짜",
+        pageUrl: entry.page_url,
+      }));
+    });
+    (entry.items || []).forEach((part) => {
+      if (part.kind === "icon") {
+        push(makeItem(row, { ...part, variant: "desktop" }, {
+          type: "icon",
+          kind: "icon",
+          date,
+          dateLabel: "수집 날짜",
+          pageUrl: entry.page_url,
+          label: part.label,
+          area: part.area,
+          background: part.background,
+          sourceType: part.source_type,
+        }));
+        return;
+      }
+      const isButton = part.kind === "button";
+      push(makeItem(row, { ...part, variant, source_url: entry.page_url }, {
+        type: isButton ? "button" : "layout",
+        kind: isButton ? "button" : "layout",
+        part: isButton ? "" : part.kind,
+        thumb: part.thumb || "",
+        style: part.style || null,
+        label: part.label,
+        date,
+        dateLabel: "캡처 날짜",
+        pageUrl: entry.page_url,
+      }));
+    });
+  });
+
+  state.rows.forEach((row) => {
+    row.rawAssets.forEach((asset) => push(makeItem(row, asset)));
+    delete row.rawAssets;
   });
 
   iconSets.forEach((company) => {
@@ -515,13 +665,20 @@ function buildItems(manifest, layouts, history, iconSets) {
   state.rows.forEach((row) => {
     const counters = {};
     row.items.forEach((item) => {
-      counters[item.kind] = (counters[item.kind] || 0) + 1;
-      rank.set(item, counters[item.kind]);
+      const group = `${item.kind}:${item.part}`;
+      counters[group] = (counters[group] || 0) + 1;
+      rank.set(item, counters[group]);
     });
+    const mark = row.items.find((item) => item.kind === "appicon") || row.items.find((item) => item.kind === "favicon") || row.items.find((item) => item.kind === "logo");
+    row.mark = mark ? mark.path : "";
+    row.logo = (row.items.find((item) => item.kind === "logo" && !item.archived) || mark || {}).path || "";
   });
   items.forEach((item) => {
     item.rank = rank.get(item) || 0;
     item.jitter = hashString(item.key) % 1000;
+    // Recommended order: each company's richest material first, tiny icons last.
+    const tiny = Math.max(item.width, item.height) > 0 && Math.max(item.width, item.height) < 64 ? 3 : 0;
+    item.weight = item.rank + (KIND_WEIGHT[item.kind] ?? 1) + (PART_WEIGHT[item.part] ?? 0) + tiny;
   });
 }
 
@@ -538,12 +695,13 @@ async function fetchJson(url, optional = false) {
 
 /* ---------- URL state ---------- */
 
-const LIST_PARAMS = { cats: "cat", devices: "device", ratios: "ratio", tones: "tone", formats: "fmt", areas: "area" };
+const LIST_PARAMS = { cats: "cat", parts: "part", bvariants: "bv", bshapes: "bs", regions: "region", devices: "device", ratios: "ratio", tones: "tone", formats: "fmt", areas: "area" };
+const VIEWS = ["wall", "brands", "colors", "saved"];
 
 function readUrl() {
   const params = new URLSearchParams(window.location.search);
   Object.assign(state, structuredClone(DEFAULT_FILTERS));
-  state.view = ["wall", "brands", "saved"].includes(params.get("view")) ? params.get("view") : "wall";
+  state.view = VIEWS.includes(params.get("view")) ? params.get("view") : "wall";
   state.q = params.get("q") || "";
   state.brand = params.get("brand") || "";
   state.kind = KIND_LABELS[params.get("kind")] ? params.get("kind") : "all";
@@ -603,22 +761,67 @@ function matchesItem(item) {
   return Boolean(query && item.label && item.label.toLocaleLowerCase("ko").includes(query));
 }
 
-function itemPasses(item, skip = "") {
-  if (!state.archived && item.archived && state.view !== "saved") return false;
-  if (skip !== "cats" && state.cats.length && !state.cats.includes(item.row.category)) return false;
-  if (skip !== "kind" && state.kind !== "all" && item.kind !== state.kind) return false;
-  if (skip !== "devices" && state.devices.length && !state.devices.includes(item.variant)) return false;
-  if (skip !== "ratios" && state.ratios.length && !RATIO_OPTIONS.some((option) => state.ratios.includes(option.id) && option.test(item.ratio))) return false;
-  if (skip !== "minWidth" && state.minWidth && item.width < state.minWidth) return false;
-  if (skip !== "formats" && state.formats.length && !state.formats.includes(item.formatGroup)) return false;
-  if (skip !== "areas" && state.areas.length && !state.areas.includes(item.area)) return false;
-  if (skip !== "tones" && state.tones.length) {
-    if (!item.analysis || !TONE_OPTIONS.some((option) => state.tones.includes(option.id) && option.test(item.analysis))) return false;
-  }
-  if (skip !== "color" && state.color) {
-    if (!item.analysis || colorDistance(item, state.colorLab) > 24) return false;
-  }
+// Every filter is a dimension: whether an item passes it, and which options of
+// it the item belongs to (for the counts shown next to each option).
+const DIMENSIONS = [
+  { key: "cats", active: () => state.cats.length, pass: (item) => state.cats.includes(item.row.category), values: (item) => [item.row.category] },
+  { key: "regions", active: () => state.regions.length, pass: (item) => state.regions.includes(item.row.region), values: (item) => [item.row.region] },
+  { key: "kind", active: () => state.kind !== "all", pass: (item) => item.kind === state.kind, values: (item) => [item.kind], ignores: ["parts", "bvariants", "bshapes", "areas"] },
+  { key: "parts", active: () => state.parts.length, pass: (item) => state.parts.includes(item.part), values: (item) => (item.part ? [item.part] : []) },
+  { key: "bvariants", active: () => state.bvariants.length, pass: (item) => Boolean(item.style) && state.bvariants.includes(item.style.variant), values: (item) => (item.style ? [item.style.variant] : []) },
+  { key: "bshapes", active: () => state.bshapes.length, pass: (item) => Boolean(item.style) && state.bshapes.includes(item.style.shape), values: (item) => (item.style ? [item.style.shape] : []) },
+  { key: "devices", active: () => state.devices.length, pass: (item) => state.devices.includes(item.variant), values: (item) => [item.variant] },
+  { key: "ratios", active: () => state.ratios.length, pass: (item) => RATIO_OPTIONS.some((option) => state.ratios.includes(option.id) && option.test(item.ratio)), values: (item) => RATIO_OPTIONS.filter((option) => option.test(item.ratio)).map((option) => option.id) },
+  { key: "minWidth", active: () => state.minWidth, pass: (item) => item.width >= state.minWidth, values: (item) => WIDTH_OPTIONS.filter((option) => option.id && item.width >= option.id).map((option) => option.id) },
+  { key: "formats", active: () => state.formats.length, pass: (item) => state.formats.includes(item.formatGroup), values: (item) => [item.formatGroup] },
+  { key: "areas", active: () => state.areas.length, pass: (item) => state.areas.includes(item.area), values: (item) => (item.area ? [item.area] : []) },
+  { key: "tones", active: () => state.tones.length, pass: (item) => Boolean(item.analysis) && TONE_OPTIONS.some((option) => state.tones.includes(option.id) && option.test(item.analysis)), values: (item) => (item.analysis ? TONE_OPTIONS.filter((option) => option.test(item.analysis)).map((option) => option.id) : []) },
+  { key: "color", active: () => state.color, pass: (item) => Boolean(item.analysis) && colorDistance(item, state.colorLab) <= 24, values: () => [] },
+];
+
+function visibleByHistory(item) {
+  return state.archived || !item.archived || state.view === "saved";
+}
+
+function itemPasses(item) {
+  if (!visibleByHistory(item)) return false;
+  for (const dimension of state.activeDimensions) if (!dimension.pass(item)) return false;
   return true;
+}
+
+// One pass over the pool: an item counts toward the options of a dimension when
+// it passes every other active filter.
+function computeCounts() {
+  const counts = Object.fromEntries(DIMENSIONS.map((dimension) => [dimension.key, { __total: 0 }]));
+  const active = state.activeDimensions;
+  const bump = (dimension, item) => {
+    const bucket = counts[dimension.key];
+    bucket.__total += 1;
+    for (const value of dimension.values(item)) bucket[value] = (bucket[value] || 0) + 1;
+  };
+  for (const item of baseItems()) {
+    if (!visibleByHistory(item) || !matchesItem(item)) continue;
+    const failed = [];
+    for (const dimension of active) {
+      if (!dimension.pass(item)) {
+        failed.push(dimension.key);
+        if (failed.length > 5) break;
+      }
+    }
+    if (!failed.length) {
+      for (const dimension of DIMENSIONS) bump(dimension, item);
+      continue;
+    }
+    for (const dimension of DIMENSIONS) {
+      if (failed.every((key) => key === dimension.key || dimension.ignores?.includes(key))) bump(dimension, item);
+    }
+  }
+  state.counts = counts;
+}
+
+function countOf(key, value) {
+  const bucket = state.counts[key] || {};
+  return value === undefined ? bucket.__total || 0 : bucket[value] || 0;
 }
 
 function coveragePasses(row) {
@@ -659,12 +862,20 @@ function sortItems(items) {
       return keyed.sort((a, b) => a[0] - b[0]).map(([, item]) => item);
     }
     default:
-      return items.sort((a, b) => a.rank - b.rank || a.jitter - b.jitter);
+      return items.sort((a, b) => a.weight - b.weight || a.jitter - b.jitter);
   }
 }
 
 function computeList() {
+  if (state.board !== HEART_BOARD && (!state.boards[state.board] || state.boards[state.board].deleted)) state.board = HEART_BOARD;
   state.colorLab = state.color ? rgbToLab(hexToRgb(state.color)) : null;
+  state.activeDimensions = DIMENSIONS.filter((dimension) => dimension.active());
+  computeCounts();
+  if (state.view === "colors") {
+    computeColorRows();
+    state.list = [];
+    return;
+  }
   const items = baseItems().filter((item) => matchesItem(item) && itemPasses(item) && (state.view !== "brands" || coveragePasses(item.row)));
   state.list = sortItems(items);
   if (state.view === "brands") {
@@ -673,9 +884,9 @@ function computeList() {
       if (!rows.has(item.row)) rows.set(item.row, []);
       rows.get(item.row).push(item);
     });
-    const hasItemFilter = state.kind !== "all" || state.devices.length || state.ratios.length || state.minWidth || state.formats.length || state.tones.length || state.areas.length || state.color;
+    const hasItemFilter = state.activeDimensions.some((dimension) => !["cats", "regions"].includes(dimension.key));
     if (!hasItemFilter) {
-      state.rows.filter((row) => !rows.has(row) && matchesQuery(row) && (!state.cats.length || state.cats.includes(row.category)) && coveragePasses(row)).forEach((row) => rows.set(row, []));
+      state.rows.filter((row) => !rows.has(row) && matchesQuery(row) && (!state.cats.length || state.cats.includes(row.category)) && (!state.regions.length || state.regions.includes(row.region)) && coveragePasses(row)).forEach((row) => rows.set(row, []));
     }
     state.brandList = [...rows.entries()].sort(([a, itemsA], [b, itemsB]) => {
       if (state.sort === "name") return a.company.localeCompare(b.company, "ko");
@@ -684,44 +895,48 @@ function computeList() {
   }
 }
 
-function facetCount(skip, predicate) {
-  let count = 0;
-  const pool = baseItems();
-  for (const item of pool) {
-    if (predicate(item) && matchesItem(item) && itemPasses(item, skip)) count += 1;
-  }
-  return count;
-}
-
 function activeFilterCount() {
-  return state.devices.length + state.ratios.length + (state.minWidth ? 1 : 0) + state.tones.length + state.formats.length + state.areas.length + (state.color ? 1 : 0) + (state.coverage !== "all" ? 1 : 0) + (state.archived ? 1 : 0);
+  return state.cats.length + state.regions.length + state.devices.length + state.ratios.length + (state.minWidth ? 1 : 0) + state.tones.length + state.formats.length + (state.color ? 1 : 0) + (state.coverage !== "all" ? 1 : 0) + (state.archived ? 1 : 0);
 }
 
 /* ---------- chrome rendering ---------- */
 
-function renderCategoryChips() {
-  const categories = [...new Set(state.rows.map((row) => row.category))].sort((a, b) => {
+const KIND_ICONS = {
+  all: "squares-four", layout: "layout", button: "cursor-click", banner: "flag-banner", logo: "seal",
+  icon: "circles-four", social: "share-network", photo: "image", graphic: "shapes", appicon: "app-window", favicon: "browser",
+};
+const PART_ICONS = {
+  page: "article", hero: "monitor", header: "align-top", nav: "list", section: "rows", card: "cards",
+  footer: "align-bottom", floating: "chat-circle-dots", popup: "browsers", form: "magnifying-glass", tab: "tabs",
+};
+
+function sortedCategories() {
+  return [...new Set(state.rows.map((row) => row.category))].sort((a, b) => {
     const ia = CATEGORY_ORDER.indexOf(a);
     const ib = CATEGORY_ORDER.indexOf(b);
     return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b, "ko");
   });
+}
+
+function categoryCount(category) {
+  if (state.view === "colors") return category === undefined ? state.colorCounts.__total || 0 : state.colorCounts[category] || 0;
+  return countOf("cats", category);
+}
+
+function renderCategoryChips() {
   const fragment = document.createDocumentFragment();
-  const all = button("chip", "", () => setFilter({ cats: [] }), { "aria-pressed": String(!state.cats.length) });
-  all.append("전체 업종", make("small", "", numberFormat(facetCount("cats", () => true))));
-  fragment.append(all);
-  categories.forEach((category) => {
+  const row = (label, count, selected, onClick) => {
+    const entry = button("cat-row", "", onClick, { "aria-pressed": String(selected) });
+    entry.append(make("span", "cat-check"), make("span", "cat-label", label), make("small", "", numberFormat(count)));
+    if (!count && !selected) entry.classList.add("is-empty");
+    return entry;
+  };
+  fragment.append(row("전체 업종", categoryCount(), !state.cats.length, () => setFilter({ cats: [] })));
+  sortedCategories().forEach((category) => {
     const selected = state.cats.includes(category);
-    const chip = button("chip", "", (event) => {
-      let cats;
-      if (event.shiftKey || event.metaKey || event.ctrlKey || state.cats.length) {
-        cats = selected ? state.cats.filter((value) => value !== category) : [...state.cats, category];
-      } else {
-        cats = [category];
-      }
-      setFilter({ cats });
-    }, { "aria-pressed": String(selected), title: "여러 업종을 함께 보려면 이어서 선택하세요" });
-    chip.append(categoryLabel(category), make("small", "", numberFormat(facetCount("cats", (item) => item.row.category === category))));
-    fragment.append(chip);
+    fragment.append(row(categoryLabel(category), categoryCount(category), selected, () => {
+      setFilter({ cats: selected ? state.cats.filter((value) => value !== category) : [...state.cats, category] });
+    }));
   });
   elements.categoryChips.replaceChildren(fragment);
 }
@@ -729,23 +944,80 @@ function renderCategoryChips() {
 function renderKindTabs() {
   const fragment = document.createDocumentFragment();
   KINDS.forEach((kind, index) => {
-    const count = facetCount("kind", (item) => kind.id === "all" || item.kind === kind.id);
-    const tab = button("chip kind-chip", "", () => setFilter({ kind: kind.id }), {
+    const count = kind.id === "all" ? countOf("kind") : countOf("kind", kind.id);
+    const shortcut = index < 10 ? ` (단축키 ${index})` : "";
+    const tab = button("kind-tab", "", () => setFilter({ kind: kind.id, parts: [], bvariants: [], bshapes: [], areas: [] }), {
       "aria-pressed": String(state.kind === kind.id),
-      title: `${kind.hint || "모든 유형"} (단축키 ${index})`,
+      title: `${kind.hint || "모든 유형"}${shortcut}`,
     });
     tab.dataset.kind = kind.id;
-    tab.append(kind.label, make("small", "", numberFormat(count)));
+    tab.append(icon(KIND_ICONS[kind.id]), make("span", "", kind.label), make("small", "", numberFormat(count)));
     if (!count && state.kind !== kind.id) tab.classList.add("is-empty");
     fragment.append(tab);
   });
   elements.kindTabs.replaceChildren(fragment);
+  elements.kindTabs.hidden = state.view === "colors";
 }
 
-function facetSection(title, content, note) {
-  const section = make("section", "facet");
-  const heading = make("h3", "", title);
-  section.append(heading);
+function subChip(key, option, iconName) {
+  const selected = state[key].includes(option.id);
+  const count = countOf(key, option.id);
+  const chip = button("sub-chip", "", () => toggleList(key, option.id), { "aria-pressed": String(selected) });
+  if (option.hint) chip.title = option.hint;
+  if (iconName) chip.append(icon(iconName));
+  chip.append(make("span", "", option.label), make("small", "", numberFormat(count)));
+  if (!count && !selected) chip.classList.add("is-empty");
+  return chip;
+}
+
+function renderSubChips() {
+  const fragment = document.createDocumentFragment();
+  let label = "";
+  if (state.view === "colors") {
+    label = "색상 계열";
+    const all = button("sub-chip", "", () => setFilter({ color: "" }), { "aria-pressed": String(!state.color) });
+    all.append(make("span", "", "모두"), make("small", "", numberFormat(state.colorCounts.__total || 0)));
+    fragment.append(all);
+    COLOR_SWATCHES.forEach((swatch) => {
+      const selected = state.color === swatch.hex;
+      const count = state.colorFamilies[swatch.hex] || 0;
+      const chip = button("sub-chip color-family", "", () => setFilter({ color: selected ? "" : swatch.hex }), { "aria-pressed": String(selected) });
+      const dot = make("span", "family-dot");
+      dot.style.background = swatch.hex;
+      chip.append(dot, make("span", "", swatch.label), make("small", "", numberFormat(count)));
+      if (!count && !selected) chip.classList.add("is-empty");
+      fragment.append(chip);
+    });
+  } else if (state.kind === "layout" || state.parts.length) {
+    label = "구성";
+    const all = button("sub-chip", "", () => setFilter({ parts: [] }), { "aria-pressed": String(!state.parts.length) });
+    all.append(make("span", "", "모두"), make("small", "", numberFormat(countOf("parts"))));
+    fragment.append(all);
+    PART_OPTIONS.forEach((option) => fragment.append(subChip("parts", option, PART_ICONS[option.id])));
+  } else if (state.view !== "colors" && (state.kind === "button" || state.bvariants.length || state.bshapes.length)) {
+    label = "스타일";
+    BUTTON_VARIANT_OPTIONS.forEach((option) => fragment.append(subChip("bvariants", option)));
+    fragment.append(make("span", "sub-divider"));
+    BUTTON_SHAPE_OPTIONS.forEach((option) => fragment.append(subChip("bshapes", option)));
+  } else if (state.view !== "colors" && (state.kind === "icon" || state.areas.length)) {
+    label = "위치";
+    AREA_OPTIONS.forEach((option) => fragment.append(subChip("areas", option)));
+  }
+  elements.subLabel.textContent = label;
+  elements.subChips.replaceChildren(fragment);
+  elements.subRow.hidden = !label;
+}
+
+function facetSection(title, content, note, { collapsible = false, open = true } = {}) {
+  const section = make(collapsible ? "details" : "section", "facet");
+  if (collapsible) {
+    section.open = open;
+    const summary = make("summary");
+    summary.append(make("span", "", title), icon("caret-down", "facet-caret"));
+    section.append(summary);
+  } else {
+    section.append(make("h3", "", title));
+  }
   if (note) section.append(make("p", "facet-note", note));
   section.append(content);
   return section;
@@ -756,12 +1028,12 @@ function toggleList(key, value) {
   setFilter({ [key]: list });
 }
 
-function optionChips(key, options, predicateFor) {
+function optionChips(key, options) {
   const wrap = make("div", "facet-options");
   options.forEach((option) => {
     const id = option.id ?? option;
     const label = option.label ?? option;
-    const count = facetCount(key, predicateFor(id));
+    const count = key === "regions" && state.view === "colors" ? state.colorCounts[`region:${id}`] || 0 : countOf(key, id);
     const chip = button("facet-chip", "", () => toggleList(key, id), { "aria-pressed": String(state[key].includes(id)) });
     chip.append(label, make("small", "", numberFormat(count)));
     if (option.hint) chip.title = option.hint;
@@ -771,28 +1043,7 @@ function optionChips(key, options, predicateFor) {
   return wrap;
 }
 
-function renderFacets() {
-  const fragment = document.createDocumentFragment();
-
-  fragment.append(facetSection("기기", optionChips("devices", DEVICE_OPTIONS, (id) => (item) => item.variant === id)));
-  fragment.append(facetSection("비율", optionChips("ratios", RATIO_OPTIONS, (id) => {
-    const option = RATIO_OPTIONS.find((entry) => entry.id === id);
-    return (item) => option.test(item.ratio);
-  })));
-
-  const widths = make("div", "facet-options");
-  WIDTH_OPTIONS.forEach((option) => {
-    const chip = button("facet-chip", option.label, () => setFilter({ minWidth: option.id }), { "aria-pressed": String(state.minWidth === option.id) });
-    if (option.id) chip.append(make("small", "", numberFormat(facetCount("minWidth", (item) => item.width >= option.id))));
-    widths.append(chip);
-  });
-  fragment.append(facetSection("최소 가로 해상도", widths));
-
-  fragment.append(facetSection("톤", optionChips("tones", TONE_OPTIONS, (id) => {
-    const option = TONE_OPTIONS.find((entry) => entry.id === id);
-    return (item) => Boolean(item.analysis && option.test(item.analysis));
-  })));
-
+function colorSwatches(note) {
   const colors = make("div", "swatches");
   COLOR_SWATCHES.forEach((swatch) => {
     const selected = state.color === swatch.hex;
@@ -811,18 +1062,36 @@ function renderFacets() {
   picker.value = state.color || "#2563eb";
   picker.setAttribute("aria-label", "직접 색 고르기");
   picker.addEventListener("change", () => setFilter({ color: picker.value.toLowerCase() }));
-  custom.append(picker);
+  custom.append(icon("eyedropper"), picker);
   if (state.color && !COLOR_SWATCHES.some((swatch) => swatch.hex === state.color)) {
     custom.style.setProperty("--swatch", state.color);
     custom.setAttribute("aria-pressed", "true");
   }
   colors.append(custom);
-  fragment.append(facetSection("색상", colors, state.color ? `${state.color.toUpperCase()}와 가까운 색을 가진 이미지를 먼저 보여 줍니다.` : "대표 색상이 비슷한 이미지를 찾습니다."));
+  return facetSection("색상", colors, state.color ? `${state.color.toUpperCase()}와 가까운 색부터 보여 줍니다.` : note);
+}
 
-  if (state.kind === "icon" || state.areas.length) {
-    fragment.append(facetSection("아이콘 위치", optionChips("areas", AREA_OPTIONS, (id) => (item) => item.area === id), "아이콘이 화면 어디에 쓰였는지로 고릅니다."));
+function renderFacets() {
+  const fragment = document.createDocumentFragment();
+  fragment.append(facetSection("지역", optionChips("regions", REGION_OPTIONS)));
+  if (state.view === "colors") {
+    fragment.append(colorSwatches("포인트 컬러가 비슷한 회사를 찾습니다."));
+    elements.facets.replaceChildren(fragment);
+    return;
   }
-  fragment.append(facetSection("파일 형식", optionChips("formats", FORMAT_OPTIONS, (id) => (item) => item.formatGroup === id)));
+  fragment.append(facetSection("기기", optionChips("devices", DEVICE_OPTIONS)));
+  fragment.append(colorSwatches("대표 색상이 비슷한 이미지를 찾습니다."));
+  fragment.append(facetSection("톤", optionChips("tones", TONE_OPTIONS)));
+  fragment.append(facetSection("비율", optionChips("ratios", RATIO_OPTIONS), "", { collapsible: true, open: state.ratios.length > 0 }));
+
+  const widths = make("div", "facet-options");
+  WIDTH_OPTIONS.forEach((option) => {
+    const chip = button("facet-chip", option.label, () => setFilter({ minWidth: option.id }), { "aria-pressed": String(state.minWidth === option.id) });
+    if (option.id) chip.append(make("small", "", numberFormat(countOf("minWidth", option.id))));
+    widths.append(chip);
+  });
+  fragment.append(facetSection("최소 가로 해상도", widths, "", { collapsible: true, open: state.minWidth > 0 }));
+  fragment.append(facetSection("파일 형식", optionChips("formats", FORMAT_OPTIONS.map((id) => ({ id, label: id }))), "", { collapsible: true, open: state.formats.length > 0 }));
 
   if (state.view === "brands") {
     const coverage = make("div", "facet-options");
@@ -832,14 +1101,13 @@ function renderFacets() {
     fragment.append(facetSection("수집 상태", coverage));
   }
 
-  const archivedCount = state.items.filter((item) => item.archived).length;
   const archive = make("label", "switch");
   const checkbox = make("input");
   checkbox.type = "checkbox";
   checkbox.checked = state.archived;
   checkbox.addEventListener("change", () => setFilter({ archived: checkbox.checked }));
-  archive.append(checkbox, make("span", "", `지난 버전 포함 (${numberFormat(archivedCount)})`));
-  fragment.append(facetSection("기록", archive, "이전에 캡처한 레이아웃과 교체된 배너·로고를 함께 봅니다."));
+  archive.append(checkbox, make("span", "switch-track"), make("span", "", `지난 버전 포함 (${numberFormat(state.archivedCount || 0)})`));
+  fragment.append(facetSection("기록", archive, "이전에 캡처한 화면과 교체된 배너·로고를 함께 봅니다.", { collapsible: true, open: state.archived }));
 
   elements.facets.replaceChildren(fragment);
 }
@@ -847,11 +1115,12 @@ function renderFacets() {
 function renderSummary() {
   const live = state.items.filter((item) => !item.archived);
   const count = (kind) => live.filter((item) => item.kind === kind).length;
+  state.archivedCount = state.items.length - live.length;
   const entries = [
     ["회사", state.rows.length],
     ["이미지", live.length],
     ["레이아웃", count("layout")],
-    ["배너", count("banner")],
+    ["버튼", count("button")],
   ];
   elements.summary.replaceChildren(...entries.map(([label, value]) => {
     const wrap = make("div");
@@ -862,20 +1131,31 @@ function renderSummary() {
 
 function renderActiveFilters() {
   const chips = [];
-  const add = (label, patch) => chips.push(button("active-chip", `${label} ✕`, () => setFilter(patch), { "aria-label": `${label} 필터 해제` }));
+  const add = (label, patch) => {
+    const chip = button("active-chip", "", () => setFilter(patch), { "aria-label": `${label} 필터 해제` });
+    chip.append(make("span", "", label), icon("x"));
+    chips.push(chip);
+  };
+  const labelOf = (options, id) => options.find((option) => option.id === id)?.label || id;
   if (state.brand) add(`회사: ${state.rowBySlug.get(state.brand)?.company || state.brand}`, { brand: "" });
   if (state.q) add(`검색: ${state.q}`, { q: "" });
   state.cats.forEach((cat) => add(categoryLabel(cat), { cats: state.cats.filter((value) => value !== cat) }));
-  if (state.kind !== "all") add(KIND_LABELS[state.kind], { kind: "all" });
-  state.devices.forEach((id) => add(DEVICE_OPTIONS.find((o) => o.id === id)?.label || id, { devices: state.devices.filter((v) => v !== id) }));
-  state.ratios.forEach((id) => add(RATIO_OPTIONS.find((o) => o.id === id)?.label || id, { ratios: state.ratios.filter((v) => v !== id) }));
-  if (state.minWidth) add(`가로 ${state.minWidth}px+`, { minWidth: 0 });
-  state.tones.forEach((id) => add(TONE_OPTIONS.find((o) => o.id === id)?.label || id, { tones: state.tones.filter((v) => v !== id) }));
+  state.regions.forEach((id) => add(labelOf(REGION_OPTIONS, id), { regions: state.regions.filter((v) => v !== id) }));
+  if (state.view !== "colors") {
+    if (state.kind !== "all") add(KIND_LABELS[state.kind], { kind: "all", parts: [], bvariants: [], bshapes: [], areas: [] });
+    state.parts.forEach((id) => add(labelOf(PART_OPTIONS, id), { parts: state.parts.filter((v) => v !== id) }));
+    state.bvariants.forEach((id) => add(`버튼 ${labelOf(BUTTON_VARIANT_OPTIONS, id)}`, { bvariants: state.bvariants.filter((v) => v !== id) }));
+    state.bshapes.forEach((id) => add(labelOf(BUTTON_SHAPE_OPTIONS, id), { bshapes: state.bshapes.filter((v) => v !== id) }));
+    state.devices.forEach((id) => add(labelOf(DEVICE_OPTIONS, id), { devices: state.devices.filter((v) => v !== id) }));
+    state.ratios.forEach((id) => add(labelOf(RATIO_OPTIONS, id), { ratios: state.ratios.filter((v) => v !== id) }));
+    if (state.minWidth) add(`가로 ${state.minWidth}px+`, { minWidth: 0 });
+    state.tones.forEach((id) => add(labelOf(TONE_OPTIONS, id), { tones: state.tones.filter((v) => v !== id) }));
+    state.areas.forEach((id) => add(labelOf(AREA_OPTIONS, id), { areas: state.areas.filter((v) => v !== id) }));
+    state.formats.forEach((id) => add(id, { formats: state.formats.filter((v) => v !== id) }));
+    if (state.coverage !== "all") add(COVERAGE_OPTIONS.find((o) => o.id === state.coverage).label, { coverage: "all" });
+    if (state.archived) add("지난 버전 포함", { archived: false });
+  }
   if (state.color) add(`색상 ${state.color.toUpperCase()}`, { color: "" });
-  state.areas.forEach((id) => add(AREA_OPTIONS.find((o) => o.id === id)?.label || id, { areas: state.areas.filter((v) => v !== id) }));
-  state.formats.forEach((id) => add(id, { formats: state.formats.filter((v) => v !== id) }));
-  if (state.coverage !== "all") add(COVERAGE_OPTIONS.find((o) => o.id === state.coverage).label, { coverage: "all" });
-  if (state.archived) add("지난 버전 포함", { archived: false });
   if (chips.length > 1) chips.push(button("text-button", "모두 지우기", resetFilters));
   elements.activeFilters.replaceChildren(...chips);
   elements.activeFilters.hidden = chips.length === 0;
@@ -888,12 +1168,15 @@ function renderChrome() {
   elements.viewButtons.forEach((element) => element.setAttribute("aria-pressed", String(element.dataset.view === state.view)));
   elements.search.value = state.q;
   elements.sort.value = state.sort;
-  elements.shuffle.hidden = state.sort !== "random";
+  elements.shuffle.hidden = state.sort !== "random" || state.view === "colors";
+  elements.sort.closest(".sort-field").hidden = state.view === "colors";
   elements.density.querySelectorAll("button").forEach((element) => element.setAttribute("aria-pressed", String(element.dataset.density === state.density)));
-  elements.density.hidden = state.view === "brands";
+  elements.density.hidden = state.view === "brands" || state.view === "colors";
   elements.savedBar.hidden = state.view !== "saved";
+  document.body.dataset.view = state.view;
   renderCategoryChips();
   renderKindTabs();
+  renderSubChips();
   renderFacets();
   renderActiveFilters();
   if (state.view === "saved") renderBoardTabs();
@@ -901,54 +1184,94 @@ function renderChrome() {
 
 /* ---------- wall ---------- */
 
+const WIDE_PARTS = new Set(["header", "nav", "footer", "form", "tab"]);
+
 function displayAspect(item) {
   const inverse = item.height && item.width ? item.height / item.width : 0.75;
-  if (item.kind === "layout") return Math.min(inverse, item.variant === "mobile" ? 1.7 : 1.1);
+  if (item.kind === "layout" && item.part === "page") return Math.min(inverse, item.variant === "mobile" ? 1.7 : 1.1);
+  if (item.kind === "layout" && WIDE_PARTS.has(item.part)) return Math.min(Math.max(inverse, 0.2), 1.4);
+  if (item.kind === "layout") return Math.min(Math.max(inverse, 0.3), 1.9);
+  if (item.kind === "button") return 0.46;
   if (item.kind === "favicon" || item.kind === "appicon" || item.kind === "icon") return 1;
   if (item.kind === "logo") return Math.min(Math.max(inverse, 0.5), 1);
   return Math.min(Math.max(inverse, 0.28), 2);
 }
 
+function itemCaption(item) {
+  if (item.kind === "layout") {
+    const part = PART_LABELS[item.part] || "레이아웃";
+    const label = item.part === "page" || item.part === "hero" ? "" : item.label;
+    return label && label !== part ? `${part} · ${label}` : part;
+  }
+  if ((item.kind === "icon" || item.kind === "button") && item.label) return item.label;
+  return `${KIND_LABELS[item.kind]}${item.width ? ` ${item.width}×${item.height}` : ""}`;
+}
+
+function markImage(row, className = "mark") {
+  if (!row.mark) return make("span", `${className} is-empty`, row.company.slice(0, 1));
+  const image = make("img", className);
+  image.src = row.mark;
+  image.alt = "";
+  image.loading = "lazy";
+  image.decoding = "async";
+  image.addEventListener("error", () => image.replaceWith(make("span", `${className} is-empty`, row.company.slice(0, 1))), { once: true });
+  return image;
+}
+
 function createTile(item, index) {
-  const tile = make("article", `tile kind-${item.kind}`);
+  const tile = make("article", `tile kind-${item.kind}${item.part ? ` part-${item.part}` : ""}`);
   tile.dataset.index = String(index);
   tile.dataset.key = item.key;
+  tile.style.setProperty("--enter-delay", `${(index % BATCH_SIZE) * 12}ms`);
   if (state.selection.has(item.key)) tile.classList.add("is-selected");
 
-  const hit = button("tile-hit", "", null, { "aria-label": `${item.row.company} ${KIND_LABELS[item.kind]} 크게 보기` });
+  const hit = button("tile-hit", "", null, { "aria-label": `${item.row.company} ${itemCaption(item)} 크게 보기` });
   hit.dataset.action = "open";
   const media = make("div", "tile-media");
   media.style.aspectRatio = `1 / ${displayAspect(item)}`;
   const dominant = item.analysis?.p?.[0]?.[0];
   if (dominant && !CONTAINED_KINDS.has(item.kind)) media.style.backgroundColor = dominant;
   if (CONTAINED_KINDS.has(item.kind)) media.classList.add("is-contained");
+  if (item.kind === "layout" && WIDE_PARTS.has(item.part)) media.classList.add("is-wide");
   if (item.kind === "icon" && item.background) {
     media.classList.remove("is-contained");
     media.classList.add("is-icon");
     media.style.backgroundColor = item.background;
   }
+  if (item.kind === "button") {
+    media.classList.add("is-button");
+    if (item.style?.surface) media.style.backgroundColor = item.style.surface;
+  }
   const image = make("img");
-  image.src = item.path;
+  image.src = tileSrc(item);
   image.alt = "";
   image.loading = "lazy";
   image.decoding = "async";
-  image.addEventListener("error", () => media.classList.add("is-broken"), { once: true });
+  image.addEventListener("error", () => {
+    if (item.thumb && image.src.includes("/thumbs/") && !item.region) image.src = item.path;
+    else media.classList.add("is-broken");
+  });
   media.append(image);
-  if (item.kind === "layout") media.append(make("span", "tile-badge", item.variant === "mobile" ? "모바일" : "PC"));
+  if (item.kind === "layout" || item.kind === "button") {
+    media.append(make("span", "tile-badge", item.variant === "mobile" ? "모바일" : "PC"));
+  }
   if (item.archived) media.append(make("span", "tile-badge archived", item.date ? `지난 버전 ${item.date}` : "지난 버전"));
   hit.append(media);
 
   const check = button("tile-check", "", null, { "aria-label": `${item.row.company} 이미지 선택`, "aria-pressed": String(state.selection.has(item.key)) });
   check.dataset.action = "select";
-  const heart = button("tile-heart", isFavorite(item) ? "♥" : "♡", null, { "aria-label": `${item.row.company} 이미지 찜하기`, "aria-pressed": String(isFavorite(item)) });
+  check.append(icon("check"));
+  const favorite = isFavorite(item);
+  const heart = button("tile-heart", "", null, { "aria-label": `${item.row.company} 이미지 찜하기`, "aria-pressed": String(favorite) });
   heart.dataset.action = "heart";
   heart.dataset.favoriteKey = item.key;
+  heart.append(icon(favorite ? "heart-fill" : "heart"));
 
   const caption = make("div", "tile-caption");
-  const detail = item.kind === "icon" && item.label
-    ? item.label
-    : `${KIND_LABELS[item.kind]}${item.width ? ` · ${item.width}×${item.height}` : ""}`;
-  caption.append(make("strong", "", item.row.company), make("span", "", detail));
+  caption.append(markImage(item.row, "tile-mark"));
+  const text = make("div", "tile-text");
+  text.append(make("strong", "", item.row.company), make("span", "", itemCaption(item)));
+  caption.append(text);
 
   tile.append(hit, check, heart, caption);
   return tile;
@@ -956,10 +1279,11 @@ function createTile(item, index) {
 
 function setupColumns() {
   const width = elements.wall.clientWidth || elements.wall.parentElement.clientWidth;
-  const gap = state.density === "s" ? 10 : 14;
+  const gap = state.density === "s" ? 12 : state.density === "xl" ? 22 : 18;
   const minimum = window.innerWidth <= 520 ? 2 : 1;
   const count = Math.max(minimum, Math.floor((width + gap) / (DENSITY_WIDTH[state.density] + gap)));
   elements.wall.style.setProperty("--gap", `${gap}px`);
+  elements.wall.dataset.density = state.density;
   state.columns = Array.from({ length: count }, () => make("div", "wall-column"));
   state.columnHeights = new Array(count).fill(0);
   state.columnWidth = (width - gap * (count - 1)) / count;
@@ -968,7 +1292,7 @@ function setupColumns() {
 }
 
 function appendBatch() {
-  if (state.view === "brands") return;
+  if (state.view === "brands" || state.view === "colors") return;
   const end = Math.min(state.list.length, state.rendered + BATCH_SIZE);
   for (let index = state.rendered; index < end; index += 1) {
     const item = state.list[index];
@@ -977,7 +1301,7 @@ function appendBatch() {
       if (height < state.columnHeights[target] - 1) target = column;
     });
     state.columns[target].append(createTile(item, index));
-    state.columnHeights[target] += state.columnWidth * displayAspect(item) + 48;
+    state.columnHeights[target] += state.columnWidth * displayAspect(item) + 52;
   }
   state.rendered = end;
   elements.sentinel.hidden = state.rendered >= state.list.length;
@@ -985,6 +1309,7 @@ function appendBatch() {
 
 function renderWall() {
   elements.grid.hidden = true;
+  elements.colorGrid.hidden = true;
   elements.wall.hidden = state.list.length === 0;
   setupColumns();
   appendBatch();
@@ -992,11 +1317,188 @@ function renderWall() {
 }
 
 function fillViewport() {
-  if (state.view === "brands" || state.rendered >= state.list.length) return;
+  if (state.view === "brands" || state.view === "colors" || state.rendered >= state.list.length) return;
   if (elements.sentinel.getBoundingClientRect().top < window.innerHeight * 2.2) {
     appendBatch();
     window.requestAnimationFrame(fillViewport);
   }
+}
+
+/* ---------- brand colors ---------- */
+
+function brandSwatches(colors) {
+  if (!colors) return [];
+  const list = [];
+  if (colors.primary) list.push({ ...colors.primary, role: "메인" });
+  if (colors.secondary) list.push({ ...colors.secondary, role: "보조" });
+  (colors.accents || []).forEach((accent) => list.push({ ...accent, role: "포인트" }));
+  return list;
+}
+
+function copyHex(hex) {
+  copyText(hex.toUpperCase(), `${hex.toUpperCase()} 복사됨`);
+}
+
+function readableOn(hex) {
+  const [r, g, b] = hexToRgb(hex).map((value) => {
+    const c = value / 255;
+    return c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4;
+  });
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b > 0.4 ? "#18181b" : "#fafafa";
+}
+
+// Companies whose point colors match the filters, closest to the chosen color first.
+const FAMILY_LABS = COLOR_SWATCHES.map((swatch) => [swatch.hex, rgbToLab(hexToRgb(swatch.hex))]);
+
+function rowLabs(row) {
+  if (!row.colorLabs) {
+    const swatches = brandSwatches(row.colors).map((swatch) => rgbToLab(hexToRgb(swatch.hex)));
+    // For a monochrome brand the main color is its darkest neutral, not a stray accent.
+    const neutrals = (row.colors?.neutrals || []).filter((hex) => hex !== "#ffffff").slice(0, 2).map((hex) => rgbToLab(hexToRgb(hex)));
+    row.colorLabs = row.colors?.monochrome || !swatches.length ? [...neutrals, ...swatches] : swatches;
+  }
+  return row.colorLabs;
+}
+
+function computeColorRows() {
+  const target = state.colorLab;
+  const counts = { __total: 0 };
+  const families = {};
+  const rows = [];
+  state.rows.forEach((row) => {
+    const swatches = brandSwatches(row.colors);
+    if (!swatches.length && !(row.colors?.neutrals || []).length) return;
+    if (!matchesQuery(row)) return;
+    const labs = rowLabs(row);
+    const regionOk = !state.regions.length || state.regions.includes(row.region);
+    const categoryOk = !state.cats.length || state.cats.includes(row.category);
+    if (regionOk && categoryOk) {
+      // A company belongs to the family its main color is closest to.
+      const main = labs[0];
+      if (main) {
+        let best = null;
+        let bestDistance = Infinity;
+        FAMILY_LABS.forEach(([hex, lab]) => {
+          const distance = labDistance(main, lab);
+          if (distance < bestDistance) {
+            bestDistance = distance;
+            best = hex;
+          }
+        });
+        if (best) families[best] = (families[best] || 0) + 1;
+      }
+    }
+    let distance = 0;
+    if (target) {
+      distance = labs.length ? Math.min(...labs.map((lab) => labDistance(lab, target))) : Infinity;
+      const family = COLOR_SWATCHES.some((swatch) => swatch.hex === state.color);
+      if (family ? nearestFamily(labs[0]) !== state.color : distance > 28) return;
+    }
+    if (regionOk) {
+      counts.__total += 1;
+      counts[row.category] = (counts[row.category] || 0) + 1;
+    }
+    if (categoryOk) counts[`region:${row.region}`] = (counts[`region:${row.region}`] || 0) + 1;
+    if (regionOk && categoryOk) rows.push({ row, distance });
+  });
+  const hue = (row) => {
+    const hex = row.colors?.monochrome ? null : row.colors?.primary?.hex;
+    if (!hex) return 999;
+    const [r, g, b] = hexToRgb(hex).map((v) => v / 255);
+    const max = Math.max(r, g, b);
+    const min = Math.min(r, g, b);
+    if (max === min) return 998;
+    let h = max === r ? ((g - b) / (max - min)) % 6 : max === g ? (b - r) / (max - min) + 2 : (r - g) / (max - min) + 4;
+    h = (h * 60 + 360) % 360;
+    return h;
+  };
+  if (target) rows.sort((a, b) => a.distance - b.distance);
+  else if (state.sort === "name") rows.sort((a, b) => a.row.company.localeCompare(b.row.company, "ko"));
+  else rows.sort((a, b) => hue(a.row) - hue(b.row) || a.row.company.localeCompare(b.row.company, "ko"));
+  state.colorRows = rows.map((entry) => entry.row);
+  state.colorCounts = counts;
+  state.colorFamilies = families;
+}
+
+function nearestFamily(lab) {
+  if (!lab) return "";
+  let best = "";
+  let bestDistance = Infinity;
+  FAMILY_LABS.forEach(([hex, familyLab]) => {
+    const distance = labDistance(lab, familyLab);
+    if (distance < bestDistance) {
+      bestDistance = distance;
+      best = hex;
+    }
+  });
+  return best;
+}
+
+function createColorCard(row) {
+  const card = make("article", "color-card");
+  const swatches = brandSwatches(row.colors);
+  const neutrals = (row.colors?.neutrals || []).slice(0, 5);
+  const main = row.colors?.monochrome || !swatches.length ? { hex: neutrals.find((hex) => hex !== "#ffffff") || neutrals[0] || "#18181b", role: "무채색", sources: [] } : swatches[0];
+  const rest = row.colors?.monochrome ? swatches.slice(0, 3) : swatches.slice(1, 5);
+
+  const hero = button("color-hero", "", () => copyHex(main.hex), { title: `${main.hex.toUpperCase()} 복사${main.sources?.length ? ` · 근거: ${main.sources.join(", ")}` : ""}` });
+  hero.style.setProperty("--swatch", main.hex);
+  hero.style.color = readableOn(main.hex);
+  hero.append(make("span", "color-role", main.role), make("strong", "color-hex", main.hex.toUpperCase()), icon("copy", "color-copy"));
+  card.append(hero);
+
+  if (rest.length) {
+    const strip = make("div", "color-strip");
+    rest.forEach((swatch) => {
+      const chip = button("color-chip", "", () => copyHex(swatch.hex), { title: `${swatch.role} ${swatch.hex.toUpperCase()} 복사` });
+      chip.style.setProperty("--swatch", swatch.hex);
+      chip.style.color = readableOn(swatch.hex);
+      chip.append(make("span", "", swatch.hex.toUpperCase()));
+      strip.append(chip);
+    });
+    card.append(strip);
+  }
+
+  const body = make("div", "color-body");
+  const line = make("div", "company-line");
+  line.append(markImage(row, "company-mark"));
+  const titles = make("div", "company-titles");
+  titles.append(make("h2", "", row.company), make("span", "category-name", [categoryLabel(row.category), row.sub].filter(Boolean).join(" · ")));
+  line.append(titles);
+  body.append(line);
+
+  if (neutrals.length) {
+    const neutralRow = make("div", "neutral-row");
+    neutrals.forEach((hex) => {
+      const dot = button("neutral-dot", "", () => copyHex(hex), { title: `${hex.toUpperCase()} 복사`, "aria-label": `${hex.toUpperCase()} 복사` });
+      dot.style.setProperty("--swatch", hex);
+      neutralRow.append(dot);
+    });
+    body.append(neutralRow);
+  }
+
+  const actions = make("div", "card-actions");
+  const all = [main, ...rest].map((swatch) => swatch.hex.toUpperCase());
+  actions.append(
+    button("detail-button", "이미지 보기", () => setFilter({ view: "wall", brand: row.slug, q: "", kind: "all", color: "" })),
+    button("detail-button", "이 색으로 찾기", () => setFilter({ view: "wall", color: main.hex, brand: "" })),
+    button("detail-button", "모두 복사", () => copyText(all.join(", "), "색상 코드를 복사했습니다.")),
+  );
+  body.append(actions);
+  card.append(body);
+  return card;
+}
+
+function renderColors() {
+  state.rendered = 0;
+  elements.wall.hidden = true;
+  elements.wall.replaceChildren();
+  elements.grid.hidden = true;
+  elements.sentinel.hidden = true;
+  elements.colorGrid.hidden = state.colorRows.length === 0;
+  const fragment = document.createDocumentFragment();
+  state.colorRows.forEach((row) => fragment.append(createColorCard(row)));
+  elements.colorGrid.replaceChildren(fragment);
 }
 
 /* ---------- brand cards ---------- */
@@ -1004,15 +1506,16 @@ function fillViewport() {
 function createBrandCard(row, items) {
   const card = make("article", "brand-card");
   const liveItems = items.length ? items : row.items.filter((item) => !item.archived);
-  const preferred = ["layout", "banner", "social", "photo", "logo", "graphic", "appicon", "favicon"];
-  const cover = preferred.map((kind) => liveItems.find((item) => item.kind === kind && (kind !== "layout" || item.variant === "desktop")) || liveItems.find((item) => item.kind === kind)).find(Boolean);
+  const cover = liveItems.find((item) => item.kind === "layout" && item.part === "hero" && item.variant === "desktop")
+    || liveItems.find((item) => item.kind === "layout" && item.part === "page" && item.variant === "desktop")
+    || ["layout", "banner", "social", "photo", "logo", "graphic", "appicon", "favicon"].map((kind) => liveItems.find((item) => item.kind === kind)).find(Boolean);
 
   const preview = button("card-preview", "", () => openBrand(row), { "aria-label": `${row.company} 이미지 전체 보기` });
   if (cover) {
     if (CONTAINED_KINDS.has(cover.kind)) preview.classList.add("is-contained");
     if (cover.kind === "layout") preview.classList.add("is-layout");
     const image = make("img");
-    image.src = cover.path;
+    image.src = tileSrc(cover);
     image.alt = "";
     image.loading = "lazy";
     preview.append(image);
@@ -1020,36 +1523,26 @@ function createBrandCard(row, items) {
     preview.append(make("span", "preview-fallback", "수집된 이미지가 없습니다."));
   }
 
-  const logo = row.items.find((item) => item.kind === "logo" && !item.archived) || row.items.find((item) => item.kind === "appicon" || item.kind === "favicon");
   const body = make("div", "card-body");
   const heading = make("div", "company-line");
-  if (logo) {
-    const mark = make("img", "company-mark");
-    mark.src = logo.path;
-    mark.alt = "";
-    mark.loading = "lazy";
-    heading.append(mark);
-  }
+  heading.append(markImage(row, "company-mark"));
   const titles = make("div", "company-titles");
-  titles.append(make("h2", "", row.company), make("span", "category-name", categoryLabel(row.category)));
+  titles.append(make("h2", "", row.company), make("span", "category-name", [categoryLabel(row.category), row.sub].filter(Boolean).join(" · ")));
   heading.append(titles);
 
   const palette = make("div", "mini-palette");
-  const colors = new Map();
-  liveItems.filter((item) => ["logo", "banner", "layout"].includes(item.kind)).forEach((item) => {
-    (item.analysis?.p || []).slice(0, 3).forEach(([hex, weight]) => colors.set(hex, (colors.get(hex) || 0) + weight));
-  });
-  [...colors.entries()].sort((a, b) => b[1] - a[1]).slice(0, 6).forEach(([hex]) => {
-    const dot = make("span");
+  const swatches = brandSwatches(row.colors);
+  const hexes = swatches.length ? swatches.map((swatch) => swatch.hex) : (row.colors?.neutrals || []).slice(0, 4);
+  hexes.slice(0, 6).forEach((hex) => {
+    const dot = button("", "", () => copyHex(hex), { title: `${hex.toUpperCase()} 복사`, "aria-label": `${hex.toUpperCase()} 복사` });
     dot.style.background = hex;
-    dot.title = hex;
     palette.append(dot);
   });
 
   const counts = make("div", "asset-counts");
   KIND_ORDER.forEach((kind) => {
     const count = liveItems.filter((item) => item.kind === kind).length;
-    if (count) counts.append(make("span", "", `${KIND_LABELS[kind]} ${count}`));
+    if (count) counts.append(make("span", "", `${KIND_LABELS[kind]} ${numberFormat(count)}`));
   });
 
   const actions = make("div", "card-actions");
@@ -1063,8 +1556,10 @@ function createBrandCard(row, items) {
 }
 
 function renderBrands() {
+  state.rendered = 0;
   elements.wall.hidden = true;
   elements.wall.replaceChildren();
+  elements.colorGrid.hidden = true;
   elements.sentinel.hidden = true;
   elements.grid.hidden = state.brandList.length === 0;
   const fragment = document.createDocumentFragment();
@@ -1072,16 +1567,21 @@ function renderBrands() {
   elements.grid.replaceChildren(fragment);
 }
 
+
 /* ---------- main render ---------- */
 
 function render({ keepScroll = false } = {}) {
   computeList();
   renderChrome();
   const isBrands = state.view === "brands";
-  const count = isBrands ? state.brandList.length : state.list.length;
+  const isColors = state.view === "colors";
+  const count = isColors ? state.colorRows.length : isBrands ? state.brandList.length : state.list.length;
   const companies = new Set(state.list.map((item) => item.row)).size;
-  const kindLabel = state.kind === "all" ? "이미지" : KIND_LABELS[state.kind];
-  if (state.view === "saved") {
+  const partLabel = state.kind === "layout" && state.parts.length === 1 ? PART_LABELS[state.parts[0]] : "";
+  const kindLabel = partLabel || (state.kind === "all" ? "이미지" : KIND_LABELS[state.kind]);
+  if (isColors) {
+    elements.resultCount.textContent = `${numberFormat(count)}개 회사의 포인트 컬러`;
+  } else if (state.view === "saved") {
     elements.resultCount.textContent = `${boardName(state.board)} · ${numberFormat(state.list.length)}개`;
   } else if (isBrands) {
     elements.resultCount.textContent = `${numberFormat(count)}개 회사 · ${numberFormat(state.list.length)}개 ${kindLabel}`;
@@ -1094,15 +1594,20 @@ function render({ keepScroll = false } = {}) {
     if (state.view === "saved") {
       elements.emptyTitle.textContent = state.board === HEART_BOARD ? "아직 찜한 이미지가 없습니다." : "이 보드는 비어 있습니다.";
       elements.emptyDescription.textContent = "이미지의 하트를 누르거나, 선택한 뒤 보드에 추가해 보세요.";
+    } else if (isColors) {
+      elements.emptyTitle.textContent = "조건에 맞는 포인트 컬러가 없습니다.";
+      elements.emptyDescription.textContent = "색상이나 업종 필터를 줄여 보세요.";
     } else {
       elements.emptyTitle.textContent = "선택한 조건에 맞는 이미지가 없습니다.";
       elements.emptyDescription.textContent = state.kind === "layout" && !state.items.some((item) => item.kind === "layout")
-        ? "아직 레이아웃 캡처가 없습니다. node capture_layouts.mjs 를 실행해 주세요."
+        ? "아직 레이아웃 캡처가 없습니다. node collect_components.mjs 를 실행해 주세요."
         : "필터를 줄이거나 검색어를 바꿔 보세요.";
     }
   }
+  elements.emptyReset.hidden = activeFilterCount() + (state.q ? 1 : 0) + (state.kind !== "all" ? 1 : 0) + (state.brand ? 1 : 0) === 0;
 
-  if (isBrands) renderBrands();
+  if (isColors) renderColors();
+  else if (isBrands) renderBrands();
   else renderWall();
   updateSelectionBar();
   updateFavoriteChrome();
@@ -1237,7 +1742,7 @@ function liveBoards() {
 }
 
 function boardName(id) {
-  if (id === HEART_BOARD) return "♥ 찜한 이미지";
+  if (id === HEART_BOARD) return "찜한 이미지";
   return state.boards[id]?.name || "보드";
 }
 
@@ -1274,7 +1779,7 @@ function updateFavoriteChrome() {
   document.querySelectorAll("[data-favorite-key]").forEach((element) => {
     const selected = Boolean(state.favorites[element.dataset.favoriteKey]?.selected);
     element.setAttribute("aria-pressed", String(selected));
-    if (element.classList.contains("tile-heart")) element.textContent = selected ? "♥" : "♡";
+    if (element.classList.contains("tile-heart")) element.replaceChildren(icon(selected ? "heart-fill" : "heart"));
   });
 }
 
@@ -1287,14 +1792,14 @@ function renderBoardTabs() {
     tab.append(name, make("small", "", numberFormat(boardMemberCount(id))));
     fragment.append(tab);
   });
-  fragment.append(button("board-tab add", "+ 새 보드", () => {
+  fragment.append(withIcon(button("board-tab add", "새 보드", () => {
     const name = window.prompt("새 보드 이름", "");
     if (name === null) return;
     const id = createBoard(name);
     persistSavedState();
     scheduleSync();
     setFilter({ board: id });
-  }));
+  }), "plus"));
   elements.boardTabs.replaceChildren(fragment);
   const custom = state.board !== HEART_BOARD;
   elements.boardRename.hidden = !custom;
@@ -1312,7 +1817,7 @@ function openBoardDialog(items) {
 
 function renderBoardOptions() {
   const items = state.boardTargets;
-  const options = [[HEART_BOARD, "♥ 찜한 이미지"], ...liveBoards().map(([id, board]) => [id, board.name])];
+  const options = [[HEART_BOARD, "찜한 이미지"], ...liveBoards().map(([id, board]) => [id, board.name])];
   const fragment = document.createDocumentFragment();
   options.forEach(([id, name]) => {
     const label = make("label", "board-option");
@@ -1371,32 +1876,47 @@ function renderViewer() {
   elements.viewerZoom.setAttribute("aria-pressed", String(state.viewer.zoom));
   elements.viewerBg.querySelectorAll("button").forEach((element) => element.setAttribute("aria-pressed", String(element.dataset.bg === state.viewer.bg)));
 
-  const image = make("img", item.kind === "layout" ? "is-layout" : "");
-  image.src = item.path;
-  image.alt = `${item.row.company} ${KIND_LABELS[item.kind]}${item.label ? ` ${item.label}` : ""}`;
-  image.addEventListener("click", () => toggleZoom());
+  const media = viewerMedia(item);
+  media.addEventListener("click", () => toggleZoom());
+  elements.viewerCanvas.dataset.part = item.part || "";
   if (item.kind === "icon" && item.background) {
     const frame = make("div", "icon-frame");
     frame.style.background = item.background;
-    frame.append(image);
+    frame.append(media);
+    elements.viewerCanvas.replaceChildren(frame);
+  } else if (item.kind === "button") {
+    const frame = make("div", "button-frame");
+    if (item.style?.surface) frame.style.background = item.style.surface;
+    frame.append(media);
     elements.viewerCanvas.replaceChildren(frame);
   } else {
-    elements.viewerCanvas.replaceChildren(image);
+    elements.viewerCanvas.replaceChildren(media);
   }
   elements.viewerCanvas.scrollTo(0, 0);
 
-  elements.viewerCategory.textContent = categoryLabel(item.row.category);
-  elements.viewerTitle.textContent = item.row.company;
-  elements.viewerKind.textContent = `${KIND_LABELS[item.kind]}${item.archived ? " · 지난 버전" : ""}`;
+  elements.viewerCategory.textContent = [categoryLabel(item.row.category), item.row.sub].filter(Boolean).join(" · ");
+  elements.viewerTitle.replaceChildren(markImage(item.row, "viewer-mark"), make("span", "", item.row.company));
+  const kindText = item.kind === "layout" ? `레이아웃 · ${PART_LABELS[item.part] || "전체 페이지"}` : KIND_LABELS[item.kind];
+  elements.viewerKind.textContent = `${kindText}${item.archived ? " · 지난 버전" : ""}`;
   renderViewerActions();
 
   const facts = [
     ["해상도", item.width ? `${numberFormat(item.width)} × ${numberFormat(item.height)}` : "미확인"],
     ["비율", item.width ? ratioLabel(item.ratio) : "미확인"],
     ["형식", item.format],
-    ["용량", formatBytes(item.bytes)],
     ["기기", deviceLabel(item.variant)],
   ];
+  if (!item.region) facts.splice(3, 0, ["용량", formatBytes(item.bytes)]);
+  if (item.kind === "layout" && item.label && !["page", "hero"].includes(item.part)) facts.unshift(["내용", item.label]);
+  if (item.kind === "button" && item.style) {
+    const style = item.style;
+    facts.unshift(["버튼 글자", item.label || "-"]);
+    facts.push(["형태", `${BUTTON_VARIANT_OPTIONS.find((o) => o.id === style.variant)?.label || ""} · ${BUTTON_SHAPE_OPTIONS.find((o) => o.id === style.shape)?.label || ""}`]);
+    if (style.bg) facts.push(["배경색", style.bg.toUpperCase()]);
+    if (style.fg) facts.push(["글자색", style.fg.toUpperCase()]);
+    if (style.border) facts.push(["테두리", style.border.toUpperCase()]);
+    facts.push(["모서리", `${style.radius}px`], ["높이", `${style.height}px`], ["글자", `${style.font_size}px · ${style.font_weight}`]);
+  }
   if (item.kind === "icon") {
     if (item.label) facts.push(["쓰인 곳", item.label]);
     const area = AREA_OPTIONS.find((option) => option.id === item.area);
@@ -1432,8 +1952,28 @@ function renderViewer() {
     elements.viewerPalette.append(heading, swatches, search);
   }
 
+  const brandColors = brandSwatches(item.row.colors);
+  if (brandColors.length) {
+    const block = make("div", "brand-palette");
+    const heading = make("div", "palette-heading");
+    heading.append(make("h3", "", "회사 포인트 컬러"), button("text-button", "컬러 보기", () => {
+      closeViewer();
+      setFilter({ view: "colors", brand: item.row.slug, q: "", color: "" });
+    }));
+    const row = make("div", "brand-palette-row");
+    brandColors.slice(0, 5).forEach((swatch) => {
+      const chip = button("brand-swatch", "", () => copyHex(swatch.hex), { title: `${swatch.role} ${swatch.hex.toUpperCase()} 복사` });
+      chip.style.setProperty("--swatch", swatch.hex);
+      chip.append(make("span", "brand-swatch-color"), make("strong", "", swatch.hex.toUpperCase()), make("small", "", swatch.role));
+      row.append(chip);
+    });
+    block.append(heading, row);
+    elements.viewerPalette.append(block);
+  }
+
   const links = [];
-  if (item.sourceUrl) links.push(link(item.kind === "layout" ? "캡처한 페이지" : "원본 출처", item.sourceUrl));
+  if (item.kind === "button" && item.style) links.push(button("", "CSS 복사", () => copyText(buttonCss(item), "버튼 CSS를 복사했습니다.")));
+  if (item.sourceUrl) links.push(link(item.kind === "layout" || item.kind === "button" ? "캡처한 페이지" : "원본 출처", item.sourceUrl));
   if (item.sourcePage && item.sourcePage !== item.sourceUrl) links.push(link("발견 페이지", item.sourcePage));
   if (item.row.official_url && item.row.official_url !== item.sourceUrl) links.push(link("공식 사이트", item.row.official_url));
   links.push(button("", "출처 정보 복사", () => copyText(sourceLine(item), "출처 정보를 복사했습니다.")));
@@ -1455,15 +1995,82 @@ function renderViewerActions() {
   const selected = state.selection.has(item.key);
   const boards = state.favorites[item.key]?.boards?.length || 0;
   elements.viewerActions.replaceChildren(
-    button(`action-button heart${favorite ? " is-on" : ""}`, favorite ? "♥ 찜됨" : "♡ 찜하기", () => toggleFavorite(item), { "aria-pressed": String(favorite), title: "F" }),
-    button("action-button", boards ? `보드 ${boards}곳` : "보드에 추가", () => openBoardDialog([item]), { title: "B" }),
-    button("action-button", "이미지 복사", () => copyImage(item), { title: "C · Figma에 바로 붙여넣기" }),
-    button("action-button", "파일 저장", () => downloadItem(item), { title: "D" }),
-    button(`action-button${selected ? " is-on" : ""}`, selected ? "✓ 선택됨" : "선택에 담기", () => {
+    withIcon(button(`action-button heart${favorite ? " is-on" : ""}`, favorite ? "찜됨" : "찜하기", () => toggleFavorite(item), { "aria-pressed": String(favorite), title: "F" }), favorite ? "heart-fill" : "heart"),
+    withIcon(button("action-button", boards ? `보드 ${boards}곳` : "보드에 추가", () => openBoardDialog([item]), { title: "B" }), "folder-simple-plus"),
+    withIcon(button("action-button", "이미지 복사", () => copyImage(item), { title: "C · Figma에 바로 붙여넣기" }), "copy"),
+    withIcon(button("action-button", "파일 저장", () => downloadItem(item), { title: "D" }), "download-simple"),
+    withIcon(button(`action-button${selected ? " is-on" : ""}`, selected ? "선택됨" : "선택에 담기", () => {
       toggleSelection(item, state.list.indexOf(item));
       renderViewerActions();
-    }, { title: "S · 비교와 ZIP 저장에 사용" }),
+    }, { title: "S · 비교와 ZIP 저장에 사용" }), selected ? "check-square" : "square"),
   );
+}
+
+function withIcon(element, name) {
+  element.prepend(icon(name));
+  return element;
+}
+
+// A crop of a full-page capture, drawn from the original so it stays sharp.
+function regionView(item) {
+  const { src, x, y, w, h, fullWidth, fullHeight, pixelRatio } = item.region;
+  const view = make("div", "region-view");
+  view.setAttribute("role", "img");
+  view.setAttribute("aria-label", `${item.row.company} ${PART_LABELS[item.part] || "레이아웃"}`);
+  view.style.setProperty("--w", String(w));
+  view.style.setProperty("--css-w", String(Math.round(w / (pixelRatio || 1))));
+  view.style.aspectRatio = `${w} / ${h}`;
+  view.style.backgroundImage = `url("${src}")`;
+  view.style.backgroundSize = `${(fullWidth / w) * 100}% auto`;
+  const px = fullWidth > w ? (x / (fullWidth - w)) * 100 : 0;
+  const py = fullHeight > h ? (y / (fullHeight - h)) * 100 : 0;
+  view.style.backgroundPosition = `${px}% ${py}%`;
+  return view;
+}
+
+function viewerMedia(item) {
+  if (item.region) return regionView(item);
+  const image = make("img", item.kind === "layout" ? "is-layout" : "");
+  if (item.kind === "layout" && item.variant === "mobile") image.classList.add("is-mobile");
+  image.src = item.path;
+  image.alt = `${item.row.company} ${KIND_LABELS[item.kind]}${item.label ? ` ${item.label}` : ""}`;
+  return image;
+}
+
+function buttonCss(item) {
+  const style = item.style || {};
+  const lines = [
+    style.bg ? `background: ${style.bg};` : "background: transparent;",
+    style.fg ? `color: ${style.fg};` : "",
+    style.border ? `border: 1px solid ${style.border};` : "border: 0;",
+    `border-radius: ${style.shape === "pill" ? 999 : style.radius}px;`,
+    `height: ${style.height}px;`,
+    `font-size: ${style.font_size}px;`,
+    `font-weight: ${style.font_weight};`,
+  ];
+  return [`/* ${item.row.company} 버튼: ${item.label} */`, ...lines.filter(Boolean)].join("\n");
+}
+
+// The image bytes of an item; crops are cut out of their full-page capture.
+async function itemBlob(item, type = "") {
+  if (!item.region && !type) {
+    const response = await fetch(item.path);
+    if (!response.ok) throw new Error(String(response.status));
+    return response.blob();
+  }
+  const image = await new Promise((resolve, reject) => {
+    const element = new Image();
+    element.onload = () => resolve(element);
+    element.onerror = reject;
+    element.src = item.region ? item.region.src : item.path;
+  });
+  const box = item.region || { x: 0, y: 0, w: image.naturalWidth || item.width || 512, h: image.naturalHeight || item.height || 512 };
+  const scale = !item.region && item.format === "SVG" ? Math.max(1, 1200 / Math.max(box.w, 1)) : 1;
+  const canvas = document.createElement("canvas");
+  canvas.width = Math.max(1, Math.round(box.w * scale));
+  canvas.height = Math.max(1, Math.round(box.h * scale));
+  canvas.getContext("2d").drawImage(image, box.x, box.y, box.w, box.h, 0, 0, canvas.width, canvas.height);
+  return new Promise((resolve, reject) => canvas.toBlob((blob) => (blob ? resolve(blob) : reject(new Error("toBlob failed"))), type || "image/webp", 0.92));
 }
 
 function ratioLabel(ratio) {
@@ -1493,6 +2100,7 @@ function similarItems(item, limit = 12) {
   const labs = itemLabs(item);
   const scored = [];
   state.items.forEach((other) => {
+    if (other.kind !== item.kind || (item.part && other.part !== item.part)) return;
     if (other === item || other.sha === item.sha || other.archived || other.row === item.row) return;
     let score = Infinity;
     if (item.dhash && other.dhash) {
@@ -1521,9 +2129,10 @@ function relatedStrip(title, items, note = "") {
   if (note) heading.append(make("span", "related-note", note));
   const strip = make("div", "related-strip");
   items.forEach((entry, index) => {
-    const thumb = button(`related-thumb${CONTAINED_KINDS.has(entry.kind) ? " is-contained" : ""}`, "", () => openViewer(items, index), { "aria-label": `${entry.row.company} ${KIND_LABELS[entry.kind]}`, title: `${entry.row.company} · ${KIND_LABELS[entry.kind]}${entry.date ? ` · ${entry.date}` : ""}` });
+    const thumb = button(`related-thumb${CONTAINED_KINDS.has(entry.kind) ? " is-contained" : ""}`, "", () => openViewer(items, index), { "aria-label": `${entry.row.company} ${itemCaption(entry)}`, title: `${entry.row.company} · ${itemCaption(entry)}${entry.date ? ` · ${entry.date}` : ""}` });
+    if (entry.kind === "button" && entry.style?.surface) thumb.style.background = entry.style.surface;
     const image = make("img");
-    image.src = entry.path;
+    image.src = tileSrc(entry);
     image.alt = "";
     image.loading = "lazy";
     thumb.append(image);
@@ -1537,10 +2146,11 @@ function relatedStrip(title, items, note = "") {
 function renderRelated(item) {
   const sections = [];
   const history = item.row.items
-    .filter((entry) => entry.kind === item.kind && (item.kind !== "layout" || entry.variant === item.variant) && (entry.archived || entry === item))
+    .filter((entry) => entry.kind === item.kind && entry.part === item.part && (item.kind !== "layout" || entry.variant === item.variant) && (entry.archived || entry === item))
     .sort((a, b) => (b.date || "").localeCompare(a.date || ""));
   if (history.length > 1) sections.push(relatedStrip("변천사", history, `${history.length}개 버전`));
-  const sameBrand = item.row.items.filter((entry) => !entry.archived && entry !== item).sort((a, b) => (a.kind === item.kind ? -1 : 0) - (b.kind === item.kind ? -1 : 0)).slice(0, 18);
+  const closeness = (entry) => (entry.kind === item.kind ? 0 : 2) + (entry.part === item.part ? 0 : 1);
+  const sameBrand = item.row.items.filter((entry) => !entry.archived && entry !== item).sort((a, b) => closeness(a) - closeness(b)).slice(0, 18);
   sections.push(relatedStrip("같은 회사", sameBrand));
   sections.push(relatedStrip("비슷한 이미지", similarItems(item), "형태·색감 기준"));
   elements.viewerRelated.replaceChildren(...sections.filter(Boolean));
@@ -1549,7 +2159,7 @@ function renderRelated(item) {
 function preloadNeighbors() {
   [-1, 1].forEach((delta) => {
     const neighbor = state.viewer.list[(state.viewer.index + delta + state.viewer.list.length) % state.viewer.list.length];
-    if (neighbor && neighbor.kind !== "layout") new Image().src = neighbor.path;
+    if (neighbor && neighbor.kind !== "layout" && !neighbor.region) new Image().src = neighbor.path;
   });
 }
 
@@ -1574,23 +2184,46 @@ function setViewerBackground(bg) {
 /* ---------- brand dialog ---------- */
 
 function openBrand(row) {
-  elements.brandCategory.textContent = categoryLabel(row.category);
-  elements.brandTitle.textContent = row.company;
+  elements.brandCategory.textContent = [categoryLabel(row.category), row.sub, REGION_OPTIONS.find((o) => o.id === row.region)?.label].filter(Boolean).join(" · ");
+  elements.brandTitle.replaceChildren(markImage(row, "viewer-mark"), make("span", "", row.company));
   elements.brandDescription.textContent = row.page_title || "공식 사이트에서 수집한 이미지 자료입니다.";
   const actions = [];
-  if (row.official_url) actions.push(link("공식 사이트", row.official_url, "quiet-button"));
-  actions.push(button("quiet-button", "이미지 벽으로 보기", () => {
+  if (row.official_url) actions.push(withIcon(link("공식 사이트", row.official_url, "quiet-button"), "arrow-square-out"));
+  actions.push(withIcon(button("quiet-button", "이미지 벽으로 보기", () => {
     elements.brandDialog.close();
     setFilter({ view: "wall", brand: row.slug, q: "", kind: "all" });
-  }));
+  }), "squares-four"));
   elements.brandActions.replaceChildren(...actions);
 
   const fragment = document.createDocumentFragment();
+  const swatches = brandSwatches(row.colors);
+  if (swatches.length || row.colors?.neutrals?.length) {
+    const block = make("section", "asset-group brand-colors-group");
+    const heading = make("div", "asset-group-heading");
+    heading.append(make("h3", "", "포인트 컬러"), make("span", "", row.colors?.monochrome ? "무채색 중심 브랜드" : "사이트의 버튼, 강조 글자, 로고에서 뽑은 색"));
+    const strip = make("div", "brand-color-strip");
+    [...swatches, ...(row.colors?.neutrals || []).slice(0, 4).map((hex) => ({ hex, role: "무채색", sources: [] }))].forEach((swatch) => {
+      const chip = button("brand-color", "", () => copyHex(swatch.hex), { title: `${swatch.hex.toUpperCase()} 복사${swatch.sources?.length ? ` · 근거: ${swatch.sources.join(", ")}` : ""}` });
+      chip.style.setProperty("--swatch", swatch.hex);
+      chip.style.color = readableOn(swatch.hex);
+      chip.append(make("small", "", swatch.role), make("strong", "", swatch.hex.toUpperCase()));
+      strip.append(chip);
+    });
+    block.append(heading, strip);
+    fragment.append(block);
+  }
   const live = row.items.filter((item) => !item.archived);
   KIND_ORDER.forEach((kind) => {
     const items = live.filter((item) => item.kind === kind);
     if (!items.length) return;
-    fragment.append(brandGroup(KIND_LABELS[kind], items));
+    if (kind === "layout") {
+      PART_OPTIONS.forEach((part) => {
+        const group = items.filter((item) => item.part === part.id);
+        if (group.length) fragment.append(brandGroup(`레이아웃 · ${part.label}`, group));
+      });
+    } else {
+      fragment.append(brandGroup(KIND_LABELS[kind], items));
+    }
   });
   const archived = row.items.filter((item) => item.archived).sort((a, b) => (b.date || "").localeCompare(a.date || ""));
   if (archived.length) fragment.append(brandGroup("지난 버전", archived));
@@ -1602,19 +2235,21 @@ function openBrand(row) {
 function brandGroup(title, items) {
   const group = make("section", "asset-group");
   if (items.every((item) => item.kind === "icon")) group.classList.add("icon-group");
+  if (items.every((item) => item.kind === "button")) group.classList.add("button-group");
   const heading = make("div", "asset-group-heading");
-  heading.append(make("h3", "", title), make("span", "", `${items.length}개`));
+  heading.append(make("h3", "", title), make("span", "", `${numberFormat(items.length)}개`));
   const grid = make("div", "asset-grid");
   items.forEach((item, index) => {
-    const card = button(`asset-thumb kind-${item.kind}${CONTAINED_KINDS.has(item.kind) ? " is-contained" : ""}`, "", () => openViewer(items, index), { "aria-label": `${item.row.company} ${KIND_LABELS[item.kind]} ${index + 1} 크게 보기` });
+    const card = button(`asset-thumb kind-${item.kind}${item.part ? ` part-${item.part}` : ""}${CONTAINED_KINDS.has(item.kind) ? " is-contained" : ""}`, "", () => openViewer(items, index), { "aria-label": `${item.row.company} ${itemCaption(item)} ${index + 1} 크게 보기` });
     const media = make("span", "asset-thumb-media");
     if (item.kind === "icon" && item.background) media.style.background = item.background;
+    if (item.kind === "button" && item.style?.surface) media.style.background = item.style.surface;
     const image = make("img");
-    image.src = item.path;
+    image.src = tileSrc(item);
     image.alt = "";
     image.loading = "lazy";
     media.append(image);
-    const meta = make("span", "asset-thumb-meta", item.kind === "icon" && item.label
+    const meta = make("span", "asset-thumb-meta", item.kind === "icon" || item.kind === "button" || (item.kind === "layout" && item.label && !["page", "hero"].includes(item.part))
       ? item.label
       : [item.width ? `${item.width}×${item.height}` : "", item.variant !== "shared" ? deviceLabel(item.variant) : "", item.format, item.date].filter(Boolean).join(" · "));
     card.append(media, meta);
@@ -1634,12 +2269,9 @@ function openCompare(items) {
   const columns = items.slice(0, 6).map((item) => {
     const column = make("article", "compare-column");
     const head = make("header");
-    head.append(make("strong", "", item.row.company), make("span", "", `${KIND_LABELS[item.kind]} · ${item.width}×${item.height} · ${deviceLabel(item.variant)}`));
+    head.append(make("strong", "", item.row.company), make("span", "", `${itemCaption(item)} · ${item.width}×${item.height} · ${deviceLabel(item.variant)}`));
     const scroller = make("div", `compare-media${CONTAINED_KINDS.has(item.kind) ? " is-contained" : ""}`);
-    const image = make("img");
-    image.src = item.path;
-    image.alt = `${item.row.company} ${KIND_LABELS[item.kind]}`;
-    scroller.append(image);
+    scroller.append(viewerMedia(item));
     scroller.addEventListener("scroll", () => {
       if (!elements.compareSync.checked || scroller.dataset.syncing) return;
       const ratio = scroller.scrollTop / Math.max(1, scroller.scrollHeight - scroller.clientHeight);
@@ -1687,20 +2319,7 @@ async function copyImage(item) {
     return;
   }
   try {
-    const blob = new Promise((resolve, reject) => {
-      const image = new Image();
-      image.onload = () => {
-        const scale = item.format === "SVG" ? Math.max(1, 1200 / Math.max(image.naturalWidth || 1, 1)) : 1;
-        const canvas = document.createElement("canvas");
-        canvas.width = Math.max(1, Math.round((image.naturalWidth || item.width || 512) * scale));
-        canvas.height = Math.max(1, Math.round((image.naturalHeight || item.height || 512) * scale));
-        canvas.getContext("2d").drawImage(image, 0, 0, canvas.width, canvas.height);
-        canvas.toBlob((result) => (result ? resolve(result) : reject(new Error("toBlob failed"))), "image/png");
-      };
-      image.onerror = reject;
-      image.src = item.path;
-    });
-    await navigator.clipboard.write([new ClipboardItem({ "image/png": blob })]);
+    await navigator.clipboard.write([new ClipboardItem({ "image/png": itemBlob(item, "image/png") })]);
     toast("이미지를 복사했습니다. Figma나 문서에 붙여넣으세요.");
   } catch (error) {
     console.error(error);
@@ -1709,8 +2328,9 @@ async function copyImage(item) {
 }
 
 function fileNameFor(item, index = 0) {
-  const extension = item.path.split(".").pop() || "img";
-  const base = [item.row.company, KIND_LABELS[item.kind], item.variant !== "shared" ? deviceLabel(item.variant) : "", item.width ? `${item.width}x${item.height}` : "", item.date]
+  const extension = item.region ? "webp" : item.path.split(".").pop() || "img";
+  const kind = item.kind === "layout" ? PART_LABELS[item.part] || KIND_LABELS[item.kind] : KIND_LABELS[item.kind];
+  const base = [item.row.company, kind, item.variant !== "shared" ? deviceLabel(item.variant) : "", item.width ? `${item.width}x${item.height}` : "", item.date]
     .filter(Boolean).join("_").replace(/[\\/:*?"<>|·\s]+/g, "-");
   return `${index ? `${String(index).padStart(3, "0")}_` : ""}${base}.${extension}`;
 }
@@ -1728,8 +2348,7 @@ function saveBlob(blob, name) {
 
 async function downloadItem(item) {
   try {
-    const response = await fetch(item.path);
-    saveBlob(await response.blob(), fileNameFor(item));
+    saveBlob(await itemBlob(item), fileNameFor(item));
   } catch {
     toast("파일을 저장하지 못했습니다.", "error");
   }
@@ -1814,10 +2433,9 @@ async function exportZip(items, name) {
     const item = items[index];
     toast(`ZIP 준비 중 ${index + 1} / ${items.length}`);
     try {
-      const response = await fetch(item.path);
-      if (!response.ok) throw new Error(String(response.status));
+      const blob = await itemBlob(item);
       const fileName = fileNameFor(item, index + 1);
-      files.push({ name: fileName, data: new Uint8Array(await response.arrayBuffer()) });
+      files.push({ name: fileName, data: new Uint8Array(await blob.arrayBuffer()) });
       rows.push([fileName, item.row.company, categoryLabel(item.row.category), KIND_LABELS[item.kind], deviceLabel(item.variant), item.width, item.height, item.format, item.date, item.sourceUrl, item.row.official_url]);
     } catch {
       // Skip files that cannot be read.
@@ -2020,7 +2638,8 @@ async function connectSyncCode(rawCode) {
 function setTheme(theme, persist = true) {
   elements.root.dataset.theme = theme;
   elements.themeToggle.setAttribute("aria-label", theme === "dark" ? "라이트 모드로 전환" : "다크 모드로 전환");
-  elements.themeMeta.setAttribute("content", theme === "dark" ? "#151714" : "#f4f3ef");
+  elements.themeToggle.replaceChildren(icon(theme === "dark" ? "sun" : "moon"));
+  elements.themeMeta.setAttribute("content", theme === "dark" ? "#0f0f11" : "#f6f6f7");
   if (persist) {
     try {
       localStorage.setItem("brand-library-theme", theme);
@@ -2061,7 +2680,12 @@ function setupEvents() {
   let searchTimer = 0;
   elements.search.addEventListener("input", () => {
     window.clearTimeout(searchTimer);
-    searchTimer = window.setTimeout(() => setFilter({ q: elements.search.value.trim() ? elements.search.value : "" }), 140);
+    searchTimer = window.setTimeout(() => {
+      const value = elements.search.value.trim();
+      const hex = value.match(/^#?([0-9a-f]{6})$/i);
+      if (hex) setFilter({ color: `#${hex[1].toLowerCase()}`, q: "" });
+      else setFilter({ q: value ? elements.search.value : "" });
+    }, 140);
   });
   elements.viewButtons.forEach((element) => element.addEventListener("click", () => setFilter({ view: element.dataset.view })));
   elements.sort.addEventListener("change", () => setFilter({ sort: elements.sort.value }));
@@ -2074,6 +2698,11 @@ function setupEvents() {
     render({ keepScroll: true });
   });
 
+  elements.emptyReset.addEventListener("click", () => {
+    state.q = "";
+    state.brand = "";
+    resetFilters();
+  });
   elements.filterOpen.addEventListener("click", () => document.body.classList.add("filters-open"));
   elements.filterClose.addEventListener("click", () => document.body.classList.remove("filters-open"));
 
@@ -2104,7 +2733,7 @@ function setupEvents() {
     lastWidth = window.innerWidth;
     window.clearTimeout(resizeTimer);
     resizeTimer = window.setTimeout(() => {
-      if (state.view !== "brands" && state.rows.length) {
+      if (state.view !== "brands" && state.view !== "colors" && state.rows.length) {
         const shown = state.rendered;
         setupColumns();
         while (state.rendered < shown) appendBatch();
@@ -2276,10 +2905,12 @@ function setupEvents() {
       elements.helpDialog.showModal();
     } else if (event.key.toLowerCase() === "g") {
       setFilter({ view: state.view === "brands" ? "wall" : "brands" });
+    } else if (event.key.toLowerCase() === "k") {
+      setFilter({ view: state.view === "colors" ? "wall" : "colors" });
     } else if (event.key.toLowerCase() === "r") {
       setFilter({ sort: "random", seed: Math.floor(Math.random() * 1e9) });
-    } else if (/^[0-8]$/.test(event.key)) {
-      setFilter({ kind: KINDS[Number(event.key)].id });
+    } else if (/^[0-9]$/.test(event.key) && KINDS[Number(event.key)]) {
+      setFilter({ kind: KINDS[Number(event.key)].id, parts: [], bvariants: [], bshapes: [], areas: [] });
     } else if (event.key === "Escape") {
       if (document.body.classList.contains("filters-open")) document.body.classList.remove("filters-open");
       else if (state.selection.size) clearSelection();
@@ -2291,16 +2922,22 @@ function setupEvents() {
 
 async function loadLibrary() {
   try {
-    const [manifest, layouts, history, icons, analysis] = await Promise.all([
-      fetchJson("manifest.json"),
-      fetchJson("layouts.json", true),
+    const [site, history, icons, analysis, brandColors] = await Promise.all([
+      fetchJson("site.json", true),
       fetchJson("history.json", true),
       fetchJson("icons.json", true),
       fetchJson("analysis.json", true),
+      fetchJson("brand_colors.json", true),
     ]);
+    // site.json is written by build_library.py; before its first run use the raw files.
+    const manifest = site?.rows || await fetchJson("manifest.json");
+    const parts = site ? null : await fetchJson("parts.json", true);
+    const layouts = site?.layouts || parts?.layouts || await fetchJson("layouts.json", true);
+    const components = site?.entries || parts?.entries || await fetchJson("components.json", true);
     if (!Array.isArray(manifest)) throw new Error("Invalid manifest");
     state.analysis = analysis && typeof analysis === "object" ? analysis : {};
-    buildItems(manifest, Array.isArray(layouts) ? layouts : [], Array.isArray(history) ? history : [], Array.isArray(icons) ? icons : []);
+    state.brandColors = brandColors && typeof brandColors === "object" ? brandColors : {};
+    buildItems(manifest, Array.isArray(layouts) ? layouts : [], Array.isArray(history) ? history : [], Array.isArray(icons) ? icons : [], Array.isArray(components) ? components : []);
     elements.loading.hidden = true;
     renderSummary();
     const itemKey = readUrl();
