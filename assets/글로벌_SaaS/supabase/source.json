@@ -1,0 +1,82 @@
+{
+  "company": "Supabase",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://supabase.com/",
+  "page_url": "https://supabase.com/",
+  "page_title": "Supabase | The Postgres Development Platform",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/supabase/favicon.png",
+      "source_url": "https://supabase.com/favicon/favicon-196x196.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6544,
+      "sha256": "262399369edfb4151d302d52bdf9637ef5a1709461453949ba1904a2e1095125",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/supabase/og.webp",
+      "source_url": "https://supabase.com/images/og/supabase-og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12234,
+      "sha256": "a8a84e07dabbd50a28a62e34504747a570b06aae24b776446fad88b1757ac535",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/supabase/og.webp",
+      "source_url": "https://supabase.com/images/og/supabase-og.png",
+      "source_tag": "json-ld.logo.url",
+      "content_type": "image/webp",
+      "bytes": 12234,
+      "sha256": "a8a84e07dabbd50a28a62e34504747a570b06aae24b776446fad88b1757ac535",
+      "width": 1200,
+      "height": 600,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/supabase/reference-1.webp",
+      "source_url": "https://supabase.com/_next/image?url=%2Fimages%2Findex%2Fproducts%2Fdatabase-dark.png&w=3840&q=100",
+      "source_tag": "img:page-image",
+      "context": "img hidden dark:block absolute antialiased inset-0 object-contain object-center z-0 w-full md:w-auto h-full transition-opacity group-hover:opacity-80 Supabase Postgres database span absolute group w-full md:w-auto h-full md:aspect-square md",
+      "content_type": "image/webp",
+      "bytes": 19044,
+      "sha256": "7d3ebb4025c4e293b8686f00b1c4ea86ae8d35040e173cc5f260537a05a82ffc",
+      "width": 780,
+      "height": 860
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/supabase/reference-2.webp",
+      "source_url": "https://supabase.com/_next/image?url=%2Fimages%2Findex%2Fproducts%2Fdatabase-light.png&w=3840&q=100",
+      "source_tag": "img:page-image",
+      "context": "img dark:hidden absolute antialiased inset-0 object-contain object-center z-0 w-full md:w-auto h-full transition-opacity group-hover:opacity-80 Supabase Postgres database span absolute group w-full md:w-auto h-full md:aspect-square md:max-w",
+      "content_type": "image/webp",
+      "bytes": 14616,
+      "sha256": "1dd8b22ce39c8d17eb938fbd0bd7d3fa0decae8bf4f83e17dfea095274e01ed3",
+      "width": 780,
+      "height": 860
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/supabase/reference-3.svg",
+      "source_url": "https://supabase.com/images/index/products/vector-dark.svg",
+      "source_tag": "img:page-image",
+      "context": "img hidden dark:block absolute inset-0 z-0 object-contain object-center Supabase Vector graph span absolute w-full h-full lg:aspect-390/430! flex items-end justify-center inset-0 top-16 md:top-20 lg:top-0 bottom-auto mx-auto figure absolute",
+      "content_type": "image/svg+xml",
+      "bytes": 2940,
+      "sha256": "64163694207116e91604bfecf4b2281aa11f387519392ffbdbee5ad085ae186c",
+      "width": 390,
+      "height": 430
+    }
+  ]
+}

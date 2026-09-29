@@ -1,0 +1,33 @@
+{
+  "company": "Pizza Hut",
+  "category": "식품_생활",
+  "requested_url": "https://www.pizzahut.co.kr/",
+  "page_url": "https://www.pizzahut.co.kr/",
+  "page_title": "피자헛",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1520852865226941&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/pizza-hut-korea/favicon.ico",
+      "source_url": "https://www.pizzahut.co.kr/assets/web/img/common/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 10075,
+      "sha256": "7caa6cf2dafdd3a7c0649a28357781c42960caf321934049d4b1aebaf4c68e5a",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/pizza-hut-korea/og.webp",
+      "source_url": "https://akamai.pizzahut.co.kr/images/kakao_20260701.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 34012,
+      "sha256": "a862be4037c71d50eb227d3cb05091a20290a5b5da2a2079e9b957087b3fc1ae",
+      "width": 1200,
+      "height": 601
+    }
+  ]
+}

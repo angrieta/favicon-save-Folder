@@ -1,0 +1,110 @@
+{
+  "company": "Cooper Hewitt",
+  "category": "문화_공공",
+  "requested_url": "https://www.cooperhewitt.org",
+  "page_url": "https://www.cooperhewitt.org/",
+  "page_title": "Cooper Hewitt, Smithsonian Design Museum | 2 East 91st St New York NY 10128",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1586287898094979&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/cooper-hewitt/favicon.png",
+      "source_url": "https://www.cooperhewitt.org/wp-content/themes/cooperhewitt/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1365,
+      "sha256": "f581be8eea86f6af9083e5e912b6d2d53816cc9fcb424fc6639b7866a463025e",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/cooper-hewitt/og.webp",
+      "source_url": "https://www.cooperhewitt.org/wp-content/uploads/2014/03/Garden_May_2016_01.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 86892,
+      "sha256": "7df0545dd8662c8edfbeb275b6d1096ffa2d2638b4fcbaf3bd99163c659251f1",
+      "width": 600,
+      "height": 681
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/cooper-hewitt/logo-1.svg",
+      "source_url": "https://www.cooperhewitt.org/wp-content/themes/cooperhewitt/assets/images/cooper-hewitt-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Cooper Hewitt logo a navbar-brand div navbar-header col-xs-6 col-md-2 div row div container-fluid",
+      "content_type": "image/svg+xml",
+      "bytes": 2190,
+      "sha256": "4bd7b3396d532fa3fe7bcd6686094f1fd85341def8874712656c58b89f643347",
+      "width": 90,
+      "height": 47,
+      "source_sha256": "e3b14d26082db299f8a67b526d0c024d8d1094525d66c03d7059d91a79e73427"
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/cooper-hewitt/logo-2.svg",
+      "source_url": "https://www.cooperhewitt.org/wp-content/themes/cooperhewitt/assets/images/cooper-hewitt-logo-horizontal.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Smithsonian Design Museum logo div hidden-xs div col-xs-6 col-md-2 div row secondary-footer-nav div container",
+      "content_type": "image/svg+xml",
+      "bytes": 3204,
+      "sha256": "c63974f7f588d3a1ead9f565dc34bbbc8a194111db90b558122f9bf02c035a84",
+      "width": 179,
+      "height": 26,
+      "source_sha256": "2fba3cd87c1d04fb7d9330a5a7bd29dad2080275aafba96ad08aa734727be244"
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/cooper-hewitt/banner-1.webp",
+      "source_url": "https://www.cooperhewitt.org/wp-content/uploads/2024/08/design-topics-banner.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img attachment-homepage-thumb size-homepage-thumb wp-post-image Two colorful illustrated hands on a black background.. div content-block__thumb--wrapper div content-block__thumb image-container col-xs-7 col-md-6 a post-42 col-md-6 content-b",
+      "content_type": "image/webp",
+      "bytes": 69530,
+      "sha256": "f508f76b710b3ba35379b5f7417b9deab4de735ef3c01857a9e474fd16181d3e",
+      "width": 1600,
+      "height": 1048,
+      "source_sha256": "baab3010ac69487c483873805b8106165cbfa5a1c566b26db78772adcd26cfb9"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/cooper-hewitt/reference-1.webp",
+      "source_url": "https://www.cooperhewitt.org/wp-content/uploads/2021/10/Clock-Tile.jpg",
+      "source_tag": "json-ld.@graph[2].image.url",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 42896,
+      "sha256": "385c8b6018ae8e15cc78ddd4d0852121261a4bfa6268d6161a600a6f317e4731",
+      "width": 1024,
+      "height": 1014
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/cooper-hewitt/reference-2.webp",
+      "source_url": "https://www.cooperhewitt.org/wp-content/uploads/2022/05/WebBanner_2000x1000-DesignAcrossTime-030226.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Grid of twelve objects showing examples of wearables, lamps, dishware, wallpaper, and seating that have changed over time. div slide-wrapper a post-43312 post image-container slider-pos-1 div grid-slide div home-view-holder grid",
+      "content_type": "image/webp",
+      "bytes": 150954,
+      "sha256": "50fe7aea970ff7a2c43b01fd431c1a03c9d1975bb538a6e5838c4c61a5771e95",
+      "width": 1600,
+      "height": 800,
+      "source_sha256": "e05a6fc283638f65d1b9ca0d99fae108d9289bc6008b36cb79e11c7ddf39add4"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/cooper-hewitt/reference-3.webp",
+      "source_url": "https://www.cooperhewitt.org/wp-content/uploads/2021/05/Garden_HomePageTile-1-scaled.jpg",
+      "source_tag": "img:page-image",
+      "context": "img People linger in the Cooper Hewitt garden with the vine-covered mansion behind them. div slide-wrapper a post-40173 post image-container slider-pos-2 div grid-slide div home-view-holder grid",
+      "content_type": "image/webp",
+      "bytes": 186106,
+      "sha256": "1e04b27d5b9e05b7f9712f7131696bfec0f9ee82b6dd11e37c85d9b52ecf34f0",
+      "width": 1600,
+      "height": 800,
+      "source_sha256": "e4d1b90bdfd45a87311b024dc0f748b47d379394388cc78a8392e401f86ef496"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "company": "Wise",
+  "category": "핀테크_결제",
+  "requested_url": "https://wise.com/kr/",
+  "page_url": "https://wise.com/kr/",
+  "page_title": "Wise: The international account | Money without borders | Wise South Korea",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://wise.com/static-assets/app/_next/static/media/account-video-mobile-abe2f59123ca98f0cf12695071f40a8d.webm; reference:ValueError:https://wise.com/web-art/assets/illustrations/globe-small@2x.webp; reference:ValueError:https://wise.com/web-art/assets/illustrations/globe-small@1x.webp; reference:ValueError:https://wise.com/web-art/assets/illustrations/globe-medium@2x.webp; reference:ValueError:https://wise.com/web-art/assets/illustrations/globe-medium@1x.webp; reference:ValueError:https://wise.com/web-art/assets/illustrations/globe-large@1x.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/wise/favicon.png",
+      "source_url": "https://wise.com/public-resources/assets/icons/wise-personal/apple_touch_icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2657,
+      "sha256": "c5057343c846ae8bec922d181023a885b4b7c6217827e07bab1a215454d7f8fb",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/wise/og.webp",
+      "source_url": "https://wise.com/public-resources/assets/icons/wise-personal/share_landscape.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6446,
+      "sha256": "23962b7a373876988abc519f9af0e8f7b1d1ccda4d4b87cfb023402eb596ea24",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/wise/logo-1.png",
+      "source_url": "https://wise.com/public-resources/assets/logos/wise-personal/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 4435,
+      "sha256": "e3724cdac03bd391d662298ee0a4ca3805e60e0757aba78f257e394d92a4b7de",
+      "width": 268,
+      "height": 61
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/wise/logo-2.webp",
+      "source_url": "https://wise.com/public-resources/assets/global-navigation/gn_personal_v3.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img SegmentCard_segmentCard__media A group of friends at a table drinking coffee and using a Wise Multi-Currency Card to pay. a header-personal-card-default SegmentCard_segmentCard div NavigationDesktop_navigation_primary__panel_wrapper div",
+      "content_type": "image/webp",
+      "bytes": 104516,
+      "sha256": "38b6b5e615d220526d10c2411b866995024842922ff85549a4dac99d2e723b75",
+      "width": 784,
+      "height": 440
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/wise/reference-1.webp",
+      "source_url": "https://wise.com/public-resources/assets/global-navigation/gn_business_v2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img SegmentCard_segmentCard__media A group of people working together in an office. a header-business-card SegmentCard_segmentCard div NavigationDesktop_navigation_primary__panel_wrapper div Navigation_gn-navigation_container div radix-_R_a",
+      "content_type": "image/webp",
+      "bytes": 52872,
+      "sha256": "1106761e18a76cbfaa840c1c09f20232383e7cf345dd2f01cb01af8d4f5ecee3",
+      "width": 784,
+      "height": 440
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/wise/reference-2.webp",
+      "source_url": "https://wise.com/public-resources/assets/global-navigation/gn_platform_v2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img SegmentCard_segmentCard__media A city skyline at golden hour. a header-platform-card SegmentCard_segmentCard div NavigationDesktop_navigation_primary__panel_wrapper div Navigation_gn-navigation_container div radix-_R_an6_-content-header",
+      "content_type": "image/webp",
+      "bytes": 111636,
+      "sha256": "449082d9adb0136bd06a2eefb454da282090d57d533b68b7bb52e1aaf5525710",
+      "width": 784,
+      "height": 440
+    }
+  ]
+}

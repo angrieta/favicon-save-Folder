@@ -1,0 +1,121 @@
+{
+  "company": "NASA",
+  "category": "문화_공공",
+  "requested_url": "https://www.nasa.gov",
+  "page_url": "https://www.nasa.gov/",
+  "page_title": "NASA",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://science.nasa.gov/wp-content/uploads/2026/09/davinci-heat-test-1.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/nasa/favicon.png",
+      "source_url": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/favicon-228x228.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 26123,
+      "sha256": "cb94c0a9004772ee81bc698d169df297f2ae911519cc6319b6244dbf8ac26a15",
+      "width": 228,
+      "height": 228
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/nasa/og.webp",
+      "source_url": "https://www.nasa.gov/wp-content/uploads/2018/07/174116main_2006_01777_highres.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 98468,
+      "sha256": "988859b94ee8e502d406caa9ec56896ff0d25c45312ac121e1b6ebe578fa007a",
+      "width": 1200,
+      "height": 960
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/nasa/logo-1.png",
+      "source_url": "https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo@2x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img NASA Logo a mobile-header-logo usa-logo display-block margin-0 width-fit-content text-center div grid-col display-flex flex-align-center flex-justify-center div usa-nav-container grid-row header hds-nasa-header usa-header usa-header-mob",
+      "content_type": "image/png",
+      "bytes": 8603,
+      "sha256": "903ab0615572db83947471f0ff4090cad5b5897126510fd3a3ad952dd6a03efb",
+      "width": 121,
+      "height": 102
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/nasa/logo-2.svg",
+      "source_url": "https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img NASA Logo a mobile-header-logo usa-logo display-block margin-0 width-fit-content text-center div grid-col display-flex flex-align-center flex-justify-center div usa-nav-container grid-row header hds-nasa-header usa-header usa-header-mob",
+      "content_type": "image/svg+xml",
+      "bytes": 6540,
+      "sha256": "f703b16ba446d9476c2922ea7b975d226171d1a0c846a3910e9b66482754e33d",
+      "width": 110,
+      "height": 92,
+      "source_sha256": "e03e455100c083590c507df7870c3887a9f2298388cf6f421b6d72bc7eae9008"
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/nasa/banner-1.webp",
+      "source_url": "https://www.nasa.gov/wp-content/uploads/2026/09/2024yr4-discovery-atlas.gif?w=650",
+      "source_tag": "img:semantic-banner",
+      "context": "img attachment-2048x2048 size-2048x2048 figure hds-media-background div width-full maxw-full bg-carbon-05 hds-cover-wrapper minh-tablet-lg hds-module hds-module-full alignfull wp-block-nasa-blocks-callout div entry-content article post-1289",
+      "content_type": "image/webp",
+      "bytes": 119450,
+      "sha256": "9d5faf2b392d999f2022c58d6fd132866cc2eb43974c40c34228741e53e4d06b",
+      "width": 650,
+      "height": 500
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/nasa/banner-2.webp",
+      "source_url": "https://www.nasa.gov/wp-content/uploads/2023/01/webb-tarantula-neb.png?w=1536",
+      "source_tag": "img:semantic-banner",
+      "context": "img attachment-1536x1536 size-1536x1536 Space image with stars and swirls of colorful orange, red and white. figure hds-media-background div hds-cover-wrapper hds-subscription z-400 width-full maxw-full padding-x-3 padding-y-4 bg-carbon-bla",
+      "content_type": "image/webp",
+      "bytes": 182496,
+      "sha256": "f2213b8e7d1a45bd67f3e9ff73385e3ad9b817f11bb15df5fb643c7e05853a53",
+      "width": 1535,
+      "height": 1198,
+      "source_sha256": "d78b8c4b57f88af28c9519e272d3c0590a01138e8d9eeacbed854796c35cd3d1"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/nasa/reference-1.webp",
+      "source_url": "https://images-assets.nasa.gov/image/jsc2026e040445/jsc2026e040445~large.jpg?w=1919&h=894&fit=clip&crop=faces%2Cfocalpoint",
+      "source_tag": "img:page-image",
+      "context": "img hds-media-background z-100 The SpaceX Crew-13 members pose for a portrait in their pressure suits during a preflight training session at the company's headquarters in Hawthorne, California. From left are, Roscosmos cosmonaut Sergey Tete",
+      "content_type": "image/webp",
+      "bytes": 76778,
+      "sha256": "89ba7ff81245f92dd5bf46acf589d8c0f8e2534efdb7af8a218bcec88c2e3933",
+      "width": 1600,
+      "height": 746,
+      "source_sha256": "80b8a528e67f7087330a351721b2177b5a1d02af1ce44524c5e2f7fc1042b378"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/nasa/reference-2.webp",
+      "source_url": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=1024",
+      "source_tag": "img:page-image",
+      "context": "img hds-media-background z-100 Several galaxies shine against black space, with a large cluster near center-left. div bg-carbon-black minh-mobile div grid-col margin-bottom-2 a hds-content-card hds-content-card-home grid-col-12 desktop:grid",
+      "content_type": "image/webp",
+      "bytes": 44880,
+      "sha256": "48924eebe89bce6abb94162246d709c9c45d174469be123cf873566e972ea15a",
+      "width": 1024,
+      "height": 617
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/nasa/reference-3.webp",
+      "source_url": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img hds-media-background z-100 Several galaxies shine against black space, with a large cluster near center-left. div bg-carbon-black minh-mobile div grid-col margin-bottom-2 a hds-content-card hds-content-card-home grid-col-12 desktop:grid",
+      "content_type": "image/webp",
+      "bytes": 73296,
+      "sha256": "6f7fce9685390aa850115e216a3c1e1db479112d096e8b25cee3eb8caf5b6cb7",
+      "width": 1600,
+      "height": 964,
+      "source_sha256": "bb6e2650c589048298fa4f620e30d188e4836d1a412ff963e783220be9121230"
+    }
+  ]
+}

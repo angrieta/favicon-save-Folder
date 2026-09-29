@@ -1,0 +1,47 @@
+{
+  "company": "퍼블리",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://publy.co/",
+  "page_url": "https://publy.co/",
+  "page_title": "퍼블리 - 커리어 멤버십 PUBLY",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.amplitude.com/libs/amplitude-8.5.0-min.gz.js; reference:ValueError:https://publy.co/_next/static/css/fc6e1a96780618d6.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/publy/favicon.png",
+      "source_url": "https://publy.co/static/images/favicon/android-icon-192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 10137,
+      "sha256": "b0b5664bcb8f14b574b9eb8d4e90a0764e7f7ce1546eb8adde04019b1ce7523d",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "8cd229b2068c723941b1c8d16067af26953fc4d1bb20412247926161f01b1827"
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/publy/og.webp",
+      "source_url": "https://publy.co/static/images/meta/img_metaimage_1200_home.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4776,
+      "sha256": "6e33ae5646866590ba10c5b30f73e9183595ecc95b39c18aa83fb017b64be702",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/publy/logo-1.svg",
+      "source_url": "https://publy.co/static/images/logo/publy-rebranding-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img block h-[26px] PUBLY a div mr-6 mb-0 align-self-center div nav flex flex-row py-[8.5px] max-w-[1200px] w-full nav flex flex-col p-0 navbar navbar-light",
+      "content_type": "image/svg+xml",
+      "bytes": 2834,
+      "sha256": "457f58db82743c072172ff04de761f35b4d6cdce0486abdc4fd1d0c88664067c",
+      "width": 99,
+      "height": 25,
+      "source_sha256": "e85bd8f729cce56631d14adbff0cd0667ae177a20ad88743a7fc65dedf7dddc9"
+    }
+  ]
+}

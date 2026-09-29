@@ -1,0 +1,58 @@
+{
+  "company": "비짓부산",
+  "category": "항공_여행",
+  "requested_url": "https://www.visitbusan.net/",
+  "page_url": "https://www.visitbusan.net/index.do",
+  "page_title": "부산스마트관광",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.visitbusan.net/visitcounter/visitcounter.do?refer=DOM_0000002",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/visit-busan/favicon.ico",
+      "source_url": "https://www.visitbusan.net/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 27198,
+      "sha256": "01c8680cc65985ff0fc994804e917ebe67449907ca3da8512e5f061d970f3f59",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/visit-busan/logo-1.png",
+      "source_url": "https://www.visitbusan.net/images/intro/intro_logo_S.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 부산시 공식 관광 포털 비짓부산 VISIT BUSAN  a h1 div introContents div introWrap",
+      "content_type": "image/png",
+      "bytes": 2755,
+      "sha256": "dea39d433b01e983985c9b94bc2b13e027e978ba62c5546f1f3664c03332cb16",
+      "width": 130,
+      "height": 91
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/visit-busan/logo-2.png",
+      "source_url": "https://www.visitbusan.net/images/intro/intro_logo_B.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 부산에가면 h2 div introContents div introWrap div wrap",
+      "content_type": "image/png",
+      "bytes": 4096,
+      "sha256": "e3090b5c3ba0666c4f8134200c682c08e45663921b3859e5572fac8fe20d5af6",
+      "width": 382,
+      "height": 222
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/visit-busan/banner-1.webp",
+      "source_url": "https://www.visitbusan.net/images/intro/intro_b.jpg",
+      "source_tag": "inline-background-image",
+      "context": "body   background:url(/images/intro/intro_b.jpg) no-repeat",
+      "content_type": "image/webp",
+      "bytes": 150806,
+      "sha256": "369a220af8c9dfcd53a9aab30663d741489ef443a319c6e0746a774a6cf0e23d",
+      "width": 1800,
+      "height": 882
+    }
+  ]
+}

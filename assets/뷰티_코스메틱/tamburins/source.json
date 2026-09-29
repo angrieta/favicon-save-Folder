@@ -1,0 +1,82 @@
+{
+  "company": "탬버린즈",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.tamburins.com/kr/",
+  "page_url": "https://www.tamburins.com/kr/",
+  "page_title": "TAMBURINS 탬버린즈 공식 온라인 스토어",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/tamburins/favicon.png",
+      "source_url": "https://web-resource.tamburins.com/common/favicon/android-icon-192_192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2248,
+      "sha256": "fbb2904019d79d5314915c9c7618215f9ebf3af33cc321c6a9739b48210557c4",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/tamburins/og.webp",
+      "source_url": "https://web-resource.tamburins.com/image/share_banner_ohand.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20764,
+      "sha256": "037b1ddcb8f2d6979136eada9ce0ba7a17f33f109368eb012ae096b23710a5cf",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/tamburins/favicon.png",
+      "source_url": "https://web-resource.tamburins.com/common/favicon/android-icon-192_192.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/png",
+      "bytes": 2248,
+      "sha256": "fbb2904019d79d5314915c9c7618215f9ebf3af33cc321c6a9739b48210557c4",
+      "width": 192,
+      "height": 192,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/tamburins/reference-1.webp",
+      "source_url": "https://web-resource.tamburins.com/catalog/catalog/Main-Img.jpg/5c24278c-d613-471c-91e3-29acaa48f196/Main-Img.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 탬버린즈 오 핸드크림 제품 사진 a li Gnb_sub-category-item__Tkm3S ul sub-category-list Gnb_sub-category-list__CNFg9 flex div Gnb_sub-category__B5MXb",
+      "content_type": "image/webp",
+      "bytes": 103834,
+      "sha256": "e69305287e0628f0d4d1be2bc95211c2a2499c7c05ea0ddb7956941e018dc503",
+      "width": 1011,
+      "height": 1316
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/tamburins/reference-2.webp",
+      "source_url": "https://web-resource.tamburins.com/catalog/catalog/category_gift_recommend_custom.jpg/6f83a3bc-6225-4f9a-aea3-ee36ee7c3789/category_gift_recommend_custom.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 탬버린즈 커스텀 기프트 제품 사진 a li Gnb_sub-category-item__Tkm3S ul sub-category-list Gnb_sub-category-list__CNFg9 flex div Gnb_sub-category__B5MXb",
+      "content_type": "image/webp",
+      "bytes": 21478,
+      "sha256": "cca1926accbb9591254dfa196d00fcc758ff11e48410ffcc3c567497aae9c7f1",
+      "width": 506,
+      "height": 659
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/tamburins/reference-3.webp",
+      "source_url": "https://web-resource.tamburins.com/catalog/catalog/category_gift_recommend_best.jpg/2e588922-6923-435e-8bc4-b269dc77535f/category_gift_recommend_best.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 탬버린즈 베스트 기프트 제품 사진 a li Gnb_sub-category-item__Tkm3S ul sub-category-list Gnb_sub-category-list__CNFg9 flex div Gnb_sub-category__B5MXb",
+      "content_type": "image/webp",
+      "bytes": 43614,
+      "sha256": "e9ee93bfb9556f8f4a4eaaab42bf80fc1ae73fd7d79e2138f8967a8caa0425f0",
+      "width": 506,
+      "height": 659
+    }
+  ]
+}

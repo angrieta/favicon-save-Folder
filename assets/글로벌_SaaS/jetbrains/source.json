@@ -1,0 +1,95 @@
+{
+  "company": "JetBrains",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.jetbrains.com/ko-kr/",
+  "page_url": "https://www.jetbrains.com/ko-kr/",
+  "page_title": "JetBrains: 소프트웨어 개발자 및 팀을 위한 필수 도구",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.jetbrains.com/_assets/rr/soc-certification-banner-Dzhcf_pp.js; banner:ValueError:https://www.jetbrains.com/_assets/rr/teamcity-pipe-D91RXjJ1.webp; reference:ValueError:https://www.jetbrains.com/_assets/rr/hero-image-wrapper-Cug3ZhGM.webp; reference:ValueError:https://www.jetbrains.com/_assets/rr/for-dev-air-ides-XKKnFWit.webp; reference:ValueError:https://www.jetbrains.com/_assets/rr/for-teams-air-web-CdV3NqCk.webp; reference:ValueError:https://www.jetbrains.com/_assets/rr/for-org-access-management-kvmpzhg0.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/jetbrains/favicon.png",
+      "source_url": "https://www.jetbrains.com/icon-512.png?r=1234",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 15532,
+      "sha256": "6d1f4d866fa46e89784da408ff74bf74169272e68c4babf1aefb9dc147aa5e85",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/jetbrains/og.webp",
+      "source_url": "https://resources.jetbrains.com/storage/products/jetbrains/img/meta/preview.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20758,
+      "sha256": "eabc0fa1c39c32580ba77b7bd098e1edb02b6cd19258c860efd600472d696452",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/jetbrains/logo-1.svg",
+      "source_url": "https://www.jetbrains.com/_assets/rr/logo_zynex_white-Cdw9CQvA.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img zynex div _caseStudyCardLogo_uIuU6 a _clickable_wzbthc_111 _themeDark_wzbthc_11 _modeClassic_wzbthc_41 _padding24_wzbthc_21 _borderRadius16_wzbthc_34 _transparentBorderTrue_wzbthc_60 _legacyBorder_wzbthc_133 _caseStudyCard_0HCgD _wt-col",
+      "content_type": "image/svg+xml",
+      "bytes": 8645,
+      "sha256": "acc79d2515bfd058160621a7c520b6ff513087eb57aab30c1dedc1be88de51f6",
+      "width": 88,
+      "height": 40
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/jetbrains/logo-2.svg",
+      "source_url": "https://resources.jetbrains.com/storage/wtui/logos/vb-dotnet_dark.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo div _itemLogo_ixITF _m_7idlpm_6 div _item_-51Qb div cmn-ui-marquee__group div cmn-ui-marquee cmn-ui-marquee_has-fading-edges wt-offset-top-96 wt-offset-top-md-48",
+      "content_type": "image/svg+xml",
+      "bytes": 1694,
+      "sha256": "209e9c22dbc9fac70fe2e1c08fd105826e962b015e570a5da58e8940fd6da74f",
+      "width": 55,
+      "height": 64,
+      "source_sha256": "ed8fabd678d8cdf9cd464e98730bd643474d76a2fcea5b85e576df7c087194a4"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/jetbrains/reference-1.webp",
+      "source_url": "https://www.jetbrains.com/_assets/rr/for-dev-air-ides-fIZT6SGd.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div air-segment-slide-devs _slide_TT--8 div _carouselTrack_p944s div _carousel_yZJw8 div _switcher_aHwb1",
+      "content_type": "image/webp",
+      "bytes": 80428,
+      "sha256": "7622d3fb9d763c2681aafec6045df5321d5150ca81fc73ca8c017cd2277a1b71",
+      "width": 1600,
+      "height": 839,
+      "source_sha256": "77235be92f62d8b8f11028a477e5d5fdb6dba7e8705c849a0ec45599f053d62f"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/jetbrains/reference-2.webp",
+      "source_url": "https://www.jetbrains.com/_assets/rr/for-teams-air-web-lCn3ipol.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div air-segment-slide-teams _slide_TT--8 div _carouselTrack_p944s div _carousel_yZJw8 div _switcher_aHwb1",
+      "content_type": "image/webp",
+      "bytes": 51928,
+      "sha256": "1b4891b032365006976da5e03dac74ca557f7e3bea309836f53b53525f1b0fc1",
+      "width": 1800,
+      "height": 944
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/jetbrains/reference-3.webp",
+      "source_url": "https://www.jetbrains.com/_assets/rr/for-org-access-management-JWoDHmC9.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div air-segment-slide-orgs _slide_TT--8 div _carouselTrack_p944s div _carousel_yZJw8 div _switcher_aHwb1",
+      "content_type": "image/webp",
+      "bytes": 47014,
+      "sha256": "22b026a7162ce78e596cf019381b293a778b835cf086c95dd886095e387c7c52",
+      "width": 1800,
+      "height": 944
+    }
+  ]
+}

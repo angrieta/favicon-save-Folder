@@ -1,0 +1,94 @@
+{
+  "company": "알라딘",
+  "category": "유통_커머스",
+  "requested_url": "https://www.aladin.co.kr",
+  "page_url": "https://www.aladin.co.kr/home/welcome.aspx",
+  "page_title": "알라딘",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/aladin/favicon.ico",
+      "source_url": "https://image.aladin.co.kr/img/home/aladin.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 411606,
+      "sha256": "a5d5c2d0b2e3f32bc126fd171e6298a05b71ef69df047343e23705784a5dc6ca",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/aladin/og.webp",
+      "source_url": "https://image.aladin.co.kr/img/logo_big.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13958,
+      "sha256": "8ad911f220220b93a2999a56e9964e9ace0cf32a0ff3a21ccfd20f592814dd74",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/aladin/og.webp",
+      "source_url": "https://image.aladin.co.kr/img/logo_big.jpg",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 13958,
+      "sha256": "8ad911f220220b93a2999a56e9964e9ace0cf32a0ff3a21ccfd20f592814dd74",
+      "width": 1200,
+      "height": 627,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/aladin/logo-2.webp",
+      "source_url": "https://image.aladin.co.kr/img/header/2023/aladin_logo.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 알라딘 a logoBtn h1 div headermiddle div aladin_header_wrap new",
+      "content_type": "image/webp",
+      "bytes": 1970,
+      "sha256": "28a1971829d2a6b3115562075468328eb47313359bb18fc9f9d0da442b0acc65",
+      "width": 212,
+      "height": 88
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/aladin/reference-1.webp",
+      "source_url": "https://image.aladin.co.kr/img/bn/used/2026/01/layer_260109_used.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a div banner div div head_used_layer header_layer_box",
+      "content_type": "image/webp",
+      "bytes": 13336,
+      "sha256": "c079d6473949329edf7c770a86efdbd375d6505cc1e5ff96308de9ff4476cbd1",
+      "width": 452,
+      "height": 580
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/aladin/reference-2.webp",
+      "source_url": "https://image.aladin.co.kr/img/bn/music/2026/03/layer_260831_Bach.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a div banner div div head_music_layer header_layer_box",
+      "content_type": "image/webp",
+      "bytes": 29916,
+      "sha256": "e0c046232e86d5365f074d88001bcb0c4ac7de2e1ad5b9872069620727e8f246",
+      "width": 600,
+      "height": 580
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/aladin/reference-3.webp",
+      "source_url": "https://image.aladin.co.kr/img/bn/dvd/2026/03/0715_evil_hlayer.png",
+      "source_tag": "img:page-image",
+      "context": "img a div banner div div head_dvd_layer header_layer_box",
+      "content_type": "image/webp",
+      "bytes": 36464,
+      "sha256": "ae0f7ba54d9fb9ac87d13300bd5c464443091e3ac65d4b611d8c3b96fbd55e98",
+      "width": 600,
+      "height": 580
+    }
+  ]
+}

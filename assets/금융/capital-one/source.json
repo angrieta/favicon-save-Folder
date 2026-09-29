@@ -1,0 +1,94 @@
+{
+  "company": "Capital One",
+  "category": "금융",
+  "requested_url": "https://www.capitalone.com",
+  "page_url": "https://www.capitalone.com/",
+  "page_title": "Capital One | Credit Cards, Checking, Savings & Auto Loans",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/capital-one/favicon.png",
+      "source_url": "https://www.capitalone.com/assets/shell/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2381,
+      "sha256": "015201fdcfbfbebbcf0683fb4dc55b90d9a7f6c3177f18c1a9f33a4c6b81b6a6",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/capital-one/og.webp",
+      "source_url": "https://ecm.capitalone.com/WCM/homepage/photos/seo/capitalone-homepage.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 47924,
+      "sha256": "7f86184eb6477e8c28d56e845da74ed458501d73a1f86f91f0c542a8fee08cf9",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/capital-one/favicon.png",
+      "source_url": "https://www.capitalone.com/assets/shell/apple-touch-icon.png",
+      "source_tag": "json-ld[1].logo",
+      "content_type": "image/png",
+      "bytes": 2381,
+      "sha256": "015201fdcfbfbebbcf0683fb4dc55b90d9a7f6c3177f18c1a9f33a4c6b81b6a6",
+      "width": 180,
+      "height": 180,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/capital-one/banner-1.webp",
+      "source_url": "https://ecm.capitalone.com/WCM/homepage/testing/photos/hero/card/12_16_ehp-pa-cardgrid-desktop/rdesktop.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div background shared-banner1-background ng-star-inserted div banner1-text-panel ng-star-inserted shared-banner1-responsive-banner-container",
+      "content_type": "image/webp",
+      "bytes": 33742,
+      "sha256": "e5d1561afca0afb0e24ae780c7d1ddfd07144d9f3262ba8cc76bf416719177b3",
+      "width": 1442,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/capital-one/reference-1.webp",
+      "source_url": "https://ecm.capitalone.com/WCM/homepage/testing/checkered-component/2024/digital-205-topic-selector-12-12/tab-1-e4.c-item-1-desktop.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Hand holding credit card div lifestyle ng-star-inserted shared-image-responsive div image-container content-col grv-shr-lib-col grv-shr-lib-col--sm-4 grv-shr-lib-col--lg-6 ng-star-inserted div grv-shr-lib-row checkered-row ng-star-inser",
+      "content_type": "image/webp",
+      "bytes": 15854,
+      "sha256": "fb9f735a8cfdf05f020b7e660c6fcd670beb3789bdf779beca6b51962e259489",
+      "width": 1120,
+      "height": 1120
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/capital-one/reference-2.webp",
+      "source_url": "https://ecm.capitalone.com/WCM/homepage/testing/checkered-component/2024/digital-205-topic-selector-12-12/tab-1-e4.c-item-2-desktop.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Person at work on laptop and woman scanning boxes div lifestyle ng-star-inserted shared-image-responsive div image-container content-col grv-shr-lib-col grv-shr-lib-col--sm-4 grv-shr-lib-col--lg-6 ng-star-inserted div grv-shr-lib-row ch",
+      "content_type": "image/webp",
+      "bytes": 92410,
+      "sha256": "1201cd5ed6e6db506ae657b4fd1f7ddbc333db02cbf780185513c4a6cb1d151b",
+      "width": 1120,
+      "height": 1120
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/capital-one/reference-3.webp",
+      "source_url": "https://ecm.capitalone.com/WCM/homepage/testing/card-set/2024/digital-205-topic-selector-12-12/tab-1-e1.b-item-1-all-viewports/rmobile.jpg",
+      "source_tag": "img:page-image",
+      "context": "img featured-card__image Person opens a box to see his purchases div featured-card__image-container shared-featured-card-image ng-star-inserted div grv-shr-lib-card featured-card__container two-cards shared-featured-card",
+      "content_type": "image/webp",
+      "bytes": 24208,
+      "sha256": "13476f79b3c9115c5d21240e2e2a1b878e313f1a93b9fc2773861adaad04df48",
+      "width": 704,
+      "height": 352
+    }
+  ]
+}

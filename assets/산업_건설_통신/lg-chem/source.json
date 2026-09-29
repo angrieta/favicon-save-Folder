@@ -1,0 +1,69 @@
+{
+  "company": "LG화학",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.lgchem.com/",
+  "page_url": "https://www.lgchem.com:443/main/index",
+  "page_title": "LG화학",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.lgchem.com:443/upload/file/main-banner/3_re_low[4].mp4; banner:ValueError:https://www.lgchem.com:443/upload/file/main-banner/4_re_low[4].mp4; reference:ValueError:https://www.lgchem.com:443/upload/file/main-banner/Company_Ad_video_2026_low.mp4; reference:ValueError:https://www.lgchem.com:443/upload/file/main-banner/2_re_low[4].mp4; reference:ValueError:https://www.lgchem.com:443/upload/file/main-banner/3_re_low[4].mp4; reference:ValueError:https://www.lgchem.com:443/upload/file/main-banner/4_re_low[4].mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/lg-chem/favicon.ico",
+      "source_url": "https://www.lgchem.com:443/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "8deb3f136450650a2747982ed0c0b12e6c065d7133a9f0806de6b84975e223ac",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/lg-chem/og.webp",
+      "source_url": "https://www.lgchem.com/asset/images/common/seo/oglogo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2400,
+      "sha256": "99336c8ff55871003c8947deb4420fd2ccd9bee0c21414eb1727ee5769c7ba93",
+      "width": 300,
+      "height": 157
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/lg-chem/logo-1.png",
+      "source_url": "https://www.lgchem.com/asset/images/ko/default/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 2986,
+      "sha256": "ea8d58a418d5f887a10b018b19377a79c593585d74469729c52c9722e33156e5",
+      "width": 145,
+      "height": 39
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/lg-chem/logo-2.webp",
+      "source_url": "https://www.lgchem.com:443/upload/file/gnb-banner/gnbmobile.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div main-slogan m-show div menu-content-inner LG화학 nav menu-ctr menu-content renewal header header",
+      "content_type": "image/webp",
+      "bytes": 212,
+      "sha256": "4247d4a9adb02d9ed19a219145ca9fdfe7588d31f6ab949611cb7f0502edbf6c",
+      "width": 523,
+      "height": 156
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lg-chem/reference-1.webp",
+      "source_url": "https://www.lgchem.com:443/asset/images/common/main/main_notice_250312.png",
+      "source_tag": "img:page-image",
+      "context": "img div popup-title01 txt-area div popup-content div noticeLayerPopup popup-wrap main-popup notice-popup link",
+      "content_type": "image/webp",
+      "bytes": 33302,
+      "sha256": "447f6655a69071c569f94a8728eee38158736b0c3d978d819ddf77cc01025d89",
+      "width": 440,
+      "height": 621
+    }
+  ]
+}

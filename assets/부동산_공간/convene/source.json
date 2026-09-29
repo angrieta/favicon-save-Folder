@@ -1,0 +1,96 @@
+{
+  "company": "Convene",
+  "category": "부동산_공간",
+  "requested_url": "https://convene.com/",
+  "page_url": "https://convene.com/",
+  "page_title": "Convene | Hospitality-Driven Meeting, Event, and Flexible Office Spaces",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://convene.com/wp-content/uploads/2026/08/convene-hero-mobile.mp4; banner:ValueError:https://convene.com/wp-content/uploads/2026/08/convene-hero.mp4; reference:ValueError:https://convene.com/wp-content/uploads/2026/08/convene-hero-mobile.mp4; reference:ValueError:https://convene.com/wp-content/uploads/2026/08/convene-hero.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/convene/favicon.svg",
+      "source_url": "https://convene.com/wp-content/uploads/2026/08/convene-bubble.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 652,
+      "sha256": "b73a1c48cd2400aeff1cd25b0fcdd16463d4a4ecb1a2707aef7e1a84b8f7a8b1",
+      "width": 100,
+      "height": 100,
+      "source_sha256": "94388cb534b802f358d38d299be31af057023b651f333cdbdd366c5942cc263f"
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/convene/logo-1.svg",
+      "source_url": "https://convene.com/wp-content/uploads/2022/03/C_circle_48x48.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 776,
+      "sha256": "f37c48c5c95ea2f3517160eec62fab9785bb742289e759ff8410f5715372dd0c",
+      "width": 48,
+      "height": 48,
+      "source_sha256": "732807ebb9438e1807bf5330cfa28f55f3eb63b7de2bb9bf668ff89f46b12a9c"
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/convene/banner-1.webp",
+      "source_url": "https://convene.com/wp-content/uploads/2026/09/Convene_Fall_Winter_2019_Full_Res-39-768x512.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover object-center size-full aspect-square transition duration-500 group-hover:scale-105 group-focus:scale-105 Convene_Fall_Winter_2019_Full_Res-39 a block overflow-hidden mb-7 article mb-2 post group div swiper-slide div swiper",
+      "content_type": "image/webp",
+      "bytes": 33104,
+      "sha256": "3770635a5610267da03bea39c9b75c403708357e981cb8f36f705d11e50a6f0d",
+      "width": 768,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/convene/banner-2.webp",
+      "source_url": "https://convene.com/wp-content/uploads/2026/09/Convene_Fall_Winter_2019_Full_Res-39-2048x1365.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover object-center size-full aspect-square transition duration-500 group-hover:scale-105 group-focus:scale-105 Convene_Fall_Winter_2019_Full_Res-39 a block overflow-hidden mb-7 article mb-2 post group div swiper-slide div swiper",
+      "content_type": "image/webp",
+      "bytes": 96662,
+      "sha256": "a6d707d2a955a80f0385958b65ba14635f3c568e629c93dcc8af73eed3c06182",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/convene/reference-1.webp",
+      "source_url": "https://convene.com/wp-content/uploads/2022/03/Home_08_Cities_NYC_314x314-1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-center w-full h-full aspect-square z-1 transition duration-500 group-hover:scale-105 group-focus:scale-105 New York City a relative block overflow-hidden location group div swiper-slide div swiper-wrapper div locatio",
+      "content_type": "image/webp",
+      "bytes": 78058,
+      "sha256": "317509753e5219a0e1f3c1a0c408903d2584c2bbc8e90dc95bacacbefd0bda79",
+      "width": 628,
+      "height": 628
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/convene/reference-2.webp",
+      "source_url": "https://convene.com/wp-content/uploads/2022/03/Home_08_Cities_NYC_314x314-1-480x480.jpg",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-center w-full h-full aspect-square z-1 transition duration-500 group-hover:scale-105 group-focus:scale-105 New York City a relative block overflow-hidden location group div swiper-slide div swiper-wrapper div locatio",
+      "content_type": "image/webp",
+      "bytes": 42000,
+      "sha256": "6d6a3d27d7484f9143e21433352fceb138b8fcc9e07faae4b9ff0932668dec90",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/convene/reference-3.webp",
+      "source_url": "https://convene.com/wp-content/uploads/2022/03/Home_09_Cities_Chi_314x314.jpg",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-center w-full h-full aspect-square z-1 transition duration-500 group-hover:scale-105 group-focus:scale-105 Chicago a relative block overflow-hidden location group div swiper-slide div swiper-wrapper div location-caro",
+      "content_type": "image/webp",
+      "bytes": 57712,
+      "sha256": "a7ad232642a8c6dd858a35dfa3e8a9a16fb901c1422aaff45db7aea0da27724a",
+      "width": 628,
+      "height": 628
+    }
+  ]
+}

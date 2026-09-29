@@ -1,0 +1,110 @@
+{
+  "company": "Triumph Motorcycles",
+  "category": "자동차",
+  "requested_url": "https://www.triumphmotorcycles.co.kr/",
+  "page_url": "https://www.triumphmotorcycles.co.kr/",
+  "page_title": "트라이엄프 모터사이클 | For the Ride",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://media.triumphmotorcycles.co.uk/video/upload/f_auto:video/q_auto:eco/sitecoremedialibrary/media-library/images/motorcycles/speed%20twin%201200%20tfc%20dhc%202027/my27_16x9_speedtwin_tfc_web.mp4; reference:ValueError:https://media.triumphmotorcycles.co.uk/video/upload/f_auto:video/q_auto:eco/sitecoremedialibrary/media-library/images/motorcycles/speed%20twin%201200%20tfc%20dhc%202027/my27_16x9_speedtwin_tfc_web.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/triumph-motorcycles/favicon.png",
+      "source_url": "https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto:eco/SitecoreMediaLibrary//_images/android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7636,
+      "sha256": "06a06f40f238fa353e8f776a4f506b465c252afd6b3db15fe92db783832848f5",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/triumph-motorcycles/logo-1.svg",
+      "source_url": "https://www.triumphmotorcycles.co.kr/img/triumph_logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 4250,
+      "sha256": "357cf0a93901d169859844e38b43a68474349e3cc114a0b3fa8f8879b7dd70d0",
+      "width": 400,
+      "height": 83,
+      "source_sha256": "d19420a09f8ef0b47ac2352d45f5e0987ddad75849433ed651cda0b0ae168616"
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/triumph-motorcycles/logo-2.svg",
+      "source_url": "https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto:eco/sitecoremedialibrary/media-library/misc/misc-images/logo.svg?la=ko-KR&hash=33C80D7CCFEF1E5425C37E6D0076181CA1C8051F",
+      "source_tag": "img:semantic-logo",
+      "context": "img Triumph Logo a Triumph Home h3 header__home div header__left div header__main",
+      "content_type": "image/svg+xml",
+      "bytes": 8552,
+      "sha256": "d1ec90f6f05b0e6a8697ad19b5bd8648f43768b340c6f286bef3c7c9e85749a4",
+      "width": 110,
+      "height": 23,
+      "source_sha256": "1dec12b02aa66471894c008009adcbe1967eb32ba9984ee394ca0ab2ed5c33cc"
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/triumph-motorcycles/banner-1.webp",
+      "source_url": "https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto:eco/sitecoremedialibrary/media-library/images/central%20marketing%20team/for%20the%20ride/homepage/motorcross-world-championship-1920x1080.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure hero-carousel__image img-to-bg hero-carousel--opacity div hero-carousel__media div hero-carousel__item div owl-carousel hero-carousel",
+      "content_type": "image/webp",
+      "bytes": 97484,
+      "sha256": "484ce92ea1a7d3f80b14a05f0e9960de6b92ced187dae5c14fd68ccb4630a839",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "123f5831af771bd666114d60132893e729485e7973bf61b2a9539fd00b1c0f1c"
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/triumph-motorcycles/banner-2.webp",
+      "source_url": "https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto:eco/sitecoremedialibrary/media-library/images/motorcycles/speed%20twin%201200%20tfc%20dhc%202027/dhcwebheader-1920x1080.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure hero-carousel__image img-to-bg hero-carousel--opacity div hero-carousel__media div hero-carousel__item hero-carousel__item--video div owl-carousel hero-carousel",
+      "content_type": "image/webp",
+      "bytes": 96876,
+      "sha256": "d18ba1853a822f250023281070350254dae159d58b0fea7af42e2433dc06e9cc",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/triumph-motorcycles/reference-1.webp",
+      "source_url": "https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto:eco/sitecoremedialibrary/media-library/images/motorcycles/my27%20colour%20updates/rocket3r_my27-hpr-1920x1080.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  hero-carousel__video hero-video-background hero-carousel--opacity hero-with-fallback background-image: url('https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto:eco/sitecoremedialibrary/media-library/images/motorcycles/my2",
+      "content_type": "image/webp",
+      "bytes": 85620,
+      "sha256": "d76fbb015db203a7d2ecfb0f9c87a28c94b30b4a1599ed0e4d19d51f3650f63e",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/triumph-motorcycles/reference-2.webp",
+      "source_url": "https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto:eco/sitecoremedialibrary/media-library/images/motorcycles/speed%20triple%201200%20rs%202025/speed-triple-1200-rs-my25-fam-hero-1920x1080.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  hero-carousel__video hero-video-background hero-carousel--opacity hero-with-fallback background-image: url('https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto:eco/sitecoremedialibrary/media-library/images/motorcycles/spe",
+      "content_type": "image/webp",
+      "bytes": 108964,
+      "sha256": "ff7ce14d6c14580d0a1b90abcd8e0a1cebd7429f206bbfb85dd171e5f51eaebf",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "23d63ac7dd7ba956d8f7c3c53c70fb5e347019a8974cf8798610e899db0bceb2"
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/triumph-motorcycles/reference-3.webp",
+      "source_url": "https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto:eco/sitecoremedialibrary/media-library/images/motorcycles/speed%20twin%201200%20tfc%20dhc%202027/dhcmobileheader-500x500.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture figure hero-carousel__image img-to-bg hero-carousel--opacity div hero-carousel__media div hero-carousel__item hero-carousel__item--video div owl-carousel hero-carousel",
+      "content_type": "image/webp",
+      "bytes": 14788,
+      "sha256": "8b4300cbb55519cdda416e8097d5e0c007d0b5fa2bdf3581e4cb712ebc0fca6a",
+      "width": 500,
+      "height": 500
+    }
+  ]
+}

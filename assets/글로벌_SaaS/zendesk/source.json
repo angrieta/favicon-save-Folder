@@ -1,0 +1,117 @@
+{
+  "company": "Zendesk",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.zendesk.kr/",
+  "page_url": "https://www.zendesk.kr/",
+  "page_title": "AI 기반 서비스 플랫폼 | Zendesk",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://www.zendesk.kr/f=auto/images/global-navigation/global-header/zendesk_ai_masterclass.png; reference:HTTPError:https://www.zendesk.kr/q=80; reference:HTTPError:https://www.zendesk.kr/f=auto/zendesk/pages/home/animation-fallbacks/rll/RLL_ProductImagery_01__ko_kr.png; reference:HTTPError:https://www.zendesk.kr/q=45",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/zendesk/favicon.png",
+      "source_url": "https://d1eipm3vz40hy0.cloudfront.net/images/logos/favicons/zendesk-icon-57.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 3179,
+      "sha256": "367010606458045cbe5f500d9abd86215962b95e89a136c408ac13f6f671ccdd",
+      "width": 57,
+      "height": 57
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/zendesk/og.webp",
+      "source_url": "https://d1eipm3vz40hy0.cloudfront.net/images/logos/favicons/zendesk-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4886,
+      "sha256": "57de40e0e79f9405a15040f0f32fcb3be7d561ac9c86f3e80067948de245e01b",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/zendesk/logo-1.webp",
+      "source_url": "https://web-assets.zendesk.com/images/logos/favicons/zendesk-image.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 6982,
+      "sha256": "4aa2b089fb3df97a90d889cea9fd59250a16b02a277bba3957b49655539af5f9",
+      "width": 1280,
+      "height": 640
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/zendesk/logo-2.png",
+      "source_url": "https://web-assets.zendesk.com/is/image/zendesk/Siemens_Default?$primary=%2311110D&$secondary=%235d5d59&$tertiary=%23777773&fmt=avif-alpha&qlt=65&scale=2",
+      "source_tag": "img:semantic-logo",
+      "context": "img LogotypeRowstyle__Logo-sc-kq71cx-0 ixGddu Siemens Logo div logotyperow-1512772947 LogotypeRowstyle__LogotypeRowBasic-sc-kq71cx-4 grdqEA sc-5e316123-1 cTwZvJ div LogotypeRowstyle__LogotypeRowRoot-sc-kq71cx-1 div StyledCol-sc-inuw62-0 cyK",
+      "content_type": "image/png",
+      "bytes": 5024,
+      "sha256": "f0eb813662fe8fc6190152b94e1bb8b3e11430f2b4b83417f1b87da127b98c1f",
+      "width": 202,
+      "height": 112
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/zendesk/banner-1.webp",
+      "source_url": "https://web-assets.zendesk.com/cdn-cgi/image/q=65,f=auto,width=1600,fit=scale-down/zendesk/pages/home/Hero-image_V01.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img sc-dda81aa4-1 flVxjo div sc-dda81aa4-0 fFHAlL div StyledGrid-sc-oxgg5i-0 dMGWVP Gridstyle__GridRoot-sc-1aci9ft-0 fYskHb sc-f23d7fd5-2 GBsTE div Containerstyle__ContainerRoot-sc-j7wtnc-0 hHhIKw sc-f23d7fd5-7 isxkcJ section hero sc-f23d7f",
+      "content_type": "image/webp",
+      "bytes": 75956,
+      "sha256": "6cf8f3915358db57c7997729b91ce97853e598dee52dcb3b10bf572bb3878a9a",
+      "width": 1600,
+      "height": 1065
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/zendesk/banner-2.webp",
+      "source_url": "https://web-assets.zendesk.com/cdn-cgi/image/width=1080,q=80,f=auto/images/global-navigation/global-header/zendesk_ai_masterclass.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img promo-image-bleed noscript span span sc-fdfb305c-0 frWMUj div sc-c5fa0909-2 imgShg",
+      "content_type": "image/webp",
+      "bytes": 26738,
+      "sha256": "dda03c7f695870436ffca19030f29669a5b38f96d51096821ca6da2e88c678ac",
+      "width": 934,
+      "height": 710
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/zendesk/reference-1.webp",
+      "source_url": "https://web-assets.zendesk.com/zendesk/pages/home/animation-fallbacks/hero/Hero_Homepage__ko_kr.png",
+      "source_tag": "img:page-image",
+      "context": "img sc-dda81aa4-3 cAlzgE div sc-dda81aa4-2 dsTxCc div sc-dda81aa4-0 fFHAlL div StyledGrid-sc-oxgg5i-0 dMGWVP Gridstyle__GridRoot-sc-1aci9ft-0 fYskHb sc-f23d7fd5-2 GBsTE div Containerstyle__ContainerRoot-sc-j7wtnc-0 hHhIKw sc-f23d7fd5-7 isxk",
+      "content_type": "image/webp",
+      "bytes": 115128,
+      "sha256": "1aa47d8a1a2c114933d60c442bcec203fe069e5f6c3abdee72d138a1b23390fe",
+      "width": 890,
+      "height": 910
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/zendesk/reference-2.webp",
+      "source_url": "https://web-assets.zendesk.com/cdn-cgi/image/width=828,q=45,f=auto/zendesk/pages/home/animation-fallbacks/rll/RLL_ProductImagery_01__ko_kr.png",
+      "source_tag": "img:page-image",
+      "context": "img noscript span span sc-fdfb305c-0 frWMUj div sc-e20a6571-7 kbciPe",
+      "content_type": "image/webp",
+      "bytes": 33244,
+      "sha256": "a693f1bd508954f1ad3f46c9569436d92131df1a46cfabb6be7c9da473041dda",
+      "width": 828,
+      "height": 473
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/zendesk/reference-3.webp",
+      "source_url": "https://web-assets.zendesk.com/cdn-cgi/image/width=828,q=45,f=auto/zendesk/pages/home/animation-fallbacks/rll/RLL_ProductImagery_02__ko_kr.png",
+      "source_tag": "img:page-image",
+      "context": "img noscript span span sc-fdfb305c-0 frWMUj div sc-e20a6571-7 kbciPe",
+      "content_type": "image/webp",
+      "bytes": 20226,
+      "sha256": "19138806b912120f9ab10480b7dc49b011ad7bc5c62c7fc779aae265f2621347",
+      "width": 828,
+      "height": 358
+    }
+  ]
+}

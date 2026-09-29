@@ -1,0 +1,96 @@
+{
+  "company": "트리플",
+  "category": "항공_여행",
+  "requested_url": "https://triple.guide/",
+  "page_url": "https://triple.guide/intro",
+  "page_title": "나를 아는 여행 앱, 트리플",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "social",
+      "path": "assets/항공_여행/triple/og.webp",
+      "source_url": "https://assets.triple.guide/images/og-tag-app_download@4x.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21106,
+      "sha256": "8ca3d558fb452dc65bfbd2a8f2222b20ecb1195bd784831ea392b5ac4858d9d2",
+      "width": 1020,
+      "height": 1020
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/triple/logo-1.png",
+      "source_url": "https://triple.guide/intro/static/images/img-main-logo-white@3x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img sc-13aa0f74-4 bdHdxp Triple a sc-13aa0f74-3 iaoweG div sc-71598205-0 sc-13aa0f74-2 hyWpvg gGgstw header sc-13aa0f74-0 sc-13aa0f74-1 cqRkCG jmLyUF body",
+      "content_type": "image/png",
+      "bytes": 1715,
+      "sha256": "dbfd37f753d362395c1593ceee87f1acc270301e35d8bdeb5f31df47a306a934",
+      "width": 282,
+      "height": 96
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/triple/banner-1.webp",
+      "source_url": "https://triple.guide/intro/static/images/image_main.jpg",
+      "source_tag": "style-background-image",
+      "context": "dth:100%;z-index:-1;height:calc(calc(var(--vh, 1vh) * 100) + 60px);background-image:linear-gradient(\n        0deg,\n        rgba(0,0,0,0.2) 0%,\n        rgba(0,0,0,0.2) 100%\n      ),url(/intro/static/images/image_main.jpg);background-repeat:n",
+      "content_type": "image/webp",
+      "bytes": 84742,
+      "sha256": "41c2f0ee55cbe3bf799e05e865aff6bf912f5edefa1c8778a4c820d7985d314f",
+      "width": 1800,
+      "height": 1069
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/triple/banner-2.webp",
+      "source_url": "https://triple.guide/intro/static/images/trip-together/trip_together_mobile_background_01@2x.png",
+      "source_tag": "style-background-image",
+      "context": "\"}/*!sc*/\n.pDbCE{width:100vw;overflow:hidden;}/*!sc*/\ndata-styled.g123[id=\"sc-7a64098a-2\"]{content:\"pDbCE,\"}/*!sc*/\n.gccLig{width:100%;background-repeat:no-repeat;background-image:url(/intro/static/images/trip-together/trip_together_mobile_",
+      "content_type": "image/webp",
+      "bytes": 7974,
+      "sha256": "99bb025626eb0c9aab2e30cef520f4155677c03b4a2122477ab9d93d20206566",
+      "width": 1664,
+      "height": 1184
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/triple/reference-1.webp",
+      "source_url": "https://triple.guide/intro/static/images/itineraries/itinerary_mobile_01@2x.png",
+      "source_tag": "img:page-image",
+      "context": "img sc-de47c96b-0 czRcko div responsive__Responsive-sc-4186841f-0 kJtxel div container__Container-sc-589f87f7-0 dkcqPK div sc-6e4d8c79-0 imdjpD div container__Container-sc-589f87f7-0 sc-6e4d8c79-1 dkcqPK fDTNFt",
+      "content_type": "image/webp",
+      "bytes": 84268,
+      "sha256": "30b66bcb20da8b393ada876f18bd9d227b396884533ccb3ce5ed969929ee64c3",
+      "width": 598,
+      "height": 724
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/triple/reference-2.webp",
+      "source_url": "https://triple.guide/intro/static/images/itineraries/itinerary_01@2x.png",
+      "source_tag": "img:page-image",
+      "context": "img sc-de47c96b-0 czRcko div responsive__Responsive-sc-4186841f-0 gWLhwS div container__Container-sc-589f87f7-0 dkcqPK div sc-6e4d8c79-0 imdjpD div container__Container-sc-589f87f7-0 sc-6e4d8c79-1 dkcqPK fDTNFt",
+      "content_type": "image/webp",
+      "bytes": 105396,
+      "sha256": "e458c47f3500e79cc562f791cb8420f6d96d6b69b78f55bb7c5ffe024a37cb69",
+      "width": 1108,
+      "height": 1240,
+      "source_sha256": "5aa7f2295d71fa32bfb40c6f03fb4abf5c55bee233d833ea97cfc367a84b9c2d"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/triple/reference-3.webp",
+      "source_url": "https://triple.guide/intro/static/images/trip-together/trip_together_01@2x.png",
+      "source_tag": "img:page-image",
+      "context": "img sc-5505dd86-8 kXiRvw trip-together-0 div container__Container-sc-589f87f7-0 sc-b5de22dd-2 sc-5505dd86-3 dkcqPK eNZTAu ksasEy section trip-together sc-b5de22dd-0 fEhlDk div responsive__Responsive-sc-4186841f-0 gWLhwS div",
+      "content_type": "image/webp",
+      "bytes": 114744,
+      "sha256": "45cf6c666bdca5840484093c547f0e30d43ae2907f2b9ad0cf33ce4dc661411c",
+      "width": 1120,
+      "height": 1240,
+      "source_sha256": "d49cbde0873f34d086974ff8fd2d6019fba8acc9484cef1a80ef2d0d76184d6a"
+    }
+  ]
+}

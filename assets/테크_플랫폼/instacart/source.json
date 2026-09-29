@@ -1,0 +1,95 @@
+{
+  "company": "Instacart",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.instacart.com/",
+  "page_url": "https://www.instacart.com/",
+  "page_title": "Instacart | Grocery Delivery or Pickup from Local Stores Near You",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.instacart.com/true):format(webp)/www.instacart.com/assets/homepage/choose-what-you-want-efca561a8f08c2a5ce5ed77df6c10bf54d4439ca8434f12e9d9641bf91dd2b43.jpg; reference:HTTPError:https://www.instacart.com/true):format(jpeg)/www.instacart.com/assets/homepage/choose-what-you-want-efca561a8f08c2a5ce5ed77df6c10bf54d4439ca8434f12e9d9641bf91dd2b43.jpg; reference:HTTPError:https://www.instacart.com/true):format(webp)/www.instacart.com/assets/homepage/see-real-time-updates-1d23ec0f423b24300c0cd6abcb4724f36b0af840fbdf106aa5f140e835cff7eb.jpg; reference:HTTPError:https://www.instacart.com/true):format(jpeg)/www.instacart.com/assets/homepage/see-real-time-updates-1d23ec0f423b24300c0cd6abcb4724f36b0af840fbdf106aa5f140e835cff7eb.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/instacart/favicon.png",
+      "source_url": "https://d2guulkeunn7d8.cloudfront.net/assets/Icon-60@3x-73f80604373da67ef3fadbc54f4548b1.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 2731,
+      "sha256": "387ef4878ab0da4c2849e3ba50e54fb51dbcabdd611f2ea42c3efccaabbe4a75",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/instacart/og.webp",
+      "source_url": "https://d2guulkeunn7d8.cloudfront.net/assets/rspack/Instacart_Share_Banner_3-86a003ea47c7e0db-v3.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 82604,
+      "sha256": "9e892877df71b2104754aec9720be7eaa255a8892e00666f5a211c9ed20b687c",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/instacart/logo-1.svg",
+      "source_url": "https://www.instacart.com/assets/beetstrap/brand/2022/instacart-logo-color-6678cb82d531f8910d5ba270a11a7e9b56fc261371bda42ea7a5abeff3492e1c.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img e-1uj57i3 Instacart home a div e-v0y5ct div e-hpnlv5 nav e-28p837",
+      "content_type": "image/svg+xml",
+      "bytes": 3115,
+      "sha256": "6678cb82d531f8910d5ba270a11a7e9b56fc261371bda42ea7a5abeff3492e1c",
+      "width": 150,
+      "height": 24
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/instacart/logo-2.png",
+      "source_url": "https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img e-fr1yqu Instacart home a div e-1505q65 nav e-28p837 div e-1vx2uvz",
+      "content_type": "image/png",
+      "bytes": 3513,
+      "sha256": "9aa0648d8524a34c718e5b5953d12a67d36990fd1ce5adbb14eb567c19ebd22e",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/instacart/reference-1.webp",
+      "source_url": "https://www.instacart.com/image-server/1372x1028/www.instacart.com/assets/homepage/choose-what-you-want-efca561a8f08c2a5ce5ed77df6c10bf54d4439ca8434f12e9d9641bf91dd2b43.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div e-1y62anv div e-clw134 div e-qtxgin div e-168ctgx",
+      "content_type": "image/webp",
+      "bytes": 97418,
+      "sha256": "c83fc118f0e7ea197f8967ff6335b8ed472ac58d1aee015e60242af30ea1984c",
+      "width": 1372,
+      "height": 1028,
+      "source_sha256": "ae5869dcf3dc8e77a1772ac92a08ad5eba7c9fb3b973823b45146bbacb63dd77"
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/instacart/reference-2.webp",
+      "source_url": "https://www.instacart.com/image-server/1029x771/www.instacart.com/assets/homepage/choose-what-you-want-efca561a8f08c2a5ce5ed77df6c10bf54d4439ca8434f12e9d9641bf91dd2b43.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div e-1y62anv div e-clw134 div e-qtxgin div e-168ctgx",
+      "content_type": "image/webp",
+      "bytes": 110756,
+      "sha256": "aba9acbca4901b1d32475a9ece288dd8d75094becae5a4bf53ad1246026b7dc9",
+      "width": 1029,
+      "height": 771
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/instacart/reference-3.webp",
+      "source_url": "https://www.instacart.com/image-server/1372x1028/www.instacart.com/assets/homepage/see-real-time-updates-1d23ec0f423b24300c0cd6abcb4724f36b0af840fbdf106aa5f140e835cff7eb.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div e-1y62anv div e-clw134 div e-qtxgin div e-168ctgx",
+      "content_type": "image/webp",
+      "bytes": 82390,
+      "sha256": "61d0f912c1c2a21124380cdad5112bc4e8a154a7c37d371c1aa73342fcfe5ce4",
+      "width": 1372,
+      "height": 1028,
+      "source_sha256": "fb959347d8322e36ea76ee0ee81c706cd6250ee7de394ba243c9e88c44295817"
+    }
+  ]
+}

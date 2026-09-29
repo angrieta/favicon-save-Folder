@@ -1,0 +1,70 @@
+{
+  "company": "Budweiser",
+  "category": "식품_생활",
+  "requested_url": "https://www.budweiser.com/",
+  "page_url": "https://www.budweiser.com/en",
+  "page_title": "Budweiser American-Style Lager",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.budweiser.com/sites/g/files/wnfebl5966/files/cohesion/icomoon_0.woff; reference:ValueError:https://www.budweiser.com/sites/g/files/wnfebl5966/files/cohesion/Arial.ttf; reference:ValueError:https://www.budweiser.com/sites/g/files/wnfebl5966/files/cohesion/BudweiserSerif-Regular.ttf; reference:ValueError:https://www.budweiser.com/sites/g/files/wnfebl5966/files/cohesion/BudweiserSerif-Display.ttf; reference:ValueError:https://www.budweiser.com/sites/g/files/wnfebl5966/files/cohesion/styles/base/corebr-whitelabel-stylesheet.min.css?tlpz23; reference:ValueError:https://www.budweiser.com/sites/g/files/wnfebl5966/files/cohesion/styles/theme/corebr-whitelabel-stylesheet.min.css?tlpz23",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/budweiser/favicon.png",
+      "source_url": "https://www.budweiser.com/sites/g/files/wnfebl5966/files/Favicon1.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3931,
+      "sha256": "9c6c39888a867b08371313ea43ed40bc033269019e1886da6dbdd4ac022b7eef",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/budweiser/logo-1.png",
+      "source_url": "https://www.budweiser.com/sites/g/files/wnfebl5966/files/New%20VBI%20Bud/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img coh-image coh-ce-cpt_footer-e1bc9711 coh-image-responsive-xs Logo - Budweiser American-Style Lager Logo - Budweiser American-Style Lager a footer-logo1 coh-link div coh-column coh-ce-cpt_footer-450bbb44 coh-visible-xs coh-col-xs-12 coh-",
+      "content_type": "image/png",
+      "bytes": 4084,
+      "sha256": "22bb40496ee5bdc6b337096e324d43518edf916cfc09befa52ec46f8ea04f5e6",
+      "width": 192,
+      "height": 63
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/budweiser/logo-2.png",
+      "source_url": "https://www.budweiser.com/sites/g/files/wnfebl5966/files/MicrosoftTeams-image%20%282%29.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img coh-image coh-ce-cpt_header_thumbs-cdec61c2 coh-image-responsive-xs a coh-link js-abinbev-cpt-header-thumbs-link coh-ce-cpt_header_thumbs-d1deb1c7 div coh-column coh-ce-cpt_header_thumbs-f5013e68 coh-col-xs-auto div coh-row-inner coh-ce",
+      "content_type": "image/png",
+      "bytes": 3724,
+      "sha256": "e77861818030d1e050573df3a0ad5fbe8a1d82e159f46062ce944e5805a6ad49",
+      "width": 199,
+      "height": 87
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/budweiser/banner-1.webp",
+      "source_url": "https://www.budweiser.com/sites/g/files/wnfebl5966/files/MicrosoftTeams-image%20%2826%29.png",
+      "source_tag": "style-background-image",
+      "context": "nd; justify-content: flex-end; position: relative;}@media (min-width: 1199px) { .ssa-instance-b5e2e158001ec31509baf40439564c0d.coh-ce-cpt_banner_image-61a09761 { background-image: url(\"/sites/g/files/wnfebl5966/files/MicrosoftTeams-image%20",
+      "content_type": "image/webp",
+      "bytes": 21596,
+      "sha256": "9ee82601b020f763d4de70d48807f4938d8dafdb56a8fd40dca30e9bd15b4614",
+      "width": 898,
+      "height": 440
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/budweiser/banner-2.webp",
+      "source_url": "https://www.budweiser.com/sites/g/files/wnfebl5966/files/MicrosoftTeams-image%20%2825%29.png",
+      "source_tag": "style-background-image",
+      "context": "nd; justify-content: flex-end; position: relative;}@media (min-width: 1199px) { .ssa-instance-61de337191338e704c0077bed5d6bc0a.coh-ce-cpt_banner_image-61a09761 { background-image: url(\"/sites/g/files/wnfebl5966/files/MicrosoftTeams-image%20",
+      "content_type": "image/webp",
+      "bytes": 17062,
+      "sha256": "f46c8bfca9ddb43fb053512ff7097d0214845f0298fc3a4c341d5aeee45795ea",
+      "width": 898,
+      "height": 440
+    }
+  ]
+}

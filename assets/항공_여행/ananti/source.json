@@ -1,0 +1,108 @@
+{
+  "company": "아난티",
+  "category": "항공_여행",
+  "requested_url": "https://ananti.kr/ko",
+  "page_url": "https://ananti.kr/ko",
+  "page_title": "ANANTI",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=2727791564213896&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/ananti/favicon.ico",
+      "source_url": "https://cdn.ananti.kr/plf/ui/img/ananti.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "e3a3c2a9563cec6b9181973ebe583f8ae18da3c78503741adc4c1ff50480f0d5",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/ananti/og.webp",
+      "source_url": "https://cdn.ananti.kr/plf/ui/img/info/anantiog.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4278,
+      "sha256": "45baba0e7383f2ed7f04c3336517114d6d3d0926625b07dbcc95570dee1beea5",
+      "width": 768,
+      "height": 432
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/ananti/logo-1.png",
+      "source_url": "https://cdn.ananti.kr/plf/ui/img/mainPage/footer-isms.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img footer-cert-logo d-block ISMS 정보보호 관리체계 인증 div footer-cert d-flex align-items-center div footer-bottom d-flex justify-content-center align-items-end footer main-footer d-flex flex-direction-column align-items-center w-100 div contents",
+      "content_type": "image/png",
+      "bytes": 31148,
+      "sha256": "0d2c318b8b1ad9853641081f668149d64ec9bde0d12e28bd82b67cc062465d75",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/ananti/banner-1.webp",
+      "source_url": "https://cdn.ananti.kr/plf/ui/img/mainPage/hotels-bg-v2.jpg?AR=0&RS=2400&QT=65&FQ=1",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div hi-bg position-absolute w-100 h-100 section fade-section hotels-intro-section position-relative w-100 overflow-hidden div contents div viewport",
+      "content_type": "image/webp",
+      "bytes": 68632,
+      "sha256": "3420309962bde12c88fda26b3b9d455492f53af4fd6668627295c782d7949fe3",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "67f07cd3eb3418152b7423d921d9001ebc0abda093c8d40a73a4c8f7d71e8be2"
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/ananti/banner-2.webp",
+      "source_url": "https://cdn.ananti.kr/plf/ui/img/mainPage/hotels-bg-v2.jpg?AR=0&RS=1200&QT=65&FQ=1",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div hi-bg position-absolute w-100 h-100 section fade-section hotels-intro-section position-relative w-100 overflow-hidden div contents div viewport",
+      "content_type": "image/webp",
+      "bytes": 82436,
+      "sha256": "db84ec4b26d4d3afa2b409c9dc4078c4cd8b79bae5bee054f82854799e25e3d1",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/ananti/reference-1.webp",
+      "source_url": "https://cdn.ananti.kr/plf/ui/img/mainPage/hotels-bg-v2.jpg?AR=0&RS=1900&QT=65&FQ=1",
+      "source_tag": "picture:page-image",
+      "context": "picture div hi-bg position-absolute w-100 h-100 section fade-section hotels-intro-section position-relative w-100 overflow-hidden div contents div viewport",
+      "content_type": "image/webp",
+      "bytes": 67654,
+      "sha256": "4c0064d2f364c6a07c84bf2bce064f46cc489340f44ccd3276e1302f2d8f3e36",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "e612c03163562202dfcdc5bc4dee6def6072d7620dcdac1bbcb44306180b75d6"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/ananti/reference-2.webp",
+      "source_url": "https://cdn.ananti.kr/plf/ui/img/mainPage/hotels-bg-v2.jpg?AR=0&RS=3800&QT=65&FQ=1",
+      "source_tag": "picture:page-image",
+      "context": "picture div hi-bg position-absolute w-100 h-100 section fade-section hotels-intro-section position-relative w-100 overflow-hidden div contents div viewport",
+      "content_type": "image/webp",
+      "bytes": 67688,
+      "sha256": "a67ad5511061217cfd0bf29a94ce3767a854c3035ab57e625a6a7f59c381388f",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "d43637142137b1ce7a153bf10d5ba302d2d3e1a7f173dfdb9ee1c657a94a81ef"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/ananti/reference-3.webp",
+      "source_url": "https://cdn.ananti.kr/plf/ui/img/mainPage/hotels-photo-v2.jpg?AR=0&RS=1400&QT=65&FQ=1",
+      "source_tag": "picture:page-image",
+      "context": "picture a hi-link d-block w-100 div swiper-slide div swiper-wrapper div hi-swiper swiper-container w-100",
+      "content_type": "image/webp",
+      "bytes": 80688,
+      "sha256": "a84538b3b14b20a0aad81db1cd3863ecb52121855680e46f166174c0df50e411",
+      "width": 1012,
+      "height": 1350
+    }
+  ]
+}

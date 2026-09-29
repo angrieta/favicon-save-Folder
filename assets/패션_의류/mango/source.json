@@ -1,0 +1,59 @@
+{
+  "company": "Mango",
+  "category": "패션_의류",
+  "requested_url": "https://shop.mango.com/kr/ko",
+  "page_url": "https://shop.mango.com/kr/ko",
+  "page_title": "망고코리아 | 온라인 패션",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://shop.mango.com/fonts/MangoNew-Regular/subsets/MangoNew-Regular-ko.woff2; reference:ValueError:https://shop.mango.com/fonts/MangoNew-SemiBold/subsets/MangoNew-SemiBold-ko.woff2; reference:ValueError:https://shop.mango.com/_next/static/immutable/chunks/1zx_463poo1l0.js; reference:ValueError:https://shop.mango.com/_next/static/immutable/chunks/3u5yy5lgkvjbo.css; reference:ValueError:https://shop.mango.com/_next/static/immutable/chunks/1njhj72ivbywc.js; reference:ValueError:https://shop.mango.com/_next/static/immutable/chunks/2j_shzv9y40xx.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/mango/favicon.png",
+      "source_url": "https://shop.mango.com/_next/static/immutable/media/favicon180x180.1f-odid__pzg-.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2116,
+      "sha256": "7ee86f2e3a618a5f5f49855c7e6496217db56cae463719128bbd7f4542263e63",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/mango/banner-1.webp",
+      "source_url": "https://media.mango.com/is/image/punto/Home_selection_0926_MM_W%284%29:7x3?wid=2048&hei=877&fit=crop%2C1",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture BannerResponsiveImage-module__X6q_IG__picture div BannerFullHeightWrapper-module__vVOEJa__bannerFullHeightWrapper div div main page-content-layer",
+      "content_type": "image/webp",
+      "bytes": 103738,
+      "sha256": "017031f5baa3904202885e87e8fefbe7c5b5607c9aa759026fcaaf7931437fa8",
+      "width": 1800,
+      "height": 771
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/mango/banner-2.webp",
+      "source_url": "https://media.mango.com/is/image/punto/Home_selection_0926_MM_W%284%29:7x3?wid=1920&hei=822&fit=crop%2C1",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture BannerResponsiveImage-module__X6q_IG__picture div BannerFullHeightWrapper-module__vVOEJa__bannerFullHeightWrapper div div main page-content-layer",
+      "content_type": "image/webp",
+      "bytes": 103048,
+      "sha256": "adceea74f1a2265be16e99466c430bf860cb32bfa428111af8b7ed2b6db963c6",
+      "width": 1800,
+      "height": 771
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/mango/reference-1.webp",
+      "source_url": "https://media.mango.com/is/image/punto/Home_selection_0926_MM_W%284%29:5x7?wid=1462&hei=2048&fit=crop%2C1",
+      "source_tag": "picture:page-image",
+      "context": "picture BannerResponsiveImage-module__X6q_IG__picture div BannerFullHeightWrapper-module__vVOEJa__bannerFullHeightWrapper div div main page-content-layer",
+      "content_type": "image/webp",
+      "bytes": 82270,
+      "sha256": "86b811059b13199c526878e878640c51d08a54504ac70cb8699e0395d98578d8",
+      "width": 964,
+      "height": 1350,
+      "source_sha256": "0c2c44b17986df9abf16cbccdd184bf2cc3daeaf890861a83875aa121b5fe762"
+    }
+  ]
+}

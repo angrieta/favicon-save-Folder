@@ -1,0 +1,73 @@
+{
+  "company": "Lazada",
+  "category": "유통_커머스",
+  "requested_url": "https://www.lazada.com",
+  "page_url": "https://www.lazada.com/en/",
+  "page_title": "Home",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/lazada/favicon.png",
+      "source_url": "https://lazada-com.oss-ap-southeast-1.aliyuncs.com/static/image/new-lazada-logo-small.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 2570,
+      "sha256": "8fa5115e89e2b1635311e5a8d1daaeaf6f55d44f1a6680ccccdfb89978e2b4a5",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/lazada/logo-1.svg",
+      "source_url": "https://lazada-com.oss-ap-southeast-1.aliyuncs.com/static/image/logo_white.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Lazada Logo a navbar-brand lzd-logo-content nav navbar navbar-expand-lg navbar-dark div col-10 offset-1 nav-header div row align-items-end mb-5 home-bg",
+      "content_type": "image/svg+xml",
+      "bytes": 6701,
+      "sha256": "de142b8e0ea8b055d9fe1d495d919c7825f98201bac1ae4a096d5638b66a678c",
+      "width": 132,
+      "height": 28,
+      "source_sha256": "af87093d61a8c0913866d3c42809f60dc632ed0e5f89b78ef8713e2c032110d7"
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/lazada/reference-1.svg",
+      "source_url": "https://lazada-com.oss-ap-southeast-1.aliyuncs.com/static/image/map%20with%20cities.svg",
+      "source_tag": "img:page-image",
+      "context": "img map-image d-none d-lg-block lozad ... div wrapper div col-xxl-4 col-xl-4 col-lg-4 col-10 offset-1 offset-lg-1 order-lg-4 order-2 mb-3 mb-lg-0 mt-3 div row align-items-center my-auto div third container bg-color-red-50 d-flex flex-column",
+      "content_type": "image/svg+xml",
+      "bytes": 673152,
+      "sha256": "8076fe84c5caa285b3557149600934213d05f34bd12d559a5124210082a4a08c",
+      "width": 716,
+      "height": 775,
+      "source_sha256": "123384f4c43a6ec0ebd687106a9a63201b2a1a1f4646a9ffbc63990064f555a0"
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/lazada/reference-2.svg",
+      "source_url": "https://lazada-com.oss-ap-southeast-1.aliyuncs.com/static/image/map_red.svg",
+      "source_tag": "img:page-image",
+      "context": "img map-image d-block d-lg-none lozad ... div wrapper div col-xxl-4 col-xl-4 col-lg-4 col-10 offset-1 offset-lg-1 order-lg-4 order-2 mb-3 mb-lg-0 mt-3 div row align-items-center my-auto div third container bg-color-red-50 d-flex flex-column",
+      "content_type": "image/svg+xml",
+      "bytes": 680417,
+      "sha256": "b0e3aff7805aa430e6f169ecd0ec00c584a2947fb93092a635ce04d92ea64118",
+      "width": 715,
+      "height": 775,
+      "source_sha256": "d6a5b40f6f05bd899ce253c14d30a541eca1b624ed802329f11399b96e81ce5f"
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/lazada/reference-3.webp",
+      "source_url": "https://lazada-com.oss-ap-southeast-1.aliyuncs.com/static/image/home-a-mall_x2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img leaders-image lozad ... div d-none d-sm-block div wrapper div col-xxl-6 col-xl-6 col-lg-6 col-12 align-self-center order-xl-2 order-2 px-0 pb-5 pb-xl-0 div row my-auto",
+      "content_type": "image/webp",
+      "bytes": 69314,
+      "sha256": "1256bf5a150449e699a3579a4c371c59d0aebb9cf39f1276de9ad0f8288ddb15",
+      "width": 1396,
+      "height": 920
+    }
+  ]
+}

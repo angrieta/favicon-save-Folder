@@ -1,0 +1,107 @@
+{
+  "company": "Railway",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://railway.com/",
+  "page_url": "https://railway.com/",
+  "page_title": "Railway | The all-in-one intelligent cloud provider",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://railway.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/railway/favicon.png",
+      "source_url": "https://railway.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8573,
+      "sha256": "c1d9bbe0c10bdeb6b48d1297136b998d721f923e6442f18830b2abd841a95b3c",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/railway/og.webp",
+      "source_url": "https://railway.com/og.png?v=2",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 22770,
+      "sha256": "2c21e1387d22e34334410cef6b31b97ef83fedf06aa319321b3df5176b4b484f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/railway/logo-1.png",
+      "source_url": "https://railway.com/brand/logo-dark.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 17907,
+      "sha256": "1bf095210ea690beadec055c1faaa2533afa4648ea538908e85fe1da74b2aa5c",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/railway/logo-2.svg",
+      "source_url": "https://cms.railway.com/media/website-original-cc7f8a98cbd22e86de660c66bfccfd7a02c2eef12e1253ce958b6efd02d8f3b6.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img max-h-4 sm:max-h-none max-w-[100px] sm:max-w-none h-[23px] object-contain w-auto lg:scale-[0.8] brightness-0 invert opacity-90 TripAdvisor div flex items-center justify-center lg:px-10 div relative z-20 grid grid-cols-2 sm:grid-cols-3 l",
+      "content_type": "image/svg+xml",
+      "bytes": 7249,
+      "sha256": "ee8fc6aa2c669a0450b1abf187e52c72320a31e252fe72ba1e9e306a4d5e354b",
+      "width": 150,
+      "height": 23,
+      "source_sha256": "cc7f8a98cbd22e86de660c66bfccfd7a02c2eef12e1253ce958b6efd02d8f3b6"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/railway/banner-1.webp",
+      "source_url": "https://railway.com/secret-landing/build-and-deploy/maskgroup-forest.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute bottom-0 left-0 w-full object-cover object-bottom div absolute inset-0 pointer-events-none overflow-hidden mix-blend-overlay hidden dark:block div max-w-[1696px] mx-auto rounded-2xl overflow-clip relative px-4 dark:shadow-[inse",
+      "content_type": "image/webp",
+      "bytes": 4922,
+      "sha256": "122c8ab9d7148ee94723d7b59448ee0559f62b7f306c8516ffb0c01f529d7ee7",
+      "width": 1696,
+      "height": 1250
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/railway/reference-1.webp",
+      "source_url": "https://railway.com/secret-landing/hero/bg-train-day-960.webp",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 w-full h-full object-cover object-center pointer-events-none -scale-x-100 dark:hidden div absolute inset-0 div max-w-[1696px] lg:min-h-[1700px] mx-auto rounded-[16px] overflow-hidden relative flex flex-col bg-oatmeal da",
+      "content_type": "image/webp",
+      "bytes": 68442,
+      "sha256": "d1a7725cf06e7582b47094caf4151cfdcb163071b3220b0abd9ca570b43cf006",
+      "width": 960,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/railway/reference-2.webp",
+      "source_url": "https://railway.com/secret-landing/hero/bg-train-day.webp",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 w-full h-full object-cover object-center pointer-events-none -scale-x-100 dark:hidden div absolute inset-0 div max-w-[1696px] lg:min-h-[1700px] mx-auto rounded-[16px] overflow-hidden relative flex flex-col bg-oatmeal da",
+      "content_type": "image/webp",
+      "bytes": 104680,
+      "sha256": "08225caa306fd9f27ee78697e96a3e962d0180c323cd54087e97e068c7480117",
+      "width": 1350,
+      "height": 1350,
+      "source_sha256": "8ad3518ec2eb22d405618d3b3ad06171f6fbb3d91b1cf76aeb98f21ca231c608"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/railway/reference-3.webp",
+      "source_url": "https://railway.com/secret-landing/hero/bg-train-dusk-960.webp",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 w-full h-full object-cover object-center pointer-events-none -scale-x-100 hidden dark:block dark:opacity-60 div absolute inset-0 div max-w-[1696px] lg:min-h-[1700px] mx-auto rounded-[16px] overflow-hidden relative flex ",
+      "content_type": "image/webp",
+      "bytes": 107832,
+      "sha256": "3c2460fdd2aa2ed8f7db8d4030fe778913986a634a8f3d9f7ae08357d06764ca",
+      "width": 960,
+      "height": 960
+    }
+  ]
+}

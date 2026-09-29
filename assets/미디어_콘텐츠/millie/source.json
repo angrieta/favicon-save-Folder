@@ -1,0 +1,33 @@
+{
+  "company": "밀리의서재",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.millie.co.kr/",
+  "page_url": "https://www.millie.co.kr/",
+  "page_title": "밀리의서재 – 독서와 무제한 친해지리",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://d1miajbjsyro89.cloudfront.net/v4/_next/static/css/6d9bbfffa48be91d.css; reference:ValueError:https://d1miajbjsyro89.cloudfront.net/v4/_next/static/css/ef46db3751d8e999.css; reference:ValueError:https://d1miajbjsyro89.cloudfront.net/v4/_next/static/css/820508922a0f4495.css; reference:ValueError:https://d1miajbjsyro89.cloudfront.net/v4/_next/static/css/79cdef709ae81361.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/millie/favicon.png",
+      "source_url": "https://www.millie.co.kr/favicon/ios-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6873,
+      "sha256": "0c69d63c060c0cfb7a1900e9114214f8ddb54d8ff034b0ab1ca9c60453aa373f",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/millie/og.webp",
+      "source_url": "https://www.millie.co.kr/images/millie_default_img.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7946,
+      "sha256": "1cce9c2d4e91d906d6fae062a1791052a496de048ae7fdef903e58151410dd16",
+      "width": 1200,
+      "height": 628
+    }
+  ]
+}

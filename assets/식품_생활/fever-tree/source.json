@@ -1,0 +1,119 @@
+{
+  "company": "Fever-Tree",
+  "category": "식품_생활",
+  "requested_url": "https://fever-tree.com/",
+  "page_url": "https://fever-tree.com/en-gb",
+  "page_title": "Fever-Tree | Tonics, Drinks & Mixers",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://fever-tree.com/build/assets/index-DhXgJQ-f.js; reference:ValueError:https://fever-tree.com/build/assets/debounce-CECKwd9z.js; reference:ValueError:https://fever-tree.com/build/assets/form-helper-CdwYfhET.js; reference:ValueError:https://fever-tree.com/build/assets/helpers-BH471xff.js; reference:ValueError:https://fever-tree.com/build/assets/avbypass-helper-pSxZqND8.js; reference:ValueError:https://fever-tree.com/build/assets/_commonjsHelpers-Cpj98o6Y.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/fever-tree/favicon.png",
+      "source_url": "https://fever-tree.s3.eu-west-1.amazonaws.com/settings/4d6b6f40-43e2-41e1-b097-2d8967877230.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 46559,
+      "sha256": "8e0268e0442d26590c12501eee985c66e64701a754f2aa88638aaa87988f5186",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/fever-tree/og.webp",
+      "source_url": "https://fever-tree.s3.eu-west-1.amazonaws.com/images/malaria-no-more.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 76402,
+      "sha256": "c1032f7c5dc016453a8c2dbbf2e6da862ab822b50d85edbcfbc8061b0eff933d",
+      "width": 1200,
+      "height": 820
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/fever-tree/logo-1.svg",
+      "source_url": "https://fever-tree.s3.eu-west-1.amazonaws.com/settings/1848f0b2-8c70-4ff4-9c61-ad3ad52485b1.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-[152px] h-[41px] lg:w-[212px] lg:h-[57px] object-contain Fever Tree Logo a figure nav__logo flex-grow sm:basis-1/3 flex justify-center nav nav flex justify-between items-center py-[17px] header header bg-primary z-50 fixed w-full top-",
+      "content_type": "image/svg+xml",
+      "bytes": 43462,
+      "sha256": "07b7a65556ace4efa8e233ce7d9f92409c6b9a52d7891a7075b043c24c5c7aac",
+      "width": 212,
+      "height": 57,
+      "source_sha256": "41e20e6eaa02f012698b4702550f7f4cd1c5d3209ce30b6ad33f7b2b72025574"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/fever-tree/logo-2.png",
+      "source_url": "https://fever-tree.s3.eu-west-1.amazonaws.com/settings/d8535952-4f79-42bd-963b-9f492cc9aa65.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img object-contain a div footer__bottom-drinkaware-logo flex justify-between | max-lg:mb-[1.875rem] | lg:basis-1/4 lg:justify-end div footer__bottom w-full flex flex-col justify-center items-center | lg:justify-between lg:items-end lg:flex-",
+      "content_type": "image/png",
+      "bytes": 3012,
+      "sha256": "9fe0bcf8da4ee6bd773f022f7031367656e466a95454c51061289eb1c8dfe660",
+      "width": 198,
+      "height": 53
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/fever-tree/banner-1.webp",
+      "source_url": "https://static.wikia.nocookie.net/vexillology/images/7/7e/QuebecB.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-6 h-6 rounded-full object-cover Canada - fr a li nav__country-toggle-option ul nav__country-toggle-options div relative",
+      "content_type": "image/webp",
+      "bytes": 5988,
+      "sha256": "4b264f2b39ac103ff3822c3aec03f1b241dbb6165a1269e39e0dcf45a6b8a274",
+      "width": 700,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/fever-tree/banner-2.webp",
+      "source_url": "https://fever-tree.s3.eu-west-1.amazonaws.com/images/a0296c43-cee5-423f-9630-ce1c18b8b581.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div main-hero-section__media-wrapper main-hero-section__media-wrapper--video hero__video-wrapper overflow-hidden div a1f04fe9-40d5-43e8-a950-fbc1dc1c8957 main-hero-section__inner-wrapper lg:justify-center lg:items-end section main-h",
+      "content_type": "image/webp",
+      "bytes": 59558,
+      "sha256": "b5d33ff223ead7cdf20fc382628b0f97472ae5a21131083dfcdc762398712d86",
+      "width": 1456,
+      "height": 802
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/fever-tree/reference-1.webp",
+      "source_url": "https://fever-tree.s3.eu-west-1.amazonaws.com/images/1d64d963-ae7b-4a6a-b6ef-405638610a28.jpg",
+      "source_tag": "img:page-image",
+      "context": "img nav__menu-image max-lg:hidden active div nav__menu-images div nav__menu-wrapper -z-[1] lg:px-section-px nav nav flex justify-between items-center py-[17px] header header bg-primary z-50 fixed w-full top-0 transition-all duration-500 px-",
+      "content_type": "image/webp",
+      "bytes": 112184,
+      "sha256": "705154b11bc976bd0bbafdf599fd9a033281e0bbbb784aff0fda6c9885cb1246",
+      "width": 801,
+      "height": 1200,
+      "source_sha256": "8f957fca699959427fbdcf7e27691467b5a292500a60ffaa87e805ff2371b339"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/fever-tree/reference-2.webp",
+      "source_url": "https://fever-tree.s3.eu-west-1.amazonaws.com/images/b2982dde-f9b1-4805-9039-1bba3d0b43de.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div main-hero-section__media-wrapper main-hero-section__media-wrapper--video hero__video-wrapper overflow-hidden div a1f04fe9-40d5-43e8-a950-fbc1dc1c8957 main-hero-section__inner-wrapper lg:justify-center lg:items-end section main-h",
+      "content_type": "image/webp",
+      "bytes": 41442,
+      "sha256": "cf4236c6b3bc8c6fda5d02cdecb5f83c56b862ffaf382c1c0bba0a94b637e30d",
+      "width": 595,
+      "height": 1017
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/fever-tree/reference-3.webp",
+      "source_url": "https://fever-tree.s3.eu-west-1.amazonaws.com/images/ba13d45a-503d-4a64-a692-a2ac48f7a4a1.webp",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover div absolute inset-0 z-0 section 49c0f15b-f142-4f3f-9ff4-d21b3bf81fbc toggle-banner-section relative overflow-hidden flex items-start min-h-[calc(max(60vh,500px))] lg:items-stretch main body",
+      "content_type": "image/webp",
+      "bytes": 10896,
+      "sha256": "71f1531782b6ff180955213faf54bf3e743ce7007d088de20e0602e7620c9438",
+      "width": 1800,
+      "height": 944
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "company": "Kinder",
+  "category": "식품_생활",
+  "requested_url": "https://www.kinder.com/kr/ko/",
+  "page_url": "https://www.kinder.com/kr/ko/",
+  "page_title": "Kinder",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/kinder/favicon.ico",
+      "source_url": "https://www.kinder.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1406,
+      "sha256": "ebf9702ed15b7d75127d0da43c061642982921965dbb33e5663a08124807933a",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/kinder/logo-1.png",
+      "source_url": "https://www.kinder.com/kr/brands/kinder/themes/custom/kinder_theme/logo.png?t=1788280462",
+      "source_tag": "img:semantic-logo",
+      "context": "img Home a site-logo div block-kinder-theme-branding block block-system block-system-branding-block div region region-header header main-header",
+      "content_type": "image/png",
+      "bytes": 63504,
+      "sha256": "e65953fc07e78389b297bb30e061a1cb35477e22e5677d6d44207ad90609909e",
+      "width": 660,
+      "height": 472
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/kinder/logo-2.svg",
+      "source_url": "https://www.kinder.com/kr/brands/kinder/themes/custom/kinder_theme/logo.svg?t=1788280462",
+      "source_tag": "img:semantic-logo",
+      "context": "img Home a site-logo div block-kinder-theme-branding block block-system block-system-branding-block div region region-header header main-header",
+      "content_type": "image/svg+xml",
+      "bytes": 1010474,
+      "sha256": "6aed33f6bf9bc828d76077b6172db6b0d41d7054eaf9076069ccec7e3b5ca405",
+      "width": 165,
+      "height": 118,
+      "source_sha256": "be2219d43d1d78233c48ccaa12119c3135b8ad07d72224c457ce9657f7275c6a"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/kinder/banner-1.webp",
+      "source_url": "https://www.kinder.com/kr/sites/kinder_kr/files/styles/menu_promo_block/public/2020-03/menu_716X356_02.jpg?t=1788280462",
+      "source_tag": "inline-background-image",
+      "context": "div  promo-block promo-block-overlay background-image: url(https://www.kinder.com/kr/sites/kinder_kr/files/styles/menu_promo_block/public/2020-03/menu_716X356_02.jpg?t=1788280462);",
+      "content_type": "image/webp",
+      "bytes": 45838,
+      "sha256": "a01ca90356261511d3537b9a6c7f35f302452a9fdfd4c09f9fa737217f6c85e0",
+      "width": 700,
+      "height": 348
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/kinder/logo-1.png",
+      "source_url": "https://www.kinder.com/kr/brands/kinder/themes/custom/kinder_theme/logo.png?t=1788280462",
+      "source_tag": "img:semantic-banner",
+      "context": "img Home a site-logo div block-kinder-theme-branding block block-system block-system-branding-block div region region-header header main-header",
+      "content_type": "image/png",
+      "bytes": 63504,
+      "sha256": "e65953fc07e78389b297bb30e061a1cb35477e22e5677d6d44207ad90609909e",
+      "width": 660,
+      "height": 472,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kinder/reference-1.webp",
+      "source_url": "https://www.kinder.com/kr/sites/kinder_kr/files/2020-11/mission.jpg?t=1788280462",
+      "source_tag": "img:page-image",
+      "context": "img lazyload blur-up mission div field field--name-field-media-image field--type-image field--label-hidden field__item article media media--type-image media--view-mode-lightbox-image-video div field__item div field field--name-media field--",
+      "content_type": "image/webp",
+      "bytes": 109862,
+      "sha256": "372519aae847f1af0b06bbac2a28e0d8fd2018c1ee647fc42447051809c34851",
+      "width": 640,
+      "height": 472
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kinder/reference-2.webp",
+      "source_url": "https://www.kinder.com/kr/sites/kinder_kr/files/2023-11/stories_web_asset.png?t=1788280462",
+      "source_tag": "img:page-image",
+      "context": "img lazyload blur-up 1 div field field--name-field-media-image field--type-image field--label-hidden field__item article media media--type-image media--view-mode-default div field field--name-image field--type-entity-reference field--label-",
+      "content_type": "image/webp",
+      "bytes": 47486,
+      "sha256": "b2afd99c71f1418cab7b26b71d119de329bf226663e68cd562deeee02e5bcd87",
+      "width": 640,
+      "height": 472
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kinder/reference-3.webp",
+      "source_url": "https://www.kinder.com/kr/sites/kinder_kr/files/2025-07/bubbles-main-carousel-desktop_0.jpg?t=1788280462",
+      "source_tag": "img:page-image",
+      "context": "img lazyload blur-up A LITTLE, A LOT div field field--name-field-media-image field--type-image field--label-hidden field__item article media media--type-image media--view-mode-default div field field--name-image field--type-entity-reference",
+      "content_type": "image/webp",
+      "bytes": 109514,
+      "sha256": "1a7d45d7146200204410f5c2187839fbcc86aa76b2611860656f2e36180b01b6",
+      "width": 1200,
+      "height": 818,
+      "source_sha256": "9226d40cc269e6646ae8bdbcb7a68d683b9b469af560404579f2bf0dc324e928"
+    }
+  ]
+}

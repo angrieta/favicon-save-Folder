@@ -1,0 +1,57 @@
+{
+  "company": "Stedelijk Museum Amsterdam",
+  "category": "문화_공공",
+  "requested_url": "https://www.stedelijk.nl",
+  "page_url": "https://www.stedelijk.nl/en",
+  "page_title": "Stedelijk Museum Amsterdam",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.stedelijk.nl/themes/stedelijk/assets/dist/fonts/union_regular.woff2; reference:ValueError:https://www.stedelijk.nl/themes/stedelijk/assets/dist/fonts/union_regular_italic.woff2; reference:ValueError:https://www.stedelijk.nl/themes/stedelijk/assets/dist/fonts/union_sma_ribbon.woff2; reference:ValueError:https://www.stedelijk.nl/themes/stedelijk/assets/dist/fonts/union_sma_ribbon_wb.woff2; reference:ValueError:https://www.stedelijk.nl/themes/stedelijk/assets/dist/scripts/main-c258159f9f.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/stedelijk/favicon.ico",
+      "source_url": "https://www.stedelijk.nl/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 9326,
+      "sha256": "8fac4f62c07a9d6220a94cdc0ac8d9aed0f570cefc3a6b727d2bff155813aa38",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/stedelijk/og.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/production-static-stedelijk/images/HOME%20NL/Schermafdruk%202019-09-26%2014.15.26.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 50714,
+      "sha256": "77510cc8b52569cc9a63cfdbd207e28393719bd71556ebf0cfab5c7355ed5c1a",
+      "width": 1200,
+      "height": 576
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/stedelijk/logo-1.png",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/production-static-stedelijk/images/Highlights_essentials%20campagne/2026/scaled/x-small/13.1_SM_ESSENTIAL_TOUR_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img image image bar__image h2 bar__title header bar__header div article bar__inner js-bar-inner",
+      "content_type": "image/png",
+      "bytes": 18344,
+      "sha256": "b64e647cd9ec1120ffc175dde4447c6f3780bddcb03b9c8a6c8836ce03f6de0d",
+      "width": 220,
+      "height": 220
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/stedelijk/logo-2.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/production-static-stedelijk/images/_whats%20on/tentoonstellingen/2026/Yayoi%20Kusama/scaled/x-small/Kusama%202010%20low%20res.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img image image bar__image h2 bar__title header bar__header div article bar__inner js-bar-inner",
+      "content_type": "image/webp",
+      "bytes": 37888,
+      "sha256": "03aee8852af9d9978f59139a8f84940c128b4fc6861d72973316340d3f90ceba",
+      "width": 331,
+      "height": 220
+    }
+  ]
+}

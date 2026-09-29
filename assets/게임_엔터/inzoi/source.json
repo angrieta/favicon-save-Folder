@@ -1,0 +1,33 @@
+{
+  "company": "인조이",
+  "category": "게임_엔터",
+  "requested_url": "https://playinzoi.com/ko",
+  "page_url": "https://playinzoi.com/ko",
+  "page_title": "inZOI (인조이) - KRAFTON",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://wstatic-prod.playinzoi.com/web/live/main_a6cb1ad/_nuxt/CENBGdBC.js; reference:ValueError:https://wstatic-prod.playinzoi.com/web/live/main_a6cb1ad/_nuxt/Zyv-FV3g.js; reference:ValueError:https://wstatic-prod.playinzoi.com/web/live/main_a6cb1ad/_nuxt/DqirkxVw.js; reference:ValueError:https://wstatic-prod.playinzoi.com/web/live/main_a6cb1ad/_nuxt/9zNRkwk6.js; reference:ValueError:https://wstatic-prod.playinzoi.com/web/live/main_a6cb1ad/_nuxt/tbhfXWMm.js; reference:ValueError:https://wstatic-prod.playinzoi.com/web/live/main_a6cb1ad/_nuxt/0Ans_VJ9.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/inzoi/favicon.png",
+      "source_url": "https://wstatic-prod.playinzoi.com/web/live/main_a6cb1ad/static/favicons/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 50778,
+      "sha256": "10551a1f8277d21b08682c15fe31561fd6911ab4225508674bc521dcde016aa8",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/inzoi/og.webp",
+      "source_url": "https://wstatic-prod.playinzoi.com/web/live/main_a6cb1ad/static/images/og/inzoi-og-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 39140,
+      "sha256": "ebade62e839b5e977a24da3fae546ea285676eb9462dadb00738a7f9cb9225e0",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

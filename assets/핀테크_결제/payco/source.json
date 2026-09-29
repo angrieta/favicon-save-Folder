@@ -1,0 +1,81 @@
+{
+  "company": "페이코",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.payco.com/",
+  "page_url": "https://www.payco.com/",
+  "page_title": "PAYCO │ 페이코 라이프 하세요",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/payco/favicon.png",
+      "source_url": "https://payco-cdn.cdn.toastoven.net/PAYCO_CONTENTS/payco/www/img/favicon/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3610,
+      "sha256": "c9435032d06b8b63163f7e472105daf12721b6139cf37fd9968c0d9d755d6bf4",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/payco/og.webp",
+      "source_url": "https://payco-cdn.cdn.toastoven.net/PAYCO_CONTENTS/payco/www/img/og/256x256.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2194,
+      "sha256": "64c087f04d7deddb72d00df896b9289fc2bdb099c5b2d317ee0f2f00702c0226",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/payco/banner-1.webp",
+      "source_url": "https://payco-cdn.cdn.toastoven.net/PAYCO_CONTENTS/payco/www/img/img_kv_main.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img kv_img 메인 이미지 div main_keyvisual div content body payco_improv main_wrapper html",
+      "content_type": "image/webp",
+      "bytes": 46760,
+      "sha256": "965e337189bd820f8c65c047baacf73efc28add025caf12f790550842cae94ec",
+      "width": 1600,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/payco/reference-1.webp",
+      "source_url": "https://payco-cdn.cdn.toastoven.net/PAYCO_CONTENTS/payco/www/img/main_gif/img_service_01.png",
+      "source_tag": "img:page-image",
+      "context": "img PAYCO 결제 div bg_animation div payco_payment serv_tab_cont active div screen_area payco_payment div serv_payment service_info",
+      "content_type": "image/webp",
+      "bytes": 40468,
+      "sha256": "88938c490a0eebae54124bc202ec6ed47d2e12d8adc38127c813aec356b1d6c1",
+      "width": 678,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/payco/reference-2.webp",
+      "source_url": "https://payco-cdn.cdn.toastoven.net/PAYCO_CONTENTS/payco/www/img/main_gif/img_service_02.png",
+      "source_tag": "img:page-image",
+      "context": "img PAYCO 포인트 div bg_animation div payco_point serv_tab_cont div screen_area payco_payment div serv_payment service_info",
+      "content_type": "image/webp",
+      "bytes": 51722,
+      "sha256": "cb72ec9a19c8cda051e2e418465c5000772e018b67cbf7d33afb9f1f4a5479eb",
+      "width": 678,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/payco/reference-3.webp",
+      "source_url": "https://payco-cdn.cdn.toastoven.net/PAYCO_CONTENTS/payco/www/img/main_gif/img_service_06.png",
+      "source_tag": "img:page-image",
+      "context": "img 쿠폰 div bg_animation div coupon serv_tab_cont active div screen_area payco_benefits div serv_benefits service_info",
+      "content_type": "image/webp",
+      "bytes": 64766,
+      "sha256": "eeba8a8449c941d009c6999376c5923e980d65589e27ff6b6dd409cb69a43af6",
+      "width": 678,
+      "height": 1350
+    }
+  ]
+}

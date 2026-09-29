@@ -1,0 +1,33 @@
+{
+  "company": "쿠키런",
+  "category": "게임_엔터",
+  "requested_url": "https://www.cookierun.com/ko/",
+  "page_url": "https://www.cookierun.com/ko/",
+  "page_title": "쿠키런: 오븐브레이크",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.cookierun.com/app-82c85ae0a9c50d269c1c.js; reference:ValueError:https://www.cookierun.com/framework-9b1b9c639bdce71b0871.js; reference:ValueError:https://www.cookierun.com/styles-0ec71dd62c66cb95665c.js; reference:ValueError:https://www.cookierun.com/webpack-runtime-b8f771f9ac1d73052e8c.js; reference:ValueError:https://www.cookierun.com/page-data/ko/page-data.json; reference:ValueError:https://www.cookierun.com/page-data/app-data.json",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/cookie-run/favicon.png",
+      "source_url": "https://www.cookierun.com/favicons/android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6430,
+      "sha256": "a4aec0b0f26115a504808cf36d3b8d0d8e4b603b00d601b43d5e63cfbf94a2ad",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/cookie-run/og.webp",
+      "source_url": "https://www.cookierun.com/homepage/opengraph/ko.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 94354,
+      "sha256": "052e4783d2e46a1a1bd021d3317f1e63f22ef3bdb2f8a15ac7ef80e905bebbc8",
+      "width": 1200,
+      "height": 628
+    }
+  ]
+}

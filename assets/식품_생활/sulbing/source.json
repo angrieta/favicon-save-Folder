@@ -1,0 +1,69 @@
+{
+  "company": "설빙",
+  "category": "식품_생활",
+  "requested_url": "https://sulbing.com/",
+  "page_url": "https://sulbing.com/",
+  "page_title": "설빙",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/sulbing/favicon.ico",
+      "source_url": "https://sulbing.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "be278fb9e4f589cc1f97be8b32e7c015c1e556164cc0953dd6c3f8258722752a",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/sulbing/og.webp",
+      "source_url": "https://sulbing.com/new/data/shareimage.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 15438,
+      "sha256": "bde5243643e5ed652a2e09f0d33716cdb0b9e786647f93504285a3157ecc6e65",
+      "width": 774,
+      "height": 479
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/sulbing/reference-1.webp",
+      "source_url": "https://sulbing.com/new/images/pc/intro_img_01.png",
+      "source_tag": "img:page-image",
+      "context": "img 브랜드 달콤한 신메뉴부터 풍성한 이벤트까지 설빙의 최신 소식을 살펴보세요 div simg div img a item item1 div intro pcOnly flex",
+      "content_type": "image/webp",
+      "bytes": 30378,
+      "sha256": "6c43ffcedb135c0855cca6d52b288df2692fd17ccc565fe44af21161ca4ed636",
+      "width": 408,
+      "height": 622
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/sulbing/reference-2.webp",
+      "source_url": "https://sulbing.com/new/images/pc/intro_img_02.png",
+      "source_tag": "img:page-image",
+      "context": "img 창업안내 가맹점주와 본사가 함께하는 브랜드 설빙이 여러분의 든든한 파트너가 되겠습니다 div simg div img a item item2 div intro pcOnly flex",
+      "content_type": "image/webp",
+      "bytes": 42186,
+      "sha256": "1deb30008748d87ae3d4b43270984e3abe9e29077425e770e7f63dee8045d86e",
+      "width": 425,
+      "height": 624
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/sulbing/reference-3.webp",
+      "source_url": "https://sulbing.com/new/images/mobile/intro_mo.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div intro mobileOnly body body html",
+      "content_type": "image/webp",
+      "bytes": 48554,
+      "sha256": "d30f8454c9c9862a4b5899a8c3b28427cad2f6c7c38acef44c0a8e29e6b1fda6",
+      "width": 720,
+      "height": 1350
+    }
+  ]
+}

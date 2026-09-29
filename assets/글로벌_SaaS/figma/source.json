@@ -1,0 +1,95 @@
+{
+  "company": "Figma",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.figma.com/ko-kr/",
+  "page_url": "https://www.figma.com/ko-kr/",
+  "page_title": "Figma: 디자인, 코드, AI를 위한 협업 캔버스",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/figma/favicon.png",
+      "source_url": "https://static.figma.com/app/icon/2/icon-256.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3598,
+      "sha256": "0104a2391fbe24e41e7b8e3ecf3168a62d96a16e5b5fff15bd01dc9d0e84f5c8",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/figma/og.webp",
+      "source_url": "https://cdn.sanity.io/images/599r6htc/regionalized/b08d37520f7d5ad8d6562975b5932dd2d9a862bb-1200x630.gif?w=1200&q=70&fit=max&auto=format",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 23664,
+      "sha256": "763f514ab1754754f310312aac8ba50e1c8e88478abc51ddc2b31f51f32d4375",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/figma/favicon.png",
+      "source_url": "https://static.figma.com/app/icon/2/icon-256.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/png",
+      "bytes": 3598,
+      "sha256": "0104a2391fbe24e41e7b8e3ecf3168a62d96a16e5b5fff15bd01dc9d0e84f5c8",
+      "width": 256,
+      "height": 256,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/figma/logo-2.svg",
+      "source_url": "https://cdn.sanity.io/images/599r6htc/regionalized/717af6633a6896341b7c95807c05f449597ef769-98x32.svg?q=75&fit=max&auto=format",
+      "source_tag": "img:semantic-logo",
+      "context": "img fig-1clipdz airbnb 로고 li ul fig-te5u9 로고 마키 div fig-1froo4w div fig-27t8gn",
+      "content_type": "image/svg+xml",
+      "bytes": 8511,
+      "sha256": "1cb44c46a79e36597478e11d40b69a8266137f2499c9ac9d37b348ef53b55030",
+      "width": 98,
+      "height": 32,
+      "source_sha256": "dff6275c5366d1459c735b7a1bc47eeeb81deedc9e3255d37c0808e7bd8cb2bb"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/figma/reference-1.webp",
+      "source_url": "https://cdn.sanity.io/images/599r6htc/regionalized/b82592e52a6cc84b26ac68a8fd0fd5f2d05e0a34-656x816.png?w=656&h=816&q=75&fit=max&auto=format",
+      "source_tag": "img:page-image",
+      "context": "img fig-3mjy2z 텍스처 값을 보여주는 모의 웹사이트 li ul fig-1ka71ms section fig-1dzlqeg main main",
+      "content_type": "image/webp",
+      "bytes": 112746,
+      "sha256": "d6efd5036a71f9592549083ca3bad23d44afa6bec82246aee36422a1ec1047a5",
+      "width": 656,
+      "height": 816
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/figma/reference-2.webp",
+      "source_url": "https://cdn.sanity.io/images/599r6htc/regionalized/b82592e52a6cc84b26ac68a8fd0fd5f2d05e0a34-656x816.png?q=75&fit=max&auto=format&dpr=0.75",
+      "source_tag": "img:page-image",
+      "context": "img fig-3mjy2z 텍스처 값을 보여주는 모의 웹사이트 li ul fig-1ka71ms section fig-1dzlqeg main main",
+      "content_type": "image/webp",
+      "bytes": 85730,
+      "sha256": "cd3d62ee41beb5a5a5a9192fc6eb6d1b6e5f76a5d066fcd697d7b88df406aac0",
+      "width": 600,
+      "height": 746
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/figma/reference-3.webp",
+      "source_url": "https://cdn.sanity.io/images/599r6htc/regionalized/a92909334c175cb8deb08724809a6a133a2fdaee-656x816.png?w=656&h=816&q=75&fit=max&auto=format",
+      "source_tag": "img:page-image",
+      "context": "img fig-3mjy2z 텍스트에 적용할 수 있는 다양한 브러시 효과를 보여주는 UI li ul fig-1ka71ms section fig-1dzlqeg main main",
+      "content_type": "image/webp",
+      "bytes": 54860,
+      "sha256": "624ef53d71cea3775efb3158a8767b2810722cafc649f96295264856b03a34b9",
+      "width": 656,
+      "height": 816
+    }
+  ]
+}

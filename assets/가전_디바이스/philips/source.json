@@ -1,0 +1,69 @@
+{
+  "company": "Philips",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.philips.co.kr/",
+  "page_url": "https://www.philips.co.kr/",
+  "page_title": "필립스 - 코리아 | 필립스",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.philips.co.kr/y0&width=3840&height=2160; reference:HTTPError:https://www.philips.co.kr/y0&width=1920&height=1080; reference:HTTPError:https://www.philips.co.kr/y0&width=2400&height=1350; reference:HTTPError:https://www.philips.co.kr/y0&width=1200&height=675; reference:HTTPError:https://www.philips.co.kr/y0&width=1536&height=864; reference:HTTPError:https://www.philips.co.kr/y0&width=768&height=432",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/philips/favicon.png",
+      "source_url": "https://www.philips.co.kr/c-resources/favicons/favicon-196x196.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 8766,
+      "sha256": "121194fc12681cb55aff7ec880b9b9ee3e55a3e135983024418e544746421c1f",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/philips/og.webp",
+      "source_url": "https://eu-images.contentstack.com/v3/assets/blte23630023bb36e19/blt72ba7648b5a6cdee/68dc477fd6433a755ff8d94a/1c0122363c3e4a37832fb34b008cffbf.jpg?branch=prod&enable=upscale&format=auto&quality=85&crop=1.91:1,smart&fit=crop&width=1200&height=630",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7342,
+      "sha256": "6c8a9bf0a00a64a014fa81a01a41a3c643ce7a13b7ba4b3cfe0753e48909c825",
+      "width": 700,
+      "height": 367
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/philips/reference-1.webp",
+      "source_url": "https://eu-images.contentstack.com/v3/assets/blte23630023bb36e19/blt8a185256020af4ac/68dc85640d8915cba669ef55/235445b321fb4159bdd4b35200cfb772.jpg?branch=prod&enable=upscale&format=auto&quality=85&crop=3643,5464,x3181,y0&width=400&height=600",
+      "source_tag": "picture:page-image",
+      "context": "picture div p4q77si section _1ki35kd5 _1ki35kd3 div _1bjl5wf0 _1bjl5wf3 _1f03nala _1f03nal1 _1f03nal5 _1f03nal6 _1aabzlce vholza1 _1jg8byoa lhmtef0 _1myx4zn1p _1bjl5wf6 _1ki35kd2 _1ki35kd3 li swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 50824,
+      "sha256": "a8715864f3bba0e5e3dda24f6e6e0b33e769f3c78fbdd3a815f85d73c3bf3aa8",
+      "width": 400,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/philips/reference-2.webp",
+      "source_url": "https://eu-images.contentstack.com/v3/assets/blte23630023bb36e19/blt5f42c62832af8aed/68dc8cc7b179b3919b6324ef/5f81eb61e14446249a3cb35c00cd0d43.png?branch=prod&enable=upscale&format=auto&quality=85&crop=1501,2251,x1451,y0&width=400&height=600",
+      "source_tag": "picture:page-image",
+      "context": "picture div p4q77si section _1ki35kd5 _1ki35kd3 div _1bjl5wf0 _1bjl5wf3 _1f03nala _1f03nal1 _1f03nal5 _1f03nal6 _1aabzlce vholza1 _1jg8byoa lhmtef0 _1myx4zn1p _1bjl5wf6 _1ki35kd2 _1ki35kd3 li swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 25926,
+      "sha256": "7b83182433bd7751caaa6afbaba95791f3553fc48adae67a921f75dd59772bc4",
+      "width": 400,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/philips/reference-3.webp",
+      "source_url": "https://eu-images.contentstack.com/v3/assets/blte23630023bb36e19/blt754785738b39901d/6911f465d06870016e4b11bb/55e3d802255c4daea56cb39100e38993.png?branch=prod&enable=upscale&format=auto&quality=85&crop=760,1140,x741,y0&width=400&height=600",
+      "source_tag": "picture:page-image",
+      "context": "picture div p4q77si section _1ki35kd5 _1ki35kd3 div _1bjl5wf0 _1bjl5wf3 _1f03nala _1f03nal1 _1f03nal5 _1f03nal6 _1aabzlce vholza1 _1jg8byoa lhmtef0 _1myx4zn1p _1bjl5wf6 _1ki35kd2 _1ki35kd3 li swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 25634,
+      "sha256": "8f70e521ecbc40e8b0935e7205bb82388a8300aaae13bb8def63dfcec189f295",
+      "width": 400,
+      "height": 600
+    }
+  ]
+}

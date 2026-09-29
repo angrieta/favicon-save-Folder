@@ -1,0 +1,118 @@
+{
+  "company": "Intercom",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.intercom.com/",
+  "page_url": "https://www.intercom.com/",
+  "page_title": "Intercom | A complete system for human and AI customer service",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/intercom/favicon.ico",
+      "source_url": "https://www.intercom.com/intercom-marketing-site/favicons/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "fb69628a75d4b75a0d584151923dd38e3de49502ebc3a9ca620760b83d72b8e8",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/intercom/og.webp",
+      "source_url": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/9d9c4802c510e9279b7525a4dd289dd793725b83-2400x1260.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 36060,
+      "sha256": "f5fb9dc9d03ed9743e7e99c8b505f9cfea110804486bc62bf9b12e8e5bf56c0e",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/intercom/logo-1.png",
+      "source_url": "https://cdn.sanity.io/images/4bgok82s/monorepo-static-assets/ed46d257e438b1f3263622b570e1ff6d2fa8112b-232x228.webp",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 5625,
+      "sha256": "56de0de48e73bba2d96952ced1454e117ff91fc4ae23fcb6affd448136caaff7",
+      "width": 232,
+      "height": 228
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/intercom/logo-2.png",
+      "source_url": "https://fin.ai/favicons/favicon-black.png",
+      "source_tag": "json-ld.@graph[1].subOrganization[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 3496,
+      "sha256": "1f7fd0d58984b0a3b4e09065f7cf8a74d01e220892106a869b6693f58d87728a",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/intercom/banner-1.webp",
+      "source_url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fbe816b66f5bea05d715c01902b842bd3f672837b-1800x936.webp&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover Decorative background image div relative div min-w-0 shrink-0 grow-0 basis-full div flex touch-pan-y touch-pinch-zoom div overflow-hidden",
+      "content_type": "image/webp",
+      "bytes": 110022,
+      "sha256": "077781d108e1530790ebd005af11cbd6fc87e46fbf03732316344dc5dd3211e9",
+      "width": 1800,
+      "height": 936
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/intercom/banner-2.webp",
+      "source_url": "https://www.intercom.com/ims-image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4bgok82s%2Fmonorepo-static-assets%2Fb2fafa55a6aeb143f4d00712679ef4617705e232-1800x936.webp&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover Decorative background image div relative overflow-hidden aspect-square @xl:aspect-3714/1677 div @container size-full div min-w-0 shrink-0 grow-0 border-linen relative w-full select-none border div flex touch-pan-y touch-pin",
+      "content_type": "image/webp",
+      "bytes": 123500,
+      "sha256": "395de14722ebb51f3c0938bcf478e8a5b0cc8f02c9b16d4f4f29044052d6115c",
+      "width": 1600,
+      "height": 832,
+      "source_sha256": "2aebcda04325186c321f3912be172bb3e662f9cbcc7d0a72c96c5300ec3957c7"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/intercom/reference-1.webp",
+      "source_url": "https://www.intercom.com/ims-image?url=%2Fintercom-marketing-site%2Fimg%2Fhome-2026%2Fdesktop%2FIntercom_Hero-Gallery_02.webp&w=3840&q=75&dpl=dpl_CM7vSzsVVjfwCs6ohoFd7xxYYp6k",
+      "source_tag": "img:page-image",
+      "context": "img order-3 h-32 w-auto md:absolute md:left-[2.9%] md:top-[11.5%] md:h-auto md:w-[88px] lg:w-[12.25%] div pointer-events-none col-span-full mt-12 flex items-center justify-center gap-6 overflow-x-clip md:absolute md:inset-0 md:-z-10 md:mt-0",
+      "content_type": "image/webp",
+      "bytes": 85232,
+      "sha256": "5983fd2e8ecfa29180f1612825b228803d4a1baf5490e2d4913dc115a0cbf776",
+      "width": 600,
+      "height": 825
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/intercom/reference-2.webp",
+      "source_url": "https://www.intercom.com/ims-image?url=%2Fintercom-marketing-site%2Fimg%2Fhome-2026%2Fdesktop%2FIntercom_Hero-Gallery_06.webp&w=3840&q=75&dpl=dpl_CM7vSzsVVjfwCs6ohoFd7xxYYp6k",
+      "source_tag": "img:page-image",
+      "context": "img hidden md:absolute md:-left-[5.5%] md:top-[36.9%] md:block md:w-[80px] lg:w-[13.5%] div pointer-events-none col-span-full mt-12 flex items-center justify-center gap-6 overflow-x-clip md:absolute md:inset-0 md:-z-10 md:mt-0 md:block div ",
+      "content_type": "image/webp",
+      "bytes": 15226,
+      "sha256": "fcebee75f1fa74cf719fe5621beba96d20d7037e55a1594118abf9fa32d1a9b0",
+      "width": 600,
+      "height": 750
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/intercom/reference-3.webp",
+      "source_url": "https://www.intercom.com/ims-image?url=%2Fintercom-marketing-site%2Fimg%2Fhome-2026%2Fdesktop%2FIntercom_Hero-Gallery_04.webp&w=3840&q=75&dpl=dpl_CM7vSzsVVjfwCs6ohoFd7xxYYp6k",
+      "source_tag": "img:page-image",
+      "context": "img order-1 h-28 w-auto md:absolute md:-right-[1.8%] md:top-[43.1%] md:h-auto md:w-[64px] lg:w-[10.5%] div pointer-events-none col-span-full mt-12 flex items-center justify-center gap-6 overflow-x-clip md:absolute md:inset-0 md:-z-10 md:mt-",
+      "content_type": "image/webp",
+      "bytes": 22104,
+      "sha256": "193870588a372572855619657cf8c5b2e09c6dbd7d51dadf808c055d32bce247",
+      "width": 600,
+      "height": 783
+    }
+  ]
+}

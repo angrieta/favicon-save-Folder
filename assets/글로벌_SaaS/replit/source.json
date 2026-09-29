@@ -1,0 +1,69 @@
+{
+  "company": "Replit",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://replit.com/",
+  "page_url": "https://replit.com/",
+  "page_title": "AI App and Website Builder | Replit",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://replit.com/format=auto/public/images/lox/social-proof/Alex; banner:HTTPError:https://replit.com/format=auto/public/images/lox/social-proof/Barak; banner:HTTPError:https://replit.com/format=auto/public/images/lox/social-proof/Shauna; banner:HTTPError:https://replit.com/format=auto/public/images/lox/social-proof/Takeshi; reference:HTTPError:https://replit.com/format=auto/public/images/landing/outcome-focused-experience@2x.webp; reference:HTTPError:https://replit.com/format=auto/public/images/landing/design-freely-chromatica.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/replit/favicon.png",
+      "source_url": "https://replit.com/public/icons/favicon-prompt-192-rebrand.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1186,
+      "sha256": "5ae0a0206783c502d3ffe648c99e902bc5be434a00c10c8f2e309c925a51462a",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/replit/og.webp",
+      "source_url": "https://replit.com/public/images/opengraph_rebrand.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 34870,
+      "sha256": "56787f0ffa6507efd364dbef63e09b8181c227eea84b2b46535172706d1520ce",
+      "width": 1200,
+      "height": 650
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/replit/reference-1.webp",
+      "source_url": "https://replit.com/cdn-cgi/image/width=3840,quality=80,format=auto/public/images/landing/outcome-focused-experience@2x.webp",
+      "source_tag": "img:page-image",
+      "context": "img div absolute inset-0 div flex box-border min-h-0 min-w-0 border-0 border-solid view-outline-none flex-col justify-logical-start items-stretch relative shrink-0 rounded-24 p-1000 h-full overflow-hidden bg-[hsl(100deg_12%_18%_/_100%)] tex",
+      "content_type": "image/webp",
+      "bytes": 48014,
+      "sha256": "cfdcccb491a4fb2f0101a486a94a7521511b754296aeaf1370a1bb89c473d77c",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/replit/reference-2.webp",
+      "source_url": "https://replit.com/cdn-cgi/image/width=3840,quality=80,format=auto/public/images/landing/design-freely-chromatica.webp",
+      "source_tag": "img:page-image",
+      "context": "img div relative shrink-0 rounded-12 overflow-hidden aspect-[12/5] max-tablet-min:rounded-8 div flex box-border min-h-0 min-w-0 border-0 border-solid view-outline-none flex-col items-stretch ml-auto mr-0 shrink-0 justify-center gap-350 -my-",
+      "content_type": "image/webp",
+      "bytes": 28130,
+      "sha256": "c777eca7ceb7ddfb0d8ba1b6539c84aa446ae80eaecddaca83634fe30127fc74",
+      "width": 640,
+      "height": 266
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/replit/reference-3.webp",
+      "source_url": "https://replit.com/cdn-cgi/image/width=3840,quality=80,format=auto/public/images/landing/design-freely-exhibition.webp",
+      "source_tag": "img:page-image",
+      "context": "img div relative shrink-0 rounded-12 overflow-hidden aspect-[12/5] max-tablet-min:rounded-8 div flex box-border min-h-0 min-w-0 border-0 border-solid view-outline-none flex-col items-stretch ml-auto mr-0 shrink-0 justify-center gap-350 -my-",
+      "content_type": "image/webp",
+      "bytes": 17596,
+      "sha256": "4d13ff96ca7aa90d084f9efc4ff7bf0a5a0c6954d7e473b5aad1e0199e87aead",
+      "width": 640,
+      "height": 273
+    }
+  ]
+}

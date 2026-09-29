@@ -1,0 +1,46 @@
+{
+  "company": "LS",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.lsholdings.com/ko",
+  "page_url": "https://www.lsholdings.com/ko",
+  "page_title": "LS그룹홈페이지",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.lsholdings.com/assets/img/main/section1_movie.mp4; reference:ValueError:https://www.lsholdings.com/assets/img/main/section1_movie.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/ls-group/favicon.ico",
+      "source_url": "https://www.lsholdings.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "a208e262ec1dac94c13498ceab69e6bc7cd34341a132c51c190cfb5aa8fb2f83",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/ls-group/og.webp",
+      "source_url": "https://www.lsholdings.com:443/assets/img/icon.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6534,
+      "sha256": "2982eb9813d458b997df65b6ef572642a9804abeb4dafd841abb9b2e84f404fe",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/ls-group/banner-1.webp",
+      "source_url": "https://www.lsholdings.com/upfiles/notice/1/2026/6abb5d034721e.jpg",
+      "source_tag": "inline-background-image",
+      "context": "a   background-image: url(\"/upfiles/notice/1/2026/6abb5d034721e.jpg\");",
+      "content_type": "image/webp",
+      "bytes": 122974,
+      "sha256": "83559abafa035e5cf5ad7f3f582efa0de0a03a4fde93fe5be70c8fd51afc7c4d",
+      "width": 900,
+      "height": 675,
+      "source_sha256": "e7a433800b4428dc50f4c6b83903c665d9bd1869c2d1d19133e6f8a6e18ba641"
+    }
+  ]
+}

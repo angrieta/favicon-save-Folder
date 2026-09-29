@@ -1,0 +1,119 @@
+{
+  "company": "한겨레",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.hani.co.kr/",
+  "page_url": "https://www.hani.co.kr/",
+  "page_title": "한겨레",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1796240301276495&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/hankyoreh/favicon.png",
+      "source_url": "https://www.hani.co.kr/images/shortcut-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1030,
+      "sha256": "0be58b81ccf7401534fff14214052af22a3b48195b72bb158237e165b977e7fb",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/hankyoreh/og.webp",
+      "source_url": "https://img.hani.co.kr/imgdb/original/2023/0227/3716774589571649.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4200,
+      "sha256": "3961878aec16a2c8b0db5f38e8138e3f9f667fb1441d073181b388c6f098c124",
+      "width": 954,
+      "height": 511
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/hankyoreh/logo-1.webp",
+      "source_url": "https://www.hani.co.kr/images/profile.jpg",
+      "source_tag": "json-ld.publisher.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 2846,
+      "sha256": "5301fba0ab3a88d5681cf3b134269fa9b6787920536ecb1813de07fbb94409bd",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/hankyoreh/logo-2.svg",
+      "source_url": "https://img.hani.co.kr/section-image/23/hani/images/fortune/paper-main.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img MainAsideBannerCard_logoImage__PCCrc 지면보기 로고 이미지 div MainAsideBannerCard_inner__qHvPy a MainAsideBannerCard_banner__s7H6k MainAsideBannerCard_paperLink__7XUUc div MainAsideBannerList_list__PYeCk div MainAsideBannerList_wrap__mqj9A",
+      "content_type": "image/svg+xml",
+      "bytes": 5137,
+      "sha256": "c3dca26ea746b6726f8ef4c5911cfff6d235178a9390a17b9a521613789eccf1",
+      "width": 80,
+      "height": 68,
+      "source_sha256": "64779936ad977837255d95cf36ce89a33e7ef2efcc6d33905e00ddfd77772fbb"
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/hankyoreh/banner-1.webp",
+      "source_url": "https://flexible.img.hani.co.kr/flexible/normal/1253/501/imgdb/child/2023/1208/52_17020283908478_20210216503361.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  BaseAvatar_avatar__0myso KeywordAvatar_image__dfmBU false background-image:url(https://flexible.img.hani.co.kr/flexible/normal/1253/501/imgdb/child/2023/1208/52_17020283908478_20210216503361.webp);width:50px;height:50px",
+      "content_type": "image/webp",
+      "bytes": 81248,
+      "sha256": "abe533eaac4ee9d8520ba54a69fa698c5db33a569bddf40e4d5bcdb271067294",
+      "width": 1253,
+      "height": 501,
+      "source_sha256": "4dcf6c227053285e2d120ff59f417b9ac7832d92bc7621e1660a11da38e95511"
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/hankyoreh/banner-2.webp",
+      "source_url": "https://flexible.img.hani.co.kr/flexible/normal/970/388/imgdb/original/2020/1027/6216037606005856.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  BaseAvatar_avatar__0myso KeywordAvatar_image__dfmBU false background-image:url(https://flexible.img.hani.co.kr/flexible/normal/970/388/imgdb/original/2020/1027/6216037606005856.webp);width:50px;height:50px",
+      "content_type": "image/webp",
+      "bytes": 20184,
+      "sha256": "ab13385e5f9b94c8fe3aab5092666fd318937322837d132d8c2b9c0e904bbb02",
+      "width": 970,
+      "height": 388
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/hankyoreh/reference-1.webp",
+      "source_url": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0929/53_17906841157217_4817906838017271.webp",
+      "source_tag": "img:page-image",
+      "context": "img DMZ 북 지뢰 1발 추가발견…강 국방 “정전협정 위반 명백” div BaseImage_imageWrap__WEhmX div BaseImage_wrap__O0eJ0 div BaseThumbnail_wrap__pkRwr MainTopArticle_thumbnail__DOLns a MainTopArticle_thumbnailLink__RZ18P",
+      "content_type": "image/webp",
+      "bytes": 55824,
+      "sha256": "a5f70c59b07eadc66cca3964e0f2e9335eced738b7e1d345aa01f0368892151e",
+      "width": 970,
+      "height": 582
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/hankyoreh/reference-2.webp",
+      "source_url": "https://flexible.img.hani.co.kr/flexible/normal/500/300/imgdb/child/2026/0929/53_17906855697527_20260929503703.webp",
+      "source_tag": "img:page-image",
+      "context": "img ‘베드민턴 황제’ 안세영 AG 2연패 “여전히 공격력이 부족하다” div BaseImage_imageWrap__WEhmX div BaseImage_wrap__O0eJ0 div BaseThumbnail_wrap__pkRwr a BaseArticleCardVertical_link__3rmjA",
+      "content_type": "image/webp",
+      "bytes": 17126,
+      "sha256": "75822a18ffe8558a845a4b472cc543011f8ea640caf876311e37793115c341f0",
+      "width": 500,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/hankyoreh/reference-3.webp",
+      "source_url": "https://img.hani.co.kr/imgdb/child/2026/0929/53_17906734130275_20260929503111.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 외교부 “우크라 ‘포로송환 공개’ 사과 요구에 답변 아직 없어” div BaseImage_imageWrap__WEhmX div BaseImage_wrap__O0eJ0 div BaseThumbnail_wrap__pkRwr a BaseArticleCard_link__Q3YFK",
+      "content_type": "image/webp",
+      "bytes": 86582,
+      "sha256": "283355d8b066beb60c79145f932c25139248e3a89a489706cad942fc9d2bf477",
+      "width": 851,
+      "height": 510
+    }
+  ]
+}

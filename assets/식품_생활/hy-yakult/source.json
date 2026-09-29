@@ -1,0 +1,118 @@
+{
+  "company": "hy",
+  "category": "식품_생활",
+  "requested_url": "https://www.hy.co.kr/",
+  "page_url": "https://www.hy.co.kr/",
+  "page_title": "한국야쿠르트의 새로운 이름 hy ㅣ 에치와이",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/hy-yakult/favicon.ico",
+      "source_url": "https://www.hy.co.kr/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "b113c93a26d27f469cbbfb0f191bdc72e529fb0a9256e16b3a5d8e5fbc3ec9e0",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/hy-yakult/og.webp",
+      "source_url": "https://www.hy.co.kr/images/kr/common/hy-brand-logo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6466,
+      "sha256": "13b1831c0bc0e5b0b43f7ec18abfbd9c389e6d823dfb01dc26c171f96da7b1b1",
+      "width": 1028,
+      "height": 768
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/hy-yakult/og.webp",
+      "source_url": "https://www.hy.co.kr/images/kr/common/hy-brand-logo.jpg",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 6466,
+      "sha256": "13b1831c0bc0e5b0b43f7ec18abfbd9c389e6d823dfb01dc26c171f96da7b1b1",
+      "width": 1028,
+      "height": 768,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/hy-yakult/logo-2.png",
+      "source_url": "https://www.hy.co.kr/images/kr/contents/main-overview-brand-obj-1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div obj div item-obj obj-1 div item-visual div item-inner",
+      "content_type": "image/png",
+      "bytes": 535366,
+      "sha256": "46ef44c15352b5775b4cda899e41e954482d2da595437e3f52e9a16fe45eff43",
+      "width": 707,
+      "height": 889
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/hy-yakult/banner-1.webp",
+      "source_url": "https://www.hy.co.kr/images/kr/contents/main-overview-first-visual.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div item-bg div item-visual div item-inner div main-overview-items first-mover",
+      "content_type": "image/webp",
+      "bytes": 12150,
+      "sha256": "796eaa5f9d40f493d9f2e55db2bf6ca799e22c94d920ca5fe825ed64d113329f",
+      "width": 1800,
+      "height": 716
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/hy-yakult/banner-2.webp",
+      "source_url": "https://www.hy.co.kr/images/kr/contents/main-overview-research-visual.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div item-bg div item-visual div item-inner div main-overview-items research",
+      "content_type": "image/webp",
+      "bytes": 64996,
+      "sha256": "676325fe601b8c5aeb1a4b6e8db2d750ee11158fed40aa207351291c18155fa4",
+      "width": 1800,
+      "height": 716
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hy-yakult/reference-1.webp",
+      "source_url": "https://www.hy.co.kr/images/kr/contents/main-overview-research-visual-m.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div item-bg div item-visual div item-inner div main-overview-items research",
+      "content_type": "image/webp",
+      "bytes": 27650,
+      "sha256": "83b97dbf5f8cf914d2de4101acba1c6bf50d0ddf6feb88030ecbe3b825fb3af0",
+      "width": 778,
+      "height": 888
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hy-yakult/reference-2.webp",
+      "source_url": "https://www.hy.co.kr/images/kr/contents/main-voerview-first-mover-obj-1.png",
+      "source_tag": "img:page-image",
+      "context": "img div obj div item-obj obj-1 div item-visual div item-inner",
+      "content_type": "image/webp",
+      "bytes": 16036,
+      "sha256": "92fc8ee3879ed8594b88abdfe0057008300de9297839dc3e7088be8b98ef6006",
+      "width": 495,
+      "height": 660
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hy-yakult/reference-3.webp",
+      "source_url": "https://www.hy.co.kr/images/kr/contents/main-voerview-first-mover-obj-2.png",
+      "source_tag": "img:page-image",
+      "context": "img div obj div item-obj obj-2 div item-visual div item-inner",
+      "content_type": "image/webp",
+      "bytes": 2862,
+      "sha256": "4295a1f4e54e3c08f21f4bdec6340d25cc69fa5d951535163fe2965505f5b2d1",
+      "width": 496,
+      "height": 661
+    }
+  ]
+}

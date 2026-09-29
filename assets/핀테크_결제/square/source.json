@@ -1,0 +1,69 @@
+{
+  "company": "Square",
+  "category": "핀테크_결제",
+  "requested_url": "https://squareup.com/",
+  "page_url": "https://squareup.com/us/en",
+  "page_title": "Power your entire business | Square",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://pw-assets-production-c.squarecdn.com/video/5mObdhW0r5D0lyp3iVJFA6/b4d81931-7cfa-4402-bb41-efc4126e3f95-en-ee526a6b-3ca3-4ae5-9bc2-be60cb21229f-en-Homepage_Edit-updated.webm; banner:ValueError:https://pw-assets-production-c.squarecdn.com/video/UzwkmwVqtJ5eHtTOhEj6Q/f35f845e-122e-41c4-8c1e-ee7763cab6c4-en-ee526a6b-3ca3-4ae5-9bc2-be60cb21229f-en-Homepage_Edit-updated.mp4; banner:ValueError:https://pw-assets-production-c.squarecdn.com/video/4mk3MgaCj5fyuqolNMPfo1/1ca286d3-e996-4d1c-a860-fa9af614d544-en-e231a903-d473-49ef-9632-abe0c1331eda-en-SQ-AI-Mockup-Animation-16x9-Hero-img-v2.webm; banner:ValueError:https://pw-assets-production-c.squarecdn.com/video/2Kg6dI4Los4KYMOTX7bpcz/e231a903-d473-49ef-9632-abe0c1331eda-en-SQ-AI-Mockup-Animation-16x9-Hero-img-v2-(1).mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/square/favicon.ico",
+      "source_url": "https://pw-renderer-production-c.squarecdn.com/b4154de5429a2b11751bdb6d14c3f72c2f46a34a/_svelte/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 6518,
+      "sha256": "770e0889aefd823056c7cdbb066a445be0f0754c1b4d4cba877e120fdbcb63e6",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/square/og.webp",
+      "source_url": "https://images.ctfassets.net/2d5q1td6cyxq/7g5Ho2t0G8K9dSpSmSAi66/bc45d5317cba7c8197f822e1cf530d26/PD07750_-_HP_3.0_social_share.png?w=1200&h=630&fit=thumb&fm=jpg&q=90",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 32028,
+      "sha256": "70959d1a12cbfe784036904dd951f0cd4933623cecd46cdaf4e853b63c14dd5d",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/square/reference-1.webp",
+      "source_url": "https://images.ctfassets.net/2d5q1td6cyxq/5a3Hyi2cUpp8tbZ5U19x4a/27b8ed1445ef9a178b60699f08dbc4aa/Terminal.png?fm=avif",
+      "source_tag": "picture:page-image",
+      "context": "picture svelte-uoy5ps a image-tile svelte-uoy5ps li svelte-uoy5ps ul image-tile-list slide-in-from-top svelte-uoy5ps ul list-container alignment-left small-list-container svelte-uoy5ps",
+      "content_type": "image/webp",
+      "bytes": 7988,
+      "sha256": "54766666aa467a4ca8a3911db840633e10621a395cf105be4dde5d50ac5aeba1",
+      "width": 379,
+      "height": 375
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/square/reference-2.webp",
+      "source_url": "https://images.ctfassets.net/2d5q1td6cyxq/5a3Hyi2cUpp8tbZ5U19x4a/27b8ed1445ef9a178b60699f08dbc4aa/Terminal.png?fm=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture svelte-uoy5ps a image-tile svelte-uoy5ps li svelte-uoy5ps ul image-tile-list slide-in-from-top svelte-uoy5ps ul list-container alignment-left small-list-container svelte-uoy5ps",
+      "content_type": "image/webp",
+      "bytes": 8072,
+      "sha256": "e044039cfbbcb08841ae9e08724388ea6e8c52e4ee24e29f23f0416dfc1f2cd3",
+      "width": 379,
+      "height": 375
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/square/reference-3.webp",
+      "source_url": "https://images.ctfassets.net/2d5q1td6cyxq/5a3Hyi2cUpp8tbZ5U19x4a/27b8ed1445ef9a178b60699f08dbc4aa/Terminal.png",
+      "source_tag": "picture:page-image",
+      "context": "picture svelte-uoy5ps a image-tile svelte-uoy5ps li svelte-uoy5ps ul image-tile-list slide-in-from-top svelte-uoy5ps ul list-container alignment-left small-list-container svelte-uoy5ps",
+      "content_type": "image/webp",
+      "bytes": 8168,
+      "sha256": "b7484802bb353a179a3557c64cfd512c8bba1983f5faa82cf90c735e7972579b",
+      "width": 379,
+      "height": 375
+    }
+  ]
+}

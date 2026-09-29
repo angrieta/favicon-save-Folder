@@ -1,0 +1,83 @@
+{
+  "company": "스테이폴리오",
+  "category": "항공_여행",
+  "requested_url": "https://www.stayfolio.com/",
+  "page_url": "https://www.stayfolio.com/",
+  "page_title": "스테이폴리오",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/stayfolio/favicon.png",
+      "source_url": "https://www.stayfolio.com/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2777,
+      "sha256": "ed0abd860943ecd2b1286cf87529346164393778bf46fa306fec283afd47e5ec",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/stayfolio/og.webp",
+      "source_url": "https://www.stayfolio.com/logo-512.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3580,
+      "sha256": "24c0d104123747fd75eb3949cb94fc4fabe78bc8e9c55739131b04f69238b038",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/stayfolio/logo-1.png",
+      "source_url": "https://www.stayfolio.com/web/images/logo.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 1858,
+      "sha256": "90cf5107badfa113ad0b92bf171a77e588040a533ed6c2fe61d0c1ffb5232759",
+      "width": 173,
+      "height": 74
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/stayfolio/reference-1.webp",
+      "source_url": "https://images.stayfolio.com/system/pictures/images/000/573/654/original/18a357dcc867026ce3b29f627168f567863c0aac.png?d=1920&q=75",
+      "source_tag": "img:page-image",
+      "context": "img _homeBanner_image__JF8IW 숙박세일 페스타\n선착순 쿠폰 받기 span div swiper-slide _homeBanner_swiper_slide__0QLG4 div swiper-wrapper div swiper _homeBannerContainer_desktop_swiper__dHL2H",
+      "content_type": "image/webp",
+      "bytes": 67874,
+      "sha256": "aac04e68fdada515c799f1f16b7cb10805dab07cce64f6ac05d6214b317033fe",
+      "width": 1600,
+      "height": 625,
+      "source_sha256": "382697cd0bea7da46bf01e188513a70fed21631407442fef09bf1d9c78e92b0c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/stayfolio/reference-2.webp",
+      "source_url": "https://images.stayfolio.com/system/pictures/images/000/573/654/original/18a357dcc867026ce3b29f627168f567863c0aac.png?d=1440&q=75",
+      "source_tag": "img:page-image",
+      "context": "img _homeBanner_image__JF8IW 숙박세일 페스타\n선착순 쿠폰 받기 span div swiper-slide _homeBanner_swiper_slide__0QLG4 div swiper-wrapper div swiper _homeBannerContainer_desktop_swiper__dHL2H",
+      "content_type": "image/webp",
+      "bytes": 82116,
+      "sha256": "4799e90b6e64469177a6bcdc9c1f30fa39b4642da4d876db6c4ce9a9a4986f24",
+      "width": 1440,
+      "height": 563
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/stayfolio/reference-3.webp",
+      "source_url": "https://images.stayfolio.com/system/pictures/images/000/574/482/original/a5ef86cf87c1cd02cfad761966b8b8da4a88e55c.png?d=1920&q=75",
+      "source_tag": "img:page-image",
+      "context": "img _homeBanner_image__JF8IW 하이엔드를 말하는\n스테이 4선 span div swiper-slide _homeBanner_swiper_slide__0QLG4 div swiper-wrapper div swiper _homeBannerContainer_desktop_swiper__dHL2H",
+      "content_type": "image/webp",
+      "bytes": 100606,
+      "sha256": "02e79fe4b05ff727cbbfbd6f75a825d53dfdd482778cf39723dbcba6064925d4",
+      "width": 1600,
+      "height": 625,
+      "source_sha256": "c5535f06c13435e3b87202099ebfac2a72f46ffbef21a6f90bcaac209ebebe03"
+    }
+  ]
+}

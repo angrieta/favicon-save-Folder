@@ -1,0 +1,57 @@
+{
+  "company": "서울대학교",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.snu.ac.kr/",
+  "page_url": "https://www.snu.ac.kr/",
+  "page_title": "서울대학교",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.snu.ac.kr/webdata/uploads/kor/media/2020/02/01_gate.mp4; banner:ValueError:https://www.snu.ac.kr/webdata/uploads/kor/media/2020/02/03_library.mp4; banner:ValueError:https://www.snu.ac.kr/webdata/uploads/kor/media/2024/06/movie_20240605_kor.mp4; reference:ValueError:https://www.snu.ac.kr/webdata/uploads/kor/media/2020/02/01_gate.mp4; reference:ValueError:https://www.snu.ac.kr/webdata/uploads/kor/media/2020/02/03_library.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/snu/favicon.png",
+      "source_url": "https://www.snu.ac.kr/_skin/kor/layout/image/mobileicon.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 30238,
+      "sha256": "ac0701b361beee540f17777f127531fc1b0fec508e4c2bc94ab55f04a7aa1743",
+      "width": 114,
+      "height": 114
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/snu/og.webp",
+      "source_url": "https://www.snu.ac.kr/webdata/site/kor/config/840z2e9zd32zfccz0b8zc25z9c2z58cz84dz2a8z63.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 52172,
+      "sha256": "c6acf5ef19704b98de44f0d33b3fcd7ddd5825f7ae5c305073fb90c4ea6a68c0",
+      "width": 1200,
+      "height": 490
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/snu/banner-1.webp",
+      "source_url": "https://www.snu.ac.kr/webdata/uploads/kor/image/2025/04/main_banner_20250429_web.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img only-desktop 샤인기부, 당신이 만드는 빛나는 변화, 샤인 굿즈 받기 a inner div ly-container common-linebanner div skip-content ly-content main ly-main",
+      "content_type": "image/webp",
+      "bytes": 18006,
+      "sha256": "055b710158d65eff425aa9024534215fa42e8b8e328d6995ef854b3920ce5c85",
+      "width": 1800,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/snu/banner-2.webp",
+      "source_url": "https://www.snu.ac.kr/webdata/uploads/kor/image/2020/02/index-topbanner-img.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  img background: url('/webdata/uploads/kor/image/2020/02/index-topbanner-img.jpg') center center / cover no-repeat;",
+      "content_type": "image/webp",
+      "bytes": 57904,
+      "sha256": "2d4d911b47117c8fd5a705476f59d045eb72a9b46555d41fc767b855338957e3",
+      "width": 1740,
+      "height": 870
+    }
+  ]
+}

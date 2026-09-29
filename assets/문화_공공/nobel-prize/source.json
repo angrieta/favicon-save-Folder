@@ -1,0 +1,95 @@
+{
+  "company": "The Nobel Prize",
+  "category": "문화_공공",
+  "requested_url": "https://www.nobelprize.org",
+  "page_url": "https://www.nobelprize.org/",
+  "page_title": "The official website of the Nobel Prize - NobelPrize.org",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/nobel-prize/favicon.png",
+      "source_url": "https://www.nobelprize.org/uploads/2018/08/Nobel-favicon-232x232.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 9460,
+      "sha256": "06ab672897ecf7448df57544af8371733105167d82a5d8d8f3950556376229ec",
+      "width": 232,
+      "height": 232,
+      "source_sha256": "c16d2f9726f006358c18dd1401864825906cf4ab5ecfbb1f167738c6b42adc94"
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/nobel-prize/og.webp",
+      "source_url": "https://www.nobelprize.org/uploads/2018/09/New-will-fullsize-496x328.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12982,
+      "sha256": "0e8325818c0278772853496f26219adc9a7ba05dbcbeb1b625af9fcbb3109417",
+      "width": 496,
+      "height": 328
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/nobel-prize/banner-1.webp",
+      "source_url": "https://www.nobelprize.org/images/15981-hero-desktop.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture content-media__image div content-media__inner div content-media__wrapper figure content-media div content-item__media-container",
+      "content_type": "image/webp",
+      "bytes": 112766,
+      "sha256": "aa50bfdf55f690e4088c52d16bb987919f9081101905d140e6c9e3ccd6999338",
+      "width": 1800,
+      "height": 675
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/nobel-prize/banner-2.webp",
+      "source_url": "https://www.nobelprize.org/uploads/2021/06/blood-typing-banner-3_2-760x504.jpg",
+      "source_tag": "source:semantic-banner",
+      "context": "source picture content-media__image div content-media__inner div content-media__wrapper figure content-media",
+      "content_type": "image/webp",
+      "bytes": 32132,
+      "sha256": "561ceeafc867847dac9e278ff37a7d110a6638c7f19efc5efd59ad13685a00c6",
+      "width": 760,
+      "height": 504
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/nobel-prize/reference-1.webp",
+      "source_url": "https://www.nobelprize.org/images/53411-landscape-large.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture a Follow the Nobel Prize announcements figure featuredimage article article -halfwidth-a section article-grid featured-content featured-content__color--default var-half-width-a align wp-block-nobel-prize-featured-content",
+      "content_type": "image/webp",
+      "bytes": 31118,
+      "sha256": "da07b990c79f329b3a31591ee8d11c9ef2947d001a883b18d91437d07c096a57",
+      "width": 760,
+      "height": 504
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/nobel-prize/reference-2.webp",
+      "source_url": "https://www.nobelprize.org/uploads/2025/08/neurons_16x9_ver02.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg hero background: url(https://www.nobelprize.org/uploads/2025/08/neurons_16x9_ver02.jpg)",
+      "content_type": "image/webp",
+      "bytes": 74696,
+      "sha256": "53be83483057c9966a863fa40805bde933c3539dc9a64982e6a61a3a37063f31",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "4cf1ae748cbd4c914d0cdbdeef3f92bf76117057fc4af584fc8b0a6fb42af293"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/nobel-prize/reference-3.webp",
+      "source_url": "https://www.nobelprize.org/images/52981-content-landscape-desktop.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg hero background: url(https://www.nobelprize.org/images/52981-content-landscape-desktop.jpg)",
+      "content_type": "image/webp",
+      "bytes": 32240,
+      "sha256": "2971b65a32f7bed8edb53781e5ceb2e61f30a756ca77f6f374d9664bcb30c02b",
+      "width": 756,
+      "height": 504
+    }
+  ]
+}

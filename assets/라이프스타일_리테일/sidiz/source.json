@@ -1,0 +1,94 @@
+{
+  "company": "시디즈",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://kr.sidiz.com/",
+  "page_url": "https://kr.sidiz.com/",
+  "page_title": "시디즈(SIDIZ) 공식 홈페이지",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://kr.sidiz.com/cdn/shop/videos/c/vp/7bf60cae55914f0781b68323c16cc1d5/7bf60cae55914f0781b68323c16cc1d5.HD-1080p-7.2Mbps-64919399.mp4?v=0; banner:ValueError:https://kr.sidiz.com/cdn/shop/videos/c/vp/3c3449baafcb457fb2ecc4d5ac66360e/3c3449baafcb457fb2ecc4d5ac66360e.HD-1080p-7.2Mbps-88196343.mp4?v=0",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/sidiz/favicon.png",
+      "source_url": "https://kr.sidiz.com/cdn/shop/files/favicon.png?crop=center&height=32&v=1712037029&width=32",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 859,
+      "sha256": "00ab653f578740cf489e2c9fab1bd6c227b0c44878090fdfe40385d0b639f9bb",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/sidiz/og.webp",
+      "source_url": "http://kr.sidiz.com/cdn/shop/files/remove_back_logo.png?v=1721516562",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6808,
+      "sha256": "2bc897a7b78c9cdd91efe4fc8b8aef623646c66fc5eae5120a4bbe71453481b8",
+      "width": 488,
+      "height": 511
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/sidiz/logo-1.svg",
+      "source_url": "https://kr.sidiz.com/cdn/shop/files/sidiz_symbol.svg?v=1723007158",
+      "source_tag": "img:semantic-logo",
+      "context": "img a logo-img invert-colors div logo_pc_top logo div header-top header__top header__top--logo-left div header-container header-container--top",
+      "content_type": "image/svg+xml",
+      "bytes": 491,
+      "sha256": "5ddade3c65f5393ca3183059899c046bfce183c4a93d4ecd93b6ffba4093b161",
+      "width": 24,
+      "height": 24,
+      "source_sha256": "8d74aba6efc39bb9b92d6ed1d94333076f1aa12faeb42f833a14bd1bb2e4b8a1"
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/sidiz/logo-2.png",
+      "source_url": "https://kr.sidiz.com/cdn/shop/files/remove_back_logo.png?v=1721516562",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 23767,
+      "sha256": "ee2974bccf9dd943bf998c7dfe629a511b4ccc70adad6f84ddd42cdbe2f7881f",
+      "width": 488,
+      "height": 511
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/sidiz/reference-1.webp",
+      "source_url": "https://kr.sidiz.com/cdn/shop/files/hAaS1ELQZmUIfYelKFTF_1906x_1e1e83b9-8320-41dc-bc52-45b17523218d.webp?crop=center&v=1743466037",
+      "source_tag": "img:page-image",
+      "context": "img div gnb_banner_item_img a gnb_banner_item div div banner_container",
+      "content_type": "image/webp",
+      "bytes": 43790,
+      "sha256": "a66884c32fd564f1d9e19b03251b5f1f71de79c2869cf51eceb1c4397ebc47d0",
+      "width": 900,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/sidiz/reference-2.webp",
+      "source_url": "https://kr.sidiz.com/cdn/shop/files/hAaS1ELQZmUIfYelKFTF_1906x_1e1e83b9-8320-41dc-bc52-45b17523218d.webp?crop=center&v=1743466037&width=1200",
+      "source_tag": "img:page-image",
+      "context": "img div gnb_banner_item_img a gnb_banner_item div div banner_container",
+      "content_type": "image/webp",
+      "bytes": 42022,
+      "sha256": "9d1eecaed5d2c17950da9d43cc6ec55c7c42c7550fd02b9af72c322f72ccb682",
+      "width": 900,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/sidiz/reference-3.webp",
+      "source_url": "https://kr.sidiz.com/cdn/shop/files/hAaS1ELQZmUIfYelKFTF_1906x_1e1e83b9-8320-41dc-bc52-45b17523218d.webp?crop=center&v=1743466037&width=832",
+      "source_tag": "img:page-image",
+      "context": "img div gnb_banner_item_img a gnb_banner_item div div banner_container",
+      "content_type": "image/webp",
+      "bytes": 36968,
+      "sha256": "e642db363e3bdf550b1b71c4b189fb8daf4b600583018e19346a5d4c058c777e",
+      "width": 832,
+      "height": 1248
+    }
+  ]
+}

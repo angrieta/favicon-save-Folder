@@ -1,0 +1,69 @@
+{
+  "company": "스윗",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://swit.io/ko",
+  "page_url": "https://swit.io/ko",
+  "page_title": "Swit",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://swit.io/chunk-MWSCGJD4.js; reference:ValueError:https://swit.io/chunk-RUW4GTFA.js; reference:ValueError:https://swit.io/chunk-CHQ2KRRK.js; reference:ValueError:https://swit.io/chunk-PXOM3LOQ.js; reference:ValueError:https://swit.io/chunk-4TCXBZSB.js; reference:ValueError:https://swit.io/chunk-N4SQ6HLM.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/swit/favicon.png",
+      "source_url": "https://swit.io/assets/images/favicon/favicon-152-normal.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3237,
+      "sha256": "8b7d86269bfdc584ca36f5de7a5eba081499e7e9b1e40c4fe913d27a4aee4b0b",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/swit/og.webp",
+      "source_url": "https://swit.io/assets/images/meta/OG_Home_ver2.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12080,
+      "sha256": "3c351b3dd5ebf2eb98b7bd32eaea041ef9157389c8f7f279dfc2e80bb8cda7a8",
+      "width": 601,
+      "height": 316
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/swit/logo-1.png",
+      "source_url": "https://swit.io/assets/images/home_new/homepage/gartner.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img gartner div hero-achievement__logo-box div hero-achievement__item div hero-achievement-sub div hero-achievement",
+      "content_type": "image/png",
+      "bytes": 2382,
+      "sha256": "7e8b9f20160901af07c7f0b00160c017d6bd1d0b113c8590e5e96aaf2c8c6493",
+      "width": 128,
+      "height": 30
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/swit/logo-2.png",
+      "source_url": "https://swit.io/assets/images/home_new/homepage/business_insider.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img business insider div hero-achievement__logo-box div hero-achievement__item div hero-achievement-sub div hero-achievement",
+      "content_type": "image/png",
+      "bytes": 4224,
+      "sha256": "2534a87a2b8359a32ed00eac2303eaab0bba05053a9fcfc98880f857e1ef6834",
+      "width": 152,
+      "height": 51
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/swit/banner-1.webp",
+      "source_url": "https://swit.io/assets/videos/homepage/Homepage-01_New%20Hero_ver2.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img hero-img Screenshot of a video using Swit's AI Snap div hero-video__wrapper section hero-section-wrapper swit-home-hero-section div contents-wrapper",
+      "content_type": "image/webp",
+      "bytes": 27408,
+      "sha256": "3c75ae676609c8a18e5f086445475dff10aa01c3ddacd91bbad06171d780ff4e",
+      "width": 1024,
+      "height": 572
+    }
+  ]
+}

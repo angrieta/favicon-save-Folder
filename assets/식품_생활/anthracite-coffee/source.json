@@ -1,0 +1,81 @@
+{
+  "company": "앤트러사이트",
+  "category": "식품_생활",
+  "requested_url": "https://www.anthracitecoffee.com/",
+  "page_url": "https://www.anthracitecoffee.com/",
+  "page_title": "Anthracite Coffee",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://vendor-cdn.imweb.me/css/montserrat.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/anthracite-coffee/favicon.png",
+      "source_url": "https://cdn.imweb.me/thumbnail/20171109/5a04143216e2a.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3863,
+      "sha256": "98e2486093ebab9ed6870eea1f07e2b6a54d6b13e08e2f5c2397629f582bf32e",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/anthracite-coffee/og.webp",
+      "source_url": "https://cdn.imweb.me/upload/S2017101159dd702cd57cd/5a0b5b53906ed.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 85272,
+      "sha256": "8df0e11d16feb11b3b2313cb898de00490856ec572dc68ccb9fb7c8f71e6c92e",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/anthracite-coffee/banner-1.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20181213/5c117046ce31f.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  section_bg _section_bg _interactive_bg background-image:url('https://cdn.imweb.me/thumbnail/20181213/5c117046ce31f.jpg'); background-position:50% 50%;  background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top",
+      "content_type": "image/webp",
+      "bytes": 124126,
+      "sha256": "a438f749ba7852740e757dc6caf8152ae0f18b01fdd452cd5f4be7a7d5d813eb",
+      "width": 1800,
+      "height": 866
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/anthracite-coffee/reference-1.webp",
+      "source_url": "https://cdn.imweb.me/upload/S2017101159dd702cd57cd/83a51141d6a30.png",
+      "source_tag": "img:page-image",
+      "context": "img a div pop-img div pop-item div popup_S2017101159dd702cd57cd_373535 pop-container _popup_S2017101159dd702cd57cd_373535",
+      "content_type": "image/webp",
+      "bytes": 35838,
+      "sha256": "84903ba2adecf4165aee4c86b916be61f587dfe36982ffc21596179393a8914f",
+      "width": 698,
+      "height": 547
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/anthracite-coffee/reference-2.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20201105/7cdd1e067405f.jpg",
+      "source_tag": "json-ld.contentUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 108312,
+      "sha256": "5ba539e82ff180bc0162eecbd2ef445fb7d67eed6e2a56a933780f6e854f0685",
+      "width": 1577,
+      "height": 1051
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/anthracite-coffee/reference-3.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20201209/c7337acb3fb89.jpg",
+      "source_tag": "json-ld.contentUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 135180,
+      "sha256": "fbf0f4c8ca4f5e66d3c240665de91d7c9f1f351e44755e0e5d360ad94b32c3b1",
+      "width": 1500,
+      "height": 844
+    }
+  ]
+}

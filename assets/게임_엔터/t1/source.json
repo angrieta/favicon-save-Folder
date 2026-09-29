@@ -1,0 +1,82 @@
+{
+  "company": "T1",
+  "category": "게임_엔터",
+  "requested_url": "https://www.t1.gg/",
+  "page_url": "https://www.t1.gg/",
+  "page_title": "T1",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.t1.gg/; reference:ValueError:https://www.t1.gg/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/t1/favicon.png",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/62d09f54a49d6f1c78455cce/9afee75d-1052-44c8-8278-ee5a11e35b6f/favicon.ico?format=100w",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2410,
+      "sha256": "ec22fdc5faffa66e3a974428254e4898f0f7b6a9b1f1d32cb87b2340dc2ac2bd",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/t1/og.webp",
+      "source_url": "http://static1.squarespace.com/static/62d09f54a49d6f1c78455cce/t/678f2fd99fdde4601470ee2c/1737437145217/T1+red.png?format=1500w",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 23398,
+      "sha256": "f7e7a15452fed8f227f151d6493397f500fdd3b9d539c8b8f12cb14b52ee0204",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/t1/logo-1.png",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/62d09f54a49d6f1c78455cce/16a13d58-e5ad-4a2d-b39f-ee9b97ade76f/T1+red.png?format=1500w",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a div header-title-logo div header-title header-title--use-mobile-logo div header-title-nav-wrapper",
+      "content_type": "image/png",
+      "bytes": 46481,
+      "sha256": "315040bade6224d7161b4988cddb3f4aefedc1f0ff441e195e1289a18f9d1b27",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/t1/reference-1.webp",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/62d09f54a49d6f1c78455cce/38786c61-a739-4de6-bf76-da0b1ada05d7/T1+red.png",
+      "source_tag": "json-ld.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 19100,
+      "sha256": "d1b26e3941d443b3c62dc6f2df8afd73b92a74ef0ce4fea38b5ebfb048ea4aae",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/t1/reference-2.webp",
+      "source_url": "https://images.squarespace-cdn.com/content/62d09f54a49d6f1c78455cce/38786c61-a739-4de6-bf76-da0b1ada05d7/T1+red.png?format=1000w&content-type=image%2Fpng",
+      "source_tag": "json-ld.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 12576,
+      "sha256": "56d5b7abeb48f85a1252188463e3dcfa8d6736d844161d6cc43fa8de11216779",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/t1/logo-1.png",
+      "source_url": "https://images.squarespace-cdn.com/content/v1/62d09f54a49d6f1c78455cce/970025c6-e0f5-43bc-b4eb-73d6c1903c8c/T1+red.png?format=1500w",
+      "source_tag": "img:page-image",
+      "context": "img div js-content-mode-element content-fit div js-content-mode-element-wrapper js-content-mode-element-system_desktop div fluid-image-container sqs-image-content js-image-container visitor-mode div fluid-image-animation-wrapper sqs-image s",
+      "content_type": "image/png",
+      "bytes": 46481,
+      "sha256": "315040bade6224d7161b4988cddb3f4aefedc1f0ff441e195e1289a18f9d1b27",
+      "width": 1500,
+      "height": 1500,
+      "reused_from": "logo"
+    }
+  ]
+}

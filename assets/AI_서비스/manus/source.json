@@ -1,0 +1,45 @@
+{
+  "company": "Manus",
+  "category": "AI_서비스",
+  "requested_url": "https://manus.im/ko",
+  "page_url": "https://manus.im/ko",
+  "page_title": "Manus(마누스): 실용적인 Hands On AI",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://files.manuscdn.com/webapp/_next/static/chunks/3xsnylvk_sp7d.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/manus/favicon.png",
+      "source_url": "https://manus.im/icon.png?icon.1k-e-nyr3k65n.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 18649,
+      "sha256": "61ebea5cdb9c14741511cfb07cb8f99d5ca8a2726d8f172f92ba16e354efa15c",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/manus/og.webp",
+      "source_url": "https://files.manuscdn.com/webapp/media/ogBanner.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 86142,
+      "sha256": "d2815888cff95215403c339a2ccea8fc3c2a4d91d6de692e8b6e27c108060dd8",
+      "width": 1200,
+      "height": 633
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/manus/banner-1.webp",
+      "source_url": "https://d1oupeiobkpcny.cloudfront.net/assets/dashboard/materials/2026/09/28/9ff88d637cf30f4a18572423e684f9572f79f15155469a7c20c51b397780c30d.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 block size-full object-cover pointer-events-none button clickable relative mx-auto mb-[24px] block aspect-video w-[272px] max-w-full overflow-hidden rounded-[12px] bg-[var(--background-video-player)] div max-md:px-[16px",
+      "content_type": "image/webp",
+      "bytes": 22656,
+      "sha256": "2b529564fcac28dbe35bf397cdc3779e6718ee65b2cb1945d4cd132ab4cbaadc",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

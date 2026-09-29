@@ -1,0 +1,83 @@
+{
+  "company": "KaDeWe",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.kadewe.de/",
+  "page_url": "https://www.kadewe.de/",
+  "page_title": "KaDeWe – KaDeWe Berlin",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/kadewe/favicon.png",
+      "source_url": "https://www.kadewe.de/favicons/kadewe/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3649,
+      "sha256": "bcf3c8d2b3d303dcebc72f675d6d7a40018bfdeaaa8f0baed7184b2f1f188c44",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/kadewe/logo-1.png",
+      "source_url": "https://www.kadewe.de/app/themes/access/public/build/assets/app_logo-D0aHse2y.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-26 h-auto my-6 Access Houses of KaDeWe App Logo div max-w-90 mx-auto flex flex-col items-center mt-26 lg:mt-34 px-8 div footer flex flex-col pt-12 md:pt-35 div site",
+      "content_type": "image/png",
+      "bytes": 8264,
+      "sha256": "18ec6ed7fe632c361170f922dd4e8ec001b98836a4c0c6abf3043a2774795703",
+      "width": 111,
+      "height": 111
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/kadewe/logo-2.svg",
+      "source_url": "https://www.kadewe.de/app/themes/access/public/build/assets/kadewe-D28P9bgm.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-full h-auto KaDeWe a flex justify-center div flex flex-col gap-7 lg:hidden div header-nav-row px-2.5 py-4 sm:px-5 sm:py-2 lg:py-6 header bg-white font-sans",
+      "content_type": "image/svg+xml",
+      "bytes": 2406,
+      "sha256": "5961de5ec719901e72a99252051949ef539abc503de81df2ec293ded7544e156",
+      "width": 360,
+      "height": 101,
+      "source_sha256": "764957d90f29f2f7704f98dc179885a6356643e0f8cde94e89fbc8d1219c7d4e"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/kadewe/reference-1.webp",
+      "source_url": "https://fsn1.your-objectstorage.com/kadewe-stores-production/2026/09/KDW-Teaser-M-Home-Beauty-Studio.jpg",
+      "source_tag": "img:page-image",
+      "context": "img min-h-full a div kadewe-picture-wrapper section kadewe-picture kadewe-picture-landscape div lazyblock-teaser-xOIVf wp-block-lazyblock-teaser",
+      "content_type": "image/webp",
+      "bytes": 100120,
+      "sha256": "855ad1328cbe4aa935b6c5712e523ff4546f25b7e51f952285fbbcfcccf1a157",
+      "width": 1110,
+      "height": 828
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/kadewe/reference-2.webp",
+      "source_url": "https://fsn1.your-objectstorage.com/kadewe-stores-production/2026/09/KDW-Teaser-M-Home-Beauty-Studio-1024x764.jpg",
+      "source_tag": "img:page-image",
+      "context": "img min-h-full a div kadewe-picture-wrapper section kadewe-picture kadewe-picture-landscape div lazyblock-teaser-xOIVf wp-block-lazyblock-teaser",
+      "content_type": "image/webp",
+      "bytes": 80606,
+      "sha256": "a44442dd72e0787c603579d155b7d093765f7ac7e18300cef5b56822f425731a",
+      "width": 1024,
+      "height": 764
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/kadewe/reference-3.webp",
+      "source_url": "https://fsn1.your-objectstorage.com/kadewe-stores-production/2026/09/20260923_OpenSundayKDW_Digitalanwendungen_RH_v1_2_01_2880-x-1370-scaled.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 20260923_OpenSundayKDW_Digitalanwendungen_RH_v1_2_01_2880 x 1370 noscript sr7-bg SR7_6_1-190-slidebg sr7-layer sr7-slide SR7_6_1-190 sr7-content",
+      "content_type": "image/webp",
+      "bytes": 21556,
+      "sha256": "b7c060b50259e6d864fb9d487c6bc7935699cf15262ba7f8dd8287355064669b",
+      "width": 1800,
+      "height": 856
+    }
+  ]
+}

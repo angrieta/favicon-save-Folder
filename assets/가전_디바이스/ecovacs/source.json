@@ -1,0 +1,106 @@
+{
+  "company": "ECOVACS",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.ecovacs.com/kr",
+  "page_url": "https://www.ecovacs.com/kr",
+  "page_title": "혁신적인 홈 로보틱스 브랜드 | 일상에 편리함을 더하다 - ECOVACS KR",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://site-static.ecovacs.com/upload/us/video/official-homepage-innovation-pc/2026/04/23/023948_5326$VortexWash.mp4; reference:ValueError:https://site-static.ecovacs.com/upload/us/video/official-homepage-innovation-pc/2026/04/28/025130_9594$EdgeTrimming_Horizontal-Clean.mp4; reference:ValueError:https://site-static.ecovacs.com/upload/us/video/official-homepage-innovation-pc/2026/04/28/025959_6023$A3000Lidar_Full_Horizontal_EN_Clean.mp4; reference:ValueError:https://site-static.ecovacs.com/upload/us/video/official-homepage-innovation-pc/2026/04/23/024708_8492$UltraPureSuctionTechnology.mp4; reference:HTTPError:https://site-static.ecovacs.com/upload/us/image/official-homepage-banner-wap/2026/04/29/085309_7339$111111.png?x-oss-process=image/format; reference:HTTPError:https://site-static.ecovacs.com/upload/us/image/official-homepage-honor-wap/2026/04/28/100610_1089$claim.png?x-oss-process=image/format",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/ecovacs/favicon.png",
+      "source_url": "https://site-static.ecovacs.com/v4/static/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3244,
+      "sha256": "0a07cadd58a6297db946d70f8bf817833fd4db78d542260bf023dd21b94c59a0",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/ecovacs/og.webp",
+      "source_url": "https://site-static.ecovacs.com/v4/static/og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4300,
+      "sha256": "942c444862547f7f1f3c4aaf059d569ce8caf50e3f4eb82deb364bfe5f852587",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/ecovacs/logo-1.png",
+      "source_url": "https://site-static.ecovacs.com/v4/site/logo-light.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img header-logo ECOVACS - 혁신적인 홈 로보틱스 브랜드 a ECOVACS div logo div left-section div header-content",
+      "content_type": "image/png",
+      "bytes": 1452,
+      "sha256": "6d5074acd5fd0289490ae3e623eb9ec4980fc44ebd2a0d8e7b2972b499d48990",
+      "width": 176,
+      "height": 50
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/ecovacs/og.webp",
+      "source_url": "https://site-static.ecovacs.com/v4/static/og.jpg",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 4300,
+      "sha256": "942c444862547f7f1f3c4aaf059d569ce8caf50e3f4eb82deb364bfe5f852587",
+      "width": 1200,
+      "height": 630,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/ecovacs/banner-1.webp",
+      "source_url": "https://site-static.ecovacs.com/upload/au/image/official-homepage-banner-pc/2026/04/03/023748_9345$1.jpg?x-oss-process=image/format,webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture media-image__picture div media-image div center-image bg-image div slide-content div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 12014,
+      "sha256": "367cd069336d94618ab639956409a836a7d6822f372f920a8655fc21978acef7",
+      "width": 1800,
+      "height": 422
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/ecovacs/banner-2.webp",
+      "source_url": "https://site-static.ecovacs.com/upload/us/image/official-homepage-banner-pc/2026/04/28/022403_8920$swiper-banner02-.jpg?x-oss-process=image/format,webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture media-image__picture div media-image div center-image bg-image div slide-content div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 17200,
+      "sha256": "dfedb545292bb5924901e7e438486c61fff5fa4964faa7210f48d2ca02a918bd",
+      "width": 1800,
+      "height": 422
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/ecovacs/reference-1.webp",
+      "source_url": "https://site-static.ecovacs.com/upload/us/image/official-homepage-series-pc/2026/04/28/015813_9680$%E9%A6%96%E9%A1%B5-%E4%BA%A7%E5%93%81%E5%8D%A1%E7%89%87-01_compressed.jpeg?x-oss-process=image/format,webp",
+      "source_tag": "img:page-image",
+      "context": "img media-image__img DEEBOT DEEBOT DEEBOT div media-image div center-image card-image div series-card section index-series",
+      "content_type": "image/webp",
+      "bytes": 25270,
+      "sha256": "54b1850b580dd939ccbd21b3932609b80c606335bb1e3c974d311b1d05f432e5",
+      "width": 1800,
+      "height": 749
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/ecovacs/reference-2.webp",
+      "source_url": "https://site-static.ecovacs.com/upload/us/image/official-homepage-series-pc/2026/04/28/015907_4407$%E9%A6%96%E9%A1%B5-%E4%BA%A7%E5%93%81%E5%8D%A1%E7%89%87-02_compressed.jpeg?x-oss-process=image/format,webp",
+      "source_tag": "img:page-image",
+      "context": "img media-image__img WINBOT WINBOT WINBOT div media-image div center-image card-image div series-card section index-series",
+      "content_type": "image/webp",
+      "bytes": 16160,
+      "sha256": "d66173fef13c153d2672d5a64ac2b09a836e3227445f6948ca353388398c2e52",
+      "width": 1800,
+      "height": 749
+    }
+  ]
+}

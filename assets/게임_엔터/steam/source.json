@@ -1,0 +1,81 @@
+{
+  "company": "Steam",
+  "category": "게임_엔터",
+  "requested_url": "https://store.steampowered.com/?l=koreana",
+  "page_url": "https://store.steampowered.com/?l=koreana",
+  "page_title": "Steam에 오신 것을 환영합니다",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/76c32c9b97b153518531a30ce25b3ed56ce20560/webm_page_bg_mobile_koreana.webm?t=1790368131; banner:ValueError:https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/80229d60be234b2dc6a5548b317a17aebd003bf2/mp4_page_bg_mobile_koreana.mp4?t=1790368131; reference:ValueError:https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/90a7be0d16589c11913e6c540bbdc94d5d52dbbf/webm_page_bg_koreana.webm?t=1790368131; reference:ValueError:https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/727d4bd553416c1659acd97f10db73d65b121096/mp4_page_bg_koreana.mp4?t=1790368131; reference:ValueError:https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/76c32c9b97b153518531a30ce25b3ed56ce20560/webm_page_bg_mobile_koreana.webm?t=1790368131; reference:ValueError:https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/80229d60be234b2dc6a5548b317a17aebd003bf2/mp4_page_bg_mobile_koreana.mp4?t=1790368131",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/steam/favicon.ico",
+      "source_url": "https://store.steampowered.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 38554,
+      "sha256": "9f890a9debcdfccc339149a7943be9aff9e4c9203c2fa37d5671a5b2c88503ad",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/steam/og.webp",
+      "source_url": "https://cdn.akamai.steamstatic.com/store/home/store_home_share.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 76474,
+      "sha256": "b38a4f72b72e11fa99573d646fa6ec42319d788958ecf34481b0c1f3904ef0f0",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/steam/logo-1.png",
+      "source_url": "https://store.akamai.steamstatic.com/public/shared/images/responsive/footerLogo_valve_new.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div mainmenu_footer_logo div mainmenu_footer div mainmenu_contents div responsive_page_menu responsive_page_menu",
+      "content_type": "image/png",
+      "bytes": 2064,
+      "sha256": "644324eec5518809e666ca19f5bf259a7a073b0563fc1330f63f6ea7b221c7fe",
+      "width": 184,
+      "height": 52
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/steam/logo-2.png",
+      "source_url": "https://store.akamai.steamstatic.com/public/shared/images/responsive/header_menu_hamburger.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div responsive_menu_logo div responsive_header_content div responsive_header div responsive_page_frame with_header",
+      "content_type": "image/png",
+      "bytes": 3662,
+      "sha256": "dea0ec871e4bee1f93644ab0ebbffeaf03cb74431dd6455b5aa1f99c35ac64ea",
+      "width": 244,
+      "height": 212
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/steam/banner-1.webp",
+      "source_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/02d003560eef224326f827cd9e9c329253ca8c91/page_bg_koreana.jpg?t=1790368131",
+      "source_tag": "inline-background-image",
+      "context": "div  page_background_holder max-height: 450px; background-image: url( 'https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/02d003560eef224326f827cd9e9c329253ca8c91/page_bg_koreana.jpg?t=",
+      "content_type": "image/webp",
+      "bytes": 69802,
+      "sha256": "42c4b59b2e479a5b8c1b28bb01e34e404855437f5e97a9d28680a3b372baf13f",
+      "width": 1800,
+      "height": 438
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/steam/reference-1.webp",
+      "source_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/0636d1ad6fc12de9243dd57cb790bf78676e48a2/page_bg_mobile_koreana.jpg?t=1790368131",
+      "source_tag": "inline-background-image",
+      "context": "div  page_background_holder_mobile max-height: 350px; background-image: url( 'https://shared.akamai.steamstatic.com/store_item_assets/steam/clusters/frontpage/c6f6572350c5ffb2533b4727/0636d1ad6fc12de9243dd57cb790bf78676e48a2/page_bg_mobile_",
+      "content_type": "image/webp",
+      "bytes": 24860,
+      "sha256": "50aa8f38ab28a82ec1a8014495ae692730c4805e2d3f1c9a46fc9f6e63f2a483",
+      "width": 500,
+      "height": 350
+    }
+  ]
+}

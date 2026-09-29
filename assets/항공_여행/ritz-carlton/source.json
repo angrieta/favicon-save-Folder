@@ -1,0 +1,82 @@
+{
+  "company": "The Ritz-Carlton",
+  "category": "항공_여행",
+  "requested_url": "https://www.ritzcarlton.com/",
+  "page_url": "https://www.ritzcarlton.com/",
+  "page_title": "The Ritz-Carlton - Luxury Hotels & Resorts",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.ritzcarlton.com/iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/ritz-carlton/favicon.png",
+      "source_url": "https://www.ritzcarlton.com/etc.clientlibs/mi-aem-trc/clientlibs/clientlib-site/resources/global/images/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1079,
+      "sha256": "de1689457a12fa3262a2a573bf9b17bb18575e16efcde4335ac3856408d043cb",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/ritz-carlton/logo-1.webp",
+      "source_url": "https://cache.marriott.com/is/image/marriotts7prod/rz-dorado-beach-21105-13613",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture lazy-image div col-lg-4 col-md-5 col-10 offset-1 offset-lg-1 offset-md-1 d-flex align-self-center div row div container brand-statement-image-container py-md-5 div brand-statement-image brand-statement-image__background py-5",
+      "content_type": "image/webp",
+      "bytes": 45600,
+      "sha256": "3d824cc1c8cdb87297aae7c54523091be28e7b53cbd4ce7b2605762023fde22c",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/ritz-carlton/logo-2.webp",
+      "source_url": "https://cache.marriott.com/is/image/marriotts7prod/rz-dorado-beach-21105-13613:Classic-Ver?wid=726&fit=constrain",
+      "source_tag": "source:semantic-logo",
+      "context": "source picture lazy-image div col-lg-4 col-md-5 col-10 offset-1 offset-lg-1 offset-md-1 d-flex align-self-center div row div container brand-statement-image-container py-md-5",
+      "content_type": "image/webp",
+      "bytes": 183748,
+      "sha256": "6fc384e463fcbe708a9a0d0163840d57ef944c85115b972747c0b85e4707f639",
+      "width": 726,
+      "height": 1092
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/ritz-carlton/reference-1.webp",
+      "source_url": "https://cache.marriott.com/is/image/marriotts7prod/rz-rc-club-ap-lifestyle-25-32041:Wide-Hor?wid=1536&fit=constrain",
+      "source_tag": "picture:page-image",
+      "context": "picture div ml-md-1 div site-navigation-component__mobile__navbar__item__subnav__element__content__description__layout col-12 col-md-11 px-3 px-md-0 ml-md-4 pl-md-2 div site-navigation-component__mobile__navbar__item__subnav__element__conte",
+      "content_type": "image/webp",
+      "bytes": 92642,
+      "sha256": "23a5b9dbb9f370b2d7a4a380743a712c09770b5ad8e585afd96e393948f870f3",
+      "width": 1536,
+      "height": 867
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/ritz-carlton/reference-2.webp",
+      "source_url": "https://cache.marriott.com/is/image/marriotts7prod/rz-rc-club-ap-lifestyle-25-32041:Wide-Hor?wid=768&fit=constrain",
+      "source_tag": "picture:page-image",
+      "context": "picture div ml-md-1 div site-navigation-component__mobile__navbar__item__subnav__element__content__description__layout col-12 col-md-11 px-3 px-md-0 ml-md-4 pl-md-2 div site-navigation-component__mobile__navbar__item__subnav__element__conte",
+      "content_type": "image/webp",
+      "bytes": 32756,
+      "sha256": "263f9f4d398ec89c30e8acc9035522e6983688a167048a5338fd83c4f22589c4",
+      "width": 768,
+      "height": 434
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/ritz-carlton/reference-3.webp",
+      "source_url": "https://cache.marriott.com/is/image/marriotts7prod/rz-rc-club-ap-lifestyle-25-32041:Wide-Hor?wid=728&fit=constrain",
+      "source_tag": "picture:page-image",
+      "context": "picture div ml-md-1 div site-navigation-component__mobile__navbar__item__subnav__element__content__description__layout col-12 col-md-11 px-3 px-md-0 ml-md-4 pl-md-2 div site-navigation-component__mobile__navbar__item__subnav__element__conte",
+      "content_type": "image/webp",
+      "bytes": 30330,
+      "sha256": "95c7ccb137afb2e8983cabdc136a6ac2019158de841f0dcb7de8e74088495d0f",
+      "width": 728,
+      "height": 411
+    }
+  ]
+}

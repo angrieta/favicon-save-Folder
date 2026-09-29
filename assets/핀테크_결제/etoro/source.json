@@ -1,0 +1,105 @@
+{
+  "company": "eToro",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.etoro.com/",
+  "page_url": "https://www.etoro.com/",
+  "page_title": "etoro. Know better.",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/etoro/favicon.png",
+      "source_url": "https://www.etoro.com/wp-content/uploads/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4666,
+      "sha256": "c3a4e47506dcb7c8609179e0698759cee125132eb165525228c827a6de0b7b71",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/etoro/og.webp",
+      "source_url": "https://marketing.etorostatic.com/cache1/payload-media/HP-Social.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14240,
+      "sha256": "fc09972edac60ee38da29d840688e7062445ae635efdfa8a994f88c1f3b5b2bf",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/etoro/logo-1.webp",
+      "source_url": "https://www.etoro.com/wp-content/uploads/2018/05/eToro-share-img.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 6960,
+      "sha256": "e072dd5f9c0369d3d59d5e9a7bf02a3564aaa88159a5cba7339dbc20a2e236dc",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/etoro/banner-1.webp",
+      "source_url": "https://marketing.etorostatic.com/cache1/payload-media/Homepage-Hero-Banner-STATIC-2-Mobile-July-2026-1920x1080.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div relative h-[275px] w-full md:absolute md:inset-0 md:z-0 md:h-full div relative w-full overflow-hidden md:min-h-[630px] div mx-auto w-full max-w-full div w-full",
+      "content_type": "image/webp",
+      "bytes": 112612,
+      "sha256": "cd789e8d66a3cdffd363d647dc53425fcf17802527a002ee8b6a22ac6944ae21",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/etoro/banner-2.webp",
+      "source_url": "https://marketing.etorostatic.com/cache1/payload-media/Homepage-Hero-Banner-STATIC-2-Mobile-July-2026-1280x720.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div relative h-[275px] w-full md:absolute md:inset-0 md:z-0 md:h-full div relative w-full overflow-hidden md:min-h-[630px] div mx-auto w-full max-w-full div w-full",
+      "content_type": "image/webp",
+      "bytes": 67464,
+      "sha256": "1d8456ca9e7b1a19abd4a068a326e31d1eac582bf781f60753d4b65b00a11136",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/etoro/reference-1.webp",
+      "source_url": "https://marketing.etorostatic.com/cache1/payload-media/Homepage-Hero-Banner-STATIC-2-Desktop-July-2026.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div relative h-[275px] w-full md:absolute md:inset-0 md:z-0 md:h-full div relative w-full overflow-hidden md:min-h-[630px] div mx-auto w-full max-w-full div w-full",
+      "content_type": "image/webp",
+      "bytes": 108156,
+      "sha256": "4504ecc129cf8d0dc63b8352de34f1d61c616f81b120d64f6f80f14ac8fd35f6",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/etoro/reference-2.webp",
+      "source_url": "https://marketing.etorostatic.com/cache1/payload-media/Homepage-Hero-Banner-STATIC-2-Desktop-July-2026-1280x720.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div relative h-[275px] w-full md:absolute md:inset-0 md:z-0 md:h-full div relative w-full overflow-hidden md:min-h-[630px] div mx-auto w-full max-w-full div w-full",
+      "content_type": "image/webp",
+      "bytes": 62082,
+      "sha256": "f7910759e86c438646be7dc06b3003761e8082854ca039f0be2e1f92bf348544",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/etoro/reference-3.webp",
+      "source_url": "https://marketing.etorostatic.com/cache1/payload-media/adams.png",
+      "source_tag": "img:page-image",
+      "context": "img pointer-events-none absolute inset-0 size-full object-cover Adams article relative aspect-[384/450] w-full overflow-hidden rounded-md border border-color-white-32 md:rounded-lg div shrink-0 basis-full snap-start md:basis-[calc((100%-1.7",
+      "content_type": "image/webp",
+      "bytes": 33538,
+      "sha256": "9f6c505c1629b404c8e7f347f6bfb7c8630700dfb175463a61a3a458e3c97887",
+      "width": 384,
+      "height": 450
+    }
+  ]
+}

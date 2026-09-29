@@ -1,0 +1,107 @@
+{
+  "company": "Sketch",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.sketch.com/",
+  "page_url": "https://www.sketch.com/",
+  "page_title": "Sketch · Design, prototype, collaborate and handoff",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://cdn.sketch.com/assets/banner/florence.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/sketch/favicon.png",
+      "source_url": "https://www.sketch.com/images/metadata/icon-180.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 20314,
+      "sha256": "bd41073f5e94d4f2228eb43e81768d98a94c558069b4a0513f32011b662fb2b0",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "c63322f636cf96b1a7d88c9b8b47945117d9d1236b4f34a7338a7b2576b482af"
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/sketch/og.webp",
+      "source_url": "https://www.sketch.com/images/metadata/pages/home.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 23016,
+      "sha256": "79d62abcb5e6d66c0b8ebdb085fdc4103414c2e8301833aeec75f354a43d944e",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/sketch/logo-1.png",
+      "source_url": "https://cdn.sketch.com/logo/horizontal_onetrust_trans.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 8111,
+      "sha256": "458cff5f802c007c2170651903d3e2991e7a3e9fd5546e9f3efdec1c08be4920",
+      "width": 518,
+      "height": 156
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/sketch/banner-1.webp",
+      "source_url": "https://cdn.sketch.com/assets/pages/home/orbs@2x.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img hero__orbs div hero__orbs-wrapper section hero div home pad-viewport main content",
+      "content_type": "image/webp",
+      "bytes": 6604,
+      "sha256": "1d6f53288d4fbcfcea3564311bc492214a4cea954adffd3e745deca09ec6d0df",
+      "width": 1800,
+      "height": 738
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/sketch/banner-2.webp",
+      "source_url": "https://sktch.b-cdn.net/assets/pages/home/canvas-video-florence%402x.webp?width=1598&token=9OvRR12PvG-PiVJJWi0VEpJgyoyfna0uGNQ0xPkDj-Q&expires=1790690763",
+      "source_tag": "img:semantic-banner",
+      "context": "img canvas__asset__image canvas__asset__image--transparent below-viewport-m-none div canvas__asset entrance entrance--tiltUp div canvas__perspective section canvas div home pad-viewport",
+      "content_type": "image/webp",
+      "bytes": 57600,
+      "sha256": "068867ecc920f43231e4d370ccb5401a34bf9417b31cbfeb4ed67bb062bb0f68",
+      "width": 1598,
+      "height": 1170
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/sketch/reference-1.webp",
+      "source_url": "https://sktch.b-cdn.net/assets/pages/home/canvas-video-florence%402x.webp?width=3196&token=rPTgGtusnb6_-3PTLnqRMdNRAa_rL5Vjqno0waOCr9M&expires=1790690763",
+      "source_tag": "img:page-image",
+      "context": "img canvas__asset__image canvas__asset__image--transparent below-viewport-m-none div canvas__asset entrance entrance--tiltUp div canvas__perspective section canvas div home pad-viewport",
+      "content_type": "image/webp",
+      "bytes": 68778,
+      "sha256": "3339a178694990f1f331628513f15689767553c8b64a4910db82b1529c3ef7dd",
+      "width": 1800,
+      "height": 1318
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/sketch/reference-2.webp",
+      "source_url": "https://sktch.b-cdn.net/assets/pages/home/canvas-florence%402x.webp?width=1598&token=al56uR96lT8ddsh9TpCWlrEAv0-72E9OzStwHD2JJow&expires=1790690763",
+      "source_tag": "img:page-image",
+      "context": "img canvas__asset__image above-viewport-m-none div canvas__asset entrance entrance--tiltUp div canvas__perspective section canvas div home pad-viewport",
+      "content_type": "image/webp",
+      "bytes": 113256,
+      "sha256": "78514fbbe842f0e5d9af515245e4c3ae9c6a7a14fb628158527bd211fada8d79",
+      "width": 1598,
+      "height": 1170
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/sketch/reference-3.webp",
+      "source_url": "https://sktch.b-cdn.net/assets/pages/home/canvas-florence%402x.webp?width=3196&token=ZR0DxN-yMgZm7nEwmvBD7gDXJYj26A503Sgo_vjoN78&expires=1790690763",
+      "source_tag": "img:page-image",
+      "context": "img canvas__asset__image above-viewport-m-none div canvas__asset entrance entrance--tiltUp div canvas__perspective section canvas div home pad-viewport",
+      "content_type": "image/webp",
+      "bytes": 73958,
+      "sha256": "00c3d4f9e1ca8e798bb07c6bc20190cf909ae363cf4b527dfb59cdd9713602fe",
+      "width": 1600,
+      "height": 1172,
+      "source_sha256": "022cd9c731d70b7cd47db532b023531218c9580f6c030c51d0dc271eccf49086"
+    }
+  ]
+}

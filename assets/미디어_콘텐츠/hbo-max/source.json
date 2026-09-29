@@ -1,0 +1,106 @@
+{
+  "company": "HBO Max",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.hbomax.com/",
+  "page_url": "https://www.hbomax.com/",
+  "page_title": "HBO Max | Stream Series and Movies",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/hbo-max/favicon.png",
+      "source_url": "https://www.hbomax.com/dotcom/img/hbomax/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2923,
+      "sha256": "7a71769cbe2ecd4679aa4dcb025e1efe829ef5bb96695f051e879473d03a652d",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/hbo-max/og.webp",
+      "source_url": "https://beam-images.warnermediacdn.com/2025-07/Splash%20Screen%20HD%20720x480.jpg?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6180,
+      "sha256": "c9e7d75d63b5cd35afd3f59d314438abd4a399aaba5094353532aae4e2bf5171",
+      "width": 720,
+      "height": 480
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/hbo-max/logo-1.png",
+      "source_url": "https://www.hbomax.com/dotcom/img/hbomax/logo_nav_bar.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img HBO Max Logo a header-logo navbar-brand div menu-header nav page6088-band2559-Header2560 sc-b2bd29fd-0 dJbguH navbar navbar-expand-sm justify-content-between navbar-dark fixed-top header sc-9873b820-0 gqPPEe div d-flex flex-column col-m",
+      "content_type": "image/png",
+      "bytes": 29978,
+      "sha256": "4613e8531d399ad31cfa7d42681bace09f35baa17051a0be9b2d76a96b6320c1",
+      "width": 222,
+      "height": 160
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/hbo-max/banner-1.webp",
+      "source_url": "https://beam-images.warnermediacdn.com/2026-06/hero-mosaic-summer-offer-26.jpg?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com&w=2000",
+      "source_tag": "style-background-image",
+      "context": "c.band-hide-md{display:none;}}/*!sc*/\n@media (max-width:575px){.kQWPuc.band-hide-sm{display:none;}}/*!sc*/\n.FntkH{background-size:cover;background-position:center;background-image:url(\"https://beam-images.warnermediacdn.com/2026-06/hero-mos",
+      "content_type": "image/webp",
+      "bytes": 182180,
+      "sha256": "379632514b7823b1af2dfe7dbdefadb893588ce6ec8b14eb11b1785fe3783c58",
+      "width": 1600,
+      "height": 780,
+      "source_sha256": "d2c76dfb8fe1d93897cad01da4ad11d84b5f4a3d6588aa5d60c7de8f80bd86dc"
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/hbo-max/banner-2.webp",
+      "source_url": "https://beam-images.warnermediacdn.com/2025-03/sports-league-bg-25032025.jpg?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com&w=2000",
+      "source_tag": "style-background-image",
+      "context": "H.band-hide-md{display:none;}}/*!sc*/\n@media (max-width:575px){.FntkH.band-hide-sm{display:none;}}/*!sc*/\n.bcnQkz{background-size:cover;background-position:center;background-image:url(\"https://beam-images.warnermediacdn.com/2025-03/sports-l",
+      "content_type": "image/webp",
+      "bytes": 16758,
+      "sha256": "4a75552678e55da4f49f8a8355c365b3c7bfb1c94c626e346d4953c7ee5288a9",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/hbo-max/reference-1.webp",
+      "source_url": "https://beam-images.warnermediacdn.com/2023-09/tile-nhl-tnt.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",
+      "source_tag": "img:page-image",
+      "context": "img img-fluid NHL TNT div sports-and-news-tiles div modal-body text-dark text-center div modal-content bg-white border-0 div modal-dialog modal-lg",
+      "content_type": "image/webp",
+      "bytes": 10796,
+      "sha256": "38b76b48d14b6a9d86304ef54348f7a76e9788ee9f7284cb2f91a7f753b6643a",
+      "width": 1320,
+      "height": 744
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/hbo-max/reference-2.webp",
+      "source_url": "https://beam-images.warnermediacdn.com/2023-10/tile-mlb-tbs-2023.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",
+      "source_tag": "img:page-image",
+      "context": "img img-fluid MLB div sports-and-news-tiles div modal-body text-dark text-center div modal-content bg-white border-0 div modal-dialog modal-lg",
+      "content_type": "image/webp",
+      "bytes": 11610,
+      "sha256": "bd293ae74ebd1ab7b28d7dea16a67b4d96b463943636d36b6c0f4d5dafe04e5e",
+      "width": 1320,
+      "height": 744
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/hbo-max/reference-3.webp",
+      "source_url": "https://beam-images.warnermediacdn.com/2023-09/tile-us-soccer.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com",
+      "source_tag": "img:page-image",
+      "context": "img img-fluid MNT div sports-and-news-tiles div modal-body text-dark text-center div modal-content bg-white border-0 div modal-dialog modal-lg",
+      "content_type": "image/webp",
+      "bytes": 11862,
+      "sha256": "38dea4c58ca0bdfe76ff84db8ce9f629115134ac635ac052486ef49a2cccdc07",
+      "width": 1320,
+      "height": 744
+    }
+  ]
+}

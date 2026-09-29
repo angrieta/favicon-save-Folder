@@ -1,0 +1,35 @@
+{
+  "company": "GS칼텍스",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.gscaltex.com/kr/",
+  "page_url": "https://www.gscaltex.com/kr/",
+  "page_title": "GS 칼텍스",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.gscaltex.com/download/670; reference:ValueError:https://www.gscaltex.com/download/959",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/gs-caltex/favicon.png",
+      "source_url": "https://www.gscaltex.com/touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4793,
+      "sha256": "06c5c7ab8e97aac9819db7bd857dc1220594a810d001e5c9f0c5787dea1b6430",
+      "width": 117,
+      "height": 117,
+      "source_sha256": "1a8c34978c1f6a3e1d5327aac6af2e0d4abb2f7bf94115534060eb8ad3877123"
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/gs-caltex/logo-1.png",
+      "source_url": "https://www.gscaltex.com/images/common/svg/gscaltex_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img GS칼텍스 로고 a div logo div quick-header div quick-memu-mobile",
+      "content_type": "image/png",
+      "bytes": 3478,
+      "sha256": "73862ecfa804f81822c92623481b998d6aad119f722f3a2c85b4f273d8254f7b",
+      "width": 139,
+      "height": 41
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "company": "Universal Pictures",
+  "category": "게임_엔터",
+  "requested_url": "https://www.universalpictures.com/",
+  "page_url": "https://www.universalpictures.com/",
+  "page_title": "Universal Pictures | New Movies In Theaters & Upcoming Releases",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/universal-pictures/favicon.png",
+      "source_url": "https://www.universalpictures.com/assets/static/favicon.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 32686,
+      "sha256": "b6297c0b090773f72ed6ab8664509693b9222d7e5bbb897b065a070ed2c7edf4",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/universal-pictures/og.webp",
+      "source_url": "https://www.universalpictures.com/assets/static/share.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 35854,
+      "sha256": "89267a707883b80ac499d2a92d70968580a7a271dbe711a513a6a2a7debb37b9",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/universal-pictures/logo-1.svg",
+      "source_url": "https://www.universalpictures.com/assets/static/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Universal Logo a h1 div header__main__wXqo9 header header__wrapper__toS1R",
+      "content_type": "image/svg+xml",
+      "bytes": 17260,
+      "sha256": "69f561dd28c0c6d48496b48e146bbc9bbd7c28947e3e4344460e5608a2363a2a",
+      "width": 689,
+      "height": 365,
+      "source_sha256": "08bf529abeea6f791fc92799a3eb1ee97f6963d4cfc437948ecfa9628087f8d8"
+    }
+  ]
+}

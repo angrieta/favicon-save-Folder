@@ -1,0 +1,57 @@
+{
+  "company": "Subaru",
+  "category": "자동차",
+  "requested_url": "https://www.subaru.com/",
+  "page_url": "https://www.subaru.com/",
+  "page_title": "Subaru Cars, SUVs, Crossovers & Hybrids | Subaru of America",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.subaru.com/etc.clientlibs/subaru/clientlibs/clientlib-base/resources/webpack.bundles/css/Cmp_Global_Search_Links.0baf9b67.css; reference:ValueError:https://www.subaru.com/etc.clientlibs/subaru/clientlibs/clientlib-base/resources/webpack.bundles/css/Cmp_400_CTA.e3de1516.css; reference:ValueError:https://www.subaru.com/etc.clientlibs/subaru/clientlibs/clientlib-base/resources/webpack.bundles/css/Cmp_505_Structure.23324467.css; reference:ValueError:https://www.subaru.com/etc.clientlibs/subaru/clientlibs/clientlib-base/resources/webpack.bundles/css/Cmp_003_Navigation.20526185.css; reference:ValueError:https://www.subaru.com/etc.clientlibs/subaru/clientlibs/clientlib-base/resources/webpack.bundles/css/Cmp_002_Navigation.c0f53382.css; reference:ValueError:https://www.subaru.com/etc.clientlibs/subaru/clientlibs/clientlib-base/resources/webpack.bundles/css/Cmp_Back_To_Top.e7074613.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/subaru/favicon.ico",
+      "source_url": "https://www.subaru.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 85886,
+      "sha256": "8aebda6933716bcc3b89985895c7bf80cf32d3afdec01f9e5ad16f25d32a5623",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/subaru/og.webp",
+      "source_url": "https://s7d1.scene7.com/is/image/scom/subaru-logo-1",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1804,
+      "sha256": "79596b2fdc53f10e0a7c7f9202f1667836ebf1edebdb16c3bdf7c0dd96a5f267",
+      "width": 300,
+      "height": 240
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/subaru/logo-1.png",
+      "source_url": "https://s7d1.scene7.com/is/image/scomv2/SOA_Primary_HOR_600x150?$200wa$",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 10897,
+      "sha256": "ca69715be8c9a9b0bbaee12d213967efd2b798b6367a5772230d4d19347c384c",
+      "width": 200,
+      "height": 50
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/subaru/logo-2.webp",
+      "source_url": "https://s7d1.scene7.com/is/image/scomv2/SOA_Primary_HOR_600x150?$160wa$",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture main-navigation__logo-container main-navigation__logo-img div subaru-image subaru-image-htl a main-navigation__logo-cta div main-navigation__logo div main-navigation__container",
+      "content_type": "image/webp",
+      "bytes": 5680,
+      "sha256": "c624a439a228d6cba8c14b28ee10b58a8dc42f5460e38c9cc1f6625f75c6517c",
+      "width": 400,
+      "height": 100
+    }
+  ]
+}

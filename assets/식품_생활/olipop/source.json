@@ -1,0 +1,81 @@
+{
+  "company": "Olipop",
+  "category": "식품_생활",
+  "requested_url": "https://drinkolipop.com/",
+  "page_url": "https://drinkolipop.com/",
+  "page_title": "OLIPOP | Healthy Prebiotic Soda",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://drinkolipop.com/cdn/shop/t/1366/assets/lazysizes.js?v=175780612770959260451773709640; reference:ValueError:https://drinkolipop.com/cdn/shop/t/1366/assets/theme.js?v=143221273705841084911779140488; reference:ValueError:https://cdn.jsdelivr.net/npm/keen-slider@latest/keen-slider.min.css; reference:ValueError:https://assets.videowise.com/style.css.gz; reference:ValueError:https://cdn.shopify.com/extensions/01a0da75-70ac-705c-abd7-4d020cdb63ae/rediem-294/assets/rediem-referral.css; reference:ValueError:https://ripplrewards.nyc3.digitaloceanspaces.com/static/css/rediem-dash.css?v=ccc878807b449770e9a074e492d76e3d85cd54a7",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/olipop/favicon.png",
+      "source_url": "https://drinkolipop.com/cdn/shop/files/favicon_32x32.png?v=1613174610",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1942,
+      "sha256": "65ad87bb5b1eca0964be1e2e819564bd866e874b0473b15e1c760db940b4ef9a",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/olipop/og.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0034/6610/0806/files/Website_-_Social_-_Share_-_V1.png?v=1639521624",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 51062,
+      "sha256": "1a65f3f22d6b0d50b7420cf74cebe991c6efc9fb1e96e229fb674fd4aedcbc86",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/olipop/logo-1.png",
+      "source_url": "https://drinkolipop.com/cdn/shop/files/OlipopLogo_1.png?v=1778767782",
+      "source_tag": "img:semantic-logo",
+      "context": "img lazyload js OLIPOP a site-header__logo-image tw-flex tw-h-full tw-w-full tw-items-center tw-justify-center Olipop h1 h2 site-header__logo tw-h-[40px] tw-w-[102px] tw-shrink-0 lg:tw-h-10 lg:tw-w-[117px] div tw-col-span-1 tw-flex tw-justi",
+      "content_type": "image/png",
+      "bytes": 51694,
+      "sha256": "2669af5d1196765e373f1b37604e085e5eef40c845d718f703a4f5b6f4eee288",
+      "width": 560,
+      "height": 218
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/olipop/logo-2.png",
+      "source_url": "https://drinkolipop.com/cdn/shop/files/OlipopLogo_1_560x.png?v=1778767782",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 36332,
+      "sha256": "d67e63bf8bb9bdb83af0a35a8ada37b96cf76810b7c22f0ac1cf5bc1202fe6b6",
+      "width": 560,
+      "height": 218
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/olipop/reference-1.webp",
+      "source_url": "https://drinkolipop.com/cdn/shop/files/drip-bg-test-2.jpg?v=1787693005&width=1100",
+      "source_tag": "img:page-image",
+      "context": "img tw-absolute tw-top-0 tw-left-0 tw-hidden tw-h-full tw-w-full tw-object-cover tw-object-center lg:tw-block div lg:tw-items-center tw-items-center tw-relative tw-flex tw-w-full tw-flex-col tw-justify-center tw-pb-10 tw-pt-10 tw-px-7 md:tw",
+      "content_type": "image/webp",
+      "bytes": 7964,
+      "sha256": "d1e1f00ff693f31e8adc63f39090027758b9967901ceb5fa4d146fa25b18c5b7",
+      "width": 1100,
+      "height": 1007
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/olipop/reference-2.webp",
+      "source_url": "https://drinkolipop.com/cdn/shop/files/drip-bg-test-2.jpg?v=1787693005",
+      "source_tag": "img:page-image",
+      "context": "img tw-absolute tw-top-0 tw-left-0 tw-hidden tw-h-full tw-w-full tw-object-cover tw-object-center lg:tw-block div lg:tw-items-center tw-items-center tw-relative tw-flex tw-w-full tw-flex-col tw-justify-center tw-pb-10 tw-pt-10 tw-px-7 md:tw",
+      "content_type": "image/webp",
+      "bytes": 11130,
+      "sha256": "f537b8240883c31bb115122cec5d4c09a4f916853da23e28d80cd6ead3bbf7ee",
+      "width": 1440,
+      "height": 1318
+    }
+  ]
+}

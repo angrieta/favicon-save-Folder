@@ -1,0 +1,59 @@
+{
+  "company": "한솥도시락",
+  "category": "식품_생활",
+  "requested_url": "https://www.hsd.co.kr/",
+  "page_url": "https://www.hsd.co.kr/",
+  "page_title": "한솥도시락",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=241666853119648&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/hansot/favicon.ico",
+      "source_url": "https://www.hsd.co.kr/assets/images/common/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "0217d06f28d87ebb720236e74e9d55e47d0ee979fdccdab1c949a57c0c5bc5f8",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hansot/reference-1.webp",
+      "source_url": "https://www.hsd.co.kr/images/35b0924983054d89a40173f44cb1ca3020260922024832.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 팝업 이미지 a span pop-img div main-pop-cont div pop-01 swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 78920,
+      "sha256": "1b58476994b9863c9e2c675d1670a010bd5f303562a0596ce862c83a8cbf5cbd",
+      "width": 700,
+      "height": 965,
+      "source_sha256": "e5a638f73e941d57d1584e9a62c67b2021e4caf229764998ef6592a4430cfed2"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hansot/reference-2.webp",
+      "source_url": "https://www.hsd.co.kr/images/2894f041f3c2413a8f26af35b80a425b20260921091911.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 팝업 이미지 a span pop-img div main-pop-cont div pop-01 swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 101082,
+      "sha256": "698a0589b2b517cb99662c02d4ed6726054ca5a6c1aadf8adff18a653dbeca57",
+      "width": 700,
+      "height": 965
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hansot/reference-3.webp",
+      "source_url": "https://www.hsd.co.kr/assets/images/main/main_img_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 전체메뉴 이미지 span sc_img figure sc_wrap div area_sc first div main_cont_wrap mo_tr",
+      "content_type": "image/webp",
+      "bytes": 69006,
+      "sha256": "162c8ba4a2943b65b900c20d0196cf0de1e8a6d833fe2246c3977083fb2984d7",
+      "width": 580,
+      "height": 360
+    }
+  ]
+}

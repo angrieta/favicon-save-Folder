@@ -1,0 +1,83 @@
+{
+  "company": "Lavazza",
+  "category": "식품_생활",
+  "requested_url": "https://www.lavazza.com/",
+  "page_url": "https://www.lavazza.com/en",
+  "page_title": "Lavazza - The Italian Espresso since 1895 | Official Website",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/lavazza/favicon.svg",
+      "source_url": "https://www.lavazza.com/etc.clientlibs/settings/wcm/designs/lavazza/clientlibs/aem-dependencies/resources/assets/img/favicons/safari-pinned-tab.svg",
+      "source_tag": "mask-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 2143,
+      "sha256": "0c4d8aa6a3812f6fbd49248793d0058857240baafb74c06edb8eb489b8b3c4f8",
+      "width": 512,
+      "height": 512,
+      "source_sha256": "38752be4e0d38a88d96023db0e92691f333c575d0fce58dd796609d6e83afecc"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/lavazza/banner-1.webp",
+      "source_url": "https://www.lavazza.com/content/dam/lavazza-athena/it/b2c/home-page/product-group/8867-d-bgk-hero-oro-AMM-16.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img lvz-pg-top__background swiper-lazy alt div swiper-slide div swiper-wrapper div pgSwiper swiper-container div lvz-pg-component",
+      "content_type": "image/webp",
+      "bytes": 27414,
+      "sha256": "93609f06a3654f263ce696d1e5fc6a389201b2520630dbb6e50294329f68eb0c",
+      "width": 1440,
+      "height": 760
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/lavazza/banner-2.webp",
+      "source_url": "https://www.lavazza.com/en/home/_jcr_content/root/custPromo/customcontainer_copy/customcontainer/teaser_copy.coreimg.jpeg/1790163820205/d-01-global-campaign%402.jpeg",
+      "source_tag": "img:semantic-banner",
+      "context": "img cmp-image__image noscript div image-dc500a5209 cmp-image div cmp-teaser__image div teaser-dc500a5209 cmp-teaser",
+      "content_type": "image/webp",
+      "bytes": 43690,
+      "sha256": "dcb8d13b23b3932bfa371d66587d086f9d7f258906770ce137af79194c73ae55",
+      "width": 1476,
+      "height": 1042
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/lavazza/reference-1.webp",
+      "source_url": "https://i.ytimg.com/vi/1braR3CMph8/hqdefault.jpg",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 8996,
+      "sha256": "aa64c8628d6922bbb1681f8b39e30947c77d4b889e7c0f1bf36e1362199152a9",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/lavazza/reference-2.webp",
+      "source_url": "https://i.ytimg.com/vi/iOIK4fYesU0/hqdefault.jpg",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 10624,
+      "sha256": "9a8a825e56ff454ab8f3f1aab326c339c628b6f56cd8ce27d556ce5c2468e69b",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/lavazza/reference-3.webp",
+      "source_url": "https://www.lavazza.com/en/home/_jcr_content/root/customcontainer/teaser.coreimg.jpeg/1790163820137/1-cal2026-desktop-4096x2160.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image noscript div image-457577de57 cmp-image div cmp-teaser__image div teaser-457577de57 cmp-teaser",
+      "content_type": "image/webp",
+      "bytes": 50682,
+      "sha256": "5ee7dcfd428c42ce82fa65e9b9931c7f6164b1977ebd9f80e479979c72933ff8",
+      "width": 1800,
+      "height": 949
+    }
+  ]
+}

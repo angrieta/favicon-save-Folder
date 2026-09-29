@@ -1,0 +1,94 @@
+{
+  "company": "Smartsheet",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.smartsheet.com/",
+  "page_url": "https://www.smartsheet.com/",
+  "page_title": "Work Management Platform | Smartsheet",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.smartsheet.com/themes/custom/valinor/css/fonts/TT Norms/TT_Norms_Pro_Regular.woff2; reference:ValueError:https://www.smartsheet.com/themes/custom/valinor/css/fonts/TT Norms/TT_Norms_Pro_Medium.woff2; reference:ValueError:https://www.smartsheet.com/themes/custom/valinor/css/fonts/TT Norms/TT_Norms_Pro_DemiBold.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/smartsheet/favicon.png",
+      "source_url": "https://www.smartsheet.com/sites/default/files/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3798,
+      "sha256": "18405486f478b3d264c0741d313ff4c6b7ed6f8637d25ac7f0fa6ffd60843c01",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/smartsheet/og.webp",
+      "source_url": "https://www.smartsheet.com/sites/default/files/2024-10/smartsheet-og-teaser-image-dusk-on-light.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 19850,
+      "sha256": "faa8c1a5f4c02d86c1b3abfa9e2671e4d553ba00cbd3af1f19c2030657a62360",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/smartsheet/logo-1.webp",
+      "source_url": "https://www.smartsheet.com/sites/default/files/styles/thumbnail/public/2019-07/smartsheet-logo-vertical-square.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 33046,
+      "sha256": "5e20db5dea13bfb6acde1ff2d6ae22ccc5e529a5b405897851637e07048dac29",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/smartsheet/logo-2.svg",
+      "source_url": "https://www.smartsheet.com/sites/default/files/smartsheet-logo-blue-new.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Smartsheet Logo figure image media-foreground menu-link-content a is-active li menu-item region--default type--standard media-left media-small ul menu menu-level-0",
+      "content_type": "image/svg+xml",
+      "bytes": 7085,
+      "sha256": "68d962878539962413190b10769bfa24be3dc84aa5c47511a5637626622642b7",
+      "width": 407,
+      "height": 66,
+      "source_sha256": "98c3dc05a0bc1a58fcaa5c859d5e92f036114885967108797d38cb98f4514f69"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/smartsheet/reference-1.webp",
+      "source_url": "https://www.smartsheet.com/sites/default/files/2020-10/33845-lodestar-og-image.jpg",
+      "source_tag": "link:image_src",
+      "context": "image_src   https://www.smartsheet.com/sites/default/files/2020-10/33845-lodestar-og-image.jpg",
+      "content_type": "image/webp",
+      "bytes": 97540,
+      "sha256": "288da5866b2346d4a89787e0e5e7ccebd5c0f18b2322a29dd8d262c6ae50cd1d",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/smartsheet/reference-2.webp",
+      "source_url": "https://www.smartsheet.com/sites/default/files/styles/900px/public/2023-08/solution-category-project-portfolio-management.webp?itok=zIQVdmuS",
+      "source_tag": "picture:page-image",
+      "context": "picture figure image media-foreground menu-link-content a li menu-item region--default type--featured media-left media-large ul menu menu-level-3",
+      "content_type": "image/webp",
+      "bytes": 6032,
+      "sha256": "f2a66ae8b8c13cc910b1ac2ddb2edc1ddd2425b5aa81bc81639410c32ed7476c",
+      "width": 600,
+      "height": 337
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/smartsheet/reference-3.webp",
+      "source_url": "https://www.smartsheet.com/sites/default/files/styles/500px/public/2023-08/solution-category-project-portfolio-management.webp?itok=JAc-ozpf",
+      "source_tag": "picture:page-image",
+      "context": "picture figure image media-foreground menu-link-content a li menu-item region--default type--featured media-left media-large ul menu menu-level-3",
+      "content_type": "image/webp",
+      "bytes": 4880,
+      "sha256": "0fac3fa1a78ee9fd183057846222ea12490d849b6fb00363072dbed8d85d310a",
+      "width": 500,
+      "height": 281
+    }
+  ]
+}

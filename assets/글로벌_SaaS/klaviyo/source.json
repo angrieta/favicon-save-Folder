@@ -1,0 +1,107 @@
+{
+  "company": "Klaviyo",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.klaviyo.com/",
+  "page_url": "https://www.klaviyo.com/",
+  "page_title": "Klaviyo: AI Email Marketing & SMS | B2C CRM",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://www.klaviyo.com/_astro/orange-flag-graphic.DG4gD_9z_Z2cdWBf.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/klaviyo/favicon.png",
+      "source_url": "https://www.klaviyo.com/icons/icon-512x512.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8440,
+      "sha256": "e5340c73c2422905b3762ce3e3c643a5805b92a8fd77b39510bf8170d1a42989",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/klaviyo/og.webp",
+      "source_url": "https://www.klaviyo.com/static/klaviyo-social-share-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6760,
+      "sha256": "ed3b6cac365161c7dfdb2b057400e7e42afe800b7f9731ebb4a501b3591819b2",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/klaviyo/logo-1.svg",
+      "source_url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/8ccdbfd6875f2a9ea842d2a444b557a86d8b061b-158x25.svg?auto=format",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture _logo_ptcc9_28 a _logoLink_ptcc9_104 div _track_ptcc9_201 gap-x-3xl gap-y-sm pr-3xl div _marqueeTracks_ptcc9_194 horizon-trustbar-marquee _marqueeViewport_ptcc9_163 _compressedMarquee_ptcc9_272",
+      "content_type": "image/svg+xml",
+      "bytes": 6213,
+      "sha256": "feab5d42020df5699a315298d969cb2b0e1ba83cacd456f4e2647b63bec9666b",
+      "width": 158,
+      "height": 25,
+      "source_sha256": "eb6cd819e83e8539e5c1e50bdf408b376d70c64b9b28670181b43bee1a08fac1"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/klaviyo/logo-2.svg",
+      "source_url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/e5b52b9391bd946c76be89c4b589308de523a908-109x36.svg?auto=format",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture _logo_ptcc9_28 div _track_ptcc9_201 gap-x-3xl gap-y-sm pr-3xl div _marqueeTracks_ptcc9_194 horizon-trustbar-marquee _marqueeViewport_ptcc9_163 _compressedMarquee_ptcc9_272 div _logosPane_ptcc9_28",
+      "content_type": "image/svg+xml",
+      "bytes": 8890,
+      "sha256": "90c01c7cdd8f2590f9b8c5f42db72fbe7408385b450fe86334ff854d3cef46dc",
+      "width": 109,
+      "height": 36,
+      "source_sha256": "122ef20c79d07c0a91a724f212d877a478d20e2fea21130f5a65a983fda4b808"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/klaviyo/banner-1.webp",
+      "source_url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/ac62000564d9e1644ff305f0876bfdc8778b900e-1440x425.webp",
+      "source_tag": "inline-background-image",
+      "context": "section  ds-v2 _section_11jrg_3 pt-2xl pb-2xl --horizon-bg-desktop:url(\"https://cdn.sanity.io/images/6ct6b26e/marketing-prod/ac62000564d9e1644ff305f0876bfdc8778b900e-1440x425.webp\")",
+      "content_type": "image/webp",
+      "bytes": 8378,
+      "sha256": "672c39fb0fc353b101ed44fcd8b94f918db1e94ab8cd622716d4e58b70991ecc",
+      "width": 1440,
+      "height": 425
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/klaviyo/reference-1.webp",
+      "source_url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/baeb51700705ac37ed422f09fff04a0bf9900422-668x400.webp",
+      "source_tag": "img:page-image",
+      "context": "img _image_ymiug_74 div _imageContainer_ymiug_74 div a _universalMenuItem_ymiug_1 li",
+      "content_type": "image/webp",
+      "bytes": 23658,
+      "sha256": "d5e2c5626b5fdd870adc563e7ac1fb63c81da44920a393cc5d89e9271bcc78aa",
+      "width": 668,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/klaviyo/reference-2.webp",
+      "source_url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/e2f45c0fc5f966c785dbcb07deb943a8881a3ed7-668x400.png",
+      "source_tag": "img:page-image",
+      "context": "img _image_ymiug_74 div _imageContainer_ymiug_74 div a _universalMenuItem_ymiug_1 li",
+      "content_type": "image/webp",
+      "bytes": 9080,
+      "sha256": "dca53c3ad563a08bfdd3e4f7c42ccbf382be5d0368e7359f7435edae6b4d03fd",
+      "width": 668,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/klaviyo/reference-3.webp",
+      "source_url": "https://cdn.sanity.io/images/6ct6b26e/marketing-prod/240f336acd9c9d6c0a85dcd83e7d8bf4aa52a242-668x400.png",
+      "source_tag": "img:page-image",
+      "context": "img _image_ymiug_74 div _imageContainer_ymiug_74 div a _universalMenuItem_ymiug_1 li",
+      "content_type": "image/webp",
+      "bytes": 9510,
+      "sha256": "7b24a4eb901f69477f0d1f79ad015956b82fe2229c2573703466625f39647709",
+      "width": 668,
+      "height": 400
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "company": "Starbucks",
+  "category": "식품_생활",
+  "requested_url": "https://www.starbucks.com/",
+  "page_url": "https://www.starbucks.com/",
+  "page_title": "Starbucks Coffee Company",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/starbucks-global/favicon.png",
+      "source_url": "https://www.starbucks.com/pwa-icon-192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 24701,
+      "sha256": "8eb559f6e00f30218a83f23dace2f036c0ea6dbe0739c11387bc7fe81d6871f4",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/starbucks-global/og.webp",
+      "source_url": "https://www.starbucks.com/next_static/icons/summary_square.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6400,
+      "sha256": "ec645ff213f82ba1907c3a994db3ccb14d762a3789a4bf0ab4cf5e22b9a76fac",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/starbucks-global/reference-1.webp",
+      "source_url": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-112745.jpg",
+      "source_tag": "img:page-image",
+      "context": "img block A Starbucks gift card that reads “Coffee is always a good idea.” div flex justify-center items-center md-size6of12 div md-flex div sb-contentColumn__inner div 137-112746 sb-contentColumn sb-global-gutters mx-auto sb-contentColumn-",
+      "content_type": "image/webp",
+      "bytes": 83552,
+      "sha256": "f5f8eaae985f86ee4622b1c71b220e9cc7a4060b7d75ddc0f949009ff632f3c5",
+      "width": 1440,
+      "height": 560,
+      "source_sha256": "cf272914e6803012fd765685982c83d436232fe88bfe1ebc2b767d8527584d2e"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/starbucks-global/reference-2.webp",
+      "source_url": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-112760.jpg",
+      "source_tag": "img:page-image",
+      "context": "img block A freshly-poured Aerocano. Light foam at the top deepens gradually down the glass into dark espresso. div flex justify-center items-center md-size6of12 div md-flex image-content-block_flexRowReverse__D3be6 div sb-contentColumn__in",
+      "content_type": "image/webp",
+      "bytes": 104520,
+      "sha256": "9d049ab1003448b03ce0d04cda5aeee8f1058ff4190263381f006e860b495b66",
+      "width": 1440,
+      "height": 840
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/starbucks-global/reference-3.webp",
+      "source_url": "https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-112632.jpg",
+      "source_tag": "img:page-image",
+      "context": "img block A variety of mini pies grouped together on a wood table. div flex justify-center items-center md-size6of12 div md-flex div sb-contentColumn__inner div 137-112635 sb-contentColumn sb-global-gutters mx-auto sb-contentColumn--xlarge ",
+      "content_type": "image/webp",
+      "bytes": 119092,
+      "sha256": "3a5a69d3d0caf6e6e9c989a4b1a26da4e175890279f01eafb0df2c19e2ab1bc8",
+      "width": 1440,
+      "height": 840,
+      "source_sha256": "5629958263fd6a0e5faa6b17e8e03d96d4b3bfc577c2c9ff30c368ca711021fb"
+    }
+  ]
+}

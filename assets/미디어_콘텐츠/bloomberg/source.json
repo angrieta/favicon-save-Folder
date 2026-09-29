@@ -1,0 +1,22 @@
+{
+  "company": "Bloomberg",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.bloomberg.com/",
+  "page_url": "https://www.bloomberg.com/",
+  "page_title": "Bloomberg - Are you a robot?",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.bloomberg.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/bloomberg/favicon.ico",
+      "source_url": "https://www.bloomberg.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "fd1ace0f3033ff036069e86ffec8806531ed3465ccb7d16d27dea0f6d368cbbb",
+      "width": 48,
+      "height": 48
+    }
+  ]
+}

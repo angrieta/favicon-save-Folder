@@ -1,0 +1,119 @@
+{
+  "company": "Fairphone",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.fairphone.com/",
+  "page_url": "https://www.fairphone.com/",
+  "page_title": "Fairphone Shop | Fairphone",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.fairphone.com/theme_fairphone/static/src/videos/TisuZaRNfVdqfLnl/01.webm; banner:ValueError:https://www.fairphone.com/theme_fairphone/static/src/videos/TisuZaRNfVdqfLnl/01.mp4; banner:ValueError:https://www.fairphone.com/theme_fairphone/static/src/videos/TisuZaRNfVdqfLnl/02.webm; banner:ValueError:https://www.fairphone.com/theme_fairphone/static/src/videos/TisuZaRNfVdqfLnl/02.mp4; banner:ValueError:https://www.fairphone.com/theme_fairphone/static/src/img/webp/339.webp; reference:ValueError:https://www.fairphone.com/theme_fairphone/static/src/img/webp/375.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/fairphone/favicon.png",
+      "source_url": "https://www.fairphone.com/web/image/website/2/favicon?unique=6a59cfb",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 6333,
+      "sha256": "a03f1e0be55d2aedd99d0284757a93858618ed7e7f7d33217a7ff0b538410c66",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "565dd23d9b26cd5aad0a9f8559da752836e16ec49ca3c792bf8c268941230022"
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/fairphone/og.webp",
+      "source_url": "https://www.fairphone.com/web/image/website/2/logo?unique=0ed6ad3",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21262,
+      "sha256": "492614223d37de030e39d336151025eba254710621e41343f0977b380723db0f",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/fairphone/logo-1.svg",
+      "source_url": "https://www.fairphone.com/theme_fairphone/static/src/img/svg/fp_trustpilot_logo_v2.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img fp_trustpilot_logo a fp_review_wrapper fp_js_trustpilot_localize div fp_link_trustpilot_wrapper div fp_top_footer div fp_footer",
+      "content_type": "image/svg+xml",
+      "bytes": 7174,
+      "sha256": "e037d2c7318ebae02283b1ea1664613ed62aabc618ccb162a0dd6e6f208e7e66",
+      "width": 1141,
+      "height": 287,
+      "source_sha256": "a5823e2f852e3af3dd8389b0d4ac95054e0f5644d0b8ad886198aa28ae7c344f"
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/fairphone/logo-2.png",
+      "source_url": "https://www.fairphone.com/web/image/3536766-ef92b32c/B-Corp-Logo-White-RGB-404x680-03303e2f-b150-46d5-8b31-ba306ff6c4fa",
+      "source_tag": "img:semantic-logo",
+      "context": "img fp_image a div fp_bcert div fp_icon_wrapper div fp_tst",
+      "content_type": "image/png",
+      "bytes": 25627,
+      "sha256": "0a6a80a092a63adb354136e16cf9f419aa99170b50f6635033c7bd3ae6b2c45c",
+      "width": 314,
+      "height": 528
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/fairphone/banner-1.webp",
+      "source_url": "https://www.fairphone.com/web/image/3561021-d03b7552/Free%20FB%20Sep26%20Website%202160x1620",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture f_picture div f_image_wrapper f_m_ar_4x3 f_column_7 div f_hero_content f_grid_wrapper section s_f_shop_home_v2_black_friday o_colored_level d-lg-none o_snippet_desktop_invisible f_m_pt_40 div wrap oe_structure oe_empty",
+      "content_type": "image/webp",
+      "bytes": 15970,
+      "sha256": "e9b816d248b92741abfadf2a3049212cecbc07c7a0c17520b5447e39062bdeca",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/fairphone/banner-2.webp",
+      "source_url": "https://www.fairphone.com/web/image/3561020-77b7ea27/Desktop_1920x1080",
+      "source_tag": "inline-background-image",
+      "context": "section  s_f_snippet_hero_simple f_o_js_bg_img o_colored_level d-lg-block d-none o_snippet_mobile_invisible oe_img_bg o_bg_img_center o_bg_img_origin_border_box --desktop-bg: url('/web/image/3561020-77b7ea27/Desktop_1920x1080'); --mobile-bg",
+      "content_type": "image/webp",
+      "bytes": 25568,
+      "sha256": "212b3b477835518a7988886ebdd437b3a38c49240487e4df7145ac646cb85b92",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/fairphone/reference-1.webp",
+      "source_url": "https://www.fairphone.com/web/image/3561143-6d3b86b6/Free%20FB%20Sep26%20Website%202160x2160",
+      "source_tag": "img:page-image",
+      "context": "img f_image img img-fluid o_we_custom_image div f_image_wrapper div f_card_highlight f_mobile_hidden_flex div f_column_3 div f_slide_wrapper f_grid_wrapper",
+      "content_type": "image/webp",
+      "bytes": 10252,
+      "sha256": "07ec867e111a98297175e625a3ee43feb792c80ccb000cac5cd8240c7add84df",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/fairphone/reference-2.webp",
+      "source_url": "https://www.fairphone.com/web/image/3187486-d0097c03/Navigation",
+      "source_tag": "inline-background-image",
+      "context": "section  f_card_image f_height_3 o_colored_level oe_img_bg o_bg_img_center o_bg_img_origin_border_box background-image: url(\"/web/image/3187486-d0097c03/Navigation\");",
+      "content_type": "image/webp",
+      "bytes": 55376,
+      "sha256": "c4f223087a2eb3ff1e7a1a498d5126530c4a97ce3eb4dd864249a607bcf153df",
+      "width": 1024,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/fairphone/reference-3.webp",
+      "source_url": "https://www.fairphone.com/theme_fairphone/static/src/img/image_ds/card-bg.png",
+      "source_tag": "inline-background-image",
+      "context": "div  f_stat_card f_stat_card_image --stat-card-image: url('/theme_fairphone/static/src/img/image_ds/card-bg.png')",
+      "content_type": "image/webp",
+      "bytes": 19242,
+      "sha256": "86b9ba87835c57440cd8d9bbca29b5928074768548bf429e40ea517cd5b26429",
+      "width": 800,
+      "height": 531
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "company": "frog",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.frog.co",
+  "page_url": "https://www.frog.co/",
+  "page_title": "frog | Your reinvention and experience partner",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.frog.co/; reference:ValueError:https://wp.frog.co/wp-content/uploads/2026/02/Nome_Animation_WakeUp.mp4; reference:ValueError:https://www.frog.co/_next/static/css/2f097e44f3309819.css; reference:ValueError:https://www.frog.co/_next/static/css/10cda735c084032a.css; reference:ValueError:https://www.frog.co/_next/static/css/7ca3ca94206006f0.css; reference:ValueError:https://wp.frog.co/wp-content/uploads/2026/08/Homepage-Human-led-AI-Powered.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/frog-design/favicon.ico",
+      "source_url": "https://www.frog.co/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 10366,
+      "sha256": "2e3e7c20d0a8489f9cba8ee4b9e140f94ab3b975b52ea30276463cd5eb636589",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/frog-design/og.webp",
+      "source_url": "https://frogdesign.nyc3.digitaloceanspaces.com/wp-content/uploads/2021/10/05221653/frog-make-your-mark-homepage.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 48554,
+      "sha256": "53e8cbda2c52e5c464a1b8d96f4493c53a9cddd17390a2f1478515c0047fa2a6",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/frog-design/logo-1.svg",
+      "source_url": "https://www.frog.co/static/images/21-frog-Cap-Invent-logo-horizontal-black.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 11579,
+      "sha256": "feb6baa5343f74b9d6426359801047e2d99696b681574d85317e83da7bf42ea6",
+      "width": 702,
+      "height": 179
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/frog-design/logo-2.svg",
+      "source_url": "https://www.capgemini.com/wp-content/themes/capgemini2020/assets/images/capgemini-invent.svg",
+      "source_tag": "json-ld.parentOrganization.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 11125,
+      "sha256": "646e35d5335f755ec21f7f0e89156ba41611c27f719898b578b17a3b76257fda",
+      "width": 555,
+      "height": 85,
+      "source_sha256": "62ea9b3a5dc3de67acb13d9b9d8cb09af751a0b0b1c2c9166422a9cc5f73e8f6"
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/frog-design/reference-1.svg",
+      "source_url": "https://www.frog.co/static/images/dotted-world-map.svg",
+      "source_tag": "img:page-image",
+      "context": "img StudiosCarousel_dottedWorldMap__08bjc fadeInUpContent div StudiosCarousel_studiosCarousel__M_Yx0 section main div",
+      "content_type": "image/svg+xml",
+      "bytes": 752448,
+      "sha256": "9251760b6e110185f2968ee127c6ecf53fa5d7524a13a6984e42348201bddc40",
+      "width": 1082,
+      "height": 517,
+      "source_sha256": "177dcba6d8e71d171accdbf3e563051786678a14322d0f0f212d7d79d50813eb"
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/frog-design/reference-2.webp",
+      "source_url": "https://wp.frog.co/wp-content/uploads/2024/07/unum-ltr-1.png",
+      "source_tag": "img:page-image",
+      "context": "img HeroDescription_backdropImage__oERPn d-none d-md-block d-lg-none fadeInUpContent div HeroDescription_heroDescription__D4B8I section main div",
+      "content_type": "image/webp",
+      "bytes": 24408,
+      "sha256": "96c02fa3d2994ae9c7cae524cf67c1e24f54706f69ef16f1679bb08df82145d0",
+      "width": 607,
+      "height": 725
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/frog-design/reference-3.webp",
+      "source_url": "https://wp.frog.co/wp-content/uploads/2024/07/frog-homepage-accordion2.png",
+      "source_tag": "picture:page-image",
+      "context": "picture col-12 col-lg-5 offset-lg-1 fadeInUpContent div row div container px-sm-0 div DetailsAccordion_detailsAccordion__A4QPi section",
+      "content_type": "image/webp",
+      "bytes": 96580,
+      "sha256": "79d4b6f65f59dc93a6e8187bfd3bb1e3e23731fa94b4ad495a98bc500aa1561f",
+      "width": 914,
+      "height": 914
+    }
+  ]
+}

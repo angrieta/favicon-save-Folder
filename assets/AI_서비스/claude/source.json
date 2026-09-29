@@ -1,0 +1,33 @@
+{
+  "company": "Claude",
+  "category": "AI_서비스",
+  "requested_url": "https://claude.com/ko",
+  "page_url": "https://claude.com/ko",
+  "page_title": "Claude",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://claude.com/_next/static/chunks/f8280cab374bdf10.js; reference:ValueError:https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300..800&display=swap; reference:ValueError:https://claude.com/_next/static/chunks/195c2e474ca3e6f7.css; reference:ValueError:https://claude.com/shared/webflow-local-pricing.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/claude/favicon.png",
+      "source_url": "https://assets.claude.com/95a868946ac8a31e5ff832e2899f294aa368b836.png?w=32&h=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1562,
+      "sha256": "2848fb7d489a54e963829809f628da66b142f3e0716b4ef6ded903309dfd73dc",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/claude/og.webp",
+      "source_url": "https://assets.claude.com/b3d55d767e7796957c7c80317ff33cd1dbd164fa.jpg?w=1200&h=630&fit=crop",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7486,
+      "sha256": "da058be420e051b008e87a8a06272ae6e117af18c996f056fa1d822dc3f9b16d",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

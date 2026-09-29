@@ -1,0 +1,45 @@
+{
+  "company": "뤼튼",
+  "category": "AI_서비스",
+  "requested_url": "https://wrtn.ai",
+  "page_url": "https://wrtn.ai/",
+  "page_title": "뤼튼",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://build-assets.static.wrtn.ai/web2/prod/main-arm64-3d96ac1/_next/static/css/732753526ab4a854.css; reference:ValueError:https://build-assets.static.wrtn.ai/web2/prod/main-arm64-3d96ac1/_next/static/css/3a07b4e7a7c22d30.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/wrtn/favicon.png",
+      "source_url": "https://wrtn.ai/images/favicon-96x96.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 10718,
+      "sha256": "39b37223f8fd67efa2ab4fcb96b69f5b4389b164e1fdf35840065fb49e2823ab",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/wrtn/og.webp",
+      "source_url": "https://fe-web-assets.static.wrtn.ai/wrtn2/og/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7334,
+      "sha256": "a0c8e84b6b04a0cf4af784dd68efeed6f08c6f9d8691d8d770ede64f29770583",
+      "width": 1024,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/wrtn/logo-1.svg",
+      "source_url": "https://fe-web-assets.static.wrtn.ai/wrtn2/wrtn_home_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img css-1dppe18 AI 뤼튼 a div css-ms4i12 div css-mryenx div css-1ujdsif",
+      "content_type": "image/svg+xml",
+      "bytes": 1508,
+      "sha256": "64cd7175f58e878f1e36cd6f203f4cdd68da884628d9d628240355c3b37afcd5",
+      "width": 118,
+      "height": 40
+    }
+  ]
+}

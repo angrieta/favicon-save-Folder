@@ -1,0 +1,123 @@
+{
+  "company": "MVRDV",
+  "category": "부동산_공간",
+  "requested_url": "https://www.mvrdv.com/",
+  "page_url": "https://www.mvrdv.com/",
+  "page_title": "MVRDV - Architects",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/mvrdv/favicon.png",
+      "source_url": "https://www.mvrdv.com/assets/gfx/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4953,
+      "sha256": "d6351809801591f84db3ef2217c5f374251bca8fbc9d1c951485c69d682d1045",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/mvrdv/og.webp",
+      "source_url": "https://mvrdv.com/media/uploads/MVRDV Nieuw Bergen 35 © Ossip van Duivenbode(2).jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 108404,
+      "sha256": "96ad8c3e857278b5975b3c7490386693dbaa59a34a61f802ee2e4268b2ed1dbb",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/mvrdv/logo-1.png",
+      "source_url": "https://www.mvrdv.com/assets/gfx/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 4053,
+      "sha256": "223b834769d4b037fdc9f443cf58b3c044666f5625fc65512e88ceb8938fcc82",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/mvrdv/og.webp",
+      "source_url": "https://mvrdv.com/media/uploads/MVRDV Nieuw Bergen 35 © Ossip van Duivenbode(2).jpg",
+      "source_tag": "img:semantic-logo",
+      "content_type": "image/webp",
+      "bytes": 108404,
+      "sha256": "96ad8c3e857278b5975b3c7490386693dbaa59a34a61f802ee2e4268b2ed1dbb",
+      "width": 1200,
+      "height": 900,
+      "context": "img Architecture app-image post-teaser-banner__image is--loaded ng-star-inserted a figure post-teaser-banner__crop header post-teaser-banner",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/mvrdv/og.webp",
+      "source_url": "https://mvrdv.com/media/uploads/MVRDV Nieuw Bergen 35 © Ossip van Duivenbode(2).jpg",
+      "source_tag": "img:semantic-banner",
+      "content_type": "image/webp",
+      "bytes": 108404,
+      "sha256": "96ad8c3e857278b5975b3c7490386693dbaa59a34a61f802ee2e4268b2ed1dbb",
+      "width": 1200,
+      "height": 900,
+      "context": "img Architecture app-image post-teaser-banner__image is--loaded ng-star-inserted a figure post-teaser-banner__crop header post-teaser-banner",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/mvrdv/banner-2.webp",
+      "source_url": "https://mvrdv.com/media/uploads/MVRDV%20Nieuw%20Bergen%2035%20%C2%A9%20Ossip%20van%20Duivenbode(2).jpg?width=1920",
+      "source_tag": "img:semantic-banner",
+      "context": "img Architecture app-image post-teaser-banner__image is--loaded ng-star-inserted a figure post-teaser-banner__crop header post-teaser-banner",
+      "content_type": "image/webp",
+      "bytes": 132386,
+      "sha256": "e9d743db68e3675bc1e417aba74b4625469ef22681878cdde867250ccc86141d",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "cf41a57c8a712d66a236ac5a98056a04c4c4e45df8854cec6cb9796942f692ff"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/mvrdv/reference-1.webp",
+      "source_url": "https://mvrdv.com/media/uploads/MVRDV%20Nieuw%20Bergen%2035%20%C2%A9%20Ossip%20van%20Duivenbode(2).jpg?width=1600",
+      "source_tag": "img:page-image",
+      "context": "img Architecture app-image post-teaser-banner__image is--loaded ng-star-inserted a figure post-teaser-banner__crop header post-teaser-banner",
+      "content_type": "image/webp",
+      "bytes": 131586,
+      "sha256": "e47bef08f9b8968aad424ba849e5cf4874bc28f717abe5b98a105ddfc821ad83",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "fc3ac3689c2a2700213ebae44aa5278cb5a97f28200e957c4d41775c93717f46"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/mvrdv/reference-2.webp",
+      "source_url": "https://mvrdv.com/media/uploads/SRB_2311041310_send_web(1).jpg",
+      "source_tag": "img:page-image",
+      "context": "img Transformations app-image post-teaser-banner__image is--loaded ng-star-inserted a figure post-teaser-banner__crop header post-teaser-banner",
+      "content_type": "image/webp",
+      "bytes": 139914,
+      "sha256": "303c526788e8cefb78e5c72db5553b271818da715bb55731fe590b1eb0715588",
+      "width": 1600,
+      "height": 1142,
+      "source_sha256": "435283e13f9f1bf9c7863ae49d7a92b3b1673e3b9ac5913fea4fd2e25b1c16bf"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/mvrdv/reference-3.webp",
+      "source_url": "https://mvrdv.com/media/uploads/SRB_2311041310_send_web(1).jpg?width=1920",
+      "source_tag": "img:page-image",
+      "context": "img Transformations app-image post-teaser-banner__image is--loaded ng-star-inserted a figure post-teaser-banner__crop header post-teaser-banner",
+      "content_type": "image/webp",
+      "bytes": 117000,
+      "sha256": "ae43fbda7e9dd0963b0adef047ee43ae8db09d4d4614a2a61a3d2a89d143bf4a",
+      "width": 1600,
+      "height": 1142,
+      "source_sha256": "91a8d096884e5800c12ae05ba1961b0dc0a84107ebb64d855fc109cab826330f"
+    }
+  ]
+}

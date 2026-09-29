@@ -1,0 +1,93 @@
+{
+  "company": "이디야커피",
+  "category": "식품_생활",
+  "requested_url": "https://www.ediya.com/",
+  "page_url": "https://www.ediya.com/",
+  "page_title": "EDIYA COFFEE",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://www.ediya.com/images/main/brand_video.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/ediya-coffee/favicon.ico",
+      "source_url": "https://www.ediya.com/images/ico/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 104768,
+      "sha256": "b5fc4015a2e07aa3e06e692dfc4308c495df060051034e7e58ed81304a37a01b",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/ediya-coffee/og.webp",
+      "source_url": "https://www.ediya.com/images/common/meta_img.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 48188,
+      "sha256": "bf97b490967d89eec6c01b71108149ad39dc82d73ea9cfd065a6a41291667d1d",
+      "width": 1200,
+      "height": 531
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/ediya-coffee/banner-1.webp",
+      "source_url": "https://www.ediya.com/files/banner/IMG_1789087527848.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img span ta span img_box a div visual_img",
+      "content_type": "image/webp",
+      "bytes": 55018,
+      "sha256": "5dcc2c592145889f116504d774132adb5da6c765378b047a75a0cc15c0ecdd9a",
+      "width": 1180,
+      "height": 620
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/ediya-coffee/banner-2.webp",
+      "source_url": "https://www.ediya.com/files/banner/IMG_1789087527758.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img span pc span img_box a div visual_img",
+      "content_type": "image/webp",
+      "bytes": 63904,
+      "sha256": "22e22a4b7af01b679b3b38995f2d20699bfb0030611c6caab49ad006b7c4e025",
+      "width": 1800,
+      "height": 581
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ediya-coffee/reference-1.webp",
+      "source_url": "https://www.ediya.com/images/popup_bn/sanrio_pop_bn.webp",
+      "source_tag": "img:page-image",
+      "context": "img a div slide_bn_img div main_slide_bn div pop_slide_bn",
+      "content_type": "image/webp",
+      "bytes": 48728,
+      "sha256": "6172ebc3f5d759cb93337576940147c9b91eee48855c869d16359af28935aeb2",
+      "width": 400,
+      "height": 660
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ediya-coffee/reference-2.webp",
+      "source_url": "https://www.ediya.com/files/banner/IMG_1789087527676.jpg",
+      "source_tag": "img:page-image",
+      "context": "img span mo span img_box a div visual_img",
+      "content_type": "image/webp",
+      "bytes": 39116,
+      "sha256": "e4e957e33dbf9c9487f505861315dd0f8cd820990798727b49178239f8491f8c",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ediya-coffee/reference-3.webp",
+      "source_url": "https://www.ediya.com/files/banner/IMG_1787708821715.jpg",
+      "source_tag": "img:page-image",
+      "context": "img span mo span img_box a div visual_img",
+      "content_type": "image/webp",
+      "bytes": 54544,
+      "sha256": "41546e0633b37170e9bed1daa818c05f674a35ea25be40a84d4e9d6878cde15b",
+      "width": 640,
+      "height": 640
+    }
+  ]
+}

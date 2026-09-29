@@ -1,0 +1,93 @@
+{
+  "company": "Peloton",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.onepeloton.com/",
+  "page_url": "https://www.onepeloton.com/",
+  "page_title": "Peloton: Innovative exercise equipment and personalized workout plans",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://www.onepeloton.com/w_600/https:/images.ctfassets.net/7vk8puwnesgc/5OOQKIcG9Iei8IGKXiRmcO/5be39ca10c07978c0858d4322bc4339c/Cards_2_Mobile.jpg; logo:HTTPError:https://www.onepeloton.com/q_auto:good; reference:HTTPError:https://www.onepeloton.com/w_600/https:/images.ctfassets.net/7vk8puwnesgc/78OcbSrOGj1StvJxQyS3nr/38309b3e5e826a95a1f480f20db11034/LYG2_HomePage_Variant_BellyBand_Tread_175x175.jpg; reference:HTTPError:https://www.onepeloton.com/w_600/https:/images.ctfassets.net/7vk8puwnesgc/2hI8PT8nrYaIxkFEVy0i4m/9891ab06450c5e563c2f4020ee5a2595/LYG2_HomePage_Variant_BellyBand_Tread__175x175.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/peloton/favicon.png",
+      "source_url": "https://www.onepeloton.com/images/apple-touch-icon-192.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6861,
+      "sha256": "18822a46843080b9b39aa294f863fff6563609d7976a525ddfb774540f048657",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/peloton/og.webp",
+      "source_url": "https://images.ctfassets.net/7vk8puwnesgc/7xxrCy285YvsxiLAIjujGw/7fd9d03438f0a0c04f7b483d2aca9eb1/meta-data-generic.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3662,
+      "sha256": "91ed489bc8baef9c222d7c202be9a5e185fd0e025fe9a79780fae057865e72e1",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/peloton/logo-1.webp",
+      "source_url": "https://images.onepeloton.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:good,w_600/https://images.ctfassets.net/7vk8puwnesgc/5OOQKIcG9Iei8IGKXiRmcO/5be39ca10c07978c0858d4322bc4339c/Cards_2_Mobile.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Peloton logo in white inside a rounded square on a dark background picture div Media__Container-design-system__sc-10mq0np-0 LXBHX sc-8cdf9f4f-0 eeaQhZ div Container__StyledContainer-design-system__sc-1l0wzxx-0 cqppOE sc-8cdf9f4f-1 haKvQ",
+      "content_type": "image/webp",
+      "bytes": 2632,
+      "sha256": "bebe705b36cc8d74569bf80dc3b97c94c1cf40b991369b500f25eb5636565742",
+      "width": 600,
+      "height": 298
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/peloton/banner-1.webp",
+      "source_url": "https://images.onepeloton.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:good,w_1024/https://images.ctfassets.net/7vk8puwnesgc/6nJgbPpmHdvo7jFsy7uAyK/d4f49e367d142eed3b9f069f6e2ca005/Hero_Desktop_US-CA_Posterframe_NEW.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img video Video__StyledVideo-design-system__sc-iv2sz6-2 feQdDV div Video__Wrapper-design-system__sc-iv2sz6-0 dyzRle div Media__Container-design-system__sc-10mq0np-0 LXBHX sc-d6275753-8 kLcANL div Container__StyledContainer-design-system__sc",
+      "content_type": "image/webp",
+      "bytes": 32158,
+      "sha256": "3390c731ba3e0ffc24ac3f80ae44e8b53373b530a311188440ae2a208f13e639",
+      "width": 1024,
+      "height": 613
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/peloton/reference-1.webp",
+      "source_url": "https://images.onepeloton.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:good,w_600/https://images.ctfassets.net/7vk8puwnesgc/78OcbSrOGj1StvJxQyS3nr/38309b3e5e826a95a1f480f20db11034/LYG2_HomePage_Variant_BellyBand_Tread_175x175.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div Media__Container-design-system__sc-10mq0np-0 LXBHX sc-592907ad-5 kSTCBD div Flex__StyledFlex-design-system__sc-42eftp-0 cFrxpC sc-592907ad-6 fMoTNE div sc-592907ad-4 djwfyG span Eyebrow__StyledEyebrow-design-system__sc-scrajo-0 ",
+      "content_type": "image/webp",
+      "bytes": 9214,
+      "sha256": "83b8922aa8f98a0788a2ac4645e10c906ce939b1da59e6c0813e487d35ecee12",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/peloton/reference-2.webp",
+      "source_url": "https://images.onepeloton.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:good,w_600/https://images.ctfassets.net/7vk8puwnesgc/2hI8PT8nrYaIxkFEVy0i4m/9891ab06450c5e563c2f4020ee5a2595/LYG2_HomePage_Variant_BellyBand_Tread__175x175.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div Media__Container-design-system__sc-10mq0np-0 LXBHX sc-592907ad-5 kSTCBD div Flex__StyledFlex-design-system__sc-42eftp-0 cFrxpC sc-592907ad-6 fMoTNE div sc-592907ad-4 djwfyG span Eyebrow__StyledEyebrow-design-system__sc-scrajo-0 ",
+      "content_type": "image/webp",
+      "bytes": 10132,
+      "sha256": "a02b59cd4809ab48655b7159629e1a45ecf4b50ca3e8a86c7bf78bebac93e58b",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/peloton/reference-3.webp",
+      "source_url": "https://images.onepeloton.com/peloton-cycle/image/fetch/dpr_1.0,f_auto,q_auto:good,w_600/https://images.ctfassets.net/7vk8puwnesgc/5mfXgQkUHeDFnugHPuOt8j/07c0349ec798359501d0a17df48f011d/LYG2_HomePage_Variant_BellyBand_Bike__175x175.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div Media__Container-design-system__sc-10mq0np-0 LXBHX sc-592907ad-5 kSTCBD div Flex__StyledFlex-design-system__sc-42eftp-0 cFrxpC sc-592907ad-6 fMoTNE div sc-592907ad-4 djwfyG span Eyebrow__StyledEyebrow-design-system__sc-scrajo-0 ",
+      "content_type": "image/webp",
+      "bytes": 18252,
+      "sha256": "eafac7a6395876d966935c8b798092aa567a9e20b75893487b1a3ff8142e2476",
+      "width": 600,
+      "height": 600
+    }
+  ]
+}

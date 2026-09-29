@@ -1,0 +1,82 @@
+{
+  "company": "MUBI",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://mubi.com/",
+  "page_url": "https://mubi.com/en/kr",
+  "page_title": "MUBI: Watch and Discover Movies",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/mubi/favicon.png",
+      "source_url": "https://mubi.com/apple-touch-icon.png?ver=2",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9868,
+      "sha256": "48fa10d29aa2371cadfd12e6daa5308fd78cc1ce322a61693616658686060ca2",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "c7b8196b4ff24cd06d7e9b99df487a22d40c87e8ae45987a6cf79b9070a54ec5"
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/mubi/og.webp",
+      "source_url": "https://assets.mubicdn.net/splash/volver.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 57628,
+      "sha256": "1f334164f00fb32ad1814e9b0514ca741091ae112ea0d5bffff1be73f924f6da",
+      "width": 1200,
+      "height": 790
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/mubi/banner-1.webp",
+      "source_url": "https://images.mubicdn.net/static/images/notebook-magazine/magazine-stack.png?size=800x",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture css-1uwiplf evgq52k5 div css-1be8k69 evgq52k1 div css-isqanh esfsx5y1 div css-8utsz3 esfsx5y0 section css-1okqiw evgq52k0",
+      "content_type": "image/webp",
+      "bytes": 35696,
+      "sha256": "172643d74820f48f5712f367ba911bd97521696319d4ee1f8eb7f19fe6ed1b33",
+      "width": 800,
+      "height": 539
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/mubi/reference-1.webp",
+      "source_url": "https://images.mubicdn.net/static/images/notebook-magazine/magazine-stack.png?size=500x",
+      "source_tag": "picture:page-image",
+      "context": "picture css-1uwiplf evgq52k5 div css-1be8k69 evgq52k1 div css-isqanh esfsx5y1 div css-8utsz3 esfsx5y0 section css-1okqiw evgq52k0",
+      "content_type": "image/webp",
+      "bytes": 16332,
+      "sha256": "16e7b772060cee66f9b445f9a050248d77b0def0a2479be8290a1e1136546868",
+      "width": 500,
+      "height": 337
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/mubi/reference-2.webp",
+      "source_url": "https://images.mubicdn.net/splash-videos/40/1783414833_still_desktop.jpg?size=1200x",
+      "source_tag": "picture:page-image",
+      "context": "picture eg9xkka5 css-8xlufs e34dm5p0 div css-t37t6d eg9xkka4 div css-1vx1dtt eg9xkka2 div css-cz79g eg9xkka1 div",
+      "content_type": "image/webp",
+      "bytes": 50234,
+      "sha256": "8d437269a9d0f599003e2b43a958ac3f59497510bf194734edf5d80ff51cf39a",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/mubi/reference-3.webp",
+      "source_url": "https://images.mubicdn.net/splash-videos/40/1783414833_still_tablet.jpg?size=1000x",
+      "source_tag": "picture:page-image",
+      "context": "picture eg9xkka5 css-8xlufs e34dm5p0 div css-t37t6d eg9xkka4 div css-1vx1dtt eg9xkka2 div css-cz79g eg9xkka1 div",
+      "content_type": "image/webp",
+      "bytes": 40500,
+      "sha256": "aac11cf71142a2c1fb7c2bdbb0afe986440c0af410ce8c77a11f093b726859c0",
+      "width": 1000,
+      "height": 650
+    }
+  ]
+}

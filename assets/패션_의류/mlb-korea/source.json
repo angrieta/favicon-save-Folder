@@ -1,0 +1,58 @@
+{
+  "company": "MLB",
+  "category": "패션_의류",
+  "requested_url": "https://www.mlb-korea.com/",
+  "page_url": "https://www.mlb-korea.com/",
+  "page_title": "MLB 공식 온라인몰 - 스트릿한 캐주얼 컬렉션 브랜드, 엠엘비",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.mlb-korea.com/_next/static/media/ce54de3ae3650484-s.p.woff2; reference:ValueError:https://www.mlb-korea.com/_next/static/media/4fe3303396ef94f8-s.p.woff2; reference:ValueError:https://www.mlb-korea.com/_next/static/media/9dd75fadc5b3df29-s.p.woff2; reference:ValueError:https://www.mlb-korea.com/_next/static/css/cef67700ad352d6a.css; reference:ValueError:https://www.mlb-korea.com/_next/static/css/0a4ec652d6028205.css; reference:ValueError:https://www.mlb-korea.com/_next/static/css/b8e302d41b271438.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/mlb-korea/favicon.png",
+      "source_url": "https://www.mlb-korea.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5829,
+      "sha256": "de77842565cb16b0b559662ced7585657a9ba8449d8fc60d8c51ddd307460416",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/mlb-korea/og.webp",
+      "source_url": "https://static-resource.mlb-korea.com/images/display/content/MLB-OG.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1846,
+      "sha256": "f714fbe6b1e659743bb333d6ee334f5164528f27fcc079c031186aac1640b6d7",
+      "width": 500,
+      "height": 279
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/mlb-korea/og.webp",
+      "source_url": "https://static-resource.mlb-korea.com/images/display/content/MLB-OG.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 1846,
+      "sha256": "f714fbe6b1e659743bb333d6ee334f5164528f27fcc079c031186aac1640b6d7",
+      "width": 500,
+      "height": 279,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/mlb-korea/logo-2.svg",
+      "source_url": "https://www.mlb-korea.com/_next/static/media/logo_mo.fa341d63.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img MLB a div div commonHeader css-1laiz1h div css-19jvv3l",
+      "content_type": "image/svg+xml",
+      "bytes": 1283,
+      "sha256": "b06843c3537ac8dffbf909312edcfa8425ea1d8a3afe693b5096c593dda3423e",
+      "width": 70,
+      "height": 20
+    }
+  ]
+}

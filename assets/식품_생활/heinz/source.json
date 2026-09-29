@@ -1,0 +1,94 @@
+{
+  "company": "Heinz",
+  "category": "식품_생활",
+  "requested_url": "https://www.heinz.com/",
+  "page_url": "https://www.heinz.com/",
+  "page_title": "Heinz Official Site - Heinz® US | Heinz",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.heinz.com/w_3840/v1/M-red-divider_cmhtik?_a=BAVMn6ID0; reference:HTTPError:https://www.heinz.com/w_2048/v1/M-red-divider_cmhtik?_a=BAVMn6ID0; reference:HTTPError:https://www.heinz.com/w_3840/v1/M-dip_it_live_it_love_it_go_All_In_ghbqx1?_a=BAVMn6ID0; reference:HTTPError:https://www.heinz.com/w_2048/v1/M-dip_it_live_it_love_it_go_All_In_ghbqx1?_a=BAVMn6ID0; reference:HTTPError:https://www.heinz.com/w_3840/v1/heinz-gravy-tile_imavjm?_a=BAVMn6ID0; reference:HTTPError:https://www.heinz.com/w_2048/v1/heinz-gravy-tile_imavjm?_a=BAVMn6ID0",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/heinz/favicon.png",
+      "source_url": "https://www.heinz.com/favicon/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1379,
+      "sha256": "d8142ecfb879bf88621af1101f691d3743faa1771e6dfbac178305f2d5c154b3",
+      "width": 114,
+      "height": 114
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/heinz/og.webp",
+      "source_url": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/dxp-images/heinz/global/heinz-logo-black.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 32676,
+      "sha256": "ced5a544608f3fa4dc81b2b5edfdfc9e4b663cbfbafbeca0c651dea7076db369",
+      "width": 1200,
+      "height": 503
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/heinz/og.webp",
+      "source_url": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/dxp-images/heinz/global/heinz-logo-black.png",
+      "source_tag": "json-ld[0].logo",
+      "content_type": "image/webp",
+      "bytes": 32676,
+      "sha256": "ced5a544608f3fa4dc81b2b5edfdfc9e4b663cbfbafbeca0c651dea7076db369",
+      "width": 1200,
+      "height": 503,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/heinz/logo-2.png",
+      "source_url": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/c_limit,w_3840/v1/ml_card-carousel_ketchup_g0q15i?_a=BAVMn6ID0",
+      "source_tag": "img:semantic-logo",
+      "context": "img custom-image object-cover rounded-b-3xl w-full h-full A classic bottle of Heinz Tomato Ketchup stands out against a deep red background, subtly patterned with the Heinz 57 logo an div relative h-full w-full aspect-square figure relative",
+      "content_type": "image/png",
+      "bytes": 620818,
+      "sha256": "0aabbb2f31fe47fe5ff8335303f18f7fb89e178119a42f1fe7683335880a349a",
+      "width": 1406,
+      "height": 1406
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/heinz/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/c_limit,w_3840/v1/M-dip_it_live_it_love_it_go_All_In_ghbqx1?_a=BAVMn6ID0",
+      "source_tag": "img:page-image",
+      "context": "img object-cover h-full w-full Bold red and white text pops against a deep red background. The words “DIP IT LIVE IT LOVE IT GO ALL IN” are stacked, creatin div relative my-[-1px] overflow-hidden section 4xvDl5ArFPo5NC1lsoSCRu theme-deep-re",
+      "content_type": "image/webp",
+      "bytes": 24282,
+      "sha256": "0d60bd248bc43d8ba8a43e3bd8f44ab2421495b79037b78bed74f26de16fc2da",
+      "width": 1231,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/heinz/reference-2.webp",
+      "source_url": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/c_limit,w_3840/v1/heinz-gravy-tile_imavjm?_a=BAVMn6ID0",
+      "source_tag": "img:page-image",
+      "context": "img custom-image object-cover rounded-b-3xl w-full h-full Heinz HomeStyle Turkey Gravy jar on a red background with a picture of turkey, mashed potatoes, and green beans. div relative h-full w-full aspect-[4/5] figure relative overflow-hidd",
+      "content_type": "image/webp",
+      "bytes": 75518,
+      "sha256": "54e1647fdf27ded7a57314e6c0c9b8af5f2be7c17ec9e403ac35094b33285013",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/heinz/reference-3.webp",
+      "source_url": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/c_limit,w_3840/v1/heinz-carousel-2_mp3djo?_a=BAVMn6ID0",
+      "source_tag": "img:page-image",
+      "context": "img custom-image object-cover rounded-b-3xl w-full h-full A bottle of Heinz Simply Tomato Ketchup, red with a white and brown label, featuring a fresh tomato illustration. div relative h-full w-full aspect-[4/5] figure relative overflow-hid",
+      "content_type": "image/webp",
+      "bytes": 62990,
+      "sha256": "da2747ca845e9cb6028deb61597359a479336c94bc5b0151174e30bc61226b99",
+      "width": 1080,
+      "height": 1350
+    }
+  ]
+}

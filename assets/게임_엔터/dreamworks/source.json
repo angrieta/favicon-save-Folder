@@ -1,0 +1,83 @@
+{
+  "company": "DreamWorks Animation",
+  "category": "게임_엔터",
+  "requested_url": "https://www.dreamworks.com/",
+  "page_url": "https://www.dreamworks.com/",
+  "page_title": "DreamWorks Animation | DreamWorks",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.dreamworks.com/fonts/norms/35406d8e-39ba-4b17-a795-746fd04b670d.woff2; reference:ValueError:https://www.dreamworks.com/fonts/norms/508cd261-b649-4ad1-9ea4-03804b9b1c23.woff2; reference:ValueError:https://www.dreamworks.com/fonts/norms/ea4bf838-1eb6-45a3-93e9-729f6cd68a85.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/dreamworks/favicon.png",
+      "source_url": "https://www.dreamworks.com/images/favicon/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 16488,
+      "sha256": "09aa1ee35769274e63dd31c2bf164689ed7ccae2bbad7a3789f09da883d3a82e",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/dreamworks/og.webp",
+      "source_url": "https://www.dreamworks.com/storage/cms-uploads/dreamworks-shared.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 116616,
+      "sha256": "52c12563105a7edaa38a36f244225cfb1e318931a54154eab6ba3cf61e1a7034",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/dreamworks/banner-1.webp",
+      "source_url": "https://www.dreamworks.com/storage/cms-uploads/forgotten-island-hero-image-desktop.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  https://www.dreamworks.com/storage/cms-uploads/forgotten-island-hero-image-desktop.jpg",
+      "content_type": "image/webp",
+      "bytes": 115586,
+      "sha256": "4df8ff40a64c65705f4b08c9a943d565a16ec72122cd9f8b54d985756bef2cf7",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "3b19a4300279a019161ec7450786ac88d79125c12dfa31d366bfb5f52d8f42a7"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/dreamworks/reference-1.webp",
+      "source_url": "https://www.dreamworks.com/images/footer/netapp-white.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lenovo NetApp span icons p footer legal-notes div inner-w",
+      "content_type": "image/webp",
+      "bytes": 7020,
+      "sha256": "81c577b1bc7d9f57e64dbe649bb7a7deb78aa5639ee5d26ca598e6eec7680867",
+      "width": 1223,
+      "height": 419
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/dreamworks/reference-2.webp",
+      "source_url": "https://www.dreamworks.com/images/footer/lenovo-blue.png",
+      "source_tag": "img:page-image",
+      "context": "img lenovo Lenovo span icons p footer legal-notes div inner-w",
+      "content_type": "image/webp",
+      "bytes": 17574,
+      "sha256": "d8d0082cbe77c9c4df1d5888a7d16968e9dc8800b8a098be2143997e4c2d5ed5",
+      "width": 1800,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/dreamworks/reference-3.webp",
+      "source_url": "https://www.dreamworks.com/storage/cms-uploads/forgotten-island-hero-image-mobile.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  https://www.dreamworks.com/storage/cms-uploads/forgotten-island-hero-image-mobile.jpg",
+      "content_type": "image/webp",
+      "bytes": 94354,
+      "sha256": "db39f34058dce440884e693028b20a227bb49764babbc41326ed2470538f901e",
+      "width": 1012,
+      "height": 1350,
+      "source_sha256": "37917bdaf9e736dfaebee1a34f1f637eefbc4dba83c79bceaa6362d24a7c8454"
+    }
+  ]
+}

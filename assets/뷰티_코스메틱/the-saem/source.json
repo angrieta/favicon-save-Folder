@@ -1,0 +1,105 @@
+{
+  "company": "더샘",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.thesaemcosmetic.com/",
+  "page_url": "https://www.thesaemcosmetic.com/",
+  "page_title": "더샘",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://www.thesaemcosmetic.com/theme/basic/img/main-stop.png; reference:HTTPError:https://www.thesaemcosmetic.com/theme/basic/img/main-play.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/the-saem/favicon.ico",
+      "source_url": "https://www.thesaemcosmetic.com/theme/basic/img/thesaem_favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 9662,
+      "sha256": "ec4e62918fb61e1c9e3591d3b1838f85c0732a1fb2d3c21559cbdb818a72f83e",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/the-saem/og.webp",
+      "source_url": "https://www.thesaemcosmetic.com/theme/basic/img/theSAEM_meta_250716.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 15210,
+      "sha256": "476b0d0ed1df75a6453aee21a2057ad859841675c13a4b09ff11ac97452fc4de",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/the-saem/logo-1.png",
+      "source_url": "https://www.thesaemcosmetic.com/theme/basic/img/footer-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div logo div in footer",
+      "content_type": "image/png",
+      "bytes": 3218,
+      "sha256": "8d8d8a3d84c635a799bbf14e35821beb9e30ec1d483937b2ac7d989b15bdcfef",
+      "width": 203,
+      "height": 28
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/the-saem/banner-1.webp",
+      "source_url": "https://www.thesaemcosmetic.com/data/kan_section/20260519132356_1750cec_0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  swiper-slide background: url('https://www.thesaemcosmetic.com/data/kan_section/20260519132356_1750cec_0.jpg') center 0 no-repeat; background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 61480,
+      "sha256": "7d13f2fa9a17685b3fccc7638d3a62df8ef475fc5f2369c4d3daf8baeaf5a165",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/the-saem/banner-2.webp",
+      "source_url": "https://www.thesaemcosmetic.com/data/kan_section/20260427172703_0be4d33_0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  swiper-slide background: url('https://www.thesaemcosmetic.com/data/kan_section/20260427172703_0be4d33_0.jpg') center 0 no-repeat; background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 26802,
+      "sha256": "214055ddd3fa6e39e709562069b62baf8d3c3506130527e797bbfb6f5b273059",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/the-saem/reference-1.webp",
+      "source_url": "https://www.thesaemcosmetic.com/data/kan_section/20250630171112_7829710_0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  swiper-slide background: url('https://www.thesaemcosmetic.com/data/kan_section/20250630171112_7829710_0.jpg') center 0 no-repeat; background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 21964,
+      "sha256": "463c809c96cff1336fd1dc54892c0510e8c08ace5f3f58d6436308fc8399b11c",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/the-saem/reference-2.webp",
+      "source_url": "https://www.thesaemcosmetic.com/data/kan_section/20250227172924_89dec2d_0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  swiper-slide background: url('https://www.thesaemcosmetic.com/data/kan_section/20250227172924_89dec2d_0.jpg') center 0 no-repeat; background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 82280,
+      "sha256": "793a280af354ad52756e79db0d24451531b383915ded806a45ba6afa82c537d1",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/the-saem/reference-3.webp",
+      "source_url": "https://www.thesaemcosmetic.com/data/kan_section/20250630171150_f6ff76d_0.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img div new div wrapper div con1",
+      "content_type": "image/webp",
+      "bytes": 68880,
+      "sha256": "6dfc855a7124e3252905408a2c5b77eb1a659480e307a7e790ced37f65a06a2f",
+      "width": 708,
+      "height": 700
+    }
+  ]
+}

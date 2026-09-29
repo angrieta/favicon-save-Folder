@@ -1,0 +1,93 @@
+{
+  "company": "대한축구협회",
+  "category": "게임_엔터",
+  "requested_url": "https://www.kfa.or.kr/",
+  "page_url": "https://www.kfa.or.kr/",
+  "page_title": "KFA | 대한축구협회",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/kfa/favicon.png",
+      "source_url": "https://www.kfa.or.kr/images/common/mobicon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1927,
+      "sha256": "d3ed8ea7ae047b42761956a61d4e9ea4d7011350c885a81f5b7d20df99dc2f65",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/kfa/og.webp",
+      "source_url": "https://www.kfa.or.kr/images/sns_logo_new.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8770,
+      "sha256": "5743597d0ff90e5d6fea8b9950f71d1cb615b4a25824204fa28cf97795b84eb6",
+      "width": 400,
+      "height": 191
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/kfa/banner-1.webp",
+      "source_url": "https://img.kfa.or.kr/main_banner/168413016353148.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img web   a div item div main_banner owl-carousel div",
+      "content_type": "image/webp",
+      "bytes": 35166,
+      "sha256": "d01a1ad1ae33a79ea718f0269e679a05b2a701ba59c96da4162e47f734995f91",
+      "width": 1800,
+      "height": 394
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/kfa/banner-2.webp",
+      "source_url": "https://img.kfa.or.kr/main_banner/168413016379885.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img mob   a div item div main_banner owl-carousel div",
+      "content_type": "image/webp",
+      "bytes": 17638,
+      "sha256": "cdef7e5abd95a656dd7b11768f41a985ade9b80323fbde5d049c537237d85867",
+      "width": 640,
+      "height": 420
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/kfa/reference-1.webp",
+      "source_url": "https://img.kfa.or.kr/main_banner/178994985976962.png",
+      "source_tag": "inline-background-image",
+      "context": "div  img_slide background-image: url('https://img.kfa.or.kr/main_banner/178994985976962.png'); cursor:pointer;",
+      "content_type": "image/webp",
+      "bytes": 59366,
+      "sha256": "ec690ae90108b6994e0fba0ad32bf1ebe7f2cf6a3be67606e9b1786df9cd4b7f",
+      "width": 1800,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/kfa/reference-2.webp",
+      "source_url": "https://img.kfa.or.kr/main_banner/178710026888572.png",
+      "source_tag": "inline-background-image",
+      "context": "div  img_slide background-image: url('https://img.kfa.or.kr/main_banner/178710026888572.png'); cursor:pointer;",
+      "content_type": "image/webp",
+      "bytes": 135872,
+      "sha256": "b5cbdd9c51315d3a5c30b56cc34cdf2dd51d0cbd86ee07eff53eaa7ca64db241",
+      "width": 1800,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/kfa/reference-3.webp",
+      "source_url": "https://img.kfa.or.kr/main_banner/179042535985376.png",
+      "source_tag": "inline-background-image",
+      "context": "div  img_slide background-image: url('https://img.kfa.or.kr/main_banner/179042535985376.png'); ",
+      "content_type": "image/webp",
+      "bytes": 160212,
+      "sha256": "c8c5d87a1d2d90ce8ea84165a655c13146b8ae69e5a16063889ee591a5efbd94",
+      "width": 1800,
+      "height": 675
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "company": "Monks",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.monks.com",
+  "page_url": "https://www.monks.com/",
+  "page_title": "Monks",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://www.monks.com/themes/custom/monks/static/favicon-mask.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/monks/favicon.png",
+      "source_url": "https://www.monks.com/themes/custom/monks/static/images/png/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3367,
+      "sha256": "277351f0e13f1ef0de4292c7ed3d8a730267069418b1568150aa134e5d640ce0",
+      "width": 180,
+      "height": 181
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/monks/og.webp",
+      "source_url": "https://www.monks.com/data/styles/1200x630/s3/2024-07/monks-hero-image-16x9.jpg?VersionId=QVPYCz8N8fb59z_QZA7r.vvGkZGNUGch&h=d1cb525d&itok=gUAzZGbo",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 29630,
+      "sha256": "6cd60cd6f9f21756c7206e45c8d6fc4c7f48f75ee977fff38d8ddba427d66336",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/monks/logo-1.png",
+      "source_url": "https://www.monks.com/data/styles/997x600_crop/s3/2025-11/BoomtownUnboxed-Monks-mainhero.png?VersionId=DfjJAtFe1fqTQ8nTWcKPNLqzS5K6zTFl&h=d1cb525d&itok=vYdOzLDH",
+      "source_tag": "img:semantic-logo",
+      "context": "img lazyload Boomtown Unboxed logo with a bunch of animated application screens around it picture fit-cover fill-absolute border-radius figure card-item image-item a item-card li grid-col-4 grid-item",
+      "content_type": "image/png",
+      "bytes": 527677,
+      "sha256": "1cc50147c0594265c1b92cdbee3bfff7f9fb4599bb9a815fd8dc75b5c71c8f48",
+      "width": 997,
+      "height": 600,
+      "source_sha256": "27b54fcb4774ac724dbb42836c59d2624e041e80bad1fcf80d115ac41ca4c910"
+    },
+    {
+      "type": "banner",
+      "path": "assets/디자인_에이전시/monks/banner-1.webp",
+      "source_url": "https://www.monks.com/data/2026-07/Monks-Flow%20Thumbnail.png?VersionId=RDN3A99CNZpmK0weJKGWkafUZyx0pw_H",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture fit-cover border-radius video-poster div div grid-col-4 grid-col-l-6 grid-col div grid-row section c04-media-80269",
+      "content_type": "image/webp",
+      "bytes": 22850,
+      "sha256": "fe254a2164559f107e81d85877a779174f15f1a797de0f85ca9c644325340f08",
+      "width": 1728,
+      "height": 974
+    },
+    {
+      "type": "banner",
+      "path": "assets/디자인_에이전시/monks/logo-1.png",
+      "source_url": "https://www.monks.com/data/styles/997x600_crop/s3/2025-11/BoomtownUnboxed-Monks-mainhero.png?VersionId=DfjJAtFe1fqTQ8nTWcKPNLqzS5K6zTFl&h=d1cb525d&itok=vYdOzLDH",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture fit-cover fill-absolute border-radius figure card-item image-item a item-card li grid-col-4 grid-item ul grid-row content-list",
+      "content_type": "image/png",
+      "bytes": 527677,
+      "sha256": "1cc50147c0594265c1b92cdbee3bfff7f9fb4599bb9a815fd8dc75b5c71c8f48",
+      "width": 997,
+      "height": 600,
+      "reused_from": "logo",
+      "source_sha256": "27b54fcb4774ac724dbb42836c59d2624e041e80bad1fcf80d115ac41ca4c910"
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/monks/reference-1.webp",
+      "source_url": "https://www.monks.com/data/styles/645x600_crop/s3/2025-06/Monks-Heinz-Mustard-RealTimeBrands.png?VersionId=3cnojkQItTXOhjUMU5Q5r...b3i4C4Cm&h=d1cb525d&itok=j0XuqqSM",
+      "source_tag": "picture:page-image",
+      "context": "picture fit-cover fill-absolute border-radius figure card-item image-item a item-card li card-item ol cards-list",
+      "content_type": "image/webp",
+      "bytes": 16874,
+      "sha256": "c37d9b73869895fb109659992f3a4d56d405cbe9d642f854c47d0f98af225e0a",
+      "width": 645,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/monks/reference-2.webp",
+      "source_url": "https://www.monks.com/data/styles/645x600_crop/s3/2025-06/Monks-Heinz-Mustard-RealTimeBrands.png.webp?VersionId=6V_ZoXipk5QXluLqtGT22mE7EOC6Ro2W&itok=53OaIHEd",
+      "source_tag": "source:page-image",
+      "context": "source picture fit-cover fill-absolute border-radius figure card-item image-item a item-card li card-item",
+      "content_type": "image/webp",
+      "bytes": 14614,
+      "sha256": "73d1e793cd908a5acec2a31c2de65caa66814ed574cb8d62d7d123073d27bd69",
+      "width": 645,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/monks/reference-3.webp",
+      "source_url": "https://www.monks.com/data/styles/645x600_crop/s3/2025-06/Monks-GlassBoxMedia-Hatch.png?VersionId=Wa_VVfG7wfmAYNaQNSGFslbuKD_D9vW.&h=d1cb525d&itok=0AvjwHqu",
+      "source_tag": "picture:page-image",
+      "context": "picture fit-cover fill-absolute border-radius figure card-item image-item a item-card li card-item ol cards-list",
+      "content_type": "image/webp",
+      "bytes": 33754,
+      "sha256": "df66480d27549f6dc122ad2be5ea84977285ca0991d216f5942e35da34934ac6",
+      "width": 645,
+      "height": 600
+    }
+  ]
+}

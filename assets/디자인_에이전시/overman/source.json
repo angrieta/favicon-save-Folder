@@ -1,0 +1,33 @@
+{
+  "company": "오버맨",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.overman.kr",
+  "page_url": "https://www.overman.kr/",
+  "page_title": "OVERMAN",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.overman.kr/css/app.dbb12c51.css; reference:ValueError:https://www.overman.kr/css/chunk-vendors.1c425fdd.css; reference:ValueError:https://www.overman.kr/js/app.074f92d0.js; reference:ValueError:https://www.overman.kr/js/chunk-vendors.8e0607ec.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/overman/favicon.ico",
+      "source_url": "https://www.overman.kr/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "71b12af7e37da3940a60a8385b3665bb38a5b7f0098c1ad8f6ba147db0db5d7a",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/overman/og.webp",
+      "source_url": "https://overman.kr/uploads/tempnews2.gif",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12472,
+      "sha256": "1b9bb4afa21498be2e159aa7232507a2bf80833c7bd1ac611f7d921bca07e547",
+      "width": 600,
+      "height": 400
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "company": "Air Canada",
+  "category": "항공_여행",
+  "requested_url": "https://www.aircanada.com/home/kr/ko/aco/flights",
+  "page_url": "https://www.aircanada.com/home/kr/ko/aco/flights",
+  "page_title": "Book Flights Online | Air Canada",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.aircanada.com/assets/70ebd7b99e32edec2065f3c335af8c367001194a011; reference:ValueError:https://www.aircanada.com/home/assets/font/ac-nord/AC_Nord_Text-Regular.woff2; reference:ValueError:https://www.aircanada.com/home/assets/font/ac-nord/AC_Nord_Text-Bold.woff2; reference:ValueError:https://www.aircanada.com/home/assets/font/ac-nord/AC_Nord_Text-Heavy.woff2; reference:ValueError:https://www.aircanada.com/home/assets/font/ac-nord/AC_Nord_Display-Regular.woff2; reference:ValueError:https://www.aircanada.com/home/assets/font/ac-nord/AC_Nord_Display-Bold.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/air-canada/favicon.ico",
+      "source_url": "https://www.aircanada.com/home/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 9662,
+      "sha256": "22f9a9975a0de78ccfaef345b8dac19b7b5d54925a6bc2df54a70a657bc67a3b",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/air-canada/og.webp",
+      "source_url": "https://www.aircanada.com/content/dam/aircanada/portal/images/home/banner/new-ac-livery.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13208,
+      "sha256": "cf4041f77b1817228d43800168482735a9fb5d47670ddcc3c266bcc49595a51c",
+      "width": 800,
+      "height": 402
+    }
+  ]
+}

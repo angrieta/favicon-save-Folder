@@ -1,0 +1,95 @@
+{
+  "company": "Visa",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.visakorea.com/",
+  "page_url": "https://www.visakorea.com/",
+  "page_title": "신뢰할 수 있는 디지털 결제 리더 Visa | Visa",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/visa/favicon.ico",
+      "source_url": "https://www.visakorea.com/content/dam/VCOM/Brand/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "3d7dd058cf1ba56277b3e62c0b520398aeecd1e49e1e2cacb74779f75f475bec",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/visa/logo-1.png",
+      "source_url": "https://cdn.visa.com/v2/assets/images/logos/visa/blue/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 6006,
+      "sha256": "4b9af1de7e2e226173f096570ef2cdff27349910d8863a39fcae2548154c818b",
+      "width": 208,
+      "height": 68
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/visa/banner-1.webp",
+      "source_url": "https://www.visakorea.com/content/dam/VCOM/regional/ap/images/travel-with-visa/xb-ob-vee-marquee-1920x1080.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img vs-img-placeholder vs-lazy vs-img-fluid vs-vertical-image vs-hero-marquee-media vs-hero-marquee-image vs-d-none vs-d-md-block div vs-carousel vs-hero-marquee vs-mb-0 vs-hero-marquee-v2 link div heromarquee-item div marquee-container",
+      "content_type": "image/webp",
+      "bytes": 65668,
+      "sha256": "647ae07e3e36d4b577a8661a2e77a83c6603430048021f3dc3266d45b244cbd7",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "02b23e6147a777ac56dd341e27e0099343642a9c52ae12a72aca560060ae4cc4"
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/visa/banner-2.webp",
+      "source_url": "https://www.visakorea.com/content/dam/VCOM/regional/ap/images/travel-with-visa/xb-ob-vee-marquee-800x450.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img vs-img-placeholder vs-lazy vs-img-fluid vs-vertical-image vs-hero-marquee-media vs-hero-marquee-image vs-d-block vs-d-md-none div vs-carousel vs-hero-marquee vs-mb-0 vs-hero-marquee-v2 link div heromarquee-item div marquee-container",
+      "content_type": "image/webp",
+      "bytes": 43818,
+      "sha256": "e0118b23dabe60a96c6357f5c7e61598dfcd9d17902f2890298eeab969c1b0fe",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/visa/reference-1.webp",
+      "source_url": "https://www.visakorea.com/content/dam/VCOM/global/homepage/home-images/content-tile-cards-900x900.jpg",
+      "source_tag": "img:page-image",
+      "context": "img vs-ct-image vs-lazy vs-img-placeholder An image of three different digital payment cards from Visa. div vs-bg-tertiary-1-gradient a vs-ct vs-sct vs-animation-link 카드 + 혜택 <p>Visa카드 할인 및 혜택 소개</p>\n 외부 링크 div vs-col-12 vs-col-md-6 vs-mb-3",
+      "content_type": "image/webp",
+      "bytes": 37126,
+      "sha256": "5e09932b883506cbd6b80050f48518b578933ffa3be9b8c4b8b5f603062a7348",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/visa/reference-2.webp",
+      "source_url": "https://www.visakorea.com/content/dam/VCOM/global/homepage/home-images/content-tile-contactless-900x900.jpg",
+      "source_tag": "img:page-image",
+      "context": "img vs-ct-image vs-lazy vs-img-placeholder A hand holding a smartphone on which there is a Visa payment card representing Visa's digital payment options div vs-bg-tertiary-1-gradient a vs-ct vs-sct vs-animation-link 혁신성 <p>Visa를 통해 탭 한 번으로 ",
+      "content_type": "image/webp",
+      "bytes": 28220,
+      "sha256": "98fac4df34464b9efbe6281aea28c4cfbb062f2c8b36c75f14eeb8e671f711e8",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/visa/reference-3.webp",
+      "source_url": "https://www.visakorea.com/content/dam/VCOM/global/homepage/home-images/content-tile-financial-inclusion-900x900.jpg",
+      "source_tag": "img:page-image",
+      "context": "img vs-ct-image vs-lazy vs-img-placeholder div vs-bg-black-gradient a vs-ct vs-sct vs-animation-link 포용성 <p>전 세계인을 위한 지원 노력</p>\n div vs-col-12 vs-col-md-6 vs-mb-3 vs-px-2 vs-pl-md-2 vs-pr-md-2 div vs-row vs-ct-2-up vs-m-0",
+      "content_type": "image/webp",
+      "bytes": 93538,
+      "sha256": "6f2bd3f60b9a7a8b5faa0bc28ee6e7f36e585863f5a25d15f5919d1b883fbc34",
+      "width": 900,
+      "height": 900
+    }
+  ]
+}

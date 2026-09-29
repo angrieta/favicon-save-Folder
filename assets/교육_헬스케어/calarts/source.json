@@ -1,0 +1,95 @@
+{
+  "company": "CalArts",
+  "category": "교육_헬스케어",
+  "requested_url": "https://calarts.edu",
+  "page_url": "https://calarts.edu/",
+  "page_title": "CalArts Home | CalArts",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/calarts/favicon.png",
+      "source_url": "https://calarts.edu/themes/custom/d10starter/images/calarts-favicon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6803,
+      "sha256": "0b8afbd0650bdb4848cd51a32988a531ecda1bc6cb114706b037a9f1094486f3",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/calarts/logo-1.webp",
+      "source_url": "https://calarts.edu/sites/default/files/2025-01/Screenshot-2025-01-27-at-11.09.39%E2%80%AFAM_0.jpg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div home-header-overlay absolute inset-0 overflow-hidden [&_:not(.visually-hidden)]:h-full [&_:not(.visually-hidden)]:w-full [&_img]:object-cover data-[video-started]:opacity-0 data-[video-started]:invisible transition-[opacity,visi",
+      "content_type": "image/webp",
+      "bytes": 434346,
+      "sha256": "b4c5aa9bf4f0628c914b29e3884eafc20d07f4bd2cb7f832a2d59ece4329b219",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/calarts/logo-1.webp",
+      "source_url": "https://calarts.edu/sites/default/files/2025-01/Screenshot-2025-01-27-at-11.09.39%E2%80%AFAM_0.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div home-header-overlay absolute inset-0 overflow-hidden [&_:not(.visually-hidden)]:h-full [&_:not(.visually-hidden)]:w-full [&_img]:object-cover data-[video-started]:opacity-0 data-[video-started]:invisible transition-[opacity,visi",
+      "content_type": "image/webp",
+      "bytes": 434346,
+      "sha256": "b4c5aa9bf4f0628c914b29e3884eafc20d07f4bd2cb7f832a2d59ece4329b219",
+      "width": 1600,
+      "height": 900,
+      "reused_from": "logo"
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/calarts/banner-2.webp",
+      "source_url": "https://calarts.edu/sites/default/files/styles/800x600/public/24700/fine-cut.jpeg.webp?h=11324c79&itok=OQkbxrJr",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a relative block max-w-max img-cover [&_img]:!w-auto [&_img]:!max-w-full h-[calc(266rem/16)] after:absolute after:inset-0 hover:after:bg-black/10 after:transition-colors div flex flex-col-reverse gap-4 section li",
+      "content_type": "image/webp",
+      "bytes": 60038,
+      "sha256": "0c2ee8c432f8fbcfae216652acbc3e07b1019564357d0f4887baf816a1712ad9",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/calarts/reference-1.svg",
+      "source_url": "https://calarts.edu/sites/default/files/2024-05/footer-3.svg",
+      "source_tag": "inline-background-image",
+      "context": "div  absolute inset-0 z-10 mask-custom bg-[#002281] mask-cover [mask-position:top] --tw-mask-image: url('/sites/default/files/2024-05/footer-3.svg');",
+      "content_type": "image/svg+xml",
+      "bytes": 95153,
+      "sha256": "1acf4786adec1a22eeac0ed7402ff81150dc958a09555264205b22ec4b0a43b8",
+      "width": 1520,
+      "height": 722
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/calarts/reference-2.svg",
+      "source_url": "https://calarts.edu/sites/default/files/2024-05/footer-2.svg",
+      "source_tag": "inline-background-image",
+      "context": "div  absolute inset-0 mask-custom mask-cover bg-[#002281] --tw-mask-image: url('/sites/default/files/2024-05/footer-2.svg');",
+      "content_type": "image/svg+xml",
+      "bytes": 33483,
+      "sha256": "a62f845e9d57647ab6cafdc81b70414e311608cfe04c8ea17e27737766f7c6c6",
+      "width": 1520,
+      "height": 722
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/calarts/reference-3.webp",
+      "source_url": "https://calarts.edu/sites/default/files/styles/800x600/public/24700/emajendat-FINAL.jpg.webp?h=c1951ccf&itok=DgK0pVyL",
+      "source_tag": "picture:page-image",
+      "context": "picture a relative block max-w-max img-cover [&_img]:!w-auto [&_img]:!max-w-full h-[calc(266rem/16)] after:absolute after:inset-0 hover:after:bg-black/10 after:transition-colors div flex flex-col-reverse gap-4 section li",
+      "content_type": "image/webp",
+      "bytes": 121534,
+      "sha256": "829db79e20d57f613f2c826d1b4e4fba28350f4ba9814a932d8bba8da41b89da",
+      "width": 800,
+      "height": 600
+    }
+  ]
+}

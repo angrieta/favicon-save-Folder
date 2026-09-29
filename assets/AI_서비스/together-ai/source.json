@@ -1,0 +1,70 @@
+{
+  "company": "Together AI",
+  "category": "AI_서비스",
+  "requested_url": "https://www.together.ai",
+  "page_url": "https://www.together.ai/",
+  "page_title": "Together AI | The AI Native Cloud",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg; reference:HTTPError:https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg; reference:ValueError:https://cdn.intellimize.co/snippet/117655561.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/together-ai/favicon.png",
+      "source_url": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a59cff65ed0f267dd2fbe8_touchicon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3982,
+      "sha256": "eaa6f5bd54f1dc2fcdf6a66678a252f84766d08209b83e577b3dc2006470e3e9",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/together-ai/og.webp",
+      "source_url": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a49f86fc70648ca04854f6_OG-image-home.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 16678,
+      "sha256": "6a185c5281038c9f8943ecc8baa185e0b2e2e2fad7323b1caee9af9475f4dacd",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/together-ai/logo-1.png",
+      "source_url": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69aaa5310313790ada6393ec_together-ai-logo.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 11037,
+      "sha256": "3d5a9a8ef57d4c23d9194fda8611874ed13939ed4db8056e54f4994bd4900e28",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/together-ai/logo-2.svg",
+      "source_url": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/69654e88dce9154b5f121373_zoom_black.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img hp-hero_collection-logo div opacity-40 div hp-hero_collection-item w-dyn-item div hp-hero_collection-list w-dyn-items div hp-hero_collection-wrap w-dyn-list",
+      "content_type": "image/svg+xml",
+      "bytes": 4051,
+      "sha256": "cabc8346a0ab1cea406c4bd836856a6cc46979572fd6815cdd019cb57c2da13b",
+      "width": 103,
+      "height": 120,
+      "source_sha256": "e760a0052bea303533e621a3f07c4360af2bc0c0ed8b9ceebbf7b21628d58515"
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/together-ai/banner-1.webp",
+      "source_url": "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/6998eccd487ac54f69b05526_8ecdc2d7ae296951570e8aa976208fe6_hp-hero_mobile.avif",
+      "source_tag": "img:semantic-banner",
+      "context": "img img-cover is-mobile Abstract 3D shapes including a red hexagon, a light blue circular disc with a notch, and a translucent blue propeller-like form. div hp-hero_visual div hp-hero_top div hp-hero_wrap div container-large",
+      "content_type": "image/webp",
+      "bytes": 33074,
+      "sha256": "0d59080848afeeb044b36eceb99413f038df1f7858babe58d323be983cfc9d5d",
+      "width": 1544,
+      "height": 1176
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "company": "Amplitude",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://amplitude.com/",
+  "page_url": "https://amplitude.com/ko-kr",
+  "page_title": "Amplitude | 프로덕트 분석 및 이벤트 추적 플랫폼",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://amplitude.com/_next/static/media/98e207f02528a563-s.p.woff2; reference:ValueError:https://amplitude.com/_next/static/media/b7ea2ab4a8ad1f81-s.p.woff2; reference:ValueError:https://amplitude.com/_next/static/media/d3ebbfd689654d3a-s.p.woff2; reference:ValueError:https://amplitude.com/_next/static/media/db96af6b531dc71f-s.p.woff2; reference:ValueError:https://amplitude.com/_next/static/media/e4af272ccee01ff0-s.p.woff2; reference:ValueError:https://amplitude.com/_next/static/media/ec44863ab2f120df-s.p.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/amplitude/favicon.png",
+      "source_url": "https://amplitude.com/nextjs-public/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9102,
+      "sha256": "1c3dea2b3fa5dc31c92811998e944c3b7906345d40a102aa12017ba09fc40a57",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/amplitude/og.webp",
+      "source_url": "https://amplitude.com/nextjs-public/amplitude-default-seo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9248,
+      "sha256": "c85ecc349c577e86ea8ab4bf5bcb06d5b71b7f2f32f31e3b4224e843eac79fe3",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/amplitude/og.webp",
+      "source_url": "https://amplitude.com/nextjs-public/amplitude-default-seo.png",
+      "source_tag": "json-ld.publisher.logo.url",
+      "content_type": "image/webp",
+      "bytes": 9248,
+      "sha256": "c85ecc349c577e86ea8ab4bf5bcb06d5b71b7f2f32f31e3b4224e843eac79fe3",
+      "width": 1200,
+      "height": 628,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/amplitude/logo-2.svg",
+      "source_url": "https://cdn.sanity.io/images/l5rq9j6r/production/b25963300ac2dc4c703c52f6e3dce25434d05ad6-29x28.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-auto h-[28px] object-contain Accolade logo div flex justify-center items-center div flex flex-row items-center gap-2 div div hidden md:flex flex-row items-center gap-12",
+      "content_type": "image/svg+xml",
+      "bytes": 1608,
+      "sha256": "cd70e615326566cdce18091d3279aaee2e4a7e8c07cd0ec4ea355ea14f6a3ef2",
+      "width": 29,
+      "height": 28,
+      "source_sha256": "37c6c67c2e7e3f9bb3951d3e83bfb58d0a9a72b77a62c02e04b083e5281db082"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/amplitude/reference-1.webp",
+      "source_url": "https://amplitude.com/_next/static/media/dark-accent.b6286561.png",
+      "source_tag": "inline-background-image",
+      "context": "div  absolute inset-0 w-full h-full bg-cover bg-center background-image:url(/_next/static/media/dark-accent.b6286561.png)",
+      "content_type": "image/webp",
+      "bytes": 11326,
+      "sha256": "fbcdb1f73ac0dd9d5eb5b413189c6e9436441cc1e797dd83c921abe5c19b7a50",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/amplitude/reference-2.webp",
+      "source_url": "https://amplitude.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F7ad5be352a9b7c7b3e5ff78e6bdc61b6f4b22e39-2240x1260.png%3Ffp-x%3D0.5%26fp-y%3D0.5%26w%3D2240%26h%3D1260%26q%3D85%26fit%3Dcrop%26crop%3Dfocalpoint%26auto%3Dformat&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img Amplitude 홈페이지 noscript span div relative overflow-clip opacity-[0.01] div w-full mt-11 mx-auto md:max-w-[1120px] md:mt-[60px] md:mx-0 rounded-xl md:rounded-[32px] overflow-hidden transition-opacity duration-300 opacity-0 md:shadow-none",
+      "content_type": "image/webp",
+      "bytes": 32052,
+      "sha256": "40b7f0f470795cddf5c69771415ca263b6e085b35f2a74ce717e575236818446",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "10744131a839a016c48ce49924f8263d890f4a200afeab850816827c4b944f17"
+    }
+  ]
+}

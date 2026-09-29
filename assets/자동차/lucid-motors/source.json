@@ -1,0 +1,71 @@
+{
+  "company": "Lucid Motors",
+  "category": "자동차",
+  "requested_url": "https://lucidmotors.com/",
+  "page_url": "https://lucidmotors.com/",
+  "page_title": "Home | Lucid Motors",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://lucidmotors.com/fonts/Serif/Lucid-Serif-VF.woff2; reference:ValueError:https://lucidmotors.com/_next/static/chunks/webpack-a70e37c13edc5540.js; reference:ValueError:https://cdn.optimizely.com/js/4942072910708736.js; reference:ValueError:https://cdn.cookielaw.org/scripttemplates/otSDKStub.js; reference:HTTPError:https://www.googletagmanager.com/gtm.js?id=GTM-W9CKZJ>m_auth=OcDGx7g4rvpwfYGPDufp2A>m_preview=env-2>m_cookies_win=x",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/lucid-motors/favicon.png",
+      "source_url": "https://lucidmotors.com/android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 754,
+      "sha256": "fa9d25ba685a9567c89d6a71f4630ef343802d4998cdddd9accf14468d8230ef",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/lucid-motors/og.webp",
+      "source_url": "https://images.ctfassets.net/5ky6szwjj7ya/39Qn4c41b6UUppB4yXLrjr/d4013d3d64a15b588c2eb822301bbed0/lucid-motors-home-og.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 69168,
+      "sha256": "fb509a3c2bdd0f88319b8960ca06fdecb16bedb5f5c343b4947c02602c56dd26",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/lucid-motors/banner-1.webp",
+      "source_url": "https://images.ctfassets.net/5ky6szwjj7ya/qFB7mbu2agjGhJ9xxFOt4/51cb98a79d4e1f5f1e4036cf9c82cd16/lucid-motors-home-lucid-gravity-desktop-hero-01.webp?q=50",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div Image_imageContainer__jG2gJ div AspectRatio_content__SWTIZ div AspectRatio_container__OgkeV AspectRatio_sixteenByNine__uu_k7 AspectRatio_responsive__A0fX0 _aspectRatio div Media_container__Y7Q5j Media_isLanding__1FMfv",
+      "content_type": "image/webp",
+      "bytes": 106222,
+      "sha256": "67c815888bdad65049becff738d0056e788be7dd98bb4245c8c9a87d4a393984",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "9232e5239e8c8cad62bc9660bc4aabe4953c124cef177a38eee8688121e7f553"
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/lucid-motors/banner-2.webp",
+      "source_url": "https://images.ctfassets.net/5ky6szwjj7ya/70j7A2hrctNWcflfJEIddQ/7f5c25de5a675cb0ca169b8ecb7660b5/lucid-motors-home-lucid-gravity-tablet-hero-01.webp?q=50",
+      "source_tag": "source:semantic-banner",
+      "context": "source picture div Image_imageContainer__jG2gJ div AspectRatio_content__SWTIZ div AspectRatio_container__OgkeV AspectRatio_sixteenByNine__uu_k7 AspectRatio_responsive__A0fX0 _aspectRatio",
+      "content_type": "image/webp",
+      "bytes": 133276,
+      "sha256": "1921e121096a4a69aa7959333333cc546d4bb2d0ef721965ff15f056bc7446fa",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "fa8f1cc33a2df357307fce635dee0905ca1575607699681bd9e1a1faba72e77e"
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/lucid-motors/reference-1.webp",
+      "source_url": "https://lucidmotors.com/media/image/main-nav/lucid-motors-navigation-lucid-air-pure-desktop.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div Image_imageContainer__jG2gJ Image_rounded__Peeo3 div AspectRatio_content__SWTIZ div AspectRatio_container__OgkeV AspectRatio_fourByThree__MH2Hk AspectRatio_responsive__A0fX0 NavCard_cardImage__LC20t_aspectRatio div NavCard_cardI",
+      "content_type": "image/webp",
+      "bytes": 20560,
+      "sha256": "30e71a15a7cbd5f87d8d8eb0e187e50d892901ebcbd8d88ffa2feb4ede7c6da4",
+      "width": 424,
+      "height": 424
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "company": "Wealthsimple",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.wealthsimple.com/",
+  "page_url": "https://www.wealthsimple.com/en-ca",
+  "page_title": "Wealthsimple | More is more",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://www.wealthsimple.com/fit=scale-down/https:/images.ctfassets.net/v44fuld738we/77OGT7zCpzOORP4kHnRJqa/6f4db729f44329891fccb0fa9b1262ad/credit-card-d-product-hero.png; banner:HTTPError:https://www.wealthsimple.com/fit=scale-down/https:/images.ctfassets.net/v44fuld738we/MO5MRwBvu651f2PiLWt0n/d7dbc6ad70041151a57379811ada3bd1/credit-card-m-product-hero.jpg; reference:HTTPError:https://www.wealthsimple.com/fit=scale-down/https:/images.ctfassets.net/v44fuld738we/ATWhPY3RE9lLuRg3msa7j/1ee58418afbe22eb6d27f7e00773d9ad/Condo-Homepage-D.jpg; reference:HTTPError:https://www.wealthsimple.com/fit=scale-down/https:/images.ctfassets.net/v44fuld738we/01tM7h6E70K48v7Gu4Zejx/7e4a126cb6325431b73909fd747c663c/Condo-Homepage-M.jpg; reference:ValueError:https://videos.ctfassets.net/v44fuld738we/43nAJWVTpX4kw0OCPQhy5H/49f3a27ef46f5e0a4a73da42a451d23b/chequing-desktopBackground-video-h265-en-CA.mp4; reference:ValueError:https://videos.ctfassets.net/v44fuld738we/2rQU3T6ZKCBVOHzEp59QgR/8124ee5bbd665767de36f93d9370ca45/chequing-desktopBackground-video-en-CA.webm",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/wealthsimple/favicon.png",
+      "source_url": "https://www.wealthsimple.com/icon1.png?39b8825bd6a1a38d",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2481,
+      "sha256": "d2c243eef2764b2c302b652b7ea5e11f193feee1cfbb1ef30a645760e988e777",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/wealthsimple/og.webp",
+      "source_url": "https://www.wealthsimple.com/cdn-cgi/image/format=auto,quality=75,width=1200,fit=scale-down/https:/images.ctfassets.net/v44fuld738we/1GC3xyCGopxSUKLI0l3Ll8/c555117f54e26d34a1b4332f19d7ff6b/Meta_EN.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21622,
+      "sha256": "c34b01a27401858eedf568d0b12dbf5cedf4ec606b8223ddf30145cb79afa1be",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/wealthsimple/logo-1.svg",
+      "source_url": "https://www.wealthsimple.com/build-assets/_next/static/media/ws-wordmark-refresh.48a6eb42.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Logo_logo___jthE9 Header_logo___1CC0V Wealthsimple - home page a Header_wordMarkLink___K_YRu div Header_headerLeftContent___OqQrO div Header_logoContainer___JXy1g header Header_header___2XKcr",
+      "content_type": "image/svg+xml",
+      "bytes": 4862,
+      "sha256": "8bfd3e8eebbf5fdbf39b2864d85c419be29767e2d1c7b8aca2d7f9354ec1e3d0",
+      "width": 1798,
+      "height": 296,
+      "source_sha256": "04da2aea54e123ac4f4ff3f5c7f609035ac89b9dc0673d43f04522bc82792f14"
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/wealthsimple/banner-1.webp",
+      "source_url": "https://www.wealthsimple.com/cdn-cgi/image/format=auto,quality=90,width=3072,fit=scale-down/https://images.ctfassets.net/v44fuld738we/77OGT7zCpzOORP4kHnRJqa/6f4db729f44329891fccb0fa9b1262ad/credit-card-d-product-hero.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img Media__image Media_mediaImage___pZGcd The metal Wealthsimple Visa Infinite Privilege card. div mediaAssetWrapper div Media Media_media___iUEJQ Media--controls-active div ProductHero_asset___PCqdI div ProductHero_backgroundMedia___7CF5t",
+      "content_type": "image/webp",
+      "bytes": 28596,
+      "sha256": "62450e936ce9b08642d535503d359759ba50f1521992cbeee0611159f6c4eaaf",
+      "width": 1800,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/wealthsimple/reference-1.webp",
+      "source_url": "https://www.wealthsimple.com/cdn-cgi/image/format=auto,quality=90,width=3072,fit=scale-down/https://images.ctfassets.net/v44fuld738we/ATWhPY3RE9lLuRg3msa7j/1ee58418afbe22eb6d27f7e00773d9ad/Condo-Homepage-D.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Media__image Media_mediaImage___pZGcd div mediaAssetWrapper div Media Media_media___iUEJQ Media--controls-active div ProductHero_asset___PCqdI div ProductHero_backgroundMedia___7CF5t",
+      "content_type": "image/webp",
+      "bytes": 143402,
+      "sha256": "8f259c8055a85b21ba0a75318c3ca4bd8678362f88f7d1209b95e128671c3c16",
+      "width": 1600,
+      "height": 1138,
+      "source_sha256": "2d4b50e57e2dac1da21de04d7549d6ddec232778de8f9a2cd639b15ae9467e8c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/wealthsimple/reference-2.webp",
+      "source_url": "https://www.wealthsimple.com/cdn-cgi/image/format=auto,quality=90,width=3072,fit=scale-down/https://images.ctfassets.net/v44fuld738we/01tM7h6E70K48v7Gu4Zejx/7e4a126cb6325431b73909fd747c663c/Condo-Homepage-M.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Media__image Media_mediaImage___pZGcd div mediaAssetWrapper div Media Media_media___iUEJQ Media--controls-active div ProductHero_mobileAsset___rt_LX div ProductHero_backgroundMedia___7CF5t",
+      "content_type": "image/webp",
+      "bytes": 104974,
+      "sha256": "fd5e80f9e766ad2ef65baf1781d8f4d11163e02e9c8d2cfd2b3266aee62fe474",
+      "width": 624,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/wealthsimple/reference-3.webp",
+      "source_url": "https://www.wealthsimple.com/cdn-cgi/image/format=auto,quality=90,width=3072,fit=scale-down/https://images.ctfassets.net/v44fuld738we/12RDysMR3o3gYd4d0B27Py/66680e87c674f0b6bd53a00a476eede7/chequing-desktopBackground-video-en-CA.webp",
+      "source_tag": "img:page-image",
+      "context": "img Media__image Media_mediaImage___pZGcd A phone displaying UI of Wealthsimple's app, displaying how much you're spending, saving, and investing. div mediaAssetWrapper Media_videoPriority___Bx9u0 div Media Media_media___iUEJQ Media--contro",
+      "content_type": "image/webp",
+      "bytes": 37826,
+      "sha256": "5f67d1db41d926367aa34c0eb4b60e77897d1deed316457f74dcf99502eedc9d",
+      "width": 1800,
+      "height": 1280
+    }
+  ]
+}

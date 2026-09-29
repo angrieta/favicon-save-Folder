@@ -1,0 +1,70 @@
+{
+  "company": "워커힐",
+  "category": "항공_여행",
+  "requested_url": "https://www.walkerhill.com/",
+  "page_url": "https://www.walkerhill.com/",
+  "page_title": "워커힐 호텔 | WALKERHILL HOTELS & RESORTS",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/walkerhill/favicon.png",
+      "source_url": "https://www.walkerhill.com/assets/global/favicon/hub/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3831,
+      "sha256": "5ef4921458fc81f2a6df8e88b9ea893d315d527737fa5c7628566a7e9f0ae287",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/walkerhill/og.webp",
+      "source_url": "https://www.walkerhill.com/assets/hub/global/images/etc/walkerhill_ozimg.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3592,
+      "sha256": "5160869b5e1212460833f37af38fb2e89b9682793836939f77233cf191ddd9cd",
+      "width": 764,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/walkerhill/reference-1.webp",
+      "source_url": "https://www.walkerhill.com/upload/image/banner/1361/13175.jpg",
+      "source_tag": "json-ld.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 100240,
+      "sha256": "e00d4a5759e08b594c6d02ad5cc5cf5261f0a1ac35bad38503a73f93fcf3ec79",
+      "width": 1600,
+      "height": 817,
+      "source_sha256": "8510bbac8a8f9733614e411607cf018761fd250e92a0d521fcd027ceec717785"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/walkerhill/reference-2.webp",
+      "source_url": "https://www.walkerhill.com/assets/hub/global/images/etc/idx_familyVista.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 비스타 워커힐 서울 figure dd dl section family",
+      "content_type": "image/webp",
+      "bytes": 56542,
+      "sha256": "679d951dc4a4a5eaba2386759253cae796ed6054a5a4da1a144adeae7f0be53b",
+      "width": 1800,
+      "height": 488
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/walkerhill/reference-3.webp",
+      "source_url": "https://www.walkerhill.com/assets/hub/global/images/etc/idx_familyGrand.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 그랜드 워커힐 서울 figure dd dl section family",
+      "content_type": "image/webp",
+      "bytes": 92590,
+      "sha256": "f82de97e2fe1b56ca642969ef60f6ef65fdc8f2c3d97a6c70fff1250a65b439e",
+      "width": 1800,
+      "height": 488
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "company": "Danone",
+  "category": "식품_생활",
+  "requested_url": "https://www.danone.com/",
+  "page_url": "https://www.danone.com/",
+  "page_title": "Danone: World food company | Danone Group",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://smartmedia.digital4danone.com/is/image/danonecs/DIJ-PR-cover?qlt=82&ts=1776180176325&fit=wrap&dpr=off; banner:HTTPError:https://smartmedia.digital4danone.com/is/image/danonecs/pr-b-corp-full-certification-visual?qlt=82&ts=1764081440598&fit=wrap&dpr=off",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/danone/favicon.ico",
+      "source_url": "https://www.danone.com/content/dam/corp/global/danonecom/danone-renew/assets/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "be727ad99591532a8692d632d4779e9812aaf8f2ce9f9be638f2323d840cb9ef",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/danone/logo-1.png",
+      "source_url": "https://www.danone.com/content/dam/corp/global/danonecom/danone-renew/logo/logo-danone_website-desktop.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img p div text-a9ee36dcd2 cmp-text div text header__logo div header cmp-container",
+      "content_type": "image/png",
+      "bytes": 13619,
+      "sha256": "aec3e291916e0688572564e79592e85bb3e55ed274685faefa11c08dffa80ce3",
+      "width": 177,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/danone/logo-2.webp",
+      "source_url": "https://smartmedia.digital4danone.com/is/image/danonecs/Danone_Logo_RGB_Primary_Watercolor%20(2)",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 67852,
+      "sha256": "a171e1297d169af8fabb4fc32ac0c79f1d27220a30486d2e018443a07b46634d",
+      "width": 1152,
+      "height": 1280
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/danone/banner-1.webp",
+      "source_url": "https://smartmedia.digital4danone.com/is/image/danonecs/pr-b-corp-full-certification-visual?qlt=82&wid=1600&ts=1764081440598&fit=wrap&dpr=off",
+      "source_tag": "img:semantic-banner",
+      "context": "img cmp-image__image div image-267c149e40 cmp-image figure cmp-image div cmp-teaser__image div cmp-teaser teaser-text",
+      "content_type": "image/webp",
+      "bytes": 85566,
+      "sha256": "9caa23d606a406774fdd34fcf54a1c0af8c5ff007e73bf33fdb4a50c3c5e684e",
+      "width": 945,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/danone/reference-1.webp",
+      "source_url": "https://smartmedia.digital4danone.com/is/image/danonecs/cocobella-header?qlt=82&ts=1782075688107&dpr=off",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image cocobella-header div image-f86361df34 cmp-image figure cmp-image div cmp-teaser__image div cmp-teaser teaser-text",
+      "content_type": "image/webp",
+      "bytes": 69054,
+      "sha256": "136f72809518b639edf37ea5ce1af217cf29e31742d47ee87c84b6c850aa3b5b",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/danone/reference-2.webp",
+      "source_url": "https://smartmedia.digital4danone.com/is/image/danonecs/cocobella-header?qlt=82&wid=1600&ts=1782075688107&dpr=off",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image cocobella-header div image-f86361df34 cmp-image figure cmp-image div cmp-teaser__image div cmp-teaser teaser-text",
+      "content_type": "image/webp",
+      "bytes": 93188,
+      "sha256": "134859b3c369b1679f2c96778ec773c31206bcb9d767bd28aae449f06539fb82",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/danone/reference-3.webp",
+      "source_url": "https://smartmedia.digital4danone.com/is/image/danonecs/cocobella-header?qlt=82&wid=1200&ts=1782075688107&dpr=off",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image cocobella-header div image-f86361df34 cmp-image figure cmp-image div cmp-teaser__image div cmp-teaser teaser-text",
+      "content_type": "image/webp",
+      "bytes": 68604,
+      "sha256": "7c5b332af71385fb88d3b777ad7f031928d7169231b85b0fec87da47f518e654",
+      "width": 1200,
+      "height": 675
+    }
+  ]
+}

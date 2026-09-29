@@ -1,0 +1,72 @@
+{
+  "company": "NHN KCP",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.kcp.co.kr/",
+  "page_url": "https://www.kcp.co.kr/",
+  "page_title": "NHN KCP",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.kcp.co.kr/_nuxt/127e0ae.js; reference:ValueError:https://www.kcp.co.kr/_nuxt/f9c47ac.js; reference:ValueError:https://www.kcp.co.kr/_nuxt/a94c6b9.js; reference:ValueError:https://www.kcp.co.kr/_nuxt/359d890.js; reference:ValueError:https://www.kcp.co.kr/_nuxt/79dbfbe.js; reference:ValueError:https://www.kcp.co.kr/_nuxt/e7b7971.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/nhn-kcp/favicon.png",
+      "source_url": "https://www.kcp.co.kr/favicon_kcp.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 962,
+      "sha256": "aafd84cacda3a4c2fbb50eb7c8ed7d30e6a92f9cf989d6a2cf8511281341e2aa",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/nhn-kcp/logo-1.svg",
+      "source_url": "https://www.kcp.co.kr/_nuxt/img/icon_logo.7b1a1c0.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo a header-logo nuxt-link-exact-active nuxt-link-active div header-wrap div header-background header active",
+      "content_type": "image/svg+xml",
+      "bytes": 2373,
+      "sha256": "d665e1d61043b179de5e7e991ae59f2dbb172f8e95d135094a8454137447960d",
+      "width": 121,
+      "height": 22,
+      "source_sha256": "dcd6f5836cf16f8f019d08789ab38667030bb7bb809f05b4d33ebed8c739a64d"
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/nhn-kcp/banner-1.webp",
+      "source_url": "https://cdn.kcp.co.kr/support/homepage/images/main/visual_section_12.png",
+      "source_tag": "style-background-image",
+      "context": " 0 140px}.main-section-11{background-color:#fff;height:auto;display:flex;align-items:center;border-top:1px solid #dcdcdc}.main-section-12{background-color:#e8ecef;background-image:url(https://cdn.kcp.co.kr/support/homepage/images/main/visua",
+      "content_type": "image/webp",
+      "bytes": 11618,
+      "sha256": "0e2cc1d7b481f60be5e6639802d3c80a30f74f3f362c0a663b5f1d536b3160e9",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/nhn-kcp/banner-2.webp",
+      "source_url": "https://cdn.kcp.co.kr/support/homepage/images/employment/hero_background.png",
+      "source_tag": "style-background-image",
+      "context": "loyment-hero.type-gray{background-color:#f1f3f5}.employment-hero.type-gray h2{color:#212529}.employment-hero.type-gray p{color:#2196f3}.employment-hero.background{background-image:url(https://cdn.kcp.co.kr/support/homepage/images/employment",
+      "content_type": "image/webp",
+      "bytes": 17424,
+      "sha256": "aad4e447c95eb2c6b3c6245abeab3ea8728d93ef6db338fcb3c3bd3b9ee397af",
+      "width": 1800,
+      "height": 502
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/nhn-kcp/reference-1.webp",
+      "source_url": "https://cdn.kcp.co.kr/support/homepage/images/main/paymentSlider_00.png",
+      "source_tag": "img:page-image",
+      "context": "img graphic-background 스마트폰 목업 div graphic-area div swiper-slide animation-01 div swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 159196,
+      "sha256": "5284b436f03b2295cfae53965f9939b769024334a15d3c32ac6dda05b3b94ab8",
+      "width": 818,
+      "height": 1350,
+      "source_sha256": "2e5a89a717c06a7869acc1db41568721a9a91eef34dc99f786b0f211d7931a3b"
+    }
+  ]
+}

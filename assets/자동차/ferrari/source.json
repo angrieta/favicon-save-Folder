@@ -1,0 +1,33 @@
+{
+  "company": "Ferrari",
+  "category": "자동차",
+  "requested_url": "https://www.ferrari.com/ko-KR",
+  "page_url": "https://www.ferrari.com/ko-KR",
+  "page_title": "페라리 공식 웹사이트",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/ferrari/favicon.png",
+      "source_url": "https://ferrari.scene7.com/is/image/ferraristage/favicon_256x256?fmt=png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2846,
+      "sha256": "a5bd922d6e37acbde2dc47bfb27fed17c62d29fbd61815dec0137b922113b84c",
+      "width": 256,
+      "height": 135
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/ferrari/og.webp",
+      "source_url": "https://ferrari.scene7.com/is/image/ferrari/672cc53db6f3320011b98384-share-card-generic-2",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7804,
+      "sha256": "45464bac19b1ec2349f826e72a104381215f876fdfe29ba73d4e8e647dc79a95",
+      "width": 1200,
+      "height": 675
+    }
+  ]
+}

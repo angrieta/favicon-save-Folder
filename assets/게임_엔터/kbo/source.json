@@ -1,0 +1,33 @@
+{
+  "company": "KBO",
+  "category": "게임_엔터",
+  "requested_url": "https://www.koreabaseball.com/",
+  "page_url": "https://www.koreabaseball.com/",
+  "page_title": "메인 | KBO",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/KBOHome/resources/images/etc/bannerImg1.png; reference:HTTPError:https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/KBOHome/resources/images/etc/bannerImg1.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/kbo/favicon.ico",
+      "source_url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/KBOHome/resources/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "3bcee86cf764d6a0984380636322d96aafe8c3b48d1374eb6dd199715fab685f",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/kbo/og.webp",
+      "source_url": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/KBOHome/resources/images/common/open_graph_kbo_2022.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9342,
+      "sha256": "f59b42ded034a4efb34fd279c15a9d2f360f7afe552291a17579dc12184f1e7a",
+      "width": 501,
+      "height": 501
+    }
+  ]
+}

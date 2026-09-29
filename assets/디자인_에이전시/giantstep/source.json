@@ -1,0 +1,82 @@
+{
+  "company": "자이언트스텝",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.giantstep.co.kr/",
+  "page_url": "https://www.giantstep.co.kr/",
+  "page_title": "GIANTSTEP",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.giantstep.co.kr/attach_files/bbs/data_movie_20220316151657.mp4; reference:ValueError:https://www.giantstep.co.kr/attach_files/bbs/data_movie_20220316151657.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/giantstep/favicon.png",
+      "source_url": "https://www.giantstep.co.kr/attach_files/bbs/data_2_20220228110535.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1521,
+      "sha256": "04d832dd00d6ebb3da7cfc3c23e143cfe03e9e30253ec2ebc4265bdf2a337ce9",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/giantstep/logo-1.svg",
+      "source_url": "https://www.giantstep.co.kr/@resource/images/com/giantstep.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo GIANTSTEP footer footer js-header-change div wrap wrap body html",
+      "content_type": "image/svg+xml",
+      "bytes": 1922,
+      "sha256": "6e68ac88bc74058e176dda22bbec6da557beb7854412dfc6402c8ddf196a3281",
+      "width": 368,
+      "height": 47
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/giantstep/logo-2.webp",
+      "source_url": "https://www.giantstep.co.kr/attach_files/bbs/data_1_20220426190622.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img img GIANTSTEP youtube div img-wrap a item sns div our-sns footer footer js-header-change",
+      "content_type": "image/webp",
+      "bytes": 54692,
+      "sha256": "aac80fd973e77d6f9fa99ccfa8bde27ffb8004b25c3ff9bb1435a973535aa0d8",
+      "width": 640,
+      "height": 250
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/giantstep/reference-1.webp",
+      "source_url": "https://www.giantstep.co.kr/attach_files/bbs/data_1_20260616184253.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img {Netflix : The Trauma Code Title} div img-wrap centered a item normal work li ul data-list col-4",
+      "content_type": "image/webp",
+      "bytes": 139950,
+      "sha256": "da0f2a9d9db890eea7b60607cef28f3707906c49c1d14f47ded15c5139aafd63",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/giantstep/reference-2.webp",
+      "source_url": "https://www.giantstep.co.kr/attach_files/bbs/data_1_20251215194431.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img {Netflix : The Echoes of Survivors Title} div img-wrap centered a item normal work li ul data-list col-4",
+      "content_type": "image/webp",
+      "bytes": 31944,
+      "sha256": "2b67cc6fd717a7635fb89617b70739079a65eb6fefafe66bae152b3d8ba6aedc",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/giantstep/reference-3.webp",
+      "source_url": "https://www.giantstep.co.kr/attach_files/bbs/data_1_20251203165638.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img {NC SOFT : BNS NEO} div img-wrap centered a item normal work li ul data-list col-4",
+      "content_type": "image/webp",
+      "bytes": 54212,
+      "sha256": "311dea73baf79a48bab4a1ed7eae78a2d003ea2c81f7e47519a0d89c63cd9149",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

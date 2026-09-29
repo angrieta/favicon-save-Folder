@@ -1,0 +1,94 @@
+{
+  "company": "Club Med",
+  "category": "항공_여행",
+  "requested_url": "https://www.clubmed.co.kr/",
+  "page_url": "https://www.clubmed.co.kr/",
+  "page_title": "클럽메드 - 프리미엄 올 인클루시브 리조트",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/club-med/favicon.ico",
+      "source_url": "https://www.clubmed.co.kr/favicon-dark.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 93062,
+      "sha256": "0c1c62dfae508a7494ec08dab3780feaf320052a4a9b238d66baffc41c851c2d",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/club-med/og.webp",
+      "source_url": "https://assets.dream.clubmed/pm_7531_705_705124-pvmn2r1am3-swhr.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 102836,
+      "sha256": "a36d6c900c8b8c8e83a486180358c7355b498945e1bf7176b8d2b1f0705b2a29",
+      "width": 1200,
+      "height": 1200,
+      "source_sha256": "cd7b13c4f51939eb5fb623d81120e9ed67b9d6ce0f8676be87c60c34e81f5211"
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/club-med/banner-1.webp",
+      "source_url": "https://production.media.dcx.clubmed/?url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_959_959028-l08hrhvay0-swhr.jpg&format=webp&width=2880&height=760&quality=60",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture absolute inset-0 h-full w-full object-cover div absolute inset-0 h-full w-full parallax div relative isolate flex min-h-380 px-(--large-container-margin) py-20 div overflow-hidden transition-all duration-500 overflow-clip! text-whit",
+      "content_type": "image/webp",
+      "bytes": 95258,
+      "sha256": "700565b98cab72116ead04c7a88568a9cac6ac1636bb3189db1ae53bc18cd1b3",
+      "width": 1800,
+      "height": 475
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/club-med/banner-2.webp",
+      "source_url": "https://production.media.dcx.clubmed/?url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_959_959028-l08hrhvay0-swhr.jpg&format=webp&width=1440&height=380&quality=70",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture absolute inset-0 h-full w-full object-cover div absolute inset-0 h-full w-full parallax div relative isolate flex min-h-380 px-(--large-container-margin) py-20 div overflow-hidden transition-all duration-500 overflow-clip! text-whit",
+      "content_type": "image/webp",
+      "bytes": 55526,
+      "sha256": "b4482a048b0f98188e9e2e9e7d8527ef40ac0517ec36ec2db597343238cceb0e",
+      "width": 1440,
+      "height": 380
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/club-med/reference-1.webp",
+      "source_url": "https://production.media.dcx.clubmed/?url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_558_558425-pkwjaojykg-swhr.jpg&format=webp&width=860&height=760&quality=60",
+      "source_tag": "picture:page-image",
+      "context": "picture absolute inset-0 h-full w-full object-cover div absolute inset-0 h-full w-full parallax div relative isolate flex min-h-380 px-(--large-container-margin) py-20 div overflow-hidden transition-all duration-500 overflow-clip! text-whit",
+      "content_type": "image/webp",
+      "bytes": 113760,
+      "sha256": "6b0d1e520e88c860265cfb8f7c81a980bb47a31497698f326b3eaaa9fc6d58ef",
+      "width": 860,
+      "height": 760
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/club-med/reference-2.webp",
+      "source_url": "https://production.media.dcx.clubmed/?url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_558_558425-pkwjaojykg-swhr.jpg&format=webp&width=430&height=380&quality=70",
+      "source_tag": "picture:page-image",
+      "context": "picture absolute inset-0 h-full w-full object-cover div absolute inset-0 h-full w-full parallax div relative isolate flex min-h-380 px-(--large-container-margin) py-20 div overflow-hidden transition-all duration-500 overflow-clip! text-whit",
+      "content_type": "image/webp",
+      "bytes": 38562,
+      "sha256": "9b1137eddd73fd9b6a947cfeefc0cbb09fe45776decb67cc28a96c0e24eed0c6",
+      "width": 430,
+      "height": 380
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/club-med/reference-3.webp",
+      "source_url": "https://production.media.dcx.clubmed/?url=https%3A%2F%2Fassets.dream.clubmed%2Fpm_7531_557_557911-ils64fl5cb-swhr.jpg&format=webp&width=720&height=456&quality=50",
+      "source_tag": "inline-background-image",
+      "context": "a  bg-black text-white before:absolute before:inset-0 before:bg-black/40 before:-z-1 group aspect-horizontal rounded-16 relative isolate flex flex-col items-center gap-y-8 overflow-hidden bg-cover bg-center px-28 py-32 text-center mx-auto m",
+      "content_type": "image/webp",
+      "bytes": 66178,
+      "sha256": "5f04b73f89c174705d91d8c193751959cf9ff62745853a43715e6f9f31de48f3",
+      "width": 720,
+      "height": 456
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "company": "팔도",
+  "category": "식품_생활",
+  "requested_url": "https://www.paldofood.co.kr/",
+  "page_url": "https://www.paldofood.co.kr/",
+  "page_title": "팔도",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.paldofood.co.kr/skin/videos/paldo_big_main_20.mp4; reference:ValueError:https://www.paldofood.co.kr/skin/videos/paldo_big_main_20.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/paldo/favicon.png",
+      "source_url": "https://www.paldofood.co.kr/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6216,
+      "sha256": "2f68aa1d783de868903a7cfae296657ae51a977538971f28001cf35460094ff4",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/paldo/og.webp",
+      "source_url": "https://www.paldofood.co.kr/skin/images/og-default.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5656,
+      "sha256": "08783941f76585d4a2dabbf7cb9919226b8e9daeefb5e4800f98342f6daa8540",
+      "width": 600,
+      "height": 315
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/paldo/banner-1.webp",
+      "source_url": "https://www.paldofood.co.kr/data/banner/093444_mainbanner.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 아리 모던누들 a li ul bnr owl-carousel div grid",
+      "content_type": "image/webp",
+      "bytes": 53978,
+      "sha256": "1d6147ff33ff9e664b7385f6390ea0f69da579059f4f42ec9d215c86aea59e3e",
+      "width": 1200,
+      "height": 280
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/paldo/banner-2.webp",
+      "source_url": "https://www.paldofood.co.kr/data/banner/202424_mainbanner_teumsae.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 틈새라면 입문용 a li ul bnr owl-carousel div grid",
+      "content_type": "image/webp",
+      "bytes": 52914,
+      "sha256": "28bb09333300e84acf4de5083bcf22860e3db34c75ae54122fa2e351db302b98",
+      "width": 1200,
+      "height": 280
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/paldo/reference-1.webp",
+      "source_url": "https://www.paldofood.co.kr/skin/images/main/popup_250411.png",
+      "source_tag": "img:page-image",
+      "context": "img 팔각도 a div lay-mdl div mainPop lay collabo div wrap",
+      "content_type": "image/webp",
+      "bytes": 107118,
+      "sha256": "32c4ac994e4295c354982bb6cd11cb19b0186f98414b5ab5d10df73cf6b55de9",
+      "width": 600,
+      "height": 600
+    }
+  ]
+}

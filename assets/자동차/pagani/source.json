@@ -1,0 +1,106 @@
+{
+  "company": "Pagani",
+  "category": "자동차",
+  "requested_url": "https://www.pagani.com/",
+  "page_url": "https://www.pagani.com/",
+  "page_title": "Pagani",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://player.vimeo.com/external/203426743.hd.mp4?s=825e72d2892cdb1ee5430a5bac9b8ceb232610f7&profile_id=119",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/pagani/favicon.png",
+      "source_url": "https://www.pagani.com/app/uploads/2023/12/cropped-favicon-32x32-1-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4258,
+      "sha256": "1365773a3a3116d106ff05aba2179c10d7fec83587d2267cae64787cfc67f6fe",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/pagani/og.webp",
+      "source_url": "https://www.pagani.com/app/themes/pagani/assets/images/pagani.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 988,
+      "sha256": "beb2032c24d1f038b9cb59db40cff01a1b8e08089717b319c2f553601135ebbb",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/pagani/logo-1.png",
+      "source_url": "https://www.pagani.com/app/uploads/2024/07/Utopia-Roadster-WEB-Logo-1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img block__logo hp-logo div block__content js-reveal-content section hero-unit block block--hero-unit main content body home wp-singular page-template page-template-homepage page-template-homepage-php page page-id-12282 wp-theme-pagani",
+      "content_type": "image/png",
+      "bytes": 52282,
+      "sha256": "a769d23f461245fe0d5c8e9b7fe45b43391cbbb0f36fabc2090d9940d9a69d39",
+      "width": 950,
+      "height": 350
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/pagani/banner-1.webp",
+      "source_url": "https://www.pagani.com/app/uploads/2024/07/Pagani-Utopia-Roadster-Home-1330-x-750-px.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img block__background block__background--single responsive-picture section hero-unit block block--hero-unit main content body home wp-singular page-template page-template-homepage page-template-homepage-php page page-id-12282 wp-theme-pagan",
+      "content_type": "image/webp",
+      "bytes": 114798,
+      "sha256": "81eaa05b5603bd854f88fef7826a125d71207c88cf82eac3b39f67a6e97950e9",
+      "width": 1330,
+      "height": 750
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/pagani/logo-1.png",
+      "source_url": "https://www.pagani.com/app/uploads/2024/07/Utopia-Roadster-WEB-Logo-1.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img block__logo hp-logo div block__content js-reveal-content section hero-unit block block--hero-unit main content body home wp-singular page-template page-template-homepage page-template-homepage-php page page-id-12282 wp-theme-pagani",
+      "content_type": "image/png",
+      "bytes": 52282,
+      "sha256": "a769d23f461245fe0d5c8e9b7fe45b43391cbbb0f36fabc2090d9940d9a69d39",
+      "width": 950,
+      "height": 350,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/pagani/reference-1.webp",
+      "source_url": "https://www.pagani.com/app/uploads/2016/11/MIN-home-history-2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img block__background block__background--single responsive-picture section history block block--parent main content body home wp-singular page-template page-template-homepage page-template-homepage-php page page-id-12282 wp-theme-pagani htm",
+      "content_type": "image/webp",
+      "bytes": 7434,
+      "sha256": "7addfe85f4891be6475c8e93d12edb039dfbdf7f0fd3c4e919df5613cdbdb440",
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/pagani/reference-2.webp",
+      "source_url": "https://www.pagani.com/app/uploads/2016/11/MIN-01-past-intro.jpg",
+      "source_tag": "img:page-image",
+      "context": "img block__background block__background--video-cover responsive-picture section past-intro block block--child slide-in div past block block--children main content body home wp-singular page-template page-template-homepage page-template-home",
+      "content_type": "image/webp",
+      "bytes": 15594,
+      "sha256": "86edbaa0ae6d8a20bc479e6d5b28bb99ca0d4cc031a794c6fbb42b0c833970fd",
+      "width": 600,
+      "height": 944
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/pagani/reference-3.webp",
+      "source_url": "https://www.pagani.com/app/uploads/2016/11/02-la-sfida@05x-2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img block__background block__background--single responsive-picture section block block--child div past block block--children main content body home wp-singular page-template page-template-homepage page-template-homepage-php page page-id-122",
+      "content_type": "image/webp",
+      "bytes": 43132,
+      "sha256": "44c82eedb36328e6e323c3adecc1a30192c850c1bca158fa7aa2f207c0c61d02",
+      "width": 1440,
+      "height": 810
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "company": "Clerk",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://clerk.com/",
+  "page_url": "https://clerk.com/",
+  "page_title": "Clerk | Authentication and User Management",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/clerk/favicon.ico",
+      "source_url": "https://clerk.com/v2/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "8ce3a9bdb63ba1ae5db29521a2ebc78bd9400ac18230e7e531bd4bd3d7323898",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/clerk/og.webp",
+      "source_url": "https://clerk.com/opengraph-image.jpg?opengraph-image.17r31whircaqh.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 19146,
+      "sha256": "732e36f4e83e8cf87f0aa8fa1ca910ed9b865267714e77269cf809684494e0b9",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/clerk/logo-1.png",
+      "source_url": "https://clerk.com/v2/downloads/logotype-full-primary.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 69201,
+      "sha256": "c920b6c744c948f314d63234e8f41ceb63be196eb31f357a27470a1fca5755bc",
+      "width": 1600,
+      "height": 465
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/clerk/logo-2.png",
+      "source_url": "https://clerk.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcreate-organization_2x.3ve7_tftrlrg2.webp&w=3840&q=90",
+      "source_tag": "img:semantic-logo",
+      "context": "img shadow-[0_5px_15px_rgba(0,0,0,0.08),0_15px_35px_-5px_rgba(25,28,33,0.2)] ring-1 ring-gray-950/5 Clerk create organization component with input fields for logo, name, and slug. div relative isolate bg-white transition duration-500 w-full",
+      "content_type": "image/png",
+      "bytes": 93936,
+      "sha256": "178285e2259feeb0762e8007e15a76940fadc5beb6f3cde00362a4b468cb0ea0",
+      "width": 720,
+      "height": 876
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/clerk/reference-1.webp",
+      "source_url": "https://clerk.com/_next/static/immutable/media/circuit-lines@2xl.2ip7jpoupl_wt.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div absolute -top-8 right-1/2 sm:top-5 aspect-969/887 w-[969px] div absolute inset-0 -z-10 div pointer-events-none absolute inset-0 div relative isolate overflow-hidden bg-gray-50 -mt-16 pt-[calc(--spacing(16)_+_--spacing(20))] sm:p",
+      "content_type": "image/webp",
+      "bytes": 46350,
+      "sha256": "bde2e7659acbb0c1faef54167b231f0dc137eadbf02d63da01206c58cc4a6a5f",
+      "width": 1475,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/clerk/reference-2.webp",
+      "source_url": "https://clerk.com/_next/static/immutable/media/circuit-lines@2xr.3_gdr3hrtfml2.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div absolute -top-8 right-1/2 sm:top-5 aspect-969/887 w-[969px] div absolute inset-0 -z-10 div pointer-events-none absolute inset-0 div relative isolate overflow-hidden bg-gray-50 -mt-16 pt-[calc(--spacing(16)_+_--spacing(20))] sm:p",
+      "content_type": "image/webp",
+      "bytes": 46350,
+      "sha256": "bde2e7659acbb0c1faef54167b231f0dc137eadbf02d63da01206c58cc4a6a5f",
+      "width": 1475,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/clerk/reference-3.webp",
+      "source_url": "https://clerk.com/_next/static/immutable/media/circuit-components@2xl.20_i4au-7bjdf.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div absolute -top-8 right-1/2 sm:top-5 aspect-969/887 w-[969px] div absolute inset-0 -z-10 div pointer-events-none absolute inset-0 div relative isolate overflow-hidden bg-gray-50 -mt-16 pt-[calc(--spacing(16)_+_--spacing(20))] sm:p",
+      "content_type": "image/webp",
+      "bytes": 35928,
+      "sha256": "d41f9c05219daa7ad870cc15b4884cbaed61536f90a8f8dce717b6f539cf7fba",
+      "width": 1475,
+      "height": 1350
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "company": "Alo Yoga",
+  "category": "패션_의류",
+  "requested_url": "https://www.aloyoga.com/",
+  "page_url": "https://www.aloyoga.com/ko-kr",
+  "page_title": "ALO | Yoga leggings, clothes, and accessories for studio to street",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.aloyoga.com/cdn/shop/files/Pink_Marshmallow_MobileCategories_01_womens_{width}x.progressive.jpg?v=1786060000; reference:HTTPError:https://www.aloyoga.com/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==; reference:HTTPError:https://www.aloyoga.com/cdn/shop/files/JisooKRMobilecat_{width}x.progressive.png.jpg?v=1787159422; reference:HTTPError:https://www.aloyoga.com/cdn/shop/files/jisoo_footwear_{width}x.progressive.jpg?v=1790033729; reference:HTTPError:https://www.aloyoga.com/cdn/shop/files/navyaccoladecrewmobilecat_{width}x.progressive.png.jpg?v=1787694688",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/alo-yoga/favicon.png",
+      "source_url": "https://www.aloyoga.com/cdn/shop/t/5513/assets/android-icon-192x192.png?v=27760092443048076461790372391",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7056,
+      "sha256": "ecabfcebe87f27184feb106e75f95e7a686a9c587939b41e37ec9cae008853bb",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/alo-yoga/og.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/2185/2813/files/android-chrome-512x512.png?height=628&pad_color=fff&v=1613516115&width=1200",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5480,
+      "sha256": "4a584b42a8b658bc8610a679ee950aac37c0e2a1b0ee740fc7773bcdc3bb7d1d",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/alo-yoga/logo-1.webp",
+      "source_url": "https://www.aloyoga.com/cdn/shop/files/alo.png?v=795837176550273361",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 4162,
+      "sha256": "a1bb9c57d76a435a4fcc0a2de5acb5d44031d4311fe6951f46721ff58b557b4a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/alo-yoga/reference-1.webp",
+      "source_url": "https://www.aloyoga.com/cdn/shop/files/Pink_Marshmallow_MobileCategories_01_womens_2048x2048.progressive.jpg?v=1786060000",
+      "source_tag": "img:page-image",
+      "context": "img noscript a everyone div row div container-fluid",
+      "content_type": "image/webp",
+      "bytes": 19112,
+      "sha256": "6d8c4ef34105fb25b027e7851331de532b6be0bbf2c75f4575f0fa706eb278b7",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/alo-yoga/reference-2.webp",
+      "source_url": "https://www.aloyoga.com/cdn/shop/files/JisooKRMobilecat_2048x2048.progressive.png.jpg?v=1787159422",
+      "source_tag": "img:page-image",
+      "context": "img noscript a everyone div row div container-fluid",
+      "content_type": "image/webp",
+      "bytes": 53000,
+      "sha256": "8436738ec2f2d01eced549109ebfae8d8d3a3ff7815a855bb9635c97ec4cc890",
+      "width": 1350,
+      "height": 1350,
+      "source_sha256": "5aefe8e1fbc8e518318848012bb188017dc422b90ac29abfe8c83aa0f42757ab"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/alo-yoga/reference-3.webp",
+      "source_url": "https://www.aloyoga.com/cdn/shop/files/navyaccoladecrewmobilecat_2048x2048.progressive.png.jpg?v=1787694688",
+      "source_tag": "img:page-image",
+      "context": "img noscript a everyone div row div container-fluid",
+      "content_type": "image/webp",
+      "bytes": 133934,
+      "sha256": "410c383b48ee6a422c7f1942b2ffb95df692f41675e827d9344c2a0b509ec515",
+      "width": 1350,
+      "height": 1350,
+      "source_sha256": "65d5869df8d1cd49287eee0f35118a41c8b635abe28ced06cb058ce78aad0dde"
+    }
+  ]
+}

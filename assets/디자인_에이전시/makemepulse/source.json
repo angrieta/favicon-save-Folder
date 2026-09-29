@@ -1,0 +1,105 @@
+{
+  "company": "Makemepulse",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.makemepulse.com",
+  "page_url": "https://www.makemepulse.com/",
+  "page_title": "makemepulse — Global Creative Studio",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://www.makemepulse.com/compress&w=1800&fit=max; reference:HTTPError:https://www.makemepulse.com/compress&w=1800&fit=max; reference:HTTPError:https://www.makemepulse.com/compress&w=960&fit=max; reference:HTTPError:https://www.makemepulse.com/compress; reference:HTTPError:https://www.makemepulse.com/format&rect=0",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/makemepulse/favicon.png",
+      "source_url": "https://www.makemepulse.com/images/icons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2900,
+      "sha256": "5d162b8f66854d3a5f26dfdc4b5fe133d28b9421ec3e2281e2296af08d55e895",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/makemepulse/og.webp",
+      "source_url": "https://images.prismic.io/makemepulse/7820b0e5-9cc5-43e8-a093-7fcb89e2bf3d_makemepulse-background.png?auto=compress,format&rect=0,1,1601,838&w=1080&h=565",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 17746,
+      "sha256": "14316df20cf79306969f7ab23e36961e511d204b8b2f830df84c7d17a5a1a1a0",
+      "width": 1079,
+      "height": 565
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/makemepulse/logo-1.png",
+      "source_url": "https://www.makemepulse.com/images/makemepulse_logo.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 69264,
+      "sha256": "0e0bd57772cacf1a71dc618df3bc2eafd16cc875571f647a0fb6882415ae8e12",
+      "width": 1600,
+      "height": 234
+    },
+    {
+      "type": "banner",
+      "path": "assets/디자인_에이전시/makemepulse/banner-1.webp",
+      "source_url": "https://images.prismic.io/makemepulse/aXJV_AIvOtkhB08i_cover-image.jpg?auto=format,compress&q=60&auto=format,compress&w=1800&fit=max",
+      "source_tag": "img:semantic-banner",
+      "context": "img prismic-img object-cover w-full h-full Brunello Cucinelli - Human-Centred AI E-commerce - Makemepulse div embed-responsive-item bg-darker div card__image embed-responsive article card gsap-hidden card--case_study is-highlight a",
+      "content_type": "image/webp",
+      "bytes": 47532,
+      "sha256": "5927c9f79afa193dcf490f737d2cb3375b809b7d51ddf3b493db93c3fd2bfe12",
+      "width": 1800,
+      "height": 846
+    },
+    {
+      "type": "banner",
+      "path": "assets/디자인_에이전시/makemepulse/banner-2.webp",
+      "source_url": "https://images.prismic.io/makemepulse/ah8S4weQX7-eWk52_cover-image.jpg?auto=format,compress&q=60&auto=format,compress&w=960&fit=max",
+      "source_tag": "img:semantic-banner",
+      "context": "img prismic-img object-cover w-full h-full Benno’s Light - Makemepulse div embed-responsive-item bg-darker div card__image embed-responsive article card gsap-hidden card--case_study a",
+      "content_type": "image/webp",
+      "bytes": 47874,
+      "sha256": "12ac74cc81202c060923961fbc9b56665483363ea45d30b3aeb10a8c6b409a6e",
+      "width": 960,
+      "height": 451
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/makemepulse/reference-1.webp",
+      "source_url": "https://images.prismic.io/makemepulse/agQ8SaYofJOwHK4L_mmp-case-mcdo-rostifall-01.png?auto=format,compress&q=60&auto=format,compress&w=960&fit=max",
+      "source_tag": "img:page-image",
+      "context": "img prismic-img object-cover w-full h-full McDonald’s Rösti Fall - Makemepulse div embed-responsive-item bg-darker div card__image embed-responsive article card gsap-hidden card--case_study a",
+      "content_type": "image/webp",
+      "bytes": 40396,
+      "sha256": "8bd9c16d31b2045250d2afddcc5a1644e86c7ac9e739d63d1cfe1f66abb9216e",
+      "width": 960,
+      "height": 451
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/makemepulse/reference-2.webp",
+      "source_url": "https://images.prismic.io/makemepulse/07747809-70b3-4235-8a20-0cad875ed4ca_mmp-home-showreel-cover.jpg?auto=compress,format&q=60&auto=format,compress",
+      "source_tag": "img:page-image",
+      "context": "img prismic-img object-cover w-full h-full div embed-responsive-item z-1 div field--poster embed-responsive embed-responsive-16/9 theme-light cursor-pointer bg-lighter div col-span-14 lg:col-start-2 lg:col-span-16 flex flex-col-reverse lg:f",
+      "content_type": "image/webp",
+      "bytes": 33004,
+      "sha256": "b119d94fe38354185d860ad1c99d24000eb4f24b973e3e6745e9279630c9a465",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/makemepulse/reference-3.webp",
+      "source_url": "https://images.prismic.io/makemepulse/96abb45c-6a63-4742-8040-1433a78350bf_anoukia_voile.jpg?auto=compress,format&q=60&auto=format,compress&w=800&fit=max",
+      "source_tag": "img:page-image",
+      "context": "img prismic-img object-cover w-full h-full div embed-responsive-item bg-darker div field--image embed-responsive z-1 lg:max-w-5/18 theme-light bg-gray-light-noise div col-span-14 md:col-start-5 md:col-span-10 lg:col-span-5 div grid grid-col",
+      "content_type": "image/webp",
+      "bytes": 36706,
+      "sha256": "4e7c0625a3b4b93872e61f7de2dab240abbed53e596c1d1510c69c1b53bafb5a",
+      "width": 800,
+      "height": 560
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company": "USM",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.usm.com/",
+  "page_url": "https://www.usm.com/en",
+  "page_title": "Timeless modular design furniture | USM | USM",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/usm-haller/favicon.png",
+      "source_url": "https://www.usm.com/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 31045,
+      "sha256": "bd8998917802073c45fdf3ab9e6d79917b1c500c8d4490708512b599b4843210",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/usm-haller/logo-1.png",
+      "source_url": "https://www.usm.com/logo/usm-logo-default.webp",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 51511,
+      "sha256": "1c7e363b0ffb7bd908d2237bdb21e8e2febbb87e4d6896d5bf6070e454f90477",
+      "width": 401,
+      "height": 199
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/usm-haller/reference-1.webp",
+      "source_url": "https://usm.kontainer.com/cdn/zcletSFwbxDX/3238-usm-soft-panels-2025-selection-2x2-sideboard-panels-27-front.webp?w=1600&h=1600&d=17548",
+      "source_tag": "source:page-image",
+      "context": "source picture w-full undefined svelte-1cubyee div md:transition-transform md:duration-700 md:ease-in-out md:group-hover:scale-105 div overflow-hidden div px-4 lg:px-6 group",
+      "content_type": "image/webp",
+      "bytes": 36036,
+      "sha256": "c05e6391c597a4a89f836ccefa123feed5bff236e30c699365a7e2b992655266",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/usm-haller/reference-2.webp",
+      "source_url": "https://usm.kontainer.com/cdn/zcletSFwbxDX/3238-usm-soft-panels-2025-selection-2x2-sideboard-panels-27-front.webp?w=1366&h=1366&d=17548",
+      "source_tag": "source:page-image",
+      "context": "source picture w-full undefined svelte-1cubyee div md:transition-transform md:duration-700 md:ease-in-out md:group-hover:scale-105 div overflow-hidden div px-4 lg:px-6 group",
+      "content_type": "image/webp",
+      "bytes": 32066,
+      "sha256": "9c855f513771844eb1f4cd0f1b08eb4b76abf7abf57c15fc7157a460fc26093d",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/usm-haller/reference-3.webp",
+      "source_url": "https://usm.kontainer.com/cdn/JQN8QtDXt4SK/3238-usm-soft-panels-2025-selection-m24-shelf-panels-31-front.webp?w=1600&h=1600&d=17548",
+      "source_tag": "source:page-image",
+      "context": "source picture w-full undefined svelte-1cubyee div md:transition-transform md:duration-700 md:ease-in-out md:group-hover:scale-105 div overflow-hidden div px-4 lg:px-6 group",
+      "content_type": "image/webp",
+      "bytes": 22252,
+      "sha256": "991f7e55e07ecb1a330035e14dc6b34941259069165dad36e0d8f083c59a0f14",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "company": "Fujifilm",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.fujifilm.com/kr/ko",
+  "page_url": "https://www.fujifilm.com/kr/ko",
+  "page_title": "후지필름 [한국]",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/fujifilm/favicon.png",
+      "source_url": "https://www.fujifilm.com/kr/themes/custom/fujifilm_com_g2/apple-touch-icon-precomposed.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 3257,
+      "sha256": "75ca2b874df45fc4b3f989f486b88f65a07b65f33545274946d5a467f407f78e",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "f4f742898c054f24a2b7eed4af3fc393ae90654f3bd47e4791efd1c7403f6afc"
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/fujifilm/og.webp",
+      "source_url": "https://asset.fujifilm.com/common/img/fujifilm_ogp.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6300,
+      "sha256": "f64b10556a588ef1ba9e39cc38557683a01429b0d6c6e81069b5608c7a240f2f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/fujifilm/logo-1.png",
+      "source_url": "https://download.fujifilm.com/jp/common/fujifilm_logo.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 48927,
+      "sha256": "d67c3035bd5261379cc177d7b9541fc36ff67ac31c9e2dc94db595c8fd1b18c2",
+      "width": 750,
+      "height": 750,
+      "source_sha256": "d4fd6b3047d5dc4ba3d96d48c86dff805c74e60457c56e28c16481197ca8a53c"
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/fujifilm/logo-2.svg",
+      "source_url": "https://www.fujifilm.com/kr/themes/custom/fujifilm_com_g2/common/img/fujifilm_corporate_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img -hq Fujifilm Value from Innovation a m-site-header__logo 홈페이지 링크 div m-site-header__head div m-site-header__body div container-wide",
+      "content_type": "image/svg+xml",
+      "bytes": 5900,
+      "sha256": "66c9f4724e9d8eab231a0534c6da07b95ba510accee60ef505490089fdef1d86",
+      "width": 180,
+      "height": 50,
+      "source_sha256": "f800a112d6b64c454fe07970ae1b2b6a7d4eef6a663db9ab3f3e3025f039fdcd"
+    }
+  ]
+}

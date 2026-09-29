@@ -1,0 +1,83 @@
+{
+  "company": "Royal Academy of Arts",
+  "category": "문화_공공",
+  "requested_url": "https://www.royalacademy.org.uk",
+  "page_url": "https://www.royalacademy.org.uk/",
+  "page_title": "Royal Academy of Arts",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/royal-academy/favicon.ico",
+      "source_url": "https://www.royalacademy.org.uk/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 165662,
+      "sha256": "c85e4d918f0b8032055e60c372b9457a1c74657f640d492255d5d4110ae6e3ae",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/royal-academy/og.webp",
+      "source_url": "https://cdn.royalacademy.org.uk/images/00tadqt1dl9sefu0.jpg?w=960",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 135156,
+      "sha256": "25b8e5d23804ac87b662fa4d066fc4083e177e720733db59c23267e0f871d367",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/royal-academy/banner-1.webp",
+      "source_url": "https://cdn.royalacademy.org.uk/images/00tadbg01g6et9i2.jpg?width=1280&height=720&ratio=16:9&format=auto",
+      "source_tag": "inline-background-image",
+      "context": "div  home-hero__promo__image background-image:url(https://cdn.royalacademy.org.uk/images/00tadbg01g6et9i2.jpg?width=1280&height=720&ratio=16:9&format=auto)",
+      "content_type": "image/webp",
+      "bytes": 136658,
+      "sha256": "e822649dc36b69c1652c4ad7b4315a8606252a62e419f310064dbac60bc872f8",
+      "width": 1280,
+      "height": 720,
+      "source_sha256": "d3eac81774bc8d0df1eedf20b8078c1147eb9b45777c3e23061fe13f28354386"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/royal-academy/reference-1.webp",
+      "source_url": "https://cdn.royalacademy.org.uk/images/00tadbhlohzn1n0l.jpg?width=630&ratio=4:3&format=auto",
+      "source_tag": "picture:page-image",
+      "context": "picture image div event-card__image div event-card__container div event-card li carousel__card carousel__card--offviewport",
+      "content_type": "image/webp",
+      "bytes": 75608,
+      "sha256": "468cfa4348ef6907c11b6a4d9a6eb90a5bacbeb4b4e93eaa2e7d61a1365f4c23",
+      "width": 630,
+      "height": 472
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/royal-academy/reference-2.webp",
+      "source_url": "https://cdn.royalacademy.org.uk/images/00tadbhlohzn1n0l.jpg?width=1152&ratio=4:3&format=auto",
+      "source_tag": "picture:page-image",
+      "context": "picture image div event-card__image div event-card__container div event-card li carousel__card carousel__card--offviewport",
+      "content_type": "image/webp",
+      "bytes": 118488,
+      "sha256": "ed1e27e7c3aaf28c5830e9fe2c1ae96f33aa2d496d338e38fd0901afecffb25c",
+      "width": 1152,
+      "height": 864,
+      "source_sha256": "9c9f845afa5937001c14e92823075e37d747cc7843afc916940166d9e67efa63"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/royal-academy/reference-3.webp",
+      "source_url": "https://cdn.royalacademy.org.uk/images/00tadbhlohzn1n0l.jpg?width=768&ratio=4:3&format=auto",
+      "source_tag": "picture:page-image",
+      "context": "picture image div event-card__image div event-card__container div event-card li carousel__card carousel__card--offviewport",
+      "content_type": "image/webp",
+      "bytes": 104792,
+      "sha256": "96e02bafccf5eb9fe730271219bee4c873230d32be8ab8bd4ca8d6cb78f4492e",
+      "width": 768,
+      "height": 576
+    }
+  ]
+}

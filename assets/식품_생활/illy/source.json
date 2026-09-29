@@ -1,0 +1,59 @@
+{
+  "company": "illy",
+  "category": "식품_생활",
+  "requested_url": "https://www.illy.com/",
+  "page_url": "https://www.illy.com/en-ww",
+  "page_title": "Espresso coffee, coffee machines and coffee cups - illy",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dwbdc419a4/fonts/Manrope-ExtraBold.woff2; reference:ValueError:https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dw1d9b9dba/fonts/Manrope-Bold.woff2; reference:ValueError:https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dw9d45bca4/fonts/Manrope-SemiBold.woff2; reference:ValueError:https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dw1f19b4a4/fonts/Manrope-Medium.woff2; reference:ValueError:https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dw40ea3294/fonts/Manrope-Regular.woff2; reference:ValueError:https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dw0b2b6d9e/fonts/IllyScript-Regular.otf",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/illy/favicon.png",
+      "source_url": "https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dw8e0d5fbd/images/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3090,
+      "sha256": "ee4f847ff8ba92ea446b136deba03e6df33f7e6fe0eab514880c299bec6beae0",
+      "width": 74,
+      "height": 74
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/illy/og.svg",
+      "source_url": "https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dw17b9fa87/images/logo.svg",
+      "source_tag": "og:image",
+      "content_type": "image/svg+xml",
+      "bytes": 12432,
+      "sha256": "b64b3e18d9afaad2141d262c5f4c53aa5eed76b1a7d9b7186daf92dcb79d43db",
+      "width": 1035,
+      "height": 251
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/illy/logo-1.svg",
+      "source_url": "https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dw1bdab546/images/logo-illy.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a cc-header__brand__link div cc-header__brand div cc-header__wrapper div col-12 position-static",
+      "content_type": "image/svg+xml",
+      "bytes": 3144,
+      "sha256": "42bac3c529706bb82e1eb4752079a7238d042d6d2d8bbccfb37db8a1d40815e7",
+      "width": 50,
+      "height": 50,
+      "source_sha256": "897d5831a4c3a1fb3c7e42145f40d3ce7937821653d5bc1c6164cf9025670fbb"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/illy/logo-2.svg",
+      "source_url": "https://www.illy.com/on/demandware.static/Sites-illy_Global_SFRA-Site/-/default/dwa7316eaa/images/b-certified-corporation.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a cc-header__brand__link js-linkBCorp div cc-header__brand div cc-header__wrapper div col-12 position-static",
+      "content_type": "image/svg+xml",
+      "bytes": 15425,
+      "sha256": "941e2e3fe3199da19de00a17239470839e0d6e4dad9c49695325c391f0a04749",
+      "width": 23,
+      "height": 37,
+      "source_sha256": "3182c74482c72bffaa2de29abd13f95e9b0b40ccf2ca76d59578b510a8d8b2b2"
+    }
+  ]
+}

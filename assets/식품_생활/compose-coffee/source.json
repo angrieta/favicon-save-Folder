@@ -1,0 +1,70 @@
+{
+  "company": "컴포즈커피",
+  "category": "식품_생활",
+  "requested_url": "https://composecoffee.com/",
+  "page_url": "https://composecoffee.com/",
+  "page_title": "컴포즈커피",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/compose-coffee/favicon.png",
+      "source_url": "https://composecoffee.com/files/attach/xeicon/mobicon.png?t=1701247079",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 43040,
+      "sha256": "d9c6a6b48e00726d5e54368c6dbd6e264c09e17299db06b5470ac2d225c92448",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/compose-coffee/og.webp",
+      "source_url": "https://composecoffee.com/files/attach/xeicon/default_image.png?t=1694744460",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21198,
+      "sha256": "a427745ce32439877874dff82ffc26919923d28c440a5ff12cf5da673f3a9e73",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/compose-coffee/logo-1.svg",
+      "source_url": "https://composecoffee.com/layouts/opening/img/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div main-logo div main-caption div main-box bg1 div main-wrap",
+      "content_type": "image/svg+xml",
+      "bytes": 19155,
+      "sha256": "4e5370c24d78150320eaee644bff2432ca60fb7470fe437d79e7bc615f78c0cd",
+      "width": 223,
+      "height": 18,
+      "source_sha256": "d5fac78bd28ba163431e0aaa4dbe8ccedd105fbf53dd78f84c5346a82e69831d"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/compose-coffee/banner-1.webp",
+      "source_url": "https://composecoffee.com/files/attach/images/290461/2252dd3f6dab6be6075daebc4cd147f8.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  main-img background-image: url(https://composecoffee.com/files/attach/images/290461/2252dd3f6dab6be6075daebc4cd147f8.jpg);",
+      "content_type": "image/webp",
+      "bytes": 64966,
+      "sha256": "aac5cc60c55ee6b4a32e50f813d4f2029defe04d60d238ab9385be5d91a9d2f5",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/compose-coffee/reference-1.webp",
+      "source_url": "https://composecoffee.com/files/attach/images/290461/1cab8661f5f6298f8b34ae2dcece5e7b.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  main-img background-image: url(https://composecoffee.com/files/attach/images/290461/1cab8661f5f6298f8b34ae2dcece5e7b.jpg);",
+      "content_type": "image/webp",
+      "bytes": 110396,
+      "sha256": "7668975d92df3f752fbe7a18e58e6f1d21cc00f418bda6e8c812a53f6105435d",
+      "width": 1219,
+      "height": 1350
+    }
+  ]
+}

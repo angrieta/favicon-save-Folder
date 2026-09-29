@@ -1,0 +1,70 @@
+{
+  "company": "Withings",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.withings.com/",
+  "page_url": "https://www.withings.com/en-us",
+  "page_title": "Smart devices to improve your health | Withings",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.withings.com/cdn/shop/t/3/assets/section-hydration.js?v=108434990705342316311775221210; reference:ValueError:https://www.withings.com/cdn/shop/t/3/assets/morph.js?v=83436024653131930491779219811; reference:ValueError:https://www.withings.com/cdn/shop/t/3/assets/focus.js?v=60436577539430446401775221205; reference:ValueError:https://www.withings.com/cdn/shop/t/3/assets/recently-viewed-products.js?v=94729125001750262651775221206; reference:ValueError:https://www.withings.com/cdn/shop/t/3/assets/scrolling.js?v=162288454571026455011775221208; reference:ValueError:https://www.withings.com/cdn/shop/t/3/assets/events.js?v=1118589085892804011775221209",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/withings/favicon.png",
+      "source_url": "https://www.withings.com/cdn/shop/files/favicon_www_withings_com_64x64_213c642c-0ccc-4d46-ab87-f3e7cf7ec36d.png?crop=center&height=32&v=1775229077&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1497,
+      "sha256": "fa4cfd9051ec53f008c79eae43eec1abe12e96562c2a77adf157bf62020674d3",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/withings/og.webp",
+      "source_url": "https://www.withings.com/cdn/shop/files/main_img_home_withings.png?v=1782809019",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 53932,
+      "sha256": "20d1e2fa6e0dd371c9766992d31efc1f8706624e851b5ca9c0108434e17a0502",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/withings/logo-1.svg",
+      "source_url": "https://www.withings.com/cdn/shop/files/Logo-black.svg?height=20&v=1775229175",
+      "source_tag": "img:semantic-logo",
+      "context": "img header-logo__image Withings - Home span header-logo__image-container header-logo__image-container--original a header-logo div header__column header__column--left div header__columns spacing-style",
+      "content_type": "image/svg+xml",
+      "bytes": 4370,
+      "sha256": "44f0a18c0de194555599a0e3f9b151bbd6eef18d116cafd27501aa0c2c139a5f",
+      "width": 143,
+      "height": 20,
+      "source_sha256": "38b3018a018b26e3abee105ced61511aff6493e055ee52dfe500c8ade882a7db"
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/withings/reference-1.webp",
+      "source_url": "https://www.withings.com/cdn/shop/files/preview_images/8b9f35bd5714426ba0192ba229452768.thumbnail.0000000000.jpg?v=1790002065&width=3840",
+      "source_tag": "img:page-image",
+      "context": "img slide__video-poster div slide__image-container slideshow-slide color-scheme-d76d9554-a8b0-4fc5-bc98-5be25f2e0f26 div ax-slideshow__fallback ax-slideshow ax-slideshow",
+      "content_type": "image/webp",
+      "bytes": 106786,
+      "sha256": "f45e5f2eb1252e9e5cfa4cc63b5b94bbad974ccaf0cd1141c38c89a27dd4f710",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/withings/reference-2.webp",
+      "source_url": "https://www.withings.com/cdn/shop/files/preview_images/8b9f35bd5714426ba0192ba229452768.thumbnail.0000000000.jpg?v=1790002065&width=2560",
+      "source_tag": "img:page-image",
+      "context": "img slide__video-poster div slide__image-container slideshow-slide color-scheme-d76d9554-a8b0-4fc5-bc98-5be25f2e0f26 div ax-slideshow__fallback ax-slideshow ax-slideshow",
+      "content_type": "image/webp",
+      "bytes": 102884,
+      "sha256": "6e68eab9d6fc8956b9563008bdbf9da8689b87bf87ffcfa3793b243a5868eb18",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

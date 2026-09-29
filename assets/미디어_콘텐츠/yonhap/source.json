@@ -1,0 +1,93 @@
+{
+  "company": "연합뉴스",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.yna.co.kr/",
+  "page_url": "https://www.yna.co.kr/",
+  "page_title": "연합뉴스",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/yonhap/favicon.png",
+      "source_url": "https://r.yna.co.kr/www/home_n/v03/favicon/favicon_180x180_01.png?v=20260814_0900",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4425,
+      "sha256": "869eef515a5d5e246a26bdd4d041c4bd5ad3dc1c818583c15c14fe662c4b6960",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/yonhap/og.webp",
+      "source_url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 28280,
+      "sha256": "19a7b6b5a271a8d1307664c2d02c5d01e1089e6dc29a4034769d4552ed78e69e",
+      "width": 600,
+      "height": 325
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/yonhap/logo-1.webp",
+      "source_url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x600_kr01.jpg",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 18478,
+      "sha256": "bfd9ceedd5d19f47c884faf8c11323cedb1d8c31e76e6d07a33909b4d89f6741",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/yonhap/banner-1.webp",
+      "source_url": "https://img2.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092918730001301_P1.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture pic a img figure img-con11 article item-box01 div news-type001 top-main01",
+      "content_type": "image/webp",
+      "bytes": 21042,
+      "sha256": "6d87a7d09a163c991f56de08f141f37a0f4958ec9e119a168b79e6da4d96d89b",
+      "width": 720,
+      "height": 491
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/yonhap/reference-1.webp",
+      "source_url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_kr01.jpg",
+      "source_tag": "json-ld.image.url",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 64906,
+      "sha256": "adbeb9e4e2369b120e49c356f058eadee612f283fa5c6b86baee51f9ed38468d",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/yonhap/reference-2.webp",
+      "source_url": "https://img5.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092918150001300_P1.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture pic a img figure img-con11 div item-box02 li li01",
+      "content_type": "image/webp",
+      "bytes": 27596,
+      "sha256": "74419398051c1a61cb27a80145fc1fbc3ea4d52266e8f143972c55dd65aa9289",
+      "width": 720,
+      "height": 497
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/yonhap/reference-3.webp",
+      "source_url": "https://img1.yna.co.kr/photo/yna/YH/2026/09/29/PYH2026092925400001300_P1.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture pic a img figure img-con11 div item-box02 li li02",
+      "content_type": "image/webp",
+      "bytes": 20214,
+      "sha256": "af1b3f40e9debbda3b39ceabbf92f1db1ba743e04d73aeaf8c996c314383a141",
+      "width": 720,
+      "height": 480
+    }
+  ]
+}

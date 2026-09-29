@@ -1,0 +1,34 @@
+{
+  "company": "네모",
+  "category": "부동산_공간",
+  "requested_url": "https://www.nemoapp.kr/",
+  "page_url": "https://www.nemoapp.kr/",
+  "page_title": "상업용 부동산 거래할 땐, 네모",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.nemoapp.kr/_next/static/chunks/webpack-c09338b6b52fb303.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/nemo-app/favicon.svg",
+      "source_url": "https://www.nemoapp.kr/favicon.svg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1675,
+      "sha256": "3d90567691097ff6fe13a77c1b00b3af5a2b2a54ffb327c9ab0796b0c5f47dd5",
+      "width": 24,
+      "height": 24,
+      "source_sha256": "1914e4466757f165ba16be5781aaac5566f92345dd2c8a4a168be68fab526aa4"
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/nemo-app/og.webp",
+      "source_url": "https://www.nemoapp.kr/image/common/total.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14610,
+      "sha256": "0f2807a64559aaad6e9414272fb776e3634f7602b8ab34234a0fa355e4604b58",
+      "width": 1200,
+      "height": 595
+    }
+  ]
+}

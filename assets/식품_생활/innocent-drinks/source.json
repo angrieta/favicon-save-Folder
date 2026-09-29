@@ -1,0 +1,71 @@
+{
+  "company": "innocent drinks",
+  "category": "식품_생활",
+  "requested_url": "https://www.innocentdrinks.co.uk/",
+  "page_url": "https://www.innocentdrinks.co.uk/",
+  "page_title": "home",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://www.innocentdrinks.co.uk/content/dam/innocent/gb/en/home/homepage-new-vi/homepage_header_webm.webm; logo:ValueError:https://www.innocentdrinks.co.uk/content/dam/innocent/gb/en/home/homepage-new-vi/homepage_header%20(1).mp4; reference:ValueError:https://www.innocentdrinks.co.uk/content/dam/innocent/gb/en/home/homepage-new-vi/homepage_header_webm.webm; reference:ValueError:https://www.innocentdrinks.co.uk/content/dam/innocent/gb/en/home/homepage-new-vi/homepage_header%20(1).mp4; reference:ValueError:https://static-p58902-e658605.adobeaemcloud.com/efd4b1febc26834567b7ab1220e53a3a88d17ce488a8840f77a687d60463ed05/theme.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/innocent-drinks/favicon.png",
+      "source_url": "https://static-p58902-e658605.adobeaemcloud.com/efd4b1febc26834567b7ab1220e53a3a88d17ce488a8840f77a687d60463ed05/resources/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3709,
+      "sha256": "c8a8e48c780748ae8b1bcf758f82077e9b0e1f64c849f21ad18aa19c57e33fe3",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/innocent-drinks/banner-1.webp",
+      "source_url": "https://www.innocentdrinks.co.uk/content/dam/innocent/gb/en/home/homepage-new-vi/STDR%20website%20tiles_1200x600px%20-%20Copy.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img cmp-image__image start the day right campaign a pretty good way to start the day picture div teaser-eba17a12e9-image cmp-adaptive-image cmp-image div cmp-teaser__image div teaser-eba17a12e9 cmp-teaser",
+      "content_type": "image/webp",
+      "bytes": 49398,
+      "sha256": "d269b7740f75f30afd5466e11dcc5674f2ec596a6941c2b795f13ec7f25ce1f7",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/innocent-drinks/banner-1.webp",
+      "source_url": "https://www.innocentdrinks.co.uk/content/dam/innocent/gb/en/home/homepage-new-vi/STDR%20website%20tiles_1200x600px%20-%20Copy.png/width3840.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div teaser-eba17a12e9-image cmp-adaptive-image cmp-image div cmp-teaser__image div teaser-eba17a12e9 cmp-teaser div teaser",
+      "content_type": "image/webp",
+      "bytes": 49398,
+      "sha256": "d269b7740f75f30afd5466e11dcc5674f2ec596a6941c2b795f13ec7f25ce1f7",
+      "width": 1200,
+      "height": 600,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/innocent-drinks/reference-2.webp",
+      "source_url": "https://www.innocentdrinks.co.uk/content/dam/innocent/gb/en/home/homepage-new-vi/2026-01_CS_Healthy%20Delight_website%20tiles%20640x640px_UK.png/width3840.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div teaser-ee9543bcdc-image cmp-adaptive-image cmp-image div cmp-teaser__image div teaser-ee9543bcdc cmp-teaser div teaser",
+      "content_type": "image/webp",
+      "bytes": 41428,
+      "sha256": "faaf2a48a13829fac1591533535d4271de95ed33fa15c4d08c01eeff3d5f1f3c",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/innocent-drinks/reference-3.webp",
+      "source_url": "https://www.innocentdrinks.co.uk/content/dam/innocent/gb/en/home/homepage-new-vi/fruit%20and%20veg%20forever%20tile.png/width3840.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div teaser-1949853089-image cmp-adaptive-image cmp-image div cmp-teaser__image div teaser-1949853089 cmp-teaser div teaser t-scheme-grass t-flip-bg-broccoli",
+      "content_type": "image/webp",
+      "bytes": 109318,
+      "sha256": "1c9e65af5d25952cf89040b87a5cc7170f2c756df7403de49055741573fbcaab",
+      "width": 640,
+      "height": 640
+    }
+  ]
+}

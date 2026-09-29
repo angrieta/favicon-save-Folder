@@ -1,0 +1,106 @@
+{
+  "company": "갤러리아백화점",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://dept.galleria.co.kr/",
+  "page_url": "https://dept.galleria.co.kr/",
+  "page_title": "갤러리아 공식사이트",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/galleria/favicon.png",
+      "source_url": "https://dept.galleria.co.kr/assets/image/dept/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 18817,
+      "sha256": "aa743cec169b7ad5fc4b307842dd0b2d6b80afc64057e95cc1d63b118c047b49",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/galleria/og.webp",
+      "source_url": "https://dept.galleria.co.kr/assets/image/dept/a/logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10992,
+      "sha256": "45f495ab1a2cd2572f3134b51f7f83b0cfa820101d59bb8be315c87a8424f01a",
+      "width": 533,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/galleria/logo-1.svg",
+      "source_url": "https://dept.galleria.co.kr/assets/image/dept/a/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-img svg a logo-link h1 logo div l-header header header header is-notitle",
+      "content_type": "image/svg+xml",
+      "bytes": 7414,
+      "sha256": "f3a916f7f03d870afa2943a33f0417362ec7ddb04182470ced6e5d265c8e0050",
+      "width": 90,
+      "height": 67
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/galleria/banner-1.webp",
+      "source_url": "https://cdndept.galleria.co.kr/upload/dept/main-banner/uw/rl/80908014/ko307445304vo.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img div visual-img div visual div item div ban-sub",
+      "content_type": "image/webp",
+      "bytes": 35040,
+      "sha256": "251ec336f485878af52126dbbf70ec78d647f37029d971b0436f79d9e297cd3a",
+      "width": 900,
+      "height": 485
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/galleria/banner-2.webp",
+      "source_url": "https://cdndept.galleria.co.kr/upload/dept/main-banner/uw/rl/80908014/zm306173598tr.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img div visual-img div visual div item div ban-sub",
+      "content_type": "image/webp",
+      "bytes": 30060,
+      "sha256": "4d0b647473cd9992939aebda7e12ca9d603023ef396ac4161c20c020cada2b85",
+      "width": 900,
+      "height": 485
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/galleria/reference-1.webp",
+      "source_url": "https://cdndept.galleria.co.kr/upload/dept/main-banner/uw/rl/80908014/ib102105109pw.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div visual-img div visual div ban-intro section hrs-item main-section__ban",
+      "content_type": "image/webp",
+      "bytes": 102974,
+      "sha256": "318d1047abb70aea4cedda7b8416c66690b73d170899fca5dcdbe68aaa16212c",
+      "width": 1210,
+      "height": 970,
+      "source_sha256": "97b6b0cf33ee6f21e7155ca2fd23ea17a888824f39e511e1e99353634cf03ce4"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/galleria/reference-2.webp",
+      "source_url": "https://cdndept.galleria.co.kr/upload/dept/storeinfo/ls/dw/79375193/mainpreferenceImage/oy79375350il.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div slide-pic div swiper-slide div swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 49744,
+      "sha256": "817f06bb8de8bc5318014554c1c22371a87e83352b73ca9d454fb6e6164521fe",
+      "width": 720,
+      "height": 270
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/galleria/reference-3.webp",
+      "source_url": "https://cdndept.galleria.co.kr/upload/dept/storeinfo/zo/kf/79375400/mainpreferenceImage/fq125610417qw.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div slide-pic div swiper-slide div swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 47964,
+      "sha256": "ae00049119447a9221685d223d2ef8f1917c6b4ca398c0f637ff57003b5a43d9",
+      "width": 720,
+      "height": 270
+    }
+  ]
+}

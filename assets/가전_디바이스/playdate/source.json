@@ -1,0 +1,97 @@
+{
+  "company": "Playdate",
+  "category": "가전_디바이스",
+  "requested_url": "https://play.date/",
+  "page_url": "https://play.date/",
+  "page_title": "Playdate",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/playdate/favicon.png",
+      "source_url": "https://play.date/static/images/apple-touch-icon.588a13acdab4.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9067,
+      "sha256": "53879a1d83a648d309e9cb0261970497b894fa3074b47710d17055c5d786bd05",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/playdate/og.webp",
+      "source_url": "https://play.date/static/images/social-card-3.d239ab818725.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 15240,
+      "sha256": "a8ba4c6d0c7feb42b9a50f9ebe4229077310683c013e94b70f57e92be999e4cc",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/playdate/banner-1.webp",
+      "source_url": "https://play.date/static/images/products/playdate-cover-aqua.1f6e3419c7ad.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure playdate-cover image lazy section and-playdate-cover div section--purple colorsection main main",
+      "content_type": "image/webp",
+      "bytes": 55972,
+      "sha256": "3110f2aa0424220e423a8089b871b8c49effafc577d6205f0cea8d84ed7af7bc",
+      "width": 1600,
+      "height": 1148,
+      "source_sha256": "5ed4e4644996e3d44411d60d6b13e9ddf96815d757673b06c0c6df86bf97d796"
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/playdate/banner-2.webp",
+      "source_url": "https://play.date/static/images/products/playdate-cover-aqua-closed.6dc8d5cb4d84.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure playdate-cover image lazy section and-playdate-cover div section--purple colorsection main main",
+      "content_type": "image/webp",
+      "bytes": 27228,
+      "sha256": "cd10e274496d3fff629dfe03e20dc3e81ed05c0d2163cc5579130b9a47fdeeb9",
+      "width": 898,
+      "height": 372
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/playdate/reference-1.webp",
+      "source_url": "https://play.date/static/images/playdate-layers.7d726433fd74.png",
+      "source_tag": "picture:page-image",
+      "context": "picture figure open-device image lazy section the_system div section--yellow colorsection main main",
+      "content_type": "image/webp",
+      "bytes": 81522,
+      "sha256": "f5555435667bdf9944419750bfa9accd4daec7fdc6b94329298b21f874c4eb5f",
+      "width": 1078,
+      "height": 1105,
+      "source_sha256": "078b031671edbb3dfc9d44540e62a5b20f47084b8c6347f5c713132e7ed71aaa"
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/playdate/reference-2.webp",
+      "source_url": "https://play.date/static/images/Playdate-in-hand1.70225f47634a.png",
+      "source_tag": "picture:page-image",
+      "context": "picture figure hand image lazy section the_design div section--yellow colorsection main main",
+      "content_type": "image/webp",
+      "bytes": 109110,
+      "sha256": "7fac529e018681493fc63cde364a55194816e8af3ba8e0ed944f504d831a8ceb",
+      "width": 1600,
+      "height": 1337,
+      "source_sha256": "43434fb72fe9d0ce0584e679467481fd08d839ed222ae7673774f51f48bed4c9"
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/playdate/reference-3.webp",
+      "source_url": "https://play.date/static/images/devtools-screenshots.39d1689b7a5f.png",
+      "source_tag": "picture:page-image",
+      "context": "picture figure devtools image lazy section sdk div section--yellow colorsection main main",
+      "content_type": "image/webp",
+      "bytes": 85848,
+      "sha256": "d57d854ee69c77a48a1707470557f9b14b4e973a4ab9f2616c26388106e9b8cb",
+      "width": 1600,
+      "height": 726,
+      "source_sha256": "85abc84029696c2903920b0c347ed06f6492d35817b510ffaa1dc1d5ffabd6b1"
+    }
+  ]
+}

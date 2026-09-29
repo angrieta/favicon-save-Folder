@@ -1,0 +1,85 @@
+{
+  "company": "Pierre Hermé",
+  "category": "식품_생활",
+  "requested_url": "https://www.pierreherme.com/",
+  "page_url": "https://www.pierreherme.com/",
+  "page_title": "Maison Pierre Hermé Paris : Macarons, chocolats et créations d'exception",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://www.pierreherme.com/media/wysiwyg/video_celine_dion_sans_logo_2.mp4; logo:HTTPError:https://www.pierreherme.com/fr/media/logo/pierre-herme-logo.png; banner:ValueError:https://www.pierreherme.com/media/wysiwyg/video_celine_dion_sans_logo_2.mp4; reference:ValueError:https://www.pierreherme.com/media/wysiwyg/video_celine_dion_sans_logo_2.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/pierre-herme/favicon.png",
+      "source_url": "https://www.pierreherme.com/media/favicon/stores/2/favicon.jpg",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 395,
+      "sha256": "cae9f5b8ef250aaa7725ed79824791003505c1e5c6a23b4ba35d1576d5d4604b",
+      "width": 16,
+      "height": 16,
+      "source_sha256": "17c91d8c4c490dcfc4c7aca59464137bdbe02ccf3a41683d9665b389371abcbc"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/pierre-herme/banner-1.webp",
+      "source_url": "https://www.pierreherme.com/media/wysiwyg/2025_MAC_SOLENTO_SANS_FLEUR_AMB_2_1440X400_HD_1.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  image-bg-block background-image: url('https://www.pierreherme.com/media/wysiwyg/2025_MAC_SOLENTO_SANS_FLEUR_AMB_2_1440X400_HD_1.jpg')",
+      "content_type": "image/webp",
+      "bytes": 35116,
+      "sha256": "838fdba5d91f89d950f2eca5962c2d571ae93820aa6b88355fc9c1df1bd2799a",
+      "width": 1440,
+      "height": 375
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/pierre-herme/banner-2.webp",
+      "source_url": "https://www.pierreherme.com/media/amasty/amlocator/gallery/153/aix.png",
+      "source_tag": "inline-background-image",
+      "context": "div  picture-store background-image: url('https://www.pierreherme.com/media/amasty/amlocator/gallery/153/aix.png')",
+      "content_type": "image/webp",
+      "bytes": 95024,
+      "sha256": "0922431138f873208337ab712e0c167105784103b4efe10661cd59561ef481e7",
+      "width": 1012,
+      "height": 720,
+      "source_sha256": "d6ff37e5d1660e042c64e6739ecde341f2dbca71812c22d17d4800a258e4bf99"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/pierre-herme/reference-1.webp",
+      "source_url": "https://www.pierreherme.com/media/wysiwyg/coffrets-julie-serre-menu-enrichi.jpg",
+      "source_tag": "img:page-image",
+      "context": "img MACARONS div block-image a block-link div dynamic-block-item section dynamic-blocks-widget",
+      "content_type": "image/webp",
+      "bytes": 39046,
+      "sha256": "a4c6a1da69e340f0aaf91d813e2c70391477a39d617858ec70299b98f523cd5c",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/pierre-herme/reference-2.webp",
+      "source_url": "https://www.pierreherme.com/media/wysiwyg/2026_FAMILLE_OURSONS_GUIMAUVE_BASSOMPIERRE_AMB_1200X1200_1_.jpg",
+      "source_tag": "img:page-image",
+      "context": "img CHOCOLATS div block-image a block-link div dynamic-block-item section dynamic-blocks-widget",
+      "content_type": "image/webp",
+      "bytes": 113688,
+      "sha256": "1cffb616318702d836941e4da0361cbe4283c1484da248737bfc8a85b16ef828",
+      "width": 1200,
+      "height": 1199
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/pierre-herme/reference-3.webp",
+      "source_url": "https://www.pierreherme.com/media/wysiwyg/2026_MONTEBELLO_FRAISE_ENT_AMB_1200x1200_HD.png",
+      "source_tag": "img:page-image",
+      "context": "img PÂTISSERIES div block-image a block-link div dynamic-block-item section dynamic-blocks-widget",
+      "content_type": "image/webp",
+      "bytes": 156642,
+      "sha256": "2698faebc46a098f5b067667c5c1e363aa78ea8ea2842c141f9734d27637a5d4",
+      "width": 1200,
+      "height": 1200,
+      "source_sha256": "d296a6f033945dd1f572b82783509a9bee470b8156ffb9a16673ef51d1bd8c50"
+    }
+  ]
+}

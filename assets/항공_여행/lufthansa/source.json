@@ -1,0 +1,22 @@
+{
+  "company": "Lufthansa",
+  "category": "항공_여행",
+  "requested_url": "https://www.lufthansa.com/kr/ko/homepage",
+  "page_url": "https://www.lufthansa.com/kr/ko/homepage",
+  "page_title": "Just a moment...",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.lufthansa.com/kr/ko/homepage",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/lufthansa/favicon.ico",
+      "source_url": "https://www.lufthansa.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 32988,
+      "sha256": "049e1cc0354fe5309c76c7ed83ee27d4a80eaf9ec60a4fc571dbfa1d1885a713",
+      "width": 64,
+      "height": 64
+    }
+  ]
+}

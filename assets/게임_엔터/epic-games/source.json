@@ -1,0 +1,46 @@
+{
+  "company": "Epic Games",
+  "category": "게임_엔터",
+  "requested_url": "https://www.epicgames.com/site/ko",
+  "page_url": "https://www.epicgames.com/site/home?lang=ko",
+  "page_title": "에픽게임즈 | 홈페이지 - Epic Games",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://components.unrealengine.com/fonts/inter/Inter-Regular.woff2; reference:ValueError:https://components.unrealengine.com/fonts/inter/Inter-Medium.woff2; reference:ValueError:https://assets.unrealengine.com/0cd55d7/epicgames/static/webpack/./main.epic-games.159aa31e.js; reference:ValueError:https://assets.unrealengine.com/0cd55d7/epicgames/static/webpack/./main.epic-games.51adbcec.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/epic-games/favicon.ico",
+      "source_url": "https://www.epicgames.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "d72592a16964d610ed4f8c4d65de2433f9082e364e6cefeb25a858677de01601",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/epic-games/og.webp",
+      "source_url": "https://cdn2.unrealengine.com/epic-games-social-share-1200x675-7670432fc58a.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 15248,
+      "sha256": "d81363eb2f63c3be258330e5bb0b82d34e798b7520ff2a412d39d108d109afd3",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/epic-games/og.webp",
+      "source_url": "https://cdn2.unrealengine.com/epic-games-social-share-1200x675-7670432fc58a.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 15248,
+      "sha256": "d81363eb2f63c3be258330e5bb0b82d34e798b7520ff2a412d39d108d109afd3",
+      "width": 1200,
+      "height": 675,
+      "context": "structured data logo",
+      "reused_from": "social"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company": "Basecamp",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://basecamp.com/",
+  "page_url": "https://basecamp.com/",
+  "page_title": "Basecamp",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/basecamp/favicon.png",
+      "source_url": "https://basecamp.com/assets/images/general/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 34069,
+      "sha256": "3a875e063d2156c56b52df3b40cdf17e8cc90e75889598417a9bcad98c8c5b47",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "b6494504ef2c1e36128963932f5ad436b68c14b629f690ba61fa7a3ec92c1550"
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/basecamp/og.webp",
+      "source_url": "https://basecamp.com/assets/images/opengraph/basecamp.png?v=1.5.9",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 26026,
+      "sha256": "93003851baf44cf4e9d8709367310cc9f2e46c5be8e51b5862c65fa9ea5b1939",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/basecamp/logo-1.webp",
+      "source_url": "https://basecamp.com/assets/images/project/logo-card-1.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img div project__card project__gallery section project__tool project__tool--gallery div project__tools div project__screen",
+      "content_type": "image/webp",
+      "bytes": 3924,
+      "sha256": "9748b4c52b5b407a83952fd4e38738bd3e02196b09b22e8e2172e2f6f3ae8e22",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/basecamp/logo-2.webp",
+      "source_url": "https://basecamp.com/assets/images/project/logo-card-2.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img div project__card project__gallery section project__tool project__tool--gallery div project__tools div project__screen",
+      "content_type": "image/webp",
+      "bytes": 4070,
+      "sha256": "c85591f9dff4f093fdd37c0874a1bc098e62a0c65e2ee7b02275244f68958169",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/basecamp/banner-1.webp",
+      "source_url": "https://basecamp.com/videos/5/walkthrough-09-26.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img figure button hero__tour-button modal-trigger div hero__tour div hero__top",
+      "content_type": "image/webp",
+      "bytes": 99556,
+      "sha256": "25ef44ef6bf5a0d45f1037231b380c4f196fdcf1346b26b61fa1b54b2a360cd2",
+      "width": 1600,
+      "height": 900
+    }
+  ]
+}

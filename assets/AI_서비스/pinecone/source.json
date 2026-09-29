@@ -1,0 +1,45 @@
+{
+  "company": "Pinecone",
+  "category": "AI_서비스",
+  "requested_url": "https://www.pinecone.io",
+  "page_url": "https://www.pinecone.io/",
+  "page_title": "The trusted AI knowledge company | Pinecone",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.pinecone.io/scripts/attribution-signup-links.js; reference:ValueError:https://www.pinecone.io/scripts/consent-data-layer.js; reference:ValueError:https://cmp.osano.com/AzZbUITh61cXz4HqL/fee5a4ca-0585-49b2-b317-c6a8cf7b66fa/osano.js; reference:ValueError:https://js.hs-scripts.com/8231564.js; reference:ValueError:https://embed.lu.ma/checkout-button.js; reference:ValueError:https://app.seenalabs.io/widget/seena.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/pinecone/favicon.ico",
+      "source_url": "https://www.pinecone.io/favicon.ico?favicon.16aah0kd0o17q.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "faa9c834fac8e86cd94f446ece9689edd0dd3203ff261453ffda1764879f5c68",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/pinecone/og.webp",
+      "source_url": "https://www.pinecone.io/api/og/?title=Trusted+knowledge+for&highlight=AI+in+production&alignment=center",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12426,
+      "sha256": "94af61fb7dcb7a8b0d547eed9fdaa05906157c9a82693e183c7fd7c6cdc7d20a",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/pinecone/logo-1.png",
+      "source_url": "https://www.pinecone.io/images/Pinecone-Logo-Black.png",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 3361,
+      "sha256": "46c279c44aeb9c07e1bc2a1d2168c61a2eae6abcf37d9a7e1d458905ae87e082",
+      "width": 240,
+      "height": 40
+    }
+  ]
+}

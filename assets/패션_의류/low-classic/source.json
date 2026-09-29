@@ -1,0 +1,72 @@
+{
+  "company": "로우클래식",
+  "category": "패션_의류",
+  "requested_url": "https://lowclassic.com",
+  "page_url": "https://lowclassic.com/",
+  "page_title": "LOW CLASSIC",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1562769228052101&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/low-classic/favicon.ico",
+      "source_url": "https://lowclassic.com/web/upload/favicon-a6da3fb32cc9a4ffb3c16943854a26c6.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 38078,
+      "sha256": "3c3fc573041347993fb041f77a5c072dc9fd54b1831c8ed45ff8861d997dcf1d",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/low-classic/og.webp",
+      "source_url": "https://lowclassic.com/web/upload/share-image-1-a9c3f47d1333e75eef8600ff737bd239.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 82590,
+      "sha256": "a7dcc5877e7c8f4c951c07749fcf121a58398b3ae38d8bbbd83e06bb22dac104",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/low-classic/banner-1.webp",
+      "source_url": "https://lowclassic.com/new/main/0923/pc1.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a hero-item base div main-hero div heroMain section",
+      "content_type": "image/webp",
+      "bytes": 68738,
+      "sha256": "c499c9d76b4819c7159bb797345b7ec2aef5e9258bc246349d4555e0052e8558",
+      "width": 1600,
+      "height": 800,
+      "source_sha256": "6271f9478b2f436e167e3a82f384d8149c30e216f8705dca47b6c99e46291d34"
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/low-classic/banner-2.webp",
+      "source_url": "https://lowclassic.com/new/main/0923/header1.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a div div div navigation__promotion",
+      "content_type": "image/webp",
+      "bytes": 260650,
+      "sha256": "f266f7e698cd28397eafe6e2646c69d6a9c79919d5fc1cc9aacd2cc270c31076",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "3deb83016ad3b0ab9be1efc8d7232d9b3396e928eae18b269e26289554949bf8"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/low-classic/reference-1.webp",
+      "source_url": "https://lowclassic.com/new/main/0923/mo2.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture a hero-item base div main-hero div heroMain section",
+      "content_type": "image/webp",
+      "bytes": 81750,
+      "sha256": "c1531434c2de130aa96e8feee26367d9d58d2b30d26f2890af89e2fb07ae9705",
+      "width": 900,
+      "height": 1350,
+      "source_sha256": "4ecb94158f0dfade1602ec856bb20a14ce395ad1432d167d1524b1c8b634acb1"
+    }
+  ]
+}

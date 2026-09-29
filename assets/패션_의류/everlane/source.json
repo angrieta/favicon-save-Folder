@@ -1,0 +1,98 @@
+{
+  "company": "Everlane",
+  "category": "패션_의류",
+  "requested_url": "https://www.everlane.com/",
+  "page_url": "https://www.everlane.com/",
+  "page_title": "Everlane",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://www.everlane.com/cdn/shop/files/Site_Navigation_Desktop_Image-2_{width}x.png?v=1788918123; reference:HTTPError:https://www.everlane.com/cdn/shop/files/Site_Navigation_Desktop_Image-10_{width}x.png?v=1788918125; reference:HTTPError:https://www.everlane.com/cdn/shop/files/Site_Navigation_Desktop_Image-4_{width}x.png?v=1788918125; reference:HTTPError:https://www.everlane.com/cdn/shop/files/Site_Navigation_Desktop_Image-6_{width}x.png?v=1788918125; reference:HTTPError:https://www.everlane.com/cdn/shop/files/W_HP_Large_Tile_01_Desktop_Image_{width}x.jpg?v=1790099682; reference:HTTPError:https://www.everlane.com/cdn/shop/files/Site_Navigation_Desktop_Image-1_{width}x.png?v=1788918126",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/everlane/favicon.png",
+      "source_url": "https://www.everlane.com/cdn/shop/files/EverlaneFavicon_2025-01.png?crop=center&height=32&v=1757958640&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 988,
+      "sha256": "7613e6ffea686350fccf06561cfb559b2d9db2e7cac07d0c0a040ed8d636916b",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/everlane/logo-1.png",
+      "source_url": "https://www.everlane.com/cdn/shop/files/Everlane_Logo_-_Large_Dark.png?v=1748895717&width=500",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 6530,
+      "sha256": "04067a2a5f5e7a43cddd5a6792737bf29a0a133efb58bd77a57bf2473b675949",
+      "width": 500,
+      "height": 140
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/everlane/banner-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/HP_Hero_Desktop_Image_W_2.jpg?v=1790633847",
+      "source_tag": "img:semantic-banner",
+      "context": "img builder-block builder-160e7ba a builder-block builder-09fb692 div builder-block builder-923fcd8 hp-hero div bloomreach-hero-shopify builder-block builder-9865f4f hp-hero div builder-block builder-f7f94e9",
+      "content_type": "image/webp",
+      "bytes": 60292,
+      "sha256": "45f97d5e881b78cd177cc2a36faf2da8f94664fccbe979d64c4b5845f4e95a3c",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "8546661ed36fa252e91788b0f5ea9f294cd34350f025a1cdd59e1222dc0fa00c"
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/everlane/banner-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/W_HP_Subhero_Image.jpg?v=1788903641",
+      "source_tag": "img:semantic-banner",
+      "context": "img builder-block builder-0d7efa7 a builder-block builder-3204b35 div builder-block builder-649a69e hp-hero div bloomreach-hero-shopify builder-block builder-171f644 hp-hero div builder-block builder-f7f94e9",
+      "content_type": "image/webp",
+      "bytes": 219470,
+      "sha256": "10e436760175ab7e3ae676226e97e3347325636d5b8d135d687625d05750093e",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "d069ce3c717a993fe075b0bf1165c19b71b06f5c1fc53b88383f7b3d4c88a092"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/everlane/reference-1.webp",
+      "source_url": "https://www.everlane.com/cdn/shop/files/Empty_Bag_State_Image.jpg?v=1756918134",
+      "source_tag": "img:page-image",
+      "context": "img cart-drawer__empty-image Your cart is empty div cart-drawer__empty-image-wrapper div cart-drawer__warnings center div drawer__inner-empty div drawer__inner js-drawer-inner gradient color-scheme-1 Your Bag",
+      "content_type": "image/webp",
+      "bytes": 53956,
+      "sha256": "a91c7ae60de33c577bc0b4ed12e45661f1501c765ee3b5dd249974f3660c68a5",
+      "width": 734,
+      "height": 918
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/everlane/reference-2.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/HP_Hero_Mobile_Image_W_1.jpg?v=1790633846",
+      "source_tag": "img:page-image",
+      "context": "img builder-block builder-0267c09 img builder-block builder-160e7ba a builder-block builder-09fb692 div builder-block builder-923fcd8 hp-hero div bloomreach-hero-shopify builder-block builder-9865f4f hp-hero",
+      "content_type": "image/webp",
+      "bytes": 102794,
+      "sha256": "06369234dc8710a04ff1ed0d86e218eda6b535d16ee0a7d8614f42879e27a564",
+      "width": 750,
+      "height": 1334,
+      "source_sha256": "7cdae645d41e99e79af515747a3827107ceac8b3318af1c639cd06efc15eea58"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/everlane/reference-3.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0623/7916/3734/files/W_Carousel_Tile_1.jpg?v=1788903641",
+      "source_tag": "picture:page-image",
+      "context": "picture div builder-block builder-81ca509 a builder-block builder-1cd2d31 js-scroll-child div builder-block builder-6486894 js-scroll-container div builder-block builder-0a11778 js-horizontal-scroll",
+      "content_type": "image/webp",
+      "bytes": 79300,
+      "sha256": "39b0192b58e085086cc02285e5703b763e3f74bed08076efa6319e8c2c80b56d",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "c18de5d724b0843e6a395185587b59977cebe21296ca65c4e2910ec6213c3b13"
+    }
+  ]
+}

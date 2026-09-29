@@ -1,0 +1,58 @@
+{
+  "company": "이노레드",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.innored.co.kr/",
+  "page_url": "https://www.innored.co.kr/",
+  "page_title": "이노레드",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.innored.co.kr/resources/common/image/main/2605_main_work_A.mp4; reference:ValueError:https://www.innored.co.kr/resources/common/image/main/2605_main_work_A.mp4; reference:ValueError:https://www.innored.co.kr/resources/common/font/pretendard/PretendardVariable.woff2; reference:ValueError:https://www.innored.co.kr/resources/common/font/manrope/ManropeVariable.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/innored/favicon.ico",
+      "source_url": "https://www.innored.co.kr/resources/common/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 105143,
+      "sha256": "cf9adadc0fb7b4d3e12701c82d231034305b0cac4e5cd124fa635f04045077a6",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/innored/og.webp",
+      "source_url": "https://www.innored.co.kr/resources/common/ir_thumbnail.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3770,
+      "sha256": "8036082686be2b0f5f3c185d5ae5688b7d81ed22c1fdc5e9dd3b29a36aca0d49",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/innored/og.webp",
+      "source_url": "https://www.innored.co.kr/resources/common/ir_thumbnail.png",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "content_type": "image/webp",
+      "bytes": 3770,
+      "sha256": "8036082686be2b0f5f3c185d5ae5688b7d81ed22c1fdc5e9dd3b29a36aca0d49",
+      "width": 500,
+      "height": 500,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/innored/logo-2.svg",
+      "source_url": "https://www.innored.co.kr/resources/common/image/main/award_logo-1.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 칸 라이언즈 칸 라이언즈 li main__logo-item ul main__award-logo div main__award-inner div main__slide-view",
+      "content_type": "image/svg+xml",
+      "bytes": 12672,
+      "sha256": "acbc3a00b21fcf95dd47dc2e41cb2bde51fef9f49e2a417962d6ad807678e1ff",
+      "width": 208,
+      "height": 94
+    }
+  ]
+}

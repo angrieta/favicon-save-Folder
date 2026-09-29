@@ -1,0 +1,82 @@
+{
+  "company": "Dia",
+  "category": "AI_서비스",
+  "requested_url": "https://www.diabrowser.com",
+  "page_url": "https://www.diabrowser.com/",
+  "page_title": "Dia | The browser for better days at work.",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/dia-browser/favicon.png",
+      "source_url": "https://www.diabrowser.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6465,
+      "sha256": "3514006e007480a04780216c70b02e337929ff7396825f035ca5119c77a017b0",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/dia-browser/og.webp",
+      "source_url": "https://cdn.sanity.io/images/e5fj2khm/production/2d41d699e7809faa14b264580c1a371606e4070a-1296x678.png?auto=format&q=80&fm=jpg&w=1200&h=630&fit=crop",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 19124,
+      "sha256": "53e19d7e6ea5ece18d44fa080bdf7d609c2aad52f8f659b2b946e24ad0c6947f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/dia-browser/banner-1.webp",
+      "source_url": "https://www.diabrowser.com/_next/static/media/leaf-shadows-tinted.14cab7a3.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 h-full w-full object-cover div isolate overflow-hidden bg-[#ffcb30] absolute inset-0 section relative z-1 -mb-200 h-[100svh] min-h-[640px] overflow-hidden 800:mb-[calc(-1*var(--dock-height))] 800:h-auto 800:min-h-[100sv",
+      "content_type": "image/webp",
+      "bytes": 15072,
+      "sha256": "50552b24cb73ff1290476bc3684849c2ae34ea059821927a72c5bb97f356b1c3",
+      "width": 1428,
+      "height": 854
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/dia-browser/reference-1.webp",
+      "source_url": "https://www.diabrowser.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdia-reads-01.47a110ff.png&w=3840&q=80&dpl=dpl_CMXKBD7wD1631y1XFjz5k1JRa972",
+      "source_tag": "img:page-image",
+      "context": "img block h-auto w-full Start your day two steps ahead div relative rounded-20 overflow-hidden dia-reads-asset shadow-[0_1px_2px_rgba(0,0,0,0.04),0_10px_24px_-12px_rgba(0,0,0,0.10),0_24px_48px_-24px_rgba(0,0,0,0.12)] div flex flex-col gap-y",
+      "content_type": "image/webp",
+      "bytes": 78322,
+      "sha256": "2a41d3d6907322dea31ed575fbf4a886ec3512c7b0fb052dfbddd3150ec85430",
+      "width": 1600,
+      "height": 1184,
+      "source_sha256": "a27c7c85af9af442d3351b60eb9c09a0d588b86e1cc80022f1be2a270eba8942"
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/dia-browser/reference-2.webp",
+      "source_url": "https://www.diabrowser.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdia-reads-02.48ca63dd.png&w=3840&q=80&dpl=dpl_CMXKBD7wD1631y1XFjz5k1JRa972",
+      "source_tag": "img:page-image",
+      "context": "img block h-auto w-full Synthesis you'll actually use div relative rounded-20 overflow-hidden dia-reads-asset shadow-[0_1px_2px_rgba(0,0,0,0.04),0_10px_24px_-12px_rgba(0,0,0,0.10),0_24px_48px_-24px_rgba(0,0,0,0.12)] div flex flex-col gap-y-",
+      "content_type": "image/webp",
+      "bytes": 84286,
+      "sha256": "92b82e9d243fe2013285796e6e904c2b2bc3d767547f3efa04c19e60bb0df266",
+      "width": 1670,
+      "height": 1236
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/dia-browser/reference-3.webp",
+      "source_url": "https://www.diabrowser.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdia-reads-03.aff7fb54.png&w=3840&q=80&dpl=dpl_CMXKBD7wD1631y1XFjz5k1JRa972",
+      "source_tag": "img:page-image",
+      "context": "img block h-auto w-full Find the answer without hunting it down div relative rounded-20 overflow-hidden dia-reads-asset shadow-[0_1px_2px_rgba(0,0,0,0.04),0_10px_24px_-12px_rgba(0,0,0,0.10),0_24px_48px_-24px_rgba(0,0,0,0.12)] div flex flex-",
+      "content_type": "image/webp",
+      "bytes": 56960,
+      "sha256": "e71af04e04879bafbfde0ccd240c908e055fbd39f3f7d2758cd252537a6b58a0",
+      "width": 1670,
+      "height": 1236
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "company": "DeepL",
+  "category": "AI_서비스",
+  "requested_url": "https://www.deepl.com/ko",
+  "page_url": "https://www.deepl.com/ko",
+  "page_title": "DeepL AI 플랫폼: 번역, Voice 및 API",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.deepl.com/_next/static/chunks/2ujomu_a2pe31.js; reference:ValueError:https://www.deepl.com/_next/static/chunks/3s8k_pypx29rs.js; reference:ValueError:https://www.deepl.com/_next/static/chunks/1pm_hgddvb8gt.js; reference:ValueError:https://www.deepl.com/_next/static/chunks/21_1ky4nv5p8l.js; reference:ValueError:https://www.deepl.com/_next/static/chunks/1c4e91t-_-tvj.js; reference:ValueError:https://www.deepl.com/_next/static/chunks/3e-k9v1t8ez_9.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/deepl/favicon.ico",
+      "source_url": "https://www.deepl.com/favicon.ico?favicon.2q65ixsfts1dv.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 12306,
+      "sha256": "3ad4596ec2678a3eec891689ef105647e8366a78025ec1c224beea19c678bd54",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/deepl/og.webp",
+      "source_url": "https://www.deepl.com/img/favicon/automatic_social_share_deepl.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5970,
+      "sha256": "58586401179795d2c16b736e408a9e999964ecf75588254859b00f53150bb6bd",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/deepl/logo-1.svg",
+      "source_url": "https://static.deepl.com/img/logo/deepl-logo-blue.svg",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1642,
+      "sha256": "c982d99279cc4e884560f81707ddc2e8e699cdf96307b0582e8d7e4018639478",
+      "width": 54,
+      "height": 68,
+      "source_sha256": "71df5c84f31125f2f585a82489a570efb6fb371c6ca2b8c1deabca4463e601ba"
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/deepl/logo-2.svg",
+      "source_url": "https://www.deepl.com/img/logo/deepl-logo-text-blue.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img LogoText-module__CTSIzG__logoText DeepL a font-redesign text-gray-900 hover:text-link hover:border-action-active flex cursor-pointer flex-col justify-around border-b-[3px] border-transparent pt-1 font-medium LogoText-module__CTSIzG__tra",
+      "content_type": "image/svg+xml",
+      "bytes": 3361,
+      "sha256": "bdead5518b7d27c5a52b606097c8e8b0fd9d267a27147eb7635ed763375e08e7",
+      "width": 66,
+      "height": 18,
+      "source_sha256": "3193b862a38303b7f91a4afc0b0302a576d9707d9fec85fb1b6686bb78a23fd9"
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/deepl/banner-1.webp",
+      "source_url": "https://www.deepl.com/_next/static/media/labs-cubes-v07.3.2-Green.mov.thumbnail.3leqxc28gp07e.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-40 w-full object-cover object-top md:object-bottom lg:h-auto lg:max-h-[430px] div h-40 flex-1 lg:flex lg:h-auto lg:w-full lg:items-center div flex w-[600px] flex-1 self-center overflow-hidden lg:size-auto div flex flex-col lg:flex-row",
+      "content_type": "image/webp",
+      "bytes": 17886,
+      "sha256": "35874eefa0c0f364cb0b3bc0e868270b8e57ac99bc909accfb9471805e0929b6",
+      "width": 853,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/deepl/reference-1.svg",
+      "source_url": "https://www.deepl.com/img/storefront_background.svg",
+      "source_tag": "img:page-image",
+      "context": "img absolute left-1/2 top-0 h-[1280px] w-auto max-w-none -translate-x-1/2 -translate-y-10 md:-translate-y-10 div pointer-events-none absolute inset-0 z-0 div relative w-full overflow-hidden div container-module__Y19BeG__container undefined ",
+      "content_type": "image/svg+xml",
+      "bytes": 1509,
+      "sha256": "9663dfd800d1052adddbd33196dd546a71e2951392dd432c70dafee8068ca9a2",
+      "width": 1768,
+      "height": 1267
+    }
+  ]
+}

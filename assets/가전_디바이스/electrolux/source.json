@@ -1,0 +1,71 @@
+{
+  "company": "Electrolux",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.electrolux.co.kr/",
+  "page_url": "https://www.electrolux.co.kr/",
+  "page_title": "일렉트로룩스 | 스웨덴 프리미엄 가전",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.electrolux.co.kr/Static/css/themes/electrolux/main.css?v=Releases-81479; reference:ValueError:https://www.electrolux.co.kr/Static/css/themes/default/fonts/ElectroluxSans-Semibold.woff2; reference:ValueError:https://www.electrolux.co.kr/Static/css/themes/default/fonts/ElectroluxSans-Regular.woff2; reference:ValueError:https://www.electrolux.co.kr/Static/js/app.js?v=Releases-81479",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/electrolux/favicon.png",
+      "source_url": "https://www.electrolux.co.kr/Static/css/themes/electrolux/images/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9089,
+      "sha256": "1bcaa6bb27cb2327c85ae2a73d429c932fa942b75f6dc33537e461caaa5c89e3",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "bd892e5136814493c7cc1b954e31cb2a5b0a452ec7a0bc60a6a63a7aa52b2d6d"
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/electrolux/og.webp",
+      "source_url": "https://www.electrolux.co.kr/globalassets/homepage/banner/d75332/______________________780x700_01.gif",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 61228,
+      "sha256": "557c821a45ecf1a92f51a2f088e60fdc8581c2dae7b33c6e5f918d5804015c16",
+      "width": 780,
+      "height": 700
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/electrolux/logo-1.svg",
+      "source_url": "https://www.electrolux.co.kr/globalassets/settings/electrolux_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 일렉트로룩스 한국 a logo-link tracking-link div navigation-logo div header-mobile-logo div main-nav off-canvas-content header-mobile",
+      "content_type": "image/svg+xml",
+      "bytes": 6886,
+      "sha256": "c12aeaafb7bc500217429dcbd9be89e6f0803290166a7e6242c358a8391959f0",
+      "width": 144,
+      "height": 34,
+      "source_sha256": "6e15e84d196d0848555dc60769b0cc836836b74cd48166bce76f33b4d41760b0"
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/electrolux/banner-1.webp",
+      "source_url": "https://www.electrolux.co.kr/globalassets/homepage/banner/d75332/______-_________-_____________2880x1000.gif",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div card-section feature-img feature-img--height-auto div card col-12 div hero-banner-standard theme-blue-rich card-large mobile-banner-large cursor-pointer div hero-banner-slider hero-banner-slider-js",
+      "content_type": "image/webp",
+      "bytes": 106450,
+      "sha256": "94528888914da0dc2916c932e851c3fcb168a07fe82afb1c62207fd0df48e897",
+      "width": 1800,
+      "height": 625
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/electrolux/reference-1.webp",
+      "source_url": "https://www.electrolux.co.kr/contentassets/2dbadd93dfd64d879d0d879bd17941fe/contact-us-2x-new-1.png?mode=crop&width=720",
+      "source_tag": "img:page-image",
+      "context": "img preview 문의 div text-center figure media-link-figure a menu-media-item__link div submenu-navigation__media-item menu-media-item",
+      "content_type": "image/webp",
+      "bytes": 4530,
+      "sha256": "b6faea28cd1f0311e4765d8ea675282d95f99f01c5c83cef9f50881df38e2a2e",
+      "width": 536,
+      "height": 264
+    }
+  ]
+}

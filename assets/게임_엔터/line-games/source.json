@@ -1,0 +1,93 @@
+{
+  "company": "라인게임즈",
+  "category": "게임_엔터",
+  "requested_url": "https://www.line.games/",
+  "page_url": "https://www.line.games/",
+  "page_title": "라인게임즈",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/line-games/favicon.png",
+      "source_url": "https://static.line.games/official/image/main/LINE-Games_favi_192.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 1345,
+      "sha256": "a701b910a770d09faad324b4e4c9d18b4cc71419d9185a2c67204ba931af7338",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/line-games/og.webp",
+      "source_url": "https://static.line.games/official/common/og_img_linegames.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2696,
+      "sha256": "31cadcb14f9114be998501a9d7672a3fe5f6c6bb3f53b79836c0ba28fa49134b",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/line-games/banner-1.webp",
+      "source_url": "https://static.pcs.line.games/banner/floor/NEWPORTAL_HOME_MAIN_BANNER/202609/floor_1788913794729.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div image a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 97004,
+      "sha256": "b8fc9078b4170d9e535d569dd56ec3431fa2a6ddffffe54423c926780c56a4e1",
+      "width": 856,
+      "height": 580
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/line-games/banner-2.webp",
+      "source_url": "https://static.pcs.line.games/banner/floor/NEWPORTAL_HOME_MAIN_BANNER/202609/floor_1789521569234.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div image a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 85134,
+      "sha256": "bc600b44b5608e24156e3a7f3a23b841b1a14d1b93e8c3c135785184194fdcae",
+      "width": 856,
+      "height": 580
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/line-games/reference-1.webp",
+      "source_url": "https://static.pcs.line.games/banner/floor/NEWPORTAL_HOME_SUB_BANNER/202609/floor_1788242360089.png",
+      "source_tag": "img:page-image",
+      "context": "img div image a div pc-sub-banner div main-banner-wrap pc-banner",
+      "content_type": "image/webp",
+      "bytes": 25822,
+      "sha256": "78e97f3da661a691e3a34d0743e250d91a3065284f059b6a7f6b22b31c8ac061",
+      "width": 616,
+      "height": 380
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/line-games/reference-2.webp",
+      "source_url": "https://static.pcs.line.games/banner/floor/NEWPORTAL_HOME_MAIN_BANNER/202609/floor_1790038613185.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div image a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 78548,
+      "sha256": "ff4c80672c784be27b0646ff16e577c4b047db476fc07813a09c2e5779e649e7",
+      "width": 856,
+      "height": 580
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/line-games/reference-3.webp",
+      "source_url": "https://static.pcs.line.games/banner/floor/PORTAL_MAIN_GAME_BANNER/202604/floor_1776994016133.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div game-image a li ul game-list",
+      "content_type": "image/webp",
+      "bytes": 76498,
+      "sha256": "dfcff991c83323d1099de8cd44eb8c924833e31554d48070f88e758fa906612d",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

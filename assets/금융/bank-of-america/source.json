@@ -1,0 +1,47 @@
+{
+  "company": "Bank of America",
+  "category": "금융",
+  "requested_url": "https://www.bankofamerica.com",
+  "page_url": "https://www.bankofamerica.com/",
+  "page_title": "Bank of America - Banking, Credit Cards, Loans and Merrill Investing",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/bank-of-america/favicon.png",
+      "source_url": "https://www.bankofamerica.com/homepage/spa-assets/images/assets-images-global-favicon-android-chrome-192x192-CSXafb7d716.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7624,
+      "sha256": "a0f7d8f2270bdc752e3c19eb915e6a7466351c819c2516990a971876a382c31a",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "8f9c7a199797613428176fc3207d5b096c1d09b89fa84ea29df835d76a4788a2"
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/bank-of-america/logo-1.png",
+      "source_url": "https://www.bankofamerica.com/content/images/ContextualSiteGraphics/Logos/en_US/logos/bac-logo-v2.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 7610,
+      "sha256": "c43995f179d954c70f7ae1f2f33f4c342c319a355eb2c1990fa91f0d744a5190",
+      "width": 360,
+      "height": 36
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/bank-of-america/reference-1.webp",
+      "source_url": "https://www1.bac-assets.com/homepage/spa-assets/images/assets-images-site-homepage-bmh-module-default-education-bac-edu-tile_147796_397_en_gc_01-CSX79bea30b.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div content--wrapper div carousel__content div carousel__item div carousel__slides",
+      "content_type": "image/webp",
+      "bytes": 23460,
+      "sha256": "2f06b492eda80a107e2891ae281dd4442520e53cd131c88aefb2b6db177384bc",
+      "width": 397,
+      "height": 360
+    }
+  ]
+}

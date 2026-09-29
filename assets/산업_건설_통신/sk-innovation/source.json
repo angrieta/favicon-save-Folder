@@ -1,0 +1,71 @@
+{
+  "company": "SK이노베이션",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.skinnovation.com/",
+  "page_url": "https://www.skinnovation.com/",
+  "page_title": "SK이노베이션",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.skinnovation.com/resources/video/visual.mp4; banner:ValueError:https://www.skinnovation.com/resources/video/video-business-1.mp4; reference:ValueError:https://www.skinnovation.com/resources/video/visual.mp4; reference:ValueError:https://www.skinnovation.com/resources/video/video-business-1.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/sk-innovation/favicon.ico",
+      "source_url": "https://www.skinnovation.com/resources/images/common/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "431bcf09d2307363312cb9382a9d857f4c8ff081bf15fcb9de4b7c05957e0ad7",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/sk-innovation/logo-1.png",
+      "source_url": "https://www.skinnovation.com/resources/images/common/wa-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 웹 접근성 품질인증 마크 div wa-mark div extra div inner div info",
+      "content_type": "image/png",
+      "bytes": 13670,
+      "sha256": "56547ef7a9046fdc1da2d12047b2840e12a771e3c88bd8fcdbf974187002ccc7",
+      "width": 116,
+      "height": 82
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/sk-innovation/reference-1.webp",
+      "source_url": "https://www.skinnovation.com/resources/images/main/ski_0630_2.png",
+      "source_tag": "img:page-image",
+      "context": "img WE ANSWER WITH INNOVATION. SK이노베이션 통합보고서 2025 자세한 사항은 하단 내용을 참조하세요. a div swiper-slide div swiper-wrapper div popup-swiper",
+      "content_type": "image/webp",
+      "bytes": 42482,
+      "sha256": "76c678c986a2b76369d5f49a1059ed5c35e76f43da28692451294e2da7e50653",
+      "width": 500,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/sk-innovation/reference-2.svg",
+      "source_url": "https://www.skinnovation.com/resources/images/main/main-pop-2.svg",
+      "source_tag": "img:page-image",
+      "context": "img SK이노베이션 사칭 주의 안내에 대한 이미지 입니다. 자세한 사항은 하단 내용을 참조하세요. div swiper-slide div swiper-wrapper div popup-swiper div modal-body",
+      "content_type": "image/svg+xml",
+      "bytes": 64644,
+      "sha256": "7d95b739069a77e0d3c857d748152bf7747fcece51049f000ac5cf5b6cbd8024",
+      "width": 500,
+      "height": 640,
+      "source_sha256": "c7f16d3ce9a50cc7219c53b62063ca1da9a8bf6da94cb777c0041a1059955faf"
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/sk-innovation/reference-3.webp",
+      "source_url": "https://www.skinnovation.com/gnb/images/15",
+      "source_tag": "img:page-image",
+      "context": "img 2025 통합보고서배너 이미지 a div swiper-slide div swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 21494,
+      "sha256": "5942e24b694e6358fcf8d0904c99ee28a60fd47a485f43df22247593ad94a515",
+      "width": 500,
+      "height": 286
+    }
+  ]
+}

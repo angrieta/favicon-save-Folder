@@ -1,0 +1,96 @@
+{
+  "company": "루닛",
+  "category": "AI_서비스",
+  "requested_url": "https://www.lunit.io/ko/",
+  "page_url": "https://www.lunit.io/ko/",
+  "page_title": "AI 기반 암 조기 발견과 정밀의료 | 루닛",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.lunit.io/wp-content/uploads/2026/02/Lunit_web_heat-map_combined-v3.mp4; reference:ValueError:https://www.lunit.io/wp-content/uploads/2026/02/Lunit_web_heat-map_combined-v3.mp4; reference:ValueError:https://fonts.googleapis.com/css?family=Lexend:100,200,300,400,500,600,700,800,900|Lexend:100,200,300,400,500,600,700,800,900",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/lunit/favicon.png",
+      "source_url": "https://www.lunit.io/wp-content/uploads/2025/11/cropped-Black_Favicon_Logo-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 987,
+      "sha256": "2a497c6925dfc905b83b3e07305f47f4d465b1be3c31838a983ffa4be704e008",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "bac54072866bbbd853bb89a9ec642c0114645b09d1a930ab7ea16beb2ea57e39"
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/lunit/og.webp",
+      "source_url": "https://www.lunit.io/wp-content/uploads/2025/11/Lunit-Rebranding.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21258,
+      "sha256": "a719ad1445d445724db31198e442f169d4a87ed2181558f78bf502afe94f3919",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/lunit/logo-1.svg",
+      "source_url": "https://www.lunit.io/en/wp-content/uploads/2025/08/Lunit_Logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Lunit Logo a lunit-header__logo div lunit-header__mobile-header nav mobile-navigation lunit-header__nav-section Main navigation div lunit-header__content",
+      "content_type": "image/svg+xml",
+      "bytes": 4419,
+      "sha256": "f6294993ccaf08ac9145ff3e71380183e562d2bdfa58247614d64eaf953ce8e4",
+      "width": 166,
+      "height": 45,
+      "source_sha256": "1266f1f6f344d12e68763db23ac98f50ddd0098c40581fde7c5e06d452bc7356"
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/lunit/logo-2.svg",
+      "source_url": "https://www.lunit.io/en/wp-content/uploads/2025/10/Logo-black.svg",
+      "source_tag": "json-ld.@graph[4].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 4413,
+      "sha256": "a881cf4eaac0ff1ae5ad94e6518e7fb7da649d176c01d5b5a5d99d15f9faa9d5",
+      "width": 189,
+      "height": 52,
+      "source_sha256": "9379323d05d1bf3beb085b6d8550d310bf07d2c2a33f07003a9c276705a1cee8"
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/lunit/banner-1.webp",
+      "source_url": "https://www.lunit.io/en/wp-content/uploads/2025/10/Homepage_Investor-Hub.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img supreme-investor-hero__image 루닛 IR 허브 div supreme-investor-hero__image-wrapper div supreme-investor-hero__container supreme-investor-hero__container--row supreme-investor-hero__container--align-center supreme-investor-hero__container--c",
+      "content_type": "image/webp",
+      "bytes": 99066,
+      "sha256": "ab77d9b1e8e37f41f51cb1dc0bb873d7a3e86208c9fc70e304c3962de84bd385",
+      "width": 1410,
+      "height": 1086
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/lunit/reference-1.webp",
+      "source_url": "https://www.lunit.io/en/wp-content/uploads/2025/09/Background-technology-image.png",
+      "source_tag": "inline-background-image",
+      "context": "div lunit-technology-hero-6abbc05622cad lunit-technology-hero lunit-technology-hero--bg-right-bottom lunit-technology-hero--align-left background-image: url('https://lunit.io/en/wp-content/uploads/2025/09/Background-technology-image.png');",
+      "content_type": "image/webp",
+      "bytes": 31976,
+      "sha256": "e364ac7243a7ca7d832234d0ba8676050d007a8d1cb1c27c7ae64d2e72c512fd",
+      "width": 519,
+      "height": 714
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/lunit/reference-2.webp",
+      "source_url": "https://www.lunit.io/en/wp-content/uploads/2025/09/Background-technology-image-mobile.png",
+      "source_tag": "img:page-image",
+      "context": "img 암 진단과 치료의 방식을 다시 정의합니다 div lunit-technology-hero__mobile-image div lunit-technology-hero-6abbc05622cad lunit-technology-hero lunit-technology-hero--bg-right-bottom lunit-technology-hero--align-left section -superbox-section-45-11 oxy-su",
+      "content_type": "image/webp",
+      "bytes": 29544,
+      "sha256": "69bbae7c49517a65679f7e43fdac06805716c462e97dacac198021db721357dd",
+      "width": 546,
+      "height": 474
+    }
+  ]
+}

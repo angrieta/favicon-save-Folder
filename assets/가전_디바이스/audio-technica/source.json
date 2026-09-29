@@ -1,0 +1,108 @@
+{
+  "company": "Audio-Technica",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.audio-technica.com/",
+  "page_url": "https://www.audio-technica.com/en/",
+  "page_title": "Headphones, Turntables, Microphones & Cartridges | Audio-Technica",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.audio-technica.com/static/version1790671746/frontend/Aware/default/en_GB/Hyva_Theme/js/alpine3.min.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/audio-technica/favicon.svg",
+      "source_url": "https://www.audio-technica.com/media/favicon/default/AT-favicon.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1677,
+      "sha256": "29205f7eaa0cdfa07cb8be38388d5f2b203a334de3b92f503ecfd8ceb6f3bc60",
+      "width": 88,
+      "height": 88,
+      "source_sha256": "c1c4af7cfe60db9b2320c5278817a39656660e8113ae8c7e517cad245851cc6e"
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/audio-technica/logo-1.svg",
+      "source_url": "https://www.audio-technica.com/static/version1790671746/frontend/Aware/default/en_GB/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img page_header__logo__img Header Logo for Audio-Technica Audio-Technica a store logo div page_header__logo div page_header__container div header page_header",
+      "content_type": "image/svg+xml",
+      "bytes": 8207,
+      "sha256": "e42ad4f5d003d273e6eb8827fa4829fc1c46061de7987c36a773a37e4e1a5bfc",
+      "width": 456,
+      "height": 84,
+      "source_sha256": "7ac5746a324414b3f241d3804fcdd8ca1c4133aaccb50cbbac0fd8b7debb086d"
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/audio-technica/logo-2.png",
+      "source_url": "https://www.audio-technica.com/en-us/media/logo/default/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 10995,
+      "sha256": "6197cc39e7708512971c90aced83c53951fd07c5270294512957e9d3eabeeaf7",
+      "width": 470,
+      "height": 82
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/audio-technica/banner-1.webp",
+      "source_url": "https://www.audio-technica.com/media/.renditions/wysiwyg/ATH-WP900SE_-_Desktop_2000x1000_-_4_-_v1.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div banner__background div splide__slide banner__education-player--slide div splide__list div splide__track",
+      "content_type": "image/webp",
+      "bytes": 61514,
+      "sha256": "77f8515daf15d72da2af9c1c5d68f80ec6261d60f59d22d1ee6c6596591acd7a",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/audio-technica/banner-2.webp",
+      "source_url": "https://www.audio-technica.com/media/.renditions/wysiwyg/AT-MCD1_article__Banner_Desktop_2000X1000.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div banner__background div splide__slide banner__education-player--slide div splide__list div splide__track",
+      "content_type": "image/webp",
+      "bytes": 56944,
+      "sha256": "27d444757628283741c034794e18c9dfce5ed197ad7f6ac0d1f67823e2854666",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/audio-technica/reference-1.webp",
+      "source_url": "https://www.audio-technica.com/media/.renditions/wysiwyg/ATH-WP900SE_-_Tablet_1000x1333_-_4_-_v1.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div banner__background div splide__slide banner__education-player--slide div splide__list div splide__track",
+      "content_type": "image/webp",
+      "bytes": 59688,
+      "sha256": "7da864ccb5eea23ff8f379488815cd347228c9c65c6a5541bfb155d8e8e0bf8d",
+      "width": 1000,
+      "height": 1333
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/audio-technica/reference-2.webp",
+      "source_url": "https://www.audio-technica.com/media/.renditions/wysiwyg/ATH-WP900SE_-_Mobile_500_x_900_-_4_-_v1.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div banner__background div splide__slide banner__education-player--slide div splide__list div splide__track",
+      "content_type": "image/webp",
+      "bytes": 27662,
+      "sha256": "fee46b2fe254df9e76c7984c8abc7ab7b756d22210a4cf81dea4f37b8de4f09f",
+      "width": 500,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/audio-technica/reference-3.webp",
+      "source_url": "https://www.audio-technica.com/media/.renditions/wysiwyg/AT-MCD1_article_Banner_Tablet_1000X1333.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div banner__background div splide__slide banner__education-player--slide div splide__list div splide__track",
+      "content_type": "image/webp",
+      "bytes": 76150,
+      "sha256": "acf7d49ff1cf0974a207cf9e5bb2938ae893e33571908735318e7a112a72df72",
+      "width": 1000,
+      "height": 1333
+    }
+  ]
+}

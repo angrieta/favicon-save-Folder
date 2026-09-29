@@ -1,0 +1,59 @@
+{
+  "company": "Calm",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.calm.com",
+  "page_url": "https://www.calm.com/",
+  "page_title": "Calm - 명상 및 수면 부문 1위 앱",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.calm.com/_next/static/chunks/0bdzef7_1v_2j.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/calm/favicon.png",
+      "source_url": "https://www.calm.com/apple-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 32085,
+      "sha256": "20c929bba0d96dff73e90f7e7eb32091ed0d06b6e777a015de28fd4f561296b1",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/calm/og.webp",
+      "source_url": "https://www.calm.com/_n/images/social/calm-meta.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 38342,
+      "sha256": "75f61565f7aadf3f22f50f3d0c6aa8ce2ce767b6d58da5f8a17985495068fdb4",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/calm/banner-1.webp",
+      "source_url": "https://www.calm.com/_next/static/media/content-tile-collage.19v4rh3e24sb5.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img div styles__Banner-sc-d026f2c8-9 daZqfX main main-content styles__Wrapper-sc-c0ebe43d-0 brjxxS body html",
+      "content_type": "image/webp",
+      "bytes": 81450,
+      "sha256": "dc5bdd10e0d4c0b2a0c0b5af679b526ddae849ab28289b4a9c81fcc59dbb2736",
+      "width": 1600,
+      "height": 417,
+      "source_sha256": "d5b1c53554ed0987c050a100c9dd550da168e7cad45ce73663a1613a43d90b7e"
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/calm/banner-2.webp",
+      "source_url": "https://www.calm.com/_next/static/media/jasper-lake.421-7zpxn9i1t.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img div styles__JasperLake-sc-3e6b267a-1 gIpaKJ section styles__Wrapper-sc-3e6b267a-0 gqIVKp main main-content styles__Wrapper-sc-c0ebe43d-0 brjxxS body",
+      "content_type": "image/webp",
+      "bytes": 102598,
+      "sha256": "678c35312229dd9008c7fe1d8975e6cab584fcc2dbb55d0b2f56e494cedfbdce",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "426995dfa765be9764c94b5d9847a4663f69503327721fcf24b20d1e37745847"
+    }
+  ]
+}

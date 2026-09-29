@@ -6,17 +6,6 @@
   "page_title": "투루카",
   "collection_status": "complete",
   "collection_error": "asset:https://www.peoplecar.co.kr/service/투루카 배달렌트 서비스 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/cs/1200:HTTPError; asset:https://www.peoplecar.co.kr/cs/630:HTTPError; asset:https://www.peoplecar.co.kr/cs/투루카 로고:HTTPError; asset:https://www.peoplecar.co.kr/service/투루카 카셰어링 서비스 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/service/투루카 리턴프리 서비스 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/service/투루카 비즈멤버십 서비스 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/about/1920:HTTPError; asset:https://www.peoplecar.co.kr/about/550:HTTPError; asset:https://www.peoplecar.co.kr/about/투루카 회사소개 메인 이미지:HTTPError; asset:https://www.peoplecar.co.kr/about/800:HTTPError; asset:https://www.peoplecar.co.kr/about/600:HTTPError",
-  "crawl_stats": {
-    "logical_pages": 18,
-    "desktop_pages": 18,
-    "mobile_pages": 18,
-    "stylesheets": 2,
-    "scripts": 36,
-    "candidates": 263,
-    "attempted_assets": 263,
-    "errors": 16,
-    "collected_at": "2026-09-03T08:08:09.448814+09:00"
-  },
   "assets": [
     {
       "type": "favicon",
@@ -126,12 +115,12 @@
       "source_tag": "img:banner, img:image",
       "context": "img min-w-800 object-cover object-center xl:min-w-full xl:translate-x-[-15%] xl:object-left 투루카 종합 서비스 이미지 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-1 h-full div flex h-full w-full flex-col items-center justify-between gap-32 xl:flex-row max-w-auto mx-0 section flex items-center pt-48 xl:h-[760px] xl:pt-0 bg-surface-subtle overflow-x-hidden div -mt-header-height-",
       "content_type": "image/webp",
-      "bytes": 297100,
-      "sha256": "c30ee9fb8d883e1551e160ff7afe67726ed1d678e28131ab4aa2e3a012f8ea4b",
+      "bytes": 127002,
+      "sha256": "69e40b7baa18351a8d658eda6bfff04a4b20e925ade31bcee5a271e4278d66a9",
       "source_sha256": "8ea4257ca7f4883fc20cd8b226e3bc94548860d1644b05d6eaaff2d95e6b10e0",
       "dhash": "cc4d494d4d4d4969",
-      "width": 2200,
-      "height": 1469,
+      "width": 1600,
+      "height": 1068,
       "variant": "shared",
       "source_pages": [
         "https://www.peoplecar.co.kr/"
@@ -342,8 +331,8 @@
       "source_tag": "img:banner, img:image",
       "context": "img h-auto max-h-600 w-405 object-contain xl:max-h-none 투루카 앱 화면 div mx-96 aspect-[405/630] overflow-hidden xl:mx-0 xl:mt-130 div relative flex w-full flex-1 items-center justify-center order-2 xl:order-2 div mx-auto flex h-full w-full max-w-7xl flex-col items-center justify-between gap-32 xl:flex-row section flex items-center pt-48 xl:h-[760px] xl:pt-0 bg-surface-subtle div -mt-header-height-mobi",
       "content_type": "image/webp",
-      "bytes": 150074,
-      "sha256": "f18bd820034995d408feebbbfa6c3ec58dc91a18e61d1a0f5bf835fb294cefb2",
+      "bytes": 109800,
+      "sha256": "40e33ceb974bee504b04fd3441460b5b24a40068a3b1f72cfae03c5a4e55a50f",
       "source_sha256": "3d568b963d0843e4896c17c4de988efd1018ddce65af52ac467ce6b9a3aebbcd",
       "dhash": "63575b4b4d4b4517",
       "width": 1035,

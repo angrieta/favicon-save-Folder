@@ -1,0 +1,84 @@
+{
+  "company": "Vox",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.vox.com/",
+  "page_url": "https://www.vox.com/",
+  "page_title": "Vox",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/vox/favicon.png",
+      "source_url": "https://www.vox.com/static-assets/icons/android-chrome-512x512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7084,
+      "sha256": "0680400023cbcea01d6e65f3b9c6073e67f73722b2e72c1d95139688fa27525d",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "a1c0e01791f8fdd110138f3eddde5a5749f1401718da332b8b3ee8a251fe812c"
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/vox/og.webp",
+      "source_url": "https://www.vox.com/static-assets/default-og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12796,
+      "sha256": "d92f4a320a1f39916c804adaa3deafdfbdece8cd5579d967475c7285265929f9",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/vox/logo-1.webp",
+      "source_url": "https://platform.vox.com/wp-content/uploads/sites/2/2024/04/default-og-image.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 17258,
+      "sha256": "e4cbb721563156baba18c5ad7d1de4e9ef702157a218e31db99d4b84663582ca",
+      "width": 1200,
+      "height": 624
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/vox/reference-1.webp",
+      "source_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/09/BethWalrond_VeganRestaurants.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "source_tag": "img:page-image",
+      "context": "img _1ssnpw50 Where did all the vegan restaurants go? div _11rr6on8 _11rr6on7 _11rr6onq _11rr6ona _19xomfu3 div duet--content-cards--content-card _11rr6on1 _11rr6on0 fxw44b3 _10j2bu52 div _10j2bu51 div _10j2bu50",
+      "content_type": "image/webp",
+      "bytes": 97142,
+      "sha256": "5ad19f3b0487211c24a8b64e3d381064d08a5328f58772e9ef45aad840f434ba",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "9c25596f393d9166e5829ae446f51fa0c5c02bbc1f84b1f28eb4da20578c50fa"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/vox/reference-2.webp",
+      "source_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/09/Vox_Coliving_BethWalrond.jpg?quality=90&strip=all&crop=17.255210331917%2C0%2C66.666666666667%2C100&w=2400",
+      "source_tag": "img:page-image",
+      "context": "img _110vy5if _1ssnpw50 America’s empty bedrooms are up for grabs div _110vy5i7 _110vy5i6 _110vy5ic _110vy5ih _19xomfu3 div _10j2bu54 duet--content-cards--content-card _110vy5i1 _110vy5i0 fxw44b3 div _10j2bu53 div _10j2bu50",
+      "content_type": "image/webp",
+      "bytes": 105122,
+      "sha256": "0ef3d2722f306fe3ddfd5ebd7a4bfe77173bfc7210cdb4b61609e1e1ec692cd5",
+      "width": 1267,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/vox/reference-3.webp",
+      "source_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/09/Vox_Coliving_BethWalrond.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "source_tag": "img:page-image",
+      "context": "img _110vy5ig _1ssnpw50 America’s empty bedrooms are up for grabs div _110vy5i7 _110vy5i6 _110vy5ic _110vy5ih _19xomfu3 div _10j2bu54 duet--content-cards--content-card _110vy5i1 _110vy5i0 fxw44b3 div _10j2bu53 div _10j2bu50",
+      "content_type": "image/webp",
+      "bytes": 88490,
+      "sha256": "0469740d6680bc37e8736a7e0c333f4b564ca7007e4b19089364d530ab12c19c",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "c1696663f296824d7d3f699a917c37d344e435b33ba8cbffbf96e8a6ebbb2340"
+    }
+  ]
+}

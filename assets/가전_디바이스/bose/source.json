@@ -1,0 +1,93 @@
+{
+  "company": "Bose",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.bose.co.kr/",
+  "page_url": "https://www.bose.co.kr/",
+  "page_title": "BOSE 공식 온라인 스토어",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://vendor-cdn.imweb.me/css/poppins.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/bose/favicon.png",
+      "source_url": "https://cdn.imweb.me/thumbnail/20220629/b152680cdf7ff.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4908,
+      "sha256": "4385a0505fdd3a34f8c2adcc6d1b39fc37880a620da5b07a8df82d416b684f32",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/bose/og.webp",
+      "source_url": "https://cdn.imweb.me/upload/S202206294c0a2cc6190f4/ca5ef5ea8547b.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3242,
+      "sha256": "49580a50e10b7dcb27d4ea36552c3e033b836aa49c217ab08054b9e3e869c4fe",
+      "width": 1200,
+      "height": 605
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/bose/logo-1.png",
+      "source_url": "https://cdn.imweb.me/upload/S202206294c0a2cc6190f4/7d05bda98ad7b.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 2380,
+      "sha256": "1c4cc715e4674df69a138c6a6f4aec1d5981ecfcefecba77c759e302852cd7f1",
+      "width": 300,
+      "height": 80
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/bose/logo-2.webp",
+      "source_url": "https://cdn-optimized.imweb.me/v2/brand/S202206294c0a2cc6190f4/85eec937-4dad-4b2b-974e-af3e557a399e",
+      "source_tag": "img:semantic-logo",
+      "context": "img div iw-card-bg article iw-card a iw-card-link div iw-track iw-track",
+      "content_type": "image/webp",
+      "bytes": 59434,
+      "sha256": "553ae718c46cb6736ec8e916acb7006e3021975567fa275ec88f298675462872",
+      "width": 768,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/bose/reference-1.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20260918/c02f1cf4a932f.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  item holder section background-image:url(https://cdn.imweb.me/thumbnail/20260918/c02f1cf4a932f.jpg); background-color:#dddddd; background-repeat : no-repeat; background-size : cover; background-position : 50% 50%;",
+      "content_type": "image/webp",
+      "bytes": 20582,
+      "sha256": "e4a90d83fd9c6803b140ee3c240bcae90bf5c165fb75099d0b60ccd881e792f4",
+      "width": 371,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/bose/reference-2.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20260918/e51baed9381bd.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  item holder section background-image:url(https://cdn.imweb.me/thumbnail/20260918/e51baed9381bd.jpg); background-color:#dddddd; background-repeat : no-repeat; background-size : cover; background-position : 50% 50%;",
+      "content_type": "image/webp",
+      "bytes": 21478,
+      "sha256": "7a160460262dabf0dd1c21c626692d10728e64d8bc7b4739d8fbf2c0859078c6",
+      "width": 371,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/bose/reference-3.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20260918/22ec495ef3386.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  item holder section background-image:url(https://cdn.imweb.me/thumbnail/20260918/22ec495ef3386.jpg); background-color:#dddddd; background-repeat : no-repeat; background-size : cover; background-position : 50% 50%;",
+      "content_type": "image/webp",
+      "bytes": 15492,
+      "sha256": "6e6bc0fb75bb333c91e60c2646d534956908eb96dc3d705af436cb1bb6a28354",
+      "width": 371,
+      "height": 600
+    }
+  ]
+}

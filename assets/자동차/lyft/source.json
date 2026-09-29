@@ -1,0 +1,120 @@
+{
+  "company": "Lyft",
+  "category": "자동차",
+  "requested_url": "https://www.lyft.com/",
+  "page_url": "https://www.lyft.com/",
+  "page_title": "Ride or drive with Lyft",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://cdn.lyft.com/coreui/base.css; reference:ValueError:https://cdn.lyft.com/lyftcomfe/_next/static/css/94615db9c9752541.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/lyft/favicon.png",
+      "source_url": "https://www.lyft.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 777,
+      "sha256": "ecb1d2dff6f48142d805f4c7f3f4aa46f5abac137ccbdda829996b32cd6dcbe5",
+      "width": 150,
+      "height": 150,
+      "source_sha256": "b4223a7b0c556bc0292a79cbafd67c447d93d227d486c7494cfb751b486f0dcf"
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/lyft/og.webp",
+      "source_url": "https://images.ctfassets.net/q8mvene1wzq4/3mzbN0Ji0KVABu95kzmSul/5de03d2da2a8de3a0a6d4cde1da40cd7/Lyft_Logo_Sharing_Image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4346,
+      "sha256": "b11c513c76d42c296f3a3895a3be294d2b243af35b938ca91c52066bf70127e7",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/lyft/logo-1.svg",
+      "source_url": "https://cdn.lyft.com/static/lyftcomfe/lyft-logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 748,
+      "sha256": "690ae6baaf297e8510472ad60a812f81ea9c5517d14d02c26b7fa33d109f4ff3",
+      "width": 32,
+      "height": 32,
+      "source_sha256": "7d58255168db63b0dbaf592d1cd712eedf66ec84ff8108cc3d77a9197429ca3d"
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/lyft/logo-2.png",
+      "source_url": "https://images.ctfassets.net/q8mvene1wzq4/1rQnOdBLD2zBjzb1ZSZ4T6/a64e1a2649652a89ef465775f7f09cd7/Lyft_HP_Lyft_Pink_Logo_Update_DT.png?w=1500&q=60&fm=webp",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div sc-cf1e4aa6-6 daApAG div sc-cf1e4aa6-2 dwDwtY div sc-cf1e4aa6-7 jiYEbk div sc-38fb062f-150 dJovZP",
+      "content_type": "image/png",
+      "bytes": 1245249,
+      "sha256": "537f179ab28acb5d2eeb88772d236798a129d85c0acf2a87e6d2994ec7d67042",
+      "width": 1008,
+      "height": 1168
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/lyft/banner-1.webp",
+      "source_url": "https://images.ctfassets.net/q8mvene1wzq4/35FO36I7e1AvaQUBNsD7ga/abd0e6520f9c41214bc630ac508cd61c/Hero_image_DT.png?w=2500&q=60&fm=webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div sc-bc46f060-3 jqAENv div sc-bc46f060-0 fUSmrA div sc-a6eb88a4-2 cpUhry div sc-a6eb88a4-0 fVUrCc",
+      "content_type": "image/webp",
+      "bytes": 42682,
+      "sha256": "bd751f426320e30cb22d6bf14e2de2d0f1d82e83fe5316b00e394bbe98fb806f",
+      "width": 1424,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/lyft/banner-2.webp",
+      "source_url": "https://images.ctfassets.net/q8mvene1wzq4/35FO36I7e1AvaQUBNsD7ga/abd0e6520f9c41214bc630ac508cd61c/Hero_image_DT.png?w=2500&q=60&fm=",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div sc-bc46f060-3 jqAENv div sc-bc46f060-0 fUSmrA div sc-a6eb88a4-2 cpUhry div sc-a6eb88a4-0 fVUrCc",
+      "content_type": "image/webp",
+      "bytes": 57764,
+      "sha256": "afe15e43a1f1d86fe13fd919aed1a458d7e961777cebed0b16fc39c8ea258407",
+      "width": 1424,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/lyft/reference-1.webp",
+      "source_url": "https://images.ctfassets.net/q8mvene1wzq4/1tiy0lVEdDpuib18k2cWGX/a72e1927716f69922384d4f675b44a0e/Module_Hero_1_DT.png?w=1500&q=60&fm=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div sc-d1b298cf-2 iACTZI div sc-38fb062f-150 gmnuGu div sc-38fb062f-151 wgtNV div sc-a6eb88a4-2 cpUhry",
+      "content_type": "image/webp",
+      "bytes": 29660,
+      "sha256": "b9a09d2fe6c8ccfd5bb856f8d015f7bf8eed1c89074040ff1f9a5dc90b8a512c",
+      "width": 1008,
+      "height": 672
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/lyft/reference-2.webp",
+      "source_url": "https://images.ctfassets.net/q8mvene1wzq4/1tiy0lVEdDpuib18k2cWGX/a72e1927716f69922384d4f675b44a0e/Module_Hero_1_DT.png?w=1500&q=60&fm=",
+      "source_tag": "picture:page-image",
+      "context": "picture div sc-d1b298cf-2 iACTZI div sc-38fb062f-150 gmnuGu div sc-38fb062f-151 wgtNV div sc-a6eb88a4-2 cpUhry",
+      "content_type": "image/webp",
+      "bytes": 37654,
+      "sha256": "9d924cbbb5c3521dbe6a7cab79be068acc9f4eedda45b816188070acae689e04",
+      "width": 1008,
+      "height": 672
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/lyft/reference-3.webp",
+      "source_url": "https://images.ctfassets.net/q8mvene1wzq4/1rQnOdBLD2zBjzb1ZSZ4T6/a64e1a2649652a89ef465775f7f09cd7/Lyft_HP_Lyft_Pink_Logo_Update_DT.png?w=1500&q=60&fm=",
+      "source_tag": "picture:page-image",
+      "context": "picture div sc-cf1e4aa6-6 daApAG div sc-cf1e4aa6-2 dwDwtY div sc-cf1e4aa6-7 jiYEbk div sc-38fb062f-150 dJovZP",
+      "content_type": "image/webp",
+      "bytes": 70280,
+      "sha256": "4a7ad37c3132bf0763e50510eafdf3e67b05d3d45b314fb352067454269c529b",
+      "width": 1008,
+      "height": 1168,
+      "source_sha256": "833ff1f4b20ab0820039a50a9b7aa6ce48b59c94f42e2f8c7b79cd994b139079"
+    }
+  ]
+}

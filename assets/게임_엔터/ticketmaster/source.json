@@ -1,0 +1,46 @@
+{
+  "company": "Ticketmaster",
+  "category": "게임_엔터",
+  "requested_url": "https://www.ticketmaster.com/",
+  "page_url": "https://www.ticketmaster.com/",
+  "page_title": "Ticketmaster: Buy Verified Tickets for Concerts, Sports, Theater and Events",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/ticketmaster/favicon.ico",
+      "source_url": "https://uk.tmconst.com/rc-e2a38fbb/images/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "84a5db79c43699e26955b05d5a532f11b351f9d6f99c5635040b34a1ea476d3c",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/ticketmaster/logo-1.svg",
+      "source_url": "https://uk.tmconst.com/rc-e2a38fbb/images/logo/ticketmaster_black.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 4282,
+      "sha256": "2e2dcc0c9cd6535eddc5f178814039096f0b75c27fb0461a10eb7a33f2da6a77",
+      "width": 235,
+      "height": 33
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/ticketmaster/logo-2.svg",
+      "source_url": "https://uk.tmconst.com/rc-e2a38fbb/images/logo/facebook.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img sc-d393fa3b-5 iOLeHf Facebook Facebook a Link__StyledLink-sc-pudy0l-0 eYZQRC sc-d393fa3b-4 dHztBj li sc-d393fa3b-3 wCGxJ ul UnstyledList-sc-ix96mm-0 sc-d393fa3b-2 hFFFXm cXAKAJ div sc-d393fa3b-0 iDkvYH",
+      "content_type": "image/svg+xml",
+      "bytes": 469,
+      "sha256": "98c46da2fefac0b97e4b878f26346d9f53f3ea4855fdbd18ae1e3bb3785397b2",
+      "width": 24,
+      "height": 24
+    }
+  ]
+}

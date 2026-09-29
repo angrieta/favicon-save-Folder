@@ -1,0 +1,33 @@
+{
+  "company": "핀크",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.finnq.com/",
+  "page_url": "https://www.finnq.com/",
+  "page_title": "하나핀크",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.finnq.com/_next/static/css/d906af3167bb7cba.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/finnq/favicon.png",
+      "source_url": "https://www.finnq.com/favicon.ico",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 1561,
+      "sha256": "3c76bfd979b38de7cf6521e38d07a733b8c389b81a8ce2878d4d4c1c348f0c5e",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/finnq/og.webp",
+      "source_url": "https://www.finnq.com/images/og/og_finnq.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14386,
+      "sha256": "916f96ee7d69463b134a4be5505d88d5215d9d97dd0e60f39ecba0c7bceed7a1",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "company": "L'Oréal",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.loreal.com/ko-kr/korea/",
+  "page_url": "https://www.loreal.com/ko-kr/korea/",
+  "page_title": "로레알코리아",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.loreal.com/themes/LorealCorp/css/bundle.css?v=3.39.0-release00000003; reference:ValueError:https://www.loreal.com/themes/LorealCorp/css/chunk-04eeced9.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/loreal/favicon.png",
+      "source_url": "https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/favicon.png?rev=-1",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 665,
+      "sha256": "2b0a5302628f3483e1f3899b26963a9b9d35a84f0f21a16bd31c3a560617e91f",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/loreal/og.webp",
+      "source_url": "https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/7-local-country-folder/korea/page/img10-min.jpg?rev=846085c051fd47dc8d2d3c98d4b865ba",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9200,
+      "sha256": "28404cb57337cb10d60ef190f48e98a5c67d3b548ae828891b05753de71f0bc9",
+      "width": 1200,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/loreal/og.webp",
+      "source_url": "https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/7-local-country-folder/korea/page/img10-min.jpg?rev=846085c051fd47dc8d2d3c98d4b865ba",
+      "source_tag": "img:semantic-logo",
+      "content_type": "image/webp",
+      "bytes": 9200,
+      "sha256": "28404cb57337cb10d60ef190f48e98a5c67d3b548ae828891b05753de71f0bc9",
+      "width": 1200,
+      "height": 500,
+      "context": "img img10 min div hero__image noscript responsive-image image image--hero hero__image section container hero hero--stage hero--bottom hero--left",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/loreal/logo-2.webp",
+      "source_url": "https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/7-local-country-folder/korea/page/img10-min.jpg?rev=846085c051fd47dc8d2d3c98d4b865ba&cx=0.66&cy=0.46&cw=216&ch=400&blr=False&hash=9275292E94CF05595DF4600EC06522CB",
+      "source_tag": "img:semantic-logo",
+      "context": "img img10 min noscript responsive-image image image--slideCard div card card--simple div scroll-slider__slide",
+      "content_type": "image/webp",
+      "bytes": 4024,
+      "sha256": "389da4d4bf31bbd64451dfe09d1b62284a68e81d416eeb95ed3473a38786498f",
+      "width": 216,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/loreal/og.webp",
+      "source_url": "https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/7-local-country-folder/korea/page/img10-min.jpg?rev=846085c051fd47dc8d2d3c98d4b865ba",
+      "source_tag": "img:semantic-banner",
+      "content_type": "image/webp",
+      "bytes": 9200,
+      "sha256": "28404cb57337cb10d60ef190f48e98a5c67d3b548ae828891b05753de71f0bc9",
+      "width": 1200,
+      "height": 500,
+      "context": "img img10 min div hero__image noscript responsive-image image image--hero hero__image section container hero hero--stage hero--bottom hero--left",
+      "reused_from": "social"
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/loreal/reference-1.webp",
+      "source_url": "https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/7-local-country-folder/korea/page/rodrigopizarro.jpg?rev=e839768024474e12ad0de98d333f20d8",
+      "source_tag": "img:page-image",
+      "context": "img rodrigopizarro noscript responsive-image image rodrigopizarro div manifesto__flipped-image div manifesto__content-flipped Manifesto section",
+      "content_type": "image/webp",
+      "bytes": 35850,
+      "sha256": "961fc3d2cb12e7b784f896bc4440741f8817df7a421b0afbe238a42d078f4d52",
+      "width": 500,
+      "height": 666
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/loreal/reference-2.webp",
+      "source_url": "https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/7-local-country-folder/korea/articles/ces-beauty-tech-unveil2.jpg?rev=4c7437cbb6734eeca0f2b05ae878e635",
+      "source_tag": "img:page-image",
+      "context": "img ces beauty tech unveil2 noscript responsive-image image image--slideCard div card card--article div scroll-slider__slide",
+      "content_type": "image/webp",
+      "bytes": 36656,
+      "sha256": "983695480a91acd2421b164b45380ed6c5ddf6bdde08f2f3688b0d2a1acb1683",
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/loreal/reference-3.webp",
+      "source_url": "https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/7-local-country-folder/korea/articles/cdp-aaa-10years1.jpg?rev=97c41bccf8354f88b272e653935c2f39",
+      "source_tag": "img:page-image",
+      "context": "img cdp aaa 10years1 noscript responsive-image image image--slideCard div card card--article div scroll-slider__slide",
+      "content_type": "image/webp",
+      "bytes": 117096,
+      "sha256": "baea12baf65141bf63699e828f4a4aa330159f174b98023998b6cd8102a36786",
+      "width": 1200,
+      "height": 675
+    }
+  ]
+}

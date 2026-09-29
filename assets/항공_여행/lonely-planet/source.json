@@ -1,0 +1,107 @@
+{
+  "company": "Lonely Planet",
+  "category": "항공_여행",
+  "requested_url": "https://www.lonelyplanet.com/",
+  "page_url": "https://www.lonelyplanet.com/",
+  "page_title": "Travel Guides & Travel Inspiration - Lonely Planet",
+  "collection_status": "complete",
+  "collection_error": "logo:ValueError:https://s3.amazonaws.com/static-asset/lp-logo-amp.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/lonely-planet/favicon.ico",
+      "source_url": "https://www.lonelyplanet.com/images/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "f855d84ea278f867ec5aeefc2ce98a490af77add018964793a062fc1752acd3e",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/lonely-planet/og.webp",
+      "source_url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_16b18q7j3l0nr1lg94uo5t524f/-FWEBP-Ro:5,w:1200,h:630,n:default",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 131520,
+      "sha256": "a622d58e035fefe4bb374d7a7a329d647e1123beece4b8dfdc432b7013adfb4b",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/lonely-planet/logo-1.png",
+      "source_url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_uq443932352d73flptbkihal31/-FPNG-S320",
+      "source_tag": "img:semantic-logo",
+      "context": "img max-w-full h-10 w-auto shrink-0 mr-[65px] object-contain Logo Cropped div text-primary absolute top-0 left-0 flex h-10 w-max items-center will-change-transform motion-safe:animate-[move-slideshow_25s_linear_infinite] astro-ml5vxxlg div ",
+      "content_type": "image/png",
+      "bytes": 22643,
+      "sha256": "fdc244eb233ee7d878a13ee6c8e482a6b4ad0eb830eca136faadcef0bbf1b282",
+      "width": 320,
+      "height": 84
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/lonely-planet/banner-1.webp",
+      "source_url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_df1uja34ih3n1ace04vru2vf5u/-FWEBP-C2050x1133%2C0%2C116-S1536x849",
+      "source_tag": "img:semantic-banner",
+      "context": "img max-w-full absolute inset-0 w-full h-full object-cover Veneto, Italy, horseback riding, horse, vineyards, vineyard, wine region, equestrian, local guide, horse guide, countryside, rural landscape, wine tourism, outdoor adventure, travel",
+      "content_type": "image/webp",
+      "bytes": 181546,
+      "sha256": "631cd8f06c17e405e121734057c07e668fdf9a6e55c3edac49f59e0230874a07",
+      "width": 1536,
+      "height": 849,
+      "source_sha256": "e31fbbbf74183b356145c5cc5cf5d2110eab4b6afd86e67c7bc102587d308a3f"
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/lonely-planet/banner-2.webp",
+      "source_url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_ut4le1g95d5tbced9suchusk1t/-FWEBP-C2050x1025%2C0%2C171-S2000x1000",
+      "source_tag": "img:semantic-banner",
+      "context": "img max-w-full w-full h-full object-cover friends enjoying a canoe ride on a mountain lake near auronzo, surrounded by the dolomites, tre cime di lavaredo in the dolomites, italy, chiara bonetti, lonely planet, Auronzo, Veneto, Italy, june ",
+      "content_type": "image/webp",
+      "bytes": 74038,
+      "sha256": "e4627c517a1119f4307eafc202eb148e17b24b278dabdac096d027390163eac7",
+      "width": 1600,
+      "height": 800,
+      "source_sha256": "ded5a76e1a42e31ff6fd7bee67c0ced1344d62a1bdc1dfa44e40a95b4f02cb3e"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/lonely-planet/reference-1.webp",
+      "source_url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o5vkem8aed4of5oevd7okh6u7s/-FWEBP-C1993x1367%2C28%2C0-S700x480",
+      "source_tag": "inline-background-image",
+      "context": "div  nav-feature-image nav-image block h-[228px] w-full bg-cover bg-center bg-no-repeat background-image:url(\"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_o5vkem8aed4of5oevd7okh6u7s/-FWEBP-Ro:5,w:700,h:480,n:default\")",
+      "content_type": "image/webp",
+      "bytes": 74294,
+      "sha256": "f93193a992f14f8116bf711a949d8446d5290b72ef9cdbd148b4326e85e592da",
+      "width": 700,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/lonely-planet/reference-2.webp",
+      "source_url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_3tefgk62hd7qr74t5fn2t2t141/-FWEBP-C1930x1323%2C67%2C43-S700x480",
+      "source_tag": "inline-background-image",
+      "context": "div  nav-feature-image nav-image block h-[228px] w-full bg-cover bg-center bg-no-repeat background-image:url(\"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_3tefgk62hd7qr74t5fn2t2t141/-FWEBP-Ro:5,w:700,h:480,n:default\")",
+      "content_type": "image/webp",
+      "bytes": 55328,
+      "sha256": "67ae8eec76e6f9c5c9a4749df8336df3007bfbdf5ea0b7771c7f694fa306ec1c",
+      "width": 700,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/lonely-planet/reference-3.webp",
+      "source_url": "https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_rdr9p3sfel6fla1tqcdce3pg4d/-FWEBP-C1993x1367%2C28%2C0-S700x480",
+      "source_tag": "inline-background-image",
+      "context": "div  nav-feature-image nav-image block h-[228px] w-full bg-cover bg-center bg-no-repeat background-image:url(\"https://d2vbr83hnyiux1.cloudfront.net/image/975050285728/image_rdr9p3sfel6fla1tqcdce3pg4d/-FWEBP-Ro:5,w:700,h:480,n:default\")",
+      "content_type": "image/webp",
+      "bytes": 54808,
+      "sha256": "30e21684545a751c31cf675728307f72602cebe8a24f42e92ed7cabb36de724a",
+      "width": 700,
+      "height": 480
+    }
+  ]
+}

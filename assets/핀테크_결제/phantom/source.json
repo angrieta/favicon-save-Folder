@@ -1,0 +1,33 @@
+{
+  "company": "Phantom",
+  "category": "핀테크_결제",
+  "requested_url": "https://phantom.com/",
+  "page_url": "https://phantom.com/",
+  "page_title": "Phantom: Your home for trading crypto, predictions, and more",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://phantom.com/_web_platform_assets/phantom-ui-9_ioPNP4.js; reference:ValueError:https://phantom.com/_web_platform_assets/client-D-HYiRO0.js; reference:ValueError:https://phantom.com/_web_platform_assets/QueryClient-BjwAVraF-B7shV4yw.js; reference:ValueError:https://phantom.com/_web_platform_assets/analytics-DG8BMyPX.js; reference:ValueError:https://phantom.com/_web_platform_assets/index-WNA19GWO.js; reference:ValueError:https://phantom.com/_web_platform_assets/requestBuilder-DNK2VTi2.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/phantom/favicon.png",
+      "source_url": "https://phantom.com/_web_platform_assets/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2392,
+      "sha256": "4fb86d2c80c9f2a476ea0419e192ecfaea2798724334f2ac96b0480e98993347",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/phantom/og.webp",
+      "source_url": "https://phantom.com/_web_platform_assets/images/og-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6220,
+      "sha256": "ff5a8889339e2daa13507027f00cbcfb499b0bc21d9d0d8079f1e330ad0fea3c",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

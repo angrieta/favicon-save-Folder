@@ -1,0 +1,107 @@
+{
+  "company": "바디프랜드",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.bodyfriend.co.kr/",
+  "page_url": "https://www.bodyfriend.co.kr/",
+  "page_title": "홈 | 바디프랜드",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1864533323881857&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/bodyfriend/favicon.png",
+      "source_url": "https://www.bodyfriend.co.kr/favicon_(96x96).png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 10981,
+      "sha256": "cc5e8becc489f111f3ab2aba280840083cb7c6b5dc2d5d2090bbaad726396ad2",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/bodyfriend/logo-1.svg",
+      "source_url": "https://bodyfriend.speedgabia.com/img/bodyfriend/common/logo/logo_bf_txt.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2796,
+      "sha256": "d784bfc6e1af287a9be5e82dcbbee83cfdc5328075017b72fda8396c1c5df904",
+      "width": 240,
+      "height": 43,
+      "source_sha256": "f635d008f87eb2dbc07b2c7afe77a78dbe78f7de6d62a548a327541a4aa65815"
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/bodyfriend/logo-2.webp",
+      "source_url": "https://www.bodyfriend.co.kr/upload/banner/main/flp5UpUaMMYjT9aSgno1bIOi3Wg7dCj.gif",
+      "source_tag": "img:semantic-logo",
+      "context": "img a logo div header_title div header_gnb_wrap div header_inner",
+      "content_type": "image/webp",
+      "bytes": 4340,
+      "sha256": "9c008c37b119b5ab8221c5dfe983e5b067816d8a85988c97275d19d38a5790f2",
+      "width": 600,
+      "height": 130
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/bodyfriend/banner-1.webp",
+      "source_url": "https://www.bodyfriend.co.kr/upload/banner/main/F6PpixqtzYPYCvyVCdTOXBKhc7l3TX2.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div img a div swiper-slide main_slider_item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 67316,
+      "sha256": "f54085a8fd1ad719481ecd5fc3cfc76402461eede0aebdc0eea2ae7172d0ce20",
+      "width": 1440,
+      "height": 440
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/bodyfriend/banner-2.webp",
+      "source_url": "https://www.bodyfriend.co.kr/upload/banner/main/oVLd8Fxa6pkCpoD2rnfOfzjWed3WYIG.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div img a div swiper-slide main_slider_item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 63006,
+      "sha256": "b1a7bcaf89e8e80f533a244e4239b6dcd3a7805d0d0b6eaf44d0b4778a93df37",
+      "width": 1440,
+      "height": 440
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/bodyfriend/reference-1.webp",
+      "source_url": "https://bodyfriend.speedgabia.com/img/bodyfriend/event/marketingAgree/event_agree_pop.png",
+      "source_tag": "img:page-image",
+      "context": "img 마케팅 수신 동의하고 미니건 받기 이벤트 div div modal__con div modal__inner overflow_auto_y section marketingAgreeEventModal modal inform_modal marketing_event_pop",
+      "content_type": "image/webp",
+      "bytes": 18134,
+      "sha256": "b48f8583a13d33d72a7cab6fe5a6d1ab256ecd34990f3e1513af9a11be91895c",
+      "width": 375,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/bodyfriend/reference-2.webp",
+      "source_url": "https://www.bodyfriend.co.kr/upload/popup/TbdIvdJxgAFYtOoTXaCOs9gSUxpMTca.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a swiper-slide div swiper-wrapper div modal_pop_slider swiper scroll_hidden_y div modal_popup",
+      "content_type": "image/webp",
+      "bytes": 23836,
+      "sha256": "a4771f4b2f52f1a5d8a1b0814f19ba7bacd33be58a38613c1d9bd1561517fafc",
+      "width": 400,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/bodyfriend/reference-3.webp",
+      "source_url": "https://www.bodyfriend.co.kr/upload/popup/mOl0u3RDjSu6oS2kQ9dVlmnGDCzC4CW.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a swiper-slide div swiper-wrapper div modal_pop_slider swiper scroll_hidden_y div modal_popup",
+      "content_type": "image/webp",
+      "bytes": 31588,
+      "sha256": "eef4221d4d06d51da1d8b62d8a4a600a445caa1488878b16dea3d3d83bb57e0a",
+      "width": 400,
+      "height": 500
+    }
+  ]
+}

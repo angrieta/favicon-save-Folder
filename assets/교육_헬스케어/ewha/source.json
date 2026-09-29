@@ -1,0 +1,106 @@
+{
+  "company": "이화여자대학교",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.ewha.ac.kr/",
+  "page_url": "https://www.ewha.ac.kr/ewha/index.do",
+  "page_title": "이화여자대학교",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.ewha.ac.kr/_res/ewha/video/intro_01_landscape.mp4; reference:ValueError:https://www.ewha.ac.kr/_res/ewha/video/intro_01_landscape.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/ewha/favicon.png",
+      "source_url": "https://www.ewha.ac.kr/_res/ewha/img/favicon/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 29567,
+      "sha256": "ca71aa10eaa155174a814e55ae27facaf0bda7cd3b14856284fedef920b4f9dc",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/ewha/logo-1.png",
+      "source_url": "https://www.ewha.ac.kr/_res/ewha/img/2026-renewal/giving-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 이화 나눔의 물결 figure giving-logo div giving-left div giving-content div giving-inner",
+      "content_type": "image/png",
+      "bytes": 96924,
+      "sha256": "947a4e197a819b21eeda17e78fac7137d10ade684e4b3e51ccd3d179f55a676f",
+      "width": 400,
+      "height": 262
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/ewha/logo-2.svg",
+      "source_url": "https://www.ewha.ac.kr/_res/ewha/img/temp/tmp_footer_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 이화여자대학교 div footer-logo-wrap a h1 logo div footer-btm-logo",
+      "content_type": "image/svg+xml",
+      "bytes": 65062,
+      "sha256": "6f5f30bfde7c9d481f23f1c1ea699f41c2014b2e90d319637c61cf249abb64c1",
+      "width": 288,
+      "height": 64
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/ewha/banner-1.webp",
+      "source_url": "https://www.ewha.ac.kr/app/board/attach/image/352497-1787015941000.do",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div swiper-slide div swiper-wrapper div visualSwiper visual-swiper swiper div main-visual-box",
+      "content_type": "image/webp",
+      "bytes": 416746,
+      "sha256": "5628d00404056dbe07aae4840f75e2e08ff83385584c3d7995d1f28aa0c2676b",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/ewha/banner-2.webp",
+      "source_url": "https://www.ewha.ac.kr/app/board/attach/image/352469-1786601705000.do",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div swiper-slide div swiper-wrapper div visualSwiper visual-swiper swiper div main-visual-box",
+      "content_type": "image/webp",
+      "bytes": 554028,
+      "sha256": "8eb79307c696688e1ff851fed64366e43db3bbe2f9430013f1d605fedad8195f",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/ewha/reference-1.webp",
+      "source_url": "https://www.ewha.ac.kr/app/board/attach/image/352498-1787015941000.do",
+      "source_tag": "picture:page-image",
+      "context": "picture div swiper-slide div swiper-wrapper div visualSwiper visual-swiper swiper div main-visual-box",
+      "content_type": "image/webp",
+      "bytes": 214478,
+      "sha256": "c12313fe4dcd90ca63c913a52b660ac9800f74b4301e32c6cd13134814ac7383",
+      "width": 680,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/ewha/reference-2.webp",
+      "source_url": "https://www.ewha.ac.kr/app/board/attach/image/352470-1786601705000.do",
+      "source_tag": "picture:page-image",
+      "context": "picture div swiper-slide div swiper-wrapper div visualSwiper visual-swiper swiper div main-visual-box",
+      "content_type": "image/webp",
+      "bytes": 189560,
+      "sha256": "e4412053bd95e013a89afb0c182d6ac93765f51dc192f62a34e16ae5255f9168",
+      "width": 591,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/ewha/reference-3.webp",
+      "source_url": "https://www.ewha.ac.kr/app/board/attach/image/352504-1787020983000.do",
+      "source_tag": "picture:page-image",
+      "context": "picture div swiper-slide div swiper-wrapper div visualSwiper visual-swiper swiper div main-visual-box",
+      "content_type": "image/webp",
+      "bytes": 130658,
+      "sha256": "b2ed2294df5a2ef27189f077eec7a57b9bb9faf892242f10cce5de2bcf28adf1",
+      "width": 680,
+      "height": 1350
+    }
+  ]
+}

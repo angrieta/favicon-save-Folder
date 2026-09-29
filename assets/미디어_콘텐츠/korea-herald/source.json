@@ -1,0 +1,69 @@
+{
+  "company": "코리아헤럴드",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.koreaherald.com/",
+  "page_url": "https://www.koreaherald.com/",
+  "page_title": "The Korea Herald",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/korea-herald/favicon.png",
+      "source_url": "https://static.heraldcorp.com/wbazic/kh/www/image/m_touch_icon180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 969,
+      "sha256": "f8b204e6238ddf57cf5657ab385536c108695de3c8aed5061a1147dce20a2bc4",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/korea-herald/og.webp",
+      "source_url": "https://static.heraldcorp.com/wbazic/kh/www/image/sns.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1686,
+      "sha256": "f2e134bff006f27ee6ce2d449f48344950f0e29d3f79f8f3fea6bef678d4cd43",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/korea-herald/banner-1.webp",
+      "source_url": "https://wimg.heraldcorp.com/svc/banner/202501/9f74a8be-cfa2-487f-8ba2-7e4a37a70141.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img hbanner_120_195 cooking a li ul div hbanner_120 horizon-ad bdnone",
+      "content_type": "image/webp",
+      "bytes": 18516,
+      "sha256": "6dc29c34e39980287020cb9bd20776e98a22211365a64b01198bd3c8907f441e",
+      "width": 900,
+      "height": 270
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/korea-herald/reference-1.webp",
+      "source_url": "https://wimg.heraldcorp.com/news/cms/2026/09/29/rcv.YNA.20260929.PYH2026092925560001300_R.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a news_img div headline_item article headline section",
+      "content_type": "image/webp",
+      "bytes": 92146,
+      "sha256": "4c002e26200bb8df939bf3862615fafd3f156a776ce6ebc943e5801bcc8fc001",
+      "width": 1280,
+      "height": 864
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/korea-herald/reference-2.webp",
+      "source_url": "https://wimg.heraldcorp.com/news/cms/2026/09/29/news-p.v1.20260928.9c894d595c334332b787ca109b6ae008_R.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div news_img a article top_news aside",
+      "content_type": "image/webp",
+      "bytes": 289804,
+      "sha256": "9ef55d71724a43d2ae65369a12fd3fb7e49aacabfa2bd7bf5155edc387ab46b4",
+      "width": 1280,
+      "height": 960
+    }
+  ]
+}

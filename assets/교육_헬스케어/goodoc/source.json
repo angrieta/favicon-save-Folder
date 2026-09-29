@@ -1,0 +1,121 @@
+{
+  "company": "굿닥",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.goodoc.co.kr",
+  "page_url": "https://www.goodoc.co.kr/",
+  "page_title": "굿닥 - 병원 접수, 병원 예약, 비대면진료 필수 앱",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/goodoc/favicon.svg",
+      "source_url": "https://www.goodoc.co.kr/assets/icons/ic_logo_mobile.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1630,
+      "sha256": "fc1b237a27ba66f540719cb6e2f1046f7935b9ac45b3f96df9ba5e726ed677e6",
+      "width": 40,
+      "height": 40,
+      "source_sha256": "9e43ecbe924b05ca7830024ff97dd3a75fbee1901b7988d3102ca30dadd81631"
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/goodoc/og.webp",
+      "source_url": "https://www.goodoc.co.kr/assets/images/img_preview.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14436,
+      "sha256": "bc0008fa138022eb5484ae1b0d1596d8a8db1169f43a5325839bae2a70876659",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/goodoc/favicon.svg",
+      "source_url": "https://www.goodoc.co.kr/assets/icons/ic_logo_mobile.svg",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1630,
+      "sha256": "fc1b237a27ba66f540719cb6e2f1046f7935b9ac45b3f96df9ba5e726ed677e6",
+      "width": 40,
+      "height": 40,
+      "context": "structured data logo",
+      "reused_from": "favicon",
+      "source_sha256": "9e43ecbe924b05ca7830024ff97dd3a75fbee1901b7988d3102ca30dadd81631"
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/goodoc/logo-2.svg",
+      "source_url": "https://www.goodoc.co.kr/_next/static/media/ic_logo_pc.0n067swzpkpk..svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img tablet:hidden mobile:hidden block h-32 min-h-32 w-96 min-w-96 굿닥 PC 아이콘 a Home div div flex items-center gap-8 div tablet:h-64 tablet:px-30 mobile:h-64 mobile:px-10 desktop:p-0 laptop:px-60 flex h-80 items-center justify-between gap-8 p",
+      "content_type": "image/svg+xml",
+      "bytes": 6510,
+      "sha256": "7737e3e223cd67876be7077cc289bef47d789e50a34d6ea907ef2bd2ba27c24c",
+      "width": 96,
+      "height": 32,
+      "source_sha256": "26b45c8073e6e2b975a091c6a9a5a69e3aea03ba1f5fd887433eb285ce05e7f0"
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/goodoc/banner-1.webp",
+      "source_url": "https://www.goodoc.co.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg_home_banner_moonlight_v2.15u3co~93r4e8.webp&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute !top-1/2 !left-1/2 max-h-full !w-auto max-w-full -translate-x-1/2 -translate-y-1/2 object-cover mobile:h-[96%]! tablet:h-[93.3%]! laptop:h-[88.2%]! desktop:h-[88.2%]! 심야 어린이병원 배너 button rounded-8 relative m-0 box-border block h",
+      "content_type": "image/webp",
+      "bytes": 10098,
+      "sha256": "7dd57f16036b40bd22b6231a21049c98be408af7f0736b57f90f138d104c57b3",
+      "width": 1800,
+      "height": 240
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/goodoc/banner-2.webp",
+      "source_url": "https://www.goodoc.co.kr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimg_home_banner_moonlight_v2.15u3co~93r4e8.webp&w=2048&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute !top-1/2 !left-1/2 max-h-full !w-auto max-w-full -translate-x-1/2 -translate-y-1/2 object-cover mobile:h-[96%]! tablet:h-[93.3%]! laptop:h-[88.2%]! desktop:h-[88.2%]! 심야 어린이병원 배너 button rounded-8 relative m-0 box-border block h",
+      "content_type": "image/webp",
+      "bytes": 9656,
+      "sha256": "199955eff4cbc7e01565f58bd3515409393722d3707c247a85628be7af25a2ce",
+      "width": 1800,
+      "height": 240
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/goodoc/reference-1.webp",
+      "source_url": "https://www.goodoc.co.kr/assets/images/untact/landing/untact_promote_v2.avif",
+      "source_tag": "picture:page-image",
+      "context": "picture div mobile:order-2 relative order-1 flex items-center justify-center div flex flex-col items-center gap-20 pb-36 div px-24 pb-24 div animate-slide-up rounded-16 mobile:w-full mobile:max-w-none mobile:rounded-[16px_16px_0_0] relative",
+      "content_type": "image/webp",
+      "bytes": 32870,
+      "sha256": "17a52e56e594cb569016f837a77cacbbac02eb3efe886a10f7b159fb9c81fa7f",
+      "width": 1077,
+      "height": 546
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/goodoc/reference-2.webp",
+      "source_url": "https://www.goodoc.co.kr/assets/images/untact/landing/untact_promote_v2.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div mobile:order-2 relative order-1 flex items-center justify-center div flex flex-col items-center gap-20 pb-36 div px-24 pb-24 div animate-slide-up rounded-16 mobile:w-full mobile:max-w-none mobile:rounded-[16px_16px_0_0] relative",
+      "content_type": "image/webp",
+      "bytes": 28830,
+      "sha256": "22ce948184da59a429893b24f2d9cf68d03caa88f989083560c94e62d9d745a4",
+      "width": 1077,
+      "height": 546
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/goodoc/reference-3.webp",
+      "source_url": "https://www.goodoc.co.kr/assets/images/untact/landing/untact_promote_v2.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div mobile:order-2 relative order-1 flex items-center justify-center div flex flex-col items-center gap-20 pb-36 div px-24 pb-24 div animate-slide-up rounded-16 mobile:w-full mobile:max-w-none mobile:rounded-[16px_16px_0_0] relative",
+      "content_type": "image/webp",
+      "bytes": 38144,
+      "sha256": "cd2cde4bb250be4c50be5bc0a5f8c223a1a8f8b137436ec1882bfadb686fa5c9",
+      "width": 1077,
+      "height": 546
+    }
+  ]
+}

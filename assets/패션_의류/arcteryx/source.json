@@ -1,0 +1,48 @@
+{
+  "company": "Arc'teryx",
+  "category": "패션_의류",
+  "requested_url": "https://arcteryx.co.kr/",
+  "page_url": "https://arcteryx.co.kr/",
+  "page_title": "아크테릭스 코리아",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://arcteryx.co.kr/_next/static/chunks/webpack-b84fa6c0218e5550.js?dpl=dpl_FCzosMdoVyvyErFH9x8gUAWawrxL; reference:ValueError:https://www.googletagmanager.com/gtag/js?id=G-0D19CP9XJW; reference:HTTPError:https://www.google.com/recaptcha/enterprise.js?render=6LcRw7krAAAAAJ1UKU-g3L5a7uLdZWFxw0gkO_L2; reference:ValueError:https://t1.daumcdn.net/kas/static/kp.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/arcteryx/favicon.ico",
+      "source_url": "https://arcteryx.co.kr/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "666c96364f23b8c4f0332d40b439772239e8a1759c30e79ee11b7516914dfbcf",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/arcteryx/logo-1.svg",
+      "source_url": "https://arcteryx.co.kr/img/main/hero-system-zero-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-auto w-[110px] min-[992px]:w-[120px] System 0 div pointer-events-none absolute inset-x-0 top-[100px] z-20 flex h-[67px] items-center justify-center min-[576px]:top-[120px] min-[768px]:top-[104px] min-[992px]:top-[112px] min-[1440px]:t",
+      "content_type": "image/svg+xml",
+      "bytes": 3780,
+      "sha256": "8dc2a2df49d7f618d323335554fb59a40b422a718a9b5581601c5a5a440c64d4",
+      "width": 388,
+      "height": 71,
+      "source_sha256": "13dc520aed300ac57b9b5b33d494a32482313cc4aa039ea75f637c281160ce48"
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/arcteryx/logo-2.svg",
+      "source_url": "https://arcteryx.co.kr/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Logo div border-t py-[1rem] footer bg-white-800 mx-auto mb-8 hidden w-[94.5%] max-w-[1520px] py-4 text-black sm:block div S:0 body vsc-initialized w-full bg-white font-sans",
+      "content_type": "image/svg+xml",
+      "bytes": 29120,
+      "sha256": "58818252fa0750959f5e090e9cfa1e7cae6a8b677578900d61b53d38547a8ef1",
+      "width": 153,
+      "height": 92,
+      "source_sha256": "c2f83862c367ba5cb31ea872d4be9699b69a202fb26fdc6eefff8bc2ac7493b3"
+    }
+  ]
+}

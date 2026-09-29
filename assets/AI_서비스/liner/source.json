@@ -1,0 +1,118 @@
+{
+  "company": "라이너",
+  "category": "AI_서비스",
+  "requested_url": "https://liner.com/ko",
+  "page_url": "https://liner.com/ko",
+  "page_title": "라이너 | 일 잘하는 사람들의 AI",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/liner/favicon.ico",
+      "source_url": "https://liner.com/favicon.ico?v=20250605",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "b603d7bfbedbb763c299a6c9cce1d4b8c790ea9f3ba7766c2ab0685e0d1e108e",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/liner/og.webp",
+      "source_url": "https://assets.liner.com/web/og_image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4936,
+      "sha256": "19da4dd91f54d1f99b92b71e057647581105fe1a2bd61acf7cd51aceaffce579",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/liner/og.webp",
+      "source_url": "https://assets.liner.com/web/og_image.jpg",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "content_type": "image/webp",
+      "bytes": 4936,
+      "sha256": "19da4dd91f54d1f99b92b71e057647581105fe1a2bd61acf7cd51aceaffce579",
+      "width": 1200,
+      "height": 630,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/liner/logo-2.png",
+      "source_url": "https://assets.liner.com/web/liner-com/logo/search-x4.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img max-s:h-[28px] h-[40px] Liner h2 div rt-Flex rt-r-fd-column rt-r-ai-start gap-800 div rt-Flex rt-r-fd-column rt-r-ai-start gap-400 w-full div gap-1000 py-2000 flex w-[400px] shrink-0 flex-col items-start max-m:w-full max-s:py-1000 max-m",
+      "content_type": "image/png",
+      "bytes": 7243,
+      "sha256": "4034324ea473ef1e24f2abbefa370f8d7f6d5270b082a8d0300c32a9b464f4e0",
+      "width": 485,
+      "height": 160
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/liner/banner-1.webp",
+      "source_url": "https://assets.liner.com/web/liner-com/main/search-1-ko.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-full w-full object-cover 무엇이든 물어보고 출처를 바로 확인해요 div bg-[#D7E8D7] aspect-video min-w-[448px] flex-1 max-m:w-full max-s:min-w-full overflow-hidden div gap-600 flex w-full flex-row flex-wrap items-start max-[1232px]:flex-wrap-reverse div ",
+      "content_type": "image/webp",
+      "bytes": 59452,
+      "sha256": "6a8db254039b63f25bd92b9cb603ed69212f58a8c8eeb2e8401ccf77aba8ad9b",
+      "width": 1344,
+      "height": 756
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/liner/banner-2.webp",
+      "source_url": "https://assets.liner.com/web/liner-com/main/search-2-ko.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-full w-full object-cover 관련 질문으로 정보를 더 깊게 탐색해요 div bg-[#D7E8D7] aspect-video min-w-[448px] flex-1 max-m:w-full max-s:min-w-full overflow-hidden div gap-600 flex w-full flex-row flex-wrap items-start max-[1232px]:flex-wrap-reverse div ",
+      "content_type": "image/webp",
+      "bytes": 6594,
+      "sha256": "11ca9569359a113d5a56421b627ccbf6d2d33850d55ff3f01cf78aeb4852d0bc",
+      "width": 1344,
+      "height": 756
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/liner/reference-1.webp",
+      "source_url": "https://assets.liner.com/web/liner-com/main/usecase-search.webp",
+      "source_tag": "img:page-image",
+      "context": "img pointer-events-none absolute right-0 top-[22px] z-0 h-[calc(100%-44px)] w-[60%] object-contain object-right @max-[763px]:top-[8px] @max-[763px]:h-[calc(100%-16px)] @max-[763px]:w-[45%] div group/card @max-[763px]:gap-[24px] gap-1200 rel",
+      "content_type": "image/webp",
+      "bytes": 19454,
+      "sha256": "d714365c2a8271a1dd3490cd4e452017e70de0cc5016b60dfc14afd13335fe17",
+      "width": 459,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/liner/reference-2.webp",
+      "source_url": "https://assets.liner.com/web/liner-com/main/usecase-scholar.webp",
+      "source_tag": "img:page-image",
+      "context": "img pointer-events-none absolute right-0 top-[22px] z-0 h-[calc(100%-44px)] w-[60%] object-contain object-right @max-[763px]:top-[8px] @max-[763px]:h-[calc(100%-16px)] @max-[763px]:w-[45%] div group/card @max-[763px]:gap-[24px] gap-1200 rel",
+      "content_type": "image/webp",
+      "bytes": 14730,
+      "sha256": "800454958fe802ce1c2d984ca242b8119214c163349c6a44e873f74aed2bf87c",
+      "width": 371,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/liner/reference-3.webp",
+      "source_url": "https://assets.liner.com/web/liner-com/main/hero-search-ko.webp",
+      "source_tag": "json-ld.@graph[3].itemListElement[0].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 29900,
+      "sha256": "0a96a05baeac49062316bfc57bc63dee73a60e86538f1c17253530c2ae2edc02",
+      "width": 960,
+      "height": 540
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "company": "메트라이프생명",
+  "category": "금융",
+  "requested_url": "https://www.metlife.co.kr",
+  "page_url": "https://www.metlife.co.kr/",
+  "page_title": "메트라이프",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.metlife.co.kr/content/dam/globalMarketingPlatformAssets/fonts/MetLifeCircular/MetLifeCircular-Normal.woff2; reference:ValueError:https://www.metlife.co.kr/content/dam/globalMarketingPlatformAssets/fonts/MetLifeCircular/MetLifeCircular-NormalItalic.woff2; reference:ValueError:https://www.metlife.co.kr/content/dam/globalMarketingPlatformAssets/fonts/MetLifeCircular/MetLifeCircular-Medium.woff2; reference:ValueError:https://www.metlife.co.kr/content/dam/globalMarketingPlatformAssets/fonts/MetLifeCircular/MetLifeCircular-MediumItalic.woff2; reference:ValueError:https://www.metlife.co.kr/content/dam/globalMarketingPlatformAssets/fonts/MetLifeCircular/MetLifeCircular-Bold.woff2; reference:ValueError:https://www.metlife.co.kr/content/dam/globalMarketingPlatformAssets/fonts/MetLifeCircular/MetLifeCircular-BoldItalic.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/metlife-korea/favicon.ico",
+      "source_url": "https://www.metlife.co.kr/content/dam/globalMarketingPlatformAssets/images/social/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "f5a935be581c008cb61f252499ff8b95f306f63864ec99727398dd7e0b481a73",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/metlife-korea/og.webp",
+      "source_url": "http://www.metlife.com/content/dam/metlifecom/us/social-share/metlife-logo-share.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4510,
+      "sha256": "a5575d8d960a53cc9903716f5fad8eb73ea0225d0a574fb3f09c8af13745c55a",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/metlife-korea/logo-1.png",
+      "source_url": "https://www.metlife.co.kr/content/dam/metlife/kr/author/layout/header/Header-Logo-New-202111.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__logo Metlife logo a div header__logo-container div col-12 header__container div row",
+      "content_type": "image/png",
+      "bytes": 2165,
+      "sha256": "5c80096936f3c5d8b54de73b14a0137a993f283f513ddb48fe49d17e3d7685ea",
+      "width": 149,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/metlife-korea/logo-2.png",
+      "source_url": "https://www.metlife.co.kr/content/dam/metlife/kr/author/layout/footer/Footer_Logo-202111.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img footer-logo__image MetLife Korea a footer-logo__link MetLife Korea div footer-logo div footer-logo col-12 col-sm-11 col-md-9 offset-md-1 div row",
+      "content_type": "image/png",
+      "bytes": 2119,
+      "sha256": "61dd6e9204291f1a5d676ff50e95f9dc213d967ef93f2ba6f21c916ef8898990",
+      "width": 139,
+      "height": 30
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/metlife-korea/banner-1.webp",
+      "source_url": "https://www.metlife.co.kr/content/dam/metlife/kr/author/homepage/homepage-image2-202306.png",
+      "source_tag": "inline-background-image",
+      "context": "div  story-image background-image: url('/content/dam/metlife/kr/author/homepage/homepage-image2-202306.png')",
+      "content_type": "image/webp",
+      "bytes": 10010,
+      "sha256": "32449b7d40f050f46cc680ae2350e84553bec5f137039095542a44a3c8955056",
+      "width": 1800,
+      "height": 602
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/metlife-korea/banner-2.webp",
+      "source_url": "https://www.metlife.co.kr/content/dam/metlife/kr/author/about-us/about-metlife/newsroom/newsroom-20240614.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  recirc-content-items--left bg background-image: url('/content/dam/metlife/kr/author/about-us/about-metlife/newsroom/newsroom-20240614.jpg')",
+      "content_type": "image/webp",
+      "bytes": 145080,
+      "sha256": "ee5502ced65d8b74b54386b23678e64958ea68409dcf46ef9d12142b1f751661",
+      "width": 906,
+      "height": 604,
+      "source_sha256": "f3fd99a247f7ef692835fe07e28a32d753281931bf3e43e204bbedce65915be7"
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/metlife-korea/reference-1.webp",
+      "source_url": "https://www.metlife.co.kr/content/dam/metlife/kr/author/360health/360Health_Banner_618x348.png",
+      "source_tag": "inline-background-image",
+      "context": "div  visual-product-card__image bg background-image: url('/content/dam/metlife/kr/author/360health/360Health_Banner_618x348.png');",
+      "content_type": "image/webp",
+      "bytes": 28246,
+      "sha256": "05fde7270e16b4379b2c855648c3df0defd39f4e320497e5c878a53656eb5240",
+      "width": 618,
+      "height": 348
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/metlife-korea/reference-2.webp",
+      "source_url": "https://www.metlife.co.kr/content/dam/metlife/kr/author/about-us/about-metlife/homepage/homepage-image2-20221201.png",
+      "source_tag": "inline-background-image",
+      "context": "div  recirc-content-items--left bg background-image: url('/content/dam/metlife/kr/author/about-us/about-metlife/homepage/homepage-image2-20221201.png')",
+      "content_type": "image/webp",
+      "bytes": 20996,
+      "sha256": "5fd53f4183345f89cf2618d299414920be8d568340117a207483c7eed8f80b40",
+      "width": 570,
+      "height": 320
+    }
+  ]
+}

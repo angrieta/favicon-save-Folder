@@ -1,0 +1,58 @@
+{
+  "company": "블랙야크",
+  "category": "패션_의류",
+  "requested_url": "https://www.blackyak.com",
+  "page_url": "https://www.byn.kr/content/content.php?cont=blackyak&hta_brand=blackyak",
+  "page_title": "BYN 블랙야크 공식몰",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://picweb.blackyak.com/workbook/2024_BY/2BYKSX4937_KH/2BYKSX4937_KH_WMain_view_860_FRONT.jpg; reference:HTTPError:https://picweb.blackyak.com/workbook/2025_BY/2BYKSXU911_SI/2BYKSXU911_SI_WMain_view_860_FRONT.jpg; reference:HTTPError:https://picweb.blackyak.com/workbook/2025_BY/1BYPAWU539_LE/1BYPAWU539_LE_fMall1127_view_860_FRONT.jpg; reference:ValueError:https://cdn.byn.kr/real/_data/banner/a832162181bcbbbb5488e4bea9481778.jpg; reference:ValueError:https://cdn.byn.kr/real/_data/banner/881b9991238a3298b4781147e21ad2e8.jpg; reference:ValueError:https://cdn.byn.kr/real/_data/banner/2cbccdf0ece4053e0b50b7646abd14d2.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/blackyak/favicon.ico",
+      "source_url": "https://www.byn.kr/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "5a1e286db3210fbe63af306f5befcb0d64ce91e0c09c9047d289cef1b7eaa2a8",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/blackyak/og.webp",
+      "source_url": "https://cdn.byn.kr/common/meta/og_image/blackyak.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3414,
+      "sha256": "59388f3202c3d9a172b71031049c85323fc2045de8c3938936dd5739ca9c4883",
+      "width": 600,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/blackyak/logo-1.svg",
+      "source_url": "https://www.byn.kr/_skin/sw_kor_bcc/img/common/icon-gnb-down-arrow.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div swiper-4d50d0de-ecb6-4308-8b3e-d2d4eea0ad35 swiper swiper-initialized swiper-vertical swiper-pointer-events div BRAND-VERTICAL-SWIPER div div",
+      "content_type": "image/svg+xml",
+      "bytes": 205,
+      "sha256": "2339159b3ebadba83a97495019f422edf1440e9af75c2b75ac2f31c5b4b15dd8",
+      "width": 8,
+      "height": 6,
+      "source_sha256": "d347091480af41a64f805bcb5ba28c27de758117fa87159eab63c574f55d1536"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/blackyak/reference-1.webp",
+      "source_url": "https://picweb.blackyak.com/workbook/2026_BY/1BYPNWV012_RO/1BYPNWV012_RO_WMain_view_860_FRONT.jpg",
+      "source_tag": "img:page-image",
+      "context": "img IMG div a li main_exclusive_item ul PRD-LIST-2 main-item-list-wrap",
+      "content_type": "image/webp",
+      "bytes": 15940,
+      "sha256": "6d287c0c75c1f1902797aeb2022049bdf0fa188a38263fcefcaff21b540d19b9",
+      "width": 860,
+      "height": 860
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "company": "Crypto.com",
+  "category": "핀테크_결제",
+  "requested_url": "https://crypto.com/kr",
+  "page_url": "https://crypto.com/kr",
+  "page_title": "크립토닷컴 코리아 (Crypto.com Korea): 비트코인, 이더리움 및 다양한 가상자산을 안전하게 구매, 판매 및 거래하세요.",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://mkt-static.crypto.com/home-partners-video.mp4; reference:ValueError:https://crypto.com/mkt-web/_next/static/chunks/webpack-52ec4c6399cae0f0.js; reference:ValueError:https://www.crypto.com/gtm/gtm.js?id=GTM-WG9FXPH; reference:ValueError:https://crypto.com/lib/gt.js; reference:HTTPError:https://crypto.com/lib/disable-linker.js; reference:ValueError:https://unpkg.com/@splinetool/viewer@1.10.48/build/spline-viewer.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/crypto-com/favicon.ico",
+      "source_url": "https://crypto.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 102825,
+      "sha256": "d88ab80a018afdd384bda19e2dd8823628c2f84eee26f33b51c9938c0d086614",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/crypto-com/og.webp",
+      "source_url": "https://crypto.com/images/meta-og/listing.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13594,
+      "sha256": "c1dbaf9c8c869203b618c7c69bcea3a8b89c4c820159d817c116cc39f154ab4d",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/crypto-com/logo-1.svg",
+      "source_url": "https://mkt-site-asset.crypto.com/assets/logo/download.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-[16px] w-[16px] Crypto.com App Download div flex h-[32px] w-[32px] items-center justify-center gap-[8px] rounded-[24px] border-[1.5px] border-[rgba(255,255,255,0.1)] hover:bg-[rgba(255,255,255,0.10)] div relative div flex shrink-0 ite",
+      "content_type": "image/svg+xml",
+      "bytes": 1088,
+      "sha256": "07d615da802a55373f71bd4897345fd61a95d76b33f133f5e5c2f337326c546b",
+      "width": 16,
+      "height": 16,
+      "source_sha256": "50e91c4c4e5e5d81a5743883e654ac0d87fef0af462fed36ad398f1abb927c8d"
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/crypto-com/logo-2.svg",
+      "source_url": "https://mkt-site-asset.crypto.com/assets/logo/crypto-com-korea.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-[24px] w-[180px] Crypto.com Logo a div w-[180px] mr-[8px] div flex shrink-0 items-center div mx-auto flex h-[54px] items-center justify-between bg-inherit",
+      "content_type": "image/svg+xml",
+      "bytes": 6314,
+      "sha256": "47d95462d6a0542a6c95098a26798caee58b92ba5daf59b9b187669ad58ff680",
+      "width": 180,
+      "height": 24,
+      "source_sha256": "f0d8f261edd9f2a24c9910f4e698a67a28ce9ce2ac837d8a4ce9f5007bb1c823"
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/crypto-com/banner-1.webp",
+      "source_url": "https://mkt-static.crypto.com/cdc_home_kr_header_web_2x.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-contain cdc home kr header web 2x div object-contain div flex div relative overflow-hidden main min-h-screen w-full bg-[#080D1B]",
+      "content_type": "image/webp",
+      "bytes": 52342,
+      "sha256": "f4725d10c246fe5b2727ada3c0f9e1ae4dc8f3a4894193f17196d19669e25d16",
+      "width": 1800,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/crypto-com/reference-1.webp",
+      "source_url": "https://mkt-static.crypto.com/cdc_home_producthero_mainapp_kr@2x.webp",
+      "source_tag": "img:page-image",
+      "context": "img object-fill h-auto 가상자산으로의 여정, 여기서 시작됩니다 div h-auto div relative w-full div flex z-100 mx-auto w-full max-w-[1200px] flex-col items-center gap-4 px-8 pb-8 lg:gap-8 lg:px-16 lg:pb-0 div z-10 w-full overflow-hidden rounded-br-[32px] round",
+      "content_type": "image/webp",
+      "bytes": 62184,
+      "sha256": "87bbe595d5c49b9de1e9e3ff965ba5f7ff8974bc1b5bac03960d8432fc3a97e1",
+      "width": 747,
+      "height": 1350
+    }
+  ]
+}

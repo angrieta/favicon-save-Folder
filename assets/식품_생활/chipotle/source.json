@@ -1,0 +1,70 @@
+{
+  "company": "Chipotle",
+  "category": "식품_생활",
+  "requested_url": "https://www.chipotle.com/",
+  "page_url": "https://www.chipotle.com/",
+  "page_title": "Mexican Food - Restaurant & Catering - Chipotle Mexican Grill",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/pollo-asado/2026/hero/Pollo-ChilLimeChips-HP-Desktop_v3-optimized.mp4; reference:ValueError:https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/pollo-asado/2026/hero/Pollo-ChilLimeChips-HP-Mobile-optimized.mp4; reference:ValueError:https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/guac/guac-brand-campaign-desktop-st.mp4; reference:ValueError:https://www.chipotle.com/content/dam/chipotle/menu-item-campaigns/guac/guac-brand-campaign-mobile-st.mp4; reference:ValueError:https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bts-giftcards/Grad-Secondary-Tout-Desktop.mp4; reference:ValueError:https://www.chipotle.com/content/dam/chipotle/homepage/us/secondary-touts/2026/bts-giftcards/Grad-Secondary-Tout-Mobile.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/chipotle/favicon.png",
+      "source_url": "https://www.chipotle.com/etc.clientlibs/cmgaemacs/clientlibs/clientlib-base/resources/icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 22644,
+      "sha256": "60619de7d66b8a003e36cbbab735234c26fbceffb35292c253b073c8026d5033",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/chipotle/og.webp",
+      "source_url": "https://www.chipotle.com/content/dam/chipotle/pages/farm-to-foil/lifestyle-burrito-with-guac.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 111276,
+      "sha256": "f88c745f5123a5c677335eba471b782a08ee32432d1d3ac7a2fbdc853e62fed0",
+      "width": 1200,
+      "height": 636
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/chipotle/logo-1.svg",
+      "source_url": "https://www.chipotle.com/content/experience-fragments/chipotle/us/en/xf-header/master/_jcr_content/root/container_712714414/image_411084835.coreimg.svg/1689182077517/cmg-medallion-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img cmp-image__image Chipotle Mexican Grill Chipotle Mexican Grill a cmp-image__link div aem-header-logo cmp-image div image div aem-header-left cmp-container",
+      "content_type": "image/svg+xml",
+      "bytes": 8123,
+      "sha256": "711322725219040405338e7f4c14033539c3b4c29e989d1b5bf21dddca227623",
+      "width": 81,
+      "height": 81,
+      "source_sha256": "e4bd47f46d31e3c98533c8ed2c172bd5996e1699f780c35749f661f907fe183c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/chipotle/reference-1.webp",
+      "source_url": "https://www.chipotle.com/content/dam/chipotle/homepage/us/crowd-pleasers/2020/Catering.jpg",
+      "source_tag": "img:page-image",
+      "context": "img d-block w-100 h-100 Catering div aem-card__background bg-image relative w-100 overflow-hidden div card-896aa1a5e4 aem-card card-image-top flex-col ma-4 box-shadow d-flex box-border overflow-hidden div card card__cta-primary btn-color-go",
+      "content_type": "image/webp",
+      "bytes": 18598,
+      "sha256": "967f04563e75bb6b656d86eb95b36e03a9e8371083288fb07d7d44da4e6ad241",
+      "width": 1140,
+      "height": 380
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/chipotle/reference-2.webp",
+      "source_url": "https://www.chipotle.com/content/dam/chipotle/homepage/us/crowd-pleasers/2020/Group%20Ordering.jpg",
+      "source_tag": "img:page-image",
+      "context": "img d-block w-100 h-100 Group Order div aem-card__background bg-image relative w-100 overflow-hidden div card-04b96ca056 aem-card card-image-top flex-col ma-4 box-shadow d-flex box-border overflow-hidden div card card__cta-primary btn-color",
+      "content_type": "image/webp",
+      "bytes": 38316,
+      "sha256": "5cad398cf6cbc0bd44abffc4a16336b3d1f1e4aa53967d1fcc8970f7565dd287",
+      "width": 1140,
+      "height": 380
+    }
+  ]
+}

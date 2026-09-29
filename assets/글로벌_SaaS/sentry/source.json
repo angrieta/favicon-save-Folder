@@ -1,0 +1,117 @@
+{
+  "company": "Sentry",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://sentry.io/",
+  "page_url": "https://sentry.io/welcome/",
+  "page_title": "Application Performance Monitoring & Error Tracking Software | Sentry",
+  "collection_status": "complete",
+  "collection_error": "logo:ValueError:https://sentry.io/sentry-logo.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/sentry/favicon.ico",
+      "source_url": "https://sentry.io/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "49a1d2db07116397feff5454872ecec134df7cad81aa366c0ced3a2940f13355",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/sentry/og.webp",
+      "source_url": "https://sentry.io/_astro/home-hero-meta.DJDejDMD.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 34502,
+      "sha256": "0422eea5f623f37b770ca190b68b5574afe95417f6d0a2c793d3cbd6591dea61",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/sentry/logo-1.png",
+      "source_url": "https://sentry.io/_astro/ufo-abduction-image.CCCweOzA.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img ufo div ufo-container div animated-logo-grid-wrapper faded-edges div container section relative overflow-x-clip z-0 pt-12 md:pt-20 lg:pt-32 pb-12 md:pb-20 lg:pb-32",
+      "content_type": "image/png",
+      "bytes": 33987,
+      "sha256": "3244b90d749741f747b7f4ac251ff0bc75c4a53f4614e51aaf5ebd78e1c8ea3d",
+      "width": 900,
+      "height": 1151
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/sentry/logo-2.png",
+      "source_url": "https://sentry.io/_vercel/image?url=_astro%2Fhome-spot-404.C766tHib.webp&w=640&q=100&dpl=dpl_DTx1jLisYz43KLHCHLYkqp4xWwzN",
+      "source_tag": "img:semantic-logo",
+      "context": "img absolute -bottom-[11rem] -right-[6rem] h-auto lg:hidden pointer-events-none Cartoon showing the Sentry logo as a distressed character watching one person stuck in a smartphone and another diving headfirst into a retro computer—illustrat",
+      "content_type": "image/png",
+      "bytes": 214840,
+      "sha256": "d14a784ec0aedfecf20a4e50f28c1e63cabe659324ab3b0681f0c9df9b9cde6f",
+      "width": 640,
+      "height": 341
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/sentry/banner-1.webp",
+      "source_url": "https://sentry.io/astro-assets/nav-icons/cookbook-social.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full h-full object-cover Sentry Cookbook div w-full h-[142px] rounded-lg overflow-hidden flex-shrink-0 div flex flex-col gap-4 flex-1 div flex flex-col h-full rounded-lg bg-featured-light div hidden xl:block xl:w-6/12 p-6 bg-featured-",
+      "content_type": "image/webp",
+      "bytes": 89592,
+      "sha256": "2763e16cde95283a4a324d3360497b7683050cabe581ee362d89783afa5d75ad",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/sentry/banner-2.webp",
+      "source_url": "https://sentry.io/_astro/hero-animation-poster.lNyp05dq.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img rive-poster div absolute inset-0 div relative w-full xl:w-[1366px] aspect-[calc(1366/540)] translate-z-0 div flex flex-wrap items-center justify-center flex-row -mx-8 div",
+      "content_type": "image/webp",
+      "bytes": 47864,
+      "sha256": "63dcf806c64047b34f640f63148aee5c54ef1918bb606740f12afb16505441f8",
+      "width": 1366,
+      "height": 540
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/sentry/reference-1.webp",
+      "source_url": "https://sentry.io/_vercel/image?url=_astro%2Finstall-1-line.CStr0HQx.webp&w=828&q=100&dpl=dpl_DTx1jLisYz43KLHCHLYkqp4xWwzN",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-full object-contain Illustration of a terminal-style window showing the command npm install @sentry/browser on a dark purple background. div rounded-[0.6625rem] aspect-[3/1] relative w-full h-auto overflow-hidden bg-[#1F1633] d",
+      "content_type": "image/webp",
+      "bytes": 10144,
+      "sha256": "a9b10bf6867aaefea8479061c51b55fb77eb700d167ffb66d1a351b7e09eac7e",
+      "width": 800,
+      "height": 267
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/sentry/reference-2.webp",
+      "source_url": "https://sentry.io/_vercel/image?url=_astro%2Fautomatic-rca.CGAenFBp.webp&w=828&q=100&dpl=dpl_DTx1jLisYz43KLHCHLYkqp4xWwzN",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-full object-contain A section labeled “Root Cause” with code insight stating: “The code attempts to check if $quantities,” highlighting a probable bug in the application logic. div rounded-[0.6625rem] aspect-[3/1] relative w-fu",
+      "content_type": "image/webp",
+      "bytes": 15514,
+      "sha256": "ab6e78b98200b09a225a68cc1638b57212779d28ccb10aea3082460027755673",
+      "width": 800,
+      "height": 267
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/sentry/reference-3.webp",
+      "source_url": "https://sentry.io/_vercel/image?url=_astro%2Fagent-tracing.wxxP5JHl.webp&w=828&q=100&dpl=dpl_DTx1jLisYz43KLHCHLYkqp4xWwzN",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-full object-contain Sentry agent tracing UI showing a manager_agent invoking a plant_expert_agent with spans for chat, handoff, and tool calls, alongside token usage, cost, and context details. div rounded-[0.6625rem] aspect-[3",
+      "content_type": "image/webp",
+      "bytes": 17220,
+      "sha256": "d85be0b79698f2462287fbb7b6f9b5188bbe12df0af8e4e8c26943968e6a2efe",
+      "width": 800,
+      "height": 267
+    }
+  ]
+}

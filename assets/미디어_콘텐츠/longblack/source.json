@@ -1,0 +1,83 @@
+{
+  "company": "롱블랙",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.longblack.co/",
+  "page_url": "https://longblack.co/",
+  "page_title": "롱블랙 LongBlack",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=525592865405862&ev=PageView&noscript=1; reference:ValueError:https://longblack.co/_next/static/chunks/webpack-73ca5cdda3c41134.js?dpl=dpl_BaLEPjM7CNV7oCywFiumqHea7UDo; reference:ValueError:https://www.googletagmanager.com/gtm.js?id=GTM-KW8ZQLS",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/longblack/favicon.png",
+      "source_url": "https://longblack.co/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2759,
+      "sha256": "8a4ad9048447ef7f72c1f42b9c2dbe3e2b32bfa27e6551714a521ab56312fa85",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/longblack/og.webp",
+      "source_url": "https://c.longblack.co/assets/image/kakaotalk_main.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11566,
+      "sha256": "8a8357a3b07fd3716d2b726656d46efa4a172e5ac9008e6d6c049e9942d27a4d",
+      "width": 1200,
+      "height": 601
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/longblack/favicon.png",
+      "source_url": "https://longblack.co/apple-touch-icon.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/png",
+      "bytes": 2759,
+      "sha256": "8a4ad9048447ef7f72c1f42b9c2dbe3e2b32bfa27e6551714a521ab56312fa85",
+      "width": 180,
+      "height": 180,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/longblack/logo-2.webp",
+      "source_url": "https://longblack.co/_next/image?url=https%3A%2F%2Fc.longblack.co%2Fimage%2Fnote%2F260923%2F260923-194130-aa16d335.webp&w=1920&q=90",
+      "source_tag": "img:semantic-logo",
+      "context": "img object-cover pointer-events-none select-none logo div bg-raw-raisinblack relative h-full w-full lg:max-w-1/2 lg:shrink-0 xl:max-w-[540px] 2xl:max-w-[680px] aspect-3/2 xs:aspect-4/3 lg:aspect-auto a xl:w-full flex flex-col lg:flex-row lg",
+      "content_type": "image/webp",
+      "bytes": 85148,
+      "sha256": "c420e866909ab35ffcf80e9c726009b88efbb716cec4e7da62c833f39d405d97",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/longblack/logo-2.webp",
+      "source_url": "https://longblack.co/_next/image?url=https%3A%2F%2Fc.longblack.co%2Fimage%2Fnote%2F260923%2F260923-194130-aa16d335.webp&w=1920&q=90",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover pointer-events-none select-none logo div bg-raw-raisinblack relative h-full w-full lg:max-w-1/2 lg:shrink-0 xl:max-w-[540px] 2xl:max-w-[680px] aspect-3/2 xs:aspect-4/3 lg:aspect-auto a xl:w-full flex flex-col lg:flex-row lg",
+      "content_type": "image/webp",
+      "bytes": 85148,
+      "sha256": "c420e866909ab35ffcf80e9c726009b88efbb716cec4e7da62c833f39d405d97",
+      "width": 1200,
+      "height": 900,
+      "reused_from": "logo"
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/longblack/banner-2.webp",
+      "source_url": "https://longblack.co/_next/image?url=https%3A%2F%2Fc.longblack.co%2Fimage%2Fnote%2F260923%2F260923-194130-aa16d335.webp&w=1080&q=90",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover pointer-events-none select-none logo div bg-raw-raisinblack relative h-full w-full lg:max-w-1/2 lg:shrink-0 xl:max-w-[540px] 2xl:max-w-[680px] aspect-3/2 xs:aspect-4/3 lg:aspect-auto a xl:w-full flex flex-col lg:flex-row lg",
+      "content_type": "image/webp",
+      "bytes": 53860,
+      "sha256": "8be382a4036d280616d534f72c3627f56c1f8f830bc8f059e0e554b0f3f626dd",
+      "width": 1080,
+      "height": 810
+    }
+  ]
+}

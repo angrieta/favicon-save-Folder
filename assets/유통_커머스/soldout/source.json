@@ -1,0 +1,35 @@
+{
+  "company": "솔드아웃",
+  "category": "유통_커머스",
+  "requested_url": "https://www.soldout.co.kr",
+  "page_url": "https://www.soldout.co.kr/",
+  "page_title": "솔드아웃 | 믿을 수 있는 한정판 플랫폼, 솔드아웃",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.soldout.co.kr/_nuxt/commons/app.a37cfbc.js; reference:ValueError:https://www.soldout.co.kr/_nuxt/vendors/app.2e95fc4.js; reference:ValueError:https://www.soldout.co.kr/_nuxt/app.f320e6b.js; reference:ValueError:https://www.soldout.co.kr/_nuxt/pages/index.53209e3.js; reference:ValueError:https://www.soldout.co.kr/_nuxt/components/my-password-verification/components/one-member-banner/components/one-member-login-legacy-/cb40abef.00dd20b.js; reference:ValueError:https://www.soldout.co.kr/_nuxt/components/home-trade-ranking.9325136.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/soldout/favicon.ico",
+      "source_url": "https://www.soldout.co.kr/favicon-soldout.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "3e07e4894af6723144e9c2cea9337a816d4bd55b431d90a78dd252218c3fc581",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/soldout/logo-1.svg",
+      "source_url": "https://www.soldout.co.kr/_nuxt/img/logo-soldout-white.abfa821.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img SOLDOUT a div header-wrap header div header-container",
+      "content_type": "image/svg+xml",
+      "bytes": 3123,
+      "sha256": "befd2ed420b7400dd3eff9bb0932f3fe62dbf746b6572c14673914a4fd67c1bb",
+      "width": 130,
+      "height": 26,
+      "source_sha256": "3c09cb577030539ede8ed7a40d33b3ac3c169162c6a7bc2494f704e14ecb1cbc"
+    }
+  ]
+}

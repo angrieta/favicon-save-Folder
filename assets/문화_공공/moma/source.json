@@ -1,0 +1,94 @@
+{
+  "company": "MoMA",
+  "category": "문화_공공",
+  "requested_url": "https://www.moma.org",
+  "page_url": "https://www.moma.org/",
+  "page_title": "The Museum of Modern Art, New York City | MoMA",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/moma/favicon.png",
+      "source_url": "https://www.moma.org/apple-touch-icon-76x76.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 755,
+      "sha256": "c484d2cbc27f111bd9bc9616f5b9081e51689f68d6f754253e8c1b8f3b2e897b",
+      "width": 76,
+      "height": 76
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/moma/og.webp",
+      "source_url": "https://www.moma.org/d/p/sa/maximum/moma_renovation_and_expansion.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 150278,
+      "sha256": "4216b005a87d9b89ab22e63651f055973ee3b167a9fbfb82e131a3332ee1f11e",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/moma/banner-1.webp",
+      "source_url": "https://cdn.sanity.io/images/476nwnl9/production/5ca2861b79f9e47f7a5835d43230eaf413027d3d-1080x737.jpg?auto=format",
+      "source_tag": "img:semantic-banner",
+      "context": "img $color/background:gray:eee color/background layout/height layout/height:min layout/width:min div @768/layout/none layout/align:center layout/flex:column layout/wrapper:bleed layout/relative layout/width:100% section home-video main main",
+      "content_type": "image/webp",
+      "bytes": 79170,
+      "sha256": "0cd1a339c21f58f452ba06ee0c19c7abbe6448c4b6c7c45507f29c984bf5b573",
+      "width": 1080,
+      "height": 737
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/moma/banner-2.webp",
+      "source_url": "https://cdn.sanity.io/images/476nwnl9/production/d1f0579dc3787e39c52a9b2fae3d7a4579aad0b2-2000x1125.jpg?auto=format",
+      "source_tag": "img:semantic-banner",
+      "context": "img div @768/layout/flex:column layout/none section home-video main main main layout/anchor-offset body top",
+      "content_type": "image/webp",
+      "bytes": 65968,
+      "sha256": "85ba96c853e1f47fcfb1d6c0b042ae6d89af3b51481d29653e2a752c0a53475b",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "4e6476e0fe9c20acd22ba75009c5163ef2fc2b6e3f61bdb5ef18628d38272bcc"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/moma/reference-1.webp",
+      "source_url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjQvMDEvMzEvM3BtM3F6d2gxdF8xMTE2XzIwMThfMTc5X0NDQ1JfRnVsbF9zaXplX0pQRUcuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDcwIC1yZXNpemUgMTM5OHgxMDUwXHUwMDNlIl1d/1116_2018_179_CCCR-Full-size-JPEG.jpg?sha=a6b2160273cbbb99",
+      "source_tag": "picture:page-image",
+      "context": "picture picture div div a layout/flex:column layout/width:100% link/focus div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 105672,
+      "sha256": "bf4e4518c80eeb46332ac4e2f9c6b01a7e764645c099364742dcdbe18743dab1",
+      "width": 1398,
+      "height": 464
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/moma/reference-2.webp",
+      "source_url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjQvMDEvMzEvM3BtM3F6d2gxdF8xMTE2XzIwMThfMTc5X0NDQ1JfRnVsbF9zaXplX0pQRUcuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDgwIC1yZXNpemUgOTMyeDcwMFx1MDAzZSJdXQ/1116_2018_179_CCCR-Full-size-JPEG.jpg?sha=4cfbe4b98c86155e",
+      "source_tag": "picture:page-image",
+      "context": "picture picture div div a layout/flex:column layout/width:100% link/focus div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 54338,
+      "sha256": "77c14385d5913fdf5bf76181f1aa45ea3b7da316f6c541798cbc4f050d79bc30",
+      "width": 932,
+      "height": 309
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/moma/reference-3.webp",
+      "source_url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjQvMDEvMzEvM3BtM3F6d2gxdF8xMTE2XzIwMThfMTc5X0NDQ1JfRnVsbF9zaXplX0pQRUcuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgOTMweDQyOFx1MDAzZSJdXQ/1116_2018_179_CCCR-Full-size-JPEG.jpg?sha=945aefda0593f457",
+      "source_tag": "picture:page-image",
+      "context": "picture picture div div a layout/flex:column layout/width:100% link/focus div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 54418,
+      "sha256": "7f79e0cf72f3f4a6b55ce84feca3b3e11cc3d8a6c2202cba4979bb7e2b509464",
+      "width": 930,
+      "height": 309
+    }
+  ]
+}

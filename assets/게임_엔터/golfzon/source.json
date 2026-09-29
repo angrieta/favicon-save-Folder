@@ -1,0 +1,22 @@
+{
+  "company": "골프존",
+  "category": "게임_엔터",
+  "requested_url": "https://www.golfzon.com/",
+  "page_url": "https://www.golfzon.com/",
+  "page_title": "<%= htmlWebpackPlugin.options.title %>",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/golfzon/favicon.ico",
+      "source_url": "https://www.golfzon.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 17542,
+      "sha256": "ffef73876f555bc4c995014fd8b4fb7ed3dd823eb9fdc8641a3df616a075222a",
+      "width": 48,
+      "height": 48
+    }
+  ]
+}

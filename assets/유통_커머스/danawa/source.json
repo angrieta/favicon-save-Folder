@@ -1,0 +1,69 @@
+{
+  "company": "다나와",
+  "category": "유통_커머스",
+  "requested_url": "https://www.danawa.com",
+  "page_url": "https://www.danawa.com/",
+  "page_title": "비교하고 잘 사는, 다나와 : 가격비교 사이트",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1390824249408914&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/danawa/favicon.ico",
+      "source_url": "https://img.danawa.com/new/danawa_main/v1/img/danawa_favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "5d840c256a237107e89ad58941d2fe767e3fa19a5279c440e06326913e2337a2",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/danawa/og.webp",
+      "source_url": "https://img.danawa.com/new/tour/img/logo/sns_danawa.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1838,
+      "sha256": "86c4426685ec81ae75a99e6544281c1072bacd7854d3301d4dca206d28403be0",
+      "width": 270,
+      "height": 270
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/danawa/logo-1.png",
+      "source_url": "https://img.danawa.com/new/danawa_main/v1/img/danawa_logo_main_brand.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 다나와 가격비교 CI a h1 main-header__logo div main-header__banner div main-header__inner",
+      "content_type": "image/png",
+      "bytes": 5279,
+      "sha256": "7cfed5990a36afd6da5c461f443d4be9aafc811831e54501b7236a92dbfdb5ee",
+      "width": 270,
+      "height": 100
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/danawa/logo-2.webp",
+      "source_url": "https://img.danawa.com/plan/shoppingPlan/logo/13104/planBasicBanner13104.JPG?shrink=210:210",
+      "source_tag": "img:semantic-logo",
+      "context": "img lazy 내 세팅에 딱 맞는LCD 수랭쿨러 span main-top100__banner__circle a main-top100__banner__link li main-top100__banner__item swiper-slide ul main-top100__banner__list swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 10720,
+      "sha256": "7bde405adb15d34b5d3b2463ee2329e79b22ae185306a79cdf189955da38f090",
+      "width": 210,
+      "height": 210
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/danawa/banner-1.webp",
+      "source_url": "https://img.danawa.com/img/prod/ajungdang_banner/main_top_f_1262x120_v260923.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 저녁만 되면 느려지는 집 와이파이, 원인은? - 나에게 맞는 인터넷 속도 비교하고, 최대 52만원 설치 당일 바로 현금으로! a div main-ajungdang-banner main__inner div danawa_main_container div danawa_wrap",
+      "content_type": "image/webp",
+      "bytes": 22242,
+      "sha256": "593e7363456255b03359f60da5a5975eb57cdb2a8ddd923fefe84534ca34081f",
+      "width": 1800,
+      "height": 171
+    }
+  ]
+}

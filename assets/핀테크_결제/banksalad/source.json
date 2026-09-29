@@ -1,0 +1,70 @@
+{
+  "company": "뱅크샐러드",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.banksalad.com/",
+  "page_url": "https://www.banksalad.com/",
+  "page_title": "뱅크샐러드 | 금융을 넘어 건강 자산까지",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.banksalad.com/resources/font/pretendard/Pretendard-Regular.subset.woff2; reference:ValueError:https://cdn.banksalad.com/resources/font/pretendard/Pretendard-SemiBold.subset.woff2; reference:ValueError:https://webview-cdn.banksalad.com/banksaladv2/7fae501601/_next/static/css/492a3f49913f1e69.css; reference:ValueError:https://webview-cdn.banksalad.com/banksaladv2/7fae501601/_next/static/css/83d77f6e34ef35e0.css; reference:HTTPError:https://cdn.banksalad.com/resources/images/store-logos/google-play-darkmode.png; reference:HTTPError:https://cdn.banksalad.com/resources/images/store-logos/app-store-darkmode.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/banksalad/favicon.ico",
+      "source_url": "https://cdn.banksalad.com/app/meta/introduce-a/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 2662,
+      "sha256": "dbed855b23257c820b8087873fce0a11442880a0fc47a139b9bd6652e2f97807",
+      "width": 25,
+      "height": 25
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/banksalad/og.webp",
+      "source_url": "https://cdn.banksalad.com/graphic/color/illustration/og-image/banksalad-web.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5174,
+      "sha256": "cfdafb8c645391789d22551ad6e9ff1f1a79435030d353af93437db77cc49072",
+      "width": 800,
+      "height": 410
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/banksalad/banner-1.webp",
+      "source_url": "https://cdn.banksalad.com/app/banksalad-web/landing-app-ad-banner-pc.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture block dark:hidden section relative h-[466px] overflow-hidden md:h-[400px] main div __next body bg-white-900",
+      "content_type": "image/webp",
+      "bytes": 42374,
+      "sha256": "a232537d9b3dc569ab7f451195633165f06c86fc39b4414adb4938e9f4fa3ce3",
+      "width": 1800,
+      "height": 500
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/banksalad/banner-2.webp",
+      "source_url": "https://cdn.banksalad.com/graphic/color/illustration/hero-image-web/loan-coupon.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture block dark:hidden div relative z-[1] mx-auto flex h-full w-full max-w-[946px] flex-col px-[20px] pt-[35px] md:flex-row md:px-0 md:py-[122px] div relative h-full w-full overflow-hidden bg-[#dcf0fd] div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 44802,
+      "sha256": "e8a59c8755cc7a045776a3f2e6acc81418c00ffca4a3cb2cc9f57487bea06f2b",
+      "width": 1600,
+      "height": 1181,
+      "source_sha256": "d6778c732916d8c3875832b43b17942f00bb66217c285a49594f3047917e91a4"
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/banksalad/reference-1.webp",
+      "source_url": "https://cdn.banksalad.com/app/banksalad-web/landing-app-ad-banner-mobile.png",
+      "source_tag": "picture:page-image",
+      "context": "picture block dark:hidden section relative h-[466px] overflow-hidden md:h-[400px] main div __next body bg-white-900",
+      "content_type": "image/webp",
+      "bytes": 12392,
+      "sha256": "61afff8d3b60b64db0337ab39333418a440dedbccbb11dd898c780815d0846af",
+      "width": 426,
+      "height": 467
+    }
+  ]
+}

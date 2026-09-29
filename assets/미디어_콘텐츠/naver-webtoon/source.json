@@ -1,0 +1,33 @@
+{
+  "company": "네이버웹툰",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://comic.naver.com/",
+  "page_url": "https://comic.naver.com/index",
+  "page_title": "네이버 웹툰",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/naver-webtoon/favicon.ico",
+      "source_url": "https://shared-comic.pstatic.net/favicon/favicon_96x96.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 38078,
+      "sha256": "8b4ced202cd15c0ac80e99cd733668ea3b2ebd0b00370a49042b39be75db4748",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/naver-webtoon/og.webp",
+      "source_url": "https://ssl.pstatic.net/static/comic/images/og_tag_v3.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8850,
+      "sha256": "6de047ca1fafc28248de5befbd5c5fd4ef6c0fdfd5f137d70d9666b519d98530",
+      "width": 1200,
+      "height": 600
+    }
+  ]
+}

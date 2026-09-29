@@ -1,0 +1,95 @@
+{
+  "company": "Fnatic",
+  "category": "게임_엔터",
+  "requested_url": "https://fnatic.com/",
+  "page_url": "https://fnatic.com/",
+  "page_title": "Leading Esports Performance | Fnatic - Fnatic",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://fnatic.com/width=1536/https:/cdn.sanity.io/images/5gii1snx/production/0d6f3b43c255d3b9f72a024df8dde38ef2a68bf1-404x574.png; banner:HTTPError:https://fnatic.com/width=1280/https:/cdn.sanity.io/images/5gii1snx/production/0d6f3b43c255d3b9f72a024df8dde38ef2a68bf1-404x574.png; banner:HTTPError:https://fnatic.com/width=1536/https:/cdn.sanity.io/images/5gii1snx/production/a2bc04974d2c954250ec532a3f13d463967314a6-1920x1080.png; banner:HTTPError:https://fnatic.com/width=1280/https:/cdn.sanity.io/images/5gii1snx/production/a2bc04974d2c954250ec532a3f13d463967314a6-1920x1080.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/fnatic/favicon.png",
+      "source_url": "https://fnatic.com/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5161,
+      "sha256": "4d0417c35b283239e46d59193fdfe882f5e5f4ac44adb7d685f7bf89ba09090f",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/fnatic/og.webp",
+      "source_url": "https://cf-img.fnatic.com/cdn-cgi/image/dpr=1,fit=scale-down,height=630,width=1200/https://cdn.sanity.io/images/5gii1snx/production/a1e70e04e9186899208f8b42117b105a1126ce16-1200x630.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4842,
+      "sha256": "9ccce2c93393c85a9eea3078672cad712b467eba4e1d57c85b32a88473869881",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/fnatic/banner-1.webp",
+      "source_url": "https://cf-img.fnatic.com/cdn-cgi/image/dpr=1,fit=contain,format=auto,width=1536/https://cdn.sanity.io/images/5gii1snx/production/a2bc04974d2c954250ec532a3f13d463967314a6-1920x1080.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full h-full object-cover object-center relative noscript span div w-full h-full object-cover object-center relative bg-grey-100 dark:bg-grey-700 a absolute inset-0 z-0",
+      "content_type": "image/webp",
+      "bytes": 53990,
+      "sha256": "f35c39f3c2fe6d1725d1bb7e0755baa72c61f25691e90d090ce75e3b315f468a",
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/fnatic/banner-2.webp",
+      "source_url": "https://cf-img.fnatic.com/cdn-cgi/image/dpr=1,fit=contain,format=auto,width=1536/https://cdn.sanity.io/images/5gii1snx/production/c29a9fca642aff75fc2c68fccecb5f0e3e943f00-1800x1201.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full h-full object-cover object-center relative span div w-full h-full object-cover object-center relative bg-grey-100 dark:bg-grey-700 a absolute inset-0 z-0 div w-full relative rounded-xl flex items-end xs:h-full h-full mb-24 overfl",
+      "content_type": "image/webp",
+      "bytes": 152100,
+      "sha256": "56f883ea27e2533eef19e2f6bf85b14c750c526c4af74eb018f11d62e8c2a9b5",
+      "width": 1536,
+      "height": 1024,
+      "source_sha256": "4d41dbb59542e45771455ee351208727c921f22a787258d976172893ae37b755"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/fnatic/reference-1.webp",
+      "source_url": "https://cf-img.fnatic.com/cdn-cgi/image/metadata=none/https://fnatic.com/images/app/header-bg.png",
+      "source_tag": "inline-background-image",
+      "context": "div  bg-grey-800 w-full relative rounded-xl h-full border border-grey-200 dark:border-none overflow-hidden background-image:url(https://cf-img.fnatic.com/cdn-cgi/image/metadata=none/https://fnatic.com/images/app/header-bg.png);background-po",
+      "content_type": "image/webp",
+      "bytes": 28542,
+      "sha256": "6cae207ceb3b194e27ea7f513eac4d6709f26cb3f5661bc079686ff3ef18c11d",
+      "width": 1512,
+      "height": 800,
+      "source_sha256": "af950e7fa695c6ca77c1390ddf6a587fc4bd44e07437d02076dff1ae8004a57c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/fnatic/reference-2.webp",
+      "source_url": "https://fnatic.com/images/community/card-hero-gradient.png",
+      "source_tag": "inline-background-image",
+      "context": "div  bg-grey-800 w-full relative rounded-xl h-full mb-24 border border-grey-200 dark:border-none overflow-hidden py-8 px-6 flex flex-col space-y-5 bg-no-repeat bg-contain background-image:url(/images/community/card-hero-gradient.png)",
+      "content_type": "image/webp",
+      "bytes": 18302,
+      "sha256": "1aa958bed86b8a6df2f1bbd1965cfa2bc1e9363b27d57adcc7ec47b04f50224d",
+      "width": 826,
+      "height": 422
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/fnatic/reference-3.webp",
+      "source_url": "https://cf-img.fnatic.com/cdn-cgi/image/dpr=1,fit=cover,format=auto,width=1536/https://cdn.sanity.io/images/5gii1snx/production/0d6f3b43c255d3b9f72a024df8dde38ef2a68bf1-404x574.png",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-full object-cover object-center relative noscript span div w-full h-full object-cover object-center relative bg-grey-100 dark:bg-grey-700 a absolute inset-0 z-0",
+      "content_type": "image/webp",
+      "bytes": 45366,
+      "sha256": "90ff1efc97046ec6c954d9a7ead47695350ca25282300a880151ab21dbead032",
+      "width": 950,
+      "height": 1350
+    }
+  ]
+}

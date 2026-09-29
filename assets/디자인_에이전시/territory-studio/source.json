@@ -1,0 +1,45 @@
+{
+  "company": "Territory Studio",
+  "category": "디자인_에이전시",
+  "requested_url": "https://territorystudio.com",
+  "page_url": "https://territorystudio.com/",
+  "page_title": "Homepage - Territory Studio",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://www.facebook.com/tr?id=1569436223360971&ev=PageView&noscript=1; reference:ValueError:https://www.facebook.com/tr?id=1569436223360971&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/territory-studio/favicon.png",
+      "source_url": "https://territorystudio.com/wp-content/themes/territory-studio/images/favicons/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 657,
+      "sha256": "83dd164e5604f6796a49cf8cb5f6c95915146c97d08c95d3724343ee8dc80d84",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/territory-studio/og.webp",
+      "source_url": "https://territorystudio.com/wp-content/uploads/2018/09/TerritoryStudio_BR_WSp_00064.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20610,
+      "sha256": "270f811ca027f5f191edba2ab3bec3d986d789d6d760f1cb65437a40477a4baf",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/territory-studio/logo-1.png",
+      "source_url": "https://new.territorystudio.com/wp-content/uploads/2018/06/T_Logo.png",
+      "source_tag": "json-ld.@graph[4].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 1667,
+      "sha256": "e9ddd1edade11b9e1900acc33d6a61f63a4f706a517c9f7cc240656d31e7988b",
+      "width": 500,
+      "height": 500
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "company": "Musée du Louvre",
+  "category": "문화_공공",
+  "requested_url": "https://www.louvre.fr",
+  "page_url": "https://www.louvre.fr/",
+  "page_title": "Site officiel du musée du Louvre",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/louvre/favicon.png",
+      "source_url": "https://www.louvre.fr/assets/favicon/apple-touch-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5163,
+      "sha256": "a8960460a40e496795d905422c9d31ec3f7babc5659f020739ee56115e012469",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/louvre/og.webp",
+      "source_url": "https://api-www.louvre.fr/sites/default/files/2021-01/cour-napoleon-et-pyramide_1.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 100102,
+      "sha256": "05defea0c900d356970384475ec8c0c1bf23ffe440ae476a9cb2bf84ca2a4612",
+      "width": 1200,
+      "height": 799
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/louvre/logo-1.png",
+      "source_url": "https://www.louvre.fr/assets/logo-amis-blanc-web@2x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Amis du Louvre div Footer_Member_logo div Footer_Member div Footer_right div Footer_footer grid",
+      "content_type": "image/png",
+      "bytes": 14167,
+      "sha256": "08182f41c88f2efabe440e7a1631417b4a0157add15347c8c5e05d8847084f77",
+      "width": 422,
+      "height": 80
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/louvre/logo-2.png",
+      "source_url": "https://www.louvre.fr/assets/logo-amis-blanc-web@3x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Amis du Louvre div Footer_Member_logo div Footer_Member div Footer_right div Footer_footer grid",
+      "content_type": "image/png",
+      "bytes": 21901,
+      "sha256": "5585ee20b17eab31f997d164f16dab03db0464f7353e3c80ee8c4f2c6ab1784a",
+      "width": 633,
+      "height": 120
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/louvre/og.webp",
+      "source_url": "https://api-www.louvre.fr/sites/default/files/2021-01/cour-napoleon-et-pyramide_1.jpg",
+      "source_tag": "img:semantic-banner",
+      "content_type": "image/webp",
+      "bytes": 100102,
+      "sha256": "05defea0c900d356970384475ec8c0c1bf23ffe440ae476a9cb2bf84ca2a4612",
+      "width": 1200,
+      "height": 799,
+      "context": "img ImageV2_Image HomeCover_image cover picture div HomeCover main main-content Ecrin_white div __next",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/louvre/banner-2.webp",
+      "source_url": "https://api-www.louvre.fr/sites/default/files/2026-06/sainte-casilda-francisco-de-zurbaran-huile-sur-toile-vers-1635-museo-nacional-thyssen-bornemisza-madrid.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img ImageV2_Image Card_img cover picture div Card_image div HomepageCard_card undefined Card Card_hover-image-only Card_align-bottom Card_contain-outside div CardAnimationWrapper",
+      "content_type": "image/webp",
+      "bytes": 75994,
+      "sha256": "b9c7c866d108fee48af0a777fef4b2ebaf0f9cea57c41bc6d6ec1220eae4f0da",
+      "width": 1600,
+      "height": 1148,
+      "source_sha256": "d5e56adb6a279a2f70fd6c3d95e80056a302e6bb740bfb5df25b83e3d30b949b"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/louvre/reference-1.webp",
+      "source_url": "https://api-www.louvre.fr/sites/default/files/styles/w3840_16_5/public/2021-01/cour-napoleon-et-pyramide_1.jpg.webp?h=02fd1b3e&itok=EpyX4fVG",
+      "source_tag": "picture:page-image",
+      "context": "picture div HomeCover main main-content Ecrin_white div __next body",
+      "content_type": "image/webp",
+      "bytes": 83414,
+      "sha256": "de8ae105eecce3c5ab63481ca6dfb3b5ea255ac6efa8c08d668c984660729f56",
+      "width": 1600,
+      "height": 500,
+      "source_sha256": "a84279ef0e6b92cda2105f2cf1b65177e2f2169375e4a9871ee54d55756f3832"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/louvre/reference-2.webp",
+      "source_url": "https://api-www.louvre.fr/sites/default/files/styles/w2048_16_5/public/2021-01/cour-napoleon-et-pyramide_1.jpg.webp?h=02fd1b3e&itok=5YF6yVSx",
+      "source_tag": "picture:page-image",
+      "context": "picture div HomeCover main main-content Ecrin_white div __next body",
+      "content_type": "image/webp",
+      "bytes": 86916,
+      "sha256": "738b9f85951e4740b25f88a2ffa16ffe4f99fe7b9f86df55d0792fb98e63ffda",
+      "width": 1600,
+      "height": 500,
+      "source_sha256": "1acd894f9ba75ebdc3ea10b54bb2af768e7e46e58b4165ec3c4fbb17c9849091"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/louvre/reference-3.webp",
+      "source_url": "https://api-www.louvre.fr/sites/default/files/styles/w3840_5_4/public/2021-01/cour-napoleon-et-pyramide_1.jpg.webp?h=02fd1b3e&itok=UbDAF0ox",
+      "source_tag": "picture:page-image",
+      "context": "picture div HomeCover main main-content Ecrin_white div __next body",
+      "content_type": "image/webp",
+      "bytes": 147652,
+      "sha256": "b7a5bcfd7296262fb950be689da9bf7ce76f87d55152f476451ea740e8e0bc30",
+      "width": 1600,
+      "height": 1280,
+      "source_sha256": "db5471dff8ab84fe6504c5f487a37249c39074ef41f8cdca900ea7716c023020"
+    }
+  ]
+}

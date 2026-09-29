@@ -1,0 +1,117 @@
+{
+  "company": "Rabbit",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.rabbit.tech/",
+  "page_url": "https://www.rabbit.tech/",
+  "page_title": "rabbit OS3 | rabbit",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/rabbit/favicon.png",
+      "source_url": "https://www.rabbit.tech/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 12278,
+      "sha256": "9948a8f43794e7deeb4ef5857d418ca7bbe8c3f7a17a3fa4cc1abdc509693d00",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/rabbit/og.webp",
+      "source_url": "https://www.rabbit.tech/og/os3-launch.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7618,
+      "sha256": "dbfe62ddb8d17d73272dc0c61f86177e098199d5faef697226a97557aa8c9b68",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/rabbit/logo-1.svg",
+      "source_url": "https://www.rabbit.tech/media/os3/logos/openai.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img os3-logo-mark h-[34px] w-auto shrink-0 md:h-[46px] div absolute inset-x-0 flex h-[56px] items-center gap-[56px] md:h-[78px] md:gap-[78px] top-[12px] section relative -mt-[20px] w-full overflow-hidden py-[80px] md:-mt-[32px] md:py-[104px",
+      "content_type": "image/svg+xml",
+      "bytes": 1682,
+      "sha256": "8f281b924400eb1a16b9a0f5fc6eb22db4d517bfee1446c21b2038fce3d6bf4d",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/rabbit/logo-2.svg",
+      "source_url": "https://www.rabbit.tech/media/os3/logos/claude.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img os3-logo-mark h-[34px] w-auto shrink-0 md:h-[46px] div absolute inset-x-0 flex h-[56px] items-center gap-[56px] md:h-[78px] md:gap-[78px] top-[12px] section relative -mt-[20px] w-full overflow-hidden py-[80px] md:-mt-[32px] md:py-[104px",
+      "content_type": "image/svg+xml",
+      "bytes": 1696,
+      "sha256": "a3101f3047a119aa11825ad9369510f0c472428c8c52d420e31bc62db44a8364",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/rabbit/banner-1.webp",
+      "source_url": "https://www.rabbit.tech/_next/image?url=%2Fmedia%2Fos3%2Fos3-video-poster.webp&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover button group absolute inset-0 h-full w-full cursor-pointer play: rabbit OS3 launch div rabbitos-3-launch-video relative w-full overflow-hidden bg-[#131516] aspect-video lg:aspect-auto lg:min-h-[150px] lg:max-h-[56.25vw] lg:",
+      "content_type": "image/webp",
+      "bytes": 69750,
+      "sha256": "9fb43a6f277187fe019a605130c7a5fc7f60788a2e64012798b74723f6d9570b",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/rabbit/banner-2.webp",
+      "source_url": "https://www.rabbit.tech/_next/image?url=%2Fmedia%2Fos3%2Fos3-video-poster.webp&w=2048&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover button group absolute inset-0 h-full w-full cursor-pointer play: rabbit OS3 launch div rabbitos-3-launch-video relative w-full overflow-hidden bg-[#131516] aspect-video lg:aspect-auto lg:min-h-[150px] lg:max-h-[56.25vw] lg:",
+      "content_type": "image/webp",
+      "bytes": 61560,
+      "sha256": "a896e9ea5d7d355c29c755c9617f90671a873d032b58d53ec083f5458270cb36",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/rabbit/reference-1.webp",
+      "source_url": "https://www.rabbit.tech/media/os3/os3-interface.apng",
+      "source_tag": "img:page-image",
+      "context": "img h-auto w-full motion-reduce:hidden the OS3 workspace: a single conversation carrying out work div os3-reveal overflow-hidden mt-[48px] md:mt-[80px] w-full max-w-[1404px] self-center rounded-[10.26px] div os3-reveal-group relative mx-aut",
+      "content_type": "image/webp",
+      "bytes": 2506,
+      "sha256": "0e50b2e84c8aab7117c6ec1c033341329e44a1913c2ed9d93507bdc81674f7fa",
+      "width": 1200,
+      "height": 755
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/rabbit/reference-2.webp",
+      "source_url": "https://www.rabbit.tech/_next/image?url=%2Fmedia%2Fos3%2Fos3-interface.webp&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img hidden h-auto w-full motion-reduce:block the OS3 workspace: a single conversation carrying out work div os3-reveal overflow-hidden mt-[48px] md:mt-[80px] w-full max-w-[1404px] self-center rounded-[10.26px] div os3-reveal-group relative ",
+      "content_type": "image/webp",
+      "bytes": 65390,
+      "sha256": "21c9638af8ccd16105f54d1df6ef06b7436d8e8fa6ccdeb230dc39aba4ea55af",
+      "width": 1200,
+      "height": 755
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/rabbit/reference-3.webp",
+      "source_url": "https://www.rabbit.tech/_next/image?url=%2Fmedia%2Fos3%2Fos3-connected-computer.webp&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img h-auto w-full OS3 running on a laptop, working through a conversation div os3-reveal overflow-hidden mt-[48px] md:mt-[80px] w-screen max-w-none self-center div os3-reveal-group relative mx-auto flex max-w-[1404px] flex-col section relat",
+      "content_type": "image/webp",
+      "bytes": 57550,
+      "sha256": "cbcd97985511bcfced8b4a11b41779abb6343459ce572175db54a5769884473d",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "company": "Flos",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://flos.com/",
+  "page_url": "https://flos.com/en/wo/",
+  "page_title": "Flos Official Online Store | Contemporary Lighting and Decorative Lights",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://flos.com/on/demandware.static/Sites-FLOS-WO-Site/-/en_RW/v1790669249963/js/main.js; reference:ValueError:https://flos.com/on/demandware.static/Sites-FLOS-WO-Site/-/default/dwbef28e49/fonts/AvenirLTStdRoman.woff2; reference:ValueError:https://flos.com/on/demandware.static/Sites-FLOS-WO-Site/-/default/dw42e06317/fonts/AvenirLTStdMedium.woff2; reference:ValueError:https://flos.com/on/demandware.static/Sites-FLOS-WO-Site/-/default/dwa6e55c99/fonts/AvenirLTStdHeavy.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/flos/favicon.png",
+      "source_url": "https://flos.com/on/demandware.static/Sites-FLOS-WO-Site/-/default/dwecd6ea0f/images/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2686,
+      "sha256": "04ff1489142191a563b9cb74f83c1afaeba0f336f9da619df8c6a8411b72b506",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/flos/logo-1.svg",
+      "source_url": "https://flos.com/on/demandware.static/Sites-FLOS-WO-Site/-/default/dw90ce8242/images/logos/flos-logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 7124,
+      "sha256": "48e03b1e0117ba1d6be2544cb94be70fd3bc899381bc609d6ec7853a5a595a2a",
+      "width": 1364,
+      "height": 522,
+      "source_sha256": "5afc0e420f0d35231f02b7aa0e2021ee8b460ce39305bf58bf469c36f31f500d"
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/flos/banner-1.webp",
+      "source_url": "https://flos.com/dw/image/v2/BFXX_PRD/on/demandware.static/-/Library-Sites-FLOS-contentlib/default/dw873e046c/homepage/Hero_/Hero_Maap_d.jpg?sw=1920&bgcolor=FFFFFF",
+      "source_tag": "img:semantic-banner",
+      "context": "img image__default u-hidden-with-nojs Hero_Maap_d figure c-image hero__image u-visible-up--md div hero__media div hero__media-wrapper section c-hero hero--has-link s-white hero--fullwidth hero--fullheight",
+      "content_type": "image/webp",
+      "bytes": 77606,
+      "sha256": "1bafdd9ceab58cb16fbf8ffb0aacc937bc5518ca1d456c38739dcabb19aa6a52",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/flos/banner-2.webp",
+      "source_url": "https://flos.com/dw/image/v2/BFXX_PRD/on/demandware.static/-/Library-Sites-FLOS-contentlib/default/dw873e046c/homepage/Hero_/Hero_Maap_d.jpg?sw=1024&bgcolor=FFFFFF",
+      "source_tag": "img:semantic-banner",
+      "context": "img image__default u-hidden-with-nojs Hero_Maap_d figure c-image hero__image u-visible-up--md div hero__media div hero__media-wrapper section c-hero hero--has-link s-white hero--fullwidth hero--fullheight",
+      "content_type": "image/webp",
+      "bytes": 31460,
+      "sha256": "64cc453ce9a9bf3d2d75153556fde08bd224f6ef035d4bbf46afda584f282604",
+      "width": 1024,
+      "height": 576
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/flos/reference-1.webp",
+      "source_url": "https://flos.com/dw/image/v2/BFXX_PRD/on/demandware.static/-/Library-Sites-FLOS-contentlib/default/dwacf9d4cb/homepage/Hero_/Hero_Maap_m.jpg?sw=810&bgcolor=FFFFFF",
+      "source_tag": "img:page-image",
+      "context": "img image__default u-hidden-with-nojs Hero_Maap_m figure c-image hero__image u-hidden-up--md div hero__media div hero__media-wrapper section c-hero hero--has-link s-white hero--fullwidth hero--fullheight",
+      "content_type": "image/webp",
+      "bytes": 55172,
+      "sha256": "83405f41a4afae551abceb705e437c4bc7eaebd2e5bebaf70b91687f26258e7e",
+      "width": 810,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/flos/reference-2.webp",
+      "source_url": "https://flos.com/dw/image/v2/BFXX_PRD/on/demandware.static/-/Library-Sites-FLOS-contentlib/default/dwacf9d4cb/homepage/Hero_/Hero_Maap_m.jpg?sw=768&bgcolor=FFFFFF",
+      "source_tag": "img:page-image",
+      "context": "img image__default u-hidden-with-nojs Hero_Maap_m figure c-image hero__image u-hidden-up--md div hero__media div hero__media-wrapper section c-hero hero--has-link s-white hero--fullwidth hero--fullheight",
+      "content_type": "image/webp",
+      "bytes": 50368,
+      "sha256": "f33dccfa594c792810eaecdeb11d2f901108db95198c4122dc7f9451468bf6ec",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/flos/reference-3.webp",
+      "source_url": "https://flos.com/dw/image/v2/BFXX_PRD/on/demandware.static/-/Library-Sites-FLOS-contentlib/default/dwc7c3944c/homepage/Hero_/Hero_nocturne_m.jpg?sw=810&bgcolor=FFFFFF",
+      "source_tag": "img:page-image",
+      "context": "img image__default u-hidden-with-nojs Hero_nocturne_m figure c-image hero__image u-hidden-up--md div hero__media div hero__media-wrapper section c-hero hero--has-link s-white hero--fullwidth hero--fullheight",
+      "content_type": "image/webp",
+      "bytes": 43374,
+      "sha256": "172359060760b3cf56221d6e24be9d87e9f17589ff1950968506158e02b4a5d3",
+      "width": 810,
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "company": "YES24 티켓",
+  "category": "게임_엔터",
+  "requested_url": "https://ticket.yes24.com/",
+  "page_url": "https://ticket.yes24.com/",
+  "page_title": "예스24 티켓",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/yes24-ticket/favicon.png",
+      "source_url": "https://tkfile.yes24.com/img/icon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1331,
+      "sha256": "111abd8b3fd83d9619677d6a545fd2002faaa2b31ae64f1ea6d5dc5c5fd3356e",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/yes24-ticket/og.webp",
+      "source_url": "https://stkfile.yes24.com/imgNew/yes24ticket.gif",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3154,
+      "sha256": "441c360c89689f8a4c4e49a7659d5f0d7eb366b937fc736037fee5ef9d96b68a",
+      "width": 526,
+      "height": 264
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/yes24-ticket/logo-1.png",
+      "source_url": "https://tkfile.yes24.com/imgNew/common/pf-logoN-w.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img trans yes24 logo a pf-logo h1 div pf-left header perform-top perform-top",
+      "content_type": "image/png",
+      "bytes": 3640,
+      "sha256": "7bcbff5011ad94a0ccfe8899ed8393dc578796cb61423a0cbe404c7604c5e3a5",
+      "width": 162,
+      "height": 58
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/yes24-ticket/logo-2.png",
+      "source_url": "https://tkfile.yes24.com/imgNew/common/flogoN.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img yes24 로고 a flogo div footer-txt div cont footer",
+      "content_type": "image/png",
+      "bytes": 2962,
+      "sha256": "3e4c1960877196671dc2bd724f5eb572b9dca8715f3ce429560fd3408e78cd76",
+      "width": 130,
+      "height": 48
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/yes24-ticket/banner-1.webp",
+      "source_url": "https://tkfile.yes24.com/Upload2/Display/202609/20260907/59418_big_main_akmu.jpg/dims/quality/70/",
+      "source_tag": "img:semantic-banner",
+      "context": "img lazyload 2026 AKMU CONCERT [ 소문의 낙원（Paradise of Rumor a div kv-item div pf-kvslide div pf-kvslide-wrap",
+      "content_type": "image/webp",
+      "bytes": 49060,
+      "sha256": "e0d8b2384434c09133e67c746fbbc4f846726e7766291a6eb8f1a8ea73109ff4",
+      "width": 1600,
+      "height": 541,
+      "source_sha256": "37a4047988d9c0449c8b8fef10d0d2ab4df7b383d2461b0d19e67fae93cb9541"
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/yes24-ticket/banner-2.webp",
+      "source_url": "https://tkfile.yes24.com/Upload2/Display/202609/20260928/60161_big_main_dh.jpg/dims/quality/70/",
+      "source_tag": "img:semantic-banner",
+      "context": "img lazyload 2026 DONGHAE B DAY PARTY [Happy Happy Happy Birthd a div kv-item div pf-kvslide div pf-kvslide-wrap",
+      "content_type": "image/webp",
+      "bytes": 74022,
+      "sha256": "c296e62cbf45e168732dde504d9e232889075ed5b85481a0a0b37870d296eb01",
+      "width": 1600,
+      "height": 541,
+      "source_sha256": "078c0f8cb6ceb4a5699cab6a47bca170c259b34c7be17e6e6307ca9629314b78"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/yes24-ticket/reference-1.webp",
+      "source_url": "https://tkfile.yes24.com/Upload2/Display/202609/20260914/big_main_ME.jpg/dims/quality/70/",
+      "source_tag": "img:page-image",
+      "context": "img lazyload [선예매] 메이플스토리 이스케이프 : 도전! 무릉도장! a div kv-item div pf-kvslide div pf-kvslide-wrap",
+      "content_type": "image/webp",
+      "bytes": 70372,
+      "sha256": "2647869df6fed63b5cf333f9c6d2440779f15001b6aa64efbf49756010a49285",
+      "width": 1600,
+      "height": 541,
+      "source_sha256": "f1f9ba8e866012ccbdcfd8d280db8485040ecf57dc9d6f9a8cacda94fd7a3cec"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/yes24-ticket/reference-2.webp",
+      "source_url": "https://tkfile.yes24.com/Upload2/Display/202609/20260929/big_main_npt.jpg/dims/quality/70/",
+      "source_tag": "img:page-image",
+      "context": "img lazyload #17 넵프라이즈 a div kv-item div pf-kvslide div pf-kvslide-wrap",
+      "content_type": "image/webp",
+      "bytes": 30374,
+      "sha256": "9453dacd152bfa8a897a85ccf815ece5ac30e39933f75bccd6113798b474a74e",
+      "width": 1800,
+      "height": 609
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/yes24-ticket/reference-3.webp",
+      "source_url": "https://tkfile.yes24.com/Upload2/Display/202609/20260923/59370_big_main_nature.jpg/dims/quality/70/",
+      "source_tag": "img:page-image",
+      "context": "img lazyload 피지컬 시어터 〈네이처 오브 포겟팅〉 : 연극열전10_ a div kv-item div pf-kvslide div pf-kvslide-wrap",
+      "content_type": "image/webp",
+      "bytes": 53826,
+      "sha256": "46751005e636faf870c0e9bc265aa9e6c677f32e7a6b2ae82e7024e26f006954",
+      "width": 1600,
+      "height": 541,
+      "source_sha256": "41413d30cf7c6a1adabea8cf610f94e8ba8993d6ad2b40634c118bee5915f28c"
+    }
+  ]
+}

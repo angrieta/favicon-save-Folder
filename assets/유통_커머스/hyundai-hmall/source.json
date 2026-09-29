@@ -1,0 +1,46 @@
+{
+  "company": "현대Hmall",
+  "category": "유통_커머스",
+  "requested_url": "https://www.hmall.com",
+  "page_url": "https://www.hmall.com/md/dpl/index",
+  "page_title": "현대홈쇼핑 - 현대Hmall",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.hmall.com/md/_next/static/css/7406fe2adafd6880.css; reference:ValueError:https://www.hmall.com/md/_next/static/css/e02399dabbbcb485.css; reference:ValueError:https://www.hmall.com/md/_next/static/css/1ac0f649a8bbf513.css; reference:ValueError:https://www.hmall.com/md/_next/static/css/162278ae0ec20393.css; reference:ValueError:https://www.hmall.com/md/_next/static/css/dea4f393cf70e2a9.css; reference:ValueError:https://www.hmall.com/md/_next/static/css/60e250bc8324ab26.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/hyundai-hmall/favicon.ico",
+      "source_url": "https://www.hmall.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "9c8bf8db89037608c1ee365a011a942bf11168afcfcd1e1405f424dc27b8cd61",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/hyundai-hmall/og.webp",
+      "source_url": "https://image.hmall.com/coimg/co/bg-hmall-default1.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4490,
+      "sha256": "99a3d7675f79a41660c51557c110e3209055fb0ca77a58517a4751230a198da0",
+      "width": 640,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/hyundai-hmall/logo-1.svg",
+      "source_url": "https://image.hmall.com/m/img/co/logo_main_h_.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 6941,
+      "sha256": "9fc9160862795df19905005db2719212ddf10d0a9bfe6e1cb9de2ff206784a3c",
+      "width": 60,
+      "height": 33,
+      "source_sha256": "3e1082a06336c4b41e13c0c1911dd63a8341e68e57225c7aed8c44b82d52b2bb"
+    }
+  ]
+}

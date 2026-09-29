@@ -1,0 +1,94 @@
+{
+  "company": "코엑스",
+  "category": "부동산_공간",
+  "requested_url": "https://www.coex.co.kr/",
+  "page_url": "https://www.coex.co.kr/",
+  "page_title": "코엑스 VISITOR",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/coex/favicon.png",
+      "source_url": "https://www.coex.co.kr/wp-content/themes/coex-visitor/assets/images/logo/android-chrome-256x256.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 47811,
+      "sha256": "ad59835c2a672ad7008cbeba79865718c500ca0bcc3f9b06d6c145ab4594fe3e",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/coex/og.webp",
+      "source_url": "https://www.coex.co.kr/wp-content/themes/coex-visitor/assets/images/logo/og_img.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3250,
+      "sha256": "3501a4cda62b4a5201cdcf087fe7b1025bf5084d9c2c53eb546677c3856af171",
+      "width": 600,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/coex/logo-1.png",
+      "source_url": "https://www.coex.co.kr/wp-content/uploads/2024/12/logo-magok_v4.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img COEX MAGOK LEWEST span HeroQuick-logo div HeroQuick-title a HeroQuick-link magok div MainGuideFlex-item",
+      "content_type": "image/png",
+      "bytes": 2809,
+      "sha256": "b1fceb4f768d2df84fbe8373cbbb73b004d62abb927a1b4b1fed535c20a0810e",
+      "width": 161,
+      "height": 70
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/coex/banner-1.webp",
+      "source_url": "https://www.coex.co.kr/wp-content/uploads/2024/01/bg-ticketopen-min.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  MainTicketBg a-BgParallax background-image:url('/wp-content/uploads/2024/01/bg-ticketopen-min.jpg')",
+      "content_type": "image/webp",
+      "bytes": 89264,
+      "sha256": "2b52954a47d3b34717a75c2eb1164d82b2199b9bdc9361349799fd36dec3cda8",
+      "width": 1600,
+      "height": 772,
+      "source_sha256": "8e9a859559b9200af06f3829f619e61c2ee22657ea2535c46dfa6bbeffba3620"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/coex/reference-1.webp",
+      "source_url": "https://www.coex.co.kr/wp-content/uploads/2026/05/Coex-History_banner_visit-1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img HeroSlideThumbItem-img a cursor-View HeroSlideThumbItem div HeroSlideThumb-item swiper-slide div HeroSlideThumb-wrapper swiper-wrapper div HeroSlideThumb-container swiper-container",
+      "content_type": "image/webp",
+      "bytes": 46994,
+      "sha256": "c72732f3dd08f7a88c2387742a60e9948bb24a6572b50d848b63bb52ec2fbce7",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/coex/reference-2.webp",
+      "source_url": "https://www.coex.co.kr/wp-content/uploads/2026/09/COEXartproject_thumbnail.png",
+      "source_tag": "img:page-image",
+      "context": "img HeroSlideThumbItem-img a cursor-View HeroSlideThumbItem div HeroSlideThumb-item swiper-slide div HeroSlideThumb-wrapper swiper-wrapper div HeroSlideThumb-container swiper-container",
+      "content_type": "image/webp",
+      "bytes": 66072,
+      "sha256": "012f76c783ff56e4a4654e80cd0f0c4656b367bcc517caef1044a4d9a12dd06e",
+      "width": 610,
+      "height": 610
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/coex/reference-3.webp",
+      "source_url": "https://www.coex.co.kr/wp-content/uploads/2026/09/coex-40th-e-book_webbanner.jpg",
+      "source_tag": "img:page-image",
+      "context": "img HeroSlideThumbItem-img a cursor-View HeroSlideThumbItem div HeroSlideThumb-item swiper-slide div HeroSlideThumb-wrapper swiper-wrapper div HeroSlideThumb-container swiper-container",
+      "content_type": "image/webp",
+      "bytes": 44050,
+      "sha256": "5d2266c93dcec6e035d4f359ab6188dcc0241e0fbab8626e9b8e6d3263799079",
+      "width": 1080,
+      "height": 1080
+    }
+  ]
+}

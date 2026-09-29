@@ -1,0 +1,118 @@
+{
+  "company": "모모스커피",
+  "category": "식품_생활",
+  "requested_url": "https://momos.co.kr/",
+  "page_url": "https://momos.co.kr/",
+  "page_title": "모모스커피",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=809819374836987&ev=PageView&noscript=1&dpo=",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/momos-coffee/favicon.png",
+      "source_url": "https://cdn.imweb.me/thumbnail/20260312/10a4868da1470.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1929,
+      "sha256": "8de8270fd507c40374b6fa8889c683ccd8b09d916741b2eded5980cc36a7def3",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/momos-coffee/og.webp",
+      "source_url": "https://cdn.imweb.me/upload/S2026022396690869a4918/bda5cda3775f5.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 171282,
+      "sha256": "a586b2397f3799ab7a86d3c408e5f3e250b9a42206a046e7438f68eb0164afe6",
+      "width": 1200,
+      "height": 922
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/momos-coffee/logo-1.png",
+      "source_url": "https://cdn.imweb.me/thumbnail/20260722/3e5453ba16c2f.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img normal_logo _front_img 모모스커피 a div img_box _img_box div logo_w202602232d026f8d0f4eb widget inline_widget logo text_inline div _widget_data",
+      "content_type": "image/png",
+      "bytes": 2582,
+      "sha256": "8e215a6fca73750ee4ce7ab05cc002d06fa1f667762e04119d13464847069c2d",
+      "width": 137,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/momos-coffee/logo-2.webp",
+      "source_url": "https://cdn-optimized.imweb.me/v2/brand/S2026022396690869a4918/b436af13-7b5b-4210-9038-ee6f78192d35",
+      "source_tag": "img:semantic-logo",
+      "context": "img kw-slide-img 로스팅 div kw-slide div kw-hero-track div kw-hero-viewport section kw-hero 메인 배너",
+      "content_type": "image/webp",
+      "bytes": 591840,
+      "sha256": "3d55f88e33191a638ea91d37cd88704c4eebf14c8453da01a8d3a0183d8b39a9",
+      "width": 1600,
+      "height": 843
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/momos-coffee/logo-2.webp",
+      "source_url": "https://cdn-optimized.imweb.me/v2/brand/S2026022396690869a4918/b436af13-7b5b-4210-9038-ee6f78192d35",
+      "source_tag": "img:semantic-banner",
+      "context": "img kw-slide-img 로스팅 div kw-slide div kw-hero-track div kw-hero-viewport section kw-hero 메인 배너",
+      "content_type": "image/webp",
+      "bytes": 591840,
+      "sha256": "3d55f88e33191a638ea91d37cd88704c4eebf14c8453da01a8d3a0183d8b39a9",
+      "width": 1600,
+      "height": 843,
+      "reused_from": "logo"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/momos-coffee/banner-2.webp",
+      "source_url": "https://cdn-optimized.imweb.me/v2/brand/S2026022396690869a4918/71c2a765-509d-434b-bd77-09e19fbaeec2",
+      "source_tag": "img:semantic-banner",
+      "context": "img kw-slide-img div kw-slide div kw-hero-track div kw-hero-viewport section kw-hero 메인 배너",
+      "content_type": "image/webp",
+      "bytes": 343212,
+      "sha256": "c67470844726a4d49d5ac3d3c66e8d9582cfa90c5a4c36852b59dbf232b3eaef",
+      "width": 1800,
+      "height": 949
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/momos-coffee/reference-1.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20260722/d385b3b485f9c.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  section_bg _section_bg _interactive_bg background-image:url('https://cdn.imweb.me/thumbnail/20260722/d385b3b485f9c.jpg'); background-position:50% 50%;  background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top",
+      "content_type": "image/webp",
+      "bytes": 546526,
+      "sha256": "0df1f3405326738b2dcec62d6eb1039fe1293ad633f75c248507c248bf3d4e9e",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/momos-coffee/reference-2.webp",
+      "source_url": "https://cdn-optimized.imweb.me/v2/brand/S2026022396690869a4918/e3cb2d29-8e78-4976-81fa-4a277765f1d0",
+      "source_tag": "img:page-image",
+      "context": "img kw-slide-img div kw-slide div kw-hero-track div kw-hero-viewport section kw-hero 메인 배너",
+      "content_type": "image/webp",
+      "bytes": 518828,
+      "sha256": "3b8412b9af299b997ce99c7e8f6a1aa79e9b6d471cb4eaf04cc32b37f3cfcc8c",
+      "width": 1800,
+      "height": 949
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/momos-coffee/reference-3.webp",
+      "source_url": "https://cdn.imweb.me/upload/S2026022396690869a4918/c062a1c0eebd2.png",
+      "source_tag": "img:page-image",
+      "context": "img a div pop-img div pop-item div popup_S2026022396690869a4918_388461 pop-container _popup_S2026022396690869a4918_388461",
+      "content_type": "image/webp",
+      "bytes": 61392,
+      "sha256": "49d164e95fcecff1cafc0254e91d842c5e18b959fab884d478f9e25a29b4726f",
+      "width": 1060,
+      "height": 1350
+    }
+  ]
+}

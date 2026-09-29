@@ -1,0 +1,33 @@
+{
+  "company": "번개장터",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.bunjang.co.kr/",
+  "page_url": "https://m.bunjang.co.kr/",
+  "page_title": "번개장터",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://m.bunjang.co.kr/static/js/core-vendor.NRT1mkLq.chunk.js; reference:ValueError:https://m.bunjang.co.kr/static/js/ui.B9X1MS8d.chunk.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/bunjang/favicon.ico",
+      "source_url": "https://static.bunjang.co.kr/web/ui/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "bffa7ee0811239fe8787c8d734bb563544d20e0b7d1dc9bdb097434a8355dd54",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/bunjang/og.webp",
+      "source_url": "https://static.bunjang.co.kr/web/ui/og-image.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6872,
+      "sha256": "469f7f5cac7b30aeade6a82d5f165f0b4b3fe7c8c02540e0ef6d1d3b615aef76",
+      "width": 1200,
+      "height": 1200
+    }
+  ]
+}

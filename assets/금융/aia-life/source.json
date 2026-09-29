@@ -1,0 +1,82 @@
+{
+  "company": "AIA생명",
+  "category": "금융",
+  "requested_url": "https://www.aia.co.kr",
+  "page_url": "https://www.aia.co.kr/ko.html",
+  "page_title": "AIA생명",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/aia-life/favicon.ico",
+      "source_url": "https://www.aia.co.kr/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "09f97b254bde132eb62f4ea499edc24dec2b69eb2d424089aebbdde40de6b56c",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/aia-life/og.webp",
+      "source_url": "https://www.aia.co.kr/content/dam/kr-wise/ko/images/home/aia-life-hlbl.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12254,
+      "sha256": "491ab941a98c5e96f9d1e422f14642a65e9ce38294e1d47995894489fd81d3f8",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/aia-life/logo-1.svg",
+      "source_url": "https://www.aia.co.kr/etc.clientlibs/kr-wise/clientlibs/clientlib-site/resources/images/icons/aia-logo-red.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img cmp-navigation2__brand-logo logo a cmp-navigation2__brand-link navigationLink div cmp-navigation2__brand div cmp-navigation2__container cmp-navigation2__container--stashable nav AIA-navigation cmp-navigation2 AIA navigation",
+      "content_type": "image/svg+xml",
+      "bytes": 4601,
+      "sha256": "848bb34b0fae004e9b62c0995b171a7384a21aaff0c6c83b0e79664cbe400098",
+      "width": 65,
+      "height": 65,
+      "source_sha256": "17ec5fc239f51e4d21a817a320793ec68dfe6b571e7758e3c66850fa2a5977bf"
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/aia-life/logo-2.png",
+      "source_url": "https://www.aia.co.kr/content/dam/kr-wise/ko/images/common/purpleheart.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img cmp-navigation2__item-link-logo div cmp-navigation2__item-link kr-wise/components/structure/productlandingpage/v1/productlandingpage /content/kr-wise/ko/products/life-protection li cmp-navigation2__item cmp-navigation2__item--level-1 ul",
+      "content_type": "image/png",
+      "bytes": 1529,
+      "sha256": "6defd51f877ee3cfaf5c15d7ee8e550fca63d0f9784e050ad4747b40740488ca",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/aia-life/banner-1.webp",
+      "source_url": "https://aiadev.scene7.com/is/image/aiadev/hero%20banner_Life_04?qlt=85&ts=1735638116461&dpr=off",
+      "source_tag": "img:semantic-banner",
+      "context": "img cmp-image__image false placeholder noscript div image-bd0a0b91b4 cmp-image false div cmp-homepagehero__background-image--level-1 div cmp-homepagehero--with-bg",
+      "content_type": "image/webp",
+      "bytes": 68666,
+      "sha256": "69b1b1ceb25d99c704e1db7630da088a667145dc467ae1a0f8e620d05d8f43e4",
+      "width": 1280,
+      "height": 560
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/aia-life/banner-2.webp",
+      "source_url": "https://aiastage.scene7.com/is/image/aiastage/hero_banner_Onestop3?qlt=85&ts=1771896701092&dpr=off",
+      "source_tag": "img:semantic-banner",
+      "context": "img cmp-image__image false noscript div image-6999222540 cmp-image false div cmp-homepagehero__background-image--level-1 div cmp-homepagehero--with-bg",
+      "content_type": "image/webp",
+      "bytes": 58116,
+      "sha256": "0f53d037ccf4b6507950cdc4a09f4b61613c4f3c1073a736be4dabcfde7e9dab",
+      "width": 1280,
+      "height": 549
+    }
+  ]
+}

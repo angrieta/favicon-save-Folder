@@ -1,0 +1,94 @@
+{
+  "company": "Vogue Korea",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.vogue.co.kr/",
+  "page_url": "https://www.vogue.co.kr/",
+  "page_title": "보그 코리아 (Vogue Korea)",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/vogue-korea/favicon.png",
+      "source_url": "https://img.vogue.co.kr/vogue/common/vogue-apple-touch-favicon.jpg?v=1.3",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6122,
+      "sha256": "802b5438a306709cfed7ba5bb2ca172af6220356628925e989b50c1d6baaa22b",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/vogue-korea/og.webp",
+      "source_url": "https://www.vogue.co.kr/wp-content/themes/vogue/assets/images/main_og_image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8996,
+      "sha256": "f951a5c2ca42ae88548e6222ef1cb40d8cb6b1aabce360a181562c34e4607f1d",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/vogue-korea/logo-1.png",
+      "source_url": "https://www.vogue.co.kr/wp-content/themes/vogue/assets/images/logo.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 3311,
+      "sha256": "b19440f60a00ded01b10505e0b3879594687e8b128a357bcfc890858c4269125",
+      "width": 192,
+      "height": 50
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/vogue-korea/logo-2.svg",
+      "source_url": "https://www.vogue.co.kr/wp-content/themes/vogue/assets/images/logo-new.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img pc lazyload VOGUE a div logo div inner div container",
+      "content_type": "image/svg+xml",
+      "bytes": 2997,
+      "sha256": "b36ad1b7aa680ca29fc7bf6661489c4b528b6fcaf7138a1ead8f73dde3d7a4ca",
+      "width": 270,
+      "height": 115,
+      "source_sha256": "2c7a95137cfa4e8edf5ee3d80760127f5c643049e420ea9d39801fc44901ad87"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/vogue-korea/reference-1.webp",
+      "source_url": "https://img.vogue.co.kr/vogue/2026/09/style_6ab0b99f5c1f2-scaled-1920x960.jpg?x=1707&y=853",
+      "source_tag": "img:page-image",
+      "context": "img 요즘 멋쟁이들은 ‘이 액세서리’로 취향을 드러냅니다 div spot a div pc section section_spot_0 section section_spot",
+      "content_type": "image/webp",
+      "bytes": 53576,
+      "sha256": "4f36360f7769f46ea8adf60a815983cf691c1d696042249a0be695c4fccec536",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/vogue-korea/reference-2.webp",
+      "source_url": "https://img.vogue.co.kr/vogue/2026/09/style_6ab0ba4d11cb6-960x1245.jpg?x=1170&y=1656",
+      "source_tag": "img:page-image",
+      "context": "img 요즘 멋쟁이들은 ‘이 액세서리’로 취향을 드러냅니다 div spot a div mo section section_spot_0 section section_spot",
+      "content_type": "image/webp",
+      "bytes": 81268,
+      "sha256": "0e20f927ff338f4a195c6b9fe9aaef0c45b2a4ff46347040216d30f1a4a148cd",
+      "width": 960,
+      "height": 1245
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/vogue-korea/reference-3.webp",
+      "source_url": "https://img.vogue.co.kr/vogue/2026/09/style_6ab0c7a785bbe-1920x960.jpg?x=1320&y=660",
+      "source_tag": "img:page-image",
+      "context": "img 2027년까지 ‘블랙 앤 화이트’보다 자주 입게 될 컬러 조합! div spot a div pc section section_spot_1 section section_spot",
+      "content_type": "image/webp",
+      "bytes": 52150,
+      "sha256": "d9efe47ac967073746c9bfe2bd8f985c81ab7c4f752c7a87ad96407f07059a9a",
+      "width": 1800,
+      "height": 900
+    }
+  ]
+}

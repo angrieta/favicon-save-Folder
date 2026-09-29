@@ -1,0 +1,82 @@
+{
+  "company": "GMC Korea",
+  "category": "자동차",
+  "requested_url": "https://www.gmckorea.co.kr/",
+  "page_url": "https://www.gmckorea.co.kr/",
+  "page_title": "지엠씨(GMC) 한국 공식 웹사이트｜GMC Korea",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.gmckorea.co.kr/etc.clientlibs/clientlibs/gmc/resources/fonts/stratum-black.woff2; reference:ValueError:https://www.gmckorea.co.kr/etc.clientlibs/clientlibs/gmc/resources/fonts/stratum-medium.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/gmc-korea/favicon.svg",
+      "source_url": "https://www.gmckorea.co.kr/content/dam/gmc/na/us/english/index/shared-assets/25-gmc-favicon-180x180.svg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 2067058,
+      "sha256": "23bbb2811ea339428b7f21c0a40ab2fb840c96e07187a075ed921694464c03c0",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/gmc-korea/logo-1.webp",
+      "source_url": "https://www.gmckorea.co.kr/content/dam/gmc/asia/kr/ko/index/2026/03-images/ngmc-mainrolling-1280-4.jpg?imwidth=1920",
+      "source_tag": "img:semantic-logo",
+      "context": "img GMC Premium: Brand Story picture gb-universal-image gb-rectangle-image gb-none-margin div gb-universal-image-container div gb-image-overlay gb-content-overlay-gradient-generic-type-on-top-neutral div gb-content-overlay-container",
+      "content_type": "image/webp",
+      "bytes": 247298,
+      "sha256": "e9f0d7334311f126a2fdd48cac8db1e34ceb66748169307874bc71fcde106013",
+      "width": 873,
+      "height": 1600
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/gmc-korea/logo-2.webp",
+      "source_url": "https://www.gmckorea.co.kr/content/dam/gmc/asia/kr/ko/index/2026/03-images/ngmc-mainrolling-1280-4.jpg?imwidth=800",
+      "source_tag": "img:semantic-logo",
+      "context": "img GMC Premium: Brand Story picture gb-universal-image gb-rectangle-image gb-none-margin div gb-universal-image-container div gb-image-overlay gb-content-overlay-gradient-generic-type-on-top-neutral div gb-content-overlay-container",
+      "content_type": "image/webp",
+      "bytes": 223288,
+      "sha256": "23c785e1361c408bac8ae453ebd812d0dce5af0d1dcc5bab227d81a980f0b435",
+      "width": 838,
+      "height": 1537
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/gmc-korea/banner-1.webp",
+      "source_url": "https://www.gmckorea.co.kr/content/dam/gmc/asia/kr/ko/index/2026/index-subcontent/03-images/ngmc-promotion-pc.jpg?imwidth=3000",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture gb-universal-image gb-rectangle-image gb-none-margin div gb-universal-image-container div gb-image-overlay gb-content-overlay-gradient-generic-type-on-top-neutral div gb-content-overlay-container div col-con",
+      "content_type": "image/webp",
+      "bytes": 101026,
+      "sha256": "9bc138571f4eeab97e35ded22e0c9506c3ed6e1285b3900ce9bdcb430d96ec0b",
+      "width": 1800,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/gmc-korea/banner-2.webp",
+      "source_url": "https://www.gmckorea.co.kr/content/dam/gmc/asia/kr/ko/index/2026/index-subcontent/03-images/ngmc-promotion-pc.jpg?imwidth=1200",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture gb-universal-image gb-rectangle-image gb-none-margin div gb-universal-image-container div gb-image-overlay gb-content-overlay-gradient-generic-type-on-top-neutral div gb-content-overlay-container div col-con",
+      "content_type": "image/webp",
+      "bytes": 65514,
+      "sha256": "1ea6a8e399bc2bd0fbe2651ef6d40cb1b16028ecb862cb6023bc4b9e794797c4",
+      "width": 1268,
+      "height": 564
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/gmc-korea/reference-1.webp",
+      "source_url": "https://www.gmckorea.co.kr/content/dam/gmc/na/us/english/ux/fuson/hp-final/jellies/column_gradient_final_480.jpg?imwidth=3000",
+      "source_tag": "picture:page-image",
+      "context": "picture gb-universal-image gb-rectangle-image gb-none-margin div col-con adv-col col-sm-1 col-sm-gut-no col-md-2 gb-adv-grid gb-none-margin grid-sm-fw gb-cc-ag-denaligray-bg li full gb-autosize gb-zone-section",
+      "content_type": "image/webp",
+      "bytes": 1162,
+      "sha256": "243dea57daffd82664e274cf7e027c57a9fc1128195851ebe32bd2eed27fdb8c",
+      "width": 480,
+      "height": 741
+    }
+  ]
+}

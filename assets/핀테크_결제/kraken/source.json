@@ -1,0 +1,70 @@
+{
+  "company": "Kraken",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.kraken.com/",
+  "page_url": "https://www.kraken.com/",
+  "page_title": "Kraken | Own the Power of Your Money — Crypto, Stocks & more",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.kraken.com/_static/js/async/b8ead29a.js; reference:ValueError:https://www.kraken.com/_static/js/async/4bf7b4f5.js; reference:ValueError:https://www.kraken.com/_static/js/async/9f1b1c0b.js; reference:ValueError:https://www.kraken.com/_static/js/async/36170a42.js; reference:ValueError:https://www.kraken.com/_static/js/async/5711fb4d.js; reference:ValueError:https://www.kraken.com/_static/js/async/9cc71ee4.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/kraken/favicon.png",
+      "source_url": "https://www.kraken.com/_assets/icons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6072,
+      "sha256": "1aca027d741be7ce6f1449938237d3f4c9151e6d1ee28f8b982e164ac6d407ba",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/kraken/og.webp",
+      "source_url": "https://assets-cms.kraken.com/images/51n36hrp/facade/fb7be0bec460a4c04256ee14d1e84bc4f53fac01-1600x900.png?w=2880&fit=min",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8370,
+      "sha256": "44c1f46fd31613509c4f53a6558a44dc6df1f7aa26f4daa22760c37e56608468",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/kraken/logo-1.webp",
+      "source_url": "https://assets.kraken.com/marketing/static/kraken-logo.jpg",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 16284,
+      "sha256": "7b8d2b8e63c0fbd5f025ccf157bc784fdbb820ae8944f7081d2a042628444849",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/kraken/logo-2.svg",
+      "source_url": "https://assets-cms.kraken.com/images/51n36hrp/facade/1698017cf06d51d17fff161c3704544f8402ecc5-68x18.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img kraken-image-svg Forbes logo span kraken-image-svg [text-align:var(--simple-image-text-align)] max-md:[text-align:var(--simple-image-text-align-sm,var(--simple-image-text-align))] max-sm:[text-align:var(--simple-image-text-align-xs,var(",
+      "content_type": "image/svg+xml",
+      "bytes": 5991,
+      "sha256": "f7040d654c831947954207fe0e6065d313d29420ef346850bcdd75f3440b7c86",
+      "width": 68,
+      "height": 18,
+      "source_sha256": "86e694a8dd16c697f8df12b7904c5a20e0cf6f6b1eb8915bb6b9f986072c99c2"
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/kraken/banner-1.webp",
+      "source_url": "https://assets-cms.kraken.com/images/51n36hrp/facade/7a64626dac7f5ff621bcff3d314882b9fa609e9e-1410x694.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  box-border hover:bg-[var(--hover-background)] transition-colors items-center p-[--facade-responsive-padding] max-lg:h-[--facade-responsive-height-lg] max-h-[--facade-responsive-max-height] relative rounded-[--facade-responsive-border-r",
+      "content_type": "image/webp",
+      "bytes": 76314,
+      "sha256": "9b85c5d6521703a335270091c70a99db76ed00f3935a9dd7bc0d9a651f3855b7",
+      "width": 1410,
+      "height": 694
+    }
+  ]
+}

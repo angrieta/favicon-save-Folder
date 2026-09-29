@@ -1,0 +1,107 @@
+{
+  "company": "NIO",
+  "category": "자동차",
+  "requested_url": "https://www.nio.com/",
+  "page_url": "https://www.nio.com/",
+  "page_title": "NIO - Home",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://cdn-udp-public.eu.nio.com/www-nio/es8-five-seater/soo/homepage/top-slider/Hero-Mobile.mp4; banner:ValueError:https://cdn-udp-public.eu.nio.com/www-nio/homepage/top-slider/es9/home-slider-hero-mobile.mp4; banner:ValueError:https://cdn-udp-public.eu.nio.com/www-nio/et9/263020/homepage/homepage-hero-et9-mobile.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/nio/favicon.ico",
+      "source_url": "https://cdn-udp-public.eu.nio.com/www-nio/cdn-static/mynio/nextjs/nio-favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 6328,
+      "sha256": "0a8fd23ecc9a6f10f431f570b03b0af90cba3b86f2f6652034c7b4c4c8ce7a26",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/nio/logo-1.svg",
+      "source_url": "https://cdn-udp-public.eu.nio.com/www-nio/cdn-static/mynio/nextjs/images/icons/nio-logo-white.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img NIO a HeaderMain_n-header-logo__cNsZg HeaderMain_n-header-logo-hide__IiqH_ div HeaderMain_n-header-inner-wrapper__iVxfd div n-header-outer-wrapper HeaderMain_n-header-outer-wrapper__L9xw9 header HeaderMain_n-header-3-1-new__On9M2 Header",
+      "content_type": "image/svg+xml",
+      "bytes": 1625,
+      "sha256": "3a6a38e9bf1cafcdd0a744c1345050ff5d432d98c90ef13f7b9bc6a2b4650d08",
+      "width": 200,
+      "height": 188
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/nio/logo-2.svg",
+      "source_url": "https://cdn-udp-public.eu.nio.com/www-nio/cdn-static/mynio/nextjs/images/new-header-2024/en/products/ES8.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img HeaderMain_n-header-menu-sub-item-logo__KL9ny ES8 div HeaderMain_n-header-menu-sub-item-header__RCxA9 div li HeaderMain_n-header-menu-sub-item__9fSKs ul HeaderMain_n-header-menu-model-items__dbej5",
+      "content_type": "image/svg+xml",
+      "bytes": 3587,
+      "sha256": "4b9be841a235e7c41aad8d187bbc94c947e01cb622140b66c52c5b90084c45b6",
+      "width": 88,
+      "height": 20,
+      "source_sha256": "a94846beacb45b10ff5e673246f321a493bf9b23d43f89c5aaf8b66878719dc0"
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/nio/banner-1.webp",
+      "source_url": "https://cdn-udp-public.eu.nio.com/www-nio/cdn-static/mynio/cms/en_US/page_new_homepage/1751622561277-bslSection.hero.image.desktop-C30A7655A76C0CBD.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture responsive-image--picture div NewHero_hero__viZgp NewHero_fullScreenHero__xtKVW heroWrapper BSLSection_heroContainer__IMKVS div blsContainer BSLSection_blsContainer__RP8tV div BSLSection_ultraWideWrapper__sUxog div",
+      "content_type": "image/webp",
+      "bytes": 100068,
+      "sha256": "e24f35db949d55e79510ccecaa16b4ea0198d8082bb4c43233a314e244157d32",
+      "width": 1800,
+      "height": 816
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/nio/banner-2.webp",
+      "source_url": "https://cdn-udp-public.eu.nio.com/www-nio/cdn-static/mynio/cms/en_US/page_new_homepage/1703335961387-nioPower.banner.desktop-B17FAF9631AFF353.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture responsive-image--picture div ServicePowerTemplate_topSection__Jrna2 div ServicePowerTemplate_psContainer__YMnkL div ServicePowerTemplate_ultraWideWrapper__07F3u div",
+      "content_type": "image/webp",
+      "bytes": 66788,
+      "sha256": "3aa8c5ca5b49d2bf91fd1c4328cead135441a3704a26b047d688bad587040c84",
+      "width": 1800,
+      "height": 961
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/nio/reference-1.webp",
+      "source_url": "https://cdn-udp-public.eu.nio.com/www-nio/es8-five-seater/soo/homepage/top-slider/Hero-Mobile.jpg",
+      "source_tag": "inline-background-image",
+      "context": "video  BackgroundVideo_video__2hccC background-image:url(https://cdn-udp-public.eu.nio.com/www-nio/es8-five-seater/soo/homepage/top-slider/Hero-Mobile.jpg)",
+      "content_type": "image/webp",
+      "bytes": 67286,
+      "sha256": "2f1c1dc055d90febda88e42cd3f38940ef2887ce3423fd667d11cee935af4329",
+      "width": 623,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/nio/reference-2.webp",
+      "source_url": "https://cdn-udp-public.eu.nio.com/www-nio/homepage/top-slider/es9/home-slider-hero-mobile.jpg",
+      "source_tag": "inline-background-image",
+      "context": "video  BackgroundVideo_video__2hccC background-image:url(https://cdn-udp-public.eu.nio.com/www-nio/homepage/top-slider/es9/home-slider-hero-mobile.jpg)",
+      "content_type": "image/webp",
+      "bytes": 35430,
+      "sha256": "2175f8a17289289c393a4f1f9d1d4a260b07e7dc32721088a277b0c505cbdb2b",
+      "width": 623,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/nio/reference-3.webp",
+      "source_url": "https://cdn-udp-public.eu.nio.com/www-nio/admin-file-upload/prod/2026-03-20/c4268b/Home_Hero_Mobile.jpg",
+      "source_tag": "inline-background-image",
+      "context": "video  BackgroundVideo_video__2hccC background-image:url(https://cdn-udp-public.eu.nio.com/www-nio/admin-file-upload/prod/2026-03-20/c4268b/Home_Hero_Mobile.jpg)",
+      "content_type": "image/webp",
+      "bytes": 71672,
+      "sha256": "04fe449d5100fe99d23ad970fb6257c85e164c25627ab7c6a7689f065be48520",
+      "width": 703,
+      "height": 1350
+    }
+  ]
+}

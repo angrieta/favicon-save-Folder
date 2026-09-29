@@ -1,0 +1,81 @@
+{
+  "company": "현대글로비스",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.glovis.net/kr/home",
+  "page_url": "https://www.glovis.net/kr/home",
+  "page_title": "현대글로비스",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.glovis.net/videos/main-kv-small-video-01.mp4; banner:ValueError:https://www.glovis.net/videos/main-kv-small-video-02.mp4; banner:ValueError:https://www.glovis.net/videos/main-kv-small-video-03.mp4; reference:ValueError:https://www.glovis.net/videos/main-kv-small-video-01.mp4; reference:ValueError:https://www.glovis.net/videos/main-kv-small-video-02.mp4; reference:ValueError:https://www.glovis.net/videos/main-kv-small-video-03.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/hyundai-glovis/favicon.ico",
+      "source_url": "https://www.glovis.net/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "c09d1249eeee0a10368111ad431ce145859fa70769dd151e90550c4cdc7ed175",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/hyundai-glovis/og.webp",
+      "source_url": "https://www.glovis.net/images/og-image1.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3306,
+      "sha256": "becd58c96fd4deedefb09525b8908a3633c74b9a9b7fc599a62c5ed371d073e8",
+      "width": 800,
+      "height": 420
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hyundai-glovis/logo-1.png",
+      "source_url": "https://www.glovis.net/images/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 6679,
+      "sha256": "6b7f993afccfcdab949c7dfa61f6bb0a2e32e7fe5aa94eebce3e1e1e494367c5",
+      "width": 617,
+      "height": 129
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hyundai-glovis/reference-1.webp",
+      "source_url": "https://www.glovis.net/_next/image?url=%2Fimages%2Fmain-business-img-logistics.jpg&w=1920&q=100",
+      "source_tag": "img:page-image",
+      "context": "img logistics 사업 div inner-list img-active div img-list logistics div img-wrap div biz-img-area",
+      "content_type": "image/webp",
+      "bytes": 60910,
+      "sha256": "caa3ed92d599ac3c47d4e9b5e040e24409f22febb9a09e4703dc7a9f39259b98",
+      "width": 798,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hyundai-glovis/reference-2.webp",
+      "source_url": "https://www.glovis.net/_next/image?url=%2Fimages%2Fmain-business-img-shipping.jpg&w=1920&q=100",
+      "source_tag": "img:page-image",
+      "context": "img shipping 사업 div inner-list div img-list logistics div img-wrap div biz-img-area",
+      "content_type": "image/webp",
+      "bytes": 104212,
+      "sha256": "453bceb5bbcd0648893a12b3a7661d27d4d47304d48448f9c5b11d5b0843a16a",
+      "width": 798,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hyundai-glovis/reference-3.webp",
+      "source_url": "https://www.glovis.net/_next/image?url=%2Fimages%2Fmain-business-img-distribution.jpg&w=1920&q=100",
+      "source_tag": "img:page-image",
+      "context": "img distribution 사업 div inner-list div img-list logistics div img-wrap div biz-img-area",
+      "content_type": "image/webp",
+      "bytes": 88040,
+      "sha256": "6b288572f36e81aa0ad3c29063083de37e63b7929fdb1746c0009e71241772b3",
+      "width": 798,
+      "height": 1080
+    }
+  ]
+}

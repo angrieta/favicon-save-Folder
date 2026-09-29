@@ -1,0 +1,58 @@
+{
+  "company": "Substack",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://substack.com/",
+  "page_url": "https://substack.com/",
+  "page_title": "Substack",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://substack.com/fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9acc95bc-b55d-45ac-b734-eae9e0614274_523x523.jpeg; reference:HTTPError:https://substack.com/g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff41d4401-6cdb-45b7-a3d7-37df0db9ea7f_1568x882.png; reference:HTTPError:https://substackcdn.com/image/fetch/$s_!de0u!; reference:ValueError:https://substackcdn.com/bundle/theme/reader2.f344f55ba33b7b970f0d.css; reference:HTTPError:https://substackcdn.com/image/fetch/$s_!DzDi!; reference:HTTPError:https://substack.com/fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8125e393-28e7-48e0-88ce-3ac1ba821fb6_1320x1320.jpeg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/substack/favicon.png",
+      "source_url": "https://substackcdn.com/icons/substack/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 24038,
+      "sha256": "1ea882c163b1fc65734295dd29fbc3e42d67f1842bcfc3ff5d8c50e37acf8786",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/substack/og.svg",
+      "source_url": "https://substackcdn.com/image/fetch/$s_!Xim-!,w_400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Ficons%2Fsubstack%2Ficon.svg",
+      "source_tag": "og:image",
+      "content_type": "image/svg+xml",
+      "bytes": 15618,
+      "sha256": "53bf9dcc36299c25927bce589e84af904744de6f88ece97c1bf5ea7989b2685a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/substack/reference-1.webp",
+      "source_url": "https://substackcdn.com/image/fetch/$s_!_aRI!,w_1456,h_1456,c_pad,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fuser%2F38485007%2F0a68f0dc-e2e0-4428-bc6a-652f3367b092%2Ftranscoded-00001.png",
+      "source_tag": "img:page-image",
+      "context": "img video-player-preview div video-player video-player videoPlayer-AdXrEr div with-preview video-player-wrapper Video player div pencraft pc-display-flex pc-flexDirection-column pc-position-relative pc-reset pc-borderRadius-md overflow-hidd",
+      "content_type": "image/webp",
+      "bytes": 75054,
+      "sha256": "27d0096e65693cc42951337934ce4d0f3f6929ace6dee1253260d38bb8b52d9a",
+      "width": 1350,
+      "height": 1350,
+      "source_sha256": "58a0340c06f7d8c1e9c1f8f43883f57b0c1ccbf7c432861126052802ec34be40"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/substack/reference-2.webp",
+      "source_url": "https://substackcdn.com/image/fetch/$s_!jwWO!,w_520,h_272,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff41d4401-6cdb-45b7-a3d7-37df0db9ea7f_1568x882.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div pencraft pc-display-flex pc-flexDirection-column pc-reset border-bottom-detail-H67ihT vibrantHeader-We3FVb a pencraft pc-display-flex pc-flexDirection-column pc-minWidth-0 pc-position-relative pc-reset bg-primary-cNyHNm pc-borde",
+      "content_type": "image/webp",
+      "bytes": 18924,
+      "sha256": "50c3f86eac59be4a862c9eb688a464c683c965a7f2518b525e06a6ff1ccc66a0",
+      "width": 520,
+      "height": 272
+    }
+  ]
+}

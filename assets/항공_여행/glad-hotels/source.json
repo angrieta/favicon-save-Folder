@@ -1,0 +1,86 @@
+{
+  "company": "글래드호텔",
+  "category": "항공_여행",
+  "requested_url": "https://www.glad-hotels.com/",
+  "page_url": "https://www.glad-hotels.com/hub/index.do",
+  "page_title": "글래드 호텔앤리조트 공식 사이트 | GLAD HOTELS & RESORTS Official Website",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.glad-hotels.com/util/file/download.do?fileSn=680710&sysCode=GLADHOTEL",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/glad-hotels/favicon.ico",
+      "source_url": "https://www.glad-hotels.com/static/favicon/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "5bc4b61ee58c7c1f43525102e9832cced0ced11edcd19f0f068b935d861a5825",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/glad-hotels/banner-1.webp",
+      "source_url": "https://www.glad-hotels.com/util/file/download.do?fileSn=1028676&sysCode=GLADHOTEL",
+      "source_tag": "img:semantic-banner",
+      "context": "img GLAD Main 이미지 div image a cover-link div swiper-slide image-swiper div swiper-wrapper image-wrapper",
+      "content_type": "image/webp",
+      "bytes": 148996,
+      "sha256": "797bb3676f8ce4c9381ae4967018eaeb7d1533fa18b7c3a350081565b9f0ee6b",
+      "width": 1440,
+      "height": 1024,
+      "source_sha256": "1a8ee9a787bae0cc62b48039b40f4c37a28992366e38bb9cc49ad6b60cf2c451"
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/glad-hotels/banner-2.webp",
+      "source_url": "https://www.glad-hotels.com/util/file/download.do?fileSn=1028687&sysCode=GLADHOTEL",
+      "source_tag": "img:semantic-banner",
+      "context": "img GLAD Main 이미지 div image a cover-link div swiper-slide image-swiper div swiper-wrapper image-wrapper",
+      "content_type": "image/webp",
+      "bytes": 94080,
+      "sha256": "07cf7ef263d6106f359374bff7ad793d6f3ce3cf4dab7b03d3e4011daed3a1fb",
+      "width": 1600,
+      "height": 996,
+      "source_sha256": "a5bdd62de82f243fc824c51e686e19cb44d795d0870565ee9d8e3c83dc682933"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/glad-hotels/reference-1.webp",
+      "source_url": "https://www.glad-hotels.com/util/file/download.do?fileSn=1028698&sysCode=GLADHOTEL",
+      "source_tag": "img:page-image",
+      "context": "img GLAD Main 이미지 div image a cover-link div swiper-slide image-swiper div swiper-wrapper image-wrapper",
+      "content_type": "image/webp",
+      "bytes": 172190,
+      "sha256": "7abd4bd590e9a7794e15b204d06834a071d5a01b031b4021e389856aa49b31da",
+      "width": 1600,
+      "height": 996,
+      "source_sha256": "a08cfefc06420981f62b29690d4cb385f66f7323c922b4695ffd2c9b159a501a"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/glad-hotels/reference-2.webp",
+      "source_url": "https://www.glad-hotels.com/util/file/download.do?fileSn=1028713&sysCode=GLADHOTEL",
+      "source_tag": "img:page-image",
+      "context": "img GLAD Main 이미지 div image a cover-link div swiper-slide image-swiper div swiper-wrapper image-wrapper",
+      "content_type": "image/webp",
+      "bytes": 206316,
+      "sha256": "c7067355f05d47452158500026586c3dbe84d99d08bc527ee0e8f8ea300f6e63",
+      "width": 1600,
+      "height": 834,
+      "source_sha256": "ab4f9d5e072badcdce5937c4aaaffc44a6020575d740d3283a10ff353191127f"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/glad-hotels/reference-3.webp",
+      "source_url": "https://www.glad-hotels.com/util/file/download.do?fileSn=1157349&sysCode=GLADHOTEL",
+      "source_tag": "img:page-image",
+      "context": "img 글래드 꿀잠 with 아로마티카  a image-link div image div card-image div hotel-content-card",
+      "content_type": "image/webp",
+      "bytes": 38490,
+      "sha256": "8fd43711e26a0b307f37a5807d7aeba525b7154305c5402a5495d4879e53b95e",
+      "width": 1020,
+      "height": 1020
+    }
+  ]
+}

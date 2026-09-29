@@ -1,0 +1,58 @@
+{
+  "company": "VALORANT",
+  "category": "게임_엔터",
+  "requested_url": "https://playvalorant.com/ko-kr/",
+  "page_url": "https://playvalorant.com/ko-kr/",
+  "page_title": "발로란트",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/74d9d9fd8664d1c431b4b82d007f968eacb3e8b4.mp4?accountingTag=VAL; reference:ValueError:https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/74d9d9fd8664d1c431b4b82d007f968eacb3e8b4.mp4?accountingTag=VAL; reference:ValueError:https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/f6ccf20dfe3f6a24ea9216bb8afaaa66740c715d.mp4?accountingTag=VAL; reference:ValueError:https://playvalorant.com/_next/static/css/112495035b880485.css; reference:ValueError:https://playvalorant.com/_next/static/css/d22fe4243c447d5f.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/valorant/favicon.png",
+      "source_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cbf4460132cdfeb2a97fad5f9dd25ba0bc058f76-128x128.png?accountingTag=VAL",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1352,
+      "sha256": "5ff872ecfab34da9c6dfa311b0ef98ef62d55b49d707ea6ea329765ca2288da5",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/valorant/og.webp",
+      "source_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cbf4460132cdfeb2a97fad5f9dd25ba0bc058f76-128x128.png?accountingTag=VAL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14570,
+      "sha256": "d1e72ba5ae0d5e710475be7bb9a0dd4357b3c9237ece1d0877f095f1a5f3c548",
+      "width": 630,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/valorant/favicon.png",
+      "source_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cbf4460132cdfeb2a97fad5f9dd25ba0bc058f76-128x128.png?accountingTag=VAL",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "content_type": "image/png",
+      "bytes": 1352,
+      "sha256": "5ff872ecfab34da9c6dfa311b0ef98ef62d55b49d707ea6ea329765ca2288da5",
+      "width": 128,
+      "height": 128,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/valorant/reference-1.webp",
+      "source_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cbf4460132cdfeb2a97fad5f9dd25ba0bc058f76-128x128.png?accountingTag=VAL&w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "source_tag": "json-ld.@graph[2].image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 11604,
+      "sha256": "91c6b3c3fb2ee9b08e6fd06d9f9c6916c6d5b5ae92a0b185e2e5f0a18ebb7958",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "company": "Marvel",
+  "category": "게임_엔터",
+  "requested_url": "https://www.marvel.com/",
+  "page_url": "https://www.marvel.com/",
+  "page_title": "Marvel.com | The Official Site for Marvel Movies, Characters, Comics, TV",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://assets-cdn.marvel.com/marvel-fitt/439cb780f864-release-20260918-ads.1.0.806/client/marvel-fitt/css/fusion-e706ac97.css; reference:ValueError:https://assets-cdn.marvel.com/marvel-fitt/439cb780f864-release-20260918-ads.1.0.806/client/marvel-fitt/css/marvel-fitt-266abe44.css; reference:ValueError:https://dcf.espn.com/TWDC-DTCI/prod/Bootstrap.js; reference:ValueError:https://cdn.disneyaccount.com/v5/sdk.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/marvel/favicon.png",
+      "source_url": "https://www.marvel.com/assets/favicon/android-chrome-icon-194.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 2537,
+      "sha256": "176e8b525452b018744afcaae077ecfa2f7c86d768c506072dd5ba346af581ef",
+      "width": 194,
+      "height": 194,
+      "source_sha256": "96dcbc7fa8233d1af2d88d87327870c4bca98370fdefcabc81bba080fd94d0e1"
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/marvel/og.webp",
+      "source_url": "https://cdn.marvel.com/u/prod/marvel/images/OpenGraph-TW-1200x630.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 60562,
+      "sha256": "e1105f6a0b6f6d751efea337b4558b2cc3609098f74a1b16559fddd564f856b8",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/marvel/logo-1.png",
+      "source_url": "https://i.annihil.us/u/prod/marvel/images/logo/marvel-logo.png",
+      "source_tag": "json-ld[1].logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 6306,
+      "sha256": "c0738cd855dddb26fa1e96c2cf3a6eb26c38b59d4bc5bcc0a0c3feb0f5ca09df",
+      "width": 377,
+      "height": 150
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/marvel/logo-2.png",
+      "source_url": "https://cdn.marvel.com/content/1x/mu-logo-nav-v4-2x-02.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img hsDdd NDJZt sJeUN IJwXl Marvel Unlimited logo div Image__Wrapper a Navigation__Mobile__Link li Navigation__Mobile__Promo ul Navigation__Mobile",
+      "content_type": "image/png",
+      "bytes": 4368,
+      "sha256": "f40ddc6a4f2f7fe73453e4f8754b731f4c8d5a01afd7839c3868f4daad8e12b1",
+      "width": 134,
+      "height": 59
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/marvel/banner-1.webp",
+      "source_url": "https://cdn.marvel.com/content/1x/xm97strike_mas_dsk_01.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img SliderMastheadCard__Image carousel-masthead hsDdd NDJZt sJeUN IJwXl X-MEN '97: STRIKE FILES INFINITY COMIC (2026) #1 cover by Todd Nauck div Image__Wrapper div SliderMastheadCard carousel-masthead div Carousel__Window Carousel__Window--",
+      "content_type": "image/webp",
+      "bytes": 120312,
+      "sha256": "3d18f76eec266448426b540b23c4931bc248fa9751460ca232a6750ab3fab857",
+      "width": 1600,
+      "height": 533,
+      "source_sha256": "2f734c5faac6375f5ac7db2248213133357deb48381bd1ebd91d4ad368f7900b"
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/marvel/banner-2.webp",
+      "source_url": "https://cdn.marvel.com/content/1x/avengersendgameencore_lob_mas_dsk_01.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img SliderMastheadCard__Image carousel-masthead hsDdd NDJZt sJeUN IJwXl Marvel Studios' Avengers Endgame: Encore Movie Poster div Image__Wrapper div SliderMastheadCard carousel-masthead div Carousel__Window Carousel__Window--at-center div C",
+      "content_type": "image/webp",
+      "bytes": 110262,
+      "sha256": "c24128580bbb4a15388661c314ad8792693b78c4c01909cba8273ae8fbd628bc",
+      "width": 1600,
+      "height": 533,
+      "source_sha256": "4993316af032a24a88c5e02da15c8684ff172d237e0397f846d87e69bdbd0f79"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/marvel/reference-1.webp",
+      "source_url": "https://cdn.marvel.com/content/1x/countdowntoavengersdoomsdayofficialpodcast_lob_mas_dsk_01.webp",
+      "source_tag": "img:page-image",
+      "context": "img SliderMastheadCard__Image carousel-masthead hsDdd NDJZt sJeUN IJwXl Countdown to Avengers: Doomsday Official Podcast Digital Series Poster div Image__Wrapper div SliderMastheadCard carousel-masthead div Carousel__Window Carousel__Window",
+      "content_type": "image/webp",
+      "bytes": 34966,
+      "sha256": "d01e735c209a754f28369c91e8511b8a42293b53dfa0412640a8af64c6c6daba",
+      "width": 1800,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/marvel/reference-2.webp",
+      "source_url": "https://cdn.marvel.com/content/2x/20250331_newtomu_base_set_dsk.webp",
+      "source_tag": "img:page-image",
+      "context": "img Masthead__Background__Built__Image sets half hsDdd NDJZt sJeUN IJwXl New to MU: Ultimate Spider-Man, Avengers Academy, Marvel Rivals, Avengers, Immortal Thor div Image__Wrapper div Masthead__Background__Built__Wrapper sets half div Mast",
+      "content_type": "image/webp",
+      "bytes": 117728,
+      "sha256": "57a5f9329c6f6cd582a2b7605ec75a31facea0587026942b12ca9cee8a56d3af",
+      "width": 1600,
+      "height": 796,
+      "source_sha256": "f5a5d861247901383ef2569e21bed16085fd06b1fc696c204276e1eff1bbcbc0"
+    }
+  ]
+}

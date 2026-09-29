@@ -1,0 +1,82 @@
+{
+  "company": "스튜디오드래곤",
+  "category": "게임_엔터",
+  "requested_url": "https://www.studiodragon.net/",
+  "page_url": "https://www.studiodragon.net/ko/",
+  "page_title": "스튜디오드래곤",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://web2-cf-image.cjenm.com/public/sdragon/studio_main.mp4; reference:ValueError:https://web2-cf-image.cjenm.com/public/sdragon/studio_main.mp4; reference:ValueError:https://www.studiodragon.net/_next/static/css/597fcec2004bce72.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/studio-dragon/favicon.png",
+      "source_url": "https://web2-cf-image.cjenm.com/public/share/systemmng/site/sitemng/favicon.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 1368,
+      "sha256": "63f94124298011e0b5b73cb77ff09ccdc78dc04b8458cd6763db1b975213e506",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/studio-dragon/og.webp",
+      "source_url": "https://web2-cf-image.cjenm.com/crop/1200x630/public/share/systemmng/site/sitemng/studiodragon.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5302,
+      "sha256": "bed4bfb5f6183a0ff76f608f9dabf143761f312dd9fa5860a324f75d440ee974",
+      "width": 550,
+      "height": 550
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/studio-dragon/logo-1.png",
+      "source_url": "https://web2-cf-image.cjenm.com/resize/340x76/public/share/systemmng/site/gnbmng/StudioDragonLogoNavy_1714696887452.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Studio Dragon i jsx-807907036 a jsx-807907036 div jsx-807907036 logo div jsx-807907036 area-inner",
+      "content_type": "image/png",
+      "bytes": 8920,
+      "sha256": "c7f7f2568e802df51cd8a8e89ff2723110bc5d37221722fd377ea1f2f2f41eb7",
+      "width": 168,
+      "height": 76
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/studio-dragon/logo-2.png",
+      "source_url": "https://web2-cf-image.cjenm.com/public/share/systemmng/site/ctgmng/StudioDragonFooterLogo.png?1782351385000",
+      "source_tag": "img:semantic-logo",
+      "context": "img Studio Dragon i div footer_logo div footer_main div footer_main-area",
+      "content_type": "image/png",
+      "bytes": 5537,
+      "sha256": "d1f8cf8eddbd7722f588356d0ec76c22983365cf743c1e8bfc6c984ae4ddc6d0",
+      "width": 102,
+      "height": 42
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/studio-dragon/banner-1.webp",
+      "source_url": "https://web2-cf-image.cjenm.com/public/share/contentsmng/kr/bgstudiomain.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div homeArea section background-image:url('https://web2-cf-image.cjenm.com/public/share/contentsmng/kr/bgstudiomain.jpg')",
+      "content_type": "image/webp",
+      "bytes": 81808,
+      "sha256": "b0a2732a7e0d63ec1cd55051fac1b8aa50896f8b7b0c2fa5cf64eb2ed79935c1",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "95af83e0f8a0778ea4569aef52be9d8d9d49efa009f5da5077e3df73dfcc8285"
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/studio-dragon/banner-2.webp",
+      "source_url": "https://web2-cf-image.cjenm.com/public/share/systemmng/site/sitemng/portfoliodetailblank.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  noimg background-image:url(\"https://web2-cf-image.cjenm.com/public/share/systemmng/site/sitemng/portfoliodetailblank.jpg\")",
+      "content_type": "image/webp",
+      "bytes": 2142,
+      "sha256": "ad5081d4c0f25deb5cdfb4c72b3f97e5e28a621b53e47c0380f46d9f42832cf7",
+      "width": 960,
+      "height": 640
+    }
+  ]
+}

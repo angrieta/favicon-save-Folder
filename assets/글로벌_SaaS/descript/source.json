@@ -1,0 +1,82 @@
+{
+  "company": "Descript",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.descript.com/",
+  "page_url": "https://www.descript.com/",
+  "page_title": "Descript: AI Video & Audio Text-based Editor — Try Free",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.descript.com/_next/static/media/Booton_SemiBold-s.p.0hhjh79u6xpso.woff2; reference:ValueError:https://www.descript.com/_next/static/media/GamuthDisplay_Bold-s.p.0iu849f9keare.woff2; reference:ValueError:https://www.descript.com/_next/static/chunks/431bw722fec3m.js; reference:ValueError:https://fast.wistia.com/assets/external/E-v1.js; reference:ValueError:https://pixel-cdn.default.com; reference:ValueError:https://import-cdn.default.com/sdk.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/descript/favicon.png",
+      "source_url": "https://static-cdn.descript.com/web/icons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1996,
+      "sha256": "89d380db862dd9fb1b9a1b441f932c0e6b03c778f92375e26df9e24880f13052",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/descript/og.webp",
+      "source_url": "https://cdn.sanity.io/images/lsw4j9eq/production/126b70d12a747eb60c81bad5b72942f7d75041dd-1200x630.jpg?fit=max&auto=format",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 40730,
+      "sha256": "05bb1b0c25338725ad571ae8f7c2feca5fabbff4ddf29aae2468f6585460a331",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/descript/logo-1.svg",
+      "source_url": "https://static-cdn.descript.com/descript-website/images/descript-nav-logo-light.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img descript logo a block translate-y-[1px] li xl:mr-4 ul flex gap-4 2xl:gap-6 items-center w-full text-inherit nav desktop-navbar p-6 w-full hidden min-[1200px]:flex fixed z-[1000] left-[50%] transform -translate-x-[50%] font-semibold",
+      "content_type": "image/svg+xml",
+      "bytes": 6764,
+      "sha256": "59b22bbf6211c37fa267aba60eeae244ee1ce3f84d3ea1be8cf94a3aa5a163ea",
+      "width": 98,
+      "height": 24,
+      "source_sha256": "879e70492770525e8a0c92d7dcdb8c02cbfff6331a2165f2b18924058ddcd5b8"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/descript/logo-2.png",
+      "source_url": "https://static-cdn.descript.com/descript-website/images/logo-saastr.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img max-h-[32px] w-auto object-contain object-left SaaStr logo a flex-1 p-4 border border-[var(--Neutral-300)] rounded-[4px] flex flex-col gap-[19px] min-[1200px]:hover:bg-[#fff7fa] min-[1200px]:hover:border-[var(--Neutral-700)] transition-",
+      "content_type": "image/png",
+      "bytes": 8443,
+      "sha256": "312f5f5897294fed9f0effe01e85149398f915cc28580f3549a84839d80c9a82",
+      "width": 187,
+      "height": 64
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/descript/banner-1.webp",
+      "source_url": "https://www.descript.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flsw4j9eq%2Fproduction%2Fd57caa94647cd700ce209af3b619b56241a5c722-1280x921.webp%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover Record div relative w-full h-[240px] sm:h-[320px] lg:h-auto lg:flex-1 lg:self-stretch rounded-[8px] overflow-hidden div w-[var(--card-w)] shrink-0 rounded-[16px] bg-[var(--Maroon-900)] p-8 sm:p-10 lg:p-12 flex flex-col lg:f",
+      "content_type": "image/webp",
+      "bytes": 78360,
+      "sha256": "8656c5a8b9f1e9b1159a2966a4d64e325ad775b62987c8120ba4dfa378d81189",
+      "width": 1280,
+      "height": 921
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/descript/banner-2.webp",
+      "source_url": "https://www.descript.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Flsw4j9eq%2Fproduction%2F911bc2e36110a7bed71b97cc97a899a44f403e45-1280x840.webp%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover Edit div relative w-full h-[240px] sm:h-[320px] lg:h-auto lg:flex-1 lg:self-stretch rounded-[8px] overflow-hidden div w-[var(--card-w)] shrink-0 rounded-[16px] bg-[var(--Maroon-900)] p-8 sm:p-10 lg:p-12 flex flex-col lg:fle",
+      "content_type": "image/webp",
+      "bytes": 72362,
+      "sha256": "9fe0ad74079540eeb0b27f907070f630bdcdbe32a7c8d8b4b8f59b3e17e546b9",
+      "width": 1280,
+      "height": 840
+    }
+  ]
+}

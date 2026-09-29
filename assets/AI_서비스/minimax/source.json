@@ -1,0 +1,117 @@
+{
+  "company": "MiniMax",
+  "category": "AI_서비스",
+  "requested_url": "https://www.minimax.io",
+  "page_url": "https://www.minimax.io/",
+  "page_title": "MiniMax",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://filecdn.minimax.chat/public/023fd855-f068-436a-9f68-372bf643cd91.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/minimax/favicon.ico",
+      "source_url": "https://www.minimax.io/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "43ce4c9b9e627b391a116cd5da09e4c062d9c4e3d585509c65a4a3d16f386256",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/minimax/og.webp",
+      "source_url": "https://filecdn.minimax.chat/public/58eca777-e31f-448a-9823-e2220e49b426.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5834,
+      "sha256": "d954fab403a5c2ae91c0637c12a5bb1009b81f02997046bd2474a5a9ced3ddca",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/minimax/logo-1.png",
+      "source_url": "https://www.minimax.io/_next/image?url=%2Fassets%2Flogo%2Fminimax-horizontal-white.webp&w=384&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img official-header-logo w-full h-auto object-contain object-left a no-underline cursor-pointer flex items-center shrink-0 w-[clamp(72px,12vw,140px)] MiniMax div max-w-[1920px] h-full mx-auto flex items-center px-[60px] div official-header-",
+      "content_type": "image/png",
+      "bytes": 7174,
+      "sha256": "53abe1dd7b949e2f7d7227ae08a812769ed01263a055b6b703e965e93d3a3a65",
+      "width": 349,
+      "height": 128
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/minimax/logo-2.png",
+      "source_url": "https://www.minimax.io/_next/image?url=%2Fassets%2Flogo%2Fminimax-horizontal-white.webp&w=256&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img official-header-logo w-full h-auto object-contain object-left a no-underline cursor-pointer flex items-center shrink-0 w-[clamp(72px,12vw,140px)] MiniMax div max-w-[1920px] h-full mx-auto flex items-center px-[60px] div official-header-",
+      "content_type": "image/png",
+      "bytes": 5769,
+      "sha256": "39bb57052917f3b44d5e33911bb34e5ba5c288948cb5773ee517e3c7d7f2d7a0",
+      "width": 256,
+      "height": 94
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/minimax/banner-1.webp",
+      "source_url": "https://file.cdn.minimax.io/public/minimax-home-hero-m3-20260923-v2-background-poster.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 h-full w-full object-cover object-center transition-opacity duration-500 opacity-0 div pointer-events-none absolute inset-0 hidden overflow-hidden transition-opacity duration-700 ease-[cubic-bezier(0.65,0,0.35,1)] md:bl",
+      "content_type": "image/webp",
+      "bytes": 22992,
+      "sha256": "bc24a8c795e9255392d1c1056ea90b9fb5425b7d043274b7d6856158f73733d2",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/minimax/banner-2.webp",
+      "source_url": "https://file.cdn.minimax.io/public/minimax-home-model-card-m3-overlay.png?x-oss-process=image/format,webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img z-20 object-cover transition-transform duration-[480ms] ease-[cubic-bezier(0.22,1,0.36,1)] group-hover:scale-[1.055] group-focus-within:scale-[1.055] div relative overflow-hidden md:mx-[18px] md:mt-[18px] md:h-[233px] md:w-[calc(100%_-_",
+      "content_type": "image/webp",
+      "bytes": 1238,
+      "sha256": "ee34e0246a79e336ca6c55dce1667b53fdd9d4625506fe5da6369062fe8d21ed",
+      "width": 768,
+      "height": 466
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/minimax/reference-1.webp",
+      "source_url": "https://filecdn.minimax.chat/public/1f4b53a9-e0cd-4ae6-a7af-1ab6e6aceac1.png",
+      "source_tag": "json-ld.@graph[6].thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 34794,
+      "sha256": "75ad8120f8a5982e3505472bf06cd9af8bf4dc48e284399b2e4802e95a04d769",
+      "width": 1800,
+      "height": 510
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/minimax/reference-2.webp",
+      "source_url": "https://filecdn.minimax.chat/public/c73b4e40-3465-4710-91f0-8b78936f26cb.png",
+      "source_tag": "json-ld.@graph[7].itemListElement[0].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 22068,
+      "sha256": "b1e32d1a813a52538eb9bf042eb65d3da730ccd74fa6c9bd9cf4e4bb95dcd3a1",
+      "width": 1800,
+      "height": 510
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/minimax/reference-3.webp",
+      "source_url": "https://filecdn.minimax.chat/public/260b07e3-670e-4978-b8fd-653dda5069eb.png",
+      "source_tag": "json-ld.@graph[7].itemListElement[1].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 22378,
+      "sha256": "62d65d3438cb928cea49e7051bdb0ed5f7b41db122b6013bc9dce40ba40af5b3",
+      "width": 1800,
+      "height": 510
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "company": "8퍼센트",
+  "category": "핀테크_결제",
+  "requested_url": "https://8percent.kr/",
+  "page_url": "https://8percent.kr/",
+  "page_title": "에잇퍼센트",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://8percent.kr/assets/api_v1-Bc9ZqyLf.js; reference:ValueError:https://8percent.kr/assets/vue-vendor-DwDMNkd8.js; reference:ValueError:https://8percent.kr/assets/login-q6FNzbkS.js; reference:ValueError:https://8percent.kr/assets/keys-CorIr4Pb.js; reference:ValueError:https://8percent.kr/assets/gnb-xLUryIbv.js; reference:ValueError:https://8percent.kr/assets/cart-CdwH2qOK.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/8percent/favicon.png",
+      "source_url": "https://8percent.kr/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 23253,
+      "sha256": "9de78d60b12b6875d716f3aed6f1d85b4a4a994a18f22ade2d1c20e2414e9bbc",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/8percent/og.webp",
+      "source_url": "https://cdn-media.8percent.kr/meta/8percent-meta.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8550,
+      "sha256": "85bfb104468188f217d0647822c99f1bb8389e955e51286cbc7644aa756b8bc7",
+      "width": 1200,
+      "height": 675
+    }
+  ]
+}

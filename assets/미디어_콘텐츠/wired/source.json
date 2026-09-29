@@ -1,0 +1,96 @@
+{
+  "company": "WIRED",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.wired.com/",
+  "page_url": "https://www.wired.com/",
+  "page_title": "WIRED - The Latest in Technology, Science, Culture and Business | WIRED",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.wired.com/c_limit/092926-OpenAI%20Scrap.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/wired/favicon.ico",
+      "source_url": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "67755dda169221cbf7325e71348ce17ae87d6a8a7c68b3a8c50d7589e7da664c",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/wired/og.webp",
+      "source_url": "https://media.wired.com/photos/615e2b8ce78a8cd913bbaa76/16:9/w_1280,c_limit/wired_bug.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5516,
+      "sha256": "c9bcad62129e457899c2618515a3def8ae55117363c5965f620a6f4fa30b27c9",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/wired/logo-1.webp",
+      "source_url": "https://www.wired.com/verso/static/wired-us/assets/newsletter-signup-hub.jpg",
+      "source_tag": "json-ld[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 33000,
+      "sha256": "da131c29ef3054d7825ae820349c8ff64356643bc9106ae49243e955a9c4cc41",
+      "width": 1201,
+      "height": 631
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/wired/logo-2.webp",
+      "source_url": "https://media.wired.com/photos/67b63b9a4816461befb48207/16:9/w_768%2Cc_limit/WIRED-Coupons-R2_12.png",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image span SpanWrapper-kFnjvc eKnjjD responsive-asset span BaseText-fEwdHD SubtopicDiscoveryImage-bXeKer cqNFjT eeHVww SubtopicDiscoveryImage Image may contain Green Scoreboard and Log",
+      "content_type": "image/webp",
+      "bytes": 105132,
+      "sha256": "69fd3509d2f5e2b12ada2fab8bc2014d0afb21767280e341145ffa351f94a619",
+      "width": 768,
+      "height": 432
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/wired/reference-1.webp",
+      "source_url": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/3:2/w_768",
+      "source_tag": "picture:page-image",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image span SpanWrapper-kFnjvc eKnjjD responsive-asset div MediaAssetWrapper-cXozZc bIJaid div MediaWrapper-krFkzQ cyjfiU div DefaultCardWrapper-gObuBP iIfAAZ",
+      "content_type": "image/webp",
+      "bytes": 259354,
+      "sha256": "bf781bb75bd243a5949494a9a9a4c2a53659090187a39519e2aeaecaa91e83c9",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "481019eed26a28395fdacba318aebc7f7b2189ca71a05005a62ff5e30d16900c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/wired/reference-2.webp",
+      "source_url": "https://media.wired.com/photos/6abb79f89de9cbda7c9ca7ba/3:2/w_1024%2Cc_limit/092926-OpenAI%2520Scrap.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image span SpanWrapper-kFnjvc eKnjjD responsive-asset div MediaAssetWrapper-cXozZc bIJaid div MediaWrapper-krFkzQ cyjfiU div DefaultCardWrapper-gObuBP iIfAAZ",
+      "content_type": "image/webp",
+      "bytes": 72622,
+      "sha256": "2e12259e7c38c562c1681cc6e396f8aadb2af2fbad912280b8f8ddc25f83d698",
+      "width": 1024,
+      "height": 683,
+      "source_sha256": "d82e84bedc7e5895752e971afa8337de085bab2a2591389a3b075f8621d9a0e4"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/wired/reference-3.webp",
+      "source_url": "https://media.wired.com/photos/6ab5b6b48aaba31111432c65/1:1/w_768",
+      "source_tag": "picture:page-image",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image span SpanWrapper-kFnjvc eKnjjD responsive-asset div MediaAssetWrapper-cXozZc ihLske div MediaWrapper-krFkzQ fnbNRw div DefaultCardWrapper-gObuBP hIFMdQ",
+      "content_type": "image/webp",
+      "bytes": 395538,
+      "sha256": "7fa5c77e547518e17ff212a329bb55803ef2d3538026938395ad93889f9eea35",
+      "width": 1350,
+      "height": 1350,
+      "source_sha256": "7bac8425598250bf536785262aa0f9bd71e6ebebf0d88b03c020c71e07e441b2"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "company": "머니투데이",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.mt.co.kr/",
+  "page_url": "https://www.mt.co.kr/",
+  "page_title": "머니투데이 - 돈이 보이는 리얼타임 뉴스",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://menu.mt.co.kr/mt24/fonts/Pretendard_ks1001_subset.woff2; reference:ValueError:https://menu.mt.co.kr/mt24/assets/20260929081856/app-CNIXLlv9.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/money-today/favicon.png",
+      "source_url": "https://menu.mt.co.kr/common/favicons/favicon-180.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3736,
+      "sha256": "9580e77552466bc9953558db924ecf5e00e6567087de374f983bc37df4b47c53",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/money-today/og.webp",
+      "source_url": "https://menu.mt.co.kr/cdn-cgi/image/f=auto/common/meta/meta_mt_sns.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5070,
+      "sha256": "666560e491aaf5b3b4a5c9a02645261ae79f2726e6b33805b329c032e28b0247",
+      "width": 800,
+      "height": 420
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/money-today/og.webp",
+      "source_url": "https://menu.mt.co.kr/cdn-cgi/image/f=auto/common/meta/meta_mt_sns.webp",
+      "source_tag": "json-ld.logo.url",
+      "content_type": "image/webp",
+      "bytes": 5070,
+      "sha256": "666560e491aaf5b3b4a5c9a02645261ae79f2726e6b33805b329c032e28b0247",
+      "width": 800,
+      "height": 420,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/money-today/logo-2.svg",
+      "source_url": "https://menu.mt.co.kr/mt24/assets/20260929081856/logo-ClKSLyDR.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 머니투데이 로고 a 머니투데이 h1 logo header__logo div col_left div header_wrap",
+      "content_type": "image/svg+xml",
+      "bytes": 1783,
+      "sha256": "df82fc7b14bac213a59149f78f30d1ce58fd9cf25339d17f48b1fcda8288a728",
+      "width": 184,
+      "height": 38,
+      "source_sha256": "12e941d81e1ceb1557a8401c5ef670b765b4bd75766df4277541dd1173960a59"
+    }
+  ]
+}

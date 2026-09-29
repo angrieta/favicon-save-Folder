@@ -1,0 +1,94 @@
+{
+  "company": "경향신문",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.khan.co.kr/",
+  "page_url": "https://www.khan.co.kr/",
+  "page_title": "경향신문",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/kyunghyang/favicon.png",
+      "source_url": "https://img.khan.co.kr/spko/icon/apple-touch-icon-precomposed-web.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 9307,
+      "sha256": "f3264d252e62a131b462e79bd083614f278d415815d6179ccfd405d3b6e59802",
+      "width": 114,
+      "height": 114,
+      "source_sha256": "5baefb997133d8a804bc1f604bcab1df87d0142df276f0fc5203c3def82c9b8f"
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/kyunghyang/og.webp",
+      "source_url": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 30366,
+      "sha256": "ed66dc875413b7334d5c32b88706179955d2e7b2b692a5268949c206786dbbd1",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/kyunghyang/banner-1.webp",
+      "source_url": "https://img.khan.co.kr/ranking/khan/mobile/MATop/1166_1790667956_G3MG31Wectr1xyHO.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture article li ul div headline",
+      "content_type": "image/webp",
+      "bytes": 17628,
+      "sha256": "cee0f373e851cec793d71997119630b69a297040685c5c1ea01569ea18daa6ef",
+      "width": 700,
+      "height": 467
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/kyunghyang/banner-2.webp",
+      "source_url": "https://img.khan.co.kr/ranking/khan/mobile/MATop/1166_1790667956_G3MG31Wectr1xyHO.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture article li ul div headline",
+      "content_type": "image/webp",
+      "bytes": 20774,
+      "sha256": "4000aebc740a85e0f37818e6531c3a470f4818879f82085be111b71c941c8673",
+      "width": 700,
+      "height": 467
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/kyunghyang/reference-1.webp",
+      "source_url": "https://img.khan.co.kr/ranking/khan/mobile/MATop/1166_1790683334_wJq4GcsouHgUB7BH.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture article li swiper-slide ul swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 45410,
+      "sha256": "2abaa52af625641dedf5e60d55aeb687917f8acaed34fb9305fc4ca548ea798f",
+      "width": 700,
+      "height": 467
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/kyunghyang/reference-2.webp",
+      "source_url": "https://img.khan.co.kr/ranking/c/480x320/khan/mobile/MATop/1166_1790683334_wJq4GcsouHgUB7BH.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture article li swiper-slide ul swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 23836,
+      "sha256": "24f366c43a95585b958feee9f518f083e43d0861747b955f9be1b7d4d23fad99",
+      "width": 480,
+      "height": 320
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/kyunghyang/reference-3.webp",
+      "source_url": "https://img.khan.co.kr/ranking/khan/mobile/MATop/1166_1790683334_wJq4GcsouHgUB7BH.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture article li swiper-slide ul swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 50514,
+      "sha256": "e009afc07788db35469c6048839e123ce994ad0e3fee2d6e0a133afc86fe8187",
+      "width": 700,
+      "height": 467
+    }
+  ]
+}

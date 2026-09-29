@@ -1,0 +1,119 @@
+{
+  "company": "Levi's",
+  "category": "패션_의류",
+  "requested_url": "https://www.levi.co.kr/",
+  "page_url": "https://levi.co.kr/",
+  "page_title": "리바이스코리아 공식 온라인 스토어 | Levi's® Korea",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://levi.co.kr/cdn/shop/videos/c/vp/3c88ece320f84325942efab186d01b29/3c88ece320f84325942efab186d01b29.m3u8?v=0; banner:ValueError:https://levi.co.kr/cdn/shop/videos/c/vp/3c88ece320f84325942efab186d01b29/3c88ece320f84325942efab186d01b29.HD-1080p-7.2Mbps-93787626.mp4?v=0; banner:ValueError:https://levi.co.kr/cdn/shop/videos/c/vp/c4b51a1440f34a6484354bce5b8cb315/c4b51a1440f34a6484354bce5b8cb315.m3u8?v=0; banner:ValueError:https://levi.co.kr/cdn/shop/videos/c/vp/c4b51a1440f34a6484354bce5b8cb315/c4b51a1440f34a6484354bce5b8cb315.HD-1080p-7.2Mbps-93787552.mp4?v=0",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/levis/favicon.png",
+      "source_url": "https://levi.co.kr/cdn/shop/files/favicon_c9f59772-f0f3-4865-a732-93b391d96405.png?crop=center&height=32&v=1743069752&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1115,
+      "sha256": "3d2740507ba2f6bd7e61048e5c84102ac438887ed98d17f5dc8608644f1ae59d",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/levis/og.webp",
+      "source_url": "http://levi.co.kr/cdn/shop/files/1200X628_3.jpg?v=1747878873",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10890,
+      "sha256": "68d5114135dd328289ef8364ef4900e3e8b9dd35a45d84c84d790c68d7332f97",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/levis/logo-1.svg",
+      "source_url": "https://levi.co.kr/cdn/shop/files/logo.svg?v=1742013116&width=600",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__heading-logo motion-reduce Levi's® Korea div header__heading-logo-wrapper a header__heading-link link link--text focus-inset h1 header__heading header header header--middle-left header--mobile-center page-width header--has-menu ",
+      "content_type": "image/svg+xml",
+      "bytes": 5181,
+      "sha256": "1cafd565d33ae24bb4c4cbd63556a2978f11af04de43446643609a2fd39654c3",
+      "width": 850,
+      "height": 359,
+      "source_sha256": "9e420d3f6fe364d74b555d9ab13638abba5432338b2478ce8b0c8fb893309468"
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/levis/logo-2.png",
+      "source_url": "https://cdn.shopify.com/extensions/019b975a-bee4-7667-a301-3ecaf48db429/levis-kr-theme-app-staging-123/assets/levis-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img login-logo div reg-header form basic-login-form verification div mbl-user-login-dialog user-signup-wrapper div user-signup login-snippets-wrapper",
+      "content_type": "image/png",
+      "bytes": 13093,
+      "sha256": "c1c9d99fbeb93044ac31b26409d91a1e216ebb97dbb4ad185b2a232410c5c93a",
+      "width": 407,
+      "height": 65
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/levis/banner-1.webp",
+      "source_url": "https://levi.co.kr/cdn/shop/files/preview_images/c4b51a1440f34a6484354bce5b8cb315.thumbnail.0000000000.jpg?v=1788859721&width=2400",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture banner-video-poster div banner-media div banner banner-slider div HomeSlider home-slider link",
+      "content_type": "image/webp",
+      "bytes": 55660,
+      "sha256": "0c3a206c32bc483fb3f8051638fb9e7792529eab2e923eec9921ee2c189ba91e",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "02c71830faaa9e8f02a2fba719968e0c0cd773d7ce9f73e37f0ad990a69061bc"
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/levis/banner-2.webp",
+      "source_url": "https://levi.co.kr/cdn/shop/files/Hero_3_PC.gif?v=1788860193",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div banner-media div banner banner-slider div HomeSlider home-slider link",
+      "content_type": "image/webp",
+      "bytes": 75866,
+      "sha256": "d6e113968a4ca7b210fe33e460b5d436255ea9873e49533999cb85acda1f0747",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/levis/reference-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0669/3640/6169/files/LEVI_S_RED_TAB__image_1.jpg?v=1743006732",
+      "source_tag": "inline-background-image",
+      "context": "div  join-banner --bg: url(https://cdn.shopify.com/s/files/1/0669/3640/6169/files/LEVI_S_RED_TAB__image_1.jpg?v=1743006732)",
+      "content_type": "image/webp",
+      "bytes": 91698,
+      "sha256": "459f8f642444c59299e2e03f87ebb9661f375e289e9c4c2c5e7e9cbcc9d61565",
+      "width": 1500,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/levis/reference-2.webp",
+      "source_url": "https://levi.co.kr/cdn/shop/files/Hero_2.png?v=1788860049",
+      "source_tag": "picture:page-image",
+      "context": "picture div banner-media div banner banner-slider div HomeSlider home-slider link",
+      "content_type": "image/webp",
+      "bytes": 29486,
+      "sha256": "b90fb418da758edbd1950813ec42357e5f72670b9defefec79b3405cd3b9edcc",
+      "width": 1633,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/levis/reference-3.webp",
+      "source_url": "https://levi.co.kr/cdn/shop/files/H226_LEVISXROSE_PLP_MOBILE_2000X1650_c5835c6e-aa17-445f-a9a3-507def37ba74.png?v=1790041845&width=640",
+      "source_tag": "picture:page-image",
+      "context": "picture div banner-media div banner banner-slider div HomeSlider home-slider link",
+      "content_type": "image/webp",
+      "bytes": 8886,
+      "sha256": "d6f27c994527fd3d3436719826a0a464b4190f2a1dae5651e62ea54a00d11103",
+      "width": 640,
+      "height": 800
+    }
+  ]
+}

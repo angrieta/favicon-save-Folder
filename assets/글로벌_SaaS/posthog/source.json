@@ -1,0 +1,118 @@
+{
+  "company": "PostHog",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://posthog.com/",
+  "page_url": "https://posthog.com/",
+  "page_title": "PostHog - your product’s context layer",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/posthog/favicon.png",
+      "source_url": "https://posthog.com/icons/icon-512x512.png?v=6e5ac8d4a5b381b5caa29396fbf7c955",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4594,
+      "sha256": "574f9ec4b4bf6ed6a281d8789e285602a766a00aa3a13bcc8ac64d03f48f83a1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/posthog/og.webp",
+      "source_url": "https://posthog.com/images/og/default.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 51696,
+      "sha256": "dad89266ff1ef8dc00bd424947233a2230e68de03ee02c5bd105df3f499f547f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/posthog/logo-1.png",
+      "source_url": "https://posthog.com/brand/posthog-logo-stacked.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 21706,
+      "sha256": "7b3150f392ebcf59e2f6304f9b893e27769864e977f2d6229a9d6f155637e2aa",
+      "width": 480,
+      "height": 430
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/posthog/logo-2.png",
+      "source_url": "https://us.posthog.com/static/services/google-ads.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img span ai-demo-service-logo flex items-center justify-center size-[4cqw] shrink-0 [&_img]:block [&_img]:size-full [&_img]:object-contain [&>span]:w-full [&_svg]:!w-full [&_svg]:!h-auto div ai-demo-tool border-b border-primary flex items-c",
+      "content_type": "image/png",
+      "bytes": 29781,
+      "sha256": "8fe06fa57829c458b6fbb5287076457933c30f65cf8c991bf44a4f1ac22cc3dc",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/posthog/banner-1.webp",
+      "source_url": "https://res.cloudinary.com/dmukukwp6/image/upload/9000_bg_light_07316896be.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  absolute inset-0 hidden sm:block opacity-100 dark:opacity-0 transition-opacity duration-700 ease-in-out background-image:url('https://res.cloudinary.com/dmukukwp6/image/upload/9000_bg_light_07316896be.jpg');background-size:cover;backgr",
+      "content_type": "image/webp",
+      "bytes": 102342,
+      "sha256": "41b712c07435e85bead6cc020adf6ae4ed94f4402eeeac62133c38333a33524f",
+      "width": 1777,
+      "height": 985
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/posthog/banner-2.webp",
+      "source_url": "https://res.cloudinary.com/dmukukwp6/image/upload/9000_bg_dark_9a32796f77.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  absolute inset-0 hidden sm:block opacity-0 dark:opacity-100 transition-opacity duration-700 ease-in-out background-image:url('https://res.cloudinary.com/dmukukwp6/image/upload/9000_bg_dark_9a32796f77.jpg');background-size:cover;backgro",
+      "content_type": "image/webp",
+      "bytes": 80370,
+      "sha256": "826fd0e9e050e6e97ec690e2a676909a88b343c5f89c83a2e2e1fdd3cf464c31",
+      "width": 1777,
+      "height": 985
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/posthog/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/dmukukwp6/image/upload/9000_mobile_bg_light_95ed14e5a3.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  absolute inset-0 sm:hidden opacity-100 dark:opacity-0 transition-opacity duration-700 ease-in-out background-image:url('https://res.cloudinary.com/dmukukwp6/image/upload/9000_mobile_bg_light_95ed14e5a3.jpg');background-size:cover;backg",
+      "content_type": "image/webp",
+      "bytes": 38506,
+      "sha256": "3eb16785da237cff1ef287830dee216fb185fdb36bebcc1b47d71dca3165fbd0",
+      "width": 623,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/posthog/reference-2.webp",
+      "source_url": "https://res.cloudinary.com/dmukukwp6/image/upload/9000_mobile_bg_dark_8a84515f2d.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  absolute inset-0 sm:hidden opacity-0 dark:opacity-100 transition-opacity duration-700 ease-in-out background-image:url('https://res.cloudinary.com/dmukukwp6/image/upload/9000_mobile_bg_dark_8a84515f2d.jpg');background-size:cover;backgr",
+      "content_type": "image/webp",
+      "bytes": 43684,
+      "sha256": "5e1dd422e66b13d93ad8a83d6b2ad5e2d9344ea15f2978104b528edceea89a45",
+      "width": 623,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/posthog/reference-3.webp",
+      "source_url": "https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_1780/9000_hogzilla_359a450fb3",
+      "source_tag": "img:page-image",
+      "context": "img w-full max-w-[1780px] h-auto z-10 div inline-block absolute inset-0 flex items-end justify-end div hidden wallpaper-hogzilla:block absolute inset-0 div fixed inset-0 -z-10 select-none overflow-hidden pointer-events-none div fixed inset-",
+      "content_type": "image/webp",
+      "bytes": 104198,
+      "sha256": "eddfbf7c20b3241808f620a9aeb11f0d3c629ca5900b5c4a1730b8490bbb6c87",
+      "width": 1600,
+      "height": 780,
+      "source_sha256": "dfeb1760d8ac6d2da036446e7bdbb07969727ad48697b81bbda73aeb47c8c143"
+    }
+  ]
+}

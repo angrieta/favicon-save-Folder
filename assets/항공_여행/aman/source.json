@@ -1,0 +1,83 @@
+{
+  "company": "Aman",
+  "category": "항공_여행",
+  "requested_url": "https://www.aman.com/",
+  "page_url": "https://www.aman.com/",
+  "page_title": "Aman Resorts, Hotels & Residences - Explore Luxury Destinations",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://en.wikipedia.org/wiki/File:Vladislav-doronin-una-residences.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/aman/favicon.png",
+      "source_url": "https://www.aman.com/themes/custom/aman/assets/dist/media/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2923,
+      "sha256": "65ef635814727c90689b6d4fcbc152ace3d6aba42ee956553ade3d031690f5e6",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/aman/logo-1.svg",
+      "source_url": "https://www.aman.com/themes/custom/aman/logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 642,
+      "sha256": "59060305d6f0aba3e0588a604b1a13510f8d1f49b2f33355269e279eddfeb6df",
+      "width": 776,
+      "height": 207,
+      "source_sha256": "5f0ecf8c580f646f57b48ee38efc5f81ea65553564f0a8d6c00b656a345cb736"
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/aman/logo-2.webp",
+      "source_url": "https://www.aman.com/sites/default/files/styles/listing_teaser_small/public/2026-05/Brand-Ambassador_-Novak-Djokovic---Aman-New-York--United-States--1-.webp?itok=R1Sl6q3P",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture aman-responsive-image--square div media media--blazy media--bundle--image media--image media--responsive media--ratio media--ratio--11 is-b-loading a card__link figure A Novak Djokovic Programme article card slider-3up__slide card--",
+      "content_type": "image/webp",
+      "bytes": 10678,
+      "sha256": "d0fb293ff0813a8a07b6ec16ec47905302ec8cf0439b781fa3034c3256ef645e",
+      "width": 366,
+      "height": 366
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/aman/reference-1.webp",
+      "source_url": "https://www.aman.com/sites/default/files/styles/carousel_cards_slim_plus/public/2026-08/Amanvari--Mexico---Casa-Grande--1-.jpg?itok=Nd0lflWB",
+      "source_tag": "img:page-image",
+      "context": "img media__element b-lazy Casa Grande at Amanvari, a terracotta-coloured colonial building with palm trees and poolside loungers at sunset. div media media--blazy media--slick media--bundle--image media--image is-b-loading div slide__conten",
+      "content_type": "image/webp",
+      "bytes": 32846,
+      "sha256": "7f9215592efd2b452189040248e5e9ee87aa26bc126b41d238fed435ec6a7d86",
+      "width": 431,
+      "height": 431
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/aman/reference-2.webp",
+      "source_url": "https://www.aman.com/sites/default/files/styles/carousel_cards_slim_plus/public/2026-08/Amanvari--Mexico---Casa-Grande--1-.webp?itok=Nd0lflWB",
+      "source_tag": "img:page-image",
+      "context": "img media__element Casa Grande at Amanvari, a terracotta-coloured colonial building with palm trees and poolside loungers at sunset. noscript div media media--blazy media--slick media--bundle--image media--image is-b-loading div slide__cont",
+      "content_type": "image/webp",
+      "bytes": 32846,
+      "sha256": "7f9215592efd2b452189040248e5e9ee87aa26bc126b41d238fed435ec6a7d86",
+      "width": 431,
+      "height": 431
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/aman/reference-3.webp",
+      "source_url": "https://www.aman.com/sites/default/files/styles/carousel_cards_extra_large_2x/public/2025-11/Amangiri%2C%20USA%20-%20Accommodation%2C%20Desert%20Pool%20Suite.webp?itok=2EoiAFdf",
+      "source_tag": "source:page-image",
+      "context": "source picture aman-responsive-image--landscape div media media--blazy media--slick media--bundle--image media--image media--responsive is-b-loading div slide__content div slick blazy slick--field slick--field-slider-image slick--field-slid",
+      "content_type": "image/webp",
+      "bytes": 118938,
+      "sha256": "3caa8ff6172ed6a78ba4cb6c885a7627777de6b6d4678ac0f5dba511435a3b6a",
+      "width": 1800,
+      "height": 1121
+    }
+  ]
+}

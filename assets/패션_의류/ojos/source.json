@@ -1,0 +1,58 @@
+{
+  "company": "오호스",
+  "category": "패션_의류",
+  "requested_url": "https://ojos.kr",
+  "page_url": "https://ojos.kr/",
+  "page_title": "OJOS 오호스",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=207748469036239&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/ojos/favicon.ico",
+      "source_url": "https://ojos.kr/web/upload/favicon-0b5f91f9e71a2b6a50656975b9125a2a.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 251966,
+      "sha256": "01883a25c9e6a7306f1353cd6b91cf57a92e243d17a3f32c8e1052398b64e22d",
+      "width": 238,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/ojos/og.webp",
+      "source_url": "https://ojos.kr/web/upload/share-image-1-81ef8a55c7f7827583573401826fb9a0.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 64580,
+      "sha256": "7e7c4fa59785be1b7d2bb46b818367bd14683024df1320cc5a9ecca7f76acc4e",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/ojos/logo-1.webp",
+      "source_url": "https://vrtx2023.cafe24.com/26FW%20ARCHIVE/%EC%8B%A4%EB%82%B4_11.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img figure a div menu-banner menu-open nav header-top",
+      "content_type": "image/webp",
+      "bytes": 163194,
+      "sha256": "28c7730545579d0bc5d56d7365dd4da96556e5a73f68128ec4a3f6b055b1d4b9",
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/ojos/logo-1.webp",
+      "source_url": "https://vrtx2023.cafe24.com/26FW%20ARCHIVE/%EC%8B%A4%EB%82%B4_11.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img figure a div menu-banner menu-open nav header-top",
+      "content_type": "image/webp",
+      "bytes": 163194,
+      "sha256": "28c7730545579d0bc5d56d7365dd4da96556e5a73f68128ec4a3f6b055b1d4b9",
+      "width": 1600,
+      "height": 1067,
+      "reused_from": "logo"
+    }
+  ]
+}

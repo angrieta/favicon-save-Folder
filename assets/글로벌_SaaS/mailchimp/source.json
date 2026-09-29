@@ -1,0 +1,120 @@
+{
+  "company": "Mailchimp",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://mailchimp.com/",
+  "page_url": "https://mailchimp.com/",
+  "page_title": "Email & SMS Marketing Platform | Mailchimp",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://mailchimp.com/cdn/product/fonts/mailchimp/means/Means-Regular-Web.woff2; reference:ValueError:https://mailchimp.com/cdn/product/fonts/mailchimp/graphik/Graphik-Regular-Web.woff2; reference:ValueError:https://mailchimp.com/cdn/product/fonts/mailchimp/graphik/Graphik-Medium-Web.woff2; reference:ValueError:https://mailchimp.com/cdn/product/fonts/mailchimp/graphik/Graphik-Semibold-Web.woff2; reference:ValueError:https://cdn.cookielaw.org/scripttemplates/otSDKStub.js; reference:ValueError:https://mailchimp.com/cdn/product/release/dist/js-src/ecs/cookie-preferences-manager.20fc3264ba1c0834.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/mailchimp/favicon.png",
+      "source_url": "https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/mailchimp-favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 16852,
+      "sha256": "8ef61b4e6f03127b1aaa784788862d6a13886b1fd4818c66e185e51e41405c64",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "e7e3151487122cdd066442348ef7facbbe880d370d2d3259a1208810b08beff5"
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/mailchimp/og.webp",
+      "source_url": "https://mailchimp.com/ctf/images/yzco4xsimv0y/1SB1jCYU95Dh5YDdrucTh0/b8a7462001c1152ff92fef2c02b3b551/Intuit_Mailchimp_-_Wordmark_2023_-_Recirculation_.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13544,
+      "sha256": "56526c014df121b73d07be3e6ac7b66a06781a34d94580af00cec18c964bcff6",
+      "width": 1200,
+      "height": 680
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/mailchimp/logo-1.svg",
+      "source_url": "https://mailchimp.com/ctf/images/yzco4xsimv0y/lLPB2LM4MwuRiP3xc9vMj/768e07e3a94c007942b84a5f8f4ccd20/TrustRadius_idzHHlCvcR_0_1.svg?w=196&q=70",
+      "source_tag": "img:semantic-logo",
+      "context": "img TrustRadius logo li cxpMarketingHero__socialProofLogosItem ul cxpMarketingHero__socialProofLogos flex div cxpMarketingHero__socialProof div cxpMarketingHero__socialProofWrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 9162,
+      "sha256": "b567ffb2c114833f6dda09f206cd69d9af9bde903da34ed269593c55b9dae1cd",
+      "width": 216,
+      "height": 39,
+      "source_sha256": "1ed13374e2fa3de7687dbcf26d6b8e10689e6c311d9c96b5202be7fa08d56381"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/mailchimp/logo-2.svg",
+      "source_url": "https://mailchimp.com/ctf/images/yzco4xsimv0y/5umtf1PYgQsvdF5zJdT46q/99021614478793346a907f871be6f5ea/G2_Logo_Red_RGB_1.svg?w=196&q=70",
+      "source_tag": "img:semantic-logo",
+      "context": "img G2 logo li cxpMarketingHero__socialProofLogosItem ul cxpMarketingHero__socialProofLogos flex div cxpMarketingHero__socialProof div cxpMarketingHero__socialProofWrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 1555,
+      "sha256": "d8f2c1e77097816b95706ca1c0b4879422aaf73805e97f0be789748998bb384d",
+      "width": 37,
+      "height": 38,
+      "source_sha256": "3a453367e5adb703674c6dd1ac75db326b033d4712fb23e55bb7af629b3f4fe6"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/mailchimp/banner-1.webp",
+      "source_url": "https://mailchimp.com/ctf/images/yzco4xsimv0y/5ti0F3znmaQ33B30TxuD1t/0ad3dac3dc8ab7c0f6635c3a7489cd1a/hero_standard_1920x1080_temp_solution_1x.webp?w=1920&q=70",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure div cxpMarketingHero__mediaContainer__media_fullbleed section 20Jx8yAot5r6OtmGRF3I5c cxpMarketingHero module module--noPadding fs-unmask cxpMarketingHero--contentGrow div",
+      "content_type": "image/webp",
+      "bytes": 78828,
+      "sha256": "8fdbf3e9ca0be62d3cd961a8b4b4be805f9735e811da812bf66e94df7447f2a3",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/mailchimp/banner-2.webp",
+      "source_url": "https://mailchimp.com/ctf/images/yzco4xsimv0y/5ti0F3znmaQ33B30TxuD1t/0ad3dac3dc8ab7c0f6635c3a7489cd1a/hero_standard_1920x1080_temp_solution_1x.webp?w=1536&q=70",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure div cxpMarketingHero__mediaContainer__media_fullbleed section 20Jx8yAot5r6OtmGRF3I5c cxpMarketingHero module module--noPadding fs-unmask cxpMarketingHero--contentGrow div",
+      "content_type": "image/webp",
+      "bytes": 58626,
+      "sha256": "18be10ae50f0b3455d3d46a2c474fa019f96d9449dc9a4293cb3566cd23afaf2",
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/mailchimp/reference-1.webp",
+      "source_url": "https://mailchimp.com/ctf/images/yzco4xsimv0y/5ti0F3znmaQ33B30TxuD1t/0ad3dac3dc8ab7c0f6635c3a7489cd1a/hero_standard_1920x1080_temp_solution_1x.webp?w=768&q=70",
+      "source_tag": "link:preload",
+      "context": "preload image  https://mailchimp.com/ctf/images/yzco4xsimv0y/5ti0F3znmaQ33B30TxuD1t/0ad3dac3dc8ab7c0f6635c3a7489cd1a/hero_standard_1920x1080_temp_solution_1x.webp?w=768&q=70",
+      "content_type": "image/webp",
+      "bytes": 21052,
+      "sha256": "09cbf4270bf541064d656e200577167dc8add92f14f2c36149bf0505ae6e74fa",
+      "width": 768,
+      "height": 432
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/mailchimp/reference-2.webp",
+      "source_url": "https://mailchimp.com/ctf/images/yzco4xsimv0y/73aAjSK546amvqhW65Y0rJ/685d89a49d7505c75e5711f28edfb0cb/hero_retail_temp_1x.webp?w=768&q=70",
+      "source_tag": "link:preload",
+      "context": "preload image  https://mailchimp.com/ctf/images/yzco4xsimv0y/73aAjSK546amvqhW65Y0rJ/685d89a49d7505c75e5711f28edfb0cb/hero_retail_temp_1x.webp?w=768&q=70",
+      "content_type": "image/webp",
+      "bytes": 11666,
+      "sha256": "7d26863df780748fdce22c3ada3e3d62415af4810092d8ea53bc97df4077a321",
+      "width": 768,
+      "height": 433
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/mailchimp/reference-3.webp",
+      "source_url": "https://mailchimp.com/ctf/images/yzco4xsimv0y/65JphvByh42Un0l6ZENvla/10d10fbbefec3aebed1492bc5becc59b/hero_small_business_temp_1x.webp?w=768&q=70",
+      "source_tag": "link:preload",
+      "context": "preload image  https://mailchimp.com/ctf/images/yzco4xsimv0y/65JphvByh42Un0l6ZENvla/10d10fbbefec3aebed1492bc5becc59b/hero_small_business_temp_1x.webp?w=768&q=70",
+      "content_type": "image/webp",
+      "bytes": 18450,
+      "sha256": "d013b49de2438e5e682bcdc758aad1204b2b997f053366a612b7c95746cd8d5d",
+      "width": 768,
+      "height": 432
+    }
+  ]
+}

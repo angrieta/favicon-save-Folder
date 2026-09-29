@@ -1,0 +1,83 @@
+{
+  "company": "Webull",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.webull.com/",
+  "page_url": "https://www.webull.com/",
+  "page_title": "Invest Confidently with Webull - Stocks, Options, ETFs",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://wbstatic.webullfintech.com/v1/webull-us-g/assets/819a7ee08b805d29087b1c9b758575d6.webm; reference:ValueError:https://wbstatic.webullfintech.com/v1/webull-us-g/assets/ce745cdeeee197f61b09d7830ba55c4d.mp4; reference:ValueError:https://wbstatic.webullfintech.com/v1/webull-us-g/assets/2975034ab29d3e13e3bb62bf529b4680.webm; reference:ValueError:https://wbstatic.webullfintech.com/v1/webull-us-g/assets/026c6f82770f888272285a8177943c23.mp4; reference:ValueError:https://wbstatic.webullfintech.com/v1/webull-us-g/assets/dc17a213c89f6006b05a2ef57f6c398f.webm; reference:ValueError:https://wbstatic.webullfintech.com/v1/webull-us-g/assets/cf6b73ee2bd9f61d4f715ba65eee73e3.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/webull/favicon.png",
+      "source_url": "https://wbstatic.webullfintech.com/app/picture/10013412eaf600e19ce46544f91cb5d8.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7285,
+      "sha256": "b2ea95fca896141e7381df5c73d80b96570d79384d1fc87ba2e7d07149f362be",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/webull/logo-1.svg",
+      "source_url": "https://wbstatic.webullfintech.com/v1/webull-us-g/assets/ba8f6622c29c8c122901602c8ba437e1.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 6324,
+      "sha256": "348efc4e6c65050fdd2adf5be6c4cfb207d04ccc04ee5768c31a6ac282e9ed05",
+      "width": 136,
+      "height": 26,
+      "source_sha256": "c8def8d6943bacf87ff1a1d474eacfb5c984d3bf05bf43b1ea2f81e077dc6667"
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/webull/banner-1.webp",
+      "source_url": "https://wbstatic.webullfintech.com/v1/webull-us-g/assets/883a9c3015d1a44ba5c224bbae3cc4f1.jpg",
+      "source_tag": "style-background-image",
+      "context": "   position: relative;\n  }\n  .ssr18454374 {\n    overflow: hidden;\n    margin-right: 60px;\n  }\n  .ssr18454375 {\n    height: 726px;\n    background-size: cover;\n    background-image: url(https://wbstatic.webullfintech.com/v1/webull-us-g/assets",
+      "content_type": "image/webp",
+      "bytes": 22614,
+      "sha256": "25a6d5ab3b2098941b007ef4c9f076858cfda2ede12b31c42d33f7a4c3db4861",
+      "width": 1800,
+      "height": 511
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/webull/reference-1.webp",
+      "source_url": "https://wbstatic.webullfintech.com/v1/webull-us-g/assets/ea2dd1ca388a39b5458a7a7985a7f9fe.png",
+      "source_tag": "img:page-image",
+      "context": "img div ssr18454377 div ssr18454376 wb-animate-wrap wb-animate div ssr18454375 main main-content",
+      "content_type": "image/webp",
+      "bytes": 7192,
+      "sha256": "5c6c53c73258c0917215be6ff5d7c706719847a89a98d6e489f564849dae9555",
+      "width": 414,
+      "height": 372
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/webull/reference-2.webp",
+      "source_url": "https://wbstatic.webullfintech.com/v1/webull-us-g/assets/580419688cdf56bc98df742bb837496b.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div ssr18454374 div card_1 card div ssr18454372 div ssr18454373",
+      "content_type": "image/webp",
+      "bytes": 38626,
+      "sha256": "dd3522ceb4d941ae2b83211bc183b9786f473f63bbf1e0e7e81c745ecdd82bb5",
+      "width": 1590,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/webull/reference-3.webp",
+      "source_url": "https://wbstatic.webullfintech.com/v1/webull-us-g/assets/8e27e44230230f0bd71910e6dc1548ed.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div ssr18454374 div card_1 card div ssr18454372 div ssr18454373",
+      "content_type": "image/webp",
+      "bytes": 42292,
+      "sha256": "8eb05c15d8353f289ad5c9224b4cf1fd21e620934561cfbc67941d7965b043f8",
+      "width": 1590,
+      "height": 1200
+    }
+  ]
+}

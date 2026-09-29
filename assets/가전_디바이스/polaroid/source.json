@@ -1,0 +1,94 @@
+{
+  "company": "Polaroid",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.polaroid.com/",
+  "page_url": "https://www.polaroid.com/en_kr",
+  "page_title": "Polaroid EU | Official Online Store",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.polaroid.com/en_kr/assets/svg/logo.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/polaroid/favicon.png",
+      "source_url": "https://www.polaroid.com/assets/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 21392,
+      "sha256": "d9f7924e675322cc2246353383ba388fc609d6d269e054772624221f9de00cdf",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/polaroid/og.webp",
+      "source_url": "https://cdn.sanity.io/images/ieogcuy1/production/49f705081992176f30c5c85b328f4a1208b23afa-1200x627.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 87020,
+      "sha256": "4c82cbeb76b0636d90cd64765019de1da0e3d6602673fc2e7a1ef5b6857faa36",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/polaroid/banner-1.webp",
+      "source_url": "https://www.polaroid.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fieogcuy1%2Fproduction%2F9db3caa47ce37e052ea97f50e52d7154e25879da-1035x690.png%3Fw%3D500%26fm%3Dwebp%26q%3D90%26dpr%3D2&w=3840&q=90",
+      "source_tag": "img:semantic-banner",
+      "context": "img Banner of the Pokemon x Polaroid Collaboration Banner of the Pokemon x Polaroid Collaboration div HighlightCallToActionMedia-module-scss-module__tDSUJq__mediaWrapper li BurgerMenuAccordion-module-scss-module__xf6Gla__mediaWrapper Highli",
+      "content_type": "image/webp",
+      "bytes": 52538,
+      "sha256": "eab5e11cf6a107b208d970395d63ec6d433e4eb57d2f50d6cce7874f546fed63",
+      "width": 1000,
+      "height": 667
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/polaroid/banner-2.webp",
+      "source_url": "https://www.polaroid.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fieogcuy1%2Fproduction%2Fc4c58fc1cd989aeefb28ff7926b692971dac17b0-2250x1200.png%3Fw%3D700%26fm%3Dwebp%26q%3D90%26dpr%3D2&w=3840&q=90",
+      "source_tag": "img:semantic-banner",
+      "context": "img ProductBannerMedia-module-scss-module__6VoUuG__preloadVideoImage Polaroid {{store}} | Official Online Store Polaroid {{store}} | Official Online Store div ProductBannerMedia-module-scss-module__6VoUuG__mediaContainer section ProductBann",
+      "content_type": "image/webp",
+      "bytes": 76568,
+      "sha256": "f5d1d67b111d2041b2abe3b2db6a0ce20adcab800ad0354b5a5aa79c2cc4bb66",
+      "width": 1400,
+      "height": 747
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/polaroid/banner-2.webp",
+      "source_url": "https://www.polaroid.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fieogcuy1%2Fproduction%2Fc4c58fc1cd989aeefb28ff7926b692971dac17b0-2250x1200.png%3Fw%3D700%26fm%3Dwebp%26q%3D90%26dpr%3D2&w=2048&q=90",
+      "source_tag": "img:page-image",
+      "context": "img ProductBannerMedia-module-scss-module__6VoUuG__preloadVideoImage Polaroid {{store}} | Official Online Store Polaroid {{store}} | Official Online Store div ProductBannerMedia-module-scss-module__6VoUuG__mediaContainer section ProductBann",
+      "content_type": "image/webp",
+      "bytes": 76568,
+      "sha256": "f5d1d67b111d2041b2abe3b2db6a0ce20adcab800ad0354b5a5aa79c2cc4bb66",
+      "width": 1400,
+      "height": 747,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/polaroid/reference-2.webp",
+      "source_url": "https://www.polaroid.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fieogcuy1%2Fproduction%2F7fa9ecc482aa3ece3edad6b14f9858b4081c8ad0-1500x844.png%3Fw%3D700%26fm%3Dwebp%26q%3D90%26dpr%3D2&w=3840&q=90",
+      "source_tag": "img:page-image",
+      "context": "img ProductBannerMedia-module-scss-module__6VoUuG__preloadVideoImage div ProductBannerMedia-module-scss-module__6VoUuG__mediaContainer section ProductBanner-module-scss-module__Okz2UW__container div div ProductBannerCollection-module-scss-m",
+      "content_type": "image/webp",
+      "bytes": 59040,
+      "sha256": "b35505a5b63cfa4afa1910124d9b98934afe1024dad63b3b340dafad7a1dc159",
+      "width": 1400,
+      "height": 788
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/polaroid/reference-3.webp",
+      "source_url": "https://www.polaroid.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fieogcuy1%2Fproduction%2Fcb64d8c113a20fe56ec33a8475bfa7e1df1241f5-3018x1668.png%3Fw%3D700%26fm%3Dwebp%26q%3D90%26dpr%3D2&w=3840&q=90",
+      "source_tag": "img:page-image",
+      "context": "img ProductBannerMedia-module-scss-module__6VoUuG__preloadVideoImage div ProductBannerMedia-module-scss-module__6VoUuG__mediaContainer section ProductBanner-module-scss-module__Okz2UW__container div div ProductBannerCollection-module-scss-m",
+      "content_type": "image/webp",
+      "bytes": 28838,
+      "sha256": "870ce4349d45434bcb544b58835fef596a7e8008ef39a7f40107af7ec86d5344",
+      "width": 1400,
+      "height": 774
+    }
+  ]
+}

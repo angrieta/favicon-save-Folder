@@ -1,0 +1,57 @@
+{
+  "company": "카카오워크",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.kakaowork.com/",
+  "page_url": "https://www.kakaowork.com/",
+  "page_title": "카카오워크",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=171433761344452&ev=PageView&noscript=1; reference:ValueError:https://www.kakaowork.com/_next/static/chunks/3ezhpn0kv-g9m.js; reference:ValueError:https://www.kakaowork.com/_next/static/chunks/0bkbn6ahgg6x8.css; reference:ValueError:https://t1.daumcdn.net/tiara/js/v1/tiara.min.js; reference:ValueError:https://www.googletagmanager.com/gtag/js?id=G-8BT4FWP334",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/kakao-work/favicon.png",
+      "source_url": "https://t1.kakaocdn.net/kakaowork/resources/homepage/images/v3/Apple_167.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3691,
+      "sha256": "60221c8c76dda6d66d51a54b2b349f3762baa6f8b6ada72374397e2eddf6d5f6",
+      "width": 167,
+      "height": 167
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/kakao-work/og.webp",
+      "source_url": "https://t1.kakaocdn.net/kakaowork/resources/homepage/images/v3/img_og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5012,
+      "sha256": "ae41a73396dfa37a643fd83af62deab240ac6eb0cd5830de78a910b022e0dfa2",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/kakao-work/logo-1.png",
+      "source_url": "https://t1.kakaocdn.net/kakaowork/resources/homepage/images/v3/pc/main/logo_partner_natural_endo_tech.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div div src-components-marqueeSliderContainer-1UFI div marquee-slider-loop-top src-components-marqueeSlider-3ljS div use_partner",
+      "content_type": "image/png",
+      "bytes": 26117,
+      "sha256": "6cfb445be2e630cb801319c0a308a9e1709c936764a42dff4c34b7e6d3c10710",
+      "width": 560,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/kakao-work/logo-2.png",
+      "source_url": "https://t1.kakaocdn.net/kakaowork/resources/homepage/images/v3/pc/main/logo_partner_dongwon.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div div src-components-marqueeSliderContainer-1UFI div marquee-slider-loop-top src-components-marqueeSlider-3ljS div use_partner",
+      "content_type": "image/png",
+      "bytes": 8486,
+      "sha256": "2d366f8279a4e670dcae10c83a6596c47cdba50b7a71867756fcd0f98db7f697",
+      "width": 560,
+      "height": 200
+    }
+  ]
+}

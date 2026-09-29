@@ -1,0 +1,69 @@
+{
+  "company": "Elgato",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.elgato.com/kr/ko",
+  "page_url": "https://www.elgato.com/kr/ko",
+  "page_title": "Elgato | Elgato",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/elgato/favicon.png",
+      "source_url": "https://res.cloudinary.com/elgato-pwa/image/upload/f_auto,q_auto/meta-icons/favicon-192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4519,
+      "sha256": "d8ef9580e31a8d1589ff87775039b411891b6c110c44f198068b09326900b5f8",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/elgato/og.webp",
+      "source_url": "https://images.ctfassets.net/h50kqpe25yx1/2naK2vxCxvk8XOjh5Y912s/64528847ddd64655ed2f9ae464074b85/home.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 60176,
+      "sha256": "9de2e8511a482ad6e576317a5051143ff7b85c6956041d871b1f2ec2c0736d61",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/elgato/reference-1.webp",
+      "source_url": "https://elgato-assets.imgix.net/image/upload/f_auto/q_auto/v1771580473/2026/Navigation/Wave_Family_Navi.png",
+      "source_tag": "img:page-image",
+      "context": "img Wave Audio 둘러보기 div flex flex-col items-center rounded-lg transition-all duration-200 cursor-pointer group-hover:scale-105 bg-primitive-gray-20 group-hover:text-content-blue p-12px div group a Wave Audio 둘러보기 - 현재 탭에서 열기 div transition-",
+      "content_type": "image/webp",
+      "bytes": 13636,
+      "sha256": "3962a66276810e408c3838064113dc81144c4dae61958746fb872b2348cee514",
+      "width": 824,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/elgato/reference-2.webp",
+      "source_url": "https://elgato-assets.imgix.net/image/upload/f_auto/q_auto/v1758727781/Header/streamdeck_promo_transparent.png",
+      "source_tag": "img:page-image",
+      "context": "img 모든 Stream Deck 둘러보기 div flex flex-col items-center rounded-lg transition-all duration-200 cursor-pointer group-hover:scale-105 bg-primitive-gray-20 group-hover:text-content-blue p-12px div group a 모든 Stream Deck 둘러보기 - 현재 탭에서 열기 div tra",
+      "content_type": "image/webp",
+      "bytes": 26196,
+      "sha256": "adf3241bd3bdb146077d402a475048d1586c79156995435a2b1f9c1938fea841",
+      "width": 825,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/elgato/reference-3.webp",
+      "source_url": "https://elgato-assets.imgix.net/image/upload/f_auto/q_auto/v1760449994/Header/more/Embrace.png",
+      "source_tag": "img:page-image",
+      "context": "img Embrace div flex flex-col items-center rounded-lg transition-all duration-200 cursor-pointer group-hover:scale-105 bg-primitive-gray-20 group-hover:text-content-blue p-12px div group a Embrace - 현재 탭에서 열기 div transition-all duration-500",
+      "content_type": "image/webp",
+      "bytes": 11308,
+      "sha256": "6450752c7ac7c675fceda8b65394746eadc8d947bfffc0553d4884d737c9cc38",
+      "width": 1617,
+      "height": 496
+    }
+  ]
+}

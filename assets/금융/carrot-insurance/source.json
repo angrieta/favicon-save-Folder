@@ -1,0 +1,33 @@
+{
+  "company": "캐롯손해보험",
+  "category": "금융",
+  "requested_url": "https://www.carrotins.com",
+  "page_url": "https://www.carrotins.com/",
+  "page_title": "한화손보 캐롯 공식 홈페이지 | 다이렉트로 24시간 가입 가능",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.carrotins.com/_next/static/media/02743a8d10a3d186-s.p.woff2; reference:ValueError:https://www.carrotins.com/_next/static/media/1e41be92c43b3255-s.p.woff2; reference:ValueError:https://www.carrotins.com/_next/static/css/0a0d472252bd813c.css; reference:ValueError:https://www.carrotins.com/_next/static/css/b4da6e1f53bb4928.css; reference:ValueError:https://www.carrotins.com/_next/static/css/ef46db3751d8e999.css; reference:ValueError:https://www.carrotins.com/_next/static/css/4918590c93777c00.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/carrot-insurance/favicon.png",
+      "source_url": "https://www.carrotins.com/apple-touch-icon.png?20251001",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5145,
+      "sha256": "3c6f13a335478caf0266023fb1322c0e16b0163dbde0da9706aaab9fa2e363ac",
+      "width": 192,
+      "height": 193
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/carrot-insurance/og.webp",
+      "source_url": "https://www.carrotins.com/static/images/share/new-official-v2.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9328,
+      "sha256": "15e19df0c17e96eaa463c56fc8356a37496dd59eea2561c34a0e456a3657cf54",
+      "width": 1200,
+      "height": 600
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "company": "닥터나우",
+  "category": "교육_헬스케어",
+  "requested_url": "https://doctornow.co.kr",
+  "page_url": "https://doctornow.co.kr/",
+  "page_title": "닥터나우 - 비대면 진료 앱 1위 | 감기몸살·소아과·탈모·여드름 처방까지",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/doctornow/favicon.png",
+      "source_url": "https://doctornow.co.kr/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 13200,
+      "sha256": "ea3f0c22159cc63329f75504242b8e2d20f06de3497e4ee226d7bcbffb0eb8cd",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "0528433f49ee1369d380a2f3b1af3ed93d9b20489d4c5050b1ff42c24ee9695c"
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/doctornow/og.webp",
+      "source_url": "https://media.doctornow.co.kr/og-main.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 39850,
+      "sha256": "ba4acff2afb8527e27ee7f47daf50ccdda5ff2b56d37637a138dd6f78b8e3db1",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/doctornow/logo-1.png",
+      "source_url": "https://doctornow.co.kr/images/doctornow-text-logo.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img TextLogo div h-[80px] flex items-center px-[8px] mr-[48px] section relative z-10 mx-auto flex w-full max-w-[1080px] header fixed top-0 z-[200] h-[80px] w-full overflow-y-hidden text-gray-700 hover:h-auto hover:bg-[linear-gradient(to_bot",
+      "content_type": "image/png",
+      "bytes": 53076,
+      "sha256": "2d244151ebde607fa1b866cfc220f8f3b67265f72af7ccd933f43158861168b1",
+      "width": 950,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/doctornow/og.webp",
+      "source_url": "https://media.doctornow.co.kr/og-main.png",
+      "source_tag": "json-ld.@graph[0].logo",
+      "content_type": "image/webp",
+      "bytes": 39850,
+      "sha256": "ba4acff2afb8527e27ee7f47daf50ccdda5ff2b56d37637a138dd6f78b8e3db1",
+      "width": 1200,
+      "height": 630,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/doctornow/banner-1.webp",
+      "source_url": "https://media.doctornow.co.kr/home_main_banner_sick_in_bed.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute top-0 left-0 h-full w-full rounded-[12px] object-cover translate-x-0 opacity-100 침대에서 아픈 환자가 휴식을 취하는 모습 div relative desktop:h-[320px] h-[180px] w-full desktop:max-w-[500px] overflow-hidden rounded-[12px] sm:h-[280px] md:h-[572",
+      "content_type": "image/webp",
+      "bytes": 37112,
+      "sha256": "fc34c00c0d3bd2c1a78328b865f96b61fd6390ded1a6a67d34ac872fe41dbe17",
+      "width": 1500,
+      "height": 840
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/doctornow/banner-2.webp",
+      "source_url": "https://media.doctornow.co.kr/home_main_banner_busy_office.webp",
+      "source_tag": "link:preload",
+      "context": "preload image image/webp https://media.doctornow.co.kr/home_main_banner_busy_office.webp",
+      "content_type": "image/webp",
+      "bytes": 82372,
+      "sha256": "7b748802d0ad49b852f2d5ee31bca90e7b38df17403cae6a6eceb59e34106981",
+      "width": 1500,
+      "height": 840
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/doctornow/reference-1.webp",
+      "source_url": "https://d2m9duoqjhyhsq.cloudfront.net/diagnoses/treatments/nervous.png",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-contain 긴장완화 div flex aspect-square h-[48px] w-[48px] sm:h-[64px] sm:w-[64px] items-center justify-center rounded-[16px] sm:rounded-[21px] bg-gray-20 p-[12%] sm:p-[20%] md:p-[18%] lg:p-[20%] a flex min-h-[88px] flex",
+      "content_type": "image/webp",
+      "bytes": 9804,
+      "sha256": "c22d7d69f79dccf424ce4ab34af8fe0e0ebb126f487de6b2f0d01d24dd7bac59",
+      "width": 480,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/doctornow/reference-2.webp",
+      "source_url": "https://media.doctornow.co.kr/home_main_banner_medicine_hand.webp",
+      "source_tag": "link:preload",
+      "context": "preload image image/webp https://media.doctornow.co.kr/home_main_banner_medicine_hand.webp",
+      "content_type": "image/webp",
+      "bytes": 44870,
+      "sha256": "b6c1b84cb5c4ad8b172af13f5fedb1528f0cca67efa11c96ad8fbbaa08093d72",
+      "width": 1500,
+      "height": 840
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/doctornow/reference-3.webp",
+      "source_url": "https://media.doctornow.co.kr/home_main_banner_pediatric_clinic.webp",
+      "source_tag": "link:preload",
+      "context": "preload image image/webp https://media.doctornow.co.kr/home_main_banner_pediatric_clinic.webp",
+      "content_type": "image/webp",
+      "bytes": 63680,
+      "sha256": "2e034cfb28d9c76730ca2b6da58788b9b461a8cb96557db20fb42ee1f5d6aae2",
+      "width": 1500,
+      "height": 840
+    }
+  ]
+}

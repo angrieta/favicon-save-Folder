@@ -1,0 +1,82 @@
+{
+  "company": "타입캐스트",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://typecast.ai/kr",
+  "page_url": "https://typecast.ai/kr/",
+  "page_title": "AI 음성 생성기 & 텍스트 음성 변환 | 타입캐스트",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://typecast.ai/fonts/pretendard-subset.kr.2afaf7a9.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/typecast/favicon.png",
+      "source_url": "https://typecast.ai/fav/apple-touch-icon-180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5181,
+      "sha256": "85e097052a9957dcf97a9037068eaa8be736adf39977680f47c9008d156ce983",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/typecast/og.webp",
+      "source_url": "https://static2.typecast.ai/img/typecast_thumbnail.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11220,
+      "sha256": "4a5abf61e334a07dac2bb200e83f5c815d2dbe475bf7b6f9767d25b61fb611d3",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/typecast/logo-1.svg",
+      "source_url": "https://typecast.ai/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-5 w-auto sm:h-6 lg:h-7 a shrink-0 Typecast div flex items-center gap-5 div mx-auto w-full max-w-[1240px] px-5 flex h-20 items-center justify-between header bg-background",
+      "content_type": "image/svg+xml",
+      "bytes": 10473,
+      "sha256": "4f9ea49acac0867b335b29344675d757dbf52778fb5b07c921c47ec0a4f8af0d",
+      "width": 168,
+      "height": 28,
+      "source_sha256": "39ff9b30f231655ca4caaa2c162fa0c2f6f2add00023eba6c216b1852dbd8678"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/typecast/banner-1.webp",
+      "source_url": "https://typecast.ai/kr/learn/wp-content/uploads/2026/09/Frame-2086383383-768x384.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img size-full object-cover transition-transform duration-300 group-hover:scale-105 🎙AICC에 맞는 목소리, 라이브 방송에선 왜 어색할까요? : 서비스별 AI 목소리 고르는 법 div bg-accent aspect-[360/200] w-full overflow-hidden rounded-2xl a group flex flex-col gap-5 div grid g",
+      "content_type": "image/webp",
+      "bytes": 15760,
+      "sha256": "4f307577558d46b7f4b7d191968b2b72b105f2cf8fed956ea24cc15ac36f7dd2",
+      "width": 768,
+      "height": 384
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/typecast/banner-2.webp",
+      "source_url": "https://typecast.ai/kr/learn/wp-content/uploads/2026/09/Frame-2086383381-768x384.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img size-full object-cover transition-transform duration-300 group-hover:scale-105 AI 남자 아이 목소리 추천, 장난꾸러기 타입캐스트 준우 div bg-accent aspect-[360/200] w-full overflow-hidden rounded-2xl a group flex flex-col gap-5 div grid grid-cols-1 gap-x-[60p",
+      "content_type": "image/webp",
+      "bytes": 14260,
+      "sha256": "f39a74287837bb638a93e50c74a7db914005a98683f3837be19e919a766583c5",
+      "width": 768,
+      "height": 384
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/typecast/reference-1.webp",
+      "source_url": "https://typecast.ai/images/home/tts-character.0133d7e3.webp",
+      "source_tag": "img:page-image",
+      "context": "img pointer-events-none hidden w-[420px] max-w-none shrink-0 lg:block article bg-muted flex flex-col overflow-hidden rounded-[10px] p-10 lg:flex-row lg:items-center lg:justify-between lg:gap-10 div flex flex-col gap-6 div flex flex-col gap-",
+      "content_type": "image/webp",
+      "bytes": 44220,
+      "sha256": "d3068ef894f0171c29d32304c720b4ca7d063df1900c132cc58326b2d95eeb73",
+      "width": 840,
+      "height": 721
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "company": "W Korea",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.wkorea.com/",
+  "page_url": "https://www.wkorea.com/",
+  "page_title": "더블유 코리아 (W Korea)",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=285697992953591&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/w-korea/favicon.png",
+      "source_url": "https://img.wkorea.com/w/2024/06/style_667a574d0cbc3-192x192.jpg",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 19977,
+      "sha256": "dc0b3fd2422477657bc4edc55d9813e8f0218e787aaccf27baab8b79b9acdba6",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "13e7342e01d9b8854337fdcb5f310298ac3b11896b7fba8246048b47e4baaa7d"
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/w-korea/og.webp",
+      "source_url": "https://www.wkorea.com/wp-content/themes/wk/assets/images/main_og_image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10688,
+      "sha256": "ed70aae29ab3cc1589b5c39e3b11ff3d8e78268bc3c5e9f1dad04a4ade63e2ec",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/w-korea/logo-1.png",
+      "source_url": "https://www.wkorea.com/wp-content/themes/wk/assets/images/logo_m.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 9517,
+      "sha256": "0902a60d1c927a248248a16dc806d0dd840f2e440cdf46ae08a377ecd5148107",
+      "width": 92,
+      "height": 150
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/w-korea/logo-2.svg",
+      "source_url": "https://www.wkorea.com/wp-content/themes/wk/assets/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img pc lazyload WKOREA a div logo div inner div container",
+      "content_type": "image/svg+xml",
+      "bytes": 5136,
+      "sha256": "d8834856971f3025c0f2a4a3f031e75ac2c54455d9bb689fffca56bbd2de933e",
+      "width": 342,
+      "height": 561,
+      "source_sha256": "bf51971e3b0135987dba07fdd7f47696b22102f6a7241ca52c4f06694b87c6ae"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/w-korea/reference-1.webp",
+      "source_url": "https://img.wkorea.com/w/2026/09/style_6ab9fde541c5e.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 김도연, 더블유 디지털 커버 div spot skip-lazy a div ppl ppl_pc div section_spot section_ppl section_spot",
+      "content_type": "image/webp",
+      "bytes": 63280,
+      "sha256": "8107f818b21d1110c6febeb62bb1a03a94697bef97eaa1f53e98afd248eb9625",
+      "width": 768,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/w-korea/reference-2.webp",
+      "source_url": "https://img.wkorea.com/w/2026/09/style_6ab9fdf999076.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 김도연, 더블유 디지털 커버 div spot skip-lazy a div ppl ppl_mo div section_spot section_ppl section_spot",
+      "content_type": "image/webp",
+      "bytes": 92464,
+      "sha256": "e29190f388e6e73dd7053b9e2d41bf0b2bb5d343ddd0df3394a7fcd3a1e1c068",
+      "width": 780,
+      "height": 1248
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/w-korea/reference-3.webp",
+      "source_url": "https://img.wkorea.com/w/2026/09/style_6aba1b0e038a8-500x750.jpg",
+      "source_tag": "img:page-image",
+      "context": "img skip-lazy a HUMAN, AFTER ALL 기사 보기 div thum li p_455230 ul left_con",
+      "content_type": "image/webp",
+      "bytes": 18274,
+      "sha256": "bc10e46652bfcd4b228f05b00139f5b918b7412ef0949eb7843328b18168aaac",
+      "width": 500,
+      "height": 750
+    }
+  ]
+}

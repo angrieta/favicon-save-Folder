@@ -1,0 +1,33 @@
+{
+  "company": "Joe & The Juice",
+  "category": "식품_생활",
+  "requested_url": "https://www.joejuice.com/",
+  "page_url": "https://www.joejuice.com/",
+  "page_title": "Joe & the Juice",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.joejuice.com/assets/SNlayoutFooterGlobal-Cq-6C5XH.js; reference:ValueError:https://www.joejuice.com/assets/checkPaymentProvider-CdkNj9DD.js; reference:ValueError:https://www.joejuice.com/assets/store.page-DJfEHCrS.js; reference:ValueError:https://www.joejuice.com/assets/mapStyles-D5tQf_9K.js; reference:ValueError:https://www.joejuice.com/assets/layoutSpotify-zqeJV9oR.js; reference:ValueError:https://www.joejuice.com/assets/layoutImageCta-CaIvUrlD.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/joe-and-the-juice/favicon.png",
+      "source_url": "https://www.joejuice.com/images/icons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2910,
+      "sha256": "16783a7dd096e5f86068607b9df5b8210a0e44a2e792a6ee0946a9fac2a409bf",
+      "width": 57,
+      "height": 57
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/joe-and-the-juice/og.webp",
+      "source_url": "https://www.joejuice.com/images/og/joejuice-product-image-l.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 107718,
+      "sha256": "d665e0b3f962072753245a60f2cd703a9ff962bf353312e04f68609db8db1e49",
+      "width": 1200,
+      "height": 801
+    }
+  ]
+}

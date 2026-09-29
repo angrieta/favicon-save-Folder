@@ -1,0 +1,60 @@
+{
+  "company": "NTS Radio",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.nts.live/",
+  "page_url": "https://www.nts.live/",
+  "page_title": "NTS | Don't Assume",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1071656873904973&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/nts-radio/favicon.png",
+      "source_url": "https://www.nts.live/apple-touch-icon.png?v=47rE43RRzB",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8871,
+      "sha256": "f89651d49b737252a8f73c29a866b6506f25f290e97ab6cb02d2d380601b1946",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "c14442f03672d77058563ef56130cd01f4e50432316a43b0503d93a6bae87eb7"
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/nts-radio/og.webp",
+      "source_url": "https://www.nts.live/css/images/nts-socials-img.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5774,
+      "sha256": "d73ba7d4d8e887aa3033c71f02b2038a2b6ff3a69192c28d0edcfba5c9537f9e",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/nts-radio/logo-1.svg",
+      "source_url": "https://www.nts.live/img/soundcloud-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img soundcloud-player__brand-logo SoundCloud Brand Logo a div soundcloud-player__brand-logo-container div soundcloud-player div visuallyhidden",
+      "content_type": "image/svg+xml",
+      "bytes": 1762,
+      "sha256": "402946733434829d8a37069300b0b7447f23c2cf0a547e3cda83d834a10308b1",
+      "width": 100,
+      "height": 100,
+      "source_sha256": "2c6a58af1793d87472ede2a2e29817512b72406455999d804054a259863967a3"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/nts-radio/reference-1.webp",
+      "source_url": "https://media2.ntslive.co.uk/resize/800x800/c5795475-f340-4d3d-81b2-93c5e3fd77ab_1593475200.jpeg",
+      "source_tag": "inline-background-image",
+      "context": "div  text-center modal-promo modal-promo--mobile modal-promo--inverted background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(\"https://media2.ntslive.co.uk/resize/800x800/c5795475-f340-4d3d-81b2-93c5e3fd77ab_1593475200.jpeg\");bac",
+      "content_type": "image/webp",
+      "bytes": 187714,
+      "sha256": "4c7efabe7be32eacab849a8cbb575e21f94a4e57210ddcb5f97543c4f9f80c8f",
+      "width": 800,
+      "height": 739,
+      "source_sha256": "0476c9a14c19e2822533d4576f46e023dfeac56c17ec3561f78759fbc2c9d74f"
+    }
+  ]
+}

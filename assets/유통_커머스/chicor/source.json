@@ -1,0 +1,81 @@
+{
+  "company": "시코르",
+  "category": "유통_커머스",
+  "requested_url": "https://www.chicor.com",
+  "page_url": "https://chicor.com/main",
+  "page_title": "CHICOR",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/chicor/favicon.ico",
+      "source_url": "https://cdn.chicor.com/static/pui/img/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 9183,
+      "sha256": "36bf40023ed0b5fdad574d634cf1d72996ae19d7584a9b10ff5dd791939bcdba",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/chicor/og.webp",
+      "source_url": "http://cdn.chicor.com/images/ui/chicor.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12128,
+      "sha256": "9bd0cb3579c801b365b0a0418ecca3e6e149489995818c5e208f98abcdf05fd5",
+      "width": 750,
+      "height": 750
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/chicor/logo-1.webp",
+      "source_url": "https://cdn.chicor.com/images/product/20260609092712963.jpg?d=250x250",
+      "source_tag": "img:semantic-logo",
+      "context": "img 티르티르 div thumbnail div goods-item div items section brand-detail",
+      "content_type": "image/webp",
+      "bytes": 14862,
+      "sha256": "da283a3cc698786bf4a77f2d15a4741f38c00e8c14ac563c9091871fd1cf0035",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/chicor/logo-2.webp",
+      "source_url": "https://cdn.chicor.com/images/product/20260507091909357.jpg?d=250x250",
+      "source_tag": "img:semantic-logo",
+      "context": "img 아멜리 div thumbnail div goods-item div items section brand-detail",
+      "content_type": "image/webp",
+      "bytes": 4144,
+      "sha256": "a8db574cb10195aa28c27b5e0f7548bec507c21ead2e05eeceecb90d232be1f1",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/chicor/banner-1.webp",
+      "source_url": "https://cdn.chicor.com/images/front/20260922143819747.png?d=1180x222",
+      "source_tag": "img:semantic-banner",
+      "context": "img 띠배너 - 제나벨 a div top-banner-bar main contents wrapper-main div",
+      "content_type": "image/webp",
+      "bytes": 17240,
+      "sha256": "eb2ae546ecca203396db687281d8f59439c67d0a1c9c4ff8707554ac73e67dd0",
+      "width": 1180,
+      "height": 222
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/chicor/banner-2.webp",
+      "source_url": "https://cdn.chicor.com/images/front/20260922143938623.png?d=1180x222",
+      "source_tag": "img:semantic-banner",
+      "context": "img 띠배너 - 베어미네랄 a div banner-bar main contents wrapper-main div",
+      "content_type": "image/webp",
+      "bytes": 24326,
+      "sha256": "397d84f3e0268b0f33f0add77e0478d4cbd27290e1b3801a3ee06f2535aabf09",
+      "width": 1180,
+      "height": 222
+    }
+  ]
+}

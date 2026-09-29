@@ -1,0 +1,59 @@
+{
+  "company": "Georg Jensen",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.georgjensen.com/",
+  "page_url": "https://www.georgjensen.com/",
+  "page_title": "Georg Jensen | Official Online Shop | Free Gift Wrapping",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.georgjensen.com/on/demandware.static/Sites-GeorgJensen_LandingPage-Site/-/default/v1790658709103/lib/jquery/ui/jquery-ui.min.css; reference:ValueError:https://www.georgjensen.com/on/demandware.static/Sites-GeorgJensen_LandingPage-Site/-/default/v1790658709103/lib/owlcarousel/owl.carousel.min.css; reference:ValueError:https://www.georgjensen.com/on/demandware.static/Sites-GeorgJensen_LandingPage-Site/-/default/v1790658709103/lib/owlcarousel/owl.theme.default.min.css; reference:ValueError:https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css; reference:ValueError:https://use.typekit.net/anx2hej.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/georg-jensen/favicon.ico",
+      "source_url": "https://www.georgjensen.com/on/demandware.static/Sites-GeorgJensen_LandingPage-Site/-/default/dw1112f84b/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "411da43b56ea631597998cf6f4d567e4b0ca07751347edcc6c762ddf65d115f2",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/georg-jensen/logo-1.svg",
+      "source_url": "https://www.georgjensen.com/on/demandware.static/Sites-GeorgJensen_LandingPage-Site/-/default/dwcb251da5/assets/images/logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 7556,
+      "sha256": "621ea53637259bfa6c50981b7fc08b77815f1a4e8df660665da08b7c3a445bf0",
+      "width": 5669,
+      "height": 2050,
+      "source_sha256": "058ad6402b786534ec834971cc531f8b2e6bbbea4303ae2f5ef48e0eea76c36e"
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/georg-jensen/logo-2.svg",
+      "source_url": "https://www.georgjensen.com/on/demandware.static/Sites-GeorgJensen_LandingPage-Site/-/default/dw2830f531/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo Georg Jensen logo div landing-page div main div wrapper pt_storefront_landingpage body LandingPage",
+      "content_type": "image/svg+xml",
+      "bytes": 77141,
+      "sha256": "b1678d61cddcb5bd194a19829861771d7c9b64065e2ff39fbf3631cf0ffe4887",
+      "width": 198,
+      "height": 102
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/georg-jensen/banner-1.webp",
+      "source_url": "https://www.georgjensen.com/on/demandware.static/Sites-GeorgJensen_LandingPage-Site/-/default/dwc1243470/images/eCom-background-a.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img landing-page-img Georg Jensen background div landing-page div main div wrapper pt_storefront_landingpage body LandingPage",
+      "content_type": "image/webp",
+      "bytes": 87888,
+      "sha256": "3e96f71386364b2cb637e5c228b19890a0479afb916d775bc97637e34044ed00",
+      "width": 1800,
+      "height": 1162
+    }
+  ]
+}

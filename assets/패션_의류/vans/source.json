@@ -1,0 +1,98 @@
+{
+  "company": "Vans",
+  "category": "패션_의류",
+  "requested_url": "https://www.vans.co.kr/",
+  "page_url": "https://www.vans.co.kr/",
+  "page_title": "VANS",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/vans/favicon.ico",
+      "source_url": "https://image.vans.co.kr/cmsstatic/theme/2/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1406,
+      "sha256": "20514f9ebe50b61a3baf0b90a0519e5df91bf363eec7e9d91530d9366958dbff",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/vans/logo-1.svg",
+      "source_url": "https://www.vans.co.kr/cmsstatic/theme/1/VANS_VC_RGB_BLACK_LOGO.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h1 a flex flex-align-center header-logo div flex flex-justify-between contents width-xlarge header header_layout_1",
+      "content_type": "image/svg+xml",
+      "bytes": 2383,
+      "sha256": "8e32ca1ecca8a32d5b0da14a0c1cf8da4898740b69d882aeccc1aff42804cc66",
+      "width": 416,
+      "height": 142,
+      "source_sha256": "dea436cf81b15e6f7158a2a8792e8c7daca38fef4655b98d19aef3ddd0b3c889"
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/vans/logo-2.svg",
+      "source_url": "https://www.vans.co.kr/cmsstatic/theme/2/VANS_VC_RGB_WHITE_LOGO.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a company-logo display-small-up address company uk-width-medium-4-5 div uk-grid div footer-nav uk-width-small-1-1 uk-width-medium-1-1",
+      "content_type": "image/svg+xml",
+      "bytes": 2383,
+      "sha256": "94c3fb7156a9d49ba13998101da270882bacae8f8f761fe2ac4967ec72264910",
+      "width": 416,
+      "height": 142,
+      "source_sha256": "d06075a03ac24c1edc13b513d788c3e0b1fdb2647a3d0a09787b75d62f648696"
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/vans/banner-1.webp",
+      "source_url": "https://image.vans.co.kr/cmsstatic/KR_ONLINE_BANNER_MAIN_PC_1920_800-19.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img div ratio-media fit div picture display-small-up a div slide-item",
+      "content_type": "image/webp",
+      "bytes": 177770,
+      "sha256": "1acf87090cee65f2b1ed50bc482d2fe8b2ca8df7495bcf8a59276f2fc1077ce2",
+      "width": 1600,
+      "height": 667,
+      "source_sha256": "00177e991809b1f7a7d39f3a7130eedc503d17ae93029ca8308061ff4cd67764"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/vans/reference-1.webp",
+      "source_url": "https://img.vans.com/image/upload/t_Vans-Korea-browse-400x400px/VN000D8TGSF-HERO.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lazy div product-img ratio-media fit a product-url div product-tile-main ratio-standard div product-tile flex flex-direction-col",
+      "content_type": "image/webp",
+      "bytes": 16608,
+      "sha256": "781002ed6c1449bddec6d5179efd69bb38d4f5e2b59198a48b83f5db641b5b6c",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/vans/reference-2.webp",
+      "source_url": "https://img.vans.com/image/upload/t_Vans-Korea-browse-400x400px/VN000D8TGSF-ALT1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lazy div product-img ratio-media fit a product-url div product-tile-main ratio-standard div product-tile flex flex-direction-col",
+      "content_type": "image/webp",
+      "bytes": 27852,
+      "sha256": "b241ddcb35db40e55b0b59d623f36ba888740528ac32d4cbac593c506bdd3d9d",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/vans/reference-3.webp",
+      "source_url": "https://image.vans.co.kr/cmsstatic/KR_ONLINE_BANNER_MAIN_MOBILE_828_1036-20.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div ratio-media fit div picture display-small-only a div slide-item",
+      "content_type": "image/webp",
+      "bytes": 130186,
+      "sha256": "37269b6cc23653671643778a7fc34c5a96869d002442ecd588d322e924b0d567",
+      "width": 828,
+      "height": 1036,
+      "source_sha256": "9a3affe3b7937d5c0c09c568e65bda830566ae288ca6b1f6b35afac292279469"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "company": "서울공예박물관",
+  "category": "문화_공공",
+  "requested_url": "https://craftmuseum.seoul.go.kr/",
+  "page_url": "https://craftmuseum.seoul.go.kr/main",
+  "page_title": "SeMoCA",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://craftmuseum.seoul.go.kr/common/program/filedown?idx=2182; reference:ValueError:https://craftmuseum.seoul.go.kr/common/imageShow/FI_20260918153016397552; reference:ValueError:https://craftmuseum.seoul.go.kr/common/program/filedown?idx=2176; reference:ValueError:https://craftmuseum.seoul.go.kr/common/program/filedown?idx=2177; reference:ValueError:https://craftmuseum.seoul.go.kr/common/program/filedown?idx=2164; reference:ValueError:https://craftmuseum.seoul.go.kr/common/program/filedown?idx=2119",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/seoul-museum-of-craft-art/favicon.ico",
+      "source_url": "https://craftmuseum.seoul.go.kr/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "6ac3524ca4a2efd7bdfb7ffccf18b2dad0f21af1b221527b0bad638d179df61d",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/seoul-museum-of-craft-art/og.webp",
+      "source_url": "https://craftmuseum.seoul.go.kr/images/common/og_images.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6852,
+      "sha256": "4355dbba5995112e3ff82d4a2d628665b4961ea7bc6d6f99e43326f48993c06b",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/seoul-museum-of-craft-art/logo-1.png",
+      "source_url": "https://craftmuseum.seoul.go.kr/images/common/img_footer_logo2.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 서울공예박물관 로고 span div logo-wrap div default-wrap div footer-txt-wrap",
+      "content_type": "image/png",
+      "bytes": 5331,
+      "sha256": "0d7f89b25db35c2fcdf07b86f410103728eb98088fce85f575779962f7197b33",
+      "width": 183,
+      "height": 38
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/seoul-museum-of-craft-art/logo-2.png",
+      "source_url": "https://craftmuseum.seoul.go.kr/images/common/img_footer_logo1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img SEOUL MY SOUL 로고 span div logo-wrap div default-wrap div footer-txt-wrap",
+      "content_type": "image/png",
+      "bytes": 2387,
+      "sha256": "16913590e8be64954006f32c979d15f2a273e198e8d7ad5e89fa253b4156633f",
+      "width": 165,
+      "height": 38
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/seoul-museum-of-craft-art/reference-1.webp",
+      "source_url": "https://craftmuseum.seoul.go.kr/images/main/img_section5_1_bg.png",
+      "source_tag": "img:page-image",
+      "context": "img 박물관 지도 이미지로 박물관을 바라보고 왼쪽부터 관리동, 전시2동, 전시1동, 안내동, 전시3동(사전가직물관)이 위치해 있고, 전시2동 앞에는 공예마당(안마당)이 있으며 공예마당에 교육동(어린이박물관)이 위치해 있고, 전시2동 뒤에 공예 별당이 위치해 있다. 전시 1동과 안내동, 전시3동(사전가직물관) 앞에 공예마당(바깥마당)이 위치해 있음 div map-wrap div section5-1 div section5 div",
+      "content_type": "image/webp",
+      "bytes": 35084,
+      "sha256": "f9899c981fd6a320f1e5c66a8bb63eee812b94c8cd1d0783e7175e003981d919",
+      "width": 1800,
+      "height": 863
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/seoul-museum-of-craft-art/reference-2.webp",
+      "source_url": "https://craftmuseum.seoul.go.kr/images/main/img_section6_bg.png",
+      "source_tag": "img:page-image",
+      "context": "img mo-hide 박물관 주변 주차장 지도 이미지로 공예박물관을 기준으로 북쪽에 덕성여자 고등학교를 지나서 조금 더 가면 정독도서관 주차장, 북서쪽에 국립현대미술관 서울에 국립현대미술관 주차장, 서쪽 방향으로 경복궁 사거리 북쪽방향에 시민열린마당뒤 노상 공영 주차장, 남쪽으로 불교중앙박물관 방향으로 서인사마당 노상 공영 주차장, 남동쪽으로 서울 종로 경찰서 근처 낙원상가 밑 노상 공영 주차장이 위치해 있다. div img-",
+      "content_type": "image/webp",
+      "bytes": 30374,
+      "sha256": "7361d5305b7eb73d7eb191e81eeaa9579f7c38070bbfef7dfffa5add72400fbb",
+      "width": 1333,
+      "height": 700
+    }
+  ]
+}

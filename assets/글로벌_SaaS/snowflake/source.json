@@ -1,0 +1,119 @@
+{
+  "company": "Snowflake",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.snowflake.com/ko/",
+  "page_url": "https://www.snowflake.com/ko/",
+  "page_title": "Snowflake AI 데이터 클라우드 | Snowflake Korea",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.snowflake.com/fonts/NotoSansKR-Regular.woff2; reference:ValueError:https://www.snowflake.com/content/snowflake-site/global.model.json; reference:ValueError:https://www.snowflake.com/content/snowflake-site/global/ko.model.json",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/snowflake/favicon.png",
+      "source_url": "https://www.snowflake.com/etc.clientlibs/snowflake-site/clientlibs/clientlib-react/resources/apple-touch-icon.png?v=3",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7824,
+      "sha256": "801cb9fb8f7c9a58163ecdb35c3a13f8a99d7982c6af7d1ce365a66c820c3efe",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "e2fcd28209d6d77043dd56f9a14677cc6e5e9bdc15786449de18b28ea99db06d"
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/snowflake/og.webp",
+      "source_url": "https://www.snowflake.com/content/dam/snowflake-site/general/technical/default-og-image/snowflake-social-share.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14038,
+      "sha256": "4bf52cd4b86523a96b16e55d59a667e0e809465fcc8351416455646a8d297cbb",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/snowflake/logo-1.png",
+      "source_url": "https://www.snowflake.com/adobe/dynamicmedia/deliver/dm-aid--e2af436d-4a1c-4875-92a4-069b5b37fbf3/nexon%25403x.png?quality=85&preferwebp=true",
+      "source_tag": "img:semantic-logo",
+      "context": "img cmp-image__image Nexon logo div cmp-image__inner div snowflake-image-container cmp-image div snowflake-animated-logo-inner div snowflake-animated-logo-flipper",
+      "content_type": "image/png",
+      "bytes": 5066,
+      "sha256": "6465554f179fa86332d914b6f9fbe3a248782961170887478b44cdfde7302336",
+      "width": 624,
+      "height": 351
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/snowflake/logo-2.png",
+      "source_url": "https://www.snowflake.com/adobe/dynamicmedia/deliver/dm-aid--0061327c-026a-47f5-9eba-4f48bbf12a1b/mirea-asset-case-study-card.png?quality=85&preferwebp=true",
+      "source_tag": "img:semantic-logo",
+      "context": "img cmp-image__image NYC Health & Hospitals logo div cmp-image__inner div snowflake-image-container cmp-image div snowflake-animated-logo-inner div snowflake-animated-logo-flipper",
+      "content_type": "image/png",
+      "bytes": 107070,
+      "sha256": "657b7566374b60f9133551a99b08b40b99fdd4d2c47325d50179c0078fc80483",
+      "width": 624,
+      "height": 223
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/snowflake/banner-1.webp",
+      "source_url": "https://www.snowflake.com/adobe/dynamicmedia/deliver/dm-aid--e343d471-9b04-465b-8387-5dc2a1d79246/soc-mmds-5th-edition-1920x1080.jpg?quality=85&preferwebp=true",
+      "source_tag": "img:semantic-banner",
+      "context": "img snowflake-card-v2-advanced-image__image MMDS 5th edition 2026 cover div snowflake-card-v2-advanced-image__inner div snowflake-image-container snowflake-card-v2-advanced-image div snowflake-card-v2-advanced-image-container article snowfl",
+      "content_type": "image/webp",
+      "bytes": 61032,
+      "sha256": "b7aa7f5df0036d5cd9eda3b6645efcef68c5baae15a8cdf888962399efa7c175",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/snowflake/banner-2.webp",
+      "source_url": "https://www.snowflake.com/adobe/dynamicmedia/deliver/dm-aid--e343d471-9b04-465b-8387-5dc2a1d79246/soc-mmds-5th-edition-1920x1080.jpg?quality=85&preferwebp=true&width=1440",
+      "source_tag": "img:semantic-banner",
+      "context": "img snowflake-card-v2-advanced-image__image MMDS 5th edition 2026 cover div snowflake-card-v2-advanced-image__inner div snowflake-image-container snowflake-card-v2-advanced-image div snowflake-card-v2-advanced-image-container article snowfl",
+      "content_type": "image/webp",
+      "bytes": 47166,
+      "sha256": "9de253578480079432daabaeddb9c26e3605e142899715eec01abdda24e9a168",
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/snowflake/reference-1.svg",
+      "source_url": "https://www.snowflake.com/content/dam/snowflake-site/general/static/images/response-chart.svg",
+      "source_tag": "img:page-image",
+      "context": "img wi-response-chart Chart visualizing the AI response data div wi-chart-group div wi-view wi-state-2 div wi-main div wi-body",
+      "content_type": "image/svg+xml",
+      "bytes": 158622,
+      "sha256": "c98c1f8bee07443fa6b97fc78ce0a63022433083b8c2b73eb1ab914fe136627b",
+      "width": 856,
+      "height": 448,
+      "source_sha256": "333b2f7835bdbe2c97309ff5104817dbfe9d62f2c3a38e913652e46565a565aa"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/snowflake/reference-2.webp",
+      "source_url": "https://www.snowflake.com/adobe/dynamicmedia/deliver/dm-aid--f47eb8ee-0b35-4313-a74b-1167290aa29c/homepage-platform-overview.png?quality=85&preferwebp=true",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image Screenshot of a Snowflake Dashboard showcasing Cortex Agents  div cmp-image__inner div snowflake-image-container cmp-image div div aem-container",
+      "content_type": "image/webp",
+      "bytes": 92316,
+      "sha256": "0fa6d835d73320940dc3e4926c2413eac8dc6a7246ba7ced0c3a38d3c0547554",
+      "width": 1400,
+      "height": 934
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/snowflake/reference-3.webp",
+      "source_url": "https://www.snowflake.com/adobe/dynamicmedia/deliver/dm-aid--3cb1118c-08fe-4385-95e2-4b280da1a02d/web-secrets-ko-960x540.png?quality=85&preferwebp=true",
+      "source_tag": "img:page-image",
+      "context": "img snowflake-card-v2-advanced-image__image AI Data Predictions ebook div snowflake-card-v2-advanced-image__inner div snowflake-image-container snowflake-card-v2-advanced-image div snowflake-card-v2-advanced-image-container article snowflak",
+      "content_type": "image/webp",
+      "bytes": 40376,
+      "sha256": "132ee7d7368c8c0c7d40c657a4445b43ad454298308cce7b6e7a3f84007e75b3",
+      "width": 960,
+      "height": 540
+    }
+  ]
+}

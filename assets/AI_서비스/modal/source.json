@@ -1,0 +1,71 @@
+{
+  "company": "Modal",
+  "category": "AI_서비스",
+  "requested_url": "https://modal.com",
+  "page_url": "https://modal.com/",
+  "page_title": "Modal: High-performance AI infrastructure",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://modal-cdn.com/marketing-website-assets/Modal_Security.mp4; reference:ValueError:https://modal-cdn.com/marketing-website-assets/modal_ui-code.mp4; reference:ValueError:https://modal-cdn.com/marketing-website-assets/modal_footer_no_alpha_h264.mp4; reference:ValueError:https://modal-cdn.com/marketing-website-assets/modal_ui-startup.mp4; reference:ValueError:https://modal-cdn.com/marketing-website-assets/modal_ui-gpus.mp4; reference:ValueError:https://modal-cdn.com/marketing-website-assets/modal_ui-graph_final.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/modal/favicon.svg",
+      "source_url": "https://modal.com/assets/favicon.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 3465,
+      "sha256": "7b7a833a8887b1afe5bbeed0d9d10dd849f3dd838cedfcef44d540f3c06594c5",
+      "width": 300,
+      "height": 300,
+      "source_sha256": "3921144ff72d162aa1f895bbbd0732842bc271b8840690f9143c14ef36a8c2dd"
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/modal/og.webp",
+      "source_url": "https://modal.com/assets/social-image-4.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 23880,
+      "sha256": "7b2373f92e1b6746ada698e7ec39af316a60036460027ed3e062076afe8afc20",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/modal/logo-1.png",
+      "source_url": "https://modal.com/_app/immutable/assets/logo.lottie.CgmMXf1s.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img absolute top-0 h-[22px] w-[118px] Modal logo a relative div relative ml-3 nav relative grid grid-cols-[1fr_auto_1fr] items-center rounded-full bg-dark-gray p-2.5 shadow-lg transition-all duration-300 div marketing-container",
+      "content_type": "image/png",
+      "bytes": 26082,
+      "sha256": "9753274ed98c23f395159d847c491dd38ae4dcd1df2a5ef5f12db85f1321df31",
+      "width": 768,
+      "height": 144
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/modal/logo-2.svg",
+      "source_url": "https://modal.com/_app/immutable/assets/decagon-logo.CSzz_2-D.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img block h-[42px] w-[156px] Decagon div card-logo relative z-20 svelte-1sigzwa a story-card-small group relative flex min-h-[300px] w-full min-w-0 flex-col justify-between gap-y-5 overflow-hidden rounded-xl p-6 md:h-[388px] md:min-h-0 md:p",
+      "content_type": "image/svg+xml",
+      "bytes": 9166,
+      "sha256": "0e3b3c10887a0be534e98a19f392242d1de8f316b3a422a74878cd0f6c8cb27e",
+      "width": 156,
+      "height": 42,
+      "source_sha256": "6a18a00610fa9d9aa895f4a4285999feb47e2903c908e236782a78cd56159bff"
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/modal/reference-1.webp",
+      "source_url": "https://modal.com/_app/immutable/assets/gradient-card-bg.lF9YXk-_.webp",
+      "source_tag": "inline-background-image",
+      "context": "a  story-card-small group relative flex min-h-[300px] w-full min-w-0 flex-col justify-between gap-y-5 overflow-hidden rounded-xl p-6 md:h-[388px] md:min-h-0 md:p-8 md:hover:-translate-y-2 svelte-1sigzwa variant-gradient --gradient-bg: url(/",
+      "content_type": "image/webp",
+      "bytes": 26702,
+      "sha256": "31cbfe9380cf0e9743ff311877d25178b6ba071c5663f7d8ce29849de5e45ab5",
+      "width": 425,
+      "height": 388
+    }
+  ]
+}

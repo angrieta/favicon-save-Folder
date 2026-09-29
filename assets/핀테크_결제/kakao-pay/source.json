@@ -1,0 +1,33 @@
+{
+  "company": "카카오페이",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.kakaopay.com/",
+  "page_url": "https://www.kakaopay.com/",
+  "page_title": "카카오페이 | 마음 놓고 금융하다",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=306685487689823&ev=PageView&noscript=1; reference:ValueError:https://fe.kakaopaycdn.com/ssr/brand-site/f61b311b6e81252ec9d1008c3a1409b5756a8fac/_next/static/chunks/175e8e6b14ad7153.js; reference:ValueError:https://t1.kakaocdn.net/kakaopay/brand_site/css/quill.core.css; reference:ValueError:https://t1.kakaocdn.net/kakaopay/brand_site/css/normalize.min.css; reference:ValueError:https://t1.kakaocdn.net/tiara/js/v1/tiara.min.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/kakao-pay/favicon.png",
+      "source_url": "https://t1.kakaocdn.net/kakaopay/icons/web/192-brand.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5652,
+      "sha256": "0348f599968c8c6485405518b8e0079928bc4ab3140bdfad4d7d86b4bb50fcbc",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/kakao-pay/og.webp",
+      "source_url": "https://t1.daumcdn.net/kakaopay/homepage/og/kakaopay_og_20190524.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8006,
+      "sha256": "35da9808bdb495644c4eeea5ffde6c9f11a135f4a1b067d1d8bf1892301f82a6",
+      "width": 1200,
+      "height": 600
+    }
+  ]
+}

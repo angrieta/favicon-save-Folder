@@ -1,0 +1,72 @@
+{
+  "company": "Selfridges",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.selfridges.com/",
+  "page_url": "https://www.selfridges.com/KR/en/",
+  "page_title": "Designer Fashion, Accessories & More - Shop Online at Selfridges",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.selfridges.com/GB/en/features/dam/en_gb/content/images/selfridges-logo.svg; reference:HTTPError:https://www.selfridges.com/KR/en/1; reference:HTTPError:https://www.selfridges.com/KR/en/2&fit=crop",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/selfridges/favicon.ico",
+      "source_url": "https://www.selfridges.com/content/images/v3/assets/blt73be0bca9bcc7356/bltb2a301078025e3e7/favicon.ico?branch=production",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 9662,
+      "sha256": "2b4fa13e08fe769d1ce75c226eacd9451558cc3fadabdc624518eb2a03ec9eb2",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/selfridges/logo-1.svg",
+      "source_url": "https://eu-images.contentstack.com/v3/assets/blt73be0bca9bcc7356/blta92c7301cd615a8f/6909c4986c26f24ac4b5db97/Logo-Dark.svg?branch=production",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a sc-7b219fac-203 cYvQbz div sc-a09352a1-1 eKZmrP div header-top sc-7b219fac-372 bnKqSb div",
+      "content_type": "image/svg+xml",
+      "bytes": 8520,
+      "sha256": "462a67f5b0b32867844ba2bd51e3edbb5a8bf17480858ee9714629bc604582ab",
+      "width": 600,
+      "height": 94,
+      "source_sha256": "12816e4bbf54fb00d43627b614695ec0160b179e4a3bec57be000c8666d680fb"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/selfridges/reference-1.webp",
+      "source_url": "https://images.selfridges.com/is/image/selfridges/R04637791_M?dpr=on%2C2",
+      "source_tag": "link:preload",
+      "context": "preload image  https://images.selfridges.com/is/image/selfridges/R04637791_M?dpr=on%2C2",
+      "content_type": "image/webp",
+      "bytes": 22292,
+      "sha256": "08e6de07e08432e1bff913945da5b9ea39d2ea0ec8464cb3065a77e6b2c1de51",
+      "width": 614,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/selfridges/reference-2.webp",
+      "source_url": "https://images.selfridges.com/is/image/selfridges/R04637791_ALT01?defaultImage=R04637791_M&dpr=on%2C2",
+      "source_tag": "link:preload",
+      "context": "preload image  https://images.selfridges.com/is/image/selfridges/R04637791_ALT01?defaultImage=R04637791_M&dpr=on%2C2",
+      "content_type": "image/webp",
+      "bytes": 81306,
+      "sha256": "3e52d771307092c55d0e0cd6595667581afb4e48b6a185e3de4a16d92423a978",
+      "width": 614,
+      "height": 800,
+      "source_sha256": "2516ec05f387e9d1fc9d40cf588cdae530623de962e3bcc383517c38dd4bb806"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/selfridges/reference-3.webp",
+      "source_url": "https://images.selfridges.com/is/image/selfridges/R04637793_M?dpr=on%2C2",
+      "source_tag": "link:preload",
+      "context": "preload image  https://images.selfridges.com/is/image/selfridges/R04637793_M?dpr=on%2C2",
+      "content_type": "image/webp",
+      "bytes": 16698,
+      "sha256": "b20223cec5b4e3c0de7dbf24dbace55b49eaa57c0bdab914e01f1fba752f60c1",
+      "width": 614,
+      "height": 800
+    }
+  ]
+}

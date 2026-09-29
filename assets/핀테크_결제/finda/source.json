@@ -1,0 +1,70 @@
+{
+  "company": "핀다",
+  "category": "핀테크_결제",
+  "requested_url": "https://finda.co.kr/",
+  "page_url": "https://finda.co.kr/",
+  "page_title": "대출비교플랫폼, 핀다 | 1분만에 국내 최다 금융사 대출 비교",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://finda.co.kr/images/logo.png; banner:ValueError:https://cdn.finda.co.kr/images/2026_homepage/hero_banner.mp4; reference:ValueError:https://cdn.finda.co.kr/images/2026_homepage/hero_banner.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/finda/favicon.png",
+      "source_url": "https://cdn.finda.co.kr/images/favicon/finda_192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3991,
+      "sha256": "1574eaeb7001cc7d080093cb826bef706f25c7a0bd97d99dbe2eb6c550afcac5",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/finda/banner-1.webp",
+      "source_url": "https://finda.co.kr/_next/image?url=https%3A%2F%2Fcdn.finda.co.kr%2Fimages%2F2026_homepage%2Fimage%2FB%2Fhp_b_card_01.png&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img Section 3 Image div relative shrink-0 rounded-[10.494px] div flex w-full gap-[20px] flex-row div flex w-full flex-col items-start section flex w-full flex-col items-center justify-center bg-white text-left",
+      "content_type": "image/webp",
+      "bytes": 117624,
+      "sha256": "17452b60a25598825f50004eeef40b7eed05ef5105b7dab0d17b4c3531c4e3ee",
+      "width": 1500,
+      "height": 1126
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/finda/reference-1.webp",
+      "source_url": "https://cdn.finda.co.kr/images/2026_homepage/image/phone/hp_phone_01.png",
+      "source_tag": "img:page-image",
+      "context": "img Slide 1 div absolute inset-0 overflow-hidden rounded-[10.448px] div absolute div relative w-full overflow-hidden section flex w-full flex-col items-center justify-center px-4 text-center md:px-6",
+      "content_type": "image/webp",
+      "bytes": 44116,
+      "sha256": "d8aa323f3c9e949d6fba66512700d2b241f475246d1a137829e64efb171d65e0",
+      "width": 653,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/finda/reference-2.webp",
+      "source_url": "https://cdn.finda.co.kr/images/2026_homepage/image/phone/hp_phone_02.png",
+      "source_tag": "img:page-image",
+      "context": "img div absolute inset-0 overflow-hidden rounded-[10.448px] div absolute div relative w-full overflow-hidden section flex w-full flex-col items-center justify-center px-4 text-center md:px-6",
+      "content_type": "image/webp",
+      "bytes": 46320,
+      "sha256": "932b656a1590a406329644929c42881cced6183d5a809b4be3d4f164a4a635e6",
+      "width": 653,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/finda/reference-3.webp",
+      "source_url": "https://cdn.finda.co.kr/images/2026_homepage/image/phone/hp_phone_03.png",
+      "source_tag": "img:page-image",
+      "context": "img div absolute inset-0 overflow-hidden rounded-[10.448px] div absolute div relative w-full overflow-hidden section flex w-full flex-col items-center justify-center px-4 text-center md:px-6",
+      "content_type": "image/webp",
+      "bytes": 49550,
+      "sha256": "1db9e2f1b2e1623dceca2f52a5e74e987689159d51dbfbd5fc35e4118fc52f7b",
+      "width": 653,
+      "height": 1350
+    }
+  ]
+}

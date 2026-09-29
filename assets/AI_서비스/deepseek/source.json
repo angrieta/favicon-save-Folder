@@ -1,0 +1,57 @@
+{
+  "company": "DeepSeek",
+  "category": "AI_서비스",
+  "requested_url": "https://www.deepseek.com",
+  "page_url": "https://www.deepseek.com/",
+  "page_title": "DeepSeek | 深度求索",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.deepseek.com/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAB/ElEQVR42r3WSUtbURQH8CxTs5AutCtr40pErAuxutFWwfjeyywU3Yh+gkNeBsFFwQGnmDjbOqDiVMf2W6mJSTSTa/x3cBdiMTk3Xfg7C73xzncczkmk87RRzmLycjoo6zDQCzTbKP0pY0ea4RjNspYgG0CO+mn1IREySqRbbQCDAM7BbYPbEui+zGZYh9EYE5g1xr2cMCwNZniizLd/VLoplFAO9NtwDb7KbkNbB1YBFhIoVursLYCq5MoEQYWBTam0J25/Mt8Tw2lnAPWBWwOmLUSrEPyPfWWeh5t9FbUKsmXJ0nNR0sHb8yVYLXI/7Kau1LUbJPwYUZlUww7U9TMjGjMXsBkNXsO7MTuzxza/ekhUVgzsGsNyxaxPYf/cccZeOjUG+sBdsiwU4btM+w3ct0VSLVXDvnyFuSgVlnugmFHHPaHYcuuQDLiDiZ+eoL35nLm7BPSBWwH0L9XsF1kEVth2DywGeS4NxTvHgjFqt9bXS+gCMP+Khp2wGEbHLbgCSYK2CQw8oZiXwGWN3vAJGDHHLbFYVEOmwL2XZdHA+yzw59e47BVDUsWsNkXLBhv1fWlAqsDtshhYTfDPHpjxXAGUt+ALXHYNLAfQn8bYCPA5goY2jgq/C8F9pFhE3gkXwxZ/YC5gQ0btmtizuoxZy2GbtPv/kneiGfwfXu1X00iEwAAAABJRU5ErkJggg==; reference:ValueError:https://www.deepseek.com/_next/static/chunks/webpack-b8973944fb18ed66.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/deepseek/favicon.ico",
+      "source_url": "https://www.deepseek.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 209762,
+      "sha256": "30a4420e6e4dcb17fd7de560c5004346c2bc8cd971d2d5f5ee15326603e51321",
+      "width": 225,
+      "height": 225
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/deepseek/og.webp",
+      "source_url": "https://www.deepseek.com/images/deepseek-social.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10070,
+      "sha256": "f90265d3961e098abbeaafa0dd4dcdc8d196e9e63cc801a08ba295a9436a15a8",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/deepseek/reference-1.webp",
+      "source_url": "https://www.deepseek.com/images/app-qrcode.png",
+      "source_tag": "link:preload",
+      "context": "preload image  /images/app-qrcode.png",
+      "content_type": "image/webp",
+      "bytes": 37398,
+      "sha256": "da60df091810a0b8ba4a4c38f6dc1b55f70fee6919c09cd8e086abb79aa3acc7",
+      "width": 468,
+      "height": 468
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/deepseek/reference-2.webp",
+      "source_url": "https://www.deepseek.com/images/qr-wechat.png",
+      "source_tag": "link:preload",
+      "context": "preload image  /images/qr-wechat.png",
+      "content_type": "image/webp",
+      "bytes": 41454,
+      "sha256": "676da1ecf1ba2cdb29e98cce97e7827464dbe167da324aa5286506f9b84962a8",
+      "width": 480,
+      "height": 480
+    }
+  ]
+}

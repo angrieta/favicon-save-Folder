@@ -1,0 +1,94 @@
+{
+  "company": "Apartamento",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.apartamentomagazine.com/",
+  "page_url": "https://www.apartamentomagazine.com/",
+  "page_title": "Apartamento – Everyday Interiors Magazine & Publisher",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://vz-a6a6cda4-492.b-cdn.net/97e794b1-8358-4fbf-8142-25d62c748ea5/play_720p.mp4; reference:ValueError:https://vz-a6a6cda4-492.b-cdn.net/97e794b1-8358-4fbf-8142-25d62c748ea5/play_720p.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/apartamento/favicon.png",
+      "source_url": "https://www.apartamentomagazine.com/wp-content/uploads/2024/07/cropped-logo-apartamento-1-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 9586,
+      "sha256": "b8b456b9fbbd17f19d78e559de1bccf913927f21496370f4a2193ad7d3a38e9c",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "5c2011ec64df73f61c5063343a1055ae226c87942ba4c9b150aa8e5f0f94c992"
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/apartamento/og.webp",
+      "source_url": "https://www.apartamentomagazine.com/wp-content/uploads/2026/05/APARTAMENTO-ISSUE-37-MOCKUP-LOW.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 143876,
+      "sha256": "90e8705b49ac45cee62465bfe35443b7729d062671b511b6d3dadd151cde302d",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/apartamento/logo-1.webp",
+      "source_url": "https://www.apartamentomagazine.com/wp-content/uploads/2018/06/apartamento-magazine.jpg",
+      "source_tag": "json-ld.@graph[4].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 3400,
+      "sha256": "f81bad355cf202dd1c45065aa67cc145e221736a6622383d9721bf7ad9e64c58",
+      "width": 246,
+      "height": 246
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/apartamento/logo-2.png",
+      "source_url": "https://www.apartamentomagazine.com/wp-content/uploads/2021/11/Logo_package_white.gif",
+      "source_tag": "img:semantic-logo",
+      "context": "img  - Apartamento Magazine a div image figure footer-image-group div col-lg-3 d-none d-lg-block",
+      "content_type": "image/png",
+      "bytes": 355711,
+      "sha256": "e8e4d6c5aec672c86aec73e0ff05ea3ca98f90a727de7396cd02acb627c58daa",
+      "width": 1600,
+      "height": 1599
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/apartamento/reference-1.webp",
+      "source_url": "https://www.apartamentomagazine.com/wp-content/uploads/2026/05/APARTAMENTO-ISSUE-37-COVER-LOW-600x847.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lazyload Apartamento Magazine Issue #37 figure img a woocommerce-LoopProduct-link woocommerce-loop-product__link li new_product post-181813 product type-product status-publish has-post-thumbnail product_cat-magazines product_tag-magazin",
+      "content_type": "image/webp",
+      "bytes": 85920,
+      "sha256": "b500968450ebdc71dc686539f92ed1d1e588fcd6d53bde0315ad781ffda0d636",
+      "width": 600,
+      "height": 847
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/apartamento/reference-2.webp",
+      "source_url": "https://www.apartamentomagazine.com/wp-content/uploads/2026/09/ARQG_COVER_MOCKUP_grey.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lazyload Twenty-One Conversations with Architects by Arquitectura-G figure img a woocommerce-LoopProduct-link woocommerce-loop-product__link li new_product post-186829 product type-product status-publish has-post-thumbnail product_cat-b",
+      "content_type": "image/webp",
+      "bytes": 23508,
+      "sha256": "6cc781b6b3a08c1b173abe8e3395edfac0b7be7845c3e0ef4fc1a969d512b5cf",
+      "width": 454,
+      "height": 624
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/apartamento/reference-3.webp",
+      "source_url": "https://www.apartamentomagazine.com/wp-content/uploads/2026/06/ANDERS-COVER-LOW-600x936.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lazyload We Never Fold the Same Origami Twice, Anders Frederik Steen (Vol. II) figure img a woocommerce-LoopProduct-link woocommerce-loop-product__link li new_product post-184363 product type-product status-publish has-post-thumbnail pr",
+      "content_type": "image/webp",
+      "bytes": 19698,
+      "sha256": "173ddab50e346ee36d9324eb3f8bed8a3356f6de095c422c95f49d7daaa03532",
+      "width": 600,
+      "height": 936
+    }
+  ]
+}

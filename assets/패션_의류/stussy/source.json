@@ -1,0 +1,60 @@
+{
+  "company": "Stüssy",
+  "category": "패션_의류",
+  "requested_url": "https://www.stussy.com/",
+  "page_url": "https://www.stussy.com/",
+  "page_title": "Stüssy",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.stussy.com/cdn/shop/t/516/assets/HelveticaNeueLTPro-Roman.woff2?v=99226345885995886811684347314; reference:ValueError:https://www.stussy.com/cdn/shop/t/516/assets/HelveticaNeueLTPro-Md.woff2?v=90165916532395914481684347314; reference:ValueError:https://www.stussy.com/cdn/shop/t/516/assets/HelveticaNeueLTPro-Bd.woff2?v=120088747007833075241684347314",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/stussy/favicon.svg",
+      "source_url": "https://www.stussy.com/cdn/shop/files/Stussy_Crown_Favicon_13246623-57c8-4b1a-b376-bbe235e617fd_32x32.svg?v=1751492884",
+      "source_tag": "shortcut icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1720,
+      "sha256": "fef557e25fb957b8df5abcb055711b8362ad4357e7a54365e8808f475d69fcb6",
+      "width": 32,
+      "height": 32,
+      "source_sha256": "b4e60a213e472344e3f5fabf5ac43270820e97bfb433ce8469b8c301690d18b1"
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/stussy/og.webp",
+      "source_url": "http://www.stussy.com/cdn/shop/files/1311244_NAVY_4_bb48b222-7a27-41c7-bfeb-fe734c5f5982.jpg?v=1789497384",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 110008,
+      "sha256": "8563cb6c02ebcad2c2308fead61852ea9415f9b20eaf7d4fa4620e15295becb6",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/stussy/reference-1.webp",
+      "source_url": "https://www.stussy.com/cdn/shop/files/202609_STUSSY_Stills_Scans-16240035_GGarcia.jpg?v=1790359532&width=1920",
+      "source_tag": "picture:page-image",
+      "context": "picture lazypicture block w-full w-full h-full flex items-center justify-center div homepage-feature-blocks__media-layer homepage-feature-blocks__media-layer--mobile desktop:hidden div homepage-feature-blocks__media-inner mx-auto homepage-f",
+      "content_type": "image/webp",
+      "bytes": 191730,
+      "sha256": "b2f01bf30c5d5287792595964e64c65cee0e71efe5df9b5b48ff09ec707d4e9b",
+      "width": 1012,
+      "height": 1350,
+      "source_sha256": "62633156744295e74bba8dfb755becada6caff06ea2ce070602827334bbf2fb4"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/stussy/reference-2.webp",
+      "source_url": "https://www.stussy.com/cdn/shop/files/202609_STUSSY_Stills_Scans-16240035_GGarcia.jpg?v=1790359532&width=1440",
+      "source_tag": "picture:page-image",
+      "context": "picture lazypicture block w-full w-full h-full flex items-center justify-center div homepage-feature-blocks__media-layer homepage-feature-blocks__media-layer--mobile desktop:hidden div homepage-feature-blocks__media-inner mx-auto homepage-f",
+      "content_type": "image/webp",
+      "bytes": 199934,
+      "sha256": "7e0308f0bea044f0557bb4ef7baae233cc7178a41f72a10673ec45f6b9e9933a",
+      "width": 1012,
+      "height": 1350,
+      "source_sha256": "ae8fa0160838be133a4e571aa6a8d7391f659ff21f99c70c6b71f26a0dbe08b3"
+    }
+  ]
+}

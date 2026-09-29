@@ -1,0 +1,81 @@
+{
+  "company": "Craft",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.craft.do/",
+  "page_url": "https://www.craft.do/ko",
+  "page_title": "Craft — 노트, 작업, 문서를 위한 생산성 앱",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://www.craft.do/format=auto/_next/static/media/AmityBackground.24a97e2b.png; banner:HTTPError:https://www.craft.do/format=auto/_next/static/media/AaronWriterBackground.db8ed086.png; banner:HTTPError:https://www.craft.do/format=auto/_next/static/media/SeoyoungBackgroundWithImage.2dc9f8ef.png; banner:HTTPError:https://www.craft.do/format=auto/_next/static/media/GianBackground.bd769816.png; reference:HTTPError:https://www.craft.do/format=auto/_next/static/media/cloud.33739c9c.png; reference:HTTPError:https://www.craft.do/format=auto/_next/static/media/paper-black.dba476c7.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/craft/favicon.png",
+      "source_url": "https://www.craft.do/favicons/light/light_192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2864,
+      "sha256": "6ff4f5c8c2b36c7957e591e3fe4bd4250292fa26232564c23241c31884137090",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/craft/og.webp",
+      "source_url": "https://www.craft.do/craft_og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 16700,
+      "sha256": "9c46a49621ae8b403bcac5e98f524de8411cd816ef07b4e676eea2275c10266c",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/craft/banner-1.webp",
+      "source_url": "https://www.craft.do/_image/width=3840,quality=85,format=auto/_next/static/media/hero-screenshot-desktop-full.4be7130c.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div absolute right-0 bottom-[-320px] left-0 z-40 mx-auto w-full max-w-[min(316px,45vh)] md:bottom-0 md:w-[660px] md:max-w-none lg:w-[788px] xl:bottom-[-80px] xl:w-[880px] 2xl:bottom-[-100px] 2xl:w-[1044px] div flex h-fit w-full flex",
+      "content_type": "image/webp",
+      "bytes": 82932,
+      "sha256": "3e1344f333aba2e1d17c4e041d47d6ea7f42b459a7a9dab426543c3ae741b8c5",
+      "width": 1800,
+      "height": 732
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/craft/reference-1.webp",
+      "source_url": "https://www.craft.do/_image/width=3840,quality=85,format=auto/_next/static/media/cloud.33739c9c.png",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 transform-gpu select-none Cloud div aspect-7/4 absolute -bottom-22 -left-[220px] z-22 w-[360px] md:top-60 md:bottom-auto lg:-left-[260px] lg:w-[480px] div absolute inset-0 div relative h-full md:min-h-[600px] div h-full",
+      "content_type": "image/webp",
+      "bytes": 67648,
+      "sha256": "4420108650a418b9ebca727d4a71109f18f53416a49345758b57eb63b6896fd7",
+      "width": 1500,
+      "height": 773
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/craft/reference-2.webp",
+      "source_url": "https://www.craft.do/_image/width=3840,quality=85,format=auto/_next/static/media/paper-black.dba476c7.png",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 h-full w-full select-none translate-y-[100px] scale-[1.2] div h-full w-full paperShredUfoMask div h-full w-full relative overflow-hidden aspect-6/3 div isolate contain-layout contain-paint overflow-hidden aspect-6/3 abs",
+      "content_type": "image/webp",
+      "bytes": 57226,
+      "sha256": "66bc54ebe66bee2c3bf98ae1eec6fe881f2eae223a6aa496906e27374e7526b7",
+      "width": 1800,
+      "height": 962
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/craft/reference-3.webp",
+      "source_url": "https://www.craft.do/_next/static/media/paper-notebook.9ae2b49a.webp",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 h-full w-full select-none div h-full w-full paperShredBlobMask div h-full w-full relative overflow-hidden aspect-8/5 div isolate contain-layout contain-paint overflow-hidden aspect-8/5 absolute z-20 rotate-[174deg] bott",
+      "content_type": "image/webp",
+      "bytes": 23542,
+      "sha256": "ab27aa745fe5c6ed80246da4bf9a5f3400e8a2290e0c4045a8168f2fe4f244b3",
+      "width": 1552,
+      "height": 1200
+    }
+  ]
+}

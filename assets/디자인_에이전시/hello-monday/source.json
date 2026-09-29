@@ -1,0 +1,33 @@
+{
+  "company": "Hello Monday",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.hellomonday.com",
+  "page_url": "https://www.hellomonday.com/",
+  "page_title": "Hello Monday",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.hellomonday.com/build/css/bundle-2bdea8b598.css; reference:ValueError:https://www.hellomonday.com/build/js/main-e03077acdb.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/hello-monday/favicon.png",
+      "source_url": "https://www.hellomonday.com/favicon-32x32_0.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1646,
+      "sha256": "8aa9110c73af1eda871cb9da22cb98517dd8906b8ec09b55a0dcd19d80c21e3e",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/hello-monday/og.webp",
+      "source_url": "https://www.hellomonday.com/assets/images/icons/hello_monday_default_meta.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20572,
+      "sha256": "db2fd1e88eba4d0735fc9166368e30b0a26c032ed4073dd4154f54a417daf241",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

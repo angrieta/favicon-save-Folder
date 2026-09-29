@@ -6,17 +6,6 @@
   "page_title": "klook.com",
   "collection_status": "complete",
   "collection_error": "asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/desktop-event.dedb503d.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/desktop-experience.00c160b3.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/desktop-ptp.3baa624f.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/fnb-common.6903b552.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/mobile-activity.5d2f2524.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/mobile-car-rental.692a1855.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/mobile-common.8d46ed9c.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/mobile-event.64d29e5c.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/mobile-home.bc9e4f5f.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/mobile-hotel.e459b14d.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/static/svg/mobile-ptp.66283ca2.svg:HTTPError; asset:https://cdn.klook.com/s/dist_web/ssrtransport/dist_web/static/js/avatar.png:HTTPError",
-  "crawl_stats": {
-    "logical_pages": 14,
-    "desktop_pages": 0,
-    "mobile_pages": 14,
-    "stylesheets": 9,
-    "scripts": 30,
-    "candidates": 146,
-    "attempted_assets": 146,
-    "errors": 58,
-    "collected_at": "2026-09-03T08:36:24.412513+09:00"
-  },
   "assets": [
     {
       "type": "favicon",
@@ -676,12 +665,12 @@
       "source_tag": "script-data",
       "context": "escription(e),r=t.$store.state.klook.host||\"www.klook.com\",o=t.$route.fullPath||\"\",s=(0,ex.k7)({title:i,description:e,url:\"https://\".concat(r).concat(o),image:t.$transformImageUrl(\"https://res.klook.com/image/upload/car-rental/car-rental-banner.jpg\",Object.assign({},ex.Vg)),locale:t.$store.state.klook.language},t.$t.bind(t)),n=\"\";\"en\"!==t.$store.state.klook.language&",
       "content_type": "image/webp",
-      "bytes": 144772,
-      "sha256": "62be20583c3664bdebcc9cf0838940874859c1fc7a2259f8ed40206c6de36de5",
+      "bytes": 54710,
+      "sha256": "66e3caf2acc93f1f1a58336b4fb49500108c0627b0a977114cf7802631e08f77",
       "source_sha256": "984bbe9bbe7f4d5087b4c223870632cfb2ff41af4647081483b1d989e7ff420e",
       "dhash": "3b3f7fbe07193d3a",
-      "width": 2200,
-      "height": 550,
+      "width": 1600,
+      "height": 400,
       "variant": "mobile",
       "source_pages": [
         "https://www.klook.com/car-rentals/"
@@ -885,12 +874,12 @@
       "source_tag": "script-data",
       "context": "|\"https://res.klook.com/image/upload/q_auto,c_fill,w_1120,h_584/v1645439471/fyhpxzhcyqrzhpxnthoo.jpg\",s=this.$t(\"197498\"),n=this.$t(\"197499\"),l=this.$t(\"197687\");this.isFlight&&(r=\"https://res.klook.com/image/upload/flight_lanf8x.jpg\",s=this.$t(\"48326\"),n=this.$t(\"197674\"),l=this.$t(\"48326\"));let c=\"Mobility_Aggregate\";this.aggregationSkeleton&&(c=`Mob",
       "content_type": "image/webp",
-      "bytes": 132500,
-      "sha256": "f21e321abeeb99cf3396c965d021e1a4f8ffc3151a4a5835227b3842522bee46",
+      "bytes": 48566,
+      "sha256": "777ee87204f4f091a8f258cb584f830f85abd13240bda52387e48c9ed090e8ea",
       "source_sha256": "6c17ff3297f0158500a9e4c9fe6e10f0408fbb9e7de7f2fa8dbf3003d74fe9f7",
       "dhash": "0b0125b011f42fc9",
-      "width": 2200,
-      "height": 1031,
+      "width": 1600,
+      "height": 750,
       "variant": "mobile",
       "source_pages": [
         "https://www.klook.com/car-rentals/"

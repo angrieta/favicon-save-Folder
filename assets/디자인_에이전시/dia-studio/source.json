@@ -1,0 +1,33 @@
+{
+  "company": "DIA Studio",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.dia.studio",
+  "page_url": "https://www.dia.studio/",
+  "page_title": "DIA Studio",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.dia.studio/fonts/JJannon-Book.woff2; reference:ValueError:https://www.dia.studio/fonts/JJannon-Book-Italic.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/dia-studio/favicon.png",
+      "source_url": "https://www.dia.studio/manifest/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4937,
+      "sha256": "ddd913d3c950b9155e8096f5a368fb55dd83bf529968340528e0d78180d04896",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/dia-studio/og.webp",
+      "source_url": "https://www.dia.studio/manifest/icon-og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4562,
+      "sha256": "9aa8acb35b4477d7c2a3f7fb2cf0855d93500fc93c45aa55fb0f46c97dddaf32",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

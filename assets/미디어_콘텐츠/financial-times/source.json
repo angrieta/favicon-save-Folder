@@ -1,0 +1,83 @@
+{
+  "company": "Financial Times",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.ft.com/",
+  "page_url": "https://www.ft.com/",
+  "page_title": "Home - Financial Times",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/financial-times/favicon.png",
+      "source_url": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=png&width=194&height=194",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 681,
+      "sha256": "482b39b1520f03ce14ce4a3b38a75bdbdce6c12264946c110992d197bb0a3ad1",
+      "width": 194,
+      "height": 194,
+      "source_sha256": "87cae34b146da639d2e348532ae2659b4a1b0fffcd854ae8285610148cbc1dfb"
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/financial-times/banner-1.webp",
+      "source_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffaa5d6eb-8a22-4392-ab68-5f45238b6d10.jpg?source=next-home-page&dpr=2&height=435&fit=cover&gravity=poi&width=580",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a link div primary-opinion-story__image div grid grid--9-columns grid--fullHeight div main-opinion-stories__primary-story",
+      "content_type": "image/webp",
+      "bytes": 45546,
+      "sha256": "976c8aa34e1efbe770a1d03fda50aa9de90ba310a986eda899ae48874d8d50c6",
+      "width": 1160,
+      "height": 870
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/financial-times/banner-2.webp",
+      "source_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7a1d984c-8361-4236-9382-24e6137ba8b3.jpg?source=next-home-page&dpr=2&height=435&fit=cover&gravity=poi&width=580",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a link div grid-item grid-item--span-4 monetary-policy-radar__image div grid grid--12-columns grid--s4-spacing grid--fullHeight monetary-policy-radar__parent div layout__grid-content",
+      "content_type": "image/webp",
+      "bytes": 105728,
+      "sha256": "4f9bf663a800ddb0df2d6b5dd3df728293419cd107aab85e3ab7d620077977de",
+      "width": 1160,
+      "height": 870
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/financial-times/reference-1.webp",
+      "source_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feaec64f2-51e4-4d50-84e8-20852aed0513.jpg?source=next-home-page&dpr=2&width=280&fit=scale-down",
+      "source_tag": "picture:page-image",
+      "context": "picture a link div primary-story__image primary-story__image--1-cols div grid grid--1-columns grid--s3-spacing div grid-item grid-item--span-3",
+      "content_type": "image/webp",
+      "bytes": 16332,
+      "sha256": "996832be09ad4d26ccc5e053f1f64149f4e44f4fd3b5a2c737ab3ef914c6e111",
+      "width": 560,
+      "height": 315
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/financial-times/reference-2.webp",
+      "source_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feaec64f2-51e4-4d50-84e8-20852aed0513.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "source_tag": "picture:page-image",
+      "context": "picture a link div primary-story__image primary-story__image--1-cols div grid grid--1-columns grid--s3-spacing div grid-item grid-item--span-3",
+      "content_type": "image/webp",
+      "bytes": 42852,
+      "sha256": "e050a9a4ec0b536b98d17d426e02a81d0af125f2ce0601324dcca35808c13481",
+      "width": 1160,
+      "height": 652
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/financial-times/reference-3.webp",
+      "source_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F06c2c22d-9f68-4d32-92cb-3c5205332800.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "source_tag": "picture:page-image",
+      "context": "picture a link div featured-story__image div featured-story featured-story--theme-tinted div story-group__article story-group__article--featured",
+      "content_type": "image/webp",
+      "bytes": 104800,
+      "sha256": "f62edd274e845f66abeb5e6051919874a4f5f35537a31c53837585f46583a302",
+      "width": 1160,
+      "height": 652
+    }
+  ]
+}

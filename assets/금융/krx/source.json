@@ -1,0 +1,33 @@
+{
+  "company": "한국거래소",
+  "category": "금융",
+  "requested_url": "https://www.krx.co.kr/",
+  "page_url": "https://www.krx.co.kr/",
+  "page_title": "한국거래소",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/krx/favicon.ico",
+      "source_url": "https://www.krx.co.kr/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "cb7d887a20a3b6b06326015bc885a3ee05763d2efeae73b7fa9fba712d2baa6e",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/krx/og.webp",
+      "source_url": "https://inc.krx.co.kr/attach/kor/kakao_share/img_og_www.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4210,
+      "sha256": "dc2ef8ac33aadafba3a7ab1faf85e4007bc44c4af92527e9337cb3c80aaf5cc5",
+      "width": 420,
+      "height": 200
+    }
+  ]
+}

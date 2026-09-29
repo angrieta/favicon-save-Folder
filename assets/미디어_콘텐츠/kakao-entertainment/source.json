@@ -1,0 +1,33 @@
+{
+  "company": "카카오엔터테인먼트",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.kakaoent.com/",
+  "page_url": "https://www.kakaoent.com/",
+  "page_title": "홈 | 카카오엔터테인먼트",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.kakaoent.com/_nuxt/runtime.js?t_=1790052898679; reference:ValueError:https://www.kakaoent.com/_nuxt/commons/app.js?t_=1790052898679; reference:ValueError:https://www.kakaoent.com/_nuxt/styles.css?t_=1790052898679; reference:ValueError:https://www.kakaoent.com/_nuxt/styles.js?t_=1790052898679; reference:ValueError:https://www.kakaoent.com/_nuxt/app.js?t_=1790052898679",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/kakao-entertainment/favicon.png",
+      "source_url": "https://www.kakaoent.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1406,
+      "sha256": "90b59dc779824b47170562655acdc0f1f224dd49b24f1ac131c7e484f7ed08cf",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/kakao-entertainment/og.webp",
+      "source_url": "https://t1.kakaocdn.net/kakaoent_com/common/image/kakaoEnt.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7384,
+      "sha256": "fbe89500494048f0c1a10e10e9ef12e95f79899d20889dbfcfb0ad4b8025d180",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

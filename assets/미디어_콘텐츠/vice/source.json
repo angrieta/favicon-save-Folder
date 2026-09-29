@@ -1,0 +1,58 @@
+{
+  "company": "VICE",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.vice.com/",
+  "page_url": "https://www.vice.com/",
+  "page_title": "VICE - VICE is the definitive guide to enlightening information.",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/vice/favicon.png",
+      "source_url": "https://www.vice.com/wp-content/uploads/sites/2/2024/06/cropped-site-icon-1.png?w=192",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7265,
+      "sha256": "9b2bf8de6c739c83ce0887c437575fa4003f5c226210258e1e0de10f253c4716",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/vice/og.webp",
+      "source_url": "https://www.vice.com/wp-content/uploads/sites/2/2024/08/VICE-logo.jpeg?w=1400",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10662,
+      "sha256": "7c34a686e00c2fefe3f482edf4662f50f839049b35e40083060e3808cbb285a6",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/vice/logo-1.webp",
+      "source_url": "https://www.vice.com/wp-content/uploads/sites/2/2024/08/VICE-logo.jpeg",
+      "source_tag": "json-ld.@graph[3].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 16082,
+      "sha256": "7c502dcda7b237bd1b37a425e9bccda6cd04780e3eee97ac9acc5311636535f1",
+      "width": 1400,
+      "height": 788
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/vice/logo-2.svg",
+      "source_url": "https://www.vice.com/wp-content/plugins/savage-membership-chargebee/includes/assets/uploads/close.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img close div cancel-svg div payment-options-modal div free-modal-container body home blog wp-custom-logo wp-embed-responsive wp-theme-vice-2024 environment-type-production no-js",
+      "content_type": "image/svg+xml",
+      "bytes": 822,
+      "sha256": "7040736d73b17cdbb42416b29695ea62ffc2789be8550400a27ebacc696b5a8b",
+      "width": 50,
+      "height": 50,
+      "source_sha256": "2a8d5ebc35ca288630a7fc508841ba97d107002d7ff11da2d2627cc96f7c0fad"
+    }
+  ]
+}

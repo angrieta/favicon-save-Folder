@@ -1,0 +1,82 @@
+{
+  "company": "KFC",
+  "category": "식품_생활",
+  "requested_url": "https://www.kfckorea.com/",
+  "page_url": "https://www.kfckorea.com/",
+  "page_title": "KFC",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/kfc-korea/favicon.ico",
+      "source_url": "https://www.kfckorea.com/assets/favicon.ico?d230bc62da40125151da1a5391159397",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "d7287e4c3af97d45ce2dcb1f1038dc424d5a0c15117348ea8a4940478daff571",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/kfc-korea/banner-1.webp",
+      "source_url": "https://www.kfckorea.com/static/img/main/banner_store_All.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img qrbanner a div div app body",
+      "content_type": "image/webp",
+      "bytes": 36982,
+      "sha256": "b05203e70d3c39cac8ee29fa09cb25b731a8658aadbf857c9ac81bdc455ba1f7",
+      "width": 1280,
+      "height": 372
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/kfc-korea/banner-2.webp",
+      "source_url": "https://www.kfckorea.com/nas/banner/2026/08/31/Fo7zakxVGT82.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div   width:100%;height:100%;background-size:cover;background-position:center center;background-image:url(https://www.kfckorea.com/nas/banner/2026/08/31/Fo7zakxVGT82.jpg);",
+      "content_type": "image/webp",
+      "bytes": 43358,
+      "sha256": "8e7b55928433e01553473732f6ced634fee14fc2fd0dd0cdb8fde701137645fc",
+      "width": 1800,
+      "height": 413
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kfc-korea/reference-1.webp",
+      "source_url": "https://www.kfckorea.com/nas/banner/2026/08/31/StpLHNYwHmZ7.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div   width:100%;height:100%;background-size:cover;background-position:center center;background-image:url(https://www.kfckorea.com/nas/banner/2026/08/31/StpLHNYwHmZ7.jpg);",
+      "content_type": "image/webp",
+      "bytes": 66868,
+      "sha256": "a0576fd70a7e887fa34c5ff0d2b5952240b5d00f361038d6182a623a96e2f97c",
+      "width": 880,
+      "height": 660
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kfc-korea/reference-2.webp",
+      "source_url": "https://www.kfckorea.com/nas/banner/2026/09/03/KR6wj292Xl7u.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div   width:100%;height:100%;background-size:cover;background-position:center center;background-image:url(https://www.kfckorea.com/nas/banner/2026/09/03/KR6wj292Xl7u.jpg);",
+      "content_type": "image/webp",
+      "bytes": 71994,
+      "sha256": "1640cc2f8c12409a7b0ceac96e1adb76520b6c136bf1ced40641f749458a15f2",
+      "width": 880,
+      "height": 660
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kfc-korea/reference-3.webp",
+      "source_url": "https://www.kfckorea.com/nas/banner/2026/09/09/6hvj7TS4zLUi.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div   width:100%;height:100%;background-size:cover;background-position:center center;background-image:url(https://www.kfckorea.com/nas/banner/2026/09/09/6hvj7TS4zLUi.jpg);",
+      "content_type": "image/webp",
+      "bytes": 103272,
+      "sha256": "fe9db2cdc305a6af664cb657266d0bcd804d55974469aabba434f0951bb8e91c",
+      "width": 880,
+      "height": 660
+    }
+  ]
+}

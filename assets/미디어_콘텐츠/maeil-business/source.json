@@ -1,0 +1,94 @@
+{
+  "company": "매일경제",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.mk.co.kr/",
+  "page_url": "https://www.mk.co.kr/",
+  "page_title": "매일경제",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/maeil-business/favicon.png",
+      "source_url": "https://static.mk.co.kr/favicon_180180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2515,
+      "sha256": "63d09a1f95b1cd9a443c745ba1eead4fcffeb80fe4012c7af0fb7dad54b2a929",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/maeil-business/og.webp",
+      "source_url": "https://static.mk.co.kr/facebook_mknews.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7156,
+      "sha256": "9dbeacffb98076eeb7ec751e04703c4112dc658a96f7d1097d1d38fb4c143d24",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/maeil-business/logo-1.png",
+      "source_url": "https://bimg.mk.co.kr/intro/images/l_mkmk.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 6159,
+      "sha256": "63640715d6398adbe3ecd13802aa2fd8d9893071aa24952e7ee42b9ecca87d73",
+      "width": 512,
+      "height": 120
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/maeil-business/logo-2.png",
+      "source_url": "https://static.mk.co.kr/2026/css/images/ic_mai.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo_mai 마이에이전트 span div bg_text div my_agent_conts div my_agent",
+      "content_type": "image/png",
+      "bytes": 2324,
+      "sha256": "796f2e15ea26b338dddca6f64072ff8d6123e1fd1f1e193064c127d5ae2e477e",
+      "width": 102,
+      "height": 44
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/maeil-business/banner-1.webp",
+      "source_url": "https://wimg.mk.co.kr/svc/desking/1000/index/202609/A12164051_242_20260929191344.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 젠슨 황 \"韓과 33년 인연 … 33년간 더 이어가고파\" span img_cover a link_style div mainimg_art div news_item_2cmn",
+      "content_type": "image/webp",
+      "bytes": 30486,
+      "sha256": "4717c50e7ad5d8c42166f29067f263b1be1492eaab9418a0b082f6e24f482a89",
+      "width": 640,
+      "height": 427
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/maeil-business/banner-2.webp",
+      "source_url": "https://wimg.mk.co.kr/news/cms/202609/30/20260930_01110125000002_L00.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img \"JYP 신사옥 앞 공원 놔둬라\" 뿔난 고덕동 span img_cover a link_style div mainimg_art div news_item_2cmn",
+      "content_type": "image/webp",
+      "bytes": 87872,
+      "sha256": "2c038ade7cc5204a52e04b9c8ea6d426c013abcc851a290defcef0ec19dee6c6",
+      "width": 1000,
+      "height": 671,
+      "source_sha256": "fe6a5bb95fb9bf0ecb0c95e6ccef0cb0993b6b973b99a90d21af6a0daee48a81"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/maeil-business/reference-1.webp",
+      "source_url": "https://wimg.mk.co.kr/svc/desking/1000/index/202609/A12163983_231_20260929220911.png",
+      "source_tag": "img:page-image",
+      "context": "img head_thum_imz 1.9조 공대공 미사일 개발사업 … 한화 對 로템·LIG연합 대혈투 a link figure spotlight_image div top_headline_img col col2 div box_style1",
+      "content_type": "image/webp",
+      "bytes": 12552,
+      "sha256": "d68a7bf294c19a49b39611303c70920613712bbadf1540dc9c6240e7d6bb82b3",
+      "width": 640,
+      "height": 370
+    }
+  ]
+}

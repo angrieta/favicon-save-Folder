@@ -1,0 +1,98 @@
+{
+  "company": "솔리드옴므",
+  "category": "패션_의류",
+  "requested_url": "https://solidhomme.com",
+  "page_url": "https://solidhomme.com/",
+  "page_title": "SOLIDHOMME.COM | 솔리드옴므 공식 온라인 스토어",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:http://solidhosting.cafe24.com/videos/solidhomme-video-26-fw-1.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/solid-homme/favicon.png",
+      "source_url": "https://solidhomme.com/images/favicon-solid.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 6006,
+      "sha256": "50c376877fdcf22171c7d8f155392b85afc34d0eadcf84e41bac8996eb7cd53e",
+      "width": 162,
+      "height": 162
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/solid-homme/logo-1.svg",
+      "source_url": "https://solidhomme.com/images/solid-search.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a search-trigger div shoppingbag div header-header div header",
+      "content_type": "image/svg+xml",
+      "bytes": 467,
+      "sha256": "ac796bdb4c12e632e8e3e1ffd21832141de38525d88cd394d070b0e2b6944a5e",
+      "width": 9,
+      "height": 9,
+      "source_sha256": "bf23fe0e0ffe7dbad6211aaabdca28161beb4c6cad2e3f2debdad05b6eefe4e5"
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/solid-homme/logo-2.svg",
+      "source_url": "https://solidhomme.com/images/solid-account.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a xans-element- xans-layout xans-layout-statelogoff div shoppingbag div header-header div header",
+      "content_type": "image/svg+xml",
+      "bytes": 499,
+      "sha256": "2a6ef8d98ae48a4f73203eb3317798e4784853820ce36f34b49126865fccbe07",
+      "width": 9,
+      "height": 9,
+      "source_sha256": "162a4167aa004bc34880db49b5002dec419dea39b8cd354c4f885a3aed6e3f1f"
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/solid-homme/banner-1.webp",
+      "source_url": "https://solidhomme.com/images/fw26/solid-home-pc-26-fw-6.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  home-cover-full mobiledisplaynone background:url(/images/fw26/solid-home-pc-26-fw-6.jpg) center center no-repeat; background-size:cover;",
+      "content_type": "image/webp",
+      "bytes": 125978,
+      "sha256": "29e47f4812e3c5a3f367e8e9453115914a2947b42e6795697118d04e1814dfb7",
+      "width": 1600,
+      "height": 1140,
+      "source_sha256": "8f1e016fa82a89e4805d6c46fd5e5c30a63ea6d3442d2d24785b2ff6106ac412"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/solid-homme/reference-1.webp",
+      "source_url": "https://solidhomme.com/images/fw26/solid-home-m-26-fw-3.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  home-cover-full mobiledisplay background:url(/images/fw26/solid-home-m-26-fw-3.jpg) center center no-repeat; background-size:cover;",
+      "content_type": "image/webp",
+      "bytes": 81208,
+      "sha256": "ea6d3bec0675ee72a8eedcf174bcc96f3a6c5c88a09dab8cc661801eceb1d565",
+      "width": 900,
+      "height": 1350,
+      "source_sha256": "14333d1b63593c100d71dbe8cc495b91f9758032cf041367a04507daf137f5bb"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/solid-homme/reference-2.webp",
+      "source_url": "https://solidhomme.com/images/fw26/solid-home-26-fw-a1.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  col-inner background:url(/images/fw26/solid-home-26-fw-a1.jpg) center center no-repeat; background-size:cover;",
+      "content_type": "image/webp",
+      "bytes": 41644,
+      "sha256": "1ef5b15981d2d545c3e755f30b09ce20a39a3cdf59a95dd6e57d4298cd234a75",
+      "width": 901,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/solid-homme/reference-3.webp",
+      "source_url": "https://solidhomme.com/images/fw26/solid-home-26-fw-a2.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  col-inner background:url(/images/fw26/solid-home-26-fw-a2.jpg) center center no-repeat; background-size:cover;",
+      "content_type": "image/webp",
+      "bytes": 97856,
+      "sha256": "67342c69b48bcbaba84f1f588d6f3dcbae185dd4e6dd877cae9dde5a3e5d4768",
+      "width": 901,
+      "height": 1350
+    }
+  ]
+}

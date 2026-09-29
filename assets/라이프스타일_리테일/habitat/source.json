@@ -1,0 +1,46 @@
+{
+  "company": "Habitat",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.habitat.co.uk/",
+  "page_url": "https://www.habitat.co.uk/",
+  "page_title": "Habitat | Sofas, furniture, lighting & home accessories.",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.argos.co.uk/assets/bolt2/11.2.4/bolt-habitat.min.css; reference:ValueError:https://cdn.habitat.co.uk/apps/nav-pdp/ui-global-service/prd/client/chunk-cmscomponents.e96ccccb.min.css; reference:ValueError:https://www.habitat.co.uk/assets/common/vendor/5.0.17/commonvendor-react.min.js; reference:ValueError:https://www.habitat.co.uk/assets/common/vendor/5.0.17/commonvendor-dayjs.min.js; reference:ValueError:https://www.habitat.co.uk/assets/common/vendor/5.0.17/commonvendor-styledComponents.min.js; reference:ValueError:https://www.habitat.co.uk/assets/common/vendor/5.0.17/commonvendor-superagent.min.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/habitat/favicon.png",
+      "source_url": "https://www.habitat.co.uk/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 795,
+      "sha256": "a32bf02fef09953a0a5155dac79e28920a252a6512a4453f7201db8c8780fa03",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/habitat/logo-1.png",
+      "source_url": "https://media.4rgos.it/i/Argos/Habitat-logo-black?w=280&h=64&qlt=75&fmt=webp",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div Logostyles__ImageWrapper-sc-18mf0bj-0 jgzaFk a Headerstyles__Logo-sc-v612yz-2 ilTZoM Habitat Logo - Load homepage div Headerstyles__Main-sc-v612yz-1 fgdioz div Headerstyles__Header-sc-v612yz-0 cysqwg",
+      "content_type": "image/png",
+      "bytes": 28293,
+      "sha256": "91609771bcca74ffe8f8ca21e51d3c71d1ed55f034545771c8c67ae439fbf57b",
+      "width": 280,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/habitat/logo-2.png",
+      "source_url": "https://media.4rgos.it/i/Argos/Habitat-logo-black?w=140&h=32&qlt=75&fmt=webp",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div Logostyles__ImageWrapper-sc-18mf0bj-0 jgzaFk a Headerstyles__Logo-sc-v612yz-2 ilTZoM Habitat Logo - Load homepage div Headerstyles__Main-sc-v612yz-1 fgdioz div Headerstyles__Header-sc-v612yz-0 cysqwg",
+      "content_type": "image/png",
+      "bytes": 11909,
+      "sha256": "59b666d0e614133279b211219640c17fcfd99599e84d028d428164c7e8370516",
+      "width": 140,
+      "height": 32
+    }
+  ]
+}

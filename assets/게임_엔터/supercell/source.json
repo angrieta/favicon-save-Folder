@@ -1,0 +1,106 @@
+{
+  "company": "Supercell",
+  "category": "게임_엔터",
+  "requested_url": "https://supercell.com/en/",
+  "page_url": "https://supercell.com/en/",
+  "page_title": "Supercell",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://supercell.com/images/f74c9dadcda12c643c4b68a4e8697e4c/1281/Dev_Grants_Web_Thumbnail.webp; reference:ValueError:https://supercell.com/images/f74c9dadcda12c643c4b68a4e8697e4c/Dev_Grants_Web_Thumbnail.webp; reference:ValueError:https://supercell.com/images/3aef8ab47954d864c2f9158c46b33e26/790/CoC_WC_Website_Image.webp; reference:ValueError:https://supercell.com/images/3aef8ab47954d864c2f9158c46b33e26/1050/CoC_WC_Website_Image.webp; reference:ValueError:https://supercell.com/images/3aef8ab47954d864c2f9158c46b33e26/1281/CoC_WC_Website_Image.webp; reference:ValueError:https://supercell.com/images/3aef8ab47954d864c2f9158c46b33e26/CoC_WC_Website_Image.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/supercell/favicon.ico",
+      "source_url": "https://supercell.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 7406,
+      "sha256": "01d921f6bfe0170d7f0e2ae3acb124feebe91ecb0afe86d0ec1b9055c7ec8521",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/supercell/og.webp",
+      "source_url": "https://supercell.com/_next/static/media/og_default.397a54a5.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 67844,
+      "sha256": "88198e7979eefb9f38402324a950b423f0ded7fc7898c822a5cc54e033cd907b",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/supercell/logo-1.png",
+      "source_url": "https://supercell.com/_next/static/media/supercell_logo.e02d3635.png",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a header header Header_header__CaCA9 div __next body",
+      "content_type": "image/png",
+      "bytes": 2001,
+      "sha256": "89d3f1494e69506b6c3bf9d83751245f50c474d05d89c9d3f5f322d908bab44b",
+      "width": 121,
+      "height": 98
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/supercell/banner-1.webp",
+      "source_url": "https://supercell.com/_next/static/media/frontpage_hero.432a4c16.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div HeroImage_heroContainer__ou_zO HeroImage_mobile__nJ35c HeroImage_desktop__Zr37m main main div __next body",
+      "content_type": "image/webp",
+      "bytes": 85662,
+      "sha256": "a8009674aa797e2f123ff459544a86084916f84a4bb47c6608408b7ac6fd93d8",
+      "width": 1800,
+      "height": 778
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/supercell/banner-2.webp",
+      "source_url": "https://supercell.com/images/0dc983e6dc85b8d235085beea8dd11b0/Clash_x_WWE_-_Hero_image_2.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div Grid_full-8__23bPT Grid_large-4__s_qaN Grid_medium-4__f_D9E Grid_small-4__9SBjG Grid_mobile-6__Cl_i4 articleGridList_thumbnailContainer__fMDI_ div Grid_rowContainer__RAVMO div news articleGridList_row__EFAwB Grid_row__vmKY1 main",
+      "content_type": "image/webp",
+      "bytes": 109134,
+      "sha256": "8d80121b9aeab0cab80bd922e32a8770d33522c344f8e6344c3390f9339f56d3",
+      "width": 1600,
+      "height": 1206,
+      "source_sha256": "bf152c7f70efec7c2870a39313b5bb70eaa237b2f2dd8e540c2c0555964d931e"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/supercell/reference-1.webp",
+      "source_url": "https://supercell.com/_next/static/media/frontpage_hero_mobile.c5d81055.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div HeroImage_heroContainer__ou_zO HeroImage_mobile__nJ35c HeroImage_desktop__Zr37m main main div __next body",
+      "content_type": "image/webp",
+      "bytes": 82506,
+      "sha256": "7b3f2a89a7959173ad3dadb895835321190d80e051b94bed228137780af72ae9",
+      "width": 986,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/supercell/reference-2.webp",
+      "source_url": "https://supercell.com/images/f74c9dadcda12c643c4b68a4e8697e4c/Dev_Grants_Web_Thumbnail.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div Grid_full-8__23bPT Grid_large-4__s_qaN Grid_medium-4__f_D9E Grid_small-4__9SBjG Grid_mobile-6__Cl_i4 articleGridList_thumbnailContainer__fMDI_ div Grid_rowContainer__RAVMO div news articleGridList_row__EFAwB Grid_row__vmKY1 main",
+      "content_type": "image/webp",
+      "bytes": 55458,
+      "sha256": "eaf8ed6d521fef1d105ea95d740b9fcd254e5822be6536ac5958d63b47aa6473",
+      "width": 1500,
+      "height": 1130
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/supercell/reference-3.webp",
+      "source_url": "https://supercell.com/images/3aef8ab47954d864c2f9158c46b33e26/CoC_WC_Website_Image.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div Grid_full-8__23bPT Grid_large-4__s_qaN Grid_medium-4__f_D9E Grid_small-4__9SBjG Grid_mobile-6__Cl_i4 articleGridList_thumbnailContainer__fMDI_ div Grid_rowContainer__RAVMO div news articleGridList_row__EFAwB Grid_row__vmKY1 main",
+      "content_type": "image/webp",
+      "bytes": 100312,
+      "sha256": "4a413281904acccda424514583a20584dac942efc3a3051ebc79b461fdf8e4d2",
+      "width": 1500,
+      "height": 1130
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "company": "Immersive Garden",
+  "category": "디자인_에이전시",
+  "requested_url": "https://immersive-g.com",
+  "page_url": "https://immersive-g.com/",
+  "page_title": "Immersive Garden",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://immersive-g.com/_payload.json; reference:ValueError:https://immersive-g.com/assets/entry.DyxL_KXi.js; reference:ValueError:https://immersive-g.com/assets/default.CxpTjDRZ.js; reference:ValueError:https://immersive-g.com/assets/BasicButton.D91CLqAw.js; reference:ValueError:https://immersive-g.com/assets/useTimeRaf.CEtG5dZ4.js; reference:ValueError:https://immersive-g.com/assets/index.D4TZz6rT.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/immersive-garden/favicon.png",
+      "source_url": "https://immersive-g.com/images/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3100,
+      "sha256": "37310d90aa3714f5d5d78055f7bdb8cf632b814b85b9828e9108bcd051c6f384",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/immersive-garden/og.webp",
+      "source_url": "https://immersive-g.com/images/share/immersive-garden.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4034,
+      "sha256": "ef888a238c6eeab58368de1c444ec0ce1c5645725862151c2e05355a2e79c605",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/immersive-garden/reference-1.webp",
+      "source_url": "https://ig-medias-prod.ams3.digitaloceanspaces.com/small_Chartogne_03_7476a61852.jpg",
+      "source_tag": "img:page-image",
+      "context": "img mediaBlock__image image width__5 position__2 offsetY__center offsetX__inherit div gridWrapper padding mediaBlock__grid div mediaBlock hasTouch section projectBlock div page__wrapper",
+      "content_type": "image/webp",
+      "bytes": 21218,
+      "sha256": "a1673ce006099af124adfac922dcb4b489dbdd72acc72e3a8b05dc02cfce78ed",
+      "width": 500,
+      "height": 281
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/immersive-garden/reference-2.webp",
+      "source_url": "https://ig-medias-prod.ams3.digitaloceanspaces.com/small_Masar_02_v2_48e6a8c72c.jpg",
+      "source_tag": "img:page-image",
+      "context": "img mediaBlock__image image width__5 position__3 offsetY__center offsetX__inherit div gridWrapper padding mediaBlock__grid div mediaBlock hasTouch section projectBlock div page__wrapper",
+      "content_type": "image/webp",
+      "bytes": 20290,
+      "sha256": "261e7b86bcc946eca77c4a2a821d91159a43da86da1ec160db096e55e327f640",
+      "width": 900,
+      "height": 507
+    }
+  ]
+}

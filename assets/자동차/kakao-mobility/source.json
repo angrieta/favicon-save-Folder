@@ -1,0 +1,72 @@
+{
+  "company": "카카오모빌리티",
+  "category": "자동차",
+  "requested_url": "https://www.kakaomobility.com/",
+  "page_url": "https://www.kakaomobility.com/",
+  "page_title": "카카오모빌리티",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://t1.kakaocdn.net/kakaomobility/company_website/contents/v2/0-main-1.mp4; reference:ValueError:https://t1.kakaocdn.net/kakaomobility/company_website/contents/v2/0-main-1-m.mp4; reference:ValueError:https://t1.kakaocdn.net/kakaomobility/company_website/contents/v2/0-main-6.mp4; reference:ValueError:https://t1.kakaocdn.net/kakaomobility/company_website/contents/v2/0-main-2.mp4; reference:ValueError:https://t1.kakaocdn.net/kakaomobility/company_website/contents/v2/0-main-6-m.mp4; reference:ValueError:https://t1.kakaocdn.net/kakaomobility/company_website/contents/v2/0-main-3.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/kakao-mobility/favicon.png",
+      "source_url": "https://www.kakaomobility.com/favicon-32x32.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 632,
+      "sha256": "832dc66499d1bd2c52801780e626a023c43b4e5f816b54b9a2ae6410823b41af",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/kakao-mobility/og.webp",
+      "source_url": "https://www.kakaomobility.com/opengraph.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8506,
+      "sha256": "b180e677e27d04386a4fd9db761205bd4ca5c68cd87bb0a8d1dd77056da554cb",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/kakao-mobility/reference-1.webp",
+      "source_url": "https://t1.kakaocdn.net/kakaomobility/company_website/contents/v2/0-main-6.jpg",
+      "source_tag": "img:page-image",
+      "context": "img css-1cbp9xl e1hkc942 video css-1cbp9xl e1hkc942 div e1hkc941 css-19f2a3k e5s1po70 div css-kdwx3d e1hkc940 div main-content css-3ugvue erdgzbz2",
+      "content_type": "image/webp",
+      "bytes": 67194,
+      "sha256": "bfc68a190561bb64c38001c538796eb4197861d68e9247168da35d7c9861a437",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "d789f549b8b912e6c3151c5f517d3097fa4f3ce3a1ac5c8ecf4d6c4357f1366d"
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/kakao-mobility/reference-2.webp",
+      "source_url": "https://t1.kakaocdn.net/kakaomobility/company_website/contents/v2/0-main-2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img css-fjakwv e16fvbiy1 video css-fjakwv e16fvbiy1 div css-huudwp e1e0vdip0 div css-ebkvje e16fvbiy0 div css-vlrqoo e8cu4c33",
+      "content_type": "image/webp",
+      "bytes": 139474,
+      "sha256": "7f3e30924f1e44883daa44738460c3c67a769142934c6415ddadfba0c1ba905f",
+      "width": 1600,
+      "height": 845,
+      "source_sha256": "a20670b2b3adc24190c7637b61ef559cd39f01eeb290ff0f9db07010b72dea2d"
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/kakao-mobility/reference-3.webp",
+      "source_url": "https://t1.kakaocdn.net/kakaomobility/company_website/contents/v2/0-main-3.jpg",
+      "source_tag": "img:page-image",
+      "context": "img css-fjakwv e16fvbiy1 video css-fjakwv e16fvbiy1 div css-huudwp e1e0vdip0 div css-ebkvje e16fvbiy0 div css-rhdt7a e8cu4c33",
+      "content_type": "image/webp",
+      "bytes": 43586,
+      "sha256": "679e858489b84582a55bdf1a11cbfc148f8a4f29f483595e9c0432eaf9dcb929",
+      "width": 1600,
+      "height": 845,
+      "source_sha256": "46824eafee3d334f171fefd04b2355802702d89ea2e0240af0f307861832180e"
+    }
+  ]
+}

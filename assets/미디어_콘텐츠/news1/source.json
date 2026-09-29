@@ -1,0 +1,93 @@
+{
+  "company": "뉴스1",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.news1.kr/",
+  "page_url": "https://www.news1.kr/",
+  "page_title": "뉴스1",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/news1/favicon.png",
+      "source_url": "https://image.news1.kr/system/resource/news1_www/renew/favicon-192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2276,
+      "sha256": "1f3b3c892659affab2a06e71a847b25e8f9769edfbfbf37bfb4606df8181eb48",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/news1/og.webp",
+      "source_url": "https://image.news1.kr/system/resource/news1_www/images/common/logo_news1_1200x630.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5526,
+      "sha256": "8c71e8b2c44b87bac5669dac1d9a61359c81f12c7241b654282621d6bd426a01",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/news1/logo-1.webp",
+      "source_url": "https://image.news1.kr/system/resource/news1_m/1/images/common/logo_news1_1200x630.jpg",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 7630,
+      "sha256": "809ad1c73637274c1e02667be6966c1ceaff23fae6e3735997bb600b47100917",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/news1/logo-2.png",
+      "source_url": "https://nk.news1.kr/res/img/nk_top_logo_2024.png",
+      "source_tag": "json-ld.subOrganization[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 3947,
+      "sha256": "8a1be7ccc98cc5755c338b00d4f6f098cea6e7c16599230875ae67e5b2e0c58c",
+      "width": 251,
+      "height": 53
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/news1/reference-1.webp",
+      "source_url": "https://www.news1.kr/_next/image?url=https%3A%2F%2Fi3n.news1.kr%2Fsystem%2Fphotos%2F2026%2F9%2F29%2F8133116%2Foriginal.jpg%2Fdims%2Fcrop%2F478x299%2B0%2B0%2Fresize%2F607x&w=1920&q=75",
+      "source_tag": "img:page-image",
+      "context": "img img-fluid DMZ 지뢰 폭발 현장조사 종료…국과수 감정 후 최종 결론 a div col-8 div row mt-20 div col border-lg-right-both-side3",
+      "content_type": "image/webp",
+      "bytes": 34226,
+      "sha256": "457a8363928c8d06f1cd136333b4ef1c5f77fdec0c0466a77083956bd0cf183f",
+      "width": 607,
+      "height": 380
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/news1/reference-2.webp",
+      "source_url": "https://www.news1.kr/_next/image?url=https%3A%2F%2Fimage.news1.kr%2Fsystem%2Fphotos%2F2026%2F9%2F29%2F8131149%2Fno_water.jpg%2Fdims%2Fcrop%2F560x280%2B0%2B5%2Fresize%2F600x&w=1920&q=75",
+      "source_tag": "img:page-image",
+      "context": "img img-fluid 李 \"명절 할인비 1조, 미래대응기금에서\"…靑 \"민생예산 활용하란 취지\" a div col-12 mb-5 div row div col-4",
+      "content_type": "image/webp",
+      "bytes": 16826,
+      "sha256": "57bdc4d822f1a181fefb49d129a00fd691d96f618f6e73b3be23064c7dfb0005",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/news1/reference-3.webp",
+      "source_url": "https://www.news1.kr/_next/image?url=https%3A%2F%2Fimage.news1.kr%2Fsystem%2Fphotos%2F2026%2F9%2F29%2F8132155%2Fno_water.jpg%2Fdims%2Fcrop%2F560x280%2B0%2B5%2Fresize%2F600x&w=1920&q=75",
+      "source_tag": "img:page-image",
+      "context": "img img-fluid '공소청 첫 인사' 초대 중대범죄부장에 박진성…박철우 유임 a div col-12 mb-5 div row div col-4",
+      "content_type": "image/webp",
+      "bytes": 28834,
+      "sha256": "179c86320701dcf75f817b2b85c40ec77be7cd2481b98250213dc3f36f388a80",
+      "width": 600,
+      "height": 300
+    }
+  ]
+}

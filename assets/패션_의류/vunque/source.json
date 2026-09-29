@@ -1,0 +1,45 @@
+{
+  "company": "분크",
+  "category": "패션_의류",
+  "requested_url": "https://www.vunque.com",
+  "page_url": "https://www.vunque.com/",
+  "page_title": "vunque(분크)",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://www.vunque.com/%7B%24js-src%7D; reference:HTTPError:https://www.vunque.com/%7B%24js-src%7D; reference:ValueError:https://www.facebook.com/tr?id=358121505154224&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/vunque/favicon.ico",
+      "source_url": "https://www.vunque.com/web/upload/favicon-e17ba5f0b8c818a738b9023372381293.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 270398,
+      "sha256": "556176fab2886f4f7e3cef28f7cd36107a685baaa58d4463ad15b868c162573a",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/vunque/og.webp",
+      "source_url": "https://www.vunque.com/web/upload/share-image-1-894450dc53e71634651a7f10a9348e72.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11576,
+      "sha256": "e2bdae3fe568e458bd5d63e0f049741555e091b09f185e9be250be7de4b1799b",
+      "width": 360,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/vunque/logo-1.png",
+      "source_url": "https://www.vunque.com/web/upload/_db/SkinImg/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img vunque a h1 xans-element- xans-layout xans-layout-logotop -logo div headerA div header header dbFix",
+      "content_type": "image/png",
+      "bytes": 6015,
+      "sha256": "3132d6831baed57179ae873848eccd905836db5a6f775edcd1cfb96b3248d3f9",
+      "width": 269,
+      "height": 60
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "company": "인벤",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.inven.co.kr/",
+  "page_url": "https://www.inven.co.kr/",
+  "page_title": "인벤 - No.1 게임 미디어 플랫폼",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/inven/favicon.png",
+      "source_url": "https://static.inven.co.kr/image_2011/favicon_192x192.png?v=2",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 668,
+      "sha256": "8c5c1eb34d93292d81003d04aad1aaf246ff9a8b80991af0c6b6ad0b84d73e94",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/inven/og.webp",
+      "source_url": "https://static.inven.co.kr/image_2011/webzine/logo/inven_logo_600x340.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3074,
+      "sha256": "7ea7714752acd54c23d7ff039a09a12d0c15a5fd591bdd3f04630d1cbe14afa2",
+      "width": 600,
+      "height": 340
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/inven/logo-1.png",
+      "source_url": "https://static.inven.co.kr/image_2011/webzine/logo/inven_logo_500x500.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 5072,
+      "sha256": "6727137b54523c9610e98e50fd9bcea415725ee5113652de5d37c0e24e0efe47",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/inven/logo-2.png",
+      "source_url": "https://static.inven.co.kr/image_2011/webzine/logo/inven_logo_600x200.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 4868,
+      "sha256": "86b2427bd1f117e32d4be5c8dd649739968cf88b34b8123a0313abeaef6708e6",
+      "width": 600,
+      "height": 200
+    }
+  ]
+}

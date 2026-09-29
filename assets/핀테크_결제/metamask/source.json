@@ -1,0 +1,69 @@
+{
+  "company": "MetaMask",
+  "category": "핀테크_결제",
+  "requested_url": "https://metamask.io/",
+  "page_url": "https://metamask.io/ko",
+  "page_title": "MetaMask(메타마스크) 암호화폐 지갑. 비트코인, 이더리움, 솔라나 매수 및 매도",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://metamask.io/assets/video/home.webm; banner:ValueError:https://metamask.io/assets/video/home.mp4; reference:ValueError:https://metamask.io/assets/video/home.webm; reference:ValueError:https://metamask.io/assets/video/home.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/metamask/favicon.png",
+      "source_url": "https://metamask.io/favicons/default/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5811,
+      "sha256": "330f6b7ceffa3b6d13dde31109aa2d4f714bd5f7789884f2d46ba70412456bc4",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/metamask/og.webp",
+      "source_url": "https://images.ctfassets.net/clixtyxoaeas/7Bth2z7E82BB90X6C3YG7m/1b55ccc09d30edb0e55b651d64d643b8/MM_Website_%C3%A2__%C3%82_New_Share_Image_%C3%A2___Homepage.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 15594,
+      "sha256": "aaa360136a6a55beb340d20990935c5e8a5d54585f12e4984c632a39122dd124",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/metamask/reference-1.webp",
+      "source_url": "https://images.ctfassets.net/clixtyxoaeas/1nXc3mt9O7ckhTpLfLWDTy/629e5d4e36c7b5ad40f6931ccafd1fc7/Trade.png?w=2048&q=75&fm=avif",
+      "source_tag": "img:page-image",
+      "context": "img image_image__8Dkn5 figure image_image-wrapper__TuZgi div card-features_trade-money-card-holder__W_p9A div card-features_card-right-column__fq4Gu div card-features_card-content__y2mDq",
+      "content_type": "image/webp",
+      "bytes": 22762,
+      "sha256": "6506a9462ed88f552dfddce645b78ecbcd4175a61eeb01c8c73bdc9d0cd5fcab",
+      "width": 464,
+      "height": 1002
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/metamask/reference-2.webp",
+      "source_url": "https://images.ctfassets.net/clixtyxoaeas/6XWK9r2JwgLt5s9luO9o3E/ea66027d29473cae1c61cca624641984/money-nav.png?w=2048&q=75&fm=avif",
+      "source_tag": "img:page-image",
+      "context": "img image_image__8Dkn5 figure image_image-wrapper__TuZgi div card-features_trade-money-card-holder__W_p9A div card-features_card-right-column__fq4Gu div card-features_card-content__y2mDq",
+      "content_type": "image/webp",
+      "bytes": 23712,
+      "sha256": "a9b1b1eb7320e6d31796b2d66826c043c3f70ce5a73ee2d19ce7f776a0987881",
+      "width": 464,
+      "height": 1002
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/metamask/reference-3.svg",
+      "source_url": "https://metamask.io/assets/images/fox/default.svg",
+      "source_tag": "img:page-image",
+      "context": "img image_image__8Dkn5 figure image_image-wrapper__TuZgi div card-features_musd-fox__7AGJd div card-features_front__tfaqW div card-features_musd-coin__rAV3l",
+      "content_type": "image/svg+xml",
+      "bytes": 2238,
+      "sha256": "29cc0de72ef8f43bf72cae24ee28f59028e70f4ef6b1ba1388fa62c4dbc548e3",
+      "width": 1000,
+      "height": 1000
+    }
+  ]
+}

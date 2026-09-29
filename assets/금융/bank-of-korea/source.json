@@ -1,0 +1,93 @@
+{
+  "company": "한국은행",
+  "category": "금융",
+  "requested_url": "https://www.bok.or.kr/",
+  "page_url": "https://www.bok.or.kr/portal/main/main.do",
+  "page_title": "한국은행",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/bank-of-korea/favicon.png",
+      "source_url": "https://static-cdn.bok.or.kr/static/portal/img/common/touch-icon.jpg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 30884,
+      "sha256": "238546cf1273db0387210d06f5bf77f88c3e9dd91d46583c68f1805c8681b485",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/bank-of-korea/og.webp",
+      "source_url": "https://static-cdn.bok.or.kr/static/portal/img/main/bokOgImg.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13182,
+      "sha256": "90a8e2b366cc159f3c1779c161a3845e863642de9678280cdcd432a2e340d9b0",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/bank-of-korea/banner-1.webp",
+      "source_url": "https://media-cdn.bok.or.kr/4d0a0e806e3ac090865cc6cc550f696b523649b92a7b97b9e6c329c631d77886/0b5475597a78e8ed628da60cdb48cebdc229924853f2c1019d02d18fd1f84f1c54ef47f17be083a72adbfab973dda727/thumbFile.png",
+      "source_tag": "inline-background-image",
+      "context": "span  img-visual img-pc background-image:url(https://media-cdn.bok.or.kr/4d0a0e806e3ac090865cc6cc550f696b523649b92a7b97b9e6c329c631d77886/0b5475597a78e8ed628da60cdb48cebdc229924853f2c1019d02d18fd1f84f1c54ef47f17be083a72adbfab973dda727/thumb",
+      "content_type": "image/webp",
+      "bytes": 174364,
+      "sha256": "4e82171904f708ac18c33efc21b858713d4b3068c31a33b73f2d8e6db9fbf36d",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/bank-of-korea/banner-2.webp",
+      "source_url": "https://media-cdn.bok.or.kr/4d0a0e806e3ac090865cc6cc550f696b52e0595b689478c12d1349dd2eda1f08/313fc60f0ce8af86d3f5e4d9a092bee5bbce208b7da1969b912bd40b50049c7854ef47f17be083a72adbfab973dda727/thumbFile.png",
+      "source_tag": "inline-background-image",
+      "context": "span  img-visual img-pc background-image:url(https://media-cdn.bok.or.kr/4d0a0e806e3ac090865cc6cc550f696b52e0595b689478c12d1349dd2eda1f08/313fc60f0ce8af86d3f5e4d9a092bee5bbce208b7da1969b912bd40b50049c7854ef47f17be083a72adbfab973dda727/thumb",
+      "content_type": "image/webp",
+      "bytes": 11528,
+      "sha256": "48f555cf8a3d2528d3cfd90de7b53b0ab2f45ed1c713e6360297408e87146709",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/bank-of-korea/reference-1.webp",
+      "source_url": "https://media-cdn.bok.or.kr/4d0a0e806e3ac090865cc6cc550f696b523649b92a7b97b9e6c329c631d77886/9bf5845340a2e248eec463d2de2916e9fa6fdf7b9a05aafba885110f6afdaa8854ef47f17be083a72adbfab973dda727/thumbFile.png",
+      "source_tag": "inline-background-image",
+      "context": "span  img-visual img-mobile background-image:url(https://media-cdn.bok.or.kr/4d0a0e806e3ac090865cc6cc550f696b523649b92a7b97b9e6c329c631d77886/9bf5845340a2e248eec463d2de2916e9fa6fdf7b9a05aafba885110f6afdaa8854ef47f17be083a72adbfab973dda727/t",
+      "content_type": "image/webp",
+      "bytes": 99302,
+      "sha256": "cab9e77dce9f8af8348a56ff73b812d0110440ad67615b05838161e9c40d5795",
+      "width": 607,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/bank-of-korea/reference-2.webp",
+      "source_url": "https://media-cdn.bok.or.kr/4d0a0e806e3ac090865cc6cc550f696b52e0595b689478c12d1349dd2eda1f08/e21d3dfcdecdfc9d4e2ce382cb96202a0f7843b80410c31ed958e3b42fe8a73754ef47f17be083a72adbfab973dda727/thumbFile.png",
+      "source_tag": "inline-background-image",
+      "context": "span  img-visual img-mobile background-image:url(https://media-cdn.bok.or.kr/4d0a0e806e3ac090865cc6cc550f696b52e0595b689478c12d1349dd2eda1f08/e21d3dfcdecdfc9d4e2ce382cb96202a0f7843b80410c31ed958e3b42fe8a73754ef47f17be083a72adbfab973dda727/t",
+      "content_type": "image/webp",
+      "bytes": 7326,
+      "sha256": "92256e54e20a071a969c06ab5fa17ae023a7226debf544a686b589faebc5bb51",
+      "width": 607,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/bank-of-korea/reference-3.webp",
+      "source_url": "https://media-cdn.bok.or.kr/be1496965e9a34db4c14e75f8fe9587ea089c1d95a24ba8a6df8e7cfc9c42a5c/26a8f9ce8dc7df99d770a2123216f0f2f3ef6da9f5f37b769f0a808ff67df5b154ef47f17be083a72adbfab973dda727/thumbFile.",
+      "source_tag": "inline-background-image",
+      "context": "span  img background-image: url(https://media-cdn.bok.or.kr/be1496965e9a34db4c14e75f8fe9587ea089c1d95a24ba8a6df8e7cfc9c42a5c/26a8f9ce8dc7df99d770a2123216f0f2f3ef6da9f5f37b769f0a808ff67df5b154ef47f17be083a72adbfab973dda727/thumbFile.);",
+      "content_type": "image/webp",
+      "bytes": 15492,
+      "sha256": "5507c693155ed102b39f674d3da87afa1c68e77fc9ad12fff73fd87259d3fa20",
+      "width": 560,
+      "height": 345
+    }
+  ]
+}

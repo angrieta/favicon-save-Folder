@@ -1,0 +1,106 @@
+{
+  "company": "Headspace",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.headspace.com",
+  "page_url": "https://www.headspace.com/",
+  "page_title": "Mental Health App for Meditation & Sleep - Headspace",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://static.headspace.com/fonts/apercu-v1.002/HeadspaceApercu-Bold.woff2; reference:ValueError:https://static.headspace.com/fonts/apercu-v1.002/HeadspaceApercu-BoldItalic.woff2; reference:HTTPError:https://static.headspace.com/fonts/apercu/apercu_mono_pro_bold.woff2; reference:HTTPError:https://static.headspace.com/fonts/apercu/apercu_mono_pro_light.woff2; reference:HTTPError:https://static.headspace.com/fonts/apercu/apercu_mono_pro_medium.woff2; reference:HTTPError:https://static.headspace.com/fonts/apercu/apercu_mono_pro_regular.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/headspace/favicon.ico",
+      "source_url": "https://www.headspace.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "1070247e775c71cf7d3ca5de77dade46e7cd9b71358c7e170444cea874877816",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/headspace/og.webp",
+      "source_url": "https://images.ctfassets.net/v3n26e09qg2r/4NcF0eXixKLYQFKIQ0pXWV/802a953e11a4f70ef3c5aaf8df27dbfc/Headspace_Opengraph.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 22190,
+      "sha256": "beceaac8479e4ca9e25ea05ccad0a2403d5502d52fdad56f42cb8a453b1f5cca",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/headspace/logo-1.svg",
+      "source_url": "https://images.ctfassets.net/v3n26e09qg2r/64mSWkeWKMrDAwmTViOdmS/ec6d493260ff34b5a6205be6aec2a485/Logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img css-wru0te Headspace Logo a css-kq5vqx div css-1euzfgj header navbar-header-header css-75xqdg div navbar-header css-79elbk",
+      "content_type": "image/svg+xml",
+      "bytes": 537,
+      "sha256": "104109cbb721160670fb1b7d8b5d9e15d16857c54529b2d1e2e28a882e5c7d31",
+      "width": 32,
+      "height": 32,
+      "source_sha256": "ad82bd9bb78e3f11b4632d052935071d3eaf84e9d0744bfc4f858de913bd1473"
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/headspace/banner-1.webp",
+      "source_url": "https://headspace-contentful.imgix.net/2pcwdm6O0Kt0rq19lLLCDC/624cec6f5e77f9d7e0d5de6f02c437b5/desktop_hero_1_june5_2x__1__copy.png?ixlib=js-3.8.0&auto=format%2Ccompress",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div css-12auco2 div css-37k3ha div css-lvi47o div css-gd0lmb",
+      "content_type": "image/webp",
+      "bytes": 48958,
+      "sha256": "354f69e7e431e7c722bbd379fb13f8bed817cba9b0192b0b400f0a491837753b",
+      "width": 1266,
+      "height": 620
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/headspace/banner-2.webp",
+      "source_url": "https://headspace-contentful.imgix.net/knWuaYQdTnPg6o6VPtH1K/a0e32e013ebad294eb678f92334eba49/mobile_hero_1_june5_2x__1_.webp?ixlib=js-3.8.0&auto=format%2Ccompress",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div css-12auco2 div css-37k3ha div css-lvi47o div css-gd0lmb",
+      "content_type": "image/webp",
+      "bytes": 22742,
+      "sha256": "217ace3459379db372433d86add05595edb4c6d64e4f314288381ca3c18f40d3",
+      "width": 652,
+      "height": 466
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/headspace/reference-1.webp",
+      "source_url": "https://headspace-contentful.imgix.net/5Mvq9tLGfNllvbLYAvpxW3/7e50e746e34d6fbfcdffb15caa86b126/nav-l.webp?ixlib=js-3.8.0&w=1920&auto=format%2Ccompress&fit=max",
+      "source_tag": "img:page-image",
+      "context": "img homepagenav div css-398tfd div css-1gr7t27 div css-bm4lwm a css-rlwou3",
+      "content_type": "image/webp",
+      "bytes": 24248,
+      "sha256": "8b81bcec3d82746323eb1d6af2878dd54abbe5812f261e115433b4cb603d09c1",
+      "width": 843,
+      "height": 639
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/headspace/reference-2.webp",
+      "source_url": "https://headspace-contentful.imgix.net/5Mvq9tLGfNllvbLYAvpxW3/7e50e746e34d6fbfcdffb15caa86b126/nav-l.webp?ixlib=js-3.8.0&w=1080&auto=format%2Ccompress&fit=max",
+      "source_tag": "img:page-image",
+      "context": "img homepagenav div css-398tfd div css-1gr7t27 div css-bm4lwm a css-rlwou3",
+      "content_type": "image/webp",
+      "bytes": 24226,
+      "sha256": "7cd6372e834ee23061f77af29fa056f2b174a7c34d08f6a71b58dc44424e42f2",
+      "width": 843,
+      "height": 639
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/headspace/reference-3.webp",
+      "source_url": "https://headspace-contentful.imgix.net/2KFGacky3sZXtt8KLYJgN6/109838d936853779a57a116f0ff2b4ca/desktop_hero_2_june5_2x__1__copy.png?ixlib=js-3.8.0&auto=format%2Ccompress",
+      "source_tag": "picture:page-image",
+      "context": "picture div css-12auco2 div css-37k3ha div css-lvi47o div css-gd0lmb",
+      "content_type": "image/webp",
+      "bytes": 39214,
+      "sha256": "7d71fab0e4a4a762acd094a8b59a957c66fcf8cfd5cf6eb8a23fa1212085e8e0",
+      "width": 720,
+      "height": 607
+    }
+  ]
+}

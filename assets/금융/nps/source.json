@@ -1,0 +1,58 @@
+{
+  "company": "국민연금공단",
+  "category": "금융",
+  "requested_url": "https://www.nps.or.kr/",
+  "page_url": "https://www.nps.or.kr/gate.do",
+  "page_title": "국민연금공단",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/nps/favicon.png",
+      "source_url": "https://www.nps.or.kr/images/common/apple_touch_icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9672,
+      "sha256": "0cac3b73b54ceb8c9653bcd3aa3b52a96bc02447e50e22a2a7280b3ec2b06a15",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/nps/logo-1.svg",
+      "source_url": "https://www.nps.or.kr/images/contents/bg_desc_w.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div ci-logo div gate-wrap body gate html",
+      "content_type": "image/svg+xml",
+      "bytes": 771,
+      "sha256": "b2a5a9f09905fa9de4a22bbb2cfea101f13c5cdec19d5f8b8029ae55a024f510",
+      "width": 495,
+      "height": 76
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/nps/reference-1.webp",
+      "source_url": "https://www.nps.or.kr/images/gate/gate_day_low.jpg",
+      "source_tag": "img:page-image",
+      "context": "img morning-bg div gate-bg div gate-wrap body gate html",
+      "content_type": "image/webp",
+      "bytes": 176086,
+      "sha256": "b528bea412a5037854153191e2d7c761532953304f3174ecb8d236bc7b0af2b7",
+      "width": 1800,
+      "height": 945
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/nps/reference-2.webp",
+      "source_url": "https://www.nps.or.kr/images/gate/gate_night-v1_low.jpg",
+      "source_tag": "img:page-image",
+      "context": "img night-bg div gate-bg div gate-wrap body gate html",
+      "content_type": "image/webp",
+      "bytes": 104792,
+      "sha256": "f3ad93f622c14565880ab5503dee2e424caf226735fafea3b65158cd1fbaa848",
+      "width": 1800,
+      "height": 942
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "company": "Mori Art Museum",
+  "category": "문화_공공",
+  "requested_url": "https://www.mori.art.museum",
+  "page_url": "https://www.mori.art.museum/jp/",
+  "page_title": "森美術館 - MORI ART MUSEUM",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=508869619296543&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/mori-art-museum/favicon.ico",
+      "source_url": "https://www.mori.art.museum/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "aa813255232fcf9cf7f4b4ff9ad678527d56ddaf187ac97484c4bf9c82dcdf02",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/mori-art-museum/og.webp",
+      "source_url": "http://www.mori.art.museum/common/img/share.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14556,
+      "sha256": "c747992ca60acc08093a68afdb1c281ae9f5fa1602cd33dc642d6e1d1129a934",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/mori-art-museum/logo-1.svg",
+      "source_url": "https://www.mori.art.museum/jp/common/img/mam_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img MORI ART MUSEUM　森美術館 div top-header_logo div top-header spOnly div global-wrapper body mamIndex cautionInfo",
+      "content_type": "image/svg+xml",
+      "bytes": 18221,
+      "sha256": "728f218715ec65c4c5e5015a13aa20b48bd52d3660bbeb14486714e9f54fc597",
+      "width": 160,
+      "height": 160,
+      "source_sha256": "9626542d9bce3016ad97a1c0050c2a757ab532e9c2b47cc8bffbc8817bffba15"
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/mori-art-museum/logo-2.svg",
+      "source_url": "https://www.mori.art.museum/jp/common/img/mam_logo_small.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img spOnly MORI ART MUSEUM　森美術館 a h1 mam_logo header global-header div global-wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 17235,
+      "sha256": "9c10dcd4b06eb1825a74517126135ce0bac8854860cad9e24769a6d8f8fc2827",
+      "width": 176,
+      "height": 32,
+      "source_sha256": "0af783ce2699c6064af451bbfc1ca8328e4b3c38eb511181ebf2582aec1ae303"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "company": "SXSW",
+  "category": "문화_공공",
+  "requested_url": "https://www.sxsw.com",
+  "page_url": "https://sxsw.com/",
+  "page_title": "Homepage - SXSW",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://videos.files.wordpress.com/1SOxIbkI/website_mobile_arrowloop_onblack_aug2027.mp4; banner:ValueError:https://videos.files.wordpress.com/dtAFkazw/website_lettersloop_nokeyart_onblack_1434x397.mp4; reference:ValueError:https://videos.files.wordpress.com/1SOxIbkI/website_mobile_arrowloop_onblack_aug2027.mp4; reference:ValueError:https://videos.files.wordpress.com/dtAFkazw/website_lettersloop_nokeyart_onblack_1434x397.mp4; reference:HTTPError:https://sxsw.com/1365",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/sxsw/favicon.png",
+      "source_url": "https://sxsw.com/wp-content/uploads/sites/2/2026/07/cropped-Path.png?quality=99&w=192",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2690,
+      "sha256": "36abe486a603ef197f45baca39dec73342bcb49d4aa0cc342031d9727bd8a764",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/sxsw/og.webp",
+      "source_url": "https://sxsw.com/wp-content/uploads/sites/2/2026/08/27_SXSW_og-image.png?quality=99",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 100180,
+      "sha256": "fd247c301b795f6bdac7cbd23089d233efcbbaf218a13250c781ef062825ce61",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/sxsw/logo-1.svg",
+      "source_url": "https://sxsw.com/wp-content/uploads/sites/2/2026/08/3d_Logo_Refined_by_KQ-1-1.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture sxsw-lockup__original div sxsw-lockup SXSW div sxsw-hero__lockup order-2 w-full div sxsw-hero__stack relative mx-auto flex w-full max-w-[var(--wp--style--global--wide-size)] flex-col items-center gap-8 md:gap-12 section sxsw-hero sx",
+      "content_type": "image/svg+xml",
+      "bytes": 256339,
+      "sha256": "6a4940894327830c0f5e3494bdf554eca79e6e53efb9e83336340cb72768b1d4",
+      "width": 1434,
+      "height": 398,
+      "source_sha256": "6fe9e29ef599bae3fdb59ce4940449596344774dd04c6024a5879061dfe1bf04"
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/sxsw/logo-2.svg",
+      "source_url": "https://sxsw.com/wp-content/uploads/sites/2/2026/08/sxsw-logo.svg?quality=99",
+      "source_tag": "img:semantic-logo",
+      "context": "img wp-image-1402 figure wp-block-image size-full is-resized div wp-block-group sxsw-footer__left is-vertical is-content-justification-left is-layout-flex wp-container-core-group-is-layout-a7aedfca wp-block-group-is-layout-flex div wp-block",
+      "content_type": "image/svg+xml",
+      "bytes": 3078,
+      "sha256": "37386f2cf0af829ea91513f9676b4fbb25e261b00f5cc43566e6dd1181ef248c",
+      "width": 268,
+      "height": 62,
+      "source_sha256": "dca7a1025db43c381ab67a5b84e211e8bf599041847424d593bb58b4ddfd0560"
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/sxsw/logo-1.svg",
+      "source_url": "https://sxsw.com/wp-content/uploads/sites/2/2026/08/3d_Logo_Refined_by_KQ-1-1.svg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture sxsw-lockup__original div sxsw-lockup SXSW div sxsw-hero__lockup order-2 w-full div sxsw-hero__stack relative mx-auto flex w-full max-w-[var(--wp--style--global--wide-size)] flex-col items-center gap-8 md:gap-12 section sxsw-hero sx",
+      "content_type": "image/svg+xml",
+      "bytes": 256339,
+      "sha256": "6a4940894327830c0f5e3494bdf554eca79e6e53efb9e83336340cb72768b1d4",
+      "width": 1434,
+      "height": 398,
+      "reused_from": "logo",
+      "source_sha256": "6fe9e29ef599bae3fdb59ce4940449596344774dd04c6024a5879061dfe1bf04"
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/sxsw/banner-2.webp",
+      "source_url": "https://sxsw.com/wp-content/uploads/sites/2/2026/08/03-13-2026_Robin-Arzon-Live-with-Mark-Cuban-_Amanda-Stronza-41-1.jpg?quality=99&w=1024",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 size-full object-cover div relative w-full aspect-video rounded-lg overflow-hidden article festivals__panel flex flex-col gap-4 div festivals__panels flex flex-col min-w-0 min-[768px]:w-[clamp(60%,calc(81.36%-14.55vw),7",
+      "content_type": "image/webp",
+      "bytes": 48558,
+      "sha256": "e4d457fc362c45b5ddad29dafc83b3a144e24b8a000cc5eec9e271ea58910b84",
+      "width": 1024,
+      "height": 682
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/sxsw/reference-1.svg",
+      "source_url": "https://sxsw.com/wp-content/uploads/sites/2/2026/08/3d_Logo_Refined_by_KQ-2-1.svg",
+      "source_tag": "inline-background-image",
+      "context": "div  sxsw-lockup --sxsw-lockup-mask:url(https://sxsw.com/wp-content/uploads/sites/2/2026/08/3d_Logo_Refined_by_KQ-2-1.svg);--sxsw-lockup-mask-sm:url(https://sxsw.com/wp-content/uploads/sites/2/2026/08/Hero-Arrow-Filled-4-1.svg);--sxsw-locku",
+      "content_type": "image/svg+xml",
+      "bytes": 104084,
+      "sha256": "b426edbcb91cb1a82c85e1ca53fff0c134d4fbfdaeb30f44fd3943d8a7193259",
+      "width": 1434,
+      "height": 398,
+      "source_sha256": "5bebe629d5f47c76d4533a6d8fb85974c5c6296cef8eda673512fd62529576e7"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/sxsw/reference-2.webp",
+      "source_url": "https://sxsw.com/wp-content/uploads/sites/2/2026/08/03-13-2026_Robin-Arzon-Live-with-Mark-Cuban-_Amanda-Stronza-41-1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 size-full object-cover div relative w-full aspect-video rounded-lg overflow-hidden article festivals__panel flex flex-col gap-4 div festivals__panels flex flex-col min-w-0 min-[768px]:w-[clamp(60%,calc(81.36%-14.55vw),7",
+      "content_type": "image/webp",
+      "bytes": 61338,
+      "sha256": "4de606804655b9a83a63ced5803d633e202e5fcc09f5ec566175c2738da38c5a",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "ae1067b68d3340ea69389537b95495cc12c3b472b29c64a55384e03aa3c26489"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/sxsw/reference-3.webp",
+      "source_url": "https://sxsw.com/wp-content/uploads/sites/2/2026/08/Cropped_P104RW9Q-746392217-1.jpg?quality=99&w=1024",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 size-full object-cover div relative w-full aspect-video rounded-lg overflow-hidden article festivals__panel flex flex-col gap-4 div festivals__panels flex flex-col min-w-0 min-[768px]:w-[clamp(60%,calc(81.36%-14.55vw),7",
+      "content_type": "image/webp",
+      "bytes": 99476,
+      "sha256": "5b2d337e07689929bbac7aef3bb6948cdfd1742fea13ba2a9a17adced43b12e7",
+      "width": 1024,
+      "height": 576
+    }
+  ]
+}

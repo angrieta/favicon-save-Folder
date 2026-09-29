@@ -1,0 +1,33 @@
+{
+  "company": "Pinterest",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://kr.pinterest.com/",
+  "page_url": "https://kr.pinterest.com/",
+  "page_title": "Pinterest - 핀터레스트",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://s.pinimg.com/webapp/76463.ko_KR-c420a5c8be6cf281.mjs; reference:ValueError:https://s.pinimg.com/webapp/78929-57972949b7dac93e.mjs; reference:ValueError:https://s.pinimg.com/webapp/79638-35095a962b9e97bb.mjs; reference:ValueError:https://s.pinimg.com/webapp/84645-5823338cca16dd8e.mjs; reference:ValueError:https://s.pinimg.com/webapp/85415-8dbc50f1d527f2a0.mjs; reference:ValueError:https://s.pinimg.com/webapp/85509.ko_KR-d8125480de9a2ca8.mjs",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/pinterest/favicon.png",
+      "source_url": "https://s.pinimg.com/webapp/logo_transparent_144x144-3da7a67b.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3056,
+      "sha256": "28a2d2a719ae492193b359a0588b0f94a6e4f27c588317f6723be8b712957829",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/pinterest/og.webp",
+      "source_url": "https://s.pinimg.com/images/facebook_share_image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 64156,
+      "sha256": "57db0145eb23d8f5f0257f1c274777cdc32d57894e8cdc238740648f30ff40c4",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "company": "Blue Bottle Coffee",
+  "category": "식품_생활",
+  "requested_url": "https://bluebottlecoffee.com/",
+  "page_url": "https://bluebottlecoffee.com/us/eng",
+  "page_title": "Blue Bottle Coffee | Specialty Coffee",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://bluebottlecoffee.com/us/q_auto/2026/09%20September/Sept%20W3/M1A_Giant-Steps_Desktop.jpg; reference:HTTPError:https://bluebottlecoffee.com/us/q_auto/2026/09%20September/Sept%20W3/M1A_Giant-Steps_Desktop.jpg; reference:HTTPError:https://bluebottlecoffee.com/us/q_auto/2026/09%20September/Sept%20W5/01_BB_Signature_Jazz_HP_Desktop.png; reference:HTTPError:https://bluebottlecoffee.com/us/q_auto/2026/09%20September/Sept%20W2/HP_SEP_WK2_M1A_Desktop.jpg; reference:HTTPError:https://bluebottlecoffee.com/us/q_auto/2024/2024%20Updated%20Packaging/Hayes%20Valley%20Espresso/M1_HayesValleyEspresso_Hero_1.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/blue-bottle-coffee/favicon.ico",
+      "source_url": "https://bluebottlecoffee.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "d03ffa8a2a28455ba251f15f0efc82a4685bb11b54ca465da5842aa3f2746882",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/blue-bottle-coffee/banner-1.webp",
+      "source_url": "https://res.cloudinary.com/hbhhv9rz9/image/upload/f_auto,c_limit,w_3840,q_auto/2026/09%20September/Sept%20W3/M1A_Giant-Steps_Desktop.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img opacity-0 transition-opacity duration-500 blue bottle jazz month div absolute-cover div relative aspect-w-4 aspect-h-3 bg-transparent div w-full [&>div]:!aspect-none figure flex flex-col h-full w-full",
+      "content_type": "image/webp",
+      "bytes": 114558,
+      "sha256": "45b423665627e27992945001b9ab8dc5109d999aaf8be8c05bda95282114d9d8",
+      "width": 1800,
+      "height": 675
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/blue-bottle-coffee/banner-2.webp",
+      "source_url": "https://res.cloudinary.com/hbhhv9rz9/image/upload/f_auto,c_limit,w_3840,q_auto/2026/09%20September/Sept%20W5/01_BB_Signature_Jazz_HP_Desktop.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img opacity-0 transition-opacity duration-500 blue bottle giant steps whole bean coffee blend div absolute-cover div relative aspect-w-4 aspect-h-3 bg-transparent div w-full [&>div]:!aspect-none figure flex flex-col h-full w-full",
+      "content_type": "image/webp",
+      "bytes": 60274,
+      "sha256": "48de24cb0afadd34c2ae1607348b8cf31354874667865352bcabdbb11b90b59a",
+      "width": 1800,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/blue-bottle-coffee/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/hbhhv9rz9/image/upload/f_auto,c_limit,w_3840,q_auto/2026/09%20September/Sept%20W2/HP_SEP_WK2_M1A_Desktop.jpg",
+      "source_tag": "img:page-image",
+      "context": "img opacity-0 transition-opacity duration-500 beyond arabica whole bean coffee and cappuccino div absolute-cover div relative aspect-w-4 aspect-h-3 bg-transparent div w-full [&>div]:!aspect-none figure flex flex-col h-full w-full",
+      "content_type": "image/webp",
+      "bytes": 47680,
+      "sha256": "b3eedfedd5cbfa7ce10aacb2de08296c458d3feffd2e757d3ae8bb9f6ad5eb49",
+      "width": 1600,
+      "height": 600,
+      "source_sha256": "6426b142cf8de3ed20d6c03360953a61b1377d45cfabe0e6e265103f2a1b709e"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/blue-bottle-coffee/reference-2.webp",
+      "source_url": "https://res.cloudinary.com/hbhhv9rz9/image/upload/f_auto,c_limit,w_3840,q_auto/2024/2024%20Updated%20Packaging/Hayes%20Valley%20Espresso/M1_HayesValleyEspresso_Hero_1.png",
+      "source_tag": "img:page-image",
+      "context": "img opacity-0 transition-opacity duration-500 div absolute-cover div relative aspect-w-5 aspect-h-4 bg-transparent div w-full scale-125 figure flex flex-col h-full w-full",
+      "content_type": "image/webp",
+      "bytes": 25340,
+      "sha256": "114f554e56b246c24c4dc7d53797eae79eb1b1d98ff31e4768c45d0097784cd8",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/blue-bottle-coffee/reference-3.webp",
+      "source_url": "https://res.cloudinary.com/hbhhv9rz9/image/upload/f_auto,c_limit,w_3840,q_auto/2024/2024%20Updated%20Packaging/Giant%20Steps/M1_GiantSteps_Hero.png",
+      "source_tag": "img:page-image",
+      "context": "img opacity-0 transition-opacity duration-500 div absolute-cover div relative aspect-w-5 aspect-h-4 bg-transparent div w-full scale-125 figure flex flex-col h-full w-full",
+      "content_type": "image/webp",
+      "bytes": 24086,
+      "sha256": "e036fb8822018a5bda9a856675083a9d8f6c7f74e4a0df8a816e790a0cf69e58",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

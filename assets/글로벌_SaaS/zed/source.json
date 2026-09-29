@@ -1,0 +1,105 @@
+{
+  "company": "Zed",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://zed.dev/",
+  "page_url": "https://zed.dev/",
+  "page_title": "Zed — Your last next editor",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://zed.dev/format=auto/_next/static/media/logo_wordmark_white_bigger.3loqk4pxc_cwi.png; banner:HTTPError:https://zed.dev/format=auto/img/parallel-agents/sidebar.webp; reference:HTTPError:https://zed.dev/format=auto/img/parallel-agents/sidebar.webp; reference:HTTPError:https://zed.dev/format=auto/https:/images.zed.dev/video-posters/debugger.webp; reference:HTTPError:https://zed.dev/format=auto/https:/images.zed.dev/video-posters/agent.webp; reference:HTTPError:https://zed.dev/format=auto/https:/images.zed.dev/video-posters/git.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/zed/favicon.png",
+      "source_url": "https://zed.dev/favicon_black_64.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2390,
+      "sha256": "7b85cd2a2a52c7969b4bc70eb3f85cea6a99fe4aea8d9e512989bcb838113c8b",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/zed/og.webp",
+      "source_url": "https://zed.dev/img/home/og.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 41746,
+      "sha256": "69719ce11035f07a75860ead6d7d975750cc6e767ed2b7f35acc10ed7bb2dbaa",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/zed/logo-1.png",
+      "source_url": "https://zed.dev/cdn-cgi/image/width=2048,quality=100,format=auto/_next/static/media/logo_wordmark_white_bigger.3loqk4pxc_cwi.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img dark:opacity-85 Zed's logo div relative select-none isolate flex size-full items-center justify-center border-offgray-200 dark:border-offgray-900/80 border bg-black/90 bg-radial-[at_120%_75%] from-offgray-600/8 via-offgray-300/2 to-whit",
+      "content_type": "image/png",
+      "bytes": 124349,
+      "sha256": "20a3686baa6d6814921f7f530e4f00420bbe4d3a28a1d5ffb790de507cc9b076",
+      "width": 1012,
+      "height": 1012
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/zed/banner-1.webp",
+      "source_url": "https://zed.dev/cdn-cgi/image/width=2048,quality=75,format=auto/img/parallel-agents/sidebar.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img aspect-video w-full select-none object-cover dark:bg-offgray-950 bg-cream-50 div group group/info-bar group/media transform-translate relative overflow-clip duration-70 default-border-color rounded-xs border hover:!border-blue-300 dark:",
+      "content_type": "image/webp",
+      "bytes": 94220,
+      "sha256": "4cf352da7b427a0c6443a14899e542c014849c1efc6eb4d3256a3808a72ab1ab",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/zed/banner-2.webp",
+      "source_url": "https://zed.dev/cdn-cgi/image/width=2048,quality=75,format=auto/https://images.zed.dev/video-posters/debugger.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img aspect-video w-full select-none object-cover dark:bg-offgray-950 bg-cream-50 object-top div group group/info-bar group/media transform-translate relative overflow-clip duration-70 default-border-color rounded-xs border hover:!border-blu",
+      "content_type": "image/webp",
+      "bytes": 48164,
+      "sha256": "093b48f28209aaff3db5a12d99676235ce6b170cb0a641ac6a2ba6b44e8d1d79",
+      "width": 1800,
+      "height": 1012
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/zed/reference-1.webp",
+      "source_url": "https://zed.dev/cdn-cgi/image/width=2048,quality=75,format=auto/https://images.zed.dev/video-posters/agent.webp",
+      "source_tag": "img:page-image",
+      "context": "img aspect-video w-full select-none object-cover dark:bg-offgray-950 bg-cream-50 object-top div group group/info-bar group/media transform-translate relative overflow-clip duration-70 default-border-color rounded-xs border hover:!border-blu",
+      "content_type": "image/webp",
+      "bytes": 63368,
+      "sha256": "1336e85345cd6ca5f73015e2218bb3d3d6a797f562759b2788a1a4a953f76cda",
+      "width": 1800,
+      "height": 1012
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/zed/reference-2.webp",
+      "source_url": "https://zed.dev/cdn-cgi/image/width=2048,quality=75,format=auto/https://images.zed.dev/video-posters/git.webp",
+      "source_tag": "img:page-image",
+      "context": "img aspect-video w-full select-none object-cover dark:bg-offgray-950 bg-cream-50 object-top div group group/info-bar group/media transform-translate relative overflow-clip duration-70 default-border-color rounded-xs border hover:!border-blu",
+      "content_type": "image/webp",
+      "bytes": 62374,
+      "sha256": "465a25b8b794fc1c2a48cad2d8f23ee0050c1dbb026c7d6d709a9879097c7355",
+      "width": 1800,
+      "height": 1012
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/zed/reference-3.webp",
+      "source_url": "https://zed.dev/cdn-cgi/image/width=2048,quality=75,format=auto/https://images.zed.dev/video-posters/ep.webp",
+      "source_tag": "img:page-image",
+      "context": "img aspect-video w-full select-none object-cover dark:bg-offgray-950 bg-cream-50 object-top div group group/info-bar group/media transform-translate relative overflow-clip duration-70 default-border-color rounded-xs border hover:!border-blu",
+      "content_type": "image/webp",
+      "bytes": 67726,
+      "sha256": "bd3fa6e401be21b4a3b891952f786ffb8cbcca2fc9b85fe1ab3be3ed2721dab7",
+      "width": 1800,
+      "height": 1012
+    }
+  ]
+}

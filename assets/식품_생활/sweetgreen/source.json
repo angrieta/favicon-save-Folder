@@ -1,0 +1,94 @@
+{
+  "company": "Sweetgreen",
+  "category": "식품_생활",
+  "requested_url": "https://www.sweetgreen.com/",
+  "page_url": "https://www.sweetgreen.com/",
+  "page_title": "sweetgreen | Inspiring healthier communities",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/sweetgreen/favicon.png",
+      "source_url": "https://www.sweetgreen.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2963,
+      "sha256": "ce1ead95d9f3b6989f2c48e7eceb4bb76114c122bdaf2b928a951c70a133ec7f",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/sweetgreen/logo-1.png",
+      "source_url": "https://www.sweetgreen.com/static/img/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 19337,
+      "sha256": "063cea8b5a20b38672bb30c4df8ecf64dad9ad79995cc27680aff4264759f9f0",
+      "width": 1024,
+      "height": 149
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/sweetgreen/banner-1.webp",
+      "source_url": "https://images.ctfassets.net/eum7w7yri3zr/3ylppLo5syJ8hZCrZROzhb/65e801cd969eebff68bbfa065579841f/Mollywebdesktop.jpg?w=1600&q=75&fm=avif",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure js-hero-media hero__media article hero js-hero div carousel__cell div carousel__content js-carousel",
+      "content_type": "image/webp",
+      "bytes": 85888,
+      "sha256": "18db81de8ce962858db8533a7ad0d4ab48d5ed5b8dd44e1bd4a9dbb67b52faf6",
+      "width": 1600,
+      "height": 893
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/sweetgreen/banner-2.webp",
+      "source_url": "https://images.ctfassets.net/eum7w7yri3zr/3ylppLo5syJ8hZCrZROzhb/65e801cd969eebff68bbfa065579841f/Mollywebdesktop.jpg?w=1400&q=75&fm=avif",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure js-hero-media hero__media article hero js-hero div carousel__cell div carousel__content js-carousel",
+      "content_type": "image/webp",
+      "bytes": 72258,
+      "sha256": "2c9a51f9ac30da185bf2b7d28ad96da1368660a9476a8089c7d2b06d25ccaecd",
+      "width": 1400,
+      "height": 781
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/sweetgreen/reference-1.webp",
+      "source_url": "https://images.ctfassets.net/eum7w7yri3zr/7nmO6mN8iKfRGGpjxApDr1/7be0bcdb016fc31a6bca4a5eb398792b/Mollywebmobile2.jpg?w=800&q=75&fm=avif",
+      "source_tag": "picture:page-image",
+      "context": "picture figure js-hero-media hero__media article hero js-hero div carousel__cell div carousel__content js-carousel",
+      "content_type": "image/webp",
+      "bytes": 57856,
+      "sha256": "575363da12f8d4404be318ac37230e70b5ea89039742c1094c8f846d999f067e",
+      "width": 800,
+      "height": 889
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/sweetgreen/reference-2.webp",
+      "source_url": "https://images.ctfassets.net/eum7w7yri3zr/7nmO6mN8iKfRGGpjxApDr1/7be0bcdb016fc31a6bca4a5eb398792b/Mollywebmobile2.jpg?w=600&q=75&fm=avif",
+      "source_tag": "picture:page-image",
+      "context": "picture figure js-hero-media hero__media article hero js-hero div carousel__cell div carousel__content js-carousel",
+      "content_type": "image/webp",
+      "bytes": 39434,
+      "sha256": "1e84d517071752c73f9c914ad5f2e39d0fba969e44d2d3a028f2acee0dec8bbd",
+      "width": 600,
+      "height": 667
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/sweetgreen/reference-3.webp",
+      "source_url": "https://images.ctfassets.net/eum7w7yri3zr/7nmO6mN8iKfRGGpjxApDr1/7be0bcdb016fc31a6bca4a5eb398792b/Mollywebmobile2.jpg?w=800&q=75&fm=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture figure js-hero-media hero__media article hero js-hero div carousel__cell div carousel__content js-carousel",
+      "content_type": "image/webp",
+      "bytes": 57792,
+      "sha256": "967641357065b3fa9cdb83f77aaed5857ebf593eef10f11aacda9b1c6db99cbd",
+      "width": 800,
+      "height": 889
+    }
+  ]
+}

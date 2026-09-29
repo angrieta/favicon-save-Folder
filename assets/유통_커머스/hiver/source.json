@@ -1,0 +1,46 @@
+{
+  "company": "하이버",
+  "category": "유통_커머스",
+  "requested_url": "https://www.hiver.co.kr",
+  "page_url": "https://www.hiver.co.kr/",
+  "page_title": "하이버 - 1000만 남자들의 패션앱",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1766403576794791&ev=PageView&noscript=1; reference:ValueError:https://www.hiver.co.kr/_next/static/css/af78a04f7ad9938b.css; reference:ValueError:https://www.hiver.co.kr/_next/static/css/70a9a58aeb470939.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/hiver/favicon.png",
+      "source_url": "https://www.hiver.co.kr/favicons/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4550,
+      "sha256": "411f717302b7b68a525f8f588837ab1f662f923bd48d579f117a7b3fdae9e802",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/hiver/og.webp",
+      "source_url": "https://www.hiver.co.kr/images/common/hiver_og_image.jpg?v2",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1428,
+      "sha256": "3367d547cca4816100893b6429667704263ca55e0f27bcc64d2eef8bb0cfc4aa",
+      "width": 640,
+      "height": 320
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/hiver/logo-1.svg",
+      "source_url": "https://www.hiver.co.kr/images/common/logo_hiver.svg",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1061,
+      "sha256": "6fce4444da81409636fbda3757534586c124c4e0168b3c2fdfec97ec8cae1b6c",
+      "width": 76,
+      "height": 16,
+      "source_sha256": "7d4e03fd80e501fbf75eaa423aac91ee5796a7e6bf62ffdb2ee3d8d9581d207e"
+    }
+  ]
+}

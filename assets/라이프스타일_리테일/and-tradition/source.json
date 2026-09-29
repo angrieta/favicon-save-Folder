@@ -1,0 +1,46 @@
+{
+  "company": "&Tradition",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.andtradition.com/",
+  "page_url": "https://www.andtradition.com/",
+  "page_title": "&Tradition",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.andtradition.com/_nuxt/7981124.js; reference:ValueError:https://www.andtradition.com/_nuxt/d95e0e3.js; reference:ValueError:https://www.andtradition.com/_nuxt/c7dca66.js; reference:ValueError:https://www.andtradition.com/_nuxt/d383e33.js; reference:ValueError:https://www.andtradition.com/_nuxt/03cd8cf.js; reference:ValueError:https://www.andtradition.com/_nuxt/f55f757.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/and-tradition/favicon.png",
+      "source_url": "https://www.andtradition.com/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 9000,
+      "sha256": "820a53541929f82a5222b62458de4651a52ad986520f20e91c8a04b881397196",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/and-tradition/og.webp",
+      "source_url": "https://wp.andtradition.com/wp-content/uploads/2025/05/ATD_Retail_2025_Thorvald-SC95_Momento-JH38_Collect-SC78_Thorvald-SC96-1200x1200.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 300582,
+      "sha256": "b23f00fdd6497f32355b8635b4cb02081150aef5e899ed448ed991488f394933",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/and-tradition/reference-1.svg",
+      "source_url": "https://www.andtradition.com/_nuxt/img/symbol.8be4c66.svg",
+      "source_tag": "img:page-image",
+      "context": "img div mobile-symbol div mobile-menu div wrapper div mobile-menu-container open",
+      "content_type": "image/svg+xml",
+      "bytes": 27301,
+      "sha256": "66998b514cc3e7d63e4c55e14d51771c3442642eb8710727a8a9bf7159bf7b51",
+      "width": 1976,
+      "height": 1976,
+      "source_sha256": "23cb002bd47e19935c21e2aec57942dd3c968f3c3d74171b0c8a425fcb5fe8a7"
+    }
+  ]
+}

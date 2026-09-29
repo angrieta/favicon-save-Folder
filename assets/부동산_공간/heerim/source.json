@@ -1,0 +1,96 @@
+{
+  "company": "희림건축",
+  "category": "부동산_공간",
+  "requested_url": "https://www.heerim.com/kr/",
+  "page_url": "https://www.heerim.com/kr/",
+  "page_title": "HEERIM | 희림건축",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://www.heerim.com/data/bbsData/; reference:HTTPError:https://www.heerim.com/data/bbsData/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/heerim/favicon.png",
+      "source_url": "https://www.heerim.com/favicon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2372,
+      "sha256": "e4f10abbb4513668d0c1cb423ad2d15d530952ca30ea13dd9a2eafdc8bcaf091",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/heerim/og.webp",
+      "source_url": "https://www.heerim.com/images/common/meta_img.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10754,
+      "sha256": "a4f24f5372fa62d16ef0125c90b798b59fb63ab6d49d224bfe827bd9aa3da676",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/heerim/banner-1.webp",
+      "source_url": "https://www.heerim.com/data/bbsData/16439573872.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  accordion-inner background:#333 url(/data/bbsData/16439573872.jpg) 50% 50% no-repeat;",
+      "content_type": "image/webp",
+      "bytes": 147688,
+      "sha256": "ba28e507e7b121fbd3b551d76d5e2f65ab26618fbd87e18c693476d49f89abf9",
+      "width": 1440,
+      "height": 680,
+      "source_sha256": "ee8f16df806d2eeed1026ccf7276827ce12080a01830b50838dc3b942123d922"
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/heerim/banner-2.webp",
+      "source_url": "https://www.heerim.com/data/bbsData/17369254772.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  accordion-inner background:#333 url(/data/bbsData/17369254772.jpg) 50% 50% no-repeat;",
+      "content_type": "image/webp",
+      "bytes": 168016,
+      "sha256": "a7a13735ea2a7c130a9fe6108100cbbdd7fb1a05f35042c5c9dc6a23bab8d5ba",
+      "width": 1600,
+      "height": 662,
+      "source_sha256": "b79c1b7cc222ff2aeccbcaf2d5391b7053e3a762127bdd76741eb5e59e1df3f4"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/heerim/reference-1.webp",
+      "source_url": "https://www.heerim.com/data/bbsData/16439577661.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  accordion-outer background:url(/data/bbsData/16439577661.jpg) no-repeat 50% 50%;",
+      "content_type": "image/webp",
+      "bytes": 52470,
+      "sha256": "dfb770463c39fea6fe7bcd086db319ace230aff8f885a0ab142c2d222abe5998",
+      "width": 483,
+      "height": 792
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/heerim/reference-2.webp",
+      "source_url": "https://www.heerim.com/data/bbsData/17369254771.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  accordion-outer background:url(/data/bbsData/17369254771.jpg) no-repeat 50% 50%;",
+      "content_type": "image/webp",
+      "bytes": 106992,
+      "sha256": "f85192c783b4608e4048f5d018548d55017905c31542905bee46d89d097238a4",
+      "width": 483,
+      "height": 792
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/heerim/reference-3.webp",
+      "source_url": "https://www.heerim.com/data/bbsData/17905755881.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  accordion-outer background:url(/data/bbsData/17905755881.jpg) no-repeat 50% 50%;",
+      "content_type": "image/webp",
+      "bytes": 90992,
+      "sha256": "392ab9bd643c223af22914f2710d1a81005d766a3d895b65d77a1a142bf1b471",
+      "width": 483,
+      "height": 792,
+      "source_sha256": "14ef781ef2be2a4d854f2b71bf8e2e8c5c4f2c787d40f79071771621cdeeec7c"
+    }
+  ]
+}

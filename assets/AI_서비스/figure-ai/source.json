@@ -1,0 +1,72 @@
+{
+  "company": "Figure",
+  "category": "AI_서비스",
+  "requested_url": "https://www.figure.ai",
+  "page_url": "https://www.figure.ai/",
+  "page_title": "Figure",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.figure.ai/_next/static/css/69bddeaa2507d95b.css; reference:ValueError:https://www.figure.ai/_next/static/css/b3457598f762e578.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/figure-ai/favicon.png",
+      "source_url": "https://www.figure.ai/favicon.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 3391,
+      "sha256": "361bbe6b396d9312aeb388c3c0b14909b4b8c6d5ab98dd2b08e03a0a36c526b7",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/figure-ai/og.webp",
+      "source_url": "https://images.ctfassets.net/qx5k8y1u9drj/56I3mHKEdLZdrsONwOm3sc/63b1569bb855cc334c2dda67ce40ba4a/generic-page-image.jpeg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1972,
+      "sha256": "1b5f5d5a855090ecbdf24adaf97e7bd3e6b70b801702f8c25756b4aed2f38c02",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/figure-ai/logo-1.svg",
+      "source_url": "https://images.ctfassets.net/qx5k8y1u9drj/3ygvPaiOiIX62OhZ7oNO2h/d50ccd3bc449eab7ae098d87aa0cd040/figure-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img footer__logo div footer__left-inner div footer__left div footer__top div footer__content",
+      "content_type": "image/svg+xml",
+      "bytes": 1886,
+      "sha256": "013e7b3d535e3f6ff227df77b5d18261ff476813e9a183b53b324d600c8572bc",
+      "width": 461,
+      "height": 69,
+      "source_sha256": "01566fa8768852f29fb60c27fe603f6715f4eaeadc18dcd03eeaaafac36b4682"
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/figure-ai/reference-1.webp",
+      "source_url": "https://images.ctfassets.net/qx5k8y1u9drj/VVC0MrP2b4i0eC7jVaNyc/fb1b20a57c15495fc4ec0d37a7e8197c/extended-footer-background-v2.jpg?fm=webp&w=3840&q=70",
+      "source_tag": "img:page-image",
+      "context": "img footer__extension-background-image div footer__extension-background footer footer footer div __next body",
+      "content_type": "image/webp",
+      "bytes": 73014,
+      "sha256": "0b076bf03af3bd0d25987ee3bc4ffda968172a3de8497b3595fa88c626b2a3d2",
+      "width": 859,
+      "height": 1350,
+      "source_sha256": "ebd90101d93a1b6c1640206782085866c9cb5c66b778d74903b5c805ad1cbe64"
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/figure-ai/reference-2.webp",
+      "source_url": "https://images.ctfassets.net/qx5k8y1u9drj/VVC0MrP2b4i0eC7jVaNyc/fb1b20a57c15495fc4ec0d37a7e8197c/extended-footer-background-v2.jpg?fm=webp&w=2048&q=70",
+      "source_tag": "img:page-image",
+      "context": "img footer__extension-background-image div footer__extension-background footer footer footer div __next body",
+      "content_type": "image/webp",
+      "bytes": 79918,
+      "sha256": "4ff26c810b6bbe60cd5c5ed26c95b98a0c100d43ea3e8227fe5ca72dc2370e31",
+      "width": 859,
+      "height": 1350,
+      "source_sha256": "e06821cf3f042d0aed8b9f5daeb10bd3fdbb82613c78080c6f1fcbb6cbc460a2"
+    }
+  ]
+}

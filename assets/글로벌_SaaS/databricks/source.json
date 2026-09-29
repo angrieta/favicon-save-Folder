@@ -1,0 +1,83 @@
+{
+  "company": "Databricks",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.databricks.com/kr",
+  "page_url": "https://www.databricks.com/kr",
+  "page_title": "Databricks - 선도적인 기업을 위한 통합 데이터 및 AI 엔터프라이즈 플랫폼",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.databricks.com/en-website-assets/static/sans_400.woff2; reference:ValueError:https://www.databricks.com/en-website-assets/static/sans_500.woff2; reference:ValueError:https://www.databricks.com/en-website-assets/static/sans_700.woff2; reference:ValueError:https://www.databricks.com/en-website-assets/static/mono_400.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/databricks/favicon.png",
+      "source_url": "https://www.databricks.com/en-website-assets/icons/icon-512x512.png?v=c9b9916c3b27dc51866c46b79a6e9b88",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 68595,
+      "sha256": "7d2ccfc8b175e3fc92958030747d9f859b6a27b98b8dc06113240808679f18f2",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/databricks/og.webp",
+      "source_url": "https://www.databricks.com/sites/default/files/2023-11/databricks-og-universal.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10874,
+      "sha256": "263cacebfc537d517e5b5163b8cc2f45afe74d07e379291670503e2446648692",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/databricks/logo-1.svg",
+      "source_url": "https://www.databricks.com/sites/default/files/2026-01/icon-ai-bi.svg?v=1768581011",
+      "source_tag": "img:semantic-logo",
+      "context": "img div gatsby-image-wrapper optanon-category-C0001 div h-full figure h-full w-full div xl:h-[82px] xl:w-[82px] h-8 w-8 p-[10px] shadow-shadow-2 xl:rounded-[20px] rounded-2xl bg-white flex items-center justify-center mb-3 xl:mb-5 xxl:mb-6",
+      "content_type": "image/svg+xml",
+      "bytes": 657,
+      "sha256": "1a523226856f5263e226bf722afddff9cec732f3c3cfb538b8836efa112f7d4c",
+      "width": 62,
+      "height": 62,
+      "source_sha256": "2879af474a3937c6d4229de48e0c1f871ba9b157dfe1220512df8a1239490cbc"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/databricks/logo-2.svg",
+      "source_url": "https://www.databricks.com/sites/default/files/2026-01/logo-white-gartner.svg?v=1768582592",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-full w-auto object-contain logo white gartner div h-4 xxl:h-5 div space-y-4 div flex w-full flex-col justify-between p-5 h-full a bg-navy-600 variant-spotlightAward group-arrow-icon-tertiary hover:no-underline hover:border-b-white gro",
+      "content_type": "image/svg+xml",
+      "bytes": 3708,
+      "sha256": "9925b52b2fe4d51626d3988963690cdf966a3de84bf345a587fc03f800b7212a",
+      "width": 170,
+      "height": 40,
+      "source_sha256": "e1177ce06097c9f095c58f126d73971eac4984194eee334ec3d21fa33ca60fc0"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/databricks/banner-1.webp",
+      "source_url": "https://www.databricks.com/sites/default/files/2025-08/2025-08-professional-workshop-series-promo-row-588x200-2x.jpg?v=1754692003",
+      "source_tag": "img:semantic-banner",
+      "context": "img professional workshop series promo div gatsby-image-wrapper h-25 object-cover cursor-pointer promo-row-image optanon-category-C0001 div h-full figure div h-25 media-container rounded-image relative mb-6 overflow-hidden md:mb-0 md:w-6/12",
+      "content_type": "image/webp",
+      "bytes": 57020,
+      "sha256": "6d7024aa13f2e4d364bc4af36a1f7bdfff2e6894c3e3a8e43f18e2bc0aaed94d",
+      "width": 1176,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/databricks/banner-2.webp",
+      "source_url": "https://www.databricks.com/sites/default/files/2026-04/2026-01-eb-state-of-ai-agents-ps-tn-360x188-2x-2.png?v=1777403947",
+      "source_tag": "img:semantic-banner",
+      "context": "img div gatsby-image-wrapper h-full object-cover optanon-category-C0001 div h-full figure w-full absolute top-0 h-full div min-w-[108px] flex items-center relative pb-[52.25%] flex-shrink-0 bg-orange-600",
+      "content_type": "image/webp",
+      "bytes": 13902,
+      "sha256": "d9594efb8d9dbca6557e6e274a801398632eea6424c83a375e23619cfef5fbca",
+      "width": 720,
+      "height": 376
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "company": "Perplexity",
+  "category": "AI_서비스",
+  "requested_url": "https://www.perplexity.ai",
+  "page_url": "https://www.perplexity.ai/",
+  "page_title": "Perplexity",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://pplx-next-static-public.perplexity.ai/_spa/assets/framer-motion__v2-Cyy7jB0M.js; reference:ValueError:https://pplx-next-static-public.perplexity.ai/_spa/assets/graphql-relay__v2-DyJKBAuF.js; reference:ValueError:https://pplx-next-static-public.perplexity.ai/_spa/assets/artifact-download__v2-DM3d8AzK.js; reference:ValueError:https://pplx-next-static-public.perplexity.ai/_spa/assets/command-palette__v2-DQHQq3lo.js; reference:ValueError:https://pplx-next-static-public.perplexity.ai/_spa/assets/layout-sidebar__v2-lB2gGb_C.js; reference:ValueError:https://pplx-next-static-public.perplexity.ai/_spa/assets/talk-to-sales__v2-G4LoHThM.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/perplexity/favicon.png",
+      "source_url": "https://www.perplexity.ai/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 8956,
+      "sha256": "77a6e81bd6345b85a613d3ee482392dbc25995afce6e31900d4f05d098c4bf2e",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/perplexity/og.webp",
+      "source_url": "https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11260,
+      "sha256": "ee7344f3f6d15cd85f2a3388c0af5d28a3e648e62c3ed4dc2d3271c2b02be514",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

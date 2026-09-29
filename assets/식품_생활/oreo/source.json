@@ -1,0 +1,117 @@
+{
+  "company": "Oreo",
+  "category": "식품_생활",
+  "requested_url": "https://www.oreo.com/",
+  "page_url": "https://www.oreo.com/",
+  "page_title": "OREO | Personalized Gifts, Recipes, and More | OREO",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.oreo.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/oreo/favicon.png",
+      "source_url": "https://www.oreo.com/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 17008,
+      "sha256": "cb9045414d250e85f91a7ccc3e03c0151ede9f06f421c96ec428f03fdbef2c21",
+      "width": 80,
+      "height": 97
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/oreo/og.webp",
+      "source_url": "https://images.ctfassets.net/kvfvpz4abpco/1JNH4zRihi7bcFB57TM021/ca25a62173330e773a0254eef7d795eb/cookie.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8658,
+      "sha256": "397c928d4acf4cae58b7e2129ba55aacb8c1363f252f861ce4b335c6d7379024",
+      "width": 200,
+      "height": 230
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/oreo/logo-1.png",
+      "source_url": "https://cdn.shopify.com/oxygen-v2/29113/15908/32818/4551380/assets/oreoBrandLogo-Cy1ljp7o.png",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 436063,
+      "sha256": "ef5857173274806bb3ffeddc25a7c416ef4a3dbb1ac19ae76cb764adf81a7a5c",
+      "width": 1600,
+      "height": 721
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/oreo/logo-2.png",
+      "source_url": "https://cdn.shopify.com/oxygen-v2/29113/15908/32818/4551380/assets/logo-k03PX7_n.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img absolute inset-0 w-full h-full Oreo Cookies div aspect-square relative a OREO Home div div",
+      "content_type": "image/png",
+      "bytes": 644776,
+      "sha256": "c7c41125a59a2dc3bc9712a1c24677c86887ce7807dba70021bb16e04a89f119",
+      "width": 698,
+      "height": 698
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/oreo/banner-1.webp",
+      "source_url": "https://images.ctfassets.net/kvfvpz4abpco/CEq4wVyKScMwHLeUWAWQm/f5fd57676c0e49ad0bae1ba1d9ed3155/image__3_.png?w=3840&fm=avif",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div div absolute inset-0 -z-2 div super-hero-block relative isolate mx-auto w-full max-w-[2100px] overflow-hidden [aspect-ratio:var(--super-hero-aspect-mobile)] md:[aspect-ratio:var(--super-hero-aspect-desktop)] flex flex-col sectio",
+      "content_type": "image/webp",
+      "bytes": 75194,
+      "sha256": "842bfd0efb1e7fce7edf47281dda7f4049d479cbc3dd91cb1dc2237389a4bbc7",
+      "width": 1800,
+      "height": 1247
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/oreo/banner-2.webp",
+      "source_url": "https://images.ctfassets.net/kvfvpz4abpco/CEq4wVyKScMwHLeUWAWQm/f5fd57676c0e49ad0bae1ba1d9ed3155/image__3_.png?w=2048&fm=avif",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div div absolute inset-0 -z-2 div super-hero-block relative isolate mx-auto w-full max-w-[2100px] overflow-hidden [aspect-ratio:var(--super-hero-aspect-mobile)] md:[aspect-ratio:var(--super-hero-aspect-desktop)] flex flex-col sectio",
+      "content_type": "image/webp",
+      "bytes": 70330,
+      "sha256": "49dcfe8c020004cf5ace914517e2f0add7df416c6d60678c101cee68bfa4eced",
+      "width": 1800,
+      "height": 1247
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/oreo/reference-1.webp",
+      "source_url": "https://cdn.shopify.com/oxygen-v2/29113/15908/32818/4551380/assets/gradient-BoH7iPKb.jpg",
+      "source_tag": "inline-background-image",
+      "context": "span  ButtonGradientBackground absolute aspect-square inset-0 left-1/2 top-1/2 bg-cover z-1 w-[150%] background-image:url(https://cdn.shopify.com/oxygen-v2/29113/15908/32818/4551380/assets/gradient-BoH7iPKb.jpg);transform:translateX(-50%) t",
+      "content_type": "image/webp",
+      "bytes": 10152,
+      "sha256": "b6548ec7d43fc0948080b35d59edc051175c0246df7bda1ab61cef1e74a296b5",
+      "width": 841,
+      "height": 842
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/oreo/reference-2.webp",
+      "source_url": "https://images.ctfassets.net/kvfvpz4abpco/4kLbPOO9tYfZPpPJryQ1Vm/3f255bdc377e0d4921d8595b872adcf2/image__4_.png?w=3840&fm=avif",
+      "source_tag": "picture:page-image",
+      "context": "picture div div absolute inset-0 -z-2 div super-hero-block relative isolate mx-auto w-full max-w-[2100px] overflow-hidden [aspect-ratio:var(--super-hero-aspect-mobile)] md:[aspect-ratio:var(--super-hero-aspect-desktop)] flex flex-col sectio",
+      "content_type": "image/webp",
+      "bytes": 38424,
+      "sha256": "26be12968cf9936361f79e7b0c0773a9492690d8626acf1fbb950846a7bbd4be",
+      "width": 690,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/oreo/reference-3.webp",
+      "source_url": "https://images.ctfassets.net/kvfvpz4abpco/4kLbPOO9tYfZPpPJryQ1Vm/3f255bdc377e0d4921d8595b872adcf2/image__4_.png?w=3840&fm=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div div absolute inset-0 -z-2 div super-hero-block relative isolate mx-auto w-full max-w-[2100px] overflow-hidden [aspect-ratio:var(--super-hero-aspect-mobile)] md:[aspect-ratio:var(--super-hero-aspect-desktop)] flex flex-col sectio",
+      "content_type": "image/webp",
+      "bytes": 39572,
+      "sha256": "79dc948dced033119013512ab8f36eb61f8c95720404f01db9f8ccecf7c0fae5",
+      "width": 690,
+      "height": 1350
+    }
+  ]
+}

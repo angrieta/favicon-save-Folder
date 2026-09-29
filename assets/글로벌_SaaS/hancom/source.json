@@ -1,0 +1,117 @@
+{
+  "company": "한글과컴퓨터",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.hancom.com/",
+  "page_url": "https://www.hancom.com/",
+  "page_title": "AI 오케스트레이션 기업 | 한컴(HANCOM)",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://hancom-updating.hancom.com/Addons_1.mp4; reference:ValueError:https://hancom-updating.hancom.com/Addons_1.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/hancom/favicon.ico",
+      "source_url": "https://www.hancom.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "6fec9db0f3e4b218d2eb598d2a1d83934fd479954d66541ee7e32fa65eaee67b",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/hancom/og.webp",
+      "source_url": "https://www.hancom.com/images/og/og_main_20260519.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 46004,
+      "sha256": "0605c03370d54029061d761ca6a8562c6f6788003323e2618dd561cb3688d94f",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/hancom/logo-1.svg",
+      "source_url": "https://www.hancom.com/images/common/bi-hancom.svg",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2854,
+      "sha256": "bfd81cbcfc18bd4ee9284588468f13f72e3eed37d39b8e47799e872d5c6267e4",
+      "width": 1000,
+      "height": 166
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/hancom/logo-2.png",
+      "source_url": "https://www.hancom.com/pages/static/img/contents/AI%20Orchestrator.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo ani-fade-up dt dl info div main-brain ani-trigger div cream-wrap page-type-main",
+      "content_type": "image/png",
+      "bytes": 5850,
+      "sha256": "41d5e64efa1e736f5628f30e041307fed6da1908126f54cfa771fb888f10f6c3",
+      "width": 441,
+      "height": 45
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/hancom/banner-1.webp",
+      "source_url": "https://d1filjxky0swv.cloudfront.net/2026/09/16/88f83eab-0bc8-4352-89a3-49910ba7a0b6/.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div visual li swiper-slide ul swiper-wrapper div swiper swiper-sub",
+      "content_type": "image/webp",
+      "bytes": 40186,
+      "sha256": "05c4c66e590549ec3a83ecb27eede4999cb984136ee8380c70288fc728a84704",
+      "width": 1000,
+      "height": 680
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/hancom/banner-2.webp",
+      "source_url": "https://d1filjxky0swv.cloudfront.net/2026/09/16/cf5a5001-0f7b-4e5a-bfe9-031fdfe57770/.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img a li point-item ani-trigger ani-fade-up ul list-ty5 div main-event section-cmg",
+      "content_type": "image/webp",
+      "bytes": 83128,
+      "sha256": "4f50233afab53feba9825054809506f08f65af3a415e57d3cbac6f403dd83159",
+      "width": 1688,
+      "height": 872
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/hancom/reference-1.webp",
+      "source_url": "https://d1filjxky0swv.cloudfront.net/2026/08/19/2c98c67d-a045-46f3-963e-f15cbaa880a1/.png",
+      "source_tag": "img:page-image",
+      "context": "img a li rel-item ani-trigger ani-fade-up ul list-ty5 div main-event section-cmg",
+      "content_type": "image/webp",
+      "bytes": 19820,
+      "sha256": "094b1f7ca56baee0f7212fc3181ad78db27e8865b405d19e954de00cfc67ae0a",
+      "width": 844,
+      "height": 436
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/hancom/reference-2.webp",
+      "source_url": "https://www.hancom.com/images/common/footer-mark-ismsp.png",
+      "source_tag": "img:page-image",
+      "context": "img ISMS-P 인증 div css-1xxrsxu div css-j6tv5t div css-1c9gitw div css-1479gfp",
+      "content_type": "image/webp",
+      "bytes": 18286,
+      "sha256": "1cf443b2622eaf3c18bc22b12374487c1e4830f9f1cedeac4bd2194afec1e221",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/hancom/reference-3.webp",
+      "source_url": "https://www.hancom.com/images/common/footer-mark-brandwinner-2023.png",
+      "source_tag": "img:page-image",
+      "context": "img 2023 올해의 브랜드 대상 div css-j6tv5t div css-1c9gitw div css-1479gfp div css-1w51id6",
+      "content_type": "image/webp",
+      "bytes": 90608,
+      "sha256": "2d7e764a52c23a3b4128533b3e53e63f35535634e1d63c89bc090e34d2d6d838",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

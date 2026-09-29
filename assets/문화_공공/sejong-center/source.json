@@ -1,0 +1,83 @@
+{
+  "company": "세종문화회관",
+  "category": "문화_공공",
+  "requested_url": "https://www.sejongpac.or.kr",
+  "page_url": "https://www.sejongpac.or.kr/portal/main/main.do",
+  "page_title": "세종문화회관",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.sejongpac.or.kr/cmmn/file/imageSrc.do?fileStreCours=07c9a6f96798d1e1214d929f7f9db3b2&streFileNm=4b2973b51a5dc2b05b132db6c610deca42195700f53b1f9b40a16c60c29ff181; banner:ValueError:https://www.sejongpac.or.kr/cmmn/file/imageSrc.do?fileStreCours=1226897038b685fe477a72ba2856eb33&streFileNm=63477c1766d6ee7106cef7b3903d5ecfbd62fba9f41a67ba1fa2f1d1926a21c8; banner:ValueError:https://www.sejongpac.or.kr/cmmn/file/imageSrc.do?fileStreCours=1226897038b685fe477a72ba2856eb33&streFileNm=c9f00b488557a02f42863633c9cd319130bf14b1d4b4ce2eaa75fed490b241f0; banner:ValueError:https://www.sejongpac.or.kr/cmmn/file/imageSrc.do?fileStreCours=e5f6f7cfa2c2bbfe040e1b53807416cc&streFileNm=f73fcd1984ede085a294ded92e74b0740e43718370a5f2abad0d43922babb97c; banner:ValueError:https://www.sejongpac.or.kr/cmmn/file/imageSrc.do?fileStreCours=1226897038b685fe477a72ba2856eb33&streFileNm=13973d5cc9b9b18b19636147f60774b288ae60710511cb3f752b88c7da56cb1a; reference:ValueError:https://www.sejongpac.or.kr/cmmn/file/imageSrc.do?fileStreCours=07c9a6f96798d1e1214d929f7f9db3b2&streFileNm=4b2973b51a5dc2b05b132db6c610deca42195700f53b1f9b40a16c60c29ff181",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/sejong-center/favicon.png",
+      "source_url": "https://www.sejongpac.or.kr/static/portal/img/mobile/icon.jpg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5901,
+      "sha256": "acb4a1d99a963c7446611657262d8c32ae38e3f18c7d5cab17e56e709e41df6e",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "f003253d83c099de34476f8572f5a3390208740110108f28632c0bc82a73c91a"
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/sejong-center/logo-1.png",
+      "source_url": "https://www.sejongpac.or.kr/static/portal/img/main/logo.gif",
+      "source_tag": "img:semantic-logo",
+      "context": "img 세종문화회관 로고 이미지 div load body html [document]",
+      "content_type": "image/png",
+      "bytes": 1915,
+      "sha256": "74350e01784460815d725e492c8d6726364086988bc69cf450b326233bcf7a61",
+      "width": 236,
+      "height": 43
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/sejong-center/logo-2.png",
+      "source_url": "https://www.sejongpac.or.kr/static/portal/img/main/logo-footer.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 세종문화회관 아이콘 이미지 div div div footer div wrap",
+      "content_type": "image/png",
+      "bytes": 654,
+      "sha256": "9213ea2223393d5d8dc9a4454d1631a0c09a6ca3f094aa8fa9324a7464b6405d",
+      "width": 162,
+      "height": 162
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/sejong-center/reference-1.webp",
+      "source_url": "https://www.sejongpac.or.kr/cmmn/file/imageSrc.do?fileStreCours=07c9a6f96798d1e1214d929f7f9db3b2&streFileNm=b4848769a8ea3f94537d3fa2fc848a25a9625b838d637b57b26faaf43a50f79f",
+      "source_tag": "img:page-image",
+      "context": "img 스미레 미용실 이미지 div img-sort a banner-item performInfo div banner div banner",
+      "content_type": "image/webp",
+      "bytes": 43090,
+      "sha256": "f2e3e368de7d805d470bbdd639c9ec1c4f881491c13fe2ffc6751b21e4950ebd",
+      "width": 450,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/sejong-center/reference-2.webp",
+      "source_url": "https://www.sejongpac.or.kr/cmmn/file/imageSrc.do?fileStreCours=1226897038b685fe477a72ba2856eb33&streFileNm=4b3d667fc14fc30ed1e1bb9c75f443fc2b2061ad95b408c44731011a6c60517c",
+      "source_tag": "img:page-image",
+      "context": "img 2026 누구나 클래식\r\nwith 국립심포니오케스트라 이미지 div img-sort a banner-item performInfo div banner div banner",
+      "content_type": "image/webp",
+      "bytes": 38468,
+      "sha256": "c7bde1f338fc17f009de71c8200813bfc405a8db81903cb9bdb7a7002af487bf",
+      "width": 450,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/sejong-center/reference-3.webp",
+      "source_url": "https://www.sejongpac.or.kr/cmmn/file/imageSrc.do?fileStreCours=07c9a6f96798d1e1214d929f7f9db3b2&streFileNm=64f0606c9d8422b1eab1772a3d1e109452e2f1440befb29c34155b70a7ef77fe",
+      "source_tag": "img:page-image",
+      "context": "img 2026 대한민국국악관현악축제 이미지 div img-sort a banner-item performInfo div banner div banner",
+      "content_type": "image/webp",
+      "bytes": 49952,
+      "sha256": "5174e995035423485f17d67e9b2e4654e5ef4e7d118c2dcea6a190bf4ad89917",
+      "width": 450,
+      "height": 600
+    }
+  ]
+}

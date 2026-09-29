@@ -1,0 +1,48 @@
+{
+  "company": "에코프로",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.ecopro.co.kr/",
+  "page_url": "https://www.ecopro.co.kr/",
+  "page_title": "EcoPro",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.ecopro.co.kr/web/images/main/main_video_2025.mp4; reference:ValueError:https://www.ecopro.co.kr/web/images/main/main_video_2025.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/ecopro/favicon.png",
+      "source_url": "https://www.ecopro.co.kr/images/common/ecopro_favi.gif",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 376,
+      "sha256": "13ade161698d6637259ec8f7fd42a8b67180d5a7c1d06b2ef3d205440fbb66ec",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/ecopro/logo-1.svg",
+      "source_url": "https://www.ecopro.co.kr/web/images/layout/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img EcoPro a h1 logo div gnb_wrap div layout",
+      "content_type": "image/svg+xml",
+      "bytes": 3274,
+      "sha256": "d05561685e4c579753f8df68c390f5f89605f2070da405f3bb91c0201435504d",
+      "width": 152,
+      "height": 30,
+      "source_sha256": "5516c590496fadb455a3d1940e03309b66392a15a0d3d409a9c56230ddc08719"
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/ecopro/logo-2.svg",
+      "source_url": "https://www.ecopro.co.kr/web/images/layout/footer_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img EcoPro a footer_logo div group div layout footer footer",
+      "content_type": "image/svg+xml",
+      "bytes": 3276,
+      "sha256": "9ec7bfa69156506d7be642d9e493be7ffafe5f30ea7fc6802abcc5d5bcd4e236",
+      "width": 152,
+      "height": 30,
+      "source_sha256": "f87ff901872dda1231b5a46693fbc4e24f48cf47ffcf595523a2032be20271df"
+    }
+  ]
+}

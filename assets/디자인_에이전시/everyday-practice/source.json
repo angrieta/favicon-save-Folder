@@ -1,0 +1,83 @@
+{
+  "company": "일상의실천",
+  "category": "디자인_에이전시",
+  "requested_url": "https://everyday-practice.com",
+  "page_url": "https://everyday-practice.com/",
+  "page_title": "일상의실천",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/everyday-practice/favicon.png",
+      "source_url": "https://everyday-practice.com/wp-content/uploads/2023/03/cropped-favicon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2586,
+      "sha256": "b08e727a8b7d75d23785d8ba029dd4fd450c07181cd2728a1758d3235265f068",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/everyday-practice/og.webp",
+      "source_url": "https://everyday-practice.com/wp-content/uploads/2023/04/og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8676,
+      "sha256": "c49444a3b4969291031f17f88a040f12891856fa3a1b2356213c6ec8f0142da9",
+      "width": 1200,
+      "height": 631
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/everyday-practice/og.webp",
+      "source_url": "https://everyday-practice.com/wp-content/uploads/2023/04/og.png",
+      "source_tag": "json-ld.@graph[4].logo.url",
+      "content_type": "image/webp",
+      "bytes": 8676,
+      "sha256": "c49444a3b4969291031f17f88a040f12891856fa3a1b2356213c6ec8f0142da9",
+      "width": 1200,
+      "height": 631,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/everyday-practice/reference-1.webp",
+      "source_url": "https://everyday-practice.com/wp-content/uploads/2026/09/code-korea-summer-web.gif",
+      "source_tag": "img:page-image",
+      "context": "img attachment-medium_large size-medium_large wp-post-image div fwpl-item portfolio-img div fwpl-col fwpl-col div fwpl-row item-portfolio-thumbnail div fwpl-result r2",
+      "content_type": "image/webp",
+      "bytes": 100238,
+      "sha256": "3055c3428c1f7ddac70f0e8572d6c10e576f0f0f471593a33e05cd5539ba70bf",
+      "width": 700,
+      "height": 991,
+      "source_sha256": "28ee610777ab239791cd418cacdc3855c6c7f2654372e0ee17272c93023004a7"
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/everyday-practice/reference-2.webp",
+      "source_url": "https://everyday-practice.com/wp-content/uploads/2026/09/SBP__motion__06164.38.44-ezgif.com-video-to-gif-converter-1.gif",
+      "source_tag": "img:page-image",
+      "context": "img attachment-medium_large size-medium_large wp-post-image div fwpl-item portfolio-img div fwpl-col fwpl-col div fwpl-row item-portfolio-thumbnail div fwpl-result r3",
+      "content_type": "image/webp",
+      "bytes": 93862,
+      "sha256": "97977c481ed5aeb00fa24fd842d6145bcd5c8d4c3397c79db4dec47d47f97e2b",
+      "width": 540,
+      "height": 764
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/everyday-practice/reference-3.webp",
+      "source_url": "https://everyday-practice.com/wp-content/uploads/2026/09/%EC%8D%B8%EB%84%A4%EC%9D%BC-768x1024.jpg",
+      "source_tag": "img:page-image",
+      "context": "img attachment-medium_large size-medium_large wp-post-image div fwpl-item portfolio-img div fwpl-col fwpl-col div fwpl-row item-portfolio-thumbnail div fwpl-result r4",
+      "content_type": "image/webp",
+      "bytes": 61610,
+      "sha256": "3ad616a3ce39e809c5fde4d063c12ecf3ab59f8e4e1347a09ddaae20bc0e2e98",
+      "width": 768,
+      "height": 1024
+    }
+  ]
+}

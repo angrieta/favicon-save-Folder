@@ -1,0 +1,33 @@
+{
+  "company": "제페토",
+  "category": "테크_플랫폼",
+  "requested_url": "https://web.zepeto.me/ko",
+  "page_url": "https://web.zepeto.me/ko",
+  "page_title": "제페토",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cf-web.zepeto.me/_app/immutable/chunks/authStore-cfb9d283.js; reference:ValueError:https://cf-web.zepeto.me/_app/immutable/chunks/url-51a57190.js; reference:ValueError:https://cf-web.zepeto.me/_app/immutable/chunks/stores-2e00d257.js; reference:ValueError:https://cf-web.zepeto.me/_app/immutable/chunks/ZepetoContextProvider-311307fb.js; reference:ValueError:https://cf-web.zepeto.me/_app/immutable/chunks/index-70b5ee2a.js; reference:ValueError:https://cf-web.zepeto.me/_app/immutable/chunks/index-80a8b334.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/zepeto/favicon.png",
+      "source_url": "https://asset-zepetoful.zepeto.io/He/f0w20tzo7x3G/Hef8c3wK87XuIkmsUN1zlz5/en",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2046,
+      "sha256": "f3db2504026ec63010e87cb7d081c71426b86c6e8517b24805c739c370d383ac",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/zepeto/og.webp",
+      "source_url": "https://web.zepeto.me/assets/img/im-default-og-new.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 74024,
+      "sha256": "27e8c94cbfeffb281953ca2c67972fbb3677b4ce31fd0873e92dff381e664959",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

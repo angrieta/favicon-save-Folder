@@ -1,0 +1,22 @@
+{
+  "company": "Fidelity",
+  "category": "금융",
+  "requested_url": "https://www.fidelity.com",
+  "page_url": "https://www.fidelity.com/",
+  "page_title": "Access Denied",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.fidelity.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/fidelity/favicon.ico",
+      "source_url": "https://www.fidelity.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "2a252a3b62e775f04b35745157e51c0ab3f00bf2235e0c1f062600782d98ca85",
+      "width": 48,
+      "height": 48
+    }
+  ]
+}

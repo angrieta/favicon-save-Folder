@@ -1,0 +1,46 @@
+{
+  "company": "Bugatti",
+  "category": "자동차",
+  "requested_url": "https://www.bugatti.com/",
+  "page_url": "https://www.bugatti.com/",
+  "page_title": "Official BUGATTI Website | BUGATTI",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/bugatti/favicon.svg",
+      "source_url": "https://www.bugatti.com/favicon.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 2373,
+      "sha256": "885360a486d73326e5d2d7d31e70889032e55e64a56980ad34be070827fe0efe",
+      "width": 699,
+      "height": 699,
+      "source_sha256": "72bb6a283650ea988747adda8b14d7187035aac3ec10045195cb18ac4f9fd197"
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/bugatti/og.webp",
+      "source_url": "https://bugatti.imgix.net/6776bdebb93bd018d9d54dd7/bugatti-og-image.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 28338,
+      "sha256": "60dad9cb7dc407542e0e343ade00a250a5f0b1b4af03650b142ed29118a3a274",
+      "width": 1120,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/bugatti/logo-1.webp",
+      "source_url": "https://bugatti.imgix.net/6a2be22e4df15199c1bfc3dd/bugatti-x-honma-landing-keyvisual-01.jpg?auto=format,compress&cs=srgb&sharp=10&w=100&blur=20",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-full w-full !object-cover a close-up of a dark blue car with a bronze trim and a \"bb\" logo, reflecting the silhouette of a golfer swinging a club with the sun behind them. div pointer-events-none h-full w-full div absolute inset-0 h-f",
+      "content_type": "image/webp",
+      "bytes": 1044,
+      "sha256": "29d90cb8c895c773c1621615f21ef36f026b40c937d3e792d3be8149da03a6b7",
+      "width": 100,
+      "height": 58
+    }
+  ]
+}

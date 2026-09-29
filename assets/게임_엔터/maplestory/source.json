@@ -1,0 +1,33 @@
+{
+  "company": "메이플스토리",
+  "category": "게임_엔터",
+  "requested_url": "https://maplestory.nexon.com/",
+  "page_url": "https://maplestory.nexon.com/promotion/event/2026/20260917/intro",
+  "page_title": "[메이플스토리] 2026년 9월 업데이트",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=268046720223120&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/maplestory/favicon.png",
+      "source_url": "https://maplestory.nexon.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 1208,
+      "sha256": "74c7c31b5dec13bf67183155fec1ce469f1054fe981574ab9135f2e9edba6956",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/maplestory/og.webp",
+      "source_url": "https://lwi.nexon.com/maplestory/2026/0917_intro_29385F96D9688E9F/exception/meta.jpg?v=29845115",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20008,
+      "sha256": "91475a950b69602e48e57d31bba01694a9163158a784e96f8c5e64ec8aa12dc5",
+      "width": 400,
+      "height": 400
+    }
+  ]
+}

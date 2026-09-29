@@ -1,0 +1,45 @@
+{
+  "company": "네이버 시리즈",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://series.naver.com/",
+  "page_url": "https://series.naver.com/novel/home.series",
+  "page_title": "네이버 시리즈",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/naver-series/favicon.png",
+      "source_url": "https://ssl.pstatic.net/static/nstore/series_favicon_114.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 3072,
+      "sha256": "90ce6bf7fd84e93be7623ca5cf27de19108ab047cc5a66d2ba18e876482bcd28",
+      "width": 114,
+      "height": 114
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/naver-series/og.webp",
+      "source_url": "https://ssl.pstatic.net/static/nstore/ogtag_series_v2.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 920,
+      "sha256": "2a9ddcfc2a4645daca0fb18cb15e6f692e4028d8487fc772153cc75eaf48eac1",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/naver-series/reference-1.webp",
+      "source_url": "https://ssl.pstatic.net/static/nstore/img/bg_cookie_popup_v2.png",
+      "source_tag": "img:page-image",
+      "context": "img 쿠키 가격 안내 div ly_spot div cookiePriceGuidePopup ly_cookie_popup div wrap main timedeal body bs",
+      "content_type": "image/webp",
+      "bytes": 50348,
+      "sha256": "0c92a54239f71504a7111d41eefe4b5b9771cddfe44ce3d275b67a0da0451b7a",
+      "width": 606,
+      "height": 996
+    }
+  ]
+}

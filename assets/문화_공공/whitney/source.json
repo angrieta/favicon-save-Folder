@@ -1,0 +1,120 @@
+{
+  "company": "Whitney Museum of American Art",
+  "category": "문화_공공",
+  "requested_url": "https://whitney.org",
+  "page_url": "https://whitney.org/",
+  "page_title": "Whitney Museum of American Art",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/whitney/favicon.png",
+      "source_url": "https://whitney.org/guide/app_icon_512.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 10332,
+      "sha256": "f5db72123f3d816dcbaa5cade536e18688f68ade7a2c353f42243bd9f323fdfe",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/whitney/og.webp",
+      "source_url": "https://whitneymedia.org/assets/image/774437/gancsos_wmaa_01.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 161652,
+      "sha256": "12a3ae202ce4757f6fd1ff182f6df709563a86b2bd2843d61830628228ba752a",
+      "width": 1200,
+      "height": 1032
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/whitney/logo-1.webp",
+      "source_url": "https://whitney.org/og_default.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 6028,
+      "sha256": "fc400894b84492ba94c2d63e126f577544dd7cf52bcc27ee9fae285a93a7b465",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/whitney/logo-2.png",
+      "source_url": "https://whitney.org/assets/whitney_text-a190f486.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img w__text a w__link Whitney Museum of American Art div w div navigation content-wrapper header navigation header",
+      "content_type": "image/png",
+      "bytes": 26182,
+      "sha256": "ec43c25565215f6ea327a425eb0ff4e3332f5c768a9f4da08b20227fc6d1bcbd",
+      "width": 1600,
+      "height": 268
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/whitney/banner-1.webp",
+      "source_url": "https://whitneymedia.org/assets/image/833889/large_Original.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img image A bright pop-art hot dog with a thick wavy line of ketchup across the sausage. a li list-item ul hc-list m-0 p-0 hc-list--promo div hc-list-wrapper",
+      "content_type": "image/webp",
+      "bytes": 242130,
+      "sha256": "504228d1362f30757d256d18c8aa15009c7cf5728ba2a1b22687baca8e73635a",
+      "width": 1600,
+      "height": 939,
+      "source_sha256": "0006e4aac56b807545e9b6ca947369b89a493ea8967ad4011a30b36e05e040bc"
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/whitney/banner-2.webp",
+      "source_url": "https://whitneymedia.org/assets/image/833889/medium_Original.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img image A bright pop-art hot dog with a thick wavy line of ketchup across the sausage. a li list-item ul hc-list m-0 p-0 hc-list--promo div hc-list-wrapper",
+      "content_type": "image/webp",
+      "bytes": 123810,
+      "sha256": "c5d5452edcfeace5d524186db53df20649808570bb5e5a27cd510edc13ef6718",
+      "width": 1024,
+      "height": 600,
+      "source_sha256": "5c091d25cf26cc2f4c518e812894d1acb72849811cd67b3a577e9810e7db3dce"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/whitney/reference-1.webp",
+      "source_url": "https://whitneymedia.org/assets/image/833049/large_WMAA97701_02_251016_GPowell_Whitney_1409_v2_3x2_web.jpg",
+      "source_tag": "img:page-image",
+      "context": "img image A woman sits on a bench looking at large colorful paintings in a modern art gallery. div list-item__title__media a li list-item section component hc",
+      "content_type": "image/webp",
+      "bytes": 74594,
+      "sha256": "abd390d3424a0acc77f8c79423ef3ecbeb057b0b800668c15e3b3cf141eb219a",
+      "width": 1600,
+      "height": 1068,
+      "source_sha256": "e9016666ec14e869b013598893a7e1544406a200ccf87be19e981573a472e446"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/whitney/reference-2.webp",
+      "source_url": "https://whitneymedia.org/assets/image/833049/medium_WMAA97701_02_251016_GPowell_Whitney_1409_v2_3x2_web.jpg",
+      "source_tag": "img:page-image",
+      "context": "img image A woman sits on a bench looking at large colorful paintings in a modern art gallery. div list-item__title__media a li list-item section component hc",
+      "content_type": "image/webp",
+      "bytes": 71544,
+      "sha256": "63eef9deb329890d5598aea94fdb0b436473eac8e1f0e9582b5a1ed2db71b16d",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/whitney/reference-3.webp",
+      "source_url": "https://whitneymedia.org/assets/image/833449/large_WMAA68946_WMAA68946_2014_29_536_cropped.jpg",
+      "source_tag": "img:page-image",
+      "context": "img image Person with glasses holds a small black-and-tan dachshund puppy close to their chest. div list-item__title__media a li list-item main main content-wrapper main main--page",
+      "content_type": "image/webp",
+      "bytes": 73254,
+      "sha256": "adcae6d5703891f65b030e962cb68012b122078dbf2ea85ece6a65245e6660cc",
+      "width": 1073,
+      "height": 1350
+    }
+  ]
+}

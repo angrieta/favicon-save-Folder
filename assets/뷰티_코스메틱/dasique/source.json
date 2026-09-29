@@ -1,0 +1,57 @@
+{
+  "company": "데이지크",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.dasique.co.kr",
+  "page_url": "https://www.dasique.co.kr/",
+  "page_title": "데이지크",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://www.dasique.co.kr/{$img}; reference:HTTPError:https://www.dasique.co.kr/{$img}; reference:ValueError:http://ssl.logger.co.kr/tracker.1.tsp?u=104067&js=N",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/dasique/favicon.png",
+      "source_url": "https://www.dasique.co.kr/web/upload/favicon_20191025160814.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 396,
+      "sha256": "6830895bc401c9222200cd6f44a5e998844d752577f1ff32cf523db468ec2654",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/dasique/og.webp",
+      "source_url": "https://www.dasique.co.kr/web/upload/share-image-1-b22fcdc48b9d086ea95fe8896ed6094c.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10898,
+      "sha256": "a2c0118763844c326e484ad52283749247a727f3dd30c719b919688a7958396f",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/dasique/logo-1.png",
+      "source_url": "https://cafe24.poxo.com/ec01/dasique/qG7W5YG4u15UcFpJqE8Uf5jEniAugyLA7cqzl+jTHzQrATMFaosSfW9ng791phy9YtQKezPnHmv9N7JrvVDwQg==/_/web/upload/category/editor/2019/10/28/7ebde7694b7316580f5459eea8187673.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div logo div div inner",
+      "content_type": "image/png",
+      "bytes": 4976,
+      "sha256": "6e1ca866da1de5923775dc48152b5b62f5c79f986d4711b135a56b5674e10fd6",
+      "width": 133,
+      "height": 40
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/dasique/banner-1.webp",
+      "source_url": "https://www.dasique.co.kr/web/upload/NNEditor/20260601/pc_22.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div section2 section background-image: url(/web/upload/NNEditor/20260601/pc_22.jpg); background-size: cover; background-position:center",
+      "content_type": "image/webp",
+      "bytes": 52946,
+      "sha256": "d897f6d796cc07b0f2ec4917ffb6410952420e6133c9e09c9f94270e9b686d24",
+      "width": 1800,
+      "height": 1059
+    }
+  ]
+}

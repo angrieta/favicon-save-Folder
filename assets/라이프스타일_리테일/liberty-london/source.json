@@ -1,0 +1,71 @@
+{
+  "company": "Liberty London",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.libertylondon.com/",
+  "page_url": "https://www.libertylondon.com/",
+  "page_title": "Liberty | Designer Department Store Selling Luxury Brands",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.libertylondon.com/on/demandware.static/Sites-liberty-Site/-/default/dwe663c8ac/fonts/AkzidGrtskProExt.woff2; reference:ValueError:https://www.libertylondon.com/on/demandware.static/Sites-liberty-Site/-/default/dw595863ee/fonts/LasenbySans-Regular.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/liberty-london/favicon.png",
+      "source_url": "https://www.libertylondon.com/on/demandware.static/Sites-liberty-Site/-/default/v1790673653524/images/favicons/apple-touch-icon.png?v=2020",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1337,
+      "sha256": "97b31d421d16d76056cd0febdcb4e7d8994baa1b4aa4da97b6dff4ca6b51d57e",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "243439a63aff027cb7932a2fba8440f00033eae5627c3d1746f35665dfe43060"
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/liberty-london/logo-1.webp",
+      "source_url": "https://cdn.media.amplience.net/i/liberty/260901-Nav-Ad-4-Beauty-Sunday-Riley-BOTM?fmt=auto&qlt=default&w=150&h=150",
+      "source_tag": "img:semantic-logo",
+      "context": "img lazy Brand of the Month: Sunday Riley span nav-banner-block a portrait-nav-banner nav-banner ga4-tracking div row navigation-banners div content-asset",
+      "content_type": "image/webp",
+      "bytes": 3780,
+      "sha256": "31110cd09747af39c4a022f4371fcc687a3f0249d1447cf20afb445cf5e3ffe5",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/liberty-london/logo-2.webp",
+      "source_url": "https://cdn.media.amplience.net/i/liberty/260901-Nav-Ad-4-Beauty-Sunday-Riley-BOTM?fmt=auto&qlt=default&w=300&h=300",
+      "source_tag": "img:semantic-logo",
+      "context": "img lazy Brand of the Month: Sunday Riley span nav-banner-block a portrait-nav-banner nav-banner ga4-tracking div row navigation-banners div content-asset",
+      "content_type": "image/webp",
+      "bytes": 11314,
+      "sha256": "d731f077a29524efbba41e3827567a5460cccfad01b51cbd4ed55a751ff7517c",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/liberty-london/banner-1.webp",
+      "source_url": "https://cdn.media.amplience.net/i/liberty/260724-Beauty-Cardholder-PDP-Promo-Banner_D?fmt=auto",
+      "source_tag": "img:semantic-banner",
+      "context": "img promo-desktop Enjoy up to 20% off beauty. Shop Now. a promo-pdp-banner div pdp-call-out-message span akzidenz-grotesk-pro-light div plp-promo-container d-none d-lg-block",
+      "content_type": "image/webp",
+      "bytes": 16410,
+      "sha256": "2d070ccdd0480ee2d0b5c9200982790dd28e460cfdfb244f9f8908dfa1c8d781",
+      "width": 1560,
+      "height": 240
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/liberty-london/banner-2.webp",
+      "source_url": "https://cdn.media.amplience.net/i/liberty/260724-Beauty-Cardholder-PDP-Promo-Banner_M?fmt=auto",
+      "source_tag": "img:semantic-banner",
+      "context": "img promo-mobile Enjoy up to 20% off beauty. Shop Now. img promo-desktop a promo-pdp-banner div pdp-call-out-message span akzidenz-grotesk-pro-light",
+      "content_type": "image/webp",
+      "bytes": 12362,
+      "sha256": "0fa6dc322c503b0466bf59d8b320e6941a21d621d98591bba587dd6247f3ac10",
+      "width": 1040,
+      "height": 240
+    }
+  ]
+}

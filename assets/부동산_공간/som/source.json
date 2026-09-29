@@ -1,0 +1,57 @@
+{
+  "company": "SOM",
+  "category": "부동산_공간",
+  "requested_url": "https://www.som.com/",
+  "page_url": "https://www.som.com/",
+  "page_title": "Homepage – SOM",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.som.com/wp-content/uploads/fly-images/165944/SOM79_7A_0924B_crop-1780675254-scaled-140x140-c.jpg; reference:HTTPError:https://www.som.com/{\"sources\":[{\"media\":\"(min-width: 1280px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/2026\\/06\\/SOM79_7A_0924B_crop-1780675254-scaled.jpg\"},{\"media\":\"(min-width: 768px) and (max-width: 1279px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/fly-images\\/165944\\/SOM79_7A_0924B_crop-1780675254-scaled-1024x1024-c.jpg\"},{\"media\":\"(max-width: 767px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/fly-images\\/165944\\/SOM79_7A_0924B_crop-1780675254-scaled-800x800-c.jpg\"}]}; reference:HTTPError:https://www.som.com/{\"sources\":[{\"media\":\"(min-width: 1280px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/2026\\/07\\/IBM_Sofa_Card_Crop-1784641858.png\"},{\"media\":\"(min-width: 768px) and (max-width: 1279px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/fly-images\\/167570\\/IBM_Sofa_Card_Crop-1784641858-1024x768-c.png\"},{\"media\":\"(max-width: 767px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/fly-images\\/167570\\/IBM_Sofa_Card_Crop-1784641858-800x600-c.png\"}]}; reference:HTTPError:https://www.som.com/wp-content/uploads/fly-images/166021/IKONSOM_Product-Design_SOM79_Spotlight-1780939229-140x70-c.jpg; reference:HTTPError:https://www.som.com/{\"sources\":[{\"media\":\"(min-width: 1280px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/2026\\/06\\/IKONSOM_Product-Design_SOM79_Spotlight-1780939229.jpg\"},{\"media\":\"(min-width: 768px) and (max-width: 1279px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/fly-images\\/166021\\/IKONSOM_Product-Design_SOM79_Spotlight-1780939229-1024x512-c.jpg\"},{\"media\":\"(max-width: 767px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/fly-images\\/166021\\/IKONSOM_Product-Design_SOM79_Spotlight-1780939229-800x400-c.jpg\"}]}; reference:HTTPError:https://www.som.com/{\"sources\":[{\"media\":\"(min-width: 1280px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/2021\\/08\\/SFOffice_002_large-scaled.jpg\"},{\"media\":\"(min-width: 768px) and (max-width: 1279px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/fly-images\\/39675\\/SFOffice_002_large-scaled-512x745-c.jpg\"},{\"media\":\"(max-width: 767px)\",\"src\":\"https:\\/\\/www.som.com\\/wp-content\\/uploads\\/fly-images\\/39675\\/SFOffice_002_large-scaled-800x1164-c.jpg\"}]}",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/som/favicon.png",
+      "source_url": "https://www.som.com/wp-content/uploads/2021/10/cropped-SOM_Logo-07-1634217563.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 13979,
+      "sha256": "887a1025a0f16cb67207b3b044fd7f1786b18be23c20c47a21c58d006cf22182",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/som/og.webp",
+      "source_url": "https://www.som.com/wp-content/uploads/2022/04/213068_000_N158-1651157836-scaled.jpeg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 90166,
+      "sha256": "555eadeb171e4a0d38020a67c6a2e442a86e366ed0dc075f0728cf17066e7bbd",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/som/logo-1.png",
+      "source_url": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img navigation__logo navigation__logo--dark SOM a navigation__brand div navigation__wrapper nav navigation container Primary Navigation body home wp-singular page-template page-template-template-homepage template-homepage page page-id-15 wp",
+      "content_type": "image/png",
+      "bytes": 66350,
+      "sha256": "c95a9932493e7986e1ed4fdac172bd054ea65e55b64219acd14a6766e6007853",
+      "width": 1600,
+      "height": 555
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/som/logo-2.png",
+      "source_url": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img navigation__logo navigation__logo--light a navigation__brand div navigation__wrapper nav navigation container Primary Navigation body home wp-singular page-template page-template-template-homepage template-homepage page page-id-15 wp-th",
+      "content_type": "image/png",
+      "bytes": 45392,
+      "sha256": "280382c3d74df1a9db119d31e0d5841374009dc4b98dea9dc5d9c33eccf7a724",
+      "width": 1500,
+      "height": 524
+    }
+  ]
+}

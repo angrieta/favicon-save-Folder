@@ -1,0 +1,58 @@
+{
+  "company": "Midori",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.midori-japan.co.jp/",
+  "page_url": "https://www.midori-japan.co.jp/",
+  "page_title": "ミドリ - MIDORI - 「デザイン文具」の総合メーカー",
+  "collection_status": "partial",
+  "collection_error": "logo:ConnectionError:https://www.midori-japan.co.jp2/wp-content/themes/midori2018/common/images/general.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/midori/favicon.ico",
+      "source_url": "https://www.midori-japan.co.jp/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 34494,
+      "sha256": "2a36622fe8970d6b18b1235d42e49e5be719cddcd4b993e99cd3a2d902b47188",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/midori/reference-1.webp",
+      "source_url": "https://www.midori-japan.co.jp/70th/index/img/historyImg01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div idxHistory__bgImg div idxHistory__bg a section history idxHistory",
+      "content_type": "image/webp",
+      "bytes": 44330,
+      "sha256": "45ad0404c8e2b9080b26b638b342d68079a0e46d13917852589e665117148c7b",
+      "width": 640,
+      "height": 387
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/midori/reference-2.webp",
+      "source_url": "https://www.midori-japan.co.jp/70th/index/img/historyImg02.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div idxHistory__bgImg div idxHistory__bg a section history idxHistory",
+      "content_type": "image/webp",
+      "bytes": 26030,
+      "sha256": "736f2c41901c8fdc55220310bc0dddecd77f94df65914da7ca6a000c9cea1940",
+      "width": 640,
+      "height": 387
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/midori/reference-3.webp",
+      "source_url": "https://www.midori-japan.co.jp/70th/index/img/historyImg03.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div idxHistory__bgImg div idxHistory__bg a section history idxHistory",
+      "content_type": "image/webp",
+      "bytes": 35782,
+      "sha256": "b15f130679de95ae01930e3d437c094051678b26eda796f516f74676976d54a8",
+      "width": 640,
+      "height": 387
+    }
+  ]
+}

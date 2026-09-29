@@ -1,0 +1,83 @@
+{
+  "company": "Playmobil",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.playmobil.com/",
+  "page_url": "https://www.playmobil.com/de-de/",
+  "page_title": "PLAYMOBIL® Deutschland",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.playmobil.com/de-de/1&fmt.jpeg.interlaced=true",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/playmobil/favicon.png",
+      "source_url": "https://www.playmobil.com/on/demandware.static/Sites-DE-Site/-/default/dw7e7e9f6a/images/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6328,
+      "sha256": "921abe9fbd8f6b330fb4cb90db2dad5531c60d3f2c24d89433885485afccb415",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/playmobil/banner-1.webp",
+      "source_url": "https://media.playmobil.com/i/playmobil/blind_packs_hero_desktop?w=1880&sm=aspect&aspect=4:1&locale=de-DE,de,*&fmt=auto&strip=true&qlt=80&unsharp=0,1,0.9,1&fmt.jpeg.interlaced=true",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div amplience js-lazyMedia amplience--lazyMedia div heroCarouselSlide__image heroCarouselSlide__image--fullBackground div heroCarouselSlide heroCarouselSlide--fullWidth a heroCarouselSlide__linkWrapper Jetzt entdecken",
+      "content_type": "image/webp",
+      "bytes": 77960,
+      "sha256": "d5b74c2c7adf4c15bbff3577197a21bc084296463952edba5fcdccd51801b6aa",
+      "width": 1600,
+      "height": 400,
+      "source_sha256": "191be05b5d0ad3a9360feefc69edabfb472fd82cc2ea4eeed94574bf96cd77b1"
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/playmobil/banner-2.webp",
+      "source_url": "https://media.playmobil.com/i/playmobil/WWE_hero_desktop?w=1880&sm=aspect&aspect=4:1&locale=de-DE,de,*&fmt=auto&strip=true&qlt=80&unsharp=0,1,0.9,1&fmt.jpeg.interlaced=true",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div amplience js-lazyMedia amplience--lazyMedia div heroCarouselSlide__image heroCarouselSlide__image--fullBackground div heroCarouselSlide heroCarouselSlide--fullWidth a heroCarouselSlide__linkWrapper Jetzt shoppen",
+      "content_type": "image/webp",
+      "bytes": 51692,
+      "sha256": "f892d35d648900cc477b51adac7b5c18c72a29599dcc71e8357a951095b24109",
+      "width": 1800,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/playmobil/reference-1.webp",
+      "source_url": "https://media.playmobil.com/v/playmobil/camping/thumbs/eaea6aaa-4521-496b-a224-497aad5655c3",
+      "source_tag": "inline-background-image",
+      "context": "div camping amplienceVideo js-amplienceVideo amplience js-lazyMedia amplience--lazyMedia background-image: url('https://media.playmobil.com/v/playmobil/camping/thumbs/eaea6aaa-4521-496b-a224-497aad5655c3');",
+      "content_type": "image/webp",
+      "bytes": 111824,
+      "sha256": "2905aeefb8aaba191af63e5d384ec30ac1a64ab533b065fd91d3346d9797cfa4",
+      "width": 759,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/playmobil/reference-2.webp",
+      "source_url": "https://media.playmobil.com/v/playmobil/dollhouse_tour/thumbs/c5bb4ef9-fe33-4722-9d1b-12862bd8b03d",
+      "source_tag": "inline-background-image",
+      "context": "div dollhouse_tour amplienceVideo js-amplienceVideo amplience js-lazyMedia amplience--lazyMedia background-image: url('https://media.playmobil.com/v/playmobil/dollhouse_tour/thumbs/c5bb4ef9-fe33-4722-9d1b-12862bd8b03d');",
+      "content_type": "image/webp",
+      "bytes": 50710,
+      "sha256": "e83e35617e8470cb86487bf35ba7fb4c743bd84a8e70ba3fec154cbfed990ba7",
+      "width": 759,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/playmobil/reference-3.webp",
+      "source_url": "https://media.playmobil.com/v/playmobil/whathappensnext/thumbs/560cf48f-484c-4cfe-b4e2-cbfda950f9d5",
+      "source_tag": "inline-background-image",
+      "context": "div whathappensnext amplienceVideo js-amplienceVideo amplience js-lazyMedia amplience--lazyMedia background-image: url('https://media.playmobil.com/v/playmobil/whathappensnext/thumbs/560cf48f-484c-4cfe-b4e2-cbfda950f9d5');",
+      "content_type": "image/webp",
+      "bytes": 67406,
+      "sha256": "5188fbf3f3e4f44658929bd989dc472e0f83299bd15428c68f024ffa1f6b3443",
+      "width": 759,
+      "height": 1350
+    }
+  ]
+}

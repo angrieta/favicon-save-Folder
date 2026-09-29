@@ -1,0 +1,70 @@
+{
+  "company": "Wellcome Collection",
+  "category": "문화_공공",
+  "requested_url": "https://wellcomecollection.org",
+  "page_url": "https://wellcomecollection.org/",
+  "page_title": "Wellcome Collection | A free museum and library exploring health and human experience",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://i.wellcomecollection.org/assets/fonts/Inter-Regular.woff2; banner:ValueError:https://i.wellcomecollection.org/assets/fonts/Inter-Regular.woff",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/wellcome-collection/favicon.png",
+      "source_url": "https://i.wellcomecollection.org/assets/icons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4126,
+      "sha256": "57c832cea949a4fe9a0a156d9d8f0b2a39343647e02846f91ba23e38d7727579",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/wellcome-collection/og.webp",
+      "source_url": "https://images.prismic.io/wellcomecollection/fc1e68b0528abbab8429d95afb5cfa4c74d40d52_tf_180516_2060224.jpg?auto=compress%2Cformat&rect=&w=800&h=",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 24694,
+      "sha256": "c3c5aedf5e2e64165c5207dabcf83d164182ef1ce6f746e035e13095fa2d42b7",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wellcome-collection/reference-1.webp",
+      "source_url": "https://images.prismic.io/wellcomecollection/9nTrkFmIBv1FMmrS_EP3619_0001.jpg?w=1338&auto=compress%2Cformat&rect=0%2C209%2C4000%2C2250&q=50",
+      "source_tag": "img:page-image",
+      "context": "img sc-6da24a59-0 deNcOd div sc-191ef379-1 sc-248c7636-3 boaVEb iPjDQz a sc-191ef379-0 sc-248c7636-2 cBKdUA imvnm div sc-248c7636-1 dvmVRK div sc-191ef379-1 kHSUkH",
+      "content_type": "image/webp",
+      "bytes": 76018,
+      "sha256": "299fbdee0e0eb041f566031efc3734871ce1435e8bcca035f83423477503ed0b",
+      "width": 1338,
+      "height": 753,
+      "source_sha256": "eded594807211a227675bb1afac2b9d8112ff365f5763fb9599cdb9dc142a040"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wellcome-collection/reference-2.webp",
+      "source_url": "https://images.prismic.io/wellcomecollection/9nTrkFmIBv1FMmrS_EP3619_0001.jpg?w=1024&auto=compress%2Cformat&rect=0%2C209%2C4000%2C2250&q=50",
+      "source_tag": "img:page-image",
+      "context": "img sc-6da24a59-0 deNcOd div sc-191ef379-1 sc-248c7636-3 boaVEb iPjDQz a sc-191ef379-0 sc-248c7636-2 cBKdUA imvnm div sc-248c7636-1 dvmVRK div sc-191ef379-1 kHSUkH",
+      "content_type": "image/webp",
+      "bytes": 81358,
+      "sha256": "b4f69a9efa7b7888db1127810145da8a865eec534469be4cb4a5bfa46f3d4496",
+      "width": 1024,
+      "height": 576
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wellcome-collection/reference-3.webp",
+      "source_url": "https://images.prismic.io/wellcomecollection/ac4w7pGXnQHGZMe4_SDP_EP003369_260319_2680.jpg?w=1338&auto=compress%2Cformat&rect=0%2C0%2C4000%2C2250&q=50",
+      "source_tag": "img:page-image",
+      "context": "img sc-6da24a59-0 deNcOd div sc-cab1a58d-0 iJMTDm a aR8DZxAAACgAaG6e sc-cab1a58d-1 cHySWf div sc-191ef379-1 fZxaWC div sc-191ef379-0 cmTirk",
+      "content_type": "image/webp",
+      "bytes": 107510,
+      "sha256": "2fdd08b344813c0b8a0e749da96e58c0b6d1abc4d6b8fd9bf4f688b34acd8610",
+      "width": 1338,
+      "height": 753
+    }
+  ]
+}

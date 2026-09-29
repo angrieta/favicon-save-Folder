@@ -1,0 +1,81 @@
+{
+  "company": "삼성바이오로직스",
+  "category": "교육_헬스케어",
+  "requested_url": "https://samsungbiologics.com/kr",
+  "page_url": "https://samsungbiologics.com/kr",
+  "page_title": "삼성바이오로직스 대표 홈페이지 - Leading End-to-End CDMO",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://samsungbiologics.com/upload/video/main/ren-main-visual-itm1.mp4; banner:ValueError:https://samsungbiologics.com/resources/front/en/images/main-renewal/m-visual-itm1.webm; banner:ValueError:https://samsungbiologics.com/upload/video/main/m-ren-main-visual-itm1.mp4; reference:ValueError:https://samsungbiologics.com/upload/video/main/ren-main-visual-itm1.mp4; reference:ValueError:https://samsungbiologics.com/resources/front/en/images/main-renewal/m-visual-itm1.webm; reference:ValueError:https://samsungbiologics.com/upload/video/main/m-ren-main-visual-itm1.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/samsung-biologics/favicon.ico",
+      "source_url": "https://samsungbiologics.com/resources/front/common/samsungbio.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 10134,
+      "sha256": "8cf3a833ebdcf9e3f8278a95d832f2361d87508cff8be69e4c4fb57f9a5bedcf",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/samsung-biologics/og.webp",
+      "source_url": "https://samsungbiologics.com/resources/front/common/logo_sbl.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5990,
+      "sha256": "6d9976408a931a7af586c669725455fc5e6eb22210b53bcc9439d16a361dfb56",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/samsung-biologics/logo-1.svg",
+      "source_url": "https://samsungbiologics.com/resources/front/en/images/logo.svg",
+      "source_tag": "json-ld.publisher.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 7659,
+      "sha256": "34b40d2e015f005f8bdda485ac4b520542172d725b4e9090644c1c1526b0a8e4",
+      "width": 122,
+      "height": 88
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/samsung-biologics/reference-1.webp",
+      "source_url": "https://samsungbiologics.com/resources/front/en/images/main-renewal/streamline-itm1.webp",
+      "source_tag": "img:page-image",
+      "context": "img 오가노이드 (Organoids) a div photo-box div itm-box li",
+      "content_type": "image/webp",
+      "bytes": 23106,
+      "sha256": "f2948040b41cd8ed0af152841780eaeabd594f9b38ea5d9de1758b094f461b02",
+      "width": 864,
+      "height": 864
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/samsung-biologics/reference-2.webp",
+      "source_url": "https://samsungbiologics.com/resources/front/en/images/main-renewal/streamline-itm2.webp",
+      "source_tag": "img:page-image",
+      "context": "img 위탁개발 (CDO) a div photo-box div itm-box li",
+      "content_type": "image/webp",
+      "bytes": 36208,
+      "sha256": "3e4d0efd89fbc1f65b7b867a871030cba2b31377ffc090b6fd5c95a8b4ba481a",
+      "width": 864,
+      "height": 864
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/samsung-biologics/reference-3.webp",
+      "source_url": "https://samsungbiologics.com/resources/front/en/images/main-renewal/streamline-itm3.webp",
+      "source_tag": "img:page-image",
+      "context": "img 위탁생산 (CMO): 원료의약품 a div photo-box div itm-box li",
+      "content_type": "image/webp",
+      "bytes": 17464,
+      "sha256": "17f081004f71ff1fa1b7fda866cecd23b370a3762b3b867b70c56e2b04fc795b",
+      "width": 864,
+      "height": 864
+    }
+  ]
+}

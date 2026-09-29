@@ -1,0 +1,69 @@
+{
+  "company": "전자신문",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.etnews.com/",
+  "page_url": "https://www.etnews.com/",
+  "page_title": "전자신문",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/etnews/favicon.png",
+      "source_url": "https://img.etnews.com/2019/mobile_et/images/favicon.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1136,
+      "sha256": "43c086b3a16e8d5a144206e13e5e2f33f0fe352ff1339fe7706bcbb92aa1fe8d",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/etnews/og.webp",
+      "source_url": "https://img.etnews.com/2017/img/facebookblank.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3232,
+      "sha256": "6279931125faa645a2930b84b3087b8fa0490c6c06d20870337c492b656e1dc1",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/etnews/logo-1.svg",
+      "source_url": "https://img.etnews.com/2024/etnews/images/logo_et.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a h1 logo_scroll div wrap nav",
+      "content_type": "image/svg+xml",
+      "bytes": 3605,
+      "sha256": "acc33314dcfb8c209473afa1b7b869caa03f02b74e3efa0a6b05478ca355887d",
+      "width": 370,
+      "height": 100
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/etnews/logo-2.svg",
+      "source_url": "https://img.etnews.com/2024/junior/images/logo_jr_menu.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a li outlink ul scroll_nav nav large_width div wrap",
+      "content_type": "image/svg+xml",
+      "bytes": 4847,
+      "sha256": "7a81b2d904be5939d3467e576c71e940b9f26ce34a3593fb0cfd174938cbc361",
+      "width": 148,
+      "height": 24
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/etnews/reference-1.webp",
+      "source_url": "https://img.etnews.com/news/article/2026/09/29/article_29172439656589.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 헤드라인 이미지 a figure div lank9 div col_left",
+      "content_type": "image/webp",
+      "bytes": 30544,
+      "sha256": "7429843c3f2d895bc236663c736d19c4e9996c344c3d6be5d01772bbbcdcebaf",
+      "width": 690,
+      "height": 345
+    }
+  ]
+}

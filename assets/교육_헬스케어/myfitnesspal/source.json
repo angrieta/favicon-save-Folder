@@ -1,0 +1,70 @@
+{
+  "company": "MyFitnessPal",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.myfitnesspal.com",
+  "page_url": "https://www.myfitnesspal.com/ko",
+  "page_title": "MyFitnessPal | MyFitnessPal",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/myfitnesspal/favicon.png",
+      "source_url": "https://www.myfitnesspal.com/favicons/apple-touch-icon.png?v=1",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4498,
+      "sha256": "e37aed451c0c36fd29d75e7050c1cdabe35f1e936ef7525cf5f2c8327a022bb3",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "94a9d6ca78a97ef80069db49d86107da71c2639a693f0f693435d5353d8784ea"
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/myfitnesspal/og.webp",
+      "source_url": "https://www.myfitnesspal.com/favicons/default-share-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 22110,
+      "sha256": "1da351890cffb73eba3543e0e660ebd1e610bf4b99550640c3e0c9e5156f8272",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/myfitnesspal/reference-1.webp",
+      "source_url": "https://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-slice%402x.e3eec8a8.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img hero slice span div MuiBox-root css-4zx6d div MuiGrid-root MuiGrid-direction-xs-row MuiGrid-grid-xs-12 MuiGrid-grid-md-6 css-1m6j3cw div MuiGrid-root MuiGrid-container MuiGrid-direction-xs-row css-1mz7pr1",
+      "content_type": "image/webp",
+      "bytes": 38094,
+      "sha256": "13ce00e64faa8198401f80f04f8abe7fc228d34ef965dd24610c4656755768b8",
+      "width": 522,
+      "height": 522
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/myfitnesspal/reference-2.webp",
+      "source_url": "https://www.myfitnesspal.com/_next/image?url=%2Fpages%2Fhome%2Fsecondary-hero-slice%402x.png&w=1080&q=75",
+      "source_tag": "img:page-image",
+      "context": "img search slice noscript span div MuiBox-root css-3chzsm div MuiBox-root css-11medba",
+      "content_type": "image/webp",
+      "bytes": 41374,
+      "sha256": "a13a8fd00a0f1044781168e7b49416bff12668a342a95f418b3170bcb7303430",
+      "width": 995,
+      "height": 948
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/myfitnesspal/reference-3.webp",
+      "source_url": "https://www.myfitnesspal.com/_next/image?url=%2Fpages%2Fhome%2Fsecondary-hero-slice%402x.png&w=512&q=75",
+      "source_tag": "img:page-image",
+      "context": "img search slice noscript span div MuiBox-root css-3chzsm div MuiBox-root css-11medba",
+      "content_type": "image/webp",
+      "bytes": 22130,
+      "sha256": "d9ecbbda9bd1bb08a4bef7dc412ad90e0582f81df869a181f74d809f2e5004ed",
+      "width": 512,
+      "height": 488
+    }
+  ]
+}

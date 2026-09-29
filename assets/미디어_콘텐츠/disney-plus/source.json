@@ -1,0 +1,81 @@
+{
+  "company": "Disney+",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.disneyplus.com/ko-kr",
+  "page_url": "https://www.disneyplus.com/ko-kr",
+  "page_title": "연간 멤버십 기간 한정 특별혜택 | 디즈니+",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://static-assets.bamgrid.com/fonts/inspire-kr/InspireKR-Regular.dd56826529a5cf37cf650680f7b063b0.woff2; reference:ValueError:https://prod-static.disney-plus.net/us-west-2/disneyPlus/marketing-unified/_next/static/css/15d368c75b5cfc71.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/disney-plus/favicon.png",
+      "source_url": "https://static-assets.bamgrid.com/product/disneyplus/favicons/disPlus-favicon-180x180.7d56f648dc95f591721935193bc827cb.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 34016,
+      "sha256": "100983a6a70cdd02ec6071d1667d335663d863d476ae88c1600c7fb528754845",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/disney-plus/og.webp",
+      "source_url": "https://static-assets.bamgrid.com/product/disneyplus/images/share-default.8bf3102623e935e7bc126df36b956b98.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21124,
+      "sha256": "dd94c32e28b918bc0be472f843b3ee00c52949560b101c8af71a901bdfb327bc",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/disney-plus/logo-1.png",
+      "source_url": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/C7AC89D507D836B2049205F5342B493A186B94D29C0035658735D9853BB3F645/compose?format=webp&width=2560",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-auto w-full max-w-full Image - Disney+ Logo picture h-auto inline-block w-full align-top max-md:max-w-[var(--sm-max-width)] md:max-lg:max-w-[var(--md-max-width)] lg:max-w-[var(--lg-max-width)] figure m-0 leading-[0] w-full div w-full ",
+      "content_type": "image/png",
+      "bytes": 16141,
+      "sha256": "57859ec914b36d0f2150754f726c7b4c336e1623604f29e4e037a57bbefdbe7a",
+      "width": 1441,
+      "height": 206
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/disney-plus/logo-2.png",
+      "source_url": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/00328ED2854929F667624303D1CD48BA99B8FFA2F49999E2E3417A2C3BFE0F45/compose?format=webp&width=2560",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-auto w-full max-w-full Image - D+, Wavve + TVVing Bundle - Logo picture h-auto inline-block w-full align-top max-md:max-w-[var(--sm-max-width)] md:max-lg:max-w-[var(--md-max-width)] lg:max-w-[var(--lg-max-width)] figure m-0 leading-[0",
+      "content_type": "image/png",
+      "bytes": 34075,
+      "sha256": "6049cbc6e4210e3dbd9339d5da5315c26475d4a471b7e5cf889e9c91c0d69ba9",
+      "width": 633,
+      "height": 96
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/disney-plus/banner-1.webp",
+      "source_url": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8FBFB69F45682BB4960CBBC37CDBA7CE7CA8AD67321A5E6D7D8D17FBE61ED0DE/compose?format=webp&width=1320",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture h-auto inline-block w-full align-top figure m-0 leading-[0] section relative py-[10vw] px-[5vw] lg:p-[5.6vw] background-position-center background-size-cover background-repeat-no-repeat z-0 [&:not([data-theme=\"light\"])]:section-surf",
+      "content_type": "image/webp",
+      "bytes": 63110,
+      "sha256": "cf7dc9d107f019db2a172284e016e17398ace936f03110d45c604dbd246a0f4d",
+      "width": 1320,
+      "height": 677
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/disney-plus/banner-2.webp",
+      "source_url": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8FBFB69F45682BB4960CBBC37CDBA7CE7CA8AD67321A5E6D7D8D17FBE61ED0DE/compose?format=webp&width=880",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture h-auto inline-block w-full align-top figure m-0 leading-[0] section relative py-[10vw] px-[5vw] lg:p-[5.6vw] background-position-center background-size-cover background-repeat-no-repeat z-0 [&:not([data-theme=\"light\"])]:section-surf",
+      "content_type": "image/webp",
+      "bytes": 35146,
+      "sha256": "8b8c9874c3dea491ce6650fad30aa8946e4c350eea3ce3bdf20bc0853ef73a4d",
+      "width": 880,
+      "height": 451
+    }
+  ]
+}

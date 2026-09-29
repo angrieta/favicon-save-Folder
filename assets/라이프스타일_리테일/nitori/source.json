@@ -1,0 +1,83 @@
+{
+  "company": "Nitori",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.nitori-net.jp/",
+  "page_url": "https://www.nitori-net.jp/ec/",
+  "page_title": "ニトリネット【公式】 家具・インテリア通販",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.nitori-net.jp/gtmdata/gtag/js?id=GTM-NQK6FKHC",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/nitori/favicon.svg",
+      "source_url": "https://www.nitori-net.jp/ec/assets/icons/NITORI_LOGO.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 663,
+      "sha256": "e73b51a786128adadb5bcd20bb7451668bff58cc7e5b3589ada19d4135759a49",
+      "width": 48,
+      "height": 48,
+      "source_sha256": "092efac177bcf7887bf0b33bdf41b656157a2592d5c0b085edbb79c86f00a517"
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/nitori/og.webp",
+      "source_url": "https://www.nitori-net.jp/ecstatic/nitori/common/icon/logo/ogimage-1200x630.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6198,
+      "sha256": "d272a0a18ed11dd00b95e74c3b27de4c5908a47126393ef30c868a8aa0c9ff3b",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/nitori/logo-1.svg",
+      "source_url": "https://www.nitori-net.jp/ec/assets/images/decohome_logos_circle.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img brand-img デコホームのロゴ div brand-logo a div brand-container row div different-brand-container",
+      "content_type": "image/svg+xml",
+      "bytes": 2659,
+      "sha256": "1c2c0d7ac9f900f746d3c1491b7a8d81d00aaf7be0b2674acbff36db4c9a2576",
+      "width": 66,
+      "height": 66,
+      "source_sha256": "1c2179df055224749f28c1915d4ba3b74b8d175b5eaa07171dce35f722dc51f9"
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/nitori/logo-2.png",
+      "source_url": "https://www.nitori-net.jp/ec/assets/images/nplus_round_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img brand-img Nプラスロゴ div brand-logo a div brand-container row div different-brand-container",
+      "content_type": "image/png",
+      "bytes": 43988,
+      "sha256": "b5dd66d51e9e256d3eb6fadd07c9507f06d29f72d77f82cb02a565e9eed75683",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/nitori/banner-1.webp",
+      "source_url": "https://www.nitori-net.jp/ecstatic/image/sys-master/images/9732900192286/TopTk_2627w_campaign_pc.jpg?imwidth=1200&imdensity=1",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div other_service_img_area a swiper-slide swiper-container rotating-image-swiper",
+      "content_type": "image/webp",
+      "bytes": 62568,
+      "sha256": "a4a483ef1cff83a8f8c7ace5da21ed1c36089c7c0b885a56673112d99cdea1a9",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/nitori/banner-2.webp",
+      "source_url": "https://www.nitori-net.jp/ecstatic/image/sys-master/images/9497440518174/SP_Outlet_27w.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture cx-media is-loading cx-banner cx-page-slot OutletProductSearch has-components cx-page-layout TopPageTemplate",
+      "content_type": "image/webp",
+      "bytes": 20090,
+      "sha256": "02b367e100f0279c214a8da9cb5d6051354fa13ef89e21a8001513e61bad0471",
+      "width": 1080,
+      "height": 360
+    }
+  ]
+}

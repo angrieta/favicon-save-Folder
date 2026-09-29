@@ -1,0 +1,34 @@
+{
+  "company": "이투스",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.etoos.com",
+  "page_url": "https://www.etoos.com/home/default.asp",
+  "page_title": "대입을 위한 가장 빠른길 : 이투스",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:http://ssl.logger.co.kr/tracker.tsp?u=24298&js=N",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/etoos/favicon.ico",
+      "source_url": "https://img.etoos.com/enp/front/main/icons/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "b5b0bd00e64c31fda20d0159646a22b072baf282dfd69c6413ab12e3d4e0ff0a",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/etoos/reference-1.webp",
+      "source_url": "https://img.etoos.com/home/main2015/common/Fisms_pop.png",
+      "source_tag": "img:page-image",
+      "context": "img 정보보호관리체계 ISMS 인증 획득 div div div_fisms div div wrap_container wrap_container main",
+      "content_type": "image/webp",
+      "bytes": 22288,
+      "sha256": "33c89eba283dce996843d44bb9f5dd56911e5eef2ea87918400ff8d8f1f9f6d7",
+      "width": 381,
+      "height": 477
+    }
+  ]
+}

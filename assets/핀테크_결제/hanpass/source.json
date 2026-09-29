@@ -1,0 +1,94 @@
+{
+  "company": "한패스",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.hanpass.com/",
+  "page_url": "https://www.hanpass.com/en",
+  "page_title": "Send Money Abroad to 200+ Countries in 3 Minutes | Hanpass",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.hanpass.com/favicon.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/hanpass/favicon.ico",
+      "source_url": "https://d1i57cju2iebv0.cloudfront.net/homepage/images/favicon/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "6bf5a553634ea30e165fa276254ccf94c03dbfc596b2a491aef8ef8b6196da8b",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/hanpass/og.webp",
+      "source_url": "https://d1i57cju2iebv0.cloudfront.net/homepage/images/og/sns_thumb_hanpass.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 37194,
+      "sha256": "9075e5b8368d8718a251e69110cba02e449a916c4e379972dba4c6960620bcec",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/hanpass/banner-1.webp",
+      "source_url": "https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_services_remittance.webp",
+      "source_tag": "inline-background-image",
+      "context": "span  Card_imgBox__4p30A --deferred-background:url(https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_services_remittance.webp)",
+      "content_type": "image/webp",
+      "bytes": 41832,
+      "sha256": "4bd44fa889ef1b264a8cd2b95cccf4645446c1642c15e82b6827adf7b52d0109",
+      "width": 920,
+      "height": 480
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/hanpass/banner-2.webp",
+      "source_url": "https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_services_card.webp",
+      "source_tag": "inline-background-image",
+      "context": "span  Card_imgBox__4p30A --deferred-background:url(https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_services_card.webp)",
+      "content_type": "image/webp",
+      "bytes": 23658,
+      "sha256": "3b3b2763760b32708eecc8c8a74fb1c07c82e21a288f0c76b8484c4d8c69c3a3",
+      "width": 920,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/hanpass/reference-1.webp",
+      "source_url": "https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_trustStats_1.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  main-page_imgInner__OwYNj main-page_trustWipe__SC5c3 --deferred-background:url(https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_trustStats_1.webp)",
+      "content_type": "image/webp",
+      "bytes": 215962,
+      "sha256": "30da6dc3f8f367933030ad2c55ae978ba6b3c3caaba567b625df9e710290733d",
+      "width": 1359,
+      "height": 1350,
+      "source_sha256": "7b7b7d8908fd924d87fb9938c3d2ea3124b0bd99ab0c401e264761ea7c3c7188"
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/hanpass/reference-2.webp",
+      "source_url": "https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_trustStats_2.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  main-page_imgInner__OwYNj main-page_trustWipe__SC5c3 --deferred-background:url(https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_trustStats_2.webp)",
+      "content_type": "image/webp",
+      "bytes": 100524,
+      "sha256": "abc542a84688faee216c931b359a138654c5e6c103be67ff260fd6b48b91d851",
+      "width": 1352,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/hanpass/reference-3.webp",
+      "source_url": "https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_trustStats_3.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  main-page_imgInner__OwYNj main-page_trustWipe__SC5c3 --deferred-background:url(https://d1i57cju2iebv0.cloudfront.net/homepage/images/main/visual_trustStats_3.webp)",
+      "content_type": "image/webp",
+      "bytes": 80740,
+      "sha256": "15af1363d44e15bf063a92aff5d2961294629839630a8edb580da2eee03bd982",
+      "width": 1352,
+      "height": 1350
+    }
+  ]
+}

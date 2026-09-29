@@ -1,0 +1,108 @@
+{
+  "company": "쿠팡플레이",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.coupangplay.com/",
+  "page_url": "https://www.coupangplay.com/",
+  "page_title": "쿠팡플레이",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://assets.coupangplay.com/fonts/woff2/Pretendard/Pretendard-Medium.subset.woff2; reference:ValueError:https://assets.coupangplay.com/fonts/woff2/Pretendard/Pretendard-Regular.subset.woff2; reference:ValueError:https://assets.coupangplay.com/fonts/woff2/Pretendard/Pretendard-Light.subset.woff2; reference:ValueError:https://assets.coupangplay.com/fonts/woff2/CPSansText/CPSansText-Bold.woff2; reference:ValueError:https://assets.coupangplay.com/_next/static/css/1977af86eb6f6c9b.css; reference:ValueError:https://assets.coupangplay.com/_next/static/css/0b815477aa70ad8f.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/coupang-play/favicon.ico",
+      "source_url": "https://assets.coupangplay.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "14dcdec7c5607ecaeaee62148fc4bb90d560b2d1dd81b3d7ab5a395146254839",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/coupang-play/og.webp",
+      "source_url": "https://assets.coupangplay.com/images/og-meta-img.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2456,
+      "sha256": "6f1880a1e31ac9f547e0a8b9e336a8a67ce6b6da090f93d6a97f12ded599373b",
+      "width": 400,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/coupang-play/logo-1.png",
+      "source_url": "https://assets.coupangplay.com/images/logo_coupangplay_open_catalog2.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img PreLoginNavbar_logo__Uu9g4 div PreLoginNavbar_container__l1qbb div PreLoginPageV2_container__acGX5 div __next body",
+      "content_type": "image/png",
+      "bytes": 7663,
+      "sha256": "f10f3adfc3c2a4244f1912f9bff2edff7b27e313539b656f4c8be4370d9e833a",
+      "width": 341,
+      "height": 54
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/coupang-play/logo-2.png",
+      "source_url": "https://assets.coupangplay.com/images/prelogin/benefits/logo-cpclub.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img PreLoginSectionBenefit_titleLogo__TPLkS span PreLoginSectionBenefit_itemTitle__a2s4t div PreLoginSectionBenefit_item__Zg0Dg div PreLoginSectionBenefit_itemList__Qf0WH div PreLoginSectionBenefit_container___AGR9 light",
+      "content_type": "image/png",
+      "bytes": 4339,
+      "sha256": "81661952b67b22db55b4a2fb57d81b261710053485114800916443fba1e17492",
+      "width": 246,
+      "height": 57
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/coupang-play/banner-1.webp",
+      "source_url": "https://img.coupangstreaming.com/clients/prelogin/web_prelogin_20260904.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img PreLoginSectionHero_backgroundImg__NQFNo hero-background picture div PreLoginSectionHero_backgroundContainer__VhBLV div PreLoginSectionHero_container__xhANU div PreLoginPageV2_container__acGX5",
+      "content_type": "image/webp",
+      "bytes": 127870,
+      "sha256": "69265998b3b25e8c7f9394ecc3a8a69e3dbca6ab1ffdde5a08fb4c5f931d48a5",
+      "width": 1600,
+      "height": 667,
+      "source_sha256": "46226b12a4bcb25fc90c1105fa0edd408d2c8fd96521f7a080098b496780d8f1"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/coupang-play/reference-1.webp",
+      "source_url": "https://img.coupangstreaming.com/clients/prelogin/mobile_prelogin_20260904.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div PreLoginSectionHero_backgroundContainer__VhBLV div PreLoginSectionHero_container__xhANU div PreLoginPageV2_container__acGX5 div __next",
+      "content_type": "image/webp",
+      "bytes": 98980,
+      "sha256": "59453cd46287231bbcf4475191a2440cfbbcb156c1829b12d12a9d45b269932a",
+      "width": 639,
+      "height": 1350,
+      "source_sha256": "4558384ae72d64679fdcde4b7f282ac6d243b3c0641ed16f80684a8a335cad7d"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/coupang-play/reference-2.webp",
+      "source_url": "https://img.coupangstreaming.com/clients/prelogin/tablet_prelogin_20260904.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div PreLoginSectionHero_backgroundContainer__VhBLV div PreLoginSectionHero_container__xhANU div PreLoginPageV2_container__acGX5 div __next",
+      "content_type": "image/webp",
+      "bytes": 174120,
+      "sha256": "28279909313256a7d00d460298e9ab8275d7ec03d012bf5b955cf69dffdaae81",
+      "width": 1440,
+      "height": 900,
+      "source_sha256": "cd58bab2cbf09512551eade2b98c91e1f9c2ec91d6070435d5fd7de753827e2f"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/coupang-play/reference-3.webp",
+      "source_url": "https://www.coupangplay.com/images/prelogin/live/news-mobile.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div div PreLoginSectionLive_contentContainer__udSAm div PreLoginSectionLive_container__rvu6n light div PreLoginPageV2_container__acGX5",
+      "content_type": "image/webp",
+      "bytes": 106208,
+      "sha256": "97d7db9235dfaaa69e42f9af3804c13941c0414ff39fa1e080cb7d4eb362aef6",
+      "width": 744,
+      "height": 837
+    }
+  ]
+}

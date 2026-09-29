@@ -1,0 +1,82 @@
+{
+  "company": "마켓비",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.marketb.kr/",
+  "page_url": "https://www.marketb.kr/",
+  "page_title": "마켓비 공식 스토어",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://www.marketb.kr/web/upload/kment/icon/.movie_event_banner .swiper-slide div.png; reference:ValueError:https://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/market-b/favicon.png",
+      "source_url": "https://www.marketb.kr/web/upload/favicon_20170512094309.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 577,
+      "sha256": "aa95ad260d49686ecdd6c55cdc5f6fdb855e42a379f6c37cc6e41797d8b242dd",
+      "width": 36,
+      "height": 36
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/market-b/og.webp",
+      "source_url": "https://www.marketb.kr/web/upload/share-image-1-0d70a624128c0173ed52fc5f4bf7eddc.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4964,
+      "sha256": "5472c1b6bf6d0de3ede1aa0381ace8e44b378379823802a236c9737658399d92",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/market-b/logo-1.png",
+      "source_url": "https://www.marketb.kr/web/upload/kment/icon/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div top_left_logo div top_left div header_bottom",
+      "content_type": "image/png",
+      "bytes": 2375,
+      "sha256": "7e2ef3ba0704608088f2481410048409b3176600fe65e5b3ef355c79cf0152ec",
+      "width": 220,
+      "height": 38
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/market-b/reference-1.webp",
+      "source_url": "https://www.marketb.kr/file_data/marketb//2026/09/23/7ceb037cd507cb13b0c256a2136c24c8.png",
+      "source_tag": "img:page-image",
+      "context": "img a article li xans-record- ul xans-element- xans-board xans-board-list-22 xans-board-list xans-board-22 tile",
+      "content_type": "image/webp",
+      "bytes": 87606,
+      "sha256": "35f9f357e721946168cdaf6f43eaf47a7025342569fc5f23cd1f62cb79840c8e",
+      "width": 759,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/market-b/reference-2.webp",
+      "source_url": "https://www.marketb.kr/file_data/marketb//2026/09/21/27e63f9a8b9e0d524c4f3312a70d53ef.png",
+      "source_tag": "img:page-image",
+      "context": "img a article li xans-record- ul xans-element- xans-board xans-board-list-22 xans-board-list xans-board-22 tile",
+      "content_type": "image/webp",
+      "bytes": 97572,
+      "sha256": "40f5a15b7d88404ab2ff9e6f5482955ba7d4aacbac4fa7edfb12f48c6cf940b0",
+      "width": 759,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/market-b/reference-3.webp",
+      "source_url": "https://www.marketb.kr/file_data/marketb//2026/09/21/228d30200064b94bea89968f89f1aa0e.png",
+      "source_tag": "img:page-image",
+      "context": "img a article li xans-record- ul xans-element- xans-board xans-board-list-22 xans-board-list xans-board-22 tile",
+      "content_type": "image/webp",
+      "bytes": 91248,
+      "sha256": "3728e3c5ab8161fbab5192dfd839a5bad12e69b44a55de68ae5b0f0e8ce5096f",
+      "width": 759,
+      "height": 1350,
+      "source_sha256": "e0794f678a8b3d183b8e78bf7a83088f4668b19e9921f05069af0338ed9a316e"
+    }
+  ]
+}

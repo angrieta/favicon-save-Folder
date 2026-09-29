@@ -1,0 +1,69 @@
+{
+  "company": "아스텔앤컨",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.astellnkern.com/",
+  "page_url": "https://www.astellnkern.com/",
+  "page_title": "Astell&Kern",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://cdn.astellnkern.com/uploaded/main_visual/7b2c00f30d8ffa7520d3910a36805cdd.mp4; reference:ValueError:https://cdn.astellnkern.com/uploaded/main_visual/7b2c00f30d8ffa7520d3910a36805cdd.mp4; reference:ValueError:https://www.facebook.com/tr?id=&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/astell-kern/favicon.ico",
+      "source_url": "https://www.astellnkern.com/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "de07356744d6eacb60d752925c7e60eb00a20ae2039d622762757dbdadfb298a",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/astell-kern/og.webp",
+      "source_url": "https://www.astellnkern.com/images/sns_link.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3692,
+      "sha256": "39a0fd7386cf6d97d0849a8ede56a1cc1ce9670c54e8251ea9573e5d37d98e24",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/astell-kern/logo-1.png",
+      "source_url": "https://www.astellnkern.com/images/common/ft-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Astell&Kern 하단로고 a div ft-logo div contain div ft-top",
+      "content_type": "image/png",
+      "bytes": 3358,
+      "sha256": "aef81e4b0407538f1ae5eefc2f1adfd69da43e18449fa6e1736d6e562fbd5ed7",
+      "width": 195,
+      "height": 30
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/astell-kern/banner-1.webp",
+      "source_url": "https://cdn.astellnkern.com/uploaded/banner/526e3f7471ebb8478975ef50a9efd9d1.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div thumb a div swiper-slide item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 21724,
+      "sha256": "d7a42e239568eaced37a22f88eb4ca1d664791ec3f754d61376354cc8c4a0e93",
+      "width": 1440,
+      "height": 640
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/astell-kern/banner-2.webp",
+      "source_url": "https://cdn.astellnkern.com/uploaded/banner/416479e46d60662e43785f27dc0b03d7.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div thumb a div swiper-slide item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 48878,
+      "sha256": "0472d825d5bf686e6c2f42ffcc8cf1416a46290aea02fd30bf217b7bb1f702f6",
+      "width": 1440,
+      "height": 640
+    }
+  ]
+}

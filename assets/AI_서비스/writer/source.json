@@ -1,0 +1,121 @@
+{
+  "company": "Writer",
+  "category": "AI_서비스",
+  "requested_url": "https://writer.com",
+  "page_url": "https://writer.com/",
+  "page_title": "WRITER - The enterprise AI platform for agentic work",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://writer.com/977; reference:ValueError:https://writer.com/wp-content/themes/writercom/fonts/SFMono/SFMono-Medium.woff2; reference:ValueError:https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap; reference:HTTPError:https://writer.com/977; reference:HTTPError:https://writer.com/961; reference:ValueError:https://writer.com/wp-content/uploads/2026/09/WRITER-BetterHelp-Talk-Sizzle-V2-1.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/writer/favicon.png",
+      "source_url": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3358,
+      "sha256": "8898d6c50db559338ec0f45a7802ac8fc8fdb25a2210e18e9ea550ee8b0751f0",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/writer/og.webp",
+      "source_url": "https://writer.com/wp-content/uploads/2026/03/hp-share-2026-03.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 68216,
+      "sha256": "99590afea81ff599348d090f60cf001f5c3c2435f2c16ab6fca2f723e43b0bda",
+      "width": 1200,
+      "height": 702
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/writer/logo-1.png",
+      "source_url": "https://writer.com/wp-content/uploads/2023/08/writer.png",
+      "source_tag": "json-ld.@graph[4].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 12798,
+      "sha256": "1943e280b00f0c3f33000e5940c754211e309882a7f3acc26a7f39f0110b704d",
+      "width": 720,
+      "height": 720
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/writer/logo-2.svg",
+      "source_url": "https://writer.com/wp-content/uploads/2024/12/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img WRITER - Enterprise AI platform a logo div logo-wrap div topline div container-full",
+      "content_type": "image/svg+xml",
+      "bytes": 2084,
+      "sha256": "126d531014697a8c59935d81a48dce9fb6bbed02eb7d7e9f0af0c7ed5f9ddc77",
+      "width": 110,
+      "height": 35,
+      "source_sha256": "e08e6c77c5c0247a46d4f040be95cc5f10c66a81ac638e6cbac7834323df6bd2"
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/writer/banner-1.webp",
+      "source_url": "https://writer.com/wp-content/uploads/2026/09/Frame-2055247861.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img wp-image-68896 figure wp-block-image size-large bg__image div hero__slider_img_wrap wp-block-sf-block-wrapper is-layout-flow wp-block-sf-block-wrapper-is-layout-flow div container-default-sm wp-block-sf-block-wrapper is-layout-flow wp-b",
+      "content_type": "image/webp",
+      "bytes": 386982,
+      "sha256": "2bacd340fa4215ffb192314574133eea78337ad9c9e7e0a1544dcd6c55d00548",
+      "width": 1600,
+      "height": 764,
+      "source_sha256": "103e8161085ebe110adb0de7a25453a645f67635b1e81e5f10896cb810c5dd36"
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/writer/banner-2.webp",
+      "source_url": "https://writer.com/wp-content/uploads/2026/09/Frame-2055247851b.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img wp-image-68624 Application interface screenshot showing a Win-Back Email Campaign workflow execution. The left window displays an execution log with tasks for selecting top customers from each segment and generating personalized content",
+      "content_type": "image/webp",
+      "bytes": 171610,
+      "sha256": "a7724fd727f00495be34c26b834aedd02801843133d89136f357f5747b82e0b3",
+      "width": 1600,
+      "height": 750,
+      "source_sha256": "8f0930d0f849538b3314e36e4da2ba2ec8aaef40b702bd3e6819b50efdb41e3c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/writer/reference-1.webp",
+      "source_url": "https://writer.com/wp-content/uploads/2026/09/Frame-2055247861.png?w=640",
+      "source_tag": "json-ld.@graph[0].thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 66608,
+      "sha256": "2ad892428591922818ce67061775cb53573be5d4e7f174503c3c61c752c4a786",
+      "width": 639,
+      "height": 305
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/writer/reference-2.webp",
+      "source_url": "https://writer.com/wp-content/uploads/2026/07/Side-pop_-320x320-AI-ROI-calculator.png",
+      "source_tag": "img:page-image",
+      "context": "img wp-image-67466 The AI agents marketers use to 10x output figure wp-block-image size-full div author-block__img mb-auto div author-block mt-md-2 div pt-3 pb-3 d-lg-flex flex-lg-column col-lg-4",
+      "content_type": "image/webp",
+      "bytes": 85866,
+      "sha256": "99b057ff9e0ff6459fbd4860cf307789756879136cb521a3d9ecadf8a5090c24",
+      "width": 646,
+      "height": 646,
+      "source_sha256": "58e362ff9a9daf1df538168124541419ca5c31def6d4fcd19b2eea8cc23722ee"
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/writer/reference-3.webp",
+      "source_url": "https://writer.com/wp-content/uploads/2026/09/2026-06-Forrester-HR-Block-top-nav-323x323-1.png",
+      "source_tag": "img:page-image",
+      "context": "img wp-image-69160 figure wp-block-image size-full div latest-guides-header__img div latest-guides-header div",
+      "content_type": "image/webp",
+      "bytes": 53664,
+      "sha256": "ce597792e7d7ec2dd3d1569d2524a07d434259f9dfd924f617982cd5cfa00274",
+      "width": 646,
+      "height": 646
+    }
+  ]
+}

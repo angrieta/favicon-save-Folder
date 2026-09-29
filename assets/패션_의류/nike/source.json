@@ -1,0 +1,33 @@
+{
+  "company": "Nike",
+  "category": "패션_의류",
+  "requested_url": "https://www.nike.com/kr/",
+  "page_url": "https://www.nike.com/kr/",
+  "page_title": "Nike. Just Do It. 나이키 코리아",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.nike.com/static/ncss/5.0/dotcom/fonts/Nike-Futura.woff2; reference:ValueError:https://www.nike.com/_next/static/chunks/d33b5015547e6c8e.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/nike/favicon.png",
+      "source_url": "https://www.nike.com/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1283,
+      "sha256": "c64eebab74d2b5f604af585b1a83d370c65d6f94f5c96322975e38ce2d2a893a",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/nike/og.webp",
+      "source_url": "https://static.nike.com/a/images/w_1920,c_limit/wzrqsjqpg6pslrevtkpl/image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3404,
+      "sha256": "368b3211e0be8809ceb39f22fa69aad75964249fb003c15cbb9dec1bb6bdaa35",
+      "width": 1200,
+      "height": 680
+    }
+  ]
+}

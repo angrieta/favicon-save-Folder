@@ -1,0 +1,96 @@
+{
+  "company": "Barclays",
+  "category": "금융",
+  "requested_url": "https://www.barclays.co.uk",
+  "page_url": "https://www.barclays.co.uk/",
+  "page_title": "Personal banking | Barclays",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/barclays/favicon.png",
+      "source_url": "https://www.barclays.co.uk/content/dam/icons/favicons/barclays/apple-touch-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5973,
+      "sha256": "815a2f36827d2b9f1cd300583dfe465ee52de51a933688d3abcd2d68d19d3c15",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/barclays/logo-1.webp",
+      "source_url": "https://www.barclays.co.uk/content/dam/barclays-uk/images/Barclays_Logo_RGB_Cyan.jpg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 30334,
+      "sha256": "9efffcd59e75b7cc8eae287035623a8034ff8a93c3c1f0a662a29d825a8650f0",
+      "width": 1600,
+      "height": 272
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/barclays/logo-2.svg",
+      "source_url": "https://www.barclays.co.uk/content/dam/icons/favicons/barclays/Eagle_RGB_Cyan_Large.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img c-brand-logo__media div c-brand-logo span c-link__media a c-link c-link--media-only Barclays homepage span pers-logo c-header__logo",
+      "content_type": "image/svg+xml",
+      "bytes": 3333,
+      "sha256": "f3a7a296a1500795ada5ef27586dbc2c084fa2d40bbaf7f7bf90345f5b044832",
+      "width": 278,
+      "height": 300,
+      "source_sha256": "5c3642c47273bc0fc999c3f35f32255f14530aea6f6f9ce8d4c25afcefabd93b"
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/barclays/banner-1.webp",
+      "source_url": "https://www.barclays.co.uk/adobe/assets/urn:aaid:aem:5c316f67-3f64-4151-8eec-880ccde0afc4/as/Get%20up%20to%20750%20W%206000%20H%204000.png?width=1440&preferwebp=true",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div HeroImg c-multimedia c-multimedia--cover aem-c-multimedia--4x3 div c-hero__media div c-hero__content div c-hero__container",
+      "content_type": "image/webp",
+      "bytes": 28448,
+      "sha256": "45544911f485d14361310f01248950f374a81c7dd3a4efe9b4f5a559221cbf66",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/barclays/reference-1.webp",
+      "source_url": "https://www.barclays.co.uk/content/experience-fragments/barclaysuk/personal/homepage/media_section/credit-cards/barclaycard-platinum/_jcr_content/root/media_section_copy/media.coreimg.80.1440.jpeg/1765970768447/720x540-option-1-no-text.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img Personal loans div img c-multimedia div c-media-section__media div c-media-section__content div c-media-section__container",
+      "content_type": "image/webp",
+      "bytes": 36164,
+      "sha256": "6b03b83344da648c6ac8539ed273c01743c9f2d039e5a2f8b7d2dfb568960f50",
+      "width": 720,
+      "height": 540
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/barclays/reference-2.webp",
+      "source_url": "https://www.barclays.co.uk/adobe/assets/urn:aaid:aem:ddc17cd5-cf6e-44bd-b060-be9fd8714a4a/as/GettyImages-585193333.jpg?width=1440&preferwebp=true&smartcrop=1-1",
+      "source_tag": "img:page-image",
+      "context": "img div multimedia-6ab596182d c-multimedia c-multimedia--cover aem-c-multimedia--1x1 div c-media-section__media div c-media-section__content div c-media-section__container",
+      "content_type": "image/webp",
+      "bytes": 75414,
+      "sha256": "4ba3631cbba03bbe62fdc26b1152f7ba2c4c1ba011d330e010d77864d308e372",
+      "width": 1350,
+      "height": 1350,
+      "source_sha256": "34145353bc6e16d1f8b154eab772c025f76e0bc9d9bc6359547988352ead3d2e"
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/barclays/reference-3.webp",
+      "source_url": "https://www.barclays.co.uk/adobe/assets/urn:aaid:aem:e0d6db50-567d-4c12-acbd-7f3a957e41d8/as/BAR-APP-002b.png?width=480&preferwebp=true",
+      "source_tag": "picture:page-image",
+      "context": "picture div MediaSectionProducts c-multimedia c-multimedia--contain div c-media-section__media div c-media-section__content div c-media-section__container",
+      "content_type": "image/webp",
+      "bytes": 31166,
+      "sha256": "f267a136a3040c5282cc1557807f27431d3841d331af648ad37b992910932a13",
+      "width": 480,
+      "height": 640
+    }
+  ]
+}

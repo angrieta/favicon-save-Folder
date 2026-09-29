@@ -1,0 +1,46 @@
+{
+  "company": "Hendrick's Gin",
+  "category": "식품_생활",
+  "requested_url": "https://www.hendricksgin.com/",
+  "page_url": "https://hendricksgin.com/",
+  "page_title": "Hendrick’s Gin",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://hendricksgin.com/_next/static/media/f93fb8889a54dbbd-s.p.woff2; reference:ValueError:https://hendricksgin.com/_next/static/media/7df692c6cf4b57d2-s.p.woff2; reference:ValueError:https://hendricksgin.com/_next/static/media/b7aed4d30010dbde-s.p.otf; reference:ValueError:https://hendricksgin.com/_next/static/media/c708ddef071d74f6-s.p.otf; reference:ValueError:https://hendricksgin.com/_next/static/css/e3afe9b5e3cd8e8d.css; reference:ValueError:https://hendricksgin.com/_next/static/css/4065b1cee6a53f77.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/hendricks-gin/favicon.png",
+      "source_url": "https://hendricksgin.com/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6302,
+      "sha256": "ec16fafd05fc20192d06ca578541288df58b48baec7b555a28fd494235ebb080",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/hendricks-gin/og.webp",
+      "source_url": "https://hendricksgin.com/assets/images/og-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 36876,
+      "sha256": "06ffa622c254d8105256f1aa88838a37f32d9965be1ec946c7f8dbe54fb52d5e",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/hendricks-gin/logo-1.svg",
+      "source_url": "https://hendricksgin.com/assets/images/logo/logotype-simple.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo div sc-bd5e4e49-11 RdxwX main sc-8904c5d3-1 iMHkvn div page-layout sc-8904c5d3-0 bgTvAB div __variable_25bc2b __variable_93f117 __variable_71e7a1 __variable_a0469b __variable_8e52d9 __variable_d5e126 __variable_b09fea __variable_63",
+      "content_type": "image/svg+xml",
+      "bytes": 10555,
+      "sha256": "974e5b705e28d2dfaaa111fff82b271f8ba3a5dd71c536fdda17d6b20b4d2bef",
+      "width": 195,
+      "height": 45,
+      "source_sha256": "13ab4f44feb43c89683cd1a2e1a6a89314f9af25ca48d6de5d031e15f7f1fdda"
+    }
+  ]
+}

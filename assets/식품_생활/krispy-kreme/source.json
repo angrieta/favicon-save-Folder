@@ -1,0 +1,96 @@
+{
+  "company": "Krispy Kreme",
+  "category": "식품_생활",
+  "requested_url": "https://www.krispykreme.com/",
+  "page_url": "https://www.krispykreme.com/",
+  "page_title": "Krispy Kreme",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/krispy-kreme/favicon.ico",
+      "source_url": "https://www.krispykreme.com/favicon.ico?favicon.3ry4x92k_l0bc.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 32988,
+      "sha256": "0824bb676e56d803e5ca5371d0d7d4a08f37f106a32190d5b969a871301e580d",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/krispy-kreme/logo-1.svg",
+      "source_url": "https://cdn.sanity.io/images/9tlw6prn/production/f46105b8143448db799e96bda8fc1c5fba8c68c5-366x126.svg?auto=format",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-auto w-[100px] md:w-[125px] lg:w-[150px] xl:w-[175px] Krispy Kreme Doughnuts logo a undefined div hidden md:flex div main-container flex max-w-[1324px] items-center gap-4 border-transparent md:border-2 xl:gap-8 xl:p-0 nav main-nav-bar",
+      "content_type": "image/svg+xml",
+      "bytes": 22801,
+      "sha256": "a4306e0c4ae09525cc9799fca5deedd8ee609125d3a3f039f6fbf49c47fad87f",
+      "width": 366,
+      "height": 126,
+      "source_sha256": "1dec96903791794f37d0f4b0e22e4c05d84f60f2ee231061a3b708bfcd56e6f1"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/krispy-kreme/banner-1.webp",
+      "source_url": "https://cdn.sanity.io/images/9tlw6prn/production/b735c1e6c7f8d195fa106046c943a486ecd3282c-2917x1313.webp?fm=webp&w=1800&fit=min",
+      "source_tag": "img:semantic-banner",
+      "context": "img block size-full rounded-3xl object-cover coffee glazer image picture div block size-full section relative mx-auto my-5 flex h-[33rem] w-full items-center justify-center text-center md:flex md:h-[30rem] xl:my-10 xl:h-[36rem] div S:3",
+      "content_type": "image/webp",
+      "bytes": 67584,
+      "sha256": "ef8e8ef7aab5df672b41c5305ea62bbb5bc66a2b4749d5c729ff8202660a56f4",
+      "width": 1800,
+      "height": 810
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/krispy-kreme/banner-2.webp",
+      "source_url": "https://cdn.sanity.io/images/9tlw6prn/production/b735c1e6c7f8d195fa106046c943a486ecd3282c-2917x1313.webp?fm=webp&w=3600&fit=min",
+      "source_tag": "img:semantic-banner",
+      "context": "img block size-full rounded-3xl object-cover coffee glazer image picture div block size-full section relative mx-auto my-5 flex h-[33rem] w-full items-center justify-center text-center md:flex md:h-[30rem] xl:my-10 xl:h-[36rem] div S:3",
+      "content_type": "image/webp",
+      "bytes": 76706,
+      "sha256": "48832aba248a729e8f06ba3b80aa5edcbb99969d484c56a01274c47d669cc991",
+      "width": 1800,
+      "height": 810
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/krispy-kreme/reference-1.webp",
+      "source_url": "https://cdn.sanity.io/images/9tlw6prn/production/fb88d8950ca523bb9da9d7fa14e36c520b251841-1584x2178.webp?auto=format&fm=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div block size-full section relative mx-auto my-5 flex h-[33rem] w-full items-center justify-center text-center md:flex md:h-[30rem] xl:my-10 xl:h-[36rem] div S:3 body",
+      "content_type": "image/webp",
+      "bytes": 53868,
+      "sha256": "e7a8479cad6bf3ab8f65c0684a05de0e2b3d3643260872c88df0ff4d21cde659",
+      "width": 982,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/krispy-kreme/banner-2.webp",
+      "source_url": "https://cdn.sanity.io/images/9tlw6prn/production/b735c1e6c7f8d195fa106046c943a486ecd3282c-2917x1313.webp?fm=webp&w=3200&fit=min",
+      "source_tag": "picture:page-image",
+      "context": "picture div block size-full section relative mx-auto my-5 flex h-[33rem] w-full items-center justify-center text-center md:flex md:h-[30rem] xl:my-10 xl:h-[36rem] div S:3 body",
+      "content_type": "image/webp",
+      "bytes": 76706,
+      "sha256": "48832aba248a729e8f06ba3b80aa5edcbb99969d484c56a01274c47d669cc991",
+      "width": 1800,
+      "height": 810,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/krispy-kreme/reference-3.webp",
+      "source_url": "https://cdn.sanity.io/images/9tlw6prn/production/846d276414572dab3252c89815abe8bf2229a595-1303x771.webp?fm=webp&w=625&fit=min",
+      "source_tag": "img:page-image",
+      "context": "img mx-0 mb-4 h-auto w-64 lg:mb-6 xl:w-[27.5rem] Coffee Title Image div pointer-events-auto flex w-full flex-col items-start pt-4 md:static md:-translate-y-0 absolute top-0 -translate-y-0 flex-wrap-reverse sm:flex-nowrap div pointer-events-",
+      "content_type": "image/webp",
+      "bytes": 19566,
+      "sha256": "f51de576f560c1455352db54146a4e275a9d20a689984f18b3d13f062fa6506d",
+      "width": 625,
+      "height": 370
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "company": "Creed",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.creedfragrance.com",
+  "page_url": "https://www.creedfragrance.com/",
+  "page_title": "Creed Fragrances | Luxury Fragrance & Perfume",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.creedfragrance.com/ssr-assets/creed/og-image.png; logo:ValueError:https://s1.thcdn.com/video/optimised/2026/08/31937bb5-46fa-4b43-ae16-48df59f55e35-No%2520CD%2520IRIS_DENONAIR_HERO_FILM_30SECONDS_WITHOUT_LOGO_MP4_16x9_compressed_optimised.mp4; banner:ValueError:https://s1.thcdn.com/video/optimised/2026/08/31937bb5-46fa-4b43-ae16-48df59f55e35-No%2520CD%2520IRIS_DENONAIR_HERO_FILM_30SECONDS_WITHOUT_LOGO_MP4_16x9_compressed_optimised.mp4; reference:ValueError:https://s1.thcdn.com/video/optimised/2026/08/31937bb5-46fa-4b43-ae16-48df59f55e35-No%2520CD%2520IRIS_DENONAIR_HERO_FILM_30SECONDS_WITHOUT_LOGO_MP4_16x9_compressed_optimised.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/creed/favicon.png",
+      "source_url": "https://www.creedfragrance.com/ssr-assets/creed/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4193,
+      "sha256": "e7625a3e471c6646c570a960fc71d3b670d9d31ee16c3ac15a199cdb3ba3f6e4",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/creed/reference-1.webp",
+      "source_url": "https://www.creedfragrance.com/images?url=https://static.thcdn.com/productimg/original/17731653-1745364829583049.jpg&format=webp&auto=avif&width=500&height=500&fit=cover&v=2",
+      "source_tag": "picture:page-image",
+      "context": "picture div overflow-hidden a relative block div product-item-image group relative flex aspect-square w-full flex-col div flex h-full w-full flex-col justify-start",
+      "content_type": "image/webp",
+      "bytes": 6874,
+      "sha256": "240df74864058b4eabb238e1942b18ab399b1a8eb14efdd268e20079234ae48b",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/creed/reference-2.webp",
+      "source_url": "https://www.creedfragrance.com/images?url=https://static.thcdn.com/productimg/original/17731653-1745364829583049.jpg&format=webp&auto=avif&width=450&height=450&fit=cover&v=2",
+      "source_tag": "picture:page-image",
+      "context": "picture div overflow-hidden a relative block div product-item-image group relative flex aspect-square w-full flex-col div flex h-full w-full flex-col justify-start",
+      "content_type": "image/webp",
+      "bytes": 5624,
+      "sha256": "508c26179d946e654cc60f5738d1a335bd5d60ca080f40a3d65c556fcb81267a",
+      "width": 450,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/creed/reference-3.webp",
+      "source_url": "https://www.creedfragrance.com/images?url=https://static.thcdn.com/productimg/original/17731653-1745364829583049.jpg&format=webp&auto=avif&width=376&height=376&fit=cover&v=2",
+      "source_tag": "picture:page-image",
+      "context": "picture div overflow-hidden a relative block div product-item-image group relative flex aspect-square w-full flex-col div flex h-full w-full flex-col justify-start",
+      "content_type": "image/webp",
+      "bytes": 4408,
+      "sha256": "2d52adf501e6472125cb1be71f6f7c79d0e7f98bde2dce590071a026e14019af",
+      "width": 376,
+      "height": 376
+    }
+  ]
+}

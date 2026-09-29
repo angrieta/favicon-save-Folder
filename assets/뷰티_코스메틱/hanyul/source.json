@@ -1,0 +1,57 @@
+{
+  "company": "한율",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.hanyul.com",
+  "page_url": "https://www.hanyul.com/",
+  "page_title": "한국의 이로움으로 전하는 균형 잡힌 아름다움 | 한율",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://www.hanyul.com/%7B; reference:HTTPError:https://www.hanyul.com/%7B",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/hanyul/favicon.ico",
+      "source_url": "https://www.hanyul.com/web/upload/favicon-22b137fb3093de3e835cff488433c2a1.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 3262,
+      "sha256": "feaabbec0fdf98fe07ef4345b3ee54197efd4a36799485d4c050fe4f95a304c7",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/hanyul/og.webp",
+      "source_url": "https://hanyul.com/web/upload/share-image-1-3c4544764164c8f7e027df1c6999acb3.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2838,
+      "sha256": "4e3d5d3df41b6243ef52f9d31862db13aebe2a089a921780995052fbec61a37e",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/hanyul/logo-1.png",
+      "source_url": "https://www.hanyul.com/wvl/img/logo_w_x2.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo_mo 한율 로고 a div xans-element- xans-layout xans-layout-logotop top_logo div top_nav_box top_nav_box div inner",
+      "content_type": "image/png",
+      "bytes": 2990,
+      "sha256": "b9fab809c38bd2e9c982a6d7e3a2eb6aac6affca1bda0f27404322ca7142b474",
+      "width": 157,
+      "height": 68
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/hanyul/logo-2.png",
+      "source_url": "https://www.hanyul.com/wvl/img/logo_b.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 한율 div banner-logo div banner-cont-wrap div morenvy-banner div morenvy-banner-area",
+      "content_type": "image/png",
+      "bytes": 4733,
+      "sha256": "6e93e35ca0a1615b18e21d71089846e1de4cfcc3fdeba2695305329a7b52035f",
+      "width": 133,
+      "height": 58
+    }
+  ]
+}

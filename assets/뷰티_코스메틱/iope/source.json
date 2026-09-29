@@ -1,0 +1,81 @@
+{
+  "company": "아이오페",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.iope.com",
+  "page_url": "https://www.iope.com/",
+  "page_title": "Clinical Grade IOPE, 고효능 스킨케어 브랜드 | 아이오페 한국",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.iope.com/{; logo:HTTPError:https://www.iope.com/%7B; banner:HTTPError:https://www.iope.com/%7B; banner:HTTPError:https://www.iope.com/{; reference:HTTPError:https://www.iope.com/%7B; reference:HTTPError:https://www.iope.com/{",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/iope/favicon.ico",
+      "source_url": "https://www.iope.com/web/upload/favicon-80d9b71d90aadaf53d1eda3f173ea363.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 40046,
+      "sha256": "d4dfafd7c4ae2041038c4712471acd120148720223f60e753bf92ae1491e42b4",
+      "width": 98,
+      "height": 98
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/iope/og.webp",
+      "source_url": "https://iope.com/web/upload/share-image-1-b629ba454119f6679f49175a95a46f1d.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5102,
+      "sha256": "7a009ff4040068097bf2c8b1410032f640af3484de232e3f2d4bb4c57dab36dd",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/iope/logo-1.svg",
+      "source_url": "https://www.iope.com/wvl/img/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 아이오페 a div xans-element- xans-layout xans-layout-logotop top_logo div top_nav_box top_nav_box div inner",
+      "content_type": "image/svg+xml",
+      "bytes": 738,
+      "sha256": "1f82dee58495d735d9a1db3dc8e84bcafa27e9e7c3bd6409dc70ed06ba754157",
+      "width": 87,
+      "height": 28
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/iope/reference-1.webp",
+      "source_url": "https://www.iope.com/web/product/medium/202604/3533bc68df2604c1eb4b92aa202a6644.png",
+      "source_tag": "img:page-image",
+      "context": "img eListPrdImage44_2 ori-img div thumbnail a div prdList__item li anchorBoxId_44 swiper-slide xans-record-",
+      "content_type": "image/webp",
+      "bytes": 6396,
+      "sha256": "81ff36bbedf957a3dc5a71c1290cac49ada36a652a70b6c1c0aa148786693a65",
+      "width": 560,
+      "height": 672
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/iope/reference-2.webp",
+      "source_url": "https://www.iope.com/web/product/small/202604/d30ff02779f50a349ff90596279791e7.jpg",
+      "source_tag": "img:page-image",
+      "context": "img hover-img div thumbnail a div prdList__item li anchorBoxId_44 swiper-slide xans-record-",
+      "content_type": "image/webp",
+      "bytes": 3034,
+      "sha256": "53bee4c6d898f57c4f083259ba8b2f588b36dae5021f8c117b3ddc8da953a637",
+      "width": 560,
+      "height": 672
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/iope/reference-3.webp",
+      "source_url": "https://www.iope.com/web/product/medium/202604/7d9c5b3ecd10ade647a76d4d030171c6.png",
+      "source_tag": "img:page-image",
+      "context": "img eListPrdImage16_2 ori-img div thumbnail a div prdList__item li anchorBoxId_16 swiper-slide xans-record-",
+      "content_type": "image/webp",
+      "bytes": 8416,
+      "sha256": "e8e6ce561609846c3e38416c0df039855d85e096e8482919ae7a882068d4fd49",
+      "width": 560,
+      "height": 672
+    }
+  ]
+}

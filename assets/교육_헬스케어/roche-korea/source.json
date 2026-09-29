@@ -1,0 +1,33 @@
+{
+  "company": "Roche",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.roche.co.kr",
+  "page_url": "https://www.roche.co.kr/",
+  "page_title": "한국로슈",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://component-library.roche.com/feat/monorepo/build/roche-component-library.css?version=1789464142523; reference:ValueError:https://fonts.roche.com/fonts/roche-sans/latest/RocheSans-Regular.woff2; reference:ValueError:https://fonts.roche.com/fonts/roche-sans/latest/RocheSans-Light.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/roche-korea/favicon.png",
+      "source_url": "https://www.roche.co.kr/src/resources/images/android-chrome-512x512.png?v=7f5356ff0eaba89671bed4a1828ef379",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 17736,
+      "sha256": "d604327c818a9325bffae6ed0be76540d10aa37e8d310d3c73f3d16f1ef5ce16",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/roche-korea/og.webp",
+      "source_url": "https://assets.roche.com/f/250698/1920x1080/3c7579b428/home.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 45060,
+      "sha256": "28cecdfb07ef0d9cc00a945bb05052e1f586f5e8aa70be4de5b81b727fcbfc28",
+      "width": 1200,
+      "height": 675
+    }
+  ]
+}

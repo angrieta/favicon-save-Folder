@@ -1,0 +1,58 @@
+{
+  "company": "Suunto",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.suunto.com/",
+  "page_url": "https://www.suunto.com/",
+  "page_title": "Suunto sports watches, dive products, compasses and accessories",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/suunto/favicon.png",
+      "source_url": "https://www.suunto.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1912,
+      "sha256": "49bda8cf90fb57e9862487d719590250f03af4f3f912e1ee5b8081451606d1a6",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/suunto/reference-1.webp",
+      "source_url": "https://www.suunto.com/contentassets/16ef3c3694d8467c80f8d7d1f38cd4c7/suunto-vertical-2-for-homepage.png?mode=max&height=600",
+      "source_tag": "img:page-image",
+      "context": "img lazyload category__bg Watches div category__bg-wrapper div category__wrapper u-flex-left a category u-width-100 u-height-100 div aspect-ratio-1",
+      "content_type": "image/webp",
+      "bytes": 20734,
+      "sha256": "f37ace172759d4ceaba5c2189cfafab965acfe62298c0aa6130f2d29f995dd74",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/suunto/reference-2.webp",
+      "source_url": "https://www.suunto.com/contentassets/69e1a0ecb84c4a21b01e1da6ed903bc1/suunto-nautic-for-homepage.png?mode=max&height=600",
+      "source_tag": "img:page-image",
+      "context": "img lazyload category__bg Dive products div category__bg-wrapper div category__wrapper u-flex-left a category u-width-100 u-height-100 div aspect-ratio-1",
+      "content_type": "image/webp",
+      "bytes": 21636,
+      "sha256": "ee2130b862b1dcae53d29a7fa0ea12b448ca6b7da00a92fc07385309cb1b9600",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/suunto/reference-3.webp",
+      "source_url": "https://www.suunto.com/contentassets/c9a7da47dfbd4c73abe9039700ae2896/suunto-spark-for-homepage.png?mode=max&height=600",
+      "source_tag": "img:page-image",
+      "context": "img lazyload category__bg Headphones div category__bg-wrapper div category__wrapper u-flex-left a category u-width-100 u-height-100 div aspect-ratio-1",
+      "content_type": "image/webp",
+      "bytes": 8744,
+      "sha256": "5c3d9645931717a69526f649dfa19f4ebfe399fe739e87b907d29cd2f6725162",
+      "width": 600,
+      "height": 600
+    }
+  ]
+}

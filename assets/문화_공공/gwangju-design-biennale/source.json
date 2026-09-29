@@ -1,0 +1,57 @@
+{
+  "company": "광주디자인비엔날레",
+  "category": "문화_공공",
+  "requested_url": "https://www.gdb.or.kr/",
+  "page_url": "https://www.gdb.or.kr/",
+  "page_title": "광주디자인비엔날레",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.gdb.or.kr/data/image/13/bc1cf14f70a2e6f5c3dac09e3fd2b41b.mp4; reference:ValueError:https://www.gdb.or.kr/theme/skin/default/kr/img/eip.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/gwangju-design-biennale/favicon.png",
+      "source_url": "https://www.gdb.or.kr/favicon/favicon-196x196.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 741,
+      "sha256": "9b2ac9fabe033ef4288039f065696e8913cefecad875ccd9322ffe0a4c5244e7",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/gwangju-design-biennale/og.webp",
+      "source_url": "https://www.gdb.or.kr/logo/share_og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4824,
+      "sha256": "c54a00ab1cb7b4e2dc24556b2be1b2b6bf4b352f42b35f5988067b7d9f979236",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/gwangju-design-biennale/logo-1.png",
+      "source_url": "https://www.gdb.or.kr/logo/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 광주디자인비엔날레 a navbar-brand div container-lg container-xl container-xxl d-flex flex-row justify-content-between header header div wapper",
+      "content_type": "image/png",
+      "bytes": 3810,
+      "sha256": "c5192bbddcc1124215ce4d3abadc3dfe0b75f678a33ad779dea44fafa03cc7b4",
+      "width": 218,
+      "height": 55
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/gwangju-design-biennale/reference-1.webp",
+      "source_url": "https://www.gdb.or.kr/theme/skin/default/kr/img/meet_footer.png",
+      "source_tag": "img:page-image",
+      "context": "img img-fluid meet design p mb-0 div footer-text-event d-block border-top text-center px-3 div wapper body",
+      "content_type": "image/webp",
+      "bytes": 328,
+      "sha256": "ee7916f96b6ce1d95dd77918d3cca8bd32f69a414be4e9af3ddea42009fe3ded",
+      "width": 500,
+      "height": 286
+    }
+  ]
+}

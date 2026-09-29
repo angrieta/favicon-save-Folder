@@ -1,0 +1,46 @@
+{
+  "company": "Stink Studios",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.stinkstudios.com",
+  "page_url": "https://www.stinkstudios.com/",
+  "page_title": "Stink Studios | Stink Studios",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.stinkstudios.com/_next/static/css/115b5a5c1846dd38.css; reference:ValueError:https://www.stinkstudios.com/_next/static/css/5c195185f54ead80.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/stink-studios/favicon.png",
+      "source_url": "https://www.stinkstudios.com/favicon/lightMode/00/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5701,
+      "sha256": "f8301ef502ceef679223510fd74241c186bc8f67f2467209f8054f63d6cc4236",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/stink-studios/og.webp",
+      "source_url": "https://cdn.sanity.io/images/e2h42t5o/stage/68af8fc6aee8cbb405b3c8336ce8a5a7fc58bccd-1200x628.jpg?rect=2,0,1196,628&w=1196&h=628&q=80&fit=crop&auto=format",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 139714,
+      "sha256": "6eff3bf765a8abcd89050d8831837e31e8acfaa0d7f38df0bce500b947c4d12b",
+      "width": 1196,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/stink-studios/logo-1.svg",
+      "source_url": "https://www.stinkstudios.com/logo/Logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 6114,
+      "sha256": "b99ed3a79adfde9dd49fdd009e570ba9a65489e807f8800dbf3e4f291ff06c73",
+      "width": 1402,
+      "height": 150,
+      "source_sha256": "44f8eea219e2a3cda5fca62bf85788fff1999c2a276d55a0699e5a8260ca8536"
+    }
+  ]
+}

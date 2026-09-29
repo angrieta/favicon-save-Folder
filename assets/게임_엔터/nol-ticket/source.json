@@ -1,0 +1,94 @@
+{
+  "company": "NOL 티켓 (인터파크티켓)",
+  "category": "게임_엔터",
+  "requested_url": "https://nol.yanolja.com/ticket",
+  "page_url": "https://nol.yanolja.com/ticket",
+  "page_title": "공연/전시 추천, 특가 및 할인 예약 | NOL(야놀자)",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://yaimg.yanolja.com/public/icon/yanolja.svg; reference:HTTPError:https://yaimg.yanolja.com/public/icon/yanolja.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/nol-ticket/favicon.png",
+      "source_url": "https://yaimg.yanolja.com/joy/sunny/static/images/nol/favicon/favicon-96x96.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3041,
+      "sha256": "6e8bd2b46baf0f19afffae7e6f0cb88830f16a494717e0deba2cdfcee8cefe26",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/nol-ticket/og.webp",
+      "source_url": "https://yaimg.yanolja.com/joy/sunny/static/images/nol/nol_og_1200x600.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6172,
+      "sha256": "4902f26b491c3dbbcecf3a26f4e92ae638bc2213e7a658ab52b4bb94cee908e2",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/nol-ticket/logo-1.png",
+      "source_url": "https://image6.yanolja.com/cx-ydm/tGpwu8dYHaBmBuqy",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture span core-ui__HeaderLogoWidget__iconWrapper__e7d615 button core-ui__HeaderLogoWidget__logo__b4d2e4 홈 div core-ui__HeaderLeft__left__d4faba div core-ui__HeaderTop__top__5f839d",
+      "content_type": "image/png",
+      "bytes": 4152,
+      "sha256": "dc63fe543ce8935910bb7e7ce8c13cb2e21d0b021975173525b4cb8faea81ab4",
+      "width": 270,
+      "height": 99
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/nol-ticket/logo-2.png",
+      "source_url": "https://image6.yanolja.com/cx-ydm/Eh5ZOfvrP2Y2T7C2",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture span core-ui__HeaderLogoWidget__iconWrapper__e7d615 button core-ui__HeaderLogoWidget__logo__b4d2e4 홈 div core-ui__HeaderLeft__left__d4faba div core-ui__HeaderTop__top__5f839d",
+      "content_type": "image/png",
+      "bytes": 2500,
+      "sha256": "be0ba1e99ab673c16e8b435e22d7b68c96ec4c48c5a1eeaa9f043af7dfbc8ec8",
+      "width": 180,
+      "height": 66
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/nol-ticket/reference-1.webp",
+      "source_url": "https://image6.yanolja.com/cx-ydm/7m2mnW152Hyv94Um",
+      "source_tag": "img:page-image",
+      "context": "img object-cover ds-pc:hidden 공연예술사업_00시 노출 div relative inset-0 h-[364px] w-full overflow-hidden div absolute top-0 z-[-1] block w-full ds-pc:hidden div flex flex-col gap-16 ds-pc:gap-40 mt-4 ds-pc:mb-[156px] ds-pc:mt-20 mb-[calc(56px+var(",
+      "content_type": "image/webp",
+      "bytes": 55940,
+      "sha256": "c97658a79eb157bea08be19ff16d0485ae922116dd7a98c46ea3147ed3b0a24b",
+      "width": 1005,
+      "height": 1116
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/nol-ticket/reference-2.webp",
+      "source_url": "https://image6.yanolja.com/cx-ydm/gMBcZanpb4BHkjR2",
+      "source_tag": "picture:page-image",
+      "context": "picture absolute inset-0 block div relative aspect-auto size-full cursor-pointer div absolute right-full mr-[10px] shrink-0 ds-pc:mr-[20px] aspect-[7/8] !w-[calc(100vw-60px)] max-w-[530px] ds-pc:aspect-[1240/403] ds-pc:!w-[calc(100vw-80px)]",
+      "content_type": "image/webp",
+      "bytes": 63782,
+      "sha256": "20fec10e212ef18dee9a65069326d21fa54c2d921f828c1e29e24c3c348dbc20",
+      "width": 1600,
+      "height": 520,
+      "source_sha256": "94040485be11738f023d1d5f7fa43d4d5685107c2b419dd61c35960ea07d484a"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/nol-ticket/reference-3.webp",
+      "source_url": "https://image6.yanolja.com/cx-ydm/r5EM9TM1kGfscZs9",
+      "source_tag": "picture:page-image",
+      "context": "picture absolute inset-0 block div relative aspect-auto size-full cursor-pointer div absolute right-full mr-[10px] shrink-0 ds-pc:mr-[20px] aspect-[7/8] !w-[calc(100vw-60px)] max-w-[530px] ds-pc:aspect-[1240/403] ds-pc:!w-[calc(100vw-80px)]",
+      "content_type": "image/webp",
+      "bytes": 103596,
+      "sha256": "55dd9235fcb0ad320855114d832030dd1775b7a643d791fc3c4755f042f0f879",
+      "width": 1005,
+      "height": 1116
+    }
+  ]
+}

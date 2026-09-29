@@ -1,0 +1,46 @@
+{
+  "company": "인프런",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.inflearn.com/",
+  "page_url": "https://www.inflearn.com/",
+  "page_title": "인프런 - 최대 AI, AX 강의 학습 플랫폼",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.inflearn.com/font/PretendardVariableSubset.woff2; reference:ValueError:https://cdn.inflearn.com/monolith/courses/_next/static/css/3345e0526b46047c.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/inflearn/favicon.png",
+      "source_url": "https://cdn.inflearn.com/dist/icon-512x512.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 16451,
+      "sha256": "1ac22ee8ef6ff2c3793303408765580fbd6123dd26e34885e2fa23fd650a233d",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "e292fb6e59f82b767b5037dcd5be89c53231a221425180e4ec97918ca42633f3"
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/inflearn/og.webp",
+      "source_url": "https://cdn.inflearn.com/assets/brand/inflearn-brand.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 62214,
+      "sha256": "47d6b72abeca9cb5275441d2fe0247fae726a2efcca86e895d1995c7c6d488fb",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/inflearn/logo-1.png",
+      "source_url": "https://cdn.inflearn.com/assets/images/challenge/lightning-live.png?w=322",
+      "source_tag": "img:semantic-logo",
+      "context": "img 라이트닝 라이브 로고 picture div m_4081bf90 mantine-next-Group-root h3 m_8a5d1357 mantine-next-Title-root div m_6d731127 mantine-next-Stack-root",
+      "content_type": "image/png",
+      "bytes": 4356,
+      "sha256": "7070d81ae529b2002ce2eb0bdcca578fb378832ea7b1aa7478f327a5e5346fdd",
+      "width": 322,
+      "height": 60
+    }
+  ]
+}

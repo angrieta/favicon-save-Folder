@@ -1,0 +1,108 @@
+{
+  "company": "Hugging Face",
+  "category": "AI_서비스",
+  "requested_url": "https://huggingface.co",
+  "page_url": "https://huggingface.co/",
+  "page_title": "Hugging Face – The AI community building the future.",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/hugging-face/favicon.ico",
+      "source_url": "https://huggingface.co/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 205556,
+      "sha256": "7266292a5073388702cfca169d26766460cb90ba978bacc95c914ad7a5c611cb",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/hugging-face/og.webp",
+      "source_url": "https://huggingface.co/front/thumbnails/v2-2.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14128,
+      "sha256": "17813ac3b7e74d7670bbe10c32b7196afc62c84a98bcdf0de8abe0b69129bf68",
+      "width": 1200,
+      "height": 648
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/hugging-face/logo-1.svg",
+      "source_url": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-7 md:mr-2 Hugging Face's logo a mr-5 flex flex-none items-center lg:mr-6 div flex flex-1 items-center div w-full px-4 container flex h-16 items-center header border-b border-gray-100 border-transparent!",
+      "content_type": "image/svg+xml",
+      "bytes": 4570,
+      "sha256": "a50878666d737eb9681a22344ba7ba923e19d09cabae2f44f8aa786e05e407bf",
+      "width": 95,
+      "height": 88,
+      "source_sha256": "3613c73f07ccae19118bfe6d2f8cd127183d08cf99468a708e090953e116ed0a"
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/hugging-face/banner-1.svg",
+      "source_url": "https://huggingface.co/front/assets/homepage/activity.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img ml-auto w-full flex-1 overflow-hidden border-t border-gray-100 object-cover object-left-top dark:hidden Hub activity feed div shadow-xs relative col-span-1 flex h-[400px] flex-col overflow-hidden rounded-xl border bg-white sm:h-[420px] ",
+      "content_type": "image/svg+xml",
+      "bytes": 430711,
+      "sha256": "17b3178e6705b0873b3efe05bc5b0fbc53e86d858cc81a69af14b1951b99a120",
+      "width": 761,
+      "height": 496
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/hugging-face/banner-2.svg",
+      "source_url": "https://huggingface.co/front/assets/homepage/activity-dark.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img ml-auto hidden w-full flex-1 overflow-hidden border-t border-gray-100 object-cover object-left-top dark:block Hub activity feed div shadow-xs relative col-span-1 flex h-[400px] flex-col overflow-hidden rounded-xl border bg-white sm:h-[4",
+      "content_type": "image/svg+xml",
+      "bytes": 637276,
+      "sha256": "4c483e37eebd0360784651209cf965e9ef8da2e7f36801a24fc574d49c77d471",
+      "width": 761,
+      "height": 496,
+      "source_sha256": "e3163c0d2a014b5c72e14eb1b91e24f740b1282e5c4c6cbedaa7083d5fd6a589"
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/hugging-face/reference-1.webp",
+      "source_url": "https://huggingface.co/front/assets/homepage/models-mobile.webp",
+      "source_tag": "img:page-image",
+      "context": "img pointer-events-none relative mb-0 select-none lg:hidden Hugging Face models div relative flex flex-col justify-center rounded-[25px] bg-gray-950 dark:bg-gray-900/60 max-lg:items-center max-lg:overflow-hidden max-lg:pt-14 max-lg:text-cen",
+      "content_type": "image/webp",
+      "bytes": 66002,
+      "sha256": "3a23848c545d272d99c4bbb10651fe507b9666f7d899432a3b51e2b44b0079aa",
+      "width": 1308,
+      "height": 790
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/hugging-face/reference-2.webp",
+      "source_url": "https://huggingface.co/front/assets/homepage/models-tablet.webp",
+      "source_tag": "img:page-image",
+      "context": "img pointer-events-none absolute bottom-0 right-0 hidden h-[650px] select-none lg:block xl:hidden 2xl:h-[760px] Hugging Face models div relative flex flex-col justify-center rounded-[25px] bg-gray-950 dark:bg-gray-900/60 max-lg:items-center",
+      "content_type": "image/webp",
+      "bytes": 99540,
+      "sha256": "291f91e903e0e8c4aec462a81a86860a0b77799daee68b4b97b0d70626169476",
+      "width": 1097,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/hugging-face/reference-3.webp",
+      "source_url": "https://huggingface.co/front/assets/homepage/models.webp",
+      "source_tag": "img:page-image",
+      "context": "img pointer-events-none absolute bottom-0 right-0 h-[650px] select-none max-xl:hidden 2xl:h-[760px] Hugging Face models div relative flex flex-col justify-center rounded-[25px] bg-gray-950 dark:bg-gray-900/60 max-lg:items-center max-lg:over",
+      "content_type": "image/webp",
+      "bytes": 90320,
+      "sha256": "d758241804b7abc6d0fffb18b69454e0e1665d7e549769ca8d74a4c7c23baf22",
+      "width": 1518,
+      "height": 1350,
+      "source_sha256": "2a4c871406a4e309441bfa2bdecab65ac52d5f39a18f7934564b8749e3b658d5"
+    }
+  ]
+}

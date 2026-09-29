@@ -1,0 +1,48 @@
+{
+  "company": "NTT Docomo",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.docomo.ne.jp/",
+  "page_url": "https://www.docomo.ne.jp/",
+  "page_title": "NTTドコモ",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.docomo.ne.jp/assets/etc.clientlibs/docommon/clientlibs/v2/clientlibs-sites/corp/template/top/base/v1.min.ACSHASH4f4d0cf57b1cb55dc50d106ff85c25fc.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/ntt-docomo/favicon.png",
+      "source_url": "https://www.docomo.ne.jp/assets/etc.clientlibs/docommon/clientlibs/v1/clientlib-resource/resources/icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3166,
+      "sha256": "2cb0e14d5a2f2f3b3ae43bdd4eabccff11224a3e92ce80e4e59a132e9cc97362",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/ntt-docomo/logo-1.svg",
+      "source_url": "https://www.docomo.ne.jp/images_osp/common/newhf/header/cmn-rwd-header-logo.svg?ver=1751324418",
+      "source_tag": "img:semantic-logo",
+      "context": "img corp-cmn-rwd-header__logo-anchor__image NTT docomo a corp-cmn-rwd-header__logo-anchor div corp-cmn-rwd-header__logo div corp-cmp-corpheader_menu div corpheader t001-corp-a1-1--header-v1 aem-GridColumn aem-GridColumn--default--12",
+      "content_type": "image/svg+xml",
+      "bytes": 29363,
+      "sha256": "7b492653e9906b6d72ac893780db440dfa04965f6e111d149d01dfb54fda6ec8",
+      "width": 126,
+      "height": 40,
+      "source_sha256": "153655dd24f82ed509409bcef1b6cf11f011f1a36d4fc35eadeba3746b0ab707"
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/ntt-docomo/logo-2.svg",
+      "source_url": "https://www.docomo.ne.jp/images_osp/common/newhf/logo/cmn-rwd-my-docomo-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img cmn-rwd-header-drawer-menu__support-link-anchor__image a cmn-rwd-header-drawer-menu__support-link-anchor li cmn-rwd-header-drawer-menu__support-links__item ul cmn-rwd-header-drawer-menu__support-links div cmn-rwd-header-drawer-menu__acc",
+      "content_type": "image/svg+xml",
+      "bytes": 4313,
+      "sha256": "bb89a0ffde93f521d19eb4b4f44404dfd8aeb76fce061a630ae7d4408c1ecfac",
+      "width": 32,
+      "height": 32,
+      "source_sha256": "3a7e655be76c1cc9c3b02a6744a9ddcadb8e4c306e25935c2c0133b68337d67e"
+    }
+  ]
+}

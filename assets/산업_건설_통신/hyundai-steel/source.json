@@ -1,0 +1,82 @@
+{
+  "company": "현대제철",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.hyundai-steel.com/kr",
+  "page_url": "https://www.hyundai-steel.com/kr",
+  "page_title": "현대제철 홈페이지",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.hyundai-steel.com/upload/down/main_visual.mp4; reference:ValueError:https://www.hyundai-steel.com/upload/down/main_visual.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/hyundai-steel/favicon.ico",
+      "source_url": "https://www.hyundai-steel.com/resources/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 2294,
+      "sha256": "5e2675bc1fe880f32f07f20d04e00164c23c1fdb3795e91356149963a89059d9",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hyundai-steel/logo-1.png",
+      "source_url": "https://www.hyundai-steel.com/resources/images/img_logo_ft.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 현대스틸 div logo-wrap div left div inner footer footer footer",
+      "content_type": "image/png",
+      "bytes": 1304,
+      "sha256": "ee1b3c33b8895a00bcb5cfe25eb1c6d791f8d2f950b8d26eed0a8825ae5578f8",
+      "width": 180,
+      "height": 50
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hyundai-steel/logo-2.png",
+      "source_url": "https://www.hyundai-steel.com/resources/images/img_nav_redDot.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img # span target certiMark li nav-footer-item certiMark ul nav-footer-list div nav-footer",
+      "content_type": "image/png",
+      "bytes": 5530,
+      "sha256": "353e99ee086bb6fa1ea9b017a575c5d2a233c37d4eba5cba9a2949c7505d7def",
+      "width": 119,
+      "height": 80
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hyundai-steel/reference-1.webp",
+      "source_url": "https://fastly.picsum.photos/id/633/535/780.jpg?hmac=eUgyTxZ12Tyj8Y7cknSj8XzyVKpYU1bh--9jBsmkA1c",
+      "source_tag": "img:page-image",
+      "context": "img a div notice-pop-content div notice-pop-inner div notice-pop-wrap",
+      "content_type": "image/webp",
+      "bytes": 50200,
+      "sha256": "b9606b6e17789f4f7567fbb8db098c8938f2ac4b148e60695c3283d543b3f3b1",
+      "width": 535,
+      "height": 780
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hyundai-steel/reference-2.webp",
+      "source_url": "https://www.hyundai-steel.com/resources/images/main/img_object0101.png",
+      "source_tag": "img:page-image",
+      "context": "img span light-wrap span obj01 div anim-item div sec-cont",
+      "content_type": "image/webp",
+      "bytes": 18406,
+      "sha256": "93530b146eded87cd20fc86cd5d62b3f441e73266ee4cc6a661a33a3e7b93587",
+      "width": 629,
+      "height": 528
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hyundai-steel/reference-3.webp",
+      "source_url": "https://www.hyundai-steel.com/resources/images/main/img_object0106.png",
+      "source_tag": "img:page-image",
+      "context": "img span obj06 div anim-item div sec-cont div inner",
+      "content_type": "image/webp",
+      "bytes": 4482,
+      "sha256": "57edc857ca300c290ddf971687c6221518bcdd9a273888c26e0e8e0cd551c84a",
+      "width": 480,
+      "height": 481
+    }
+  ]
+}

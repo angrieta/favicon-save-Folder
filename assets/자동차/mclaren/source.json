@@ -1,0 +1,47 @@
+{
+  "company": "McLaren",
+  "category": "자동차",
+  "requested_url": "https://www.mclaren.com/cars/gl_en",
+  "page_url": "https://www.mclaren.com/cars/gl_en",
+  "page_title": "",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/mclaren/favicon.png",
+      "source_url": "https://www.mclaren.com/cars/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3274,
+      "sha256": "ad43ef940213397efa8de12676edda1540e193b7eed0af10b1f2cc85caa62bf4",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "c8f125e2aecd45f1393187d4b4800f87235c90a4c089aa8f74ed9a7bd03aba57"
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/mclaren/banner-1.webp",
+      "source_url": "https://www.mclaren.com/cars/nav_main.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 w-full h-full object-cover object-center div absolute inset-0 theme-mist bg-surface-primary div group relative w-full h-full div origin-top overflow-hidden w-full aspect-origin div w-full md:w-[420px] lg:w-[552px]",
+      "content_type": "image/webp",
+      "bytes": 33928,
+      "sha256": "52da1c03b3a32bafcfb36ef62877cd7c12fa5f5217932f84c92a31a5e87040db",
+      "width": 1104,
+      "height": 406
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/mclaren/banner-2.webp",
+      "source_url": "https://www.mclaren.com/cars/assets/images/darkkiwi-first.png",
+      "source_tag": "inline-background-image",
+      "context": "span  block w-20 h-11.25 bg-current pointer-events-none select-none mask-image:url(\"/cars/assets/images/darkkiwi-first.png\");-webkit-mask-image:url(\"/cars/assets/images/darkkiwi-first.png\");mask-repeat:no-repeat;-webkit-mask-repeat:no-repea",
+      "content_type": "image/webp",
+      "bytes": 7476,
+      "sha256": "fe518f0fa82f0760ce2669b38b3d6708a1a14e5d04a8006f8525f6750a6cade4",
+      "width": 1280,
+      "height": 720
+    }
+  ]
+}

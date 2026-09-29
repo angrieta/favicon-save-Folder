@@ -1,0 +1,57 @@
+{
+  "company": "Snapchat",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.snapchat.com/ko-KR",
+  "page_url": "https://www.snapchat.com/ko-KR",
+  "page_title": "Snapchat - Snap으로 말하세요",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://static.snapchat.com/snapchat-dot-com/_next/static/css/14af08d3c818600c.css; reference:ValueError:https://static.snapchat.com/snapchat-dot-com/_next/static/css/e1d1b0c555de5cda.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/snapchat/favicon.png",
+      "source_url": "https://static.snapchat.com/images/apple-touch-icon/apple-touch-icon-yellow-192.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7067,
+      "sha256": "7b1f12e5857a9987d89ac3c0da30d1780e8eebb3d3bef404918b3990965bd0ed",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/snapchat/og.webp",
+      "source_url": "https://www.snapchat.com/images/default-preview/facebook.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8118,
+      "sha256": "cd06e6d8ce5c7560b713bacfb29615b0e30da96d0481707989f864686e83aa62",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/snapchat/reference-1.webp",
+      "source_url": "https://static.snapchat.com/videos/snapchat-dot-com/posters/find-your-friends.png",
+      "source_tag": "link:preload",
+      "context": "preload image  https://static.snapchat.com/videos/snapchat-dot-com/posters/find-your-friends.png",
+      "content_type": "image/webp",
+      "bytes": 20412,
+      "sha256": "2fc5ece50a101ef2c0b40327b93a6fa229c8bc549292955478ccb1406502bb14",
+      "width": 374,
+      "height": 666
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/snapchat/reference-2.webp",
+      "source_url": "https://static.snapchat.com/videos/snapchat-dot-com/posters/lens.png",
+      "source_tag": "link:preload",
+      "context": "preload image  https://static.snapchat.com/videos/snapchat-dot-com/posters/lens.png",
+      "content_type": "image/webp",
+      "bytes": 29912,
+      "sha256": "fa429bf5711f57e13e616845eb62b72a92e0cbd47fe9b96f469caa9b193b20ac",
+      "width": 374,
+      "height": 666
+    }
+  ]
+}

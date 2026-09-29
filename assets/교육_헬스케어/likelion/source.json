@@ -1,0 +1,46 @@
+{
+  "company": "멋쟁이사자처럼",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.likelion.net",
+  "page_url": "https://likelion.net/",
+  "page_title": "홈 : 멋쟁이사자처럼",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://likelion.net/_next/static/css/8b99989f692501ed.css; reference:ValueError:https://likelion.net/_next/static/css/39afb828e047495f.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/likelion/favicon.png",
+      "source_url": "https://likelion.net/img/favicon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 432,
+      "sha256": "26b200e6f52d8f967ede908c539fc2f0ceac50f4e5ce8ecf548509ce5a427515",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/likelion/og.webp",
+      "source_url": "https://likelion.net/img/og_likelion.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4904,
+      "sha256": "4e3e0f44bc4158be439d2a689066b4c0d4e7e7bceba387737e7dad4a047cd846",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/likelion/logo-1.svg",
+      "source_url": "https://likelion.net/img/likelion-logo.svg",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2667,
+      "sha256": "e8ee5e0f7e94f36acedebf8a2101de9dd0719c2a2ccca181d56b018d6b12998d",
+      "width": 200,
+      "height": 24,
+      "source_sha256": "06efff78442ed025b8c6c9518a5ef93805ef7b0647baa849f0236472055464a8"
+    }
+  ]
+}

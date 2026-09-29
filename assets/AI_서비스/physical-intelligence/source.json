@@ -1,0 +1,33 @@
+{
+  "company": "Physical Intelligence",
+  "category": "AI_서비스",
+  "requested_url": "https://www.physicalintelligence.company",
+  "page_url": "https://www.pi.website/",
+  "page_title": "Physical Intelligence (π)",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.pi.website/_next/static/media/9cf9c6e84ed13b5e-s.p.woff2; reference:ValueError:https://www.pi.website/_next/static/media/dcb532816ecc2c68-s.p.woff2; reference:ValueError:https://www.pi.website/_next/static/chunks/webpack-592c675d6a9c73dc.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/physical-intelligence/favicon.png",
+      "source_url": "https://www.pi.website/icon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 409,
+      "sha256": "6a110eec243f4997ec919b256ec5906a2c18ee7f3b43b2fc6150ca2dba78dcd4",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/physical-intelligence/og.webp",
+      "source_url": "https://physicalintelligence.company/images/og/og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 18242,
+      "sha256": "343f1234260a72c1533e746df838e04a30dbcd8e2c2b84498a77e504b98441cf",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

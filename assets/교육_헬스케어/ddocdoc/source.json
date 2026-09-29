@@ -1,0 +1,69 @@
+{
+  "company": "똑닥",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.ddocdoc.com",
+  "page_url": "https://www.ddocdoc.com/",
+  "page_title": "똑닥 - 병원을 쉽고 편리하게!",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.ddocdoc.com/web_assets/shared/fonts/Pretendard-Regular.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/ddocdoc/favicon.png",
+      "source_url": "https://cdn.ddocdoc.com/web_assets/shared/icons/logo_114x114.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9742,
+      "sha256": "7b39d6137ca4261130ce2dde7ab93a9671190a6f257168bf30dcdb92708fb598",
+      "width": 114,
+      "height": 114
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/ddocdoc/og.webp",
+      "source_url": "https://cdn.ddocdoc.com/web_assets/shared/images/open_graph/img_og_ddocdochome@3x.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10012,
+      "sha256": "1e6ad99c4966ddbc037a53944773c393134ff3c633b8c2a36cb804498173d835",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/ddocdoc/logo-1.png",
+      "source_url": "https://ddocdoc.com/_next/static/media/logo_ddocdoc@3x.0grxxqh2_drt0.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 똑닥 로고 div shrink-0 relative flex items-center w-7 [&>div]:absolute header flex gap-x-3 px-4 py-3 items-center bg-white div opacity-0 pointer-events-none header relative max-w-[480px] mx-auto bg-white [&>div]:absolute [&>div]:w-full [&>d",
+      "content_type": "image/png",
+      "bytes": 1263,
+      "sha256": "31f7cbb50d1b95bb0f30b6f9413454800f3cd18e517f88c77cff1bf18e717fe5",
+      "width": 84,
+      "height": 84
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/ddocdoc/logo-2.png",
+      "source_url": "https://ddocdoc.com/_next/static/media/logo_ddocdocfull@3x.03-qd-ywm.agt.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 똑닥 로고 a div relative w-full h-18 bg-white py-3 flex justify-between items-center px-4 div opacity-1 pointer-events-auto header relative max-w-[480px] mx-auto bg-white [&>div]:absolute [&>div]:w-full [&>div]:transition-opacity [&>div]:du",
+      "content_type": "image/png",
+      "bytes": 1918,
+      "sha256": "c404e0b29211f7a965cf52732584baa0e1322fa2a991cfffbf8426116426a5a1",
+      "width": 162,
+      "height": 59
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/ddocdoc/reference-1.webp",
+      "source_url": "https://ddocdoc.com/_next/static/media/graphic_ddocdoc_home_phone@3x.0e~2dlwkk1o78.png",
+      "source_tag": "img:page-image",
+      "context": "img 핸드폰 백그라운드 div relative flex justify-center z-20 div flex flex-col items-center opacity-0 animate-[fadeIn_0.5s_ease-in-out_forwards_0.5s] div bg-Yellow-50 pt-[60px] relative overflow-hidden div relative",
+      "content_type": "image/webp",
+      "bytes": 63548,
+      "sha256": "8d29798fea6e88cfdbe7cdde67c23185a0021a39a9be1e31195c2ec2bb51f6ea",
+      "width": 1080,
+      "height": 924
+    }
+  ]
+}

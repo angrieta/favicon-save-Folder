@@ -1,0 +1,105 @@
+{
+  "company": "DJI",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.dji.com/kr",
+  "page_url": "https://www.dji.com/kr",
+  "page_title": "DJI - 공식 웹사이트",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www-cdn.djiits.com/assets/styles/build/www.header-v4.min-b9cead8c66063dd15abdec6a75eaca25.css; reference:ValueError:https://www-cdn.djiits.com/assets/styles/build/v3.base.min-573c73fa0700df2dca9bc979c4dbb03e.css; reference:ValueError:https://www-cdn.djiits.com/assets/styles/build/homepage/www.homepage.min-52913da765f8ad6b566500e9bde8b33f.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/dji/favicon.png",
+      "source_url": "https://www-cdn.djiits.com/dps/47033021c805779769704a19c1b275d5.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1923,
+      "sha256": "02d8235244c42bcb6d4c7e62f6f98512144afe78a6c06e80cc86b6c0a9d8aee5",
+      "width": 120,
+      "height": 120
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/dji/og.webp",
+      "source_url": "https://www-cdn.djiits.com/dps/de46652dd99c67d4f8d17607e3bf0dce.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5360,
+      "sha256": "c7f4ab9beeb5f3d396963ca1dc53089831cb9ad1fe0ef09248221b338aa81afa",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/dji/logo-1.svg",
+      "source_url": "https://www-cdn.djiits.com/cms/uploads/0270ac3bd643124f73a5bfd9638ada6d.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img banner-logo banner-headline swiper-lazy mavic-4-pro div banner-text div banner-content theme-light div swiper-slide banner-swiper-slide div swiper-wrapper swiper-wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 5175,
+      "sha256": "8cd46d6d1f628288ea54978ab90a6f4db434a7898b7485874faaf5a7568a58ed",
+      "width": 256,
+      "height": 24
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/dji/logo-2.svg",
+      "source_url": "https://www-cdn.djiits.com/cms/uploads/805f770bc6e734343eab48d1dc2a49c0.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img banner-logo banner-headline swiper-lazy air-3s div banner-text div banner-content theme-light swiper-lazy div swiper-slide banner-swiper-slide div swiper-wrapper swiper-wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 4148,
+      "sha256": "8378393aba08b1607d0c018f846227b5f103bad0adf1ea0cbc482a6a73b22ef5",
+      "width": 150,
+      "height": 24
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/dji/banner-1.svg",
+      "source_url": "https://www-cdn.djiits.com/cms/uploads/95aa93ff6f6bbd35848cdeab6ed82709.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img banner-logo banner-headline swiper-lazy flycart-100 div banner-text div banner-content theme-light swiper-lazy div swiper-slide banner-swiper-slide div swiper-wrapper swiper-wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 3128,
+      "sha256": "4a8809ced662c378837424096eaa0203f4c4829cbc19f417631dac9aea6d42d3",
+      "width": 2810,
+      "height": 240
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/dji/banner-2.webp",
+      "source_url": "https://www-cdn.djiits.com/cms/uploads/c008ab847e82aa79971025ff63a04ceb@1x.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  banner-content theme-light background-image: url(https://www-cdn.djiits.com/cms/uploads/c008ab847e82aa79971025ff63a04ceb@1x.jpg); background-image:-webkit-image-set( url(https://www-cdn.djiits.com/cms/uploads/c008ab847e82aa79971025ff63",
+      "content_type": "image/webp",
+      "bytes": 28810,
+      "sha256": "fc15880eed02c11a2741b6da0fb9ba62c9188ca9c0eb19e6f96a751d93580ab2",
+      "width": 1800,
+      "height": 563
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/dji/reference-1.webp",
+      "source_url": "https://www-cdn.djiits.com/cms/uploads/c008ab847e82aa79971025ff63a04ceb.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  banner-content theme-light background-image: url(https://www-cdn.djiits.com/cms/uploads/c008ab847e82aa79971025ff63a04ceb@1x.jpg); background-image:-webkit-image-set( url(https://www-cdn.djiits.com/cms/uploads/c008ab847e82aa79971025ff63",
+      "content_type": "image/webp",
+      "bytes": 28918,
+      "sha256": "415692fc5fb879124462099b5bd6fe29f6476684f8f45d971b45236fb29a3372",
+      "width": 1800,
+      "height": 563
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/dji/reference-2.webp",
+      "source_url": "https://www-cdn.djiits.com/cms/uploads/1cdfbcc897f7824f9ea03894b1570ed8@origin.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  https://www-cdn.djiits.com/cms/uploads/1cdfbcc897f7824f9ea03894b1570ed8@origin.jpg",
+      "content_type": "image/webp",
+      "bytes": 28064,
+      "sha256": "2b974d54cf843921967cfa7691bd38735e40e00a8de94c7c2e2cf17dcbd50ade",
+      "width": 1800,
+      "height": 563
+    }
+  ]
+}

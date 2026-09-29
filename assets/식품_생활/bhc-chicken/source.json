@@ -1,0 +1,48 @@
+{
+  "company": "bhc치킨",
+  "category": "식품_생활",
+  "requested_url": "https://www.bhc.co.kr/",
+  "page_url": "https://www.bhc.co.kr/",
+  "page_title": "BHC",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.bhc.co.kr/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2; reference:ValueError:https://www.bhc.co.kr/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2; reference:ValueError:https://www.bhc.co.kr/_next/static/chunks/4a98671e56ae9d1f.js; reference:ValueError:https://www.googletagmanager.com/gtag/js?id=G-VQCWMLZDD4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/bhc-chicken/favicon.ico",
+      "source_url": "https://www.bhc.co.kr/favicon.ico?favicon.b0841bb4.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "77612dd11f6bce2496c8eec012d9de3e1e3f085c8c4f1045ab21f2a76e7cc5e2",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bhc-chicken/logo-1.svg",
+      "source_url": "https://www.bhc.co.kr/_next/static/media/img_logo_intro.5904fb7d.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img BHC 치킨 div intro_wrap body geist_a71539c9-module__T19VSG__variable geist_mono_8d43a2aa-module__8Li5zG__variable antialiased html [document]",
+      "content_type": "image/svg+xml",
+      "bytes": 462326,
+      "sha256": "6d46d8c0610b3ac450e4e2e2f69b833e06ab1201c0d8bf6182d3a512afaf3345",
+      "width": 357,
+      "height": 382,
+      "source_sha256": "b9f56c9cdafacd3571b6d2ccdc4f459ca7ed0e931237a30941eb68194bc5cf20"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bhc-chicken/logo-2.svg",
+      "source_url": "https://www.bhc.co.kr/_next/static/media/ico_logo_header.73c66913.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo BHC CHICKEN a h1 div mid div pc_web on",
+      "content_type": "image/svg+xml",
+      "bytes": 14050,
+      "sha256": "c7bec2f34ffa2ac1db9d8e3f0b47b6fa43c7d5fae5cdc6113a7b8f0ea0dffc2e",
+      "width": 162,
+      "height": 40,
+      "source_sha256": "7711e949015f7d8ecef4f2b0f5d74c099b17f88a6227607b59b64e522de8b94c"
+    }
+  ]
+}

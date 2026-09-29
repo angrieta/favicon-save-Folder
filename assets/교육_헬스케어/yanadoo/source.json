@@ -1,0 +1,33 @@
+{
+  "company": "야나두",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.yanadoo.co.kr",
+  "page_url": "https://www.yanadoo.co.kr/",
+  "page_title": "하루 10분 야나두",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://english.yanadoocdn.com/upload/yanadoo/assets/fonts/NotoSansCJKkr-Regular.woff2; reference:ValueError:https://english.yanadoocdn.com/upload/yanadoo/assets/fonts/NotoSansCJKkr-Bold.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/yanadoo/favicon.ico",
+      "source_url": "https://www.yanadoo.co.kr/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "e81ab43854d15b40d90c0331874d87c15ea31f7e256b501bee40a9688d997923",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/yanadoo/og.webp",
+      "source_url": "https://english.yanadoocdn.com/upload/yanadoo/new/common/og_image_yanadoo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12930,
+      "sha256": "89fcf074abe316378267772efa4af808295d9b90fe31b4d1af859793dfe98483",
+      "width": 800,
+      "height": 400
+    }
+  ]
+}

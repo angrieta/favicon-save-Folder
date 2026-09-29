@@ -1,0 +1,69 @@
+{
+  "company": "삼성전기",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.samsungsem.com/",
+  "page_url": "https://www.samsungsem.com/",
+  "page_title": "삼성전기",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.samsungsem.com/resources/movie/kr/main/new_main_visual_video_gp.mp4; banner:ValueError:https://www.samsungsem.com/resources/movie/kr/main/new_main_visual_video01.mp4; reference:ValueError:https://www.samsungsem.com/resources/movie/kr/main/new_main_visual_video_gp.mp4; reference:ValueError:https://www.samsungsem.com/resources/movie/kr/main/new_main_visual_video01.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/samsung-electro-mechanics/favicon.ico",
+      "source_url": "https://www.samsungsem.com/resources/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "90202837c91fdf4f086f7092833b62c2a0d8a62a1e171eb3bc4f6bf4660c5083",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/samsung-electro-mechanics/og.webp",
+      "source_url": "https://www.samsungsem.com/resources/images/kr/common/og_img.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8646,
+      "sha256": "2ee0d7080d8deac576180c1fd57284332db996bbe44134d4a766cdfae4830287",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/samsung-electro-mechanics/reference-1.webp",
+      "source_url": "https://www.samsungsem.com/resources/images/kr/common/family_certi_popup_img.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 가족 친화 인증서 이미지 div pop_inner div pop_inner_wrap div popup_wrap certification_popup div wrap main",
+      "content_type": "image/webp",
+      "bytes": 27932,
+      "sha256": "c65b6a5bcc9e27ad0b276b01038c4e101d974445bf989ffc45f2d46df6e6375c",
+      "width": 537,
+      "height": 752
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/samsung-electro-mechanics/reference-2.webp",
+      "source_url": "https://www.samsungsem.com/resources/images/kr/common/web_certi_popup.jpg?ver=260615",
+      "source_tag": "img:page-image",
+      "context": "img 접근성 품질인증서 이미지 div pop_inner div pop_inner_wrap div popup_wrap certification_popup div wrap main",
+      "content_type": "image/webp",
+      "bytes": 91780,
+      "sha256": "b2864178ad49102801d3edc5b91b7c3bd31066dc16ffb9ebb322aae5358434ef",
+      "width": 793,
+      "height": 1122
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/samsung-electro-mechanics/reference-3.webp",
+      "source_url": "https://www.samsungsem.com/files/imageView.do?key=a12ccb4e-d0f9-45a8-a16f-9dab04a13a77",
+      "source_tag": "img:page-image",
+      "context": "img a div img_area div top div inner",
+      "content_type": "image/webp",
+      "bytes": 7800,
+      "sha256": "deb8ae3cceb003e421688f84163ab70f2bb37b9d9e852ec8291afbe3fd66276a",
+      "width": 745,
+      "height": 420
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "company": "시프트업",
+  "category": "게임_엔터",
+  "requested_url": "https://shiftup.co.kr/",
+  "page_url": "https://shiftup.co.kr/",
+  "page_title": "SHIFT UP",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/shift-up/favicon.png",
+      "source_url": "https://shiftup.co.kr/img/logo.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1133,
+      "sha256": "a8fc37531b80528a24232c12b5384c1cd5ee2d48eabdcc065e9fcd78493d9df2",
+      "width": 138,
+      "height": 30
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/shift-up/og.webp",
+      "source_url": "https://shiftup.co.kr/img/og_logo.gif",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2942,
+      "sha256": "1441b2e1dfdd28b1f0151ec032409a0cf92050da3a74e714fd7c94a9b7b246a4",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/shift-up/logo-1.png",
+      "source_url": "https://shiftup.co.kr/admin/data/banner/visual_2407080258545_2.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img STELLAR BLADE div v_logo w1590 div roll div visual_in section visual",
+      "content_type": "image/png",
+      "bytes": 29633,
+      "sha256": "4795df98362cce2087c66f5835174e1403f3c52bb1865b08944ac514f18b8d10",
+      "width": 574,
+      "height": 251
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/shift-up/logo-2.png",
+      "source_url": "https://shiftup.co.kr/admin/data/banner/visual_2407080300025_2.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img NIKKE div v_logo w1590 div roll div visual_in section visual",
+      "content_type": "image/png",
+      "bytes": 11257,
+      "sha256": "38ed3349eee0f180ce409ecb7b35f841a51641fb9e285fa8eeaa4ea1cdf75aa6",
+      "width": 450,
+      "height": 230
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/shift-up/banner-1.webp",
+      "source_url": "https://shiftup.co.kr/admin/data/banner/m_games_2407080305588.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 스텔라 블레이드 div img1 div img_area div roll div games_roll",
+      "content_type": "image/webp",
+      "bytes": 86280,
+      "sha256": "d869f7edb3609725a7b6be0ab8ea0147c963c17357f2fc511e8b8b9833cdf5d3",
+      "width": 1050,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/shift-up/banner-2.webp",
+      "source_url": "https://shiftup.co.kr/admin/data/banner/m_games_2407091101327.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 승리의 여신: 니케 div img1 div img_area div roll div games_roll",
+      "content_type": "image/webp",
+      "bytes": 144562,
+      "sha256": "9bc60899e13d7688a124f6d822bb1a543e82a90bd01570ce63765c3c5078872b",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "aaead2720931c13d0b1dfd86562086a655b5d603336d5c86e3bc625d59f5b3ba"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/shift-up/reference-1.webp",
+      "source_url": "https://shiftup.co.kr/img/banner01.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  b_bg grayscale background:url('/img/banner01.jpg') no-repeat center/cover;",
+      "content_type": "image/webp",
+      "bytes": 91242,
+      "sha256": "a6bf6e5525e00409b5d3fb79c1e45f68fd3cfc61a4ab16d8a0b6e1c348d50c48",
+      "width": 1280,
+      "height": 500,
+      "source_sha256": "b8bd314542e8e1cf75df94251ad867016d3cda4e3ca5b217d0dc0c13c84567b5"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/shift-up/reference-2.webp",
+      "source_url": "https://shiftup.co.kr/img/banner02.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  b_bg grayscale background:url('/img/banner02.jpg') no-repeat center/cover;",
+      "content_type": "image/webp",
+      "bytes": 21842,
+      "sha256": "293aaa05140efb949dca2dbf153569c689ff573d5a3f8e250d0c613bfe37736f",
+      "width": 1280,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/shift-up/reference-3.webp",
+      "source_url": "https://shiftup.co.kr/admin/data/banner/m_games_2407080305588_3.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 스텔라 블레이드 div img2 div img_area div roll div games_roll",
+      "content_type": "image/webp",
+      "bytes": 50836,
+      "sha256": "6bcfc7b27e3f1b7fdaa32421d8eeccf471ce295b8c7548899f3669df72f4727d",
+      "width": 510,
+      "height": 510
+    }
+  ]
+}

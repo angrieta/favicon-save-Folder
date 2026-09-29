@@ -1,0 +1,33 @@
+{
+  "company": "라프텔",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://laftel.net/",
+  "page_url": "https://laftel.net/",
+  "page_title": "라프텔 - 애니 추천 · 애니 스트리밍 · 애니 굿즈",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://laftel.net/_next/static/chunks/39dv-a2mh8xo6.js; reference:ValueError:https://code.jquery.com/jquery-3.7.1.min.js; reference:ValueError:https://laftel.net/patch-router.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/laftel/favicon.png",
+      "source_url": "https://static.laftel.net/favicon-152.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3635,
+      "sha256": "323c514108787ca4b71fd752e908daa72ec1abb5ea57504f8841723c849b6a3b",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/laftel/og.webp",
+      "source_url": "https://static.laftel.net/og_image_1200x1200.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9648,
+      "sha256": "c8c7e65380f77b4e4d66f24f74b82ee0f009318a37224e827e133c4b75713eb3",
+      "width": 1200,
+      "height": 1200
+    }
+  ]
+}

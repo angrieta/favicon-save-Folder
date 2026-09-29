@@ -1,0 +1,81 @@
+{
+  "company": "더한섬닷컴",
+  "category": "유통_커머스",
+  "requested_url": "https://www.thehandsome.com",
+  "page_url": "https://www.thehandsome.com/ko",
+  "page_title": "더한섬닷컴 | THE HANDSOME.COM",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.thehandsome.com/_nuxt/08bd763.js; reference:ValueError:https://www.thehandsome.com/_nuxt/css/1dd2462.css; reference:ValueError:https://www.thehandsome.com/_nuxt/50d1af2.js; reference:ValueError:https://www.thehandsome.com/_nuxt/css/d9dd978.css; reference:ValueError:https://www.thehandsome.com/_nuxt/e893874.js; reference:ValueError:https://www.thehandsome.com/_nuxt/32d498d.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/the-handsome/favicon.png",
+      "source_url": "https://www.thehandsome.com/_nuxt/icons/icon_512x512.5b468c.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9972,
+      "sha256": "65e7db3ea7aa4c1476120f2e5f9cfeec99422eb1483d09cdb47faa617409c626",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/the-handsome/og.webp",
+      "source_url": "https://cdn-img.thehandsome.com/md/publish/common/share_logo.jpg?RS=800x400",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2698,
+      "sha256": "eecf5c52be1f5f9ae4e18e5a8b8630211afdde068879b9421ebbda6af39eb87b",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/the-handsome/banner-1.webp",
+      "source_url": "https://cdn-img.thehandsome.com/attachment/display/2026/09/02/f27006a8-6cca-4dcc-b83c-1ec32c11a5c3_10.jpg?AO=1",
+      "source_tag": "inline-background-image",
+      "context": "div  cbs-item background-image:url(https://cdn-img.thehandsome.com/attachment/display/2026/09/02/f27006a8-6cca-4dcc-b83c-1ec32c11a5c3_10.jpg?AO=1);",
+      "content_type": "image/webp",
+      "bytes": 13592,
+      "sha256": "f3116c188cc8e324dc1092083f46e58ec83f47a93aaa3eaaaaf2fa692a0e3312",
+      "width": 1800,
+      "height": 300
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/the-handsome/banner-2.webp",
+      "source_url": "https://cdn-img.thehandsome.com/attachment/display/2023/12/28/69634583-c775-4269-9a3f-8e3f15dfd5ff_10.jpg?AO=1",
+      "source_tag": "inline-background-image",
+      "context": "div  cbs-item background-image:url(https://cdn-img.thehandsome.com/attachment/display/2023/12/28/69634583-c775-4269-9a3f-8e3f15dfd5ff_10.jpg?AO=1);",
+      "content_type": "image/webp",
+      "bytes": 15632,
+      "sha256": "e9a6d930798b1caa814b04376cb9e21ad76496604f2c6083202d332f409c0812",
+      "width": 1800,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/the-handsome/reference-1.webp",
+      "source_url": "https://cdn-img.thehandsome.com/attachment/display/2026/08/18/d771892c-8ac1-4669-a000-8468292f9f8e_10.jpg?RS=520x520",
+      "source_tag": "inline-background-image",
+      "context": "a  mrc-link nuxt-link-exact-active nuxt-link-active background-image:url(https://cdn-img.thehandsome.com/attachment/display/2026/08/18/d771892c-8ac1-4669-a000-8468292f9f8e_10.jpg?RS=520x520);",
+      "content_type": "image/webp",
+      "bytes": 19668,
+      "sha256": "e1c0598a1b211e44be51f36f0ce42ed81a91d1883194dea3e490fd71f36e74cd",
+      "width": 520,
+      "height": 520
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/the-handsome/reference-2.webp",
+      "source_url": "https://cdn-img.thehandsome.com/attachment/display/2026/09/22/66ef506e-72cc-4aa0-a82f-6f47a392dfde_10.jpg?RS=520x520",
+      "source_tag": "inline-background-image",
+      "context": "a  mrc-link nuxt-link-exact-active nuxt-link-active background-image:url(https://cdn-img.thehandsome.com/attachment/display/2026/09/22/66ef506e-72cc-4aa0-a82f-6f47a392dfde_10.jpg?RS=520x520);",
+      "content_type": "image/webp",
+      "bytes": 16126,
+      "sha256": "efbce67305a9b57c5a90715911ec9342c5ff53da7c00e5e6304c29eb0e3d7732",
+      "width": 520,
+      "height": 520
+    }
+  ]
+}

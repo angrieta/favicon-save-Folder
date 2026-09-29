@@ -1,0 +1,46 @@
+{
+  "company": "쿠첸",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.cuchen.com/",
+  "page_url": "https://www.cuchen.com/",
+  "page_title": "쿠첸 브랜드 사이트",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.cuchen.com/upload/video/20260915_0008.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/cuchen/favicon.png",
+      "source_url": "https://www.cuchen.com/img/favicon_1661825555.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 4961,
+      "sha256": "d71cb0d55878078336fdb5c9582b8e35c46d642ea18d818fd230fd0b9580f36c",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/cuchen/og.webp",
+      "source_url": "https://www.cuchen.com/img/1200.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8196,
+      "sha256": "178f1fc2518ec549da74c1b0d72ddfaab89ab0f694990f4b08a9820cd4497090",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/cuchen/logo-1.svg",
+      "source_url": "https://www.cuchen.com/img/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img span logo div inner div foot-banner section sec-footer",
+      "content_type": "image/svg+xml",
+      "bytes": 3945,
+      "sha256": "39da1d9dbf3d86c8a3bc7d580ec0c26f3aa296e4a5c883ce984f025b9d62e285",
+      "width": 170,
+      "height": 29,
+      "source_sha256": "78a8855abf6674fd09abf0357f7867d353e754e41aa807d92c16c39bf7ca3922"
+    }
+  ]
+}

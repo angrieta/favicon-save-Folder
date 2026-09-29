@@ -1,0 +1,71 @@
+{
+  "company": "Bethesda",
+  "category": "게임_엔터",
+  "requested_url": "https://bethesda.net/ko-KR",
+  "page_url": "https://bethesda.net/ko-KR",
+  "page_title": "홈 | Bethesda.net",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://res.cloudinary.com/dewzjk72j/image/authenticated/s--ey6bfJWl--/c_lfill; reference:HTTPError:https://res.cloudinary.com/dewzjk72j/image/authenticated/s--ejjQtD-J--/c_lfill; reference:HTTPError:https://res.cloudinary.com/dewzjk72j/image/authenticated/s--rlM32I07--/c_lfill; reference:HTTPError:https://res.cloudinary.com/dewzjk72j/image/authenticated/s--11DNdPJa--/c_lfill; reference:HTTPError:https://res.cloudinary.com/dewzjk72j/image/authenticated/s--NDI0pebu--/c_lfill; reference:HTTPError:https://res.cloudinary.com/dewzjk72j/image/authenticated/s--0hdrBv7f--/c_lfill",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/bethesda/favicon.ico",
+      "source_url": "https://bethesda.net/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "546459ddaf6e475fd20346e73a2a58e75f4d3402c58ba3d36b69a7702c630944",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/bethesda/logo-1.webp",
+      "source_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--ULVAp_ra--/c_crop,w_0.70,h_0.70,g_xy_center,x_0.46,y_0.27/g_xy_center,x_w_mul_0.50,y_h_mul_0.39,c_fill,w_100,h_130/c_lfill,h_ih/c_lfill,h_130/f_auto:image,q_auto/v1/cms/oblivion-remastered-banner-1_ofygna",
+      "source_tag": "img:semantic-logo",
+      "context": "img hidden object-cover A knight stands in front of the burning Oblivion logo image-clip a group feed-layout-section feed-layout",
+      "content_type": "image/webp",
+      "bytes": 5842,
+      "sha256": "aadd077f7a4d7b210002ae0801869f5865fa43874f24899f526b019a06442abf",
+      "width": 100,
+      "height": 130
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/bethesda/logo-2.webp",
+      "source_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--FxiCE5z9--/c_crop,w_0.70,h_0.70,g_xy_center,x_0.46,y_0.27/g_xy_center,x_w_mul_0.50,y_h_mul_0.39,c_fill,w_380,h_230/c_lfill,h_ih/c_lfill,h_230/f_auto:image,q_auto/v1/cms/oblivion-remastered-banner-1_ofygna",
+      "source_tag": "img:semantic-logo",
+      "context": "img hidden object-cover A knight stands in front of the burning Oblivion logo picture image-clip a group feed-layout-section",
+      "content_type": "image/webp",
+      "bytes": 22526,
+      "sha256": "377bab608a2eea462b84e1b536afa330c83521a0235d44d87ccacfc98f2d8887",
+      "width": 380,
+      "height": 230
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/bethesda/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/dewzjk72j/image/authenticated/s--JWD3TeQb--/g_xy_center,x_w_mul_0.49,y_h_mul_0.39,c_fill,w_744,h_673/c_lfill,h_ih/c_lfill,h_673/f_auto:image,q_auto/v1/cms/F76_TheSlasher_1920x1080_imy9la",
+      "source_tag": "picture:page-image",
+      "context": "picture fade-hero-fade pointer-events-none fade-hero section main main",
+      "content_type": "image/webp",
+      "bytes": 55536,
+      "sha256": "d31ac685eb97efb7e84d644a5c25415f8f8e60d97f50a61a7440e895cc6be584",
+      "width": 744,
+      "height": 673
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/bethesda/reference-2.svg",
+      "source_url": "https://bethesda.net/_static-landing-pages/images/bokeh.svg",
+      "source_tag": "img:page-image",
+      "context": "img absolute pointer-events-none left-0 top-0 h-full w-full opacity-50 age-gate absolute -m-[2px] inset-0 h-full min-h-[220px] @container dialog-panel relative opacity-0 transition-opacity ease-in-out duration-200 dialog fixed w-full h-full",
+      "content_type": "image/svg+xml",
+      "bytes": 4082,
+      "sha256": "553f524e8520a17aa54b948622cdf3b92e27a19d9d6dd7f3af6586a8eb792874",
+      "width": 1320,
+      "height": 729,
+      "source_sha256": "b5041823201aee4927d38ec6b54cfae01c956c29e487a78284200e966e52fd01"
+    }
+  ]
+}

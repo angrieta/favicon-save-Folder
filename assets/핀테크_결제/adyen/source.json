@@ -1,0 +1,58 @@
+{
+  "company": "Adyen",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.adyen.com/",
+  "page_url": "https://www.adyen.com/",
+  "page_title": "Adyen: Fintech platform for enterprises - Adyen",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.adyen.com/main_nuxt/CLggMXWk.js; reference:ValueError:https://www.adyen.com/main_nuxt/DVJq5EqX.js; reference:ValueError:https://www.adyen.com/main_nuxt/yXzU4_Ab.js; reference:ValueError:https://www.adyen.com/main_nuxt/WogjRsCj.js; reference:ValueError:https://www.adyen.com/main_nuxt/DXgjV1Jp.js; reference:ValueError:https://www.adyen.com/main_nuxt/CnKf3mMV.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/adyen/favicon.svg",
+      "source_url": "https://www.adyen.com/icon.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 259,
+      "sha256": "4e9a8bd5cb95afb27bb07d0c70c392253d5f9cf94cc4ca7ab44c6bd375089d57",
+      "width": 512,
+      "height": 512,
+      "source_sha256": "09d229e5d7af1f083460d2ac4259419a52e6181af9533d578766929948224d0c"
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/adyen/og.webp",
+      "source_url": "https://media.ffycdn.net/eu/adyen/etXSmwzbMgCn9pF1reLE.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3322,
+      "sha256": "ed0b7750c4fe98382831eeaa92b2d1eddcba6770dc2154a7b3061f147e9c362f",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/adyen/logo-1.svg",
+      "source_url": "https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiYWR5ZW5cL2ZpbGVcLzNpQ0F0bm1SOVBZSmppbzdzNUg1LnN2ZyJ9:adyen:fEzKh1f2rX2bPKqnv8_ZYCoZ0L22LkeLA3mZTaWQRdk",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 844,
+      "sha256": "b2b8ac44966af89bfd8d2170b3e3898c0e92b6abecee78edcc71b5bc388fe69c",
+      "width": 674,
+      "height": 348
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/adyen/reference-1.webp",
+      "source_url": "https://media.ffycdn.net/eu/adyen/2PXpBe6QXczKBVtYdF1z.jpg?format=webp&width=1608",
+      "source_tag": "img:page-image",
+      "context": "img object-cover w-full h-full div relative size-full inset-0 div relative size-full flex flex-col md:hidden mt-20 aspect-square div relative flex justify-center items-center div flex-col gap-20 md:gap-24 pb-24 flex md:w-3/4 xl:w-4/6 w-full",
+      "content_type": "image/webp",
+      "bytes": 43040,
+      "sha256": "eb3cdaff51988ea68231cf3984d20cefec365a045b424ffeef83f3099122c104",
+      "width": 1012,
+      "height": 1350
+    }
+  ]
+}

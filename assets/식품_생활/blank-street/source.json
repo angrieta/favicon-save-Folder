@@ -1,0 +1,84 @@
+{
+  "company": "Blank Street",
+  "category": "식품_생활",
+  "requested_url": "https://www.blankstreet.com/",
+  "page_url": "https://www.blankstreet.com/en-US",
+  "page_title": "Blank Street | Coffee & Matcha in NYC, LA & the US",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.blankstreet.com/fonts/LayGrotesk-Medium.otf; reference:ValueError:https://www.blankstreet.com/fonts/LayGrotesk-Regular.otf; reference:ValueError:https://www.blankstreet.com/fonts/LayGrotesk-Semibold.otf; reference:HTTPError:https://www.blankstreet.com/w_1440; reference:HTTPError:https://www.blankstreet.com/q_auto/v1784398134/web/placeholders/homepage/Product_1_nfj4mf.jpg; reference:HTTPError:https://www.blankstreet.com/q_auto/v1784398134/web/placeholders/homepage/Product_2_eadbiw.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/blank-street/favicon.png",
+      "source_url": "https://res.cloudinary.com/blank-street/image/upload/v1687957456/web/BlankStreet_Favicon_ihzdxu.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 158,
+      "sha256": "8d1530db4680ac5841caa46260be503307582d3df3866aa09ec3aee1e912c850",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "ea17d010dc8f59d535182caa9a8527421c520d4eb199c6cfaf366f4cf4e2772c"
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/blank-street/og.webp",
+      "source_url": "https://res.cloudinary.com/blank-street/image/upload/v1788210906/web/web_brand_refresh/web_share/Web_Share_Image_te8m7w.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 74568,
+      "sha256": "d33af346fcfacf8747588dfee637a36f487615d4da23aad1153375273a19a654",
+      "width": 1200,
+      "height": 724
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/blank-street/favicon.png",
+      "source_url": "https://res.cloudinary.com/blank-street/image/upload/v1687957456/web/BlankStreet_Favicon_ihzdxu.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "content_type": "image/png",
+      "bytes": 158,
+      "sha256": "8d1530db4680ac5841caa46260be503307582d3df3866aa09ec3aee1e912c850",
+      "width": 180,
+      "height": 180,
+      "context": "structured data logo",
+      "reused_from": "favicon",
+      "source_sha256": "ea17d010dc8f59d535182caa9a8527421c520d4eb199c6cfaf366f4cf4e2772c"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/blank-street/logo-2.webp",
+      "source_url": "https://res.cloudinary.com/blank-street/f_auto,w_750,q_auto/v1780338929/web/web_brand_refresh/homepage/location/locations_rbmxdg.png",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture sc-d5e6cf2b-6 ipxYpC div sc-d5e6cf2b-5 dQQfIQ div sc-d5e6cf2b-4 gfpGAo div sc-d5e6cf2b-3 hHrRoE div sc-d5e6cf2b-2 eKXAbr",
+      "content_type": "image/webp",
+      "bytes": 117840,
+      "sha256": "9462b15f88fb20e898ae40840ab5a434a9b8aedeb70db4ad470579346cd00659",
+      "width": 750,
+      "height": 927
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/blank-street/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/blank-street/f_auto,w_750,q_auto/v1784398134/web/placeholders/homepage/Product_1_nfj4mf.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div sc-c4ac35fe-5 faooah a sc-c4ac35fe-1 kAFTKu div sc-98c1ef2-2 jpNXz div sc-98c1ef2-1 dPoLbi",
+      "content_type": "image/webp",
+      "bytes": 14370,
+      "sha256": "04410b603ce8f1129123b18f1fc74646b985f75d6a9699e92edfedfa707628d3",
+      "width": 750,
+      "height": 930
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/blank-street/reference-2.webp",
+      "source_url": "https://res.cloudinary.com/blank-street/f_auto,w_750,q_auto/v1784398134/web/placeholders/homepage/Product_2_eadbiw.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div sc-c4ac35fe-5 faooah a sc-c4ac35fe-1 kAFTKu div sc-98c1ef2-2 jpNXz div sc-98c1ef2-1 dPoLbi",
+      "content_type": "image/webp",
+      "bytes": 12060,
+      "sha256": "6cd27477ddf1590f3e56bdb1306248641b3d3aedfebadf508489420f3bc3c8fc",
+      "width": 750,
+      "height": 930
+    }
+  ]
+}

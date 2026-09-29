@@ -1,0 +1,46 @@
+{
+  "company": "카카오페이지",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://page.kakao.com/",
+  "page_url": "https://page.kakao.com/",
+  "page_title": "추천 | 카카오페이지",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://page.kakaocdn.net/pageweb/csr/real/2.42.0/_next/static/css/bae139cfef93af5e.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/kakao-page/favicon.ico",
+      "source_url": "https://page.kakao.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "f405f3835ff2678ead2086169f48bcc75d4c5ac05a22465d27acf8e946dfae78",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/kakao-page/og.webp",
+      "source_url": "https://page.kakaocdn.net/pageweb/shared/ogImage.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2180,
+      "sha256": "3bf14b3439973483fc080e4376f084cf4b9d510f8ab397fad1c18487c78dd72a",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/kakao-page/logo-1.svg",
+      "source_url": "https://page.kakao.com/public/images/img_logo_bi_text_l.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-24pxr w-110pxr 카카오페이지 로고 a 카카오페이지 홈으로 이동 div flex h-pc_header_height_px w-1200pxr items-center px-30pxr div relative div sticky inset-x-0 left-0 top-0 z-100 flex w-full flex-col items-center justify-center bg-theme-bg-base",
+      "content_type": "image/svg+xml",
+      "bytes": 3970,
+      "sha256": "f7dcd304da6b7ab623dabb0b4c0ecb0e478ff7995d78a9a879a2270794266883",
+      "width": 110,
+      "height": 24,
+      "source_sha256": "220c9788d7d0eb6e5a5097b581ae122fb07aa6a5c1827a57ee34921bc2008b53"
+    }
+  ]
+}

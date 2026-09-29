@@ -1,0 +1,47 @@
+{
+  "company": "헥토파이낸셜",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.hectofinancial.co.kr/",
+  "page_url": "https://www.hectofinancial.co.kr/main",
+  "page_title": "Hecto Financial",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/hecto-financial/favicon.png",
+      "source_url": "https://www.hectofinancial.co.kr/resources/images/favicon/android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2372,
+      "sha256": "0237f2c819306e12091564ff9ff4289e34371499b4aca317f29b804e6a98f1fa",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/hecto-financial/logo-1.svg",
+      "source_url": "https://www.hectofinancial.co.kr/resources/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Hecto Financial a h1 logo div container div header normal",
+      "content_type": "image/svg+xml",
+      "bytes": 5531,
+      "sha256": "8eafaac65ad5df5abb121a216bb9c3495e4a8470298636df455518af70c6a0c6",
+      "width": 204,
+      "height": 30,
+      "source_sha256": "c79586499a8ac83a50be8525151fc98f4242f7745902afa19951fe88614d4a81"
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/hecto-financial/banner-1.webp",
+      "source_url": "https://www.hectofinancial.co.kr/resources/images/main/main_visual_01_text.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img typography FINTECH LIFE FORWARD a card card_1 half div section section_1 div main_contents div container container",
+      "content_type": "image/webp",
+      "bytes": 8398,
+      "sha256": "1645fcaae0560b28fffe7845c7ef0ee8cd9c5687f63988c93e2f069b09644d62",
+      "width": 871,
+      "height": 340
+    }
+  ]
+}

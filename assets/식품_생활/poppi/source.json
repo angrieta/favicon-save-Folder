@@ -1,0 +1,70 @@
+{
+  "company": "poppi",
+  "category": "식품_생활",
+  "requested_url": "https://drinkpoppi.com/",
+  "page_url": "https://www.drinkpoppi.com",
+  "page_title": "poppi",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://assets.decovostatic.com/static-images/poppi/poppi/video/1bfdfcb53bec4de2b26f482266819525.HD-1080p-7.2Mbps-90972925.mp4; banner:ValueError:https://assets.decovostatic.com/static-images/poppi/poppi/video/1455bd7f438c43379e6075c36b88dfd0.HD-1080p-7.2Mbps-90972926.mp4; reference:ValueError:https://assets.decovostatic.com/static-images/poppi/poppi/video/1bfdfcb53bec4de2b26f482266819525.HD-1080p-7.2Mbps-90972925.mp4; reference:ValueError:https://assets.decovostatic.com/static-images/poppi/poppi/video/1455bd7f438c43379e6075c36b88dfd0.HD-1080p-7.2Mbps-90972926.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/poppi/favicon.png",
+      "source_url": "https://assets.decovostatic.com/static-images/poppi/poppi/misc/favicon-32x32.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2549,
+      "sha256": "cd317cb5287e1e780be708de1fbd1df9afd7a412ca2a327fefbb3f3bedfccd7d",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/poppi/og.webp",
+      "source_url": "https://assets.decovostatic.com/static-images/poppi/poppi/favicon.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 60172,
+      "sha256": "9dd17613ccb5db7ffeebee33f3615ffb030b0c463a8a097f97c6e733a3b0b5f8",
+      "width": 800,
+      "height": 479
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/poppi/reference-1.webp",
+      "source_url": "https://assets.decovostatic.com/static-images/poppi/poppi/sour-apple/can.png",
+      "source_tag": "img:page-image",
+      "context": "img header_sdCan__tpPKM a header_sdCanLink__JH7Qo poppi Sour Apple div header_sdCanClip__ktyqH div header_sdCircle__kn_ac div header_sdArch___UFvA",
+      "content_type": "image/webp",
+      "bytes": 115834,
+      "sha256": "21f19e4e62b5abe01374aecbb71853993bb5a39b7bc46f64c148c3d37b052273",
+      "width": 702,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/poppi/reference-2.webp",
+      "source_url": "https://assets.decovostatic.com/static-images/poppi/poppi/pdp/cans/shirley-temple.png",
+      "source_tag": "img:page-image",
+      "context": "img header_sdCan__tpPKM a header_sdCanLink__JH7Qo poppi Shirley Temple div header_sdCanClip__ktyqH div header_sdCircle__kn_ac div header_sdArch___UFvA",
+      "content_type": "image/webp",
+      "bytes": 75590,
+      "sha256": "cf3820f738866bfc376cd8b7e38db6a7379b6b4d6854a944082db24e2d719d50",
+      "width": 600,
+      "height": 1166,
+      "source_sha256": "bf6356b868dbe1903441e70b61c72f3ffd6d5e7f76cb176b47d17b234ab58a28"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/poppi/reference-3.webp",
+      "source_url": "https://assets.decovostatic.com/static-images/poppi/poppi/pdp/cans/orange-cream.png",
+      "source_tag": "img:page-image",
+      "context": "img header_sdCan__tpPKM a header_sdCanLink__JH7Qo poppi Orange Cream div header_sdCanClip__ktyqH div header_sdCircle__kn_ac div header_sdArch___UFvA",
+      "content_type": "image/webp",
+      "bytes": 107510,
+      "sha256": "6cea0814ae5ec16702bb9a076589f8373aa2c93ee1f8aa7b887f8f54bac2e291",
+      "width": 600,
+      "height": 1160
+    }
+  ]
+}

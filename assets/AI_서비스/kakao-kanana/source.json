@@ -1,0 +1,69 @@
+{
+  "company": "카카오 카나나",
+  "category": "AI_서비스",
+  "requested_url": "https://kanana.ai",
+  "page_url": "https://kanana.ai/",
+  "page_title": "Kanana",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/kakao-kanana/favicon.png",
+      "source_url": "https://t1.kakaocdn.net/kakao_kanana_ai/service/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4330,
+      "sha256": "39b5f4066224939dcfacce54a01a036b40cea3fe2642f91dfe653b840025e6a3",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/kakao-kanana/og.webp",
+      "source_url": "https://t1.kakaocdn.net/kakao_kanana_ai/images/img_og_v2.png?v=20260918_v25",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6424,
+      "sha256": "5eaada1b42062663b142a68a9d00ea12ccbb88f628b2ca8dde2390a5709fa0d7",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/kakao-kanana/logo-1.svg",
+      "source_url": "https://kanana.ai/publish/images/header_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__logo-kanana Kanana div header__logo header header div container body",
+      "content_type": "image/svg+xml",
+      "bytes": 2412,
+      "sha256": "7a177a4653ffcb8830e2460231f767b9aa7b2d942f24e51e10d10f869fa6b3d6",
+      "width": 108,
+      "height": 35
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/kakao-kanana/logo-2.png",
+      "source_url": "https://t1.kakaocdn.net/kakao_kanana_ai/brand_banner/0a4956b48f8c460381795d92930784e8.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 메인배너 2 a div rolling-banner__slide div bannerWrapper rolling-banner__wrapper section rolling-banner",
+      "content_type": "image/png",
+      "bytes": 516792,
+      "sha256": "775d03f43dc5d1f3edd561cd3a5f3b0c5c37fc88d6d90749e889ef3003d2f588",
+      "width": 960,
+      "height": 1440
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/kakao-kanana/reference-1.webp",
+      "source_url": "https://t1.kakaocdn.net/kakao_kanana_ai/brand_banner/b1df3ba5dd5b417d8f99470ef7166583.png",
+      "source_tag": "img:page-image",
+      "context": "img 메인배너 3 a div rolling-banner__slide div bannerWrapper rolling-banner__wrapper section rolling-banner",
+      "content_type": "image/webp",
+      "bytes": 71780,
+      "sha256": "6965947cfaac7931ce72414c4e26319ff3f41d938aa2fb3573c84ec30361d792",
+      "width": 900,
+      "height": 1350
+    }
+  ]
+}

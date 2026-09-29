@@ -1,0 +1,105 @@
+{
+  "company": "삼성SDS",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.samsungsds.com/kr/",
+  "page_url": "http://www.samsungsds.com/kr/index.html",
+  "page_title": "삼성SDS",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://image.samsungsds.com/module_src/images/main/silk.webp; reference:ValueError:https://image.samsungsds.com/module_src/images/main/silk.webp; reference:ValueError:https://www.facebook.com/tr?id=2280020175855929&ev=PageView&noscript=1; reference:ValueError:https://www.facebook.com/tr?id=1599401407477547&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/samsung-sds/favicon.png",
+      "source_url": "https://image.samsungsds.com/resource/kr/images/app_ico.gif?queryString=20260929014933",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1271,
+      "sha256": "69ac9e0c03862e45e368db48ba28abe1e5c3197230d8ea572f71a2f2d6c85718",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/samsung-sds/og.webp",
+      "source_url": "https://image.samsungsds.com/resource/kr/images/SamsungSDS.jpg?queryString=20260929014933",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7686,
+      "sha256": "96774dce7947a739fd23656e1afd939aab2dc7a1e1de4efb90f319c7bbd75dcf",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/samsung-sds/logo-1.svg",
+      "source_url": "https://image.samsungsds.com/module_src/images/default/logo_black.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 3844,
+      "sha256": "6919ad9d44c0f889fafb86286f9b7f70170e8f3b42f9fbb042405efa198d2fd5",
+      "width": 130,
+      "height": 20
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/samsung-sds/banner-1.webp",
+      "source_url": "https://image.samsungsds.com/kr/main2026/kr1_04_3/__icsFiles/afieldfile/2026/09/22/main_kv_0922.gif?queryString=20260929014933",
+      "source_tag": "img:semantic-banner",
+      "context": "img is-pc div main-kv__swiper-bg div main-kv__swiper-item swiper-slide div main-kv__slides swiper-wrapper div main-kv__swiper main-kv__swiper--hero swiper",
+      "content_type": "image/webp",
+      "bytes": 25400,
+      "sha256": "fe25745ececa952369f579440cd184326ae638662b592f48124ab87c656104bc",
+      "width": 795,
+      "height": 611
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/samsung-sds/banner-2.webp",
+      "source_url": "https://image.samsungsds.com/kr/main2026/kr1_04_7/__icsFiles/afieldfile/2026/09/18/kv_case_item_03-0918.png?queryString=20260929014933",
+      "source_tag": "img:semantic-banner",
+      "context": "img is-pc div main-kv__swiper-bg div main-kv__swiper-item swiper-slide div main-kv__slides swiper-wrapper div main-kv__swiper main-kv__swiper--case swiper",
+      "content_type": "image/webp",
+      "bytes": 5018,
+      "sha256": "3ab86841bd4c2f2c45378bd9cb7c42f89e5ab79be6ceb0371f77118b2618d7be",
+      "width": 778,
+      "height": 348
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/samsung-sds/reference-1.webp",
+      "source_url": "https://image.samsungsds.com/kr/main2026/kr1_04_2/__icsFiles/afieldfile/2026/07/29/kv_insight_item_01%20(1).jpg?queryString=20260929014933",
+      "source_tag": "img:page-image",
+      "context": "img is-pc div main-kv__swiper-bg div main-kv__swiper-item swiper-slide div main-kv__slides swiper-wrapper div main-kv__swiper main-kv__swiper--insight swiper",
+      "content_type": "image/webp",
+      "bytes": 7112,
+      "sha256": "55c60e1c698d6db9b1f98461756314f896a67c469d1f66d09b27c210fc816928",
+      "width": 750,
+      "height": 700
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/samsung-sds/reference-2.webp",
+      "source_url": "https://image.samsungsds.com/kr/main2026/kr1_04_2/__icsFiles/afieldfile/2026/07/29/kv_insight_item_02.jpg?queryString=20260929014933",
+      "source_tag": "img:page-image",
+      "context": "img is-pc div main-kv__swiper-bg div main-kv__swiper-item swiper-slide div main-kv__slides swiper-wrapper div main-kv__swiper main-kv__swiper--insight swiper",
+      "content_type": "image/webp",
+      "bytes": 11462,
+      "sha256": "8c5d5e058c7776107e6181c3d36c887761b07aca1d5339566a8899cc62639af5",
+      "width": 750,
+      "height": 700
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/samsung-sds/reference-3.webp",
+      "source_url": "https://image.samsungsds.com/kr/main2026/kr1_04_5/__icsFiles/afieldfile/2026/09/22/main_insight_event_0922.gif?queryString=20260929014933",
+      "source_tag": "img:page-image",
+      "context": "img is-pc div main-kv__swiper-bg div main-kv__swiper-item swiper-slide div main-kv__slides swiper-wrapper div main-kv__swiper main-kv__swiper--summit swiper",
+      "content_type": "image/webp",
+      "bytes": 9000,
+      "sha256": "e6987f1505293a3bcc578ec06dcfd0c90a83a21f9ed2bd10d1ac0ebe5eda8212",
+      "width": 378,
+      "height": 494
+    }
+  ]
+}

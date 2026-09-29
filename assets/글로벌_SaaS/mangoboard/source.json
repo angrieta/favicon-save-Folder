@@ -1,0 +1,94 @@
+{
+  "company": "망고보드",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.mangoboard.net/",
+  "page_url": "https://www.mangoboard.net/",
+  "page_title": "망고보드 공식 홈페이지 | 프리미엄 디자인 동영상 플랫폼",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=197985600679280&ev=PageView&noscript=1; reference:ValueError:https://mov.mangoboard.net/main/home/main_01.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/mangoboard/favicon.ico",
+      "source_url": "https://www.mangoboard.net/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4418,
+      "sha256": "1d499e876503acd67cd521ecb541177960a4dc5cc60ed130cd826b5869180875",
+      "width": 32,
+      "height": 33
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/mangoboard/og.webp",
+      "source_url": "https://www.mangoboard.net/og_img.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11462,
+      "sha256": "907ff3caebd574d7dd766a994a8a702dfa88ecfa96d642d4b2f8dd1235f06be7",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/mangoboard/logo-1.svg",
+      "source_url": "https://www.mangoboard.net/common/responsive/images/header/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 망고보드 공식 홈페이지 a 망고보드 공식 홈페이지 div main-logo div header-inner header header",
+      "content_type": "image/svg+xml",
+      "bytes": 15722,
+      "sha256": "a958145a7d6bfb784e09dd06c1c83238800fdfbb1491e3896d18c6a0257dd31f",
+      "width": 130,
+      "height": 17,
+      "source_sha256": "079bf285473e3ab709dc91ce3ead6e5744ee6f476371084e9e48575af2d41c45"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/mangoboard/logo-2.png",
+      "source_url": "https://www.mangoboard.net/common/responsive/images/home/review/image_logo_1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img li ul logo-list div logo-wrapper section review-section",
+      "content_type": "image/png",
+      "bytes": 22885,
+      "sha256": "d4a3ea3de5a6be34c3ec70df3f4b0879cc8ba97c4fef1c1a6ab87fd35c5d3ce6",
+      "width": 306,
+      "height": 108
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/mangoboard/reference-1.webp",
+      "source_url": "https://www.mangoboard.net/common/responsive/images/aichat/gnb/AI_DesignGenerate.gif",
+      "source_tag": "img:page-image",
+      "context": "img 상세페이지, 카드뉴스, PPT, 포스터 등 다양한 디자인을 AI로 생성할 수 있어요! div ai-designer-menu__preview-media div ai-designer-menu__preview-item is-active div ai-designer-menu__preview div ai-designer-menu",
+      "content_type": "image/webp",
+      "bytes": 3792,
+      "sha256": "d28619d5974a24745d639439011e547c57f822f82d439701c4a210bf3cb40c2b",
+      "width": 540,
+      "height": 364
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/mangoboard/reference-2.webp",
+      "source_url": "https://www.mangoboard.net/common/responsive/images/aichat/gnb/AI_ImageGenerate.gif",
+      "source_tag": "img:page-image",
+      "context": "img 제품 연출컷과 AI 모델컷 생성, 트렌디한 이미지 합성까지 모두 가능해요! div ai-designer-menu__preview-media div ai-designer-menu__preview-item div ai-designer-menu__preview div ai-designer-menu",
+      "content_type": "image/webp",
+      "bytes": 3734,
+      "sha256": "41c2c2db3a4866c4be5bba7b274f38e418252c8af29c74edc5b33739cc38e245",
+      "width": 540,
+      "height": 364
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/mangoboard/reference-3.webp",
+      "source_url": "https://www.mangoboard.net/common/responsive/images/aichat/gnb/AI_RemoveBg.gif",
+      "source_tag": "img:page-image",
+      "context": "img 배경제거, 일괄배경제거(50장), 화질개선, 영역확장, 지우개 기능이 있어요! div ai-designer-menu__preview-media div ai-designer-menu__preview-item div ai-designer-menu__preview div ai-designer-menu",
+      "content_type": "image/webp",
+      "bytes": 33254,
+      "sha256": "a6bf1b858c89f266fc09f1ac9aa5671f71766b8f918dd93554f675802bbb1ca0",
+      "width": 540,
+      "height": 364
+    }
+  ]
+}

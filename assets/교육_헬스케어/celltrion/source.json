@@ -1,0 +1,71 @@
+{
+  "company": "셀트리온",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.celltrion.com/ko-kr",
+  "page_url": "https://www.celltrion.com/ko-kr",
+  "page_title": "셀트리온 (Celltrion) | 글로벌 생명공학 선도기업",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.celltrion.com/front/assets/common/images/mainNew/main_visual_bg2.mov; banner:ValueError:https://www.celltrion.com/front/assets/common/images/mainNew/main_visual_bg2.webm; reference:ValueError:https://www.celltrion.com/front/assets/common/images/mainNew/main_visual_bg2.mov; reference:ValueError:https://www.celltrion.com/front/assets/common/images/mainNew/main_visual_bg2.webm; reference:ValueError:https://www.celltrion.com/front/assets/common/images/mainNew/cell-video.mov; reference:ValueError:https://www.celltrion.com/front/assets/common/images/mainNew/cell-video.webm",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/celltrion/favicon.png",
+      "source_url": "https://www.celltrion.com/front/assets/common/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 6613,
+      "sha256": "a2dd03753ff890e65ffc5d6966ca6068f4cb5cf35d2159fca3c88e48fda458d7",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/celltrion/banner-1.webp",
+      "source_url": "https://www.celltrion.com/front/assets/common/images/mainNew/main_visual_bg2.webp",
+      "source_tag": "link:preload",
+      "context": "preload image  /front/assets/common/images/mainNew/main_visual_bg2.webp",
+      "content_type": "image/webp",
+      "bytes": 24972,
+      "sha256": "859a5616585d471b47fbb7c4d5df7753ea2fe91a77cf2d4e1ef5e91123e35559",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/celltrion/reference-1.webp",
+      "source_url": "https://www.celltrion.com/front/assets/common/images/mainNew/main_business_research_01.webp",
+      "source_tag": "img:page-image",
+      "context": "img div image a content div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 46644,
+      "sha256": "319758c7a289bbc9546be2aa0200a3dfe9e0939c3841750671d35d718f65e40f",
+      "width": 1200,
+      "height": 1240
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/celltrion/reference-2.webp",
+      "source_url": "https://www.celltrion.com/front/assets/common/images/mainNew/main_business_research_02.webp",
+      "source_tag": "img:page-image",
+      "context": "img div image a content div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 29252,
+      "sha256": "6bb0d0e3ca2c3860ec2ec95615600eb3d5a48b2a5b164cdce0ff3a4b0ff0e83f",
+      "width": 1200,
+      "height": 1240
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/celltrion/reference-3.webp",
+      "source_url": "https://www.celltrion.com/front/assets/common/images/mainNew/main_business_research_03.webp",
+      "source_tag": "img:page-image",
+      "context": "img div image a content div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 98390,
+      "sha256": "80d0f5520a6b5226576f9394c21cff2d484f1d488c2f5239ad6b9ac9f42a2185",
+      "width": 1200,
+      "height": 1240,
+      "source_sha256": "7dae10d77bd58db4c61ad1abdc387d9084842282d21251ec03d110ec0a8dbe0e"
+    }
+  ]
+}

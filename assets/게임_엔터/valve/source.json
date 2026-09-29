@@ -1,0 +1,57 @@
+{
+  "company": "Valve",
+  "category": "게임_엔터",
+  "requested_url": "https://www.valvesoftware.com/en/",
+  "page_url": "https://www.valvesoftware.com/en/",
+  "page_title": "Valve Corporation",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.akamai.steamstatic.com/valvesoftware/images/videos/hero_02_small.webm; reference:ValueError:https://cdn.akamai.steamstatic.com/valvesoftware/images/videos/hero_02_small.mp4; reference:ValueError:https://cdn.akamai.steamstatic.com/valvesoftware/images/videos/hero_03_fullsize.webm; reference:ValueError:https://cdn.akamai.steamstatic.com/valvesoftware/images/videos/hero_03_fullsize.mp4; reference:ValueError:https://cdn.akamai.steamstatic.com/valvesoftware/images/videos/hero_03_small.webm; reference:ValueError:https://cdn.akamai.steamstatic.com/valvesoftware/images/videos/hero_03_small.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/valve/favicon.ico",
+      "source_url": "https://cdn.akamai.steamstatic.com/valvesoftware/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "780a091572d85e3b75e6eb41e6222b3a58d9e0166a7fd357e48cb93aad36df68",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/valve/og.webp",
+      "source_url": "https://cdn.akamai.steamstatic.com/valvesoftware/images/valve-og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 66850,
+      "sha256": "c78ce01144374c4593bd3b48fa64b0d8aca0eb1f5c4ecadedbc1f74799296f54",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/valve/logo-1.png",
+      "source_url": "https://cdn.akamai.steamstatic.com/valvesoftware/images/steam_logo_footer.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div steam_logo div col_3 footer_steam_logos div row",
+      "content_type": "image/png",
+      "bytes": 5291,
+      "sha256": "b783e3e2f70385c1843d1b5cadd4055cb433ab3bdebeadb60a22d046478f1231",
+      "width": 229,
+      "height": 86
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/valve/logo-2.png",
+      "source_url": "https://cdn.akamai.steamstatic.com/valvesoftware/images/steamworks_logo_footer.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div steamworks_logo div col_3 footer_steam_logos div row",
+      "content_type": "image/png",
+      "bytes": 4970,
+      "sha256": "41efbefd11903255d60bc3a4702524408201e83dfdc1730d6124797f2442a8b5",
+      "width": 319,
+      "height": 86
+    }
+  ]
+}

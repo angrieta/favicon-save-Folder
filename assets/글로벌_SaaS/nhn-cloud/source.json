@@ -1,0 +1,70 @@
+{
+  "company": "NHN클라우드",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.nhncloud.com/kr",
+  "page_url": "https://www.nhncloud.com/kr",
+  "page_title": "NHN Cloud : 유연하게 안전하게 비즈니스의 힘이 되는 통합 클라우드 서비스",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://static.toastoven.net/nhncloud/icons/publicAlpha-Homepage-CategoryLNB-dhI1ilfb-20251118.png; reference:ValueError:https://static.toastoven.net/nhncloud/icons/publicAlpha-Homepage-CategoryLNB-HaDpFR69-20251118.png; reference:ValueError:https://static.toastoven.net/nhncloud/icons/publicAlpha-Homepage-CategoryLNB-YDNePLSc-20250408.png; reference:ValueError:https://static.toastoven.net/nhncloud/icons/publicAlpha-Homepage-CategoryLNB-rQZTc3w4-20251118.png; reference:ValueError:https://static.toastoven.net/nhncloud/icons/publicAlpha-Homepage-CategoryLNB-r2wuvUox-20251119.png; reference:ValueError:https://static.toastoven.net/nhncloud/icons/publicAlpha-Homepage-Service-CQvbgjJw-20251104.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/nhn-cloud/favicon.png",
+      "source_url": "https://www.nhncloud.com/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5558,
+      "sha256": "7abf6e19426a45d97ad975fe71b9715fbe10c1250f68c3bee400bd6378b0362d",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/nhn-cloud/og.webp",
+      "source_url": "https://www.nhncloud.com/images/og/opengraph.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 17666,
+      "sha256": "11ae1ed51906b8973a6920c34e6ed3b0c1934d7dea00447621a32f2a156d608b",
+      "width": 744,
+      "height": 544
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/nhn-cloud/logo-1.svg",
+      "source_url": "https://static.toastoven.net/portal/public/images/logo_nhncloud_white.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo a flex div div flex items-center justify-between px-16 py-20 nav layout-mobile-gnb desktop:hidden block bg-transparent sticky top-0 z-(--zIndex-modal)",
+      "content_type": "image/svg+xml",
+      "bytes": 4120,
+      "sha256": "335acbf6b05cc80d487be694bacd9fb9b7c544839794090a456ab8be6fa07518",
+      "width": 140,
+      "height": 20,
+      "source_sha256": "adfec6c1da82732fb61601a3f2cdc22431ea164730b7b9274ad41fd99d0c626a"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/nhn-cloud/banner-1.webp",
+      "source_url": "https://static.toastoven.net/portal/public/images/main/ai_infrastructure.png?v=1789712939432",
+      "source_tag": "inline-background-image",
+      "context": "li  flex-shrink-0 w-312 h-312 box-border rounded-12 group relative z-0 bg-no-repeat bg-local bg-cover overflow-hidden desktop:m-0 desktop:h-520 bg-[45%_center] desktop:bg-left desktop:w-full --var-translate:-0px;--image-url:url('https://sta",
+      "content_type": "image/webp",
+      "bytes": 24402,
+      "sha256": "7633e5d71ba75cc166b340068f17c9edcb3c7c49b19878456be084cf01f4f4f3",
+      "width": 1800,
+      "height": 394
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/nhn-cloud/banner-2.webp",
+      "source_url": "https://static.toastoven.net/portal/public/images/main/ai_service.png?v=1789712939432",
+      "source_tag": "inline-background-image",
+      "context": "li  flex-shrink-0 w-312 h-312 box-border rounded-12 group relative z-0 bg-no-repeat bg-local bg-cover overflow-hidden desktop:m-0 desktop:h-520 bg-[45%_center] desktop:bg-left desktop:w-full --var-translate:-5px;--image-url:url('https://sta",
+      "content_type": "image/webp",
+      "bytes": 33726,
+      "sha256": "48391c66fe56dc561986a57ef26d24c1647130579af65f26058db24beb89eedd",
+      "width": 1800,
+      "height": 394
+    }
+  ]
+}

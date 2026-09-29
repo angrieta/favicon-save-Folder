@@ -1,0 +1,84 @@
+{
+  "company": "서울시립미술관",
+  "category": "문화_공공",
+  "requested_url": "https://sema.seoul.go.kr",
+  "page_url": "https://sema.seoul.go.kr/",
+  "page_title": "SeMA",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/sema/favicon.png",
+      "source_url": "https://sema.seoul.go.kr/resources/images/common/favicon_apple.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1784,
+      "sha256": "c93bf305e8e979474ece25d7b77d207b43fa18fdb33ecc85b25f283f53c87e93",
+      "width": 72,
+      "height": 72
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/sema/logo-1.svg",
+      "source_url": "https://sema.seoul.go.kr/resources/assets/svg/o_type_b.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img i-lockup-type 서울시립미술관 SEOUL MUSEUM OF ART div i-lockup i-lockup-black a o_bottom_logo div div _l-nav-sticky l-block",
+      "content_type": "image/svg+xml",
+      "bytes": 7793,
+      "sha256": "f4c65eb9fd28f821341f98079e4caf4c0a850911f38efff067044c8b632414ae",
+      "width": 267,
+      "height": 49,
+      "source_sha256": "5756361afd793e043d31f86912ddf6634b7497c4ea67dca8388cf22b348d999b"
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/sema/logo-2.svg",
+      "source_url": "https://sema.seoul.go.kr/resources/assets/svg/o_type_w.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img i-lockup-type 서울시립미술관 SEOUL MUSEUM OF ART div i-lockup i-lockup-white a o_bottom_logo div div _l-nav-sticky l-block",
+      "content_type": "image/svg+xml",
+      "bytes": 7793,
+      "sha256": "fb78ce8c6ac5d242e8e2eab4949a21d01f0c6f5ceb74ae5ab5f4c3433932996c",
+      "width": 267,
+      "height": 49,
+      "source_sha256": "9c6e3edc6154960556cb1c2a812efb26b8c1c8fa025eedb677e5aa6a250a35df"
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/sema/reference-1.svg",
+      "source_url": "https://sema.seoul.go.kr/resources/assets/svg/o_symbol_w_v.svg",
+      "source_tag": "img:page-image",
+      "context": "img i-lockup-symbol 서울시립미술관 SEOUL MUSEUM OF ART div i-lockup i-lockup-white a div l-nav-symbol l-block div l-nav-pc-header",
+      "content_type": "image/svg+xml",
+      "bytes": 73607,
+      "sha256": "0642e3ecf16f75f6bddb04262cebb8b013d6789ef217166c257c49badd61b858",
+      "width": 436,
+      "height": 386
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/sema/reference-2.webp",
+      "source_url": "https://sema.seoul.go.kr/common/imgFileView?thumbYn=N&FILE_ID=1019326",
+      "source_tag": "img:page-image",
+      "context": "img 《오윤》 a img-wrap div swiper-slide div swiper-wrapper div swiper swiper-view",
+      "content_type": "image/webp",
+      "bytes": 40644,
+      "sha256": "48eed61971b7168f55e51a10e795ced1bdbe461695228beafeacfadece40b46f",
+      "width": 1387,
+      "height": 780
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/sema/reference-3.webp",
+      "source_url": "https://sema.seoul.go.kr/common/imgFileView?thumbYn=N&FILE_ID=1018843",
+      "source_tag": "img:page-image",
+      "context": "img 서울시립 서서울미술관 미디어 작가전 《김희천: 두더지들》 a img-wrap div swiper-slide div swiper-wrapper div swiper swiper-view",
+      "content_type": "image/webp",
+      "bytes": 106758,
+      "sha256": "33934abd32c4b38b0454710e925a8cad1da35ed1f6bc8fe9a6a83747ba1ad2a9",
+      "width": 1397,
+      "height": 787
+    }
+  ]
+}

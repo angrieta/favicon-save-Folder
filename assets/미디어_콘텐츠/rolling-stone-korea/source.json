@@ -1,0 +1,94 @@
+{
+  "company": "Rolling Stone Korea",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://rollingstone.co.kr/",
+  "page_url": "https://rollingstone.co.kr/",
+  "page_title": "롤링스톤 코리아",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/rolling-stone-korea/favicon.ico",
+      "source_url": "https://rollingstone.co.kr/upload/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "480e0b016a4f77574b0bdbb4a414d5a8ecd39443d0f10f2391c5715bd5d03d95",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/rolling-stone-korea/logo-1.svg",
+      "source_url": "https://rollingstone.co.kr/assets/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a h1 header-logo div header-content-primary // layout-type header header",
+      "content_type": "image/svg+xml",
+      "bytes": 25053,
+      "sha256": "1ea2d8cda034926f49a390056c330c56ef5fd1f009be9541d31d655de6e731a5",
+      "width": 1778,
+      "height": 335
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/rolling-stone-korea/banner-1.webp",
+      "source_url": "https://rollingstone.co.kr/assets/images/myrealtrip/main01.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img a div rolling_banner_new div container // layout-type div wrap",
+      "content_type": "image/webp",
+      "bytes": 47164,
+      "sha256": "2a39d3012259416b060dde463e616b0652fe3486e0e9abdf85808f4c469cf86b",
+      "width": 1800,
+      "height": 300
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/rolling-stone-korea/banner-2.webp",
+      "source_url": "https://rollingstone.co.kr/upload/catalogue/1790511115_b6b182ecadc9d8b63ad2.jpeg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a img figure featured-item div main-top-featured div main-top-grid",
+      "content_type": "image/webp",
+      "bytes": 109522,
+      "sha256": "cdf37393e90277758d0d331e7d4500a0ee42165c9f338f4413a9dd951d375776",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/rolling-stone-korea/reference-1.webp",
+      "source_url": "https://rollingstone.co.kr/upload/catalogue/1790669571_f5a2d593c5b57be4c85a.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img a div img figure stories-card-primary div main-secondary-stories-inner",
+      "content_type": "image/webp",
+      "bytes": 67860,
+      "sha256": "7601f9064ce1fef62a40d6d6d1255851d55a24ce2a219e8903a322688eb7db39",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/rolling-stone-korea/reference-2.webp",
+      "source_url": "https://rollingstone.co.kr/upload/catalogue_banner/29578841899cb21f35c982f76d721966.png",
+      "source_tag": "img:page-image",
+      "context": "img a div mega-menu-subscribe div mega-menu-secondary div mega-menu-inner",
+      "content_type": "image/webp",
+      "bytes": 108060,
+      "sha256": "3e294dd6e048895bffe17f6197c831e4c0b5422d088c9813bf76d3d5bf0bed23",
+      "width": 1115,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/rolling-stone-korea/reference-3.webp",
+      "source_url": "https://rollingstone.co.kr/upload/catalogue/1789265973_5fb7507267990da1157c.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a div img figure stories-card-primary div main-secondary-stories-inner // no-flex",
+      "content_type": "image/webp",
+      "bytes": 112566,
+      "sha256": "a7b02c7103a9a783ab8cd7acb1436872a5d01e39421f3256db51a07bd35bcaca",
+      "width": 1800,
+      "height": 1200
+    }
+  ]
+}
