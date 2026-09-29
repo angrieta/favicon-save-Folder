@@ -1,0 +1,57 @@
+{
+  "company": "AirAsia",
+  "category": "항공_여행",
+  "requested_url": "https://www.airasia.com/ko/kr",
+  "page_url": "https://www.airasia.com/ko/kr",
+  "page_title": "AirAsia MOVE | 항공권, 호텔, 라이드 등 다양한 딜은 알아보세요",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://static.airasia.com/cosmos/dist/p/1.0.592/_next/static/chunks/Banners.965939e389bd4c5abd51.js; reference:ValueError:https://static.airasia.com/cosmos/dist/p/1.0.592/_next/static/chunks/Gdpr.70d27fb6ab0592899a13.js; reference:ValueError:https://static.airasia.com/cosmos/dist/p/1.0.592/_next/static/runtime/webpack-214b124990fd0487631f.js; reference:ValueError:https://static.airasia.com/cosmos/dist/p/1.0.592/_next/static/chunks/bca57c9c4416962014de5491295556a363b33bd4.8b907e3fae49a17bcc60.js; reference:ValueError:https://static.airasia.com/cosmos/dist/p/1.0.592/_next/static/runtime/main-7657f887627de587e8be.js; reference:ValueError:https://static.airasia.com/cosmos/dist/p/1.0.592/_next/static/chunks/592d81263707e7889e02dbf182f1a4a45279f840.0d081376e7e035c34794.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/airasia/favicon.png",
+      "source_url": "https://www.airasia.com/static/img/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 12633,
+      "sha256": "addbe415004c2aeb1ad13f931eeacbb72028fc22d20a6e09c30988d46d1f5648",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/airasia/og.webp",
+      "source_url": "https://www.airasia.com/aa/images/misc/aa-superapps.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 43292,
+      "sha256": "3c782f9f0da2ab547969acc7060c6b6249ea80427f3455af791e821fea305701",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/airasia/logo-1.svg",
+      "source_url": "https://static.airasia.com/design/logos/airasia-move-light.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Image__Img-sc-x2qeul-0 jbWAnD logo div header-logo-container Image__ImgContainer-sc-x2qeul-1 eNdYzP div universalHeader-left UniversalHeader__ImageContainer-sc-rfcunp-2 dMDHhi div UniversalHeader__LeftModule-sc-rfcunp-13 gUuwhj div Univ",
+      "content_type": "image/svg+xml",
+      "bytes": 16984,
+      "sha256": "6b6f23f5fe6b00993de3d33551ee754ed946d776793707669ae454ad5d6789b9",
+      "width": 690,
+      "height": 153
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/airasia/banner-1.webp",
+      "source_url": "https://static.airasia.com/cosmos/images/herobanner/kr/250908/%5BKR%5D-SNAP_HB-(Desktop).jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img Image__Img-sc-x2qeul-0 jbWAnD div Image__ImgContainer-sc-x2qeul-1 bpxYrX div Banner__ImageContainer-sc-gqstd4-1 jpqnYe a linkContainer Link__LinkContainer-sc-1gsdbby-0 fwbaqX div banner Banner__BannerContainer-sc-gqstd4-0 bRSFua Showing",
+      "content_type": "image/webp",
+      "bytes": 29982,
+      "sha256": "36c5fbe41a4de6a2dad6c0e0ea911cbf529dda21c8177233e3cb38d1a26a363c",
+      "width": 1272,
+      "height": 280
+    }
+  ]
+}

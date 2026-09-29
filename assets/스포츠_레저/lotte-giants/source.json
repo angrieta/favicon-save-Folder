@@ -1,0 +1,46 @@
+{
+  "company": "롯데 자이언츠",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.giantsclub.com",
+  "page_url": "https://www.giantsclub.com/html/",
+  "page_title": "| 롯데자이언츠",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://filesvr.giantsclub.com/home/movie/lotte_intro_new_3.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/lotte-giants/favicon.ico",
+      "source_url": "https://www.giantsclub.com/_Img/Logo/favicon_16x16.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "c201a52bba4f985c0c6c6f9f25ebf0ac671ed5bad2b6b0b4594aed3041481097",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/lotte-giants/logo-1.png",
+      "source_url": "https://www.giantsclub.com/html/2025_new/images/giants_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 롯데자이언츠 a h1 n_logo div nav n_nav div n_header_inner",
+      "content_type": "image/png",
+      "bytes": 2847,
+      "sha256": "b57b0c13c60a7552bf707037440389197daf09e14e38ca3f72d0f1fab14b74f8",
+      "width": 150,
+      "height": 36
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/lotte-giants/banner-1.webp",
+      "source_url": "https://filesvr.giantsclub.com/home/images/lotteon_banner.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 롯데자이언츠 공식 온라인샵입니다. / 롯데자이언츠샵 X LOTTE ON a div swiper-slide div swiper-wrapper div swiper-container banner-swiper",
+      "content_type": "image/webp",
+      "bytes": 63092,
+      "sha256": "702e69efb047869af79517f8a3f5126060f90edd3dadb2793b89ec9b5fb60ab0",
+      "width": 1200,
+      "height": 310
+    }
+  ]
+}

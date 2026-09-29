@@ -1,0 +1,106 @@
+{
+  "company": "Celebrity Cruises",
+  "category": "항공_여행",
+  "requested_url": "https://www.celebritycruises.com",
+  "page_url": "https://www.celebritycruises.com/",
+  "page_title": "Cruises: Award-Winning Premium Cruise Line | Celebrity Cruises",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/celebrity-cruises/favicon.ico",
+      "source_url": "https://www.celebritycruises.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 3638,
+      "sha256": "2f8f592728f72156f8f7ad471523305ac0f2c243f16d57001d0e3b1b35c1e108",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/celebrity-cruises/og.webp",
+      "source_url": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/Xcel-in-Malta-2560x1440",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 54434,
+      "sha256": "6445f74f2c52e407e5a90a441b1539d06317842672b57a6c00ac812dd7ec1f9b",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/celebrity-cruises/logo-1.svg",
+      "source_url": "https://assets.dm.rccl.com/is/content/RoyalCaribbeanCruises/celebrity-cruises-logo-blue-lg-2-2?fmt=png-alpha",
+      "source_tag": "img:semantic-logo",
+      "context": "img Celebrity Cruises a rciHeaderLogo li global-nav-logo desktop-logo ul global-mobile-menu global-mobile-menu div global-nav-header-container",
+      "content_type": "image/svg+xml",
+      "bytes": 3273,
+      "sha256": "08cd6021261fd2cd43f12c0808d373ac8ccd7e35be3849f01522a9bf9773b644",
+      "width": 108,
+      "height": 23
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/celebrity-cruises/logo-2.png",
+      "source_url": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/forbed-four-star-logo-2025?fmt=png-alpha",
+      "source_tag": "img:semantic-logo",
+      "context": "img footer__accolade-image js-lazy-loading forbed four star logo 2025 a li footer__section--accolades__accolades__accolade ul footer__section--accolades__accolades nav footer__section--accolades footer accolades navigation",
+      "content_type": "image/png",
+      "bytes": 89159,
+      "sha256": "c8e1bfaa2ba8380028e32978e60ee2c04e80fcf8d6ffb02e3ef8c71769792d79",
+      "width": 984,
+      "height": 922
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/celebrity-cruises/og.webp",
+      "source_url": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/Xcel-in-Malta-2560x1440",
+      "source_tag": "picture:semantic-banner",
+      "content_type": "image/webp",
+      "bytes": 54434,
+      "sha256": "6445f74f2c52e407e5a90a441b1539d06317842672b57a6c00ac812dd7ec1f9b",
+      "width": 1200,
+      "height": 675,
+      "context": "picture hero-banner-siterefresh__image div heroMediaContainer hero-banner-siterefresh__background-media js-hero-banner-siterefresh__background-media hero-banner-siterefresh__image isAuthoredData div hero-banner-siterefresh__background div h",
+      "reused_from": "social"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/celebrity-cruises/reference-1.webp",
+      "source_url": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/woman-happy-place-st-martin-caribbean-2560x1440",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 42970,
+      "sha256": "c9adf21a8cdb2a3d6fee3474f99dd5f04cc9921f3c9dfa21e6a937ee1e5b256a",
+      "width": 1280,
+      "height": 700
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/celebrity-cruises/reference-2.webp",
+      "source_url": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/Italy-Cinque%20Terre-New-Deployment-2560x1440",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 150238,
+      "sha256": "93ac66c5bc8afd821210228c3264f72020d16f7e584209f49f0db36d8afd5d50",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/celebrity-cruises/reference-3.webp",
+      "source_url": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/hero_alaska_couple_ship_selfie",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 71856,
+      "sha256": "af343d4d96e88d7744f6c874e09a4904cfdf40cbe4edc48d71271002a0ba83a7",
+      "width": 1280,
+      "height": 720
+    }
+  ]
+}

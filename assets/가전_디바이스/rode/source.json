@@ -1,0 +1,117 @@
+{
+  "company": "RØDE",
+  "category": "가전_디바이스",
+  "requested_url": "https://rode.com/ko-kr",
+  "page_url": "https://rode.com/ko-kr",
+  "page_title": "RØDE (대한민국)",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/rode/favicon.png",
+      "source_url": "https://cdn.rode.com/website/favicon/favicon-256x256.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5263,
+      "sha256": "4caf8de41b378c9cfc80262c1b62febc7cc6c2cc212f62f8591d0e84b273d000",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/rode/og.webp",
+      "source_url": "https://edge.rode.com//images/page/1/og-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5754,
+      "sha256": "81e8bed8b2addb25ad8dd58ee56c123bd8e63c07b062aa01b53a640df6e9b4a3",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/rode/logo-1.webp",
+      "source_url": "https://cdn.rode.com/website/images/logo/RODE_Wordmark_GoogleLookup.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 17738,
+      "sha256": "650add5bcde26cd206a77686d90807b3c09ace4d58236d42b27954db30e6b802",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/rode/logo-2.svg",
+      "source_url": "https://cdn.rode.com/website/images/logo/rode_logo_text.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-[22px] md:h-[25px] lg:h-[28px] RODE a navbar-brand p-0 RØDE div flex flex-grow lg:flex-grow-0 shrink-0 items-center h-8 div container flex items-center gap-[4.5rem] py-6 div bg-inherit relative",
+      "content_type": "image/svg+xml",
+      "bytes": 1344,
+      "sha256": "8e3ec190d6373a2be4053ce18e527c9f1cb69421510f4a39a9965b0992fb0753",
+      "width": 792,
+      "height": 220
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/rode/banner-1.webp",
+      "source_url": "https://edge.rode.com/images/page/1/modules/12685/RODECaster%20Video%20Core_PL_PI_03.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img img-fluid title-image RØDECaster Video Core div product-logo container flex flex-col items-center justify-center gap-4 py-[var(--L)] div block lg:hidden w-full text-center py-0 div module-row home_hero_banner_2 background-image div home",
+      "content_type": "image/webp",
+      "bytes": 23068,
+      "sha256": "6db321f65936a41385764a1a62760bc44bb8ae111803f1da6b99075a84bf90fe",
+      "width": 1800,
+      "height": 111
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/rode/banner-2.webp",
+      "source_url": "https://edge.rode.com/images/page/1/modules/10923/rode-wireless-micro-banner-right-10752x3920-rgb-1920x700-546b50c.png",
+      "source_tag": "inline-background-image",
+      "context": "div  background-image absolute w-full h-full min-h-[700px] left: 0px; background-repeat: no-repeat; background-position: center; \n                        background-image: url('https://edge.rode.com/images/page/1/modules/10923/rode-wireless",
+      "content_type": "image/webp",
+      "bytes": 42554,
+      "sha256": "10583302e0c60fbb154d984d5aec5078818adfee80d14bd3091472fe68985126",
+      "width": 1800,
+      "height": 656
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/rode/reference-1.webp",
+      "source_url": "https://edge.rode.com/images/page/1/modules/17/RODEHUB_WEB_BANNER_V4.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  background-image absolute w-full h-full min-h-[700px] left: 0px; background-repeat: no-repeat; background-position: center; \n                        background-image: url('https://edge.rode.com/images/page/1/modules/17/RODEHUB_WEB_BANN",
+      "content_type": "image/webp",
+      "bytes": 13928,
+      "sha256": "537ea705983ac6e467e4232e08c246ea34a4e6037c9d245e2050262fe3e2cba6",
+      "width": 1800,
+      "height": 656
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/rode/reference-2.webp",
+      "source_url": "https://edge.rode.com/images/page/1/modules/11826/rode-nt1-ss-black-banner-7234x2637-rgb-1921x700-546b50c.png",
+      "source_tag": "inline-background-image",
+      "context": "div  background-image absolute w-full h-full min-h-[700px] left: 0px; background-repeat: no-repeat; background-position: center; \n                        background-image: url('https://edge.rode.com/images/page/1/modules/11826/rode-nt1-ss-b",
+      "content_type": "image/webp",
+      "bytes": 54348,
+      "sha256": "678c4c70b359061772511bd26905b60325eca8765354ed4d1bb341e3ebb26d50",
+      "width": 1800,
+      "height": 656
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/rode/reference-3.webp",
+      "source_url": "https://edge.rode.com/images/page/1/modules/11828/rode-white-range-family-banner-8-products-14967x5457-rgb-1920x700-546b50c.png",
+      "source_tag": "inline-background-image",
+      "context": "div  background-image absolute w-full h-full min-h-[700px] left: 0px; background-repeat: no-repeat; background-position: center; \n                        background-image: url('https://edge.rode.com/images/page/1/modules/11828/rode-white-ra",
+      "content_type": "image/webp",
+      "bytes": 34354,
+      "sha256": "206686b3d1942128d56b8461aa33fe91f9edb24a629776e2e5e5f6442225b16b",
+      "width": 1800,
+      "height": 656
+    }
+  ]
+}

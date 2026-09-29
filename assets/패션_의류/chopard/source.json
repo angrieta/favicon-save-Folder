@@ -1,0 +1,57 @@
+{
+  "company": "Chopard",
+  "category": "패션_의류",
+  "requested_url": "https://www.chopard.com/ko-kr",
+  "page_url": "https://www.chopard.com/ko-kr",
+  "page_title": "Chopard® | 1860년부터 이어져 온 스위스 럭셔리 워치 및 주얼리",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.chopard.com/g_auto; reference:HTTPError:https://www.chopard.com/w_1228/Campaigns/chopard-loves-cinema/Essai%20Home%20Page/HH2_cross_linking_34ee4e; reference:HTTPError:https://www.chopard.com/w_908/Campaigns/chopard-loves-cinema/Essai%20Home%20Page/HH2_cross_linking_34ee4e; reference:HTTPError:https://www.chopard.com/w_700/Campaigns/chopard-loves-cinema/Essai%20Home%20Page/HH2_cross_linking_34ee4e; reference:HTTPError:https://www.chopard.com/w_460/Campaigns/chopard-loves-cinema/Essai%20Home%20Page/HH2_cross_linking_34ee4e; reference:HTTPError:https://www.chopard.com/w_390/Campaigns/chopard-loves-cinema/Essai%20Home%20Page/HH2_cross_linking_34ee4e",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/chopard/favicon.png",
+      "source_url": "https://www.chopard.com/on/demandware.static/Sites-chopard-Site/-/default/dw940d3eee/images/favicons/favicon-512x512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 11316,
+      "sha256": "436825a5604306d94c18975eaf2ef5a82931b6d9ce5a3e7e5146be944a471895",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/chopard/og.webp",
+      "source_url": "https://objects-pprod.cdn.chopard.com/q_auto,f_auto,dpr_auto/c_fill,g_custom/Logos/Chopard_corporate_Logo_black",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2050,
+      "sha256": "5a42416c57bc02b5688805e39a785628932659099e9e57714082d014f3e1d327",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/chopard/logo-1.svg",
+      "source_url": "https://www.chopard.com/on/demandware.static/Sites-chopard-Site/-/default/dwe9cd602c/images/logo.svg",
+      "source_tag": "json-ld[0].publisher.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 5044,
+      "sha256": "a8880a025b1ae3ac7b8bb857ae01183e9d1e34a977fa59326cfb2b077ddc57e9",
+      "width": 156,
+      "height": 48
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/chopard/reference-1.webp",
+      "source_url": "https://objects-prod.cdn.chopard.com/q_auto,f_auto,dpr_auto/c_fill,g_auto,ar_1,w_390/Campaigns/chopard-loves-cinema/Essai%20Home%20Page/HS_cross_linking_177b4f",
+      "source_tag": "picture:page-image",
+      "context": "picture div img-wrapper div high-contrast-target secondEditorialBanner secondEditorialBanner--negative square div section",
+      "content_type": "image/webp",
+      "bytes": 10802,
+      "sha256": "3b5ce3898c29f330a4955dc3a2a25e4b49f021984a94284c3912aae296edbcb3",
+      "width": 390,
+      "height": 390
+    }
+  ]
+}

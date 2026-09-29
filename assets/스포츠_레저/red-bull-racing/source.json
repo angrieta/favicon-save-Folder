@@ -1,0 +1,118 @@
+{
+  "company": "Oracle Red Bull Racing",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.redbullracing.com",
+  "page_url": "https://www.redbullracing.com/int-en",
+  "page_title": "Oracle Red Bull Racing | Official F1 Team, News & Updates",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://www.redbullracing.com/q_auto/redbullcom/2026/9/26/wbgotdcvrilmx3ekmxas/hear-from-the-team-after-the-azerbaijan-grand-prix-2026; reference:HTTPError:https://www.redbullracing.com/w_1290; reference:HTTPError:https://www.redbullracing.com/y_0/c_auto; reference:HTTPError:https://www.redbullracing.com/x_0; reference:HTTPError:https://www.redbullracing.com/x_133; reference:HTTPError:https://www.redbullracing.com/q_auto/redbullcom/2026/9/22/jrjjofcggfswvv3sf7jv/sergio-perez-azerbaijan-grand-prix-2024",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/red-bull-racing/favicon.png",
+      "source_url": "https://img.redbull.com/images/c_scale,w_192/favicons/www.redbull.com/app-icon/favicon-192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 12925,
+      "sha256": "cf50c442a5d8a73d699186e7ab7666400bee634664b04a6a7f0c110048cae305",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/red-bull-racing/og.webp",
+      "source_url": "https://redbullracing.com/assets/og-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14914,
+      "sha256": "a72710da0b88153e6921503eba7872d04b1012196f689b9ab68ac24697ee5303",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/red-bull-racing/logo-1.svg",
+      "source_url": "https://www.redbullracing.com/_next/static/media/ORBR_logo_2026.4059dac5.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img navigation_logo__QXXx_ Oracle Red Bull Racing Logo a div navigation_logoWrapper__aEylq section navigation_navigation__SgNEA false body",
+      "content_type": "image/svg+xml",
+      "bytes": 26753,
+      "sha256": "f27edc7f56ccdfa991c63aa406fa95f28666d0b9b2607d77d38d0c55b5d88867",
+      "width": 1000,
+      "height": 465
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/red-bull-racing/logo-2.png",
+      "source_url": "https://www.redbullracing.com/_next/static/media/tag-heuer-logo.512ae663.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Tag Heuer - Event Countdown div countdown_footer__8d_4u div countdown_left__aHeH8 div countdown_container__BsXRS div upcomingRace_countdown__CEo1D",
+      "content_type": "image/png",
+      "bytes": 8345,
+      "sha256": "0dbdb2af69e7a716036035538942e96673664c62813b905b29efd7ecd9e44342",
+      "width": 168,
+      "height": 145
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/red-bull-racing/logo-1.svg",
+      "source_url": "https://www.redbullracing.com/_next/static/media/ORBR_logo_2026.4059dac5.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img navigation_logo__QXXx_ Oracle Red Bull Racing Logo a div navigation_logoWrapper__aEylq section navigation_navigation__SgNEA false body",
+      "content_type": "image/svg+xml",
+      "bytes": 26753,
+      "sha256": "f27edc7f56ccdfa991c63aa406fa95f28666d0b9b2607d77d38d0c55b5d88867",
+      "width": 1000,
+      "height": 465,
+      "reused_from": "logo"
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/red-bull-racing/banner-2.webp",
+      "source_url": "https://img.redbull.com/images/c_fill,g_auto,w_2200,h_1500/f_auto,q_auto/redbullcom/2023/1/20/cjbd8kun8bb3c3g9jdq3/bahrain-sunsets",
+      "source_tag": "inline-background-image",
+      "context": "div  upcomingRace_location__RiFsE background-image:url('https://img.redbull.com/images/c_fill,g_auto,w_2200,h_1500/f_auto,q_auto/redbullcom/2023/1/20/cjbd8kun8bb3c3g9jdq3/bahrain-sunsets')",
+      "content_type": "image/webp",
+      "bytes": 52420,
+      "sha256": "147acf09460926f399cf4126b72c7d3c8a2189fabc14b516cacc68addccda9bb",
+      "width": 1800,
+      "height": 1227
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/red-bull-racing/reference-1.webp",
+      "source_url": "https://img.redbull.com/images/c_fill,g_auto,w_2200,h_1500/f_auto,q_auto/redbullcom/2026/9/26/wbgotdcvrilmx3ekmxas/hear-from-the-team-after-the-azerbaijan-grand-prix-2026",
+      "source_tag": "picture:page-image",
+      "context": "picture div multiAssetHero_image__Ipaja div multiAssetHero_slot__z_MLC a div multiAssetHero_slotWrapper__z6ZJQ multiAssetHero_slot1__MpEjO",
+      "content_type": "image/webp",
+      "bytes": 98344,
+      "sha256": "25462fa5f4b45b7ba2081b2121019c9d69a57b9d1bc2d72cb26559cdcb05813c",
+      "width": 1800,
+      "height": 1227
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/red-bull-racing/reference-2.webp",
+      "source_url": "https://img.redbull.com/images/c_crop,w_3483,h_2322,x_0,y_0/c_auto,w_2200,h_1500/f_auto,q_auto/redbullcom/2026/9/28/uf5vrm7tet8lbczsqc9v/max-verstappen-isack-hadjar-azerbaijan-grand-prix-2026",
+      "source_tag": "picture:page-image",
+      "context": "picture div multiAssetHero_image__Ipaja div multiAssetHero_slot__z_MLC a div multiAssetHero_slotWrapper__z6ZJQ multiAssetHero_slot2__EL_6w",
+      "content_type": "image/webp",
+      "bytes": 177548,
+      "sha256": "1149ab2b3ded2a7716715b8fc6f04a51141a397ebb8df4348c169cfe71ea5ddd",
+      "width": 1800,
+      "height": 1227
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/red-bull-racing/reference-3.webp",
+      "source_url": "https://img.redbull.com/images/c_fill,g_auto,w_2200,h_1500/f_auto,q_auto/redbullcom/2026/9/22/jrjjofcggfswvv3sf7jv/sergio-perez-azerbaijan-grand-prix-2024",
+      "source_tag": "picture:page-image",
+      "context": "picture div multiAssetHero_image__Ipaja div multiAssetHero_slot__z_MLC a div multiAssetHero_slotWrapper__z6ZJQ multiAssetHero_slot3__T2j_6",
+      "content_type": "image/webp",
+      "bytes": 429802,
+      "sha256": "dd52611efaf4b176f49b0f3dc15de9649e6b13ab4b234613a6cdacae392f715f",
+      "width": 1800,
+      "height": 1227
+    }
+  ]
+}

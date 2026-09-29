@@ -1,0 +1,105 @@
+{
+  "company": "Wikimedia Foundation",
+  "category": "문화_공공",
+  "requested_url": "https://wikimediafoundation.org",
+  "page_url": "https://wikimediafoundation.org/",
+  "page_title": "Home – Wikimedia Foundation",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://wikimediafoundation.org/536; reference:HTTPError:https://wikimediafoundation.org/1366",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/wikimedia-foundation/favicon.png",
+      "source_url": "https://wikimediafoundation.org/wp-content/uploads/2018/05/cropped-wikimedia-logo_black-svg-2.png?w=192",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5205,
+      "sha256": "ff86c0913765680c21c757396164f00b132ad9c276182b14b5d01f0cf86cd797",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/wikimedia-foundation/og.webp",
+      "source_url": "https://wikimediafoundation.org/wp-content/uploads/2026/01/peak-2-thumbnail-1.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 44772,
+      "sha256": "a02416e9e4209f301b89fe4b34e0ddcecf54e63c311e0249dabed81a0b7cedf1",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/wikimedia-foundation/logo-1.svg",
+      "source_url": "https://wikimediafoundation.org/wp-content/uploads/2025/07/logo-horizontal.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img custom-logo Wikimedia Foundation horizontal logo a custom-logo-link div wp-block-site-logo div wp-block-group alignwide site-header--inner is-content-justification-space-between is-layout-flex wp-container-core-group-is-layout-056b3b03 ",
+      "content_type": "image/svg+xml",
+      "bytes": 4443,
+      "sha256": "5893bbfa6c42c71461c6fb8cb5caf06810dcb77acf6bf3e48c01a74f52b67bcc",
+      "width": 279,
+      "height": 62
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/wikimedia-foundation/logo-2.png",
+      "source_url": "https://wikimediafoundation.org/wp-content/uploads/2022/04/foundation.png",
+      "source_tag": "json-ld.@graph[4].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 82844,
+      "sha256": "13840ddb028e9c94838bcb29cac9eba98cc42adb5626684a04da67a2fb757563",
+      "width": 1600,
+      "height": 1196
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/wikimedia-foundation/banner-1.webp",
+      "source_url": "https://wikimediafoundation.org/wp-content/uploads/2026/01/peak-2-homepage-hero.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  wp-block-group alignfull has-global-padding is-layout-constrained wp-block-group-is-layout-constrained has-background background-image:url('https://wikimediafoundation.org/wp-content/uploads/2026/01/peak-2-homepage-hero.jpg');backgroun",
+      "content_type": "image/webp",
+      "bytes": 28806,
+      "sha256": "3c78155b31def67e87df8f8bef1c42cde6bd8e87b8f90904c74ec6f40231fbf9",
+      "width": 1800,
+      "height": 445
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wikimedia-foundation/reference-1.webp",
+      "source_url": "https://wikimediafoundation.org/wp-content/uploads/2024/06/Wikimedia-Foundation-statement.jpg",
+      "source_tag": "img:page-image",
+      "context": "img attachment-medium size-medium wp-post-image Wikimedia Foundation Statement on US staff unionization a figure wp-block-post-featured-image li wp-block-post post-83684 post type-post status-publish format-standard has-post-thumbnail hentr",
+      "content_type": "image/webp",
+      "bytes": 6058,
+      "sha256": "2d26daae16336b144bdb2e0a39b6f3a180fc4cdfad619d2a425079fd66d5eb26",
+      "width": 1120,
+      "height": 586
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wikimedia-foundation/reference-2.webp",
+      "source_url": "https://wikimediafoundation.org/wp-content/uploads/2026/08/Rena-Kokalari-Wikimedia-Foundation.jpg",
+      "source_tag": "img:page-image",
+      "context": "img attachment-medium size-medium wp-post-image Wikimedia Foundation welcomes Rena Kokalari as new Chief People Officer a figure wp-block-post-featured-image li wp-block-post post-83497 post type-post status-publish format-standard has-post",
+      "content_type": "image/webp",
+      "bytes": 99734,
+      "sha256": "d15967293c5fc2d6bb2845c51c1df0f3b7ed1d5e66e479fe159c1fc918de9b7b",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wikimedia-foundation/reference-3.webp",
+      "source_url": "https://wikimediafoundation.org/wp-content/uploads/2026/07/Wikimania_2026_blue_wordmark_header.png",
+      "source_tag": "img:page-image",
+      "context": "img attachment-medium size-medium wp-post-image figure wp-block-post-featured-image li wp-block-post post-83200 post type-post status-publish format-standard has-post-thumbnail hentry category-community content-language-en_us ul shiro-carou",
+      "content_type": "image/webp",
+      "bytes": 27808,
+      "sha256": "6e82db8277a3d20507285d87259bf8428556ea6d89d339b60469ec30f248c33d",
+      "width": 1597,
+      "height": 1014
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "company": "Kodak",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.kodak.com/ko/",
+  "page_url": "https://www.kodak.com/ko/",
+  "page_title": "Kodak | Home",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.kodak.com/_nuxt/2164044.js; reference:ValueError:https://www.kodak.com/_nuxt/css/cd32293.css; reference:ValueError:https://www.kodak.com/_nuxt/2fd123f.js; reference:ValueError:https://www.kodak.com/_nuxt/static/1790691584/ko/state.js; reference:ValueError:https://www.kodak.com/_nuxt/static/1790691584/ko/payload.js; reference:ValueError:https://www.kodak.com/_nuxt/static/1790691584/manifest.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/kodak/favicon.ico",
+      "source_url": "https://assets.kodak.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 27161,
+      "sha256": "b9ecd08d1591ea824ed82b45da1a8fa8e4ad082620a91d18fcb8be24a42570aa",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/kodak/banner-1.webp",
+      "source_url": "https://www.kodak.com/content/blog-news/_1125x660_crop_center-center_41_line/digital-security.jpeg.webp",
+      "source_tag": "source:semantic-banner",
+      "context": "source h-full object-cover picture c_image c_image_bg__image div c_image_bg div c_card__image a c_card c_button--reset c_card--image_full_width c_button--pointer 인쇄 산업에서 보안이 그 어느 때보다 중요한 이유",
+      "content_type": "image/webp",
+      "bytes": 38604,
+      "sha256": "5e86400b0401aea1f6108e54dcb7988e05349aaaac70c007dbc18485c034f4b6",
+      "width": 1125,
+      "height": 660
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/kodak/banner-2.webp",
+      "source_url": "https://www.kodak.com/content/blog-news/_750x440_crop_center-center_61_line/digital-security.jpeg.webp",
+      "source_tag": "source:semantic-banner",
+      "context": "source h-full object-cover picture c_image c_image_bg__image div c_image_bg div c_card__image a c_card c_button--reset c_card--image_full_width c_button--pointer 인쇄 산업에서 보안이 그 어느 때보다 중요한 이유",
+      "content_type": "image/webp",
+      "bytes": 22458,
+      "sha256": "0e8f4a360a7d65718130e2b37298184a9e8625e849985638a15c617a11646880",
+      "width": 750,
+      "height": 440
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "company": "아티제",
+  "category": "식품_생활",
+  "requested_url": "https://www.cafeartisee.com",
+  "page_url": "https://www.cafeartisee.com/",
+  "page_title": "cafe artisée | a piece of art",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.cafeartisee.com/0539862f7e8d8092c3f3c13b32f60b465660edc4-0dffac6ed0104bcdc5a9.js; reference:ValueError:https://www.cafeartisee.com/f24e5fe9e44481e0cfa9be62070f12a1f0385729-09ad7c5e161889b9e423.js; reference:ValueError:https://www.cafeartisee.com/component---src-pages-index-js-e79da9b6fb0faf45197e.js; reference:ValueError:https://www.cafeartisee.com/page-data/index/page-data.json; reference:ValueError:https://www.cafeartisee.com/page-data/sq/d/3214518475.json; reference:ValueError:https://www.cafeartisee.com/page-data/app-data.json",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/cafe-artisee/favicon.png",
+      "source_url": "https://www.cafeartisee.com/icons-2da2944fede54285473056d90e31d474/apple-touch-icon-1024x1024.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 23925,
+      "sha256": "027520f26b6f0e31e082b54d0363fd98b731f005ec5efe05c402d2014f7b295f",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/cafe-artisee/og.webp",
+      "source_url": "https://www.cafeartisee.com/static/og-96a43d199a2c44b0ec55c5514c4a1db4.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4578,
+      "sha256": "6638888b9428675ceeedddf91b287644ec234287e4cc1d0141dae338b6395d8f",
+      "width": 560,
+      "height": 280
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/cafe-artisee/logo-1.png",
+      "source_url": "https://www.cafeartisee.com/static/logo-black-773b031b2757366a6c71f6660b7ce009.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Desktop-module--logo--2yTxg logo a Desktop-module--logoWrapper--J3SYt div Desktop-module--wrapper--1398I div div",
+      "content_type": "image/png",
+      "bytes": 19203,
+      "sha256": "8492f9094ee46df2780bd7350b8c3cad2206dc0c265bd561cdde17d0e433084c",
+      "width": 400,
+      "height": 99
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/cafe-artisee/logo-2.png",
+      "source_url": "https://www.cafeartisee.com/static/logo-footer-a45f6b38c0868b8d7709dfae95c2b33d.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a piece of art div div div Desktop-module--container--lHRZX footer Desktop-module--footer--EBjPc",
+      "content_type": "image/png",
+      "bytes": 19021,
+      "sha256": "66a09276e0409882b4cee79117349911c0af98f068acbc7ea07890a1ad953294",
+      "width": 480,
+      "height": 43
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/cafe-artisee/banner-1.webp",
+      "source_url": "https://www.cafeartisee.com/static/background-b76147dfcecf9c3bca5c2e5dd09537cb.jpg",
+      "source_tag": "style-background-image",
+      "context": "e--active--1JiZ7{color:#fff;background-color:#f7901e}.index-module--noBr--23fOy br,.index-module--noBr--23fOy br:after{content:\" \"}.index-module--container--2XlN8{background-image:url(/static/background-b76147dfcecf9c3bca5c2e5dd09537cb.jpg)",
+      "content_type": "image/webp",
+      "bytes": 44636,
+      "sha256": "66c4f359d919b5ca8aaa1684f86cf7bcb8f6c483462d9f1a21908bf91110266b",
+      "width": 1800,
+      "height": 362
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/cafe-artisee/banner-2.webp",
+      "source_url": "https://www.cafeartisee.com/static/custom_order-35458c5f0cee44c6b3c4dc918521b1b1.jpg",
+      "source_tag": "style-background-image",
+      "context": "er-module--noBr--3cDQE br:after{content:\" \"}.Banner-module--jumbotron--2Fa1-{max-width:1600px;margin:0 auto;padding-right:16px;padding-left:16px;padding-top:10rem;background-image:url(/static/custom_order-35458c5f0cee44c6b3c4dc918521b1b1.jp",
+      "content_type": "image/webp",
+      "bytes": 48948,
+      "sha256": "12e8ed73661c174b44bb07624745ffc8bae15363423c358b9c7ee70ee7a982df",
+      "width": 1800,
+      "height": 919
+    }
+  ]
+}

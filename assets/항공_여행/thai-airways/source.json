@@ -1,0 +1,45 @@
+{
+  "company": "Thai Airways",
+  "category": "항공_여행",
+  "requested_url": "https://www.thaiairways.com",
+  "page_url": "https://www.thaiairways.com/",
+  "page_title": "Thai Airways | Book International Tickets Online",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/thai-airways/favicon.png",
+      "source_url": "https://www.thaiairways.com/osci/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1673,
+      "sha256": "b915757fd3344263d91f259676303712b1c640bd53c2335d8b6c3dd5282b859a",
+      "width": 40,
+      "height": 38
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/thai-airways/og.webp",
+      "source_url": "https://www.thaiairways.com/content/dam/thaiairways/images/home-page/THAI_Logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6096,
+      "sha256": "d984caa745129e84b8f828e581ff7795d3a8a5c94f7df28beefe31c001dcab95",
+      "width": 1200,
+      "height": 333
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/thai-airways/logo-1.png",
+      "source_url": "https://www.thaiairways.com/content/dam/thaiairways/Thai_logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 106634,
+      "sha256": "5b20bf257f1ce2b89e97afae6e2817db13fde9d4a8f8d3b9897efcac0838ae53",
+      "width": 1600,
+      "height": 471
+    }
+  ]
+}

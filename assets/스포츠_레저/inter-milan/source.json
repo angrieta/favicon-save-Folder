@@ -1,0 +1,45 @@
+{
+  "company": "Inter",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.inter.it",
+  "page_url": "https://www.inter.it/it",
+  "page_title": "FC Internazionale Milano - Sito Ufficiale | Inter.it",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.inter.it/fonts/Giorgio-Sans-Bold-Italic.otf; reference:ValueError:https://www.inter.it/fonts/Graphik-Bold-Cy-Gr-Web.woff; reference:ValueError:https://www.inter.it/fonts/Graphik-Bold-Cy-Gr-Web.woff2; reference:ValueError:https://www.inter.it/fonts/Graphik-Medium-Cy-Gr-Web.woff; reference:ValueError:https://www.inter.it/fonts/Graphik-Medium-Cy-Gr-Web.woff2; reference:ValueError:https://www.inter.it/_next/static/css/7660abc344fe5c13.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/inter-milan/favicon.png",
+      "source_url": "https://www.inter.it/favicon/apple-touch-icon-1024x1024.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 23470,
+      "sha256": "b3decda976b9927d04df278eb697c83262aee3bd2ea60830077b5ab9fa521fb6",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/inter-milan/og.webp",
+      "source_url": "https://intermilan.bynder.com/transform/c901f8c4-f55a-4d8c-92c0-99dc082f10f3/4206x2367?quality=60&io=transform:fill,width:1136,height:640&format=webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 83076,
+      "sha256": "a4b5e640f2ad82a7d4e4133508e5c798308ccf9484fd3298c61732efd61caa70",
+      "width": 1136,
+      "height": 640
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/inter-milan/logo-1.png",
+      "source_url": "https://www.inter.it/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 50951,
+      "sha256": "c8bf2dac8644aa1bfb469a551d4a3b262762508c0b7bf63cd4a1092a8a5ccf2f",
+      "width": 800,
+      "height": 800
+    }
+  ]
+}

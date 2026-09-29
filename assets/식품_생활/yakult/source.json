@@ -1,0 +1,93 @@
+{
+  "company": "Yakult",
+  "category": "식품_생활",
+  "requested_url": "https://www.yakult.co.jp/",
+  "page_url": "https://www.yakult.co.jp/",
+  "page_title": "ヤクルト本社",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/yakult/favicon.ico",
+      "source_url": "https://www.yakult.co.jp/common/images/favicon_a.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "ccd5cb8ab96d717508022be0845ead3b050f6a48fa952453db103a0d8a229e12",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/yakult/og.webp",
+      "source_url": "https://www.yakult.co.jp/common/images/ogimage.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10600,
+      "sha256": "1e25fe3fe7049e62b7d3b6970f2002733bcef1b5ce56a8b7c20ec441efa8d01c",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/yakult/logo-1.svg",
+      "source_url": "https://www.yakult.co.jp/common/images/yakult_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 人も地球も健康に　Yakult a h1 header-logo div header-logo-wrap hover-thin header header-wrap",
+      "content_type": "image/svg+xml",
+      "bytes": 33295,
+      "sha256": "0cf1e26af4df699df0ee355d5cb6953b06fb1215610bd1456147be3a0fe3669f",
+      "width": 160,
+      "height": 49
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/yakult/logo-2.png",
+      "source_url": "https://www.yakult.co.jp/common/images/product01.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img pc-only 乳酸菌飲料 a d-block hover-thin hover-text li ul header-menu-product-wrap div header-menu-large-box",
+      "content_type": "image/png",
+      "bytes": 22101,
+      "sha256": "52151cf34c8e39baa425df30d485f7b8952a850be52f3922840cb427181daa42",
+      "width": 160,
+      "height": 106
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/yakult/reference-1.webp",
+      "source_url": "https://www.yakult.co.jp/common/images/top/top_slider_guinness_sp.png",
+      "source_tag": "picture:page-image",
+      "context": "picture a slick-slide div topSlider mv one-slider main body top",
+      "content_type": "image/webp",
+      "bytes": 112948,
+      "sha256": "dcff6b18147360569b166d91fe42f5374ebff72a832e50b8dd4b094ad11974f8",
+      "width": 1500,
+      "height": 920
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/yakult/reference-2.webp",
+      "source_url": "https://www.yakult.co.jp/common/images/top/top_slider_guinness.png",
+      "source_tag": "picture:page-image",
+      "context": "picture a slick-slide div topSlider mv one-slider main body top",
+      "content_type": "image/webp",
+      "bytes": 93860,
+      "sha256": "3d7745ed7d86b7a1f9da6c24968d3052004128446b1213f1b657f0e83784bc50",
+      "width": 1800,
+      "height": 659
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/yakult/reference-3.webp",
+      "source_url": "https://www.yakult.co.jp/common/images/top/top_slider_y400_sp.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture a slick-slide div topSlider mv one-slider main body top",
+      "content_type": "image/webp",
+      "bytes": 47992,
+      "sha256": "f29f2758d966aadc1119bd2918d578a32e4a443e0bacac1826faae16f9e9420e",
+      "width": 750,
+      "height": 460
+    }
+  ]
+}

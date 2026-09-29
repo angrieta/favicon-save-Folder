@@ -1,0 +1,82 @@
+{
+  "company": "Oxfam",
+  "category": "문화_공공",
+  "requested_url": "https://www.oxfam.org",
+  "page_url": "https://www.oxfam.org/en",
+  "page_title": "The future is equal | Oxfam International",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.oxfam.org/en/themes/custom/oxfamint/images/logo.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/oxfam/favicon.png",
+      "source_url": "https://www.oxfam.org/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4020,
+      "sha256": "940a7aac4a04f2fa69aa44941461a1fc2ccdd94069c75cdaaf3f857829fb8229",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/oxfam/banner-1.webp",
+      "source_url": "https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/styles/hero_image_extra_large/public/2026-09/Foto%20APOYAR%201.jpeg?h=22e08594&itok=jOmhD_yq",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div div div div image transition-3",
+      "content_type": "image/webp",
+      "bytes": 108628,
+      "sha256": "08127546a0a198f4952b6a1dd0fcd42c24dc9e61f17155a9ab59c473bad6ebc5",
+      "width": 1280,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/oxfam/banner-2.webp",
+      "source_url": "https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/styles/hero_image_large/public/2026-09/Foto%20APOYAR%201.jpeg?h=22e08594&itok=BLiS88n4",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div div div div image transition-3",
+      "content_type": "image/webp",
+      "bytes": 81846,
+      "sha256": "8ca9be67891d2347862781f1ebd826725614413c67d028de51ba7925b2272935",
+      "width": 1024,
+      "height": 410
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/oxfam/reference-1.webp",
+      "source_url": "https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/styles/hero_image_medium/public/2026-09/Foto%20APOYAR%201.jpeg?h=22e08594&itok=TLLYvkaA",
+      "source_tag": "picture:page-image",
+      "context": "picture div div div div image transition-3",
+      "content_type": "image/webp",
+      "bytes": 53750,
+      "sha256": "7bd8862e5bb4933d3122f3a6083697ddbf2c4744705bacb34076aa09779b5c54",
+      "width": 768,
+      "height": 307
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/oxfam/reference-2.webp",
+      "source_url": "https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/styles/hero_image_small/public/2026-09/Foto%20APOYAR%201.jpeg?h=22e08594&itok=dKLOULh8",
+      "source_tag": "picture:page-image",
+      "context": "picture div div div div image transition-3",
+      "content_type": "image/webp",
+      "bytes": 40292,
+      "sha256": "191b84d72fd02b8f84df44d65c8e4cb36e798e093180fcbdfed884bfb361df7b",
+      "width": 640,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/oxfam/reference-3.webp",
+      "source_url": "https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/styles/node_teaser_large/public/2026-09/Palestinian%20Communities%20at%20Risk%20of%20Erasure.png?h=b5f6a62e&itok=4cSIBMS7",
+      "source_tag": "picture:page-image",
+      "context": "picture div div div thumbnail transition-3 a flex flex-col flex-grow h-full overflow-hidden",
+      "content_type": "image/webp",
+      "bytes": 26258,
+      "sha256": "67c90a424d85f5b62741cd1df7b8ec84827980c94d48c55acbeeef7d78c4d667",
+      "width": 604,
+      "height": 281
+    }
+  ]
+}

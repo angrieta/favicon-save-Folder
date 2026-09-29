@@ -1,0 +1,93 @@
+{
+  "company": "Snickers",
+  "category": "식품_생활",
+  "requested_url": "https://www.snickers.com",
+  "page_url": "https://www.snickers.com/",
+  "page_title": "SNICKERS® Official Website | Chocolate Bars, Recipes and More",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.snickers.com/sites/g/files/fnmzdf616/files/2026-07/Snickers_EpicBarPull_16x9_Master_000426_v01-video-to-webp-converter_1.webp; reference:ValueError:https://www.snickers.com/sites/g/files/fnmzdf616/files/2026-07/Snickers_EpicBarPull_16x9_Master_000426_v01-video-to-webp-converter_1.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/snickers/favicon.png",
+      "source_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/snickers-favicon-3.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1612,
+      "sha256": "462dcf21641af5de9e439eb3ab5f43d53794ec4cfaaee7824faa6904d1f63a1c",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/snickers/og.webp",
+      "source_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/2024-09/snickers_logo_all_0.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13396,
+      "sha256": "3af41786ebd3a626db347b6e9a599fb76b66aabd5e4ca75c805d98b3e179764b",
+      "width": 636,
+      "height": 636
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/snickers/logo-1.png",
+      "source_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/2025-SNK-NFL-LOGO-LOCKUP-V3-%281%29.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 93073,
+      "sha256": "e84b884d678d3e710f397ecd0582b35b3fb56ed87eed494c4eec6ba911e7cddb",
+      "width": 1344,
+      "height": 508
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/snickers/logo-2.svg",
+      "source_url": "https://www.snickers.com/sites/g/files/fnmzdf616/files/theme_config/2025-SNK-NFL-LOGO-LOCKUP-V3_footer_1.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img footer logo div footerLogo div footer__corporate-tout div footer__section-content div footer__section footer__section--secondary footer__section--",
+      "content_type": "image/svg+xml",
+      "bytes": 10877,
+      "sha256": "9d3191ea9a09f24df1c3b9cfa1e562484113db7566e256a29eae358615905dee",
+      "width": 432,
+      "height": 160
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/snickers/reference-1.webp",
+      "source_url": "https://p1.aprimocdn.net/marssnacking/fa55a138-b386-4819-a1a3-b16500c1b723/fa55a138-b386-4819-a1a3-b16500c1b723_DownloadAsJpg.jpg?width=428&height=580&fit=1&quality=1",
+      "source_tag": "source:page-image",
+      "context": "source picture parallax-image div content-feature__bg-image content-feature__bg-image--dark-overlay section content-feature div",
+      "content_type": "image/webp",
+      "bytes": 6728,
+      "sha256": "f38302165c8b8e5e25a65c3c5b361f34138718d187adbf334c9a88075f32dc94",
+      "width": 428,
+      "height": 580
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/snickers/reference-2.webp",
+      "source_url": "https://p1.aprimocdn.net/marssnacking/fa55a138-b386-4819-a1a3-b16500c1b723/fa55a138-b386-4819-a1a3-b16500c1b723_DownloadAsJpg.jpg?width=768&height=450&fit=1&quality=1",
+      "source_tag": "source:page-image",
+      "context": "source picture parallax-image div content-feature__bg-image content-feature__bg-image--dark-overlay section content-feature div",
+      "content_type": "image/webp",
+      "bytes": 8894,
+      "sha256": "e5968fd0c4cd8f82c1f8d5bec515c8fe93e5928b091255669b2f67f71f958d2e",
+      "width": 768,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/snickers/reference-3.webp",
+      "source_url": "https://p1.aprimocdn.net/marssnacking/fa55a138-b386-4819-a1a3-b16500c1b723/fa55a138-b386-4819-a1a3-b16500c1b723_DownloadAsJpg.jpg?width=1024&height=550&fit=1&quality=1",
+      "source_tag": "source:page-image",
+      "context": "source picture parallax-image div content-feature__bg-image content-feature__bg-image--dark-overlay section content-feature div",
+      "content_type": "image/webp",
+      "bytes": 13822,
+      "sha256": "f773601af5c71edef20eb99aaba3a62bc368f861fb5c2344e9585da15a421b2a",
+      "width": 1024,
+      "height": 550
+    }
+  ]
+}

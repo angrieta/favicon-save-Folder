@@ -1,0 +1,69 @@
+{
+  "company": "TSUTAYA",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://tsutaya.tsite.jp/",
+  "page_url": "https://tsutaya.tsite.jp/",
+  "page_title": "ライフスタイル情報発信ポータル | TSUTAYA",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://tsutaya.tsite.jp/images/logo.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/tsutaya/favicon.png",
+      "source_url": "https://storage.googleapis.com/production-os-assets/assets/6eb468d4-03bd-40d9-871b-1d2667f505aa",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 153,
+      "sha256": "0b6c714ebcabc30679e79d7c6b42e213bb9e152a02e036a5896d13339425c8a1",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/tsutaya/og.webp",
+      "source_url": "https://storage.googleapis.com/production-os-assets/assets/df759cd0-e544-4593-b77c-bb2cc71c7041",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6942,
+      "sha256": "4677574c92b9023baf2fc7074696615ef135d5016195a5e82a21301ed154647e",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/tsutaya/reference-1.webp",
+      "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQjYjXqJ/s-529x750_v-fs_webp_1da1f070-5a56-443a-9f29-3b54b41bb3dc_small.webp",
+      "source_tag": "img:page-image",
+      "context": "img img list-5__item__sd-3 劇場版ドクターX FINAL noscript div box list-5__item__sd-2 _p25 _p4y a box list-5__item__sd-1 li box list-5__item",
+      "content_type": "image/webp",
+      "bytes": 68864,
+      "sha256": "4441b50e31ccf00782ec5f8471c35816b4bfa3ceace210042fb30fc73337ae4e",
+      "width": 423,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/tsutaya/reference-2.webp",
+      "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQjYjXqJ/s-400x566_webp_1018e113-303e-4c5b-806f-b7da2f85aa48.webp",
+      "source_tag": "img:page-image",
+      "context": "img img list-5__item__sd-3 劇場版 転生したらスライムだった件 蒼海の涙編 div box list-5__item__sd-2 _p25 _p4y a box list-5__item__sd-1 li box list-5__item ul box list-5 _px _p2u _p3x _p6i _p6k",
+      "content_type": "image/webp",
+      "bytes": 72668,
+      "sha256": "3a217f162263c152bc2e16d95989e191a2dfef345473660e8cbc6ed3cd607eeb",
+      "width": 400,
+      "height": 566
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/tsutaya/reference-3.webp",
+      "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/EjOQjYjXqJ/s-400x566_webp_19348a3e-7737-45cb-8429-a8b5cfbf0afe.webp",
+      "source_tag": "img:page-image",
+      "context": "img img list-5__item__sd-3 ザ・クロウ div box list-5__item__sd-2 _p25 _p4y a box list-5__item__sd-1 li box list-5__item ul box list-5 _px _p2u _p3x _p6i _p6k",
+      "content_type": "image/webp",
+      "bytes": 42370,
+      "sha256": "ec2bdf264c852d77fb0e43a2acd257586591df42172d189d3dfb6948c96f4cbd",
+      "width": 400,
+      "height": 566
+    }
+  ]
+}

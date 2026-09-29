@@ -1,0 +1,45 @@
+{
+  "company": "VanMoof",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.vanmoof.com",
+  "page_url": "https://www.vanmoof.com/en-NL",
+  "page_title": "Award-winning e-bikes with high-tech features | VanMoof",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.vanmoof.com/_next/static/chunks/10237b3b19d9eb35.js; reference:ValueError:https://cdn.cookielaw.org/consent/01934f1c-80b1-7ba8-bfe0-b3c2be34fe02/OtAutoBlock.js; reference:ValueError:https://cdn.cookielaw.org/scripttemplates/otSDKStub.js; reference:ValueError:https://sst.vanmoof.com/gtm.js?id=GTM-KWF8PBP8",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/vanmoof/favicon.ico",
+      "source_url": "https://www.vanmoof.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 410598,
+      "sha256": "b9b7c1fc3f1788d6cc0f535dec3eea840adac5e72829daa97d446c7eb3d6ecbd",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/vanmoof/og.webp",
+      "source_url": "https://assets-cms.vanmoof.com/vm_social_default_8c1aae493a.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21056,
+      "sha256": "90e38074b459446953991a35bdf29dcc95e4e5cfde8504491bc96df4e7abc1ea",
+      "width": 600,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/vanmoof/logo-1.webp",
+      "source_url": "https://assets-cms.vanmoof.com/V_logo_SEO_192x192_5905aa9040.png",
+      "source_tag": "json-ld[0].@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 1134,
+      "sha256": "6599a3fa7bf63f73d660114813e2f3537a814d7f4fbc0df1d5fed0179ae7f44f",
+      "width": 192,
+      "height": 192
+    }
+  ]
+}

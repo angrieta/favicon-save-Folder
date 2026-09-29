@@ -1,0 +1,58 @@
+{
+  "company": "삼성 라이온즈",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.samsunglions.com",
+  "page_url": "https://www.samsunglions.com/",
+  "page_title": "삼성라이온즈",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/samsung-lions/favicon.png",
+      "source_url": "https://www.samsunglions.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 2191,
+      "sha256": "faa2d7ae29aa1dcdf5b1899df5613cc829e49c79c96065f859eec5f3c68f47e3",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/samsung-lions/logo-1.png",
+      "source_url": "https://www.samsunglions.com/images/2016gates/lions_logo.png?v=1",
+      "source_tag": "img:semantic-logo",
+      "context": "img 삼성라이온즈 로고 div lions_logo div gate_page body html",
+      "content_type": "image/png",
+      "bytes": 6990,
+      "sha256": "4dbf3789f235634dce35bc242c0810e1991ce9e6e09c5493f1a16c6825cdbc09",
+      "width": 134,
+      "height": 85
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/samsung-lions/banner-1.webp",
+      "source_url": "https://www.samsunglions.com/images/2016gates/gate_bg.jpg",
+      "source_tag": "style-background-image",
+      "context": "\r\nhtml { background: url(/images/2016gates/gate_bg.jpg) no-repeat center center fixed; -webkit-background-size: cover;-moz-background-s",
+      "content_type": "image/webp",
+      "bytes": 100738,
+      "sha256": "e30c7ecf8c547b3f5bf52af345546416cf749610babbc989d4b2d8f4d240bae7",
+      "width": 1800,
+      "height": 1067
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/samsung-lions/reference-1.webp",
+      "source_url": "https://www.samsunglions.com/upload/new_main/0729%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%BC%EC%8B%9C%EC%A4%91%EB%8B%A8(7).png",
+      "source_tag": "img:page-image",
+      "context": "img div no_game div today_pop today_pop body html",
+      "content_type": "image/webp",
+      "bytes": 36600,
+      "sha256": "5b8101f719a8846c788918200eaacf38d861611451554361c57daf9469fbc0e1",
+      "width": 549,
+      "height": 697
+    }
+  ]
+}

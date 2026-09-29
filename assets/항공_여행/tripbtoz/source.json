@@ -1,0 +1,70 @@
+{
+  "company": "트립비토즈",
+  "category": "항공_여행",
+  "requested_url": "https://www.tripbtoz.com",
+  "page_url": "https://www.tripbtoz.com/",
+  "page_title": "트립비토즈 | 전 세계 힙한 호텔·숙소 예약의 시작 | 생생한 영상 리뷰",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=2079685385672750&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/tripbtoz/favicon.svg",
+      "source_url": "https://www.tripbtoz.com/weblogo/tbz/favicon/favicon.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1211,
+      "sha256": "9a9b48ccdd7786c0e2711644750ff63106699cec8636ea40bf6fe9203c7d0d24",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/tripbtoz/logo-1.svg",
+      "source_url": "https://www.tripbtoz.com/images/common/img_logo_main.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-auto w-[110px] tablet:w-[116px] mobile:w-[104px] Tripbtoz a flex items-center px-4 tablet:px-0 tablet:h-[32px] tablet:w-[116px] mobile:h-[28px] mobile:w-[104px] absolute left-1/2 -translate-x-1/2 div header relative flex h-[56px] item",
+      "content_type": "image/svg+xml",
+      "bytes": 3427,
+      "sha256": "38d49a44fe7c62fa2d96ad1bc1d3010c7c864397bab178ef08f85dfd5bbffa6c",
+      "width": 174,
+      "height": 48
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/tripbtoz/reference-1.webp",
+      "source_url": "https://asset.tripbtoz.com/op/www/Carousel_01.png",
+      "source_tag": "json-ld.itemListElement[0].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 151712,
+      "sha256": "22e24a7d045e1f8240bfb68bb8450b7fa82b713c1f31aa93c12710e70b657cc9",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/tripbtoz/reference-2.webp",
+      "source_url": "https://asset.tripbtoz.com/op/www/Carousel_02.png",
+      "source_tag": "json-ld.itemListElement[1].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 49336,
+      "sha256": "93aff669536ac77516b9e5765eb7cb573617df91c80c6c48b92759a90e18c60e",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/tripbtoz/reference-3.webp",
+      "source_url": "https://asset.tripbtoz.com/op/www/Carousel_03.png",
+      "source_tag": "json-ld.itemListElement[2].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 30210,
+      "sha256": "4c89516b06a527504dacd5bca373c0ab4728fa6d46daa482917804879edc3e49",
+      "width": 1080,
+      "height": 1080
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company": "Naim",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.naimaudio.com",
+  "page_url": "https://www.naimaudio.com/",
+  "page_title": "British High-End Audio | Naim Audio",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://media.focal-naim.com/naim/file_manager_files/home-page/launching-ciseries-4k.mp4; banner:ValueError:https://media.focal-naim.com/naim/file_manager_files/home-page/sequence-01.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/naim/favicon.png",
+      "source_url": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2204,
+      "sha256": "bfac08d8abc1e59c6e55035e4146c43748a9e21521a5b77720b744d5e6f4d598",
+      "width": 120,
+      "height": 120
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/naim/banner-1.webp",
+      "source_url": "https://media.focal-naim.com/naim/file_manager_files/home-page/trouver-un-revendeur.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture w-full h-full absolute inset-0 section mx-auto max-w-screen-2xl lg:max-h-[100vh] min-h-[400px] relative w-full flex bg-cover section page-content container div homepage page-wrapper main mx-auto max-w-screen-3xl",
+      "content_type": "image/webp",
+      "bytes": 126976,
+      "sha256": "61d5971a77fdfb9c999069e0a3564f34b460f22991b994f76f7bdce76a9883d3",
+      "width": 1536,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/naim/reference-1.webp",
+      "source_url": "https://media.focal-naim.com/naim/file_manager_files/pages/menu/about-naim.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture group-hover:scale-105 block transition duration-500 cursor-pointer aspect-[54/47] object-cover div mb-2.5 overflow-hidden hidden lg:block a group max-w-[436px] w-full div grid grid-cols-1 gap-5 lg:grid-cols-3 div lg:flex lg:justify-",
+      "content_type": "image/webp",
+      "bytes": 78382,
+      "sha256": "0ad8f2714e310346ba85fee668feb0fed5780b7a96bcdac204edb9bfa5b4d431",
+      "width": 900,
+      "height": 748
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/naim/reference-2.webp",
+      "source_url": "https://media.focal-naim.com/naim/file_manager_files/pages/menu/partenaires.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture group-hover:scale-105 block transition duration-500 cursor-pointer aspect-[54/47] object-cover div mb-2.5 overflow-hidden hidden lg:block a group max-w-[436px] w-full div grid grid-cols-1 gap-5 lg:grid-cols-3 div lg:flex lg:justify-",
+      "content_type": "image/webp",
+      "bytes": 69874,
+      "sha256": "67d2dbb5d9dce517b23ddfe3a59b30e17ea875cc0e9d0450dcad7f264df6f07e",
+      "width": 900,
+      "height": 748
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/naim/reference-3.webp",
+      "source_url": "https://media.focal-naim.com/naim/file_manager_files/pages/menu/network-audio-player.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture group-hover:scale-105 block transition duration-500 cursor-pointer aspect-[54/47] object-cover div mb-2.5 overflow-hidden hidden lg:block a group max-w-[436px] w-full div grid grid-cols-1 gap-5 lg:grid-cols-6 div lg:flex lg:justify-",
+      "content_type": "image/webp",
+      "bytes": 4998,
+      "sha256": "fd62828d5b8cfa076f4a88df206bb748db60b17df6fe918c40149700f6628580",
+      "width": 618,
+      "height": 464
+    }
+  ]
+}

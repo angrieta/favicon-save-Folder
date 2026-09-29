@@ -1,0 +1,57 @@
+{
+  "company": "사랑의열매",
+  "category": "문화_공공",
+  "requested_url": "https://www.chest.or.kr",
+  "page_url": "https://chest.or.kr/base.do",
+  "page_title": "( 중앙회 ) 사회복지공동모금회 사랑의열매",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://upload.chest.or.kr\\\\mainBanner\\\\001\\\\202607\\\\%ED%8A%B9%EC%A7%91%EB%B0%A9%EC%86%A1_%EB%B0%B0%EB%84%88_1784761745184.jpg; reference:HTTPError:https://upload.chest.or.kr\\\\mainBanner\\\\001\\\\202607\\\\%ED%8A%B9%EC%A7%91%EB%B0%A9%EC%86%A1_%EB%B0%B0%EB%84%88_1784761745184.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/community-chest-korea/favicon.png",
+      "source_url": "https://chest.or.kr/common/v2026/images/favicon_android_192x192.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 5268,
+      "sha256": "321773d4857344c3d0ae3f41131969ca6a9a664dbce1fd14483e70e2c5f6033f",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/community-chest-korea/og.webp",
+      "source_url": "https://www.chest.or.kr/common/img/intro/ci_001.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10108,
+      "sha256": "a5f9d70f3af9858d6ec65d04100b43e89968f6c79049ddf0db929904801a8df9",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/community-chest-korea/logo-1.svg",
+      "source_url": "https://chest.or.kr/common/v2026/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__logo 사랑의열매 사회복지공동모금회 a h1 div header__gnb-bar div header-inner",
+      "content_type": "image/svg+xml",
+      "bytes": 9524,
+      "sha256": "018021ec576dec7a2817eab4e689f2786ced9970b89be4b67df31a5cfabc496c",
+      "width": 164,
+      "height": 40
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/community-chest-korea/reference-1.webp",
+      "source_url": "https://chest.or.kr/common/v2026/images/honor_cover_01.webp",
+      "source_tag": "img:page-image",
+      "context": "img main-honor__cover 아너 소사이어티 회원 대표 사진 div main-honor__panel article main-honor div container__wide section main-webzine 아너 소사이어티와 나눔 프론티어",
+      "content_type": "image/webp",
+      "bytes": 155212,
+      "sha256": "8a84bdef564e69f0ffae21990d0613b83e5dc72278076c1a16605700c3c61497",
+      "width": 1139,
+      "height": 1350
+    }
+  ]
+}

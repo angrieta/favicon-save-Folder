@@ -1,0 +1,69 @@
+{
+  "company": "WKBL 한국여자농구연맹",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.wkbl.or.kr",
+  "page_url": "https://www.wkbl.or.kr/main/",
+  "page_title": "WKBL",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/wkbl/favicon.ico",
+      "source_url": "https://www.wkbl.or.kr/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 119140,
+      "sha256": "904ca719adeecf54d684f0c90f83ee6f8db1d8764371fd6ccb0fc3f0bb46cc55",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/wkbl/og.webp",
+      "source_url": "https://www.wkbl.or.kr/static/images/wkbl_link_thum.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12248,
+      "sha256": "9f54016b9acb058c3fd6eb034d5ccd5406844ee6222c656e3a1f97aba8f1b39e",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/wkbl/logo-1.png",
+      "source_url": "https://www.wkbl.or.kr/static/images/common/head_logo_22.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img WKBL a h1 pageLogo site_logo div inner_nav div top_navigation",
+      "content_type": "image/png",
+      "bytes": 8045,
+      "sha256": "b846820a117a2c66c224e3097031b000d0e5a5380db803df27248e2ae82647e5",
+      "width": 98,
+      "height": 64
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/wkbl/banner-1.webp",
+      "source_url": "https://www.wkbl.or.kr/upfiles/video/002(1526).jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 대한민국 여자농구대표팀 TEAM KOREA 11인을 소개합니다 a thumb_img div main_aside_wkbltv div main_visual_aside section main_visual_wrap",
+      "content_type": "image/webp",
+      "bytes": 46054,
+      "sha256": "f05bedbf1c7c1fd696f2915ecca1b56a98a3cf5d58bbdcadc3ba916629d05791",
+      "width": 750,
+      "height": 420
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/wkbl/banner-2.webp",
+      "source_url": "https://www.wkbl.or.kr/upfiles/popup/web_1920_520.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div thumb_img li ul main_top_slider div main_visual_slider",
+      "content_type": "image/webp",
+      "bytes": 85836,
+      "sha256": "8f8c709ca262687f708e8aaf58b37d558b011e21475248b74f623a1b54117803",
+      "width": 1800,
+      "height": 488
+    }
+  ]
+}

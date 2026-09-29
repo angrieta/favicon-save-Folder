@@ -1,0 +1,93 @@
+{
+  "company": "The Hoxton",
+  "category": "항공_여행",
+  "requested_url": "https://thehoxton.com",
+  "page_url": "https://thehoxton.com/",
+  "page_title": "The Hoxton: Boutique neighbourhood hotels in EU, UK & Ireland and USA.",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://thehoxton.com/wp-content/uploads/sites/5/2026/09/HOX_26_Lacoste_Web_Hero_16x9_Clean_NoAudio-opt.mp4; banner:HTTPError:https://thehoxton.com/1024",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/the-hoxton/favicon.png",
+      "source_url": "https://thehoxton.com/wp-content/uploads/sites/5/2020/08/cropped-favicon-32x32-1.png?w=192",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1604,
+      "sha256": "9bce6efdad70d4b1f68b519e5793e5b459c70db3b1983a926a423805ca29c89b",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/the-hoxton/og.webp",
+      "source_url": "https://thehoxton.com/wp-content/uploads/sites/5/2023/10/Hello-Hox-Vienna-main-banner-2500x1533-1.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 140682,
+      "sha256": "d08d750fa447060165441650349e512cf2ec11371d76c2af117c06d95b92532d",
+      "width": 1200,
+      "height": 736
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/the-hoxton/logo-1.png",
+      "source_url": "https://thehoxton.com/wp-content/uploads/sites/5/2021/12/hox-logo.png",
+      "source_tag": "json-ld.@graph[3].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 2986,
+      "sha256": "64f35d9ca7bfe39e93cbf33ed65cea3dbf1b5437e12903bdbffcb6d6399a8a98",
+      "width": 192,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/the-hoxton/logo-2.svg",
+      "source_url": "https://thehoxton.com/wp-content/uploads/sites/5/2020/08/the_hoxton_logo_4.svg?w=144",
+      "source_tag": "img:semantic-logo",
+      "context": "img attachment-144 size-144 The Hoxton logo The Hoxton logo a div footer__logo div footer__details div footer__contact",
+      "content_type": "image/svg+xml",
+      "bytes": 4204,
+      "sha256": "ede41ae6d2998ed51d23a317c897ad40df673a7cc0fb8e6d4dec8ce3e2bedf98",
+      "width": 868,
+      "height": 145
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/the-hoxton/reference-1.webp",
+      "source_url": "https://thehoxton.com/wp-content/uploads/sites/5/2020/03/TH-Nav-Berlin-nav-page-hero.jpg?resize=1000,800&quality=70",
+      "source_tag": "inline-background-image",
+      "context": "span   background-image: url(https://thehoxton.com/wp-content/uploads/sites/5/2020/03/TH-Nav-Berlin-nav-page-hero.jpg?resize=1000,800&quality=70);",
+      "content_type": "image/webp",
+      "bytes": 120752,
+      "sha256": "fa92fa996cca3982f18cdc7025b97f2ec38784efb038397118299f870858a0c7",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/the-hoxton/reference-2.webp",
+      "source_url": "https://thehoxton.com/wp-content/uploads/sites/5/2024/04/TH-Florence-landingpage-hero-noone.jpg?resize=1000,800&quality=70",
+      "source_tag": "inline-background-image",
+      "context": "span   background-image: url(https://thehoxton.com/wp-content/uploads/sites/5/2024/04/TH-Florence-landingpage-hero-noone.jpg?resize=1000,800&quality=70);",
+      "content_type": "image/webp",
+      "bytes": 148990,
+      "sha256": "b583ec7a36597459dbe1fbb5b26aa82d7832764f6c6aca001fc93e14e48062a5",
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/the-hoxton/reference-3.webp",
+      "source_url": "https://thehoxton.com/wp-content/uploads/sites/5/2025/05/amsterdam-hero-edit.jpg?resize=1000,800&quality=70",
+      "source_tag": "inline-background-image",
+      "context": "span   background-image: url(https://thehoxton.com/wp-content/uploads/sites/5/2025/05/amsterdam-hero-edit.jpg?resize=1000,800&quality=70);",
+      "content_type": "image/webp",
+      "bytes": 158234,
+      "sha256": "1ede681bda0bc81931008122a2e8275eb8628db6dc927611477ec4cf9f3358b8",
+      "width": 1000,
+      "height": 800
+    }
+  ]
+}

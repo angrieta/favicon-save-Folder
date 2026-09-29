@@ -1,0 +1,58 @@
+{
+  "company": "Trainline",
+  "category": "항공_여행",
+  "requested_url": "https://www.thetrainline.com",
+  "page_url": "https://www.thetrainline.com/",
+  "page_title": "Trainline : Search, Compare & Buy Cheap Train Tickets",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.thetrainline.com/public/hweb/css/app.4e984c7dc74b64deef9c.css; reference:ValueError:https://www.thetrainline.com/public/hweb/css/vendors.0cd8df2d128b2a378b75.css; reference:ValueError:https://www.thetrainline.com/public/hweb/js/runtime~app.df25b1dac0ddee3c73f5.mjs; reference:ValueError:https://www.thetrainline.com/public/hweb/js/vendors.1a747f7fdd6f09db26ba.mjs; reference:ValueError:https://www.thetrainline.com/public/hweb/js/app.c786235fd08ec5c13340.mjs; reference:ValueError:https://www.thetrainline.com/public/hweb/js/Home.10079c088f54c77ddeb1.mjs",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/trainline/favicon.png",
+      "source_url": "https://static.trainlinecontent.com/content/WEB/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 2017,
+      "sha256": "8acfc442a50bb7220a6062608883b1422178bce4cbe39c996b4e8920a8ffe1bf",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/trainline/logo-1.png",
+      "source_url": "https://www.thetrainline.com/cms/media/3681/trainline-logo-uk.png",
+      "source_tag": "json-ld[1].logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 19278,
+      "sha256": "dbb154b9e7b0e3bd2301a4aed59b03f7ec13d9deff20b7dba729ef3c0b6e5712",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/trainline/logo-2.svg",
+      "source_url": "https://static.trainlinecontent.com/content/vul/logos/trainline-mint.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a pxkfjOfk9AjoZqB9RB3z Trainline homepage div OPO8Htl5ric5DsvVNxxL header FfcGnDxw1SrsAyaTYGyg div",
+      "content_type": "image/svg+xml",
+      "bytes": 6778,
+      "sha256": "1dc3c24cbdadc194889a257dbe71edbf67141c31f5dc34635b83230f6d103607",
+      "width": 128,
+      "height": 22
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/trainline/banner-1.webp",
+      "source_url": "https://www.thetrainline.com/content/WEB/images/home/hero/train-hero/train-hero-v3.1x.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  https://www.thetrainline.com/content/WEB/images/home/hero/train-hero/train-hero-v3.1x.jpg",
+      "content_type": "image/webp",
+      "bytes": 175602,
+      "sha256": "a028d10b623001ae4cfc6373d96fce0819015bbb63007d5c39f438451c011543",
+      "width": 1800,
+      "height": 925
+    }
+  ]
+}

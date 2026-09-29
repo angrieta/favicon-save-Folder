@@ -1,0 +1,106 @@
+{
+  "company": "Norwegian Cruise Line",
+  "category": "항공_여행",
+  "requested_url": "https://www.ncl.com",
+  "page_url": "https://www.ncl.com/in/en/",
+  "page_title": "Cruises: Norwegian Cruise Line Holiday Deals | NCL",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/norwegian-cruise-line/favicon.png",
+      "source_url": "https://www.ncl.com/assets/v1/images/favicon/apple-touch-icon-128x128.png?v=1785066059694",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 13004,
+      "sha256": "49c731e63d286c417bb7b7095f989bc721a426fb3720ed9b60cd8c532d610f84",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/norwegian-cruise-line/logo-1.svg",
+      "source_url": "https://www.ncl.com/assets/v1/images/logos/logo-ncl-black.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 13675,
+      "sha256": "e169ada715dcc9dce1c662f3bb5f122600975a3ac8a590027375007ece3bad58",
+      "width": 213,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/norwegian-cruise-line/logo-2.svg",
+      "source_url": "https://www.ncl.com/assets/v1/images/logos/logo-ncl-shield.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img c1_image Norwegian Cruise Line a c1_link Norwegian Cruise Line div c1 div col-auto div row align-items-center justify-content-between",
+      "content_type": "image/svg+xml",
+      "bytes": 2739,
+      "sha256": "bbcddf09d9eb9ba8a783914fd92e403225ae073d95919c47088d263fe1c26c37",
+      "width": 37,
+      "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/norwegian-cruise-line/banner-1.webp",
+      "source_url": "https://www.ncl.com/sites/default/files/NCL_Star_Alesund_Norway_3420950_WEBHERO_3200x1020_33.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img c5_figure_item c5_desktop visible-md-up figure c5_figure div c5 div m6_hero_figure div m6_hero",
+      "content_type": "image/webp",
+      "bytes": 63664,
+      "sha256": "7012dfea9e3e37ec345962c4f524562104c1f3ec23cda0f765fc24333dd41aa5",
+      "width": 1800,
+      "height": 574
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/norwegian-cruise-line/banner-2.webp",
+      "source_url": "https://www.ncl.com/sites/default/files/NCL_Star_Alesund_Norway_3420950_MOBILE_1536x1020_46.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img c5_figure_item c5_mobile visible-xs figure c5_figure div c5 div m6_hero_figure div m6_hero",
+      "content_type": "image/webp",
+      "bytes": 88852,
+      "sha256": "86b0c7112f39e88ca723e2875012803ebe46f21d20b0892b983647b6c57422bf",
+      "width": 1536,
+      "height": 1020
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/norwegian-cruise-line/reference-1.webp",
+      "source_url": "https://www.ncl.com/sites/default/files/India%20Website_Europe%20Sushi%20Tile.jpg",
+      "source_tag": "img:page-image",
+      "context": "img c5_figure_item c5_desktop figure c5_figure div c5 div c12_card article c12 -frontImage",
+      "content_type": "image/webp",
+      "bytes": 38502,
+      "sha256": "ab9b0dc996ce4c19000f484c4cbfc0e4a592139d7f580b2274f754eef91701ac",
+      "width": 747,
+      "height": 550
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/norwegian-cruise-line/reference-2.webp",
+      "source_url": "https://www.ncl.com/sites/default/files/NCL_humpback-whale_Glacier-Bay_747x550.jpg",
+      "source_tag": "img:page-image",
+      "context": "img c5_figure_item c5_desktop figure c5_figure div c5 div c12_card article c12 -frontImage",
+      "content_type": "image/webp",
+      "bytes": 45194,
+      "sha256": "fca0639f043ac52f0a1b509483f1b392f3a6abe78d9222eab35f9164d095193a",
+      "width": 747,
+      "height": 550
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/norwegian-cruise-line/reference-3.webp",
+      "source_url": "https://www.ncl.com/sites/default/files/2416750_PRM_Prima5_SushiTray2025_747x550%20COLLECT.jpg",
+      "source_tag": "img:page-image",
+      "context": "img c5_figure_item c5_desktop 2416750_PRM_Prima5_SushiTray2025_747x550%20COLLECT.jpg figure c5_figure div c5 div c12_card article c12 -frontImage",
+      "content_type": "image/webp",
+      "bytes": 52574,
+      "sha256": "f6a22c72913d3dbe5b8af27394301c405f46fef9840d9e6aee52a1fa03fab32c",
+      "width": 747,
+      "height": 550
+    }
+  ]
+}

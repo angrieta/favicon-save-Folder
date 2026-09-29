@@ -1,0 +1,81 @@
+{
+  "company": "BenQ",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.benq.com/ko-kr/index.html",
+  "page_url": "https://www.benq.com/ko-kr/index.html",
+  "page_title": "홈페이지 - 프로젝터, 모니터, 조명, 스피커 | BenQ 한국",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/benq/favicon.png",
+      "source_url": "https://www.benq.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 986,
+      "sha256": "b5dcf8af18135f1b35052d048b755be9efe22948b103810752e32882813569f2",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/benq/og.webp",
+      "source_url": "https://image.benq.com/is/image/benqco/homepage-hero-banner-aug2-01m-1?$ResponsivePreset$",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 25534,
+      "sha256": "400de5a429e89b3a761ef275171909ee7aab6cca3a938d329690d8a3651ed703",
+      "width": 1200,
+      "height": 574
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/benq/logo-1.png",
+      "source_url": "https://www.benq.com/etc/designs/g6/clientlib-site/img/header-icon/nav-icon-benq-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo logo a div main-bar-container div main-bar main-bar-pc header header",
+      "content_type": "image/png",
+      "bytes": 103502,
+      "sha256": "316723fd53368be1e718f4051f0d06d83ab6430ed5c773868cb6b6f69918ebae",
+      "width": 512,
+      "height": 352
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/benq/logo-2.svg",
+      "source_url": "https://www.benq.com/etc/designs/g6/clientlib-site/img/header-icon/nav-icon-back-menu.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img icon-nav-back Back Logo Back to Menu div overlay-nav-bar div g6-mobile-submenu-0 mega-menu 모니터 submenu div nav-content div overlay-nav",
+      "content_type": "image/svg+xml",
+      "bytes": 686,
+      "sha256": "f676c0cda8091cf6d37a5a0b354899c77054109e60d9996d8eefaa5f776dbd92",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/benq/banner-1.webp",
+      "source_url": "https://image.benq.com/is/image/benqco/2026_%EC%B6%94%EC%84%9D%EC%97%B0%ED%9C%B4%EB%B0%B0%EC%86%A1%EC%95%88%EB%82%B4_3840x735?$ResponsivePreset$&hei=490",
+      "source_tag": "img:semantic-banner",
+      "context": "img hero-banner-wrap-block-img hero-banner-wrap-block-img-pc div hero-banner-wrap-block div hero-banner-wrap div g6-hero-banner-component g6-hero-banner-component-52385552 g6-bg-light-gray div g6-hero-banner datalayer-count aem-GridColumn a",
+      "content_type": "image/webp",
+      "bytes": 20602,
+      "sha256": "133a38aaa00dac138c417466876b0fc28194a749211c6176a34ac92e7f087751",
+      "width": 1800,
+      "height": 345
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/benq/banner-2.webp",
+      "source_url": "https://image.benq.com/is/image/benqco/2026_%EC%B6%94%EC%84%9D%EC%97%B0%ED%9C%B4%EB%B0%B0%EC%86%A1%EC%95%88%EB%82%B4_2048x980?$ResponsivePreset$",
+      "source_tag": "img:semantic-banner",
+      "context": "img hero-banner-wrap-block-img hero-banner-wrap-block-img-mobile div hero-banner-wrap-block div hero-banner-wrap div g6-hero-banner-component g6-hero-banner-component-52385552 g6-bg-light-gray div g6-hero-banner datalayer-count aem-GridColu",
+      "content_type": "image/webp",
+      "bytes": 57120,
+      "sha256": "f079783e78343dddbbfd07bd2385790441875873c0ebe3da58021d8920ac38b7",
+      "width": 1800,
+      "height": 861
+    }
+  ]
+}

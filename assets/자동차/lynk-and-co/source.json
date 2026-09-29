@@ -1,0 +1,58 @@
+{
+  "company": "Lynk & Co",
+  "category": "자동차",
+  "requested_url": "https://www.lynkco.com/",
+  "page_url": "https://www.lynkco.com/",
+  "page_title": "Experience the Lynk & Co Difference on Our Official Site",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.lynkco.com/dist/asia/lynkco-global-portal/font/LynkcoType-Regular.woff2; reference:ValueError:https://www.lynkco.com/dist/asia/lynkco-global-portal/font/LynkcoType-Light.eot?; reference:ValueError:https://www.lynkco.com/dist/asia/lynkco-global-portal/font/LynkcoType-Light.ttf; reference:ValueError:https://www.lynkco.com/dist/asia/lynkco-global-portal/font/LynkcoType-Light.woff; reference:ValueError:https://www.lynkco.com/dist/asia/lynkco-global-portal/font/LynkcoType-Light.woff2; reference:ValueError:https://www.lynkco.com/dist/asia/lynkco-global-portal/font/LynkcoType-Medium.eot?",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/lynk-and-co/favicon.ico",
+      "source_url": "https://www.lynkco.com/dist/asia/lynkco-global-portal/favicon.ico?v=1.1",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "4f3cfe8e03eb8ef01dc206a48f30d37fe974f91102e5639772f11a10f8b308e3",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/lynk-and-co/reference-1.svg",
+      "source_url": "https://www.lynkco.com/dist/asia/lynkco-global-portal/font/LynkcoType-Regular.svg",
+      "source_tag": "link:preload",
+      "context": "preload font  /dist/asia/lynkco-global-portal/font/LynkcoType-Regular.svg#LynkcoTypeRegular",
+      "content_type": "image/svg+xml",
+      "bytes": 185898,
+      "sha256": "e206e8737a0beef6b08d4bb5f573639ffd83c1800a36741a65bc1e5f625fbbd8",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/lynk-and-co/reference-2.svg",
+      "source_url": "https://www.lynkco.com/dist/asia/lynkco-global-portal/font/LynkcoType-Light.svg",
+      "source_tag": "link:preload",
+      "context": "preload font  /dist/asia/lynkco-global-portal/font/LynkcoType-Light.svg#LynkcoTypeLight",
+      "content_type": "image/svg+xml",
+      "bytes": 185158,
+      "sha256": "9c0c9429b52167781755aaab7ef88645f3a3ca68c83217ffb4f5ce5306014c79",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/lynk-and-co/reference-3.svg",
+      "source_url": "https://www.lynkco.com/dist/asia/lynkco-global-portal/font/LynkcoType-Medium.svg",
+      "source_tag": "link:preload",
+      "context": "preload font  /dist/asia/lynkco-global-portal/font/LynkcoType-Medium.svg#LynkcoTypeMedium",
+      "content_type": "image/svg+xml",
+      "bytes": 186566,
+      "sha256": "080441fd6cd98b74e614adce22a621f2d8489977d677158fc5a64c178c6fe7ca",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

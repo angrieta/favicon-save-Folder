@@ -1,0 +1,57 @@
+{
+  "company": "한화 이글스",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.hanwhaeagles.co.kr",
+  "page_url": "https://www.hanwhaeagles.co.kr/index.do",
+  "page_title": "한화이글스",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.hanwhaeagles.co.kr/resources/movie/movie_eagles.mp4; reference:ValueError:https://www.hanwhaeagles.co.kr/download/attach.do?id=18754; reference:ValueError:https://www.hanwhaeagles.co.kr/download/attach.do?id=18755; reference:ValueError:https://www.hanwhaeagles.co.kr/download/attach.do?id=18756; reference:ValueError:https://www.hanwhaeagles.co.kr/download/attach.do?id=18762; reference:ValueError:https://www.hanwhaeagles.co.kr/download/attach.do?id=18758",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/hanwha-eagles/favicon.png",
+      "source_url": "https://www.hanwhaeagles.co.kr/images/common/favicon-48x48.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1323,
+      "sha256": "85fe62316451f38ecbd3d6271edcae6d9bb5eecc6658248ac6b19a6c151187cd",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/hanwha-eagles/og.webp",
+      "source_url": "https://www.hanwhaeagles.co.kr/images/common/og_image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5726,
+      "sha256": "95199bb98662ab3188c899906b6d4306e7c30ab855317499dcdd802c02e72710",
+      "width": 400,
+      "height": 210
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/hanwha-eagles/logo-1.png",
+      "source_url": "https://www.hanwhaeagles.co.kr/images/pages/game/bi_game_hanwha.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img p div detail div schd_detail div schd_wrap swiper-slide active",
+      "content_type": "image/png",
+      "bytes": 3281,
+      "sha256": "4a36258881c596e29e9d90c7bd2e444c288507434e90853f2513f083d3312a11",
+      "width": 184,
+      "height": 184
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/hanwha-eagles/logo-2.png",
+      "source_url": "https://www.hanwhaeagles.co.kr/images/pages/game/bi_game_samsung.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img p div detail div schd_detail div schd_wrap swiper-slide active",
+      "content_type": "image/png",
+      "bytes": 13599,
+      "sha256": "f244e370ad22292a38880e50f243964e4454d011556a982bbcc7c4f0eeeef9f1",
+      "width": 184,
+      "height": 184
+    }
+  ]
+}

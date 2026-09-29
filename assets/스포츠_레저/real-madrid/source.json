@@ -1,0 +1,82 @@
+{
+  "company": "Real Madrid",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.realmadrid.com",
+  "page_url": "https://www.realmadrid.com/",
+  "page_title": "Real Madrid CF | Web Oficial del Real Madrid CF",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.realmadrid.com/; banner:ConnectionError:https://publish.realmadrid.com/content/dam/common/statics/public-content/internet/web/rm-spa-web/images/stadium/blurred-bg.app.jpg?$Desktop$&fit=wrap",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/real-madrid/favicon.png",
+      "source_url": "https://www.realmadrid.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8270,
+      "sha256": "e263e263660c618c6c66ed6e6bee9f3afba5a2ebee27918b18d374715a2b9ea3",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/real-madrid/logo-1.svg",
+      "source_url": "https://assets.realmadrid.com/is/content/realmadrid/34pl8szyvrbwcmfkuocjm3r6t-logo?$Mobile$&fit=wrap&wid=144&hei=144",
+      "source_tag": "img:semantic-logo",
+      "context": "img rm-game__competition ng-star-inserted La Liga La Liga div rm-game__competitions ng-star-inserted div rm-game__main main rm-game__container section rm-game",
+      "content_type": "image/svg+xml",
+      "bytes": 487,
+      "sha256": "c8def08494bcf77cd99e8766019cf980397b59792d2f197a9687716e0f2c40fd",
+      "width": 237,
+      "height": 224
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/real-madrid/logo-2.svg",
+      "source_url": "https://assets.realmadrid.com/is/content/realmadrid/4oogyu6o156iphvdvphwpck10-logo-2?$Mobile$&fit=wrap&wid=144&hei=144",
+      "source_tag": "img:semantic-logo",
+      "context": "img rm-game__competition ng-star-inserted Champions League Champions League div rm-game__competitions ng-star-inserted div rm-game__main main rm-game__container section rm-game",
+      "content_type": "image/svg+xml",
+      "bytes": 5303,
+      "sha256": "d07f2268d6fc5dea53145bcff99e06a860c412fbf35af2dea2409331f47d88a9",
+      "width": 236,
+      "height": 224
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/real-madrid/reference-1.webp",
+      "source_url": "https://assets.realmadrid.com/is/image/realmadrid/Hero-banner-Arda?$General$&fit=wrap",
+      "source_tag": "inline-background-image",
+      "context": "span  card__bg ng-star-inserted background-image: url('https://assets.realmadrid.com/is/image/realmadrid/Hero-banner-Arda?$General$&fit=wrap');",
+      "content_type": "image/webp",
+      "bytes": 158068,
+      "sha256": "fefdb6153c0e65b21d4b90542b5c30ed481dd2013eba080abba19889ed387866",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/real-madrid/reference-2.webp",
+      "source_url": "https://assets.realmadrid.com/is/image/realmadrid/ND-ENTRENO-01_HE11048?$Desktop$&fit=wrap&wid=1440",
+      "source_tag": "picture:page-image",
+      "context": "picture rm-news-item__picture figure rm-news-item__figure rm-news-item__figure--big ng-star-inserted a rm-news-item__link ng-star-inserted app-news-item rm-news-item rm-news-item--big ng-star-inserted div rm-news-module__big rm-web__contain",
+      "content_type": "image/webp",
+      "bytes": 94538,
+      "sha256": "69bd7ba31617483203cf2fdc0923d063aa8c0e1c8fa2ee0cd197eada5e410d54",
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/real-madrid/reference-3.webp",
+      "source_url": "https://assets.realmadrid.com/is/image/realmadrid/ND-ENTRENO-01_HE11048?$Desktop$&fit=wrap&wid=994",
+      "source_tag": "picture:page-image",
+      "context": "picture rm-news-item__picture figure rm-news-item__figure rm-news-item__figure--big ng-star-inserted a rm-news-item__link ng-star-inserted app-news-item rm-news-item rm-news-item--big ng-star-inserted div rm-news-module__big rm-web__contain",
+      "content_type": "image/webp",
+      "bytes": 58734,
+      "sha256": "717cfdc6ada77a06a11ff342e33faf93340f185d9d45c1f78de55b8ec33c9886",
+      "width": 994,
+      "height": 560
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "company": "Deno",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://deno.com",
+  "page_url": "https://deno.com/",
+  "page_title": "Deno, the drop-in JavaScript runtime for Node developers",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://deno.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/deno/favicon.svg",
+      "source_url": "https://deno.com/logo.svg?__frsh_c=32bf1ee1a3d869184be72af46cd7f5e3e83b381e",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 3862,
+      "sha256": "a5cfe0f55496ac3ccb2ad8413757304371316f14344324507ea2aee5533b2a37",
+      "width": 441,
+      "height": 441
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/deno/og.webp",
+      "source_url": "https://deno.com/og/image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 19942,
+      "sha256": "1e76a42b75099e096b4d5e2cb09b202d8011a7a23aa7d9babe2e344a70ade989",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/deno/logo-1.svg",
+      "source_url": "https://deno.com/logos/deploy/mark.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-full h-auto max-w-12 mt-8 mb-4 Deno Deploy logo mark div flex flex-col items-center gap-4 div p-8 sm:p-12 lg:p-16 flex flex-col gap-12 div deploy-page md:rounded-xl border-y-2 md:border-x-2 border-deploy-neutral-350 bg-deploy-dots ove",
+      "content_type": "image/svg+xml",
+      "bytes": 2460,
+      "sha256": "43fdc68fb376c355017e20a596d7339c30994e4bd1c642824efadaa7085705ff",
+      "width": 72,
+      "height": 84
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/deno/logo-2.svg",
+      "source_url": "https://deno.com/logos/dark-transparent.svg?__frsh_c=32bf1ee1a3d869184be72af46cd7f5e3e83b381e",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-10 w-auto max-w-none block Deno logo a flex items-center div flex flex-col items-start gap-16 md:flex-row md:gap-8 md:w-full md:justify-between max-w-4xl div section-x-inset-xl py-8 lg:pt-16 w-full footer border-t text-runtime text-sm",
+      "content_type": "image/svg+xml",
+      "bytes": 3589,
+      "sha256": "d2a96214edb1d6d4fc465e595994824fea0fd52a56f683ddabf96500e286e3e5",
+      "width": 1366,
+      "height": 441
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/deno/reference-1.svg",
+      "source_url": "https://deno.com/images/homepage/peeking.svg?__frsh_c=32bf1ee1a3d869184be72af46cd7f5e3e83b381e",
+      "source_tag": "img:page-image",
+      "context": "img absolute -bottom-1 right-12 w-20 h-auto pointer-events-none motion-reduce:animate-none! animation-timeline-view animation-range-0/40 animate-dino-peek div text-center mx-auto w-full max-w-2xl pb-20 md:pb-0 div installation py-16 text-ce",
+      "content_type": "image/svg+xml",
+      "bytes": 2245,
+      "sha256": "036cbfc3bfc2cdbae393617350a7d7a646d7d866c33abdd775aab8b8f6dc6543",
+      "width": 947,
+      "height": 1486
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/deno/reference-2.webp",
+      "source_url": "https://deno.com/runtime/typescript.png?__frsh_c=32bf1ee1a3d869184be72af46cd7f5e3e83b381e",
+      "source_tag": "img:page-image",
+      "context": "img size-16 TypeScript div flex items-end gap-4 div flex flex-col w-full gap-4 text-left items-start div grid grid-cols-1 items-center gap-8 md:gap-16 xl:gap-32 swap-on-mobile md:grid-cols-3/2 lg:grid-cols-3/2 div w-full flex flex-col items",
+      "content_type": "image/webp",
+      "bytes": 9634,
+      "sha256": "f255775b8e032a73a5d834ee1a1d1581a3aa7cec7acfb8c4a2c3ece47b0cafce",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/deno/reference-3.webp",
+      "source_url": "https://deno.com/runtime/npm.png?__frsh_c=32bf1ee1a3d869184be72af46cd7f5e3e83b381e",
+      "source_tag": "img:page-image",
+      "context": "img h-auto w-26 relative top-1.25 npm div flex items-end gap-4 div flex flex-col w-full gap-4 text-left items-start div grid grid-cols-1 items-center gap-8 md:gap-16 xl:gap-32 swap-on-mobile md:grid-cols-3/2 lg:grid-cols-3/2 div w-full flex",
+      "content_type": "image/webp",
+      "bytes": 2058,
+      "sha256": "dcc47b915148d8c61ca9836a1c6a38a49532f823d31ca6c47c4e66bdd116c55f",
+      "width": 640,
+      "height": 249
+    }
+  ]
+}

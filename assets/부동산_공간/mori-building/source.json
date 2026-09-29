@@ -1,0 +1,93 @@
+{
+  "company": "Mori Building",
+  "category": "부동산_공간",
+  "requested_url": "https://www.mori.co.jp/",
+  "page_url": "https://www.mori.co.jp/",
+  "page_title": "森ビル｜都市を創り、都市を育む",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.mori.co.jp/_next/static/chunks/webpack-c1fe78f265b8a8db.js; reference:ValueError:https://www.googletagmanager.com/gtm.js?id=GTM-WRNBGJPC; reference:ValueError:https://morisawafonts.net/c/01KNRTH5WM3P26GKRG3E7X4ZWX/mf.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/mori-building/favicon.png",
+      "source_url": "https://www.mori.co.jp/apple-icon.png?6d497a8ff1a989ec",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 10388,
+      "sha256": "e078603493e8a57231b4ba92b7c193503d5d7ee7808cf912411bf6d71ed14491",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/mori-building/og.webp",
+      "source_url": "https://www.mori.co.jp/_mori_assets/images/assets/3f2dbd9a710d4daaaa8451a27e512959/5ef2280935ff4a0bbbfa11fa2d9ce089/ogp_common.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6688,
+      "sha256": "d75cb28ab9abc2c2bcf9f7f9efa88cc8a987578fcaa505ddee017b423a4a3053",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/mori-building/logo-1.svg",
+      "source_url": "https://www.mori.co.jp/img/common/corporate-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img MORI BUILDING figure a brand-logo btn-opacity div global-header-inner header global-header",
+      "content_type": "image/svg+xml",
+      "bytes": 5543,
+      "sha256": "79e32d6a911b667dc0e023ba9e74f51597d7de6ce346803e19005bfac3741b40",
+      "width": 70,
+      "height": 42
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/mori-building/logo-2.webp",
+      "source_url": "https://www.mori.co.jp/_mori_assets/images/assets/3f2dbd9a710d4daaaa8451a27e512959/335198b940aa4c94bb37f6ce9de66de5/topics_release_logo___fm_webp___width_600.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img figure a block-item round div block-list-inner topic div accordion-content",
+      "content_type": "image/webp",
+      "bytes": 3942,
+      "sha256": "f3d1f222695d4a456a41da83a979c6c48d58c15462cefb7dbea73b5881a76aeb",
+      "width": 600,
+      "height": 338
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/mori-building/banner-1.webp",
+      "source_url": "https://www.mori.co.jp/img/home/poster-story.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img figure a section-inner round hover-icon section section-home-our-story banner main page page-home page-fade-enter",
+      "content_type": "image/webp",
+      "bytes": 91194,
+      "sha256": "06413c5546d6d804dadc08920c785715fbb7094f3c45a7edacae65103a0ccc71",
+      "width": 1800,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/mori-building/banner-2.webp",
+      "source_url": "https://www.mori.co.jp/img/common/corporate-logo-fullname.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img MORI BUILDING div logo div home-intro main page page-home page-fade-enter div contentarea",
+      "content_type": "image/webp",
+      "bytes": 42162,
+      "sha256": "60ccb852bb6edea78ec33b904164cc575bbb41e90f4bb5a8c0a9a526c2e31644",
+      "width": 1600,
+      "height": 801
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/mori-building/reference-1.webp",
+      "source_url": "https://www.mori.co.jp/_mori_assets/images/assets/3f2dbd9a710d4daaaa8451a27e512959/2367081e4b0948589936f96af0ca8932/topics_release260928___fm_webp___width_600.webp",
+      "source_tag": "img:page-image",
+      "context": "img figure a block-item round div block-list-inner topic div accordion-content",
+      "content_type": "image/webp",
+      "bytes": 39648,
+      "sha256": "9562022fe02e495537b29eb5f65212d460e9b968b467ec1254eb8191bb607068",
+      "width": 600,
+      "height": 338
+    }
+  ]
+}

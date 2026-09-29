@@ -1,0 +1,70 @@
+{
+  "company": "Skittles",
+  "category": "식품_생활",
+  "requested_url": "https://www.skittles.com",
+  "page_url": "https://www.skittles.com/",
+  "page_title": "SKITTLES® Official Website | Candies & More",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/skittles/favicon.png",
+      "source_url": "https://www.skittles.com/sites/g/files/fnmzdf586/files/red-favicon.jpg",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 8827,
+      "sha256": "98f64c9a56ecf07d45f7d32f13b935a22b2cc0d27d9677d9e391811db9ffd511",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/skittles/logo-1.svg",
+      "source_url": "https://www.skittles.com/sites/g/files/fnmzdf586/files/skittleslogo-10-26-21.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 278904,
+      "sha256": "5ac3f8b84ea0b1ef06c6b8341767d9d5c5f54437752b0417ffc178fa49fa71e0",
+      "width": 212,
+      "height": 132
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/skittles/reference-1.webp",
+      "source_url": "https://www.skittles.com/sites/g/files/fnmzdf586/files/2025-08/SkittlesUS_Fuego_banners_Tablet_0.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture image a full-width-image-link div fullwidth-carousel-block__container div wrapper div fullwidth-carousel-block",
+      "content_type": "image/webp",
+      "bytes": 67854,
+      "sha256": "474bf606c1751b8a5793798e5b923ee8c9e707011f611a41fb71c6e927029e9d",
+      "width": 1239,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/skittles/reference-2.webp",
+      "source_url": "https://www.skittles.com/sites/g/files/fnmzdf586/files/2025-08/SkittlesUS_Fuego_banners_Mobile_0.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture image a full-width-image-link div fullwidth-carousel-block__container div wrapper div fullwidth-carousel-block",
+      "content_type": "image/webp",
+      "bytes": 89096,
+      "sha256": "758064d7af5674adffd5c17399ec45effef47a0b269f3b7d4aa96be55563a803",
+      "width": 850,
+      "height": 850
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/skittles/reference-3.webp",
+      "source_url": "https://www.juicer.io/api/media/35444516?s=093881471c00032239ec623dd11baf5cf9aad6eb",
+      "source_tag": "img:page-image",
+      "context": "img social-feed-slide__image lazyload Graphic design is their passion a social-feed-slide__link div swiper-slide social-feed-slide div swiper-wrapper div swiper-container social-feed-swiper-container",
+      "content_type": "image/webp",
+      "bytes": 95950,
+      "sha256": "a43d141ae5e237c7e30a826e7cc01fc5eaa280c7336080c3f1b535a344f6c1d1",
+      "width": 1080,
+      "height": 1350
+    }
+  ]
+}

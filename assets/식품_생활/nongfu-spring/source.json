@@ -1,0 +1,58 @@
+{
+  "company": "Nongfu Spring",
+  "category": "식품_생활",
+  "requested_url": "https://www.nongfuspring.com/",
+  "page_url": "https://www.nongfuspring.com/en/",
+  "page_title": "Nongfu Spring,nongfuspring,nongfushanquan",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/nongfu-spring/favicon.ico",
+      "source_url": "https://www.nongfuspring.com/assets/img/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 67646,
+      "sha256": "86c64dfd1efbab581c948db74b717f341901fb02ffe70b72ebcc1d70c2cafcfd",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/nongfu-spring/reference-1.webp",
+      "source_url": "https://www.nongfuspring.com/assets/img/pc/home/f1-1.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  col-lg-6 col-12 \n                  background-image: url('/assets/img/pc/home/f1-1.jpg');\n                  width: 100%;\n                  background-position-x: 100%;\n                  background-size: cover;\n                  backgro",
+      "content_type": "image/webp",
+      "bytes": 87446,
+      "sha256": "c45b2e59b2c45df18f96ed47e0b006fb10ae17b48b5dfe305c834d7a40c5bd3e",
+      "width": 1040,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/nongfu-spring/reference-2.webp",
+      "source_url": "https://www.nongfuspring.com/assets/img/pc/home/f4-1.png",
+      "source_tag": "img:page-image",
+      "context": "img div img-box div agriculture clearfix div div app",
+      "content_type": "image/webp",
+      "bytes": 232728,
+      "sha256": "cb766098b5caa1193919619ec160a7f9a1d35c90846c8e6634472963ec82e5a8",
+      "width": 1598,
+      "height": 562
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/nongfu-spring/reference-3.webp",
+      "source_url": "https://www.nongfuspring.com/assets/img/pc/home/f5-1.png",
+      "source_tag": "img:page-image",
+      "context": "img div col-lg-6 col-12 div row div img-box container-fluid div water-health",
+      "content_type": "image/webp",
+      "bytes": 131870,
+      "sha256": "a3b8e15c1a6e89e4e093cbcccd64e519f8f5a84db0c9b3f997b3b8a12fd52326",
+      "width": 960,
+      "height": 1000
+    }
+  ]
+}

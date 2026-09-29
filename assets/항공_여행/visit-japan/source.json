@@ -1,0 +1,81 @@
+{
+  "company": "Visit Japan (JNTO)",
+  "category": "항공_여행",
+  "requested_url": "https://www.japan.travel/ko/",
+  "page_url": "https://www.japan.travel/ko/kr/",
+  "page_title": "재팬 트래블 - 일본정부관광국(공식 사이트)",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.japan.travel/static/f/fonts/fa-regular-400.4a74738e7728.woff2; reference:ValueError:https://www.japan.travel/static/f/fonts/fa-solid-900.8e1ed89b6ccb.woff2; reference:ValueError:https://www.japan.travel/static/f/fonts/fa-brands-400.f075c50f8979.woff2; reference:ValueError:https://www.japan.travel/static/f/css/main-sakura.a087af0ddefd.css; reference:ValueError:https://www.japan.travel/static/f/css/style-extra.3795d6fa557b.css; reference:ValueError:https://www.japan.travel/static/f/css/jnto_ph6.c41c0c5943eb.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/visit-japan/favicon.png",
+      "source_url": "https://www.japan.travel/static/apple-touch-icon.e36bdd4feef9.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5188,
+      "sha256": "bd434607f7440e26442c2f59c475e3684129ab443ce9b909225c667436e7b2e9",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/visit-japan/og.webp",
+      "source_url": "https://res-3.cloudinary.com/jnto/image/upload/w_1000,h_667,c_fill,f_auto,fl_lossy,q_auto/v1/media/filer_public/0f/1e/0f1e1e24-a774-4af7-819d-3fdfa9b4de90/main_slide_0709_otfzst",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12318,
+      "sha256": "805f18446a7303c9fa62af76168185c31e04b707993e46b7bf638c151027cb25",
+      "width": 1000,
+      "height": 667
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/visit-japan/logo-1.svg",
+      "source_url": "https://asset.japan.travel/image/upload/v1581485582/static/svg/common/img_logo_japan-endless-discovery.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img mod-header__brand-img svg-fit JNTO a mod-header__brand-inner div mod-header__mobile-brand div mod-header__utility-container div mod-header__upper",
+      "content_type": "image/svg+xml",
+      "bytes": 7293,
+      "sha256": "4d5de5d183d966badae72ba94ea557b1e389522ed62d02710a992b6c3be8917c",
+      "width": 85,
+      "height": 42
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/visit-japan/logo-2.webp",
+      "source_url": "https://asset.japan.travel/image/upload/v1516745065/w_600,h_400,c_fill/lazyload-placeholder_muhsz3.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img lazyload MLIT_logo_English_white div mod-reference__image-inner div mod-reference__image a mod-reference__item-inner li mod-reference__item",
+      "content_type": "image/webp",
+      "bytes": 1482,
+      "sha256": "bcf011ef08e65883a18aa02fccf4ae00b7ef7865c4c1d9c6347610b5bbf5f55c",
+      "width": 600,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/visit-japan/banner-1.webp",
+      "source_url": "https://res.cloudinary.com/jnto/image/upload/c_fill,f_auto,fl_lossy,q_auto/v1/media/filer_public/b4/d6/b4d6641e-a73d-44cc-a247-da945490aaf2/banner_greenexpo2027_450-670_uih0s1",
+      "source_tag": "img:semantic-banner",
+      "context": "img lazyload GREEN×EXPO2027 div mod-ad-slider__image a mod-ad-slider__item-inner div mod-ad-slider__item div mod-ad-slider__item-wrapper",
+      "content_type": "image/webp",
+      "bytes": 11830,
+      "sha256": "9739fbed7d0916deea0172e6ab553c216fe59a20166a79271791b351a019d686",
+      "width": 670,
+      "height": 450
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/visit-japan/banner-2.webp",
+      "source_url": "https://res.cloudinary.com/jnto/image/upload/w_670,h_450,f_auto,c_fill,fl_lossy,q_auto/v1/media/filer_public/9d/43/9d43af7e-c75a-473f-9d60-c33149ea5da8/ban_ad_nationalpark-2_mhgahu_small-ad-banner_ximzly_sjvebz",
+      "source_tag": "img:semantic-banner",
+      "context": "img lazyload National Parks of Japan div mod-ad-slider__image a mod-ad-slider__item-inner div mod-ad-slider__item div mod-ad-slider__item-wrapper",
+      "content_type": "image/webp",
+      "bytes": 44210,
+      "sha256": "002c7bf6ad0ab8a3312ffa7cc3e6e74605d9339c2c79794649e74768da5e7938",
+      "width": 670,
+      "height": 450
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "company": "Macy's",
+  "category": "유통_커머스",
+  "requested_url": "https://www.macys.com",
+  "page_url": "https://www.macys.com/",
+  "page_title": "Access Denied - Macy's",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.macys.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/macys/favicon.ico",
+      "source_url": "https://www.macys.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "995c5c9ca15754ede140b80c92939f2e196e489703ef9770277ad1d96b281468",
+      "width": 32,
+      "height": 32
+    }
+  ]
+}

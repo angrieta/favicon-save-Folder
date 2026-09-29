@@ -1,0 +1,117 @@
+{
+  "company": "WWF",
+  "category": "문화_공공",
+  "requested_url": "https://www.wwfkorea.or.kr",
+  "page_url": "https://www.wwfkorea.or.kr/main",
+  "page_title": "세계자연기금 홈페이지, WWF Korea",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/wwf/favicon.ico",
+      "source_url": "https://www.wwfkorea.or.kr/user/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 110792,
+      "sha256": "383096951d1510e66c1eb12cd8913ed98027186dfeaa72896388fcf80de86d19",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/wwf/og.webp",
+      "source_url": "https://www.wwfkorea.or.kr/user/meta_logo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3826,
+      "sha256": "40cca298272bafcc3af20ea41eba5c3c302a43932606f4ee2109e38e39b5bd6d",
+      "width": 252,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/wwf/logo-1.webp",
+      "source_url": "https://www.wwfkorea.or.kr/img/newbird/main/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo_img_l WWF a h1 logo div header_left div inner_1480",
+      "content_type": "image/webp",
+      "bytes": 9356,
+      "sha256": "fa2c97b5905be501094d554d2774ee748b02d07c2c69adf212369589104cbd65",
+      "width": 440,
+      "height": 496
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/wwf/logo-2.png",
+      "source_url": "https://www.wwfkorea.or.kr/img/newbird/main/logo_s.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo_img_s WWF a h1 logo div header_left div inner_1480",
+      "content_type": "image/png",
+      "bytes": 16358,
+      "sha256": "be42cb97a9d420fee695671e2023ccfa0c27ddf34b8e758e280163f04af7b01f",
+      "width": 288,
+      "height": 325
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/wwf/banner-1.webp",
+      "source_url": "https://www.wwfkorea.or.kr/user/banner/92.jpg?dummy=1790708196",
+      "source_tag": "img:semantic-banner",
+      "context": "img main_banner_img main_banner_img_pc div swiper-slide slide1 mo-image div swiper-wrapper div swiper div main_banner_slide",
+      "content_type": "image/webp",
+      "bytes": 203430,
+      "sha256": "5df837175e22ce6ea7fcbc432887234ca2ca5ee5ff6d3c7623421fe57dfd271c",
+      "width": 1800,
+      "height": 806
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/wwf/banner-2.webp",
+      "source_url": "https://www.wwfkorea.or.kr/user/banner/94.jpg?dummy=1790708196",
+      "source_tag": "img:semantic-banner",
+      "context": "img main_banner_img main_banner_img_pc div swiper-slide slide2 mo-image div swiper-wrapper div swiper div main_banner_slide",
+      "content_type": "image/webp",
+      "bytes": 162724,
+      "sha256": "f647734c9a0c93d328bda4199c29d43744540f403f623974400cd4e9baf10ad7",
+      "width": 1800,
+      "height": 756
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wwf/reference-1.webp",
+      "source_url": "https://www.wwfkorea.or.kr/user/banner/92_m.jpg?dummy=1790708196",
+      "source_tag": "img:page-image",
+      "context": "img main_banner_img main_banner_img_mob div swiper-slide slide1 mo-image div swiper-wrapper div swiper div main_banner_slide",
+      "content_type": "image/webp",
+      "bytes": 119542,
+      "sha256": "3f04bc0cd24e7fc28d7a2a9dc7c950a44e93d77843a92d895599444bdc11a0dd",
+      "width": 781,
+      "height": 1258
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wwf/reference-2.svg",
+      "source_url": "https://www.wwfkorea.or.kr/user/banner/94_m.png?dummy=1790708196",
+      "source_tag": "img:page-image",
+      "context": "img main_banner_img main_banner_img_mob div swiper-slide slide2 mo-image div swiper-wrapper div swiper div main_banner_slide",
+      "content_type": "image/svg+xml",
+      "bytes": 2130774,
+      "sha256": "0b40374f5bb05b15710d949db7eab4978b6af009e3abdb7ce657015af1c9f32e",
+      "width": 716,
+      "height": 716
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wwf/reference-3.webp",
+      "source_url": "https://www.wwfkorea.or.kr/user/banner/88.jpg?dummy=1790708196",
+      "source_tag": "img:page-image",
+      "context": "img main_banner_img main_banner_img_pc div swiper-slide slide3 mo-image div swiper-wrapper div swiper div main_banner_slide",
+      "content_type": "image/webp",
+      "bytes": 186724,
+      "sha256": "d95d79668ed8166d2598cc4df2486c0667f481031d126afd03abdda9678681f2",
+      "width": 1800,
+      "height": 806
+    }
+  ]
+}

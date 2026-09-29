@@ -1,0 +1,57 @@
+{
+  "company": "멕시카나치킨",
+  "category": "식품_생활",
+  "requested_url": "https://www.mexicana.co.kr",
+  "page_url": "https://www.mexicana.co.kr/intro.asp",
+  "page_title": "멕시카나치킨",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/mexicana-chicken/favicon.png",
+      "source_url": "https://www.mexicana.co.kr/images/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2900,
+      "sha256": "8275a96eb3d8b894092008d2ec96c6bbe52ead22d297e53b5ea69a6fe36ed91a",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/mexicana-chicken/og.webp",
+      "source_url": "https://mexicana.co.kr/images/mexicana_new2025.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8550,
+      "sha256": "cc2ca470dfad8fab0ad7d1e02aee319182d5703cd32b067f987192abe71c58c3",
+      "width": 640,
+      "height": 336
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/mexicana-chicken/logo-1.png",
+      "source_url": "https://www.mexicana.co.kr/images/intro02/logo_intro.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img p logo div intro-in div intro-left div intro-2025",
+      "content_type": "image/png",
+      "bytes": 7773,
+      "sha256": "a44dcc4deb66733d6b3541760f14330fe6c30825116106ef8ca652310a1735ff",
+      "width": 260,
+      "height": 70
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/mexicana-chicken/logo-2.png",
+      "source_url": "https://www.mexicana.co.kr/images/intro02/logo_intro_over.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img ov p logo div intro-in div intro-left div intro-2025",
+      "content_type": "image/png",
+      "bytes": 7126,
+      "sha256": "6c758a486c15a26f07d172baa88f98c004de9962d2d416b9d23d69ae029e5528",
+      "width": 260,
+      "height": 70
+    }
+  ]
+}

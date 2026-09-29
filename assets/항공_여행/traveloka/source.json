@@ -1,0 +1,81 @@
+{
+  "company": "Traveloka",
+  "category": "항공_여행",
+  "requested_url": "https://www.traveloka.com/ko-kr",
+  "page_url": "https://www.traveloka.com/ko-kr",
+  "page_title": "Traveloka - 전 세계 인기 호텔, 항공권, 액티비티 예약의 모든 것",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.traveloka.com/w-20",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/traveloka/favicon.ico",
+      "source_url": "https://www.traveloka.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "ccfcc56409ccc0e0c9436001c518fd2e5c8886a0a1f293e8c8e5a999e9690fa7",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/traveloka/og.webp",
+      "source_url": "https://img.cnt.traveloka.com/tvlk/image/imageResource/2024/08/09/1723192761223-35bd6fefad235fbb690b6d79b050343f.png?tr=q-75",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10648,
+      "sha256": "b6842bb59cb8c5decfa254e1265b5d52ee9140b567f76075cd69b2cd51980638",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/traveloka/logo-1.png",
+      "source_url": "https://img.cnt.traveloka.com/tvlk/image/imageResource/2024/09/05/1725509467404-6ea68ceae632393ca21d805bc69cc21a.webp?tr=q-75",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 9690,
+      "sha256": "a88d60885b3ddaea21a1fd4316f4391219b68b6c6c5ce3b084cd9a2ff61aa8ab",
+      "width": 115,
+      "height": 114
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/traveloka/reference-1.svg",
+      "source_url": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v4.6.0/b/bd44e360d141555addb500105be495d2.svg",
+      "source_tag": "img:page-image",
+      "context": "img a css-4rbku5 div css-1dbjc4n r-1awozwy r-18u37iz div css-1dbjc4n r-18u37iz r-1wtj0ep r-xd6kpl r-1e081e0 r-95jzfe r-17yavnb r-184en5c div css-1dbjc4n r-1awozwy r-1777fci r-adacv r-82yag r-u8s1d r-fgfhv r-13qz1uu r-184en5c",
+      "content_type": "image/svg+xml",
+      "bytes": 9053,
+      "sha256": "563590225d3ae8bdb2980e1a128cf4f48aae24aa6f88fae1af7152b2371c6dba",
+      "width": 816,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/traveloka/reference-2.webp",
+      "source_url": "https://img.cnt.traveloka.com/tvlk/image/imageResource/2024/09/05/1725509462765-4dbeb1691f615a6f074d861ee8c3e2fa.png?tr=q-75",
+      "source_tag": "json-ld.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 9410,
+      "sha256": "2544b2477b8720d2aea77c085c806d75ddb5c3ca86af8d31dbb7c410d55ddf33",
+      "width": 1200,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/traveloka/reference-3.webp",
+      "source_url": "https://img.cnt.traveloka.com/tvlk/image/imageResource/2026/01/19/1768789639164-ebb26f746e1a6d1ce8758a4d277c08a5.jpeg?tr=q-75",
+      "source_tag": "img:page-image",
+      "context": "img r-13t5eql r-417010 div css-1dbjc4n r-82yag r-1udh08x r-u8s1d r-13qz1uu div css-1dbjc4n r-6koalj r-1wtj0ep r-bnwqim r-13qz1uu r-tqpus0 div css-1dbjc4n r-13awgt0 div __next",
+      "content_type": "image/webp",
+      "bytes": 67102,
+      "sha256": "6dee5fc642db39232b603dec28be861f0dec1a4cc6b712dc24e367595eaefc53",
+      "width": 1800,
+      "height": 630
+    }
+  ]
+}

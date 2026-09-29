@@ -1,0 +1,81 @@
+{
+  "company": "Los Angeles Dodgers",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.mlb.com/dodgers",
+  "page_url": "https://www.mlb.com/dodgers",
+  "page_title": "Official Los Angeles Dodgers Website | MLB.com",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.mlbstatic.com/mlb.com/fonts/proxima-nova-bold.woff2; reference:ValueError:https://www.mlbstatic.com/mlb.com/fonts/proxima-nova-regular.woff2; reference:ValueError:https://builds.mlbstatic.com/mlb.com/web-apps/x-homepage/_next/static/css/09704fe17f3f966d.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/la-dodgers/favicon.png",
+      "source_url": "https://www.mlbstatic.com/team-logos/apple-touch-icons-180x180/119.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6725,
+      "sha256": "ba1d263d373ffdead4f09702c914747fe80f3634d1cf057efec7a7ba8c9e46b8",
+      "width": 137,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/la-dodgers/og.webp",
+      "source_url": "https://www.mlbstatic.com/team-logos/share/119.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 16232,
+      "sha256": "fa2c92d01c924dfd130094bb9e9252da7b55c9dec9022d7ac96cdd89ab622cab",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/la-dodgers/logo-1.svg",
+      "source_url": "https://images.ctfassets.net/iiozhi00a8lc/t119_header_primary119_wordmark_on_dark_svg/0d7c22af3db6cb3984368595627001e3/t119_header_primary.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Los Angeles Dodgers a logo__link div styles__StyledLogo-sc-937b1c87-0 dPlnQo header__nav-top__logo header__nav-top__logo--119 div styles__StyledNavTop-sc-bc8741c3-0 fXxnPx header__nav-top Top Navigation div styles__StyledHeaderInner-sc-",
+      "content_type": "image/svg+xml",
+      "bytes": 3991,
+      "sha256": "29e835477f79687afed3e0cd9d180dcaa9890bfd7e016b96385586899c8532cf",
+      "width": 249,
+      "height": 135
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/la-dodgers/logo-2.svg",
+      "source_url": "https://images.ctfassets.net/iiozhi00a8lc/t119_url_logododgers_url_svg/f4f58222ecd9e8c1fdcbe9a1188effb8/t119_url_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Los Angeles Dodgers URL logo a logo__link div styles__StyledLogo-sc-937b1c87-0 dPlnQo header__nav-top__url-logo header__nav-top__url-logo--no-sponsor header__nav-top__url-logo--with-tagline div header__nav-top__sponsor-url-logos header_",
+      "content_type": "image/svg+xml",
+      "bytes": 6770,
+      "sha256": "46475981512612b3705872bb9c1b0fd477d048b6c7b3d0617c869daf195a3115",
+      "width": 449,
+      "height": 90
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/la-dodgers/banner-1.webp",
+      "source_url": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w2208/mlb/aqqdifb4mjiwpyjf1v64.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img styles__StyledImage-sc-1ofrg81-0 ieHeZQ pattern-image a Typographystyles__Typography-sc-6uzo1m-0 cWufhK styles__Link-sc-1nkxvdz-0 dRDsLU Traded twice last year, Dodgers prospect turns in historic Minors campaign div styles__Media-sc-1nk",
+      "content_type": "image/webp",
+      "bytes": 188500,
+      "sha256": "e5ac9d8066c89d8bb0a91348bf92a9f4c3474802642f85574af5b2440d283aa7",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/la-dodgers/reference-1.svg",
+      "source_url": "https://www.mlbstatic.com/team-logos/114.svg",
+      "source_tag": "img:page-image",
+      "context": "img header__subnav--teams__team--logo Cleveland Guardians Team Logo a styles__StyledSubNavItem-sc-6aa8911c-0 hlPINb header__subnav__item header__subnav--teams__team li styles__StyledSubNavTeam-sc-aa8233a3-0 bPnrzL ul header__subnav--teams__",
+      "content_type": "image/svg+xml",
+      "bytes": 1383,
+      "sha256": "5fada1700c1622777d64d1971e028ea7aca7729a11537736d4e88c6acada763e",
+      "width": 488,
+      "height": 750
+    }
+  ]
+}

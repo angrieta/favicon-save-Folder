@@ -1,0 +1,57 @@
+{
+  "company": "아모스프로페셔널",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.amosprofessional.com",
+  "page_url": "https://www.amosprofessional.com/",
+  "page_title": "아모스프로페셔널",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.amosprofessional.com/{{chartColor3}}; reference:HTTPError:https://www.amosprofessional.com/{{chartColor4}}; reference:HTTPError:https://www.amosprofessional.com/{{chartColor5}}; reference:HTTPError:https://www.amosprofessional.com/{{beBannerImgPC}}; reference:HTTPError:https://www.amosprofessional.com/{{chartBannerImgPc}}; reference:HTTPError:https://www.amosprofessional.com/{{chartBannerIframePC}}",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/amos-professional/favicon.ico",
+      "source_url": "https://www.amosprofessional.com/web/upload/favicon-374a854dc7e06c4fba34d2e8c67484aa.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 6782,
+      "sha256": "e9395e1e556cd7eaae7105acf65c05c1cdae19d5b0a13561a7206db786942fb8",
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/amos-professional/og.webp",
+      "source_url": "https://www.amosprofessional.com/web/upload/share-image-1-cb84a6ce6519229f5bfd2378023b88bf.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13588,
+      "sha256": "1362f0c685d22d9884440f45d229a619c7cf42c317d2c7970884b6cd96a029c0",
+      "width": 1200,
+      "height": 626
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/amos-professional/logo-1.svg",
+      "source_url": "https://www.amosprofessional.com/img/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo a div logo_area div header_all div header",
+      "content_type": "image/svg+xml",
+      "bytes": 5352,
+      "sha256": "806637ffd3a77987257bc54922d888dcecc64c20685562783452ae2f098d52ba",
+      "width": 112,
+      "height": 40
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/amos-professional/logo-2.svg",
+      "source_url": "https://www.amosprofessional.com/img/logo_black.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div logo_area div xans-element- xans-layout xans-layout-footer layout_wide div footer_cont",
+      "content_type": "image/svg+xml",
+      "bytes": 5518,
+      "sha256": "df37efacd928024b04c1c8e2d6fddf99e5d75715fe6b345e1b8d0c9478576ffe",
+      "width": 112,
+      "height": 40
+    }
+  ]
+}

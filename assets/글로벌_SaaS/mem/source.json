@@ -1,0 +1,33 @@
+{
+  "company": "Mem",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://mem.ai",
+  "page_url": "https://mem.ai/",
+  "page_title": "Mem",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://mem.ai/vendor.ChTcvghf.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/mem/favicon.png",
+      "source_url": "https://mem.ai/favicons/android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5458,
+      "sha256": "ad623d889208ea59d29c11a294d54e685e6ec95e5c4d76c3ef1b1559a8d69930",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/mem/og.webp",
+      "source_url": "https://mem.ai/assets/seo/mem-open-graph-card.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6096,
+      "sha256": "9024d2c676c0fc2231fac7a55a8fd6df72e833c9e535c32c4331b2e73c33d6fb",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

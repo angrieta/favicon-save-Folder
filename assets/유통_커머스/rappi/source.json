@@ -1,0 +1,81 @@
+{
+  "company": "Rappi",
+  "category": "유통_커머스",
+  "requested_url": "https://www.rappi.com",
+  "page_url": "https://www.rappi.com.mx/",
+  "page_title": "Pide Comida a Domicilio y el Súper en línea - Rappi México",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.rappi.com.mx/mf-header/static/js/main.00528b77.js; reference:ValueError:https://www.rappi.com.mx/static-home/_next/static/css/373b23bf69bec1f5.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/rappi/favicon.png",
+      "source_url": "https://www.rappi.com.mx/pwa-icons/192x192.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8055,
+      "sha256": "e7b83fd4a643d81b2421e67d2d191b37ae9f236296bb333c70c2e2cf6fee02ab",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/rappi/og.webp",
+      "source_url": "https://images.rappi.com/cms-web/images/t_c0ef6c6df0.png?d=1023x538",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 51372,
+      "sha256": "ab1279a0e96852f89cf41dd84bfbabeac3a8dc3a63c022e417ef97b0576ee24e",
+      "width": 1024,
+      "height": 538
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/rappi/logo-1.png",
+      "source_url": "https://images.rappi.com.mx/restaurants_logo/home1-1673726754542.png?e=webp&d=100x100&q=80",
+      "source_tag": "img:semantic-logo",
+      "context": "img sc-42fa5ac5-0 jgBsGS Little Caesars noscript span div sc-97007af6-0 cJrboX div css-oe9mjy",
+      "content_type": "image/png",
+      "bytes": 10221,
+      "sha256": "d34363025a2be3338c87c78e0e84e51fff91e0905fbb296312b52dfdd5f2ed0f",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/rappi/logo-2.png",
+      "source_url": "https://images.rappi.com.mx/restaurants_logo/carlsjr-logo-1613083695901.png?e=webp&d=100x100&q=80",
+      "source_tag": "img:semantic-logo",
+      "context": "img sc-42fa5ac5-0 jgBsGS Carl's Jr. noscript span div sc-97007af6-0 cJrboX div css-oe9mjy",
+      "content_type": "image/png",
+      "bytes": 16325,
+      "sha256": "68b4d0815571ea4771bdf483e87922f4d4999986c80b7cacf8f0af8737c47929",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/rappi/banner-1.webp",
+      "source_url": "https://www.rappi.com.mx/assets/bg_mx_banner_mobile.webp",
+      "source_tag": "link:preload",
+      "context": "preload image  /assets/bg_mx_banner_mobile.webp",
+      "content_type": "image/webp",
+      "bytes": 14038,
+      "sha256": "3e471cec8d1c98f452aa0ab0dee63475d91586b33864826c9ad2becc73e61f9d",
+      "width": 864,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/rappi/reference-1.webp",
+      "source_url": "https://images.rappi.com/cms-web/images/rappi-rest_0e19b56e8f.png?e=webp&d=400x200&q=80",
+      "source_tag": "img:page-image",
+      "context": "img sc-42fa5ac5-0 jgBsGS Registra tu restaurante noscript span div div sc-ae7fe566-1 dPthKz",
+      "content_type": "image/webp",
+      "bytes": 15672,
+      "sha256": "09d83bab284c0732eff0958921751b692c2c9dc98315172daf076c8f9dfbd949",
+      "width": 512,
+      "height": 287
+    }
+  ]
+}

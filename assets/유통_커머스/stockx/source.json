@@ -1,0 +1,22 @@
+{
+  "company": "StockX",
+  "category": "유통_커머스",
+  "requested_url": "https://stockx.com",
+  "page_url": "https://stockx.com/",
+  "page_title": "Error",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://stockx.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/stockx/favicon.ico",
+      "source_url": "https://stockx.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "006bfdbcbacf584ef99d19a7b87bd8c9b03cd0763b3041d2faa5f216161db6e6",
+      "width": 48,
+      "height": 48
+    }
+  ]
+}

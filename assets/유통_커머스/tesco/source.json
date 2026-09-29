@@ -1,0 +1,22 @@
+{
+  "company": "Tesco",
+  "category": "유통_커머스",
+  "requested_url": "https://www.tesco.com",
+  "page_url": "https://www.tesco.com/",
+  "page_title": "Access Denied",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.tesco.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/tesco/favicon.ico",
+      "source_url": "https://www.tesco.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "4b82bfc2926a4288aa9a597d0a9d35c683c5f4d67ae9d0e59c22166a1160bf3e",
+      "width": 16,
+      "height": 16
+    }
+  ]
+}

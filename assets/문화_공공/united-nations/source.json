@@ -1,0 +1,45 @@
+{
+  "company": "United Nations",
+  "category": "문화_공공",
+  "requested_url": "https://www.un.org",
+  "page_url": "https://www.un.org/",
+  "page_title": "Welcome to the United Nations",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.un.org/images/splash/UNFLAG.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/united-nations/favicon.ico",
+      "source_url": "https://www.un.org/sites/un2.un.org/themes/bootstrap_un2/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 318,
+      "sha256": "14320748a60e889745ba92608892a44f86063bfad85838a5a4c022a718cd943c",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/united-nations/og.webp",
+      "source_url": "https://www.un.org/images/splash/Flag.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21292,
+      "sha256": "a74bbf8dc6e3f7009710a4281fff6e8c6bc303f5cd7260e150299d0f07013979",
+      "width": 1200,
+      "height": 799
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/united-nations/logo-1.png",
+      "source_url": "https://www.un.org/en/img/splash/un-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img img-responsive un-logo animated10 fadeIn UN Logo div desc-header div col-sm-12 div row div imageDescription-mobile",
+      "content_type": "image/png",
+      "bytes": 7119,
+      "sha256": "53fb59e3a37a1908b147d02252574d5af74928c87c0220e51edf4d357870cf3c",
+      "width": 102,
+      "height": 86
+    }
+  ]
+}

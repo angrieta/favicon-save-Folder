@@ -1,0 +1,69 @@
+{
+  "company": "Ritter Sport",
+  "category": "식품_생활",
+  "requested_url": "https://www.ritter-sport.com",
+  "page_url": "https://www.ritter-sport.com/",
+  "page_title": "Ritter Sport Chocolate | Official Website",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://vid.cdn-website.com/6cb74a62/videos/jhmG6wiAQM6PLq663rUT_Nuts-New-Mobile-v.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/ritter-sport/favicon.ico",
+      "source_url": "https://irp.cdn-website.com/6cb74a62/site_favicon_16_1770122563548.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 9662,
+      "sha256": "07a4551ba07d5236e9771010944c8890569f2be1d9f89b09244f610bddb38f9a",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/ritter-sport/og.webp",
+      "source_url": "https://irp.cdn-website.com/6cb74a62/dms3rep/multi/opt/ritter-sport-open-graph-edg-194ccba1-1920w.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 18590,
+      "sha256": "d86667c9c322ae70f5595cc061fa5f6f3b78a916a73429f09c0db033ad1bb87b",
+      "width": 630,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ritter-sport/reference-1.webp",
+      "source_url": "https://irp.cdn-website.com/6cb74a62/dms3rep/multi/jhmG6wiAQM6PLq663rUT_Nuts-New-Mobile.v2.0000000.jpg",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 196722,
+      "sha256": "bd1d937c9c4e474ccf8b103db01ce603a53f82ff51ea376e518559385c559769",
+      "width": 759,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ritter-sport/reference-2.webp",
+      "source_url": "https://irp.cdn-website.com/6cb74a62/dms3rep/multi/opt/75g_KK_81Prozent_7520X_EF_proxy_transparency-7b0c2b8e-453w.webp",
+      "source_tag": "img:page-image",
+      "context": "img 1002482549 Ritter Sport 81% fine extra dark chocolate bar in purple wrapper with red NEW label a 1927232952 div 330039032 imageWidget align-center u_330039032 div widget_3uf flex-element widget-wrapper div group_b16 flex-element group",
+      "content_type": "image/webp",
+      "bytes": 22520,
+      "sha256": "0e5c8c89730979e094ea122f497b9beede531b2b8640751e67ae83426562c957",
+      "width": 450,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/ritter-sport/reference-3.webp",
+      "source_url": "https://irp.cdn-website.com/6cb74a62/dms3rep/multi/opt/75g_KK_74Prozent_7510X_EF_proxy_transparency-7d157d83-482w.webp",
+      "source_tag": "img:page-image",
+      "context": "img 1643492858 Ritter Sport 74% fine extra dark chocolate bar in dark green wrapper with “NEW” label a 1987501132 div 1062805502 imageWidget align-center u_1062805502 div 9c3480bc flex-element widget-wrapper div group_b16 flex-element group",
+      "content_type": "image/webp",
+      "bytes": 24884,
+      "sha256": "2a648bf09ecacbacf90117ffa0fce185d154495793d4a1d2435e83bf3e60da82",
+      "width": 480,
+      "height": 480
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "company": "Juventus",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.juventus.com",
+  "page_url": "https://www.juventus.com/it",
+  "page_title": "Juventus Football Club - Sito Ufficiale | Juventus.com",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.juventus.com/images/video/upload/t_video_mp4/juventuscom-prd/video/MARKETING_STORY_DEF_16_9_SUB_ENG_SITO_vzojjc.mp4; banner:ValueError:https://www.juventus.com/images/video/upload/t_video_webm/juventuscom-prd/video/MARKETING_STORY_DEF_16_9_SUB_ENG_SITO_vzojjc.webm; reference:ValueError:https://www.juventus.com/images/video/upload/t_video_mp4/juventuscom-prd/video/MARKETING_STORY_DEF_16_9_SUB_ENG_SITO_vzojjc.mp4; reference:ValueError:https://www.juventus.com/images/video/upload/t_video_webm/juventuscom-prd/video/MARKETING_STORY_DEF_16_9_SUB_ENG_SITO_vzojjc.webm; reference:HTTPError:https://www.juventus.com/R0lGODlhAQABAIAAAP/wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/juventus/favicon.png",
+      "source_url": "https://www.juventus.com/images/image/upload/f_auto/dev/assets/icons/128x128",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6560,
+      "sha256": "bb0e8c05126bfdf5890fc3d0440712189a3a3e6495214124169c786cddc8f41b",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/juventus/og.webp",
+      "source_url": "https://www.juventus.com/images/image/upload/f_auto/dev/assets/opengraph",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2976,
+      "sha256": "adc71851741fcc861b228a4950018ead39c322e2c59871ec466ef9dd64313708",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/juventus/logo-1.png",
+      "source_url": "https://www.juventus.com/images/image/upload/f_auto/dev/assets/logo/juventus_logo",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 51199,
+      "sha256": "28876c0dcccff299812d4e90bd4af85747afb7d0f0ccdd4ec3278e9486958e87",
+      "width": 1008,
+      "height": 1600
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/juventus/logo-2.png",
+      "source_url": "https://www.juventus.com/images/image/upload/juventuscom-prd/sponsors/EAS_PRIMARY_LOGO_WHT_SVG-3",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture lazy div jcom-o-sponsors-nav__img-container a jcom-o-sponsors-nav__link EASports li d3-o-nav__item ul d3-o-list jcom-o-sponsors-nav__child jcom-o-sponsors-nav__main-sponsor",
+      "content_type": "image/png",
+      "bytes": 96874,
+      "sha256": "4f1500d5470f618ba64a1173ab40ccb49571fd40c71e5d38e0ba7994564e314a",
+      "width": 1600,
+      "height": 829
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/juventus/banner-1.webp",
+      "source_url": "https://www.juventus.com/images/image/private/t_header_wide_desktop_max_3x/f_auto/dev/jo4ebugcljrzdn3wuare.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture d3-o-media-object__picture div jcom-c-promo-everyone__img jcom-c-promo-everyone__img--large no-mobile div jcom-c-promo-everyone d3-l-section-row main main-content div d3-l-wrap",
+      "content_type": "image/webp",
+      "bytes": 50328,
+      "sha256": "5c7cbdcbc315695bf6d01c7ef561b6b56732cb52f407363cd3c8ec1afdf2fe07",
+      "width": 1800,
+      "height": 741
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/juventus/banner-2.webp",
+      "source_url": "https://www.juventus.com/images/image/private/t_showcase_landscape_desktop_3x/f_auto/dev/tmdggvqycxg477ffrgdz.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture d3-o-media-object__picture div jcom-c-section-showcase__promo div id_927aa0bc-79e2-4ebb-81aa-b7c406085c83 jcom-c-section-showcase d3-l-section-row main main-content div d3-l-wrap",
+      "content_type": "image/webp",
+      "bytes": 59206,
+      "sha256": "ee0b74f55791a329e177a1e98fed44fdb099c5c5578ac1bef8c9376fa4ca52d8",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/juventus/reference-1.webp",
+      "source_url": "https://www.juventus.com/images/image/private/t_showcase_card_medium_3x/f_auto/v1790701866/dev/czxgurj99tc0cvbjmvzi.jpg",
+      "source_tag": "source:page-image",
+      "context": "source picture d3-o-media-object__picture lazy div jcom-c-showcase-image-container div jcom-c-showcase__item a UWCL | BK Häcken-Juventus Women | Le parole di Bartel e Guerrero alla vigilia",
+      "content_type": "image/webp",
+      "bytes": 157996,
+      "sha256": "04df9a04468393d23a16d02ff11fb4ca553aacedb5596c1213b2a64b0bdd743e",
+      "width": 1750,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/juventus/reference-2.webp",
+      "source_url": "https://www.juventus.com/images/image/private/t_showcase_card_medium_2x/f_auto/v1790701866/dev/czxgurj99tc0cvbjmvzi.jpg",
+      "source_tag": "source:page-image",
+      "context": "source picture d3-o-media-object__picture lazy div jcom-c-showcase-image-container div jcom-c-showcase__item a UWCL | BK Häcken-Juventus Women | Le parole di Bartel e Guerrero alla vigilia",
+      "content_type": "image/webp",
+      "bytes": 103844,
+      "sha256": "248cd28da57cd599d0f1500ce5006d08014ee6164a43daff27b04e06bef572f3",
+      "width": 1296,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/juventus/reference-3.webp",
+      "source_url": "https://www.juventus.com/images/image/private/t_showcase_card_small_3x/f_auto/v1790701866/dev/czxgurj99tc0cvbjmvzi.jpg",
+      "source_tag": "source:page-image",
+      "context": "source picture d3-o-media-object__picture lazy div jcom-c-showcase-image-container div jcom-c-showcase__item a UWCL | BK Häcken-Juventus Women | Le parole di Bartel e Guerrero alla vigilia",
+      "content_type": "image/webp",
+      "bytes": 70946,
+      "sha256": "43c3cc6b8dd1e60455853980af26fecc69308a98cc2e0121a028f464fc87ede5",
+      "width": 853,
+      "height": 1350
+    }
+  ]
+}

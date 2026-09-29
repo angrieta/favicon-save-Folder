@@ -1,0 +1,81 @@
+{
+  "company": "Grey Goose",
+  "category": "식품_생활",
+  "requested_url": "https://www.greygoose.com",
+  "page_url": "https://www.greygoose.com/",
+  "page_title": "Luxury French Vodka | Single Distilled Vodka® | GREY GOOSE",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/grey-goose/favicon.png",
+      "source_url": "https://www.greygoose.com/images/greygoose/favicons/favicon-228.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 8861,
+      "sha256": "f930258edad67d48539435642af9a1917962993158b74aa44acdcc7ef94f8106",
+      "width": 228,
+      "height": 228
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/grey-goose/og.webp",
+      "source_url": "https://www.greygoose.com/binaries/content/gallery/greygoose/seo/shareimages-home.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 33410,
+      "sha256": "7185b8d5b95145635e8e85ce62c55accb5a9ef89d975004d60be48f1bbb8c804",
+      "width": 600,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/grey-goose/logo-1.webp",
+      "source_url": "https://www.greygoose.com/images/greygoose/icons/schema-logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 14132,
+      "sha256": "a0f1676b78691e97f2e4220ab57918a0f451a0703a383ab36a4a1e89a6ce69f5",
+      "width": 600,
+      "height": 483
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/grey-goose/reference-1.webp",
+      "source_url": "https://www.greygoose.com/binaries/content/gallery/greygoose/products/grey-goose-vodka/product-card-750ml.jpg",
+      "source_tag": "img:page-image",
+      "context": "img GREY GOOSE® Vodka a product-image-link div image div product-card card div slider",
+      "content_type": "image/webp",
+      "bytes": 11310,
+      "sha256": "1e1e60e57a879781feb2cd148daf622a458ad744e328944ffb31aebf9a3f5e2a",
+      "width": 700,
+      "height": 780
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/grey-goose/reference-2.webp",
+      "source_url": "https://www.greygoose.com/binaries/content/gallery/greygoose/products/grey-goose-altius/product-card.jpg",
+      "source_tag": "img:page-image",
+      "context": "img GREY GOOSE® Altius a product-image-link div image div product-card card div slider",
+      "content_type": "image/webp",
+      "bytes": 10744,
+      "sha256": "f2b7c73f91a411a0cda036a531606c6fa0c9e7ae2cf45dd265a7fd0f06295975",
+      "width": 700,
+      "height": 780
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/grey-goose/reference-3.webp",
+      "source_url": "https://www.greygoose.com/binaries/content/gallery/greygoose/products/martini-cocktail-bottle/product-card.jpg%5B2%5D",
+      "source_tag": "img:page-image",
+      "context": "img GREY GOOSE® Classic Martini Cocktail a product-image-link div image div product-card card div slider",
+      "content_type": "image/webp",
+      "bytes": 11920,
+      "sha256": "e8540b2882f01a7b1c6107c2f950255537ff8a23cc1e77b99b397b13b33344ef",
+      "width": 700,
+      "height": 780
+    }
+  ]
+}

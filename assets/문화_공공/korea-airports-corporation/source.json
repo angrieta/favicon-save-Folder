@@ -1,0 +1,93 @@
+{
+  "company": "한국공항공사",
+  "category": "문화_공공",
+  "requested_url": "https://www.airport.co.kr",
+  "page_url": "https://www.airport.co.kr/www/index.do",
+  "page_title": "KAC한국공항공사(국문) 메인",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/korea-airports-corporation/favicon.ico",
+      "source_url": "https://www.airport.co.kr/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "f72660d72da3a553b92b33f5cb138fc95ab9c0e0c007deae3c8663a65c6d26ee",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/korea-airports-corporation/og.webp",
+      "source_url": "https://www.airport.co.kr/type/common/img/og/kac_ogimg.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11564,
+      "sha256": "0e849942af6cbb5efcc71ffde3e6c1254a8dd9c5dff49eb6a959d878eb188266",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/korea-airports-corporation/logo-1.png",
+      "source_url": "https://www.airport.co.kr/ajaxa/fileCpnt/fileView.do?gbn=x01&SITE_GROUP_NO=2&SITE_NO=2",
+      "source_tag": "img:semantic-logo",
+      "context": "img KAC 한국공항공사 - KOREA AIRPORTS CORPORATION a h1 logo header div header",
+      "content_type": "image/png",
+      "bytes": 4491,
+      "sha256": "dee7bf8314dfc11100b265d9489d45ab5ab98c40cfae0861be7d3639120f60e2",
+      "width": 252,
+      "height": 34
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/korea-airports-corporation/logo-2.png",
+      "source_url": "https://www.airport.co.kr/ajaxa/fileCpnt/fileView.do?gbn=x02&SITE_GROUP_NO=2&SITE_NO=2",
+      "source_tag": "img:semantic-logo",
+      "context": "img KAC 한국공항공사 - KOREA AIRPORTS CORPORATION span img a h1 logo",
+      "content_type": "image/png",
+      "bytes": 5175,
+      "sha256": "91c5d9f8fe74b309745e421e71f8cf6cb392dcc60880ec7ec292c9d17d27f1fb",
+      "width": 252,
+      "height": 34
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/korea-airports-corporation/reference-1.webp",
+      "source_url": "https://www.airport.co.kr/ajaxa/fileCpnt/fileView.do?gbn=m03&POPUP_SEQ=168",
+      "source_tag": "img:page-image",
+      "context": "img 여름철 태풍 호우 주의 a div item div Bnr div HeadBnrWrap",
+      "content_type": "image/webp",
+      "bytes": 15362,
+      "sha256": "3026e081717b36864cbb126e68458d2fb87d34c0868d58f60a51ca55ea9d6ad6",
+      "width": 684,
+      "height": 684
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/korea-airports-corporation/reference-2.webp",
+      "source_url": "https://www.airport.co.kr/type/naversearch/A1101.jpg",
+      "source_tag": "json-ld.mainImage.itemListElement[0].image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 89524,
+      "sha256": "f1a328c874eb0fab903e84edd359fdf092f4d63bd25d932de76ad365497e2220",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/korea-airports-corporation/reference-3.webp",
+      "source_url": "https://www.airport.co.kr/type/naversearch/A1103.jpg",
+      "source_tag": "json-ld.mainImage.itemListElement[1].image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 167122,
+      "sha256": "e139196793a72ff6262a64ed054cbcbacbf30ac7e88849f143abe14de6270f1c",
+      "width": 1024,
+      "height": 768
+    }
+  ]
+}

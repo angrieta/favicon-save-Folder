@@ -1,0 +1,93 @@
+{
+  "company": "TWG Tea",
+  "category": "식품_생활",
+  "requested_url": "https://twgtea.com/",
+  "page_url": "https://twgtea.com/",
+  "page_title": "TWG Tea | Luxury Teas & Accessories Online",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHpUrtLMA7w.woff2; reference:ValueError:https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Jost:ital,wght@0,100..900;1,100..900&display=swap; reference:ValueError:https://twgtea.com/App_Data/Sitefinity/WebsiteTemplate/TWGTea/App_Themes/TWGTea/styles/app.min.css?v=1.0.38; reference:ValueError:https://twgtea.com/App_Data/Sitefinity/WebsiteTemplate/TWGTea/App_JS/jquery-3.6.4.min.js; reference:ValueError:https://twgtea.com/App_Data/Sitefinity/WebsiteTemplate/TWGTea/App_JS/app.min.js?v=1.0.38",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/twg-tea/favicon.png",
+      "source_url": "https://twgtea.com/App_Data/Sitefinity/WebsiteTemplate/TWGTea/App_Themes/TWGTea/images/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 10360,
+      "sha256": "0ad0e06815ce518d32464f2eed01f03b1a01b48cbfb7148352f137f96bd9d7c2",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/twg-tea/og.webp",
+      "source_url": "https://media.twgtea.com/images/default-source/illustrations-icons/twg-logo/1200x630--twg-teas-logo.jpg?sfvrsn=45d40125_2",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 54694,
+      "sha256": "e4d1193f21b58f2f491bb97b0eec2faf10900d2c6d4236371a6dfef0ebf3ef67",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/twg-tea/logo-1.png",
+      "source_url": "https://media.twgtea.com/images/default-source/illustrations-icons/twg-logo/twg_oval.png?sfvrsn=ddc6c14b_2",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 13940,
+      "sha256": "eb6a305dcc2e7e2c50059b2c985703909752a2cefc3845172a88ff5b41d89264",
+      "width": 249,
+      "height": 167
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/twg-tea/logo-2.png",
+      "source_url": "https://media.twgtea.com/images/default-source/illustrations-icons/twg-logo/logo_white.png?sfvrsn=4219f055_2",
+      "source_tag": "img:semantic-logo",
+      "context": "img img-theme-dark TWG Tea a div twg-header__nav-logo div twg-header__nav div twg-header__navbar",
+      "content_type": "image/png",
+      "bytes": 33813,
+      "sha256": "4f4e81d296666f563a3f40fa83f985214b638ad69e03e0892ef7858944b30ccf",
+      "width": 571,
+      "height": 384
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/twg-tea/reference-1.webp",
+      "source_url": "https://media.twgtea.com/images/default-source/to-re-organize-images-used-for-uat/desktop-landscape/screenshot-2023-12-06-at-5-57-1-(1).tmb-twg_rs450.jpg?sfvrsn=7ffcbb9_2",
+      "source_tag": "img:page-image",
+      "context": "img lazy-hidden-event discover image span div column-menu div twg-menu-modal-search div twg-presearch",
+      "content_type": "image/webp",
+      "bytes": 38202,
+      "sha256": "b36c3ce1ad20b8dc5e55e8898635f748b3015d0bd90a288710b7494053787019",
+      "width": 450,
+      "height": 562
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/twg-tea/reference-2.svg",
+      "source_url": "https://media.twgtea.com/images/default-source/illustrations-icons/menu-footer/about-twg-tea.svg?sfvrsn=f0f6fc49_2",
+      "source_tag": "picture:page-image",
+      "context": "picture a li ul twg-navigation__content-bottom-menu div twg-navigation__content-bottom",
+      "content_type": "image/svg+xml",
+      "bytes": 128932,
+      "sha256": "bfeed6acec48d244493e675a093eff8320aadfcd136512abea59203e79ca5365",
+      "width": 449,
+      "height": 412
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/twg-tea/reference-3.svg",
+      "source_url": "https://media.twgtea.com/images/default-source/illustrations-icons/menu-footer/concierge.svg?sfvrsn=a03c16fc_2",
+      "source_tag": "picture:page-image",
+      "context": "picture a li ul twg-navigation__content-bottom-menu div twg-navigation__content-bottom",
+      "content_type": "image/svg+xml",
+      "bytes": 103857,
+      "sha256": "2601be6b857def16ce815f49de4b8f84b49be301927c3fc5890434d8dd686981",
+      "width": 504,
+      "height": 364
+    }
+  ]
+}

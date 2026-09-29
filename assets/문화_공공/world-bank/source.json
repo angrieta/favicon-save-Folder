@@ -1,0 +1,70 @@
+{
+  "company": "World Bank",
+  "category": "문화_공공",
+  "requested_url": "https://www.worldbank.org",
+  "page_url": "https://www.worldbank.org/ext/en/home",
+  "page_title": "World Bank Group - International Development, Poverty and Sustainability",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/world-bank/favicon.png",
+      "source_url": "https://www.worldbank.org/content/dam/wbr-redesign/logos/wbg-favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4648,
+      "sha256": "4d67229f1b3b98e5cbad37174f3566ead183edb6e6820157723f1fd5efb358d2",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/world-bank/logo-1.svg",
+      "source_url": "https://www.worldbank.org/ext/en/media_1b9d836624bdfd028dfbe9f018f3f12e52326504c.svg",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 10588,
+      "sha256": "008de872f82765e61d5c7987e405d51000376b3aa9b3c73039250226f7b3be4c",
+      "width": 220,
+      "height": 44
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/world-bank/reference-1.webp",
+      "source_url": "https://www.worldbank.org/ext/en/media_11d3bb51cc7a4347738e123453aa9db1c488deac6.avif?width=2000&format=webply&optimize=medium",
+      "source_tag": "picture:page-image",
+      "context": "picture div div div curated-cards div",
+      "content_type": "image/webp",
+      "bytes": 79112,
+      "sha256": "f9fd1df58ed7191fd221b3843622e87806137358bb6afe4dcb2f4b5eaa465af0",
+      "width": 1456,
+      "height": 700
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/world-bank/reference-2.webp",
+      "source_url": "https://www.worldbank.org/ext/en/media_11d3bb51cc7a4347738e123453aa9db1c488deac6.avif?width=750&format=webply&optimize=medium",
+      "source_tag": "picture:page-image",
+      "context": "picture div div div curated-cards div",
+      "content_type": "image/webp",
+      "bytes": 32820,
+      "sha256": "7b7994c5ef677cb77e5fd783a929972679e5ccb16968e4cab9e091209d3cdd23",
+      "width": 750,
+      "height": 361
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/world-bank/reference-3.webp",
+      "source_url": "https://www.worldbank.org/ext/en/media_11d3bb51cc7a4347738e123453aa9db1c488deac6.avif?width=2000&format=avif&optimize=medium",
+      "source_tag": "picture:page-image",
+      "context": "picture div div div curated-cards div",
+      "content_type": "image/webp",
+      "bytes": 88700,
+      "sha256": "5777d2fe2b4648874e7e26187e9fcaff1edf35320600099e79e0fcae90d397df",
+      "width": 1456,
+      "height": 700
+    }
+  ]
+}

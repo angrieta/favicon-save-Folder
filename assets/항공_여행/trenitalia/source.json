@@ -1,0 +1,70 @@
+{
+  "company": "Trenitalia",
+  "category": "항공_여행",
+  "requested_url": "https://www.trenitalia.com",
+  "page_url": "https://www.trenitalia.com/it.html",
+  "page_title": "Home Trenitalia | Trenitalia",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/trenitalia/favicon.ico",
+      "source_url": "https://www.trenitalia.com/etc.clientlibs/trenitalia/clientlibs/clientlib-site/resources/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1406,
+      "sha256": "5f3ae4b6b9497fcedb3be5f25aced71f563a76eec7f494dce5c77f1e3192d7db",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/trenitalia/logo-1.svg",
+      "source_url": "https://www.trenitalia.com/content/dam/trenitalia/logo/logo-trenitalia.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Immagine Logo Trenitalia a Home page div logo-wrapper div navbar-wrapper div container-custom-fluid",
+      "content_type": "image/svg+xml",
+      "bytes": 8006,
+      "sha256": "24e4f0312cedc8e5e19c86f8bd893447ff5d1899859022707ad939b487154dd1",
+      "width": 180,
+      "height": 58
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/trenitalia/logo-2.webp",
+      "source_url": "https://www.trenitalia.com/content/dam/trenitalia/immagini/fragment/servizi/desktop/1900x400-CAMPAGNA-TRADE-BI-0925.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img img-mosaico Noleggio Busitalia div img-card div mosaico-card div mosaico-card-wrapper active div mosaico-wrapper",
+      "content_type": "image/webp",
+      "bytes": 16356,
+      "sha256": "b89d57f810050d5b58c155d0b28872dd8466bb6673e845efa03c63fe437e02ef",
+      "width": 1600,
+      "height": 337
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/trenitalia/banner-1.webp",
+      "source_url": "https://www.trenitalia.com/content/dam/trenitalia/visual/offerte/fragment/1240x400/1240x400-Codice-Buono-Sconto.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img Promo Extra sconto FrecciaDays div picture div swiper-slide card-carousel div swiper-wrapper div swiper-3d launch-custom-parent-class",
+      "content_type": "image/webp",
+      "bytes": 146514,
+      "sha256": "75df4e3bcb12002492162bcda620516dccb47f2b3addf86addf27686b75762ca",
+      "width": 1240,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/trenitalia/banner-2.webp",
+      "source_url": "https://www.trenitalia.com/content/dam/trenitalia/visual/servizi/fragment/1240x400/1240x400-Noleggio-Hertz.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img Hertz div picture div swiper-slide card-carousel div swiper-wrapper div swiper-3d launch-custom-parent-class",
+      "content_type": "image/webp",
+      "bytes": 37122,
+      "sha256": "cdb3de926b75614afb9122b4b3e3975ec20004cb6cb5574f6f80dc6dca62dedb",
+      "width": 1240,
+      "height": 400
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "company": "Knock",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://knock.app",
+  "page_url": "https://knock.app/",
+  "page_title": "Knock | Customer engagement infrastructure",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://knock.app/assets/knock-logo.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/knock/favicon.svg",
+      "source_url": "https://knock.app/favicon/favicon-dark.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 558,
+      "sha256": "86a730bd7654278cef69bff5c5f19115b5ed31d811a5ecb0e9837faf4b53abc2",
+      "width": 260,
+      "height": 260
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/knock/og.webp",
+      "source_url": "https://knock.app/assets/og-3.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 25152,
+      "sha256": "3e5eeb3ad9af1bc6851f288eca69f912993add5fc16e01b92242aceb91ad3fcd",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/knock/logo-1.svg",
+      "source_url": "https://knock.app/assets/customers/granola/logo-light.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img max-lg:max-w-[88px] max-lg:max-h-[28px] lg:!max-w-[120px] lg:!max-h-[32px] Granola div relative flex h-14 w-full items-center justify-center lg:h-16 div w-full text-[#1C2024] grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-x-8 gap-y-",
+      "content_type": "image/svg+xml",
+      "bytes": 10026,
+      "sha256": "e25244b710bcedf312ceb4f98c3b383aa66d678248eef4650041c3181d265cad",
+      "width": 148,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/knock/logo-2.svg",
+      "source_url": "https://knock.app/assets/customers/medium/logo-light.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Medium span inline-block mx-2 md:mx-4 my-1.5 span inline-flex items-center justify-center max-lg:max-w-[88px] max-lg:max-h-[28px] lg:!max-w-[120px] lg:!max-h-[32px] a absolute inset-0 flex items-center justify-center focus:outline-none ",
+      "content_type": "image/svg+xml",
+      "bytes": 3890,
+      "sha256": "d05034e3988d636dc4e3d5d4b3e24df43868eb9596fc89575fa8fc53ebe46167",
+      "width": 90,
+      "height": 20
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/knock/banner-1.webp",
+      "source_url": "https://knock.app/_next/image?url=%2Fassets%2Fcollabio%2Fnewsletter-design-hero-placeholder.png&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img aspect-[16/9] h-auto w-full object-cover object-top div relative w-full overflow-hidden bg-[#f8f9fb] div relative z-10 div relative w-full select-text overflow-hidden rounded-lg border border-[#e3e3e6] bg-white shadow-[0_14px_30px_rgba(",
+      "content_type": "image/webp",
+      "bytes": 93272,
+      "sha256": "7c8dcbe7ac2ea6260096b1f9bd2475b84fecfaffd041960c0ada75692d60c9e8",
+      "width": 1800,
+      "height": 1031
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/knock/banner-2.webp",
+      "source_url": "https://knock.app/_next/image?url=%2Fassets%2Fcollabio%2Fnewsletter-design-hero-placeholder.png&w=2048&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img aspect-[16/9] h-auto w-full object-cover object-top div relative w-full overflow-hidden bg-[#f8f9fb] div relative z-10 div relative w-full select-text overflow-hidden rounded-lg border border-[#e3e3e6] bg-white shadow-[0_14px_30px_rgba(",
+      "content_type": "image/webp",
+      "bytes": 92812,
+      "sha256": "f35b5aeb2186f4f76566d4b0c6034a8780b61956e2e62df9030f373d1047f986",
+      "width": 1800,
+      "height": 1031
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/knock/reference-1.webp",
+      "source_url": "https://knock.app/_next/image?url=%2Fassets%2Fhome%2Ffeatures%2Fchannels%2Fchannels-desktop.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img object-contain w-full h-auto select-none max-h-[512px] Send messages across email, SMS, push, chat, and in-app. div relative w-full h-auto flex div relative z-10 div relative div flex flex-col h-full",
+      "content_type": "image/webp",
+      "bytes": 22298,
+      "sha256": "9a45d7b21e33a5d41451162def32f089e5c198690cdf8108ddefa51fe2213459",
+      "width": 810,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/knock/reference-2.webp",
+      "source_url": "https://knock.app/_next/image?url=%2Fassets%2Fhome%2Ffeatures%2Fworkflow%2Fworkflow-v2-desktop.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img object-contain w-full h-auto select-none max-h-[512px] Build complex messaging journeys with a single prompt. div relative w-full h-auto flex div relative z-10 div relative div flex flex-col h-full",
+      "content_type": "image/webp",
+      "bytes": 38756,
+      "sha256": "4073545697fcd52458c1847018862390bfc399a9beca51095242d492536c6e7f",
+      "width": 810,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/knock/reference-3.webp",
+      "source_url": "https://knock.app/_next/image?url=%2Fassets%2Fhome%2Ffeatures%2Ffunctions-desktop.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img object-contain w-full h-auto select-none max-h-[512px] Deliver messages when and where your users expect them. div relative w-full h-auto flex div relative z-10 div relative div flex flex-col h-full",
+      "content_type": "image/webp",
+      "bytes": 22462,
+      "sha256": "f31554855cd41cf6ce8835aa168f1755712bed0bfa328eadaf4cfa6010315529",
+      "width": 810,
+      "height": 720
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "company": "FlixBus",
+  "category": "항공_여행",
+  "requested_url": "https://www.flixbus.com",
+  "page_url": "https://www.flixbus.com/",
+  "page_title": "FlixBus: Convenient and affordable bus travel in the US",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://cdn-cf.cms.flixbus.com/drupal-assets/flix-home-assets/abTestHandler.396c37.js; reference:ValueError:https://honeycomb.flixbus.com/dist/17.4.1/css/honeycomb-fonts.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/flixbus/favicon.png",
+      "source_url": "https://cdn-cf.cms.flixbus.com/drupal-assets/favicon/flixbus/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7731,
+      "sha256": "9ef205a3d169cddb124c2f49e9828f1be46ab5044a01a69af121cf0e59640c05",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/flixbus/og.webp",
+      "source_url": "https://cdn-cf.cms.flixbus.com/drupal-assets/ogimage/flixbus.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7996,
+      "sha256": "f00d9e6f2c76660c1e9f1dfc2f4b076ed42a0617e09dd513bf11d3121f09a73c",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/flixbus/logo-1.png",
+      "source_url": "https://cdn-cf.cms.flixbus.com/drupal-assets/logos/flixbus.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img flix-header-brand__img flixbus logo a flix-header-brand__link flixbus home graphic logo link div flix-header-brand div flix-header__inner header flix-header flix-header--unfixed header",
+      "content_type": "image/png",
+      "bytes": 2786,
+      "sha256": "57b7aae2309118a949bd922b4f2956c12b8d82577d4721c6553500ed145688e2",
+      "width": 270,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/flixbus/logo-2.svg",
+      "source_url": "https://cdn-cf.cms.flixbus.com/drupal-assets/social-proof-logos/flixbus-greyscale-70.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img social-proof__logo div social-proof__logos div social-proof__container flix-page-container div social-proof main main-content",
+      "content_type": "image/svg+xml",
+      "bytes": 5772,
+      "sha256": "ca5f159ae02708e8b73288dd2a213ec44887dc98652db1ff7d79fd467cd618cd",
+      "width": 135,
+      "height": 24
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/flixbus/banner-1.webp",
+      "source_url": "https://cdn-cf.cms.flixbus.com/drupal-assets/2021-08/US_Cali_FlixBus_New-Design_desktop.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div default-hero-image-container hero-image-container hero-image-container--hidden-mobile div hero-container hero-container--no-image-mobile main main-content body flix-main-wrapper",
+      "content_type": "image/webp",
+      "bytes": 122482,
+      "sha256": "dd4115c516feeccdcd341f41e8859a99d6ee7ace7efc07229255198318f3c735",
+      "width": 1600,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/flixbus/banner-2.webp",
+      "source_url": "https://cdn-cf.cms.flixbus.com/drupal-assets/2021-08/US_Cali_FlixBus_New-Design_tablet.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div default-hero-image-container hero-image-container hero-image-container--hidden-mobile div hero-container hero-container--no-image-mobile main main-content body flix-main-wrapper",
+      "content_type": "image/webp",
+      "bytes": 87280,
+      "sha256": "be3bad93c17a0b79a2edb73d2ba42a07edaf1a440ea0cc7bb21dbe28ea32f534",
+      "width": 1200,
+      "height": 399
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/flixbus/reference-1.webp",
+      "source_url": "https://cdn-cf.cms.flixbus.com/drupal-assets/2026-05/US_Cali_FlixBus_New-Design_mobile.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div default-hero-image-container hero-image-container hero-image-container--hidden-mobile div hero-container hero-container--no-image-mobile main main-content body flix-main-wrapper",
+      "content_type": "image/webp",
+      "bytes": 32414,
+      "sha256": "cc4e64d4c6ecf0bf20b5bf7f6ba2a55273078448d5f8ca012ea671f09043051b",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/flixbus/reference-2.webp",
+      "source_url": "https://cdn-cf.cms.flixbus.com/drupal-assets/exploration-map-banner/flixbus-mobile-large.avif",
+      "source_tag": "picture:page-image",
+      "context": "picture div exploration-map-banner-image div page-content-wrapper flix-page-container exploration-map-banner div section-2745 main main-content",
+      "content_type": "image/webp",
+      "bytes": 24186,
+      "sha256": "247331cbf2b9ee223e2d146ca1f5e95ec96ee72f9fcc9d375a7bdc038a73c7ba",
+      "width": 767,
+      "height": 798
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/flixbus/reference-3.webp",
+      "source_url": "https://cdn-cf.cms.flixbus.com/drupal-assets/exploration-map-banner/flixbus-mobile.avif",
+      "source_tag": "picture:page-image",
+      "context": "picture div exploration-map-banner-image div page-content-wrapper flix-page-container exploration-map-banner div section-2745 main main-content",
+      "content_type": "image/webp",
+      "bytes": 10892,
+      "sha256": "ed82360b0f627e19fadb5005382fb0cc04737603e91683944f23c48fc7257f65",
+      "width": 375,
+      "height": 390
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "company": "MotoGP",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.motogp.com",
+  "page_url": "https://www.motogp.com/",
+  "page_title": "MotoGP™ World Championship | Calendar | Results | Live Streaming",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/motogp/favicon.png",
+      "source_url": "https://static.dorna.com/assets/logos/mgp/brand/mgp-favicon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1333,
+      "sha256": "d338bcd0be9978109e7d961d7a37985c26edb14b2298d023127ed2efce325089",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/motogp/og.webp",
+      "source_url": "https://resources.motogp.pulselive.com/photo-resources/2026/06/25/7b355c7b-6a19-42be-ac53-e3cbb01f470c/MotoGP.jfif?width=1024&height=512",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 26080,
+      "sha256": "02990b31768b231da142f34670be3bd551e6e3ed2a63cb4b7da9b00aa0b73914",
+      "width": 1024,
+      "height": 512
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/motogp/logo-1.svg",
+      "source_url": "https://static.dorna.com/assets/logos/mgp/brand/mgp-logo-on-light.svg?v2",
+      "source_tag": "img:semantic-logo",
+      "context": "img main-navigation__overlay-header-logo-img MotoGP Logo a main-navigation__overlay-header-logo MotoGP Logo div main-navigation__overlay-header div main-navigation__overlay-container js-menu-overlay-container div main-navigation__overlay js",
+      "content_type": "image/svg+xml",
+      "bytes": 1875,
+      "sha256": "27777eed4f12c10e0e302c3b9c69fe7518ad36652213dd52816552a90eeaa175",
+      "width": 1174,
+      "height": 188
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/motogp/logo-2.svg",
+      "source_url": "https://static.dorna.com/assets/logos/mgp/product/timingpass/timingpass-logo-landscape-on-dark.svg?v2",
+      "source_tag": "img:semantic-logo",
+      "context": "img global-top-navigation__timingpass-logo MotoGP™TIMINGPASS a global-top-navigation__link external-link timingpass js-tracked-event li global-top-navigation__item timingpass ul global-top-navigation__menu-list js-menu-list div global-top-n",
+      "content_type": "image/svg+xml",
+      "bytes": 3811,
+      "sha256": "d23296bb729e41bfa56ef67fdfd1cc56bedbb69ef1dc506bfe7213874c47abdc",
+      "width": 2713,
+      "height": 188
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/motogp/banner-1.svg",
+      "source_url": "https://static-files.motogp.pulselive.com/assets/flags/jp.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img event-promo-item__flag JP flag div event-promo-item__meta div event-promo-item__body div event-promo-item__info li event-promo-item js-list-item c-dark-mode",
+      "content_type": "image/svg+xml",
+      "bytes": 465,
+      "sha256": "48cbe3d7d7355aae043db0e046cdc6f20ee2f9010d5bb78fb67d75f6174a68bf",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/motogp/banner-2.svg",
+      "source_url": "https://static-files.motogp.pulselive.com/assets/flags/id.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img event-promo-item__flag ID flag div event-promo-item__meta div event-promo-item__body div event-promo-item__info li event-promo-item js-list-item c-dark-mode",
+      "content_type": "image/svg+xml",
+      "bytes": 178,
+      "sha256": "5cd3acc4939dd7eae6318c8d75df8c0d1733f650e2504a2635b0dbf3dfabb040",
+      "width": 640,
+      "height": 480
+    }
+  ]
+}

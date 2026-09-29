@@ -1,0 +1,34 @@
+{
+  "company": "Eucerin",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.eucerin.com",
+  "page_url": "https://select.eucerin.com/",
+  "page_title": "Country Selector",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://select.eucerin.com/dist/eucerin/flags.css?202603271241; reference:ValueError:https://select.eucerin.com/dist/Eucerin/_/fonts/Montserrat-SemiBold.woff2; reference:ValueError:https://select.eucerin.com/dist/Eucerin/_/fonts/Montserrat-Medium.woff2; reference:ValueError:https://select.eucerin.com/dist/Eucerin/_/fonts/Montserrat-Light.woff2; reference:ValueError:https://select.eucerin.com/dist/Eucerin/_/fonts/Eucerin-Icons.ttf; reference:ValueError:https://select.eucerin.com/dist/eucerin/all-ltr.css?202602051253",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/eucerin/favicon.ico",
+      "source_url": "https://images-1.eucerin.com/~/media/eucerin%20reference%20site/eucerin_favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 7406,
+      "sha256": "0635ca6fac68573197ca3dc0f2d4e68397cce58983abd040d071e5f0c6f3a602",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/eucerin/logo-1.svg",
+      "source_url": "https://images-1.eucerin.com/~/media/eucerin%20relaunch%20media/eucerin/footer/eucerin.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1973,
+      "sha256": "963d8490e8a3b7850b0802b0d20c4738bcf4378e909ee3b67c587ca4fe208ed0",
+      "width": 99,
+      "height": 40
+    }
+  ]
+}

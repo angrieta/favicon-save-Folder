@@ -1,0 +1,69 @@
+{
+  "company": "Nivea",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.nivea.co.kr",
+  "page_url": "https://www.nivea.co.kr/",
+  "page_title": "니베아 공식 홈페이지",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://www.nivea.co.kr/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/nivea/favicon.png",
+      "source_url": "https://img.nivea.com/-/media/niveax/icons/logos/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 16282,
+      "sha256": "15e230399307a3b3b8a90550a5c6d0bfb91e7a9839bbbdae02f5f61637cfa9ed",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/nivea/og.webp",
+      "source_url": "https://img.nivea.com/-/media/niveax/icons/logos/brandmark_600x332.png?rx=1&ry=0&rw=598&rh=331&hash=ABF18454704B4190F047E3A6E9FBA17D",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6126,
+      "sha256": "8b5e0c5559c2b69f922d6f0dcc50b52fda98a547744109c2b66a17efc541d1b7",
+      "width": 598,
+      "height": 331
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/nivea/reference-1.webp",
+      "source_url": "https://img.nivea.com/-/media/nivea/local/kr/240423_pc_2560x1000px.webp?rx=0&ry=0&rw=2560&rh=1000&mw=2000&hash=C609BA0DA815297A36D753E667E3FF13",
+      "source_tag": "picture:page-image",
+      "context": "picture div nx-stage__image a nx-stage__link div nx-stage nx-slider__item nx-slider__item--stage div nx-slider nx-stage__slider",
+      "content_type": "image/webp",
+      "bytes": 28878,
+      "sha256": "c00cc16ee362986b5e4742e70a1d9e33f516f4ef705eb6c610699b05a986a150",
+      "width": 1800,
+      "height": 703
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/nivea/reference-2.webp",
+      "source_url": "https://img.nivea.com/-/media/nivea/local/kr/240423_pc_2560x1000px.webp?rx=0&ry=0&rw=2560&rh=1000&mw=1600&hash=C305E7F8F4DD55AEF11AD495526CA311",
+      "source_tag": "picture:page-image",
+      "context": "picture div nx-stage__image a nx-stage__link div nx-stage nx-slider__item nx-slider__item--stage div nx-slider nx-stage__slider",
+      "content_type": "image/webp",
+      "bytes": 22664,
+      "sha256": "96bda16f8ae33fc0f3e944d4fcf16d7eb55d784b476319e450d4212b42bffb79",
+      "width": 1600,
+      "height": 625
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/nivea/reference-3.webp",
+      "source_url": "https://img.nivea.com/-/media/nivea/local/kr/240423_pc_2560x1000px.jpg?rx=0&ry=0&rw=2560&rh=1000&mw=2000&hash=3C44416D8FC6D3FC371F1F2865A570A0",
+      "source_tag": "picture:page-image",
+      "context": "picture div nx-stage__image a nx-stage__link div nx-stage nx-slider__item nx-slider__item--stage div nx-slider nx-stage__slider",
+      "content_type": "image/webp",
+      "bytes": 28258,
+      "sha256": "c43c64ac0114bc80ef2ba0de4315071ee6ba034fdad87cb777f4aad6211000ec",
+      "width": 1800,
+      "height": 703
+    }
+  ]
+}

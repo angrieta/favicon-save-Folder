@@ -1,0 +1,69 @@
+{
+  "company": "Uber Eats",
+  "category": "유통_커머스",
+  "requested_url": "https://www.ubereats.com",
+  "page_url": "https://www.ubereats.com/",
+  "page_title": "Uber Eats | Food & Grocery Delivery | Order Groceries and Food Online",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.ubereats.com/_static/client-22763-dd088aea09ce923c.js; reference:ValueError:https://www.ubereats.com/_static/client-2448-bd7516d4ee920085.js; reference:ValueError:https://www.ubereats.com/_static/client-29282-19d21021aac15b0d.js; reference:ValueError:https://www.ubereats.com/_static/client-29367-0234b33fbf7b7c4d.js; reference:ValueError:https://www.ubereats.com/_static/client-31288-469590a9ee440447.js; reference:ValueError:https://www.ubereats.com/_static/client-31368-c4e04e3ecdc7317b.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/uber-eats/favicon.png",
+      "source_url": "https://www.ubereats.com/_static/9d965730ecb40206.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 19495,
+      "sha256": "3f641ab8fdb0beb6f3369cf9d8642a559bdc6741cd715fcc9e2a75a21be2e142",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/uber-eats/og.webp",
+      "source_url": "https://tb-static.uber.com/prod/web-eats-v2/open-graph/uber-eats.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 26562,
+      "sha256": "e6b2d9223a8bca1be8c72ea595c232fb26737052192133f08f4f652b81a3330f",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/uber-eats/logo-1.svg",
+      "source_url": "https://www.ubereats.com/_static/97c43f8974e6c876.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img _ee _ef _fo _hj Uber Eats div _al _hi _am _ci _fb div _al div _hh _d7 _d4 _af _eh _fa footer footer _b0 _he _hf _hg",
+      "content_type": "image/svg+xml",
+      "bytes": 2186,
+      "sha256": "3c46dc7aa053649a41afcf2741d30d371cb42345fb6f7c74adae07e1d47af28d",
+      "width": 134,
+      "height": 24
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/uber-eats/logo-2.svg",
+      "source_url": "https://www.ubereats.com/_static/783bb4a82e5be29e.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img _ef Download on the App Store a div _al _hk _hl div _al _hi _am _ci _fb div _al",
+      "content_type": "image/svg+xml",
+      "bytes": 8898,
+      "sha256": "145199c0b14de36ebd7fa189c77dee62532cbe4a4d53753af83a71c5e4926e87",
+      "width": 135,
+      "height": 40
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/uber-eats/banner-1.webp",
+      "source_url": "https://www.ubereats.com/_static/96444e8b6107fad5.webp",
+      "source_tag": "style-background-image",
+      "context": "ound:#000000}._f4:hover{background:#282828}._f5:active{background:#4B4B4B}._f6{background-color:#E2A257}._f7{height:100vh}._f8{width:100vw}._f9{background:center / cover no-repeat url(/_static/96444e8b6107fad5.webp)}._fa{padding:0 40px}._fb",
+      "content_type": "image/webp",
+      "bytes": 133840,
+      "sha256": "43dbf188b4432cfd8097cfedbe8aa5b2a86ac701a1a7ab33a9704e92c2a839a2",
+      "width": 1800,
+      "height": 1021
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "company": "Kewpie",
+  "category": "식품_생활",
+  "requested_url": "https://www.kewpie.com/",
+  "page_url": "https://www.kewpie.com/",
+  "page_title": "キユーピー 企業サイト",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/kewpie/favicon.png",
+      "source_url": "https://lp.kewpie.com/apple-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3717,
+      "sha256": "faa407765d8d73528c0ef4e60a6112d3041fb8982a6ebca40c5569df8e8fd42e",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/kewpie/og.webp",
+      "source_url": "https://lp.kewpie.com/assets/img/layout/share/ogimage.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10646,
+      "sha256": "0b976abae2bed609029dd4cf2031cb8604e77aeaf9d456adf8fb14f7705a8cb7",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/kewpie/logo-1.png",
+      "source_url": "https://lp.kewpie.com/assets/img/common/logo-01.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img l-header__logo__img 愛は食卓にある。kewpie a l-header__logo__link div l-header__logo div l-header__main div l-header__inner",
+      "content_type": "image/png",
+      "bytes": 5782,
+      "sha256": "5ee900669a0bb9b9711620a80368a1e7bbb88d8d05408fd661184a32aa1952f5",
+      "width": 217,
+      "height": 80
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kewpie/reference-1.webp",
+      "source_url": "https://www.kewpie.com/assets/img/index/mv_03_pc.webp",
+      "source_tag": "img:page-image",
+      "context": "img top-slider__itm__img figure top-slider__itm__fig div c-img-frm r-bdr r-modal top-slider__itm__link （モーダルウインドウで開きます） div top-slider__itm div top-slider__cnt is-on",
+      "content_type": "image/webp",
+      "bytes": 38680,
+      "sha256": "0a8cfb80c53ee7e6ba00506fe5e4b7a0229e66f184df7d6d839b563846ae051e",
+      "width": 1800,
+      "height": 579
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kewpie/reference-2.webp",
+      "source_url": "https://www.kewpie.com/assets/img/index/sec-img-education-01.webp",
+      "source_tag": "img:page-image",
+      "context": "img p-top-sustainability-pic-img figure p-top-sustainability-pic div p-top-sustainability-block section l-main__inr r-line u-pl0--sp u-pr0--sp div l-main__cnt",
+      "content_type": "image/webp",
+      "bytes": 63788,
+      "sha256": "7849bd73390d0d169105d86b5812b81e83688e52565d2dfaa37bb4383c35ef44",
+      "width": 1000,
+      "height": 583
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kewpie/reference-3.webp",
+      "source_url": "https://www.kewpie.com/assets/img/index/mv_01_pc.webp",
+      "source_tag": "img:page-image",
+      "context": "img top-slider__itm__img 世界の食と健康に貢献する figure top-slider__itm__fig div top-slider__itm div top-slider__cnt is-on div top-slider",
+      "content_type": "image/webp",
+      "bytes": 136108,
+      "sha256": "f560caabe5f84e36a158bdc0d98dbb9aa14d5d2f830e153b8f93c3a1eb7fe283",
+      "width": 1800,
+      "height": 579
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company": "DICE",
+  "category": "유통_커머스",
+  "requested_url": "https://dice.fm",
+  "page_url": "https://dice.fm/",
+  "page_title": "DICE | Tickets for your kind of shows",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://dice.fm/static/fonts/ABCFavorit-MediumItalic.woff2; reference:ValueError:https://dice.fm/static/fonts/ABCFavorit-Bold.woff2; reference:ValueError:https://dice.fm/static/fonts/ABCFavorit-BoldItalic.woff2; reference:ValueError:https://dice.fm/_next/static/chunks/1aixcbmwtm_v9.css; reference:ValueError:https://dicewebsite.cdn.prismic.io/dicewebsite/Z6tTHZbqstJ9-eqd_B2C_Home_Artists-1-.mp4; reference:ValueError:https://dicewebsite.cdn.prismic.io/dicewebsite/Z6tsYJbqstJ9-fMC_B2C_Home_Fans-1-.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/dice/favicon.png",
+      "source_url": "https://dice.fm/static/icons/app-icon/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2985,
+      "sha256": "8574fa76a193154d69b71a5f2c32cd0671a07bae8c41be7b0f0c851a573ece4d",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/dice/og.webp",
+      "source_url": "https://dice.fm/static/images/dice-fan-social.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3628,
+      "sha256": "ba18ca75c2d01972145e5ad1ff0d097de2352b6df249504a42789147bbc00a73",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/dice/logo-1.webp",
+      "source_url": "https://dice.fm/android-chrome-192x192.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 2394,
+      "sha256": "3f8eaf4eeaa69897151b980eceab2e2c6897ec37be3a72d29dfce69e3f065bb1",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/dice/logo-2.webp",
+      "source_url": "https://images.prismic.io/dicewebsite/ahCB3LK9tuLqEFdI_b2b-partners-logo-narrow.png?auto=format%2Ccompress&fit=max&w=3840",
+      "source_tag": "img:semantic-logo",
+      "context": "img div ImageSwipeReveal__Wrapper-sc-4406df8-1 IKWSW div B2BPrismicImageAndTextBlock__ImageCol-sc-ed048757-1 fWhcUU div B2BPrismicImageAndTextBlock__Content-sc-ed048757-2 fEsSDL div MaxWidthWrapper-sc-8d436604-0 kwGLHU",
+      "content_type": "image/webp",
+      "bytes": 74060,
+      "sha256": "422650e17f04ee1586718545eb9b3025f536251c8c5f6534e946a53d8f0a2929",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/dice/logo-2.webp",
+      "source_url": "https://images.prismic.io/dicewebsite/ahCB3LK9tuLqEFdI_b2b-partners-logo-narrow.png?auto=format%2Ccompress&fit=max&w=2048",
+      "source_tag": "img:page-image",
+      "context": "img div ImageSwipeReveal__Wrapper-sc-4406df8-1 IKWSW div B2BPrismicImageAndTextBlock__ImageCol-sc-ed048757-1 fWhcUU div B2BPrismicImageAndTextBlock__Content-sc-ed048757-2 fEsSDL div MaxWidthWrapper-sc-8d436604-0 kwGLHU",
+      "content_type": "image/webp",
+      "bytes": 74060,
+      "sha256": "422650e17f04ee1586718545eb9b3025f536251c8c5f6534e946a53d8f0a2929",
+      "width": 1080,
+      "height": 1350,
+      "reused_from": "logo"
+    }
+  ]
+}

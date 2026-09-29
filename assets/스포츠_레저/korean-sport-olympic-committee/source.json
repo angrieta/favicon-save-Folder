@@ -1,0 +1,69 @@
+{
+  "company": "대한체육회",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.sports.or.kr",
+  "page_url": "https://www.sports.or.kr/sports/main/main.do",
+  "page_title": "기관 메인 | 대한체육회",
+  "collection_status": "complete",
+  "collection_error": "banner:SSLError:https://g1.sports.or.kr/video/main_cover_video_v2.mp4; reference:SSLError:https://g1.sports.or.kr/video/main_cover_video_v2.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/korean-sport-olympic-committee/favicon.png",
+      "source_url": "https://www.sports.or.kr/static/sports/img/common/favi-180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 11798,
+      "sha256": "9f96a39cd8c5241346e080cf9bbaf6adec0b7ec19684ec1a47a1ee1d29d9ef74",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/korean-sport-olympic-committee/og.webp",
+      "source_url": "https://www.sports.or.kr/static/sports/img/main/logo_2_84.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 16934,
+      "sha256": "aa038190a494326e53349f41c5035aad8214276beb676f74d29b084037f7df81",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/korean-sport-olympic-committee/logo-1.svg",
+      "source_url": "https://www.sports.or.kr/static/sports/svg/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 대한체육회 Korean Sport & Olympic Committee div logo div top div l div inner",
+      "content_type": "image/svg+xml",
+      "bytes": 25184,
+      "sha256": "108cc851a1844aef0cacdd4a4d9a5e6666dde080cd7db77958601d5aa71ad253",
+      "width": 199,
+      "height": 60
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/korean-sport-olympic-committee/logo-2.svg",
+      "source_url": "https://www.sports.or.kr/static/sports/svg/logo-mcst.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 문화체육관광부 Ministry of Culture, Sports and Tourism div logo div sponsor div inner footer footer",
+      "content_type": "image/svg+xml",
+      "bytes": 19427,
+      "sha256": "77a11224d85fdd490e59aa09e0b02402b1ca430ee05ea9f625ad5bc12cefa4d2",
+      "width": 152,
+      "height": 39
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/korean-sport-olympic-committee/banner-1.webp",
+      "source_url": "https://www.sports.or.kr/static/sports/img/main/img_moment_glory.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 영광의 순간들 div div inner section section02 section02 section main",
+      "content_type": "image/webp",
+      "bytes": 84866,
+      "sha256": "f92fb5c6236e45c797adec2535bef068424e08e6859aa862addfa6472f2fc9b9",
+      "width": 1144,
+      "height": 429
+    }
+  ]
+}

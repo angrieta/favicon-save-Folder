@@ -1,0 +1,106 @@
+{
+  "company": "NC 다이노스",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.ncdinos.com",
+  "page_url": "https://www.ncdinos.com/",
+  "page_title": "NC Dinos",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/nc-dinos/favicon.ico",
+      "source_url": "https://www.ncdinos.com/assets/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "0c1cd960262ad70c21bed293ddc0bf738575b51c17f21f403bc9f78a3ae19c23",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/nc-dinos/logo-1.png",
+      "source_url": "https://www.ncdinos.com/assets/images/f_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img nc dinos h1 f-logo div f-wrap footer index-header body",
+      "content_type": "image/png",
+      "bytes": 5085,
+      "sha256": "9beb88fc2cb5b9efb56b7ca9c003de86f2c9c4dbd395e1b7218bcac43131dc4f",
+      "width": 120,
+      "height": 84
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/nc-dinos/logo-2.png",
+      "source_url": "https://www.ncdinos.com/assets/images/btn_won_chatbot@3x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a footer index-header body html",
+      "content_type": "image/png",
+      "bytes": 11646,
+      "sha256": "b6b94915394dbe079afa3a0600b26ef71f27d593f09dc8672dec72c2d82b827e",
+      "width": 270,
+      "height": 270
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/nc-dinos/banner-1.webp",
+      "source_url": "https://ncdinos-common-bucket.s3.ap-northeast-2.amazonaws.com/v1/banner/f6c0e0a60a6e4fc5b8c6bb5cd8fbb06d_20260909_054701.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a div swiper-slide div swiper-wrapper div slider",
+      "content_type": "image/webp",
+      "bytes": 111048,
+      "sha256": "f9d568323736c3e868ecca22423658a421ad65f6ef2c9fba2e60c7afa753e9e6",
+      "width": 1800,
+      "height": 403
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/nc-dinos/banner-2.webp",
+      "source_url": "https://ncdinos-common-bucket.s3.ap-northeast-2.amazonaws.com/v1/banner/c3ddfb097f414872b3fb77f552cfd938_20260716_015034.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a div swiper-slide div swiper-wrapper div slider",
+      "content_type": "image/webp",
+      "bytes": 33562,
+      "sha256": "52834210efe59a07e4e11a95369974ceea1ceb6c0350e400f8a47597c50ba768",
+      "width": 1800,
+      "height": 403
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/nc-dinos/reference-1.webp",
+      "source_url": "https://i.ytimg.com/vi/7TX-TPVzjH0/sddefault.jpg",
+      "source_tag": "img:page-image",
+      "context": "img span img-wrap a img div gall video-gall div f-wrap",
+      "content_type": "image/webp",
+      "bytes": 21366,
+      "sha256": "39a0a872686fb6de51ae73b34255f75f657fcc988c4d41f8e5a29e0aeee56614",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/nc-dinos/reference-2.webp",
+      "source_url": "https://i.ytimg.com/vi/4yUHIQ81hjI/sddefault.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a img div div gall style2 div f-wrap",
+      "content_type": "image/webp",
+      "bytes": 20084,
+      "sha256": "3a8d5e1f05aec47d6a48fbc2ef91fc2d40913d22725bcb4f7179da3506fbd2a1",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/nc-dinos/reference-3.webp",
+      "source_url": "https://i.ytimg.com/vi/TADOrwXYAXg/sddefault.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a img div div gall style2 div f-wrap",
+      "content_type": "image/webp",
+      "bytes": 37408,
+      "sha256": "935cca2ace6e1040d3feab078483446db5da13fab5d48d8b4743ab3bd6693aef",
+      "width": 640,
+      "height": 480
+    }
+  ]
+}

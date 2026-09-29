@@ -1,0 +1,105 @@
+{
+  "company": "Liveblocks",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://liveblocks.io",
+  "page_url": "https://liveblocks.io/",
+  "page_title": "Liveblocks | Realtime and sync for the agentic web",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/liveblocks/favicon.png",
+      "source_url": "https://liveblocks.io/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1185,
+      "sha256": "dcef695bf7ab529c6fcb94d00582412e72bbfe0f82f9ac5f70f1233bd38f558e",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/liveblocks/og.webp",
+      "source_url": "https://liveblocks.io/images/social-images/social-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 28372,
+      "sha256": "b086d996e0ef01d17e106370b1eb5515882591fe738f458514133caa6c604b7d",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/liveblocks/logo-1.png",
+      "source_url": "https://liveblocks.io/images/logo-liveblocks-organization-schema.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 20490,
+      "sha256": "8b99c699d466c03ae59341440e08123ae05780adc77bd8ff124893da3f1987bf",
+      "width": 1436,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/liveblocks/banner-1.webp",
+      "source_url": "https://liveblocks.io/images/homepage/hero-3d/hero-loading-fallback.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img hero-3d-module__-TjwLG__fallback div hero-3d-module__-TjwLG__root div relative section-hero-module__hVRUhW__heroContainer div container mx-auto max-w-(--breakpoint-2xl) div relative overflow-clip",
+      "content_type": "image/webp",
+      "bytes": 10184,
+      "sha256": "d3eace39b44d64d8c203a7167c39cf5445fbf529df04450d084d3afd11f3388f",
+      "width": 1800,
+      "height": 1125
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/liveblocks/banner-2.webp",
+      "source_url": "https://liveblocks.io/images/homepage/hero-3d/content-reflection-atlas.webp",
+      "source_tag": "inline-background-image",
+      "context": "span  hero-3d-module__-TjwLG__fallbackReflectionMirror background-image:url(/images/homepage/hero-3d/content-reflection-atlas.webp);background-position:0px 0px;background-size:3038px 275px",
+      "content_type": "image/webp",
+      "bytes": 51020,
+      "sha256": "f01f5b3b388c743c8a70ac7ba6d9c6d171b2ea2764f759ebd55067eff219e2f8",
+      "width": 1800,
+      "height": 163
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/liveblocks/reference-1.webp",
+      "source_url": "https://liveblocks.io/_next/image?url=%2Fimages%2Fproduct-use-cases%2Fannotations-like-google-docs.png&w=828&q=90",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 Annotations like Google Docs div relative flex aspect-square w-64 overflow-hidden rounded-md p-gutter sm:w-72 md:rounded-lg lg:w-[396px] div max-w-full min-w-0 flex-[0_0_auto] select-none div flex flex-row gap-4 pl-4 di",
+      "content_type": "image/webp",
+      "bytes": 19462,
+      "sha256": "5c7d11286f4ad6230533cd4b725f0eef9e6081bca397e1f0e06ae03053d9158e",
+      "width": 792,
+      "height": 792
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/liveblocks/reference-2.webp",
+      "source_url": "https://liveblocks.io/_next/image?url=%2Fimages%2Fproduct-use-cases%2Fannotations-like-google-docs.png&w=640&q=90",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 Annotations like Google Docs div relative flex aspect-square w-64 overflow-hidden rounded-md p-gutter sm:w-72 md:rounded-lg lg:w-[396px] div max-w-full min-w-0 flex-[0_0_auto] select-none div flex flex-row gap-4 pl-4 di",
+      "content_type": "image/webp",
+      "bytes": 15854,
+      "sha256": "f7bc7cca3fb6332792f3137ed3657aef7704d6ea15f6f1d352fc9b645a87787d",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/liveblocks/reference-3.webp",
+      "source_url": "https://liveblocks.io/_next/image?url=%2Fimages%2Fproduct-use-cases%2Finbox-like-linear.png&w=828&q=90",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 Inbox like Linear div relative flex aspect-square w-64 overflow-hidden rounded-md p-gutter sm:w-72 md:rounded-lg lg:w-[396px] div max-w-full min-w-0 flex-[0_0_auto] select-none div flex flex-row gap-4 pl-4 div overflow-",
+      "content_type": "image/webp",
+      "bytes": 24458,
+      "sha256": "db52557f392ee9043da07cf112a228a06b7c94beee9718823869e49519d8578f",
+      "width": 792,
+      "height": 792
+    }
+  ]
+}

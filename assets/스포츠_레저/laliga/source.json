@@ -1,0 +1,82 @@
+{
+  "company": "LALIGA",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.laliga.com",
+  "page_url": "https://www.laliga.com/en-KR",
+  "page_title": "LALIGA official website | LALIGA",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/laliga/favicon.ico",
+      "source_url": "https://assets.laliga.com/assets/public/logos/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "91587f16b84071b65e887ba16963545403a37975655fc54f7cf819ace0403a9e",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/laliga/logo-1.svg",
+      "source_url": "https://www.laliga.com/logos/laliga-eaSports-navbar.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img primera-division figure div lp-d_flex lp-ai_center [&_figure]:lp-ov_var(--logo-fig-overflow) [&_figure]:[&_img]:lp-h_var(--logo-img-h) [&_figure]:[&_img]:lp-w_auto [&_figure]:[&_img]:lp-mix-bm_multiply [&_figure]:[&_img]:lp-ml_var(--log",
+      "content_type": "image/svg+xml",
+      "bytes": 7494,
+      "sha256": "26c8dfa56de430f4b9c03f412bd3517f02b998d6d4d0ab27559386f4a7721962",
+      "width": 161,
+      "height": 55
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/laliga/logo-2.svg",
+      "source_url": "https://www.laliga.com/logos/laliga-hypermotion-competition.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img segunda-division figure div lp-d_flex lp-ai_center [&_figure]:lp-ov_var(--logo-fig-overflow) [&_figure]:[&_img]:lp-h_var(--logo-img-h) [&_figure]:[&_img]:lp-w_auto [&_figure]:[&_img]:lp-mix-bm_multiply [&_figure]:[&_img]:lp-ml_var(--log",
+      "content_type": "image/svg+xml",
+      "bytes": 10880,
+      "sha256": "39f88f09fbc846d996ce8b717cb181e4f0ab4102c5ee49f227c92c3d57e4d531",
+      "width": 96,
+      "height": 24
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/laliga/reference-1.webp",
+      "source_url": "https://assets.laliga.com/assets/2025/07/02/xlarge/e9177f6edd72c6360602adbca85e442f.png",
+      "source_tag": "json-ld.awayTeam.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 28364,
+      "sha256": "841c51fac90dae0ab0341b556bf780eeca6d60b452d16c28f96ea73d68b6d1dc",
+      "width": 900,
+      "height": 844
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/laliga/reference-2.webp",
+      "source_url": "https://assets.laliga.com/assets/2019/06/07/xlarge/malaga.png",
+      "source_tag": "json-ld.homeTeam.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 30082,
+      "sha256": "aac5a0de5abddbc187f0a3f2944d57b2aabc40b8ddca4ec9ca1a767dad9f1ad8",
+      "width": 900,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/laliga/reference-3.webp",
+      "source_url": "https://assets.laliga.com/assets/2019/06/07/xlarge/athletic.png",
+      "source_tag": "json-ld.awayTeam.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 23540,
+      "sha256": "48ed23e880b43f93235e6ec36963524df857bee2b55ec28368b5e3defae16a4d",
+      "width": 900,
+      "height": 900
+    }
+  ]
+}

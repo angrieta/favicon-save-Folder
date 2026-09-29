@@ -1,0 +1,69 @@
+{
+  "company": "Doctors Without Borders (MSF)",
+  "category": "문화_공공",
+  "requested_url": "https://msf.or.kr",
+  "page_url": "https://msf.or.kr/",
+  "page_title": "국경없는의사회",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/static/pretendard-dynamic-subset.min.css; reference:ValueError:https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/msf/favicon.png",
+      "source_url": "https://msf.or.kr/app/uploads/2025/03/msf_favicon.png?x45759",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 19909,
+      "sha256": "e9d9b1fa425b42c1dc97e65ccf908c9e12b6dfbe6994a0715c1bd5a2369623e2",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/msf/og.webp",
+      "source_url": "https://msf.or.kr/app/uploads/2025/04/open_graph-1.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9482,
+      "sha256": "3440eab685eb9121a7e9cb84e8e53b9ef018d6751b9692d1dd1848d0f30d9774",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/msf/logo-1.png",
+      "source_url": "https://msf.or.kr/app/themes/custom/msf/assets/images/logo.png?x45759",
+      "source_tag": "img:semantic-logo",
+      "context": "img hidden lg:group-[.home.not-scrolled]:block lg:group-[.home.menu-hover]:!hidden lg:h-10 lg:w-auto h-[28px] w-[92px] 국경없는의사회 a logo block lg:w-[131px] flex-shrink-0 lg:mr-16 div container relative z-20 flex items-center justify-between lg",
+      "content_type": "image/png",
+      "bytes": 5146,
+      "sha256": "64a6313a7b28cb5af9f2ce2b3bee11bc629f47fa5b85958a202179d662ac1693",
+      "width": 263,
+      "height": 80
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/msf/logo-2.png",
+      "source_url": "https://msf.or.kr/app/themes/custom/msf/assets/images/logo-sub.png?x45759",
+      "source_tag": "img:semantic-logo",
+      "context": "img block lg:group-[.home.not-scrolled]:hidden lg:group-[.home.menu-hover]:!block lg:h-10 lg:w-auto h-[28px] w-[92px] 국경없는의사회 a logo block lg:w-[131px] flex-shrink-0 lg:mr-16 div container relative z-20 flex items-center justify-between lg:",
+      "content_type": "image/png",
+      "bytes": 5936,
+      "sha256": "dbb56ec8220cc1877e5f758eceecb414aa38b08d3d494da3e0a141101fae01cb",
+      "width": 263,
+      "height": 80
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/msf/reference-1.webp",
+      "source_url": "https://msf.or.kr/app/uploads/2025/04/logo_square.jpg",
+      "source_tag": "json-ld.@graph[0].image.url",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 7770,
+      "sha256": "fbf0c6cc625a5e62f93a41abc5071b1261a5422afb303690f51db254e52b4869",
+      "width": 400,
+      "height": 401
+    }
+  ]
+}

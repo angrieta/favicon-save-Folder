@@ -1,0 +1,94 @@
+{
+  "company": "ATP Tour",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.atptour.com",
+  "page_url": "https://www.atptour.com/en",
+  "page_title": "Official Site of Men's Professional Tennis | ATP Tour | Tennis",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.atptour.com/assets/atptour/fonts/creatodisplay-regular-webfont.woff2; reference:ValueError:https://www.atptour.com/assets/atptour/fonts/creatodisplay-medium-webfont.woff2; reference:ValueError:https://www.atptour.com/assets/atptour/fonts/creatodisplay-extrabold-webfont.woff2; reference:ValueError:https://www.atptour.com/assets/atptour/fonts/creatodisplay-bold-webfont.woff2; reference:ValueError:https://www.atptour.com/assets/atptour/fonts/creatodisplay-black-webfont.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/atp-tour/favicon.ico",
+      "source_url": "https://www.atptour.com/assets/atpwt/images/global/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "1cdd8ff57e6a450c51d84cfc56066133fe89afea88cabbe4b86f7ab047f27926",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/atp-tour/logo-1.png",
+      "source_url": "https://www.atptour.com/-/media/sites/atp-tour/header/atp-add-all-logo_1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-image ATPTour a div logo div header div atp_header-overlay-navigation",
+      "content_type": "image/png",
+      "bytes": 7619,
+      "sha256": "3ee4f627afb08c9b4b55346a185b7c36391d7859991d29b9d6440ac5b933764d",
+      "width": 844,
+      "height": 257
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/atp-tour/logo-2.png",
+      "source_url": "https://www.atptour.com/-/media/sites/atp-tour/header/lexus_atp_head2head_ondark_rgb.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img partner-logo div partner-link div header div h2h-content a atp_head2head-static h2h-banner__link",
+      "content_type": "image/png",
+      "bytes": 41291,
+      "sha256": "42e081ccad70ce61708ed0f62cc41bbd5a419a83194604876f5a6db31f9aacae",
+      "width": 1600,
+      "height": 128
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/atp-tour/banner-1.svg",
+      "source_url": "https://www.atptour.com/-/media/sites/atp-tour/header/logo-emirates-mobile_1.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img sponsor-logo a sponsor-link div sponsor div section div wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 14606,
+      "sha256": "8fa6238a33df481c8ede49f378c8655b46f683408d6cfabe894e3894390dc2ff",
+      "width": 1734,
+      "height": 616
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/atp-tour/reference-1.webp",
+      "source_url": "https://www.atptour.com/-/media/images/news/2026/09/29/14/27/medvedev-rublev-hangzhou-2026-trophy.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Medvedev hits 23 aces to sink Rublev, capture Hangzhou title div image image--video div image-container a card-link div atp_card large inverse",
+      "content_type": "image/webp",
+      "bytes": 142664,
+      "sha256": "d30fffc76257951b0ca39796dc001751c8d5bd018610d278c9f023edebbefd3e",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/atp-tour/reference-2.webp",
+      "source_url": "https://www.atptour.com/-/media/images/news/2026/09/29/14/10/davidovich-fokina-chengdu-2026-trophy.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Davidovich Fokina wins second title of 2026 in Chengdu div image image--video div image-container a card-link div atp_card small",
+      "content_type": "image/webp",
+      "bytes": 179192,
+      "sha256": "923acc500269461c3a270b1fdbed70e11fe5f6ddb3ad44b28db8d50dc19bbee1",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/atp-tour/reference-3.webp",
+      "source_url": "https://www.atptour.com/-/media/sites/atp-tour/header/logo-atptour-dark_1.png",
+      "source_tag": "img:page-image",
+      "context": "img logo-image ATPTour a div brand div section div wrapper",
+      "content_type": "image/webp",
+      "bytes": 7120,
+      "sha256": "80de0229f2dab049b868a765267a787f0a6081c4a9456daddbd648af21f13106",
+      "width": 844,
+      "height": 257
+    }
+  ]
+}

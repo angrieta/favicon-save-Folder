@@ -1,0 +1,34 @@
+{
+  "company": "Grubhub",
+  "category": "유통_커머스",
+  "requested_url": "https://www.grubhub.com",
+  "page_url": "https://www.grubhub.com/",
+  "page_title": "Grubhub food delivery is not available in your country",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/grubhub/favicon.png",
+      "source_url": "http://gh-prod-umami-grubhub.s3-website-us-east-1.amazonaws.com/img/grubhub/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 329,
+      "sha256": "42b83b35541e94d59c2fd225b21c497c3b44d2db0752da40789ebd55aaf1abfa",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/grubhub/logo-1.svg",
+      "source_url": "https://res.cloudinary.com/grubhub-assets/image/upload/v1651068764/Citrus-assets/Logos/No%20Registered%20Mark/1_Grubhub_Logo_NotRegistered/SVG/grubhub_NotRegistered_Orange_RGB.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a mainNavBrand-logo div mainNavCol mainNavBrand div mainNav body",
+      "content_type": "image/svg+xml",
+      "bytes": 2915,
+      "sha256": "4e22272f55a7e50a63c20de6d3c6eb0eb19f7892cf9e8eca4608550c115521b1",
+      "width": 371,
+      "height": 78
+    }
+  ]
+}

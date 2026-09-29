@@ -1,0 +1,93 @@
+{
+  "company": "Cadbury",
+  "category": "식품_생활",
+  "requested_url": "https://www.cadbury.co.uk",
+  "page_url": "https://www.cadbury.co.uk/",
+  "page_title": "Cadbury Chocolate",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.cadbury.co.uk/static/background-desktop-header-3946df9cdb9350a81d5c812b9b5c9411.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/cadbury/favicon.png",
+      "source_url": "https://www.cadbury.co.uk/icons/icon-512x512.png?v=1fae1cef388efeb8802bc4d60c174914",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 47638,
+      "sha256": "70317deb1bb730a06757b09c3a18007dd6d402c4aec9ffe8b45faa011afa1adb",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/cadbury/og.webp",
+      "source_url": "https://images.ctfassets.net/pmzhtobns06n/es9Kil5YGeO5GKVHFy9D8/351dd37c550f2e4db6ccba091d2d0652/Cadbury.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11230,
+      "sha256": "2025224dd97aeb82574577d90a35bffe5f4fd26139ac39d96cff40ec38432e84",
+      "width": 513,
+      "height": 269
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/cadbury/logo-1.svg",
+      "source_url": "https://images.ctfassets.net/pmzhtobns06n/2lwDnQV5TUAx15z7Z2FYWw/63e169e6c0155db88194f2a506b260e8/Cadbury_GlobalNavigation_BrandLogo_Desktop.svg?q=80",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 10167,
+      "sha256": "73876e359f41783dc2b2528a452a8e0dc43338fe7f60c1fee5f49dda8666fa3f",
+      "width": 331,
+      "height": 88
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/cadbury/logo-2.png",
+      "source_url": "https://images.ctfassets.net/pmzhtobns06n/2zucab1BXSMzhuMBP3YFO7/97032ff8653740eaca7d96438a175133/CDM_Logo_Plain_Chunk1.png?fm=webp&q=80",
+      "source_tag": "img:semantic-logo",
+      "context": "img mobLeft w-[190px] lg:w-[25%] absolute top-[0] lg:top-[11%] -left-[5px] lg:left-[8%] z-2 Cadbury Dairy Milk Chocolate Chunk leftSmCameoImg image div div div no-print relative mx-auto w-full overflow-hidden main",
+      "content_type": "image/png",
+      "bytes": 252604,
+      "sha256": "412af4d34cfe77f431b3ecd221552663284da274073509db75cfd7b43413e843",
+      "width": 710,
+      "height": 710
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/cadbury/banner-1.webp",
+      "source_url": "https://images.ctfassets.net/pmzhtobns06n/3VOj7B2ODRaKaqQUEwr0eJ/9de6ee9ec9edbd376d84a94ab1fbfe20/Background_Texture.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div cadburyuk-stories insta-main-wrapper lg:pt-[80px] pt-[80px] pb-[60px] lg:pb-[40px] px-[15px] relative lg:px-0 bg-contain background-image:url(https://images.ctfassets.net/pmzhtobns06n/3VOj7B2ODRaKaqQUEwr0eJ/9de6ee9ec9edbd376d84a94ab1fbf",
+      "content_type": "image/webp",
+      "bytes": 109576,
+      "sha256": "28169c8b5454180f73f82124125b23ea7fd95b39aec34208f048a34bdb212bad",
+      "width": 1800,
+      "height": 938
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/cadbury/reference-1.webp",
+      "source_url": "https://images.ctfassets.net/pmzhtobns06n/2wC68NLrrsMn6Ze5WPiqvr/72a18a88506aaccbdb2041d753871e7c/Hazelnut.png?fm=webp&q=80",
+      "source_tag": "img:page-image",
+      "context": "img cameoTwo absolute w-[62.3%] max-w-[234px] bottom-[5%] top-auto right-0 lg:w-[18%] lg:max-w-[256px] lg:top-auto lg:-bottom-[3%] lg:right-[14%] Hazelnut Hazelnut image div instaMainWrapperTablet lg:pl-[50px] div cadburyuk-stories insta-ma",
+      "content_type": "image/webp",
+      "bytes": 8654,
+      "sha256": "842b34c206b5648916b0366eae492818b82b5cf4c143a8286a412ec9915b7fb8",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/cadbury/reference-2.webp",
+      "source_url": "https://images.ctfassets.net/pmzhtobns06n/FylNgIq5k8uYLgdPsRNC3/1e15003b7f4dc9cd882f23a14b854e35/Cadbury_MilkPourMaster-compressed-new.png?fm=webp&q=80",
+      "source_tag": "picture:page-image",
+      "context": "picture imgCenter relative lg:max-w-[300px] desktop CDM Milkpour div no-print footerFullwidthimg m-auto w-full flex lg:align-center lg:items-center lg:justify-end max-w-contentContainer div bg-purple footerWrapper div main-container text-da",
+      "content_type": "image/webp",
+      "bytes": 11434,
+      "sha256": "5a693b1ddecc46afe6b02de344b1b8b5f9680de2058ccdba8d6bb266d109ed92",
+      "width": 1080,
+      "height": 1080
+    }
+  ]
+}

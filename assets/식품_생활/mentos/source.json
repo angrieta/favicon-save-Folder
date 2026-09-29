@@ -1,0 +1,83 @@
+{
+  "company": "Mentos",
+  "category": "식품_생활",
+  "requested_url": "https://www.mentos.com",
+  "page_url": "https://countries.mentos.com/",
+  "page_title": "Mentos",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/mentos/logo-1.png",
+      "source_url": "https://countries.mentos.com/mentos.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__logo-image Mentos h1 div container header body countries",
+      "content_type": "image/png",
+      "bytes": 15012,
+      "sha256": "dc88e5a513a7029316b62dc83f9c30cc5f7f208b000de35556f0fb708d45de7e",
+      "width": 522,
+      "height": 105
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/mentos/banner-1.webp",
+      "source_url": "https://countries.mentos.com/map-bg.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img worldmap div mapwrap hidden section countries container div main-wrapper body countries",
+      "content_type": "image/webp",
+      "bytes": 12720,
+      "sha256": "626b86f98e022a7e6d28bbb3b8beb703a255bfc787e74395495733f90e9cee3f",
+      "width": 1072,
+      "height": 562
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/mentos/banner-2.webp",
+      "source_url": "https://countries.mentos.com/overlay-na.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img worldmap-overlay-na map-overlay img worldmap div mapwrap hidden section countries container div main-wrapper",
+      "content_type": "image/webp",
+      "bytes": 15852,
+      "sha256": "b9431f990b90324304f29e9fe1f5f85a580fba644865ee0a9216e9c3457c14d6",
+      "width": 1072,
+      "height": 562
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/mentos/reference-1.webp",
+      "source_url": "https://countries.mentos.com/overlay-sa.png",
+      "source_tag": "img:page-image",
+      "context": "img worldmap-overlay-sa map-overlay img worldmap div mapwrap hidden section countries container div main-wrapper",
+      "content_type": "image/webp",
+      "bytes": 5788,
+      "sha256": "d1bd07484a3d05934053e0be952afad889f89f8c48f5683c864dc42d3ca24dcc",
+      "width": 1072,
+      "height": 562
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/mentos/reference-2.webp",
+      "source_url": "https://countries.mentos.com/overlay-af.png",
+      "source_tag": "img:page-image",
+      "context": "img worldmap-overlay-af map-overlay img worldmap div mapwrap hidden section countries container div main-wrapper",
+      "content_type": "image/webp",
+      "bytes": 8110,
+      "sha256": "ff6a73823ff73a146f4c9b6288321743c7ff174b6327db084f9273653a9b52cb",
+      "width": 1072,
+      "height": 562
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/mentos/reference-3.webp",
+      "source_url": "https://countries.mentos.com/overlay-eu.png",
+      "source_tag": "img:page-image",
+      "context": "img worldmap-overlay-eu map-overlay img worldmap div mapwrap hidden section countries container div main-wrapper",
+      "content_type": "image/webp",
+      "bytes": 6682,
+      "sha256": "2cb78df156722461199ae228282346473a3c8c11c409cd016d5a6a14bf75b458",
+      "width": 1072,
+      "height": 562
+    }
+  ]
+}

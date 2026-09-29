@@ -1,0 +1,22 @@
+{
+  "company": "bol",
+  "category": "유통_커머스",
+  "requested_url": "https://www.bol.com",
+  "page_url": "https://www.bol.com/",
+  "page_title": "bol",
+  "collection_status": "page-error",
+  "collection_error": "ReadTimeout: HTTPSConnectionPool(host='www.bol.com', port=443): Read timed out. (read timeout=35)",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/bol/favicon.ico",
+      "source_url": "https://www.bol.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "8f253ebd003771b94abdc031cd7d214a80585879f17776cb5dd15d9001423c9a",
+      "width": 48,
+      "height": 48
+    }
+  ]
+}

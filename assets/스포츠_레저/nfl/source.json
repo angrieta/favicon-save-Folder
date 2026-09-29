@@ -1,0 +1,118 @@
+{
+  "company": "NFL",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.nfl.com",
+  "page_url": "https://www.nfl.com/international",
+  "page_title": "NFL International Homepage | NFL.com Official Site of the National Football League",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://cdn.cookielaw.org/scripttemplates/otSDKStub.js; reference:ValueError:https://assets.adobedtm.com/a5ea4e8f4344/1648c62d3986/launch-53368d199d70.min.js; reference:ValueError:https://imasdk.googleapis.com/js/sdkloader/gpt_proxy.js; reference:ValueError:https://securepubads.g.doubleclick.net/tag/js/gpt.js; reference:ValueError:https://cdn.adsafeprotected.com/iasPET.1.js; reference:ValueError:https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/nfl/favicon.png",
+      "source_url": "https://static.www.nfl.com/league/run3dfyjniqxah4ehxfu",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 27294,
+      "sha256": "4eebcf37691ac9145efaa5a1e297168814bdf406da887800c5189936a5cd0801",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/nfl/og.webp",
+      "source_url": "https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13032,
+      "sha256": "0fa927c25c1e927076de5af2d481f0851136a67440363593025b9737e8c4f01c",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/nfl/logo-1.svg",
+      "source_url": "https://stage-static.www.nfl.com/image/upload/v1719838051/stage-league/logos/Gamepass-Logo_huakk9.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img size-5 a flex gap-1 display-6 items-center text-white pr-1.5 italic div hidden md:flex div container flex nav flex flex-col justify-center h-(--header-panel-top-hat-height) sticky top-0 py-2 z-50 bg-ds-level-2 Top Hat Header",
+      "content_type": "image/svg+xml",
+      "bytes": 1461,
+      "sha256": "0d47bb8580c4e4253b840ae1e165a82318281c9b64cbb68a7a0189ae5e62fb60",
+      "width": 22,
+      "height": 10
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/nfl/og.webp",
+      "source_url": "https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.png",
+      "source_tag": "img:semantic-logo",
+      "content_type": "image/webp",
+      "bytes": 13032,
+      "sha256": "0fa927c25c1e927076de5af2d481f0851136a67440363593025b9737e8c4f01c",
+      "width": 500,
+      "height": 500,
+      "context": "img flex size-9 min-w-9 NFL Logo a Homepage div flex items-center gap-4 h-9 lg:gap-6 lg:h-(--header-panel-main-nav-height) div container relative flex items-center self-stretch justify-between h-(--header-panel-main-nav-height) py-2 lg:py-0",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/nfl/banner-1.webp",
+      "source_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto,dpr_2.0/league/ghg0cqhngirurdsg9gjv",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover object-top div aspect-video grid grid-cols-3 grid-rows-3 relative bg-ls-400 dark:bg-ds-400 bg-cover a flex flex-col size-full relative group/card hover:outline-1 hover:data-[accent-variant='plus']:outline-plus-primary dark:",
+      "content_type": "image/webp",
+      "bytes": 128484,
+      "sha256": "443d2705768cf0bb0200c3cf7612a4dae8b2cc79576281ca77567a2bdfdd70fd",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/nfl/banner-2.webp",
+      "source_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto,dpr_2.0/league/s8sp7cmfv28ta4e4dgjz",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover object-top div aspect-video grid grid-cols-3 grid-rows-3 relative bg-ls-400 dark:bg-ds-400 bg-cover a flex flex-col size-full relative group/card hover:outline-1 hover:data-[accent-variant='plus']:outline-plus-primary dark:",
+      "content_type": "image/webp",
+      "bytes": 211624,
+      "sha256": "e6ff52e3c93f76007c5cf0e52d7986ebbb25f9a78b47de346cb36aa25e3ef687",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/nfl/reference-1.webp",
+      "source_url": "https://static.www.nfl.com/image/upload/f_auto,dpr_2.0,q_auto/league/jhs3ootijeq1vsnxzzfb",
+      "source_tag": "link:preload",
+      "context": "preload image  https://static.www.nfl.com/image/upload/f_auto,dpr_2.0,q_auto/league/jhs3ootijeq1vsnxzzfb",
+      "content_type": "image/webp",
+      "bytes": 45878,
+      "sha256": "bb37f071ae75d741a3220a18a31b084a6fe5206a791189121c365b7a12be6100",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/nfl/reference-2.webp",
+      "source_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto,dpr_2.0/league/zv5wkzj0vgdc80vlshhr",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-top div aspect-video grid grid-cols-3 grid-rows-3 relative bg-ls-400 dark:bg-ds-400 bg-cover a flex flex-col size-full relative group/card hover:outline-1 hover:data-[accent-variant='plus']:outline-plus-primary dark:",
+      "content_type": "image/webp",
+      "bytes": 173990,
+      "sha256": "40e36b408bf5127fe5aceae2b53c3a7cf795fe71617b2207f2f58e81e64a0bec",
+      "width": 1800,
+      "height": 1012
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/nfl/reference-3.webp",
+      "source_url": "https://static.www.nfl.com/image/upload/f_auto,q_auto,dpr_2.0/league/zfxwgo7wqykgxnkbomiu",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-top div aspect-video grid grid-cols-3 grid-rows-3 relative bg-ls-400 dark:bg-ds-400 bg-cover a flex flex-col size-full relative group/card hover:outline-1 hover:data-[accent-variant='plus']:outline-plus-primary dark:",
+      "content_type": "image/webp",
+      "bytes": 129270,
+      "sha256": "dfa1ccb913d00f90f88825d2d56ac29a3b55bd350b5309397c1d254e41bf9a27",
+      "width": 1800,
+      "height": 1012
+    }
+  ]
+}

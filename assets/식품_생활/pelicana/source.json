@@ -1,0 +1,58 @@
+{
+  "company": "페리카나",
+  "category": "식품_생활",
+  "requested_url": "https://www.pelicana.co.kr",
+  "page_url": "https://www.pelicana.co.kr/",
+  "page_title": "페리카나",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.pelicana.co.kr/_nuxt/6048c0c.js; reference:ValueError:https://www.pelicana.co.kr/_nuxt/7eb9d03.js; reference:ValueError:https://www.pelicana.co.kr/_nuxt/1fb53df.js; reference:ValueError:https://www.pelicana.co.kr/_nuxt/2137068.js; reference:ValueError:https://www.pelicana.co.kr/_nuxt/3f63ed3.js; reference:ValueError:https://www.pelicana.co.kr/_nuxt/0cd49fa.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/pelicana/favicon.ico",
+      "source_url": "https://www.pelicana.co.kr/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "cb780b17b48f6672e6b8174db91ea8dc5abbafea634b2083361030320993f5d5",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/pelicana/logo-1.png",
+      "source_url": "https://www.pelicana.co.kr/_nuxt/img/logo.54d3328.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 페리카나 a h1 logo div hd_inner header header",
+      "content_type": "image/png",
+      "bytes": 2923,
+      "sha256": "f35dd9da6a432923830af6c97cbd82de6af6e3b6f633eb68666cc3fb45c6599d",
+      "width": 140,
+      "height": 58
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/pelicana/banner-1.webp",
+      "source_url": "https://www.pelicana.co.kr/_nuxt/img/bg_main_btm.85afe92.jpg",
+      "source_tag": "style-background-image",
+      "context": "-color) url(/_nuxt/img/ico_arrow_2.8772ae2.png) center center no-repeat}.main_video{max-height:106.5rem;height:47vw}.main_video iframe{height:100%}.main_franchise_guide{background:url(/_nuxt/img/bg_main_btm.85afe92.jpg) center no-repeat;bac",
+      "content_type": "image/webp",
+      "bytes": 19870,
+      "sha256": "44631163c5579f80cc33098ae56b9e192dfca9d382b73c2dae294a90a9ebc912",
+      "width": 1800,
+      "height": 431
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/pelicana/banner-2.webp",
+      "source_url": "https://www.pelicana.co.kr/_nuxt/img/bg_menu_banner.273e4b5.jpg",
+      "source_tag": "style-background-image",
+      "context": ".main_best_menu .swiper-container .swiper-slide.swiper-slide-active div{max-width:25rem}}.top_banner img{max-width:100%}.top_banner.menu{width:100%;height:37.5rem;background-image:url(/_nuxt/img/bg_menu_banner.273e4b5.jpg);background-repeat",
+      "content_type": "image/webp",
+      "bytes": 57022,
+      "sha256": "5cdecb49f1c4fa320aad06916f7b8bdfefb401765ff115ddf1068227786e228e",
+      "width": 1800,
+      "height": 352
+    }
+  ]
+}

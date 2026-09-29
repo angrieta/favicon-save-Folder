@@ -1,0 +1,106 @@
+{
+  "company": "Eataly",
+  "category": "식품_생활",
+  "requested_url": "https://www.eataly.com",
+  "page_url": "https://www.eataly.com/us_en",
+  "page_title": "Eataly: authentic Italian products, restaurants, cooking classes | Eataly",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.eataly.com/_nuxt/7fa79a8.js; reference:ValueError:https://www.eataly.com/_nuxt/7767731.js; reference:ValueError:https://www.eataly.com/_nuxt/a91f3f8.js; reference:ValueError:https://www.eataly.com/_nuxt/174e5b0.js; reference:ValueError:https://www.eataly.com/_nuxt/63ea6db.js; reference:ValueError:https://www.eataly.com/_nuxt/ddbb9ea.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/eataly/favicon.png",
+      "source_url": "https://www.eataly.com/images/icon_512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 11823,
+      "sha256": "c444869b5c2195263d53b6c9ac77de4260fdbb15deea44eb8f001539fa45f04d",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/eataly/og.webp",
+      "source_url": "https://www.eataly.com/images/logo_og.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7140,
+      "sha256": "48de197c8c6368b0e0ba1aeb70d08ef0e629bfa0c766f752cd986bdf799f4b04",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/eataly/logo-1.svg",
+      "source_url": "https://www.eataly.com/images/logoSimple.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-image a11y-focus-standard a11y-focus-rounded a logo-link nuxt-link-exact-active nuxt-link-active h1 logo-wrapper main-logo div header-content-wrapper header main-header",
+      "content_type": "image/svg+xml",
+      "bytes": 5544,
+      "sha256": "ae3b70c77bfd2b69fd6c58066d8b5c5399a19b5bd0e8918d2fe7da3f58d4c041",
+      "width": 101,
+      "height": 13
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/eataly/og.webp",
+      "source_url": "https://www.eataly.com/images/logo_og.webp",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 7140,
+      "sha256": "48de197c8c6368b0e0ba1aeb70d08ef0e629bfa0c766f752cd986bdf799f4b04",
+      "width": 1200,
+      "height": 630,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/eataly/banner-1.webp",
+      "source_url": "https://images.prismic.io/eataly-us/aB5wzSdWJ-7kR2pf_MSCEATALY_1230x250DigitalBanner-1-.png?auto=format,compress",
+      "source_tag": "img:semantic-banner",
+      "context": "img MSC Eataly Banner a figure cms-image-item div cms-image-flex-wrapper center div cms-image",
+      "content_type": "image/webp",
+      "bytes": 37438,
+      "sha256": "39a23c1cd9d44216467ad14adfd091ee5da578c0c50b76bf19c694db4ffcd366",
+      "width": 1230,
+      "height": 250
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/eataly/banner-2.webp",
+      "source_url": "https://images.prismic.io/eataly-us/35UjaIP1eTE2BdXA_Restaurants_HomepageDesktop.jpg?auto=format,compress&rect=0,0,1920,500&w=1920&h=500",
+      "source_tag": "inline-background-image",
+      "context": "div  hero-home-image hero-home-image-content-left boxed background-image:url(https://images.prismic.io/eataly-us/35UjaIP1eTE2BdXA_Restaurants_HomepageDesktop.jpg?auto=format,compress&rect=0,0,1920,500&w=1920&h=500);",
+      "content_type": "image/webp",
+      "bytes": 37064,
+      "sha256": "944a4a52247823b606eac3c17cf1a8ba467ec4ad618062cfda4579697dce47c4",
+      "width": 1800,
+      "height": 469
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/eataly/reference-1.webp",
+      "source_url": "https://images.prismic.io/eataly-us/aV2CIXNYClf9o1UX_Lexington-Banner-5_975x400.jpg?auto=format,compress",
+      "source_tag": "inline-background-image",
+      "context": "div  banner-image background-image:url(https://images.prismic.io/eataly-us/aV2CIXNYClf9o1UX_Lexington-Banner-5_975x400.jpg?auto=format,compress);",
+      "content_type": "image/webp",
+      "bytes": 27454,
+      "sha256": "2d6084e26c457b7b60d63dea6e6b98665232ea07715e841e92c48606cc2f7922",
+      "width": 975,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/eataly/reference-2.webp",
+      "source_url": "https://images.prismic.io/eataly-us/aY93vVWLo0XkEgaf_Eataly_Pasta-2.jpg?auto=format%2Ccompress&rect=16%2C3%2C1638%2C672&w=1950&h=800",
+      "source_tag": "inline-background-image",
+      "context": "div  banner-image background-image:url(https://images.prismic.io/eataly-us/aY93vVWLo0XkEgaf_Eataly_Pasta-2.jpg?auto=format%2Ccompress&rect=16%2C3%2C1638%2C672&w=1950&h=800);",
+      "content_type": "image/webp",
+      "bytes": 65260,
+      "sha256": "237c1a114ed4ee15cd57114417bd3b5db7f6d6389e689f838a34e562478af82a",
+      "width": 1800,
+      "height": 738
+    }
+  ]
+}
