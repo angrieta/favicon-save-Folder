@@ -225,7 +225,10 @@ function findOverlays() {
     const bg = s.backgroundColor.match(/[\d.]+/g);
     const isDim = s.position === "fixed" && coverage > 0.85 && bg && bg.length === 4 && Number(bg[3]) > 0.15 && Number(bg[3]) < 0.97;
     if (!isDialog && !isConsent && !isDim) continue;
-    if (s.position === "absolute" && z < 5 && !isDialog) continue;
+    // A layer popup sits above the page; slides and inline blocks with popup-ish class names do not.
+    if (s.position === "absolute" && z < 100) continue;
+    if (!isConsent && !isDim && el.closest("[class*=swiper i], [class*=slick i], [class*=carousel i], [class*=splide i], [class*=flickity i], [class*=owl i]")) continue;
+    if (isDialog && !isDim && !isConsent && (w < 280 || h < 180)) continue;
     // Headers are often fixed and full width; they are not popups.
     if (r.top <= 2 && r.height < 220 && !isConsent && !isDim && el.querySelector("a[href]") && coverage < 0.3) continue;
     found.push({ el, rect: r, coverage, isConsent, isDim, isDialog });
@@ -286,6 +289,8 @@ function findFloating() {
     const h = Math.min(r.bottom, vh) - Math.max(r.top, 0);
     if (w < 22 || h < 22) continue;
     if ((w * h) / (vw * vh) > 0.45) continue;
+    // Sticky sidebars and tab rows are page layout, not floating widgets.
+    if (s.position === "sticky" && !(r.top <= 4 && w >= vw * 0.85) && !(r.bottom >= vh - 4) && !(w <= 160 && h <= 160)) continue;
     hits.push({ el, r, w, h });
   }
   const outer = hits.filter((c) => !hits.some((o) => o !== c && o.el.contains(c.el)));
@@ -303,9 +308,8 @@ function findFloating() {
     else if (/quick|퀵|side|aside|wing/i.test(identity)) label = "퀵메뉴";
     else if (/app|앱|download|다운로드/i.test(identity)) label = "앱 설치 안내";
     else if (/cookie|쿠키|consent/i.test(identity)) label = "쿠키·개인정보 동의 배너";
-    else if (r.bottom >= vh - 4 && w >= vw * 0.85) label = "하단 고정 바";
-    else if (w >= vw * 0.85) label = "고정 바";
-    else label = rc.text(el, 30) || "플로팅";
+    else if (r.bottom >= vh - 4 && w >= vw * 0.85 && h <= 160) label = "하단 고정 바";
+    else continue;
     const pad = kind === "header" ? 0 : 8;
     const x = Math.max(0, r.left - pad), y = Math.max(0, r.top - pad);
     out.push({
@@ -568,6 +572,8 @@ function findButtons(limit) {
     const text = (el.tagName === "INPUT" ? el.value : el.innerText || "").replace(/\s+/g, " ").trim();
     const label = text || el.getAttribute("aria-label") || el.getAttribute("title") || "";
     if (!label || label.length > 34) continue;
+    // Slider controls and skip links are not design references.
+    if (/(skip to|본문 바로가기|자동재생|일시정지|pause|play|stop|prev|next|이전|다음|close|닫기)/i.test(label)) continue;
     const s = getComputedStyle(el);
     const bg = rc.parseColor(s.backgroundColor);
     const gradient = /gradient/i.test(s.backgroundImage);
@@ -1010,7 +1016,7 @@ async function collectDevice(browser, row, deviceName, args, day, job = { aborte
     if (job.aborted) return Promise.reject(new Error("aborted"));
     return withTimeout(browser.send(method, params, sessionId), 90_000, method);
   };
-  const evaluate = async (expression, timeout = 20_000) => {
+  const evaluate = async (expression, timeout = 40_000) => {
     const result = await withTimeout(send("Runtime.evaluate", { expression, returnByValue: true, awaitPromise: true }), timeout, "evaluate");
     if (result.exceptionDetails) throw new Error(result.exceptionDetails.exception?.description?.split("\n")[0] || "page script failed");
     return result.result?.value;
@@ -1118,7 +1124,11 @@ async function collectDevice(browser, row, deviceName, args, day, job = { aborte
     await loaded;
     await network.idle(1500, 10_000);
     await sleep(700);
-    await evaluate(call(installHelpers));
+    // Heavy pages can still be busy starting up; give them a second chance.
+    await evaluate(call(installHelpers)).catch(async () => {
+      await sleep(3000);
+      await evaluate(call(installHelpers), 60_000);
+    });
     mark("loaded");
     const blocked = await evaluate(call(blockedReason)).catch(() => "");
     if (blocked) throw new Error(`blocked page: ${blocked}`);
@@ -1153,7 +1163,7 @@ async function collectDevice(browser, row, deviceName, args, day, job = { aborte
 
     /* 3. static parts, then the full page as stitched screen-sized tiles */
     mode = await evaluate(call(scrollMode)).catch(() => mode);
-    const measured = await evaluate(call(measureParts, device.maxHeight), 30_000);
+    const measured = await evaluate(call(measureParts, device.maxHeight), 60_000);
     const buttons = await evaluate(call(findButtons, device.mobile ? 14 : 18)).catch(() => []);
     const colors = await evaluate(call(collectColors, buttons || []), 20_000).catch(() => null);
     const meta = await evaluate(call(collectMeta)).catch(() => null);
@@ -1228,9 +1238,10 @@ async function collectDevice(browser, row, deviceName, args, day, job = { aborte
       height = Math.max(device.height, Math.min(contentHeight, device.maxHeight));
       for (let y = 0; y < height; y += device.height) {
         const top = Math.min(y, height - device.height);
-        await evaluate(`window.scrollTo(0, ${top}); true`);
+        // A busy page may answer slowly; keep going with what is on screen.
+        await evaluate(`window.scrollTo(0, ${top}); true`, 20_000).catch(() => {});
         await sleep(y === 0 ? 200 : 320);
-        const scrolled = await evaluate("Math.round(window.scrollY)");
+        const scrolled = await evaluate("Math.round(window.scrollY)", 20_000).catch(() => top);
         if (scrolled < top - 4) {
           // The page got shorter while scrolling; end the capture here.
           tiles.push({ y: scrolled * pixel, data: await viewportTile(scrolled) });
@@ -1451,7 +1462,7 @@ async function main() {
   // browsers with a few tabs each are much faster than one browser with many.
   const browserCount = Math.max(1, args.browsers || Math.ceil(args.workers / 2));
   const pool = [];
-  for (let index = 0; index < browserCount; index += 1) pool.push({ browser: await Browser.launch(), restarting: null });
+  for (let index = 0; index < browserCount; index += 1) pool.push({ browser: await Browser.launch(), restarting: null, failures: 0 });
   console.log(`Browser: ${pool[0].browser.executable} x${browserCount}`);
   console.log(`Collecting components for ${jobs.length} pages with ${args.workers} workers`);
 
@@ -1481,8 +1492,9 @@ async function main() {
   let finished = 0;
   let failed = 0;
   let lastProgress = Date.now();
+  let failStreak = 0;
   const watchdog = setInterval(() => {
-    if (Date.now() - lastProgress > 10 * 60_000) {
+    if (Date.now() - lastProgress > 12 * 60_000) {
       console.log(`WATCHDOG no progress for 10 minutes; ending this batch (saved=${finished} failed=${failed})`);
       pool.forEach((slot) => slot.browser.child.kill());
       saveChain.finally(() => process.exit(3));
@@ -1496,7 +1508,7 @@ async function main() {
       const browser = slot.browser;
       try {
         const job = { aborted: false };
-        const result = await withTimeout(collectDevice(browser, row, device, args, day, job), 300_000, "collect").catch(async (error) => {
+        const result = await withTimeout(collectDevice(browser, row, device, args, day, job), 420_000, "collect").catch(async (error) => {
           job.aborted = true;
           if (job.targetId) await withTimeout(browser.send("Target.closeTarget", { targetId: job.targetId }), 5000, "close").catch(() => {});
           throw error;
@@ -1504,6 +1516,8 @@ async function main() {
         await save(result);
         finished += 1;
         lastProgress = Date.now();
+        failStreak = 0;
+        slot.failures = 0;
         const e = result.entry;
         const kinds = {};
         e.regions.concat(e.items).forEach((item) => { kinds[item.kind] = (kinds[item.kind] || 0) + 1; });
@@ -1511,9 +1525,20 @@ async function main() {
       } catch (error) {
         failed += 1;
         lastProgress = Date.now();
+        failStreak += 1;
+        slot.failures += 1;
+        // A long run of failures means the browsers are wedged, not the sites.
+        if (failStreak >= 12) {
+          console.log(`WATCHDOG ${failStreak} failures in a row; ending this batch (saved=${finished} failed=${failed})`);
+          pool.forEach((entry) => entry.browser.child.kill());
+          await saveChain;
+          process.exit(3);
+        }
         await recordFailure(`${row.slug}:${device}`).catch(() => {});
         console.log(`[${finished + failed}/${jobs.length}] ${row.company} ${device} failed: ${error.message}`);
-        if (/connection closed|Target closed|WebSocket/i.test(error.message) && !slot.restarting && slot.browser === browser) {
+        const wedged = slot.failures >= 3;
+        if ((wedged || /connection closed|Target closed|WebSocket/i.test(error.message)) && !slot.restarting && slot.browser === browser) {
+          slot.failures = 0;
           slot.restarting = (async () => {
             await browser.close().catch(() => {});
             slot.browser = await Browser.launch();

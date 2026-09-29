@@ -37,7 +37,7 @@ from concurrent.futures import ProcessPoolExecutor
 from pathlib import Path
 from typing import Any
 
-from PIL import Image, ImageStat
+from PIL import Image, ImageFilter, ImageStat
 
 from clean_icons import measure as measure_icon, verdict as icon_verdict
 
@@ -178,6 +178,172 @@ def write_atomic(path: Path, text: str) -> None:
     os.replace(temp, path)
 
 
+# ---------- quality rules (from a visual review of samples of every kind) ----------
+
+FLOATING_LABELS = {"TOP 버튼", "상담·챗봇", "퀵메뉴", "앱 설치 안내", "쿠키·개인정보 동의 배너", "하단 고정 바"}
+AUTH_RE = re.compile(r"(sign ?up|sign ?in|log ?in|get started|with google|with apple|로그인|회원가입|시작하기)", re.I)
+BUTTON_SKIP_RE = re.compile(r"(skip to|본문 바로가기|자동재생|일시정지|정지|pause|play|stop|prev|next|이전|다음|close|닫기|^menu$|메뉴)", re.I)
+CTA_TAB_RE = re.compile(r"(try|learn more|get started|sign up|buy|shop now|더 ?보기|구입|구매|시작하기|신청|바로가기|자세히)", re.I)
+
+
+def image_stats(image: Image.Image) -> dict[str, float]:
+    small = image.convert("RGB")
+    small.thumbnail((160, 160))
+    gray = small.convert("L")
+    width, height = gray.size
+    pixels = list(gray.getdata())
+    count = max(1, len(pixels))
+    ordered = sorted(pixels)
+    rows = [pixels[y * width:(y + 1) * width] for y in range(height)]
+
+    def row_std(row: list[int]) -> float:
+        mean = sum(row) / len(row)
+        return (sum((value - mean) ** 2 for value in row) / len(row)) ** 0.5
+
+    stds = [row_std(row) for row in rows] if width else [0.0]
+    flat = [value < 2 for value in stds]
+    longest = run = 0
+    for is_flat in [value < 3 for value in stds]:
+        run = run + 1 if is_flat else 0
+        longest = max(longest, run)
+    bottom = 0
+    for is_flat in reversed([value < 3 for value in stds]):
+        if not is_flat:
+            break
+        bottom += 1
+    edges = gray.filter(ImageFilter.FIND_EDGES)
+    colors = small.getcolors(maxcolors=200_000) or []
+    return {
+        "std": ImageStat.Stat(gray).stddev[0],
+        "mean": ImageStat.Stat(gray).mean[0],
+        "p99": ordered[min(count - 1, int(count * 0.99))],
+        "white": sum(value > 245 for value in pixels) / count,
+        "black": sum(value < 15 for value in pixels) / count,
+        "sat": ImageStat.Stat(small.convert("HSV")).mean[1],
+        "flat_rows": sum(flat) / max(1, len(flat)),
+        "longest_flat": longest / max(1, height),
+        "bottom_flat": bottom / max(1, height),
+        "edges": sum(value > 40 for value in edges.getdata()) / count,
+        "colors": len(colors),
+        "range": ordered[-1] - ordered[0],
+    }
+
+
+def frame_difference(a: Image.Image, b: Image.Image) -> float:
+    """Mean absolute difference (0-255) of two images scaled to the same small size."""
+    size = (96, max(1, round(96 * a.height / max(1, a.width))))
+    x = a.convert("L").resize(size)
+    y = b.convert("L").resize(size)
+    return sum(abs(p - q) for p, q in zip(x.getdata(), y.getdata())) / (size[0] * size[1])
+
+
+def region_reject(region: dict[str, Any], entry: dict[str, Any], stats: dict[str, float]) -> str:
+    kind = region["kind"]
+    x, y, w, h = region["box"]
+    mobile = entry.get("device") == "mobile"
+    label = str(region.get("label") or "").strip()
+    dimmed = stats["p99"] < 120 and stats["sat"] < 30
+    # Dark brand headers, footers and forms are common; only bodies are judged by dimming.
+    if kind in {"section", "card"} and dimmed:
+        return "dimmed by an overlay"
+    if kind == "header":
+        if (not mobile and h < 48) or (mobile and h < 88):
+            return "a ribbon, not the header"
+    elif kind == "nav":
+        if mobile:
+            return "mobile menus come from the opened drawer"
+        if w < 400 and y <= 25:
+            return "a utility link bar"
+    elif kind == "hero":
+        if stats["white"] > 0.85 and stats["std"] < 35:
+            return "nearly blank"
+        if stats["black"] > 0.45 and stats["flat_rows"] > 0.35:
+            return "media not loaded"
+        if stats["mean"] < 70 and stats["std"] < 33:
+            return "dimmed by an overlay"
+    elif kind == "section":
+        if not label:
+            return "no content heading"
+        if stats["std"] < 20 or stats["flat_rows"] > 0.6 or stats["bottom_flat"] > 0.5:
+            return "mostly empty"
+    elif kind == "card":
+        if h > 2.1 * w or w > 3 * h:
+            return "not card shaped"
+        if not mobile and w < 200:
+            return "too small"
+        if stats["longest_flat"] >= 0.45:
+            return "mostly empty"
+        if AUTH_RE.search(label):
+            return "a sign-in group"
+    elif kind == "footer":
+        if mobile and h < 180:
+            return "cut off"
+    elif kind == "form":
+        if label == "검색창" and w < 250:
+            return "an icon, not a search box"
+        if not mobile and (w * h > 600_000 or h > 1.2 * w):
+            return "a whole section"
+        if mobile and h > 1200:
+            return "a whole section"
+    elif kind == "tab":
+        if not label or w < 3 * h or w < 200:
+            return "not a tab row"
+        items = [part for part in label.split(" · ") if part]
+        if len(items) <= 2 and any(CTA_TAB_RE.search(part) for part in items):
+            return "buttons, not tabs"
+    return ""
+
+
+def item_reject(item: dict[str, Any], entry: dict[str, Any], stats: dict[str, float], picture: Image.Image, first_screen: Image.Image | None) -> str:
+    kind = item["kind"]
+    width, height = picture.size
+    mobile = entry.get("device") == "mobile"
+    label = str(item.get("label") or "").strip()
+    state = item.get("state", "")
+    ratio = 2.0 if mobile else 1.5
+    viewport = (390, 844) if mobile else (1440, 900)
+    if kind == "button":
+        if stats["edges"] < 0.03 or stats["std"] < 12:
+            return "no visible button"
+        if width < 1.3 * height or width > 8 * height:
+            return "not button shaped"
+        if BUTTON_SKIP_RE.search(label):
+            return "a slider or skip control"
+    elif kind == "floating":
+        if label not in FLOATING_LABELS:
+            return "not a floating widget"
+        css_w, css_h = width / ratio, height / ratio
+        if label == "쿠키·개인정보 동의 배너" and css_w >= viewport[0] * 0.98 and css_h >= viewport[1] * 0.9:
+            return "a whole screen, not the banner"
+        if label != "쿠키·개인정보 동의 배너" and (css_w * css_h > 0.12 * viewport[0] * viewport[1] or css_h > 0.6 * viewport[1]):
+            return "too large for a floating widget"
+        if label == "하단 고정 바" and css_h > 160:
+            return "too tall for a bottom bar"
+    elif kind == "popup":
+        full = width >= (viewport[0] * (2 if mobile else 1)) * 0.95 and height >= (viewport[1] * (2 if mobile else 1)) * 0.9
+        if state == "on-scroll" and not full:
+            return "not a popup"
+        if min(width, height) < 350 or width > 2 * height:
+            return "not popup shaped"
+        if full and first_screen is not None and frame_difference(picture, first_screen) < 10:
+            return "no popup on screen"
+    elif kind == "nav" and first_screen is not None:
+        # An opened menu must change the screen compared to the page at rest.
+        band = first_screen.crop((0, 0, first_screen.width, min(first_screen.height, round(height * first_screen.width / max(1, width)))))
+        if frame_difference(picture, band) < (6 if state == "hover" else 10):
+            return "the menu did not open"
+    elif kind == "icon":
+        if not 0.7 <= width / max(1, height) <= 1.4:
+            return "not icon shaped"
+        if max(width, height) > 200:
+            return "too large for an icon"
+        if stats["colors"] > 800:
+            return "a photo, not an icon"
+        if stats["range"] < 50:
+            return "blank"
+    return ""
+
+
 # ---------- workers (child processes) ----------
 
 WALL_RE = re.compile(
@@ -197,22 +363,25 @@ def is_wall(entry: dict[str, Any]) -> bool:
 def process_entry(entry: dict[str, Any]) -> dict[str, Any]:
     """Thumbnails and hashes for one page (company + device) of components.json."""
     if is_wall(entry):
-        return {"slug": entry["slug"], "device": entry["device"], "regions": [], "items": [], "blank": 0, "missing": 0, "wall": True}
+        return {"slug": entry["slug"], "device": entry["device"], "regions": [], "items": [], "blank": 0, "missing": 0, "wall": True, "rejected": {}}
     try:
         return _process_entry(entry)
     except Exception as exc:
         print(f"  skipped {entry.get('slug')} {entry.get('device')}: {type(exc).__name__}: {exc}")
-        return {"slug": entry["slug"], "device": entry["device"], "regions": [], "items": [], "blank": 0, "missing": 1}
+        return {"slug": entry["slug"], "device": entry["device"], "regions": [], "items": [], "blank": 0, "missing": 1, "rejected": {}}
 
 
 def _process_entry(entry: dict[str, Any]) -> dict[str, Any]:
-    result = {"slug": entry["slug"], "device": entry["device"], "regions": [], "items": [], "blank": 0, "missing": 0}
+    result = {"slug": entry["slug"], "device": entry["device"], "regions": [], "items": [], "blank": 0, "missing": 0, "rejected": defaultdict(int)}
     layout = ROOT / str(entry.get("layout", ""))
+    first_screen = None
     base = THUMBS / "regions" / entry["category"] / entry["slug"]
     if layout.is_file() and entry.get("regions"):
         with Image.open(layout) as source:
             source.load()
             full = source.convert("RGB")
+        ratio = entry.get("pixel_ratio") or 1
+        first_screen = full.crop((0, 0, full.width, min(full.height, round(VIEWPORT_HEIGHT.get(entry["device"], 900) * ratio))))
         counters: dict[str, int] = defaultdict(int)
         for region in entry["regions"]:
             x, y, w, h = region["box"]
@@ -222,6 +391,10 @@ def _process_entry(entry: dict[str, Any]) -> dict[str, Any]:
             crop = full.crop((x, y, min(full.width, x + w), min(full.height, y + h)))
             if is_blank(crop):
                 result["blank"] += 1
+                continue
+            reason = region_reject(region, entry, image_stats(crop))
+            if reason:
+                result["rejected"][f"{region['kind']}: {reason}"] += 1
                 continue
             counters[region["kind"]] += 1
             name = f"{entry['device']}-{region['kind']}-{counters[region['kind']]:02d}.webp"
@@ -233,21 +406,30 @@ def _process_entry(entry: dict[str, Any]) -> dict[str, Any]:
             result["missing"] += 1
             continue
         try:
-            done = _process_item(item, path, result)
+            done = _process_item(item, path, result, entry, first_screen)
         except Exception:
             result["missing"] += 1
             continue
         if done:
             result["items"].append(done)
+    result["rejected"] = dict(result["rejected"])
     return result
 
 
-def _process_item(item: dict[str, Any], path: Path, result: dict[str, Any]) -> dict[str, Any] | None:
+def _process_item(item: dict[str, Any], path: Path, result: dict[str, Any], entry: dict[str, Any], first_screen: Image.Image | None) -> dict[str, Any] | None:
     if item["kind"] == "icon":
         # Icon crops use the same rules as clean_icons.py (photos, empty boxes).
         reason = icon_verdict({"width": item.get("width") or 1, "height": item.get("height") or 1, "bytes": item.get("bytes") or 0}, measure_icon(path))
         if reason:
             result["blank"] += 1
+            path.unlink(missing_ok=True)
+            return None
+        with Image.open(path) as source:
+            source.load()
+            glyph = source.convert("RGB")
+        reason = item_reject(item, entry, image_stats(glyph), glyph, first_screen)
+        if reason:
+            result["rejected"][f"icon: {reason}"] += 1
             path.unlink(missing_ok=True)
             return None
         return item
@@ -257,6 +439,11 @@ def _process_item(item: dict[str, Any], path: Path, result: dict[str, Any]) -> d
     # A button crop with no visible label or edge was taken while it was hidden.
     if is_blank(picture, 0.992 if item["kind"] == "button" else 0.985):
         result["blank"] += 1
+        path.unlink(missing_ok=True)
+        return None
+    reason = item_reject(item, entry, image_stats(picture), picture, first_screen)
+    if reason:
+        result["rejected"][f"{item['kind']}: {reason}"] += 1
         path.unlink(missing_ok=True)
         return None
     updated = {**item, "dhash": dhash(picture)}
@@ -465,6 +652,12 @@ def main() -> int:
         # 1. page parts
         processed = list(pool.map(process_entry, components, chunksize=2))
         blank = sum(item["blank"] for item in processed)
+        rejected: dict[str, int] = defaultdict(int)
+        for item in processed:
+            for reason, count in (item.get("rejected") or {}).items():
+                rejected[reason] += count
+        for reason, count in sorted(rejected.items(), key=lambda pair: -pair[1]):
+            print(f"  rejected {count:5d}  {reason}")
         walls = {(item["slug"], item["device"]) for item in processed if item.get("wall")}
         wall_layouts = {entry.get("layout") for entry in components if (entry["slug"], entry["device"]) in walls}
         for entry in components:
