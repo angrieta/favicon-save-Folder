@@ -1,0 +1,108 @@
+{
+  "company": "XPeng",
+  "category": "자동차",
+  "requested_url": "https://www.xpeng.com/",
+  "page_url": "https://www.xpeng.com/",
+  "page_title": "XPENG - Smart Electric Vehicles, SUVs & MPVs",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/xpeng/favicon.svg",
+      "source_url": "https://a-cdn.xpeng.com/mall/public/favicon.svg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1987,
+      "sha256": "cfda5af13587c8e213b32bdfdfbb8ed28a71fe940d7844aa95c90a404a6669d4",
+      "width": 32,
+      "height": 32,
+      "source_sha256": "64bc37da4e8db0e2fd38c45e39aec9ec5115c13e556fdf6da3ea8544a266d3d3"
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/xpeng/og.webp",
+      "source_url": "https://a-cdn.xpeng.com/www/public/static/img/xpeng-share-icon.0969aef9.jpeg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3000,
+      "sha256": "4437983844d06cf7d705195c958762d6a6e94fd58b0c75e123b22e8dee2cc29a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/xpeng/favicon.svg",
+      "source_url": "https://a-cdn.xpeng.com/mall/public/favicon.svg",
+      "source_tag": "json-ld.@graph[0].logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1987,
+      "sha256": "cfda5af13587c8e213b32bdfdfbb8ed28a71fe940d7844aa95c90a404a6669d4",
+      "width": 32,
+      "height": 32,
+      "context": "structured data logo",
+      "reused_from": "favicon",
+      "source_sha256": "64bc37da4e8db0e2fd38c45e39aec9ec5115c13e556fdf6da3ea8544a266d3d3"
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/xpeng/logo-2.svg",
+      "source_url": "https://a-cdn.xpeng.com//website/_next/static/media/logo-white.be6f83f5.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img TopMenu_logo__85aUJ XPENG LOGO a div TopMenu_menuContainer__RLCwy div topMenu TopMenu_topMenu__7sE5l TopMenu_hackMenu__eND3t div app",
+      "content_type": "image/svg+xml",
+      "bytes": 4741,
+      "sha256": "664eafc0ddc4bbe96e2fcf45202fa8815506d7a5e07064d2f2d12722954d1467",
+      "width": 148,
+      "height": 20
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/xpeng/banner-1.webp",
+      "source_url": "https://a-cdn.xpeng.com/www/public/static/img/home-banner-pc.1d622593.jpeg?x-oss-process=image/resize,w_1920,q_80,format,webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div AutoFitImg_fullBannerContainer__ou2cY VanishBanner_videoPoster__2sXW4 auto-fit-img div VanishBanner_videoContainer__xu5Hp div VanishBanner_media__XiZhh section VanishBanner_hero__AWofa",
+      "content_type": "image/webp",
+      "bytes": 17482,
+      "sha256": "875593d633b03a02c85c0e9e683da140bd6b59ef1a2cf9b1eab75810a2f0f3aa",
+      "width": 1280,
+      "height": 666
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/xpeng/reference-1.webp",
+      "source_url": "https://s-cdn.xpeng.com/commoncms/prod/2026-08-20/1d10cdc4b3e94ccca8bc3a5bd6080c9b.png?name=header_L03&x-oss-process=image%2Fresize%2Cw_1920%2Fformat%2Cwebp%2Fquality%2CQ_80",
+      "source_tag": "picture:page-image",
+      "context": "picture div AutoFitImg_fullBannerContainer__ou2cY ModelPanel_modelImg__QcM_v auto-fit-img div ModelPanel_modelImgContainer__QJYYn a ModelPanel_modelCardLink__yh9fY li ModelPanel_modelItem__cV5h5 ModelPanel_itemHide__7_SD7",
+      "content_type": "image/webp",
+      "bytes": 11700,
+      "sha256": "078a7031bcdde453ccadef9a33eaa710dabb630c0c31602be15a374c7df06103",
+      "width": 720,
+      "height": 384
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/xpeng/reference-2.webp",
+      "source_url": "https://s-cdn.xpeng.com/commoncms/prod/2026-08-20/1d10cdc4b3e94ccca8bc3a5bd6080c9b.png?name=header_L03&x-oss-process=image%2Fresize%2Cw_2560%2Fformat%2Cwebp%2Fquality%2CQ_85",
+      "source_tag": "source:page-image",
+      "context": "source picture div AutoFitImg_fullBannerContainer__ou2cY ModelPanel_modelImg__QcM_v auto-fit-img div ModelPanel_modelImgContainer__QJYYn a ModelPanel_modelCardLink__yh9fY",
+      "content_type": "image/webp",
+      "bytes": 12492,
+      "sha256": "c09e69e32daab3368a8c9b2c38feaac82b6d8d4ff67cc3588507fbb657cfc6e9",
+      "width": 720,
+      "height": 384
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/xpeng/reference-3.webp",
+      "source_url": "https://s-cdn.xpeng.com/commoncms/prod/2026-08-20/7622ead693aa4060b0da68d1e57a2f63.png?name=header_X9&x-oss-process=image%2Fresize%2Cw_1920%2Fformat%2Cwebp%2Fquality%2CQ_80",
+      "source_tag": "picture:page-image",
+      "context": "picture div AutoFitImg_fullBannerContainer__ou2cY ModelPanel_modelImg__QcM_v auto-fit-img div ModelPanel_modelImgContainer__QJYYn a ModelPanel_modelCardLink__yh9fY li ModelPanel_modelItem__cV5h5 ModelPanel_itemHide__7_SD7",
+      "content_type": "image/webp",
+      "bytes": 13356,
+      "sha256": "d8670ab6a813fde8ef84cbbf31ecda3a6e7af5b2018efbce375806b28ab03451",
+      "width": 720,
+      "height": 384
+    }
+  ]
+}

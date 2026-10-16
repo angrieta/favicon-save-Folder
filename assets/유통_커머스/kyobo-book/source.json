@@ -1,0 +1,83 @@
+{
+  "company": "교보문고",
+  "category": "유통_커머스",
+  "requested_url": "https://www.kyobobook.co.kr",
+  "page_url": "https://www.kyobobook.co.kr/",
+  "page_title": "교보문고 | 대한민국 최고의 도서쇼핑몰",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://contents.kyobobook.co.kr/display/next/ui-welcome/build-1790565349/_next/static/chunks/0v-1yzqejqqdy.js; reference:ValueError:https://contents.kyobobook.co.kr/display/next/ui-welcome/build-1790565349/_next/static/chunks/0_72ej.13iibu.js; reference:ValueError:https://contents.kyobobook.co.kr/display/next/ui-welcome/build-1790565349/_next/static/chunks/0idtbif93obhu.js; reference:ValueError:https://contents.kyobobook.co.kr/display/next/ui-welcome/build-1790565349/_next/static/chunks/0ng4t.rtnd~~p.js; reference:ValueError:https://contents.kyobobook.co.kr/display/next/ui-welcome/build-1790565349/_next/static/chunks/0u3e4-ot.0.bn.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/kyobo-book/favicon.png",
+      "source_url": "https://contents.kyobobook.co.kr/resources/fo/images/common/ink/favicon/apple-touch-icon-700x700-precomposed.png",
+      "source_tag": "apple-touch-icon-precomposed apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 12003,
+      "sha256": "3b205f815f4a6a7c1f889229a0f0628e804e10443a816fe1ff86ed5d54fa46f9",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/kyobo-book/og.webp",
+      "source_url": "https://contents.kyobobook.co.kr/resources/fo/images/common/ink/img_logo_kyobo@2x.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3294,
+      "sha256": "36b07a90811a8215e049c40fd984a144a90b4215c65f9412641160645b5bced4",
+      "width": 348,
+      "height": 184
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/kyobo-book/logo-1.svg",
+      "source_url": "https://contents.kyobobook.co.kr/resources/fo/images/common/ink/united/logo_book.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 교보문고 a relative div absolute -top-20 flex h-20 justify-between bottom-0 left-0 w-full items-end gap-[26px] div w-300 relative mx-auto header header_wrapper z-header sticky w-full min-w-[1440px] bg-white -top-[196px]",
+      "content_type": "image/svg+xml",
+      "bytes": 8430,
+      "sha256": "18f34a794ac46b5f79fac5262f10399d08724a6966331f67f8eb4f39803e88d9",
+      "width": 120,
+      "height": 44,
+      "source_sha256": "89650a378536c47fdc9bd071595df8baa9bfcd4b1df46a4e95136a6ce7a70a2a"
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/kyobo-book/og.webp",
+      "source_url": "https://contents.kyobobook.co.kr/resources/fo/images/common/ink/img_logo_kyobo@2x.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 3294,
+      "sha256": "36b07a90811a8215e049c40fd984a144a90b4215c65f9412641160645b5bced4",
+      "width": 348,
+      "height": 184,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/kyobo-book/banner-1.webp",
+      "source_url": "https://contents.kyobobook.co.kr/pmtn/2026/event/i_890_380_3062cbfa1c8c4a70a50f0712ed639fde.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img [-webkit-user-drag:none] transition-[transform, opacity] duration-300 할 수 있다! 2학기 중간고사 a banner_link relative block h-full w-full li swiper-slide ul swiper-wrapper div swiper col-start-1 row-start-1 h-full w-full",
+      "content_type": "image/webp",
+      "bytes": 28726,
+      "sha256": "4dfe8f0d7e8fa69fbcf3323e3213e0c880d071ddd7e082817ed9150c1e074b38",
+      "width": 890,
+      "height": 380
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/kyobo-book/reference-1.webp",
+      "source_url": "https://contents.kyobobook.co.kr/display/260929_1_e1eb7a9a8b27444b9c533be0f312f2a2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img [-webkit-user-drag:none] transition-[transform, opacity] duration-300 [란센] 클린픽 구강세정기<br>오늘만 9,900원! div relative h-[274px] w-[274px] a li ul flex h-full w-full",
+      "content_type": "image/webp",
+      "bytes": 11710,
+      "sha256": "6786a53a23d324ab27b27773fd7e1523fc87cd8b775456ae30e7edf156df0878",
+      "width": 550,
+      "height": 550
+    }
+  ]
+}

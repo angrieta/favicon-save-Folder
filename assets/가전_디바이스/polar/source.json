@@ -1,0 +1,35 @@
+{
+  "company": "Polar",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.polar.com/",
+  "page_url": "https://www.polar.com/welcome/",
+  "page_title": "Heart Rate Monitors, fitness trackers and sports watches | Polar Global",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.polar.com/welcome/font/staff/PolarStaff-VF.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/polar/favicon.ico",
+      "source_url": "https://www.polar.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "b34b59400f484381c24834f3d60334a2dd4817933006c73b082cf6778c1d04e4",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/polar/logo-1.svg",
+      "source_url": "https://www.polar.com/welcome/img/polar-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Polar Polar a logo div home nav div main lay-max-xl",
+      "content_type": "image/svg+xml",
+      "bytes": 4643,
+      "sha256": "3b857e1d8a46b6c687cca850c6a5d94deb5ea2f00b81e5feb888fd97cffd2ce5",
+      "width": 122,
+      "height": 20,
+      "source_sha256": "ed35e970cd23ea24c0447dec087d17f0b79ca32698565f78c28e8605546a5a17"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "company": "Gojek",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.gojek.com/",
+  "page_url": "https://www.gojek.com/en-id",
+  "page_title": "Gojek Super App",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/gojek/favicon.png",
+      "source_url": "https://gojekweb-asset-staging.go-jek.com/prime/static/prime/images/gojek_favicon.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1142,
+      "sha256": "942da773d65d5d3e2ad10bf966b8e50defa1126af6e4219e6f4f5b8ed651bbdc",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/gojek/logo-1.svg",
+      "source_url": "https://lelogama.go-jek.com/prime/upload/gojek-horizontal-logo-white.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo a div flex w-full px-10 justify-between items-center div hidden lg:flex h-[100px] w-full fixed top-0 z-[99] align-middle shadow-md transition ease-in-out duration-200 text-white bg-gray-primary header",
+      "content_type": "image/svg+xml",
+      "bytes": 4584,
+      "sha256": "0999a2bbdf48c6734de9788fe382a3db6eac73d39aae17d6d7ff3c9a2370273f",
+      "width": 112,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/gojek/logo-2.svg",
+      "source_url": "https://cdn-site.gojek.com/uploads/goride_horizontal_logo_white_a2b9d20d84.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img pt-3 h-10 mr-auto div p-8 h-[350px] rounded-r24 flex flex-col gap-2 bg-green-primary div rounded-r24 h-full bg-green-shade2 div swiper-slide pb-15 px-5 md:px-0 div swiper-wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 5362,
+      "sha256": "56811d2a8bf77d3f0892df07466d24663371c350de1f1b4835dca85991f1b3f3",
+      "width": 130,
+      "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/gojek/banner-1.webp",
+      "source_url": "https://cdn-site.gojek.com/uploads/Gojek_PAJ_KV_Main_Website_Banner_1280x720_c2a9f847ed.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-screen w-full object-cover z-0 lg:block lg:h-auto hidden hero image div w-full filter brightness-90 section section-1 w-full overflow-hidden bg-dark200 relative lg:h-auto h-auto div md:pt-[100px] pt-[80px] body",
+      "content_type": "image/webp",
+      "bytes": 391896,
+      "sha256": "deb4b19e456fac8cfc08c90df6e56646ded105473802b0509b7149e96c3c118e",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/gojek/banner-2.webp",
+      "source_url": "https://cdn-site.gojek.com/uploads/ui_web_6c5eca8ca5/ui_web_6c5eca8ca5.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-screen w-full object-cover z-0 lg:block lg:h-auto hidden hero image div w-full filter brightness-90 section section-12 w-full overflow-hidden bg-dark200 relative lg:h-auto h-auto div md:pt-[100px] pt-[80px] body",
+      "content_type": "image/webp",
+      "bytes": 146048,
+      "sha256": "350c184c11b540978073010a0228f6939cd37862bc884cf044ad68ce82688abb",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/gojek/reference-1.webp",
+      "source_url": "https://cdn-site.gojek.com/uploads/Gojek_PAJ_KV_Main_Website_Banner_720x1280_1_787592e543.jpg",
+      "source_tag": "img:page-image",
+      "context": "img w-full lg:hidden hero image div w-full filter brightness-90 section section-1 w-full overflow-hidden bg-dark200 relative lg:h-auto h-auto div md:pt-[100px] pt-[80px] body",
+      "content_type": "image/webp",
+      "bytes": 247078,
+      "sha256": "d982af6416f99d77a46daa70f2bac7ce3d1ff98eb210f2f55f00736ab4ff7819",
+      "width": 759,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/gojek/reference-2.svg",
+      "source_url": "https://cdn-site.gojek.com/uploads/web_icon_01_699534dc66/web_icon_01_699534dc66.svg",
+      "source_tag": "link:preload",
+      "context": "preload image  https://cdn-site.gojek.com/uploads/web_icon_01_699534dc66/web_icon_01_699534dc66.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 15319,
+      "sha256": "61865d141368c930b80ef85fe004ddf647f44bd17e2e6fb3f6fa8137349412dc",
+      "width": 402,
+      "height": 402
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/gojek/reference-3.svg",
+      "source_url": "https://cdn-site.gojek.com/uploads/web_icon_02_d639486fe5/web_icon_02_d639486fe5.svg",
+      "source_tag": "link:preload",
+      "context": "preload image  https://cdn-site.gojek.com/uploads/web_icon_02_d639486fe5/web_icon_02_d639486fe5.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 19730,
+      "sha256": "e9ca502dbbce666b53200b8b0531cdb0b07e0de112bd527d1c1ea6580c68a8e9",
+      "width": 402,
+      "height": 402
+    }
+  ]
+}

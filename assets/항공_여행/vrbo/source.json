@@ -1,0 +1,22 @@
+{
+  "company": "Vrbo",
+  "category": "항공_여행",
+  "requested_url": "https://www.vrbo.com",
+  "page_url": "https://www.vrbo.com/",
+  "page_title": "Too Many Requests",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 429 Client Error: Too Many Requests for url: https://www.vrbo.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/vrbo/favicon.ico",
+      "source_url": "https://www.vrbo.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 114357,
+      "sha256": "9646fa832cd6c30fb63b6cdb3fa97e98d10ea0d9a52709bd1c82746b6c4e0e91",
+      "width": 256,
+      "height": 256
+    }
+  ]
+}

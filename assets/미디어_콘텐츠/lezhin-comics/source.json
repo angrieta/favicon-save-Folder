@@ -1,0 +1,57 @@
+{
+  "company": "레진코믹스",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.lezhin.com/ko",
+  "page_url": "https://www.lezhin.com/ko",
+  "page_title": "레진코믹스 - 솔직한 재미 대폭발",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.lezhin.com/_next/static/chunks/webpack-5d4b7f5fdf96aba9.js; reference:ValueError:https://static.nestads.com/sdk/js/v2.2.4/nestads-sdk.js; reference:ValueError:https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/lezhin-comics/favicon.png",
+      "source_url": "https://ccdn.lezhin.com/files/assets/img/android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1117,
+      "sha256": "de398285ed2fa74334540c0f66642d5548369fd47e9af015cb7775cbabb28975",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/lezhin-comics/og.webp",
+      "source_url": "https://ccdn.lezhin.com/files/assets/img/jaymee-sns-share.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2166,
+      "sha256": "358da04113fc1ba1366345c11325dd0d9195d0d3ad2b0b80086aaf411ef72f9c",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/lezhin-comics/banner-1.webp",
+      "source_url": "https://ccdn.lezhin.com/v2/inventory_items/7101763520308417/media/subBanner1Mobile.webp?updated=1763360105336&width=1040",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full h-full object-cover block subBanner1Mobile div absolute inset-0 z-0 w-full h-full bg-[var(--bg-muted)] div aspect-[16/5] relative rounded-4 overflow-hidden a div lz-grid-item",
+      "content_type": "image/webp",
+      "bytes": 21330,
+      "sha256": "cbfa49c25ad02f4a42fe3d0c1d1e6dae3581733cddf34c5139f34b2eb38151b3",
+      "width": 1040,
+      "height": 325
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/lezhin-comics/banner-2.webp",
+      "source_url": "https://ccdn.lezhin.com/v2/inventory_items/7101763520391642/media/subBanner1Mobile.webp?updated=1763361374293&width=1040",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full h-full object-cover block subBanner1Mobile div absolute inset-0 z-0 w-full h-full bg-[var(--bg-muted)] div aspect-[16/5] relative rounded-4 overflow-hidden a div lz-grid-item",
+      "content_type": "image/webp",
+      "bytes": 18992,
+      "sha256": "48a143fb9989e343cf05359288abacf7dc864be35748e85ce0319d0c1ef535e5",
+      "width": 1040,
+      "height": 325
+    }
+  ]
+}

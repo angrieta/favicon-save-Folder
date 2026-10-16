@@ -1,0 +1,33 @@
+{
+  "company": "핀트",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.fint.co.kr/",
+  "page_url": "https://www.fint.co.kr/",
+  "page_title": "AI가 챙기는 내 투자 포트폴리오, 국내주식, 미국주식, 연금저축, IRP, ETF까지 fint로",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.fint.co.kr/_next/static/chunks/webpack-e214cdb9faaab6b8.js; reference:ValueError:https://www.fint.co.kr/_next/static/css/e55c46ff0ff151c8.css; reference:ValueError:https://www.fint.co.kr/_next/static/css/e79be3ddd5d20815.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/fint/favicon.png",
+      "source_url": "https://www.fint.co.kr/assets/favicon/shortcut-icon/192.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1733,
+      "sha256": "a3284cf90cf57f199a2c050d84e64ca5433c3b3d721faae19fc100ca8d180d71",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/fint/og.webp",
+      "source_url": "https://www.fint.co.kr/static/imgs/new/og/og_1000_500_04.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 23176,
+      "sha256": "88b230ead92ec3c56e68cb68631b8f8e864246b2a63cd25c9402a239fbe9bdee",
+      "width": 1000,
+      "height": 500
+    }
+  ]
+}

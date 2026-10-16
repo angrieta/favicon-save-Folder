@@ -1,0 +1,82 @@
+{
+  "company": "강남언니",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.gangnamunni.com/",
+  "page_url": "https://unni.app/",
+  "page_title": "강남언니 - 내 선택에 확신을",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/gangnam-unni/favicon.png",
+      "source_url": "https://unni.app/images/icon/apple-icon-180x180.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 13667,
+      "sha256": "0a421222419b26905dcf0aaa6906f19815b7ebeef6ead9321536a2fd95111bed",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/gangnam-unni/og.webp",
+      "source_url": "https://unni.app/images/kr/og-rebrand-logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5082,
+      "sha256": "ae77d0d54bcdc403f78c917f8d4d25c37e9838123b49567d6f3288f9ca340203",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/gangnam-unni/logo-1.svg",
+      "source_url": "https://unni.app/images/logo/publisher-logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1060,
+      "sha256": "7f9c3fae374641ec10f5f0d9a3dc5d545f718e7c7b063caee5364815096f616f",
+      "width": 64,
+      "height": 64,
+      "source_sha256": "cae4ec2519b5da61ac9f075bea78a34e12cd270533310e5d2a52482b4ee4f902"
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/gangnam-unni/reference-1.webp",
+      "source_url": "https://unni.app/images/splash/kr.webp",
+      "source_tag": "img:page-image",
+      "context": "img rounded-[16px] Download UNNI app div relative flex flex-col gap-8 download banner div fixed w-[344px] div h-full pt-[150px] div hidden desktop:block desktop:w-[360px] desktop:min-w-[360px] desktop:mr-4",
+      "content_type": "image/webp",
+      "bytes": 15736,
+      "sha256": "f0be7988e5da535df7cb60b46decc1e7059be4a7c531e0da9b5e2c48f676d303",
+      "width": 1130,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/gangnam-unni/reference-2.webp",
+      "source_url": "https://image2.gnsister.com/images/community/486b7c96659949bf992491fbd37810d2_folliculitis-vs-acne.jpg",
+      "source_tag": "img:page-image",
+      "context": "img object-cover 모낭염이 생기는 원인은? 여드름과 구별하는 방법까지 div relative size-[110px] shrink-0 overflow-hidden rounded-300 bg-bg-canvas-subtle a group flex gap-400 rounded-md bg-white p-200 no-underline transition-all duration-150 ease-[cubic-bezier(0.2,",
+      "content_type": "image/webp",
+      "bytes": 63758,
+      "sha256": "76ba46e2246442f7d637c01d511e7b9674e5ee030541ca78d90f06607a2c0472",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/gangnam-unni/reference-3.webp",
+      "source_url": "https://image2.gnsister.com/images/notice/1787822332537_8bd89e7cd6d44cf4936c32ed3fba18be.png?originalImageWidth=1406&originalImageHeight=656",
+      "source_tag": "link:preload",
+      "context": "preload image  https://image2.gnsister.com/images/notice/1787822332537_8bd89e7cd6d44cf4936c32ed3fba18be.png?originalImageWidth=1406&originalImageHeight=656",
+      "content_type": "image/webp",
+      "bytes": 15736,
+      "sha256": "1ce32dc10ee7496cf614c99200455aeb4bff70761d13b21c256ce6e9cb12fe26",
+      "width": 1406,
+      "height": 656
+    }
+  ]
+}

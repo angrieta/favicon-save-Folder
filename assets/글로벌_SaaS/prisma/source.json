@@ -1,0 +1,107 @@
+{
+  "company": "Prisma",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.prisma.io/",
+  "page_url": "https://www.prisma.io/",
+  "page_title": "Prisma | Agent Infrastructure for TypeScript",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.prisma.io/brand/cta-clouds-loop.mp4; reference:ValueError:https://www.prisma.io/site-static/_next/static/immutable/media/83afe278b6a6bb3c-s.p.45535valc9rzk.woff2; reference:ValueError:https://www.prisma.io/site-static/_next/static/immutable/media/c41ca59f1c34ba31-s.p.2moef4a_pkre2.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/prisma/favicon.png",
+      "source_url": "https://www.prisma.io/apple-icon.png?apple-icon.2fqk5558kkh79.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1550,
+      "sha256": "329e77a7d6d1ee8bf1c73829353969bd227112f0612a84c92e7f688effdf2cde",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/prisma/og.webp",
+      "source_url": "https://www.prisma.io/og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20774,
+      "sha256": "2be736fef05359c8e62d1369cb4acee734c8ac4a71c1728b22d0c651f6258266",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/prisma/logo-1.svg",
+      "source_url": "https://www.prisma.io/logo/full-color.svg?dpl=dpl_CiJN3ChrDvwBgnHW9pq6CyojZjHL",
+      "source_tag": "img:semantic-logo",
+      "context": "img Prisma a flex items-center div relative flex items-center div mx-auto flex items-center justify-between rounded-full border transition-all duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] motion-reduce:transition-none mt-5 h-16 max-w-[96",
+      "content_type": "image/svg+xml",
+      "bytes": 6039,
+      "sha256": "063ecd36aa421aeccb99bcda61e547d769d02fd9716b7d70694c00cd507e0790",
+      "width": 264,
+      "height": 67,
+      "source_sha256": "b357a3cb393416ea48c9b9d6dba74ee7ad89cbd1da2c52d4c14f91351175cfd4"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/prisma/logo-2.svg",
+      "source_url": "https://www.prisma.io/images/logo.svg",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 591,
+      "sha256": "29b977e2b84a35da01874e7052db8f0f7b7af2b802216de474ced2e94fd1201e",
+      "width": 134,
+      "height": 154
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/prisma/banner-1.webp",
+      "source_url": "https://www.prisma.io/_next/image?url=%2Fbrand%2Ftexture.jpg&w=3840&q=75&dpl=dpl_CiJN3ChrDvwBgnHW9pq6CyojZjHL",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover div pointer-events-none absolute inset-0 overflow-hidden div relative mx-auto max-w-[96rem] overflow-hidden rounded-[1.5rem] border border-black/[0.06] bg-white section bg-white px-3 pt-3 sm:px-4 sm:pt-4 main min-h-screen",
+      "content_type": "image/webp",
+      "bytes": 612442,
+      "sha256": "e624d035f083d6ffc0d9b84ff7a01d7736987a1cea210d4d250f0096353b7341",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "45e254d906ff2e98092b20aaa080825670cfa2899797381c069b2a388f37572f"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/prisma/reference-1.webp",
+      "source_url": "https://www.prisma.io/brand/cards-3d.png",
+      "source_tag": "link:preload",
+      "context": "preload image  /brand/cards-3d.png",
+      "content_type": "image/webp",
+      "bytes": 31240,
+      "sha256": "be3ae2cbbb76640d367f73b43f62ac8418494b0399c2eb234e2b985a64361b5e",
+      "width": 560,
+      "height": 384
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/prisma/reference-2.webp",
+      "source_url": "https://www.prisma.io/brand/database-3d.png",
+      "source_tag": "link:preload",
+      "context": "preload image  /brand/database-3d.png",
+      "content_type": "image/webp",
+      "bytes": 20828,
+      "sha256": "17c43ea290d8d87394e1135d632ae4d9cb4a48f5b1a83a4b63879fce375e6b08",
+      "width": 560,
+      "height": 560
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/prisma/reference-3.webp",
+      "source_url": "https://www.prisma.io/brand/cpu-3d.png",
+      "source_tag": "link:preload",
+      "context": "preload image  /brand/cpu-3d.png",
+      "content_type": "image/webp",
+      "bytes": 37180,
+      "sha256": "db092fcb0068887f58279be668ae287ab7a567348434a50afdd31fe063a70018",
+      "width": 800,
+      "height": 800
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "company": "효성",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.hyosung.com/kr/index",
+  "page_url": "https://www.hyosung.com/kr/index",
+  "page_title": "효성 I 핵심기술 혁신으로 내일을 만들어갑니다 Core Tech Company",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.hyosung.com/resources/kr/images/page/main/sec02_video.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/hyosung/favicon.ico",
+      "source_url": "https://www.hyosung.com/resources/kr/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "5c73539b72e3fefb2cea947583a433cc1bba9bf0d0cdf8e61f8ade847627d92a",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/hyosung/og.webp",
+      "source_url": "https://www.hyosung.com/resources/kr/images/common/og_img.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7334,
+      "sha256": "5921db881d371eeda1a823f5710d5fbcbe5ac7e68169eb34b856221085a7eed2",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hyosung/logo-1.svg",
+      "source_url": "https://www.hyosung.com/resources/kr/images/common/ft_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 효성그룹 div ft_logo div top_box div inner div footer",
+      "content_type": "image/svg+xml",
+      "bytes": 5722,
+      "sha256": "d527b11cc2a6379b51479c2e4c636093cf129f1eb039f17bb85f6a15fdbc24c7",
+      "width": 143,
+      "height": 19,
+      "source_sha256": "0193e72d36ad6e5d9177044cf45c64d5d7a76c31915759b097c0e70d6ddcd880"
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hyosung/reference-1.webp",
+      "source_url": "https://www.hyosung.com/upload/news/f47433a0781c48ceb02ab5c78a229a3c.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img_box a div list div news_list",
+      "content_type": "image/webp",
+      "bytes": 184048,
+      "sha256": "43dadef3c82cde91ceac314b48d19def1b809a085525f3030b198ec7e5efba28",
+      "width": 1600,
+      "height": 1068,
+      "source_sha256": "8f64d2ff5244d912b64e93dad591afe13918d955877339bafeae5a2e13195f54"
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hyosung/reference-2.webp",
+      "source_url": "https://www.hyosung.com/upload/news/a64583de08b54b27bdf8024669ac5b70.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Cho Hyun-Joon div img_box a div list div news_list",
+      "content_type": "image/webp",
+      "bytes": 55540,
+      "sha256": "1f5f2bfe5d8a31f32d1c649ff0367e614ecbafbe9f6a9e2b6855313eb681cf03",
+      "width": 640,
+      "height": 480
+    }
+  ]
+}

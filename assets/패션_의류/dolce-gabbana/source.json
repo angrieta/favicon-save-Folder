@@ -1,0 +1,34 @@
+{
+  "company": "Dolce & Gabbana",
+  "category": "패션_의류",
+  "requested_url": "https://www.dolcegabbana.com",
+  "page_url": "https://www.dolcegabbana.com/en-kr/",
+  "page_title": "Dolce&Gabbana® Clothing, Beauty, Casa and Food & Beverage",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.dolcegabbana.com/en-kr/%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20750%201333'%20style%3D'background-color%3A%23FFFFFF%3B'%2F%3E; reference:HTTPError:https://www.dolcegabbana.com/en-kr/%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%202200%201237'%20style%3D'background-color%3A%23FFFFFF%3B'%2F%3E; reference:HTTPError:https://www.dolcegabbana.com/en-kr/%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201100%20587'%20style%3D'background-color%3A%23FFFFFF%3B'%2F%3E; reference:ValueError:https://try.abtasty.com/71024e030300acbee7daa76efc3ae511.js; reference:ValueError:https://www.dolcegabbana.com/mobify/bundle/11395/fe7027e3d2f79c7174b0.woff2; reference:HTTPError:https://www.dolcegabbana.com/en-kr/%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20375%20587'%20style%3D'background-color%3A%23FFFFFF%3B'%2F%3E",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/dolce-gabbana/favicon.png",
+      "source_url": "https://www.dolcegabbana.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 2195,
+      "sha256": "bad7d59fb11e9ffcdbe1268c6fd97224ae199edbccadb71aef2c65b5d49d4550",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/dolce-gabbana/logo-1.webp",
+      "source_url": "https://www.dolcegabbana.com/on/demandware.static/-/Library-Sites-Dolcegabbana/default/dw75195c6f/DG-LOGO_400x112.jpg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 4724,
+      "sha256": "4beb946a027d49ae3e7311688a4f3ea4b5082e0f256c6e2be36883cd8d093610",
+      "width": 400,
+      "height": 112
+    }
+  ]
+}

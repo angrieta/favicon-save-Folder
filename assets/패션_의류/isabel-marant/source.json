@@ -1,0 +1,82 @@
+{
+  "company": "Isabel Marant",
+  "category": "패션_의류",
+  "requested_url": "https://www.isabelmarant.com",
+  "page_url": "https://isabelmarant.com/",
+  "page_title": "ISABEL MARANT Boutique en ligne officielle",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://isabelmarant.com/cdn/shop/t/97/assets/logo_small.png?v=91696; banner:HTTPError:https://isabelmarant.com/%3Csvg%20data-url=%22%252F%252Fisabelmarant.com%252Fcdn%252Fshop%252Ffiles%252F3b79f667-a15d-4cd3-ad43-869fc0310a8f.png%253Fcrop%253Dcenter%2526height%253D600%2526v%253D1789396016%2526width%253D900%22%20xmlns=%22http:/www.w3.org/2000/svg%22%20viewBox=%220%200%201%200.6666666666666666%22%20/%3E",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/isabel-marant/favicon.png",
+      "source_url": "https://isabelmarant.com/cdn/shop/files/favicon32_32.png?crop=center&height=32&v=1710769836&width=32",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 708,
+      "sha256": "b609cdad9255a6960a54b855eb1002c3fd6550bbfcfb55f3cde97691742150b4",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/isabel-marant/banner-1.webp",
+      "source_url": "https://isabelmarant.com/cdn/shop/files/3b79f667-a15d-4cd3-ad43-869fc0310a8f.png?crop=center&height=600&v=1789396016&width=900",
+      "source_tag": "img:semantic-banner",
+      "context": "img img img--cover is-loading div offcanvas__push-image div offcanvas__push div offcanvas__pushes u-offcanvas-submenu offcanvas__submenu",
+      "content_type": "image/webp",
+      "bytes": 124416,
+      "sha256": "d6a9b2c7ef0c65a5ced8659ee86c330f35e7a1d329bc09f6ef7762fc2b5dc03f",
+      "width": 900,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/isabel-marant/banner-2.webp",
+      "source_url": "https://isabelmarant.com/cdn/shop/files/3b79f667-a15d-4cd3-ad43-869fc0310a8f.png?crop=center&height=533&v=1789396016&width=800",
+      "source_tag": "img:semantic-banner",
+      "context": "img img img--cover is-loading div offcanvas__push-image div offcanvas__push div offcanvas__pushes u-offcanvas-submenu offcanvas__submenu",
+      "content_type": "image/webp",
+      "bytes": 94924,
+      "sha256": "545c388bf005c30f510869c13dba0df328b3d382ebb3acec90fe470d1787089c",
+      "width": 800,
+      "height": 533
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/isabel-marant/reference-1.webp",
+      "source_url": "https://isabelmarant.com/cdn/shop/files/IM_W26_CAMPAIGN_DIGITAL_NOLOGO_1080x1920_03.jpg?crop=center&height=900&v=1789392666&width=600",
+      "source_tag": "img:page-image",
+      "context": "img img img--cover is-loading div megaroll__push-image li megaroll__push ul megaroll__wrapper div container container--fluid",
+      "content_type": "image/webp",
+      "bytes": 85020,
+      "sha256": "051f0a8085ea2e6e6b0b88bf4d5a579f81b611855bb1a6af9e23b000dd2f9a9a",
+      "width": 600,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/isabel-marant/reference-2.webp",
+      "source_url": "https://isabelmarant.com/cdn/shop/files/IM_W26_CAMPAIGN_DIGITAL_NOLOGO_1080x1920_03.jpg?crop=center&height=750&v=1789392666&width=500",
+      "source_tag": "img:page-image",
+      "context": "img img img--cover is-loading div megaroll__push-image li megaroll__push ul megaroll__wrapper div container container--fluid",
+      "content_type": "image/webp",
+      "bytes": 56486,
+      "sha256": "a045856b70e0e829e9f822b78fcf2aa7478ac00bdfcf33596c7a000fe47f01d6",
+      "width": 500,
+      "height": 750
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/isabel-marant/reference-3.webp",
+      "source_url": "https://isabelmarant.com/cdn/shop/files/Push_Menu_700x1050_S37_Campaign.jpg?crop=center&height=900&v=1788883822&width=600",
+      "source_tag": "img:page-image",
+      "context": "img img img--cover is-loading div megaroll__push-image li megaroll__push ul megaroll__wrapper div container container--fluid",
+      "content_type": "image/webp",
+      "bytes": 98752,
+      "sha256": "117bcb486f1381311525011d5be7dab13ef9fe8bd6938adb55d9e53e0dac276c",
+      "width": 600,
+      "height": 900
+    }
+  ]
+}

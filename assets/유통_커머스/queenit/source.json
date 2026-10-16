@@ -1,0 +1,45 @@
+{
+  "company": "퀸잇",
+  "category": "유통_커머스",
+  "requested_url": "https://queenit.kr",
+  "page_url": "https://web.queenit.kr/home",
+  "page_title": "퀸잇",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://static.queenit.kr/fonts/pretendard/woff2-subset/Pretendard-Bold.subset.woff2; reference:ValueError:https://static.queenit.kr/fonts/pretendard/woff2-subset/Pretendard-SemiBold.subset.woff2; reference:ValueError:https://static.queenit.kr/fonts/pretendard/woff2-subset/Pretendard-Medium.subset.woff2; reference:ValueError:https://static.queenit.kr/fonts/pretendard/woff2-subset/Pretendard-Regular.subset.woff2; reference:ValueError:https://static.queenit.kr/fonts/pretendard/woff2-subset/Pretendard-Light.subset.woff2; reference:ValueError:https://static.queenit.kr/damoa-mobile-web/release-damoa-mobile-web/_next/static/css/1240e53471718bab.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/queenit/favicon.png",
+      "source_url": "https://static.queenit.kr/damoa-mobile-web/public/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4109,
+      "sha256": "ab49081fa67db6fe3f6edcca081ce51dd345ed3eefc10fe5be4ab2e5f978e66f",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/queenit/og.webp",
+      "source_url": "https://image.queenit.kr/share/share_v12.png?v=1",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 24246,
+      "sha256": "b639707b280e285720797378ffc65e114a2a16057cd2998191570293988ab5cf",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/queenit/logo-1.png",
+      "source_url": "https://image.queenit.kr/vesper-foundation/0.6.17/img_logo_queenit@2x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 퀸잇 로고 div css-13mkirs e1qssemj2 a div css-2l23pl e1qssemj1 div css-spl17n e1qssemj0",
+      "content_type": "image/png",
+      "bytes": 2465,
+      "sha256": "b625bd9afa92814ee1b67656e1394e467d00a75218b16580a9ea3a79bd72e82c",
+      "width": 274,
+      "height": 96
+    }
+  ]
+}

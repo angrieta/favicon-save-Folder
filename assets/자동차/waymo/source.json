@@ -1,0 +1,95 @@
+{
+  "company": "Waymo",
+  "category": "자동차",
+  "requested_url": "https://waymo.com/",
+  "page_url": "https://waymo.com/",
+  "page_title": "Waymo - Self-Driving Cars - Autonomous Vehicles - Ride-Hail",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/waymo/favicon.png",
+      "source_url": "https://waymo.com/favicon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9733,
+      "sha256": "a3409a5a7df76a32fdfb42ade6f6e15c430a4d5f6bd1d4facb2067e2b257935e",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/waymo/og.webp",
+      "source_url": "https://lh3.googleusercontent.com/bnfvXFtZDG0u6Pen-d7RGFIOWMXGHG7xyeqyzvcN9NiulLwWN6HZfN5lwc2LxgLzGBweXalEZ0dB8dgQlCvPwQV5rWss9tm0Ui4",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 31700,
+      "sha256": "fe4e1285022a866ad565df4402bb614131b5a4ad73aa8260d07fc6b1be6e7259",
+      "width": 512,
+      "height": 266
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/waymo/favicon.png",
+      "source_url": "https://waymo.com/favicon.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/png",
+      "bytes": 9733,
+      "sha256": "a3409a5a7df76a32fdfb42ade6f6e15c430a4d5f6bd1d4facb2067e2b257935e",
+      "width": 256,
+      "height": 256,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/waymo/logo-2.png",
+      "source_url": "https://lh3.googleusercontent.com/zRvkZADe5BMf6S5Gqv27V2H7DSTTY5WR6CRZfMcplWDMoMcodOU-BOgT8YX_ElzJg34wAnPOrKCl1w366yn-vj0L8WQ97PrwdkF_Yk0=e365-pa-nu-w508",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div _image_1n6as_1 div _background_1p2zm_651 div w-ey3oey1p-sub-nav-0 _details_1p2zm_164 li _navLinkContainer_1p2zm_158",
+      "content_type": "image/png",
+      "bytes": 127391,
+      "sha256": "2a6a1f1d7665edc7b3339d068b6078d525b9cfddca4a902419262c5667ecb155",
+      "width": 508,
+      "height": 486
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/waymo/logo-2.png",
+      "source_url": "https://lh3.googleusercontent.com/zRvkZADe5BMf6S5Gqv27V2H7DSTTY5WR6CRZfMcplWDMoMcodOU-BOgT8YX_ElzJg34wAnPOrKCl1w366yn-vj0L8WQ97PrwdkF_Yk0=s0-e365",
+      "source_tag": "picture:page-image",
+      "context": "picture div _image_1n6as_1 div _background_1p2zm_651 div w-ey3oey1p-sub-nav-0 _details_1p2zm_164 li _navLinkContainer_1p2zm_158",
+      "content_type": "image/png",
+      "bytes": 127391,
+      "sha256": "2a6a1f1d7665edc7b3339d068b6078d525b9cfddca4a902419262c5667ecb155",
+      "width": 508,
+      "height": 486,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/waymo/reference-2.webp",
+      "source_url": "https://lh3.googleusercontent.com/IG01gqwifAjCAlrewMkrt1NuQDTkixxYsEnGgiKMmLbMEgQpQI-PAZ_MGEYz8CDbIesBF29aOqfdH0K6s2wWVHYc6BgDLjdg2w=e365-pa-nu-w1620",
+      "source_tag": "picture:page-image",
+      "context": "picture div _image_1n6as_1 div _background_1p2zm_651 div w-ey3oey1p-sub-nav-1 _details_1p2zm_164 li _navLinkContainer_1p2zm_158",
+      "content_type": "image/webp",
+      "bytes": 11182,
+      "sha256": "66782a58f098d56d536a166812ced504697ff2bd822fe265f5f1122b55afe57c",
+      "width": 1620,
+      "height": 418
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/waymo/reference-3.webp",
+      "source_url": "https://lh3.googleusercontent.com/IG01gqwifAjCAlrewMkrt1NuQDTkixxYsEnGgiKMmLbMEgQpQI-PAZ_MGEYz8CDbIesBF29aOqfdH0K6s2wWVHYc6BgDLjdg2w=s0-e365",
+      "source_tag": "picture:page-image",
+      "context": "picture div _image_1n6as_1 div _background_1p2zm_651 div w-ey3oey1p-sub-nav-1 _details_1p2zm_164 li _navLinkContainer_1p2zm_158",
+      "content_type": "image/webp",
+      "bytes": 13812,
+      "sha256": "abf9b143afc78707bba9b606f98f26e062f4a958c66f3818f5f2e14a5c9ea34e",
+      "width": 1800,
+      "height": 465
+    }
+  ]
+}

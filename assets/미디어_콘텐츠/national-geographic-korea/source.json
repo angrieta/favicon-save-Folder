@@ -1,0 +1,60 @@
+{
+  "company": "National Geographic Korea",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.natgeokorea.com/",
+  "page_url": "https://www.natgeokorea.com/",
+  "page_title": "내셔널지오그래픽",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/national-geographic-korea/favicon.png",
+      "source_url": "https://www.natgeokorea.com/favicon.gif",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 135,
+      "sha256": "661ca9a6b9667dd3a37df46c463323983606bbd8923c3b57d0b2504918cbabdf",
+      "width": 16,
+      "height": 16,
+      "source_sha256": "5582f45c5b9fb48c0d933a27156f3a202085ec9f39d89ba4fde865b7738b5e2d"
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/national-geographic-korea/logo-1.png",
+      "source_url": "https://www.natgeokorea.com/img/toplogo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img NATGEO KOREA a li topbar-title ul toplogo div desktop-nav",
+      "content_type": "image/png",
+      "bytes": 4610,
+      "sha256": "61d406794d037e67267545eb4c92d83eed7849a25f2a6a993950a71440c9eda6",
+      "width": 209,
+      "height": 63
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/national-geographic-korea/banner-1.webp",
+      "source_url": "https://www.natgeokorea.com/lib/thumb/phpThumb.php?src=%2Fuploads%2FNGA%20%EB%83%87%EC%A7%80%EC%98%A4%209%EC%9B%94_%EC%84%B9%EC%85%98%20%EB%B0%B0%EB%84%88.jpg&w=1200&sia=STORE_BANNER&q=75&hash=c701ebb368799d34465c732e0be1d69e",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a mapping mapping169 mobile-map50 cards cardSmall div large-6 small-12 columns card customCard div card__wrap section hbnrStore row hst-store",
+      "content_type": "image/webp",
+      "bytes": 87136,
+      "sha256": "6ac37de21102a607f539dc9471cf5155679333d3bcb7e94a6d65dad2fdd360ee",
+      "width": 1200,
+      "height": 675,
+      "source_sha256": "a224ce110c3140d291db481c7d8825dc8a51d59ef74551dcc07b14f61fe030c4"
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/national-geographic-korea/banner-2.webp",
+      "source_url": "https://www.natgeokorea.com/lib/thumb/phpThumb.php?src=%2Fuploads%2F20260814_Nat%20Geo%20KOREA%20Web%20Banner%28Mobile%29_1200x675.jpg&w=1200&sia=STORE_BANNER&q=75&hash=18b6cd2128337190a0a264799f9b971c",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a mapping mapping169 mobile-map50 cards cardSmall div large-6 small-12 columns card customCard div card__wrap section hbnrStore row hst-store",
+      "content_type": "image/webp",
+      "bytes": 57528,
+      "sha256": "d8fcd21fa4506b6b32a0745a4b11bb56113a41259f7d5b0f2b6bd497b66ae164",
+      "width": 1200,
+      "height": 675
+    }
+  ]
+}

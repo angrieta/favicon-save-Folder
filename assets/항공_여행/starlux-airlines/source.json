@@ -1,0 +1,93 @@
+{
+  "company": "STARLUX Airlines",
+  "category": "항공_여행",
+  "requested_url": "https://www.starlux-airlines.com/ko-KR",
+  "page_url": "https://www.starlux-airlines.com/ko-KR",
+  "page_title": "스타럭스 항공 공식 웹사이트",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/starlux-airlines/favicon.png",
+      "source_url": "https://www.starlux-airlines.com/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2467,
+      "sha256": "aec7f757a2c53982ca121efe587e83cbf50039b8d723431ea636f4b0f6c3193b",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/starlux-airlines/og.webp",
+      "source_url": "https://webassets2.starlux-airlines.com/ko-KR/Images/20250617_five%20star_OG_0620_tcm48-12533.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 25430,
+      "sha256": "b1bbc6b8b85082e87b80a95158351be8355e926f247fb34bf9299e7eb6d8192a",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/starlux-airlines/banner-1.webp",
+      "source_url": "https://webassets2.starlux-airlines.com/ko-KR/Images/fiveStar-2026-v2-xl_tcm48-16959.jpg",
+      "source_tag": "source:semantic-banner",
+      "context": "source object-cover w-full min-h-900 h-screen relative z-10 picture div div relative swiper-slide-custom w-full h-full flex-shrink-0 div swiper-wrapper relative",
+      "content_type": "image/webp",
+      "bytes": 102242,
+      "sha256": "17f83ba2f6fcc817f85918686b4ba97b360d90d180600898343f4e44b07a2a7a",
+      "width": 1800,
+      "height": 805
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/starlux-airlines/banner-2.webp",
+      "source_url": "https://webassets2.starlux-airlines.com/ko-KR/Images/fiveStar-2026-v2-lg_tcm48-12531.jpg",
+      "source_tag": "source:semantic-banner",
+      "context": "source object-cover w-full min-h-900 h-screen relative z-10 picture div div relative swiper-slide-custom w-full h-full flex-shrink-0 div swiper-wrapper relative",
+      "content_type": "image/webp",
+      "bytes": 97388,
+      "sha256": "3c0b1ce59d1e224802dd9d0ad87fb3e759a39af6ddac2f313ff089f64edecc5e",
+      "width": 1800,
+      "height": 805
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/starlux-airlines/reference-1.webp",
+      "source_url": "https://webassets2.starlux-airlines.com/ko-KR/Images/fiveStar-2026-v2-mb_tcm48-12530.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div div relative swiper-slide-custom w-full h-full flex-shrink-0 div swiper-wrapper relative div flex-1 overflow-hidden order-2",
+      "content_type": "image/webp",
+      "bytes": 37048,
+      "sha256": "eb7d41d1353e41b8efcb77e43e90133cc40d55a3f318ed45339196e392321df2",
+      "width": 596,
+      "height": 944
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/starlux-airlines/reference-2.webp",
+      "source_url": "https://webassets2.starlux-airlines.com/ko-KR/Images/Web_3640x16202026-AIRSORAYAMA8_tcm48-16608.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture a div relative swiper-slide-custom w-full h-full flex-shrink-0 div swiper-wrapper relative div flex-1 overflow-hidden order-2",
+      "content_type": "image/webp",
+      "bytes": 55530,
+      "sha256": "a06fa51fb4794bc42465c8abcf3a8a424c157886bd37f87c898fe16f20b0c580",
+      "width": 1800,
+      "height": 805
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/starlux-airlines/reference-3.webp",
+      "source_url": "https://webassets2.starlux-airlines.com/ko-KR/Images/Web_Web2026-AIRSORAYAMA_tcm48-14885.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture a div relative swiper-slide-custom w-full h-full flex-shrink-0 div swiper-wrapper relative div flex-1 overflow-hidden order-2",
+      "content_type": "image/webp",
+      "bytes": 62196,
+      "sha256": "ecbbad7573751549a563d6e2664e389636093344acb216f15fe7fb3914e2e9b7",
+      "width": 1800,
+      "height": 805
+    }
+  ]
+}

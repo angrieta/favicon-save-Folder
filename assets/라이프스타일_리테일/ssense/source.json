@@ -1,0 +1,34 @@
+{
+  "company": "SSENSE",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.ssense.com/ko-kr",
+  "page_url": "https://www.ssense.com/ko-kr",
+  "page_title": "럭셔리 브랜드 및 디자이너 레이블 | SSENSE 대한민국",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.ssense.com/dpr_auto/v1790601675/cnppavnk8oaahoxfny1y.jpg; reference:HTTPError:https://www.ssense.com/dpr_auto/v1790601673/fljef1yogg9ry1mftgka.jpg; reference:ValueError:https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Inter.woff2; reference:ValueError:https://res.cloudinary.com/ssenseweb/raw/upload/v1504879826/web/fonts/favorit-times/FavoritSSENSE-Regular.woff2; reference:ValueError:https://res.cloudinary.com/ssenseweb/raw/upload/v1492612618/web/fonts/ssense-font/ssense-fonts.woff; reference:ValueError:https://www.ssense.com/assets/app.3ce7137c578480306eb8.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/ssense/favicon.png",
+      "source_url": "https://www.ssense.com/icons/favicon-196x196.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 9219,
+      "sha256": "3f6a3b7ddff8973a67f3182d99a8e0e8a4c540bc57ff0c078fb86af62e703696",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/ssense/logo-1.webp",
+      "source_url": "https://img.ssensemedia.com/images/v1571840298/SSENSE_logo/SSENSE_logo.jpg",
+      "source_tag": "json-ld.@graph[1].logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 5000,
+      "sha256": "2f74b6d92725789ac2b8b55322cc6b3d9ad63869472abbef26828929864a87f2",
+      "width": 1600,
+      "height": 160
+    }
+  ]
+}

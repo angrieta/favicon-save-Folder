@@ -1,0 +1,33 @@
+{
+  "company": "롯데호텔",
+  "category": "항공_여행",
+  "requested_url": "https://www.lottehotel.com/",
+  "page_url": "https://www.lottehotel.com/",
+  "page_title": "LOTTE HOTELS & RESORTS",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.lottehotel.com/assets/styles/vanilla-calendar.min.css?v=1789716364701; reference:ValueError:https://www.lottehotel.com/static/app.BZWUu0UB.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/lotte-hotels/favicon.ico",
+      "source_url": "https://www.lottehotel.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "9470a283ac32f95e5e9f756f558476f5b82aaade78c97dcdf1dee2528c48ca6a",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/lotte-hotels/og.webp",
+      "source_url": "https://img.lottehotel.com/cms/asset/2025/04/16/26521/link_img.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3714,
+      "sha256": "dd06f3ff4790b9831423f74bcb8d9d4ebac3a06135d60feb657f0961fb09e67d",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

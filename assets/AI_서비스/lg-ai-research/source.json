@@ -1,0 +1,58 @@
+{
+  "company": "LG AI연구원",
+  "category": "AI_서비스",
+  "requested_url": "https://www.lgresearch.ai",
+  "page_url": "https://www.lgresearch.ai/",
+  "page_title": "LG AI Research - LG AI연구원",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.lgresearch.ai/_nuxt/3faa943.js; reference:ValueError:https://www.lgresearch.ai/_nuxt/fbbc463.js; reference:ValueError:https://www.lgresearch.ai/_nuxt/b1640a8.js; reference:ValueError:https://www.lgresearch.ai/_nuxt/b117e23.js; reference:ValueError:https://www.lgresearch.ai/_nuxt/e4dda2d.js; reference:ValueError:https://www.lgresearch.ai/_nuxt/8637698.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/lg-ai-research/favicon.ico",
+      "source_url": "https://www.lgresearch.ai/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 104409,
+      "sha256": "b6872cb2a64d1d545969d3e09d27bf00740754ec15a85f60787b2ef0b9dca82f",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/lg-ai-research/og.webp",
+      "source_url": "https://www.lgresearch.ai/img/common/lgresearch.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7954,
+      "sha256": "96e18f3994ca63b1f382ec70075f21c6f633a1844d36a3c06e386dae18c8624c",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/lg-ai-research/og.webp",
+      "source_url": "https://www.lgresearch.ai/img/common/lgresearch.jpg",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 7954,
+      "sha256": "96e18f3994ca63b1f382ec70075f21c6f633a1844d36a3c06e386dae18c8624c",
+      "width": 1200,
+      "height": 630,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/lg-ai-research/logo-2.png",
+      "source_url": "https://www.lgresearch.ai/img/common/logo_en.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img LG AI Research div footer_logo div footer_content div inner footer footer",
+      "content_type": "image/png",
+      "bytes": 6817,
+      "sha256": "19311ba62c0721ddb1be0e85d8ea051ba89a66101b3b45e951153e3b8a447e66",
+      "width": 388,
+      "height": 56
+    }
+  ]
+}

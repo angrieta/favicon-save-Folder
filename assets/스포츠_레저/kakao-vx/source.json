@@ -1,0 +1,81 @@
+{
+  "company": "카카오VX",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.kakaovx.com",
+  "page_url": "https://www.kakaovx.com/",
+  "page_title": "카카오 VX",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.kakaovx.com/images/morph/2025_morphing.mp4; banner:ValueError:https://www.kakaovx.com/graphic/2025_morphing.gif; reference:ValueError:https://www.kakaovx.com/images/morph/2025_morphing.mp4; reference:ValueError:https://www.kakaovx.com/graphic/2025_morphing.gif",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/kakao-vx/favicon.ico",
+      "source_url": "https://kakaovx.com/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 128519,
+      "sha256": "544fc298c055c7ff459e8cb548a9f252bede3ee6152a6cee4bccbc1c32161347",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/kakao-vx/og.webp",
+      "source_url": "https://kakaovx.com/images/terms/sns_img.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2178,
+      "sha256": "8f4c0614995c9bf95cc503cdee769b15411c10b3d688f5bdc6a983be3fc39d93",
+      "width": 287,
+      "height": 150
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/kakao-vx/banner-1.webp",
+      "source_url": "https://www.kakaovx.com/images/main/scaleBg_2025.png?t=1",
+      "source_tag": "img:semantic-banner",
+      "context": "img span imgBox section container layout-h100p digitalTransformation onBg inview body body-main html",
+      "content_type": "image/webp",
+      "bytes": 126500,
+      "sha256": "7d532c5699973ae3f85706725d2c65fb3a6b370c828b2e6bc6b2be56615eda8d",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/kakao-vx/reference-1.webp",
+      "source_url": "https://www.kakaovx.com/images/business/biz_screen.png",
+      "source_tag": "img:page-image",
+      "context": "img 서비스스크린 div business-item-image div business-card-inner article business-card-box div",
+      "content_type": "image/webp",
+      "bytes": 6962,
+      "sha256": "5c10d9ab42a5893ad1cbcc937609b3a8957786197859fa394713c1de9f70c532",
+      "width": 636,
+      "height": 636
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/kakao-vx/reference-2.webp",
+      "source_url": "https://www.kakaovx.com/images/business/biz_booking.png",
+      "source_tag": "img:page-image",
+      "context": "img 서비스골프예약 div business-item-image div business-card-inner article business-card-box div",
+      "content_type": "image/webp",
+      "bytes": 8634,
+      "sha256": "e3fa6ebbe550668e42bb0a4ddf49865fb5e3b330eb4cf4f786a2956dfb73c3e7",
+      "width": 636,
+      "height": 636
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/kakao-vx/reference-3.webp",
+      "source_url": "https://www.kakaovx.com/images/business/biz_smartgolf.png",
+      "source_tag": "img:page-image",
+      "context": "img 서비스스마트 골프장 div business-item-image div business-card-inner article business-card-box div",
+      "content_type": "image/webp",
+      "bytes": 8850,
+      "sha256": "a1c2ad1219abf41aae6d952d59de46bece36bcc34d0a364fefa8cd81b339bc43",
+      "width": 636,
+      "height": 636
+    }
+  ]
+}

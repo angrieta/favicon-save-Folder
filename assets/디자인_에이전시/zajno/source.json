@@ -1,0 +1,45 @@
+{
+  "company": "Zajno",
+  "category": "디자인_에이전시",
+  "requested_url": "https://zajno.com",
+  "page_url": "https://zajno.com/",
+  "page_title": "Zajno Digital Studio | Web Design, Branding, 3D, Animation & Webflow Development Services",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1489878807973890&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/zajno/favicon.png",
+      "source_url": "https://zajno.com/static/fav/apple-touch.png?5",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3359,
+      "sha256": "4066c2267d0a09ae97acd66a2730e5d33810fa9f52cf7c05029c5340a0b49eb5",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/zajno/og.webp",
+      "source_url": "https://images.prismic.io/zajno-website-2023/32c5af84-b1b3-4af2-adf2-e475b1070bd6_Zajno-2.webp?fm=jpg&q=100&rect=0,0,1200,630&w=1200&h=630",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2598,
+      "sha256": "9070df4f65bca83deb7b95ac3cd928505ca9cd6ec2ba7301189fa6f1d51edb26",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/zajno/logo-1.png",
+      "source_url": "https://zajno.com/static/fav/android-chrome.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 4654,
+      "sha256": "56cd18016e3fc48c666a8cae549be87150546c2038b4cda734ec77bd5a4a7b85",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

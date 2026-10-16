@@ -1,0 +1,105 @@
+{
+  "company": "Deutsche Bank",
+  "category": "금융",
+  "requested_url": "https://www.db.com",
+  "page_url": "https://www.db.com/",
+  "page_title": "Deutsche Bank",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://www.db.com/Webp/resize_w/1280/46693a9d-3fd2-4273-b2cc-285e791102e6l.webp; reference:HTTPError:https://www.db.com/Webp/resize_w/1280/46693a9d-3fd2-4273-b2cc-285e791102e6l.webp; reference:HTTPError:https://www.db.com/Webp/resize_w/1280/34982126-a84b-4528-9b31-b01ee70de196l.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/deutsche-bank/favicon.png",
+      "source_url": "https://prod2.master.dwebcms.db.com/application/themes/default/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1044,
+      "sha256": "0d195a306060af5d1457e476cd0c26414b5318ab749f4e7bb663e36dccd2bbc9",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/deutsche-bank/og.webp",
+      "source_url": "https://prod2.master.dwebcms.db.com/application/version/latest/files/DB-Share-Logo_1200x627.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14114,
+      "sha256": "fc3d605c7128ec76832af752b02c85bc87a6d1a28ea64c37c7a8b14b04bcb108",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/deutsche-bank/logo-1.png",
+      "source_url": "https://www.db.com/application/project/images/logos/identifier_RETINA.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Deutsche Bank a identifier identifier div main-header cms-content-wrapper header cms-row body anonymouslayout1782841280686 theme-default id-a4f6c628-7f8f-4015-bd1d-7b55e4f01ab3",
+      "content_type": "image/png",
+      "bytes": 2583,
+      "sha256": "a23e530672684a8ade81f0bd72b3b0ca28934ec7875f7887996ef67e2c2f2053",
+      "width": 272,
+      "height": 80
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/deutsche-bank/banner-1.webp",
+      "source_url": "https://www.db.com/contentAsset/image/5ffd29473df11a26ba05472460391cd4/fileAsset/filter/Resize,Webp/resize_w/1280/46693a9d-3fd2-4273-b2cc-285e791102e6l.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img Person seated at a terrace table using a laptop after sunset. figure image-wrapper div media div wrapper type-image custom-text-width-100 custom-text-position-left section id-2428d59bd5a905c559d36aaeb39737f7 mod-text-box box-design type",
+      "content_type": "image/webp",
+      "bytes": 49556,
+      "sha256": "d7df46f5ca6bcebc00fd3ffd5ec6a5a8dce4416822954e8d0573b7ad2eb8b405",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/deutsche-bank/banner-2.webp",
+      "source_url": "https://www.db.com/contentAsset/image/0ad1dc81-2a99-441b-8dd2-c7ede3a57e60/fileAsset/filter/Resize,Webp/resize_w/1280/34982126-a84b-4528-9b31-b01ee70de196l.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img Jürgen Schmitt in a blue hoodie, holding a magnifying glass. figure image-wrapper div media div wrapper type-image custom-text-width-100 custom-text-position-left section id-c85ef255-9b2b-4553-b3f1-9ce6902ec2f6 mod-text-box box-design t",
+      "content_type": "image/webp",
+      "bytes": 81850,
+      "sha256": "6456229a841ebe3fe8904f210edfb85c4bd2849816d4ddddec827fb5fbc4b5f8",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/deutsche-bank/reference-1.webp",
+      "source_url": "https://www.db.com/contentAsset/image/5ffd29473df11a26ba05472460391cd4/fileAsset/filter/Resize",
+      "source_tag": "img:page-image",
+      "context": "img Person seated at a terrace table using a laptop after sunset. figure image-wrapper div media div wrapper type-image custom-text-width-100 custom-text-position-left section id-2428d59bd5a905c559d36aaeb39737f7 mod-text-box box-design type",
+      "content_type": "image/webp",
+      "bytes": 23748,
+      "sha256": "fb1f6881b95348924ddb80ad49233aecff9787d7d1a6ba316e9391d73ee809b3",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/deutsche-bank/reference-2.webp",
+      "source_url": "https://www.db.com/contentAsset/image/0ad1dc81-2a99-441b-8dd2-c7ede3a57e60/fileAsset/filter/Resize",
+      "source_tag": "img:page-image",
+      "context": "img Jürgen Schmitt in a blue hoodie, holding a magnifying glass. figure image-wrapper div media div wrapper type-image custom-text-width-100 custom-text-position-left section id-c85ef255-9b2b-4553-b3f1-9ce6902ec2f6 mod-text-box box-design t",
+      "content_type": "image/webp",
+      "bytes": 29988,
+      "sha256": "15ab3c30845dd88c89f4402602887a3f102623de5f4e1d5e9f9d97a6a11e4ae0",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/deutsche-bank/reference-3.webp",
+      "source_url": "https://www.db.com/contentAsset/image/ea460ce1-353d-4c94-8a94-02aaa4e16fa7/fileAsset/filter/Resize,Webp/resize_w/1280/a0977628-a7d6-4d18-8098-181c8bf00c21l.webp",
+      "source_tag": "img:page-image",
+      "context": "img Professionals-reading-flow-magazine-on-a-train.jpg figure image-wrapper div media div wrapper type-image custom-text-width-100 custom-text-position-left section id-4b098264-fe90-4e43-a829-9cd51d474a47 mod-text-box box-design type-defaul",
+      "content_type": "image/webp",
+      "bytes": 55598,
+      "sha256": "f967ce453d753c38655d788829bd1c3da013d2082ab8a3ea80e614ef24c86154",
+      "width": 1280,
+      "height": 960
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "company": "Levain Bakery",
+  "category": "식품_생활",
+  "requested_url": "https://levainbakery.com",
+  "page_url": "https://levainbakery.com/",
+  "page_title": "Levain Bakery™️ | New York City's Most Famous Cookies",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://levainbakery.com/Liquid",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/levain-bakery/favicon.png",
+      "source_url": "https://levainbakery.com/cdn/shop/files/blue-cookie.png?crop=center&height=32&v=1685546472&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2057,
+      "sha256": "94a8c498a291772ca2c44d026f179b6d5b8fbcff27e1a176ee3d481ae26081f2",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/levain-bakery/logo-1.svg",
+      "source_url": "https://levainbakery.com/cdn/shop/files/logo_c10cf1da-d46d-4e96-b38b-0b7d1a6af26e.svg?v=1687528089&width=600",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__heading-logo Levain Bakery div header__heading-logo-wrapper a header__heading-link link link--text focus-inset h1 header__heading header header header--middle-center header--mobile-center page-width header--has-menu header--has-",
+      "content_type": "image/svg+xml",
+      "bytes": 11433,
+      "sha256": "09fe3768bb2fad26bd7bd4242822d33b3ebc9eef9bfdb06c8a4036c1bc4efe92",
+      "width": 130,
+      "height": 46
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/levain-bakery/logo-2.webp",
+      "source_url": "https://cdn.accentuate.io/4300522160209/1749861128442/Shop_assortment_signature.png?v=1749861128443",
+      "source_tag": "img:semantic-logo",
+      "context": "img lazyload Signature Cookie Assortment div nav-menu__item__img a nav-menu__item nav-menu__item--flex div nav-menu__col div nav-menu__row",
+      "content_type": "image/webp",
+      "bytes": 51968,
+      "sha256": "81d4adf6f78fd40012f146ebd4131449d8f67a7df64fc10695afa4084afaf2a8",
+      "width": 646,
+      "height": 500
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/levain-bakery/banner-1.webp",
+      "source_url": "https://levainbakery.com/cdn/shop/files/Shop_merch_onesie_cover.png?v=1748480382",
+      "source_tag": "img:semantic-banner",
+      "context": "img upsell-img NEW-PARENTS hidden New Parents Bundle Upsell Image div CartUpsellSection cart-upsell div CartDrawer cart-drawer cart-drawer drawer is-empty",
+      "content_type": "image/webp",
+      "bytes": 11512,
+      "sha256": "8eb321e4980a4f8dd006e93804f6f1e4806d1df776f30ebb8a8835ca3ab0f8d0",
+      "width": 646,
+      "height": 500
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/levain-bakery/banner-2.webp",
+      "source_url": "https://cdn.accentuate.io/7705485541457/1749860448152/Shop_bundle_EvergreenTin_cover.png?v=1749860448152",
+      "source_tag": "img:semantic-banner",
+      "context": "img lazyload Levain Cookie Tin Gift Set div nav-menu__item__img a nav-menu__item nav-menu__item--flex div nav-menu__col div nav-menu__row",
+      "content_type": "image/webp",
+      "bytes": 48806,
+      "sha256": "6c15b900d9faffab3a7e73992a0cbcfea1cf406e80e2e6f7a682b58c7a49c0ba",
+      "width": 646,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/levain-bakery/reference-1.webp",
+      "source_url": "https://levainbakery.com/cdn/shop/files/PDP-Gallery-Merch_Tote_1_b78ac5e1-b96c-4765-8d92-46267886f295.png?v=1750243572",
+      "source_tag": "img:page-image",
+      "context": "img upsell-img PK-4 hidden 4 Pack Upsell Image div CartUpsellSection cart-upsell div CartDrawer cart-drawer cart-drawer drawer is-empty",
+      "content_type": "image/webp",
+      "bytes": 110770,
+      "sha256": "9bf7efbe0405582f0d930352992c40da82390d8b5d948725b36481e9f4937ced",
+      "width": 1351,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/levain-bakery/reference-2.webp",
+      "source_url": "https://levainbakery.com/cdn/shop/products/PDP-Gallery-EvergreenTin-1_630d1607-668a-4a96-b909-9ab6e02b4b99.jpg?v=1709831466",
+      "source_tag": "img:page-image",
+      "context": "img 8 Pack Upsell Image div upsell-single-option upsell-single-option--8 hidden div CartUpsellSection cart-upsell div CartDrawer cart-drawer",
+      "content_type": "image/webp",
+      "bytes": 223912,
+      "sha256": "613c322fa7680e3c871536b8855976b993b25db882fdbaffd3fd565d49208af8",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/levain-bakery/reference-3.webp",
+      "source_url": "https://levainbakery.com/cdn/shop/files/PDP-Gallery-Bundles_LevainTinCookie_3_1.jpg?v=1747151636",
+      "source_tag": "img:page-image",
+      "context": "img 12 Pack Upsell Image div upsell-single-option upsell-single-option--12 hidden div CartUpsellSection cart-upsell div CartDrawer cart-drawer",
+      "content_type": "image/webp",
+      "bytes": 189332,
+      "sha256": "50db15195017a47a219319c851140bba6c6c25cb41efe84c8adec88fd36a0544",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

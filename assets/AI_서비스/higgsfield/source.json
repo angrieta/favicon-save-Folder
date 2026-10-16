@@ -1,0 +1,118 @@
+{
+  "company": "Higgsfield",
+  "category": "AI_서비스",
+  "requested_url": "https://higgsfield.ai",
+  "page_url": "https://higgsfield.ai/ko",
+  "page_title": "Higgsfield AI · AI 네이티브 크리에이티브 스위트",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://higgsfield.ai/quality=95/https:/static.higgsfield.ai/home/claude-opus-5-5-banner/background-v2.webp; reference:HTTPError:https://higgsfield.ai/quality=95/https:/static.higgsfield.ai/home/claude-opus-5-5-banner/background-v2.webp; reference:HTTPError:https://higgsfield.ai/quality=85/https:/static-public-media.higgsfield.ai/cards/91da1ba6-0a21-4ca4-b4f1-5f281a31068b.webp; reference:HTTPError:https://higgsfield.ai/quality=85/https:/static-public-media.higgsfield.ai/cards/876bd0e2-ae26-4004-9f90-491beefc526d.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/higgsfield/favicon.png",
+      "source_url": "https://higgsfield.ai/apple-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6937,
+      "sha256": "a352a53fa7f08cf3dfa4f6e8039e3666de788d2706df914142b02b524d1b0871",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/higgsfield/og.webp",
+      "source_url": "https://static.higgsfield.ai/public/thumbnail/default.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 40684,
+      "sha256": "3cde68f8ad4f240f2595f12a6a3462a9d1604f1419625f7611e6f6fc9256e880",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/higgsfield/logo-1.png",
+      "source_url": "https://higgsfield.ai/icon.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 7784,
+      "sha256": "894675da4272c904f97d03ca462ee910eec35b17a91f81a3d65fb8bd5436c822",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/higgsfield/logo-2.png",
+      "source_url": "https://static.higgsfield.ai/explore/image-generate-block/seedance-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img relative size-5 drop-shadow-[0px_3px_2px_rgba(0,0,0,0.15)] div relative flex w-full items-center justify-between div relative flex h-full w-full flex-1 flex-col items-start justify-between gap-3 overflow-hidden rounded-xl p-3.5 transiti",
+      "content_type": "image/png",
+      "bytes": 5565,
+      "sha256": "25bfe6cedaa4edff758a09c2bac2bf701ca0c4ddec3d56b67c4ec503694c2f3a",
+      "width": 140,
+      "height": 123
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/higgsfield/banner-1.webp",
+      "source_url": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=1408,quality=95/https://static.higgsfield.ai/home/claude-opus-5-5-banner/background-v2.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img div claude-mcp-banner-artwork a claude-mcp-banner my-6 hidden md:block div container md:pt-2 main main h-full min-w-0 area-[main]",
+      "content_type": "image/webp",
+      "bytes": 62328,
+      "sha256": "273762234f20aafa5af3e45998538fcdf8f7913a2374343e97326574d11d75eb",
+      "width": 1408,
+      "height": 954,
+      "source_sha256": "df2265af3e09632f21c65f4082c28a4879199a21147b969c51231a1f2ea311d3"
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/higgsfield/banner-2.webp",
+      "source_url": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=1920,quality=85/https://static-public-media.higgsfield.ai/cards/91da1ba6-0a21-4ca4-b4f1-5f281a31068b.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img preload-transition pointer-events-none select-none absolute inset-0 object-cover size-full 미디어 파일 로딩 중… figure group relative overflow-hidden rounded-lg div group grid grid-flow-row-dense rounded-lg gap-3 transition active:brightness-60",
+      "content_type": "image/webp",
+      "bytes": 24146,
+      "sha256": "84afd64f188e5b4bcbd32dcedb90d60a51ca5b6564a852d402c0b22afb0d525d",
+      "width": 1080,
+      "height": 608
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/higgsfield/reference-1.webp",
+      "source_url": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=1920,quality=85/https://static-public-media.higgsfield.ai/cards/876bd0e2-ae26-4004-9f90-491beefc526d.webp",
+      "source_tag": "img:page-image",
+      "context": "img preload-transition pointer-events-none select-none absolute inset-0 object-cover size-full 미디어 파일 로딩 중… figure group relative overflow-hidden rounded-lg div group grid grid-flow-row-dense rounded-lg gap-3 transition active:brightness-60",
+      "content_type": "image/webp",
+      "bytes": 41674,
+      "sha256": "06896b7301f32ad379059c35ce8af4a179b09900ed9efe5cce09a3a99d995d67",
+      "width": 1080,
+      "height": 608
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/higgsfield/reference-2.webp",
+      "source_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3GNcyaSCltezE7ot4WtRdn0jfo0/821f8180-f5de-4a1b-b827-57b34a7cbc4d.jpg",
+      "source_tag": "json-ld.itemListElement[0].item.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 118328,
+      "sha256": "86c8787e5dc176bab4b687b6c1dd7b1038536a0d9b29eeb445759f7d8f970f1c",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/higgsfield/reference-3.webp",
+      "source_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3GNcyaSCltezE7ot4WtRdn0jfo0/4203e91f-4612-411f-a567-36265f8ee8b9.png",
+      "source_tag": "json-ld.itemListElement[0].item.author.image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 6448,
+      "sha256": "873c327769f0ecd0d237af90f97889b3a6aa76a8009016bb13a3eeb884d170ab",
+      "width": 400,
+      "height": 400
+    }
+  ]
+}

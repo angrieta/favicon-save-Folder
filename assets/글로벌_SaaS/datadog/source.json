@@ -1,0 +1,118 @@
+{
+  "company": "Datadog",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.datadoghq.com/ko/",
+  "page_url": "https://www.datadoghq.com/ko/",
+  "page_title": "서비스형 클라우드 모니터링 | Datadog",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://corp.dd-static.net/img/homepage/banner/cloud-migration-azure-ebook-rotating_slide-1536x1206-mobile-240806.png?&ch=Width,DPR&width=768&auto=format&q=75",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/datadog/favicon.png",
+      "source_url": "https://corp.dd-static.net/img/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 12420,
+      "sha256": "db341638d84c04517bb73fa8143d9091d42d90eabb10c1bbc0af8ea24267fe8a",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "23b52acf308dafe2bb1d8e975b912c782f3e7d1caaf7e891cfc58c56ee33ca60"
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/datadog/og.webp",
+      "source_url": "https://corp.dd-static.net/img/og/og-image-10-25.png?fit=crop&w=1200&h=630",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 84616,
+      "sha256": "ce3ae3c4475b807e15d40378db1c0168700ecff0a2976a9c07ea02e43e909b4b",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/datadog/logo-1.png",
+      "source_url": "https://corp.dd-static.net/img/datadog_rbg_n_2x.png?format=png",
+      "source_tag": "img:semantic-logo",
+      "context": "img bits-logo-mobile d-inline-block Datadog Logo a div d-flex d-lg-none align-items-center justify-content-center div container d-flex position-relative nav main-nav",
+      "content_type": "image/png",
+      "bytes": 15220,
+      "sha256": "8e39a55f2c57a78d586cc3b1c7fd953e4838f663eb47ae4175f2d4870606ccee",
+      "width": 346,
+      "height": 88
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/datadog/logo-2.webp",
+      "source_url": "https://corp.dd-static.net/img/about/presskit/logo-v/dd_vertical_purple.png",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 48176,
+      "sha256": "898bb4a80a90f724deca26467135262c8f6bbdd86f2a58632872cbe09555eeea",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/datadog/banner-1.webp",
+      "source_url": "https://corp.dd-static.net/img/homepage/banner/dashboard_security_3_desktop.png?format=png&auto=format&fit=max&w=768&h=386&dpr=2&q=90",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure mb-0 tw-mb-0 position-relative div desktop:tw-col-span-6 div tw-flex tw-flex-col tw-overflow-y-clip position-relative desktop:tw-grid desktop:tw-grid-cols-12 section",
+      "content_type": "image/webp",
+      "bytes": 42170,
+      "sha256": "3383417052ac1a3b2c0da89dc2d45270288769f196e0ab9bf5bb68b5fbe82137",
+      "width": 1192,
+      "height": 772
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/datadog/banner-2.webp",
+      "source_url": "https://corp.dd-static.net/img/homepage/banner/dashboard_security_3_desktop.png?format=png&auto=format&fit=max&w=756&h=490&dpr=4&q=35",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure mb-0 tw-mb-0 position-relative div desktop:tw-col-span-6 div tw-flex tw-flex-col tw-overflow-y-clip position-relative desktop:tw-grid desktop:tw-grid-cols-12 section",
+      "content_type": "image/webp",
+      "bytes": 67182,
+      "sha256": "c9c0f34d4ff82afd3fa6c0ccad44ab46f10d6b7f354786cad6625105b304dac6",
+      "width": 1800,
+      "height": 1167
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/datadog/reference-1.webp",
+      "source_url": "https://corp.dd-static.net/img/homepage/banner/cloud_migration_aws_ebook_supporting_assets_homepage_rotating_slide_mobile_240405.png?&ch=Width,DPR&width=768&auto=format&q=75",
+      "source_tag": "inline-background-image",
+      "context": "div  position-absolute d-block d-lg-none mobile-bg-image w-100 h-100 background-image:url(https://corp.dd-static.net/img/homepage/banner/cloud_migration_aws_ebook_supporting_assets_homepage_rotating_slide_mobile_240405.png?&ch=Width,DPR&wid",
+      "content_type": "image/webp",
+      "bytes": 12058,
+      "sha256": "a1560ab8744f272b1fba7e2c9d1431fc20bcfd03332122ad3bb0e4653b485f34",
+      "width": 768,
+      "height": 603
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/datadog/reference-2.webp",
+      "source_url": "https://corp.dd-static.net/img/homepage/banner/gcpcloudexcellence-homepage-rotating-slide-1536x1206-mobile.png?&ch=Width,DPR&width=768&auto=format&q=75",
+      "source_tag": "inline-background-image",
+      "context": "div  position-absolute d-block d-lg-none mobile-bg-image w-100 h-100 background-image:url(https://corp.dd-static.net/img/homepage/banner/gcpcloudexcellence-homepage-rotating-slide-1536x1206-mobile.png?&ch=Width,DPR&width=768&auto=format&q=7",
+      "content_type": "image/webp",
+      "bytes": 13442,
+      "sha256": "1ed4757ececebb3603143beda970e548f5eb8e860c886e36ab7f6dce4086f3c3",
+      "width": 768,
+      "height": 603
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/datadog/reference-3.webp",
+      "source_url": "https://corp.dd-static.net/img/homepage/banner/forresterwaveaiopsrotatingmobilev2.png?&ch=Width,DPR&width=768&auto=format&q=75",
+      "source_tag": "inline-background-image",
+      "context": "div  position-absolute d-block d-lg-none mobile-bg-image w-100 h-100 background-image:url(https://corp.dd-static.net/img/homepage/banner/forresterwaveaiopsrotatingmobilev2.png?&ch=Width,DPR&width=768&auto=format&q=75)",
+      "content_type": "image/webp",
+      "bytes": 16832,
+      "sha256": "703e57584f5b8735947bff2a8673b82d17720a3532901b145d3638d09d278b52",
+      "width": 768,
+      "height": 603
+    }
+  ]
+}

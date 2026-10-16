@@ -1,0 +1,33 @@
+{
+  "company": "Lega Serie A",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.legaseriea.it",
+  "page_url": "https://www.legaseriea.it/",
+  "page_title": "Lega Serie A | Sito Ufficiale",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.legaseriea.it/_next/static/chunks/webpack-00c04b58cc2f2a87.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/serie-a/favicon.png",
+      "source_url": "https://www.legaseriea.it/apple-icon.png?7d5fc4b566dd7623",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7106,
+      "sha256": "9a6be902ccb4c830a649a4516fe73cae7fb0cfd552a28ff089045156e17c13e0",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/serie-a/og.webp",
+      "source_url": "https://images.legaseriea.it/image/private/t_q-good/prd/assets/backgrounds/fallback-logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2988,
+      "sha256": "962f01c9d2bbc0a7454c69d316bcab31d07227cdc3747311bd4c6ca817f4a79d",
+      "width": 686,
+      "height": 386
+    }
+  ]
+}

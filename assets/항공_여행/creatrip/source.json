@@ -1,0 +1,81 @@
+{
+  "company": "크리에이트립",
+  "category": "항공_여행",
+  "requested_url": "https://www.creatrip.com/",
+  "page_url": "https://creatrip.com/en",
+  "page_title": "Creatrip: Korea Your Way",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://creatrip.com/_next/static/css/e907108ab0eeed29.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/creatrip/favicon.png",
+      "source_url": "https://creatrip.com/symbol-logo-96.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 6519,
+      "sha256": "00860d825ff01631db54dba3a152271a9574fa4b20b1911dc69e6046b3935050",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/creatrip/og.webp",
+      "source_url": "https://cf.creatrip.com/logo/logo.png?d=1300x700&q=75&f=webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4816,
+      "sha256": "bcf9f209a1229060290b7ded39e168590e14b12a9ea53a0cd31a1312065b1cfe",
+      "width": 700,
+      "height": 700
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/creatrip/logo-1.svg",
+      "source_url": "https://creatrip.com/logo.svg",
+      "source_tag": "json-ld.publisher.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 5171,
+      "sha256": "fe825926150d4fd38b48b60854703bbc217a136b2dca42afa6ed836b919cde69",
+      "width": 236,
+      "height": 60
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/creatrip/reference-1.webp",
+      "source_url": "https://cf.creatrip.com/home_main/mainhome_3.jpg",
+      "source_tag": "img:page-image",
+      "context": "img sc-84a64434-0 kwWxZx third main image div sc-84a64434-1 lkGVCW sc-c1c0acfa-10 bStlAZ div sc-a5a2dd50-0 dUzhdb div sc-c1c0acfa-6 cQhLCs main sc-c1c0acfa-5 hkyclX",
+      "content_type": "image/webp",
+      "bytes": 95710,
+      "sha256": "fabaf7b94b93d1304b335b2fe1edb4d4b188249c99c2f792feb0d346af97bf77",
+      "width": 1800,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/creatrip/reference-2.webp",
+      "source_url": "https://cf.creatrip.com/home_main/mainhome_1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img sc-84a64434-0 kwWxZx first main image div sc-84a64434-1 lkGVCW sc-c1c0acfa-10 bStlAZ div sc-a5a2dd50-0 dUzhdb div sc-c1c0acfa-6 cQhLCs main sc-c1c0acfa-5 hkyclX",
+      "content_type": "image/webp",
+      "bytes": 305442,
+      "sha256": "0e59dd0839051d5ea0b604e54bcd73e6a39c28859906d0920feca37e701d4abb",
+      "width": 1800,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/creatrip/reference-3.webp",
+      "source_url": "https://cf.creatrip.com/home_main/mainhome_2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img sc-84a64434-0 kwWxZx second main image div sc-84a64434-1 lkGVCW sc-c1c0acfa-10 bStlAZ div sc-a5a2dd50-0 dUzhdb div sc-c1c0acfa-6 cQhLCs main sc-c1c0acfa-5 hkyclX",
+      "content_type": "image/webp",
+      "bytes": 103110,
+      "sha256": "785773aa133522b583d8ad67cf128a3d17cf4c430c65556d95ac23e1f6e21c5c",
+      "width": 1800,
+      "height": 500
+    }
+  ]
+}

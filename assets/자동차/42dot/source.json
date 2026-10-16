@@ -1,0 +1,119 @@
+{
+  "company": "포티투닷",
+  "category": "자동차",
+  "requested_url": "https://42dot.ai/ko",
+  "page_url": "https://42dot.ai/ko",
+  "page_title": "포티투닷 - SDV, AI 기술로 소프트웨어 혁신을 이끄는 기업 | 42dot",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://website-static.42dot.ai/42dot/main/kv/short/eff53ac14737405680b133f506b3602b.webm; banner:ValueError:https://website-static.42dot.ai/42dot/main/kv/long/2ef1b87b053a4d539031dbe6f9c2d7a2.mp4; reference:ValueError:https://website-static.42dot.ai/42dot/main/kv/short/eff53ac14737405680b133f506b3602b.webm; reference:ValueError:https://website-static.42dot.ai/42dot/main/kv/long/2ef1b87b053a4d539031dbe6f9c2d7a2.mp4; reference:ValueError:https://42dot.ai/video/home-ee-architecture.webm",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/42dot/favicon.png",
+      "source_url": "https://42dot.ai/icon.png?icon.0i_0__fg3k1tz.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5855,
+      "sha256": "bd9ef3377acb37b67699409112bf9b16ac03e221146dccdc4e79bbf161b3f74b",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "265968f178bf1c1f5ef5e5d19f018534e0a83d5911fe392cf7691394092ae1f7"
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/42dot/og.webp",
+      "source_url": "https://42dot.ai/42dot-og-default.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9320,
+      "sha256": "0c68579b506791053ff569a79b63eb0d67836dd4a483931bbd6251099cfd834c",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/42dot/logo-1.png",
+      "source_url": "https://42dot.ai/icon.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 44695,
+      "sha256": "153a7a80f434698f024e4be4281bd55268410010d53f865c8c7d696bc3b94c6a",
+      "width": 1600,
+      "height": 1600,
+      "source_sha256": "4e2adf6fc8b40dee801f3ab817a3d725becd919df2518430f7c9e5ff58c7896e"
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/42dot/logo-2.png",
+      "source_url": "https://website-static.42dot.ai/42dot/careers/banner/pc/6b8f652509d44522af9365fb9c705da5.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img 42dot logo div only_pc div Careers-module-scss-module__zly1bq__careers_blog careers_blog div Careers-module-scss-module__zly1bq__careers_layout div Careers-module-scss-module__zly1bq__careers_inner",
+      "content_type": "image/png",
+      "bytes": 105179,
+      "sha256": "58c6cecb132a4d2dd5811ea9ad8d180e13e4b50570702213a1b986f1f1178e94",
+      "width": 652,
+      "height": 652
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/42dot/banner-1.webp",
+      "source_url": "https://42dot.ai/images/home/ai-main-banner.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img only_pc AiMobility-module-scss-module__BJhaFq__img_pc div AiMobility-module-scss-module__BJhaFq__video_ai video_ai div AiMobility-module-scss-module__BJhaFq__ai_mobility_title ai_mobility_title div AiMobility-module-scss-module__BJhaFq_",
+      "content_type": "image/webp",
+      "bytes": 17598,
+      "sha256": "6b041a21082b7d02ca22e56aadb6787ad43ed6cae06d5eaec887333612d30fcd",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/42dot/banner-2.webp",
+      "source_url": "https://42dot.ai/images/home/careers-welcome-banner.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img 42dot Careers - 소프트웨어·AI·Automotive 융합 인재 채용 div only_pc div Careers-module-scss-module__zly1bq__careers_form careers_form div Careers-module-scss-module__zly1bq__careers_layout div Careers-module-scss-module__zly1bq__careers_inner",
+      "content_type": "image/webp",
+      "bytes": 12192,
+      "sha256": "3319d86f2fc468f694090382d1462b1b446480c35215eb520e2643a2f856971b",
+      "width": 1800,
+      "height": 1003
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/42dot/reference-1.webp",
+      "source_url": "https://42dot.ai/images/home/ai-main-banner-mo.webp",
+      "source_tag": "img:page-image",
+      "context": "img only_mo div AiMobility-module-scss-module__BJhaFq__video_ai video_ai div AiMobility-module-scss-module__BJhaFq__ai_mobility_title ai_mobility_title div AiMobility-module-scss-module__BJhaFq__section_ai_mobility section_ai_mobility main ",
+      "content_type": "image/webp",
+      "bytes": 5848,
+      "sha256": "86016c1678a97736099bb2968a6ed744dcc01e7beea2b9b7b40dc10f8b51f5a4",
+      "width": 750,
+      "height": 1196
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/42dot/reference-2.webp",
+      "source_url": "https://42dot.ai/images/home/hyundai-motor-group-partnership.webp",
+      "source_tag": "img:page-image",
+      "context": "img div Company-module-scss-module__jGYfYq__company_bg div Company-module-scss-module__jGYfYq__section_company section main main-content",
+      "content_type": "image/webp",
+      "bytes": 63526,
+      "sha256": "74ea0537e1b374cd90553cde07044142d80ebcb860331b5a096ee5b06387e7d2",
+      "width": 1800,
+      "height": 909
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/42dot/reference-3.webp",
+      "source_url": "https://42dot.ai/images/home/ee-architecture-vehicle-system.webp",
+      "source_tag": "img:page-image",
+      "context": "img E/E 아키텍처 차량 전기·전자 시스템 div SdvHead-module-scss-module__PZVPkW__sdv_item_media div SdvHead-module-scss-module__PZVPkW__sdv_item_row sdv_item_row div SdvHead-module-scss-module__PZVPkW__sdv_text_box_detail div SdvHead-module-scss-module__P",
+      "content_type": "image/webp",
+      "bytes": 52486,
+      "sha256": "77eb0417b78ca5f8487790450d01c80e00de42ac51cd788ba8e2f6b112d3396c",
+      "width": 1380,
+      "height": 1350
+    }
+  ]
+}

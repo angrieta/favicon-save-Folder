@@ -1,0 +1,69 @@
+{
+  "company": "teamLab",
+  "category": "문화_공공",
+  "requested_url": "https://www.teamlab.art/ko/",
+  "page_url": "https://www.teamlab.art/ko/",
+  "page_title": "teamLab",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.teamlab.art/ko/quality=80",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/teamlab/favicon.ico",
+      "source_url": "https://www.teamlab.art/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 124650,
+      "sha256": "2ad78d6f68766e5e53ac41e3efbd1f9547806851a384b4d744bd40118c9fba5e",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/teamlab/og.webp",
+      "source_url": "https://www.teamlab.art/teamlab-art-ogp-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5028,
+      "sha256": "c2bf24a95c6b72b3251b44f7279eef365b40eee31a6d232560fbe8785aad479b",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/teamlab/reference-1.webp",
+      "source_url": "https://dist2.imagewave.pictures/b5EBo9Uo-OK6SM09ZTkEZQ/32a55044-0951-4789-0df4-9c82e30bb000/width=3840,quality=80",
+      "source_tag": "img:page-image",
+      "context": "img メインビジュアル div ImageWithLoading_image__VIoaF div ImageWithLoading_image-wrapper__XYPcK ImageWithLoading_-loading__12YU0 div SectionMainVisual_image__cZInx div SectionMainVisual_image-area__K2OrU",
+      "content_type": "image/webp",
+      "bytes": 281784,
+      "sha256": "722435e7ffbdd105bae577b36b9362ea57aeb159e64d0c9dfc4d39c17d7b5544",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/teamlab/reference-2.webp",
+      "source_url": "https://dist2.imagewave.pictures/b5EBo9Uo-OK6SM09ZTkEZQ/GYsASAFxMT3mcSKuAoq9Mm/width=3840,quality=80",
+      "source_tag": "img:page-image",
+      "context": "img 展示画像 div ImageWithLoading_image__VIoaF div ImageWithLoading_image-wrapper__XYPcK ImageWithLoading_-loading__12YU0 div ExhibitionCard_figure-block__8ohzb a ExhibitionCard_exhibition-card__GPViF",
+      "content_type": "image/webp",
+      "bytes": 32488,
+      "sha256": "6fa6748e00d84fe8f979eff0c4173f9aa0b0243d1a7881ea2a248b6a4feea03c",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/teamlab/reference-3.webp",
+      "source_url": "https://dist2.imagewave.pictures/b5EBo9Uo-OK6SM09ZTkEZQ/Yt5eET5oZzm6FBicauQUSY/width=3840,quality=80",
+      "source_tag": "img:page-image",
+      "context": "img 展示画像 div ImageWithLoading_image__VIoaF div ImageWithLoading_image-wrapper__XYPcK ImageWithLoading_-loading__12YU0 div ExhibitionCard_figure-block__8ohzb a ExhibitionCard_exhibition-card__GPViF",
+      "content_type": "image/webp",
+      "bytes": 755104,
+      "sha256": "8a61afa39279c6136238d2479f13e5e62141573c68fd2d30721b72cd5f715187",
+      "width": 1800,
+      "height": 1043
+    }
+  ]
+}

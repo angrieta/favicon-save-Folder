@@ -1,0 +1,119 @@
+{
+  "company": "Hostelworld",
+  "category": "항공_여행",
+  "requested_url": "https://www.hostelworld.com/ko/",
+  "page_url": "https://www.hostelworld.com/ko/",
+  "page_title": "전세계 호스텔 - 온라인 예약, 평가 및 리뷰",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/hostelworld/favicon.png",
+      "source_url": "https://www.hostelworld.com/pwa-512x512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6237,
+      "sha256": "e902e3e9c3c8a21dee17c2ad60e9ec909cac0f972ae0e43dfb719efadd75aa70",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/hostelworld/og.webp",
+      "source_url": "https://a.hwstatic.com/image/upload/f_auto,q_auto,h_600/v1647449187/pwa/hostelworld.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 83956,
+      "sha256": "04ed1d47b4fed504683ca4257b8deae3ebf10fd9b996c0d5e3657d9825745bd7",
+      "width": 1143,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/hostelworld/logo-1.svg",
+      "source_url": "https://sc.hwstatic.com/wds/logos/brand/hw-full.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-full hw-full hw-full hw-full div logo-container div navigation-buttons header header hw-header header homepage-header",
+      "content_type": "image/svg+xml",
+      "bytes": 7090,
+      "sha256": "2da6dde482d75f89fe31dbf6c1a7ff828901e4f31605f3a1a5b1c44dae20ce5b",
+      "width": 814,
+      "height": 96,
+      "source_sha256": "91fef89a0daa8f157a320da941c23ee332d9b2505a8ec6420d9dd56212d2111f"
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/hostelworld/logo-2.svg",
+      "source_url": "https://a.hwstatic.com/image/upload/f_auto,q_auto/hw/logos/hw_logo.svg",
+      "source_tag": "json-ld.@graph[2].logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1260,
+      "sha256": "c99ebda7c20cc5f9b6a506367b359cd1f9b2107a4eb603b95cf30961cb6e7381",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/hostelworld/banner-1.webp",
+      "source_url": "https://www.hostelworld.com/_nuxt/purple-bubble-bg-sm.Ba6iYqzn.jpg",
+      "source_tag": "style-background-image",
+      "context": ".hero-container[data-v-e3da9bc9]{display:flex;flex-direction:column;position:relative}.hero-container .hero-image-2025[data-v-e3da9bc9]{background-color:#dddfe4;background-image:url(/_nuxt/purple-bubble-bg-sm.Ba6iYqzn.jpg);background-positi",
+      "content_type": "image/webp",
+      "bytes": 9712,
+      "sha256": "923e9d065500795da45302362ec29740f03a48189570f4a9fa36346b85978168",
+      "width": 1152,
+      "height": 576
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/hostelworld/banner-2.svg",
+      "source_url": "https://sc.hwstatic.com/pwa/bg.mobile.svg",
+      "source_tag": "style-background-image",
+      "context": "v-e3da9bc9],.hero-container .hero-image-2025 .hero-social-chat[data-v-e3da9bc9]{display:none}.hero-container .hero-image[data-v-e3da9bc9]{background-color:#dddfe4;background-image:url(https://sc.hwstatic.com/pwa/bg.mobile.svg);background-po",
+      "content_type": "image/svg+xml",
+      "bytes": 1186,
+      "sha256": "12a7e54e993484dffdbe69327522c1943ed6781f8bce629ba74cc5f319c456ff",
+      "width": 1023,
+      "height": 240,
+      "source_sha256": "5dde8119490a5e64513941159d88a1bf89b30f27123d81e795640415c916cde3"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/hostelworld/reference-1.webp",
+      "source_url": "https://www.hostelworld.com/_nuxt/social-avatars.CeeYf3kL.png",
+      "source_tag": "img:page-image",
+      "context": "img Social Avatars div hero-social-chat div hero-image-2025 div hero-container homepage-hero header homepage-header",
+      "content_type": "image/webp",
+      "bytes": 24030,
+      "sha256": "c0ea48ad724c6fa04e0b6df1a62d0cc3fc86ad11b991d45d1c8c898503797add",
+      "width": 435,
+      "height": 330
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/hostelworld/reference-2.webp",
+      "source_url": "https://a.hwstatic.com/image/upload/f_auto/v1645010222/pwa/whosgoing/los-patios-card_2x_png.jpg",
+      "source_tag": "img:page-image",
+      "context": "img card Los Patios Hostel card div animation-container section swis-section swis-section-wrapper main div container",
+      "content_type": "image/webp",
+      "bytes": 64858,
+      "sha256": "23e8e6f4bd56fc19d0b727641220f6d64b45281c9b1b6aa0bd1adaf01e2e2d21",
+      "width": 578,
+      "height": 655
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/hostelworld/reference-3.webp",
+      "source_url": "https://www.hostelworld.com/_nuxt/usp-chat-illustration.DD4zhWSl.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  social-usp-card chat background-image:url(/_nuxt/usp-chat-illustration.DD4zhWSl.jpg);",
+      "content_type": "image/webp",
+      "bytes": 10600,
+      "sha256": "171e677a27d6b18305e26f0194752a5ba2d29e5de473341b6585c6028563f88c",
+      "width": 960,
+      "height": 368
+    }
+  ]
+}

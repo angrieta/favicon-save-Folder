@@ -1,0 +1,58 @@
+{
+  "company": "신한라이프",
+  "category": "금융",
+  "requested_url": "https://www.shinhanlife.co.kr",
+  "page_url": "https://www.shinhanlife.co.kr/hp/cdha0010.do",
+  "page_title": "대표 홈페이지 | 신한라이프",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.shinhanlife.co.kr/bizxpress/cdh/cdha/se/__media/background_bg_video.mp4; reference:ValueError:https://www.shinhanlife.co.kr/bizxpress/cdh/cdha/se/__media/background_bg_video.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/shinhan-life/favicon.png",
+      "source_url": "https://www.shinhanlife.co.kr/resources/images/fav/icon_1024.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 9687,
+      "sha256": "1d41c6f3c01a4140f34318099acb02dc4f21ce274d619b45866012cac090f781",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/shinhan-life/og.webp",
+      "source_url": "https://www.shinhanlife.co.kr/resources/images/cdh/common/logo_square.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20174,
+      "sha256": "eac7e5db11811c476151e864cbe2a46acc98cf43b43a0477119972d9c1002eb1",
+      "width": 1200,
+      "height": 201
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/shinhan-life/logo-1.svg",
+      "source_url": "https://www.shinhanlife.co.kr/resources/images/cdh/common/footer_sh_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 신한라이프 span shLogo div infoArea div companyInfo footer footer footer",
+      "content_type": "image/svg+xml",
+      "bytes": 9595,
+      "sha256": "251d5ed9141fcf9ea7c6167964fb691191a37194871456b3af477a84a1006b15",
+      "width": 419,
+      "height": 91,
+      "source_sha256": "d55745d5eff024dfb8ad5e9dbecbb6c5438c86ee1ae0816a9de7789de1d315f2"
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/shinhan-life/logo-2.png",
+      "source_url": "https://www.shinhanlife.co.kr/resources/images/cdh/common/footer_wa_logo_251022.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 정보통신접근성 품질인증 마크 a div awards div relatedInfo div companyInfo",
+      "content_type": "image/png",
+      "bytes": 42391,
+      "sha256": "32c160d2c4f06a5a02af6655c72a1d34303e7abd61918ca76752f9b3af100044",
+      "width": 509,
+      "height": 348
+    }
+  ]
+}

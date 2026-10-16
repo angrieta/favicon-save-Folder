@@ -1,0 +1,59 @@
+{
+  "company": "티맵모빌리티",
+  "category": "자동차",
+  "requested_url": "https://www.tmapmobility.com/",
+  "page_url": "https://www.tmapmobility.com/",
+  "page_title": "TMAP MOBILITY",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.tmapmobility.com/_next/static/chunks/0ow7t-b2ok_8e.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/tmap-mobility/favicon.ico",
+      "source_url": "https://www.tmapmobility.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "f064a172be58f84965ebc8fc26b2f76038987b283ce8d80be010f38c0cbeae09",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/tmap-mobility/og.webp",
+      "source_url": "https://www.tmapmobility.com/opengraph-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 35424,
+      "sha256": "ec8fd2ce8c00ab5524ab2a9c99c04960740b0c21e2df474ab19cbf809a2b5e87",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/tmap-mobility/logo-1.svg",
+      "source_url": "https://www.tmapmobility.com/_next/static/media/ico_gnb_logo.0i8ev1an8-9n3.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img tmap mobility a LayoutHeader-module-scss-module__h9mfwa__logo div column size-2 div content section section LayoutHeader-module-scss-module__h9mfwa__sectionLogo",
+      "content_type": "image/svg+xml",
+      "bytes": 10896,
+      "sha256": "60150db47bf4145d97c94929ba35ae6ea10df697b7308fb003d913efd3908f33",
+      "width": 200,
+      "height": 18,
+      "source_sha256": "5eca233333fe63dce799d2bdbf3f759a2a35da2bc9d9445628e408cfe4e89603"
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/tmap-mobility/logo-2.svg",
+      "source_url": "https://www.tmapmobility.com/_next/static/media/ico_gnb_logo_grey.0j.cm_chlgelr.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img tmap mobility div footer-logo a div column size-4 footer-content-mo div content",
+      "content_type": "image/svg+xml",
+      "bytes": 6571,
+      "sha256": "767341399f2de26ec0034ff0358d1ee2946db9b33fe1b9ff182e365ed8e04cf4",
+      "width": 200,
+      "height": 18,
+      "source_sha256": "a597b3a581a49776704bb3133a65428099f820b97b9f437011d21aacf2beef89"
+    }
+  ]
+}

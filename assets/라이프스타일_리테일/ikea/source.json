@@ -1,0 +1,60 @@
+{
+  "company": "IKEA",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.ikea.com/kr/ko/",
+  "page_url": "https://www.ikea.com/kr/ko/",
+  "page_title": "이케아 코리아 - IKEA KR",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.ikea.com/global/assets/dwf/hri/is-string-Cp4gbRW8.js; reference:ValueError:https://www.ikea.com/global/assets/dwf/hri/preact-4FoNno4d.js; reference:ValueError:https://www.ikea.com/global/assets/dwf/hri/index-Dxk02b5i.js; reference:ValueError:https://www.ikea.com/global/assets/dwf/hri/_commonjsHelpers-Cpj98o6Y.js; reference:ValueError:https://www.ikea.com/global/assets/dwf/hri/esi-mount-CCsUj7Sq.js; reference:ValueError:https://www.ikea.com/global/assets/dwf/hri/add-inline-query-param-C6vQWMeC.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/ikea/favicon.svg",
+      "source_url": "https://www.ikea.com/global/assets/logos/brand/ikea.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1520,
+      "sha256": "c39c859a33c16cf41e209fb4ea2ce364575ddd75dbc27c85a5263858d0228aa5",
+      "width": 98,
+      "height": 40,
+      "source_sha256": "e4f93deb71f7099a91265abfe4d4e09447fb4c098f5a3f2af235d2109c345d83"
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/ikea/og.webp",
+      "source_url": "https://www.ikea.com/images/27/ab/27ab5404775163d717de662bee094142.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6572,
+      "sha256": "4fa5df7ce43e416a857f7d9ceabfba4b0176f19b3a1cfed437c7edb348e42a0b",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/ikea/favicon.svg",
+      "source_url": "https://www.ikea.com/global/assets/logos/brand/ikea.svg",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "content_type": "image/svg+xml",
+      "bytes": 1520,
+      "sha256": "c39c859a33c16cf41e209fb4ea2ce364575ddd75dbc27c85a5263858d0228aa5",
+      "width": 98,
+      "height": 40,
+      "context": "structured data logo",
+      "reused_from": "favicon",
+      "source_sha256": "e4f93deb71f7099a91265abfe4d4e09447fb4c098f5a3f2af235d2109c345d83"
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/ikea/logo-2.webp",
+      "source_url": "https://www.ikea.com/kr/ko/range-categorisation/images/product/storage-furniture-st001.jpeg?imwidth=160",
+      "source_tag": "img:semantic-logo",
+      "context": "img div hnf-inpage-nav__imagebox hnf-inpage-nav__imagebox--loading a hnf-link hnf-link--subtle hnf-inpage-nav__card div hnf-carousel-slide div hnf-carousel__hnf-inpage-nav hnf-carousel__content hnf-content-container__carousel hnf-carousel__",
+      "content_type": "image/webp",
+      "bytes": 2250,
+      "sha256": "fa87830d0ecbcad2b1d5940960d35e4bdb69f8b8fbd70d484a92e18effeaa3c7",
+      "width": 160,
+      "height": 160
+    }
+  ]
+}

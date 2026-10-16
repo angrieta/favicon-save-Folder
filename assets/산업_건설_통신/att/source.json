@@ -1,0 +1,93 @@
+{
+  "company": "AT&T",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.att.com/",
+  "page_url": "https://www.att.com/",
+  "page_title": "AT&T Official Site | Our Best Wireless & Internet Service",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.att.com/ui/frameworks/css/v2.1.0/core-global-styles-fonts.min.css; reference:ValueError:https://www.att.com/ui/frameworks/fonts/ATTAleckSans_W_Rg.woff2; reference:ValueError:https://www.att.com/ui/frameworks/fonts/ATTAleckSans_W_Bd.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/att/favicon.ico",
+      "source_url": "https://www.att.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "c0c2c3d5d4acd6e9ad9a14984bc1f63e51b4e5069b1b6be17b1bb59965f0860e",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/att/og.webp",
+      "source_url": "https://www.att.com/scmsassets/global/logos/att-logos/vertical/att_globe_500x500.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8818,
+      "sha256": "9a21fd127f667d63c1ecb691dc32158fc06f3f5542f28b3f66151ec40471b543",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/att/logo-1.png",
+      "source_url": "https://www.att.com/scmsassets/other/other/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 5867,
+      "sha256": "b778ca73a5c0e1c99bb95aaca611136319f16b2513abb304e02e4d40ab022537",
+      "width": 112,
+      "height": 112
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/att/banner-1.webp",
+      "source_url": "https://www.att.com/scmsassets/upper_funnel/wireless/8563603-cs-base-hero-iphone18pro-po-dsk-retina.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  /scmsassets/upper_funnel/wireless/8563603-cs-base-hero-iphone18pro-po-dsk-retina.jpg",
+      "content_type": "image/webp",
+      "bytes": 13842,
+      "sha256": "c7fb0802d773f04d24f08a3b6bc3b1d8f5b51e91ca43eb49a6c87117d38e2714",
+      "width": 1800,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/att/banner-2.webp",
+      "source_url": "https://www.att.com/scmsassets/upper_funnel/wireless/8563603-cs-base-hero-iphone18pro-tbl-retina.jpg",
+      "source_tag": "style-background-image",
+      "context": "        background-size: cover;\n            }\n        }@media (min-width:768px) and (max-width:1024px) {\n            #heropanel_NPI-0-background {\n                background-image:url(/scmsassets/upper_funnel/wireless/8563603-cs-base-hero-i",
+      "content_type": "image/webp",
+      "bytes": 15782,
+      "sha256": "b22630224ce470a8b4c782269e2cf480a087a7c0706cca47078fa9d5d5a3e407",
+      "width": 1800,
+      "height": 791
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/att/reference-1.webp",
+      "source_url": "https://www.att.com/scmsassets/upper_funnel/wireless/8563603-card-shuffle-iphone18promax-retina.jpg",
+      "source_tag": "img:page-image",
+      "context": "img width-full iPhone 18 Pro Max div jsx-1992011584 slider-image radius-lg bgcolor image-aspect-ratio width-full overflow-hidden active div jsx-1992011584 slides width-full desktop div jsx-1992011584 slider-image-container-wrapper div text-",
+      "content_type": "image/webp",
+      "bytes": 14322,
+      "sha256": "a8b09cac8ea8453bae48c3b152a062b37e3879b80aa0ae6ad805624340c6b69b",
+      "width": 800,
+      "height": 1066
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/att/reference-2.webp",
+      "source_url": "https://www.att.com/scmsassets/upper_funnel/wireless/8563603-card-shuffle-watch-retina.jpg",
+      "source_tag": "img:page-image",
+      "context": "img width-full Apple Watch div jsx-1992011584 slider-image radius-lg bgcolor image-aspect-ratio width-full overflow-hidden div jsx-1992011584 slides width-full desktop div jsx-1992011584 slider-image-container-wrapper div text-center offset",
+      "content_type": "image/webp",
+      "bytes": 35366,
+      "sha256": "fb18f10be463ad089f01643821d906d7de437b27a33d8ccff17ab3a2494af8f0",
+      "width": 800,
+      "height": 1066
+    }
+  ]
+}

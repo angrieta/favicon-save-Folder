@@ -1,0 +1,58 @@
+{
+  "company": "피터팬의 좋은방 구하기",
+  "category": "부동산_공간",
+  "requested_url": "https://www.peterpanz.com/",
+  "page_url": "https://www.peterpanz.com/",
+  "page_title": "피터팬의 좋은방 구하기",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/peterpanz/favicon.png",
+      "source_url": "https://static.peterpanz.com/seo/icons/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5140,
+      "sha256": "bcdf4f711d888994e3c6aeeb37d5fd55f57ad1325a9253031263b1ba2c4a8f9a",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/peterpanz/og.webp",
+      "source_url": "https://www.peterpanz.com/mobile/assets/images/kakao_url.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4890,
+      "sha256": "bce8e13b1bd682d0ae2eb752c3251a99929b67026c3d0e65f0da1aafc0604f86",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/peterpanz/og.webp",
+      "source_url": "https://www.peterpanz.com/mobile/assets/images/kakao_url.png",
+      "source_tag": "json-ld.logo.url",
+      "content_type": "image/webp",
+      "bytes": 4890,
+      "sha256": "bce8e13b1bd682d0ae2eb752c3251a99929b67026c3d0e65f0da1aafc0604f86",
+      "width": 800,
+      "height": 400,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/peterpanz/logo-2.png",
+      "source_url": "https://www.peterpanz.com/images/join.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img title-logo div col-sm-12 text-center div row div modal-body div modal-content",
+      "content_type": "image/png",
+      "bytes": 965,
+      "sha256": "e7c7d83b1a840d5c8a7331dfed7245f1d3cbbbe418c5bb76cd1573321047ade0",
+      "width": 114,
+      "height": 44
+    }
+  ]
+}

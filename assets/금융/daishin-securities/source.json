@@ -1,0 +1,46 @@
+{
+  "company": "대신증권",
+  "category": "금융",
+  "requested_url": "https://www.daishin.com",
+  "page_url": "https://www.daishin.com/g.ds?m=4027&p=3979&v=2983",
+  "page_title": "대신증권",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/daishin-securities/favicon.ico",
+      "source_url": "https://www.daishin.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "d4f1d436a58c6b42e8a4348842fd7a067c4b5acfd2e63851a9e8b6058af6cae7",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/daishin-securities/logo-1.png",
+      "source_url": "https://www.daishin.com/DW/images/common/h1_daishin.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 대신증권 a h1 div util div header",
+      "content_type": "image/png",
+      "bytes": 2613,
+      "sha256": "3e91357388ae5df5c5ebfb213d23f52a4d87d4d2fc13902e3c3a22ee72080219",
+      "width": 180,
+      "height": 54
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/daishin-securities/reference-1.webp",
+      "source_url": "https://www.daishin.com/DW/images/main/main_bn.png",
+      "source_tag": "img:page-image",
+      "context": "img 제테크 길을 잃었다면? 대신의 진심이 담긴 AI 투자 div banner sliderItem div kvArea sliderGroup div kvWrap div contentsL",
+      "content_type": "image/webp",
+      "bytes": 4220,
+      "sha256": "7bd3b5a51954b545863da23b55ab601d8c9e25016a58a3ef09706e2851b68ebd",
+      "width": 660,
+      "height": 319
+    }
+  ]
+}

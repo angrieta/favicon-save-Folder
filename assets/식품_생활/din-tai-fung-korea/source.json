@@ -1,0 +1,71 @@
+{
+  "company": "딘타이펑",
+  "category": "식품_생활",
+  "requested_url": "https://www.dintaifung.co.kr",
+  "page_url": "https://www.dintaifung.co.kr/",
+  "page_title": "딘타이펑‧鼎泰豐‧Din Tai Fung",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/din-tai-fung-korea/logo-1.webp",
+      "source_url": "https://www.dintaifung.co.kr/upload/din_logo.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 딘타이펑 a h1 header headerWrap div leftContent",
+      "content_type": "image/webp",
+      "bytes": 30466,
+      "sha256": "418e1ceeed66685f1f22d5570cbce82c2b3e29bc062fbd551933a9bc61caeae9",
+      "width": 640,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/din-tai-fung-korea/logo-2.png",
+      "source_url": "https://www.dintaifung.co.kr/asset/img/main/img_mainbg_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img p mainLogoBg section container div wrap body mainPage",
+      "content_type": "image/png",
+      "bytes": 29615,
+      "sha256": "9bf7381b69466aed3a2b4306f8f065e7b63afa579cabf05a20be7746366fa760",
+      "width": 216,
+      "height": 663
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/din-tai-fung-korea/reference-1.webp",
+      "source_url": "https://www.dintaifung.co.kr/asset/img/main/img_main_dintaifung01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img feSlItem 딘타이펑메인메뉴01 div contents dinContsSlide section container div wrap body mainPage",
+      "content_type": "image/webp",
+      "bytes": 61462,
+      "sha256": "d327616e2dffaad687e30d11e9f9438bb0fb3da3f4f9b9e0fd70e52e56cd41c8",
+      "width": 1400,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/din-tai-fung-korea/reference-2.webp",
+      "source_url": "https://www.dintaifung.co.kr/asset/img/main/img_main_dintaifung02.jpg",
+      "source_tag": "img:page-image",
+      "context": "img feSlItem 딘타이펑메인메뉴02 div contents dinContsSlide section container div wrap body mainPage",
+      "content_type": "image/webp",
+      "bytes": 167148,
+      "sha256": "848f42ca1f5d78265b7528f683bbbafd1bd19f199cf8ac80ae20fb192ec4b626",
+      "width": 1400,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/din-tai-fung-korea/reference-3.webp",
+      "source_url": "https://www.dintaifung.co.kr/asset/img/main/img_main_dintaifung03.jpg",
+      "source_tag": "img:page-image",
+      "context": "img feSlItem 딘타이펑메인메뉴03 div contents dinContsSlide section container div wrap body mainPage",
+      "content_type": "image/webp",
+      "bytes": 175576,
+      "sha256": "881fdb3d6801bb53cb0d74e1aeb5c4fac9d56ae362caf45b9e071bfcc92e984e",
+      "width": 1400,
+      "height": 900
+    }
+  ]
+}

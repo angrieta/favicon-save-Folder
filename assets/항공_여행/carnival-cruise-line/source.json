@@ -1,0 +1,34 @@
+{
+  "company": "Carnival Cruise Line",
+  "category": "항공_여행",
+  "requested_url": "https://www.carnival.com",
+  "page_url": "https://www.carnival.com/",
+  "page_title": "Cruises | Carnival Cruise Deals: Caribbean, The Bahamas, Alaska, and Mexico",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.carnival.com/static-assets/ccl-cruise-search/dist/vendor.min.css?v=2026.9.11.2; reference:ValueError:https://www.carnival.com/static-assets/ccl-cruise-search/dist/widget.min.css?v=2026.9.11.2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/carnival-cruise-line/favicon.png",
+      "source_url": "https://www.carnival.com/apple-touch-icon-192x192.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 26685,
+      "sha256": "046081768396d3d8f64db9bf487c4523df01fdea8acc2c10aec3eb5450d45f2e",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/carnival-cruise-line/reference-1.webp",
+      "source_url": "https://www.carnival.com/-/media/Images/hp-merch/2026/extras/paradise-collection2.png",
+      "source_tag": "img:page-image",
+      "context": "img a li ul max-width div link-touts",
+      "content_type": "image/webp",
+      "bytes": 98300,
+      "sha256": "25fa211124f8496e36c7baad4525ac6b4d7004ab29a2217eeffddd814cb81111",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

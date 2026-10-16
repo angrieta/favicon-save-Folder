@@ -1,0 +1,70 @@
+{
+  "company": "KTM",
+  "category": "자동차",
+  "requested_url": "https://www.ktm.com/en-kr.html",
+  "page_url": "https://www.ktm.com/en-kr.html",
+  "page_title": "KTM - READY TO RACE | South Korea",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/ktm/favicon.png",
+      "source_url": "https://www.ktm.com/icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5724,
+      "sha256": "dd20096344715dbaaf1ff96f8e7bad386b45be4c4adbb1293373fd7eba888819",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/ktm/og.webp",
+      "source_url": "https://s7g10.scene7.com/is/image/ktm/KTM-homepage-ride-ktm-experiences?$ogimage$",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 146982,
+      "sha256": "fff7fa9bbd153a211101fc512508d63f3bbce4b70490976648d69b9dda8e2bd2",
+      "width": 1200,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/ktm/logo-1.webp",
+      "source_url": "https://www.ktm.com/content/dam/websites/ktm-com/language-masters/en/logo/37860_KTM_LogoPodium_orange_RGB.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img KTM Main Page a nav__logo aside nav__aside div nav div container",
+      "content_type": "image/webp",
+      "bytes": 17448,
+      "sha256": "fb0238bac96474cf35e123747189a48076deecfd0bb970c86d5ab1aff8f236df",
+      "width": 1417,
+      "height": 1276
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/ktm/logo-2.png",
+      "source_url": "https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_90_RE_KTM-MY27-enduro-300-exc-hardenduro-right-side-view-logo_%23SALL_%23AEPI_%23V1.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 2027 KTM 300 EXC HARDENDURO figure c-model-list__image a c-model-list__item__info article c-model-list__item div c-model-list__row",
+      "content_type": "image/png",
+      "bytes": 520017,
+      "sha256": "1fc3db70ccc5ac3fe9efee62afeda4243814fd28fbc44c6511f5c8b364045303",
+      "width": 918,
+      "height": 629
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/ktm/logo-2.png",
+      "source_url": "https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_90_RE_KTM-MY27-enduro-300-exc-hardenduro-right-side-view-logo_%23SALL_%23AEPI_%23V1.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 2027 KTM 300 EXC HARDENDURO figure c-model-list__image a c-model-list__item__info article c-model-list__item div c-model-list__row",
+      "content_type": "image/png",
+      "bytes": 520017,
+      "sha256": "1fc3db70ccc5ac3fe9efee62afeda4243814fd28fbc44c6511f5c8b364045303",
+      "width": 918,
+      "height": 629,
+      "reused_from": "logo"
+    }
+  ]
+}

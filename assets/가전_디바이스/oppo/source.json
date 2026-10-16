@@ -1,0 +1,106 @@
+{
+  "company": "OPPO",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.oppo.com/",
+  "page_url": "https://www.oppo.com/en/",
+  "page_title": "OPPO Official Site | OPPO Global",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/oppo/favicon.ico",
+      "source_url": "https://www.oppo.com/jimu/oppo-site/resources/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "619fad8b67cd54f49d3c1424d16c278b28da8fe8d1811b2cf4174c00400f7cfb",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/oppo/logo-1.png",
+      "source_url": "https://www.oppo.com/content/dam/oppo/common/file/image/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 24808,
+      "sha256": "95b292ab8fd88020f4e7f40771b9922955485930391dc9bbb524df106ab46903",
+      "width": 600,
+      "height": 144
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/oppo/logo-2.png",
+      "source_url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/oppo-reno16-series-en/star-logo/logo.png",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture ai-mark ai-mark-phone div top-layout div content-left content-container responsive__layout div hero-banner-kv div multiple light-theme cmp__hero-banner-v2",
+      "content_type": "image/png",
+      "bytes": 35400,
+      "sha256": "ce9326c0057a75acf58f271cb7e4aa1b0699d625522d968016539d89bf15e5a2",
+      "width": 506,
+      "height": 41
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/oppo/banner-1.webp",
+      "source_url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/find-x10-series-en/warmup/1536-800-pad.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div no-link hero-banner-kv div multiple light-theme cmp__hero-banner-v2 section div op-content-wrapper",
+      "content_type": "image/webp",
+      "bytes": 62122,
+      "sha256": "bee81b2f6b046ecdc468993556a3682a1b27e96b49a484ab0c89047ba5f12bc8",
+      "width": 1800,
+      "height": 938
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/oppo/banner-2.webp",
+      "source_url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/find-x10-series-en/warmup/5120-1280-pc.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div no-link hero-banner-kv div multiple light-theme cmp__hero-banner-v2 section div op-content-wrapper",
+      "content_type": "image/webp",
+      "bytes": 26298,
+      "sha256": "f12455046a0a14f17425687a9baaf285fbf3b4c54102a7fa5620579f909a5f16",
+      "width": 1800,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/oppo/reference-1.webp",
+      "source_url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/oppo-reno16-series-en/navigation/reno16/440-440-white.png",
+      "source_tag": "img:page-image",
+      "context": "img lazyload OPPO Reno16 Series 5G div img-box a op-trk-event li ul",
+      "content_type": "image/webp",
+      "bytes": 8150,
+      "sha256": "428534ceff37835979d6337091ff39efdea6f2ec8145e9856c4169882dfd6055",
+      "width": 440,
+      "height": 440
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/oppo/reference-2.webp",
+      "source_url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/find-x9-ultra-x9s-en/find-x9-ultra/navigation/440-440-brown.png",
+      "source_tag": "img:page-image",
+      "context": "img lazyload OPPO Find X9 Ultra div img-box a op-trk-event li ul",
+      "content_type": "image/webp",
+      "bytes": 12730,
+      "sha256": "91000ebbd0bb96087c68aa05bc8f3c386949ecf06e2b11b4c8cf774919b56a2a",
+      "width": 440,
+      "height": 440
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/oppo/reference-3.webp",
+      "source_url": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/find-x9-ultra-x9s-en/find-x9s/navigation/440-440-orange.png",
+      "source_tag": "img:page-image",
+      "context": "img lazyload OPPO Find X9s div img-box a op-trk-event li ul",
+      "content_type": "image/webp",
+      "bytes": 7364,
+      "sha256": "01e56a92f719e5e5bcebe109430ed95439b514c82e58b19977c23da99fbd859b",
+      "width": 440,
+      "height": 440
+    }
+  ]
+}

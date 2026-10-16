@@ -1,0 +1,94 @@
+{
+  "company": "AC Milan",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.acmilan.com",
+  "page_url": "https://www.acmilan.com/en",
+  "page_title": "AC Milan | Sito Ufficiale",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://www.acmilan.com/logo.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/ac-milan/favicon.png",
+      "source_url": "https://www.acmilan.com/favicon.ico?favicon.0v9fztjs-m..c.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 42813,
+      "sha256": "8aaa00241e6aa60d365321a3b1851bc68475b7a0e261f3f0615976593f6d643c",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/ac-milan/logo-1.png",
+      "source_url": "https://www.acmilan.com/_next/image?url=https%3A%2F%2Fassets-eu-01.kc-usercontent.com%3A443%2F006f7528-416b-01e4-8ef2-ab6ab3f4e177%2F53b06b9b-9fef-462d-ae9f-3575cbf6eac4%2FLogo_Serie-A_2025.png&w=96&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-full w-full object-contain Logo_Serie-A_2025.png div h-9 w-9 shrink-0 overflow-hidden div flex items-start justify-between div @container w-full flex flex-col gap-4 justify-between p-4 div relative flex flex-col bg-background justify-",
+      "content_type": "image/png",
+      "bytes": 19314,
+      "sha256": "ed1f01408e6cf3bbb33e8de81f5ba8ac79f1fbfebcbdfd16350a6de91dd6eb99",
+      "width": 96,
+      "height": 153
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/ac-milan/banner-1.webp",
+      "source_url": "https://www.acmilan.com/_next/image?url=%2Fimages%2Fvideo_highlight_bg.png&w=3840&q=100&dpl=dpl_FPcWNuxnMHSwqrcjwqJSiZs1PTj3",
+      "source_tag": "img:semantic-banner",
+      "context": "img z-0 object-cover Video Highlights Background div relative flex flex-col gap-6 lg:gap-10 w-full py-8 md:py-12 xl:py-20 section w-full main main-content div w-full flex flex-col",
+      "content_type": "image/webp",
+      "bytes": 20234,
+      "sha256": "c0ca263f0a4471770268b875874d9d0f18c7eceec205a443755487831244fad5",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/ac-milan/banner-2.webp",
+      "source_url": "https://www.acmilan.com/_next/image?url=%2Fimages%2Fvideo_highlight_bg.png&w=2048&q=100&dpl=dpl_FPcWNuxnMHSwqrcjwqJSiZs1PTj3",
+      "source_tag": "img:semantic-banner",
+      "context": "img z-0 object-cover Video Highlights Background div relative flex flex-col gap-6 lg:gap-10 w-full py-8 md:py-12 xl:py-20 section w-full main main-content div w-full flex flex-col",
+      "content_type": "image/webp",
+      "bytes": 19528,
+      "sha256": "8d4df8e7f218a95d9930288a9abc97b83c45b6a3190b07f3755bde5f11c4bc98",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/ac-milan/reference-1.webp",
+      "source_url": "https://www.acmilan.com/_next/image?url=https%3A%2F%2Fassets-eu-01.kc-usercontent.com%3A443%2F006f7528-416b-01e4-8ef2-ab6ab3f4e177%2F61882401-e041-4bc9-9428-efde0776f1ee%2FLogoACM-Nero-Cover.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img object-cover div hidden md:block absolute inset-0 div w-full h-full relative div relative embla__slide w-full flex items-center justify-center h-auto max-h-screen aspect-[9/16] md:aspect-[16/9] div embla__container",
+      "content_type": "image/webp",
+      "bytes": 18844,
+      "sha256": "a56c4c0e9f8771bd99ede40f3e379a03298f468cd00c7ed72bb092ece3c5c52a",
+      "width": 1800,
+      "height": 758
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/ac-milan/reference-2.webp",
+      "source_url": "https://www.acmilan.com/_next/image?url=https%3A%2F%2Fassets-eu-01.kc-usercontent.com%3A443%2F006f7528-416b-01e4-8ef2-ab6ab3f4e177%2F61882401-e041-4bc9-9428-efde0776f1ee%2FLogoACM-Nero-Cover.png&w=2048&q=75",
+      "source_tag": "img:page-image",
+      "context": "img object-cover div hidden md:block absolute inset-0 div w-full h-full relative div relative embla__slide w-full flex items-center justify-center h-auto max-h-screen aspect-[9/16] md:aspect-[16/9] div embla__container",
+      "content_type": "image/webp",
+      "bytes": 18364,
+      "sha256": "aa07e46b256e826e9e0137278b1c5008a3dd49ec49c0698865a8d99b316c197e",
+      "width": 1800,
+      "height": 758
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/ac-milan/reference-3.webp",
+      "source_url": "https://www.acmilan.com/_next/image?url=https%3A%2F%2Fassets-eu-01.kc-usercontent.com%3A443%2F006f7528-416b-01e4-8ef2-ab6ab3f4e177%2F853857f1-589c-4802-9fe7-a3753becefff%2FLogoACM-Nero-Verticale.jpg&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img object-cover div block md:hidden absolute inset-0 div w-full h-full relative div relative embla__slide w-full flex items-center justify-center h-auto max-h-screen aspect-[9/16] md:aspect-[16/9] div embla__container",
+      "content_type": "image/webp",
+      "bytes": 21482,
+      "sha256": "a9fc9d0ca0d314aad68bb6bfcf3d9ca071c5d797c26a02aec46df1d354d1a16f",
+      "width": 759,
+      "height": 1350
+    }
+  ]
+}

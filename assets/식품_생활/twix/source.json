@@ -1,0 +1,93 @@
+{
+  "company": "Twix",
+  "category": "식품_생활",
+  "requested_url": "https://www.twix.com",
+  "page_url": "https://www.twix.com/",
+  "page_title": "There's More to a TWIX | TWIX US",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.twix.com/height=500; reference:HTTPError:https://www.twix.com/quality=90/sites/g/files/fnmzdf236/files/2026-04/2026-Twix-Bits-Website%20Banners-Desktop.jpg; reference:HTTPError:https://www.twix.com/height=600; reference:ValueError:https://www.twix.com/sites/g/files/fnmzdf236/files/GoforGoldDisplayCompressed.woff; reference:ValueError:https://www.twix.com/sites/g/files/fnmzdf236/files/GoforGoldDisplayCondensed.woff; reference:ValueError:https://www.twix.com/sites/g/files/fnmzdf236/files/GoForGoldText.woff",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/twix/favicon.png",
+      "source_url": "https://www.twix.com/sites/g/files/fnmzdf236/files/Twix%20logo.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7967,
+      "sha256": "8d52051f938bbc1a52815c542ec97d63b1110edc966c986017372b510e513cc8",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/twix/og.webp",
+      "source_url": "https://www.twix.com/sites/g/files/fnmzdf236/files/2024-05/twix_50.7g_bar.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 80852,
+      "sha256": "00c181a90dc7a9fb11bc4ca9c1e71a2ecd0e92737c809f2ceb3d0dca27f04e3e",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/twix/logo-1.svg",
+      "source_url": "https://www.twix.com/sites/g/files/fnmzdf236/files/Twix-Logo-RGB.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 5817,
+      "sha256": "db5940827054b28225b0e4a6d6ae90ae726893b53183db9047e08920fc77220a",
+      "width": 432,
+      "height": 189
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/twix/logo-2.png",
+      "source_url": "https://www.twix.com/cdn-cgi/image/width=293,height=293,fit=cover,g=auto,f=auto,quality=90/sites/g/files/fnmzdf236/files/2025-01/TWIX_logo_flex_all.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img image lazyload Alt Image a flexible-image-link open in new window div image-background image-size-small div image-wrapper image-wrapper--odd odd image-size-small div content",
+      "content_type": "image/png",
+      "bytes": 77592,
+      "sha256": "21aac3aeec2e5c68e686247bfdb8d5798d725b3fd1afaae4bfc1dbaf78934581",
+      "width": 293,
+      "height": 293
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/twix/reference-1.webp",
+      "source_url": "https://www.twix.com/cdn-cgi/image/width=2560,height=600,f=auto,quality=90/sites/g/files/fnmzdf236/files/2026-04/2026-Twix-Bits-Website%20Banners-Desktop.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  /cdn-cgi/image/width=2560,height=600,f=auto,quality=90/sites/g/files/fnmzdf236/files/2026-04/2026-Twix-Bits-Website%20Banners-Desktop.jpg",
+      "content_type": "image/webp",
+      "bytes": 141400,
+      "sha256": "5eda75b8606e4ea116ccb9c9b39c1746ea899a222cec1afa71fee99841562213",
+      "width": 1440,
+      "height": 617
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/twix/reference-2.webp",
+      "source_url": "https://www.twix.com/cdn-cgi/image/width=1239,height=500,f=auto,quality=90/sites/g/files/fnmzdf236/files/2026-04/2026-Twix-Bits-Website%20Banners-Tablet.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  /cdn-cgi/image/width=1239,height=500,f=auto,quality=90/sites/g/files/fnmzdf236/files/2026-04/2026-Twix-Bits-Website%20Banners-Tablet.jpg",
+      "content_type": "image/webp",
+      "bytes": 67102,
+      "sha256": "814f74d7ad7ef9efe8c9da51ad744227e30f6c3da813e44dbf9767a2a046bd68",
+      "width": 768,
+      "height": 466
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/twix/reference-3.webp",
+      "source_url": "https://www.twix.com/cdn-cgi/image/width=425,height=425,f=auto,quality=90/sites/g/files/fnmzdf236/files/2026-04/2026-Twix-Bits-Website%20Banners-Web.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  /cdn-cgi/image/width=425,height=425,f=auto,quality=90/sites/g/files/fnmzdf236/files/2026-04/2026-Twix-Bits-Website%20Banners-Web.jpg",
+      "content_type": "image/webp",
+      "bytes": 31922,
+      "sha256": "b068cda25cfbce63df47ea7628cd3f731285bb693e10d7286e3ba3be7ecea557",
+      "width": 375,
+      "height": 375
+    }
+  ]
+}

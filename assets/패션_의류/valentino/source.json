@@ -1,0 +1,83 @@
+{
+  "company": "Valentino",
+  "category": "패션_의류",
+  "requested_url": "https://www.valentino.com/ko-kr/",
+  "page_url": "https://www.valentino.com/ko-kr/",
+  "page_title": "발렌티노 온라인 부티크: 메종 발렌티노 공식 웹사이트",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://valentino-cdn.thron.com/delivery/public/image/valentino/16b2eb87-ffdb-45bc-bd25-a6c05dbf98d7/RVyRTgf/std/1920x0/16b2eb87-ffdb-45bc-bd25-a6c05dbf98d7.jpg; reference:ValueError:https://cdns.eu1.gigya.com/js/gigya.js?apiKey=4_yip6zOjhmzyTZML6u_RaSQ&lang=ko",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/valentino/favicon.png",
+      "source_url": "https://www.valentino.com/etc.clientlibs/vlr/clientlibs/clientlib-static/resources/images/favicon/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5315,
+      "sha256": "0a01831f877bd5c8f85a9f764daa48ad8463470db3dd980f0bd15f956e8cea4f",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/valentino/logo-1.png",
+      "source_url": "https://valentino-cdn.thron.com/api/v1/content-delivery/shares/RVyRTgf/contents/8ee721c6-86ed-4481-a798-387a6954a8cc/image/8ee721c6-86ed-4481-a798-387a6954a8cc.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img top-desktop-crop ApplePay-logo-new div top-desktop-crop paypalExpressModal__image header vlt-modal__defaultHeader div vlt-modal__defaultWrapper vlt-modal__richtext section applepayModal vlt-modal pb-0",
+      "content_type": "image/png",
+      "bytes": 63394,
+      "sha256": "d293ac9df6dbb1cf680b2ee70391841464819f7b20bd23336e09e5b47f3934f2",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/valentino/logo-2.svg",
+      "source_url": "https://valentino-cdn.thron.com/api/v1/content-delivery/shares/RVyRTgf/contents/16b2eb87-ffdb-45bc-bd25-a6c05dbf98d7/original/16b2eb87-ffdb-45bc-bd25-a6c05dbf98d7.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img vltHeader__logo VALENTINO GARAVANI VALENTINO GARAVANI picture div vltHeader__logoWrapper vltHeader__logoScrolled div vltHeader__itemsLeft div vltHeader__container",
+      "content_type": "image/svg+xml",
+      "bytes": 7250,
+      "sha256": "d17593494c0ab3d07e384951b9b90d6f8f0124877cd093942cf1c2a6798f594c",
+      "width": 361,
+      "height": 105,
+      "source_sha256": "95e75fd150a48fc0e2d0a47ed9661343e80954db7d70e90a7449f22b98100546"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/valentino/reference-1.webp",
+      "source_url": "https://valentino-cdn.thron.com/api/v1/content-delivery/shares/RVyRTgf/contents/ce1746e6-3cba-4dc3-8d3b-f0e495fab6a2/image/ce1746e6-3cba-4dc3-8d3b-f0e495fab6a2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img vltMegaMenu__img Markdown_SS26_Menu_W figure a div images--wrapper div vltMegaMenu__panel--column-images show_mobile",
+      "content_type": "image/webp",
+      "bytes": 88802,
+      "sha256": "7a2e1755edf7633876b6c2433f0200ed9ed5463877b988968ea31b4b15648ae7",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/valentino/reference-2.webp",
+      "source_url": "https://valentino-cdn.thron.com/api/v1/content-delivery/shares/RVyRTgf/contents/fdefdc25-6ef9-4eb8-8e07-14f865ab7730/image/fdefdc25-6ef9-4eb8-8e07-14f865ab7730.jpg",
+      "source_tag": "img:page-image",
+      "context": "img vltMegaMenu__img Markdown_SS26_Menu_M figure a div images--wrapper div vltMegaMenu__panel--column-images show_mobile",
+      "content_type": "image/webp",
+      "bytes": 64992,
+      "sha256": "dd5cc6d69a52a9e1e45bc73e5b5c7e029e5d118e476325ea5bd7d0d9643b8892",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/valentino/reference-3.webp",
+      "source_url": "https://valentino-cdn.thron.com/api/v1/content-delivery/shares/RVyRTgf/contents/08b823ab-f782-40e1-a20e-e64da5976948/image/08b823ab-f782-40e1-a20e-e64da5976948.jpg",
+      "source_tag": "img:page-image",
+      "context": "img vltMegaMenu__img FW2627_Menu_W_NewArrivals figure div images--wrapper div vltMegaMenu__panel--column-images show_mobile div column--link",
+      "content_type": "image/webp",
+      "bytes": 113634,
+      "sha256": "523179e17122fae3734195e4319233b62cfc1733d13b77170190e622c5d8640a",
+      "width": 1080,
+      "height": 1350
+    }
+  ]
+}

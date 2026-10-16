@@ -1,0 +1,122 @@
+{
+  "company": "레고랜드 코리아",
+  "category": "게임_엔터",
+  "requested_url": "https://www.legoland.kr/",
+  "page_url": "https://www.legoland.kr/",
+  "page_title": "레고랜드 코리아 리조트 | 국내 최초 글로벌 가족 테마파크 & 호텔",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://www.legoland.kr/0.4830693265995172&format=webp&quality=80&width=560&height=838; reference:ValueError:https://www.legoland.kr/media/1bvjk5kj/llc-bot-desktop-website-header-short.mp4; reference:ValueError:https://www.legoland.kr/media/3hjbnyon/llfr_fireworks-brick-b-roll-1.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/legoland-korea/favicon.png",
+      "source_url": "https://www.legoland.kr/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7561,
+      "sha256": "0c12f93d80c3fef4676d8e7a68e55ce162e7a4bada095e175bb331906e59d6c5",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "f142989e304642194aa520e7fdb9de604a00fc5a07fb9f06cb3c502cd116f601"
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/legoland-korea/og.webp",
+      "source_url": "https://www.legoland.kr/media/ik3dkcbb/monster-flash-sale_open_%EB%A1%A4%EB%A7%81%EB%B0%B0%EB%84%88.png?format=jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 46192,
+      "sha256": "95125f6920d9fc5ff54b85364f2eab5632db53e482a9a189551da497f9e2ab1d",
+      "width": 1200,
+      "height": 486
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/legoland-korea/logo-1.png",
+      "source_url": "https://www.legoland.kr/media/ttxizj4e/legoland-korea-logo.png?format=webp&height=280",
+      "source_tag": "img:semantic-logo",
+      "context": "img main-menu-image Legoland Korea Logo a main-menu-logo Merlin Entertainments Home nav desktop-menu desktop-menu init Main navigation div main-menu header page-header",
+      "content_type": "image/png",
+      "bytes": 90497,
+      "sha256": "060416abba0bdb987f28f640adfa6d7bf7e21d19c51c9a0a068d249ac821bffd",
+      "width": 652,
+      "height": 280
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/legoland-korea/logo-2.png",
+      "source_url": "https://www.legoland.kr/media/ttxizj4e/legoland-korea-logo.png",
+      "source_tag": "json-ld.@graph[1].publisher.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 51999,
+      "sha256": "23428886196083a20ceff919cacc251123fae095b25881d80500191563c24f46",
+      "width": 438,
+      "height": 188
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/legoland-korea/banner-1.webp",
+      "source_url": "https://www.legoland.kr/media/ik3dkcbb/monster-flash-sale_open_%EB%A1%A4%EB%A7%81%EB%B0%B0%EB%84%88.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img Monster Flash Sale Open 롤링배너 noscript div hero-frontpage hero-frontpage--transparentGradient hero-frontpage--transparentGradientAlignLeft hero-video inline-hero-background item-0 div hero-carousel-item item item-0 div frontpage-owl-caro",
+      "content_type": "image/webp",
+      "bytes": 98796,
+      "sha256": "239026cc1bd46555907692160526415a19b535476015e07585d04741e7d941d1",
+      "width": 1800,
+      "height": 729
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/legoland-korea/banner-2.webp",
+      "source_url": "https://www.legoland.kr/media/w0sjbbis/%EB%A1%A4%EB%A7%81%EB%B0%B0%EB%84%88-pc_%ED%85%8D%EC%8A%A4%ED%8A%B8o-kr.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 롤링배너 PC 텍스트O (KR) noscript div hero-frontpage hero-frontpage--transparentGradient hero-frontpage--transparentGradientAlignLeft hero-video inline-hero-background item-1 div hero-carousel-item item item-1 div frontpage-owl-carousel owl-ca",
+      "content_type": "image/webp",
+      "bytes": 73030,
+      "sha256": "ad822f9d2b43df8675230af1b5caca1003ff352e0be2041f55fd290147b5fbe6",
+      "width": 1600,
+      "height": 656,
+      "source_sha256": "d90caac9ef396fa56c6893b10a768dc4399d062c5540e4534de842de82224d8c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/legoland-korea/reference-1.webp",
+      "source_url": "https://www.legoland.kr/media/ltvmjoy1/0c3a7455.jpg?rxy=0.5727018625898472",
+      "source_tag": "img:page-image",
+      "context": "img lazyload 0C3A7455 a div main-menu-feature div cols-2 column-wrap__has-feature li",
+      "content_type": "image/webp",
+      "bytes": 108450,
+      "sha256": "b2941e5c2fd8c45c620dcc182abbb5c3fab0b35f40098addf3e6b00805ea9aef",
+      "width": 1600,
+      "height": 1068,
+      "source_sha256": "6108baf42ad504083359b3a56b0ea5145e3290660f770a8a90e34e94199fa587"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/legoland-korea/reference-2.webp",
+      "source_url": "https://www.legoland.kr/media/avhpwqkf/bot_%EC%9E%A5%EB%82%9C%EA%BE%B8%EB%9F%AC%EA%B8%B0-%EC%9B%90%EC%A0%95%EB%8C%80-kv_700x500.jpg",
+      "source_tag": "json-ld.@graph[1].thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 156604,
+      "sha256": "d05d5c9f61456c0b5c8aa05b33f8bf018c18ec72c3fc63198e08c8cb49848d8b",
+      "width": 1600,
+      "height": 1142,
+      "source_sha256": "2cdb08e6b4b5412307c48fe71e364cc02c6e3b0cb9be40823b058e69365fefbe"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/legoland-korea/reference-3.webp",
+      "source_url": "https://www.legoland.kr/media/bafe04wn/2011-12-31_legolandnewyears_060.jpg",
+      "source_tag": "json-ld.@graph[2].thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 146842,
+      "sha256": "b313e68e21fc37f7ce31e6dbad4ed55bd5939c1199f946c3ad7a88e8321e633f",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "785d95247df42d0dcebd8ba6c66fd26269d1981af9883b8063fd1ed06f20c20a"
+    }
+  ]
+}

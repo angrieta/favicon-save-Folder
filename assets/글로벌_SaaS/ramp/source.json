@@ -1,0 +1,106 @@
+{
+  "company": "Ramp",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://ramp.com/",
+  "page_url": "https://ramp.com/",
+  "page_title": "Spend Management, Corporate Cards & Accounts Payable Solutions | Ramp",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://assets.ramp.com/nextjs/videos/homepage-hero-mobile-423.webm; banner:ValueError:https://assets.ramp.com/nextjs/videos/homepage-hero-423.webm; reference:ValueError:https://assets.ramp.com/nextjs/videos/homepage-hero-mobile-423.webm; reference:ValueError:https://assets.ramp.com/nextjs/videos/homepage-hero-423.webm",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/ramp/favicon.png",
+      "source_url": "https://ramp.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 19332,
+      "sha256": "8b30a0287bba69281e0fd0159cbbd265688fd38cde3cc699bdc4d27196821bd0",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/ramp/og.webp",
+      "source_url": "https://next.ramp.com/assets/images/default-og-image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 29128,
+      "sha256": "a2cfedafd307500f12820b4b7c03c02d5d77350eea2483ab0a73e5672b927768",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/ramp/logo-1.svg",
+      "source_url": "https://next.ramp.com/assets/images/ramp-logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1697,
+      "sha256": "77d7402609df5bb22410d9f3f584f2bb80574238ba1c899a39f5c7b6ec2c541a",
+      "width": 75,
+      "height": 20,
+      "source_sha256": "b712af99c135b7c6a66b1d8bdaf5c2902f466d241f4d36068d774d776779e81e"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/ramp/banner-1.webp",
+      "source_url": "https://ramp.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fcustomer-notion.09sf99zyvnrli.webp&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover object-center Notion div relative h-full w-full div group relative overflow-hidden rounded-[12px] text-left text-white CustomerSection-module__6IGf6q__featured div grid gap-px overflow-hidden rounded-[12px] bg-grayLight p-p",
+      "content_type": "image/webp",
+      "bytes": 62072,
+      "sha256": "970fb103cfbe75ff7ab51881fa995f8e7827a551c571ed5b964469d05ff0239a",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/ramp/banner-2.webp",
+      "source_url": "https://ramp.com/_next/static/immutable/media/home-personalization-background.11emzodlpzdcf.webp",
+      "source_tag": "inline-background-image",
+      "context": "section  relative isolate grid spacer-p-t-l spacer-t-l spacer-p-b-l place-items-center overflow-hidden rounded-b-xl bg-white bg-cover bg-center rounded-xl background-image:url(/_next/static/immutable/media/home-personalization-background.11",
+      "content_type": "image/webp",
+      "bytes": 25978,
+      "sha256": "2a6663393504dbe6380f05389dd2dfd66f46d7b35aef6d5ed9b23541c7e3eb86",
+      "width": 1800,
+      "height": 1125
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/ramp/reference-1.webp",
+      "source_url": "https://ramp.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fplatform-treasury-card-mobile.2xu1oesi8aium.webp&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img pointer-events-none absolute inset-0 size-full object-cover object-right md:hidden a PlatformCard-module__MXf3fW__root relative overflow-hidden rounded-xl border border-black-100 bg-grayLight flex h-full w-full cursor-pointer flex-col i",
+      "content_type": "image/webp",
+      "bytes": 34808,
+      "sha256": "cf181babfe508f90e7229ade66c83b9fc3d442e33e83e0cb6aaff3a510e088c2",
+      "width": 1029,
+      "height": 1287
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/ramp/reference-2.webp",
+      "source_url": "https://ramp.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fplatform-treasury-card.353417wdpun5_.webp&w=1920&q=75",
+      "source_tag": "img:page-image",
+      "context": "img pointer-events-none absolute inset-0 hidden size-full object-cover object-left-top md:translate-y-[24px] md:block a PlatformCard-module__MXf3fW__root relative overflow-hidden rounded-xl border border-black-100 bg-grayLight flex h-full w",
+      "content_type": "image/webp",
+      "bytes": 35928,
+      "sha256": "9247b683064236ecd9412835734a9860dab1e5878d61eafe95cd9dccbdbb6b37",
+      "width": 842,
+      "height": 1052
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/ramp/reference-3.webp",
+      "source_url": "https://ramp.com/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fhome-refresh-enterprise-workflow.0tqmzq1sbq-62.webp&w=2048&q=75",
+      "source_tag": "img:page-image",
+      "context": "img w-full lg:transition-transform lg:duration-300 lg:group-hover/card:scale-102 Bill-creation workflow with amount threshold, department approvals, and vendor notification div overflow-hidden KbCard-module__kYLy0q__kbcard-media div relativ",
+      "content_type": "image/webp",
+      "bytes": 22070,
+      "sha256": "77a25226a84e029a70bdcc889475eae6cf91daf81c8c04a4ea9d65d15c4d9fcb",
+      "width": 1024,
+      "height": 819
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "company": "롯데관광",
+  "category": "항공_여행",
+  "requested_url": "https://www.lottetour.com/",
+  "page_url": "https://www.lottetour.com/welcome",
+  "page_title": "롯데관광::여행의 가치를 더하다",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "social",
+      "path": "assets/항공_여행/lotte-tour/og.webp",
+      "source_url": "https://image1.lottetour.com/static/ogtag/lottetour_ogimg.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5158,
+      "sha256": "817ae2b8e5a507fd6109e571ec4de2469e37fd66bced9f6025a54cade1f4bfdc",
+      "width": 320,
+      "height": 320
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/lotte-tour/logo-1.webp",
+      "source_url": "https://www.lottetour.com/statics/images/logo.gif",
+      "source_tag": "img:semantic-logo",
+      "context": "img 롯데관광 lotte tour a h1 div inner div mid",
+      "content_type": "image/webp",
+      "bytes": 3394,
+      "sha256": "d3dd6f840ce22ef9257a88b1dc60c29bc59c87c54b332c7b845ac9e630c1b1ec",
+      "width": 121,
+      "height": 43
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/lotte-tour/logo-2.png",
+      "source_url": "https://www.lottetour.com/statics/images/highend_logo_over.gif",
+      "source_tag": "img:semantic-logo",
+      "context": "img 롯데관광이 만든 고품격 프리미엄 브랜드 div tooltip li highend ul btns div inner",
+      "content_type": "image/png",
+      "bytes": 3182,
+      "sha256": "3db605b68055052ebd452d2649d30beb3e568b9577dd369178adfce9854e2284",
+      "width": 258,
+      "height": 48
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/lotte-tour/banner-1.webp",
+      "source_url": "https://image1.lottetour.com/static/promotion/2026/09/3911/pc_sm.jpg",
+      "source_tag": "inline-background-image",
+      "context": "a   background-image:url('//image1.lottetour.com/static/promotion/2026/09/3911/pc_sm.jpg')",
+      "content_type": "image/webp",
+      "bytes": 94192,
+      "sha256": "0c45c1489f173ef6ab9c5d4e339c477373b4e4ea27f4546f02da91cbdf4740fd",
+      "width": 1600,
+      "height": 375,
+      "source_sha256": "8f0b83070281b3a0ec981516950851f07d5a1beec3eb69c10511550e0c15c624"
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/lotte-tour/banner-2.webp",
+      "source_url": "https://image1.lottetour.com/static/promotion/2026/09/3908/pc_sm.jpg",
+      "source_tag": "inline-background-image",
+      "context": "a   background-image:url('//image1.lottetour.com/static/promotion/2026/09/3908/pc_sm.jpg')",
+      "content_type": "image/webp",
+      "bytes": 61848,
+      "sha256": "c32aed06a45f407b0aff603b459239ee57ae126a3aed39ba0b0c5c1d9677328a",
+      "width": 1600,
+      "height": 375,
+      "source_sha256": "7b86431c0e73195cf5daeafb8122659e22a81d36e0c780a74db809289d908707"
+    }
+  ]
+}

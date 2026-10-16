@@ -1,0 +1,94 @@
+{
+  "company": "Mercari",
+  "category": "테크_플랫폼",
+  "requested_url": "https://about.mercari.com/en/",
+  "page_url": "https://about.mercari.com/en/",
+  "page_title": "Mercari, Inc.",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/mercari/favicon.ico",
+      "source_url": "https://about.mercari.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "57c731de56f33a5903b47e77ac86d6a9817608d903201b0e5f0422cfd39a03fb",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/mercari/og.webp",
+      "source_url": "https://about.mercari.com/ogimage.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3516,
+      "sha256": "47f40922022c01b4c5fee150e15c7afa6bfa66e4e65c8081f509063405a30735",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/mercari/logo-1.svg",
+      "source_url": "https://about.mercari.com/sample/mercari_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img mercari a nuxt-link-exact-active nuxt-link-active h3 header__contents__nav__header__logo div header__contents__nav__header nav header__contents__nav",
+      "content_type": "image/svg+xml",
+      "bytes": 1615,
+      "sha256": "4fa6e3f3561e84af6a43819d05724c674e701406ffba8596338112659aed3198",
+      "width": 448,
+      "height": 90,
+      "source_sha256": "56ac133d9e65e91f8e6431608348d06dfeaa802b2f5c882a7c4f5ccdfe39dca7"
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/mercari/banner-1.webp",
+      "source_url": "https://about.mercari.com/images/about-us/newmission_kv.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div image-comp div transition-block__contents__image transition-block__contents__image-1 normal div transition-block__contents normal div transition-block__wrapper",
+      "content_type": "image/webp",
+      "bytes": 63114,
+      "sha256": "6fee84517497eb3f8900d5fd0b8fa794cb2d7001a62849296932a4de4f7241ff",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/mercari/reference-1.webp",
+      "source_url": "https://about.mercari.com/images/sample/index/s-mercari.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div services-block__item__image__wrap div services-block__item__image div services-block__item current div services-block__wrapper",
+      "content_type": "image/webp",
+      "bytes": 40722,
+      "sha256": "03a1b2ec13f6d900d6b953256523eff8ce3aec41aeb3e5d4e5e96d3b47cc3d9c",
+      "width": 1432,
+      "height": 834
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/mercari/reference-2.webp",
+      "source_url": "https://about.mercari.com/images/index/ir_mv.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div image-comp div ir-block__contents__image div ir-block__contents section ir-block anchor-menu-target isNone",
+      "content_type": "image/webp",
+      "bytes": 28958,
+      "sha256": "911c2d01fbca0c9be8635bead8a6a2e207c9059781d45234a22e19f8dfc920bc",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/mercari/reference-3.webp",
+      "source_url": "https://about.mercari.com/images/sample/index/s-merpay.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div services-block__item__image__wrap div services-block__item__image div services-block__item div services-block__wrapper",
+      "content_type": "image/webp",
+      "bytes": 33296,
+      "sha256": "426e02a453e5e78afd761530665bf8ac00da465aa5cda93278ae6713981bf960",
+      "width": 1432,
+      "height": 834
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "company": "하고",
+  "category": "유통_커머스",
+  "requested_url": "https://www.hago.kr",
+  "page_url": "https://www.hago.kr/",
+  "page_title": "쇼핑의 답, HAGO(하고)",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/hago/favicon.ico",
+      "source_url": "https://image.hago.kr/mall/ui/pc/common/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 32038,
+      "sha256": "5f3c4f494e8b9d40b0178c94133025c0b20b01c951f00694c27af41d84992555",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/hago/og.webp",
+      "source_url": "https://image.hago.kr/mall/seo_image_4.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4214,
+      "sha256": "7240ee73c0b5890223d29c08fb304700615e2842a3c7aae6120e6b2c4724c647",
+      "width": 800,
+      "height": 420
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/hago/og.webp",
+      "source_url": "https://image.hago.kr/mall/seo_image_4.jpg",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 4214,
+      "sha256": "7240ee73c0b5890223d29c08fb304700615e2842a3c7aae6120e6b2c4724c647",
+      "width": 800,
+      "height": 420,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/hago/logo-2.svg",
+      "source_url": "https://image.hago.kr/dev/main/pc/pc_main_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo a h1 div mm_inner div mm_header renewal",
+      "content_type": "image/svg+xml",
+      "bytes": 7976,
+      "sha256": "bb1662562311c9261e2e3ea159afd7663fec09584e747f2a078e3cfdfbeb3e95",
+      "width": 563,
+      "height": 205,
+      "source_sha256": "a75c2fcd510058cd8b70fcacc8adfc7b0462faa25ee1ee6a3efda180b2bbfc17"
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/hago/reference-1.webp",
+      "source_url": "https://image.hago.kr/mall/display/mmon-templates/v3/6/1/4667/pc_image_1.jpg?ut=20260918125128",
+      "source_tag": "json-ld.itemListElement[0].image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 53182,
+      "sha256": "efd65d3aaf6ccb146847e019e2907856d22efe62295c295cddef88080bc19727",
+      "width": 670,
+      "height": 910
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/hago/reference-2.webp",
+      "source_url": "https://image.hago.kr/mall/display/mmon-templates/v3/6/1/4669/pc_image_1.jpg?ut=20260918125128",
+      "source_tag": "json-ld.itemListElement[1].image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 67060,
+      "sha256": "71ce5d5ecdfcedab672bd4609ad43cd1f098acecdb8844d4fb53704786299d70",
+      "width": 670,
+      "height": 910
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/hago/reference-3.webp",
+      "source_url": "https://image.hago.kr/mall/display/mmon-templates/v3/6/1/4670/pc_image_1.jpg?ut=20260921102359",
+      "source_tag": "json-ld.itemListElement[2].image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 32738,
+      "sha256": "5eea6c89b9f9bee85d1503b3e3a99de5a354e3c4c7f6fc53584f080a3f079f92",
+      "width": 670,
+      "height": 910
+    }
+  ]
+}

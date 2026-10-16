@@ -1,0 +1,58 @@
+{
+  "company": "Tour de France",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.letour.fr",
+  "page_url": "https://www.letour.fr/en/",
+  "page_title": "Official website of Tour de France 2026",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://img.aso.fr/core_app/img-cycling-tdf-png/pmt/71326/0:0,400:400-200-0-80/62617|https://img.aso.fr/core_app/img-cycling-tdf-png/pmt/71326/0:0,400:400-400-0-80/20291; reference:HTTPError:https://img.aso.fr/core_app/img-cycling-tdf-png/1/71834/0:0,400:400-200-0-70/098fb|https://img.aso.fr/core_app/img-cycling-tdf-png/1/71834/0:0,400:400-400-0-50/7baf0; reference:HTTPError:https://img.aso.fr/core_app/img-cycling-tdf-png/pmp/71329/0:0,400:400-200-0-80/b56be|https://img.aso.fr/core_app/img-cycling-tdf-png/pmp/71329/0:0,400:400-400-0-80/a78fb; reference:HTTPError:https://img.aso.fr/core_app/img-cycling-tdf-png/33/71739/0:0,400:400-200-0-70/0cd75|https://img.aso.fr/core_app/img-cycling-tdf-png/33/71739/0:0,400:400-400-0-50/78c24; reference:HTTPError:https://img.aso.fr/core_app/img-cycling-tdf-png/pmm/71327/0:0,400:400-200-0-80/a2deb|https://img.aso.fr/core_app/img-cycling-tdf-png/pmm/71327/0:0,400:400-400-0-80/92640; reference:HTTPError:https://img.aso.fr/core_app/img-cycling-tdf-png/41/71725/0:0,400:400-200-0-70/1035c|https://img.aso.fr/core_app/img-cycling-tdf-png/41/71725/0:0,400:400-400-0-50/c1160",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/tour-de-france/favicon.png",
+      "source_url": "https://www.letour.fr/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9712,
+      "sha256": "0c1dd3e1a70dad37d8fb188dd3101e5789ac2a1eea7d4440594c071d9e55a837",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/tour-de-france/logo-1.svg",
+      "source_url": "https://www.letour.fr/img/global/logo-timekeeper.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__sponsor__img a btn-menu nav__link logo-tissot btn-hover-primary div header-top-container__menu-1 nav navigation div burgerMenu__section js-empty hiding--sm",
+      "content_type": "image/svg+xml",
+      "bytes": 8055,
+      "sha256": "7c17d9431126e7990798d2530392a3073a87f3db8992c9bcc7112ec200fdf41a",
+      "width": 588,
+      "height": 275
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/tour-de-france/logo-2.png",
+      "source_url": "https://www.letour.fr/img/global/logo-reversed@2x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img main-logo js-logo Website logo a header-container__logo__link div header-container__logo div header-container div header-menu header__navigation",
+      "content_type": "image/png",
+      "bytes": 4956,
+      "sha256": "131362c7da689fc329a37923c7c4ed3b7d2264fda968b7df6991b072fca170f5",
+      "width": 160,
+      "height": 124
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/tour-de-france/banner-1.webp",
+      "source_url": "https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-etape-series-tdf/69857/0:0,1999:890-1438-0-25/44e12",
+      "source_tag": "inline-background-image",
+      "context": "div  banner-bg lazyItem js-lazy-sizes background-image:url('https://img.aso.fr/core_app/img-cycling-tdf-jpg/header-etape-series-tdf/69857/0:0,1999:890-1438-0-25/44e12');",
+      "content_type": "image/webp",
+      "bytes": 195636,
+      "sha256": "8d2bfb20bd83f394d3bee77bd1830eac7f1bdf5b35984a1b0b11ab507af167c2",
+      "width": 1438,
+      "height": 640
+    }
+  ]
+}

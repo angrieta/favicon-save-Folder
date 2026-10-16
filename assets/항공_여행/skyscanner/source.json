@@ -1,0 +1,45 @@
+{
+  "company": "Skyscanner",
+  "category": "항공_여행",
+  "requested_url": "https://www.skyscanner.co.kr/",
+  "page_url": "https://www.skyscanner.co.kr/",
+  "page_title": "항공권 비교 및 예약 | 스카이스캐너",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/skyscanner/favicon.ico",
+      "source_url": "https://www.skyscanner.co.kr/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 32988,
+      "sha256": "690d4b12a36a0bef6a09f0a419cccab9ae0fe3cc21c1e534dcf2d4a82c2d2e4e",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/skyscanner/og.webp",
+      "source_url": "https://www.skyscanner.co.kr/images/opengraph_v1.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5682,
+      "sha256": "2570cc84a68728bb0478186cf3826019d3f30f6047ee005035b810c0062460e3",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/skyscanner/reference-1.webp",
+      "source_url": "https://s3-eu-west-1.amazonaws.com/sponsored-portal-uploads-prod/content%2Fb80179460a464ee532c6193998b765d2.png?imbypass=true",
+      "source_tag": "link:preload",
+      "context": "preload image  https://s3-eu-west-1.amazonaws.com/sponsored-portal-uploads-prod/content%2Fb80179460a464ee532c6193998b765d2.png?imbypass=true",
+      "content_type": "image/webp",
+      "bytes": 88758,
+      "sha256": "0d258ae76f6d4eaf1bc22d1319303705bca701d7c1a6d2291c1ac2ddf7cb8949",
+      "width": 1800,
+      "height": 687
+    }
+  ]
+}

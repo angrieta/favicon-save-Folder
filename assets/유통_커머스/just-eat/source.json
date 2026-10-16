@@ -1,0 +1,46 @@
+{
+  "company": "Just Eat",
+  "category": "유통_커머스",
+  "requested_url": "https://www.just-eat.co.uk",
+  "page_url": "https://www.just-eat.co.uk/",
+  "page_title": "Order Takeaway, Groceries, and Food Delivery | Just Eat",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://pie-design-system-cdn.production.jet-external.com/fonts/JETSansDigital-VF-optimised-extended.woff2; reference:ValueError:https://www.just-eat.co.uk/consumer-web-assets/_next/static/css/15c571468bb142a8.css; reference:ValueError:https://www.just-eat.co.uk/consumer-web-assets/_next/static/css/c70e38a5dda7c317.css; reference:ValueError:https://www.just-eat.co.uk/consumer-web-assets/_next/static/css/770837e1ef84211b.css; reference:ValueError:https://www.just-eat.co.uk/consumer-web-assets/_next/static/css/017ae1673e329f63.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/just-eat/favicon.png",
+      "source_url": "https://www.just-eat.co.uk/consumer-web-assets/root-static/apple-touch-icon.png?version=1",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 10985,
+      "sha256": "400007e5018dbab5f26591269b7153b9785f4bfebfbc3f4379111b86f3cc736c",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/just-eat/logo-1.png",
+      "source_url": "https://www.just-eat.co.uk/apple-touch-icon-180x180.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 4336,
+      "sha256": "8e1d7dc92bd656f7905932ebff38eaa00ee3b6f429e05a12ff59b6060d90f26b",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/just-eat/logo-2.png",
+      "source_url": "https://www.just-eat.co.uk/consumer-web-assets/images/falafel_salad_home_dss_desktop_uk.f168972c.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img _1xp4W Graphic of Did somebody say above a bowl of falafel and vegetables on orange background with a JUST EAT logo below figure _3MNml Nav7S div hero-image_wrapper__KJWsa section hero-image-section_section__2LSNn div",
+      "content_type": "image/png",
+      "bytes": 466931,
+      "sha256": "275eef92300afbb7da6c35e26a10fe7c412260ff0179295265ffea7ab5c9bf3f",
+      "width": 1124,
+      "height": 994
+    }
+  ]
+}

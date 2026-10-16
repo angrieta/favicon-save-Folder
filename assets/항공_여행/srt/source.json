@@ -1,0 +1,34 @@
+{
+  "company": "SRT",
+  "category": "항공_여행",
+  "requested_url": "https://www.srail.or.kr/",
+  "page_url": "https://www.srail.or.kr/main.do",
+  "page_title": "국민철도 SR",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/srt/favicon.png",
+      "source_url": "https://www.srail.or.kr/apple-touch-icon-precomposed.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 2465,
+      "sha256": "de3ffe3e4c90024bed094e09b44a3903dddc0ee2f3594c240d18dba06a7e19a9",
+      "width": 114,
+      "height": 114
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/srt/logo-1.png",
+      "source_url": "https://www.srail.or.kr/images/logo-w.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img SR a h1 div gnb_wrap div header header-w",
+      "content_type": "image/png",
+      "bytes": 1617,
+      "sha256": "35916cda31ab5f34090a512e324ace10d28ddd25c03f34b0bae4b8968eae49e6",
+      "width": 115,
+      "height": 48
+    }
+  ]
+}

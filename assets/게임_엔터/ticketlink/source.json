@@ -1,0 +1,33 @@
+{
+  "company": "티켓링크",
+  "category": "게임_엔터",
+  "requested_url": "https://www.ticketlink.co.kr/",
+  "page_url": "https://www.ticketlink.co.kr/",
+  "page_title": "티켓링크",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css; reference:ValueError:https://tketlink.dn.toastoven.net/frontend/ticketlink-renewal/latest/react-D-YNEDhc.js; reference:ValueError:https://tketlink.dn.toastoven.net/frontend/ticketlink-renewal/latest/util-CUI90CnM.js; reference:ValueError:https://tketlink.dn.toastoven.net/frontend/ticketlink-renewal/latest/vendor-Dwu9aFGc.js; reference:ValueError:https://tketlink.dn.toastoven.net/frontend/ticketlink-renewal/latest/lottie-web-BGNHvPqj.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/ticketlink/favicon.png",
+      "source_url": "https://www.ticketlink.co.kr/resources/img/favicon_192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6204,
+      "sha256": "96f8a30241bfe618ddc42acc12e75ad3a206add88ad0bd45c739f612f0174889",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/ticketlink/og.webp",
+      "source_url": "https://tketlink.dn.toastoven.net/static/ticketlink_rebranding.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4666,
+      "sha256": "0f1c8d7e7106f4fb4c92837c0bfc6455d8131c766f2f78acb454ae9af2381b66",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "company": "리움미술관",
+  "category": "문화_공공",
+  "requested_url": "https://www.leeumhoam.org",
+  "page_url": "https://www.leeumhoam.org/",
+  "page_title": "리움미술관 호암미술관",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1401154077215852&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/leeum/favicon.svg",
+      "source_url": "https://www.leeumhoam.org/img/leeumhoam-favicon-d08036ba2a15565751262427fb9d85a3.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1153,
+      "sha256": "2e8aa6d57bc4bb3b18bb54c8f352741ad1c9ace892a2870b88823edb6fba184e",
+      "width": 64,
+      "height": 64,
+      "source_sha256": "d56e14774856fdbde1f8a03d45f2a9a3c32fca998fa2445eb8eb8ee8b456c705"
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/leeum/og.webp",
+      "source_url": "https://www.leeumhoam.org/img/leeumhoam_og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 111990,
+      "sha256": "81f98b66d6cc2379539e94032e07afb003d3da6891a3d8b70013f3352db68b01",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/leeum/logo-1.svg",
+      "source_url": "https://www.leeumhoam.org/img/index/leeum-index-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img leeum div leeum-wrap div index-wrap body html",
+      "content_type": "image/svg+xml",
+      "bytes": 809,
+      "sha256": "32cd506b30d8c2d98f8eea780e3516a692f5edeaf2b83c4eea7eecc2fa4bc446",
+      "width": 74,
+      "height": 19,
+      "source_sha256": "0914245d5f69d36722cf124e7dcf6deb7614c595034747fc81c89145e444e363"
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/leeum/logo-2.svg",
+      "source_url": "https://www.leeumhoam.org/img/index/hoam-index-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img hoam museum of art div hoam-wrap div index-wrap body html",
+      "content_type": "image/svg+xml",
+      "bytes": 3377,
+      "sha256": "00837a9099029b2a1e3ed2bdfce9dd80f89c2c7cd44aaf6e22231749bfdcc74a",
+      "width": 574,
+      "height": 19,
+      "source_sha256": "62bd30aa6a773f1ec72d11e6f543dff89c9aa3ef3cd0c4326f6a5d09f99ea24a"
+    }
+  ]
+}

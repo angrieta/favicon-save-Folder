@@ -1,0 +1,33 @@
+{
+  "company": "Palantir",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.palantir.com/",
+  "page_url": "https://www.palantir.com/",
+  "page_title": "Home | Palantir",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.palantir.com/_next/static/css/0bb5a1be7a9ac24e.css; reference:ValueError:https://www.palantir.com/_next/static/css/567b6efa152398f0.css; reference:ValueError:https://www.palantir.com/_next/static/css/1ed43d94fcc44917.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/palantir/favicon.ico",
+      "source_url": "https://www.palantir.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 6518,
+      "sha256": "bcb8975e6e37afaa6695c39e21b3dd45be205635d1e183ebc4c511f437d9fc71",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/palantir/og.webp",
+      "source_url": "https://www.palantir.com/assets/xrfr7uokpv1b/5MGQnj3IDJpURPzBDnXklZ/b7eed64a4f71a959250e19ec76bdf5de/Palantir_Chevron.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2998,
+      "sha256": "b9bccf36c754cf8799356ce3b5881e83029da981b933018fcdd65494613daecd",
+      "width": 1200,
+      "height": 783
+    }
+  ]
+}

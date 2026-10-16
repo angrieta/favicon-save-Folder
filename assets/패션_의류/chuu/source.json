@@ -1,0 +1,83 @@
+{
+  "company": "츄",
+  "category": "패션_의류",
+  "requested_url": "https://www.chuu.co.kr",
+  "page_url": "https://www.chuu.co.kr/",
+  "page_title": "chuu — SS 2026 Lookbook · 나답고 특별하게 | 츄 chuu 공식 사이트",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://chuu.co.kr/images/chuu-logo-black.png; reference:SSLError:https://gtp3.acecounter.com:8080/?uid=BH3A44215880662&je=n&",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/chuu/favicon.ico",
+      "source_url": "https://www.chuu.co.kr/web/upload/favicon-5a6d8a5bd3866d8c0cf9a01e51393733.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "3164f5c7d654c02a29d0b653b5f246c4f10382a3707e9fcb1c0bdbe240cce299",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/chuu/og.webp",
+      "source_url": "https://chuukr.cafe24.com/CHUU_OG_%EA%B3%B5%EC%9C%A0%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%A0%84%EC%B2%B4.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13052,
+      "sha256": "b4568183e4d39f86188fa90674609dc2dee9b9eadf6599753e335f805c33e4b4",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/chuu/banner-1.webp",
+      "source_url": "https://chuu.co.kr/web/upload/NNEditor/20260814/d63bec09b1a65ca38e6c5145aff4b5e7.webp",
+      "source_tag": "style-background-image",
+      "context": "; }\n\n.editorial-img {\n  aspect-ratio: 2/3;                              /* 옵션 C: 원본 비율 유지 — 모델 풀바디 잘림 0 */\n  /* 🔒 피드백 5: CHUU ZLS 0661 원본 다운스케일 (1800x2704, 491KB) */\n  background: url('https://chuu.co.kr/web/upload/NNEditor/20260814/d63bec0",
+      "content_type": "image/webp",
+      "bytes": 83230,
+      "sha256": "56ff2311dedb55db7d371633030f6ed190d2c8a2006661669d2c554c8fb115ce",
+      "width": 1800,
+      "height": 1198
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/chuu/reference-1.webp",
+      "source_url": "https://chuukr.cafe24.com/2026/20260918-2index.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  img img-pc background-image:url('https://chuukr.cafe24.com/2026/20260918-2index.jpg');aspect-ratio:1400/1334 !important;background-size:cover !important;background-position:center !important;",
+      "content_type": "image/webp",
+      "bytes": 100850,
+      "sha256": "6f165bd708f9b30aad58cbd33357887d8975c792b032ca278e727cbc4040abcb",
+      "width": 1417,
+      "height": 1350,
+      "source_sha256": "c3924d3603b14b20aed8a24698701c00c35b7d734a8c94b13627591e1aeb46a8"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/chuu/reference-2.webp",
+      "source_url": "https://img.alicdn.com/imgextra/i3/4217093326/O1CN01JZ8G5I1aRMSBbYylj_!!4611686018427387086-0-item_pic.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  editorial-img background-image:url(https://img.alicdn.com/imgextra/i3/4217093326/O1CN01JZ8G5I1aRMSBbYylj_!!4611686018427387086-0-item_pic.jpg);background-size:cover;background-position:center;cursor:pointer",
+      "content_type": "image/webp",
+      "bytes": 96340,
+      "sha256": "cc706844ed35819ba7284cac9fe914faa4b7daa4f9077354a49471bcdcfa7c3e",
+      "width": 900,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/chuu/reference-3.webp",
+      "source_url": "https://chuu.co.kr/images/models/store-2-entrance.jpg",
+      "source_tag": "json-ld.@graph[2].image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 131808,
+      "sha256": "06571e5e81ddc9e929c98f470badc3b008a864831c0d797fc9357e938c454bc0",
+      "width": 1013,
+      "height": 1350,
+      "source_sha256": "7f1181ab9e073ed4ccb6d65e07c0570f67184ce73a08a97acba093f0d6dbfa78"
+    }
+  ]
+}

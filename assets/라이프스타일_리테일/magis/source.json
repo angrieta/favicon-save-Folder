@@ -1,0 +1,71 @@
+{
+  "company": "Magis",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.magisdesign.com/",
+  "page_url": "https://www.magisdesign.com/",
+  "page_title": "Magis S.p.A. - Pushing the boundaries of design since 1976.",
+  "collection_status": "partial",
+  "collection_error": "banner:ConnectionError:https://www.magisdesign.com/wp-content/uploads/2026/04/Magis_download_page_cover-1536x1536.jpg; reference:ValueError:https://www.facebook.com/tr?id=1663254190408176&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/magis/favicon.png",
+      "source_url": "https://www.magisdesign.com/wp-content/uploads/2026/07/favicon-magis-300x300.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 31394,
+      "sha256": "0c259d8172e530118288a0ca72fa994125c1c07f5e1cc1b00199cda4439baacf",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/magis/logo-1.svg",
+      "source_url": "https://www.magisdesign.com/wp-content/uploads/2021/05/logo-magis-home-nero_ok.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div logo-small div row div container-fluid footer",
+      "content_type": "image/svg+xml",
+      "bytes": 1860,
+      "sha256": "f52290ad4bcbb8f9354e888b8524f5b4a05ad5fac9a46a48d0622bac6c9ef8ab",
+      "width": 1664,
+      "height": 402,
+      "source_sha256": "78023c2e69058978bb4f42287f62f6fcbb1fb58a42844689eef2860ac20d26c9"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/magis/reference-1.webp",
+      "source_url": "https://www.magisdesign.com/wp-content/uploads/2026/06/Magis_hopy_candle-holder_ambient_14_featured_image-800x800.jpg",
+      "source_tag": "img:page-image",
+      "context": "img attachment-quadrata size-quadrata a load div image div colonna col-12 col-md-4 div papion-colonne row",
+      "content_type": "image/webp",
+      "bytes": 16388,
+      "sha256": "3aa52e4094305227f010e6b5881606fee7fce2781a5ed35d680c336de75301fc",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/magis/reference-2.webp",
+      "source_url": "https://www.magisdesign.com/wp-content/uploads/2026/06/Magis_hopy_candle-holder_ambient_14_featured_image.jpg",
+      "source_tag": "img:page-image",
+      "context": "img attachment-quadrata size-quadrata a load div image div colonna col-12 col-md-4 div papion-colonne row",
+      "content_type": "image/webp",
+      "bytes": 45082,
+      "sha256": "88fa0c9e59b8af13f7d145f606bcbe8447e59a964fe7d3ed606e8fc3f3462a85",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/magis/reference-3.webp",
+      "source_url": "https://www.magisdesign.com/wp-content/uploads/2026/06/Magis_hopy_candle-holder_ambient_14_featured_image-1536x1536.jpg",
+      "source_tag": "img:page-image",
+      "context": "img attachment-quadrata size-quadrata a load div image div colonna col-12 col-md-4 div papion-colonne row",
+      "content_type": "image/webp",
+      "bytes": 40788,
+      "sha256": "a686be084a49451bcb3c09f3613f2628eb5659edeb1536ed1a336e0be54b301a",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "company": "Things",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://culturedcode.com/things/",
+  "page_url": "https://culturedcode.com/things/",
+  "page_title": "Things - To-Do List App for Mac & iOS",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/things/favicon.png",
+      "source_url": "https://culturedcode.com/apple-touch-icon.png?breackcache=ddi27f1a",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 10336,
+      "sha256": "c7f9daa60400ce7c11bc2d708c1b19ee3f91f8e080b20676560516e4b44f47a8",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/things/og.webp",
+      "source_url": "https://culturedcode.com/things/2024-01-20/images/meettheallnewthings2-io75.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 19604,
+      "sha256": "6fd9719dfab2d5aa7f534c2657a598bdf7eb34a68858b98414b95d2c44eda572",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/things/logo-1.png",
+      "source_url": "https://culturedcode.com/things/2024-01-20/images/hero-logo-things-io90.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img hero-image img Things div hero-logo div hero div container div slice for-hero has-lighter-bg",
+      "content_type": "image/png",
+      "bytes": 46659,
+      "sha256": "edfdf90dab848d6b83f03a8df9f9bb939b682521de1528f31c0dffbb749a3148",
+      "width": 500,
+      "height": 601
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/things/logo-2.svg",
+      "source_url": "https://culturedcode.com/things/2024-01-20/images/nicequote-logo-apple.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img nicequote-logo Apple div nicequote-source div nicequote-meta blockquote nicequote for-size-70 div nicequotes",
+      "content_type": "image/svg+xml",
+      "bytes": 2832,
+      "sha256": "9915550445e85ef44969dcce6e55f1577c71f6f656bed9fe814f1fc1293b9264",
+      "width": 32,
+      "height": 34
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/things/og.webp",
+      "source_url": "https://culturedcode.com/things/2024-01-20/images/meettheallnewthings2-io75.jpg",
+      "source_tag": "img:semantic-banner",
+      "content_type": "image/webp",
+      "bytes": 19604,
+      "sha256": "6fd9719dfab2d5aa7f534c2657a598bdf7eb34a68858b98414b95d2c44eda572",
+      "width": 1200,
+      "height": 675,
+      "context": "img Meet Things div panorama-content div panorama div slice for-hero has-lighter-bg main",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/things/banner-2.webp",
+      "source_url": "https://static.culturedcode.com/things/videos/2026-06-25-meet-things-remastered-2/meettheallnewthings-poster-e.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img Meet the all-new Things video div cinema-meet-the-all-new-things cinema has-button is-limited-to-viewport is-hidden-until-played div slice for-hero has-lighter-bg main",
+      "content_type": "image/webp",
+      "bytes": 29260,
+      "sha256": "ac729632ee0fd24acba9b7147de5d21be10b6daeb6adacce8d093517448bdd86",
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/things/reference-1.webp",
+      "source_url": "https://culturedcode.com/things/2024-01-20/images/whatsnew-collage-io60.png",
+      "source_tag": "img:page-image",
+      "context": "img Screenshots of Things running on Mac, iPhone, iPad, and Apple Watch div panorama-content div panorama has-crop-10 div container div slice for-features has-lightest-bg",
+      "content_type": "image/webp",
+      "bytes": 79734,
+      "sha256": "629aae95e60d9b05bf84962730bff92ebfbf5fc09f6d215f1d158ca14f239b4f",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/things/reference-2.webp",
+      "source_url": "https://culturedcode.com/things/2024-01-20/images/meettheallnewthings2-ext-right-io50.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  panorama-extension for-right background-image: url(2024-01-20/images/meettheallnewthings2-ext-right-io50.jpg)",
+      "content_type": "image/webp",
+      "bytes": 20100,
+      "sha256": "28a2d09435a37883e348463f154c56656d844332c2c6820aa403df8e852e4f3b",
+      "width": 1610,
+      "height": 1080
+    }
+  ]
+}

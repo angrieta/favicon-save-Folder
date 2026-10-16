@@ -1,0 +1,71 @@
+{
+  "company": "Uber",
+  "category": "자동차",
+  "requested_url": "https://www.uber.com/kr/ko/",
+  "page_url": "https://www.uber.com/kr/ko/",
+  "page_title": "지금 운행으로 수익을 올리거나 차량 서비스를 이용하세요 | Uber 대한민국",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://tb-static.uber.com/prod/uber-static/UberMove-Bold.woff2; reference:ValueError:https://www.uber.com/_static/client-main-a44d1a8e951dac75.js; reference:ValueError:https://www.uber.com/_static/client-vendor-673c886a6b0b9772.js; reference:ValueError:https://www.uber.com/_static/client-main-styles-ce92002bb9b208bf.css; reference:ValueError:https://www.uber.com/_static/client-runtime-b2acc48afcaf7d9b.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/uber/favicon.png",
+      "source_url": "https://www.uber.com/_static/bafeeed0a39bd111.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1898,
+      "sha256": "d7913f667120cf5c159939a7d0e137a43ee1009c9201e8a0fc34c315bf03e1d5",
+      "width": 57,
+      "height": 57
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/uber/og.webp",
+      "source_url": "https://tb-static.uber.com/prod/udam-assets/6b65f287-0bee-44e7-868a-e26b8722364e.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1022,
+      "sha256": "4b3acaf602943f698c2c4bb3b1e88c65f064addc45c4109b568bb80826541937",
+      "width": 310,
+      "height": 163
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/uber/reference-1.webp",
+      "source_url": "https://cn-geo1.uber.com/image-proc/crop/resizecrop/udam/format=auto/width=1344/height=1344/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC91ZGFtLWFzc2V0cy9hM2NmODU2NC1lMmE2LTQxOGMtYjliMC02NWRkMjg1YzEwMGIuanBn",
+      "source_tag": "picture:page-image",
+      "context": "picture div css-hmIids div css-gkDhYm div css-PKJb div css-daaYAB",
+      "content_type": "image/webp",
+      "bytes": 83756,
+      "sha256": "0e920a68b8355b1a39cd341eee7f8b5cab7867ec1724c72da099706dee0baf7f",
+      "width": 1344,
+      "height": 1344,
+      "source_sha256": "813728571c0b0957d3ea3ab4c56f6ebe4574914016aefd535c5d68ed8e865c5b"
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/uber/reference-2.webp",
+      "source_url": "https://cn-geo1.uber.com/image-proc/crop/resizecrop/udam/format=auto/width=672/height=672/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC91ZGFtLWFzc2V0cy9hM2NmODU2NC1lMmE2LTQxOGMtYjliMC02NWRkMjg1YzEwMGIuanBn",
+      "source_tag": "picture:page-image",
+      "context": "picture div css-hmIids div css-gkDhYm div css-PKJb div css-daaYAB",
+      "content_type": "image/webp",
+      "bytes": 53070,
+      "sha256": "a46ac2ac349a3112725f0fcf0d8424031dde5f3efa49cfe1c4cad33f4423405d",
+      "width": 672,
+      "height": 672
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/uber/reference-3.webp",
+      "source_url": "https://cn-geo1.uber.com/image-proc/crop/resizecrop/udam/format=auto/width=2144/height=2144/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC91ZGFtLWFzc2V0cy9hM2NmODU2NC1lMmE2LTQxOGMtYjliMC02NWRkMjg1YzEwMGIuanBn",
+      "source_tag": "picture:page-image",
+      "context": "picture div css-hmIids div css-gkDhYm div css-PKJb div css-daaYAB",
+      "content_type": "image/webp",
+      "bytes": 88052,
+      "sha256": "3fff5b9795c6e07ec7d8a0761cfe491fc485a5b29b2c8839667dd4adca86d6cb",
+      "width": 1350,
+      "height": 1350,
+      "source_sha256": "bff9ed420a38717d735a3c3e9b13fadd73b9ef453663f8e333d21d504e205eaa"
+    }
+  ]
+}

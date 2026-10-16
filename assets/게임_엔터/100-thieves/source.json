@@ -1,0 +1,95 @@
+{
+  "company": "100 Thieves",
+  "category": "게임_엔터",
+  "requested_url": "https://100thieves.com/",
+  "page_url": "https://100thieves.com/",
+  "page_title": "100 Thieves",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://100thieves.com/Liquid error (snippets/lazy-image line 31): invalid url input; reference:HTTPError:https://100thieves.com/Liquid error (snippets/lazy-image line 31): invalid url input",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/100-thieves/favicon.png",
+      "source_url": "https://100thieves.com/cdn/shop/files/favicon-2.png?crop=center&height=32&v=1613693869&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 433,
+      "sha256": "4bc551e218ed0669b0d2c66bf31cc88a0b57457bbdfebc336cef992997f334c0",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/100-thieves/og.webp",
+      "source_url": "http://100thieves.com/cdn/shop/files/100-Thieves-arcade.jpg?v=1710263463",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 117286,
+      "sha256": "ef657060716cb60dc01088f468a3a60024bbc1dd068139b2f85132f4fe42ccb4",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/100-thieves/logo-1.png",
+      "source_url": "https://100thieves.com/cdn/shop/t/725/assets/logo_small.png?v=100831049145350291331776706983",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 4069,
+      "sha256": "e6d35e9bdffc6488a1b96f8582c0f8f6d61ccc254b07fb79d4605b7b7201752e",
+      "width": 100,
+      "height": 58
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/100-thieves/logo-2.webp",
+      "source_url": "https://100thieves.com/cdn/shop/files/LAthieves_037.jpg?v=1764803213&width=533",
+      "source_tag": "img:semantic-logo",
+      "context": "img motion-reduce flip-card-back logo on chest of Exothermic T-Shirt - Black div media media--adapt media--hover-effect flip-card div div card__inner div card card--product",
+      "content_type": "image/webp",
+      "bytes": 38538,
+      "sha256": "31d22ffa677baa3d2d4769961710a9d2a3c4860ade778ecb36ca3ddfda72cbd8",
+      "width": 533,
+      "height": 533
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/100-thieves/reference-1.webp",
+      "source_url": "https://100thieves.com/cdn/shop/files/100THIEVES_4930c_klaviyo.jpg?v=1790047600",
+      "source_tag": "picture:page-image",
+      "context": "picture lazypicture a header-modal__nav-link pointer relative header__menu-item header__menu-item--parent div header__promo-card swiper-slide div swiper-wrapper div mobile-collection-carousel swiper",
+      "content_type": "image/webp",
+      "bytes": 103730,
+      "sha256": "302699497423dbcd25899c0a789a168d8b11845278461920aa5a855c5b602684",
+      "width": 1200,
+      "height": 1200,
+      "source_sha256": "0f28a1c09af061c8cb63232877f74247154e323bf4a05db6a3881519bfa2ef0c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/100-thieves/reference-2.webp",
+      "source_url": "https://100thieves.com/cdn/shop/files/100T-GTG-017_1_1.jpg?v=1786391204",
+      "source_tag": "picture:page-image",
+      "context": "picture lazypicture a header-modal__nav-link pointer relative header__menu-item header__menu-item--parent div header__promo-card swiper-slide div swiper-wrapper div mobile-collection-carousel swiper",
+      "content_type": "image/webp",
+      "bytes": 130578,
+      "sha256": "5c14b2722ab5992e5e676b2e1fa555b73675fbb2d91d75ee450b5bcf385689b3",
+      "width": 1000,
+      "height": 1000,
+      "source_sha256": "02ed5a32311276aeb7eccb9e7a905bec9ea6c2150693e7e327f20e7ff086446d"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/100-thieves/reference-3.webp",
+      "source_url": "https://100thieves.com/cdn/shop/files/TOWNDUST_4x5_027_1.jpg?v=1785424848",
+      "source_tag": "picture:page-image",
+      "context": "picture lazypicture a header-modal__nav-link pointer relative header__menu-item header__menu-item--parent div header__promo-card swiper-slide div swiper-wrapper div mobile-collection-carousel swiper",
+      "content_type": "image/webp",
+      "bytes": 117700,
+      "sha256": "aa7b191fa3093655869fb80cab8300f8dda7dc621eab0cc69848869dc37c0127",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

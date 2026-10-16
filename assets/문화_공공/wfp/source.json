@@ -1,0 +1,93 @@
+{
+  "company": "World Food Programme",
+  "category": "문화_공공",
+  "requested_url": "https://www.wfp.org",
+  "page_url": "https://www.wfp.org/",
+  "page_title": "UN World Food Programme (WFP)",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.wfp.org/sites/default/files/video/2026-09/WF11229959%20Somalia_Sept_2026_Mobile.mp4; reference:ValueError:https://www.wfp.org/sites/default/files/video/2026-09/WF11229958%20Somalia_Sept_2026_Desktop.mp4; reference:ValueError:https://www.wfp.org/sites/default/files/video/2026-09/WF11224744%20NepalDrone_Mobile_FIXED.mp4.mp4; reference:ValueError:https://www.wfp.org/sites/default/files/video/2026-09/WF11224745%20NepalDrone_DesktopFixed.mp4; reference:ValueError:https://www.wfp.org/sites/default/files/video/2026-09/WF11225905%20UNGA-FoodSecurity_Sept_Mobile.mp4; reference:ValueError:https://www.wfp.org/sites/default/files/video/2026-09/WF11225906%20UNGA-FoodSecurity_Sept_Desktop.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/wfp/favicon.png",
+      "source_url": "https://cdn.wfp.org/guides/ui/assets/v0.0.1/favicons/apple-touch-icon-180-precomposed.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 15821,
+      "sha256": "d6e016f6248d3cf3d8d12484d4f5e0a8c3bb71f7d2fdbd1417db157af218b7f1",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/wfp/og.webp",
+      "source_url": "https://www.wfp.org/sites/default/files/2021-10/Our-Work_WFP-Fredrik-Lerneryd.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 81880,
+      "sha256": "be598ce11c0c5d689b52f0ab6b105f1a87f09ba040ce8e73079845c47c1c4de2",
+      "width": 1200,
+      "height": 670
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/wfp/logo-1.svg",
+      "source_url": "https://cdn.wfp.org/guides/ui/assets/v0.0.1/logos/vertical/en/wfp-logo-vertical-white-en.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img UN World Food Programme a site-header__logo div site-header__branding div site-header__wrapper wfp-wrapper header site-header",
+      "content_type": "image/svg+xml",
+      "bytes": 22937,
+      "sha256": "76b63f766b00d0d41a456f88dc3dea184ebb42684202bb6122e22aef8efadc49",
+      "width": 57,
+      "height": 86
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/wfp/logo-2.svg",
+      "source_url": "https://cdn.wfp.org/guides/ui/assets/v0.0.1/logos/standard/en/wfp-logo-standard-white-en.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img site-footer__logo UN World Food Programme div site-footer__branding div wfp-wrapper ph3 ph0-lg site-footer__institutional-wrapper section site-footer__institutional footer site-footer",
+      "content_type": "image/svg+xml",
+      "bytes": 23131,
+      "sha256": "13eb99d1b87a773428fa2579655130ff7300e8031fa4e5cd7e2fd6f59b4579f9",
+      "width": 132,
+      "height": 58
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wfp/reference-1.webp",
+      "source_url": "https://www.wfp.org/sites/default/files/styles/max_width_1400/public/2026-09/0L3A0557-2.webp?itok=KU9LZNYV",
+      "source_tag": "picture:page-image",
+      "context": "picture div card__media article card div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 79200,
+      "sha256": "11b037c538048d9765db8cc7e1869a6f0322fa621d644cc9a92efcdee9e7cf3c",
+      "width": 900,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wfp/reference-2.webp",
+      "source_url": "https://www.wfp.org/sites/default/files/styles/max_width_700/public/2026-09/0L3A0557-2.webp?itok=ED2ixg2Y",
+      "source_tag": "picture:page-image",
+      "context": "picture div card__media article card div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 50916,
+      "sha256": "ec4a61a9101ef77a484dc70cb37d9677f4e04ecf3604079c02205bb3f7ee3629",
+      "width": 700,
+      "height": 467
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/wfp/reference-3.webp",
+      "source_url": "https://www.wfp.org/sites/default/files/styles/max_width_1400/public/2026-09/0L3A0557-2.jpg?itok=KU9LZNYV",
+      "source_tag": "picture:page-image",
+      "context": "picture div card__media article card div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 83036,
+      "sha256": "786fe25a5c9079cbcbe8993fa769001e504465b4da5a57aae7c81db3f91645f5",
+      "width": 900,
+      "height": 600
+    }
+  ]
+}

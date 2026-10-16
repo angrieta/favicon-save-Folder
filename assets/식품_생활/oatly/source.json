@@ -1,0 +1,45 @@
+{
+  "company": "Oatly",
+  "category": "식품_생활",
+  "requested_url": "https://www.oatly.com/",
+  "page_url": "https://www.oatly.com/",
+  "page_title": "the Original Oat Drink Company | Oatly",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.oatly.com/_next/static/css/8859cb31b8cb45e3.css; reference:ValueError:https://www.oatly.com/_next/static/css/4586e9c680a99c92.css; reference:ValueError:https://www.oatly.com/_next/static/css/0f0aff21cf4b7188.css; reference:ValueError:https://www.oatly.com/_next/static/css/6a0911b661f12450.css; reference:ValueError:https://www.oatly.com/_next/static/css/13f29cb85af374a3.css; reference:ValueError:https://www.oatly.com/_next/static/css/0dba34a298712f3a.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/oatly/favicon.png",
+      "source_url": "https://www.oatly.com/favicon-180.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 6245,
+      "sha256": "568694101bc8ceea82c1957e3d41817104a3f4cc84cf6764596d671009b23124",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/oatly/og.webp",
+      "source_url": "https://a.storyblok.com/f/107921/1200x630/47e0237075/oatly_open_graph.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 53976,
+      "sha256": "762a87a9a8ea4101e9f038bf514ebf702c096af65b1ca485c83873cb882e1141",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/oatly/logo-1.webp",
+      "source_url": "https://www.oatly.com/images/oatly-logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 24680,
+      "sha256": "9464c6e37e604338b74fe0e932e50211323aeff42d33b7db458e0135d389006e",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

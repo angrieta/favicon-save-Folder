@@ -1,0 +1,95 @@
+{
+  "company": "시사IN",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.sisain.co.kr/",
+  "page_url": "https://www.sisain.co.kr/",
+  "page_title": "시사IN",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/sisain/favicon.png",
+      "source_url": "https://cdn.sisain.co.kr/image/logo/snslogo_20240404115546.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 6892,
+      "sha256": "0531c795f5b780cbb1b472269152bd78f5abf5fa3e681cf2d4258cdb50caaf04",
+      "width": 200,
+      "height": 200,
+      "source_sha256": "4f93b8324248d38acfd5cc55d21a4567871d62632f682311bc9af33c6b49805b"
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/sisain/og.webp",
+      "source_url": "https://www.sisain.co.kr/image/logo/snslogo_20240404115546.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2026,
+      "sha256": "ed66a7e8af3367df6e26d18218ee6091ee406527b63240b34b1efa40f50c7906",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/sisain/logo-1.svg",
+      "source_url": "https://cdn.sisain.co.kr/image/logo/mobilelogo_20240404115546.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 시사IN a div nav-logo div nav-top div nav-inner",
+      "content_type": "image/svg+xml",
+      "bytes": 7491,
+      "sha256": "cce0215008d22f5604e38b436c69126575aaecc7764e02dfd68d7a9db661a902",
+      "width": 148,
+      "height": 50,
+      "source_sha256": "45c3c9c7ea98bf8b7e0d5da5d2c8ce000033bb4f1ce78bef26ce966935c60620"
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/sisain/logo-2.png",
+      "source_url": "https://cdn.sisain.co.kr/image/box/logo-gray.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a header header article letter-box form newsletterForm",
+      "content_type": "image/png",
+      "bytes": 2326,
+      "sha256": "b670bb1c0b1b0c86862f03375c2321a7a393e566b5f10c76686e468d7498fef3",
+      "width": 148,
+      "height": 50
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/sisain/banner-1.webp",
+      "source_url": "https://cdn.sisain.co.kr/image/box/cover-4.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img shadow div cover-box div wrapper article cover-cs sisain_view div clearfix",
+      "content_type": "image/webp",
+      "bytes": 11708,
+      "sha256": "8194bd57e852a8f61c79875b20fb7f7ad7460d30c645ceba58a69ffa5b4b6ac1",
+      "width": 1635,
+      "height": 350
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/sisain/reference-1.webp",
+      "source_url": "https://cdn.sisain.co.kr/news/thumbnail/custom/20260929/58558_113994_319_1789574601_580.jpg",
+      "source_tag": "inline-background-image",
+      "context": "em  auto-images background-image:url(https://cdn.sisain.co.kr/news/thumbnail/custom/20260929/58558_113994_319_1789574601_580.jpg)",
+      "content_type": "image/webp",
+      "bytes": 26530,
+      "sha256": "a7edd70448913fc5931843c17b21ec48326f4df732db8c044220cddc06d37f35",
+      "width": 580,
+      "height": 387
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/sisain/reference-2.webp",
+      "source_url": "https://cdn.sisain.co.kr/news/thumbnail/202609/58495_113754_1788938963_v150.jpg",
+      "source_tag": "inline-background-image",
+      "context": "em  auto-images background-image:url(https://cdn.sisain.co.kr/news/thumbnail/202609/58495_113754_1788938963_v150.jpg)",
+      "content_type": "image/webp",
+      "bytes": 10014,
+      "sha256": "4ae4552182274d90971981d47e398df22a02048598f5ea52b974f3f1e32375ad",
+      "width": 400,
+      "height": 400
+    }
+  ]
+}

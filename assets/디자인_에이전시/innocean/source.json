@@ -1,0 +1,94 @@
+{
+  "company": "이노션",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.innocean.com/ww-ko",
+  "page_url": "https://www.innocean.com/ww-ko",
+  "page_title": "INNOCEAN",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.innocean.com/_nuxt/video_network--pc.BOgER8cg.mp4; reference:ValueError:https://www.innocean.com/_nuxt/BlyalRku.js; reference:ValueError:https://www.innocean.com/_nuxt/BxrbzMjW.js; reference:ValueError:https://www.innocean.com/_nuxt/N3hJ5TIK.js; reference:ValueError:https://www.innocean.com/_nuxt/DsWGPtKW.js; reference:ValueError:https://www.innocean.com/_nuxt/DGW6gZAH.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/innocean/favicon.png",
+      "source_url": "https://www.innocean.com/android-icon-192x192.png",
+      "source_tag": "icon\" type=\"image/png",
+      "content_type": "image/png",
+      "bytes": 2147,
+      "sha256": "1cbcc07985934d2cc49ed10dc2a402869a4d8985d72d8fb480d7d349b9331d5e",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/innocean/og.webp",
+      "source_url": "https://www.innocean.com/images/innocean_logo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2600,
+      "sha256": "f6a0c566a06ad83496e6e6ffda5656b70f16d902b07523b10c074e70ebffb1dc",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/디자인_에이전시/innocean/banner-1.webp",
+      "source_url": "https://www.innocean.com/_nuxt/company-info-1.DxY8Ltge.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img relative z-10 h-full w-full object-cover figure h-full w-full after:absolute after:left-0 after:top-0 after:h-full after:w-full after:bg-black after:content-[''] div company--background relative article company-bg scradar-init scradar-f",
+      "content_type": "image/webp",
+      "bytes": 70816,
+      "sha256": "48fdb80dbb92d2103a089e3659fda5d823dfe697d2d3dde43616a1ded2a5b045",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/디자인_에이전시/innocean/banner-2.webp",
+      "source_url": "https://www.innocean.com/_nuxt/company-info-2.7MTrfHSA.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-full w-full object-cover opacity-50 figure absolute bottom-0 left-0 right-0 top-0 z-10 h-full w-full bg-black opacity-0 div company--background relative article company-bg scradar-init scradar-full sticky top-0 flex h-screen items-cen",
+      "content_type": "image/webp",
+      "bytes": 73816,
+      "sha256": "0734fd77875f5e2aa8cabad16c9214ef830edbdb05c4de0697aa3472234a1aac",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/innocean/reference-1.webp",
+      "source_url": "https://www.innocean.com/_nuxt/company-info-3.B6l0bv69.jpg",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover opacity-50 figure absolute bottom-0 left-0 right-0 top-0 z-20 h-full w-full bg-black opacity-0 div company--background relative article company-bg scradar-init scradar-full sticky top-0 flex h-screen items-cen",
+      "content_type": "image/webp",
+      "bytes": 82102,
+      "sha256": "878642c47e961d87b808c4611d3c06b125bd40920c3f242afcfdca0a25b174de",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "73251165141bae0ed2d1af5899a7dcc2608940cc2b96162a3a3db3c9705eb2b6"
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/innocean/reference-2.webp",
+      "source_url": "https://www.innocean.com/_nuxt/company-info-1-mo.BnOOkaKi.jpg",
+      "source_tag": "link:prefetch",
+      "context": "prefetch image image/jpeg /_nuxt/company-info-1-mo.BnOOkaKi.jpg",
+      "content_type": "image/webp",
+      "bytes": 63656,
+      "sha256": "b42fe4a10fef37a54da43dc20fd2dcc7d37c97e412566b7a34ddc6a91f6fad0f",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/innocean/reference-3.webp",
+      "source_url": "https://www.innocean.com/_nuxt/company-info-2-mo.Ber5nRqc.jpg",
+      "source_tag": "link:prefetch",
+      "context": "prefetch image image/jpeg /_nuxt/company-info-2-mo.Ber5nRqc.jpg",
+      "content_type": "image/webp",
+      "bytes": 77436,
+      "sha256": "35c17a5fa79709e573a8a1a2ed9770dac618b916ec315bde06a1ebcb153efad6",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

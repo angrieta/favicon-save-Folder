@@ -1,0 +1,69 @@
+{
+  "company": "카카오웹툰",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://webtoon.kakao.com/",
+  "page_url": "https://webtoon.kakao.com/",
+  "page_title": "카카오웹툰 - KAKAO WEBTOON",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://kr-a.kakaopagecdn.com/web/5.12.1/_next/static/css/316f2832ef3dabfa.css; reference:ValueError:https://kr-a.kakaopagecdn.com/web/5.12.1/_next/static/css/ef46db3751d8e999.css; reference:ValueError:https://kr-a.kakaopagecdn.com/web/5.12.1/_next/static/css/06c27d84a2b050d7.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/kakao-webtoon/favicon.png",
+      "source_url": "https://webtoon.kakao.com/ico/icon192_210521.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2114,
+      "sha256": "d004b0a8c97ae516d3d3abb2197b0da03e0a4aa1c39a4c2001992e64736f87a6",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/kakao-webtoon/og.webp",
+      "source_url": "https://webtoon.kakao.com/kakaowebtoon_meta.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6748,
+      "sha256": "1ecc7c2b6c680621c6b2186f3b811b505398ca806f2596104c376b9e42621741",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/kakao-webtoon/reference-1.webp",
+      "source_url": "https://kr-a.kakaopagecdn.com/P/C/4977/c1a/2x/f51abb1b-4d4b-4e96-8ea1-2d26a6297297_f~os.w.png",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-top object-cover object-top h-full div w-full h-full relative flex justify-center w-full h-full relative transform duration-200 ease-in-out scale-95 div h-full absolute -inset-x-11 top-0 pb-14 transition-opacity dura",
+      "content_type": "image/webp",
+      "bytes": 21992,
+      "sha256": "163a68bd31eab90d896e194ac0c239101ab1630c8253476e14a2359610da2748",
+      "width": 710,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/kakao-webtoon/reference-2.webp",
+      "source_url": "https://kr-a.kakaopagecdn.com/P/C/1963/c1a/2x/4adce930-a19e-43d8-be1a-f786c25d3c14_f~os.w.png",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-top object-cover object-top h-full div w-full h-full relative flex justify-center w-full h-full relative transform duration-200 ease-in-out scale-95 div h-full absolute -inset-x-11 top-0 pb-14 transition-opacity dura",
+      "content_type": "image/webp",
+      "bytes": 26216,
+      "sha256": "297239919391df0698db4ef1504dedde967aa1568647bf7e7655a1ce926ec6e0",
+      "width": 710,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/kakao-webtoon/reference-3.webp",
+      "source_url": "https://kr-a.kakaopagecdn.com/P/C/4973/c1a/2x/f81f9abd-9343-42f2-83ff-6155d1955439_f~os.w.png",
+      "source_tag": "img:page-image",
+      "context": "img object-cover object-top object-cover object-top h-full div w-full h-full relative flex justify-center w-full h-full relative transform duration-200 ease-in-out scale-95 div h-full absolute -inset-x-11 top-0 pb-14 transition-opacity dura",
+      "content_type": "image/webp",
+      "bytes": 43788,
+      "sha256": "f87eecadb739c3c160a37dbdcd257c89b77ac1dd50192916ed320b3d4fe2d045",
+      "width": 710,
+      "height": 600
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "company": "조선호텔앤리조트",
+  "category": "항공_여행",
+  "requested_url": "https://www.josunhotel.com/",
+  "page_url": "https://www.josunhotel.com/intro.do",
+  "page_title": "조선호텔앤리조트 공식 사이트 | JOSUN HOTELS & RESORTS Official Website",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/josun-hotels/favicon.ico",
+      "source_url": "https://www.josunhotel.com/static/home/images/ko/pc/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "bf5dd3690441c3a0adfbf84e00e596b477ab492e30d41fa31be493f1fc6e049e",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/josun-hotels/og.webp",
+      "source_url": "https://josunhotel.com/static/home/images/josunhotel_og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6888,
+      "sha256": "fc22bcddf36fd28d1cfc6b28a5876b08e7dfabfc190753c99fa738401bc92176",
+      "width": 842,
+      "height": 595
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/josun-hotels/logo-1.png",
+      "source_url": "https://www.josunhotel.com/static/home/images/josunhotel_og.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 12573,
+      "sha256": "605f8e3a44be1f43c422d32e1b4a570fc0f7c46fe04b49457d991198c5a2a683",
+      "width": 842,
+      "height": 595
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/josun-hotels/reference-1.webp",
+      "source_url": "https://www.josunhotel.com/util/file/download.do?fileSn=2774780&sysCode=JOSUNHOTEL",
+      "source_tag": "img:page-image",
+      "context": "img 웨스틴 조선 서울 웨스틴 클럽 a li hidden ul gnb-thum li",
+      "content_type": "image/webp",
+      "bytes": 39536,
+      "sha256": "3df93c7aa815f10c7a6ae60d7697d4826ca00e773d996c49659c8ba0c2e6cbf7",
+      "width": 525,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/josun-hotels/reference-2.webp",
+      "source_url": "https://www.josunhotel.com/util/file/download.do?fileSn=2775147&sysCode=JOSUNHOTEL",
+      "source_tag": "img:page-image",
+      "context": "img 2026 조선호텔 추석 선물세트 a li hidden ul gnb-thum li",
+      "content_type": "image/webp",
+      "bytes": 33848,
+      "sha256": "de40a8edcaa857ed5330e50ab2b66eb527822fb2e4ef25e88d3a632b8cc74dfe",
+      "width": 525,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/josun-hotels/reference-3.webp",
+      "source_url": "https://www.josunhotel.com/util/file/download.do?fileSn=2774799&sysCode=JOSUNHOTEL",
+      "source_tag": "img:page-image",
+      "context": "img 호텔리어 a li hidden ul gnb-thum li",
+      "content_type": "image/webp",
+      "bytes": 46790,
+      "sha256": "f40772aeffc1f803c4b8e891bca819cd1d32feb7766e99615af1962811de77d5",
+      "width": 525,
+      "height": 451
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company": "케이카",
+  "category": "자동차",
+  "requested_url": "https://www.kcar.com/",
+  "page_url": "https://www.kcar.com/",
+  "page_title": "K Car - 대한민국 No.1 직영 중고차",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.kcar.com/_nuxt/dd7c76b.js; reference:ValueError:https://www.kcar.com/_nuxt/e58763b.js; reference:ValueError:https://www.kcar.com/_nuxt/991eb55.js; reference:ValueError:https://www.kcar.com/_nuxt/b0d78d3.js; reference:ValueError:https://www.kcar.com/_nuxt/f6165a2.js; reference:ValueError:https://www.kcar.com/_nuxt/a7c6c18.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/kcar/favicon.ico",
+      "source_url": "https://www.kcar.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 100627,
+      "sha256": "ddd614ca2f4df1c22cfb449bf3f373b4f4ef6177b809428a1ec9acf6a0e57b3b",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/kcar/og.webp",
+      "source_url": "https://api.kcar.com/BASE/kcar_share_kakao.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2934,
+      "sha256": "26069a4049605a2527e348b9166ed5c084b3d4efbfd4de0ed199bbb6e5e0444a",
+      "width": 400,
+      "height": 210
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/kcar/logo-1.svg",
+      "source_url": "https://www.kcar.com/images/common/footer-logo-grey.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img K Car 로고 p logoTit div copyWrap div footerSection footer footerWrap",
+      "content_type": "image/svg+xml",
+      "bytes": 1953,
+      "sha256": "8cb7a00cf62e69e9e806952e75b542e5c6c06f95382b22461134e36789dc7be9",
+      "width": 92,
+      "height": 23,
+      "source_sha256": "c8d7bc727048d9254148e475a3fca3400e66e9c5c4164eddaf24af6e10ba605d"
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/kcar/banner-1.webp",
+      "source_url": "https://www.kcar.com/images/main/bg-weekly-main.png",
+      "source_tag": "style-background-image",
+      "context": "on~.section3{margin-top:0}.mainContents .section.section3,.mainContents .section.section8{width:100%}.mainContents .section.section8{height:110rem;padding:11rem 0;background-image:url(/images/main/bg-weekly-main.png);background-size:cover;b",
+      "content_type": "image/webp",
+      "bytes": 23184,
+      "sha256": "9132191c2cde5fa18a66a7a3988c1fb33af84438d1429dd415a790dd0d37c83c",
+      "width": 1440,
+      "height": 1100
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/kcar/banner-2.webp",
+      "source_url": "https://www.kcar.com/images/company/bg-hero-intro-01.jpg",
+      "source_tag": "style-background-image",
+      "context": "rgin-top:2rem}.comWrapper .comContainer .comHero{position:relative;padding-top:17.8rem;margin-top:-2rem;width:100%;height:40rem}.comWrapper .comContainer .comHero.intro{background:url(/images/company/bg-hero-intro-01.jpg) no-repeat 50%;back",
+      "content_type": "image/webp",
+      "bytes": 88540,
+      "sha256": "f4d5aaf3c01563d4074ce46640c622ec430230702d6bf6d276f57c7e43f8e4b6",
+      "width": 1800,
+      "height": 375
+    }
+  ]
+}

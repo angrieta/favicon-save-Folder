@@ -1,0 +1,95 @@
+{
+  "company": "Todoist",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.todoist.com/ko",
+  "page_url": "https://www.todoist.com/ko",
+  "page_title": "Todoist | 일과 생활을 관리하기 위한 To Do List",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.todoist.com/w_2624/https%3A%2F%2Fwww.todoist.com%2F_astro%2Fcustomer-logos-bg%402x.D5n6rzYt.png; reference:HTTPError:https://www.todoist.com/w_2240/https%3A%2F%2Fwww.todoist.com%2F_astro%2Fcustomer-logos-bg%402x.D5n6rzYt.png; reference:ValueError:https://www.todoist.com/_server-islands/MessageBanner?e=41FD1CF1DDE8FF736638F1C5SWUCOYk3EyG8GrQJJzFMgX7Br5OUraQ%3D&p=1B04735AEE6347914819C32DSfBeYDc4Ga4rD4MET6YBtda5JvDgksChaFWCkmbkDdOXso5PJNU%2FSorvKNFaL3YeeY2GDz8BYhAewzdpZ320z%2FToYygGyt6gqAEyYOrL7DYpEQZA6AApK%2Fk%2B&s=; reference:ValueError:https://www.todoist.com/_server-islands/MessageBanner?e=0FA6EAF6A5C87B94811A053CKjoi2lEXPBpAs5e4oY3QbPQijvsiAlw%3D&p=5CA14D5EF5A4DC61BC84EDE3noBBLg3AnzfC1%2FU3%2BYgRjhWBvAgsGzuya6DhcDodop6sjnNhH89MzBgElGy8i%2B0vwfWGeXGbHZuOz52lZsWpO6iCN0KkO0pylyDTBkRPJCsQgIsQjDO5HypF&s=; reference:HTTPError:https://www.todoist.com/w_2624/https%3A%2F%2Fwww.todoist.com%2F_astro%2Fai-video-thumbnail.CZxmLcd8.png; reference:HTTPError:https://www.todoist.com/w_2240/https%3A%2F%2Fwww.todoist.com%2F_astro%2Fai-video-thumbnail.CZxmLcd8.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/todoist/favicon.svg",
+      "source_url": "https://www.todoist.com/static/safari-pinned-tab.svg",
+      "source_tag": "mask-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1025,
+      "sha256": "c4ea27c03b776a6a8b7fd6669158ec524af15ad0f4a2c28f0443ae21c9011e60",
+      "width": 290,
+      "height": 290
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/todoist/og.webp",
+      "source_url": "https://www.todoist.com/static/ogimages/ko/og-image-home.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 22474,
+      "sha256": "b6959dfa70a5219faadf24aa35101d3ea9c8e8392705edb4b823098a17a50a5b",
+      "width": 1200,
+      "height": 629
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/todoist/logo-1.png",
+      "source_url": "https://res.cloudinary.com/imagist/image/upload/h_114,e_colorize,o_48,co_rgb:17150f7a/v1715868560/the-verge_gdh1dw.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img the-verge 고객 로고 div logo-container rectangle div publication-quote div quote-grid div _hidden_snh3y_1 _hidden-lt-lg_snh3y_30",
+      "content_type": "image/png",
+      "bytes": 1856,
+      "sha256": "36e319ff109afc7abc4f6a424923738e0b67daf1287c976dab09d67c6a829a04",
+      "width": 656,
+      "height": 114,
+      "source_sha256": "dd71d11e803b65afd4c15dbcefae097461cd5b82a371cfddd5d0f364fed10d43"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/todoist/logo-2.png",
+      "source_url": "https://res.cloudinary.com/imagist/image/upload/h_114,e_colorize,o_48,co_rgb:17150f7a/v1715868560/pc-mag_ak9mna.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img pc-mag 고객 로고 div logo-container square div publication-quote div quote-grid div _hidden_snh3y_1 _hidden-lt-lg_snh3y_30",
+      "content_type": "image/png",
+      "bytes": 928,
+      "sha256": "e3ae782eec297021ef9b43ada1050e43fa44d4d6339cb18ecf90ee74e41df248",
+      "width": 86,
+      "height": 114,
+      "source_sha256": "b318bea8b32eebd4b7740ada065d6c48ba1f6ab4998284b2e0864d381147bcf2"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/todoist/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/imagist/image/fetch/q_auto,f_auto,c_scale,w_1000/https%3A%2F%2Fwww.todoist.com%2F_astro%2Fheaderui.ko.D5XQHuzH.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div image-container div illustration div hero mbe-48 _container_1hbeh_1 _lg_1hbeh_15 div appContainer pageBackground",
+      "content_type": "image/webp",
+      "bytes": 45536,
+      "sha256": "c5622fc54bda4912f07f5ef5488f0ce1088162f21e183add928f359800ab9712",
+      "width": 1000,
+      "height": 933
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/todoist/reference-2.webp",
+      "source_url": "https://res.cloudinary.com/imagist/video/upload/f_auto,q_auto/v1768286267/product-ui/sequences/ko/RambleUISequence-red",
+      "source_tag": "source:page-image",
+      "context": "source video astro-island div video-container div mbs-32",
+      "content_type": "image/webp",
+      "bytes": 29242,
+      "sha256": "498e2c45d44fb189a424281b3c1cce2d0da4c928ef51aa2f70bb5e7c7188deed",
+      "width": 1180,
+      "height": 1100
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/todoist/reference-3.webp",
+      "source_url": "https://res.cloudinary.com/imagist/video/upload/f_auto,q_auto/v1755549297/product-ui/sequences/ko/TodayViewSequence-seaSalt",
+      "source_tag": "source:page-image",
+      "context": "source video astro-island div video-container div mbs-32",
+      "content_type": "image/webp",
+      "bytes": 10616,
+      "sha256": "30853ffd3502e3659dbcb6e9d21c3e52e8cfc8165516cacf56db175fd3177f25",
+      "width": 1180,
+      "height": 1100
+    }
+  ]
+}

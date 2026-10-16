@@ -1,0 +1,112 @@
+{
+  "company": "Activision",
+  "category": "게임_엔터",
+  "requested_url": "https://www.activision.com/",
+  "page_url": "https://www.activision.com/",
+  "page_title": "Activision | Home",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.callofduty.com/cdn/bo6/bo6-gameplay-reveal-trailer-atvi.mp4; reference:ValueError:https://www.activision.com/content/dam/atvi/callofduty/cod-touchui/blog/body/mw4/toggle/MW4-WZ-TOGGLE-TOUT.jpg; reference:ValueError:https://www.activision.com/content/dam/atvi/callofduty/cod-touchui/blog/body/mw4/cheating-ecosystem-ricochet/CHEATING-ECOSYSTEM-RICOCHET-TOUT-V2.jpg; reference:ValueError:https://www.activision.com/content/dam/atvi/callofduty/cod-touchui/blog/body/mw4/story-so-far/MW4-STORYSOFAR-TOUT.jpg; reference:ValueError:https://www.activision.com/content/dam/atvi/activision/atvi-touchui/blog/crash-bandicoot/body/30th-anniversary-2026/CRASH-30TH-BLOG-TOUT.jpg; reference:ValueError:https://www.activision.com/content/dam/atvi/callofduty/cod-touchui/blog/body/mw4/fob/MW4-FOB-TOUT-2.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/activision/favicon.png",
+      "source_url": "https://www.activision.com/content/dam/atvi/global/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1543,
+      "sha256": "1cc173df73bcad9ef81f74a99128aaedbfe062cd5535320f75197f5cedc57783",
+      "width": 181,
+      "height": 181
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/activision/logo-1.svg",
+      "source_url": "https://www.activision.com/content/dam/atvi/callofduty/cod-touchui/blackops7/common/Chimera_Primary_Logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img hero-slide-logo Black Ops 7 Logo div hero-slide-inner-container div hero-slide-content-container div hero-slide isVideo div atvi-hero-inner-container",
+      "content_type": "image/svg+xml",
+      "bytes": 9086,
+      "sha256": "ec1f5366d3a339d0fbe07e862d8c51ce283a302dbc2b7fc214640ace581b6dad",
+      "width": 500,
+      "height": 130,
+      "source_sha256": "ca0492669b29a1ad08d68fe9fd68e2492d53d4a2c5e0bb258253b2eb2f974a0b"
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/activision/logo-2.svg",
+      "source_url": "https://www.activision.com/content/dam/atvi/tony-hawk/chicago/common/PC_LOGO_PRIMARY_NEG_241121.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img hero-slide-logo Tony Hawk Pro Skater 3+4 div hero-slide-inner-container div hero-slide-content-container div hero-slide isVideo div atvi-hero-inner-container",
+      "content_type": "image/svg+xml",
+      "bytes": 19268,
+      "sha256": "a98876b3cc9dad76c6256367e62d509d940325252e943a3ab62ca15d34bcb238",
+      "width": 1865,
+      "height": 793,
+      "source_sha256": "282c6d89f71a0333525577c79eb3d60dbeb4b57c5df8b644cdac24809d423da7"
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/activision/logo-2.svg",
+      "source_url": "https://www.activision.com/content/dam/atvi/tony-hawk/chicago/common/PC_LOGO_PRIMARY_NEG_241121.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img hero-slide-logo Tony Hawk Pro Skater 3+4 div hero-slide-inner-container div hero-slide-content-container div hero-slide isVideo div atvi-hero-inner-container",
+      "content_type": "image/svg+xml",
+      "bytes": 19268,
+      "sha256": "a98876b3cc9dad76c6256367e62d509d940325252e943a3ab62ca15d34bcb238",
+      "width": 1865,
+      "height": 793,
+      "reused_from": "logo",
+      "source_sha256": "282c6d89f71a0333525577c79eb3d60dbeb4b57c5df8b644cdac24809d423da7"
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/activision/banner-2.svg",
+      "source_url": "https://www.activision.com/content/dam/atvi/callofduty/cod-touchui/blackops6/common/CERBERUS_LG_240408_RGB_NEG.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img hero-slide-logo Black Ops 6 Logo div hero-slide-inner-container div hero-slide-content-container div hero-slide isVideo div atvi-hero-inner-container",
+      "content_type": "image/svg+xml",
+      "bytes": 6291,
+      "sha256": "a674b09e083686f64958a78006aa58b8146eb62743e038b416dce44f420d0efc",
+      "width": 1325,
+      "height": 343,
+      "source_sha256": "49cc1efde56ceca3f136b7c1cd357d06da11fc672d8093c89ae6e7e43c10e462"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/activision/reference-1.webp",
+      "source_url": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/home/assets/hero/ATVI_HP_MW4Hero_Desktop.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  hero-bg-img hero-bg-media desktop-only background: url(/content/dam/atvi/activision/atvi-touchui/activision/home/assets/hero/ATVI_HP_MW4Hero_Desktop.webp) center center no-repeat; background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 112142,
+      "sha256": "4d394abb272343d91f538e327b3e36bf602f7b41e64e98bf198373d5fde095f1",
+      "width": 1800,
+      "height": 844
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/activision/reference-2.webp",
+      "source_url": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/activision/home/assets/hero/ATVI_HP_MW4Hero_Mobile.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  hero-bg-img hero-bg-media mobile-only background: url(/content/dam/atvi/activision/atvi-touchui/activision/home/assets/hero/ATVI_HP_MW4Hero_Mobile.webp) center center no-repeat; background-size: cover;",
+      "content_type": "image/webp",
+      "bytes": 64116,
+      "sha256": "f787dd142971973a4d44242896dab35d12b2311945b921b05752eb61c62228ba",
+      "width": 623,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/activision/reference-3.webp",
+      "source_url": "https://www.activision.com/content/dam/atvi/activision/atvi-touchui/blog/callofduty/feature/ATVI-COD-WZ-CALDERA-TOUT.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  blog-img background-image: url(/content/dam/atvi/activision/atvi-touchui/blog/callofduty/feature/ATVI-COD-WZ-CALDERA-TOUT.jpg)",
+      "content_type": "image/webp",
+      "bytes": 217420,
+      "sha256": "a3913587222837fb4b9502dbfe55f10ceb6482dcd61696199c7e033c8b74fca2",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "182a0e2f348e055142bd4d523e72f072cd9ec1732947038e6d35b8ad0f62c808"
+    }
+  ]
+}

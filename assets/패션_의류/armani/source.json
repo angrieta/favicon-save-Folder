@@ -1,0 +1,82 @@
+{
+  "company": "Armani",
+  "category": "패션_의류",
+  "requested_url": "https://www.armani.com",
+  "page_url": "https://www.armani.com/ko-kr/",
+  "page_title": "Armani.com - 공식 웹사이트 | 아르마니 KR",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.armani.com/_locales/general/ko-kr/data.json?v=1790675321272; reference:ValueError:https://www.armani.com/fonts/ax/AX-Light.woff2; reference:ValueError:https://www.armani.com/fonts/ea/EA-Light.woff2; reference:ValueError:https://www.armani.com/fonts/ga/GA-Light.woff2; reference:ValueError:https://www.armani.com/_nuxt/HierarchyPage-YehNtsvc.js; reference:ValueError:https://www.googletagmanager.com/gtm.js?id=GTM-W6J6WHBB",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/armani/favicon.png",
+      "source_url": "https://www.armani.com/apple-touch-icon-180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1612,
+      "sha256": "44fb9916a4e450306f8474d97fd69eb2bba88a20e6fa4531f4ad6286668faf28",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/armani/logo-1.png",
+      "source_url": "https://www.armani.com/logo.png",
+      "source_tag": "json-ld.@graph[4].logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 13090,
+      "sha256": "4106d7ad9e8b4efd169fd4bc7c6de72dee8f03d7bef7ddc5297f94d9b1dc85e0",
+      "width": 1164,
+      "height": 280
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/armani/logo-2.webp",
+      "source_url": "https://assets-cf.armani.com/image/upload/f_auto,q_auto,ar_4:5,w_768,c_lfill/SS27_GA_FASHION_SHOW_WOMAN_SHOW_FRAME_01_LOOK",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture block aspect-4/5 div relative div hover-card-media absolute inset-0 div homepage-image-height relative div brand-media-logo-wrapper relative flex flex-col items-center",
+      "content_type": "image/webp",
+      "bytes": 31810,
+      "sha256": "7a2dfc345760d132ee0fa6e9f46a24e8dfb9c2bce34fe6d94e8a4f98a51df406",
+      "width": 768,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/armani/reference-1.webp",
+      "source_url": "https://assets-cf.armani.com/image/upload/f_auto,q_auto,ar_4:5,w_768,c_lfill/FW26_EA_ADV_GLOBAL_FASHION_M_08_1080x1350",
+      "source_tag": "picture:page-image",
+      "context": "picture block aspect-4/5 div relative div hover-card-media absolute inset-0 div homepage-image-height relative div brand-media-logo-wrapper relative flex flex-col items-center",
+      "content_type": "image/webp",
+      "bytes": 49404,
+      "sha256": "8d18f026f9ff78c047f2902084affa2091878f5e29db31a888d6b8681946f9ad",
+      "width": 768,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/armani/reference-2.webp",
+      "source_url": "https://assets-cf.armani.com/image/upload/f_auto,q_auto,ar_4:5,w_768,c_lfill/FW26-27_EA7_ADV_OTG_9_1080x1350",
+      "source_tag": "picture:page-image",
+      "context": "picture block aspect-4/5 div relative div hover-card-media absolute inset-0 div homepage-image-height relative div brand-media-logo-wrapper relative flex flex-col items-center",
+      "content_type": "image/webp",
+      "bytes": 74792,
+      "sha256": "2093cecabc008e89676d50cb27ce43ab61ba44e63cc6d44e1440bff4fcc4f4cf",
+      "width": 768,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/armani/reference-3.webp",
+      "source_url": "https://assets-cf.armani.com/image/upload/f_auto,q_auto,ar_4:5,w_768,c_lfill/FW26-27_AX_ADV_W_03_1080x1350",
+      "source_tag": "picture:page-image",
+      "context": "picture block aspect-4/5 div relative div hover-card-media absolute inset-0 div homepage-image-height relative div brand-media-logo-wrapper relative flex flex-col items-center",
+      "content_type": "image/webp",
+      "bytes": 41820,
+      "sha256": "f5e30223da4e21cec0f998e0e869b808ce8b281128396506f5c152534ef974ee",
+      "width": 768,
+      "height": 960
+    }
+  ]
+}

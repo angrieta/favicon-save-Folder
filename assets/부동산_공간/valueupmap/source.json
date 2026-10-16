@@ -1,0 +1,33 @@
+{
+  "company": "밸류맵",
+  "category": "부동산_공간",
+  "requested_url": "https://www.valueupmap.com/",
+  "page_url": "https://www.valueupmap.com/",
+  "page_title": "토지건물 거래는 밸류맵",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.valueupmap.com/_next/static/chunks/webpack-11c4a397af1d12cd.js; reference:ValueError:https://www.googletagmanager.com/gtag/js?id=G-JDZHNX28RF",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/valueupmap/favicon.ico",
+      "source_url": "https://www.valueupmap.com/favicons/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "68379046fa8f682fcf40e3835e360b394b34f7222194f32c9818f39a246d645c",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/valueupmap/og.webp",
+      "source_url": "https://cdn.valueupmap.com/common/OG_Image_1200x630.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3566,
+      "sha256": "f3dbd7863c50d99b96f3b65f1ecbbdc5b7a7a934ecc42e70683e38b4a2e3b4af",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

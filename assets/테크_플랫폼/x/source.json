@@ -1,0 +1,33 @@
+{
+  "company": "X",
+  "category": "테크_플랫폼",
+  "requested_url": "https://x.com/",
+  "page_url": "https://x.com/",
+  "page_title": "X. 무슨 일이 일어나고 있나요? / X",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://abs.twimg.com/fonts/subset/Chirp-Regular.c88864db.latin.woff2; reference:ValueError:https://abs.twimg.com/fonts/subset/Chirp-Medium.ca6d679a.latin.woff2; reference:ValueError:https://abs.twimg.com/fonts/subset/Chirp-Bold.d8ac01b2.latin.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/x/favicon.png",
+      "source_url": "https://x.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6237,
+      "sha256": "e614a60fc951191969b431e8dd380aaf30801e74a1cb0da3026d831b0abda838",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/x/og.webp",
+      "source_url": "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8442,
+      "sha256": "00983baeb359340389d9affcfeef77471e53205fac331bb62797f73f58bc4d32",
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}

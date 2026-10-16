@@ -1,0 +1,47 @@
+{
+  "company": "The Guardian",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.theguardian.com/international",
+  "page_url": "https://www.theguardian.com/international",
+  "page_title": "Latest news, sport and opinion from the Guardian",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://assets.guim.co.uk/static/frontend/fonts/guardian-headline/noalts-not-hinted/GHGuardianHeadline-Bold.woff2; reference:ValueError:https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Regular.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/the-guardian/favicon.png",
+      "source_url": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon-512.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 10587,
+      "sha256": "bf2c39a09edeeca36adbd6ff9b223c7a6958847a804e964e883fbea80756e022",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "8a4215eab99d4f8ace2ed558175b6d82d1b294ff12dd633df07dab8e35fa1513"
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/the-guardian/logo-1.webp",
+      "source_url": "https://i.guim.co.uk/img/media/f89491d99d5dfc150e2e38186c8319330b84ecbe/1241_505_4450_3560/master/4450.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "source_tag": "img:semantic-logo",
+      "context": "img dcr-11wzo8p A hand holds up a small silver Mac mini M6 with an Apple logo on top. picture dcr-1b8y165 div dcr-u6xfe3 div dcr-natx2v div dcr-1kd7xsm",
+      "content_type": "image/webp",
+      "bytes": 2316,
+      "sha256": "b13c46d0e574fdad752d5b6c4d7d0b408fa3f5e18d8cb360b9f4b002800873e2",
+      "width": 120,
+      "height": 96
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/the-guardian/logo-2.webp",
+      "source_url": "https://i.guim.co.uk/img/media/8d923f6c4bc1f85ed36638ae242779b53f685b0a/76_0_4169_3335/master/4169.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+      "source_tag": "img:semantic-logo",
+      "context": "img dcr-11wzo8p An Anthropic logo displayed behind a blurred out person speaking on a stage picture dcr-1b8y165 div dcr-u6xfe3 div dcr-natx2v div dcr-1kd7xsm",
+      "content_type": "image/webp",
+      "bytes": 2754,
+      "sha256": "d48d06394a1d20d0ebaef387e9620f8d778261855317c922e052612787f67a9d",
+      "width": 120,
+      "height": 96
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "company": "동서식품",
+  "category": "식품_생활",
+  "requested_url": "https://www.dongsuh.co.kr/",
+  "page_url": "https://www.dongsuh.co.kr/main",
+  "page_title": "동서식품",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.dongsuh.co.kr/lib/videos/hero_main_maxim.mp4; banner:ValueError:https://www.dongsuh.co.kr/lib/videos/hero_main_kanu_iceshot.mp4; banner:ValueError:https://www.dongsuh.co.kr/lib/videos/hero_main_post_granola.mp4; reference:ValueError:https://www.dongsuh.co.kr/lib/videos/hero_main_maxim.mp4; reference:ValueError:https://www.dongsuh.co.kr/lib/videos/hero_main_kanu_iceshot.mp4; reference:ValueError:https://www.dongsuh.co.kr/lib/videos/hero_main_post_granola.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/dongsuh-foods/favicon.png",
+      "source_url": "https://www.dongsuh.co.kr/images/favicon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3037,
+      "sha256": "d608e6ef95685dadf45fe3012db7a81511d39ce1606ae7020eb4abfbddb0163c",
+      "width": 65,
+      "height": 65
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/dongsuh-foods/logo-1.png",
+      "source_url": "https://www.dongsuh.co.kr/images/main/logo_hero_maxim.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img title-img MAXIM div main-hero-title div main-hero-slide swiper-slide div swiper-wrapper div main-hero-carousel swiper",
+      "content_type": "image/png",
+      "bytes": 7600,
+      "sha256": "64d9c0b61c016b85ef99d72611b4eb1625c0406a1dcfc95a8d736a3ada81780a",
+      "width": 616,
+      "height": 401
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/dongsuh-foods/logo-2.png",
+      "source_url": "https://www.dongsuh.co.kr/images/main/logo_hero_kanu.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img title-img KANU div main-hero-title div main-hero-slide swiper-slide div swiper-wrapper div main-hero-carousel swiper",
+      "content_type": "image/png",
+      "bytes": 6443,
+      "sha256": "0039c378bdfce7c2455449bc84b7ef4cdf9319d7ddf00a15f6171be1d6779b45",
+      "width": 616,
+      "height": 401
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/dongsuh-foods/banner-1.webp",
+      "source_url": "https://www.dongsuh.co.kr/images/pages/04_csr/bg_literary_hero.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img div img-wrap a layout-inner div main-csr-slide swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 83710,
+      "sha256": "fb5c3bd5460088c4905e68fb02fc9827623d5822d680d15f0bde00292e0a1e82",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/dongsuh-foods/banner-2.webp",
+      "source_url": "https://www.dongsuh.co.kr/images/pages/04_csr/bg_classic_hero.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img div img-wrap a layout-inner div main-csr-slide swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 61484,
+      "sha256": "bafadf13441c1ebc21919b0568fc11365eebc4acd07f7d3cb0bfc1cc04ecd7d2",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "38ed541c4ac9c40a676802fe1f4a374e5cd12d21a15e95abfa8c06c96ba7a95c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/dongsuh-foods/reference-1.webp",
+      "source_url": "https://www.dongsuh.co.kr/images/common/img_nav_banner_2026.png",
+      "source_tag": "img:page-image",
+      "context": "img 맥심플랜트에서 함께하는 향기로운 만남, 2026 독자 이벤트 a banner-link pc-hidden nav gnbWrap gnb-wrap js-util-nav div header-inner header headerWrap header",
+      "content_type": "image/webp",
+      "bytes": 35680,
+      "sha256": "7cf68b6652010ae15a9f7ebbe6f843479caa274ee0c5ba7008f6c581468113ec",
+      "width": 743,
+      "height": 738
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/dongsuh-foods/reference-2.webp",
+      "source_url": "https://www.dongsuh.co.kr/images/main/logo_hero_post.png",
+      "source_tag": "img:page-image",
+      "context": "img title-img 포스트 div main-hero-title div main-hero-slide swiper-slide div swiper-wrapper div main-hero-carousel swiper",
+      "content_type": "image/webp",
+      "bytes": 522,
+      "sha256": "642ccf14ccb885fc6db0fe6f387d257efb146b0bac1ef71f8094ea3ea58c21ec",
+      "width": 616,
+      "height": 401
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/dongsuh-foods/reference-3.webp",
+      "source_url": "https://www.dongsuh.co.kr/images/main/popup.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img-wrap a div popup-body div mainPopup ds-popup",
+      "content_type": "image/webp",
+      "bytes": 42774,
+      "sha256": "34fceb7b05e38f379613966c14d2146db95563100ab1fb33ff05bf974a6aa6fe",
+      "width": 481,
+      "height": 621
+    }
+  ]
+}

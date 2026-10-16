@@ -11,7 +11,13 @@ Three passes, all of them safe:
 3. Minify SVG graphics: drop comments, editor metadata and redundant space,
    keeping the markup valid.
 
-JPEG and WebP files are left alone because re-encoding them would lose quality.
+JPEG and WebP files are left alone because re-encoding them would lose quality,
+unless --lossy is given:
+
+4. (--lossy) Banners, photos and social images larger than 120KB are scaled to
+   at most 1600px wide and re-encoded in the same format (WebP quality 74,
+   JPEG quality 80). A file is replaced only when it gets at least 15% smaller.
+   Logos and icons are never touched.
 
 Every record that points at a changed file (manifest.json, each company's
 source.json, layouts.json, icons.json, history.json and analysis.json) is
@@ -19,6 +25,7 @@ updated with the new size and hash.
 
     python optimize_assets.py --dry-run
     python optimize_assets.py
+    python optimize_assets.py --lossy
 """
 
 from __future__ import annotations
@@ -85,6 +92,33 @@ def optimize_png(path: Path) -> bytes | None:
     return best
 
 
+LOSSY_NAME = ("banner-", "reference-", "social-", "og.")
+LOSSY_MAX_WIDTH = 1600
+LOSSY_MAX_HEIGHT = 2400
+
+
+def shrink_lossy(path: Path) -> tuple[bytes, int, int] | None:
+    """Return smaller bytes in the same format, with the new size, or None."""
+    original = path.read_bytes()
+    if len(original) < 120_000:
+        return None
+    with Image.open(io.BytesIO(original)) as source:
+        source.load()
+        if getattr(source, "n_frames", 1) > 1:
+            return None
+        image = source.convert("RGB")
+    image.thumbnail((LOSSY_MAX_WIDTH, LOSSY_MAX_HEIGHT), Image.Resampling.LANCZOS)
+    buffer = io.BytesIO()
+    if path.suffix.lower() == ".webp":
+        image.save(buffer, "WEBP", quality=74, method=6)
+    else:
+        image.save(buffer, "JPEG", quality=80, optimize=True, progressive=True)
+    data = buffer.getvalue()
+    if len(data) > len(original) * 0.85:
+        return None
+    return data, image.width, image.height
+
+
 def optimize_svg(path: Path) -> bytes | None:
     original = path.read_bytes()
     text = original.decode("utf-8", "ignore")
@@ -127,7 +161,9 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--skip-fonts", action="store_true", help="Keep SVG web fonts.")
+    parser.add_argument("--lossy", action="store_true", help="Also shrink large banners, photos and social images.")
     args = parser.parse_args()
+    sizes: dict[str, tuple[int, int]] = {}
 
     dropped: set[str] = set()
     changed: dict[str, tuple[str, int]] = {}
@@ -176,6 +212,32 @@ def main() -> int:
     print(f"SVG 정리: {svg_count}개, {svg_saved / 1048576:.1f}MB 절약")
     saved += png_saved + svg_saved
 
+    # Pass 4: lossy shrinking of large photos (opt-in).
+    if args.lossy:
+        lossy_saved = lossy_count = 0
+        candidates = [
+            path for pattern in ("assets/*/*/*.webp", "assets/*/*/*.jpg", "assets/*/*/*.jpeg")
+            for path in sorted(ROOT.glob(pattern)) if path.name.lower().startswith(LOSSY_NAME)
+        ]
+        for path in candidates:
+            relative = path.relative_to(ROOT).as_posix()
+            before = path.stat().st_size
+            try:
+                result = shrink_lossy(path)
+            except Exception:
+                result = None
+            if not result:
+                continue
+            data, width, height = result
+            lossy_saved += before - len(data)
+            lossy_count += 1
+            changed[relative] = (sha256_of(data), len(data))
+            sizes[relative] = (width, height)
+            if not args.dry_run:
+                path.write_bytes(data)
+        print(f"사진·배너 손실 압축: {lossy_count}개, {lossy_saved / 1048576:.1f}MB 절약")
+        saved += lossy_saved
+
     if args.dry_run:
         print(f"합계 {saved / 1048576:.1f}MB 절약 예정 (변경 없음)")
         return 0
@@ -186,8 +248,11 @@ def main() -> int:
         payload = load_json(name)
         if payload is None:
             continue
+        touched = False
         for asset in walk_assets(payload):
             relative = str(asset.get("path", ""))
+            if relative in dropped or relative in changed:
+                touched = True
             if relative in dropped:
                 asset["__drop__"] = True
             elif relative in changed:
@@ -195,15 +260,21 @@ def main() -> int:
                 old_hash = str(asset.get("sha256", ""))
                 if old_hash and old_hash != new_hash:
                     remap[old_hash] = new_hash
+                    # The web page keys favorites by source_sha256 first; keep that key stable.
+                    asset.setdefault("source_sha256", old_hash)
                 asset["sha256"] = new_hash
                 asset["bytes"] = size
+                if relative in sizes:
+                    asset["width"], asset["height"] = sizes[relative]
         if isinstance(payload, list):
             for entry in payload:
                 for key in ("assets", "entries", "icons"):
                     if isinstance(entry.get(key), list):
                         entry[key] = [asset for asset in entry[key] if not asset.pop("__drop__", False)]
             payload = [entry for entry in payload if not entry.pop("__drop__", False)]
-        (ROOT / name).write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+        # Files nothing changed in are left alone (a collector may be writing them).
+        if touched:
+            (ROOT / name).write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
     # Keep each company's own source.json in step with the manifest.
     manifest = load_json("manifest.json") or []

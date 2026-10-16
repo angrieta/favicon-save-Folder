@@ -1,0 +1,69 @@
+{
+  "company": "ABC마트 코리아",
+  "category": "유통_커머스",
+  "requested_url": "https://abcmart.a-rt.com/",
+  "page_url": "https://abcmart.a-rt.com/",
+  "page_title": "온 가족 신발 쇼핑 ABC마트",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1065941077189953&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/abc-mart-korea/favicon.png",
+      "source_url": "https://abcmart.a-rt.com/static/images/favicon/abcmart/favicon_256x256.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 11189,
+      "sha256": "22bccd362dd53d1a4b26e86d6a600f29d776d84ab3d145ee5bb044ed7ce4a096",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/abc-mart-korea/og.webp",
+      "source_url": "https://abcmart.a-rt.com/static/images/favicon/share.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1690,
+      "sha256": "06cd27c4408e5ced98ab9832825a75862aeb2333a931ee5f933696afbef1268e",
+      "width": 1024,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/abc-mart-korea/reference-1.webp",
+      "source_url": "https://image.a-rt.com//art/display/gs/contents/202609/20260916131854600.png?fitting=large%7C1920:600",
+      "source_tag": "img:page-image",
+      "context": "img PC_ABC_????? ????_600_540.png a li swiper-slide ul swiper-wrapper div abc-main-banner-box swiper-container",
+      "content_type": "image/webp",
+      "bytes": 33654,
+      "sha256": "a6dada8ce3a533a91fee17d328465c14b9da5140150fc592929d44da58c468a9",
+      "width": 600,
+      "height": 540
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/abc-mart-korea/reference-2.webp",
+      "source_url": "https://image.a-rt.com//art/display/gs/contents/202609/20260918201138800.png?fitting=large%7C1920:600",
+      "source_tag": "img:page-image",
+      "context": "img PC_ABC_메인 배너_600_540.png a li swiper-slide ul swiper-wrapper div abc-main-banner-box swiper-container",
+      "content_type": "image/webp",
+      "bytes": 46866,
+      "sha256": "572635d099e3ca27f02ac0a636c000b563f40a7fa88dc176fc73de9699495052",
+      "width": 600,
+      "height": 540
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/abc-mart-korea/reference-3.webp",
+      "source_url": "https://image.a-rt.com//art/display/gs/contents/202609/20260918112350184.png?fitting=large%7C1920:600",
+      "source_tag": "img:page-image",
+      "context": "img PC_ABC_메인 배너_600_540.png a li swiper-slide ul swiper-wrapper div abc-main-banner-box swiper-container",
+      "content_type": "image/webp",
+      "bytes": 11326,
+      "sha256": "697026a09ccc7d1b26aa3e5a0bf1addbd627fcfb2fd9354bbf6806c456dfd083",
+      "width": 600,
+      "height": 540
+    }
+  ]
+}

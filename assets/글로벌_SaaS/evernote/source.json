@@ -1,0 +1,60 @@
+{
+  "company": "Evernote",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://evernote.com/ko-kr",
+  "page_url": "https://evernote.com/ko-kr",
+  "page_title": "최고의 노트 필기 앱 - Evernote로 노트 정리하기",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://evernote.com/_next/static/chunks/9872.486e371e2166ad0c.js; reference:ValueError:https://evernote.com/_next/static/chunks/3649.a9ba0cc37a5a0479.js; reference:ValueError:https://evernote.com/_next/static/chunks/8198.bc537995694abb94.js; reference:ValueError:https://evernote.com/_next/static/chunks/8220.fc18237306488fb4.js; reference:ValueError:https://evernote.com/_next/static/chunks/7903.9a46004a2427d7b4.js; reference:ValueError:https://evernote.com/_next/static/chunks/1431.df6f2b1c64750dd8.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/evernote/favicon.png",
+      "source_url": "https://evernote.com/images/evernote-logo-ios.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 25969,
+      "sha256": "80674ed9af1f984e480660c8e5b0d3d9641cca0b25e0a9f34983f7708d649f49",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/evernote/logo-1.svg",
+      "source_url": "https://evernote.com/_next/static/media/evernote-logo.86b04f42.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img dark:hidden Evernote logo a flex w-36 xl:w-44 div flex items-center nav container flex h-16 w-full items-center justify-between px-5 md:h-20 sm:px-0 div border-b border-transparent",
+      "content_type": "image/svg+xml",
+      "bytes": 7574,
+      "sha256": "5651bc59574e57750ef42821eb54793be23c094f7d26f67a78bef3a44de4d08d",
+      "width": 179,
+      "height": 44,
+      "source_sha256": "d353dd1b2f7cb209cad1f32f173a7bbb36052527098fe1fa55449b98aeb66516"
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/evernote/logo-2.svg",
+      "source_url": "https://evernote.com/_next/static/media/evernote-logo-inverted.5d231641.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img hidden dark:block Evernote logo a flex w-36 xl:w-44 div flex items-center nav container flex h-16 w-full items-center justify-between px-5 md:h-20 sm:px-0 div border-b border-transparent",
+      "content_type": "image/svg+xml",
+      "bytes": 7512,
+      "sha256": "1279b1a3ddce4ce86b34375a798e3d9a55d3efc191ce3590c2c938833f078602",
+      "width": 179,
+      "height": 44,
+      "source_sha256": "4fb3a716e12a503e9ce8c44be6e05bb706280434d68c6764109a977d3312f4bf"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/evernote/banner-1.webp",
+      "source_url": "https://images.prismic.io/evernote/aOO1Ap5xUNkB1koW_satellite-transcribe.png?auto=format%2Ccompress&fit=max&w=3840",
+      "source_tag": "img:semantic-banner",
+      "context": "img hidden h-full w-full object-cover md:block figure h-auto w-full pt-20 md:pt-8 div rich-wrapper--interval-section flex w-full flex-col items-center div container pt-20 text-center section section lg:my-10 bg-bg-secondary border border-st",
+      "content_type": "image/webp",
+      "bytes": 75220,
+      "sha256": "d9349edf3138ce2097214799858aa51a63369ca58f12db8cd55148330684d7e0",
+      "width": 1800,
+      "height": 369
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "company": "SSG 랜더스",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.ssglanders.com",
+  "page_url": "https://www.ssglanders.com/main",
+  "page_title": "SSG LANDERS",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://ssg-new-prod.s3.ap-northeast-2.amazonaws.com/erp/headline/a4c1b6cc-9e2a-43ef-bdf5-770aa88ac16f20260923.png; banner:ValueError:https://ssg-new-prod.s3.ap-northeast-2.amazonaws.com/erp/headline/1a1135c5-547e-49ba-9965-2b26d32014d120260923.png; reference:ValueError:https://ssg-new-prod.s3.ap-northeast-2.amazonaws.com/erp/headline/aacfe813-ea14-4b9d-b1c0-7e46ed9bff9f20260925.jpg; reference:ValueError:https://ssg-new-prod.s3.ap-northeast-2.amazonaws.com/erp/headline/1344c1e5-a1c1-432a-b59c-82eb04f699e720260925.png; reference:ValueError:https://ssg-new-prod.s3.ap-northeast-2.amazonaws.com/erp/headline/a4c1b6cc-9e2a-43ef-bdf5-770aa88ac16f20260923.png; reference:ValueError:https://ssg-new-prod.s3.ap-northeast-2.amazonaws.com/erp/headline/1a1135c5-547e-49ba-9965-2b26d32014d120260923.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/ssg-landers/favicon.ico",
+      "source_url": "https://www.ssglanders.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 9662,
+      "sha256": "f6ee6f28f45a232a78621be522d7ec1b732d4d0e1a557f593d19bd2fc0410e64",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/ssg-landers/logo-1.png",
+      "source_url": "https://www.ssglanders.com/img/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div div div nav-top-menu-btns",
+      "content_type": "image/png",
+      "bytes": 4336,
+      "sha256": "15b1800aef2d0a757d0528b68c1e1f81942d17194f1d9a0b7b8f2b018fffd4ba",
+      "width": 112,
+      "height": 51
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/ssg-landers/logo-2.png",
+      "source_url": "https://www.ssglanders.com/img/sponsor/logo/sponsor_family_01.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img SSG a div div slider div",
+      "content_type": "image/png",
+      "bytes": 2281,
+      "sha256": "84c0329cafdc5a0a98451ded94aa1689b1228e974b4a52e25eecd0caf4934a40",
+      "width": 180,
+      "height": 72
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/ssg-landers/banner-1.webp",
+      "source_url": "https://www.ssglanders.com/img/main/main_banner.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div img-top-main  width:100%; background:#d00120 url(/img/main/main_banner.jpg) no-repeat center bottom;\r\n\t\t\theight:560px; display:block",
+      "content_type": "image/webp",
+      "bytes": 36490,
+      "sha256": "0eefb88e02140b6e4f8516d21e2486a09b4c916545c722b159949df07fbe587b",
+      "width": 1800,
+      "height": 525
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/ssg-landers/reference-1.webp",
+      "source_url": "https://img.youtube.com/vi/YscV-0tGTNw/0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div   position:relative; width: 100%;height:226px; text-align:center; overflow: hidden;background-image: url(https://img.youtube.com/vi/YscV-0tGTNw/0.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;",
+      "content_type": "image/webp",
+      "bytes": 22618,
+      "sha256": "7254c53c3983bf1770cb76a7791bdda6a69f03471c4fbd5138ac45eaacbcb2de",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/ssg-landers/reference-2.webp",
+      "source_url": "https://img.youtube.com/vi/Qz0Xa5ApmHI/0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div   position:relative; width: 100%;height:226px; text-align:center; overflow: hidden;background-image: url(https://img.youtube.com/vi/Qz0Xa5ApmHI/0.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;",
+      "content_type": "image/webp",
+      "bytes": 35912,
+      "sha256": "4ea29fbbec04fad3dc4ff6751db8fcaa8f42e0165f2d51322fc8cad1b1e22afe",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/ssg-landers/reference-3.webp",
+      "source_url": "https://img.youtube.com/vi/mRr4_ecbLa4/0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div   position:relative; width: 100%;height:226px; text-align:center; overflow: hidden;background-image: url(https://img.youtube.com/vi/mRr4_ecbLa4/0.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;",
+      "content_type": "image/webp",
+      "bytes": 26890,
+      "sha256": "d2a9a31222c38f9cc83153088d5661838262be9724397555cd534298c7ba4559",
+      "width": 480,
+      "height": 360
+    }
+  ]
+}

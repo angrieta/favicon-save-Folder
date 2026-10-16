@@ -1,0 +1,82 @@
+{
+  "company": "Focal",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.focal.com/",
+  "page_url": "https://www.focal.com/",
+  "page_title": "Top-of-the-range speakers and hi-fi equipment | Focal",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://media.focal-naim.com/focal/file_manager_files/2026/06/video-alta-6a2bc31a770d3.mp4; banner:ValueError:https://media.focal-naim.com/focal/file_manager_files/2026/06/video-alta-mobile-6a2bcb52ec4b5.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/focal/favicon.png",
+      "source_url": "https://www.focal.com/build/assets/apple-touch-icon-d70b7be6.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5642,
+      "sha256": "4b335d41eb1c13332fafaff5f8e914af745b1d9730f3921e78894e9b94bababc",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/focal/banner-1.webp",
+      "source_url": "https://media.focal-naim.com/focal/file_manager_files/2026/08/enceinte-menu-mobile.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img lozad object-cover w-full h-full picture w-full h-64 md:h-96 block group-hover:scale-105 transition duration-500 cursor-pointer div overflow-hidden figure a group",
+      "content_type": "image/webp",
+      "bytes": 42568,
+      "sha256": "0e90f01410482bd414cde6784748149412848a399812f708c621b068570e456c",
+      "width": 796,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/focal/banner-2.webp",
+      "source_url": "https://media.focal-naim.com/focal/file_manager_files/2026/08/casque-menu-mobile.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img lozad object-cover w-full h-full picture w-full h-64 md:h-96 block group-hover:scale-105 transition duration-500 cursor-pointer div overflow-hidden figure a group",
+      "content_type": "image/webp",
+      "bytes": 29516,
+      "sha256": "b6a7a547a7987281acd04212b09e546c9c889f7fe037324dde499b32a3f2df8b",
+      "width": 796,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/focal/reference-1.webp",
+      "source_url": "https://media.focal-naim.com/focal/file_manager_files/autres-pages/recrutement/focal.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture group-hover:scale-105 block transition duration-500 cursor-pointer aspect-[54/47] object-cover div mb-2.5 overflow-hidden hidden lg:block a group max-w-[436px] w-full div grid grid-cols-1 gap-5 lg:grid-cols-4 div lg:flex lg:justify-",
+      "content_type": "image/webp",
+      "bytes": 14492,
+      "sha256": "62f50be9dfbfd3328d46aea48a1830875a80ff151641735471794a3b24e98565",
+      "width": 436,
+      "height": 380
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/focal/reference-2.webp",
+      "source_url": "https://media.focal-naim.com/focal/file_manager_files/2026/07/focal-crafts-v2.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture group-hover:scale-105 block transition duration-500 cursor-pointer aspect-[54/47] object-cover div mb-2.5 overflow-hidden hidden lg:block a group max-w-[436px] w-full div grid grid-cols-1 gap-5 lg:grid-cols-4 div lg:flex lg:justify-",
+      "content_type": "image/webp",
+      "bytes": 22256,
+      "sha256": "9f2d218f893b84c2748bcd79d2368cda70adc2f25fd478605f3bf199c566f8c5",
+      "width": 436,
+      "height": 380
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/focal/reference-3.webp",
+      "source_url": "https://media.focal-naim.com/focal/file_manager_files/menus/lunivers-focal/partenaires.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture group-hover:scale-105 block transition duration-500 cursor-pointer aspect-[54/47] object-cover div mb-2.5 overflow-hidden hidden lg:block a group max-w-[436px] w-full div grid grid-cols-1 gap-5 lg:grid-cols-4 div lg:flex lg:justify-",
+      "content_type": "image/webp",
+      "bytes": 10502,
+      "sha256": "36c3ce5927c7a789bdda28ee058c850906d904e60c8f1940bced5af34e4c0400",
+      "width": 436,
+      "height": 380
+    }
+  ]
+}

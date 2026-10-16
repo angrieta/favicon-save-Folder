@@ -1,0 +1,33 @@
+{
+  "company": "네이버부동산",
+  "category": "부동산_공간",
+  "requested_url": "https://land.naver.com/",
+  "page_url": "https://land.naver.com/",
+  "page_title": "네이버페이 부동산",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://ssl.pstatic.net/static.land/static/service/20260205/fonts/NanumSquareB.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/naver-land/favicon.png",
+      "source_url": "https://land.naver.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 4735,
+      "sha256": "f5ce7ca9cac44ee9a618e08a03cca8c16ea22206182026999dbcce65b7b1339f",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/naver-land/og.webp",
+      "source_url": "https://ssl.pstatic.net/static/m/land/img/og_land.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6240,
+      "sha256": "27f4124080627fe3e0850863b6f62be0135d129a87e049aa47f24b55dff9d5e5",
+      "width": 1125,
+      "height": 570
+    }
+  ]
+}

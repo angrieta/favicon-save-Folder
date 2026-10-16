@@ -1,0 +1,118 @@
+{
+  "company": "지오다노",
+  "category": "패션_의류",
+  "requested_url": "https://www.giordano.co.kr",
+  "page_url": "https://www.giordano.co.kr/",
+  "page_title": "지오다노 - 공식 웹사이트",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=365043167328438&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/giordano-korea/favicon.ico",
+      "source_url": "https://www.giordano.co.kr/_gio_on/_skin/icon/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 2238,
+      "sha256": "173e2ce27038ca178dc23cc5ca70990a95046b21ea0929b21539db3f2edd1d65",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/giordano-korea/og.webp",
+      "source_url": "https://www.giordano.co.kr/_data/banner/seo/2e7474e830aef896e6ec9f8699831bd2.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1192,
+      "sha256": "4adea5de78a50066276613fba870d8dd3b7a8bee0c5c6c4a81588a2325113048",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/giordano-korea/og.webp",
+      "source_url": "https://www.giordano.co.kr/_data/banner/seo/2e7474e830aef896e6ec9f8699831bd2.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 1192,
+      "sha256": "4adea5de78a50066276613fba870d8dd3b7a8bee0c5c6c4a81588a2325113048",
+      "width": 200,
+      "height": 200,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/giordano-korea/logo-2.png",
+      "source_url": "https://www.giordano.co.kr/_skin/js/yt_logo_mono_dark.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div foryoutube div embed-container div swiper-slide",
+      "content_type": "image/png",
+      "bytes": 6632,
+      "sha256": "7a4565b521b40ca3f73ff95f3faa3478467344a36e52bc104239a858d99da5dd",
+      "width": 794,
+      "height": 178
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/giordano-korea/banner-1.webp",
+      "source_url": "https://www.giordano.co.kr/_data/banner/b2dc9657a6614ae7267ab8699151a0d0.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a div swiper-slide div swiper-wrapper main_banner_gio_4_pc div swiper-container swiper_visual",
+      "content_type": "image/webp",
+      "bytes": 56338,
+      "sha256": "4be2f15463d75ebf1e0d0107a13a8a08d7175eaca3d39ce0f1817898de4a2f8a",
+      "width": 1800,
+      "height": 756
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/giordano-korea/banner-2.webp",
+      "source_url": "https://www.giordano.co.kr/_data/banner/f37e53926d096dc3695377bd91de7b30.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a div swiper-slide div swiper-wrapper main_banner_gio_4_pc div swiper-container swiper_visual",
+      "content_type": "image/webp",
+      "bytes": 72938,
+      "sha256": "af9cf7412b8e47b70e1717f3e0ca31b9d2e8a18a5c2e373eaf2ff9bfb3ca2c2b",
+      "width": 1800,
+      "height": 756
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/giordano-korea/reference-1.webp",
+      "source_url": "https://www.giordano.co.kr/_data/banner/88a0ef5e72d2b45cc10ee7bce71e7d06.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a div swiper-slide div swiper-wrapper main_banner_gio_4_pc div swiper-container swiper_visual",
+      "content_type": "image/webp",
+      "bytes": 49766,
+      "sha256": "b7d5675f4ccde4456d6b10240a64155e8bb2301d1be241f702d2d79f6c8d25f9",
+      "width": 1800,
+      "height": 756
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/giordano-korea/reference-2.webp",
+      "source_url": "https://www.giordano.co.kr/_data/banner/4d6532032f8b1aa5f238345b44c4ab7d.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a div swiper-slide div swiper-wrapper main_banner_gio_4_pc div swiper-container swiper_visual",
+      "content_type": "image/webp",
+      "bytes": 55560,
+      "sha256": "e33dec5838888fcce007fe321ffebbc79fd10e0714f047f74a39ca5c8cc714c3",
+      "width": 1800,
+      "height": 756
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/giordano-korea/reference-3.webp",
+      "source_url": "https://www.giordano.co.kr/_data/banner/216364596c5fa792b720d4d5729187bf.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a div swiper-slide div swiper-wrapper main_banner_gio_4_pc div swiper-container swiper_visual",
+      "content_type": "image/webp",
+      "bytes": 50614,
+      "sha256": "35f83e3d96e88772917682abba13ad984ae76327672686669f032d02c252bb97",
+      "width": 1800,
+      "height": 756
+    }
+  ]
+}

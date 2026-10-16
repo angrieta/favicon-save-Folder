@@ -1,0 +1,94 @@
+{
+  "company": "피크닉",
+  "category": "문화_공공",
+  "requested_url": "https://piknic.kr/",
+  "page_url": "https://piknic.kr:443/home/",
+  "page_title": "피크닉 piknic",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/piknic/favicon.png",
+      "source_url": "https://piknic.kr:443/upload/site_config/favicon/69f15168d541d.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 19671,
+      "sha256": "28a2d951db1cf226f46cdb650302109706d879f5b84f37a3fb1c2293789f7390",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/piknic/logo-1.svg",
+      "source_url": "https://piknic.kr:443/home/img/logo_sm.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a header__logo div header__wrap header body",
+      "content_type": "image/svg+xml",
+      "bytes": 2564,
+      "sha256": "f09149e8117e3b40be50b34f6b4c73f6743a4bf2470dfcc9e73f4636490ec42e",
+      "width": 89,
+      "height": 31
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/piknic/banner-1.webp",
+      "source_url": "https://piknic.kr:443/upload/IMAGE/MAIN/20260929/6abb55765fbdb.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a div swiper-slide div swiper-wrapper div visual_slide idx__s1_slide swiper",
+      "content_type": "image/webp",
+      "bytes": 184228,
+      "sha256": "0a6b6d138674a8796e2e0795aa121f98259318ee82a7606131cdf11f0ac38d23",
+      "width": 1800,
+      "height": 805
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/piknic/banner-2.webp",
+      "source_url": "https://piknic.kr:443/upload/IMAGE/MAIN/20260910/6aa25db9052f3.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a div swiper-slide div swiper-wrapper div visual_slide idx__s1_slide swiper",
+      "content_type": "image/webp",
+      "bytes": 692250,
+      "sha256": "e21df39ac8f060870c9a767a0d71d34836801e9ee7843aac7da1e553c96a35b8",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/piknic/reference-1.webp",
+      "source_url": "https://piknic.kr:443/upload/CATEGORY3/EXHIBITION/20260929/6abb5789e6cd8.jpg",
+      "source_tag": "img:page-image",
+      "context": "img figure a li ul idx__s2_contents_container",
+      "content_type": "image/webp",
+      "bytes": 144342,
+      "sha256": "9ea696728076457f9794137f3ef95c310bd833b06ce12536bf6b81ac7f5ac92c",
+      "width": 923,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/piknic/reference-2.webp",
+      "source_url": "https://piknic.kr:443/upload/CATEGORY3/PRODUCT/20260720/6a5d833412e3c.jpg",
+      "source_tag": "img:page-image",
+      "context": "img figure a li ul idx__s2_contents_container",
+      "content_type": "image/webp",
+      "bytes": 174708,
+      "sha256": "814c935ba8567876c88831a4379dbb284b8c505081d3b87957138e20275448d3",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/piknic/reference-3.webp",
+      "source_url": "https://piknic.kr:443/upload/CATEGORY3/SHOP/20260320/69bcb73574174.jpg",
+      "source_tag": "img:page-image",
+      "context": "img figure a li ul idx__s2_contents_container",
+      "content_type": "image/webp",
+      "bytes": 183188,
+      "sha256": "b9bef9712dc42c8de60fad72bd0ab9167a1cc1de12d9bdd23138bf68545463e3",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

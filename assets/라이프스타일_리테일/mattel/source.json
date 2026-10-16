@@ -1,0 +1,57 @@
+{
+  "company": "Mattel",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://shop.mattel.com/",
+  "page_url": "https://shop.mattel.com/",
+  "page_title": "Mattel Shop: Toys for Kids, Collectors & Fans of All Ages",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://shop.mattel.com/c_scale/f_auto/q_auto:low/shop-contentstack/blt8f640d5ffdce5ad0/64cd793b1072f039bf3f1a11/Nav_Logos_Little-People@2x.jpg; reference:HTTPError:https://shop.mattel.com/c_scale/f_auto/q_auto:low/shop-contentstack/bltfdddacf2e67348eb/695c22aa173abee589bd9a10/JW_LogoUpdates_Flyout_1092x546.png; reference:HTTPError:https://shop.mattel.com/c_scale/f_auto/q_auto:low/shop-contentstack/bltf4c346d59a2e5251/6a4278761b0efa6d19d8a637/ProjectConvoy_LogoFlyout_1092x546.png; reference:HTTPError:https://shop.mattel.com/c_scale/f_auto/q_auto:low/shop-contentstack/bltf480cb087018c241/619d9c90d3b0c82a791e5c32/Mattel_Shopper_BLP_MOTU_1-Header-logo_D.png; reference:HTTPError:https://shop.mattel.com/c_scale/f_auto/q_auto:low/shop-contentstack/blta753f177a4c5ae9d/64cd7932c5b4be2cbca6ec21/Nav_Logos_UNO@2x.jpg; reference:HTTPError:https://shop.mattel.com/c_scale/f_auto/q_auto:low/shop-contentstack/blt2911390b5e1d17a9/64cd793288b3c94a0be77147/Nav_Logos_WWE@2x.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/mattel/favicon.png",
+      "source_url": "https://shop.mattel.com/cdn/shop/t/326/assets/apple-touch-icon.png?v=26151796583551690701787714018",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 27392,
+      "sha256": "2fa3c622053d209ddc5d9c00a54850f9f97db77c227a81ccc5120e711d258c1a",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/mattel/og.webp",
+      "source_url": "https://shop.mattel.com/cdn/shop/files/Mattel-Logo.jpg?v=1635791583",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9540,
+      "sha256": "77b1528044803db492a782d5024dba1940f5fb5ecf3cb389e8b1b2f0e60ac9a0",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/mattel/logo-1.webp",
+      "source_url": "https://images.mattel.net/image/upload/w_180,c_scale/f_auto/q_auto:low/shop-contentstack/blt5f5617f71081b3e5/64cd793b1072f02a273f1a15/Nav_Logos_Hot-Wheels@2x.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header-nav-brand-list__item-image div ir a header-nav-brand-list__item-link Hot Wheels  li header-nav-brand-list__item ul header-nav-brand-list",
+      "content_type": "image/webp",
+      "bytes": 2988,
+      "sha256": "19794721e94bbf439f25f5ad550cda10b4324be066535ed1adc2dfbd0cb55a19",
+      "width": 180,
+      "height": 92
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/mattel/logo-2.webp",
+      "source_url": "https://images.mattel.net/image/upload/w_180,c_scale/f_auto/q_auto:low/shop-contentstack/blta28d8972064872fe/65ea2a70aac51db9df8fa174/Shopper_HP_Nav_Logos_Barbie.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header-nav-brand-list__item-image div ir a header-nav-brand-list__item-link Barbie li header-nav-brand-list__item ul header-nav-brand-list",
+      "content_type": "image/webp",
+      "bytes": 3126,
+      "sha256": "bd4874b5d8e0d3d764dad0b370fc8028aa568135ddbf35a9ffebbebd1705e35d",
+      "width": 180,
+      "height": 93
+    }
+  ]
+}

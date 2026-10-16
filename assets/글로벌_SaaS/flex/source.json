@@ -1,0 +1,58 @@
+{
+  "company": "플렉스",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://flex.team/",
+  "page_url": "https://flex.team/",
+  "page_title": "flex – Relations Driven AX",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://static.flex.team/fonts/pretendard-variable/woff2-dynamic-subset/PretendardVariable.subset.91.woff2; reference:ValueError:https://static.flex.team/fonts/pretendard-variable/woff2-dynamic-subset/PretendardVariable.subset.90.woff2; reference:ValueError:https://static.flex.team/fonts/pretendard-variable/woff2-dynamic-subset/PretendardVariable.subset.88.woff2; reference:ValueError:https://static.flex.team/fonts/pretendard-variable/woff2-dynamic-subset/PretendardVariable.subset.89.woff2; reference:ValueError:https://flex.team/landing-static/_next/static/css/2a07e24d2ae706fb.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/flex/favicon.png",
+      "source_url": "https://static.flex.team/v2/shared/favicon/android-chrome-512x512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 10519,
+      "sha256": "25fef97c95c6b9c894232372badcad4f9142b45169ca7fcb39a714ca3337f33d",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/flex/og.webp",
+      "source_url": "https://static.flex.team/v2/landing-2024/og/main.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3318,
+      "sha256": "6353fda884481ff9cdfc972b7c50656bd27063b9bacada031eba0eef1aec6fab",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/flex/logo-1.webp",
+      "source_url": "https://static.flex.team/v2/shared/profile.jpg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 10224,
+      "sha256": "d7b9498bd84f9403c9f5e5b8843e7b2e85f4be272c1a4f06877a9c1ef83380f6",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/flex/reference-1.webp",
+      "source_url": "https://static.flex.team/v2/landing-2024/main-2026/hero-cover-bg-260617-2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img l2024-c-iQBMDO div l2024-c-ZYoQs section l2024-c-fixGjY div l2024-c-cgnmEF l2024_dark div l2024-c-bZwyio l2024-c-geWNhz",
+      "content_type": "image/webp",
+      "bytes": 74448,
+      "sha256": "956442dc3df834ea2c1fb15cfa65660b0421d08310057e68ca633395a6648c1e",
+      "width": 1350,
+      "height": 1350,
+      "source_sha256": "a17b27d5c0c2be839565dbc120925908f68085716d73efd91468eea1a0b366bb"
+    }
+  ]
+}

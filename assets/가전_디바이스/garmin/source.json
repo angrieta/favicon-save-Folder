@@ -1,0 +1,33 @@
+{
+  "company": "Garmin",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.garmin.com/ko-KR/",
+  "page_url": "https://www.garmin.com/ko-KR/",
+  "page_title": "Garmin 한국",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.garmin.com/js/g-heading-4.12.0.js; reference:ValueError:https://www.garmin.com/js/Heading-4.12.0.js; reference:ValueError:https://www.garmin.com/js/Gradient-4.12.0.js; reference:ValueError:https://www.garmin.com/js/Tile-4.12.0.js; reference:ValueError:https://www.garmin.com/js/BreadcrumbsContainer-4.12.0.js; reference:ValueError:https://www.garmin.com/js/Link-4.12.0.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/garmin/favicon.png",
+      "source_url": "https://share-assets.fe.garmin.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2216,
+      "sha256": "137c08eab3ba63cdd89a7417bc36e2c743273d1dd67bdd178c514e281384d218",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/garmin/og.webp",
+      "source_url": "https://res.garmin.com/asia/gdc/img/og_garmin_logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4174,
+      "sha256": "256a852dde969359d883a747e97b121620a9e8dd656653c92d62623822217542",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

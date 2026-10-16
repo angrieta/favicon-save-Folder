@@ -1,0 +1,85 @@
+{
+  "company": "Smythson",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.smythson.com/",
+  "page_url": "https://www.smythson.com/en-int",
+  "page_title": "Luxury Leather Goods, Stationery, Diaries & Bags | Smythson International",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.smythson.com/cdn/shop/videos/c/vp/229e1c521aaf43c98c0b912644d5cdca/229e1c521aaf43c98c0b912644d5cdca.HD-1080p-7.2Mbps-93770820.mp4?v=0; banner:ValueError:https://www.smythson.com/cdn/shop/videos/c/vp/229e1c521aaf43c98c0b912644d5cdca/229e1c521aaf43c98c0b912644d5cdca.m3u8?v=0",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/smythson/favicon.png",
+      "source_url": "https://www.smythson.com/cdn/shop/files/favicon-196x196.webp?crop=center&height=194&v=1783065250&width=194",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 8547,
+      "sha256": "99fe65b52d55d79ec7598e32678c543a766a7dd19c465524c007a87500fdc4ca",
+      "width": 194,
+      "height": 194
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/smythson/banner-1.webp",
+      "source_url": "https://www.smythson.com/cdn/shop/files/Desktop-Diary-Static-Hero.jpg?v=1788526370&width=4200",
+      "source_tag": "img:semantic-banner",
+      "context": "img rsp-Image_Image div rsp-Image div sec-Hero_Image sec-Hero_Image-desktop div sec-Hero_MediaContainer div sec-Hero sec-Hero-light sec-Hero-center sec-Hero-bottom sec-Hero-mobileCenter sec-Hero-mobileBottom sec-Hero-full sec-Hero-desktopSe",
+      "content_type": "image/webp",
+      "bytes": 81888,
+      "sha256": "61d663c32d61bc64f0673d0b77cbae6f3d29e217902f55d7a62da0741024fbdc",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "60afa6cc1f6e1b04d3bd39ae16682c3a6381c8514242d20a289227e95c13f7e3"
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/smythson/banner-2.webp",
+      "source_url": "https://www.smythson.com/cdn/shop/files/Envelope-pouch.jpg?v=1790165456&width=4200",
+      "source_tag": "img:semantic-banner",
+      "context": "img rsp-Image_Image div rsp-Image div sec-Hero_Image sec-Hero_Image-desktop div sec-Hero_MediaContainer div sec-Hero sec-Hero-dark sec-Hero-center sec-Hero-bottom sec-Hero-mobileCenter sec-Hero-mobileBottom sec-Hero-full sec-Hero-mobileCont",
+      "content_type": "image/webp",
+      "bytes": 75046,
+      "sha256": "f31c7d175b23b0917c8d865b1ba2882adca6e009bc1f65ed562cffb26669480e",
+      "width": 1600,
+      "height": 762,
+      "source_sha256": "8c1101b247a422b2f180a86b6c789c407760d8c0bac92d342ec95f2d6a5b818d"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/smythson/reference-1.webp",
+      "source_url": "https://www.smythson.com/cdn/shop/files/diaries-books_copy_22.webp?v=1787213294&width=2100",
+      "source_tag": "img:page-image",
+      "context": "img rsp-Image_Image div rsp-Image div blk-CtaOver_Image div blk-CtaOver_MediaContainer div blk-CtaOver blk-CtaOver-dark blk-CtaOver-bottom util-FauxLink",
+      "content_type": "image/webp",
+      "bytes": 62658,
+      "sha256": "4ecb580deaf004de3d6c0ebce402803d0c2f3455a5d0b12596f7ef3423d69cbb",
+      "width": 964,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/smythson/reference-2.webp",
+      "source_url": "https://www.smythson.com/cdn/shop/files/2_copy.webp?v=1787212218&width=2100",
+      "source_tag": "img:page-image",
+      "context": "img rsp-Image_Image div rsp-Image div blk-CtaOver_Image div blk-CtaOver_MediaContainer div blk-CtaOver blk-CtaOver-dark blk-CtaOver-bottom util-FauxLink",
+      "content_type": "image/webp",
+      "bytes": 103824,
+      "sha256": "183d33396b39794276556e7ef8a93e2759f39df7a34645084d34383d835388e6",
+      "width": 964,
+      "height": 1350,
+      "source_sha256": "86092cf6b95a6799de40f12981258b5e91b2586021ab94e6621beeab8d042be0"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/smythson/reference-3.webp",
+      "source_url": "https://www.smythson.com/cdn/shop/files/33_copy.webp?v=1787213359&width=2100",
+      "source_tag": "img:page-image",
+      "context": "img rsp-Image_Image div rsp-Image div blk-CtaOver_Image div blk-CtaOver_MediaContainer div blk-CtaOver blk-CtaOver-dark blk-CtaOver-bottom util-FauxLink",
+      "content_type": "image/webp",
+      "bytes": 89740,
+      "sha256": "2bf8187d913910e2c06d8cbf1bf903b3d1a2e34c8c8f712b41cde1eeb07f9e24",
+      "width": 964,
+      "height": 1350
+    }
+  ]
+}

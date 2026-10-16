@@ -1,0 +1,57 @@
+{
+  "company": "Silversea",
+  "category": "항공_여행",
+  "requested_url": "https://www.silversea.com",
+  "page_url": "https://www.silversea.com/",
+  "page_title": "Experience All-Inclusive Luxury Cruises | Silversea",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.silversea.com/6912; reference:HTTPError:https://www.silversea.com/8866; reference:HTTPError:https://www.silversea.com/6480; reference:HTTPError:https://www.silversea.com/3014; reference:ValueError:https://www.silversea.com/locale-en-messages-459524009172e820b6c5.js; reference:ValueError:https://api2.digital.silversea.com/ViewerGeoLocation",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/silversea/favicon.png",
+      "source_url": "https://www.silversea.com/favicons/icon-512x512.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 17339,
+      "sha256": "c6ea80d90980d34ee85603714874d7bcfb2963f2f2c61a7e44fc86b0ca0429b2",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/silversea/og.webp",
+      "source_url": "https://cdn.sanity.io/images/rd0y3pad/production/95bca9d1bc1de687b4fd5bc80466a430f087cb0a-5963x3766.jpg?rect=0,318,5963,3131&w=1200&h=630&q=75&auto=format",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 137418,
+      "sha256": "a67f7b67001337556d384e11c002cd329ac60e31ab3899ccd72f959a155c9a2a",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/silversea/logo-1.png",
+      "source_url": "https://www.silversea.com/silversea-logo-new.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 3081,
+      "sha256": "a9ab3b230210ae055953e3703636b7165d620190be38ab4431c079c689ebb39e",
+      "width": 600,
+      "height": 67
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/silversea/logo-2.svg",
+      "source_url": "https://www.silversea.com/brand-logos/Royal_Caribbean_Group_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img BrandLogosFooter-module--logo-big--72fbb Royal Caribbean Group a BrandLogosFooter-module--logo-big-container--46c69 div BrandLogosFooter-module--logo-big-with-row--507da div SectionContainer-module_section-container__bNmH8 div BrandLogo",
+      "content_type": "image/svg+xml",
+      "bytes": 6279,
+      "sha256": "57563041ce037d5d0eec1a4a5a097d638fe8654b0d7efeb1011ec779e6a6a9ab",
+      "width": 90,
+      "height": 33
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "company": "Fairmont",
+  "category": "항공_여행",
+  "requested_url": "https://www.fairmont.com",
+  "page_url": "https://www.fairmont.com/select-country.html",
+  "page_title": "Country selector",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://static-p46175-e229011.adobeaemcloud.com/f7e5282a66a376afe57ccd5e4042ffc1a9ac3ede17f5d2a35d6db647c059db68/theme.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/fairmont/favicon.png",
+      "source_url": "https://www.fairmont.com/content/dam/technical-folder/seo/fairmont/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3375,
+      "sha256": "b0c4b610c633e47ccd35da236721003030253e5580c708d079adad166275208d",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/fairmont/logo-1.svg",
+      "source_url": "https://www.fairmont.com/content/dam/brands/fai/global-marketing/brand-identity/logos/full-monochrome.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Fairmont div flag-accor-logo div ace-country-flag div country-language-selector aem-GridColumn--lg--12 aem-GridColumn aem-GridColumn--sm--4 aem-GridColumn--xl--12 aem-GridColumn--default--12 aem-GridColumn--xxl--12 aem-GridColumn--md--1",
+      "content_type": "image/svg+xml",
+      "bytes": 3831,
+      "sha256": "d9b9cb9cdc8c7bea8728bf04e573c4d5fd68b0e67f43e83c15f776134499303d",
+      "width": 70,
+      "height": 40
+    }
+  ]
+}

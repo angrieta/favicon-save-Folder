@@ -1,0 +1,105 @@
+{
+  "company": "LIFX",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.lifx.com",
+  "page_url": "https://www.lifx.com/",
+  "page_title": "LIFX Smart Lighting | Wi-Fi Bulbs, No Hub Required",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://www.lifx.com/cdn/shop/t/1/assets/LIFX-Logo-Horizontal-White.png?v=13811; banner:ValueError:https://www.lifx.com/cdn/shop/videos/c/vp/3a6dd4890069494c9c2f2600963d99bf/3a6dd4890069494c9c2f2600963d99bf.HD-1080p-2.5Mbps-85779385.mp4?v=0; banner:ValueError:https://www.lifx.com/cdn/shop/videos/c/vp/b8eb210562f448658c76660ac9c0e58b/b8eb210562f448658c76660ac9c0e58b.HD-1080p-7.2Mbps-93464741.mp4?v=0; banner:ValueError:https://www.lifx.com/cdn/shop/videos/c/vp/6934c29a8fbd4854bc349d1398f4db6e/6934c29a8fbd4854bc349d1398f4db6e.HD-1080p-7.2Mbps-91989432.mp4?v=0; reference:ValueError:https://www.lifx.com/cdn/shop/videos/c/vp/83cd6765c7774e9ab34ec87ab27e8f9a/83cd6765c7774e9ab34ec87ab27e8f9a.HD-1080p-2.5Mbps-95860147.mp4?v=0",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/lifx/favicon.png",
+      "source_url": "https://www.lifx.com/cdn/shop/files/lifx.png?crop=center&height=32&v=1772566359&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2214,
+      "sha256": "0f769e29d0c97f0d835aad8400939443c69ef901e6c1cc1d5b54057905ce8e12",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/lifx/og.webp",
+      "source_url": "http://www.lifx.com/cdn/shop/files/LIFX_BrandImage_T1-logo.jpg?v=1773807872",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 27128,
+      "sha256": "901490dbeb39ff72ee2bcdffe79c42c2e31cdcbc6a3674ee078b49e39f0b73bd",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/lifx/logo-1.png",
+      "source_url": "https://www.lifx.com/cdn/shop/files/LIFX-Logo-Horizontal-White.png?v=1743749130&width=300",
+      "source_tag": "img:semantic-logo",
+      "context": "img LIFX - Smart Lighting a mm__logo LIFX - Smart Lighting div mm__bar-inner div mm__bar div shopify-section-sections--18156049104948__lifx_mega_menu_jTjQqC mm",
+      "content_type": "image/png",
+      "bytes": 7521,
+      "sha256": "4abb951f127ac59414cc506e51c55b3a9c4f9bdddbe95f66915d9956357ff5f1",
+      "width": 300,
+      "height": 95
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/lifx/logo-2.webp",
+      "source_url": "https://www.lifx.com/cdn/shop/files/logo-alexa.png?v=1789527380&width=160",
+      "source_tag": "img:semantic-logo",
+      "context": "img span mm__tile-logo a mm__tile mm__tile--logo div mm__grid mm__grid--4 div mm__view",
+      "content_type": "image/webp",
+      "bytes": 3398,
+      "sha256": "5a767b727a5e9cf6556dc4fb787b19e2d2ad3b3a2013e0101e40c25759ff5c55",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/lifx/banner-1.webp",
+      "source_url": "https://www.lifx.com/cdn/shop/files/LIFX_Mirror_Lifestyle_Entry-Modern_Pose-check.png?v=1779431856&width=800",
+      "source_tag": "img:semantic-banner",
+      "context": "img lifx-phv2__bleed-img div lifx-phv2__bleed section shopify-section-template--18156048154676__lifx_product_hero_cinemascope_AWWYp7 lifx-phv2 link section shopify-section-template--18156048154676__lifx_product_hero_cinemascope_AWWYp7 shopi",
+      "content_type": "image/webp",
+      "bytes": 45492,
+      "sha256": "94c6d9528ade9585ab02d70e534906104bffa4b79a52f70f3357715b82d0eaf8",
+      "width": 800,
+      "height": 548
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/lifx/reference-1.webp",
+      "source_url": "https://www.lifx.com/cdn/shop/files/ED-PermOutdoor-String-200ft_LIFX_Packs_20261.png?v=1787626315&width=600",
+      "source_tag": "inline-background-image",
+      "context": "span  mm__ptile-thumb background-image:url('//www.lifx.com/cdn/shop/files/ED-PermOutdoor-String-200ft_LIFX_Packs_20261.png?v=1787626315&width=600')",
+      "content_type": "image/webp",
+      "bytes": 29028,
+      "sha256": "133c6099ec39f679e6275ed4c1519665474b457f99e1e998762af9d3ef2b9627",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/lifx/reference-2.webp",
+      "source_url": "https://www.lifx.com/cdn/shop/files/Ceiling-13-White_LIFX_Packs_2026.jpg?v=1784250855&width=600",
+      "source_tag": "inline-background-image",
+      "context": "span  mm__ptile-thumb background-image:url('//www.lifx.com/cdn/shop/files/Ceiling-13-White_LIFX_Packs_2026.jpg?v=1784250855&width=600')",
+      "content_type": "image/webp",
+      "bytes": 16810,
+      "sha256": "e40a3e2b4cc56452e3e88758ad8f9e7c3046f5dc31d9063cba0141fce27d3b82",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/lifx/reference-3.webp",
+      "source_url": "https://www.lifx.com/cdn/shop/files/LIFX_Mirror_US_Gallery_03.png?v=1775784254&width=600",
+      "source_tag": "inline-background-image",
+      "context": "span  mm__ptile-thumb background-image:url('//www.lifx.com/cdn/shop/files/LIFX_Mirror_US_Gallery_03.png?v=1775784254&width=600')",
+      "content_type": "image/webp",
+      "bytes": 21554,
+      "sha256": "17d25fd8fc0b8aa52fa4e071931b62cdc80c62c4f43a3ff8943e8e5432495b1c",
+      "width": 600,
+      "height": 600
+    }
+  ]
+}

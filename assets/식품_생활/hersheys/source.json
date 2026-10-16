@@ -1,0 +1,118 @@
+{
+  "company": "Hershey's",
+  "category": "식품_생활",
+  "requested_url": "https://www.hersheyland.com/",
+  "page_url": "https://www.hersheyland.com/",
+  "page_title": "Hersheyland | Explore Hershey Products, Recipes, Crafts & More",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.hersheyland.com/etc.clientlibs/hershey/clientlibs/custom-fonts/clientlib-tt/resources/subset-TTNormsPro-Normal.woff2; reference:ValueError:https://www.hersheyland.com/etc.clientlibs/hershey/clientlibs/clientlib-font-awesome/resources/fonts/fa-solid-900.woff2; reference:ValueError:https://www.hersheyland.com/etc.clientlibs/hershey/clientlibs/custom-fonts/clientlib-gz/resources/subset-Gazpacho-Black.woff2; reference:ValueError:https://assets.adobedtm.com/11439a76c997/4666345d54db/launch-8f1a5dc4f498.min.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/hersheys/favicon.png",
+      "source_url": "https://www.hersheyland.com/etc.clientlibs/hershey/clientlibs/clientlib-site-revised/resources/icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7358,
+      "sha256": "50ee2c96999bb1f7d56fc6f5725a6645aaae47dd271030337d3f2843a3523f29",
+      "width": 110,
+      "height": 110
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/hersheys/og.webp",
+      "source_url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/home/2026-halloween-updates/2026-hersheyland-halloween-hero.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 96254,
+      "sha256": "0d4a5771ec6b34cea12b1edf9bad3e4852e5c6fcaf4882d0cf98c58f6363e801",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/hersheys/logo-1.png",
+      "source_url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/navigation/logos/hersheyland-logos/hersheyland_logo-halloween.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img nav-logo Hersheyland Logo a logoLink div logo div main-menu div left-side-nav col-md-8",
+      "content_type": "image/png",
+      "bytes": 11661,
+      "sha256": "23c99947dfce1bdf8f5c7debca12887ad1aba4d4065f1fa0e6ba8f305c97319e",
+      "width": 240,
+      "height": 69
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/hersheys/logo-2.svg",
+      "source_url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/footer/logos/hersheyland_logo_transparent-footer.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Hersheyland logo - light gray a div socials__logo-container nav social-follow social links div col-xs-12 corporate-footer-cmp__social-links",
+      "content_type": "image/svg+xml",
+      "bytes": 7444,
+      "sha256": "0e34a7134ae6a165a8006cecb77488738327d68a6ea3acac836b3b0309583dd4",
+      "width": 599,
+      "height": 164,
+      "source_sha256": "10006d884156adecb61cc3da9bec04cfbc4f33a79dfe870588f40746f9e3198f"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/hersheys/banner-1.webp",
+      "source_url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/themes/chocolate-lab/landing-page-assets/hersheyland-recipes-category-tile.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img kitchen counter topped with baking ingredients and equipment div card-item__image default div card-item div my-slider text-container_call-out-set containerID-call-out-set-1810683130 div cmp-carousel__cover content-mobile 3 indicator-fil",
+      "content_type": "image/webp",
+      "bytes": 114694,
+      "sha256": "b4578404ea10c3e08835465f9f95cadc6d37f014e948190b18325b61499ff12e",
+      "width": 1080,
+      "height": 720
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/hersheys/banner-2.webp",
+      "source_url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/themes/chocolate-lab/landing-page-assets/hersheyland-products-category-tile.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img person grabbing a basket of assorted hersheys candy bars from pantry div card-item__image default div card-item div my-slider text-container_call-out-set containerID-call-out-set-1810683130 div cmp-carousel__cover content-mobile 3 indic",
+      "content_type": "image/webp",
+      "bytes": 82942,
+      "sha256": "98e84762cfb49b6443e4df3f468f5ea97c80d6581bfbc01911e40b66dad3a5f2",
+      "width": 1080,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hersheys/reference-1.webp",
+      "source_url": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/home/2026-halloween-updates/2026-hersheyland-halloween-hero-mobile.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  col-xs-12 col-lg-6 cmp-generic-hero_image_mobile-view cmp-generic-hero__image-container cmp-generic-hero--large-square-image background-image: url(/content/dam/hersheyland/en-us/life-style/home/2026-halloween-updates/2026-hersheyland-h",
+      "content_type": "image/webp",
+      "bytes": 116702,
+      "sha256": "41cbce0cad704c4f65a5ba9382f2d23beaf53af3028e829ccf7e4f55720531b7",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hersheys/reference-2.webp",
+      "source_url": "https://www.hersheyland.com/home/_jcr_content/root/container/section_1304949456_c_685382573/col1/image_copy.coreimg.png/1787163130581/hersheyland-brand-shapes-top-mobile.png",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image div cmp-image div image section article Divisional - Wave Hero (Mobile) section divisional-shapes-top-mobile Divisional - Wave Hero (Mobile)",
+      "content_type": "image/webp",
+      "bytes": 8544,
+      "sha256": "4375160193e487f6718d0f3e70663187944a52584382017a70bfe517df7f916c",
+      "width": 600,
+      "height": 234
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hersheys/reference-3.webp",
+      "source_url": "https://www.hersheyland.com/home/_jcr_content/root/container/section_1304949456_c_311605040/col1/image_copy.coreimg.png/1787162938279/hersheyland-brand-shapes-bottom-mobile.png",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image div cmp-image div image section article Divisional - Shapes Bottom (Mobile) section divisional-shapes-btm-mobile light-gray-background Divisional - Shapes Bottom (Mobile)",
+      "content_type": "image/webp",
+      "bytes": 23546,
+      "sha256": "8972c989b3091b87797760596db87dee4158dd3d622131a5033cecb8148fa20a",
+      "width": 644,
+      "height": 413
+    }
+  ]
+}

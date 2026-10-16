@@ -1,0 +1,33 @@
+{
+  "company": "모두의주차장",
+  "category": "자동차",
+  "requested_url": "https://www.moduparking.com/",
+  "page_url": "https://www.moduparking.com/",
+  "page_title": "모두가 할인받는 주차플랫폼, 모두의주차장",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.moduparking.com/static/vendor-react_c7hw_3Un.js; reference:ValueError:https://www.moduparking.com/static/vendor-motion_BmkQ7ktg.js; reference:ValueError:https://www.moduparking.com/static/vendor-recharts_BYvxB9qz.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/modu-parking/favicon.png",
+      "source_url": "https://www.moduparking.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3326,
+      "sha256": "529d7a9ed952af1596e8bb9f5a0c9b6f4215f31d80957987484fad4e0235fd65",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/modu-parking/og.webp",
+      "source_url": "https://www.moduparking.com/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9950,
+      "sha256": "fbe782a14f99bf89bd8d576f994db3a4972ae40cd562712a5746b7768c4a1b06",
+      "width": 1200,
+      "height": 600
+    }
+  ]
+}

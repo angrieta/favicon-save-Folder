@@ -1,0 +1,71 @@
+{
+  "company": "Patagonia",
+  "category": "패션_의류",
+  "requested_url": "https://www.patagonia.co.kr/",
+  "page_url": "https://www.patagonia.co.kr/",
+  "page_title": "파타고니아코리아",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://patagonia.edge.naverncp.com/routing_banner/PAT_F26_BlackHole_Bags_2Up_MarketingTile_tsudome_miya_00118_cc_WEB.jpg; reference:ValueError:https://patagonia.edge.naverncp.com/routing_banner/s26_rainwear_multilink-mens-eu%20%281%29.jpg; reference:ValueError:https://patagonia.edge.naverncp.com/routing_banner/PhotoshopExtension_Image.png; reference:ValueError:https://patagonia.edge.naverncp.com/routing_banner/PAT_S26_Climb_Stoke_multi_link_tile_balharry_ryan_00060_cc_WEB.jpg; reference:ValueError:https://patagonia.edge.naverncp.com/routing_banner/s26_trailstoke-topshop-M-multilink.jpg; reference:ValueError:https://patagonia.edge.naverncp.com/routing_banner/s26_surfstoke_surfsport_2up-wetsuits.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/patagonia/favicon.png",
+      "source_url": "https://www.patagonia.co.kr/assets/templet/enterprise/images/favicon_256.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 15350,
+      "sha256": "730f7b313c5cbf479ad50caafe0a35a0bc4beb66c535a27e1a882d27477791d4",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "af938fc82bad847b7f6829389f3686c3ecd84fb171967b531fc7201f406fd845"
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/patagonia/og.webp",
+      "source_url": "https://www.patagonia.co.kr/assets/templet/enterprise/images/common/patagonia_og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 23646,
+      "sha256": "cd895023148c3cbfed5ee42497324e8f233062f841d1418b761318dfa458d8be",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/patagonia/logo-1.webp",
+      "source_url": "https://patagonia.edge.naverncp.com/qualityLab/logo_hb.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img bg span bg figure a ptg__menu__primary__container__expanded-logos div ptg__menu__primary__container__expanded-section",
+      "content_type": "image/webp",
+      "bytes": 14202,
+      "sha256": "b3299321ff549d51154f9447b95c054802982515062056f02698884391a15269",
+      "width": 350,
+      "height": 225
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/patagonia/logo-2.svg",
+      "source_url": "https://patagonia.edge.naverncp.com/image/footer/S24-Brand-Evergreen-Icons-ironclad.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Ironclad i ptg__footer__list__item-icon li ptg__footer__list__item cetm ul ptg__footer__list upper footer ptg__footer",
+      "content_type": "image/svg+xml",
+      "bytes": 2323,
+      "sha256": "224e5d3fc09f3fb3b459388194b8e9d975b7063021477b41c826ce1338e7b379",
+      "width": 44,
+      "height": 44
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/patagonia/banner-1.svg",
+      "source_url": "https://patagonia.edge.naverncp.com/image/2609/f26_nanoair_homepage_nanoair_graphic.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img span h3 anti_title div main-visual__text-wrapper main-visual__show div main-visual__text-container",
+      "content_type": "image/svg+xml",
+      "bytes": 879180,
+      "sha256": "235695c2e1515b10d1e1a1177eaac94f8575b82b498805a56e53f98673ee2994",
+      "width": 3656,
+      "height": 758,
+      "source_sha256": "e4b546b6b4c8df8ffefb6a3ecd41737f57b5c5f38e775ddd773e0506e7b568bc"
+    }
+  ]
+}

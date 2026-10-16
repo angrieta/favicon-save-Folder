@@ -1,0 +1,57 @@
+{
+  "company": "Ultimate Ears",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.ultimateears.com",
+  "page_url": "https://www.ultimateears.com/en-us/change-location",
+  "page_title": "Change Location",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.ultimateears.com/en-us/dpr_2.0/d_transparent.gif/content/dam/ue/en/nav/ue-epicboom.png; reference:HTTPError:https://www.ultimateears.com/en-us/dpr_2.0/d_transparent.gif/content/dam/ue/en/nav/ue-explore-features.png; reference:HTTPError:https://www.ultimateears.com/en-us/dpr_2.0/d_transparent.gif/content/dam/ue/en/nav/ue-app.png; reference:ValueError:https://www.ultimateears.com/_app/fonts/BrownLogitechWebPan-Light.woff2; reference:ValueError:https://www.ultimateears.com/_app/fonts/BrownLogitechWebPan-Regular.woff2; reference:ValueError:https://www.ultimateears.com/_app/fonts/BrownLogitechWebPan-Bold.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/ultimate-ears/favicon.png",
+      "source_url": "https://www.ultimateears.com/favicon-ue.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4613,
+      "sha256": "43281053dba8248701f0ed7da6b5a8c5080236fdef2514d41ca2ed20dd311e68",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/ultimate-ears/og.webp",
+      "source_url": "https://resource.ultimateears.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/ue/en/homepage/ue-og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9228,
+      "sha256": "44028dfa44af46cb80dac38c9fc0f1b67322fefc856a5bd8241b9f2d55c7cb99",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/ultimate-ears/logo-1.png",
+      "source_url": "https://resource.ultimateears.com/w_140,h_140,ar_1,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/ue/en/nav/ue-miniroll.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img rounded w-full MINIROLL div aspect-square rounded bg-white flex items-center a nav-item-category block hover:cursor-pointer hover:underline text-center text-body-14 text-360-white Miniroll div nav-category div grid gap-x-16 gap-y-6 col-",
+      "content_type": "image/png",
+      "bytes": 5288,
+      "sha256": "1d9a58e67bf5ed260bd35d46074d7ecf79ba14d0f40f99dd601bdef777255ed7",
+      "width": 140,
+      "height": 140
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/ultimate-ears/logo-2.png",
+      "source_url": "https://resource.ultimateears.com/w_140,h_140,ar_1,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/ue/en/nav/ue-wonderboom4.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img rounded w-full WONDERBOOM 4 div aspect-square rounded bg-white flex items-center a nav-item-category block hover:cursor-pointer hover:underline text-center text-body-14 text-360-white Wonderboom 4 div nav-category div grid gap-x-16 gap-",
+      "content_type": "image/png",
+      "bytes": 8399,
+      "sha256": "81f10a7ef4d32ed03f2b0db807135dfc1e9f5e115bee9ebd06b30633205c3b1b",
+      "width": 140,
+      "height": 140
+    }
+  ]
+}

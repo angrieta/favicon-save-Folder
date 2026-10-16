@@ -1,0 +1,117 @@
+{
+  "company": "Mazda",
+  "category": "자동차",
+  "requested_url": "https://www.mazda.com/en/",
+  "page_url": "https://www.mazda.com/en/",
+  "page_title": "MAZDA MOTOR CORPORATION GLOBAL WEBSITE",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.mazda.com/content/dam/mazda/corporate/mazda-com/en/images/top-kv-pc-en.mp4; banner:ValueError:https://www.mazda.com/content/dam/mazda/corporate/mazda-com/en/images/top-kv-sp-en.mp4; reference:ValueError:https://www.mazda.com/content/dam/mazda/corporate/mazda-com/en/images/top-kv-pc-en.mp4; reference:ValueError:https://www.mazda.com/content/dam/mazda/corporate/mazda-com/en/images/top-kv-sp-en.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/mazda/favicon.png",
+      "source_url": "https://www.mazda.com/etc.clientlibs/mazda-com/clientlibs/clientlib-site/resources/images/android-touch-icon.png?202510",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5794,
+      "sha256": "addd18b1eb37a3acaedb0774c49c27281195b6a4a5556c50b7c28138e76b1f45",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/mazda/og.webp",
+      "source_url": "https://www.mazda.com/content/dam/mazda/corporate/mazda-com/common/images/ogp.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7288,
+      "sha256": "84ea4d9dc263f0170837e8aaa6e4a96a37e2f31e459d9e168bbe8325db0fdd61",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/mazda/logo-1.webp",
+      "source_url": "https://www.mazda.com/content/mazda/corporate/mazda-com/en/mazda-mirai-base/articles/202607-reforming-culture/_jcr_content/_cq_featuredimage.coreimg.jpeg/1784842251495/mmb-articles-reforming-culture-thumb.jpeg",
+      "source_tag": "img:semantic-logo",
+      "context": "img cmp-image__image Believing in People, Reforming Culture: People As the Drivers of Brand Value a cmp-teaser-image__link div teaser-1-gtm-click-mirai-base cmp-teaser li cmp-list__item ul gtm-click-mirai-base cmp-list",
+      "content_type": "image/webp",
+      "bytes": 165438,
+      "sha256": "8f072f0f4f7b86d816227cf51e7fc5996ef2f3ac33ca5bfce1a6cc64ac11e80b",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/mazda/logo-2.webp",
+      "source_url": "https://www.mazda.com/content/mazda/corporate/mazda-com/en/mazda-mirai-base/articles/202607-brand-management/_jcr_content/_cq_featuredimage.coreimg.jpeg/1784842237521/mmb-articles-brand-management-thumb.jpeg",
+      "source_tag": "img:semantic-logo",
+      "context": "img cmp-image__image Winning with Brand Value, Not Scale: CEO Moro on The Path Forward for Small Players a cmp-teaser-image__link div teaser-2-gtm-click-mirai-base cmp-teaser li cmp-list__item ul gtm-click-mirai-base cmp-list",
+      "content_type": "image/webp",
+      "bytes": 124280,
+      "sha256": "114595618a70dc4cb6012dbd85147b4a7e1efb3fa7b0d162e4fd499e63a1c20f",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/mazda/banner-1.webp",
+      "source_url": "https://www.mazda.com/content/mazda/corporate/mazda-com/en/_jcr_content/root/container/container_539066071/container_copy/container_1679143676/teaser/pcVideo.coreimg.jpeg/1729767638952/top-01-pc.jpeg",
+      "source_tag": "img:semantic-banner",
+      "context": "img cmp-image__image div cmp-teaser__image div cmp-teaser__image div gtm-click-about cmp-teaser div teaser cc-teaser-kv cc-txt-light",
+      "content_type": "image/webp",
+      "bytes": 46140,
+      "sha256": "2e78e61f6a5cc66ea7fd53b063bb479477dca9255fdf19ffc40abc9fe7815471",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/mazda/banner-2.webp",
+      "source_url": "https://www.mazda.com/content/mazda/corporate/mazda-com/en/_jcr_content/root/container/container_539066071/container_copy/container_1679143676_813996456/teaser/pcVideo.coreimg.jpeg/1729767675841/top-02-pc.jpeg",
+      "source_tag": "img:semantic-banner",
+      "context": "img cmp-image__image div cmp-teaser__image div cmp-teaser__image div gtm-click-innovation cmp-teaser div teaser cc-teaser-kv cc-txt-light",
+      "content_type": "image/webp",
+      "bytes": 37326,
+      "sha256": "8c30048ecdbd8b6bfb02a5d4c7ddb237874f825e472ff8050954411d2d3c3919",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/mazda/reference-1.webp",
+      "source_url": "https://www.mazda.com/content/experience-fragments/mazda/corporate/mazda-com/en/layouts/headteaser/AboutHead/master/_jcr_content/root/container/teaser/pcVideo.coreimg.png/1729788669199/img-head-01.png",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image div cmp-teaser__image div cmp-teaser__image a cmp-teaser__link div teaser-a160efd7fa cmp-teaser",
+      "content_type": "image/webp",
+      "bytes": 36918,
+      "sha256": "7562f49b0c995ef3f443200838024432d374ddd5e809e9d198e2e5ab6cf425f7",
+      "width": 1280,
+      "height": 847
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/mazda/reference-2.webp",
+      "source_url": "https://www.mazda.com/content/experience-fragments/mazda/corporate/mazda-com/en/layouts/headteaser/InnovationHead/master/_jcr_content/root/teaser_copy/pcVideo.coreimg.png/1743609015787/img-head-02.png",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image div cmp-teaser__image div cmp-teaser__image a cmp-teaser__link div teaser-9dbf805a44 cmp-teaser",
+      "content_type": "image/webp",
+      "bytes": 44772,
+      "sha256": "9aaad5a5c4a2e85d1a89a163575c1fd5e685dc6b571f6942a4c0ef57e9b10843",
+      "width": 1280,
+      "height": 845
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/mazda/reference-3.webp",
+      "source_url": "https://www.mazda.com/content/mazda/corporate/mazda-com/en/mazda-mirai-base/articles/202608-nipponsteel/_jcr_content/_cq_featuredimage.coreimg.jpeg/1788834819944/mmb-articles-nipponsteel-kijiichiran.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image The Circle of Co-Creation: How Nippon Steel and Mazda Reimagined Car-Making with the All-New Mazda CX-5 a cmp-teaser-image__link div teaser-0-gtm-click-mirai-base cmp-teaser li cmp-list__item ul gtm-click-mirai-base cmp",
+      "content_type": "image/webp",
+      "bytes": 95372,
+      "sha256": "96cb29274c71fdeae18a7f9e02da92fa63c3bd1a222414893aac23c6c900eb58",
+      "width": 1200,
+      "height": 900
+    }
+  ]
+}

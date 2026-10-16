@@ -1,0 +1,94 @@
+{
+  "company": "Warner Bros.",
+  "category": "게임_엔터",
+  "requested_url": "https://www.warnerbros.com/",
+  "page_url": "https://www.warnerbros.com/",
+  "page_title": "WarnerBros.com | Home of WB Movies, TV, Games, and more!",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.warnerbros.com/templates/vendors~__react_static_root__/src/layout/404/404.tsx~__react_static_root__/src/layout/articles/Artic~11170e23.9bfaca49.js; reference:ValueError:https://www.warnerbros.com/templates/vendors~__react_static_root__/src/layout/404/404.tsx~__react_static_root__/src/layout/articles/Artic~dfbe08eb.9bf0b4fb.js; reference:ValueError:https://www.warnerbros.com/templates/vendors~__react_static_root__/src/layout/home/HomeTwoLayout.tsx.a1e0ef7f.js; reference:ValueError:https://www.warnerbros.com/templates/__react_static_root__/src/layout/home/HomeTwoLayout.tsx.f13fb869.js; reference:ValueError:https://www.warnerbros.com/templates/vendors~main.c92d1a1b.js; reference:ValueError:https://www.warnerbros.com/main.a43c9db1.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/warner-bros/favicon.png",
+      "source_url": "https://www.warnerbros.com/assets/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 26797,
+      "sha256": "84ea037c351e600cc144992e6c7a4289b9061a2ab8127ad8d7e0b9b1012cf21f",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/warner-bros/og.webp",
+      "source_url": "https://www.warnerbros.com/assets/logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20876,
+      "sha256": "da74b9464480b5fafb3b02dc9218e058f1bee773cb6aeb2733e365e444c109e3",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/warner-bros/og.webp",
+      "source_url": "https://www.warnerbros.com/assets/logo.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 20876,
+      "sha256": "da74b9464480b5fafb3b02dc9218e058f1bee773cb6aeb2733e365e444c109e3",
+      "width": 1200,
+      "height": 600,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/warner-bros/logo-2.png",
+      "source_url": "https://www.warnerbros.com/assets/images/home/wb/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Logo section sc-eLExRp dffRuC div sc-lkqHmb iJiPgq div sc-cQFLBn gXXnHG div content content",
+      "content_type": "image/png",
+      "bytes": 36159,
+      "sha256": "ecef698bac2e2586227e48a45feb748c8cc3df6a245f5a3b8ea7e5a5e599d2d6",
+      "width": 405,
+      "height": 396
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/warner-bros/reference-1.webp",
+      "source_url": "https://www.warnerbros.com/assets/images/home/comedy/logo.png",
+      "source_tag": "link:preload",
+      "context": "preload image image/png /assets/images/home/comedy/logo.png",
+      "content_type": "image/webp",
+      "bytes": 22058,
+      "sha256": "76d68964bcad327800b6b2537832a40ef19476b6bc17e9e538b815a4fb1aae8b",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/warner-bros/reference-2.webp",
+      "source_url": "https://www.warnerbros.com/assets/images/home/horror/logo.png",
+      "source_tag": "link:preload",
+      "context": "preload image image/png /assets/images/home/horror/logo.png",
+      "content_type": "image/webp",
+      "bytes": 12944,
+      "sha256": "d390c67df8e94beb18e479f661c37056c16e0267658ba6bfbf65bd35726f4db0",
+      "width": 405,
+      "height": 396
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/warner-bros/reference-3.webp",
+      "source_url": "https://www.warnerbros.com/assets/images/home/epics/logo.png",
+      "source_tag": "link:preload",
+      "context": "preload image image/png /assets/images/home/epics/logo.png",
+      "content_type": "image/webp",
+      "bytes": 27934,
+      "sha256": "cd7a8386b0539546fc46ed8ded3cc958d90d293f6398c2fe8a81ec32f6a25880",
+      "width": 405,
+      "height": 396
+    }
+  ]
+}

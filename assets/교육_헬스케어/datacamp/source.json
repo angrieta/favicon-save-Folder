@@ -1,0 +1,107 @@
+{
+  "company": "DataCamp",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.datacamp.com",
+  "page_url": "https://www.datacamp.com/",
+  "page_title": "Learn Data Science and AI Online | DataCamp",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://campaign-service.datacamp.com/api/v1/banner?locale=en",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/datacamp/favicon.png",
+      "source_url": "https://www.datacamp.com/marketing-backgrounds/favicons/favicon-196x196.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 24598,
+      "sha256": "32dd8e4a92ffa476d083ca585052535e0c91c22b65156f20df9d68e18a687f88",
+      "width": 196,
+      "height": 196,
+      "source_sha256": "8d8f76f0b5423c6a639f4e08e4a58244b1b607688d84c79c9f3022e8ac52eeb8"
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/datacamp/og.webp",
+      "source_url": "https://www.datacamp.com/datacamp-twitter-share.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7578,
+      "sha256": "32d854f184ffc08b308f60edcd428fbd4dc746d2c132b5e89e06ca3dc614f2ec",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/datacamp/logo-1.png",
+      "source_url": "https://media.datacamp.com/legacy/image/upload/f_auto,q_auto:best/v1603223608/DC_New_mugdv8.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 21549,
+      "sha256": "0f1d9b7ef5e3927c69e2759dff491b25b6b7721fee55b3314a666938f9832294",
+      "width": 1200,
+      "height": 450,
+      "source_sha256": "a5e342e96ea161b014a142990a0101678377476de3d9e7751cc146b6fb332027"
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/datacamp/banner-1.webp",
+      "source_url": "https://media.datacamp.com/cms/state-of-data--ai-literacy-2026-cover-thumbnail.png?w=640",
+      "source_tag": "img:semantic-banner",
+      "context": "img Illustration of The 2026 State of Data & AI Literacy Report a css-1c4u186 div css-1iryv4q div css-lhzt main",
+      "content_type": "image/webp",
+      "bytes": 36508,
+      "sha256": "0970c71e7fc33df17236ee634592e65ba89ba586e43bf83e5501597c2eb11316",
+      "width": 653,
+      "height": 396
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/datacamp/banner-2.webp",
+      "source_url": "https://media.datacamp.com/cms/bg-personas-one.webp",
+      "source_tag": "style-background-image",
+      "context": ".css-1kyquuq{aspect-ratio:358/256;background-color:var(--wf-bg--contrast, #FFFFFF);background-image:url(https://media.datacamp.com/cms/bg-personas-one.webp);-webkit-background-size:cover;background-size:cover;border-radius:12px;display:",
+      "content_type": "image/webp",
+      "bytes": 4376,
+      "sha256": "bb1a55d90fb612947c03711dfe7be93e5f0cfc4c2ba2b501e0f4cb324aa83474",
+      "width": 728,
+      "height": 520
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/datacamp/reference-1.webp",
+      "source_url": "https://media.datacamp.com/cms/photo-personas-one.webp?w=3840",
+      "source_tag": "img:page-image",
+      "context": "img css-ze8qww Photo of a person who is a career switcher figure css-1kyquuq div css-1yey8ty article css-14p9gc3 div css-1ncc8vm",
+      "content_type": "image/webp",
+      "bytes": 11706,
+      "sha256": "3e161532333270bdb33712cd2fa28547763eb2bb577e4cb577bef548d212682d",
+      "width": 728,
+      "height": 520
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/datacamp/reference-2.webp",
+      "source_url": "https://media.datacamp.com/cms/photo-personas-two.webp?w=3840",
+      "source_tag": "img:page-image",
+      "context": "img css-ze8qww Photo of a person who is a team leader figure css-120z504 div css-1yey8ty article css-14p9gc3 div css-1ncc8vm",
+      "content_type": "image/webp",
+      "bytes": 43164,
+      "sha256": "8432bb9e0552f3b25eeb8fef8ac2f9f32eff7569f9808d71fbee70b777595b94",
+      "width": 728,
+      "height": 520
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/datacamp/reference-3.webp",
+      "source_url": "https://media.datacamp.com/cms/photo-personas-three.webp?w=3840",
+      "source_tag": "img:page-image",
+      "context": "img css-ze8qww Photo of a person who is a skill builder figure css-1wamihe div css-1yey8ty article css-14p9gc3 div css-1ncc8vm",
+      "content_type": "image/webp",
+      "bytes": 19384,
+      "sha256": "15d67ee5506abf4a218cd830b9015a3dcaad67d7eb0c1f75fba3cf5839c11912",
+      "width": 728,
+      "height": 520
+    }
+  ]
+}

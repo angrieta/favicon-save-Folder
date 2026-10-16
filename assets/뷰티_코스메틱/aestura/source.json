@@ -1,0 +1,117 @@
+{
+  "company": "에스트라",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.aestura.com",
+  "page_url": "https://www.aestura.com/web/main.do",
+  "page_title": "AESTURA",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://image.aestura.com/resources/web/images/temp/about_inspired_banner.webp; banner:ValueError:https://image.aestura.com/resources/web/images/temp/about_quality_banner.webp; banner:ValueError:https://image.aestura.com/resources/web/images/temp/advice_ask_banner.webp; banner:ValueError:https://image.aestura.com/resources/web/images/temp/advice_derma_banner.webp; reference:ValueError:https://image.aestura.com/resources/web/images/temp/about_inspired_banner.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/aestura/favicon.ico",
+      "source_url": "https://image.aestura.com/resources/web/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "66ce8bca3e56b790e13e55ec5703d3105680e25f4fb583ccf00999f5a764ae92",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/aestura/og.webp",
+      "source_url": "https://image.aestura.com/resources/mobile/images/common/sec02_logo1.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11412,
+      "sha256": "785ee2d90946c13db07c71d61958f0369309fe828aef1abed9964edaebe522fb",
+      "width": 1200,
+      "height": 601
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/aestura/logo-1.png",
+      "source_url": "https://image.aestura.com/resources/web/images/common/logo_on.webp?ver=20240710_1",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a sizeB h1 div gnbWrap header header header",
+      "content_type": "image/png",
+      "bytes": 2595,
+      "sha256": "4b8f0c6b438e610417178c46a58ac4cdbae69075b14f24e2020b90bbe5e30a20",
+      "width": 198,
+      "height": 30
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/aestura/logo-2.png",
+      "source_url": "https://image.aestura.com/resources/web/images/common/logo_on.png?ver=20240710_1",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a sizeB h1 div gnbWrap header header header",
+      "content_type": "image/png",
+      "bytes": 2354,
+      "sha256": "7ca1ff3c3366a0467e9063d93e0f76e385ae575ccb420648a0bfe7c4c010c075",
+      "width": 198,
+      "height": 30
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/aestura/banner-1.webp",
+      "source_url": "https://img.youtube.com/vi/eFnPgGtbGcA/maxresdefault.jpg",
+      "source_tag": "inline-background-image",
+      "context": "a  cover play background-image:url(//img.youtube.com/vi/eFnPgGtbGcA/maxresdefault.jpg);",
+      "content_type": "image/webp",
+      "bytes": 25344,
+      "sha256": "ab3de6d279103404a855b6c90b462f60c6d320cbdaed326c22047fa33ea23c2c",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/aestura/banner-2.webp",
+      "source_url": "https://image.aestura.com/upload/display/BC0101_301_W.png",
+      "source_tag": "inline-background-image",
+      "context": "div  slide background-image:url('https://image.aestura.com/upload/display/BC0101_301_W.png'); background-image:-webkit-image-set(url('https://image.aestura.com/upload/display/BC0101_301_W.webp') 1x);",
+      "content_type": "image/webp",
+      "bytes": 38678,
+      "sha256": "e407f2a460448552d0d7f68348cb8049d428b75bbf15394e50509f7e41276664",
+      "width": 1800,
+      "height": 972
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/aestura/reference-1.webp",
+      "source_url": "https://image.aestura.com/upload/display/BC0101_301_W.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  slide background-image:url('https://image.aestura.com/upload/display/BC0101_301_W.png'); background-image:-webkit-image-set(url('https://image.aestura.com/upload/display/BC0101_301_W.webp') 1x);",
+      "content_type": "image/webp",
+      "bytes": 35854,
+      "sha256": "5fcf677dae4acdefa2effe28fe29263ac0e63919368fadce7588dfe292733936",
+      "width": 1800,
+      "height": 972
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/aestura/reference-2.webp",
+      "source_url": "https://image.aestura.com/upload/display/BC0101_302_W.png",
+      "source_tag": "inline-background-image",
+      "context": "div  slide background-image:url('https://image.aestura.com/upload/display/BC0101_302_W.png'); background-image:-webkit-image-set(url('https://image.aestura.com/upload/display/BC0101_302_W.webp') 1x);",
+      "content_type": "image/webp",
+      "bytes": 52134,
+      "sha256": "ad92b2eadb5b95fa00082b397a0e770524d2c244334c720fa441cbe0c77b56bf",
+      "width": 1800,
+      "height": 972
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/aestura/reference-3.webp",
+      "source_url": "https://image.aestura.com/upload/display/BC0101_302_W.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  slide background-image:url('https://image.aestura.com/upload/display/BC0101_302_W.png'); background-image:-webkit-image-set(url('https://image.aestura.com/upload/display/BC0101_302_W.webp') 1x);",
+      "content_type": "image/webp",
+      "bytes": 47156,
+      "sha256": "3bd6b5ae51e10e1e18a5c4a7dc774460ad4fa10c7cba4482c582104d18f72f6d",
+      "width": 1800,
+      "height": 972
+    }
+  ]
+}

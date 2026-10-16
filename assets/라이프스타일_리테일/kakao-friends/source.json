@@ -1,0 +1,33 @@
+{
+  "company": "카카오프렌즈",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://store.kakaofriends.com/",
+  "page_url": "https://store.kakaofriends.com/",
+  "page_title": "카카오 프렌즈샵",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=256586878359294&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/kakao-friends/favicon.ico",
+      "source_url": "https://t1.kakaocdn.net/kakaofriends_global/static/img/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "8d12f6e3424931c2fca6898454b026df05f3844a956335a8f0d77305fb6b5c97",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/kakao-friends/og.webp",
+      "source_url": "https://t1.kakaocdn.net/friends/www/talk/kakaofriends_talk_2018.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 29894,
+      "sha256": "c5dbb52e0c471063a563e0bdfb8f04c57bba181504a97361188279d60381c706",
+      "width": 800,
+      "height": 395
+    }
+  ]
+}

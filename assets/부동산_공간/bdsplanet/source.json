@@ -1,0 +1,59 @@
+{
+  "company": "부동산플래닛",
+  "category": "부동산_공간",
+  "requested_url": "https://www.bdsplanet.com/",
+  "page_url": "https://www.bdsplanet.com/",
+  "page_title": "부동산의 모든 것을 담다, 부동산플래닛",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=626417834188337&ev=PageView&noscript=1; reference:ValueError:https://www.bdsplanet.com/_next/static/chunks/0fxyt2rqlckk9.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/bdsplanet/favicon.ico",
+      "source_url": "https://www.bdsplanet.com/favicon.ico?favicon.2kh76v9b_iy3s.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "67b12b15a62ddc49b41bcb0285f2a99d6be0b40f48eb55f33c68eb66824ef5da",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/bdsplanet/og.webp",
+      "source_url": "https://www.bdsplanet.com/images/kakao_share_img_TypeA3.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11454,
+      "sha256": "6cfd1e6f949052b76b102cd3347fadb31800f4f22bd704db87550076bb63d0f1",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/bdsplanet/logo-1.svg",
+      "source_url": "https://www.bdsplanet.com/images/main/search/planetai_logo_pc.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-4 w-[76px] PlanetAi span flex h-full w-full items-center justify-center rounded-full bg-text-white px-4 a h-[52px] w-[112px] shrink-0 rounded-full border border-transparent bg-origin-border p-px [background-clip:padding-box,border-box",
+      "content_type": "image/svg+xml",
+      "bytes": 9401,
+      "sha256": "538a7d1d234d382893c4fb736a6b5d5ad7b95319cedc13c09636546134c29e28",
+      "width": 76,
+      "height": 17,
+      "source_sha256": "ba5247326a259e64f2320e70c1b31c02187069c6f0089c26d8716d9b5ff97a53"
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/bdsplanet/logo-2.svg",
+      "source_url": "https://www.bdsplanet.com/images/main/search/planetai_logo_m.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-4 w-[79px] PlanetAi span flex h-full w-full items-center justify-center px-0.5 li relative h-10 w-[88px] cursor-pointer whitespace-nowrap px-0.5 py-3 text-[16px] leading-[20px] font-semibold transition-colors after:absolute after:bott",
+      "content_type": "image/svg+xml",
+      "bytes": 9378,
+      "sha256": "45416116a5c45db611d7d5c5e9c54d7a88e00e21f586564b96208f79efbde6d9",
+      "width": 79,
+      "height": 16,
+      "source_sha256": "e4baf2a7d45d49875091c7bf79c96e6b8cfa7519150b2538ddc97983e0a6fbff"
+    }
+  ]
+}

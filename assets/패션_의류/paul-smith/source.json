@@ -1,0 +1,93 @@
+{
+  "company": "Paul Smith",
+  "category": "패션_의류",
+  "requested_url": "https://www.paulsmith.com",
+  "page_url": "https://www.paulsmith.com/",
+  "page_title": "Designer Clothing for Men, Women & Kids, Fashion Accessories | Paul Smith",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://www.paulsmith.com/w_1536/v1786453481/AW26/Campaign/5x7/5x7_18; reference:HTTPError:https://www.paulsmith.com/w_1024/v1786453481/AW26/Campaign/5x7/5x7_18; reference:HTTPError:https://www.paulsmith.com/w_1536/v1786453482/AW26/Campaign/5x7/5x7_13; reference:HTTPError:https://www.paulsmith.com/w_1024/v1786453482/AW26/Campaign/5x7/5x7_13; reference:HTTPError:https://www.paulsmith.com/w_1536/v1789029480/AW26/AW26%20Tailoring/Still%20Life/5x7/5x7_TAILORING_CROPS_5; reference:HTTPError:https://www.paulsmith.com/w_1024/v1789029480/AW26/AW26%20Tailoring/Still%20Life/5x7/5x7_TAILORING_CROPS_5",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/paul-smith/favicon.png",
+      "source_url": "https://www.paulsmith.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9079,
+      "sha256": "ff9a417d2914b3aae84c7769df1c5cbac1f2651d651b93653e0aceb60d51a409",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/paul-smith/og.webp",
+      "source_url": "https://assets.paulsmith.com/paul-smith-storyblok/f_auto,q_auto,w_1200,h_630,c_fill/WEB-BASE/base/Paul-Smith-OG.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8980,
+      "sha256": "7e0278bcd5f3e38e582f11ffc5d0f021b7393eac2211f3422ff6d7de6bc3dfa6",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/paul-smith/logo-1.webp",
+      "source_url": "https://assets.paulsmith.com/paul-smith-products/w_auto,c_scale,q_auto,f_auto/ASSETS/ECOM/HEADLESS/HEADER/SCHEMA/paulsmith_logo.jpg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 6144,
+      "sha256": "785e24e8581b047a0e6d33b474fe3a44efa8561de4f95ae4f196a663d8902656",
+      "width": 492,
+      "height": 102
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/paul-smith/banner-1.webp",
+      "source_url": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_4096/v1788855684/AW26/AW26%20Tailoring/Footer/TAILORING_FOOTER_IMAGE",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture w-full object-cover flex items-center justify-center transition-opacity transition-transform ease-ease-1 duration-1200 scale-110 div overflow-hidden w-full group aspect-5/7 transition-opacity ease-ease-1 duration-100 opacity-0 mobil",
+      "content_type": "image/webp",
+      "bytes": 25642,
+      "sha256": "4645eef88408757d0ab3ea55c1fb51edf386da2c891d6e45b64d112d7a991ebd",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/paul-smith/reference-1.webp",
+      "source_url": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1786453481/AW26/Campaign/5x7/5x7_18",
+      "source_tag": "picture:page-image",
+      "context": "picture w-full object-cover flex items-center justify-center transition-opacity transition-transform ease-ease-1 duration-1200 scale-100 div overflow-hidden w-full group aspect-4/5 transition-opacity ease-ease-1 duration-100 opacity-100 New",
+      "content_type": "image/webp",
+      "bytes": 181052,
+      "sha256": "88606c311d00f3fdb503039be71bcbddadf29a4a22efbd0e41cfbd7fe1ea2312",
+      "width": 964,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/paul-smith/reference-2.webp",
+      "source_url": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1786453482/AW26/Campaign/5x7/5x7_13",
+      "source_tag": "picture:page-image",
+      "context": "picture w-full object-cover flex items-center justify-center transition-opacity transition-transform ease-ease-1 duration-1200 scale-100 div overflow-hidden w-full group aspect-4/5 transition-opacity ease-ease-1 duration-100 opacity-100 AW2",
+      "content_type": "image/webp",
+      "bytes": 104152,
+      "sha256": "e642e60a38de4bcf452bf9445c264a1dd9fd00754d0b8af7267cb2c6ba054f8a",
+      "width": 964,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/paul-smith/reference-3.webp",
+      "source_url": "https://assets.paulsmith.com/paul-smith-storyblok/f_jpg,q_auto,w_1536/v1789029480/AW26/AW26%20Tailoring/Still%20Life/5x7/5x7_TAILORING_CROPS_5",
+      "source_tag": "picture:page-image",
+      "context": "picture w-full object-cover flex items-center justify-center transition-opacity transition-transform ease-ease-1 duration-1200 scale-110 group-hover:!scale-105 group-hover:ease-ease-1 group-hover:duration-600 div overflow-hidden w-full grou",
+      "content_type": "image/webp",
+      "bytes": 128598,
+      "sha256": "45ad03bd537e3b48dfbe596f1dbf82d1462a6873d3c809e744ed6cdd88ad8e17",
+      "width": 964,
+      "height": 1350
+    }
+  ]
+}

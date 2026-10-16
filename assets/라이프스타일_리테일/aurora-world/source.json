@@ -1,0 +1,97 @@
+{
+  "company": "오로라월드",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://auroraworld.com/ko",
+  "page_url": "https://auroraworld.com/ko",
+  "page_title": "오로라월드",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://auroraworld.com/_next/static/chunks/0yb2wil16uz6h.js; reference:ValueError:https://auroraworld.com/_next/static/chunks/048z~r6cni4no.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/aurora-world/favicon.svg",
+      "source_url": "https://auroraworld.com/favicon.svg",
+      "source_tag": "shortcut icon",
+      "content_type": "image/svg+xml",
+      "bytes": 2877,
+      "sha256": "dec0301d069f4392493fc0799dc072a7d3a7a9431347b11ec06eae32ee4f47f9",
+      "width": 116,
+      "height": 116,
+      "source_sha256": "81b8b2d293a3107558288c3295dfce9b2b403f58b6bfc8e03815dfb09ad9d8a5"
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/aurora-world/logo-1.svg",
+      "source_url": "https://auroraworld.com/images/main/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Header-module-scss-module__30en8W__logoImage 오로라월드(주) a Header-module-scss-module__30en8W__logo div Header-module-scss-module__30en8W__container div Header-module-scss-module__30en8W__headerInner header header Header-module-scss-module_",
+      "content_type": "image/svg+xml",
+      "bytes": 2258,
+      "sha256": "f4ab8feb265336254950d268215f2f7611d8d76f433263537e285f7b77cf81f9",
+      "width": 177,
+      "height": 38
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/aurora-world/logo-2.png",
+      "source_url": "https://auroraworld.com/_next/image?url=%2Fimages%2Fmain%2Ffooter_logo.png&w=384&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img Footer-module-scss-module__ulTOta__logoImage 오로라월드(주) div Footer-module-scss-module__ulTOta__logo div Footer-module-scss-module__ulTOta__head div Footer-module-scss-module__ulTOta__container footer footer Footer-module-scss-module__ulTO",
+      "content_type": "image/png",
+      "bytes": 2635,
+      "sha256": "7722a9e2ef37fc92b8904233eb41229f602428e70d321d80412178fdd0b8de57",
+      "width": 189,
+      "height": 41
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/aurora-world/banner-1.webp",
+      "source_url": "https://auroraworld.com/images/main/banner/img_main_banner1_pc.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 메인 배너 2 div Home-module-scss-module__5DKvTa__imgPc a div swiper-slide Home-module-scss-module__5DKvTa__item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 64360,
+      "sha256": "16d0308d9413d927f823531bb4763c341485297d2b4159b94519d1adda6d78a2",
+      "width": 1600,
+      "height": 834,
+      "source_sha256": "7a8a262824b50e596e5222bdf9fbab5fa591c87a0e1e8f304bd1d2388526b772"
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/aurora-world/banner-2.webp",
+      "source_url": "https://auroraworld.com/images/main/banner/img_main_banner2_pc.jpeg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 메인 배너 2 div Home-module-scss-module__5DKvTa__imgPc a div swiper-slide Home-module-scss-module__5DKvTa__item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 118174,
+      "sha256": "cf7b001b966dd48a76f8dbb8484e0f8522a1234daf698e484695c385064877f9",
+      "width": 1800,
+      "height": 938
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/aurora-world/reference-1.webp",
+      "source_url": "https://auroraworld.com/images/main/banner/img_main_banner1_mo.png",
+      "source_tag": "img:page-image",
+      "context": "img 메인 배너 2 div Home-module-scss-module__5DKvTa__imgM a div swiper-slide Home-module-scss-module__5DKvTa__item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 75764,
+      "sha256": "281053cecbeb833620587816f8c340e22eba91203487e2fa70c36c5a3f463883",
+      "width": 972,
+      "height": 1350,
+      "source_sha256": "9ba414eb123e9530124673c986008895a5e742eaf9a2f8eaa63a7ef044523833"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/aurora-world/reference-2.webp",
+      "source_url": "https://auroraworld.com/images/main/banner/img_main_banner2_mo.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img 메인 배너 2 div Home-module-scss-module__5DKvTa__imgM a div swiper-slide Home-module-scss-module__5DKvTa__item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 115868,
+      "sha256": "5819cd3d334c833f06e2035e1bd84ed7cc4dab90f87348cafdf919296ee9866f",
+      "width": 972,
+      "height": 1350
+    }
+  ]
+}

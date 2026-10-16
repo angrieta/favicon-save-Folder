@@ -1,0 +1,82 @@
+{
+  "company": "Subway",
+  "category": "식품_생활",
+  "requested_url": "https://www.subway.co.kr/",
+  "page_url": "https://www.subway.co.kr/",
+  "page_title": "SUBWAY 써브웨이",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=825983077607831&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/subway-korea/favicon.ico",
+      "source_url": "https://www.subway.co.kr/images/common/subway_favicon.ico?v=20250211-2",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 101197,
+      "sha256": "7ccf07b2b51291c11d7277bc7c8cf814c86d79032d26b1f033a2f8b20a9989e6",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/subway-korea/banner-1.webp",
+      "source_url": "https://www.subway.co.kr/upload/banner/1785300149807_IoVoMO.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 프로틴 div img a div wrap li",
+      "content_type": "image/webp",
+      "bytes": 68244,
+      "sha256": "e497dd2f7a345d7c8ed91b6d1687f2849317b55583c1c2bc80f4cc797b0bddd2",
+      "width": 1800,
+      "height": 413
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/subway-korea/banner-2.webp",
+      "source_url": "https://www.subway.co.kr/upload/banner/1784506904190_uyy2Y9.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 아기맹새우 div img a div wrap li",
+      "content_type": "image/webp",
+      "bytes": 51932,
+      "sha256": "f3d0c30fa746d05e8274f20fff3da6c6726223b5dd30afd66623038819c4a40d",
+      "width": 1800,
+      "height": 413
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/subway-korea/reference-1.webp",
+      "source_url": "https://www.subway.co.kr/images/menu/sandwich_cl06_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 에그마요 div img div wrap a li",
+      "content_type": "image/webp",
+      "bytes": 26760,
+      "sha256": "e062303565c61d6b257cf494e63337dcf58304b54aefa1e8e95a6c0403792c3f",
+      "width": 570,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/subway-korea/reference-2.webp",
+      "source_url": "https://www.subway.co.kr/images/menu/sandwich_cl01_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 이탈리안 비엠티 div img div wrap a li",
+      "content_type": "image/webp",
+      "bytes": 32538,
+      "sha256": "fd07a197e4fbe8de536ff72001597efcdc7375a1bb4912ab095b02aa83936322",
+      "width": 570,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/subway-korea/reference-3.webp",
+      "source_url": "https://www.subway.co.kr/images/menu/sandwich_cl02_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 비엘티 div img div wrap a li",
+      "content_type": "image/webp",
+      "bytes": 30626,
+      "sha256": "721783bc33cffd1f5ec2605232abf3b59831705fa259a1739f066e7a63f5f051",
+      "width": 570,
+      "height": 400
+    }
+  ]
+}

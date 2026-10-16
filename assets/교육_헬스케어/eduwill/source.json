@@ -1,0 +1,69 @@
+{
+  "company": "에듀윌",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.eduwill.net",
+  "page_url": "https://www.eduwill.net/sites/home",
+  "page_title": "자격증 인강| 공인중개사·주택관리사·공무원·전기기사| 에듀윌",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://pds.eduwill.net/ibm/banner/20220823145127.mp4; reference:ValueError:https://pds.eduwill.net/ibm/banner/20220823145127.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/eduwill/favicon.png",
+      "source_url": "https://img.eduwill.net/Img2/Common/favicon/favicon-152x152.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1933,
+      "sha256": "0694bd306d2edecf014a8e5677aadbe9824e0e58b2f2b887d53a1b2bc78d6b62",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/eduwill/og.webp",
+      "source_url": "https://img.eduwill.net/resources/common/web/images/gnb/og_logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2782,
+      "sha256": "b9f5c7670f42e77f86c1834961c2cfa364016aa48724ccefd5fd7b1fef9a43ab",
+      "width": 400,
+      "height": 200
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/eduwill/reference-1.webp",
+      "source_url": "https://img.eduwill.net/eduwill/img/2022/_119/main/pc/img_intro.png",
+      "source_tag": "img:page-image",
+      "context": "img 6년간 아무도 깨지 못한 기록 합격자 수 1위 에듀윌 div content-box div intro open div globalIntro global-intro body",
+      "content_type": "image/webp",
+      "bytes": 42734,
+      "sha256": "1c9852a64060b78ee373ffb2975c791189ba49c0e88469526a9cf8da52eaa2be",
+      "width": 1150,
+      "height": 368
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/eduwill/reference-2.webp",
+      "source_url": "https://img.eduwill.net/eduwill/img/2022/_119/main/pc/gif_arrow1.gif",
+      "source_tag": "img:page-image",
+      "context": "img a div s_gohome btn-gohome div intro open div globalIntro global-intro",
+      "content_type": "image/webp",
+      "bytes": 2956,
+      "sha256": "76ca856ff4a74e7af15d4c49c41fb25ebe4a8ea80a9aafc3d622339d5043739f",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/eduwill/reference-3.webp",
+      "source_url": "https://img.eduwill.net/eduwill/img/2026/_119/main/pc/dugong_pen.png",
+      "source_tag": "img:page-image",
+      "context": "img consult-dugong 듀공 상담원 a float-btn consult-btn 1:1 맞춤 상담 신청하기 div floating-menu div globalWrapper globalmain-wrapper body",
+      "content_type": "image/webp",
+      "bytes": 9908,
+      "sha256": "d44ac26bdbce7088e76a759a14026a589078bb07963ba340212fccfe551115ae",
+      "width": 448,
+      "height": 448
+    }
+  ]
+}

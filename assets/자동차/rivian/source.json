@@ -1,0 +1,70 @@
+{
+  "company": "Rivian",
+  "category": "자동차",
+  "requested_url": "https://rivian.com/",
+  "page_url": "https://rivian.com/",
+  "page_title": "Rivian: Electric Vehicles Designed For Adventure",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://media.rivian.com/video/upload/c_limit,w_720/g_auto/f_auto:video/q_auto/bc0jglnsz5ma7z879p8s?_a=BAVFB+DW0; reference:ValueError:https://media.rivian.com/video/upload/c_limit,w_744/g_auto/f_auto:video/q_auto/bc0jglnsz5ma7z879p8s?_a=BAVFB+DW0; reference:ValueError:https://media.rivian.com/video/upload/c_limit,w_1024/g_auto/f_auto:video/q_auto/hwvvfftsdff5p9n8dlsc?_a=BAVFB+DW0; reference:ValueError:https://media.rivian.com/video/upload/c_limit,w_1440/g_auto/f_auto:video/q_auto/hwvvfftsdff5p9n8dlsc?_a=BAVFB+DW0; reference:ValueError:https://media.rivian.com/video/upload/c_limit,w_1920/g_auto/f_auto:video/q_auto/hwvvfftsdff5p9n8dlsc?_a=BAVFB+DW0; reference:ValueError:https://media.rivian.com/video/upload/c_limit,w_2560/g_auto/f_auto:video/q_auto/hwvvfftsdff5p9n8dlsc?_a=BAVFB+DW0",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/rivian/favicon.png",
+      "source_url": "https://rivian.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2393,
+      "sha256": "9b0bef458df495acbc2337c379892c615c2db3063105869e296f9d3cef8857b5",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/rivian/og.webp",
+      "source_url": "https://images.ctfassets.net/2md5qhoeajym/7exvHTtH5GeMd57ze80Pwz/a0073c122f2bb161c566d2a96961843b/rivian-r1s-2025.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 86604,
+      "sha256": "8f61fa573aa9aebe1538a07229b63d9af267d6d94330981d87f3387855355817",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/rivian/logo-1.webp",
+      "source_url": "https://media.rivian.com/video/upload/so_0/g_auto/f_auto:image/q_auto/v1/rivian-com/rivos20/ebnalgyeqewx0c50nbaj?_a=BAVFB+DW0",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture video-poster w-full h-full object-cover absolute div relative w-full h-full aspect-video div relative mx-auto w-full max-w-[1920px] before:pointer-events-none before:absolute before:inset-y-0 before:left-0 before:z-10 before:hidden ",
+      "content_type": "image/webp",
+      "bytes": 132570,
+      "sha256": "4d7e2c703400537901c402ea22a6137200178c1490d5e81eb5ac21edd627c1a6",
+      "width": 1600,
+      "height": 1480
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/rivian/reference-1.webp",
+      "source_url": "https://media.rivian.com/image/upload/f_auto/q_auto/mobile-hero_yjo1zz?_a=BAVFB+DW0",
+      "source_tag": "picture:page-image",
+      "context": "picture w-full h-full object-cover absolute section dark relative h-full justify-items-center bg-surface-tertiary/10 text-text-primary md:justify-normal md:justify-items-stretch md:align-baseline div min-w-0 shrink-0 grow-0 basis-full p-0 d",
+      "content_type": "image/webp",
+      "bytes": 118746,
+      "sha256": "b0510b3ee1e13f7f1ffcd8e90e1c1be76b5e0fd351b6fbd7906aa8fe3d26d53b",
+      "width": 674,
+      "height": 1350,
+      "source_sha256": "b5c0adbbd34d4c2d2e7562650b4a1fd6e1e8aee03feda609b659474d34e4abbb"
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/rivian/reference-2.webp",
+      "source_url": "https://media.rivian.com/video/upload/so_0/g_auto/f_auto:image/q_auto/bc0jglnsz5ma7z879p8s?_a=BAVFB+DW0",
+      "source_tag": "picture:page-image",
+      "context": "picture video-poster w-full h-full object-cover absolute div relative w-full h-full aspect-video section dark relative h-full justify-items-center bg-surface-tertiary/10 text-text-primary md:justify-normal md:justify-items-stretch md:align-",
+      "content_type": "image/webp",
+      "bytes": 34948,
+      "sha256": "8bae5bc0a365f2b2646345e566b4fabd80fb4a0fddf142f32d5d277213848b7e",
+      "width": 759,
+      "height": 1350
+    }
+  ]
+}

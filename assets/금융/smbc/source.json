@@ -1,0 +1,81 @@
+{
+  "company": "SMBC",
+  "category": "금융",
+  "requested_url": "https://www.smbc.co.jp",
+  "page_url": "https://www.smbc.co.jp/",
+  "page_title": "三井住友銀行",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.smbc.co.jp/kojin/imgs/index_img_kv_shinki_open_account_01_webp.webp; reference:ValueError:https://www.smbc.co.jp/kojin/imgs/index_img_kv_shinki_spaplli_01_sp_webp.webp; reference:ValueError:https://www.smbc.co.jp/kojin/imgs/index_img_kv_shinki_spaplli_01_webp.webp; reference:ValueError:https://www.smbc.co.jp/assets/35ef4693517fc7e5e285fb380174b9c4b00124990e6; reference:ValueError:https://www.smbc.co.jp/kojin/cmn/fonts/Noto_Sans_JP/NotoSansJP-Regular.otf; reference:ValueError:https://www.smbc.co.jp/kojin/cmn/fonts/Noto_Sans_JP/NotoSansJP-Bold.otf",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/smbc/favicon.png",
+      "source_url": "https://www.smbc.co.jp/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 5159,
+      "sha256": "2cc211208ab6e62b0414018c1e7c1073b56b4f8ce7e4a15b29dc6d293b412ac8",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/smbc/og.webp",
+      "source_url": "https://www.smbc.co.jp/images/ogp-icon.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12490,
+      "sha256": "3558aca114c63ce20950fbf7bd01cd6b0456a95eaa47645ab5d4ee92b1a9bee3",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/smbc/banner-1.webp",
+      "source_url": "https://www.smbc.co.jp/kojin/imgs/index_img_kv_shinki_open_account_01_webp.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture picture-img webp-img img div kv div top-kv01 div item fn-carousel_top_list div fn-carousel_top",
+      "content_type": "image/webp",
+      "bytes": 19060,
+      "sha256": "4b64caef366b5be187cf03aed792d550f77b95331f62d0940d0434ac13f0a62f",
+      "width": 1020,
+      "height": 554
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/smbc/banner-2.webp",
+      "source_url": "https://www.smbc.co.jp/kojin/imgs/index_img_kv_shinki_spaplli_01_webp.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture picture-img webp-img img div kv div top-kv01 div item fn-carousel_top_list div fn-carousel_top",
+      "content_type": "image/webp",
+      "bytes": 24694,
+      "sha256": "3d1f5e32e8f0ff15a553a56b13f5e505fbd17bf690743f33fb0174b443682110",
+      "width": 1020,
+      "height": 554
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/smbc/reference-1.webp",
+      "source_url": "https://www.smbc.co.jp/kojin/imgs/index_img_kv_shinki_open_account_01_sp_webp.png",
+      "source_tag": "picture:page-image",
+      "context": "picture picture-img webp-img img div kv div top-kv01 div item fn-carousel_top_list div fn-carousel_top",
+      "content_type": "image/webp",
+      "bytes": 16570,
+      "sha256": "914b5fd44b4f183ed2e93152239c9a2ee21a5a552e104c495ceed923e0455216",
+      "width": 604,
+      "height": 590
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/smbc/reference-2.webp",
+      "source_url": "https://www.smbc.co.jp/kojin/imgs/index_img_kv_shinki_spaplli_01_sp_webp.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture picture-img webp-img img div kv div top-kv01 div item fn-carousel_top_list div fn-carousel_top",
+      "content_type": "image/webp",
+      "bytes": 35934,
+      "sha256": "e564c68898879638283f1a7432f71c984b4b818407c678e5e999192e3f460a17",
+      "width": 750,
+      "height": 676
+    }
+  ]
+}

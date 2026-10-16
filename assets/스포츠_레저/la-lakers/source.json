@@ -1,0 +1,34 @@
+{
+  "company": "Los Angeles Lakers",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.nba.com/lakers",
+  "page_url": "https://www.nba.com/lakers/",
+  "page_title": "Home of the Los Angeles Lakers",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.nba.com/_teams/_next/static/css/b191604fe1dd47b6.css; reference:ValueError:https://www.nba.com/_teams/_next/static/css/3b49263cace77c9e.css; reference:ValueError:https://www.nba.com/_teams/_next/static/css/228a639b634b52e0.css; reference:ValueError:https://www.nba.com/_teams/_next/static/css/d2a04dc5c36adf5f.css; reference:ValueError:https://www.nba.com/_teams/_next/static/css/77a386d2c085e32a.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/la-lakers/favicon.png",
+      "source_url": "https://cdn.nba.com/teams/uploads/sites/1610612747/2021/12/lakers70x70.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7375,
+      "sha256": "5cade8a274b5ea7d296c28db6661cc3762a4e9d63ff3f63238bb1a3671d6593c",
+      "width": 70,
+      "height": 70
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/la-lakers/logo-1.svg",
+      "source_url": "https://cdn.nba.com/teams/uploads/sites/1610612747/2021/12/lakers_70x70.svg",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 22393,
+      "sha256": "81ea9daff79ddc5a8fba4362048d920d43b46a22fa6893c19e1a75248d210a4a",
+      "width": 70,
+      "height": 70
+    }
+  ]
+}

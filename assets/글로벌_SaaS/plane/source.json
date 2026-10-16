@@ -1,0 +1,118 @@
+{
+  "company": "Plane",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://plane.so",
+  "page_url": "https://plane.so/",
+  "page_title": "AI-native project management | Plane",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://plane.so/_next/static/immutable/chunks/1sjtyzyf1uqkc.js; reference:ValueError:https://plausible.io/js/script.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/plane/favicon.png",
+      "source_url": "https://plane.so/favicon/android-chrome-512x512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7179,
+      "sha256": "36eece25d14d372194aa70943535b1d70bfb821376b8aea35f84a8bd307739f3",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/plane/og.webp",
+      "source_url": "https://plane.so/opengraph-image-4usi79.png?opengraph-image.4436jy9bcexkf.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 29488,
+      "sha256": "5179a70926f1a6f8f150756139188556564fd54d41e307a9b53e47692afd1405",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/plane/logo-1.svg",
+      "source_url": "https://plane.so/brand-logos/logo-with-wordmark.svg?dpl=dpl_DQoag5UbJDZTd4a1rPEu82iBqFso",
+      "source_tag": "img:semantic-logo",
+      "context": "img Plane a div div relative w-64 nav flex w-full items-center justify-between",
+      "content_type": "image/svg+xml",
+      "bytes": 3147,
+      "sha256": "39e8bc191c41c99e2ba68fb793241563f70a4af039ce647e6e5c98ff0b9b2fae",
+      "width": 1769,
+      "height": 368
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/plane/favicon.png",
+      "source_url": "https://plane.so/favicon/android-chrome-512x512.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "content_type": "image/png",
+      "bytes": 7179,
+      "sha256": "36eece25d14d372194aa70943535b1d70bfb821376b8aea35f84a8bd307739f3",
+      "width": 256,
+      "height": 256,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/plane/banner-1.webp",
+      "source_url": "https://plane.so/_next/image?url=%2Fhome%2Fv5%2Fhero.webp&w=3840&q=75&dpl=dpl_DQoag5UbJDZTd4a1rPEu82iBqFso",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover hero div relative aspect-[1256/688] hidden md:block div relative div mx-auto w-full px-4 sm:px-8 xl:px-11 xl:max-w-336 2xl:max-w-384 section hero Hero section",
+      "content_type": "image/webp",
+      "bytes": 87856,
+      "sha256": "7a818acc8bc377f3877bfe636e9a7180bc10a0c88fa4f45eac569af4fa5dbc0e",
+      "width": 1800,
+      "height": 986
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/plane/banner-2.webp",
+      "source_url": "https://plane.so/_next/image?url=%2Fhome%2Fv5%2Fhero.webp&w=3200&q=75&dpl=dpl_DQoag5UbJDZTd4a1rPEu82iBqFso",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover hero div relative aspect-[1256/688] hidden md:block div relative div mx-auto w-full px-4 sm:px-8 xl:px-11 xl:max-w-336 2xl:max-w-384 section hero Hero section",
+      "content_type": "image/webp",
+      "bytes": 88042,
+      "sha256": "877357eb4d9b196a994a6db920a8b46eb0b1d8c1d2b00a99dec5e8c7c41f09f3",
+      "width": 1800,
+      "height": 986
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/plane/reference-1.webp",
+      "source_url": "https://plane.so/_next/image?url=%2Fhome%2Fv5%2Fhero-mobile.webp&w=3840&q=75&dpl=dpl_DQoag5UbJDZTd4a1rPEu82iBqFso",
+      "source_tag": "img:page-image",
+      "context": "img object-cover hero div relative aspect-[424/339] md:hidden rounded-xl overflow-hidden div relative div mx-auto w-full px-4 sm:px-8 xl:px-11 xl:max-w-336 2xl:max-w-384 section hero Hero section",
+      "content_type": "image/webp",
+      "bytes": 89160,
+      "sha256": "14e4fdac1a19a50064000c9c2e584f8bf7034f7c0e3054f8ef00aa472470c98b",
+      "width": 1688,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/plane/reference-2.webp",
+      "source_url": "https://plane.so/og/default.png",
+      "source_tag": "json-ld.@graph[0].image",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 44456,
+      "sha256": "5cb8164e185bec7440ad2ab06983b9d5d3d5175f0c8f931471831f05ec323268",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/plane/reference-3.webp",
+      "source_url": "https://plane.so/_next/image?url=%2Fhome%2Fv4%2Fdownload%2Fmobile.webp&w=3840&q=75&dpl=dpl_DQoag5UbJDZTd4a1rPEu82iBqFso",
+      "source_tag": "img:page-image",
+      "context": "img object-cover Self-hosted Plane div relative w-full aspect-[616/469] hidden md:block div grid grid-cols-1 md:grid-cols-2 gap-6 items-center div mx-auto w-full px-4 sm:px-8 xl:px-11 xl:max-w-336 2xl:max-w-384 section download py-20 bg-[#0",
+      "content_type": "image/webp",
+      "bytes": 63262,
+      "sha256": "3e78c39593691c21f39c3c169f189f2b66d97a1e3e2895398b8e5565db9c82ad",
+      "width": 1773,
+      "height": 1350
+    }
+  ]
+}

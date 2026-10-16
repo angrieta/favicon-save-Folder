@@ -1,0 +1,33 @@
+{
+  "company": "The Light Phone",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.thelightphone.com/",
+  "page_url": "https://www.thelightphone.com/",
+  "page_title": "The Light Phone",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://www.thelightphone.com/assets/images/light-logo.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/light-phone/favicon.png",
+      "source_url": "https://www.thelightphone.com/favicon.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 8825,
+      "sha256": "80900012401cc7a9e155249666c7ccc50044d36b8b762e8de5ed34603e21abc6",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/light-phone/og.webp",
+      "source_url": "https://www.thelightphone.com/assets/images/social-share-card-flip.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11224,
+      "sha256": "99ef7906a41762af922b7adabbd3283a7bf81a545ca9bb71be1cd95446f0d23d",
+      "width": 720,
+      "height": 481
+    }
+  ]
+}

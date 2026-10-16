@@ -1,0 +1,82 @@
+{
+  "company": "BBC",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.bbc.com/",
+  "page_url": "https://www.bbc.com/",
+  "page_title": "BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio",
+  "collection_status": "partial",
+  "collection_error": "logo:ConnectionError:https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/bbc/favicon.png",
+      "source_url": "https://static.files.bbci.co.uk/bbcdotcom/web/20260922-091849-a8520cb5b4-web-3.22.0-3/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 599,
+      "sha256": "b6ae6d28f369313f07d8b25473ec7fc0ac9295b846cbda9f2ce659124b9996b1",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/bbc/logo-1.webp",
+      "source_url": "https://ichef.bbci.co.uk/news/480/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img Image-styles__ImageStyled-sc-8c99a12b-0 cVsHni Apple logo illuminated on a black sign outside an Apple Store in Washington DC div Image-styles__ImageCardStyled-sc-8c99a12b-1 erovmj div Dundee-styles__CardMediaStyled-sc-50abbc98-4 gZwtmn",
+      "content_type": "image/webp",
+      "bytes": 10476,
+      "sha256": "c72558f07794dc00462c1b422b068a55574f9d4ef7d241ed6396d5e6b9e27206",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/bbc/logo-2.webp",
+      "source_url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img Image-styles__ImageStyled-sc-8c99a12b-0 cVsHni Apple logo illuminated on a black sign outside an Apple Store in Washington DC div Image-styles__ImageCardStyled-sc-8c99a12b-1 erovmj div Dundee-styles__CardMediaStyled-sc-50abbc98-4 gZwtmn",
+      "content_type": "image/webp",
+      "bytes": 55624,
+      "sha256": "79e98d088d5affeb9277f022afc2fc8ddece61ad0887d7479129498900800d8f",
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/bbc/reference-1.webp",
+      "source_url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/84f5/live/9e043b70-bc02-11f1-bc1f-3f186ca4140c.jpg.webp",
+      "source_tag": "img:page-image",
+      "context": "img Image-styles__ImageStyled-sc-8c99a12b-0 cVsHni Police officers guard an area as roadblocks remain in place near RAF Fairford airbase, after police declared a major incident at the base and arrested several men on suspicion of offences u",
+      "content_type": "image/webp",
+      "bytes": 110334,
+      "sha256": "77de14eb30324f7f8e5f32dd282ff5089f8d1c8a80658d5eaec82c5b08e2dd04",
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/bbc/reference-2.webp",
+      "source_url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/84f5/live/9e043b70-bc02-11f1-bc1f-3f186ca4140c.jpg.webp",
+      "source_tag": "img:page-image",
+      "context": "img Image-styles__ImageStyled-sc-8c99a12b-0 cVsHni Police officers guard an area as roadblocks remain in place near RAF Fairford airbase, after police declared a major incident at the base and arrested several men on suspicion of offences u",
+      "content_type": "image/webp",
+      "bytes": 65114,
+      "sha256": "36ef5a026fc8ca9fc31984cae7a1a6d5fd5ce47a5effb69f2ae24b07685cdded",
+      "width": 1024,
+      "height": 576
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/bbc/reference-3.webp",
+      "source_url": "https://ichef.bbci.co.uk/news/1536/cpsprodpb/b861/live/6118f210-bc01-11f1-bc1f-3f186ca4140c.jpg.webp",
+      "source_tag": "img:page-image",
+      "context": "img Image-styles__ImageStyled-sc-8c99a12b-0 cVsHni Daniel Sandford (l) and an armed police officer with a 'police stop' sign in the foreground (r) div Image-styles__ImageCardStyled-sc-8c99a12b-1 erovmj div Dundee-styles__CardMediaStyled-sc-",
+      "content_type": "image/webp",
+      "bytes": 83600,
+      "sha256": "46bf6e6d6c065f01dcaa6ec85b25c50291a0036c8391c8f129b420ac2c9cf511",
+      "width": 1536,
+      "height": 864
+    }
+  ]
+}

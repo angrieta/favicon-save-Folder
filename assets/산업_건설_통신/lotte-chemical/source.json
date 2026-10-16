@@ -1,0 +1,57 @@
+{
+  "company": "롯데케미칼",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.lottechem.com/",
+  "page_url": "https://www.lottechem.com/",
+  "page_title": "롯데케미칼",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.lottechem.com/download.do?fileId=FILE_260831165836218",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/lotte-chemical/favicon.png",
+      "source_url": "https://www.lottechem.com/public/ko/images/common/favicon.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1249,
+      "sha256": "1ba03599595e04798596f5498875c4cf3c0ede40f6597df747c45971336f6d6f",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/lotte-chemical/og.webp",
+      "source_url": "https://www.lottechem.com/public/ko/images/main/ogimage.jpeg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2802,
+      "sha256": "904ad2e1d2bbbce81c76ccff061398f9e4513268be95727d55916ce23d73efb4",
+      "width": 410,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/lotte-chemical/logo-1.png",
+      "source_url": "https://www.lottechem.com/public/ko/images/common/logo_w.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo_white div logo div all-menu-extra div all-menu-wrap body",
+      "content_type": "image/png",
+      "bytes": 3382,
+      "sha256": "e20790315749709184321fa3547305611c170e38e27328492efab70cce887669",
+      "width": 282,
+      "height": 44
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/lotte-chemical/logo-2.png",
+      "source_url": "https://www.lottechem.com/public/ko/images/common/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div flogo div inner footer footer body",
+      "content_type": "image/png",
+      "bytes": 3919,
+      "sha256": "f2bc9feaad9dc06f296e310ee810ea2519614257921afe20b05f8fe23c79a8dc",
+      "width": 255,
+      "height": 41
+    }
+  ]
+}

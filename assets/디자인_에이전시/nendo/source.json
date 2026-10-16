@@ -1,0 +1,108 @@
+{
+  "company": "nendo",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.nendo.jp",
+  "page_url": "https://www.nendo.jp/",
+  "page_title": "nendo",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/nendo/favicon.png",
+      "source_url": "https://www.nendo.jp/wp/wp-content/uploads/2013/01/favicon.fw_.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 653,
+      "sha256": "9b371e6567a5b73962a8b4123d21cae10415876d60c1620bb2b96c4b9c2e7ca7",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/nendo/og.webp",
+      "source_url": "http://www.nendo.jp/wp/wp-content/themes/nendo/img/nendo_logo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 558,
+      "sha256": "cedc5c82e2d5d15213ae2df6ab481121a16fad139c9dfe36edec791dbf60708c",
+      "width": 245,
+      "height": 155
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/nendo/logo-1.svg",
+      "source_url": "https://www.nendo.jp/wp/wp-content/themes/nendo2025/img/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img lazyload nendo a navbar-brand mr-auto nav navbar navbar-expand-lg div container-nav header masthead site-header sticky-top",
+      "content_type": "image/svg+xml",
+      "bytes": 3159,
+      "sha256": "dedc6338107f16eafd8df9643d90c3bf3183f8d7f9c8998868e2446924bbff14",
+      "width": 216,
+      "height": 32,
+      "source_sha256": "d89cffdef52db5e3cd5fda1e1645ed6e2fde9aa34647c164d36837cae89f8ea4"
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/nendo/logo-2.png",
+      "source_url": "https://www.nendo.jp/wp/wp-content/uploads/2013/01/nd-logo.png",
+      "source_tag": "json-ld.@graph[4].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 742,
+      "sha256": "69785b24ac4fa69d6d7f3c80ec9120ac6fa716c3b9c92d41de26873406df5772",
+      "width": 274,
+      "height": 63
+    },
+    {
+      "type": "banner",
+      "path": "assets/디자인_에이전시/nendo/banner-1.webp",
+      "source_url": "https://www.nendo.jp/wp/wp-content/uploads/2026/08/home_top_yoko.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div slider-item slider-item--text-white div top-carousel row-full main-slider div top-carousel-container div entry-content",
+      "content_type": "image/webp",
+      "bytes": 22988,
+      "sha256": "053a4466bee528060dc55fa05edc427c8db9a7b64adeb7e49d452b7918290b1d",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/nendo/reference-1.webp",
+      "source_url": "https://www.nendo.jp/wp/wp-content/uploads/2026/08/home_top_tate-1.jpg",
+      "source_tag": "source:page-image",
+      "context": "source picture div slider-item slider-item--text-white div top-carousel row-full main-slider div top-carousel-container",
+      "content_type": "image/webp",
+      "bytes": 18642,
+      "sha256": "e5a70d478d5ea58138ecef08684486854452fe74f43cf8ce6a358d12173b3fc2",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/nendo/reference-2.webp",
+      "source_url": "https://www.nendo.jp/wp/wp-content/uploads/2026/04/top_page_thumbnail_pc.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div slider-item slider-item--text-white div top-carousel row-full main-slider div top-carousel-container div entry-content",
+      "content_type": "image/webp",
+      "bytes": 73172,
+      "sha256": "c1c3c8d8c92d690a0684df1a6b17c3c9f21e8c4cf07c04c2f0dd9fdb7686317f",
+      "width": 1600,
+      "height": 800,
+      "source_sha256": "51026b520680013954cae20698fd1a726aba1b711be87605d4132cfc6674e188"
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/nendo/reference-3.webp",
+      "source_url": "https://www.nendo.jp/wp/wp-content/uploads/2026/04/top_page_thumbnail_sp.webp",
+      "source_tag": "source:page-image",
+      "context": "source picture div slider-item slider-item--text-white div top-carousel row-full main-slider div top-carousel-container",
+      "content_type": "image/webp",
+      "bytes": 67372,
+      "sha256": "bec6bdcc3398024e92e5d9aca40b6295f6b21a97ea268043ca578acdb22a1e5c",
+      "width": 1080,
+      "height": 1350,
+      "source_sha256": "7a729bc928b812128c6aa506d996704408602beb37ae922256f4977dae3817b5"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "company": "Nanoleaf",
+  "category": "가전_디바이스",
+  "requested_url": "https://nanoleaf.me/",
+  "page_url": "https://nanoleaf.me/en-int",
+  "page_title": "Nanoleaf | LED Light Panels, AI-Powered Experiences & Wellness",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://nanoleaf.me/cdn/shop/t/5/assets/logo.png?v=9561",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/nanoleaf/favicon.svg",
+      "source_url": "https://nanoleaf.me/cdn/shop/files/nanoleaf_core_logo.svg?crop=center&height=64&v=1784211200&width=64",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1634,
+      "sha256": "ed4699de537d2c0537547ad72e571c289525a8392db7dab7827ddf510f741f85",
+      "width": 48,
+      "height": 48,
+      "source_sha256": "4891177c060abd7d1d162c5fc91851b07e2b1a2a794601702f4842ed133e7699"
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/nanoleaf/og.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0712/9114/2378/files/All_products_Canvas.LP.Hex_Entertainment_room2_4000x2250_34324b88-17a6-4f73-b25c-c24315df95eb.jpg?v=1778104669",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 73688,
+      "sha256": "b2d56e50e8eb7590b78fc261f74647ba1b2c1dc426cfa7f6dd9adcc4cc092501",
+      "width": 1200,
+      "height": 758
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/nanoleaf/logo-1.svg",
+      "source_url": "https://nanoleaf.me/cdn/shop/files/Nanoleaf_Logo-Updated_Green.svg?v=1784211185&width=400",
+      "source_tag": "img:semantic-logo",
+      "context": "img nf-header__logo-img Nanoleaf a nf-header__logo Nanoleaf div nf-header__inner header nf-header nf-header--desktop div shopify-section-sections--18379204886762__header shopify-section shopify-section-group-header-group header-section",
+      "content_type": "image/svg+xml",
+      "bytes": 6389,
+      "sha256": "9777c2f6ec81a0e0801e146e53302e16a200dd0d66a1b6ff8a922a9d83f079ec",
+      "width": 461,
+      "height": 75,
+      "source_sha256": "7c98b17180e9034030e0589eab80141120231521f09385ab11b434776ea2675d"
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/nanoleaf/logo-2.webp",
+      "source_url": "https://nanoleaf.me/cdn/shop/files/nl-int-GU10_Single_Bulb_Hero_Image_wo_matter_logo_1.png?v=1786348861&width=360",
+      "source_tag": "img:semantic-logo",
+      "context": "img nf-card__img Nanoleaf Smart LED Spotlights div nf-card__img-wrap a nf-card nf-card--m nf-card--light nf-card--zoom Nanoleaf Smart LED Spotlights — ₩28,000 div nf-mega__products-row div nf-mega__products-scroll",
+      "content_type": "image/webp",
+      "bytes": 3198,
+      "sha256": "dbdf5a5905adb65d0fb7a436258246f65608a2abc6b9994334ed574d3b3f37b2",
+      "width": 360,
+      "height": 360
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/nanoleaf/banner-1.webp",
+      "source_url": "https://nanoleaf.me/cdn/shop/collections/corporate-homepage-segment-home-and-lighting.png?v=1785454159&width=760",
+      "source_tag": "img:semantic-banner",
+      "context": "img nf-mega__hero-img Home & Lighting a nf-mega__hero div nf-mega__layout div nf-mega nf-segment-mega div nf-header__inner",
+      "content_type": "image/webp",
+      "bytes": 61824,
+      "sha256": "c2abbd1b71c7a963c47216c2fc4d235a9fabcb6b601fc65d18414ca3a8401640",
+      "width": 760,
+      "height": 428
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/nanoleaf/reference-1.webp",
+      "source_url": "https://nanoleaf.me/cdn/shop/files/Shapes_Hex_9x_Warm.png?v=1786646431&width=540",
+      "source_tag": "img:page-image",
+      "context": "img nf-card__img nf-card__img--catalogue Nanoleaf Shapes Starter Kits div nf-card__img-wrap a nf-card nf-card--m nf-card--light nf-card--zoom Nanoleaf Shapes Starter Kits — ₩249,000 div nf-mega__products-row div nf-mega__products-scroll",
+      "content_type": "image/webp",
+      "bytes": 8694,
+      "sha256": "585ca655c6ead8cb03f36e71e1bdeab62c4a851f3f66b4ece00e191e6e6986f2",
+      "width": 540,
+      "height": 540
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/nanoleaf/reference-2.webp",
+      "source_url": "https://nanoleaf.me/cdn/shop/files/CeilingRingLight_Floating_Back_ON_Front_ON_Gradient.png?v=1786351790&width=540",
+      "source_tag": "img:page-image",
+      "context": "img nf-card__img nf-card__img--catalogue Nanoleaf Smart Ceiling Light div nf-card__img-wrap a nf-card nf-card--m nf-card--light nf-card--zoom Nanoleaf Smart Ceiling Light — ₩111,000 div nf-mega__products-row div nf-mega__products-scroll",
+      "content_type": "image/webp",
+      "bytes": 15208,
+      "sha256": "1243d68f72ae5fa76a88119950b6e6d54e0d4cfabc62c5c9353cfce52b026432",
+      "width": 540,
+      "height": 540
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/nanoleaf/reference-3.webp",
+      "source_url": "https://nanoleaf.me/cdn/shop/files/FloorLamp_ON_4000x4000px.png?v=1786346687&width=540",
+      "source_tag": "img:page-image",
+      "context": "img nf-card__img nf-card__img--catalogue Nanoleaf Smart Floor Lamp div nf-card__img-wrap a nf-card nf-card--m nf-card--light nf-card--zoom Nanoleaf Smart Floor Lamp — ₩111,000 div nf-mega__products-row div nf-mega__products-scroll",
+      "content_type": "image/webp",
+      "bytes": 3740,
+      "sha256": "b90fbd57491ee0bdcb11022fbb5415d531c1c6564b4730c8ae26c7bf6d94d50b",
+      "width": 540,
+      "height": 540
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "company": "디에디트",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://the-edit.co.kr/",
+  "page_url": "https://the-edit.co.kr/",
+  "page_title": "디에디트 - 사는 재미가 없으면, 사는 재미라도",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/the-edit/favicon.png",
+      "source_url": "https://the-edit.co.kr/wp-content/uploads/2019/05/cropped-logo_theedit_small-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 12447,
+      "sha256": "026f662128887ae9b5f994fe2eab1a4922b57501bc1255ae77c1c62628d62ac7",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/the-edit/logo-1.webp",
+      "source_url": "https://the-edit.co.kr/wp-content/uploads/2023/11/95ca35a3a2e3335f3be8dd6e9df05b2ece40c700cd8c6b974285e42c322afb72_161487588592866.jpg",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 4198,
+      "sha256": "d1b6cb221d1a92cb3958d2d7756f02acae9e80e1e6a62448afdd11e0ac6002b5",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/the-edit/logo-2.svg",
+      "source_url": "https://the-edit.co.kr/wp-content/themes/theedit-data/resources/images/logo-light.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div footer-logo mobile-only div col-lg-12 div row div container-fluid",
+      "content_type": "image/svg+xml",
+      "bytes": 3115,
+      "sha256": "18b9948aedba97ac0b5941f386eefab34345d610d47993eed2f02d51d6b700bd",
+      "width": 200,
+      "height": 54
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/the-edit/reference-1.webp",
+      "source_url": "https://the-edit.co.kr/wp-content/uploads/2026/09/zara_top.webp",
+      "source_tag": "img:page-image",
+      "context": "img attachment-full size-full wp-post-image 자라 div image div loop-home-featured div home-list-sticky-item div home-list-sticky",
+      "content_type": "image/webp",
+      "bytes": 106746,
+      "sha256": "2eba14017f3047ca2a70a49ddbea8725fa1a46edfe3f9b7af8629f662a9a239d",
+      "width": 900,
+      "height": 1350,
+      "source_sha256": "b598aac70f51e4b3a606f57a25a0f4f30c48e900bba43ad5265700be9a7e5b3c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/the-edit/reference-2.webp",
+      "source_url": "https://the-edit.co.kr/wp-content/uploads/2026/09/zara_top-1365x2048.webp",
+      "source_tag": "img:page-image",
+      "context": "img attachment-full size-full wp-post-image 자라 noscript img attachment-full size-full wp-post-image div image div loop-home-featured",
+      "content_type": "image/webp",
+      "bytes": 86552,
+      "sha256": "e47a8ceee00482ef356a2900306cb292f96b9a5b1a2797cbbf6f5643b6c8e31c",
+      "width": 900,
+      "height": 1350,
+      "source_sha256": "a6a3bbff2cae6309f48271fa42670aeb07d2e36f43fad37a7b4be45c8298f376"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/the-edit/reference-3.webp",
+      "source_url": "https://the-edit.co.kr/wp-content/uploads/2023/11/430_son.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div author-image a author div desc div loop-home-featured",
+      "content_type": "image/webp",
+      "bytes": 13274,
+      "sha256": "3c294e8c37b779ab6613a14ea50e7b6ca80b9fed3b8fc132e65b80f8d8d6a443",
+      "width": 430,
+      "height": 430
+    }
+  ]
+}

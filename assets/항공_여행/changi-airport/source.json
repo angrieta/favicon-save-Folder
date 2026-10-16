@@ -1,0 +1,82 @@
+{
+  "company": "Changi Airport",
+  "category": "항공_여행",
+  "requested_url": "https://www.changiairport.com/",
+  "page_url": "https://www.changiairport.com/",
+  "page_title": "Airport",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/changi-airport/favicon.png",
+      "source_url": "https://www.changiairport.com/etc.clientlibs/changiairport/clientlibs/clientlib-site/resources/icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 30017,
+      "sha256": "cefb7644f1497a37f28e5303ab8cdabd6773577bf612fff4bf5ca96156c86ef4",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/changi-airport/logo-1.png",
+      "source_url": "https://www.changiairport.com/content/dam/changiairport/common/header/logo-light.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 11661,
+      "sha256": "04dd90f9f0ab0e0f0af901921c616fc8c888a240bead4464aec605e334b03ee9",
+      "width": 483,
+      "height": 131
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/changi-airport/logo-2.svg",
+      "source_url": "https://www.changiairport.com/content/dam/changiairport/sg/airport/evergreen/homepage/Logo_CAG_Horizontal_RGB_Pos.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Logo CAG Horizontal RGB Pos div header_mobile-logo div header_mobile-top div header_mobile div header_utility__wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 8119,
+      "sha256": "aabaece30b0809b2d8d869d646740ed14d13931ef512728d252771c21f50ea5c",
+      "width": 138,
+      "height": 37
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/changi-airport/banner-1.webp",
+      "source_url": "https://www.changiairport.com/content/dam/changiairport/sg/airport/seasonal/promos/2026/fly-with-changi-rewards-and-singapore-airlines/cr-sa-banner.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div image-9155ec8dd6 cmp-image div cmp-teaser__image div teaser cmp-teaser__card a",
+      "content_type": "image/webp",
+      "bytes": 82428,
+      "sha256": "cb7dc206e1c658c04a7e63a4e47d6c507a805cef20512d5ebbbbd21dcfe45e58",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/changi-airport/reference-1.webp",
+      "source_url": "https://www.changiairport.com/content/dam/changiairport/sg/airport/seasonal/events-and-campaigns/2026/formula-one-2026/life-size-f1-car-in-t2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img  Race Season at Changi Airport and Jewel div cmp-teaser__image div cmp-teaser div teaser img-card a teaser standard-card",
+      "content_type": "image/webp",
+      "bytes": 197728,
+      "sha256": "9ffdfc1ffaf5f509960ac4c855f2728b6f0b165c823ce2bcd4282bdfac2b7671",
+      "width": 1800,
+      "height": 1012
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/changi-airport/reference-2.webp",
+      "source_url": "https://www.changiairport.com/content/dam/changiairport/sg/airport/seasonal/events-and-campaigns/2025/lcd-miffy-garden-in-changi/outlets-deals/baba-nyonya-outlet-deals-cf.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div image-21b0771e45 cmp-image div cmp-teaser__image div teaser cmp-teaser__card a",
+      "content_type": "image/webp",
+      "bytes": 94666,
+      "sha256": "6528e503c41b25d11bab0953210e75a1ff6f9ca0da0e9772176dc4d9d966fa83",
+      "width": 1200,
+      "height": 800
+    }
+  ]
+}

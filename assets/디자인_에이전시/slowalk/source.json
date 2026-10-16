@@ -1,0 +1,82 @@
+{
+  "company": "슬로워크",
+  "category": "디자인_에이전시",
+  "requested_url": "https://slowalk.com",
+  "page_url": "https://slowalk.com/",
+  "page_title": "슬로워크 블로그",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://tistory2.daumcdn.net/tistory/2882984/skin/images/img_cover_footer.png; reference:HTTPError:https://tistory2.daumcdn.net/tistory/2882984/skin/images/img_cover_footer.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/slowalk/favicon.png",
+      "source_url": "https://slowalk.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 885,
+      "sha256": "d5841e8adbf28404209f3f4dab8bbdbfbc6d8c39d5d839c42f08282586f4adf2",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/slowalk/og.webp",
+      "source_url": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F243ADD4A58EDD5A820",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5120,
+      "sha256": "9e62f3b83dc7ed25364637b6bcc63a1f88f730aadfc4ca1b088f60a446ab32c5",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/slowalk/logo-1.svg",
+      "source_url": "https://tistory3.daumcdn.net/tistory/3092718/skin/images/slowalk_blog_testlogo250x47.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 슬로워크 a h1 div header-wrap header header",
+      "content_type": "image/svg+xml",
+      "bytes": 3057,
+      "sha256": "c6426ce942fdc670c4b7b1c109fb44e8f21893ff10abe14ef9e5f35a6a4ae9c2",
+      "width": 250,
+      "height": 47,
+      "source_sha256": "bda161ed84f6b8e1ec4faf9f99d28219af3b04a076aa95802f2440f2d0ffeb9f"
+    },
+    {
+      "type": "banner",
+      "path": "assets/디자인_에이전시/slowalk/banner-1.webp",
+      "source_url": "https://tistory4.daumcdn.net/tistory/175604/skinCover/9d719d6f7a7d4d4ab51d8df54419599f",
+      "source_tag": "inline-background-image",
+      "context": "li   background-image:url(https://tistory4.daumcdn.net/tistory/175604/skinCover/9d719d6f7a7d4d4ab51d8df54419599f)",
+      "content_type": "image/webp",
+      "bytes": 30784,
+      "sha256": "0a128704cb1a7c06906cf7a011ecd889595023161741f6d5e85dcd2183b603e4",
+      "width": 1400,
+      "height": 728
+    },
+    {
+      "type": "banner",
+      "path": "assets/디자인_에이전시/slowalk/banner-2.webp",
+      "source_url": "https://tistory2.daumcdn.net/tistory/175604/skinCover/32286f83b94d4b208585a72b30a8aa3f",
+      "source_tag": "inline-background-image",
+      "context": "li   background-image:url(https://tistory2.daumcdn.net/tistory/175604/skinCover/32286f83b94d4b208585a72b30a8aa3f)",
+      "content_type": "image/webp",
+      "bytes": 49708,
+      "sha256": "67714e98a514244de2fee05529e82a0ed5ca62dad85a7faebc9e230d17e3250f",
+      "width": 1400,
+      "height": 728
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/slowalk/reference-1.webp",
+      "source_url": "https://tistory2.daumcdn.net/tistory/175604/skinCover/4303ef7754884a0899e99caf2cf7e934",
+      "source_tag": "inline-background-image",
+      "context": "li   background-image:url(https://tistory2.daumcdn.net/tistory/175604/skinCover/4303ef7754884a0899e99caf2cf7e934)",
+      "content_type": "image/webp",
+      "bytes": 11326,
+      "sha256": "643e94c2bc7e20a8898440f059a48fe25db4c46638ad0d21df05f386352089c8",
+      "width": 1400,
+      "height": 728
+    }
+  ]
+}

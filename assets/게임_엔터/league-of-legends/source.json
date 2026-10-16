@@ -1,0 +1,60 @@
+{
+  "company": "League of Legends",
+  "category": "게임_엔터",
+  "requested_url": "https://www.leagueoflegends.com/ko-kr/",
+  "page_url": "https://www.leagueoflegends.com/ko-kr/",
+  "page_title": "리그 오브 레전드",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/8ab3e227121c53aacab0c9b9f7a48adbc65db520.webm?accountingTag=LoL; reference:ValueError:https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/8ab3e227121c53aacab0c9b9f7a48adbc65db520.webm?accountingTag=LoL; reference:ValueError:https://www.leagueoflegends.com/_next/static/css/112495035b880485.css; reference:ValueError:https://www.leagueoflegends.com/_next/static/css/d22fe4243c447d5f.css; reference:ValueError:https://cmsassets.rgpub.io/sanity/files/dsfx7636/news/1f5b2cf01a1cf2afa1ce61febee6e2e900808347.mp4?accountingTag=LoL",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/league-of-legends/favicon.svg",
+      "source_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3b7bd9decb1e1672dcb80be4f8bc1aa05490dc1-110x70.svg?accountingTag=LoL",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 943,
+      "sha256": "bf03c1e40f377492fd68bf8f83fd40a1ed41350af05743eb4c13ff34cc9a58ac",
+      "width": 110,
+      "height": 70,
+      "source_sha256": "ef05825d9d8fe46ee7aeb70be1dc15ecb0925eb47e22d2dcf19049d9c9cb216b"
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/league-of-legends/og.svg",
+      "source_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3b7bd9decb1e1672dcb80be4f8bc1aa05490dc1-110x70.svg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "source_tag": "og:image",
+      "content_type": "image/svg+xml",
+      "bytes": 8120,
+      "sha256": "2c060f3a54e084ed0cdebe0cc31caa76ec278f7fce107ca3b96526431fb4d60b",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/league-of-legends/favicon.svg",
+      "source_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3b7bd9decb1e1672dcb80be4f8bc1aa05490dc1-110x70.svg?accountingTag=LoL",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "content_type": "image/svg+xml",
+      "bytes": 943,
+      "sha256": "bf03c1e40f377492fd68bf8f83fd40a1ed41350af05743eb4c13ff34cc9a58ac",
+      "width": 110,
+      "height": 70,
+      "context": "structured data logo",
+      "reused_from": "favicon",
+      "source_sha256": "ef05825d9d8fe46ee7aeb70be1dc15ecb0925eb47e22d2dcf19049d9c9cb216b"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/league-of-legends/reference-1.svg",
+      "source_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3b7bd9decb1e1672dcb80be4f8bc1aa05490dc1-110x70.svg?accountingTag=LoL&w=1200&h=630&fm=webp&fit=crop&crop=center",
+      "source_tag": "json-ld.@graph[2].image",
+      "context": "structured data image",
+      "content_type": "image/svg+xml",
+      "bytes": 9548,
+      "sha256": "474f2b04f83d2cf1c86b42d2efb36194daa1d58650a88fb431dc8ab49d65abf4",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "company": "UNHCR",
+  "category": "문화_공공",
+  "requested_url": "https://www.unhcr.org/kr/",
+  "page_url": "https://www.unhcr.org/kr/",
+  "page_title": "UNHCR - the UN Refugee Agency",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.unhcr.org/kr/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/unhcr/favicon.ico",
+      "source_url": "https://services.unhcr.org/assets/img/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "b4aab01443574e1b92da0a29ca0800a1b1865f1ef07da7ff1fb5715d1d05e459",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/unhcr/og.webp",
+      "source_url": "https://static.unhcr.org/assets/img/unhcr-logo-share-og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11870,
+      "sha256": "2a5155ae8b5716d3611ede55276b7072ed94cf7322a72e145c1d0dda0ae45aa7",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

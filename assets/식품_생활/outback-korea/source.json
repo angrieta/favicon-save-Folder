@@ -1,0 +1,93 @@
+{
+  "company": "아웃백 스테이크하우스",
+  "category": "식품_생활",
+  "requested_url": "https://www.outback.co.kr",
+  "page_url": "https://www.outback.co.kr/",
+  "page_title": "아웃백 스테이크 하우스(Outback Steakhouse)",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/outback-korea/favicon.ico",
+      "source_url": "https://www.outback.co.kr/asset/images/common/favicon.ico?v=2",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "a2de83c1df5d804f468c6b1135380e95c11037872887e0c678bd53428c7b8054",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/outback-korea/og.webp",
+      "source_url": "https://www.outback.co.kr/asset/images/common/sns.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8176,
+      "sha256": "655848c106fe832402d2d029f491ffca42157be600eadd8ae2702f89d902b323",
+      "width": 800,
+      "height": 394
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/outback-korea/logo-1.webp",
+      "source_url": "https://www.outback.co.kr/asset/images/common/img_bottom_brand1.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img bhc 바로가기 a li ul div bottom-brand-list",
+      "content_type": "image/webp",
+      "bytes": 16878,
+      "sha256": "65449e00fc7b1fe15d667d6fbbfcdb7a21d68a148ca46cec5f849d62354cef9c",
+      "width": 740,
+      "height": 440
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/outback-korea/logo-2.png",
+      "source_url": "https://www.outback.co.kr/asset/images/common/img_bottom_brand6.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img bhc 바로가기 a li ul div bottom-brand-list",
+      "content_type": "image/png",
+      "bytes": 7031,
+      "sha256": "3169fe4013347d701fa1e779b94d2446fd3434a49f7bb7269893a2f43c716ee1",
+      "width": 263,
+      "height": 217
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/outback-korea/reference-1.webp",
+      "source_url": "https://www.outback.co.kr/upload/mainVisual/20260910/20260910024500821036.webp",
+      "source_tag": "img:page-image",
+      "context": "img # a btn-cell li ul div item-big",
+      "content_type": "image/webp",
+      "bytes": 249040,
+      "sha256": "3096568f143228ac148e257cc8548046012f7bdddbedb702dd28a066b96f17e6",
+      "width": 1800,
+      "height": 844
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/outback-korea/reference-2.webp",
+      "source_url": "https://www.outback.co.kr/upload/mainVisual/20260831/20260831191309733024.webp",
+      "source_tag": "img:page-image",
+      "context": "img # a btn-cell li ul div item-big",
+      "content_type": "image/webp",
+      "bytes": 216840,
+      "sha256": "d68df7d14c123da36282019b0c01b873fddf70cf9f4eb028d5820ebb3c44aa5d",
+      "width": 1800,
+      "height": 844
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/outback-korea/reference-3.webp",
+      "source_url": "https://www.outback.co.kr/upload/mainVisual/20260831/20260831191358658028.webp",
+      "source_tag": "img:page-image",
+      "context": "img # a btn-cell li ul div item-big",
+      "content_type": "image/webp",
+      "bytes": 238602,
+      "sha256": "8c155778b2c6aa14d8c402fb2e628b4458883f82b2fffd47ba2eb810332b0323",
+      "width": 1800,
+      "height": 844
+    }
+  ]
+}

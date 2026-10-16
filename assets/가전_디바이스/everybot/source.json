@@ -1,0 +1,93 @@
+{
+  "company": "에브리봇",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.everybot.co.kr/",
+  "page_url": "https://www.everybot.co.kr/",
+  "page_title": "에브리봇 l 기업홈페이지",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://video.fivesense.co.kr/everybot_main_banner1_m.webm?v=2; banner:ValueError:https://video.fivesense.co.kr/everybot_main_banner1_m.mp4?v=2; reference:ValueError:https://video.fivesense.co.kr/everybot_main_banner1.webm?v=2; reference:ValueError:https://video.fivesense.co.kr/everybot_main_banner1.mp4?v=2; reference:ValueError:https://video.fivesense.co.kr/everybot_main_banner1_m.webm?v=2; reference:ValueError:https://video.fivesense.co.kr/everybot_main_banner1_m.mp4?v=2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/everybot/favicon.ico",
+      "source_url": "https://everybot.co.kr/data/apms/seo/seo_260727102221.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "a13cb21be0594b6880a0ed58e3c16758151a2640d3ce5701c5ef64fd6b0a70cb",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/everybot/og.webp",
+      "source_url": "https://everybot.co.kr/data/apms/seo/seo_260727102221.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3066,
+      "sha256": "eb70fefa13d0175f79c126fbb59a21e6312c460209006e09924e8a2031e4aa1a",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/everybot/logo-1.png",
+      "source_url": "https://www.everybot.co.kr/data/apms/seo/logo1_260608154103.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo_b 에브리봇(주) a h1 logo_box element_box div menu_ul_left div nav-top nav-both nav-slide",
+      "content_type": "image/png",
+      "bytes": 5756,
+      "sha256": "22b5f8b6c310c6bde5637069036f2b40987dc9a4cbcfac56762f5a19bce2f3f2",
+      "width": 185,
+      "height": 37
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/everybot/logo-2.png",
+      "source_url": "https://www.everybot.co.kr/data/apms/seo/logo2_260608134145.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo_w 에브리봇(주) a h1 logo_box element_box div menu_ul_left div nav-top nav-both nav-slide",
+      "content_type": "image/png",
+      "bytes": 2704,
+      "sha256": "aab875549c9f2be8389a770c18157e5106562288aa6b52cb93b6c4c4ce5960d7",
+      "width": 185,
+      "height": 37
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/everybot/reference-1.webp",
+      "source_url": "https://www.everybot.co.kr/img/main_sec02_bg_img.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img_container div main_cont_container hidden-xs hidden-sm div itqhrmducopselnkfgj BF1_2 div widget-wrap",
+      "content_type": "image/webp",
+      "bytes": 3006,
+      "sha256": "5a4a19e4dbedeb7b220e6fcf1a6ebd4e1e2c99c9764cdc4a04b1f3cea5441257",
+      "width": 1800,
+      "height": 891
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/everybot/reference-2.webp",
+      "source_url": "https://www.everybot.co.kr/img/main_sec02_bg_mimg.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img_container div main_cont_container hidden-lg hidden-md div itqhrmducopselnkfgj BF1_2 div widget-wrap",
+      "content_type": "image/webp",
+      "bytes": 1700,
+      "sha256": "d39f6db313650bafb0cf3ba1022ad185c09aca51137a5d7335815d87df2cb45b",
+      "width": 720,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/everybot/reference-3.webp",
+      "source_url": "https://www.everybot.co.kr/data/apms/background/scroll_pc1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img hidden-sm hidden-xs div img_wrap div img_container div item li item_container",
+      "content_type": "image/webp",
+      "bytes": 3544,
+      "sha256": "a90fd8f632652ba5bdb1c182f32b2368fad540e9ebe08e2d269cb2e7b645f42f",
+      "width": 1800,
+      "height": 640
+    }
+  ]
+}

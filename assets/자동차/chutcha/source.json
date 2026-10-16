@@ -1,0 +1,118 @@
+{
+  "company": "첫차",
+  "category": "자동차",
+  "requested_url": "https://web.chutcha.net/",
+  "page_url": "https://web.chutcha.net/",
+  "page_title": "600만이 선택한 중고차 플랫폼 - 첫차",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/chutcha/favicon.ico",
+      "source_url": "https://img.chutcha.kr/files/website/common/icon/chutcha.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "1b12a447e3c788e50f1d31deb21f75c106afcf847946e465d2d592142ae7ef29",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/chutcha/og.webp",
+      "source_url": "https://img.chutcha.kr/files/website/chutcha_web/common/og_chutcha.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10166,
+      "sha256": "e0cdc14fd2a2dc6cbec12bda91aec6a6013458f72ed37e539533caaca11a6e57",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/chutcha/logo-1.png",
+      "source_url": "https://img.chutcha.kr/files/website/common/logo/img-logo-round_blue.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 4227,
+      "sha256": "dd22f7e08659f583e5420df67d452b092c0c8cac58f49f6bd8fc91aa3c47c1f7",
+      "width": 120,
+      "height": 120
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/chutcha/logo-2.svg",
+      "source_url": "https://img.chutcha.kr/files/website/common/logo/img_watermark_tr.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 첫차 div flag_mark_water_mark_wrap__RpKWs div car_item_img_frame__VaQzt div car_item_photo_inner__vwH66 dd car_item_photo__v9WYd",
+      "content_type": "image/svg+xml",
+      "bytes": 8098,
+      "sha256": "0c53b76232c527bc1a6231694ba4ef1e173b9a09cefb290c9e2c3c1761caa4a0",
+      "width": 100,
+      "height": 100,
+      "source_sha256": "75e47e9e8f34d61c9072f9a6291c916cf5980c9455961ff6aaef14e4780b3225"
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/chutcha/banner-1.webp",
+      "source_url": "https://img.chutcha.kr/files/website/chutcha_pc/common/footer/img_ft_banner_visual_260515.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img 첫차앱 이미지 div chutchaAppBanner_img_frame__ye2Oj div chutchaAppBanner_visual_img_area__kpS4x div chutchaAppBanner_ft_banner_inner__FO5_7 div chutchaAppBanner_ft_banner_wrap__s5lnu",
+      "content_type": "image/webp",
+      "bytes": 66700,
+      "sha256": "846684ef78a2a9bc259622952f8891ba2f1560d763d209ec98496cec198961e9",
+      "width": 1122,
+      "height": 768
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/chutcha/banner-2.webp",
+      "source_url": "https://img.chutcha.kr/files/chutchaApp/popup/202508/4a6525051c646c8253b505d9dfcfaf1c.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div ad_common_img_frame__dEpKQ a ad_common_banner_link__lNqOJ div ad_common_banner_link_frame__5Molk main_ad_cont_middle_banner__LdXNJ div main_ad_cont_wrap__0tIHF main_ad_cont_middle_banner__LdXNJ",
+      "content_type": "image/webp",
+      "bytes": 19946,
+      "sha256": "d1eb7df39c8e52cffbe5e385e052a398c47570c5a9b598c0ded44e121990db07",
+      "width": 1800,
+      "height": 228
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/chutcha/reference-1.webp",
+      "source_url": "https://img.chutcha.kr/files/chutchaApp/popup/202601/bb0251ea44e0ca6b8ee9c6277ca13936.png",
+      "source_tag": "img:page-image",
+      "context": "img div ad_common_img_frame__dEpKQ ad_common_auto_height__NR3oU a ad_common_banner_link__lNqOJ div ad_common_banner_link_frame__5Molk div ad_common_absolute_frame__5vFik",
+      "content_type": "image/webp",
+      "bytes": 9530,
+      "sha256": "79a48b480937cdbc22df35e51123604eeaac1357b829111908128b3fee80dafa",
+      "width": 368,
+      "height": 384
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/chutcha/reference-2.webp",
+      "source_url": "https://img.chutcha.kr/files/chutcha/theme/202309/25/0518d49637685055e55d3c09fd95e496.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 첫차로 딱이지 천만원대 중고차 div car_list_ad_img_frame__rX1_w div car_list_ad_photo_inner__TXcQ2 a dd car_list_ad_photo__gbKf3",
+      "content_type": "image/webp",
+      "bytes": 43060,
+      "sha256": "7879548fcea56ec1734eec8a95f68c87f3c07f72b143f12822c9aaeec3ae4f4d",
+      "width": 1160,
+      "height": 872
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/chutcha/reference-3.webp",
+      "source_url": "https://imgsc.chutcha.kr/files/car_resist/202609/08/bc805b86a46861a5015cb1c58056b230_ori.jpg?s=544x408&t=crop&wm=n",
+      "source_tag": "img:page-image",
+      "context": "img 쉐보레 올 뉴 말리부 1.5터보 LTZ 사진 div car_item_img_frame__VaQzt div car_item_photo_inner__vwH66 dd car_item_photo__v9WYd dl",
+      "content_type": "image/webp",
+      "bytes": 19418,
+      "sha256": "0644112f17829230cb48801e68bcff76afc9de29199d5fa37f28ecbe48bdcdf8",
+      "width": 544,
+      "height": 408
+    }
+  ]
+}

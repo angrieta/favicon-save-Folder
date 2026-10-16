@@ -1,0 +1,34 @@
+{
+  "company": "Courrèges",
+  "category": "패션_의류",
+  "requested_url": "https://www.courreges.com",
+  "page_url": "https://www.courreges.com/us",
+  "page_title": "Courrèges Official Website | Luxury Ready-to-wear, Bags & Accessories",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.courreges.com/locale/us.js; reference:ValueError:https://www.courreges.com/fonts/Graphik-Regular.woff2; reference:ValueError:https://www.courreges.com/fonts/Graphik-Medium.woff2; reference:ValueError:https://www.courreges.com/_next/static/immutable/chunks/0deqqwo-t9j_4.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/courreges/favicon.png",
+      "source_url": "https://www.courreges.com/icons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2740,
+      "sha256": "d7a0e0ff4d76aecdc14b3dd61292fb70b6be091c7c8e7db054c038d9f34d673a",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/courreges/logo-1.webp",
+      "source_url": "https://www.courreges.com/images/logo.jpg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 14774,
+      "sha256": "f422a90374ea70ce5a7d4be0a6b2218361b837d78c721421764f782fd9bc3690",
+      "width": 1000,
+      "height": 1000
+    }
+  ]
+}

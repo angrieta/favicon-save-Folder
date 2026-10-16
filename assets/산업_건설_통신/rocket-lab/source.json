@@ -1,0 +1,94 @@
+{
+  "company": "Rocket Lab",
+  "category": "산업_건설_통신",
+  "requested_url": "https://rocketlabcorp.com/",
+  "page_url": "https://rocketlabcorp.com/",
+  "page_title": "Rocket Lab | The Space Company | Rocket Lab",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://rocketlabcorp.com/assets/Uploads/RL_Website_Header_108025p_1mbps.mp4; reference:ValueError:https://rocketlabcorp.com/assets/Uploads/RL_Website_Header_108025p_1mbps.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/rocket-lab/favicon.png",
+      "source_url": "https://rocketlabcorp.com/touchicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4585,
+      "sha256": "4df2b491db1560a43510e46b3d69f65f9e022b27e8fd97f09dfdfed2f0b86136",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/rocket-lab/logo-1.png",
+      "source_url": "https://rocketlabcorp.com/_resources/themes/base/production/images/admin_logo.png?m=1747131331",
+      "source_tag": "img:semantic-logo",
+      "context": "img Rocket lab Logo div header div browser-support-content browser-support-content hide body browser-support-page html",
+      "content_type": "image/png",
+      "bytes": 29749,
+      "sha256": "2858de12e7cb8c8f6e7ba35cd4e9ed31d1566dc4df8897a11a3c2332c66c0f58",
+      "width": 600,
+      "height": 222
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/rocket-lab/banner-1.webp",
+      "source_url": "https://rocketlabcorp.com/assets/Uploads/showreel-cover.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  hero__img home-hero__img background-image: url('/assets/Uploads/showreel-cover.jpg');",
+      "content_type": "image/webp",
+      "bytes": 109252,
+      "sha256": "be606a07731f907c95f386b8fdc7045f9a1cc50f15d4ba5c97c97dd9ee0a110d",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/rocket-lab/banner-2.webp",
+      "source_url": "https://rocketlabcorp.com/assets/Uploads/from-idea-to-orbit-pathway.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  home__pathway-bg background-image: url('/assets/Uploads/from-idea-to-orbit-pathway.jpg');",
+      "content_type": "image/webp",
+      "bytes": 56320,
+      "sha256": "b279685f571252573d8b674a4d6722b982babfc83a4599d608a75256c2934ffc",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/rocket-lab/reference-1.webp",
+      "source_url": "https://rocketlabcorp.com/assets/Uploads/Untitled-6.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  hero__img--mobile background-image: url('/assets/Uploads/Untitled-6.jpg');",
+      "content_type": "image/webp",
+      "bytes": 44610,
+      "sha256": "0a7ea48f3e1440604d24893268596ac0164616d1a0be916e92666a42bbbd443b",
+      "width": 750,
+      "height": 1334
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/rocket-lab/reference-2.webp",
+      "source_url": "https://rocketlabcorp.com/_resources/themes/base/production/images/page_loader.png?m=1747131465",
+      "source_tag": "img:page-image",
+      "context": "img page-loader__spinner Page spinner div PageLoader page-loader div page-wrap body browser-support-page html",
+      "content_type": "image/webp",
+      "bytes": 15038,
+      "sha256": "10728ebdfc7593a5074cbf2e30b12974b5d16c2042c0f22b486c652f5710d8b0",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/rocket-lab/reference-3.webp",
+      "source_url": "https://rocketlabcorp.com/assets/Uploads/Launch-Complex-4-Render-lowres-1-v2__FillWzc4MCw0NzBd.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Rocket Lab Awarded Record $266M Missile Defense Contract with U.S. Space Force for Suborbital Launches a home__news-slide-img div col-md-7 home__news-slide-img-container div home__news-slide div swiper-slide",
+      "content_type": "image/webp",
+      "bytes": 37330,
+      "sha256": "bf19517032ce88ee5f12c81b3480e879118a18c9763f062c8a0e486c74de6088",
+      "width": 780,
+      "height": 470
+    }
+  ]
+}

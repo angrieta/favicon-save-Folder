@@ -1,0 +1,33 @@
+{
+  "company": "Character.AI",
+  "category": "AI_서비스",
+  "requested_url": "https://character.ai",
+  "page_url": "https://character.ai/",
+  "page_title": "character.ai | AI 채팅의 진화 - 말하는 대로, 펼쳐지는 세상.",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://character.ai/_next/static/media/bbf39a04879491ed.p.ttf; reference:ValueError:https://character.ai/_next/static/media/fd4d2c1e3353cc36.p.ttf; reference:ValueError:https://character.ai/_next/static/media/e4af272ccee01ff0.p.woff2; reference:ValueError:https://character.ai/_next/static/media/1755441e3a2fa970.p.woff2; reference:ValueError:https://character.ai/_next/static/css/74c74b50a5930795.css; reference:ValueError:https://character.ai/_next/static/css/f4bae12554bc33da.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/character-ai/favicon.svg",
+      "source_url": "https://character.ai/icon.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1500,
+      "sha256": "6b572b79dde98804eb3b1783b2d8e5fea45a75b316178b1398d41679e653ce7f",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/character-ai/og.webp",
+      "source_url": "https://character.ai/character-ai.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2978,
+      "sha256": "05b67d9ef131f1e9e02693d4ca924b3555378d10c299512bdd0f0bbc7cb87ffc",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

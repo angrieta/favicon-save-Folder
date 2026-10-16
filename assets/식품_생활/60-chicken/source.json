@@ -1,0 +1,73 @@
+{
+  "company": "60계치킨",
+  "category": "식품_생활",
+  "requested_url": "https://www.60chicken.co.kr/",
+  "page_url": "https://www.60chicken.co.kr/",
+  "page_title": "60계치킨",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/60-chicken/logo-1.png",
+      "source_url": "https://www.60chicken.co.kr:443/img/logo.png?ver=260122",
+      "source_tag": "img:semantic-logo",
+      "context": "img 60계치킨 a div logo col-xs-6 text-center div container div hd_wrapper",
+      "content_type": "image/png",
+      "bytes": 6930,
+      "sha256": "5cffc44ca9e8626b017854ddfabfbea15f47459702bb65bc94d73feb318e72d2",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/60-chicken/logo-2.png",
+      "source_url": "https://www.60chicken.co.kr:443/img/logo-g.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 60계치킨 h1 address col-sm-12 col-xs-12 div container div footer col-xs-12 col-md-12",
+      "content_type": "image/png",
+      "bytes": 18398,
+      "sha256": "c41da653662cf63760ad8331b9f4072bf9aeee939730faee3688886e7f56b436",
+      "width": 300,
+      "height": 166
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/60-chicken/reference-1.webp",
+      "source_url": "https://www.60chicken.co.kr:443/theme/basic/img/main/main_tunaMara_pc.png?ver=20260701",
+      "source_tag": "img:page-image",
+      "context": "img hidden-xs div movie_box li ul movie div movieSlide",
+      "content_type": "image/webp",
+      "bytes": 87800,
+      "sha256": "f3a0060d7f32183aa2f40c34d25ff8d8ac839f1f7f200fb6b52aa42acbd9bf4d",
+      "width": 1130,
+      "height": 600,
+      "source_sha256": "42cfb4ea39c1d4635a1d8aef62e73955ccff3631283164fcb66afa4404021ce3"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/60-chicken/reference-2.webp",
+      "source_url": "https://www.60chicken.co.kr:443/theme/basic/img/mobile/main_tunaMara_mobile.png?ver=20260701",
+      "source_tag": "img:page-image",
+      "context": "img visible-xs div movie_box li ul movie div movieSlide",
+      "content_type": "image/webp",
+      "bytes": 93792,
+      "sha256": "39d8f5a53eb7a1c2d4e8c1b728f81e5448ca4e0fd3a8e02b76557f33866be3f6",
+      "width": 600,
+      "height": 650
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/60-chicken/reference-3.webp",
+      "source_url": "https://www.60chicken.co.kr:443/theme/basic/img/main/idx_menu_event_260721.png?ver=20260701",
+      "source_tag": "img:page-image",
+      "context": "img div tab_menu li idx_tab1 ul idx_panel div idx_tab",
+      "content_type": "image/webp",
+      "bytes": 103464,
+      "sha256": "c10ad0ed372719e123920dced84e1b89cf05c3f00a1ce299b85465ceeda748ef",
+      "width": 815,
+      "height": 1350,
+      "source_sha256": "7f3bd877b6d7fc39f744f7718a87f5ea611037292d4c7e888228abbbf3e54a86"
+    }
+  ]
+}

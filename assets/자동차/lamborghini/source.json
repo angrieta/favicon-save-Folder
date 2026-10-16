@@ -1,0 +1,58 @@
+{
+  "company": "Lamborghini",
+  "category": "자동차",
+  "requested_url": "https://www.lamborghini.com/en-en",
+  "page_url": "https://www.lamborghini.com/en-en",
+  "page_title": "Automobili Lamborghini - Official Website | Lamborghini.com",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.lamborghini.com/_next/static/css/de7cede1cbf6622f.css; reference:ValueError:https://www.lamborghini.com/_next/static/css/1276aad8662927b5.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/lamborghini/favicon.png",
+      "source_url": "https://www.lamborghini.com/ico/android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 11276,
+      "sha256": "4582df3c4045643e8ad06cfbe64333c424c11234a3b98077708f25edf73fc7a3",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/lamborghini/og.webp",
+      "source_url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/logos/2024/03_26/home_og_2024.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5442,
+      "sha256": "f4d47ac47fc88b0d1b2c366b37ef53bd74f1f0d3fb2256c6b82d13f9b1f8145e",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/lamborghini/logo-1.svg",
+      "source_url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/logos/2024/03_26/logo_header_01.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Logo Lamborghini div logo align-self-start css-1358tlk div logo nav d-flex align-items-center justify-content-between css-skr7x0 div container",
+      "content_type": "image/svg+xml",
+      "bytes": 14942,
+      "sha256": "ae325e12e95d5fed029627188211d610355b40f973c790fd1e93d6b8bd64db81",
+      "width": 70,
+      "height": 72,
+      "source_sha256": "9130c219a0d08e78e663abbd6a82a92d8f5002e7e292070be2edafdab29a6b30"
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/lamborghini/banner-1.webp",
+      "source_url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/404/404-image.jpg",
+      "source_tag": "style-background-image",
+      "context": ".css-sut2xe .browser-not-supported{display:none;}@media all and (-ms-high-contrast: none),(-ms-high-contrast: active){.css-sut2xe .browser-not-supported{background-image:url('https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/404",
+      "content_type": "image/webp",
+      "bytes": 77822,
+      "sha256": "a03c71f43ef18c22f1898d9f6001db02e6ec36940bce807c89fea567a765d316",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

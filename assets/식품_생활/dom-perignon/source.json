@@ -1,0 +1,81 @@
+{
+  "company": "Dom Pérignon",
+  "category": "식품_생활",
+  "requested_url": "https://www.domperignon.com/",
+  "page_url": "https://www.domperignon.com/",
+  "page_title": "Dom Pérignon - Vintage only",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.domperignon.com/_next/static/media/38a80f98ed479111-s.p.woff2; reference:ValueError:https://www.domperignon.com/_next/static/media/e6227f21d4b25dab-s.p.woff2; reference:ValueError:https://www.domperignon.com/_next/static/media/0bed23b608c9e6f9-s.p.woff2; reference:ValueError:https://www.domperignon.com/_next/static/css/42bfc3bae5e776d7.css?dpl=dpl_5MRUtcQYEmbAMGmLE728i6uYDPVc; reference:ValueError:https://www.domperignon.com/_next/static/css/9730694f18ad5efa.css?dpl=dpl_5MRUtcQYEmbAMGmLE728i6uYDPVc",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/dom-perignon/favicon.png",
+      "source_url": "https://www.domperignon.com/icons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4766,
+      "sha256": "75a6f600f05ad206c86563db84edbf3b26644f86e2c382c2a20a21d197ec2c77",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/dom-perignon/og.webp",
+      "source_url": "https://cdn.sanity.io/images/1p5qvg3x/ww/4b1111438554155898ce2c8cb874756261c03028-1038x653.jpg?rect=0,55,1038,545&w=1200&h=630",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 24304,
+      "sha256": "7244c525d64a0c78210d7f46f9ee9a1e1c874ab356118d5c09144706ba91e944",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/dom-perignon/logo-1.svg",
+      "source_url": "https://www.domperignon.com/_next/static/media/logo-white.c10ddeae.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img absolute top-18 lg:top-30 right-1/2 translate-x-1/2 w-125 h-30 text-white Dom Pérignon h1 div grid-container relative z-2 flex flex-col h-full items-center mx-auto justify-center div relative bg-black lg:h-screen lg:border-10 lg:border-",
+      "content_type": "image/svg+xml",
+      "bytes": 5032,
+      "sha256": "b51bcb4c1882d505c3975cc46e8e7836081035343b56723fd56bb18e225b7da8",
+      "width": 132,
+      "height": 31
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/dom-perignon/logo-2.svg",
+      "source_url": "https://www.domperignon.com/_next/static/media/logo-age-gate.65754bee.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-40 lg:absolute lg:z-2 lg:bottom-10 lg:left-30 Info Calories div lg:absolute z-1 w-full lg:bottom-20 mb-20 lg:mb-0 lg-max:flex lg-max:flex-col lg-max:items-center div relative bg-black lg:h-screen lg:border-10 lg:border-white overflow-",
+      "content_type": "image/svg+xml",
+      "bytes": 2618,
+      "sha256": "c675f5c62e84fedf7bfa1b561dcc6f2727882aa3f82b1cce2f0eab1643daa9ff",
+      "width": 39,
+      "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/dom-perignon/banner-1.webp",
+      "source_url": "https://cdn.sanity.io/images/1p5qvg3x/ww/a142f7fdcd8afbd44b06e55950209e9b7891d40f-4891x3261.jpg?w=2400&h=1600&q=75&fit=crop&auto=format",
+      "source_tag": "img:semantic-banner",
+      "context": "img block object-cover transition-opacity duration-500 ease-out-quart opacity-100 absolute z-0 top-0 left-0 w-full h-full object-cover opacity-40 Dom Pérignon bottles lying down div relative bg-black lg:h-screen lg:border-10 lg:border-white",
+      "content_type": "image/webp",
+      "bytes": 51962,
+      "sha256": "f77405e987c8a607d608681c78fb35d80c331c4d538da9745fba0f613fd6f8c6",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/dom-perignon/banner-2.webp",
+      "source_url": "https://cdn.sanity.io/images/1p5qvg3x/ww/a142f7fdcd8afbd44b06e55950209e9b7891d40f-4891x3261.jpg?w=1920&h=1280&q=75&fit=crop&auto=format",
+      "source_tag": "img:semantic-banner",
+      "context": "img block object-cover transition-opacity duration-500 ease-out-quart opacity-100 absolute z-0 top-0 left-0 w-full h-full object-cover opacity-40 Dom Pérignon bottles lying down div relative bg-black lg:h-screen lg:border-10 lg:border-white",
+      "content_type": "image/webp",
+      "bytes": 46390,
+      "sha256": "824002903803374eb2246198e2e6a8db9a6fbc3aeeef51b709983083968ed644",
+      "width": 1800,
+      "height": 1200
+    }
+  ]
+}

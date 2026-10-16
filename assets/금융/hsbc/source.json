@@ -1,0 +1,121 @@
+{
+  "company": "HSBC",
+  "category": "금융",
+  "requested_url": "https://www.hsbc.com",
+  "page_url": "https://www.hsbc.com/",
+  "page_title": "HSBC Group corporate website | HSBC Holdings plc",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/hsbc/favicon.png",
+      "source_url": "https://www.hsbc.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4089,
+      "sha256": "27433700ae27796dc43671b200cfb66b7904b40ce55eead57458542bf201816c",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/hsbc/og.webp",
+      "source_url": "https://www.hsbc.com/-/files/hsbc/home-page/og-image/241205-home-page-og-image-560x315.jpg?sc_lang=en-gb&hash=63429C5C10569641812C1B153A53431F",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 22532,
+      "sha256": "7bff03faabf0e466bb1999752dd8cc56d40277040c1d176dfd72c39fd6560cdd",
+      "width": 560,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/hsbc/logo-1.svg",
+      "source_url": "https://www.hsbc.com/-/files/hsbc/header/hsbc-logo-200x25.svg?la=en-GB&h=25&hash=FCDFB4DC1991B6B5EE0AB98E7208CB82",
+      "source_tag": "img:semantic-logo",
+      "context": "img HSBC logo a logo empty Go to HSBC home page div header__content header header body",
+      "content_type": "image/svg+xml",
+      "bytes": 1594,
+      "sha256": "2d436ab7f2ace1814b9abee3cac2ec9be85c7496bf7703bd32b76129452335e0",
+      "width": 315,
+      "height": 85,
+      "source_sha256": "c54ff461737c5f44be46d9d1f9e4b3a64db412af82d795736f78b9bc3298ca2c"
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/hsbc/logo-2.webp",
+      "source_url": "https://www.hsbc.com/-/files/hsbc/header/navigation-promo-boxes/260505-who-we-are-370x208.jpg?sc_lang=en-gb&la=en-GB&h=208&w=370&hash=3037B5FAA68E6DF6039B0FC55E6D8DF7",
+      "source_tag": "img:semantic-logo",
+      "context": "img promo__image div promo__image-wrapper a promo-anchor empty div promo div nav-group__inner",
+      "content_type": "image/webp",
+      "bytes": 7326,
+      "sha256": "dbb42e65553aae16f526c4ee9adfbc98280860e5a039695b8dbe17e005dc1359",
+      "width": 370,
+      "height": 208
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/hsbc/banner-1.webp",
+      "source_url": "https://www.hsbc.com/-/files/hsbc/home-page/other/2026/260922-the-right-wave-768x576.jpg?sc_lang=en-gb",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div image-with-links__image-container div image-with-links div hero-banner__media-container div hero-banner__inner-container hero-banner--size-large hero-banner--background-dark-grey hero-banner--dark-block-opacity-30",
+      "content_type": "image/webp",
+      "bytes": 98518,
+      "sha256": "a0eac240e628803c4bb636e7245bb75ee6c8c790c6fa6ad5c2c4be45e048dd5f",
+      "width": 768,
+      "height": 576
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/hsbc/banner-2.webp",
+      "source_url": "https://www.hsbc.com/-/files/hsbc/home-page/banners/2026/260922-the-right-wave-1600x900.jpg?sc_lang=en-gb",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div image-with-links__image-container div image-with-links div hero-banner__media-container div hero-banner__inner-container hero-banner--size-large hero-banner--background-dark-grey hero-banner--dark-block-opacity-30",
+      "content_type": "image/webp",
+      "bytes": 138136,
+      "sha256": "e605c5e3ca0aaf807831dae300ac884507d02e599db8532695833c173424d398",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "7e496a0de742b2c880bb22ca2234b75c579397543dc24b4543d02f4f4e71ecde"
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/hsbc/reference-1.webp",
+      "source_url": "https://www.hsbc.com/-/files/hsbc/home-page/other/2026/260729-culture-of-innovation-768x576.jpg?sc_lang=en-gb",
+      "source_tag": "json-ld.@graph[1].thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 56248,
+      "sha256": "391dde80220351552daab8d7fc41d9e0b2c13a8a3001fd6d89fea288aef89b26",
+      "width": 768,
+      "height": 576
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/hsbc/banner-2.webp",
+      "source_url": "https://www.hsbc.com/-/files/hsbc/home-page/banners/2026/260922-the-right-wave-1600x900.jpg?sc_lang=en-gb&la=en-GB&h=900&w=1600&hash=D908D23B10233759163CF4502768C1A5",
+      "source_tag": "picture:page-image",
+      "context": "picture div image-with-links__image-container div image-with-links div hero-banner__media-container div hero-banner__inner-container hero-banner--size-large hero-banner--background-dark-grey hero-banner--dark-block-opacity-30",
+      "content_type": "image/webp",
+      "bytes": 138136,
+      "sha256": "e605c5e3ca0aaf807831dae300ac884507d02e599db8532695833c173424d398",
+      "width": 1600,
+      "height": 900,
+      "reused_from": "banner",
+      "source_sha256": "7e496a0de742b2c880bb22ca2234b75c579397543dc24b4543d02f4f4e71ecde"
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/hsbc/reference-3.webp",
+      "source_url": "https://www.hsbc.com/-/files/hsbc/who-we-are/hsbc-at-a-glance/thumbnail-image/260923-hsbc-at-a-glance-thumbnail-768x576.jpg?sc_lang=en-gb",
+      "source_tag": "picture:page-image",
+      "context": "picture div promobox__media div promobox__container background-white promobox__has-background div promobox li content-block col-sm-6 col-xs-12",
+      "content_type": "image/webp",
+      "bytes": 64048,
+      "sha256": "c0d458b7fd637c370adf11f67d87cfd2110bb47804849c469a8802300bbfc238",
+      "width": 768,
+      "height": 576
+    }
+  ]
+}

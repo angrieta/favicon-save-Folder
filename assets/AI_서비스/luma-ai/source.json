@@ -1,0 +1,120 @@
+{
+  "company": "Luma AI",
+  "category": "AI_서비스",
+  "requested_url": "https://lumalabs.ai",
+  "page_url": "https://lumalabs.ai/",
+  "page_title": "Luma | AI Agents for Creative Work",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://static.cdn-luma.com/files/sanity/7b077029-d756-49ad-9d9b-9ee0ad54ad02.mp4; reference:ValueError:https://static.cdn-luma.com/files/sanity/7b077029-d756-49ad-9d9b-9ee0ad54ad02.mp4; reference:ValueError:https://lumalabs.ai/_next/static/chunks/webpack-3144eff038a4f671.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/luma-ai/favicon.ico",
+      "source_url": "https://lumalabs.ai/favicons/favicon-black.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "fb7e0157e3d27c8e6b65f083390ebd2a34fc2e28e5be7f8726d09c09d6e0aa36",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/luma-ai/og.webp",
+      "source_url": "https://cdn.sanity.io/images/2ylxvaa2/production/ff7469d468f6f7e447ccb4a50276f1cb03c6664d-1200x630.jpg?w=1200&h=630&fm=jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4070,
+      "sha256": "f350eb613f59cfeec0ed784e258b415a382c208f6d0796a9946f58f9e790916b",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/luma-ai/logo-1.svg",
+      "source_url": "https://lumalabs.ai/images/brand/luma-ai/logo-black.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1058,
+      "sha256": "395d53444ee92e381187da9aa2f6e646df2f9f845cd67934f9f1286822bc87bd",
+      "width": 32,
+      "height": 32,
+      "source_sha256": "bda8e19d3358f963a9a759765378420be16a790ca824cdb3fe894f357d727db4"
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/luma-ai/logo-2.png",
+      "source_url": "https://lumalabs.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2ylxvaa2%2Fproduction%2F4b9c323d4e5322022a2e39d24d16a70d8a259fad-739x76.png%3Fw%3D2048%26fm%3Dwebp%26q%3D75%26fit%3Dmax&w=3840&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img object-contain Serviceplan li relative transform-gpu ul items-[inherit] flex w-full justify-start gap-[inherit] will-change-transform *:shrink-0 div relative w-[calc(100%+var(--mask-size)*2)] mask-[linear-gradient(to_right,transparent_0",
+      "content_type": "image/png",
+      "bytes": 38143,
+      "sha256": "430b40899b31a4b65f7b6856d71ec5092b0b94b446f5a6512482dc549d61a5ea",
+      "width": 739,
+      "height": 76
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/luma-ai/banner-1.webp",
+      "source_url": "https://lumalabs.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2ylxvaa2%2Fproduction%2F0bfd4636b5e513ee7950e36e123f32bb8b25f924-2328x960.png%3Fw%3D2048%26fm%3Dwebp%26q%3D75%26fit%3Dmax&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-full w-full object-cover div relative w-full overflow-hidden transition-transform duration-300 ease-out [.group:has(.card-link):hover_&]:scale-[1.02] aspect-video md:aspect-16/7 lg:col-span-full rounded-xl md:rounded-3xl div group rel",
+      "content_type": "image/webp",
+      "bytes": 102972,
+      "sha256": "07f73cf275b86856c3c110c1396ec4a64831791c63010e1b334259ac4a3183c5",
+      "width": 1800,
+      "height": 743
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/luma-ai/banner-2.webp",
+      "source_url": "https://lumalabs.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2ylxvaa2%2Fproduction%2F099e66ae6ba403cb556111d6a1aadf6a8f4cb79b-1920x1080.png%3Fw%3D1920%26fm%3Dwebp%26q%3D75%26fit%3Dmax&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-full w-full object-cover div relative w-full overflow-hidden transition-transform duration-300 ease-out [.group:has(.card-link):hover_&]:scale-[1.02] aspect-video md:aspect-16/7 lg:col-span-full rounded-xl md:rounded-3xl div group rel",
+      "content_type": "image/webp",
+      "bytes": 14362,
+      "sha256": "9ce9c0492f154834b8c5bea527da223f9d5afd1d7fb279a715e12a5eea68e0d3",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/luma-ai/reference-1.webp",
+      "source_url": "https://static.cdn-luma.com/files/sanity/f808e747-ed3b-484b-8118-c10382621707.jpg",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 10164,
+      "sha256": "0c7617bd24b75b85be669a86f297257591682b25f6e27a35518cf0d6dd376c68",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/luma-ai/banner-2.webp",
+      "source_url": "https://lumalabs.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2ylxvaa2%2Fproduction%2F099e66ae6ba403cb556111d6a1aadf6a8f4cb79b-1920x1080.png%3Fw%3D1920%26fm%3Dwebp%26q%3D75%26fit%3Dmax&w=2048&q=75",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover div relative w-full overflow-hidden transition-transform duration-300 ease-out [.group:has(.card-link):hover_&]:scale-[1.02] aspect-video md:aspect-16/7 lg:col-span-full rounded-xl md:rounded-3xl div group rel",
+      "content_type": "image/webp",
+      "bytes": 14362,
+      "sha256": "9ce9c0492f154834b8c5bea527da223f9d5afd1d7fb279a715e12a5eea68e0d3",
+      "width": 1800,
+      "height": 1013,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/luma-ai/reference-3.webp",
+      "source_url": "https://lumalabs.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F2ylxvaa2%2Fproduction%2F97f67e5a2d71508ea393b791c2dce49693c30c3d-2688x1536.png%3Fw%3D2048%26fm%3Dwebp%26q%3D75%26fit%3Dmax&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover div relative w-full overflow-hidden transition-transform duration-300 ease-out [.group:has(.card-link):hover_&]:scale-[1.02] aspect-video rounded-xl md:rounded-3xl div group relative grid w-full auto-rows-min ",
+      "content_type": "image/webp",
+      "bytes": 73912,
+      "sha256": "35137c7b7520a3dd2b568678eeed4e21ca037ec7e9c6fedec9b3a593c25a285a",
+      "width": 1600,
+      "height": 914,
+      "source_sha256": "df959d7f332dc2015f97ebb228b1b39f01ff238f38e08e298979b88943aef836"
+    }
+  ]
+}

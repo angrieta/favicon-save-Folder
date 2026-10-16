@@ -1,0 +1,33 @@
+{
+  "company": "NS홈쇼핑",
+  "category": "유통_커머스",
+  "requested_url": "https://www.nsmall.com",
+  "page_url": "https://www.nsmall.com/",
+  "page_title": "NS홈쇼핑 - 건강한 아이디어",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.nsmall.com/assets/lottie-B8Xc47yG.js; reference:ValueError:https://www.nsmall.com/assets/lodash-DM3dwptI.js; reference:ValueError:https://www.nsmall.com/assets/gsap-C78MB6r_.js; reference:ValueError:https://www.nsmall.com/assets/swiper-DkrhHWLz.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/ns-homeshopping/favicon.png",
+      "source_url": "https://www.nsmall.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6346,
+      "sha256": "aac8f0c7a965cca495a5cc5d93133dc95d7a38daa81d8ca824b14a411889b3a7",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/ns-homeshopping/og.webp",
+      "source_url": "https://image.nsmall.com/ec_comimages/nsdesign/images/common/NS_mobile_bi.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2838,
+      "sha256": "d2a6d0784d4da001bf8dc8067e936189eeb681ff58641a7f7a799655c78ae445",
+      "width": 480,
+      "height": 480
+    }
+  ]
+}

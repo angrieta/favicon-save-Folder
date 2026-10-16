@@ -1,0 +1,81 @@
+{
+  "company": "Noom",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.noom.com",
+  "page_url": "https://www.ko-noom.com",
+  "page_title": "눔 noom",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://vendor-cdn.imweb.me/css/notosans.css; reference:ValueError:https://www.facebook.com/tr?id=1557275494440599&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/noom/favicon.png",
+      "source_url": "https://cdn.imweb.me/thumbnail/20221202/c0c6e1392cf32.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6178,
+      "sha256": "3544e198e27865e1575ce155e90f39439bf90a039b2a548290fd88347dac36df",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/noom/og.webp",
+      "source_url": "https://cdn.imweb.me/upload/S20221027856cf802b7932/88d6051be9c26.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10608,
+      "sha256": "585e2d1d602f2c4c10a0e3bbb99fce2671c3a32fe13260f639bd01045a178387",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/noom/logo-1.png",
+      "source_url": "https://cdn.imweb.me/upload/S20221027856cf802b7932/95bd87518c96a.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 67741,
+      "sha256": "2b1c8e3491808d9052c5257ed688179787b5c5551aad055b27c1fb0b05affe45",
+      "width": 1600,
+      "height": 359
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/noom/logo-2.png",
+      "source_url": "https://cdn.imweb.me/thumbnail/20231115/ad0838db6b974.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img normal_logo _front_img NOOM a _fade_link div img_box _img_box div logo_w20221207ede8fc67acc06 widget inline_widget logo text_inline div _widget_data",
+      "content_type": "image/png",
+      "bytes": 5190,
+      "sha256": "55b32296bd41ed5a37a3d18d404b190feb1014f4f457705738412cef33b480c3",
+      "width": 254,
+      "height": 57
+    },
+    {
+      "type": "banner",
+      "path": "assets/교육_헬스케어/noom/banner-1.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20230111/d84f7a7eac5fe.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  section_bg _section_bg _interactive_bg background-image:url('https://cdn.imweb.me/thumbnail/20230111/d84f7a7eac5fe.jpg'); background-position:50% 50%;  background-size:cover; background-repeat: no-repeat; position: absolute;left: 0;top",
+      "content_type": "image/webp",
+      "bytes": 88288,
+      "sha256": "745922fa3efa1a6e702573f4756d2cd4d63d38da196433ced1d6158a41ec81de",
+      "width": 1800,
+      "height": 778
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/noom/reference-1.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20230612/c275939e5eb43.png",
+      "source_tag": "json-ld.contentUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 115674,
+      "sha256": "9395871c9966d67f9fcb5e055c4fd4bf3a031c6204da9c5f57dc5c37b206b3c9",
+      "width": 900,
+      "height": 897
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "company": "YTN",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.ytn.co.kr/",
+  "page_url": "https://www.ytn.co.kr/",
+  "page_title": "YTN | 대한민국 24시간 뉴스채널",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/ytn/favicon.ico",
+      "source_url": "https://www.ytn.co.kr/img/comm/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 9622,
+      "sha256": "119b5d8b60820048a6a9642f1429af5af3589029ffe6071d498281391c54fab8",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/ytn/og.webp",
+      "source_url": "https://www.ytn.co.kr/img/_top/ytnlogo_twitter_2021.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1542,
+      "sha256": "197fbc43f44e4631ed139937a6b153bfe8d568013cd084b4a7e0fac768be3723",
+      "width": 280,
+      "height": 150
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/ytn/logo-1.webp",
+      "source_url": "https://image.ytn.co.kr/general/jpg/2026/0929/202609292018243293_h.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img '검찰' 로고 지워진 대검찰청…명칭 변경 등 65억 편성 div photo a div news02 YTN_CSA_topnews1 div top_news",
+      "content_type": "image/webp",
+      "bytes": 14018,
+      "sha256": "e36397edb1094a606d0fd734efc6eb7a9881d14aec58f4a474d6aa5b430dd9de",
+      "width": 480,
+      "height": 270
+    }
+  ]
+}

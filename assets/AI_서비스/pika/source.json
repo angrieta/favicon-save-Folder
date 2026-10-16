@@ -1,0 +1,105 @@
+{
+  "company": "Pika",
+  "category": "AI_서비스",
+  "requested_url": "https://pika.art",
+  "page_url": "https://pika.art/",
+  "page_title": "Pika",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://cdn.pika.art/v2/files/agent/34f0ba0a-deea-4629-b73c-10042bbf274f/bc63f677a66e7dc4f4d4552ca0a847578acfd8348358e15bc648072f74da172c; reference:ValueError:https://cdn.pika.art/v2/files/agent/34f0ba0a-deea-4629-b73c-10042bbf274f/ac9e0e5ea6566c84f0bf58779e49242feb912f5c750b19f875f883da55d7ed7f; reference:ValueError:https://cdn.pika.art/v2/files/agent/34f0ba0a-deea-4629-b73c-10042bbf274f/590c4bd52189124352cb90b282de81b8cd9660649868f40e83651587546d0ab3; reference:ValueError:https://cdn.pika.art/v2/files/agent/34f0ba0a-deea-4629-b73c-10042bbf274f/22772c370d8b89a2be08cff97d7789e3ba3d3c87e0531a61784b60f52318a843; reference:ValueError:https://cdn.pika.art/v2/files/agent/34f0ba0a-deea-4629-b73c-10042bbf274f/ee8fe9f2f1f9768d62ce0138b01b3f9378623cedba2617e2f6f4b2293ece4162; reference:ValueError:https://cdn.pika.art/v2/files/agent/34f0ba0a-deea-4629-b73c-10042bbf274f/b49fe94a81c9d24eeda5ae2d1ab19d2dc586707e7b2158996808f8bea13ada6d",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/pika/favicon.png",
+      "source_url": "https://pika.art/apple-icon.png?apple-icon.1pc-f1mhs57mu.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3635,
+      "sha256": "f506267714560b92dc54327397573a42bf1cbed688a9b674c8031eb1d1ee95cb",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/pika/og.webp",
+      "source_url": "https://pika.art/brand/opengraph.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 44356,
+      "sha256": "a5bc20142ffdd89f2c96657549edfc4391427d74753378fc81e0ad922d8d088f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/pika/logo-1.png",
+      "source_url": "https://pika.art/brand/pika-logo-512.png",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 11670,
+      "sha256": "bbdb6799f6be71e87748a5b3e97ae30ef0101e051ba15408d8253eb68407f9a1",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/pika/banner-1.webp",
+      "source_url": "https://pika.art/_next/image?url=%2Fmarketing%2Fhero-pika-universe.webp&w=3840&q=75&dpl=dpl_EG5wLWEvxnvgCr8eDQRXZqG81LWB",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover object-[48%_center] div pointer-events-none absolute inset-0 -z-10 overflow-clip section top relative isolate overflow-clip bg-slate px-(--page-gutter) text-white [--page-gutter:24px] sm:rounded-sm sm:[--page-gutter:20px] B",
+      "content_type": "image/webp",
+      "bytes": 119922,
+      "sha256": "619a0486b96b88a232dfcea152c2a236e55533301429a50c27bbfe1ddc95fac7",
+      "width": 1800,
+      "height": 1350
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/pika/banner-2.webp",
+      "source_url": "https://pika.art/_next/image?url=%2Fmarketing%2Fhero-pika-universe.webp&w=2048&q=75&dpl=dpl_EG5wLWEvxnvgCr8eDQRXZqG81LWB",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover object-[48%_center] div pointer-events-none absolute inset-0 -z-10 overflow-clip section top relative isolate overflow-clip bg-slate px-(--page-gutter) text-white [--page-gutter:24px] sm:rounded-sm sm:[--page-gutter:20px] B",
+      "content_type": "image/webp",
+      "bytes": 110068,
+      "sha256": "3160f688e3857909121bb6e868f9832824f2ba5bc4a4da9db1b742bc969a7071",
+      "width": 1800,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/pika/reference-1.webp",
+      "source_url": "https://pika.art/marketing/api-club.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  motion-reduce:visible! absolute inset-0 overflow-hidden rounded-[8px] bg-center bg-cover bg-primary-100 motion-safe:rounded-[calc(var(--p,1)*8px)] motion-reduce:opacity-100! motion-reduce:[clip-path:none]! opacity:1;clip-path:none;visi",
+      "content_type": "image/webp",
+      "bytes": 72566,
+      "sha256": "6b15fbf61de6f53d3d316b1104148c6f60fda5bf0d763e52c98bcec3e583a787",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/pika/reference-2.webp",
+      "source_url": "https://cdn.pika.art/assets/profiles/0/4.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  https://cdn.pika.art/assets/profiles/0/4.jpg",
+      "content_type": "image/webp",
+      "bytes": 55196,
+      "sha256": "a421f4dc458afea0ed4618d6f0bc89c60f79488c25da22fb3158de5dfb1ae3f7",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/pika/reference-3.webp",
+      "source_url": "https://cdn.pika.art/assets/profiles/0/0.jpg",
+      "source_tag": "link:preload",
+      "context": "preload image  https://cdn.pika.art/assets/profiles/0/0.jpg",
+      "content_type": "image/webp",
+      "bytes": 69152,
+      "sha256": "a9d9ada4952fc87f05e68774cedb72790c0cd6661ff683e472650fff1775aaa2",
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}

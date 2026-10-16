@@ -1,0 +1,94 @@
+{
+  "company": "Maybelline New York",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.maybelline.com",
+  "page_url": "https://www.maybelline.com/",
+  "page_title": "Maybelline New York | Makeup Products, Cosmetics, Beauty",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.maybelline.com/frontend/master/js/npm.hammerjs.adc7cd60.js?v=1.99.0-release00000002; reference:ValueError:https://www.maybelline.com/frontend/master/js/npm.escape-string-regexp.13584122.js?v=1.99.0-release00000002; reference:ValueError:https://www.maybelline.com/frontend/master/js/npm.domelementtype.c4960bb2.js?v=1.99.0-release00000002; reference:ValueError:https://www.maybelline.com/frontend/master/js/npm.deepmerge.80dbdb13.js?v=1.99.0-release00000002; reference:ValueError:https://www.maybelline.com/frontend/master/js/npm.loreal.e14aa4bf.js?v=1.99.0-release00000002; reference:ValueError:https://www.maybelline.com/frontend/master/js/home.afa6630a.js?v=1.99.0-release00000002",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/maybelline/favicon.png",
+      "source_url": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/logo-and-favicon/favicon-32x32.png?rev=-1",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1313,
+      "sha256": "0c724c0c44b87097ee88d19a5d88930a13f3957c44685d7d4e38bcd68f6362b0",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/maybelline/og.webp",
+      "source_url": "http://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/global/seo-image/maybelline-logo.jpg?rev=5c1a69c210ee4a42a8ee84dc03620d90",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4260,
+      "sha256": "28cde7076c90a71d96e9075d1bea586b8c868718c569eda73d4ca2e465d07539",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/maybelline/logo-1.svg",
+      "source_url": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/master/demo/logos-logo-small.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2637,
+      "sha256": "0b49fa73e87b1c3040ef3b637659ddcf0e0987221dc296bcccf5cd303841b56b",
+      "width": 155,
+      "height": 25
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/maybelline/logo-2.webp",
+      "source_url": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/homepage/product-carousel/lifter-gel-lip-gel/mny-liftergel-lipgloss-homepage-carrousel-model-desk-dmi-1440x540-en-2025.jpg?rev=220ea6acc3ea44519c8a1d85d96b5acf&cx=0.69&cy=0.35&cw=1440&ch=540&hash=9244DDC285F2A84CA0DDA179A14BE1CF",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture hero__picture a hero__link div hero hero-carousel-slide-wrapper slide",
+      "content_type": "image/webp",
+      "bytes": 96408,
+      "sha256": "15c8bdcfd153ad9e0449f6a8dab41006410fd5ad9c82c1e63dd93b5c12061208",
+      "width": 1440,
+      "height": 540
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/maybelline/logo-2.webp",
+      "source_url": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/homepage/product-carousel/lifter-gel-lip-gel/mny-liftergel-lipgloss-homepage-carrousel-model-desk-dmi-1440x540-en-2025.jpg?rev=220ea6acc3ea44519c8a1d85d96b5acf&cx=0.69&cy=0.35&cw=1440&ch=540&hash=9244DDC285F2A84CA0DDA179A14BE1CF",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture hero__picture a hero__link div hero hero-carousel-slide-wrapper slide",
+      "content_type": "image/webp",
+      "bytes": 96408,
+      "sha256": "15c8bdcfd153ad9e0449f6a8dab41006410fd5ad9c82c1e63dd93b5c12061208",
+      "width": 1440,
+      "height": 540,
+      "reused_from": "logo"
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/maybelline/banner-2.webp",
+      "source_url": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/homepage/product-carousel/lifter-gel-lip-gel/mny-liftergel-lipgloss-homepage-carrousel-model-desk-dmi-1440x540-en-2025.jpg?rev=220ea6acc3ea44519c8a1d85d96b5acf&cx=0.69&cy=0.35&cw=768&ch=288&hash=E6A45BBFAAEB8B3184EAA7EB6090B61A",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture hero__picture a hero__link div hero hero-carousel-slide-wrapper slide",
+      "content_type": "image/webp",
+      "bytes": 24208,
+      "sha256": "6804dd7262c5632af626ad66e9e89dcad5ecd70b283f94a366b1d8318a336e33",
+      "width": 768,
+      "height": 288
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/maybelline/reference-1.webp",
+      "source_url": "https://www.maybelline.com/-/media/project/loreal/brand-sites/mny/americas/us/homepage/transporter-module/best-sellers-bg-desktop.jpg?rev=980d4565d04e4f8fb17c3ab54bc4e341&cx=0.25&cy=0.31&cw=1440&ch=837&hash=1AD8ADC31AF3540C841904B27A6B2106",
+      "source_tag": "inline-background-image",
+      "context": "div  bestsellersUs newVersion bestsellers with-bg background-image: url('/-/media/project/loreal/brand-sites/mny/americas/us/homepage/transporter-module/best-sellers-bg-desktop.jpg?rev=980d4565d04e4f8fb17c3ab54bc4e341&cx=0.25&cy=0.31&cw=144",
+      "content_type": "image/webp",
+      "bytes": 209908,
+      "sha256": "241a5abb786b9b9da05d1c18c73493584bfb0fbf8aec3b29a9fa2bd6e8d5005b",
+      "width": 1440,
+      "height": 837
+    }
+  ]
+}

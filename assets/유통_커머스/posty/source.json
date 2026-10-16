@@ -1,0 +1,58 @@
+{
+  "company": "포스티",
+  "category": "유통_커머스",
+  "requested_url": "https://posty.kr",
+  "page_url": "https://posty.kr/",
+  "page_title": "포스티 - 백화점 브랜드 패션 쇼핑",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1961030764075080&ev=PageView&noscript=1; reference:ValueError:https://cf.res.s.zigzag.kr/fonts/Pretendard/Pretendard-Regular.subset.woff2; reference:ValueError:https://cf.res.s.zigzag.kr/fonts/Pretendard/Pretendard-Medium.subset.woff2; reference:ValueError:https://cf.res.s.zigzag.kr/fonts/Pretendard/Pretendard-SemiBold.subset.woff2; reference:ValueError:https://cf.res.s.zigzag.kr/fonts/Pretendard/Pretendard-Bold.subset.woff2; reference:ValueError:https://posty.kr/_next/static/css/ffb4db92b1ed5007.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/posty/favicon.png",
+      "source_url": "https://posty.kr/favicon/32.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 391,
+      "sha256": "3e94f7c4190e92afa79d70ee72b14042a94134d32601089046a2e9fe3af4b7ad",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/posty/og.webp",
+      "source_url": "https://posty.kr/img/logo/logo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4944,
+      "sha256": "dc32934475270b0ab61154dfe468a6207031dc8751c70098b318dd672c3d1ac4",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/posty/og.webp",
+      "source_url": "https://posty.kr/img/logo/logo.jpg",
+      "source_tag": "json-ld.@graph[1].logo",
+      "content_type": "image/webp",
+      "bytes": 4944,
+      "sha256": "dc32934475270b0ab61154dfe468a6207031dc8751c70098b318dd672c3d1ac4",
+      "width": 640,
+      "height": 640,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/posty/logo-2.png",
+      "source_url": "https://posty.kr/_next/static/media/header-logo.7ed8bf26.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img css-027bfb98aa 포스티 홈 a css-5a609327a8 div css-4e49f32938 div css-65b39f2c13 div css-0b9302bb91",
+      "content_type": "image/png",
+      "bytes": 1988,
+      "sha256": "977a26b775cc3e3b46cb7d9a724f2450690465301d84147763123b00f9a197e1",
+      "width": 186,
+      "height": 96
+    }
+  ]
+}

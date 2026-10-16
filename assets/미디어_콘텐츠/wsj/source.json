@@ -1,0 +1,22 @@
+{
+  "company": "The Wall Street Journal",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.wsj.com/",
+  "page_url": "https://www.wsj.com/",
+  "page_title": "wsj.com",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 401 Client Error: HTTP Forbidden for url: https://www.wsj.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/wsj/favicon.ico",
+      "source_url": "https://www.wsj.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 13094,
+      "sha256": "307ebaa6f26198d5065d01bd55a106ce61f4346c5dbe48ddce137f7644ea6bf2",
+      "width": 64,
+      "height": 64
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "company": "Molteni&C",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.molteni.it/ko/ap",
+  "page_url": "https://www.molteni.it/ko/ap",
+  "page_title": "Molteni&C | Italian Design Furniture | Luxury Living",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.molteni.it/ko/w_3840/v1768302991/2026_PH_Adv_Geometry-Of-Life_11.jpg; banner:ValueError:https://www.molteni.it/ko/w_2560/v1768302991/2026_PH_Adv_Geometry-Of-Life_11.jpg; reference:ValueError:https://www.molteni.it/ko/w_3840/v1768302991/2026_PH_Adv_Geometry-Of-Life_11.jpg; reference:ValueError:https://www.molteni.it/ko/w_2560/v1768302991/2026_PH_Adv_Geometry-Of-Life_11.jpg; reference:ValueError:https://www.molteni.it/_next/static/chunks/webpack-2db3c58789fdce72.js; reference:ValueError:https://www.googletagmanager.com/gtm.js?id=GTM-5K8V25PJ",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/molteni/favicon.png",
+      "source_url": "https://www.molteni.it/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 10898,
+      "sha256": "bafe2ca17136d1da738137430ca0afcf6b61b78d7e4c3f1ee5c6eb96136b9779",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/molteni/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/molteni/image/upload/f_webp,q_auto:best,w_640/v1768302991/2026_PH_Adv_Geometry-Of-Life_11.jpg",
+      "source_tag": "img:page-image",
+      "context": "img relative z-[1] h-full w-full transition-opacity duration-300 object-cover opacity-0 div relative block h-full w-full overflow-hidden div absolute inset-0 div relative overflow-hidden h-full w-full div relative max-w-full group self-end ",
+      "content_type": "image/webp",
+      "bytes": 31522,
+      "sha256": "19b39bea1a6700b3f47bb9b36c8cfaf1225b3935b01ca525537e32ad9225908d",
+      "width": 640,
+      "height": 853
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "company": "뮤직카우",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.musicow.com/",
+  "page_url": "https://www.musicow.com/",
+  "page_title": "뮤직카우 - 세계 최초 음악수익증권 투자 플랫폼",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://cdn.musicow.com/static/event/2025_new_user_event/banner_icon.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/musicow/favicon.png",
+      "source_url": "https://cdn.musicow.com/static/images/icon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5719,
+      "sha256": "1d43788b7710a91a7ee455c7681413c63c8413072786aeac9ae410a239e306f5",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/musicow/og.webp",
+      "source_url": "https://cdn.musicow.com/static/images/icon/og-image-250x250.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3240,
+      "sha256": "eb0157832d7af8691b48395076baa7d56eef82de8b3fbe3865508e0be969a358",
+      "width": 250,
+      "height": 250
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/musicow/logo-1.png",
+      "source_url": "https://cdn.musicow.com/static/images/common/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Musicow a nav-brand nav navbar container only_pc header header div wrap",
+      "content_type": "image/png",
+      "bytes": 1781,
+      "sha256": "25d45717c8ac180e30fb586d4d250a3fe2012d54ea7cacc0fd7ae1240376f2f1",
+      "width": 122,
+      "height": 30
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/musicow/logo-2.png",
+      "source_url": "https://cdn.musicow.com/static/images/header/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img musicow a logo div left_box div only_mobile main_header header header",
+      "content_type": "image/png",
+      "bytes": 2706,
+      "sha256": "8451ac8d36f70fb1040af26314864270c0397359fbd58db0625721e5d2b6e3a5",
+      "width": 196,
+      "height": 48
+    }
+  ]
+}

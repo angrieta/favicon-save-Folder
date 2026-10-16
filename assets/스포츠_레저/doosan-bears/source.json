@@ -1,0 +1,45 @@
+{
+  "company": "두산 베어스",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.doosanbears.com",
+  "page_url": "https://www.doosanbears.com/",
+  "page_title": "두산베어스",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.doosanbears.com/_next/static/media/e4af272ccee01ff0-s.p.woff2; reference:ValueError:https://www.doosanbears.com/_next/static/chunks/webpack-ea0a714159730586.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/doosan-bears/favicon.ico",
+      "source_url": "https://www.doosanbears.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 37323,
+      "sha256": "a83e1e51b26e5fed7d2e1ea47797a70cd5148f302c1cfb50db15c439d131582d",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/doosan-bears/og.svg",
+      "source_url": "https://www.doosanbears.com/images/meta_img.svg",
+      "source_tag": "og:image",
+      "content_type": "image/svg+xml",
+      "bytes": 381843,
+      "sha256": "1fc94a2d9ba302936813a172f6b7d86ab7259e01ae8ebbe0876a93e30207574b",
+      "width": 2000,
+      "height": 1200
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/doosan-bears/logo-1.svg",
+      "source_url": "https://www.doosanbears.com/images/logo_dosan_gray.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-doosan 두산 div right div Footer_copyright-display__ivx7C div left div",
+      "content_type": "image/svg+xml",
+      "bytes": 2323,
+      "sha256": "8a0edf2891a193992a80091412d6aa84ab33b560cbfc9225c9096466c90028c8",
+      "width": 127,
+      "height": 17
+    }
+  ]
+}

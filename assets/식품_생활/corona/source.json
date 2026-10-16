@@ -1,0 +1,72 @@
+{
+  "company": "Corona",
+  "category": "식품_생활",
+  "requested_url": "https://www.corona.com/",
+  "page_url": "https://www.corona.com/en-ca",
+  "page_title": "Best Beaches in the World | Corona Beach 100 Official",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.corona.com/sites/g/files/wnfebl12226/files/cohesion/icomoon.woff; reference:ValueError:https://www.corona.com/sites/g/files/wnfebl12226/files/cohesion/icomoon_0.woff; reference:ValueError:https://www.corona.com/sites/g/files/wnfebl12226/files/cohesion/CoronaHeadline-SemiBold1.ttf; reference:ValueError:https://www.corona.com/sites/g/files/wnfebl12226/files/cohesion/styles/base/corebr-whitelabel-stylesheet.min.css?tm3c46; reference:ValueError:https://www.corona.com/sites/g/files/wnfebl12226/files/cohesion/styles/theme/corebr-whitelabel-stylesheet.min.css?tm3c46",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/corona/favicon.png",
+      "source_url": "https://www.corona.com/sites/g/files/wnfebl12226/files/favi-c-192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4350,
+      "sha256": "71c53b1ba659a557b5b945cb8f23cf01b33095b3daf5440a6618333811659f4d",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/corona/logo-1.png",
+      "source_url": "https://www.corona.com/sites/g/files/wnfebl12226/files/styles/webp/public/logo_white.png.webp?itok=O5QeIjtR",
+      "source_tag": "img:semantic-logo",
+      "context": "img coh-image coh-ce-cpt_age_gate_global-bcfab323 coh-image-responsive-xs Corona Corona div coh-container coh-ce-cpt_age_gate_global-6891e73f div coh-container contry-select-age-gate coh-ce-cpt_age_gate_global-e6bd0d17 div coh-container coh",
+      "content_type": "image/png",
+      "bytes": 50535,
+      "sha256": "06cbb847ae21257ccbf9ee55dcdb639596eccd73d7af79d286073d288504c350",
+      "width": 1059,
+      "height": 576
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/corona/logo-2.png",
+      "source_url": "https://www.corona.com/modules/custom/abinbev_coronabeach/custom_components/coronabeach_component/js/dist/img/corona_logo_white.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Corona Logo div menu-component__header div menu-component__menu div menu-component div dialog-off-canvas-main-canvas",
+      "content_type": "image/png",
+      "bytes": 6752,
+      "sha256": "4dd5e7bfb8ebb6d4b45bede98c0dd44721f76cbb23d444416d6a36e670866f2a",
+      "width": 149,
+      "height": 81
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/corona/banner-1.webp",
+      "source_url": "https://www.corona.com/sites/g/files/wnfebl12226/files/bg_corona.png",
+      "source_tag": "style-background-image",
+      "context": ".ssa-instance-40cd750bba9870f18aada2478b24840a.coh-ce-cpt_age_gate_global-ce47de06 {    background-image: url(\"/sites/g/files/wnfebl12226/files/bg_corona.png\");  background-position: center;  background-size: cover;  background-repeat: no-",
+      "content_type": "image/webp",
+      "bytes": 97372,
+      "sha256": "818145ea7450c908997985de2243dd39454baa1935f300ba8c0ceea33a0900cc",
+      "width": 1600,
+      "height": 1108,
+      "source_sha256": "608c4674abd2707fb2fd4395756e8b0d1511ba1210d11f404aa096f8232b6cdb"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/corona/banner-2.webp",
+      "source_url": "https://www.corona.com/sites/g/files/wnfebl12226/files/2025-04/BG-CANADA%20Desktop.jpg",
+      "source_tag": "style-background-image",
+      "context": " footer do age gate*/\n.age-gate-footer {\n   display: none !important;\n}\n/*Adicionando imagem de fundo no age gate - Desktop*/\ndiv[id*=\"age-gate-component-\"] {\n   background-image: url('/sites/g/files/wnfebl12226/files/2025-04/BG-CANADA%20De",
+      "content_type": "image/webp",
+      "bytes": 175462,
+      "sha256": "3681ead047d454476223978babce17db41d86a185034cd377454194d70c36c6e",
+      "width": 1440,
+      "height": 876,
+      "source_sha256": "dc6cbcb1f3ddf7df5da54c46b2baf69d92dadddfd1e2169c85101451139ec2d8"
+    }
+  ]
+}

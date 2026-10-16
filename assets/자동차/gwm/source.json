@@ -1,0 +1,82 @@
+{
+  "company": "GWM",
+  "category": "자동차",
+  "requested_url": "https://www.gwm-global.com/",
+  "page_url": "https://www.gwm-global.com/",
+  "page_title": "GWM Group",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/gwm/favicon.ico",
+      "source_url": "https://www.gwm-global.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "4ad97d594a14a4ee69eb67fcd4c43ffceb6f41f6130f1741c184d3f14573a815",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/gwm/logo-1.png",
+      "source_url": "https://www.gwm-global.com/dist/images/home-page/cc_logo-20250120.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div logo div header_box pc-only font-text-16pt div gwm-header",
+      "content_type": "image/png",
+      "bytes": 15890,
+      "sha256": "09c78f88cbf1e49c01f1f1626e97e0520f9a8fc61fb358b7ad650d785b766120",
+      "width": 1234,
+      "height": 331
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/gwm/logo-2.png",
+      "source_url": "https://www.gwm-global.com/dist/images/home-page/ji-05.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div text_C div brand_slogan div brand_box div jz-web-rows view-area",
+      "content_type": "image/png",
+      "bytes": 3811,
+      "sha256": "3e7c11ac7b5151d9343bd3d1d38be6939d884a9cfe35393b149b75f8e4952368",
+      "width": 101,
+      "height": 71
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/gwm/banner-1.webp",
+      "source_url": "https://www.gwm-global.com/dist/images/home-page/banner-v1.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img sw_img pc-pad div swiper-slide div swiper-wrapper div swiper-container hb_swiper div home_banner",
+      "content_type": "image/webp",
+      "bytes": 208626,
+      "sha256": "eb9c16c64f0529f20bbd7ce9734f3449fba2d611cf2eac0451cc7e0376b2d000",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/gwm/reference-1.svg",
+      "source_url": "https://www.gwm-global.com/dist/images/home-page/header_pop_close.svg",
+      "source_tag": "img:page-image",
+      "context": "img div header_close_btn div header_pop_center div header_pop div gwm-header",
+      "content_type": "image/svg+xml",
+      "bytes": 772,
+      "sha256": "860308bda90436495857244fa025c64643fbd2b4d3341c93f88e4d9f9d35e68a",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/gwm/reference-2.webp",
+      "source_url": "https://www.gwm-global.com/dist/images/home-page/banner-mb-v1.png",
+      "source_tag": "img:page-image",
+      "context": "img sw_img mb-only div swiper-slide div swiper-wrapper div swiper-container hb_swiper div home_banner",
+      "content_type": "image/webp",
+      "bytes": 82574,
+      "sha256": "f3c322acb3d4cffbc50eea82113291189196ee8d56b93430bbb03f16f1c3d4e7",
+      "width": 602,
+      "height": 1350
+    }
+  ]
+}

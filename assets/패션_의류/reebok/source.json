@@ -1,0 +1,118 @@
+{
+  "company": "Reebok",
+  "category": "패션_의류",
+  "requested_url": "https://www.reebok.com/",
+  "page_url": "https://www.reebok.com/",
+  "page_title": "Reebok® Official Site | Life is Not a Spectator Sport",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.reebok.com/cdn/shop/videos/c/vp/35eeaca883424e9abc32f5a49f0b3143/35eeaca883424e9abc32f5a49f0b3143.HD-1080p-7.2Mbps-95782628.mp4?v=0; reference:ValueError:https://www.reebok.com/cdn/shop/videos/c/vp/eb08d84cc3844a19a90c47509fcc8748/eb08d84cc3844a19a90c47509fcc8748.HD-1080p-7.2Mbps-95782859.mp4?v=0; reference:ValueError:https://www.reebok.com/cdn/shop/videos/c/vp/35eeaca883424e9abc32f5a49f0b3143/35eeaca883424e9abc32f5a49f0b3143.HD-1080p-7.2Mbps-95782628.mp4?v=0; reference:ValueError:https://www.reebok.com/cdn/shop/t/738/assets/NeuePlakExtendedBold.ttf?v=6899572725894147401790602841; reference:ValueError:https://www.reebok.com/cdn/shop/t/738/assets/NeuePlakRegular.ttf?v=71153704905797839441790602839; reference:ValueError:https://www.reebok.com/cdn/shop/t/738/assets/gm-vendor.js?v=55882976620269896091790602840?v=c86ddf0e74e7",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/reebok/favicon.png",
+      "source_url": "https://www.reebok.com/cdn/shop/files/favicon-96.png?v=1768414823&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1433,
+      "sha256": "edc4c0415199b403bf8802be0141c4615246956aeecbc211a72ea43293f80eee",
+      "width": 32,
+      "height": 32,
+      "source_sha256": "f5f4209c1321853be9635b9d42937be5fe65b51eddc9ff1916c7f711c161d8d9"
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/reebok/og.webp",
+      "source_url": "http://www.reebok.com/cdn/shop/files/social_share_f2815bb9-7f67-45ae-bf9a-186720ad1a29.jpg?v=1789403479&width=1024",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 72688,
+      "sha256": "5e70b4048aea09932c34987b0aae3eba5dd046c676b692ad88bb5a796793eb08",
+      "width": 1024,
+      "height": 645
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/reebok/logo-1.png",
+      "source_url": "https://www.reebok.com/cdn/shop/files/Reebok_Logo_2x_ad023ce8-db1d-434d-b9d6-8ceefe5c32c9.png?v=1737307512&width=1476",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 91790,
+      "sha256": "4e45b2e8328958c584c4a3b1ba5e58bf09a7c8478b52fbae93690b4eb4ae102f",
+      "width": 1476,
+      "height": 422
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/reebok/logo-2.png",
+      "source_url": "https://www.reebok.com/cdn/shop/files/Reebok_Logo_2x_ad023ce8-db1d-434d-b9d6-8ceefe5c32c9.png?v=1737307512&width=200",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo__img logo__img--color A red abstract logo featuring two curved lines on the left and two intersecting angled shapes pointing upward and right, all on a white background. a header__logo__link div header__logo header__logo--image div",
+      "content_type": "image/png",
+      "bytes": 8489,
+      "sha256": "2bf2b0a3845af2d4e10cbe0361602f9173a62880a322cb117be47d39fbda3bce",
+      "width": 200,
+      "height": 57
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/reebok/banner-1.webp",
+      "source_url": "https://www.reebok.com/cdn/shop/files/skinny-0922.jpg?v=1790083979&width=2400",
+      "source_tag": "img:semantic-banner",
+      "context": "img tw-block tw-overflow-hidden tw-object-cover tw-w-full tw-h-full orange and yellow gradient background div image__hero__scale div image__hero__pane div image__hero__frame use_image desktop div aos- hero__container section--image js-overf",
+      "content_type": "image/webp",
+      "bytes": 6452,
+      "sha256": "e42708747ca3aeca9a1a5b30f3f939352552dd2b75574e9d13a6af19a0b05236",
+      "width": 1800,
+      "height": 368
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/reebok/banner-2.webp",
+      "source_url": "https://www.reebok.com/cdn/shop/files/skinny-0922.jpg?v=1790083979&width=4750",
+      "source_tag": "img:semantic-banner",
+      "context": "img tw-block tw-overflow-hidden tw-object-cover tw-w-full tw-h-full orange and yellow gradient background div image__hero__scale div image__hero__pane div image__hero__frame use_image desktop div aos- hero__container section--image js-overf",
+      "content_type": "image/webp",
+      "bytes": 6312,
+      "sha256": "19f2cd0138a825840a03a8460fef5ee29d3ec160ecbba02703e27e77ca81754d",
+      "width": 1800,
+      "height": 368
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/reebok/reference-1.webp",
+      "source_url": "https://www.reebok.com/cdn/shop/files/0706_skinny-RBK_0922.jpg?v=1790083979&width=2400",
+      "source_tag": "img:page-image",
+      "context": "img tw-block tw-overflow-hidden tw-object-cover tw-w-full tw-h-full orange and yellow gradient background div image__hero__scale div image__hero__pane div image__hero__frame use_image mobile div aos- hero__container section--image js-overfl",
+      "content_type": "image/webp",
+      "bytes": 11292,
+      "sha256": "ab96fa2e44465191295ae0082f9da826c101d0fb1f4a03676c827a081ff9ecff",
+      "width": 1558,
+      "height": 830
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/reebok/reference-2.webp",
+      "source_url": "https://www.reebok.com/cdn/shop/files/0706_skinny-RBK_0922.jpg?v=1790083979&width=1200",
+      "source_tag": "img:page-image",
+      "context": "img tw-block tw-overflow-hidden tw-object-cover tw-w-full tw-h-full orange and yellow gradient background div image__hero__scale div image__hero__pane div image__hero__frame use_image mobile div aos- hero__container section--image js-overfl",
+      "content_type": "image/webp",
+      "bytes": 7640,
+      "sha256": "8931cfdca44e04cd9695626e118f51836f6ab9bb8515025c96944d4fef080f20",
+      "width": 1200,
+      "height": 639
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/reebok/reference-3.webp",
+      "source_url": "https://www.reebok.com/cdn/shop/files/collection-list-HP-classics_train.jpg?v=1782849722&width=2400",
+      "source_tag": "img:page-image",
+      "context": "img tw-block tw-overflow-hidden tw-object-cover tw-w-full tw-h-full man in gym wearing orange shoes div image__hero__scale div image__hero__pane div image__hero__frame auto div collection-grid-item section--image",
+      "content_type": "image/webp",
+      "bytes": 29746,
+      "sha256": "4adcbfdb59de9a7582bef91042168bd508363731db26f509a6ac488011e56db8",
+      "width": 420,
+      "height": 560
+    }
+  ]
+}

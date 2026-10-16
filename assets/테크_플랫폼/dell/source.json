@@ -1,0 +1,107 @@
+{
+  "company": "Dell",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.dell.com/ko-kr",
+  "page_url": "https://www.dell.com/ko-kr",
+  "page_title": "컴퓨터, 모니터 & 테크놀로지 솔루션 | Dell 대한민국",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.dell.com/360; reference:ValueError:https://www.dell.com/900&op_usm=1.75; reference:ValueError:https://www.dell.com/2; reference:ValueError:https://www.dell.com/1066&op_usm=1.75; reference:ValueError:https://www.dell.com/768; reference:ValueError:https://www.dell.com/360",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/dell/favicon.ico",
+      "source_url": "https://www.dell.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 7406,
+      "sha256": "d6a3cf5f4447cf6abf044460855327e573584ba214690300c7ec656077dce3be",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/dell/og.webp",
+      "source_url": "https://i.dell.com/is/image/DellContent/content/dam/images/logos/dell-technologies/stacked/digital/delltech-logo-stk-blue-rgb.png?wid=1346&hei=710&fit=fit",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 65824,
+      "sha256": "d570ef6089732fbc8c467aa620689208ec179c26e94e641232313d44fda6a400",
+      "width": 1200,
+      "height": 633
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/dell/og.webp",
+      "source_url": "https://i.dell.com/is/image/DellContent/content/dam/images/logos/dell-technologies/stacked/digital/delltech-logo-stk-blue-rgb.png?wid=1346&hei=710&fit=fit",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 65824,
+      "sha256": "d570ef6089732fbc8c467aa620689208ec179c26e94e641232313d44fda6a400",
+      "width": 1200,
+      "height": 633,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/dell/banner-1.webp",
+      "source_url": "https://i.dell.com/assetlink/img/en/2601g0170-site-banner-dell-pro-p713260-p516260-p314260-pa14260-laptop-x-family-shot-gy-fpr-wlan-fhd-rgb-camera-2560x1066-en-dl112rgi-original.jpg?fmt=pjpg&pscan=auto&scl=1&hei=900&wid=2560&resMode=sharp2&size=2560,900&op_usm=1.75,0.3,2,0",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div hpg-hero-section-item hpg-hero-section-item-show section hpg-hero-div owl-carousel owl-theme owl-loaded hpg-hero-section dds__h-100 dds__w-100 page banner div hpg-hero-section-container div hpg-main-wrap hpg-main-wrap",
+      "content_type": "image/webp",
+      "bytes": 28854,
+      "sha256": "65d405f86ba83e3188d00f835632681f9cf8e53091f7077b05232a2c7d073b33",
+      "width": 1800,
+      "height": 633
+    },
+    {
+      "type": "banner",
+      "path": "assets/테크_플랫폼/dell/banner-2.webp",
+      "source_url": "https://i.dell.com/assetlink/img/en/2601g0169-gl-bb-fy26-site-banner-xps-family-laptop-da14260-da16260-1610x906-dl116qcq-original.jpg?wid=1610&hei=906",
+      "source_tag": "source:semantic-banner",
+      "context": "source picture figure ghpg-promo-aspect-ratio div ghpg-product-image div ghpg-product-item-hidden dds__flex-column-reverse dds__align-items-center ghpg-product-item-container-row dds__d-flex dds__flex-column dds__flex-lg-row",
+      "content_type": "image/webp",
+      "bytes": 46388,
+      "sha256": "d49d1b1fa936f1750d88fb5d5458470a2d53440fcbecc3abf2ff149e341da51f",
+      "width": 1610,
+      "height": 906
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/dell/reference-1.webp",
+      "source_url": "https://i.dell.com/assetlink/img/en/2601g0170-site-banner-dell-pro-p713260-p516260-p314260-pa14260-laptop-x-family-shot-gy-fpr-wlan-fhd-rgb-camera-1024x768-en-dl112rgc-original.jpg?fmt=png&wid=480&hei=360&size=480",
+      "source_tag": "picture:page-image",
+      "context": "picture div hpg-hero-section-item hpg-hero-section-item-show section hpg-hero-div owl-carousel owl-theme owl-loaded hpg-hero-section dds__h-100 dds__w-100 page banner div hpg-hero-section-container div hpg-main-wrap hpg-main-wrap",
+      "content_type": "image/webp",
+      "bytes": 11870,
+      "sha256": "8d42e72c9e5a4a6062ab06ae721ffedab4c9df411170d1dbf1835e9bbd3dd335",
+      "width": 480,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/dell/reference-2.webp",
+      "source_url": "https://i.dell.com/is/image/DellContent/content/dam/ss2/non-product-images/video-thumbnails/2025/deloitte-6s-thumb.jpg?fmt=jpg&wid=1920&hei=1080",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 88036,
+      "sha256": "dca84bf8915e126d6e45cdde3df2af75746480fce7d8e61b822b6314e6f5787a",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "b2f8d8d9ff9023726c7521373e591a5c3ed3c0252bf4efbe03ae50690d49df94"
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/dell/reference-3.webp",
+      "source_url": "https://i.dell.com/is/image/DellContent/content/dam/documents-and-videos/dv2/pan-dell/en/customer-stories/deloitte/shared-assets/lifestyle/deloitte-cs-video-thumbnail-1280x720.png?fmt=jpg&wid=1280&hei=720",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 41298,
+      "sha256": "cfd7fdcdd3bdd38f5f2387836a6e8a492a14b146c419967a38d80742b2512bb6",
+      "width": 1280,
+      "height": 720
+    }
+  ]
+}

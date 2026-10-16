@@ -1,0 +1,82 @@
+{
+  "company": "UFC",
+  "category": "스포츠_레저",
+  "requested_url": "https://kr.ufc.com",
+  "page_url": "https://kr.ufc.com/",
+  "page_title": "홈페이지 | KR.UFC.com",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/ufc/favicon.png",
+      "source_url": "https://kr.ufc.com/sites/default/files/ufc_logo.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5357,
+      "sha256": "2a907643a9d38db0761d6c0faa86b4ba3b897dee7ea2219a93668d90ff32d645",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/ufc/banner-1.webp",
+      "source_url": "https://kr.ufc.com/images/styles/800x450_2/s3/2026-09/100326-ufc-332-silva-vs-wang-EVENT-ART.jpg?h=d1cb525d&itok=iTmtlhog",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div hero-story__media div hero-story div hero-story-wrap div l-container__content hero-landing",
+      "content_type": "image/webp",
+      "bytes": 205128,
+      "sha256": "8f016eba9cc55f8e92e7fe5640e8e4859f9a71f3cda4824faa95a365680a4930",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/ufc/banner-2.webp",
+      "source_url": "https://kr.ufc.com/images/styles/800x450_1/s3/2026-09/100326-ufc-332-silva-vs-wang-EVENT-ART.jpg?h=d1cb525d&itok=hcFJqZTO",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div hero-story__media div hero-story div hero-story-wrap div l-container__content hero-landing",
+      "content_type": "image/webp",
+      "bytes": 50444,
+      "sha256": "125bb721cb137f894b5045ba862b76f2316709d5e0330143f91abfffdc202ce4",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/ufc/reference-1.webp",
+      "source_url": "https://kr.ufc.com/images/styles/767x432_2/s3/2026-09/100326-ufc-332-silva-vs-wang-EVENT-ART.jpg?h=d1cb525d&itok=gffkKvyO",
+      "source_tag": "picture:page-image",
+      "context": "picture div hero-story__media div hero-story div hero-story-wrap div l-container__content hero-landing",
+      "content_type": "image/webp",
+      "bytes": 188184,
+      "sha256": "eed6b61a278c424a19310093b52be4aaa2866a76fc65ba89747be21fccafc602",
+      "width": 1534,
+      "height": 864
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/ufc/reference-2.webp",
+      "source_url": "https://kr.ufc.com/images/styles/767x432_1/s3/2026-09/100326-ufc-332-silva-vs-wang-EVENT-ART.jpg?h=d1cb525d&itok=FQVbIiUD",
+      "source_tag": "picture:page-image",
+      "context": "picture div hero-story__media div hero-story div hero-story-wrap div l-container__content hero-landing",
+      "content_type": "image/webp",
+      "bytes": 46012,
+      "sha256": "06e051fda498e9a2477a596b3eeef2275790dba76353d6cfa78f763c96a204e7",
+      "width": 767,
+      "height": 432
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/ufc/reference-3.webp",
+      "source_url": "https://kr.ufc.com/images/styles/390x220_2/s3/2026-09/100326-ufc-332-silva-vs-wang-EVENT-ART.jpg?h=d1cb525d&itok=0io9TvMl",
+      "source_tag": "picture:page-image",
+      "context": "picture div hero-story__media div hero-story div hero-story-wrap div l-container__content hero-landing",
+      "content_type": "image/webp",
+      "bytes": 47746,
+      "sha256": "f623374191300febf42454f1240205ff247f78eacc19af152eda34ef4e7ca551",
+      "width": 780,
+      "height": 440
+    }
+  ]
+}

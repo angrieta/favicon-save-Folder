@@ -1,0 +1,105 @@
+{
+  "company": "Newegg",
+  "category": "유통_커머스",
+  "requested_url": "https://www.newegg.com",
+  "page_url": "https://www.newegg.com/",
+  "page_title": "PC Parts, Computers, Workstations & AI PCs | Newegg",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/newegg/favicon.ico",
+      "source_url": "https://c1.neweggimages.com/WebResource/ngm/newegg.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "be522a1a7d836695fe0403f4f924e4b246b616344261ef22e9b833d97d08fd45",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/newegg/og.webp",
+      "source_url": "https://c1.neweggimages.com/WebResource/Themes/logo_newegg_400400.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8510,
+      "sha256": "8d12ca5ecf1a8536249b7043872879200264cf72f92615fe32e41e5b90ba37e4",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/newegg/logo-1.svg",
+      "source_url": "https://c1.neweggimages.com/WebResource/Themes/Nest/logos/Newegg_full_color_logo_RGB.SVG",
+      "source_tag": "img:semantic-logo",
+      "context": "img Newegg a header2021-logo-img div header2021-logo div section-left auto-flex div header2021-inner",
+      "content_type": "image/svg+xml",
+      "bytes": 8335,
+      "sha256": "cb9c2135716f2b7179ed198a484f771130f62ccd4709912e8b5ff0ed3a6d315b",
+      "width": 143,
+      "height": 72
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/newegg/logo-2.png",
+      "source_url": "https://c1.neweggimages.com/webresource/themes/Nest/logos/intel-w-s.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Intel span div section-title-text font-xl div section-title div personalized-combo personalized-combo-intel brand-theme",
+      "content_type": "image/png",
+      "bytes": 1167,
+      "sha256": "dc7f72bd83e882e06fa2af3b7df49c6357dffa54b07b5887ecc405800512ba68",
+      "width": 100,
+      "height": 40
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/newegg/banner-1.webp",
+      "source_url": "https://promotions.newegg.com/nepro/26-0896/1300x320.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img $bannerId1 TECHTEMBER: Lightning-Fast Upgrades div hero-banner-img div swiper-slide div swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 55956,
+      "sha256": "3f178dac17a1f7803a3cfb401660a7fe2782c525cc43586e563be71fe51ccdd4",
+      "width": 1300,
+      "height": 320
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/newegg/banner-2.webp",
+      "source_url": "https://promotions.newegg.com/nepro/25-0119/1150x320.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img $bannerId2 Newegg Select div hero-banner-img is-sm div swiper-slide div swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 39504,
+      "sha256": "a5eb4c6cb681a78cdc00a084e5a6e75f6ac1dd2c3cb621c2b69d0f74611dff49",
+      "width": 1150,
+      "height": 320
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/newegg/reference-1.webp",
+      "source_url": "https://promotions.newegg.com/tile-module-banner/System/Desktop%20PC/System-Desktop%20PC-BG.png",
+      "source_tag": "inline-background-image",
+      "context": "div  goods-img background:url(https://promotions.newegg.com/tile-module-banner/System/Desktop%20PC/System-Desktop%20PC-BG.png) no-repeat;background-size:cover",
+      "content_type": "image/webp",
+      "bytes": 17388,
+      "sha256": "085e833ac1bf34826ea1bf2ef8b2905bfaa7e751891815a0f353653635f29d61",
+      "width": 754,
+      "height": 670
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/newegg/reference-2.webp",
+      "source_url": "https://promotions.newegg.com/tile-module-banner/System/Peripherals/System-Peripherals-BG.png",
+      "source_tag": "inline-background-image",
+      "context": "div  goods-img background:url(https://promotions.newegg.com/tile-module-banner/System/Peripherals/System-Peripherals-BG.png) no-repeat;background-size:cover",
+      "content_type": "image/webp",
+      "bytes": 592,
+      "sha256": "7440440bd9c719935fbbe714a412b5236c84fdd7cf85b9c229d9ba7ee86b1d45",
+      "width": 750,
+      "height": 292
+    }
+  ]
+}

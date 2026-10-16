@@ -1,0 +1,97 @@
+{
+  "company": "Opendoor",
+  "category": "부동산_공간",
+  "requested_url": "https://www.opendoor.com/",
+  "page_url": "https://www.opendoor.com/",
+  "page_title": "Opendoor | Sell your home the minute you’re ready.",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.opendoor.com/logo.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/opendoor/favicon.svg",
+      "source_url": "https://www.opendoor.com/icon.svg?75ade136df14df83",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 883,
+      "sha256": "584149631778fe47d2e524dd6598c315af6cad5a58195764da3a40600935bbf3",
+      "width": 24,
+      "height": 24,
+      "source_sha256": "993a3de1de0b7dd3971ca30faefab025b5775be3b01a317fb6ef352556f2dda7"
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/opendoor/og.webp",
+      "source_url": "https://images.opendoor.com/source/s3/imgdrop-production/2024-06-1719377665829-19976.jpg?service=cosmos&preset=square-1024&dpr=2",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7610,
+      "sha256": "96d8d5e5684906aa10a325b870174b10c4f4bb7b7bd8e11208f337e5e779cf5f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/opendoor/banner-1.webp",
+      "source_url": "https://images.opendoor.com/source/s3/imgdrop-production/2026-07-1783365783591-47075_hero.png?service=beacon&preset=square-1024&fit=scale-down",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 hidden h-full w-full object-cover lg:block Family standing outside their home div absolute inset-0 overflow-hidden rounded-b-[18px] section relative h-[560px] min-h-[560px] rounded-b-[18px] bg-canvas-dark sm:h-[520px] s",
+      "content_type": "image/webp",
+      "bytes": 73742,
+      "sha256": "b86585f441f70b65d13d25b8e0ee91d62a5884e05afc0bab86f6d420026ad241",
+      "width": 1024,
+      "height": 576
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/opendoor/banner-2.webp",
+      "source_url": "https://images.opendoor.com/source/s3/imgdrop-production/2026-07-1783365783591-47075_hero.png?service=beacon&preset=square-2048&fit=scale-down",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 hidden h-full w-full object-cover lg:block Family standing outside their home div absolute inset-0 overflow-hidden rounded-b-[18px] section relative h-[560px] min-h-[560px] rounded-b-[18px] bg-canvas-dark sm:h-[520px] s",
+      "content_type": "image/webp",
+      "bytes": 83764,
+      "sha256": "12a76f25643bcfd0d5d56a9e72c1212fd7c6b7a11305b1a64627c831161c71a4",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "7b1de234d47b161ca7549bd0a74713274c4cb44e12e85cee118791693298958a"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/opendoor/reference-1.webp",
+      "source_url": "https://images.opendoor.com/source/s3/imgdrop-production/2026-07-1783365783591-47075_hero.png?service=beacon&preset=square-2048&fit=scale-down&presetScale=3%2F4",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 hidden h-full w-full object-cover lg:block Family standing outside their home div absolute inset-0 overflow-hidden rounded-b-[18px] section relative h-[560px] min-h-[560px] rounded-b-[18px] bg-canvas-dark sm:h-[520px] s",
+      "content_type": "image/webp",
+      "bytes": 76022,
+      "sha256": "2258a108c87f9dc7d2ff818681181492ef17dfcb70bfcbb64c30072a74df42b6",
+      "width": 1536,
+      "height": 864,
+      "source_sha256": "2b440bcc194ff3b104fd09e8858ea40ccc8c091302e30edd494dc76284d317e9"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/opendoor/reference-2.webp",
+      "source_url": "https://images.opendoor.com/source/s3/imgdrop-production/2026-06-1782434423708-81691_charlisa-boyd-hero.jpg?service=beacon&preset=square-2048",
+      "source_tag": "img:page-image",
+      "context": "img mx-auto h-28 w-28 rounded-full object-cover Charlisa Boyd article rounded-32x bg-canvas-muted p-10 text-center div mt-10 grid gap-5 lg:grid-cols-3 div mx-auto max-w-[1408px] px-6 sm:px-12 section bg-canvas py-16 lg:py-16",
+      "content_type": "image/webp",
+      "bytes": 67926,
+      "sha256": "f9acd63c966db51d3c6ec3bc79d43bf4ae0cdb2624aa944ffc81a2ee4acacbce",
+      "width": 1600,
+      "height": 640,
+      "source_sha256": "87f93b671073d0b97e474f299b542f237752c412ad296098f2cea6ca8c1bdcca"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/opendoor/reference-3.webp",
+      "source_url": "https://images.opendoor.com/source/s3/imgdrop-production/2026-06-1782434423433-94332_adam-leon-hero.jpg?service=beacon&preset=square-2048",
+      "source_tag": "img:page-image",
+      "context": "img mx-auto h-28 w-28 rounded-full object-cover Adam Leon article rounded-32x bg-canvas-muted p-10 text-center div mt-10 grid gap-5 lg:grid-cols-3 div mx-auto max-w-[1408px] px-6 sm:px-12 section bg-canvas py-16 lg:py-16",
+      "content_type": "image/webp",
+      "bytes": 96680,
+      "sha256": "6e0d0f103519dc36eebbeb6e25c50c3a0894b2a6c344b3f38630079f6001eb4a",
+      "width": 1800,
+      "height": 719
+    }
+  ]
+}

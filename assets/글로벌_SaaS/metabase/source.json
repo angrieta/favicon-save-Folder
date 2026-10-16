@@ -1,0 +1,81 @@
+{
+  "company": "Metabase",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.metabase.com",
+  "page_url": "https://www.metabase.com/",
+  "page_title": "Open source AI analytics you can verify | Metabase",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/metabase/favicon.svg",
+      "source_url": "https://www.metabase.com/images/favicon.svg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 6346,
+      "sha256": "fa4581966b83b06cc38fa8651dc09fdaf6353c983036bbbf3bb3dbe84e0d5f8e",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/metabase/og.webp",
+      "source_url": "https://cdn.metabase.com/images/opengraph/home-og.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 23940,
+      "sha256": "307baff44d2a6877646fd3ff6860e147a2156ff60640f0075abb433bd43ddd31",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/metabase/logo-1.webp",
+      "source_url": "https://cdn.metabase.com/images/metabase-logo.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 16120,
+      "sha256": "daa9104ab5498cbab6625453cacf174b2de9bbe42ee6e14d94f845dc0112c107",
+      "width": 1183,
+      "height": 360
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/metabase/logo-2.svg",
+      "source_url": "https://www.metabase.com/images/logos/Huggingface.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img huggingface logo div logos customer-logos-container div hero-revamp-trust section hero-revamp div home-page",
+      "content_type": "image/svg+xml",
+      "bytes": 18756,
+      "sha256": "692e4d6bd9a20f0a1c896f10cf2cb595f82f239fac72b95f04b895d3489fcc45",
+      "width": 109,
+      "height": 32
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/metabase/reference-1.webp",
+      "source_url": "https://cdn.metabase.com/images/posts/ai-weekly-blog-post/ai-analytics-week-og-v2.webp",
+      "source_tag": "img:page-image",
+      "context": "img position-absolute w-100 div recent-blog-image-wrapper d-flex align-items-center position-relative rounded-2 mb-3 overflow-hidden a post-with-image recent-blog-link mt-1 w-100 div menu-links-wrapper bg-neutral-95 blog-posts-wrapper div r",
+      "content_type": "image/webp",
+      "bytes": 110690,
+      "sha256": "c2d297d66cfe5db3a86508111a259edbf1d5c2a3cefad5dd10e1fb3e377b292c",
+      "width": 1800,
+      "height": 942
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/metabase/reference-2.webp",
+      "source_url": "https://cdn.metabase.com/images/datasources/apache-pinot-logo.jpeg",
+      "source_tag": "img:page-image",
+      "context": "img Apache Pinot a div inner-marquee div marquee marquee--slower div data-sources-marquee-no-names",
+      "content_type": "image/webp",
+      "bytes": 7964,
+      "sha256": "2d3e5314bc354b1c1dae54c0cebf995752d79a03f137381a5ecbfacf3e2f8e76",
+      "width": 400,
+      "height": 400
+    }
+  ]
+}

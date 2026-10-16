@@ -1,0 +1,84 @@
+{
+  "company": "Veuve Clicquot",
+  "category": "식품_생활",
+  "requested_url": "https://www.veuveclicquot.com/",
+  "page_url": "https://www.veuveclicquot.com/en-int/home",
+  "page_title": "Veuve Clicquot | Champagne House Founded in 1772",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.veuveclicquot.com/on/demandware.static/Sites-VeuveClicquot_HUB-Site/-/en/v1790632956713/css/experience/components/commerceAssets/bynderWidget.css; reference:ValueError:https://www.veuveclicquot.com/on/demandware.static/Sites-VeuveClicquot_HUB-Site/-/en/v1790632956713/css/experience/components/commerceAssets/photoTile.css; reference:ValueError:https://www.veuveclicquot.com/on/demandware.static/Sites-VeuveClicquot_HUB-Site/-/en/v1790632956713/css/experience/components/commerceLayouts/grid2ColsAdjustableWidth.css; reference:HTTPError:https://www.veuveclicquot.com/en-int/width=1280; reference:HTTPError:https://www.veuveclicquot.com/en-int/width=668; reference:HTTPError:https://www.veuveclicquot.com/en-int/width=447",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/veuve-clicquot/favicon.png",
+      "source_url": "https://www.veuveclicquot.com/on/demandware.static/Sites-VeuveClicquot_HUB-Site/-/en/v1790632956713/images/favicons/favicon-128.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 114,
+      "sha256": "5c8ab099122e2fae9ef5b49998be7e07870b6cb73f89cf51bf7cd74d9b4cb27e",
+      "width": 128,
+      "height": 128,
+      "source_sha256": "5e214a23a79715d7124339a6cc6778abf8868c56edeb4c3981041c69a5abc1d2"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/veuve-clicquot/logo-1.svg",
+      "source_url": "https://www.veuveclicquot.com/on/demandware.static/-/Library-Sites-VeuveClicquot-shared/default/dw0cbe8a21/images/header/logo-default.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-default logo a logo-home div content-asset div navbar-header brand text-center div navbar-header-col-center col-6 col-md-4 d-flex justify-content-center",
+      "content_type": "image/svg+xml",
+      "bytes": 4815,
+      "sha256": "1a9da1011933139d87626daef1a210518226b2cd17479f1ba101d99ec8fb20b7",
+      "width": 246,
+      "height": 40
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/veuve-clicquot/logo-2.svg",
+      "source_url": "https://www.veuveclicquot.com/on/demandware.static/-/Library-Sites-VeuveClicquot-shared/default/dw62c52705/images/header/logo-hover.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-hover logo a logo-home div content-asset div navbar-header brand text-center div navbar-header-col-center col-6 col-md-4 d-flex justify-content-center",
+      "content_type": "image/svg+xml",
+      "bytes": 4815,
+      "sha256": "ccde98ba73ec13e8289df8c459d34520c91765b83d6e74a41de4e4f0755d4a30",
+      "width": 246,
+      "height": 40
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/veuve-clicquot/banner-1.webp",
+      "source_url": "https://www.veuveclicquot.com/dw/image/v2/BGMK_PRD/on/demandware.static/-/Library-Sites-VeuveClicquot-shared/default/dw4dcda66b/SEO/Yinka/VC_CHASE_THE_SUN_2026_3124_1920x1080px_INTER.jpg?im=Resize,width=1280",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div hero-banner-background div col-12 hero-banner-img-container div row div hero-banner text-center-extended",
+      "content_type": "image/webp",
+      "bytes": 106796,
+      "sha256": "340c3fade9f76e08d434c9cf2a5b49b77cf8397c19e5f200ce1d506da9567ac3",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/veuve-clicquot/banner-2.webp",
+      "source_url": "https://www.veuveclicquot.com/dw/image/v2/BGMK_PRD/on/demandware.static/-/Library-Sites-VeuveClicquot-shared/default/dw4dcda66b/SEO/Yinka/VC_CHASE_THE_SUN_2026_3124_1920x1080px_INTER.jpg?im=Resize",
+      "source_tag": "source:semantic-banner",
+      "context": "source picture div hero-banner-background div col-12 hero-banner-img-container div row",
+      "content_type": "image/webp",
+      "bytes": 81532,
+      "sha256": "576dbb57bd5c02fcf64e6ef466998f627804f74cff33fe964bb89e12d29a5723",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "6bd13f00c7156597b671a241e62178292d22ef03e9aa7eab6912ab2fb8847e77"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/veuve-clicquot/reference-1.webp",
+      "source_url": "https://www.veuveclicquot.com/dw/image/v2/BGMK_PRD/on/demandware.static/-/Library-Sites-VeuveClicquot-shared/default/dw02f40561/SEO/Yinka/VC_CHASE_THE_SUN_2026_3124_1080x1350px_INTER.jpg?im=Resize",
+      "source_tag": "source:page-image",
+      "context": "source picture div hero-banner-background div col-12 hero-banner-img-container div row",
+      "content_type": "image/webp",
+      "bytes": 105152,
+      "sha256": "86e7cc77d100ef140a6806df29237bd8d224eea07cf62276efb23ee3a3d5fed7",
+      "width": 1080,
+      "height": 1350
+    }
+  ]
+}

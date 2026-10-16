@@ -1,0 +1,70 @@
+{
+  "company": "Barbican",
+  "category": "문화_공공",
+  "requested_url": "https://www.barbican.org.uk",
+  "page_url": "https://www.barbican.org.uk/",
+  "page_title": "Welcome to the Barbican | Barbican",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/barbican/favicon.png",
+      "source_url": "https://www.barbican.org.uk/themes/barb/android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5736,
+      "sha256": "c195a6ce7641c2335aa977ce31661c73fbcaecf384a16a9ad7b558bd7dd90d12",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/barbican/logo-1.svg",
+      "source_url": "https://www.barbican.org.uk/themes/barb_three/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Home a div block-barb-three-branding div region region-branding div _column _column-branding",
+      "content_type": "image/svg+xml",
+      "bytes": 6040,
+      "sha256": "54f1c004ab5919203990b4ebe08dca09be7d0a7df5b37551b8d810f7fa09d959",
+      "width": 163,
+      "height": 33
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/barbican/reference-1.webp",
+      "source_url": "https://www.barbican.org.uk/sites/default/files/styles/promo_small/public/images/2018-10/barbicantheatre_audience.jpg.avif?itok=Sr0xt4QH",
+      "source_tag": "picture:page-image",
+      "context": "picture div paragraph paragraph--type--hero-image paragraph--view-mode--promo-small div div promo-card__image div promo-card__image--with-labels",
+      "content_type": "image/webp",
+      "bytes": 57096,
+      "sha256": "e7071be17ebcf02b31b8ba12bef44b452471635474583efcc1a147f00d4bc901",
+      "width": 537,
+      "height": 323
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/barbican/reference-2.webp",
+      "source_url": "https://www.barbican.org.uk/sites/default/files/styles/promo_small_jpg/public/images/2018-10/barbicantheatre_audience.jpg?h=2f48a009&itok=zqfiZs30",
+      "source_tag": "picture:page-image",
+      "context": "picture div paragraph paragraph--type--hero-image paragraph--view-mode--promo-small div div promo-card__image div promo-card__image--with-labels",
+      "content_type": "image/webp",
+      "bytes": 56220,
+      "sha256": "4fa8141f077a1831c91a5089eaae923a901e08ac7b0248514383dedad67f114a",
+      "width": 537,
+      "height": 323
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/barbican/reference-3.webp",
+      "source_url": "https://www.barbican.org.uk/sites/default/files/styles/promo_small/public/images/170105_barbican_194.jpg.avif?itok=IrqcffYT",
+      "source_tag": "picture:page-image",
+      "context": "picture div paragraph paragraph--type--hero-image paragraph--view-mode--promo-small div div promo-card__image div promo-card__image--with-labels",
+      "content_type": "image/webp",
+      "bytes": 19842,
+      "sha256": "ac427697f196b2dad4599ae2d27d3c9e9792da7ee5478837a50db31c32bfcbef",
+      "width": 537,
+      "height": 323
+    }
+  ]
+}

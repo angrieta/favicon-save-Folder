@@ -1,0 +1,58 @@
+{
+  "company": "Air New Zealand",
+  "category": "항공_여행",
+  "requested_url": "https://www.airnewzealand.co.kr/",
+  "page_url": "https://www.airnewzealand.co.kr/",
+  "page_title": "에어뉴질랜드 공식 웹사이트 - 한국",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.airnewzealand.co.kr/feeds/masthead-menu.json",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/air-new-zealand/favicon.png",
+      "source_url": "https://www.airnewzealand.co.kr/koru-icon-256.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6271,
+      "sha256": "9dbc94e2fdf46fdedfca0b7b7da98551940786882e1248b09d216537da45a2d4",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/air-new-zealand/reference-1.webp",
+      "source_url": "https://p-airnz.com/cms/assets/KR/New/AIRNZ_widebody_BP_Sapphire_160725_9417__FocusFillMaxWyIwLjAwIiwiMC4wMCIsNzAwLDUyNl0_ExtRewriteWyJqcGVnIiwiYXZpZiJd.avif",
+      "source_tag": "picture:page-image",
+      "context": "picture div pw-SliderTile__imageBlock div pw-SliderTile__wrapper div pw-SliderTile div item",
+      "content_type": "image/webp",
+      "bytes": 43868,
+      "sha256": "225327b220654c76ace3065b4eeadc192637d578f0ce27986571077619d6ba67",
+      "width": 700,
+      "height": 526
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/air-new-zealand/reference-2.webp",
+      "source_url": "https://p-airnz.com/cms/assets/KR/New/AIRNZ_widebody_BP_Sapphire_160725_9417__FocusFillMaxWyIwLjAwIiwiMC4wMCIsNzAwLDUyNl0_ExtRewriteWyJqcGVnIiwid2VicCJd.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div pw-SliderTile__imageBlock div pw-SliderTile__wrapper div pw-SliderTile div item",
+      "content_type": "image/webp",
+      "bytes": 32680,
+      "sha256": "056bf960b76b587cef9efe406d45afb18fcfb2dc56ce3a64a56888abe21266a5",
+      "width": 700,
+      "height": 526
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/air-new-zealand/reference-3.webp",
+      "source_url": "https://p-airnz.com/cms/assets/KR/New/AIRNZ_widebody_BP_Sapphire_160725_9417__FocusFillMaxWyIwLjAwIiwiMC4wMCIsNzAwLDUyNl0.jpeg",
+      "source_tag": "picture:page-image",
+      "context": "picture div pw-SliderTile__imageBlock div pw-SliderTile__wrapper div pw-SliderTile div item",
+      "content_type": "image/webp",
+      "bytes": 45106,
+      "sha256": "084bb20d6a912c037dfb79b9f17ad34171e91062658e85459cff52d3d39deb16",
+      "width": 700,
+      "height": 526
+    }
+  ]
+}

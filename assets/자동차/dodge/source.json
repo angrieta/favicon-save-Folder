@@ -1,0 +1,72 @@
+{
+  "company": "Dodge",
+  "category": "자동차",
+  "requested_url": "https://www.dodge.com/",
+  "page_url": "https://www.dodge.com/",
+  "page_title": "Dodge - American Muscle Cars and SUVs",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://pbs.twimg.com/profile_images/1350206744044122112/YLACQslk_400x400.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/dodge/favicon.ico",
+      "source_url": "https://www.dodge.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "b3d82950addb742537d5d2557cd1c8d1524c0b359241b7133bbb698eb342a049",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/dodge/logo-1.svg",
+      "source_url": "https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/global/header/dodge-logo-update-2025-global-nav-v3.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container a link sdp-link link-image Dodge",
+      "content_type": "image/svg+xml",
+      "bytes": 2698,
+      "sha256": "1af388f89a97aba4dfadf5c90c8d9c42c6fa2da34a9662be3ba3e2a3a2090145",
+      "width": 232,
+      "height": 40,
+      "source_sha256": "c15060e0dfb5444fddc621c947e220bad74ad367dfc859e9be52bb7166ff165a"
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/dodge/reference-1.webp",
+      "source_url": "https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/bhp/2025-refresh-v2/desktop/my26-dodge-bhp-highoctane-feature%20panel-desktop.jpg.image.2880.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container div image-disclaimer-container",
+      "content_type": "image/webp",
+      "bytes": 66390,
+      "sha256": "9890ce3862af4ab94f0f28e49c7fd880bacff0d8fb2f11cdcc30224119503d44",
+      "width": 1800,
+      "height": 1024
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/dodge/reference-2.webp",
+      "source_url": "https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/bhp/2025-refresh-v2/desktop/my26-dodge-bhp-highoctane-feature%20panel-desktop.jpg.image.1440.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container div image-disclaimer-container",
+      "content_type": "image/webp",
+      "bytes": 42330,
+      "sha256": "3c7b3ad6d565c848d53de331fd68773e3b79fc3f6d085880bf87f1d7e9f8f4fd",
+      "width": 1440,
+      "height": 819
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/dodge/reference-3.webp",
+      "source_url": "https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/bhp/2025-refresh-v2/mobile/my26-dodge-bhp-highoctane-feature-panel-mobile.jpg.image.2000.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture responsive-img span image-container__picture-container div image-container__content-container div image-container div image-disclaimer-container",
+      "content_type": "image/webp",
+      "bytes": 85540,
+      "sha256": "880b10c7829451ce799c974571f2d3d91c08116e9d9da0e64618179addbf4a66",
+      "width": 1572,
+      "height": 1350,
+      "source_sha256": "37054a8a9cd53eff558c5f92fe7bf536149b5e43295ebe2e5e5fd07cc9dc63cb"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "company": "Hugo Boss",
+  "category": "패션_의류",
+  "requested_url": "https://www.hugoboss.com",
+  "page_url": "https://www.hugoboss.com/kr/home",
+  "page_title": "HUGO BOSS | Official Online Shop | Menswear & Womenswear",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.hugoboss.com/on/demandware.static/-/Library-Sites-library-eu/ko_KR/v1790632417877/css/global-styles.css; reference:ValueError:https://www.hugoboss.com/on/demandware.static/Sites-KR-Site/-/default/dw05e2f87f/fonts/averta/AvertaPE-Light.woff2; reference:ValueError:https://www.hugoboss.com/on/demandware.static/Sites-KR-Site/-/default/dwee72dcaf/fonts/averta/AvertaPE-Regular.woff2; reference:ValueError:https://www.hugoboss.com/on/demandware.static/Sites-KR-Site/-/default/dwaadb3e2a/fonts/averta/AvertaPE-Bold.woff2; reference:ValueError:https://www.hugoboss.com/on/demandware.static/Sites-KR-Site/-/default/dw7ba71e8d/fonts/averta/AvertaPE-Extrabold.woff2; reference:ValueError:https://www.hugoboss.com/on/demandware.static/Sites-KR-Site/-/ko_KR/v1790632417877/css/compiled/core.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/hugo-boss/favicon.png",
+      "source_url": "https://www.hugoboss.com/on/demandware.static/Sites-KR-Site/-/default/dwa8ea453c/images/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6013,
+      "sha256": "d78cc12647ef3c1e4e2624d32efce769af4995f57ef3cc4d78de70cf8a5eba74",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/hugo-boss/og.webp",
+      "source_url": "https://images.hugoboss.com/is/image/boss/logo_social_sharing?$social_sharing$",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2968,
+      "sha256": "838dc8c06e509c5974b937fe2c553b5dd3a9f8023fe761c12fe9cd0d6c61732d",
+      "width": 960,
+      "height": 189
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/hugo-boss/logo-1.svg",
+      "source_url": "https://www.hugoboss.com/on/demandware.static/Sites-KR-Site/-/default/dw088ebc1a/svg/output_files/boss_logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 1391,
+      "sha256": "220a41f51da8373649a553544945a339fbd3352d948c827a502043efb1bfe18c",
+      "width": 426,
+      "height": 120
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/hugo-boss/logo-2.svg",
+      "source_url": "https://www.hugoboss.com/on/demandware.static/Sites-KR-Site/-/default/dw94757e17/svg/output_files/hugo_logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 958,
+      "sha256": "167b3e6c51283e7e91e03fb17d7453f0d81dfcbba5b24f24e9f12d27d0e8d4ed",
+      "width": 497,
+      "height": 120
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/hugo-boss/banner-1.webp",
+      "source_url": "https://images.hugoboss.com/is/image/hugobosscsprod/260731_HBME_120_WI26_BOSS_BY_BECKHAM_HERO_1920x880-1?%24large%24&align=0,-1&fit=crop,1&ts=1790609961370&qlt=90&wid=2048&hei=939",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture dch-image-item__picture div dch-image-item dch-image-item--landscape button dch-links-item--play dch-video-item__play div dch-video-item__dynamicMediaPlayer--47976904-c07a-43e1-bc38-9e005c58facc dchimageitem dch-video-item dch-video",
+      "content_type": "image/webp",
+      "bytes": 41146,
+      "sha256": "0db941c376843b956a8f9b10346d250c15e61b9f6be316c5c233336c79c607c4",
+      "width": 1800,
+      "height": 825
+    }
+  ]
+}

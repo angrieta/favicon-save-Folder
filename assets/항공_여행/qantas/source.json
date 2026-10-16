@@ -1,0 +1,72 @@
+{
+  "company": "Qantas",
+  "category": "항공_여행",
+  "requested_url": "https://www.qantas.com/en-kr",
+  "page_url": "https://www.qantas.com/en-kr",
+  "page_title": "Fly with the Spirit of Australia | Qantas KR",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.qantas.com/scripts/martech/index.js; reference:ValueError:https://www.qantas.com/scripts/martech/libraries/alloy.min.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/qantas/favicon.ico",
+      "source_url": "https://www.qantas.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 34494,
+      "sha256": "87e66320dc78d43425d1675633a1081f58a0e8151f19ab8c57d75a56fbdd965f",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/qantas/og.webp",
+      "source_url": "https://www.qantas.com/adobe/assets/urn:aaid:aem:7c532bf6-04b9-450d-99bd-5d73ca5c1bd1/as/qantas-260526-aits-1-5-brisbane-hangar3-a330-robert-irwin-0543-v1.avif?assetname=qantas-260526-aits-1-5-brisbane-hangar3-a330-robert-irwin-0543-v1.jpg&originalImageWidth=7664&originalImageHeight=5111",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 36830,
+      "sha256": "a647eb9a95201415ba0046731a82eb50397f18c808a6a4c2c1f65cddd79f4726",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/qantas/logo-1.svg",
+      "source_url": "https://www.qantas.com/icons/runway_brand_logo_master_qantas_horiz.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 5945,
+      "sha256": "686b71eb08b0d473d07d73ab200d722fbbb3293f5bba77b8a4658e03afad1ac8",
+      "width": 304,
+      "height": 60,
+      "source_sha256": "b1e6f8467e63f177886532cd53658418cd57c0807ae8d7284a7c98302244336a"
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/qantas/og.webp",
+      "source_url": "https://www.qantas.com/adobe/assets/urn:aaid:aem:7c532bf6-04b9-450d-99bd-5d73ca5c1bd1/as/qantas-260526-aits-1-5-brisbane-hangar3-a330-robert-irwin-0543-v1.avif?assetname=qantas-260526-aits-1-5-brisbane-hangar3-a330-robert-irwin-0543-v1.jpg&originalImageWidth=7664&originalImageHeight=5111",
+      "source_tag": "img:semantic-banner",
+      "content_type": "image/webp",
+      "bytes": 36830,
+      "sha256": "a647eb9a95201415ba0046731a82eb50397f18c808a6a4c2c1f65cddd79f4726",
+      "width": 1200,
+      "height": 800,
+      "context": "img Robert Irwin onboard a Qantas flight, leaning against a Qantas Business Class seat in the premium cabin. div div div promo-banner div",
+      "reused_from": "social"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/qantas/reference-1.webp",
+      "source_url": "https://www.qantas.com/adobe/assets/urn:aaid:aem:ed10ea63-6563-42ab-9c57-cd3195cbb55e/as/2-Image-Gallery.avif?assetname=2+Image+Gallery.png",
+      "source_tag": "img:page-image",
+      "context": "img Lady in A330 business cabin (left) and family in A380 (right) div div div image div",
+      "content_type": "image/webp",
+      "bytes": 83854,
+      "sha256": "6fa064e164b0475d535a682e8ce384041e1c6d6dffc9019830b433b370b34359",
+      "width": 1600,
+      "height": 1280,
+      "source_sha256": "ccdce0f072e88f8f4d87c952e83ead049e561139450c3ec56d4e7cf7583f3c1f"
+    }
+  ]
+}

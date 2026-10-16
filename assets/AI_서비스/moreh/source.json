@@ -1,0 +1,119 @@
+{
+  "company": "모레",
+  "category": "AI_서비스",
+  "requested_url": "https://moreh.io/ko/",
+  "page_url": "https://moreh.io/ko/",
+  "page_title": "Moreh — 모든 칩을 위한 추론 소프트웨어 – Moreh",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://moreh.io/assets/main-bg.mp4; reference:ValueError:https://moreh.io/assets/main-bg.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/moreh/favicon.png",
+      "source_url": "https://moreh.io/assets/moreh-icon-512x512-1.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7169,
+      "sha256": "459318222d6db5451ae43d09ba011e729ec1f3379fb1df6e842a7e42847cf18f",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/moreh/og.webp",
+      "source_url": "https://moreh.io/assets/default-t.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 19756,
+      "sha256": "1716de2253b3aaa6aa55d356963ee4c510604a50cdcf3849a0bf7bd064f2b6ee",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/moreh/logo-1.svg",
+      "source_url": "https://moreh.io/assets/moreh-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Moreh a flex-shrink-0 div flex items-center justify-between h-[64px] div mx-auto w-full max-w-container px-8 header bg-page border-b border-border-default",
+      "content_type": "image/svg+xml",
+      "bytes": 1923,
+      "sha256": "20cca92ab4e6d3a8e4d93e8bd22182d3bdc4b7896d4818a62c8a4427af9c054a",
+      "width": 247,
+      "height": 62,
+      "source_sha256": "2067b8ec99423cf92f203b8ddfa0d8ca972992498e52c9854b62c47add07cecd"
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/moreh/logo-2.png",
+      "source_url": "https://moreh.io/_next/image/?url=%2Fassets%2Fopen-source-amd-rocm-logo.png&w=3840&q=75&dpl=dpl_8VFguv5xUsARRWs5h5HpqbBUD7KM",
+      "source_tag": "img:semantic-logo",
+      "context": "img object-contain grayscale AMD ROCm div flex-shrink-0 h-10 w-36 relative opacity-70 transition-opacity hover:opacity-100 div flex items-center gap-16 w-max animate-marquee div logo-strip section section-tight",
+      "content_type": "image/png",
+      "bytes": 9739,
+      "sha256": "ab5a73266e56df339b4761140970d7a6d8d9d510ada28996db3bb2707837f03f",
+      "width": 844,
+      "height": 398
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/moreh/logo-2.png",
+      "source_url": "https://moreh.io/_next/image/?url=%2Fassets%2Fopen-source-amd-rocm-logo.png&w=3840&q=75&dpl=dpl_8VFguv5xUsARRWs5h5HpqbBUD7KM",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-contain grayscale AMD ROCm div flex-shrink-0 h-10 w-36 relative opacity-70 transition-opacity hover:opacity-100 div flex items-center gap-16 w-max animate-marquee div logo-strip section section-tight",
+      "content_type": "image/png",
+      "bytes": 9739,
+      "sha256": "ab5a73266e56df339b4761140970d7a6d8d9d510ada28996db3bb2707837f03f",
+      "width": 844,
+      "height": 398,
+      "reused_from": "logo"
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/moreh/banner-2.webp",
+      "source_url": "https://moreh.io/_next/image/?url=%2Fassets%2Fopen-source-llm-d-logo.png&w=3840&q=75&dpl=dpl_8VFguv5xUsARRWs5h5HpqbBUD7KM",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-contain grayscale llm-d div flex-shrink-0 h-10 w-36 relative opacity-70 transition-opacity hover:opacity-100 div flex items-center gap-16 w-max animate-marquee div logo-strip section section-tight",
+      "content_type": "image/webp",
+      "bytes": 25164,
+      "sha256": "a7a53c8ce1ead04ee1888f0eb5d4f5a25fd903ef8fbdeb1286a22849353aec59",
+      "width": 1800,
+      "height": 551
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/moreh/reference-1.webp",
+      "source_url": "https://moreh.io/_next/image/?url=%2Fassets%2Fopen-source-llm-d-logo.png&w=2048&q=75&dpl=dpl_8VFguv5xUsARRWs5h5HpqbBUD7KM",
+      "source_tag": "img:page-image",
+      "context": "img object-contain grayscale llm-d div flex-shrink-0 h-10 w-36 relative opacity-70 transition-opacity hover:opacity-100 div flex items-center gap-16 w-max animate-marquee div logo-strip section section-tight",
+      "content_type": "image/webp",
+      "bytes": 26630,
+      "sha256": "f22230454c4a05946d9c218a76f7991240b9ec8c2a357be9e5d167bbf16991be",
+      "width": 1800,
+      "height": 551
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/moreh/reference-2.webp",
+      "source_url": "https://moreh.io/_next/image/?url=%2Fassets%2Fopen-source-tt-metalium-logo.png&w=3840&q=75&dpl=dpl_8VFguv5xUsARRWs5h5HpqbBUD7KM",
+      "source_tag": "img:page-image",
+      "context": "img object-contain grayscale Tenstorrent Metalium div flex-shrink-0 h-10 w-36 relative opacity-70 transition-opacity hover:opacity-100 div flex items-center gap-16 w-max animate-marquee div logo-strip section section-tight",
+      "content_type": "image/webp",
+      "bytes": 2244,
+      "sha256": "8011cc148f30e9dfceed80bcb68e22751f973290df65dc22d2bd21469adfbacf",
+      "width": 1024,
+      "height": 540
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/moreh/reference-3.webp",
+      "source_url": "https://moreh.io/_next/image/?url=%2Fassets%2Fopen-source-sglang-logo.png&w=3840&q=75&dpl=dpl_8VFguv5xUsARRWs5h5HpqbBUD7KM",
+      "source_tag": "img:page-image",
+      "context": "img object-contain grayscale SGLang div flex-shrink-0 h-10 w-36 relative opacity-70 transition-opacity hover:opacity-100 div flex items-center gap-16 w-max animate-marquee div logo-strip section section-tight",
+      "content_type": "image/webp",
+      "bytes": 25330,
+      "sha256": "1efc9c7b3a347fa3f32a4513bc31670c844a65ce813671ac61eefad9a7b81ef3",
+      "width": 1024,
+      "height": 312
+    }
+  ]
+}

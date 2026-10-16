@@ -1,0 +1,97 @@
+{
+  "company": "Accor",
+  "category": "항공_여행",
+  "requested_url": "https://all.accor.com/a/ko.html",
+  "page_url": "https://all.accor.com/a/ko.html",
+  "page_title": "ALL.COM | ALL - Accor Live Limitless | 아코르 호텔 공식 홈페이지에 오신 것을 환영합니다.",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://static-p46175-e229011.adobeaemcloud.com/f60d76fa5d9695a3d36b1310b73abcd56f983198c53773af0faff990d754030f/components/common/callouts/v1/css/main.css; reference:ValueError:https://static-p46175-e229011.adobeaemcloud.com/f60d76fa5d9695a3d36b1310b73abcd56f983198c53773af0faff990d754030f/components/common/navigation/v1/css/main.css; reference:ValueError:https://static-p46175-e229011.adobeaemcloud.com/f60d76fa5d9695a3d36b1310b73abcd56f983198c53773af0faff990d754030f/components/common/navigation-header/v1/css/main.css; reference:ValueError:https://static-p46175-e229011.adobeaemcloud.com/f60d76fa5d9695a3d36b1310b73abcd56f983198c53773af0faff990d754030f/components/common/background-section/v1/css/main.css; reference:ValueError:https://static-p46175-e229011.adobeaemcloud.com/f60d76fa5d9695a3d36b1310b73abcd56f983198c53773af0faff990d754030f/components/common/heading/v1/css/main.css; reference:ValueError:https://static-p46175-e229011.adobeaemcloud.com/f60d76fa5d9695a3d36b1310b73abcd56f983198c53773af0faff990d754030f/components/common/heading-hero/v1/css/main.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/accor/favicon.png",
+      "source_url": "https://static-p46175-e229011.adobeaemcloud.com/f60d76fa5d9695a3d36b1310b73abcd56f983198c53773af0faff990d754030f/resources/images/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 15824,
+      "sha256": "53d3efd45aa19c389e06ebbf5113f5d7eddf75fa39f65310c30f7bcddd135927",
+      "width": 240,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/accor/logo-1.svg",
+      "source_url": "https://all.accor.com/a/content/dam/all/global-marketing/brand-identity/logos/all-accor/blue/vertical/Logo%20ALL%20ACCOR_BLUE_Vertical_RGB.svg",
+      "source_tag": "json-ld[1].logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2562,
+      "sha256": "4bb8749e554332bf1469524dfa01d74e1e5a20a1540f5817f59353490b4b406c",
+      "width": 377,
+      "height": 327
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/accor/banner-1.webp",
+      "source_url": "https://m.ahstatic.com/is/image/accorhotels/ALL_CHAMBRE_HORIZONTAL_MODELS_WOMAN:3by2?fmt=webp&op_usm=1.75",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div ace-image-v2 ace-image s_ratio_3by2 m_ratio_3by2 l_ratio_13by5 xl_ratio_13by5 xxl_ratio_13by5 div ace-campaign-banner--fullWidth div ace-campaign-banner__wrapper div ace-campaign-banner",
+      "content_type": "image/webp",
+      "bytes": 64342,
+      "sha256": "59fd0a37b3fe93ae22cb505c0ad40549c36d32fbff20cf7ce9577a6d06dde4f5",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "a43947a41766897b5038132d23539a6014ccccc709ff4f662caadf8adf50ac32"
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/accor/banner-2.webp",
+      "source_url": "https://m.ahstatic.com/is/image/accorhotels/ALL_CHAMBRE_HORIZONTAL_MODELS_WOMAN:13by5?fmt=webp&op_usm=1.75",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div ace-image-v2 ace-image s_ratio_3by2 m_ratio_3by2 l_ratio_13by5 xl_ratio_13by5 xxl_ratio_13by5 div ace-campaign-banner--fullWidth div ace-campaign-banner__wrapper div ace-campaign-banner",
+      "content_type": "image/webp",
+      "bytes": 50512,
+      "sha256": "f74e262484d9656ef1b22167cd1bf66970843bdc210f3702c421894741cef600",
+      "width": 1300,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/accor/reference-1.webp",
+      "source_url": "https://m.ahstatic.com/is/image/accorhotels/WidgetExplorer-1:16by9?fmt=webp&op_usm=1.75",
+      "source_tag": "picture:page-image",
+      "context": "picture div ace-image-v2 ace-image s_ratio_16by9 m_ratio_16by9 l_ratio_8by10 xl_ratio_8by10 xxl_ratio_8by10 div ace-push-nav__img div ace-push-nav__element div ace-push-nav__push",
+      "content_type": "image/webp",
+      "bytes": 120314,
+      "sha256": "82643e2c318aeda15c847a087991501396f9b8620bbb4e2dd49c632c0e2d8ec0",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "d47c3732ba13b897c6495edd9212e634051a027d4387732c147f72cc30614131"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/accor/reference-2.webp",
+      "source_url": "https://m.ahstatic.com/is/image/accorhotels/WidgetExplorer-1:8by10?fmt=webp&op_usm=1.75",
+      "source_tag": "picture:page-image",
+      "context": "picture div ace-image-v2 ace-image s_ratio_16by9 m_ratio_16by9 l_ratio_8by10 xl_ratio_8by10 xxl_ratio_8by10 div ace-push-nav__img div ace-push-nav__element div ace-push-nav__push",
+      "content_type": "image/webp",
+      "bytes": 92250,
+      "sha256": "e50d0e951e18cae18cdab57aa360466296ca636d5b6367fd60d31a97030735d9",
+      "width": 800,
+      "height": 1000,
+      "source_sha256": "14e5b32db944149fd4fdc751a096782551547390118831a3bbcb54ac42ce7597"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/accor/reference-3.webp",
+      "source_url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_6935-23:16by9?fmt=webp&op_usm=1.75",
+      "source_tag": "picture:page-image",
+      "context": "picture div ace-image-v2 ace-image s_ratio_16by9 m_ratio_16by9 l_ratio_16by9 xl_ratio_16by9 xxl_ratio_16by9 div cmp-teaser__image cmp-teaser__imageSet div cmp-teaser ace-callout-component ace-callout-component-default li callout-carousel-ta",
+      "content_type": "image/webp",
+      "bytes": 102558,
+      "sha256": "423474708e82320ba4695559aee27bdbd007ff72c7ea4c4a4e36d708cbb3fa37",
+      "width": 1600,
+      "height": 900
+    }
+  ]
+}

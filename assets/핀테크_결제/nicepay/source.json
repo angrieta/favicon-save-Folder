@@ -1,0 +1,47 @@
+{
+  "company": "나이스페이",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.nicepay.co.kr/",
+  "page_url": "https://www.nicepay.co.kr/home/main.do",
+  "page_title": "NICE PAY",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/nicepay/reference-1.webp",
+      "source_url": "https://www.nicepay.co.kr/images/main/visual2_mobile.png",
+      "source_tag": "img:page-image",
+      "context": "img div item div owl-carousel mobile-only-important div visual div visual-wrap container-full",
+      "content_type": "image/webp",
+      "bytes": 27894,
+      "sha256": "479feb200b1255b15ed440e769192184daa3f764e6f86a25b951c6e0531b728b",
+      "width": 750,
+      "height": 820
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/nicepay/reference-2.webp",
+      "source_url": "https://www.nicepay.co.kr/images/main/visual3_mobile.png",
+      "source_tag": "img:page-image",
+      "context": "img div item div owl-carousel mobile-only-important div visual div visual-wrap container-full",
+      "content_type": "image/webp",
+      "bytes": 26372,
+      "sha256": "ad18a492571179eaa755412b63ed93e691f34f45677c3f2a7eb30cea9bc8bc4b",
+      "width": 750,
+      "height": 820
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/nicepay/reference-3.webp",
+      "source_url": "https://www.nicepay.co.kr/images/main/visual4_mobile.png",
+      "source_tag": "img:page-image",
+      "context": "img div item div owl-carousel mobile-only-important div visual div visual-wrap container-full",
+      "content_type": "image/webp",
+      "bytes": 30902,
+      "sha256": "df126c9bccd25952ff91ab8a3b79e1f1e6e200f89d5c080f6eed16d6bff5c7bd",
+      "width": 750,
+      "height": 820
+    }
+  ]
+}

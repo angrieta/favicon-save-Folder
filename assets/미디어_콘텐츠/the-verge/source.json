@@ -1,0 +1,107 @@
+{
+  "company": "The Verge",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.theverge.com/",
+  "page_url": "https://www.theverge.com/",
+  "page_title": "The Verge",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/the-verge/favicon.png",
+      "source_url": "https://www.theverge.com/static-assets/icons/android-chrome-512x512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 8730,
+      "sha256": "38f8029a67c8ab9e39d945b784173950ce9e2f04215739d02ec85ecd1c720469",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/the-verge/og.webp",
+      "source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2024/10/the_verge_social_share.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11166,
+      "sha256": "2ff9811fb9beec9d8b033ee6f32af74412eee5e004a6dfaef696bc9b60759ac4",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/the-verge/logo-1.webp",
+      "source_url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/24018771/verge_duet_500.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 4840,
+      "sha256": "365e2e35e75fdeaa57316fd256caad5f66bb9d4c67d70cb2b2d7c010baa9662a",
+      "width": 500,
+      "height": 120
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/the-verge/banner-1.webp",
+      "source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268785_Nothing_pro_1_headphones_JHIGGINS_1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "source_tag": "img:semantic-banner",
+      "context": "img i7ks070 Nothing’s new flagship Headphone 1 Pro put you in the studio div up4voo8 up4voo7 up4vooo up4vooi up4voog _1cnxcye3 _1e7jslxt div duet--content-cards--content-card up4voo1 up4voo0 _7uluu53 _1e7jslxv div _1e7jslxa duet--homepage--",
+      "content_type": "image/webp",
+      "bytes": 100624,
+      "sha256": "aa4831086d1b4499dcdce7a262e931854d46ae89272dcfad04502b08b23e50d9",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/the-verge/banner-2.webp",
+      "source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/firefox-project-nova-redesign-promo.webp?quality=90&strip=all&crop=0%2C0%2C84.3%2C100&w=2400",
+      "source_tag": "img:semantic-banner",
+      "context": "img _1ismqjg i7ks070 Firefox just got a redesign with round tabs, new themes, and Compact Mode div _1ismqj7 _1ismqj6 _1ismqjc _1ismqjh _1ismqjm _1cnxcye3 div latest-dmcyOnBvc3Q6MTAwMTg2Nw== duet--content-cards--content-card _1ismqj1 _1ismqj",
+      "content_type": "image/webp",
+      "bytes": 45806,
+      "sha256": "4c35a9615165dc21db64628e37bac39f7f36b8c6fa5e29f56ddadf0f522b9925",
+      "width": 1680,
+      "height": 1124
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/the-verge/reference-1.webp",
+      "source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2247409540.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+      "source_tag": "img:page-image",
+      "context": "img _1ismqjf i7ks070 Your car’s data privacy problems are worse than you think div _1ismqj8 _1ismqj6 _1ismqjc _1ismqjh _1cnxcye3 div _1msrjwf1 duet--content-cards--content-card _1ismqj2 _1ismqj0 _7uluu53 div _1rdp8jb3 _1rdp8jb1 div _1rdp8jb",
+      "content_type": "image/webp",
+      "bytes": 72778,
+      "sha256": "728d1a640c802bf85026f7dadc897cfae68059524b2a991cd341849ae17820e2",
+      "width": 1337,
+      "height": 1350,
+      "source_sha256": "9265cfb8c58c07280cd0bf4f2ee67ba6d6b0c20709a87b8ce012a83cc9b31d4c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/the-verge/reference-2.webp",
+      "source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2247409540.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2048",
+      "source_tag": "img:page-image",
+      "context": "img _1ismqjf i7ks070 Your car’s data privacy problems are worse than you think div _1ismqj8 _1ismqj6 _1ismqjc _1ismqjh _1cnxcye3 div _1msrjwf1 duet--content-cards--content-card _1ismqj2 _1ismqj0 _7uluu53 div _1rdp8jb3 _1rdp8jb1 div _1rdp8jb",
+      "content_type": "image/webp",
+      "bytes": 118678,
+      "sha256": "409e37f41bf162eed955e49f53b652e85c08e6a60904bd6e184b924177f4b27d",
+      "width": 1337,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/the-verge/reference-3.webp",
+      "source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2247409540.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+      "source_tag": "img:page-image",
+      "context": "img _1ismqjg i7ks070 Your car’s data privacy problems are worse than you think div _1ismqj8 _1ismqj6 _1ismqjc _1ismqjh _1cnxcye3 div _1msrjwf1 duet--content-cards--content-card _1ismqj2 _1ismqj0 _7uluu53 div _1rdp8jb3 _1rdp8jb1 div _1rdp8jb",
+      "content_type": "image/webp",
+      "bytes": 72018,
+      "sha256": "893973bf079433bcf44299e1cd43688c7bd028ccf002b891da7e38cafa9bb8ba",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "0d8399e7c43af94629064b9807d36bcd21132cf56d241cecc29c871632528c7e"
+    }
+  ]
+}

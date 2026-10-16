@@ -1,0 +1,96 @@
+{
+  "company": "PayPal",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.paypal.com/kr/home",
+  "page_url": "https://www.paypal.com/kr/home",
+  "page_title": "금액 보내기 및 요청, 쇼핑, 결제 관리 등 | PayPal KR",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/paypal/favicon.png",
+      "source_url": "https://www.paypalobjects.com/marketing/web/icons/monogram/pp258.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9320,
+      "sha256": "804f9aded3a5c895228c5ff6512bb6b0fe31e4fb54df2701a7719d086fbd582b",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/paypal/og.webp",
+      "source_url": "https://www.paypalobjects.com/marketing/web23/row/consumer/homepage/common-en/mkt-row-page-homepage-consumer-component-meta-size-all.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7204,
+      "sha256": "fe7c3eea6f8dc7fd44cb1c5c828c5c16901b18c7507f645ae3d90b992912de3f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/paypal/logo-1.png",
+      "source_url": "https://www.paypalobjects.com/webstatic/i/logo/rebrand/ppcom.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 2024,
+      "sha256": "46541926b83ffbbcf3c96ce22a52ea3aefcdf99cc2c20b509b0480db3b9ee9a2",
+      "width": 124,
+      "height": 33
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/paypal/logo-2.webp",
+      "source_url": "https://www.paypalobjects.com/marketing/web23/row/consumer/homepage/apac-en/mkt-homepage-consumer-component-brand-moment-01-size-mobile-up-updated.jpg?quality=75&width=3900&format=webp",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div image-frame image-frame-no-rounded-corners div brand-moment-media-background div brand-moment-media ppcmsnodeweb-ltk1x div _phone-frame-brand-moment_1ojo8_30 brand-moment blue-600-plate grid paypal60 paypal60-palette grid-compac",
+      "content_type": "image/webp",
+      "bytes": 338704,
+      "sha256": "8ca95d997619184a52da8d6ae43b64c5cd551f7df4645346595f111304cf1ba6",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/paypal/logo-2.webp",
+      "source_url": "https://www.paypalobjects.com/marketing/web23/row/consumer/homepage/apac-en/mkt-homepage-consumer-component-brand-moment-01-size-mobile-up-updated.jpg?quality=75&width=3600&format=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div image-frame image-frame-no-rounded-corners div brand-moment-media-background div brand-moment-media ppcmsnodeweb-ltk1x div _phone-frame-brand-moment_1ojo8_30 brand-moment blue-600-plate grid paypal60 paypal60-palette grid-compac",
+      "content_type": "image/webp",
+      "bytes": 338704,
+      "sha256": "8ca95d997619184a52da8d6ae43b64c5cd551f7df4645346595f111304cf1ba6",
+      "width": 1600,
+      "height": 1600,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/paypal/reference-2.webp",
+      "source_url": "https://www.paypalobjects.com/marketing/web23/row/consumer/homepage/apac-en/mkt-apac-homepage-consumer-component-brand-moment-01-size-desktop-updated.jpg?quality=75&width=3900&format=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div image-frame image-frame-no-rounded-corners div brand-moment-media-background div brand-moment-media ppcmsnodeweb-ltk1x div _phone-frame-brand-moment_1ojo8_30 brand-moment blue-600-plate grid paypal60 paypal60-palette grid-compac",
+      "content_type": "image/webp",
+      "bytes": 97242,
+      "sha256": "1286b14ee74d097b18ebbd7fc6e65c5d49a211fe2a62492ff42bd653f55d94de",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "c20563f4821b3ae6d73973942e38c228a787664d9b9b47a9e87ebfae06ffe1d4"
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/paypal/reference-3.webp",
+      "source_url": "https://www.paypalobjects.com/marketing/web23/row/consumer/homepage/apac-en/mkt-apac-homepage-consumer-component-brand-moment-01-size-desktop-updated.jpg?quality=75&width=3600&format=webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div image-frame image-frame-no-rounded-corners div brand-moment-media-background div brand-moment-media ppcmsnodeweb-ltk1x div _phone-frame-brand-moment_1ojo8_30 brand-moment blue-600-plate grid paypal60 paypal60-palette grid-compac",
+      "content_type": "image/webp",
+      "bytes": 97734,
+      "sha256": "45648b8a7845495b50b1cea8e3cd8b8a98db931bfcde0f6e319f95c37c7fe0cf",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "d83ec329390ba2975bea101164e7c3e0f2a1666fb8385b9eb26c60fb31d51375"
+    }
+  ]
+}

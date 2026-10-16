@@ -1,0 +1,58 @@
+{
+  "company": "중앙대학교",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.cau.ac.kr",
+  "page_url": "https://www.cau.ac.kr/index.do",
+  "page_title": "중앙대학교",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.cau.ac.kr/attach/202608/1788139500616.png; reference:ValueError:https://www.cau.ac.kr/attach/202608/1788139500616.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/cau/favicon.png",
+      "source_url": "https://www.cau.ac.kr/cau2021/type/common/img/common/ico_favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7231,
+      "sha256": "f2443fbfb254ae60310944ef7353c6961f318a571fa4752baefd494baf6bb547",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/cau/reference-1.webp",
+      "source_url": "https://www.cau.ac.kr/attach/202609/1789969753625.png",
+      "source_tag": "img:page-image",
+      "context": "img 이상욱 교수 연구팀, 전기차 배터리 열폭주 전파 지연과 열관리 성능을 함께 고려한 설계 프레임워크 제시 div img a li headline ul list",
+      "content_type": "image/webp",
+      "bytes": 39542,
+      "sha256": "338f8b1e89300263fdfb4b75c6392e68a270aaef8682cf1b8204074fefebba14",
+      "width": 700,
+      "height": 393
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/cau/reference-2.webp",
+      "source_url": "https://www.cau.ac.kr/attach/202608/1785895370063.jpg",
+      "source_tag": "inline-background-image",
+      "context": "a   background-image:url(/attach/202608/1785895370063.jpg);",
+      "content_type": "image/webp",
+      "bytes": 235868,
+      "sha256": "fc8a87c8a22a1f8f5051db7879f79919329fecc12157b6a4d90172cdd45167a6",
+      "width": 841,
+      "height": 820
+    },
+    {
+      "type": "reference",
+      "path": "assets/교육_헬스케어/cau/reference-3.webp",
+      "source_url": "https://www.cau.ac.kr/attach/202609/1790064060508.jpg",
+      "source_tag": "inline-background-image",
+      "context": "a   background-image:url(/attach/202609/1790064060508.jpg);",
+      "content_type": "image/webp",
+      "bytes": 99524,
+      "sha256": "9e8b20898431e7cf1df6c4d112a47e471bcf936f4cb3285715507a5cf75bc01e",
+      "width": 841,
+      "height": 820
+    }
+  ]
+}

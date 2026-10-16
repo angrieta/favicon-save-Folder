@@ -1,0 +1,70 @@
+{
+  "company": "Deutsche Bahn",
+  "category": "항공_여행",
+  "requested_url": "https://www.bahn.de",
+  "page_url": "https://www.bahn.de/",
+  "page_title": "DB Fahrplan, Auskunft, Tickets, informieren und buchen - Deutsche Bahn",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://www.bahn.de/assets/es.global-this.C1woVOfS.js; reference:HTTPError:https://www.bahn.de/assets/iterator-helper-without-closing-on-early-error.BWpuH9ql.js; reference:HTTPError:https://www.bahn.de/assets/chunk-Q47UNTYC.BKasYbvX.js; reference:HTTPError:https://www.bahn.de/assets/preload-helper.BDdL-roZ.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/deutsche-bahn/favicon.ico",
+      "source_url": "https://www.bahn.de/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "ae0400d6155fbbd61c93d4f5546e8a2e6c96f6aed576f5728f8500e8e9f6f816",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/deutsche-bahn/logo-1.svg",
+      "source_url": "https://assets.static-bahn.de/dam/jcr:47b6ca20-95d9-4102-bc5a-6ebb5634f009/db-logo.2024-05-06-11-38-03.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img head__logo-image Startseite a head__logo js-nav-logo div head__logo-wrapper flex flex-auto flex-25-l hidden-l div head flex flex-100 flex-middle flex-between header db-main-navigation header flex flex-m flex-l flex-100",
+      "content_type": "image/svg+xml",
+      "bytes": 828,
+      "sha256": "da1617a9a8adfeacee06c6271bcc53eb9017109ad3e1125488d676190dc5affe",
+      "width": 100,
+      "height": 70
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/deutsche-bahn/banner-1.webp",
+      "source_url": "https://assets.static-bahn.de/.imaging/focalpoint/1283x540/dam/jcr:62b5677e-14a7-4591-b9a0-b39442cf6d9f/Bahn.de%20Header_ohne%20Sto%CC%88rer.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure image stage-marketing-multisource__image-wrapper div stage stage-marketing-multisource main doc body",
+      "content_type": "image/webp",
+      "bytes": 23030,
+      "sha256": "dd67f411ae375f553369ec4455d4b0b728172f4f722874cf3d4b92ced17b1317",
+      "width": 1283,
+      "height": 541
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/deutsche-bahn/banner-2.webp",
+      "source_url": "https://assets.static-bahn.de/.imaging/focalpoint/981x420/dam/jcr:62b5677e-14a7-4591-b9a0-b39442cf6d9f/Bahn.de%20Header_ohne%20Sto%CC%88rer.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture figure image stage-marketing-multisource__image-wrapper div stage stage-marketing-multisource main doc body",
+      "content_type": "image/webp",
+      "bytes": 17156,
+      "sha256": "a89d10dc2384d6085a21c1eb262e15ef114bd184201baf81e893abb67903876e",
+      "width": 981,
+      "height": 420
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/deutsche-bahn/reference-1.webp",
+      "source_url": "https://assets.static-bahn.de/.imaging/focalpoint/640x320/dam/jcr:9fe9bcd1-1f21-4795-98d6-a261c663ab50/Nordsee_Bahn.de%201.jpg",
+      "source_tag": "img:page-image",
+      "context": "img js-sld__img sld-tsr__image figure sld-tsr__image-wrapper a flex sld__el sld-tsr__el sld__el-linked sld-tsr__el-linked swiper-slide slider__slide swiper-container slider-6",
+      "content_type": "image/webp",
+      "bytes": 26684,
+      "sha256": "7c21aef564a2da2356eef539371cef7311133956efccc5e1fcfe374175925c44",
+      "width": 640,
+      "height": 320
+    }
+  ]
+}

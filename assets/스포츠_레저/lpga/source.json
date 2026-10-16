@@ -1,0 +1,70 @@
+{
+  "company": "LPGA",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.lpga.com",
+  "page_url": "https://www.lpga.com/",
+  "page_title": "LPGA | Ladies Professional Golf Association",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.lpga.com/_next/static/chunks/webpack-861fc053fe71a4b5.js; reference:HTTPError:https://www.googletagmanager.com/gtm.js?id=GTM-KZVJ8K>m_auth=hljT6ij87uG7_Of5zpVknA>m_preview=env-1>m_cookies_win=x; reference:ValueError:https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/lpga/favicon.png",
+      "source_url": "https://www.lpga.com/-/media/images/lpga/icons/lpga/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 3439,
+      "sha256": "f1d64ce0d4bbbb8dc287938f395a5324e352d234a3a85cf078ab41f0e2811b56",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/lpga/logo-1.svg",
+      "source_url": "https://www.lpga.com/-/media/images/site-logos/lpga_logo_horiz_color_over_white_v3.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img _dsp-flex _ai-stretch _fd-column _fb-auto _bxs-border-box _mih-0px _miw-0px _fs-0 _w-118px _maw-10037 _h-auto _ox-hidden _oy-hidden _ac-center _jc-center _objectPosition-center _objectFit-contain _pos-relative _t-initial _l-initial _r-i",
+      "content_type": "image/svg+xml",
+      "bytes": 10785,
+      "sha256": "32ed13588d22d913933e6b087888f27e80c68060a082b3cdc5d11e4f0319f382",
+      "width": 458,
+      "height": 320
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/lpga/logo-2.png",
+      "source_url": "https://www.lpga.com/-/media/images/site-logos/epson-tour_lpga_logo/property-1epson-tour/epson-tour---app/epson-tour---app.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img _dsp-flex _ai-stretch _fd-column _fb-auto _bxs-border-box _mih-0px _miw-0px _fs-0 _w-120px _maw-10037 _h-auto _ox-hidden _oy-hidden _ac-center _jc-center _objectPosition-center _objectFit-contain _pos-relative _t-initial _l-initial _r-i",
+      "content_type": "image/png",
+      "bytes": 5549,
+      "sha256": "4ba373db8a8cee45ee08c09d995c65a363ca5280b01a09428f77a163744f3f86",
+      "width": 240,
+      "height": 160
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/lpga/banner-1.webp",
+      "source_url": "https://www.lpga.com/_next/static/media/background-texture.377d19d3.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img _dsp-flex _ai-stretch _fd-column _fb-auto _bxs-border-box _mih-0px _miw-0px _fs-0 _w-10037 _maw-10037 _h-10037 _ox-hidden _oy-hidden _ac-center _jc-center _objectPosition-center _objectFit-cover _pos-absolute _t-initial _l-initial _r-in",
+      "content_type": "image/webp",
+      "bytes": 18058,
+      "sha256": "20d2eaa68ea200f89b29f59b558339f5151b0ca7aed50d8e31aa726b2fe4b542",
+      "width": 1440,
+      "height": 558
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/lpga/banner-2.webp",
+      "source_url": "https://www.lpga.com/-/media/images/lpga/tournaments/solheim-cup/2026/d2/kimazhangr_2294867916_2000x1125.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img _dsp-flex _ai-stretch _fd-column _fb-auto _bxs-border-box _mih-0px _miw-0px _fs-0 _w-10037 _maw-10037 _h-10037 _ox-hidden _oy-hidden _ac-center _jc-center _objectPosition-center _objectFit-cover _pos-relative _t-initial _l-initial _r-in",
+      "content_type": "image/webp",
+      "bytes": 77694,
+      "sha256": "9a917b262c08b9acc640b0af53aa583720a6e22121ef9a1e1041d487c53eb7ff",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

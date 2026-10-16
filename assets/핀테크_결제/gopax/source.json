@@ -1,0 +1,46 @@
+{
+  "company": "고팍스",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.gopax.co.kr/",
+  "page_url": "https://www.gopax.co.kr/",
+  "page_title": "신뢰할 수 있는 가상자산 거래소, 새로운 금융의 개척, 고팍스 (GOPAX)",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.gopax.co.kr/_next/static/chunks/webpack-98a9bf15f382d161.js; reference:ValueError:https://www.googletagmanager.com/gtag/js?id=G-RP9QY4MNNH",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/gopax/favicon.png",
+      "source_url": "https://www.gopax.co.kr/images/favicons/favicon-180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4257,
+      "sha256": "d8c73b7d5a72b5971f58b5331541775b27934e2a0324dcea71c7969279a629db",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/gopax/og.webp",
+      "source_url": "https://www.gopax.co.kr/gopax-og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 44556,
+      "sha256": "115eae8560f87e34764797a209ccc6fd832d2b0ee7e69162398e453fe1b32088",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/gopax/logo-1.svg",
+      "source_url": "https://www.gopax.co.kr/images/brand/logo-primary.svg",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 5584,
+      "sha256": "468a59ae131e513e35666daf87d5b89a956f675b87ce45a1f2769476c9faff0f",
+      "width": 85,
+      "height": 20,
+      "source_sha256": "94d0dee6eeb8258e27a423734e451a433af8cc28ec194aa0b8d210289638afc2"
+    }
+  ]
+}

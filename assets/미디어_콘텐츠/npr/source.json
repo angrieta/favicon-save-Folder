@@ -1,0 +1,82 @@
+{
+  "company": "NPR",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.npr.org/",
+  "page_url": "https://www.npr.org/",
+  "page_title": "NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://prod-eks-bundles.npr.org/dist/bundles/fonts-css-1481bb26276de91dd114.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/npr/favicon.png",
+      "source_url": "https://media.npr.org/chrome/favicon/favicon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1509,
+      "sha256": "6b05f434bccb5171790082bd49a47d303e76cc396aee556b031318722e902e31",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/npr/og.webp",
+      "source_url": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8334,
+      "sha256": "1cdaec61e9d121c39f016427adbc2723703b651eec24cc3bfbbb118f9849b214",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/npr/logo-1.svg",
+      "source_url": "https://prod-eks-static-assets.npr.org/chrome_svg/npr-logo-2025.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img header vertical-video-playlist__header section vertical-video-playlist section vertical-video-playlist-wrap vertical-video-playlist-wrap div contentWrap",
+      "content_type": "image/svg+xml",
+      "bytes": 925,
+      "sha256": "ea1dc4cd8c3978e1b93a204a6abef92b0507cbc8a709ca1ac5bf0c6a655d4f7c",
+      "width": 3000,
+      "height": 1000,
+      "source_sha256": "420bdafdc238356468a313b962abe04a9771b3eda5cd75bdb0ea25bb38cae131"
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/npr/logo-2.webp",
+      "source_url": "https://media.npr.org/chrome/nprplus/logo.jpg?s=100",
+      "source_tag": "img:semantic-logo",
+      "context": "img a li submenu__item submenu__item--npr-plus ul submenu__list submenu__list--directories div submenu submenu--shows-podcasts",
+      "content_type": "image/webp",
+      "bytes": 3564,
+      "sha256": "1497680b94804c36cd85e8670c9d649eacbe054a74ac7b3834d8f63a3f9616b7",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/npr/reference-1.webp",
+      "source_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1400x1400+0+0/resize/1400x1400!/?url=https%3A%2F%2Fmedia.npr.org%2Fimages%2Fpodcasts%2F2013%2Fprimary%2Fwait_wait-s100-c100.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lazy a li submenu__item ul submenu__list submenu__list--featured div submenu submenu--shows-podcasts",
+      "content_type": "image/webp",
+      "bytes": 28644,
+      "sha256": "d03eea5c39ed36f64bf9a38af963fc4d9f78178692f280002862595d5d6b1252",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/npr/reference-2.webp",
+      "source_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1400x1400+0+0/resize/1400x1400!/?url=https%3A%2F%2Fmedia.npr.org%2Fimages%2Fpodcasts%2F2013%2Fprimary%2Fwait_wait-s100.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lazy a li submenu__item ul submenu__list submenu__list--featured div submenu submenu--shows-podcasts",
+      "content_type": "image/webp",
+      "bytes": 29152,
+      "sha256": "99208fb79a927042c9b924306003c3ddaeb8b96c2a09a8360d3ab1c40296a6d2",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

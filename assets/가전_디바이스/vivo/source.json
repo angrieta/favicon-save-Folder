@@ -1,0 +1,82 @@
+{
+  "company": "vivo",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.vivo.com/en",
+  "page_url": "https://www.vivo.com/en",
+  "page_title": "vivo Official Site",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/vivo/favicon.png",
+      "source_url": "https://www.vivo.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 1204,
+      "sha256": "91f2fb1a8324b40fd3dddebfc43a5e255f37f2e083530c01d0066c9c434b5b4d",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/vivo/banner-1.webp",
+      "source_url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1780393972340/9902945810175ded09bba978d709e00d.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture banner-img div banner-large-bg a banner-large-link aria-focus-outline X300 Ultra div home-banner-large div main public banner-wrap",
+      "content_type": "image/webp",
+      "bytes": 30676,
+      "sha256": "aaa1caaf93b88ab9cc60d827e0511100583a206ba94596cbcbf31a322eff5fab",
+      "width": 1800,
+      "height": 863
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/vivo/banner-2.webp",
+      "source_url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1755078690047/e3bb0107f33c8b31ee7cb2d2216f91dc.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a J-banner-ga div banner-mid-img div banner-mid-box div banner-mid-card",
+      "content_type": "image/webp",
+      "bytes": 32408,
+      "sha256": "ea8c0bb357ab7e5d2a9e872fe6c99f14cee9406b7f15bba04a340d33148948ec",
+      "width": 1440,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/vivo/reference-1.webp",
+      "source_url": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1732702902963/02602b877747b1218e6af3c2bc1d6b2e.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture a J-banner-ga div banner-mid-img div banner-mid-box banner-mid-box-right div banner-mid-card",
+      "content_type": "image/webp",
+      "bytes": 30046,
+      "sha256": "3b995e712b04a91ea9ac85a184b662316d2450ed84930aaceaa23fbde46a48a1",
+      "width": 1440,
+      "height": 640
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/vivo/reference-2.svg",
+      "source_url": "https://asia-exstatic.vivoglobal.com/static/font/AvenirNext/AvenirNextRegular_e7a17f8.svg",
+      "source_tag": "link:preload",
+      "context": "preload font font/woff2 //asia-exstatic.vivoglobal.com/static/font/AvenirNext/AvenirNextRegular_e7a17f8.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 808692,
+      "sha256": "83799dd13a1a4e245fd6d0a975bc6e0e34860e29871a6bfef1602456ac598abf",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/vivo/reference-3.svg",
+      "source_url": "https://asia-exstatic.vivoglobal.com/static/font/currency/WebRupee.V2.0_77414ca.svg",
+      "source_tag": "link:preload",
+      "context": "preload font font/woff2 //asia-exstatic.vivoglobal.com/static/font/currency/WebRupee.V2.0_77414ca.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 6255,
+      "sha256": "8205bab84c2ee3ef33a438c8beb828aeb4b96c81410a53dfa7e72b9afe45f162",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

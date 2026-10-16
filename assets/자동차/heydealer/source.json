@@ -1,0 +1,106 @@
+{
+  "company": "헤이딜러",
+  "category": "자동차",
+  "requested_url": "https://www.heydealer.com/",
+  "page_url": "https://www.heydealer.com/",
+  "page_title": "헤이딜러 – 인증중고차 매매 사이트, 내차팔기, 중고차 시세조회",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/heydealer/favicon.png",
+      "source_url": "https://www.heydealer.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 18416,
+      "sha256": "76cd8af28986a61972fefa282a78ced0f8bfec96c7faccda0b1e692913489291",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/heydealer/og.webp",
+      "source_url": "https://www.heydealer.com/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7296,
+      "sha256": "c1fb232c307c68f0066ef95b9b24695a99db542354e537fb354b03f9db7363b2",
+      "width": 1200,
+      "height": 706
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/heydealer/favicon.png",
+      "source_url": "https://www.heydealer.com/apple-touch-icon.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/png",
+      "bytes": 18416,
+      "sha256": "76cd8af28986a61972fefa282a78ced0f8bfec96c7faccda0b1e692913489291",
+      "width": 180,
+      "height": 180,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/heydealer/logo-2.png",
+      "source_url": "https://d2gd00advyp040.cloudfront.net/market-static/img/v2/market/quick_menus/price_cut.e0c6b9ab4267.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img xklhmb2 a xklhmb1 nav xklhmb0 차량 카테고리 div s1sr9w3 section s1sr9w0",
+      "content_type": "image/png",
+      "bytes": 19353,
+      "sha256": "de91ff762428f3d02f7376f10bc8a2f6b73c0bb915c517217dfd932b9d2fecc5",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/heydealer/banner-1.webp",
+      "source_url": "https://static.web.heydealer.com/_next/static/media/heydealer-eye-banner.2ccrhu889prat.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img h4m7xw1 button v0_8_5_1ofooyq1 h4m7xw0 s1sr9w2 section s1sr9w0 div _189sai02 div _189sai01",
+      "content_type": "image/webp",
+      "bytes": 37224,
+      "sha256": "dcb0cd81e83d77b37c6fcc3bbd50334b37195ecd1e7d78cdd5de1bc3f3420e86",
+      "width": 1204,
+      "height": 672
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/heydealer/reference-1.webp",
+      "source_url": "https://d2gd00advyp040.cloudfront.net/market-static/img/v2/market/quick_menus/complete_no_accident.3c46e9e0f8f4.png",
+      "source_tag": "img:page-image",
+      "context": "img xklhmb2 a xklhmb1 nav xklhmb0 차량 카테고리 div s1sr9w3 section s1sr9w0",
+      "content_type": "image/webp",
+      "bytes": 9362,
+      "sha256": "0de7907984fc46776e02f6eb0e3bad7465628868787832d306769c7d9867974c",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/heydealer/reference-2.webp",
+      "source_url": "https://image.heydealer.com/unsafe/3840x0/filters:format(webp):quality(75)/https://prnd-car-purchase.s3.ap-northeast-2.amazonaws.com/media/cars/liveview/2025/07/11/a931147b-e4c3-4212-a2ed-71fa669d45c6.png",
+      "source_tag": "img:page-image",
+      "context": "img _1w10jgn1 차량 사진 div _1w10jgn0 div _10n84wn5 div _10n84wn3 a _10n84wn0",
+      "content_type": "image/webp",
+      "bytes": 58478,
+      "sha256": "8cbbb38b1fc72e1e9c4b0be0e2b1967c5bb1ee51075ff28824b620c8e53eef07",
+      "width": 1800,
+      "height": 810
+    },
+    {
+      "type": "reference",
+      "path": "assets/자동차/heydealer/reference-3.webp",
+      "source_url": "https://image.heydealer.com/unsafe/2048x0/filters:format(webp):quality(75)/https://prnd-car-purchase.s3.ap-northeast-2.amazonaws.com/media/cars/liveview/2025/07/11/a931147b-e4c3-4212-a2ed-71fa669d45c6.png",
+      "source_tag": "img:page-image",
+      "context": "img _1w10jgn1 차량 사진 div _1w10jgn0 div _10n84wn5 div _10n84wn3 a _10n84wn0",
+      "content_type": "image/webp",
+      "bytes": 57146,
+      "sha256": "12cd26071fba44e927722fa3e854403582dcafc9cd12dcf81f4924e0b8f007a7",
+      "width": 1800,
+      "height": 809
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "company": "Bundesliga",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.bundesliga.com",
+  "page_url": "https://www.bundesliga.com/en/bundesliga",
+  "page_title": "Bundesliga | official website",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.bundesliga.com/en/chunk-BEFV2ZdD.js; reference:HTTPError:https://www.bundesliga.com/en/chunk-Ci4MAClw.js; reference:HTTPError:https://www.bundesliga.com/en/chunk-B2YkEGZi.js; reference:HTTPError:https://www.bundesliga.com/en/638; reference:HTTPError:https://www.bundesliga.com/en/2731px; reference:HTTPError:https://www.bundesliga.com/en/403",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/bundesliga/favicon.png",
+      "source_url": "https://www.bundesliga.com/assets/favicons/android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4780,
+      "sha256": "12cac4518272bd17cfdae9b69a173118fd7b2a4ed682d226dac8dad4b5cd13e7",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/bundesliga/og.webp",
+      "source_url": "https://assets.bundesliga.com/placeholder/fallback-bundesliga-2026-2027.jpg?fit=1200,630",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 98746,
+      "sha256": "feba97939a0bca263c8243afd548e16c876392eab7b4d5ab5e45c89cdd33eeaa",
+      "width": 1120,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/bundesliga/logo-1.svg",
+      "source_url": "https://www.bundesliga.com/assets/header-metanavigation/bundesliga-app-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a Bundesliga App li nav-icons ul meta-nav-root nav Meta navigation",
+      "content_type": "image/svg+xml",
+      "bytes": 5035,
+      "sha256": "905ba97724d4bb6e10f353388c8b26358d5cf24cec65dbdc92589a76488f832d",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/bundesliga/logo-2.svg",
+      "source_url": "https://www.bundesliga.com/assets/header-metanavigation/fantasy-app-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a Fantasy Manager li nav-icons ul meta-nav-root nav Meta navigation",
+      "content_type": "image/svg+xml",
+      "bytes": 78905,
+      "sha256": "87eb7668903b2adbc9683f774efc6189bc2ba9d0dddf5799b1a29c9edbb8abb5",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/bundesliga/reference-1.webp",
+      "source_url": "https://assets.bundesliga.com/contender/2026/8/imago1083655433h.jpg?crop=0px,113px,2731px,1537px&fit=540,302",
+      "source_tag": "link:preload",
+      "context": "preload image  https://assets.bundesliga.com/contender/2026/8/imago1083655433h.jpg?crop=0px,113px,2731px,1537px&fit=540,302",
+      "content_type": "image/webp",
+      "bytes": 25260,
+      "sha256": "26e58c0bf5941cbab45880a95f140d72fa3e325838c2456f5bb1548dae16ced2",
+      "width": 537,
+      "height": 302
+    }
+  ]
+}

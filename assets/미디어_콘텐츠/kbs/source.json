@@ -1,0 +1,33 @@
+{
+  "company": "KBS",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.kbs.co.kr/",
+  "page_url": "https://www.kbs.co.kr/",
+  "page_title": "대한민국 대표 공영미디어 KBS",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/kbs/favicon.png",
+      "source_url": "https://res.static.kbs.co.kr/favorite.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 30291,
+      "sha256": "d104314bbee6787d36f7f65938c6802aa1db909365942bd24753bf8982a43665",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/kbs/og.webp",
+      "source_url": "https://res.static.kbs.co.kr/kbs_og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5584,
+      "sha256": "73be828a9b5ab27de6e6c2076ca9c9aef559bd1c45b755c2ec279fb9764fc085",
+      "width": 600,
+      "height": 600
+    }
+  ]
+}

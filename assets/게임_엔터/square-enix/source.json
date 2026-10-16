@@ -1,0 +1,33 @@
+{
+  "company": "Square Enix",
+  "category": "게임_엔터",
+  "requested_url": "https://www.square-enix-games.com/ko_KR/home",
+  "page_url": "https://www.square-enix-games.com/ko_KR/home",
+  "page_title": "SQUARE ENIX | 공식 SQUARE ENIX 웹사이트",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.square-enix-games.com/home/public/webfonts/fa-light-300.woff2; reference:ValueError:https://www.square-enix-games.com/home/public/webfonts/fa-solid-900.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/square-enix/favicon.ico",
+      "source_url": "https://www.square-enix-games.com/home/public/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 3638,
+      "sha256": "f244ce81608ff6fa537c46983b1465ef0befa8031e3838dc4708cde3d2b9bbca",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/square-enix/og.webp",
+      "source_url": "https://square-enix-games.com/home/public/selogo_onwhite.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5828,
+      "sha256": "c9935b1f98c5f9df26fd09137edf16b18cc68493cd4e717219b1fb7b87a0d906",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

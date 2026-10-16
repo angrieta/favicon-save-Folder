@@ -1,0 +1,117 @@
+{
+  "company": "Nissin Foods",
+  "category": "식품_생활",
+  "requested_url": "https://www.nissin.com/jp/",
+  "page_url": "https://www.nissin.com/jp/",
+  "page_title": "商品情報 | 日清食品グループ",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/nissin-foods/favicon.ico",
+      "source_url": "https://www.nissin.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 32988,
+      "sha256": "0769cbeb612c5e0ca60396a59cb6ade07c72cb63ff4b0749d0b4d64740af393c",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/nissin-foods/og.webp",
+      "source_url": "https://www.nissin.com/assets/images/common/og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10492,
+      "sha256": "48165e57b8ae7b2468b4024582a1d813ee70b5bd2f3d902cfaa7a8c02036de8f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/nissin-foods/logo-1.webp",
+      "source_url": "https://www.nissin.com/jp/products/brands/cupnoodle/images/logo.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img カップヌードル div CardBrand__image a CardBrand__link div CardBrand div BrandsTabs__item",
+      "content_type": "image/webp",
+      "bytes": 55388,
+      "sha256": "fc5e3be0c216a3eabe8dc3fa27f35e94920e31d318f66da2373980f7bddad058",
+      "width": 506,
+      "height": 285
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/nissin-foods/logo-2.webp",
+      "source_url": "https://www.nissin.com/jp/products/brands/donbei/images/logo.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 日清のどん兵衛 div CardBrand__image a CardBrand__link div CardBrand div BrandsTabs__item",
+      "content_type": "image/webp",
+      "bytes": 59918,
+      "sha256": "532095b60bec3b4abe05823ed32da75ee32e19b005a7239c18b9308a4c7d2928",
+      "width": 506,
+      "height": 285
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/nissin-foods/banner-1.webp",
+      "source_url": "https://www.nissin.com/assets/images/top/kv-items.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture image-protect a LinkImage div KvImage div Stack flex flex-col div astro-rlzglfcb",
+      "content_type": "image/webp",
+      "bytes": 253914,
+      "sha256": "3abd58742b7353bd8bb70d961fc7d751c05c206a272658feec555921bd3ec288",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/nissin-foods/banner-2.webp",
+      "source_url": "https://www.nissin.com/assets/images/top/kv-onlinestore/image-02.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a LinkImage store-link div online-store-kv div KvImage div Stack flex flex-col",
+      "content_type": "image/webp",
+      "bytes": 83188,
+      "sha256": "dfee38096f2301ba534c1d2c20881fa7fbe97a73ce90cd6fcf3ee9b717934823",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/nissin-foods/reference-1.webp",
+      "source_url": "https://cdn.nissin.com/gr-documents/attachments/commercials/570/9b7a1341390e2be0/original/group-tmb.jpg?1790655795",
+      "source_tag": "img:page-image",
+      "context": "img image-protect div CardCM__image a CardCM__link div CardCM li",
+      "content_type": "image/webp",
+      "bytes": 18362,
+      "sha256": "a0b7110fd07a755a9eccab89a6093b00cd202d26eb3905c436874947182c97c7",
+      "width": 560,
+      "height": 315
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/nissin-foods/reference-2.webp",
+      "source_url": "https://cdn.nissin.com/gr-documents/attachments/commercials/550/7a6f0be0b6bce0cb/original/group-tmb.jpg?1771569600",
+      "source_tag": "img:page-image",
+      "context": "img div CardCM__image a CardCM__link div CardCM li",
+      "content_type": "image/webp",
+      "bytes": 21574,
+      "sha256": "33b8f4c99f476e0351c1fbc4d4afb5be94338390be73b74cf363b36ff5838c54",
+      "width": 560,
+      "height": 315
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/nissin-foods/reference-3.webp",
+      "source_url": "https://cdn.nissin.com/gr-documents/attachments/commercials/508/ed0b3134609f6053/original/group-tmb.jpg?1747701456",
+      "source_tag": "img:page-image",
+      "context": "img div CardCM__image a CardCM__link div CardCM li",
+      "content_type": "image/webp",
+      "bytes": 13370,
+      "sha256": "b9a835157e238b75d291422f4199436b1d14bd4259ad54bbe79ef7badba4b7d7",
+      "width": 560,
+      "height": 315
+    }
+  ]
+}

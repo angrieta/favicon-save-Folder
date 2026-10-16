@@ -1,0 +1,69 @@
+{
+  "company": "SPC삼립",
+  "category": "식품_생활",
+  "requested_url": "https://spcsamlip.co.kr",
+  "page_url": "https://spcsamlip.co.kr/",
+  "page_title": "삼립",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://spcsamlip.co.kr/_next/static/chunks/3d7fbe90ed36ca78.css; reference:ValueError:https://spcsamlip.co.kr/_next/static/chunks/3a05aebf1e5c174e.css; reference:ValueError:https://spcsamlip.co.kr/_next/static/chunks/f7eb669682772961.css; reference:ValueError:https://spcsamlip.co.kr/_next/static/chunks/ded2596e0d5cee92.css; reference:ValueError:https://spcsamlip.co.kr/_next/static/chunks/30718e32e17299a4.css; reference:ValueError:https://spcsamlip.co.kr/_next/static/chunks/61f8823b4bb5a60c.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/spc-samlip/favicon.png",
+      "source_url": "https://spcsamlip.co.kr/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 14592,
+      "sha256": "83fad8975bc1432d271064aa6c71c298c79d36c8735c684f149916222b3af88a",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/spc-samlip/og.webp",
+      "source_url": "https://spcsamlip.co.kr/img/og-image.jpg?v=2",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1466,
+      "sha256": "2edf689c22b390baf0a69722266d0504cd1b35448989a76e3a13934fa46bffe7",
+      "width": 380,
+      "height": 333
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/spc-samlip/logo-1.png",
+      "source_url": "https://spcsamlip.co.kr/_next/image?url=%2Fimg%2Flogo.png&w=384&q=100",
+      "source_tag": "img:semantic-logo",
+      "context": "img relative lg:size-[54px] size-[40px] md:size-[56px] logo div cursor-pointer lg:w-auto div flex justify-between items-center pl-5 mx-auto w-full lg:pb-[6px] lg:px-[31px] pr-[7px] pb-1 md:pr-5 section z-10 pb-0 w-full lg:pb-0 lg:!bg-surfac",
+      "content_type": "image/png",
+      "bytes": 7012,
+      "sha256": "2bea7dc761a38bb7166d7d058a40a9883fd7d9156346ac02e35aec33b9ff84e3",
+      "width": 320,
+      "height": 320
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/spc-samlip/logo-2.svg",
+      "source_url": "https://spcsamlip.co.kr/img/footer_img_v2.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img hidden w-full md:block footer_logo footer bg-cream px-5 lg:px-10 pt-[23px] pb-[calc(23px+env(safe-area-inset-bottom))] lg:py-[70px] w-full md:py-9 div pub-root div __next body antialiased",
+      "content_type": "image/svg+xml",
+      "bytes": 7911,
+      "sha256": "373c977cc2c49fc67a080c9e5d7214679a27c7abaa16697c794ac3a0dfed3f58",
+      "width": 1648,
+      "height": 99
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/spc-samlip/banner-1.webp",
+      "source_url": "https://spcsamlip.co.kr/_next/image?url=%2Fimg%2Fbrand_media%2Fmedia_08.jpg&w=3840&q=100",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover w-full h-full brand_icon li relative cursor-pointer card-hover aspect-[16/9] h-full col-span-1 md:col-span-14 row-span-1 ul grid grid-cols-2 md:grid-cols-[repeat(24,minmax(0,1fr))] max-w-[1020px] mx-auto *:w-full relative p",
+      "content_type": "image/webp",
+      "bytes": 45356,
+      "sha256": "29a0167483e9e0e2e14f62c2f912cb147af2604c59ffb1e306f2de45e692808b",
+      "width": 640,
+      "height": 480
+    }
+  ]
+}

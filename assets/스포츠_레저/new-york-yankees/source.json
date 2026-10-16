@@ -1,0 +1,69 @@
+{
+  "company": "New York Yankees",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.mlb.com/yankees",
+  "page_url": "https://www.mlb.com/yankees",
+  "page_title": "Official New York Yankees Website | MLB.com",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.mlbstatic.com/mlb.com/fonts/proxima-nova-bold.woff2; reference:ValueError:https://www.mlbstatic.com/mlb.com/fonts/proxima-nova-regular.woff2; reference:ValueError:https://builds.mlbstatic.com/mlb.com/web-apps/x-homepage/_next/static/css/09704fe17f3f966d.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/new-york-yankees/favicon.png",
+      "source_url": "https://www.mlbstatic.com/team-logos/apple-touch-icons-180x180/147.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 18839,
+      "sha256": "d3976149ca5c9639888a147baf87b3c419b15fa63947b4f69430e44af32a0637",
+      "width": 173,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/new-york-yankees/og.webp",
+      "source_url": "https://www.mlbstatic.com/team-logos/share/147.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 29002,
+      "sha256": "2f3792632336edbc058ddc27003c2fca1fb4ebccd63937efd3456b9fb1401a74",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/new-york-yankees/logo-1.svg",
+      "source_url": "https://www.mlbstatic.com/team-logos/team-cap-on-dark/147.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img New York Yankees a logo__link div styles__StyledLogo-sc-937b1c87-0 dPlnQo header__nav-top__logo header__nav-top__logo--147 div styles__StyledNavTop-sc-bc8741c3-0 jgYOCP header__nav-top Top Navigation div styles__StyledHeaderInner-sc-c41",
+      "content_type": "image/svg+xml",
+      "bytes": 1286,
+      "sha256": "2af4c1e302403aa44d1249b310f9b12d56f5dd7e0f35164ae7cb8f65c7869424",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/new-york-yankees/logo-2.svg",
+      "source_url": "https://images.ctfassets.net/iiozhi00a8lc/t147_url_logoyankees_url_svg/13920414e3f670d9a1af0413f11eef4b/t147_url_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img New York Yankees URL logo a logo__link div styles__StyledLogo-sc-937b1c87-0 dPlnQo header__nav-top__url-logo header__nav-top__url-logo--no-sponsor header__nav-top__url-logo--no-tagline div header__nav-top__sponsor-url-logos header__nav-",
+      "content_type": "image/svg+xml",
+      "bytes": 3465,
+      "sha256": "fa9df579f354360bef349b28df988356d8a9448cc8e93b893c1552dd5fd62e0b",
+      "width": 482,
+      "height": 90
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/new-york-yankees/reference-1.svg",
+      "source_url": "https://www.mlbstatic.com/team-logos/114.svg",
+      "source_tag": "img:page-image",
+      "context": "img header__subnav--teams__team--logo Cleveland Guardians Team Logo a styles__StyledSubNavItem-sc-6aa8911c-0 iROqIv header__subnav__item header__subnav--teams__team li styles__StyledSubNavTeam-sc-aa8233a3-0 bPnrzL ul header__subnav--teams__",
+      "content_type": "image/svg+xml",
+      "bytes": 1383,
+      "sha256": "5fada1700c1622777d64d1971e028ea7aca7729a11537736d4e88c6acada763e",
+      "width": 488,
+      "height": 750
+    }
+  ]
+}

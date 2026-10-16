@@ -1,0 +1,118 @@
+{
+  "company": "중앙일보",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.joongang.co.kr/",
+  "page_url": "https://www.joongang.co.kr/",
+  "page_title": "중앙일보",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://font.joongang.co.kr/v25/NotoSansKR-Regular.woff2; reference:ValueError:https://font.joongang.co.kr/v25/NotoSansKR-Bold.woff2; reference:ValueError:https://font.joongang.co.kr/v25/NotoSerifKR-SemiBold.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/joongang-ilbo/favicon.png",
+      "source_url": "https://assets.joongang.co.kr/images/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2170,
+      "sha256": "b5af87571d8b5c31b45bb410b79fe2b7e1b73bec469ba371a7cc42f676bea05f",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/joongang-ilbo/og.webp",
+      "source_url": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13286,
+      "sha256": "ec7dbe6d81f0eecf414bc4240ec33d5ffc56d215cdd917790502d0c77357c6cb",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/joongang-ilbo/logo-1.png",
+      "source_url": "https://assets.joongang.co.kr/images/index/logo_thejoongang.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 중앙일보 a 중앙일보 h1 logo div header_wrap header header header nav_re cta",
+      "content_type": "image/png",
+      "bytes": 6717,
+      "sha256": "00bd6c07aec0d06f61bcdd6b01b60937e2ae17f523df95dc2f15f869126f3244",
+      "width": 497,
+      "height": 172
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/joongang-ilbo/og.webp",
+      "source_url": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png",
+      "source_tag": "img:semantic-logo",
+      "content_type": "image/webp",
+      "bytes": 13286,
+      "sha256": "ec7dbe6d81f0eecf414bc4240ec33d5ffc56d215cdd917790502d0c77357c6cb",
+      "width": 1200,
+      "height": 630,
+      "context": "img 중앙일보 div hide header header header nav_re cta div wrapper body index",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/joongang-ilbo/banner-1.webp",
+      "source_url": "https://pds.joongang.co.kr/svcimg/202609/11122793-e341-415d-b777-5e33328a46fb.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 공통배너(월~목)_PC_하우스배너2단 a div slide div jaswiper_wrap div jswiper jaswiper_controller index_random house_banner sm_hidden overflow_hidden",
+      "content_type": "image/webp",
+      "bytes": 17004,
+      "sha256": "6e46aeaecce57d92a58cbb55b2a27c33c129630b1095ad22fecdb2518ac73843",
+      "width": 1800,
+      "height": 161
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/joongang-ilbo/banner-2.webp",
+      "source_url": "https://pds.joongang.co.kr/svcimg/202609/45128dca-201f-4ec8-b758-81a4bd0882b5.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 뱅크시 a div slide mobile_home_house_banner div jaswiper_wrap div jswiper jaswiper_controller index_random aside house_banner lg_hidden md_hidden observe",
+      "content_type": "image/webp",
+      "bytes": 8094,
+      "sha256": "46c43221497016702ad9037e4ac01cd7f948cecfd7f9884111dccfe8933199cd",
+      "width": 960,
+      "height": 270
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/joongang-ilbo/reference-1.webp",
+      "source_url": "https://pds.joongang.co.kr/svcimg/202609/b481f824-6ede-4a1c-af22-e3c20e4b2150.png/_ir_1168x636_/t.jpg",
+      "source_tag": "img:page-image",
+      "context": "img “이젠 반차 내도 은행 못갈 판”\n영업 30분 단축 겁나는 김 대리  a fTimer figure card_image col_md6 spotlight_image div card row flex_lg_column_reverse div col_lg8",
+      "content_type": "image/webp",
+      "bytes": 52742,
+      "sha256": "484ea4d4d0734244fee184b3297f78232dff0f413c32036ad79162e914686aef",
+      "width": 1168,
+      "height": 636
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/joongang-ilbo/reference-2.webp",
+      "source_url": "https://pds.joongang.co.kr/svcimg/202609/24bdb2de-40dd-44b1-938f-86af301a9a6e.jpg/_ir_556x312_/t.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 강신철 “北, 국경선 요새화하며 지뢰 매설 추정…명백한 정전협정 위반”  a fTimer figure card_image div card div col_md6",
+      "content_type": "image/webp",
+      "bytes": 31772,
+      "sha256": "8979d3f774afb0d475784b66cdcadc66fe1bf4c5c455a219741d8caa26f94f07",
+      "width": 556,
+      "height": 312
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/joongang-ilbo/reference-3.webp",
+      "source_url": "https://pds.joongang.co.kr/svcimg/202609/2e263c43-b1e9-49d1-9048-9e0f5103e989.jpg/_ir_966x540_/t.jpg",
+      "source_tag": "img:page-image",
+      "context": "img “월급 나와요?” 망한 제약사 산 남편…아내에게 물벼락 맞다 a fTimer figure card_image div card div col_md4 col_lg4 list",
+      "content_type": "image/webp",
+      "bytes": 51756,
+      "sha256": "5d55b9ffc69fb46267da394c3f240d1b73724f16e77de126458adb9ef3184d9c",
+      "width": 966,
+      "height": 540
+    }
+  ]
+}

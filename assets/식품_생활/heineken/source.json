@@ -1,0 +1,61 @@
+{
+  "company": "Heineken",
+  "category": "식품_생활",
+  "requested_url": "https://www.heineken.com/kr/ko/home",
+  "page_url": "https://www.heineken.com/kr/ko/agegateway/?returnUrl=%2fkr%2fko%2fhome",
+  "page_title": "AgeGateway",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.heineken.com/dist/fonts//Heineken/heineken-core.ttf",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/heineken/favicon.png",
+      "source_url": "https://www.heineken.com/media/cwznamdt/nav_logo_heineken.png?width=57&height=57&v=1dc556ed922c3d0",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 3699,
+      "sha256": "f8accd1ce4bda9dc6be75b727dcacd4cdef4407dbd9c7fe912d663e9c8ffae02",
+      "width": 57,
+      "height": 57
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/heineken/logo-1.svg",
+      "source_url": "https://www.heineken.com/media/zmnkoinc/heineken-logo.svg?rmode=max&width=128",
+      "source_tag": "img:semantic-logo",
+      "context": "img p div rte div agegate-inner div agegate-container",
+      "content_type": "image/svg+xml",
+      "bytes": 12813,
+      "sha256": "8bdb2af3341e47af39f1aa41353131528af05eaeb5926e9ed19bbdd304cf6ad9",
+      "width": 428,
+      "height": 220,
+      "source_sha256": "b96fe7a361eed494a5bdfe7644d2b058411d180dd0781264ff483a74086eec60"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/heineken/banner-1.webp",
+      "source_url": "https://www.heineken.com/dist/images/brand2.tg/simple_attitude_mural.jpg",
+      "source_tag": "style-background-image",
+      "context": "e--hgrey .theme-button{background-color:#646464;border-color:#646464}.theme--hgrey .theme-button:hover{background-color:#7e7e7e;border-color:#7e7e7e}.agegate-page{background-image:url(/dist/images/brand2.tg/simple_attitude_mural.jpg);backgr",
+      "content_type": "image/webp",
+      "bytes": 169412,
+      "sha256": "058e34fcbfde7dff6e954177ae24c890ae4e9e8b8fc435104701a815e744d9c4",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "bc4634c74fca637af7f395aa8c80a357b358e23d3144fedcc440f7945eb352d1"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/heineken/banner-2.webp",
+      "source_url": "https://www.heineken.com/dist/images/brand2.tg/main-masthead-uncage.jpg",
+      "source_tag": "style-background-image",
+      "context": "scaleX(0);transform:scaleX(0)}to{-webkit-transform:scaleX(1);transform:scaleX(1)}}.timeline-block .timeline-listing .timeline-item.item-heading{align-items:center;background-image:url(/dist/images/brand2.tg/main-masthead-uncage.jpg);backgro",
+      "content_type": "image/webp",
+      "bytes": 88028,
+      "sha256": "1aa1ebd6912a4f9fc39af03b979d873733d0599dc92b8e81d3436d7440757ea4",
+      "width": 1440,
+      "height": 768,
+      "source_sha256": "cbe7b71333513a0f5a7c8dfcf252309acf217796401f94c29d01e5457d72614d"
+    }
+  ]
+}

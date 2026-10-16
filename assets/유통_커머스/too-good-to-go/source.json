@@ -1,0 +1,118 @@
+{
+  "company": "Too Good To Go",
+  "category": "유통_커머스",
+  "requested_url": "https://www.toogoodtogo.com",
+  "page_url": "https://www.toogoodtogo.com/en-us",
+  "page_title": "Save Good Food From Going To Waste | Too Good To Go",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://static-mkt.toogoodtogo.com/video/web_hero_en_us_1080.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/too-good-to-go/favicon.png",
+      "source_url": "https://cdn.sanity.io/images/nqimd3nr/production/eb37301e40a80bb500e31e5a939924c582ad7744-512x512.png?w=512&h=512",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 17843,
+      "sha256": "3a85322b5508b1f7572b644fd883ed9ee022f156f2977f21e3f8b7947670f087",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/too-good-to-go/og.webp",
+      "source_url": "https://cdn.sanity.io/images/nqimd3nr/production/8b94c7be71abdf7ba387b9d1763b4692bd268bfc-1920x1080.jpg?w=1200&q=90&fit=max",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14910,
+      "sha256": "7482e92f11479eb4d8dbab1f8cd39171b456d8cafbd2f35b957b60f558e0f693",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/too-good-to-go/favicon.png",
+      "source_url": "https://cdn.sanity.io/images/nqimd3nr/production/eb37301e40a80bb500e31e5a939924c582ad7744-512x512.png?w=512&h=512",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "content_type": "image/png",
+      "bytes": 17843,
+      "sha256": "3a85322b5508b1f7572b644fd883ed9ee022f156f2977f21e3f8b7947670f087",
+      "width": 256,
+      "height": 256,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/too-good-to-go/logo-2.svg",
+      "source_url": "https://www.toogoodtogo.com/_nuxt/da7043993fb9e52d34dc403a6239d3e57dadf382/logo.LysY4rrc.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Too Good To Go Logo a router-link-active router-link-exact-active div logo-container hidden tablet-wide:flex div flex flex-col py-32 gap-32 tablet-wide:flex-row justify-between text-white items-center div c-footer__main wrapper bg-prima",
+      "content_type": "image/svg+xml",
+      "bytes": 8614,
+      "sha256": "ac07abf56cf309fcbe202efa627fbfbe58ed5ad5c87720f6c74ecebbb5f8bd21",
+      "width": 80,
+      "height": 64
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/too-good-to-go/banner-1.webp",
+      "source_url": "https://cdn.sanity.io/images/nqimd3nr/production/8b94c7be71abdf7ba387b9d1763b4692bd268bfc-1920x1080.jpg?fit=max&auto=format",
+      "source_tag": "img:semantic-banner",
+      "context": "img c-base-image object-cover c-main-hero__image section anchor123 c-section c-main-hero outer-block-hero div m-blocks__item div m-blocks m-blocks--outer main main",
+      "content_type": "image/webp",
+      "bytes": 32734,
+      "sha256": "a2c1249d6886ee7252908ced99a3039455eac1fe2ff7ac40f721ed180cfa568c",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/too-good-to-go/banner-2.webp",
+      "source_url": "https://cdn.sanity.io/images/nqimd3nr/production/8b94c7be71abdf7ba387b9d1763b4692bd268bfc-1920x1080.jpg?w=1200&fit=max&auto=format",
+      "source_tag": "img:semantic-banner",
+      "context": "img c-base-image object-cover c-main-hero__image section anchor123 c-section c-main-hero outer-block-hero div m-blocks__item div m-blocks m-blocks--outer main main",
+      "content_type": "image/webp",
+      "bytes": 19248,
+      "sha256": "9d52bd0861eb6582c7d074d6de9c480cd3f6e81c100fdf15cf748709885dc738",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/too-good-to-go/reference-1.webp",
+      "source_url": "https://www.toogoodtogo.com/_vercel/image?url=%2Fimages%2Fbag.fruits.png&w=1920&q=70",
+      "source_tag": "img:page-image",
+      "context": "img c-bag__img div c-bag__bag animated animated__bag div c-bag__bag-parent section c-section c-bag__section animated--not-started outer-block-bag div m-blocks__item",
+      "content_type": "image/webp",
+      "bytes": 90162,
+      "sha256": "17c82aec6e6d6537805695c2789de69c76fc94f936184c0e9f785e12dc7a9568",
+      "width": 1800,
+      "height": 1299
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/too-good-to-go/reference-2.webp",
+      "source_url": "https://cdn.sanity.io/images/nqimd3nr/production/d0114e13d7e48fcc4bde9f6285b951b0f21a4cf6-2027x1789.jpg?w=627&fit=max&auto=format",
+      "source_tag": "img:page-image",
+      "context": "img c-base-image object-contain c-steps-section__main-image a person is holding a phone that says my location on the screen div inset-0 absolute flex flex-row justify-center desk:justify-end items-center div c-steps-section__images div c-st",
+      "content_type": "image/webp",
+      "bytes": 37264,
+      "sha256": "3bf0c9925805e590372f767cf86d9e9a2cd5cee197bebc4d843ed8fb2de4f25d",
+      "width": 627,
+      "height": 553
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/too-good-to-go/reference-3.webp",
+      "source_url": "https://cdn.sanity.io/images/nqimd3nr/production/d0114e13d7e48fcc4bde9f6285b951b0f21a4cf6-2027x1789.jpg?w=1881&fit=max&auto=format",
+      "source_tag": "img:page-image",
+      "context": "img c-base-image object-contain c-steps-section__main-image a person is holding a phone that says my location on the screen div inset-0 absolute flex flex-row justify-center desk:justify-end items-center div c-steps-section__images div c-st",
+      "content_type": "image/webp",
+      "bytes": 121540,
+      "sha256": "e7b66664b697b884c35cb970aa501d0c1bb1d6ad1fa176ac2ea9decafc70302e",
+      "width": 1530,
+      "height": 1350
+    }
+  ]
+}

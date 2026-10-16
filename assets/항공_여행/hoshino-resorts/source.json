@@ -1,0 +1,47 @@
+{
+  "company": "Hoshino Resorts",
+  "category": "항공_여행",
+  "requested_url": "https://hoshinoresorts.com/ko/",
+  "page_url": "https://hoshinoresorts.com/ko/",
+  "page_title": "호시노 리조트 | 호텔 ＆ 리조트",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://hoshinoresorts.com/_nuxt/ab07ab9.js; reference:ValueError:https://hoshinoresorts.com/_nuxt/84da4fa.js; reference:ValueError:https://hoshinoresorts.com/_nuxt/ea4d51b.js; reference:ValueError:https://hoshinoresorts.com/_nuxt/fe119d2.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/hoshino-resorts/favicon.ico",
+      "source_url": "https://assets-gf.hoshinoresorts.com/res/common/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "4daed5c1300ce44e50c2b7b5806fbf50c4b044d539c866abd17f6182aeb024f1",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/hoshino-resorts/logo-1.svg",
+      "source_url": "https://assets-gf.hoshinoresorts.com/res/common/logo-hr-ko.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-header__logo__node 호시노 리조트 a h-header__logo div h-header__body div h-header div h-app h-default-layout",
+      "content_type": "image/svg+xml",
+      "bytes": 4513,
+      "sha256": "553e336e91d8414d8a6b4c774331263619b4447bfd33912780e1297911e5c5f6",
+      "width": 228,
+      "height": 32,
+      "source_sha256": "77bfd24b1ac46c7ebfa388ef5e8769007d500cba1e1d5a5d6e0347139a66f1a4"
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/hoshino-resorts/logo-2.svg",
+      "source_url": "https://media.hoshinoresorts.com/image/authenticated/s--QSzPulf5--/f_svg,q_auto/v1745465344/HOSHINOYA-brand-logo-50x60_layyvg.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-brand-navigation-list__brandLink__logo span h-btn__content a h-btn h-brand-navigation-list__brandLink h-btn--depressed h-btn--default div h-brand-navigation-list div h-brand-navigation__pc",
+      "content_type": "image/svg+xml",
+      "bytes": 617,
+      "sha256": "3aa2e98fab456b705cbb9f6ec3a43326893fb5dafc7fbaa82ccf46896a137ab8",
+      "width": 50,
+      "height": 60
+    }
+  ]
+}

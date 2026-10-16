@@ -1,0 +1,81 @@
+{
+  "company": "Bun",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://bun.com",
+  "page_url": "https://bun.com/",
+  "page_title": "Bun — A fast all-in-one JavaScript runtime",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://bun.com/_assets/chunk-6j0z63gp.js; reference:ValueError:https://bun.com/_assets/chunk-agjg6svg.js; reference:ValueError:https://bun.com/_assets/chunk-ch7hpbaj.js; reference:ValueError:https://bun.com/_assets/chunk-e1vs5vkd.js; reference:ValueError:https://bun.com/_assets/chunk-epz3jvkc.js; reference:ValueError:https://bun.com/_assets/page-index-b7ayq2m5.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/bun/favicon.png",
+      "source_url": "https://bun.com/icons/icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 16036,
+      "sha256": "beb6b69b1fac7d983028dd76c6bb3181d4da4993cb5db554f36c7cdd4f98b5f2",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/bun/og.webp",
+      "source_url": "https://bun.com/share_v4.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20206,
+      "sha256": "05771b23acbc4d09ace31917d2b5cc49f46bc5e6ddd7ecd36f9e4ab9103328ab",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/bun/logo-1.svg",
+      "source_url": "https://bun.com/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-[34px] w-auto transition-transform duration-300 ease-out group-hover/logo:-rotate-[10deg] group-active/logo:translate-y-px a group/logo flex shrink-0 items-center gap-2.5 Bun — home div mx-auto w-full max-w-container px-gutter flex h-",
+      "content_type": "image/svg+xml",
+      "bytes": 3940,
+      "sha256": "6395a2d7c1700c4397d0f0bf0ad466b6d01787dc22ad0a17cb0e1d45c31463a8",
+      "width": 80,
+      "height": 70
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/bun/logo-2.png",
+      "source_url": "https://bun.com/logo-square.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 13674,
+      "sha256": "f5c9bd2434bef751b781f0afc27726ec8108d19d832ad8d359b07929efd68de0",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/bun/banner-1.webp",
+      "source_url": "https://bun.com/bun-homepage-cc-boris-poster.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-full w-full object-cover button group/poster relative isolate block w-full overflow-hidden bg-black text-left aspect-video Play video: Boris Cherny, Head of Claude Code, Anthropic — Why Claude Code ships on Bun div border border-line ",
+      "content_type": "image/webp",
+      "bytes": 17532,
+      "sha256": "1a825893e07fd7fa7405fb4a57796f680e5ed7ca48858ca4536fefcb53a73b8b",
+      "width": 768,
+      "height": 432
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/bun/banner-2.webp",
+      "source_url": "https://bun.com/bun-homepage-midjourney-cheng-poster.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-full w-full object-cover button group/poster relative isolate block w-full overflow-hidden bg-black text-left aspect-video Play video: Cheng Lou, Engineer, Midjourney — Midjourney's realtime notifications on Bun div border border-line",
+      "content_type": "image/webp",
+      "bytes": 13236,
+      "sha256": "029ad26ffe7a9e3065389415c54c80021549c65df4bc6b122b6ea5b9fe0a6967",
+      "width": 768,
+      "height": 432
+    }
+  ]
+}

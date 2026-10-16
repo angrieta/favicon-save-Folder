@@ -1,0 +1,69 @@
+{
+  "company": "Synology",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.synology.com/ko-kr",
+  "page_url": "https://www.synology.com/ko-kr",
+  "page_title": "Synology Inc.",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/synology/favicon.png",
+      "source_url": "https://fileres.synology.com/images/common/favicon/syno/icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2744,
+      "sha256": "1057cc1b059f8ed30d2795a72675ad62b0fae42ae77f85ec63efb2f20b01ba3f",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/synology/og.webp",
+      "source_url": "https://fileres.synology.com/images/common/meta-tag-preview-image/img_synology.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10362,
+      "sha256": "384f19f780409ec1e7dddfbdf3d841157e168d9b624193ef696ed9728b7c99ab",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/synology/reference-1.webp",
+      "source_url": "https://www.synology.com/api/homepage/smallbanner/getImage2x/1043",
+      "source_tag": "picture:page-image",
+      "context": "picture div home-latest__link-img-wrapper s-link home-latest-link-1-revamped_synology_hdd home-latest__link div home-latest__link-wrapper s-container",
+      "content_type": "image/webp",
+      "bytes": 15608,
+      "sha256": "1687a928cd8387f23687a707bc463079a1f53f49526cd00f6769e292428e4133",
+      "width": 704,
+      "height": 460
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/synology/reference-2.webp",
+      "source_url": "https://www.synology.com/api/homepage/smallbanner/getImage2x/1169",
+      "source_tag": "picture:page-image",
+      "context": "picture div home-latest__link-img-wrapper s-link home-latest-link-2-Solution_Day_2026 home-latest__link div home-latest__link-wrapper s-container",
+      "content_type": "image/webp",
+      "bytes": 91422,
+      "sha256": "e335e23ed518bae545846b105a3a14d892201bf73c36b483f1a9677497ccf114",
+      "width": 704,
+      "height": 460
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/synology/reference-3.webp",
+      "source_url": "https://www.synology.com/api/homepage/smallbanner/getImage2x/1120",
+      "source_tag": "picture:page-image",
+      "context": "picture div home-latest__link-img-wrapper s-link home-latest-link-3-revamped_KR_Korean_Air home-latest__link div home-latest__link-wrapper s-container",
+      "content_type": "image/webp",
+      "bytes": 15510,
+      "sha256": "86f298de1cc00610f772922301998f7a742c60355aafdd1c84a0a1181e47e60d",
+      "width": 704,
+      "height": 460
+    }
+  ]
+}

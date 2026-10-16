@@ -1,0 +1,57 @@
+{
+  "company": "Reflect",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://reflect.app",
+  "page_url": "https://reflect.app/",
+  "page_title": "Reflect",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://reflect.app/home/assets/CPmX5MwZ-medium.woff2; reference:ValueError:https://reflect.app/home/assets/HTY-XZm--regular.woff2; reference:ValueError:https://reflect.app/home/assets/Dwkzi9oM-medium.woff2; reference:ValueError:https://reflect.app/home/build/q-I71Zx8Sz.js; reference:ValueError:https://reflect.app/home/assets/BRU2j3Nt-bundle-graph.json; reference:ValueError:https://reflect.app/home/build/q-C28wavzz.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/reflect/favicon.png",
+      "source_url": "https://reflect.app/home/assets/BbyT1COO-favicon@5.6x.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 34282,
+      "sha256": "d5dd80b767c3bc2ff3be3ee07924969c394ac878bd54c942bde0732ff789203e",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/reflect/og.webp",
+      "source_url": "https://reflect.app/home/assets/C5Mbiirh-og-image.jpeg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14362,
+      "sha256": "983abce87680a2b3aad94a3efb5db6e03383a1b56725bda7cd42db2c71d54ebb",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/reflect/banner-1.webp",
+      "source_url": "https://reflect.app/home/assets/CeFGtz8K-video-preview.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div hero-video-preview div hero-video-content div hero-video section hero",
+      "content_type": "image/webp",
+      "bytes": 168938,
+      "sha256": "de3ec6b6eae08dc1ca452cb82adc797c3853fed4e5fee2be5b5dcac1404f2863",
+      "width": 1800,
+      "height": 1125
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/reflect/reference-1.webp",
+      "source_url": "https://reflect.app/home/assets/A1gwrCSh-video-preview.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div hero-video-preview div hero-video-content div hero-video section hero",
+      "content_type": "image/webp",
+      "bytes": 53708,
+      "sha256": "5bcde195d321059a1e90fff0835499ea3f9b2b5a1fa96866244dd068dbc79bac",
+      "width": 704,
+      "height": 1320
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "company": "Guggenheim",
+  "category": "문화_공공",
+  "requested_url": "https://www.guggenheim.org",
+  "page_url": "https://www.guggenheim.org/",
+  "page_title": "Homepage | The Guggenheim Museums and Foundation",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.guggenheim.org/wp-content/themes/laura/dist/assets/vendor-ojHIal3q.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/guggenheim/favicon.png",
+      "source_url": "https://www.guggenheim.org/wp-content/plugins/insert-favicons/assets/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3764,
+      "sha256": "6816ed7b2513dfd89147b79e78dffee516bb1fd1a3cdcb8aac4bba751c984d92",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/guggenheim/og.webp",
+      "source_url": "https://www.guggenheim.org/wp-content/uploads/2024/11/architecture-srgm-exterior-drone-autumn.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 148502,
+      "sha256": "3dac615511db78acbb024df6846c61de2cb65f1136ac727dd6b35e6e9c0c1b63",
+      "width": 1200,
+      "height": 675
+    }
+  ]
+}

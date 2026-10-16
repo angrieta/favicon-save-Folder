@@ -1,0 +1,45 @@
+{
+  "company": "United Arrows",
+  "category": "패션_의류",
+  "requested_url": "https://www.united-arrows.co.jp/",
+  "page_url": "https://www.united-arrows.co.jp/",
+  "page_title": "株式会社ユナイテッドアローズ 企業サイト（UNITED ARROWS LTD.）",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.united-arrows.co.jp/wp-content/themes/united-arrows/assets/fonts/YakuHanJP-Regular.woff2; reference:ValueError:https://www.united-arrows.co.jp/wp-content/themes/united-arrows/assets/js/vndr.js?v=202306v2; reference:ValueError:https://www.united-arrows.co.jp/wp-content/themes/united-arrows/assets/js/app.js?v=260526; reference:ValueError:https://use.typekit.net/dne4hbc.css; reference:ValueError:https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600&display=swap; reference:ValueError:https://www.united-arrows.co.jp/wp-content/themes/united-arrows/assets/css/style.css?v=260526",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/united-arrows/favicon.png",
+      "source_url": "https://www.united-arrows.co.jp/wp-content/themes/united-arrows/assets/config/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4307,
+      "sha256": "694b865ae6faee1173254f4ef06f528254246eb14811852eee89e3c9fd7a8c05",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/united-arrows/og.webp",
+      "source_url": "https://www.united-arrows.co.jp/wp-content/uploads/2022/08/ogp.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4640,
+      "sha256": "f873a499fe99c45e58b6b47130f78a2597895f413ad599c87d3be20524b2ed98",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/united-arrows/logo-1.png",
+      "source_url": "https://211.133.244.119/wp-content/uploads/2022/08/corporate.png",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 4209,
+      "sha256": "cff3fff439ced412bec1e0ac3bd4e5c6caf559a7a0b53cd63fadcb4b3c18e40f",
+      "width": 600,
+      "height": 294
+    }
+  ]
+}

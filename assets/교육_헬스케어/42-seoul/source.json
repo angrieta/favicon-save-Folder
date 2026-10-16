@@ -1,0 +1,45 @@
+{
+  "company": "42서울",
+  "category": "교육_헬스케어",
+  "requested_url": "https://42seoul.kr/",
+  "page_url": "https://42seoul.kr/seoul42/main/view",
+  "page_title": "메인 | 42seoul",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/42-seoul/favicon.ico",
+      "source_url": "https://42seoul.kr/template/cms/seoul42/images/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 19198,
+      "sha256": "b5c88e640675d265fbbed858dc7f43814667cc4afd82928a20b9032bee86575b",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/42-seoul/og.webp",
+      "source_url": "https://42seoul.kr/template/cms/seoul42/images/common/head_logo1.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13982,
+      "sha256": "ceda853d716b56507d7135d42438345f86cc40339d33aec948daeee1c601a50f",
+      "width": 650,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/42-seoul/logo-1.png",
+      "source_url": "https://42seoul.kr/template/cms/seoul42/images/common/head_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img seoul42 a h1 head_logo div gnb_header article header header",
+      "content_type": "image/png",
+      "bytes": 1640,
+      "sha256": "2f17cc31bea7fd81ef17fffb4d5b25e3c3fbbf960a043c702da927f2ebd52584",
+      "width": 212,
+      "height": 88
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "company": "The National Gallery",
+  "category": "문화_공공",
+  "requested_url": "https://www.nationalgallery.org.uk",
+  "page_url": "https://www.nationalgallery.org.uk/",
+  "page_title": "The National Gallery, London",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/national-gallery-london/favicon.ico",
+      "source_url": "https://www.nationalgallery.org.uk/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "2ef4c6179930ddfa42191ed337e73d1d355682ed813cc2a1739a7dc06acf264d",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/national-gallery-london/logo-1.png",
+      "source_url": "https://www.nationalgallery.org.uk/v2/img/logos/ng-logo-white-320.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img The National Gallery logo a div logo div pw-container d-flex justify-content-between align-items-center div icons d-flex",
+      "content_type": "image/png",
+      "bytes": 12706,
+      "sha256": "46179e211c244e9cdc1b4be03a8b38b399d492ce9bd56346d91799191b3b0716",
+      "width": 320,
+      "height": 128
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/national-gallery-london/banner-1.webp",
+      "source_url": "https://www.nationalgallery.org.uk/media/1mxpaqkf/1920x1080_summer-banner_static.jpg?width=768&height=432&quality=85",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div banner div hero-banner main main home-page body",
+      "content_type": "image/webp",
+      "bytes": 36836,
+      "sha256": "29616f8e2e7077bf00f5e638d400ca271287cde53981c977fc0c8d073206e420",
+      "width": 768,
+      "height": 432
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/national-gallery-london/banner-2.webp",
+      "source_url": "https://www.nationalgallery.org.uk/media/1mxpaqkf/1920x1080_summer-banner_static.jpg?width=992&height=558&quality=85",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div banner div hero-banner main main home-page body",
+      "content_type": "image/webp",
+      "bytes": 56010,
+      "sha256": "005ede8bc75dc88696a97c039ec9ed167ed8083618332a09b78e3bd9b587fba8",
+      "width": 992,
+      "height": 558
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/national-gallery-london/reference-1.webp",
+      "source_url": "https://www.nationalgallery.org.uk/media/1mxpaqkf/1920x1080_summer-banner_static.jpg?width=576&height=324&quality=85",
+      "source_tag": "picture:page-image",
+      "context": "picture div banner div hero-banner main main home-page body",
+      "content_type": "image/webp",
+      "bytes": 23326,
+      "sha256": "682d92ea95e1b772dd863dad9855379ff1056d2a44b4bf0e0fbef4fa43bf3aee",
+      "width": 576,
+      "height": 324
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/national-gallery-london/reference-2.webp",
+      "source_url": "https://www.nationalgallery.org.uk/media/1mxpaqkf/1920x1080_summer-banner_static.jpg?width=1920&height=1080&quality=85",
+      "source_tag": "picture:page-image",
+      "context": "picture div banner div hero-banner main main home-page body",
+      "content_type": "image/webp",
+      "bytes": 119536,
+      "sha256": "afcc9f55e1513a7598530efee0eadfcee2ed33a40f33085b59d0f80b075b65b2",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/national-gallery-london/reference-3.webp",
+      "source_url": "https://www.nationalgallery.org.uk/media/xcznhcnb/renoir-and-love-exhibition-listing-square-600-x-600.jpg?rmode=crop&ranchor=center&width=800&height=800&quality=85&v=1dd23656be6a690",
+      "source_tag": "inline-background-image",
+      "context": "div  square-image background-image:url('/media/xcznhcnb/renoir-and-love-exhibition-listing-square-600-x-600.jpg?rmode=crop&ranchor=center&width=800&height=800&quality=85&v=1dd23656be6a690')",
+      "content_type": "image/webp",
+      "bytes": 82500,
+      "sha256": "ddcac2e11b015f2d01c3c34da9bfd71ba1d491069280664f598c696e934ad940",
+      "width": 800,
+      "height": 800,
+      "source_sha256": "884cba05bea63748c16b4123e1d408d46f35c525edcbb4477b8239838082b5aa"
+    }
+  ]
+}

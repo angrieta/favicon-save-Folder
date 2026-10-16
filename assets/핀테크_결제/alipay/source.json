@@ -1,0 +1,33 @@
+{
+  "company": "Alipay",
+  "category": "핀테크_결제",
+  "requested_url": "https://global.alipay.com/",
+  "page_url": "https://global.alipay.com/platform/site/ihome",
+  "page_title": "Alipay Global Merchant Portal",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.marmot-cloud.com/page/intl-portal/_next/static/chunks/27f1aa2dd015cb2b7e70426abdd4298b5f61df7a.14a42d8d8a1a84321e03.js; reference:ValueError:https://cdn.marmot-cloud.com/page/intl-portal/_next/static/chunks/3b9b3ec1b40140ed6010e95c159596601e3188f5.6f8c3e9e759dc09ca886.js; reference:ValueError:https://cdn.marmot-cloud.com/page/intl-portal/_next/static/chunks/8d68c43e271b988ace14fec9c628894ac33395d8.a0ba081a61961be2a192.js; reference:ValueError:https://cdn.marmot-cloud.com/page/intl-portal/_next/static/chunks/108ad9c6aec1fab6790e26d4ee8627db6226e90e.c78a4dec4e664b8fc61a.js; reference:ValueError:https://cdn.marmot-cloud.com/page/intl-portal/_next/static/chunks/aad2a92e5891612d8bce0d62fe583e40ae339486_CSS.7b37a38a8911fc5fb44b.js; reference:ValueError:https://cdn.marmot-cloud.com/page/intl-portal/_next/static/chunks/b2c68f87f43953aa8372ce926cc6fb81a7ab583e.44eebeeec9359a0fc3da.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/alipay/favicon.png",
+      "source_url": "https://gw.alipayobjects.com/mdn/rms_1345e8/afts/img/A*YQfMT7YbI8oAAAAAAAAAAAAAARQnAQ",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4823,
+      "sha256": "0601b0240009ab6a9b4f3596b7391975de0fb3e6d7a7af072d8658b6db454b73",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/alipay/og.webp",
+      "source_url": "https://gw.alipayobjects.com/mdn/rms_1345e8/afts/img/A*FZzTR6iDrtwAAAAAAAAAAAAAARQnAQ",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9526,
+      "sha256": "d8f3725f95039bb60da71c9ac3c78fbb2b4771e2b20637bdec6bad47c39c53d6",
+      "width": 1200,
+      "height": 600
+    }
+  ]
+}

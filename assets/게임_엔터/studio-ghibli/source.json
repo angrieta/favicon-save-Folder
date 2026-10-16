@@ -1,0 +1,70 @@
+{
+  "company": "Studio Ghibli",
+  "category": "게임_엔터",
+  "requested_url": "https://www.ghibli.jp/",
+  "page_url": "https://www.ghibli.jp/",
+  "page_title": "スタジオジブリ｜STUDIO GHIBLI",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/studio-ghibli/favicon.png",
+      "source_url": "https://www.ghibli.jp/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 4898,
+      "sha256": "5e05711a0aa26a54a17512a56c03891f295e27db1f946530781a12b6a170771f",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/studio-ghibli/og.webp",
+      "source_url": "https://www.ghibli.jp/img/ghibli.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 17434,
+      "sha256": "9b89d06c60fc7fecf62cb7f3d093b2d4f4f3364c5e013dace9c18c395580d7ea",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/studio-ghibli/logo-1.png",
+      "source_url": "https://www.ghibli.jp/img/totoro.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img coverbg-ghibli coverbg STUDIO GHIBLI スタジオジブリ h1 div cover div slide-ghibli slide div content bs-docs-header",
+      "content_type": "image/png",
+      "bytes": 41134,
+      "sha256": "685144a63a47954714c830363b68955e43d109b51d0c350d780a4891c598ce51",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/studio-ghibli/logo-1.png",
+      "source_url": "https://www.ghibli.jp/img/totoro.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img coverbg-ghibli coverbg STUDIO GHIBLI スタジオジブリ h1 div cover div slide-ghibli slide div content bs-docs-header",
+      "content_type": "image/png",
+      "bytes": 41134,
+      "sha256": "685144a63a47954714c830363b68955e43d109b51d0c350d780a4891c598ce51",
+      "width": 1200,
+      "height": 800,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/studio-ghibli/reference-1.webp",
+      "source_url": "https://www.ghibli.jp/img/asemamire.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img-responsive 鈴木敏夫のジブリ汗まみれ div col-xs-4 col-sm-5 col-md-12 a div row banner-card div col-sm-6 col-md-12",
+      "content_type": "image/webp",
+      "bytes": 35818,
+      "sha256": "4d068c2f8f6ebe8760195421672086deae0abac94220e0487c3d51228d4eede9",
+      "width": 405,
+      "height": 405
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "company": "패스트파이브",
+  "category": "부동산_공간",
+  "requested_url": "https://www.fastfive.co.kr/",
+  "page_url": "https://www.fastfive.co.kr/",
+  "page_title": "국내 1위 공유오피스 - 패스트파이브 | FASTFIVE",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.fastfive.co.kr/_next/static/media/011cc18608a24a6f-s.p.d92c1f67.woff2; reference:ValueError:https://www.fastfive.co.kr/_next/static/media/9e9f04e3c37952ab-s.p.4d24b8e7.woff2; reference:ValueError:https://www.fastfive.co.kr/_next/static/chunks/56bd1d3f1548d9b7.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/fastfive/favicon.png",
+      "source_url": "https://www.fastfive.co.kr/android-chrome-512x512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1226,
+      "sha256": "26a554632ef9a6d8f790e9caafbadfac1ba24686a307c0af0cbd238d7ea51251",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/fastfive/og.webp",
+      "source_url": "https://fastfive.co.kr/og/main.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 27498,
+      "sha256": "e80ab94195f7f896d34b0690776b7eaf1916fce918f0934b641af2d2bb6123ce",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/fastfive/logo-1.png",
+      "source_url": "https://fastfive.co.kr/android-chrome-512x512.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 1875,
+      "sha256": "891ffbf6a89310be425b7f38e415a10b9f09ce3c5841f6fa47c62fb377877f65",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/fastfive/banner-1.webp",
+      "source_url": "https://ff-prd-publishing-assets.s3.ap-northeast-2.amazonaws.com/prd/src/publishing/assets/images/main/stat_graph_pc.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture page-module-scss-module__pKZ8oq__stat_graph section page-module-scss-module__pKZ8oq__stat_section div page-module-scss-module__pKZ8oq__main_page div PublishingShell-module-scss-module__yVjpLa__content main flex-1 flex flex-col",
+      "content_type": "image/webp",
+      "bytes": 16488,
+      "sha256": "b20d3bcd0ffcb6eec71b6b7b466a4cf1a3f91f595347ba03f582cf447221b9bf",
+      "width": 1800,
+      "height": 894
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/fastfive/reference-1.webp",
+      "source_url": "https://ff-prd-publishing-assets.s3.ap-northeast-2.amazonaws.com/prd/src/publishing/assets/images/main/stat_graph_mo.png",
+      "source_tag": "picture:page-image",
+      "context": "picture page-module-scss-module__pKZ8oq__stat_graph section page-module-scss-module__pKZ8oq__stat_section div page-module-scss-module__pKZ8oq__main_page div PublishingShell-module-scss-module__yVjpLa__content main flex-1 flex flex-col",
+      "content_type": "image/webp",
+      "bytes": 62836,
+      "sha256": "9177024bcbe9cc1e94de535c6df9b904f5eb5cc3dce35c217a987efba33f4820",
+      "width": 1708,
+      "height": 1350
+    }
+  ]
+}

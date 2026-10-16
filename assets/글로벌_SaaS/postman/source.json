@@ -1,0 +1,58 @@
+{
+  "company": "Postman",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.postman.com/",
+  "page_url": "https://www.postman.com/",
+  "page_title": "Postman: The World's Leading API Platform | Sign Up for Free",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=402119569597383&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/postman/favicon.png",
+      "source_url": "https://www.postman.com/_mk-www-next/icons/android-chrome-512x512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 16561,
+      "sha256": "31a43de87a56226286bcf6001d7ce59925c166080bb10436b187f8079f16a6ec",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/postman/og.webp",
+      "source_url": "https://voyager.postman.com/social-preview/postman-v12-social-preview-homepage.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 41108,
+      "sha256": "ec4054f89a23c1ebcf1eeb9bc4b4c091e29ca9a951dbaa1a848ea125fd50cb6d",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/postman/logo-1.svg",
+      "source_url": "https://voyager.postman.com/logo/postman-logo-orange-stacked.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 7231,
+      "sha256": "8a302c9e0017376d3b1a873652c73c281cc09c9ee0a2ef92785aee5d2d92d537",
+      "width": 316,
+      "height": 284
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/postman/logo-2.svg",
+      "source_url": "https://voyager.postman.com/logo/fabric-gateway-mark-gradient.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img mt-[1px] shrink-0 span flex items-start gap-[8px] a NavDropdown>Brands>Fabric flex flex-col gap-1 border-b-0 no-underline hover:border-b-0 hover:no-underline focus:outline-[#FF6C37] div rounded-[5px] p-[10px] transition-opacity duration",
+      "content_type": "image/svg+xml",
+      "bytes": 3372,
+      "sha256": "d2899f839c0c402451c3679efce209a45b50104c61449900329fba28e82ee955",
+      "width": 134,
+      "height": 118,
+      "source_sha256": "6cdf3346f089540bc5c3733f063ecc3efa87b44cdeb5363e71f9fd95ad623856"
+    }
+  ]
+}

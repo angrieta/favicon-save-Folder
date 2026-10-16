@@ -1,0 +1,81 @@
+{
+  "company": "Mejuri",
+  "category": "패션_의류",
+  "requested_url": "https://mejuri.com",
+  "page_url": "https://mejuri.com/kr/en/",
+  "page_title": "Fine Jewelry For Every Day | Mejuri",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://mejuri.com/kr/en/f_auto/v1788305864/2026/Interconnected/Homepage/Sidekick/Interconnected_HPSidekick_Dome_DT.jpg; reference:HTTPError:https://res.cloudinary.com/mejuri-com/image/upload/w_768; reference:HTTPError:https://res.cloudinary.com/mejuri-com/image/upload/w_414; reference:HTTPError:https://mejuri.com/kr/en/f_auto/v1788305866/2026/Interconnected/Homepage/Sidekick/Interconnected_HPSidekick_Puzzle_DT.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/mejuri/favicon.svg",
+      "source_url": "https://mejuri.com/favicon-light.svg?v=3",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 3044,
+      "sha256": "5d848956f4953146cb520d06a824a4b3c2de886254f529da2a45eb276edf94b2",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/mejuri/og.webp",
+      "source_url": "https://cdn.sanity.io/images/lb60gqpm/production/d5f0ab7099f6a2e3ab932e623318722db6d3a39f-508x762.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 26104,
+      "sha256": "5f63760cb0bb2725d800dd9a210ca1368cc5bb22f0c5a489ca26e16c5ad00f52",
+      "width": 508,
+      "height": 762
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/mejuri/logo-1.webp",
+      "source_url": "https://mejuri.com/logo.jpg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 10924,
+      "sha256": "805b2f08e531a69de34f5472f8b1f2b9f5f8d2932259744559f8f867cc262886",
+      "width": 1314,
+      "height": 1314
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/mejuri/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/mejuri-com/image/upload/q_auto,f_auto/v1788305863/2026/Interconnected/Homepage/Sidekick/Interconnected_HPSidekick_Dome_M.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div h-full w-full overflow-hidden z-base absolute top-0 left-0 div sidekick-0-interconnected-sidekick-section pt-lg pb-5xl px-md lg:p-5xl relative flex w-full h-full flex-row div w-full flex md:grid flex-col md:grid-cols-2 div inter",
+      "content_type": "image/webp",
+      "bytes": 89638,
+      "sha256": "3fd34367c460729577b9f5e7584ec29de6f80e12b640dd5868aecc6fccd2c1ac",
+      "width": 1125,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/mejuri/reference-2.webp",
+      "source_url": "https://res.cloudinary.com/mejuri-com/image/upload/q_auto,f_auto/v1788305864/2026/Interconnected/Homepage/Sidekick/Interconnected_HPSidekick_Puzzle_M.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div h-full w-full overflow-hidden z-base absolute top-0 left-0 div sidekick-1-interconnected-sidekick-section pt-lg pb-5xl px-md lg:p-5xl relative flex w-full h-full flex-row div w-full flex md:grid flex-col md:grid-cols-2 div inter",
+      "content_type": "image/webp",
+      "bytes": 60976,
+      "sha256": "7620bbdec5bbf320afb2ac4a257045e49688246addde78bea06a0056cb5a57b6",
+      "width": 1125,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/mejuri/reference-3.webp",
+      "source_url": "https://res.cloudinary.com/mejuri-com/image/upload/v1752760519/certifications-parternship_logos_frtvgx.png",
+      "source_tag": "link:preload",
+      "context": "preload image  https://res.cloudinary.com/mejuri-com/image/upload/v1752760519/certifications-parternship_logos_frtvgx.png",
+      "content_type": "image/webp",
+      "bytes": 12508,
+      "sha256": "6cf7249dbe8419faf8072a2b8631976115689e53bbb6b347e2aa6183280831bf",
+      "width": 876,
+      "height": 626
+    }
+  ]
+}

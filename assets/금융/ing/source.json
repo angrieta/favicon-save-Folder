@@ -1,0 +1,110 @@
+{
+  "company": "ING",
+  "category": "금융",
+  "requested_url": "https://www.ing.com",
+  "page_url": "https://ing.com/",
+  "page_title": "ING global company website | ING",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/ing/favicon.ico",
+      "source_url": "https://ing.com/webfiles/1788951119972/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "86483564da4610e45ac9e334441da9f13dc13dc84d03b92c5ca76143d1325769",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/ing/logo-1.svg",
+      "source_url": "https://ing.com/webfiles/1788951119972/images/ing-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img ing-logo ING.com a navbar-brand me-auto div container-fluid nav-container p-0 nav ing-nav navbar navbar-expand-lg bg-white fixed-top body",
+      "content_type": "image/svg+xml",
+      "bytes": 30476,
+      "sha256": "cea3da4115b15ff9db30081581362a849d9602494f5759c1191b4993cce87104",
+      "width": 141,
+      "height": 35,
+      "source_sha256": "6e2a19f26018c591803ef5cc16de3790285a2ced061f62b054508cf394ff20be"
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/ing/logo-2.webp",
+      "source_url": "https://ing.com/binaries/content/gallery/images/home-page-and-miscellaneous/homepage-banner-get-europe-invested.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img hero-image Homepage carousel: Still the best! div column image div header-banner banner-primary div div",
+      "content_type": "image/webp",
+      "bytes": 123028,
+      "sha256": "3e478cf8c8d8a4bcc97abc9a9cab3d1001da5e4076cd291a11aa3990d32b7603",
+      "width": 1600,
+      "height": 971
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/ing/banner-1.webp",
+      "source_url": "https://ing.com/binaries/content/gallery/images/flyout/flyout-about-us.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img rounded object-fit-cover Card image div card-img div content-card card feature-card blue content-card card feature-card top div col-6 float-end content-right div pills-customers tab-pane",
+      "content_type": "image/webp",
+      "bytes": 61090,
+      "sha256": "1c2199e8a94991d5592ca981c25edb9618a1382771213ccb5b52891d4f6cd141",
+      "width": 1600,
+      "height": 916,
+      "source_sha256": "1dfddeb6d0bca451b7bf7b1cccf6e0a3b679b4fb5ab94e39365fbcc21349dd6f"
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/ing/logo-2.webp",
+      "source_url": "https://ing.com/binaries/content/gallery/images/home-page-and-miscellaneous/homepage-banner-get-europe-invested.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img hero-image Homepage carousel: Still the best! div column image div header-banner banner-primary div div",
+      "content_type": "image/webp",
+      "bytes": 123028,
+      "sha256": "3e478cf8c8d8a4bcc97abc9a9cab3d1001da5e4076cd291a11aa3990d32b7603",
+      "width": 1600,
+      "height": 971,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/ing/reference-1.webp",
+      "source_url": "https://ing.com/binaries/content/gallery/images/home-page-and-miscellaneous/full-length-of-shirtless-young-man-with-pink-shorts-cropped-1280px.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  header-banner banner-image background-image: url(/binaries/content/gallery/images/home-page-and-miscellaneous/full-length-of-shirtless-young-man-with-pink-shorts-cropped-1280px.jpg);",
+      "content_type": "image/webp",
+      "bytes": 79442,
+      "sha256": "68b9a54afbd7b6608085170c39d6b9686ee3f79753b35c19deee676208109a38",
+      "width": 1280,
+      "height": 554,
+      "source_sha256": "b56ae5b12b59d940226f38771c8db5a30cc670e2779dac3169826dfc26f17f87"
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/ing/reference-2.webp",
+      "source_url": "https://ing.com/binaries/content/gallery/images/flyout/flyout-about-us-governance.webp",
+      "source_tag": "img:page-image",
+      "context": "img rounded object-fit-cover Card image div card-img div content-card card feature-card orange content-card card feature-card top div col-6 float-end content-right div pills-corporate-governance tab-pane",
+      "content_type": "image/webp",
+      "bytes": 22450,
+      "sha256": "4b2c31529661ff8e4983d42bbaa320a1428ec1dfb86667550cc33a0b12bf41ad",
+      "width": 548,
+      "height": 314
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/ing/reference-3.webp",
+      "source_url": "https://ing.com/binaries/content/gallery/images/flyout/flyout-aabout-us-compliance.webp",
+      "source_tag": "img:page-image",
+      "context": "img rounded object-fit-cover Card image div card-img div content-card card feature-card green content-card card feature-card top div col-6 float-end content-right div pills-compliance tab-pane",
+      "content_type": "image/webp",
+      "bytes": 21972,
+      "sha256": "681924b681a1fc205b11240d59275dda33ac54c38e4fd10496d6328a5da053a9",
+      "width": 548,
+      "height": 314
+    }
+  ]
+}

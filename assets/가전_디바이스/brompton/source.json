@@ -1,0 +1,69 @@
+{
+  "company": "Brompton",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.brompton.com",
+  "page_url": "https://www.brompton.com/",
+  "page_title": "Brompton - The Foldable City Bike | Brompton UK",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.brompton.com/_nuxt/css/4be698f.css; reference:ValueError:https://www.brompton.com/_nuxt/473c16a.modern.js; reference:ValueError:https://www.brompton.com/_nuxt/css/828b452.css; reference:ValueError:https://www.brompton.com/_nuxt/fb81fa8.modern.js; reference:ValueError:https://www.brompton.com/_nuxt/css/f55fd54.css; reference:ValueError:https://www.brompton.com/_nuxt/b8ca4bb.modern.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/brompton/favicon.png",
+      "source_url": "https://www.brompton.com/_nuxt/icons/icon_512x512.fbd568.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 63726,
+      "sha256": "549980fe38b54235049be4a29cf63acdcaeec49b0a9fb3833ffbacd95700c829",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/brompton/og.webp",
+      "source_url": "https://dam.brompton.com/filestore/3/9/7/5_acb1484decae80f/5793pre_0ceefdaf6676481.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 52326,
+      "sha256": "0808216b76548e0831eba5ca23bb117ac4ddf6be16f8e8be72a9193edca118e2",
+      "width": 900,
+      "height": 473
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/brompton/logo-1.svg",
+      "source_url": "https://www.brompton.com/icons/brompton-logo-original.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Brompton Logo a br-link header__logo link div header__container header header div header-wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 3572,
+      "sha256": "a20c82dcca2350f6fc450424bf1355c13cde2de895970cc4548259b1b39b8ef8",
+      "width": 149,
+      "height": 37
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/brompton/logo-2.svg",
+      "source_url": "https://www.brompton.com/icons/store-finder.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Stores a br-link desktop-only Store finder div header__icons div header__container header header",
+      "content_type": "image/svg+xml",
+      "bytes": 657,
+      "sha256": "6c89add944fe35fac25c18b2618b31e26b4b7db8ebbf8d17c28538d4f3f8ef4c",
+      "width": 24,
+      "height": 25
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/brompton/banner-1.webp",
+      "source_url": "https://dam.brompton.com/filestore/9/4/7/6/3_b8aeeb030121603/36749_34451e256fb1d97.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img page-hero__desktop-img desktop-only Product Finder Tool div page-hero div div c26543b9-b3eb-4d7c-a186-f6916d66366e content-block div",
+      "content_type": "image/webp",
+      "bytes": 129696,
+      "sha256": "d60f3a8b50eca81dfcdb7748aa4c1d58d5752762b26fe66742100fd654a16198",
+      "width": 1800,
+      "height": 800
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "company": "안랩",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.ahnlab.com/ko",
+  "page_url": "https://www.ahnlab.com/ko",
+  "page_title": "AhnLab",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/ahnlab/favicon.png",
+      "source_url": "https://cloudimg.ccs.ahnlab.com/img_upload/assets/images/ko/favicon_152.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2116,
+      "sha256": "84f394203e8a3a52f557d8bee4e652e440d6cc2124937181e4c0130f601f0ff0",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/ahnlab/og.webp",
+      "source_url": "https://cloudimg.ccs.ahnlab.com/img_upload/assets/images/ko/og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6250,
+      "sha256": "384dead473266fe718f2c0fc23f8d9d6141f1c279e3bc3d7e11201a981fe818a",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/ahnlab/logo-1.svg",
+      "source_url": "https://cloudimg.ccs.ahnlab.com/img_upload/assets/images/ko/logo-ahnlab-black.svg",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 3658,
+      "sha256": "ccdd9bab54289dd48c1e0ec293976d16b8f902d4c7006f0d7630eba9c450d10c",
+      "width": 75,
+      "height": 18
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/ahnlab/logo-2.png",
+      "source_url": "https://www.ahnlab.com/image-proxy?url=https%3A%2F%2Fcloudimg.ccs.ahnlab.com%2Fimg_upload%2Fmain%2F2609100191194391.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img AhnLab AI PLUS 로고 이미지 div figure div swiper-body div swiper-slide link-slide div swiper-wrapper",
+      "content_type": "image/png",
+      "bytes": 564403,
+      "sha256": "ffcc41e61e18eea769c4c96abacaabb8bf271e6203673b6b87ad428c3099f1dc",
+      "width": 1600,
+      "height": 733
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/ahnlab/banner-1.webp",
+      "source_url": "https://www.ahnlab.com/_next/image?url=%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fcloudimg.ccs.ahnlab.com%252Fimg_upload%252Fmain%252Fahn-ai.png&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img AhnLab AI PLUS div cont-area-body div cont-area-inner div cont-area section content ahnlab-ai",
+      "content_type": "image/webp",
+      "bytes": 42834,
+      "sha256": "f060eb581209fd4471ea2332a5ec871f9650cade4e5d750f06e2315c7e4d8368",
+      "width": 1200,
+      "height": 570
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/ahnlab/banner-2.webp",
+      "source_url": "https://www.ahnlab.com/_next/image?url=%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fcloudimg.ccs.ahnlab.com%252Fimg_upload%252Fmain%252Fahn-aiplus-bg-operations.png&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img div bg active section content ahnlab-plus div container-inner main main container main",
+      "content_type": "image/webp",
+      "bytes": 10742,
+      "sha256": "4406e60ee780904929c1c071d211bc56f16db0cb490479a888efb80cdc7b1286",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/ahnlab/banner-2.webp",
+      "source_url": "https://www.ahnlab.com/_next/image?url=%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fcloudimg.ccs.ahnlab.com%252Fimg_upload%252Fmain%252Fahn-aiplus-bg-operations.png&w=2048&q=75",
+      "source_tag": "img:page-image",
+      "context": "img div bg active section content ahnlab-plus div container-inner main main container main",
+      "content_type": "image/webp",
+      "bytes": 10742,
+      "sha256": "4406e60ee780904929c1c071d211bc56f16db0cb490479a888efb80cdc7b1286",
+      "width": 1800,
+      "height": 1013,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/ahnlab/reference-2.webp",
+      "source_url": "https://www.ahnlab.com/_next/image?url=%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fcloudimg.ccs.ahnlab.com%252Fimg_upload%252Fmain%252Fahn-aiplus-bg-endpoint.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img div bg section content ahnlab-plus div container-inner main main container main",
+      "content_type": "image/webp",
+      "bytes": 10736,
+      "sha256": "0cac1a0da147745e9d3c4f09e9a11a3f44c7b2b666ae62df8d7905d79debd34e",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/ahnlab/reference-3.webp",
+      "source_url": "https://www.ahnlab.com/image-proxy?url=https%3A%2F%2Fcloudimg.ccs.ahnlab.com%2Fimg_upload%2Fmain%2F2609100316396335.png",
+      "source_tag": "img:page-image",
+      "context": "img 2026 APAC 엔드포인트 보안 경쟁전략 리더십 어워드 수상 div figure div swiper-body div swiper-slide link-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 24366,
+      "sha256": "5a15b123437431af831349dbcdc6cd65297d861685437f11204ed79ec890edda",
+      "width": 1800,
+      "height": 825
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "company": "경동나비엔",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.kdnavien.co.kr",
+  "page_url": "https://www.kdnavien.co.kr/ko",
+  "page_title": "경동나비엔",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.kdnavien.co.kr/videos/main_cover_video.mp4; banner:ValueError:https://www.kdnavien.co.kr/videos/main_1.mp4; banner:ValueError:https://www.kdnavien.co.kr/videos/main_2.mp4; reference:ValueError:https://www.kdnavien.co.kr/videos/main_cover_video.mp4; reference:ValueError:https://www.kdnavien.co.kr/videos/main_1.mp4; reference:ValueError:https://www.kdnavien.co.kr/videos/main_2.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/kd-navien/favicon.png",
+      "source_url": "https://www.kdnavien.co.kr/images/favicon_192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2732,
+      "sha256": "e31c57e2e91469a93eb8c8c09f5a0620856cdeb2f67b170ae5257dde8b010c9d",
+      "width": 193,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/kd-navien/og.webp",
+      "source_url": "https://www.kdnavien.co.kr/images/og_image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7454,
+      "sha256": "22f72fca6611c0150683d4f78143eb0c86509eddbcd2157215087e3087edb0d9",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/kd-navien/logo-1.svg",
+      "source_url": "https://www.kdnavien.co.kr/images/common/img_header_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 경동나비엔 a h1 logo div inner header header at-top",
+      "content_type": "image/svg+xml",
+      "bytes": 4191,
+      "sha256": "cd77370c0607befdea2a50d4fa5c13d2422d7eda0f48bdd4b6dc40f15de8eb71",
+      "width": 126,
+      "height": 20
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/kd-navien/logo-2.svg",
+      "source_url": "https://www.kdnavien.co.kr/images/common/img_footer_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 경동나비엔 div logo div logo-area div inner footer footer",
+      "content_type": "image/svg+xml",
+      "bytes": 3900,
+      "sha256": "34c495689be8adf7a016f1fdd17e17caa0f94a3c3c875f335913f2e0e036e53b",
+      "width": 113,
+      "height": 18
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/kd-navien/banner-1.webp",
+      "source_url": "https://www.kdnavien.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_esg.webp&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img background-item div slide-background div slide-inner div main-slide-section div content-inner",
+      "content_type": "image/webp",
+      "bytes": 252732,
+      "sha256": "5d0292488081c261d3a62b727a36e2efbe70f91175186f4d027b664a00d72bbc",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/kd-navien/banner-2.webp",
+      "source_url": "https://www.kdnavien.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_esg.webp&w=1920&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img background-item div slide-background div slide-inner div main-slide-section div content-inner",
+      "content_type": "image/webp",
+      "bytes": 271804,
+      "sha256": "f6046724c9514f118f4b1aba0d18e0bedfe3b3c7f20e5573c57dec8a30c30d9b",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/kd-navien/reference-1.webp",
+      "source_url": "https://www.kdnavien.co.kr/_next/image?url=%2Fimages%2Fmain%2Fmain_home_intro.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img div solution-intro-map div solution-intro-inner div main-solution-intro div content-inner",
+      "content_type": "image/webp",
+      "bytes": 141586,
+      "sha256": "7bf34f194f1601740943eb839d060314f5fd24f201bb87d7953248b4b90cbe40",
+      "width": 1800,
+      "height": 1012
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/kd-navien/reference-2.webp",
+      "source_url": "https://www.kdnavien.co.kr/images/main/home1.webp",
+      "source_tag": "img:page-image",
+      "context": "img solution-item-background div solution-main-tab-content active div solution-main-inner div solution-main div",
+      "content_type": "image/webp",
+      "bytes": 122766,
+      "sha256": "c0ee641709039188cb84cb6fdec601598bf94de6d8fdb06bfc71ddcb6d776b39",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/kd-navien/reference-3.webp",
+      "source_url": "https://www.kdnavien.co.kr/images/main/home2.webp",
+      "source_tag": "img:page-image",
+      "context": "img solution-item-background div solution-main-tab-content div solution-main-inner div solution-main div",
+      "content_type": "image/webp",
+      "bytes": 127476,
+      "sha256": "b02cd8159b2a691e8386e12f680087de21e56f8e5a40937a0e0087accddeba46",
+      "width": 1800,
+      "height": 900
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "company": "Wealthfront",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.wealthfront.com/",
+  "page_url": "https://www.wealthfront.com/",
+  "page_title": "Money works better here | Wealthfront",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.wealthfront.com/next/contenthash/next/fonts/calibre/bold/calibre_bold.contenthash.fb1b4948b7493d5ff886f89761e4f4c3e5d2f726.woff2; reference:ValueError:https://www.wealthfront.com/next/contenthash/next/fonts/calibre/regular/calibre_regular.contenthash.96e3b1a24144c297ef23157e8fb82875fabbf07c.woff2; reference:ValueError:https://www.wealthfront.com/_next/static/css/ed6adb05fa9d8764.css; reference:ValueError:https://www.wealthfront.com/_next/static/css/215e5933660a5e8b.css; reference:ValueError:https://www.wealthfront.com/next/contenthash/next/homepage/homepage_smart_investing/screen_aia-1080w.contenthash.81dfd5b6053f1ee386844fb6d4e0962fb3233a37.webp; reference:ValueError:https://www.wealthfront.com/next/contenthash/next/homepage/homepage_smart_investing/screen_aia-828w.contenthash.bd4fd9399eaba6ee577457daf208e710a7afc3f4.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/wealthfront/favicon.ico",
+      "source_url": "https://www.wealthfront.com/next/contenthash/next/favicon.contenthash.c394f02b0401b924e3c401a7c58c15985a137a02.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 3638,
+      "sha256": "2ae3c77a27190188271edae521090268a2abf80beac1965b7b90a67eaa28fdb7",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/wealthfront/og.webp",
+      "source_url": "https://www.wealthfront.com/next/contenthash/next/og/homepage_meta_redesign.contenthash.056eb89e50a9f96ba8dfea6b2961b54c3b2ebc60.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 27524,
+      "sha256": "e2f79dd925ca7f611007f55f2abf7b435126b4e63132b6917d3c51779a451b33",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/wealthfront/logo-1.svg",
+      "source_url": "https://www.wealthfront.com/next/contenthash/next/svg/optimized/wordmark-surface-dark.contenthash.0eff70a79bddf191f2be3b9c62051ae9a9c7619e.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img text-3xl font-bold text-white md:text-eggplant Wealthfront Logo a z-10 relative font-medium underline text-eggplant div grid h-24 grid-cols-header items-center justify-between gap-3 div mx-auto max-w-[2024px] px-0 md:px-12 lg:px-11 xl:p",
+      "content_type": "image/svg+xml",
+      "bytes": 5666,
+      "sha256": "2b1bcd93a7cb84aa98f1b0c1213b9b0c2397197b7cfb37cc424d4d0f09a77ab9",
+      "width": 200,
+      "height": 26
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/wealthfront/logo-2.svg",
+      "source_url": "https://www.wealthfront.com/next/contenthash/next/svg/optimized/wordmark-surface-dynamic.contenthash.d9e2432c7c6d88eabff40bd4374f8be7a9522262.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img text-3xl font-bold text-white md:text-eggplant Wealthfront Logo a z-10 relative font-medium underline text-eggplant div static left-0 right-0 flex items-center justify-between px-4 py-6 md:static div relative z-10 block md:hidden div",
+      "content_type": "image/svg+xml",
+      "bytes": 3156,
+      "sha256": "0fe9d57b69162148662f11d7ea58b6926b1ebfa07031ab7978291356422bc4d9",
+      "width": 154,
+      "height": 20
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/wealthfront/banner-1.svg",
+      "source_url": "https://www.wealthfront.com/next/contenthash/next/svg/optimized/gradient-circles.contenthash.a5c4773517ffabeed9fedc432f61df93881e8037.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute min-w-[2024px] -bottom-[150px] -right-[1000px] sm:bottom-0 lg:-right-[800px] 2xl:-right-[400px] 3xl:left-1/2 3xl:-translate-x-1/2 div div relative overflow-hidden bg-[linear-gradient(90deg,#230B59_20%,#4B18BF_120%)] text-pebble",
+      "content_type": "image/svg+xml",
+      "bytes": 5805,
+      "sha256": "05a166ecbce6a23ddb43bdcb4821b6dc86b35327cabd24da8d4edb3ebc698bc8",
+      "width": 2024,
+      "height": 827,
+      "source_sha256": "74ee9a50b12ecf9ce910f0dd99adaa78c98ad15e59ad10eb4b9587d8c4943d8f"
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/wealthfront/reference-1.webp",
+      "source_url": "https://www.wealthfront.com/next/contenthash/next/homepage/homepage_smart_investing/hero_phone.contenthash.5bbe2db64cc5fd15c5672f4a7e6cbf1974f035ce.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div absolute div relative hidden md:block max-w-[621px] aspect-[621/818] -mb-[28.2%] left-[90px] div grid w-full grid-cols-1 md:grid-cols-2 pb-8 gap-x-2 lg:gap-x-5 2xl:pb-20 div relative mx-auto flex max-w-[500px] md:max-w-[2024px] ",
+      "content_type": "image/webp",
+      "bytes": 47238,
+      "sha256": "e2bdde8bb8d21835e93f8c6a932d318bc06fe26d28bb119e9040630f2208c514",
+      "width": 1162,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/wealthfront/reference-2.webp",
+      "source_url": "https://www.wealthfront.com/next/contenthash/next/homepage/homepage_smart_investing/aia_l_graph.contenthash.f2574e20a0f242c5e3fa8ae630a040cddc382b62.png",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-full object-cover object-center automated investing account graph div absolute left-1/2 w-full h-full -translate-x-1/2 div relative w-full h-full overflow-hidden bg-gradient-to-b from-[#EEEDF9] to-white div h-[300px] overflow-h",
+      "content_type": "image/webp",
+      "bytes": 5302,
+      "sha256": "71f2818fc477671d7b1f6fcb6f0294f35de75b415de1e82594f88c33d4e327f7",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/wealthfront/reference-3.webp",
+      "source_url": "https://www.wealthfront.com/next/contenthash/next/homepage/homepage_smart_investing/screen_aia.contenthash.3a3f403e964d523a70a09a4cf43a782c11df6a30.png",
+      "source_tag": "picture:page-image",
+      "context": "picture div div absolute left-1/2 top-[20px] w-[400px] -translate-x-1/2 div relative w-full h-full overflow-hidden bg-gradient-to-b from-[#EEEDF9] to-white div h-[300px] overflow-hidden bg-white rounded-t-2xl",
+      "content_type": "image/webp",
+      "bytes": 33134,
+      "sha256": "b6724ae450461ee671111944ee19aecdb7bb11c1bb500d644fe658e276354673",
+      "width": 1094,
+      "height": 1350
+    }
+  ]
+}

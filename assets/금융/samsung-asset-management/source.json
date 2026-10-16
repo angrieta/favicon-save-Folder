@@ -1,0 +1,81 @@
+{
+  "company": "삼성자산운용",
+  "category": "금융",
+  "requested_url": "https://www.samsungfund.com/",
+  "page_url": "https://www.samsungfund.com/fund/main.do",
+  "page_title": "삼성펀드 | 삼성자산운용",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1224584154799874&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/samsung-asset-management/favicon.png",
+      "source_url": "https://www.samsungfund.com/assets/icons/icon_fund.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7945,
+      "sha256": "abd8824ca49ec95ad0414d5947d04e0ec444bdbd9feccfb235a539f2306bda03",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/samsung-asset-management/og.webp",
+      "source_url": "https://www.samsungfund.com/assets/media/share_fund.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7226,
+      "sha256": "0ea3b73224379760d57b1143e6cb2eae8c9cbda8e2e634d33ead728ff58dc2fd",
+      "width": 1200,
+      "height": 631
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/samsung-asset-management/logo-1.svg",
+      "source_url": "https://www.samsungfund.com/assets/common/unprotected-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 비보호 아이콘 이미지 div unprotected-img footer footer footer hide div scroll-container div content-container",
+      "content_type": "image/svg+xml",
+      "bytes": 210558,
+      "sha256": "a8b9ee316325e80c961975eb46029a8f0f8478fef758a6d314b24484158082d0",
+      "width": 78,
+      "height": 50
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/samsung-asset-management/reference-1.webp",
+      "source_url": "https://www.samsungfund.com/upload/fund/main/banner/20260928162658389.png",
+      "source_tag": "img:page-image",
+      "context": "img img-content pc.png div v-wrap a div card card--m div card-container",
+      "content_type": "image/webp",
+      "bytes": 32538,
+      "sha256": "fde9a7b3aca4693c73bff4ff41f386e4bf3cd455f18ec9ff74cb5cbe20e94a8c",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/samsung-asset-management/reference-2.webp",
+      "source_url": "https://www.samsungfund.com/upload/fund/main/banner/20260929170646770.png",
+      "source_tag": "img:page-image",
+      "context": "img img-content 2060.png div v-wrap a div card card--s div card-container",
+      "content_type": "image/webp",
+      "bytes": 14950,
+      "sha256": "3955968b643ac4928ccbcda58b36cc5e86a56c32f86a5b16557e42b3259d0261",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/samsung-asset-management/reference-3.webp",
+      "source_url": "https://www.samsungfund.com/upload/fund/main/banner/20260703161753225.png",
+      "source_tag": "img:page-image",
+      "context": "img img-content PC_3 - 복사본.png div v-wrap a div card card--s div card-container",
+      "content_type": "image/webp",
+      "bytes": 18722,
+      "sha256": "54507416ab6aa88b7da9b5912372c5890c8e74ced3c3364efd8cbe87fa5bcfa3",
+      "width": 1000,
+      "height": 1000
+    }
+  ]
+}

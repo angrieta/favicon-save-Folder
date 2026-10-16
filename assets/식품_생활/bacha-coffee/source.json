@@ -1,0 +1,106 @@
+{
+  "company": "Bacha Coffee",
+  "category": "식품_생활",
+  "requested_url": "https://bachacoffee.com/",
+  "page_url": "https://bachacoffee.com/en",
+  "page_title": "Bacha Coffee Online Boutique | Shop Legendary Coffees & Accessories",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://bachacoffee.com/App_Data/Sitefinity/WebsiteTemplate/BachaCoffee/App_Themes/Bacha/fonts/Krub-Medium.woff2; reference:ValueError:https://bachacoffee.com/App_Data/Sitefinity/WebsiteTemplate/BachaCoffee/App_Themes/Bacha/fonts/Krub-Bold.woff2; reference:ValueError:https://bachacoffee.com/App_Data/Sitefinity/WebsiteTemplate/BachaCoffee/App_Themes/Bacha/fonts/Krub-Italic.woff2; reference:ValueError:https://bachacoffee.com/App_Data/Sitefinity/WebsiteTemplate/BachaCoffee/App_Themes/Bacha/fonts/icomoon.woff2; reference:ValueError:https://bachacoffee.com/App_Data/Sitefinity/WebsiteTemplate/BachaCoffee/App_Themes/Bacha/styles/app.min.css?v=1.6.79; reference:ValueError:https://bachacoffee.com/App_Data/Sitefinity/WebsiteTemplate/BachaCoffee/App_JS/app.min.js?v=1.6.79",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/bacha-coffee/favicon.png",
+      "source_url": "https://bachacoffee.com/App_Data/Sitefinity/WebsiteTemplate/BachaCoffee/App_Themes/Bacha/images/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 35529,
+      "sha256": "cd1f3703968ba77ca329bf379f11f6525d6dbfa493056a7bf34e05392d900272",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bacha-coffee/logo-1.png",
+      "source_url": "https://bachacoffee.com/App_Data/Sitefinity/WebsiteTemplate/BachaCoffee/App_Themes/Bacha/images/logo.webp",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a logo div header-top top-here div header-wrapper div container",
+      "content_type": "image/png",
+      "bytes": 25846,
+      "sha256": "cd7412964c2c2d827f094af748f45bb6e9903e78db8404ae9283e428163d7ec5",
+      "width": 147,
+      "height": 194
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bacha-coffee/logo-2.png",
+      "source_url": "https://bachacoffee.com/App_Data/Sitefinity/WebsiteTemplate/BachaCoffee/App_Themes/Bacha/images/logo.png",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture a logo div header-top top-here div header-wrapper div container",
+      "content_type": "image/png",
+      "bytes": 25937,
+      "sha256": "6dcfe83d40ba3a2e4232f584c33b7db394aeda9473f2719479afd7cc0318d39a",
+      "width": 147,
+      "height": 194
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/bacha-coffee/banner-1.webp",
+      "source_url": "https://bachacoffee.com/images/default-source/banner/desktop/bacha-coffee-summer-2026-signature-nomad-banner-desktop-2240x1000.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture discover-coffee__img rectangle-black-img preload-image div section-single-banner discover-coffee__wrapper div discover-coffee div container section section-discover-coffee section-discover-coffee-banner section-coffee-recommender ba",
+      "content_type": "image/webp",
+      "bytes": 221928,
+      "sha256": "28a679578d3e3ab1b188a23670ebe7ef16f0c7ee9f77fdf8f49466f73ba92b67",
+      "width": 1800,
+      "height": 804
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/bacha-coffee/banner-2.webp",
+      "source_url": "https://bachacoffee.com/images/default-source/banner/desktop/bacha-coffee-summer-2026-coffee-bag-gift-box-banner-desktop-2240x1000.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture discover-coffee__img rectangle-black-img preload-image div section-single-banner discover-coffee__wrapper div discover-coffee div container section section-discover-coffee section-discover-coffee-banner section-coffee-recommender ba",
+      "content_type": "image/webp",
+      "bytes": 212738,
+      "sha256": "abe9ebcd8d4aac776f45a33794e875da56039e1334a1b2c0525211142aa3bf7d",
+      "width": 1800,
+      "height": 804
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/bacha-coffee/reference-1.webp",
+      "source_url": "https://bachacoffee.com/images/default-source/banner/mobile/bacha-coffee-summer-2026-signature-nomad-banner-mobile-540x828.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture discover-coffee__img rectangle-black-img preload-image div section-single-banner discover-coffee__wrapper div discover-coffee div container section section-discover-coffee section-discover-coffee-banner section-coffee-recommender ba",
+      "content_type": "image/webp",
+      "bytes": 88492,
+      "sha256": "d0e00ad111b0967ddc72e046ee8d77f81b32a7faa1d3e67a8f7338269848211c",
+      "width": 540,
+      "height": 828
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/bacha-coffee/reference-2.webp",
+      "source_url": "https://bachacoffee.com/images/default-source/banner/mobile/bacha-coffee-summer-2026-coffee-bag-gift-box-banner-mobile-540x828.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture discover-coffee__img rectangle-black-img preload-image div section-single-banner discover-coffee__wrapper div discover-coffee div container section section-discover-coffee section-discover-coffee-banner section-coffee-recommender ba",
+      "content_type": "image/webp",
+      "bytes": 100254,
+      "sha256": "f43192c9448e7b2b0fdf18aa1b75018ba694520ea5dd986f2fc787236dd5feab",
+      "width": 540,
+      "height": 828
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/bacha-coffee/reference-3.webp",
+      "source_url": "https://bachacoffee.com/images/default-source/banner/desktop/bacha-coffee-summer-2026-coffee-finder-banner-desktop-2240x1000.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture discover-coffee__img rectangle-black-img preload-image div section-single-banner discover-coffee__wrapper div discover-coffee div container section section-discover-coffee section-discover-coffee-banner section-coffee-recommender ba",
+      "content_type": "image/webp",
+      "bytes": 164590,
+      "sha256": "d7c84354024947995b16a87a02d42091d6efaa121c059b3b4694e40ba118e62e",
+      "width": 1800,
+      "height": 804
+    }
+  ]
+}

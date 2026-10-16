@@ -1,0 +1,117 @@
+{
+  "company": "Logitech",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.logitech.com/ko-kr",
+  "page_url": "https://www.logitech.com/ko-kr",
+  "page_title": "Logitech 대한민국",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://www.logitech.com/q_auto; banner:HTTPError:https://www.logitech.com/dpr_2.0/d_transparent.gif/content/dam/logitech/en/homepage/delorean-hp/combo-touch-for-ipad-pro-13-inch-in-coffe-shop-1st-tile.jpg; banner:HTTPError:https://www.logitech.com/dpr_2.0/d_transparent.gif/content/dam/logitech/en/homepage/delorean-hp/mx-ergo-s-secondary-tile.jpg; banner:HTTPError:https://www.logitech.com/dpr_2.0/d_transparent.gif/content/dam/logitech/en/planet-and-people/everything-matters/logi-sustainability-blade-labels-matters.png; banner:HTTPError:https://www.logitech.com/dpr_2.0/d_transparent.gif/content/dam/logitech/en/planet-and-people/everything-matters/ogi-sustainability-blade-doing-better-matters.png; banner:HTTPError:https://www.logitech.com/dpr_2.0/d_transparent.gif/content/dam/logitech/en/planet-and-people/everything-matters/logi-sustainability-blade-working-together-matters.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/logitech/favicon.png",
+      "source_url": "https://www.logitech.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3961,
+      "sha256": "bc625f5f8a3f1380f8781fa0fdf8569b8e4603eb5895f6369d49355eaae28a25",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/logitech/og.webp",
+      "source_url": "https://resource.logitech.com/c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/delorean-hp/logitech-global-og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6190,
+      "sha256": "07ff5c40bdd381c9da187d1fa777a2feebd3f9ffae30a87524595a72cb7daa4d",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/logitech/logo-1.png",
+      "source_url": "https://resource.logitech.com/w_115,h_115,ar_1,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/logi/logi-nav/logitech-navigation-mice-mx-master-4.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img scale-75 group-hover:scale-100 마우스 div w-full aspect-square bg-950-100 rounded flex flex-col items-center justify-center text-center group card-media xl:pt-6 svelte-gqw4ct a block 마우스 구매하기 div nav-category div grid gap-x-3 justify-cente",
+      "content_type": "image/png",
+      "bytes": 9414,
+      "sha256": "b32e68e850866572067e9ea7dfd0a45edee80b2d883870454fbbcc2c65e4c40e",
+      "width": 115,
+      "height": 115
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/logitech/logo-2.png",
+      "source_url": "https://resource.logitech.com/w_115,h_115,ar_1,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/navigation/logi/logi-nav/logitech-navigation-keyboards-230-0.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img scale-75 group-hover:scale-100 키보드 div w-full aspect-square bg-950-100 rounded flex flex-col items-center justify-center text-center group card-media xl:pt-6 svelte-gqw4ct a block 키보드 구매하기 div nav-category div grid gap-x-3 justify-cente",
+      "content_type": "image/png",
+      "bytes": 10390,
+      "sha256": "014fd66f74a147e2d627f0fa4553a8bb8aa4b824fc8837dff9ca81b128e407e1",
+      "width": 115,
+      "height": 115
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/logitech/banner-1.webp",
+      "source_url": "https://resource.logitech.com/w_840,ar_16:9,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/banners/background-banner/mobi-fold-launch-banner-video-poster-mobile-1.jpg",
+      "source_tag": "inline-background-image",
+      "context": "section  background-banner bg-image bg-cover bg-center bg-no-repeat relative bg-default-bg svelte-rzyt13 mode-dark has-video --bg-image-url-m: url(https://resource.logitech.com/w_840,ar_16:9,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/co",
+      "content_type": "image/webp",
+      "bytes": 784,
+      "sha256": "2c85412ac8272f319e5b36e53ba28013b6dc34c95f848211d7ef55359d30b670",
+      "width": 840,
+      "height": 473
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/logitech/banner-2.webp",
+      "source_url": "https://resource.logitech.com/w_1240,h_625,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/banners/background-banner/mobi-fold-launch-banner-video-poster-desktop-1.jpg",
+      "source_tag": "inline-background-image",
+      "context": "section  background-banner bg-image bg-cover bg-center bg-no-repeat relative bg-default-bg svelte-rzyt13 mode-dark has-video --bg-image-url-m: url(https://resource.logitech.com/w_840,ar_16:9,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/co",
+      "content_type": "image/webp",
+      "bytes": 13114,
+      "sha256": "e8a36bc382f3c04753428c674d6915a0affbb82f680367703933f8038603f6f4",
+      "width": 1240,
+      "height": 625
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/logitech/reference-1.webp",
+      "source_url": "https://resource.logitech.com/w_1900,h_625,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/banners/background-banner/mobi-fold-launch-banner-video-poster-desktop-1.jpg",
+      "source_tag": "inline-background-image",
+      "context": "section  background-banner bg-image bg-cover bg-center bg-no-repeat relative bg-default-bg svelte-rzyt13 mode-dark has-video --bg-image-url-m: url(https://resource.logitech.com/w_840,ar_16:9,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/co",
+      "content_type": "image/webp",
+      "bytes": 13162,
+      "sha256": "8fa112c8487146729de94c86e14ed7c8d01c83019c93525c61a436bbe5eef039",
+      "width": 1800,
+      "height": 592
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/logitech/reference-2.webp",
+      "source_url": "https://resource.logitech.com/w_1920,h_625,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/banners/background-banner/mobi-fold-launch-banner-video-poster-desktop-1.jpg",
+      "source_tag": "inline-background-image",
+      "context": "video  background-image bg-cover bg-center bg-no-repeat md xl size-full object-cover opacity-100 --bg-image:url(https://resource.logitech.com/w_840,ar_16:9,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bann",
+      "content_type": "image/webp",
+      "bytes": 13502,
+      "sha256": "647e94eb543e6c6fc7013427707e136a6d38016484c3707e187e9687164b84ff",
+      "width": 1800,
+      "height": 586
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/logitech/reference-3.webp",
+      "source_url": "https://resource.logitech.com/w_1240,ar_16:9,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/banners/background-banner/mobi-fold-launch-banner-video-poster-desktop-1.jpg",
+      "source_tag": "inline-background-image",
+      "context": "video  background-image bg-cover bg-center bg-no-repeat md xl size-full object-cover opacity-100 --bg-image:url(https://resource.logitech.com/w_840,ar_16:9,c_fill,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bann",
+      "content_type": "image/webp",
+      "bytes": 14996,
+      "sha256": "faffc2ee6b201e1b14dbf71189b98d5b3c2ccecff8b26fb17c52cfda3e4e955b",
+      "width": 1240,
+      "height": 698
+    }
+  ]
+}

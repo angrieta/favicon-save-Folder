@@ -1,0 +1,82 @@
+{
+  "company": "Walmart",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.walmart.com/",
+  "page_url": "https://www.walmart.com/",
+  "page_title": "Walmart | Save Money. Live better.",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://i5.walmartimages.com/dfw/63fd9f59-2788/472a8a6b-a545-4dec-a839-4c18dbb125be/v1/ESB.woff2; reference:ValueError:https://i5.walmartimages.com/dfw/63fd9f59-2788/472a8a6b-a545-4dec-a839-4c18dbb125be/v1/ES.woff2; reference:ValueError:https://i5.walmartimages.com/dfw/d5139f4b-f268/e5ae2eb2-194c-4e10-ab30-3445258446eb/v2/en-US/_next/static/css/e2b7ba9b973c8473.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/walmart/favicon.ico",
+      "source_url": "https://www.walmart.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "f1b33bcf89cc6bd1250bff866ff90189ac7fa52eda7d0ed3a9a4ed041a6a1260",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/walmart/og.webp",
+      "source_url": "https://i5.walmartimages.com/dfw/63fd9f59-49ff/k2-_52fee322-2e60-452a-bccc-1e847f452a13.v1.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8114,
+      "sha256": "38e4132654334bdea3d3dbcb7ff3436b899e9005f699e091c11d78993eb08d8c",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/walmart/logo-1.svg",
+      "source_url": "https://i5.walmartimages.com/dfw/63fd9f59-b3e1/7a569e53-f29a-4c3d-bfaf-6f7a158bfadd/v1/walmartLogo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 3052,
+      "sha256": "2755f080872c5370e70517d1ec3dbb36b5fb267c571651cdbde70b385be0a45d",
+      "width": 130,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/walmart/logo-2.svg",
+      "source_url": "https://i5.walmartimages.com/dfw/63fd9f59-30b3/629cc93a-dae2-4b74-afd7-faecce345c85/v1/wplus-indigo-rebrand-bug.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img mr2 f5 Walmart+ a dark-gray db f6 no-underline nowrap desktop-header-flyout-link mt3 div logged-out-links-container pa4 div flex flex-row-reverse div absolute bg-white br3 br--bottom left-0 lh-copy mt3 shadow-1 z-1 dn",
+      "content_type": "image/svg+xml",
+      "bytes": 1186,
+      "sha256": "3ad1eb00a9d48aa78fdc1d56bd9445d83f5caebb6802dd8eb26200b74e5952ee",
+      "width": 77,
+      "height": 64,
+      "source_sha256": "de325ec70413f3175d1534240ba6fc6a8fda20ee739d9ffeaab064567fb3d43c"
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/walmart/banner-1.webp",
+      "source_url": "https://i5.walmartimages.com/dfw/4ff9c6c9-6a54/k2-_fb88dd8a-2206-4853-9754-44bcc8861a77.v1.jpg?odnHeight=300&odnWidth=1612&odnBg=&odnDynImageQuality=70",
+      "source_tag": "img:semantic-banner",
+      "context": "img PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-0 w-100 absolute absolute--fill Two images next to each other. One of a round brown accent table & the other of two accent chairs & a coffee table. div w-100 absolute absolute--fill",
+      "content_type": "image/webp",
+      "bytes": 23328,
+      "sha256": "fffb5c6648c0ef41ad3004ad6eba2cb1fc202b82e381b7a5fd152fdc538f3e99",
+      "width": 1612,
+      "height": 300
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/walmart/banner-2.webp",
+      "source_url": "https://i5.walmartimages.com/dfw/4ff9c6c9-246f/k2-_52d30609-34f9-4027-b8f8-f13481f07de2.v2.jpg?odnHeight=300&odnWidth=1612&odnBg=&odnDynImageQuality=70",
+      "source_tag": "img:semantic-banner",
+      "context": "img PrismAdjustableCardCarousel-contentZone3-LYdPCyut-card-3 w-100 absolute absolute--fill 3-panel image of designer dresses, handbags, shoes and outerwear div w-100 absolute absolute--fill br3 overflow-hidden div aspect-ratio--object br3 f",
+      "content_type": "image/webp",
+      "bytes": 17644,
+      "sha256": "ef1116af204648ef2230856f1ee07fce5e5ff801d0af59aa078fc1cde49608db",
+      "width": 1612,
+      "height": 300
+    }
+  ]
+}

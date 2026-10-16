@@ -1,0 +1,97 @@
+{
+  "company": "포스코퓨처엠",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.poscofuturem.com/",
+  "page_url": "https://www.poscofuturem.com/",
+  "page_title": "포스코퓨처엠",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.poscofuturem.com/resources/video/video_02.mp4; banner:ValueError:https://www.poscofuturem.com/resources/video/m_video_02.mp4; reference:ValueError:https://www.poscofuturem.com/resources/video/2025_posco_futureM_PC_Kor.mp4; reference:ValueError:https://www.poscofuturem.com/resources/video/2025_posco_futureM_Mobile_Kor.mp4; reference:ValueError:https://www.poscofuturem.com/resources/video/video_02.mp4; reference:ValueError:https://www.poscofuturem.com/resources/video/m_video_02.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/posco-future-m/favicon.ico",
+      "source_url": "https://www.poscofuturem.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 67646,
+      "sha256": "f561a8017616b171298dddf8547fa9f8605f61e16d04bdd5784328ef84d2f157",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/posco-future-m/logo-1.png",
+      "source_url": "https://www.poscofuturem.com/resources/images/common/footer-logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 포스코퓨처엠 div logo div top div inner footer site-footer",
+      "content_type": "image/png",
+      "bytes": 2381,
+      "sha256": "3a7d16896df727db2b28b5a6a4fa40c6932f74b9f8d28b8fc7e0ab89149290a5",
+      "width": 104,
+      "height": 37
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/posco-future-m/banner-1.webp",
+      "source_url": "https://www.poscofuturem.com/upload/img/202609/20260922o5IyQgntdsHA.png",
+      "source_tag": "inline-background-image",
+      "context": "picture   background-image: url(/upload/img/202609/20260922o5IyQgntdsHA.png);",
+      "content_type": "image/webp",
+      "bytes": 145296,
+      "sha256": "d7d2ce15090199cf3aa6b9f9b04c5697dce3891703d3396c773b79ef5cff1885",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "d3830ec1da249672e09b07d450139c4e04dcfd5f1b1c921dfce9069cac72bb0b"
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/posco-future-m/banner-2.webp",
+      "source_url": "https://www.poscofuturem.com/upload/img/202609/202609220F6OOkFcxT_fp.png",
+      "source_tag": "inline-background-image",
+      "context": "picture   background-image: url(/upload/img/202609/202609220F6OOkFcxT_fp.png);",
+      "content_type": "image/webp",
+      "bytes": 142380,
+      "sha256": "2ea8e3b419d61e37f826d37597a1b59ba50b4c638dff37b32c279754c261e545",
+      "width": 1536,
+      "height": 864,
+      "source_sha256": "52370cb35ec2fea6e1ea7fe8c09a5224b5762eb8556467f1c1addc4399d29496"
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/posco-future-m/reference-1.webp",
+      "source_url": "https://www.poscofuturem.com/resources/images/business/business_top_visual1_m.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg background-image: url(/resources/images/business/business_top_visual1_m.jpg);",
+      "content_type": "image/webp",
+      "bytes": 105006,
+      "sha256": "bf1284a30ea05a57cd1fe8eb8028966b72c9c7dc548a1dd5bcbc472b53764d04",
+      "width": 750,
+      "height": 1334,
+      "source_sha256": "dee7aaf4abcabc2d774b054a68a5efed69adb097d847564cc8fd0d7ca97bc6af"
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/posco-future-m/reference-2.webp",
+      "source_url": "https://www.poscofuturem.com/resources/images/business/business_top_visual3_m.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg background-image: url(/resources/images/business/business_top_visual3_m.jpg);",
+      "content_type": "image/webp",
+      "bytes": 39582,
+      "sha256": "17a9dc2600cdd4e8cea2ce16cd354658641d1f67f01472ccd80a1ce3a3d78af2",
+      "width": 750,
+      "height": 1334
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/posco-future-m/reference-3.webp",
+      "source_url": "https://www.poscofuturem.com/resources/images/main/main_sec_07_img02.png",
+      "source_tag": "inline-background-image",
+      "context": "div  bg background-image: url(/resources/images/main/main_sec_07_img02.png);",
+      "content_type": "image/webp",
+      "bytes": 14950,
+      "sha256": "7327a5db82d1c989c8232d99656801e98c2144636432780fef5e294cb056d297",
+      "width": 390,
+      "height": 518
+    }
+  ]
+}

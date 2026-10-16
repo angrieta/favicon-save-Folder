@@ -1,0 +1,46 @@
+{
+  "company": "Glovo",
+  "category": "유통_커머스",
+  "requested_url": "https://glovoapp.com",
+  "page_url": "https://glovoapp.com/en",
+  "page_title": "Glovo: whatever you order, in minutes! | Glovo",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://glovoapp.com/_next/static/chunks/webpack-14d75a8ce66fef43.js; reference:ValueError:https://web.eu1.cmp.usercentrics.eu/ui/loader.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/glovo/favicon.png",
+      "source_url": "https://glovoapp.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5918,
+      "sha256": "c4a4eef413c50c939951351a809a2c35da2d5b86701f8b03f98f419282fedf22",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/glovo/reference-1.webp",
+      "source_url": "https://glovoapp.com/_next/static/media/burger-full-landing.dfe87a91.png",
+      "source_tag": "img:page-image",
+      "context": "img div AddressAnimation_address-animation__Gr9Sh div HeroContainer_hero-container__content__emHGi div HeroContainer_hero-container__inner__aCNzS section HeroContainer_hero-container__cuk1_",
+      "content_type": "image/webp",
+      "bytes": 29590,
+      "sha256": "260c10d381087c6a5ff5df1b672d2cbc7a543fd6b5813514965b3e0692c1d96e",
+      "width": 452,
+      "height": 405
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/glovo/reference-2.webp",
+      "source_url": "https://glovoapp.com/_next/static/media/download-app-new.2d9bc196.png",
+      "source_tag": "img:page-image",
+      "context": "img DownloadAppContainer_image___bFDz Better with our app section DownloadAppContainer_wrapper__Cqcr2 article main body pintxo-layout-one-panel",
+      "content_type": "image/webp",
+      "bytes": 105978,
+      "sha256": "5e91d2912d8c292d675532f76cbddcc693d89b2372d003e4c6ca166df700c4bf",
+      "width": 800,
+      "height": 881
+    }
+  ]
+}

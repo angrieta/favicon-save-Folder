@@ -1,0 +1,57 @@
+{
+  "company": "코원",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.cowon.com/",
+  "page_url": "https://www.cowon.com/",
+  "page_title": "코원 - The moment is your life",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=539708750465804&ev=PageView&noscript=1; reference:ConnectionError:http://www.cowonshop.com/CT15/ct15_v_3.jpg; reference:ConnectionError:http://www.cowonshop.com/CT15/ct15_v_4.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/cowon/favicon.png",
+      "source_url": "https://www.cowon.com/data/common/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6333,
+      "sha256": "42abdddb424f87b1e5add963a84e8cdc57628990ea0f3be72509d59ec358b8bd",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/cowon/og.webp",
+      "source_url": "https://www.cowon.com/data/common/snsRepresentImage.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21710,
+      "sha256": "a9b24b52885f2fac92a58ec75b4f76f79f1bf78af8943bd6a2b237910fb30689",
+      "width": 800,
+      "height": 420
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/cowon/logo-1.svg",
+      "source_url": "https://cdn-saas-web-116-30.cdn-nhncommerce.com/vcowon_godomall_com/data/cowon/css/cowon_logo_white.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img COWON a div div dp__head__menu div header_desktop bg_k10alpha",
+      "content_type": "image/svg+xml",
+      "bytes": 1884,
+      "sha256": "f130a0cfc830ebe7ef6d59133e123910df1e28876aacf916c3fe0fbb49273c71",
+      "width": 155,
+      "height": 31
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/cowon/banner-1.webp",
+      "source_url": "http://www.cowon.com/data/main/images/20230703_refur_soldout.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div section-title text-center div row div section team dark-bg",
+      "content_type": "image/webp",
+      "bytes": 12526,
+      "sha256": "d5feff3f0b6b65dca9a918a9e72da295052669be72d571260d8571cf110589a2",
+      "width": 896,
+      "height": 300
+    }
+  ]
+}

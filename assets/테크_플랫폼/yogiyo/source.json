@@ -1,0 +1,33 @@
+{
+  "company": "요기요",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.yogiyo.co.kr/",
+  "page_url": "https://www.yogiyo.co.kr/mobile/",
+  "page_title": "요기요",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1041485915908980&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/yogiyo/favicon.png",
+      "source_url": "https://www.yogiyo.co.kr/mobile/image/app_128x128.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 2614,
+      "sha256": "6638463d4e51b1a2b53dae458884767502a9241b433b3b7b4229ad5e8278df0b",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/yogiyo/og.webp",
+      "source_url": "https://www.yogiyo.co.kr/mobile/image/app_img_560x292_v2.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4470,
+      "sha256": "14ea09a62f9858e88c32825fd008c492d5845edea29fbf7269e6e11cfe3713dd",
+      "width": 560,
+      "height": 292
+    }
+  ]
+}

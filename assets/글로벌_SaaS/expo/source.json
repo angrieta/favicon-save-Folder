@@ -1,0 +1,81 @@
+{
+  "company": "Expo",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://expo.dev",
+  "page_url": "https://expo.dev/",
+  "page_title": "Expo — Build native apps with React",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://static.expo.dev/_next/static/chunks/2r52um4qyv0q7.js; reference:ValueError:https://static.expo.dev/static/fonts/fonts.css; reference:ValueError:https://static.expo.dev/static/fonts/inter-latin.woff2; reference:ValueError:https://static.expo.dev/static/fonts/jetbrains-mono-latin.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/expo/favicon.png",
+      "source_url": "https://static.expo.dev/static/brand/app-icon-512x512.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 10218,
+      "sha256": "d841597609d77e3aea871fed26e7c7d568e79bb0e25a6d3cd9a24e48fb6a3adc",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/expo/og.webp",
+      "source_url": "https://static.expo.dev/static/home/2026/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8482,
+      "sha256": "01773074b382b4a5cce8cadd39c68236e1e024cbe4986e9aaa4c91ac8bb6d706",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/expo/logo-1.png",
+      "source_url": "https://expo.dev/static/brand/app-icon-512x512.png",
+      "source_tag": "json-ld.@graph[0].logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 8964,
+      "sha256": "ed25b973079091bdf7393eb793612dd348ef2669c74c9b99294ef4dd94a4a562",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/expo/logo-2.webp",
+      "source_url": "https://expo.dev/_next/image?url=%2Fstatic%2Fimages%2Fservices%2Ficons%2Fjavascript-logo.png&w=256&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img size-full object-cover div absolute flex aspect-square items-center justify-center overflow-hidden rounded-[25%] shadow-[0px_5px_10px_rgba(0,0,0,0.05),0px_15px_25px_rgba(0,0,0,0.12)] div absolute left-1/2 size-0 animate-arc-sweep div as",
+      "content_type": "image/webp",
+      "bytes": 3044,
+      "sha256": "a29d56594fd9735f37ffe01ae0210a632b599da374cb50096ad35ef829cb8423",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/expo/banner-1.webp",
+      "source_url": "https://expo.dev/_next/image?url=https%3A%2F%2Fstatic.expo.dev%2Fstatic%2Fhome%2F2026%2Fcloud%2Fbox-6-mobile.webp&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img size-full object-cover dark:hidden object-bottom div relative w-full md:hidden aspect-177/125 overflow-hidden div w-full relative max-md:w-[calc(100%+4rem)] div flex h-full flex-col items-center overflow-hidden rounded-3xl border border",
+      "content_type": "image/webp",
+      "bytes": 29742,
+      "sha256": "bc1cb037342e23d21895d2f3b2cab59bd98513b020f19609cb4711bc3dad44ef",
+      "width": 1062,
+      "height": 750
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/expo/banner-2.webp",
+      "source_url": "https://expo.dev/_next/image?url=https%3A%2F%2Fstatic.expo.dev%2Fstatic%2Fhome%2F2026%2Fcloud%2Fbox-6-mobile-dark.webp&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img hidden size-full object-cover dark:block object-bottom div relative w-full md:hidden aspect-177/125 overflow-hidden div w-full relative max-md:w-[calc(100%+4rem)] div flex h-full flex-col items-center overflow-hidden rounded-3xl border ",
+      "content_type": "image/webp",
+      "bytes": 28486,
+      "sha256": "1527ff0d2edd5d55b1a3d14c69613f915fb20dd657de2def9f2039636a872ba9",
+      "width": 1062,
+      "height": 750
+    }
+  ]
+}

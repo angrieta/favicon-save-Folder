@@ -1,0 +1,109 @@
+{
+  "company": "The Pokémon Company",
+  "category": "게임_엔터",
+  "requested_url": "https://www.pokemonkorea.co.kr/",
+  "page_url": "https://www.pokemonkorea.co.kr/",
+  "page_title": "포켓몬 공식 사이트",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/pokemon/favicon.ico",
+      "source_url": "https://www.pokemonkorea.co.kr/img/_con.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 103887,
+      "sha256": "5436add06b31812d43e18375ae6824bb513bc34847669c48d9557c775a708c26",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/pokemon/og.webp",
+      "source_url": "https://data1.pokemonkorea.co.kr/2016/06/2016-06-20_00-44-39-61799-1466351079.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 23980,
+      "sha256": "bc816306d0166a2f445159f51c33e13ee0a622297086eae2b083e8765f7fe948",
+      "width": 851,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/pokemon/logo-1.png",
+      "source_url": "https://www.pokemonkorea.co.kr/img/main_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img pokemon a h1 header hd page-pokemon div wrap",
+      "content_type": "image/png",
+      "bytes": 13424,
+      "sha256": "d865157b5e6c8a72992f3382a752b950b7e6e792f006dfd620c953920a05d471",
+      "width": 149,
+      "height": 67
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/pokemon/banner-1.webp",
+      "source_url": "https://data1.pokemonkorea.co.kr/newdata/2026/09/2026-09-28_17-46-45-32491-1790585205.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-100 d-lg-block d-none div swiper-slide slide1 div swiper-wrapper div swiper-container section top main-visual",
+      "content_type": "image/webp",
+      "bytes": 225414,
+      "sha256": "005d970ce465d94e4f6286a064f829cf684cf760a52d2e27d17f042d99380c0b",
+      "width": 1600,
+      "height": 646,
+      "source_sha256": "435f210c0c3073035ef3e27e12e2a907a001d24fd694c3b52fa708221d0c003c"
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/pokemon/banner-2.webp",
+      "source_url": "https://data1.pokemonkorea.co.kr/newdata/2026/09/2026-09-04_15-48-39-22712-1788504519.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-100 d-lg-block d-none div swiper-slide slide1 div swiper-wrapper div swiper-container section top main-visual",
+      "content_type": "image/webp",
+      "bytes": 122144,
+      "sha256": "3d22099d14f01a710f609e204f602e40b4a7ecc94711e9f05115bd971358e0dc",
+      "width": 1600,
+      "height": 646,
+      "source_sha256": "a3ea91824991034afe980929eef11b6998dee9b2e0a580c2540370dc9647c7b7"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/pokemon/reference-1.webp",
+      "source_url": "https://data1.pokemonkorea.co.kr/newdata/2026/09/2026-09-28_17-46-51-41998-1790585211.jpg",
+      "source_tag": "img:page-image",
+      "context": "img w-100 d-lg-none div swiper-slide slide1 div swiper-wrapper div swiper-container section top main-visual",
+      "content_type": "image/webp",
+      "bytes": 190042,
+      "sha256": "bcd78aefce26be30bff0ce483093aca9f9b7620f23feb09fa1c40bd8c51e85e6",
+      "width": 750,
+      "height": 887,
+      "source_sha256": "795d678b9f6fbd2594bdbac108504c5970c180ddc23ec4f4c735026ee951408b"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/pokemon/reference-2.webp",
+      "source_url": "https://data1.pokemonkorea.co.kr/newdata/2026/09/2026-09-04_15-48-28-22772-1788504508.png",
+      "source_tag": "img:page-image",
+      "context": "img w-100 d-lg-none div swiper-slide slide1 div swiper-wrapper div swiper-container section top main-visual",
+      "content_type": "image/webp",
+      "bytes": 178050,
+      "sha256": "342269ccaba5b736f0776386033f0b0ffce032ed7a70df2bd65c442c0d4189b5",
+      "width": 1072,
+      "height": 1350,
+      "source_sha256": "90326608ef163f96f2108328e6c85c9495f1207b8778275b2601013a1bda2312"
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/pokemon/reference-3.webp",
+      "source_url": "https://data1.pokemonkorea.co.kr/newdata/2026/09/2026-09-14_20-06-59-35975-1789384019.png",
+      "source_tag": "img:page-image",
+      "context": "img w-100 d-lg-block d-none div swiper-slide slide1 div swiper-wrapper div swiper-container section top main-visual",
+      "content_type": "image/webp",
+      "bytes": 116680,
+      "sha256": "7b5a1ad576bc95046185def2ed6327b6a4ee744b943753cedce58851584a943e",
+      "width": 1800,
+      "height": 727
+    }
+  ]
+}

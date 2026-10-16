@@ -1,0 +1,58 @@
+{
+  "company": "Love, Bonito",
+  "category": "패션_의류",
+  "requested_url": "https://www.lovebonito.com/",
+  "page_url": "https://www.lovebonito.com/intl",
+  "page_title": "Women's Clothing on Sale Up To 25% | Love, Bonito INTL",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://www.lovebonito.com/intl",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/love-bonito/favicon.png",
+      "source_url": "https://www.lovebonito.com/resources/favicons/512.png?v=3",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 10236,
+      "sha256": "040b7357f88355b3edd027f9a0a8e7c4bf7ed244040c9cf6d0dcf65c34af1729",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/love-bonito/reference-1.webp",
+      "source_url": "https://a.storyblok.com/f/126880/820x1136/06425544cc/homepage-mobile-adapting-820-x-1136.png",
+      "source_tag": "inline-background-image",
+      "context": "div  w-full lg:flex lg:items-center lg:justify-center h-[calc(100vh-40px)] min-h-[calc(100vh-40px)] background-image:url(https://a.storyblok.com/f/126880/820x1136/06425544cc/homepage-mobile-adapting-820-x-1136.png);background-size:cover;bac",
+      "content_type": "image/webp",
+      "bytes": 63142,
+      "sha256": "b76a2ea3682412ba7db95fef30f5b8a00008102b66b3f7224fa0bcdc9bfad4d1",
+      "width": 820,
+      "height": 1136
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/love-bonito/reference-2.webp",
+      "source_url": "https://a.storyblok.com/f/126880/1230x1620/7f2a37eac4/onsite_sep-26_lbannisale_homepage-hero_tier_stills_mobile_intl.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  w-full lg:flex lg:items-center lg:justify-center h-[calc(100vh-40px)] min-h-[calc(100vh-40px)] background-image:url(https://a.storyblok.com/f/126880/1230x1620/7f2a37eac4/onsite_sep-26_lbannisale_homepage-hero_tier_stills_mobile_intl.jp",
+      "content_type": "image/webp",
+      "bytes": 65966,
+      "sha256": "884abe773f39693d69503795524bdf19939cb4aa37063445bdc8d6693645ee1a",
+      "width": 1025,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/love-bonito/reference-3.webp",
+      "source_url": "https://a.storyblok.com/f/126880/820x1080/ddb4e95469/_tops.jpg/m/800x0/filters:no_upscale(),format(webp)",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-[calc(50vh-60px)] min-h-[calc(50vh-60px)] object-cover lg:h-[calc(100vh-120px)] lg:min-h-[calc(100vh-120px)] filters:no_upscale(),format(webp) div w-full div relative a div",
+      "content_type": "image/webp",
+      "bytes": 24588,
+      "sha256": "20569a10b22af2d32c26d8fa32c7866bd3f9873308fa3a821fd22162348b9b2b",
+      "width": 800,
+      "height": 1054
+    }
+  ]
+}

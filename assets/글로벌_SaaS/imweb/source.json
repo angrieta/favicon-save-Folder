@@ -1,0 +1,82 @@
+{
+  "company": "아임웹",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://imweb.me/",
+  "page_url": "https://imweb.me/",
+  "page_title": "아임웹",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1300116850041141&ev=PageView&noscript=1; reference:ValueError:https://static-v2.imweb.me/io/home/growth-graph-video.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/imweb/favicon.png",
+      "source_url": "https://vendor-cdn.imweb.me/images/main/imweb-2309-favicon-192x192.png?v1",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3292,
+      "sha256": "8613bdaf2cc9c02a246acf27daea16833e891c6a9955310f383a98305aa81122",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/imweb/og.webp",
+      "source_url": "https://vendor-cdn.imweb.me/images/main/imweb_2409_og_logo.png?v1",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5430,
+      "sha256": "e19212d88fe29930a517b6954b3e1f583c0d581558fa95a020f456aaba8550df",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/imweb/logo-1.svg",
+      "source_url": "https://static-v2.imweb.me/io/images/imweb_symbol_logo_large.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Imweb Logo div flex items-center gap-clay-050 mb-clay-150 div flex flex-col relative w-full p-clay-200 rounded-clay-xl bg-clay-surface outline-solid outline-1 outline-clay-border-minimal hover:outline-2 [&.focus]:outline-2 [&.focus]:out",
+      "content_type": "image/svg+xml",
+      "bytes": 1662,
+      "sha256": "d160c67b7d8261ce9d74eedf8a98db22090aa6a87bd954e48a1e08bdfa5e12b1",
+      "width": 20,
+      "height": 20,
+      "source_sha256": "8d1304b6b1b11de9f2d74c48409d5924e64bab165c10b7f277b54db5846b690e"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/imweb/banner-1.webp",
+      "source_url": "https://static-v2.imweb.me/io/home/brand-eolleungtangtang.png",
+      "source_tag": "inline-background-image",
+      "context": "div  bg-cover bg-center bg-no-repeat rounded-[8px] transition-[width,height] duration-1000 ease-[cubic-bezier(0.25,0.46,0.45,0.94)] will-change-[width,height] w-[800px] h-[480px] max-[1919px]:w-[600px] max-[1919px]:h-[360px] max-[991px]:w-[",
+      "content_type": "image/webp",
+      "bytes": 58820,
+      "sha256": "2c65976b2b676af08cd600d172506f213b3917d01727426dfa58b54b43b07e40",
+      "width": 800,
+      "height": 480
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/imweb/banner-2.webp",
+      "source_url": "https://static-v2.imweb.me/io/home/brand-gongyeosadeul.png",
+      "source_tag": "inline-background-image",
+      "context": "div  bg-cover bg-center bg-no-repeat rounded-[8px] transition-[width,height] duration-1000 ease-[cubic-bezier(0.25,0.46,0.45,0.94)] will-change-[width,height] w-[400px] h-[240px] max-[1919px]:w-[300px] max-[1919px]:h-[180px] max-[991px]:w-[",
+      "content_type": "image/webp",
+      "bytes": 45174,
+      "sha256": "b5a25ba6fdf4d92c46d1d6f6791b287f108ef6b2d0886dd5bae4f3a1772082b9",
+      "width": 800,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/imweb/reference-1.webp",
+      "source_url": "https://static-v2.imweb.me/io/home/brand-concrete-bread.png",
+      "source_tag": "inline-background-image",
+      "context": "div  bg-cover bg-center bg-no-repeat rounded-[8px] transition-[width,height] duration-1000 ease-[cubic-bezier(0.25,0.46,0.45,0.94)] will-change-[width,height] w-[400px] h-[240px] max-[1919px]:w-[300px] max-[1919px]:h-[180px] max-[991px]:w-[",
+      "content_type": "image/webp",
+      "bytes": 14600,
+      "sha256": "e223fe0f84a9ca8e54cc6d9b2892e34351359040d867bb326c18ea7d16c1c929",
+      "width": 800,
+      "height": 480
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "company": "Givenchy",
+  "category": "패션_의류",
+  "requested_url": "https://www.givenchy.com/int/ko/homepage",
+  "page_url": "https://www.givenchy.com/int/ko/homepage",
+  "page_title": "지방시 공식 사이트 : 럭셔리 가방, 기성복, 신발",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://www.givenchy.com/fr/it/ck-static/logo-givenchi.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/givenchy/favicon.png",
+      "source_url": "https://www.givenchy.com/favicon-196x196.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5080,
+      "sha256": "53f393a1ff9daffefd108ea1621f08662d254e266e95d7ab0289b8d03ba9d76d",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/givenchy/logo-1.webp",
+      "source_url": "https://www.givenchy.com/coremedia/resource/blob/2167762/c3c938dffe614c34785c0a5c939abaa6/reduced-givenchy-fw26-women-campaign-16x9-no-logo-7-data.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img cm-media lazyload reduced_GIVENCHY_FW26_WOMEN_CAMPAIGN_16x9_NO-LOGO_7 div cm-media-container parallax-item__picture-box shimmer gradient div parallax-item__media a parallax-item__link-media desktop div parallax-item__content video",
+      "content_type": "image/webp",
+      "bytes": 522808,
+      "sha256": "43217913115c7e9478b5c6f3d8382d7e8c6fd8b9568848cfc6583bc45ace88f3",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/givenchy/logo-1.webp",
+      "source_url": "https://www.givenchy.com/coremedia/resource/blob/2167762/c3c938dffe614c34785c0a5c939abaa6/reduced-givenchy-fw26-women-campaign-16x9-no-logo-7-data.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img cm-media lazyload reduced_GIVENCHY_FW26_WOMEN_CAMPAIGN_16x9_NO-LOGO_7 div cm-media-container parallax-item__picture-box shimmer gradient div parallax-item__media a parallax-item__link-media desktop div parallax-item__content video",
+      "content_type": "image/webp",
+      "bytes": 522808,
+      "sha256": "43217913115c7e9478b5c6f3d8382d7e8c6fd8b9568848cfc6583bc45ace88f3",
+      "width": 1600,
+      "height": 900,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/givenchy/reference-1.webp",
+      "source_url": "https://www.givenchy.com/on/demandware.static/-/Sites-Givenchy_storefront/default/dw46d10e4f/Thumbails%204x5/FW26-SHARK-PINCH.jpg",
+      "source_tag": "img:page-image",
+      "context": "img thumbnail-nav-media-item lazyload a level-3 thumbnail-image shimmer gradient div level-3 div category-thumbnails two-items div breakpoint-down-lg-only",
+      "content_type": "image/webp",
+      "bytes": 243496,
+      "sha256": "86b5129678acc675112d477aec3a5a676996087f9787894314f3b49bdff623ea",
+      "width": 1080,
+      "height": 1350,
+      "source_sha256": "3e42157caab74f4e6f27185ec288ea07015ac6445f6f5ff3f3622cb24557dfef"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/givenchy/reference-2.webp",
+      "source_url": "https://www.givenchy.com/on/demandware.static/-/Sites-Givenchy_storefront/default/dwbacb42e8/Thumbails%204x5/FW26-DENIM.jpg",
+      "source_tag": "img:page-image",
+      "context": "img thumbnail-nav-media-item lazyload a level-3 thumbnail-image shimmer gradient div level-3 div category-thumbnails two-items div breakpoint-down-lg-only",
+      "content_type": "image/webp",
+      "bytes": 234322,
+      "sha256": "6918088367c9ee993e12c43ee3c0b86cd66f809be52454e6dd9e66cd9c232958",
+      "width": 1080,
+      "height": 1350,
+      "source_sha256": "96fc1c4c508d7041cccb2df701b81f44d986c9f84dda15fcabd2d8541ae80168"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/givenchy/reference-3.webp",
+      "source_url": "https://www.givenchy.com/on/demandware.static/-/Sites-Givenchy_storefront/default/dwaf3986a8/Thumbails%204x5/GIVENCHY_FW26_WOMEN_CAMPAIGN_4x5_NO%20LOGO_14.jpg",
+      "source_tag": "img:page-image",
+      "context": "img thumbnail-nav-media-item lazyload a level-3 thumbnail-image shimmer gradient div level-3 div category-thumbnails two-items div breakpoint-down-lg-only",
+      "content_type": "image/webp",
+      "bytes": 338368,
+      "sha256": "e5a936dafffbd2053f97b254eb4d0040da47e74537d36261e0d68ba264e5e28c",
+      "width": 1080,
+      "height": 1350,
+      "source_sha256": "b6ed9ed8a9fa48aaad2c8322728889932a44da62b42bf526c024895896b8abf6"
+    }
+  ]
+}

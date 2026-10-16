@@ -1,0 +1,93 @@
+{
+  "company": "블로터",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.bloter.net/",
+  "page_url": "https://www.bloter.net/",
+  "page_title": "블로터 - 편견없는 경제뉴스, 몰입하는 자본시장 정보",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/bloter/favicon.ico",
+      "source_url": "https://cdn.bloter.net/image/logo/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 9662,
+      "sha256": "8ba78f1a10aae12794dafd79635d633a8795934c83ec5329c450549cbaa7ee4d",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/bloter/og.webp",
+      "source_url": "https://www.bloter.net/image/logo/snslogo_20240118025249.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1316,
+      "sha256": "b1427bcbb3f76ce846cf9d6cf9a05cc366c9de6a87dfdf2c13d8d9eb3c69ac57",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/bloter/logo-1.png",
+      "source_url": "https://cdn.bloter.net/image/logo/toplogo_20260108052705.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 블로터 a h1 user-logo div mode-inner header nav-header",
+      "content_type": "image/png",
+      "bytes": 10413,
+      "sha256": "049c538284f9ba2bc5d0d1c41cb5f45ecb35926853f52c7b848058efde75c13a",
+      "width": 369,
+      "height": 60
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/bloter/logo-2.png",
+      "source_url": "https://cdn.bloter.net/image/logo/watermark_20240118025249.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 블로터 div cells logo article footer-copy width-1080 footer user-footer type-c1 div user-wrap min-width-1080",
+      "content_type": "image/png",
+      "bytes": 2148,
+      "sha256": "9ceab99b9a6c163cb04102e5e37be0da1d0395d705fa74f9b9b262b6cacb2f25",
+      "width": 170,
+      "height": 33
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/bloter/reference-1.webp",
+      "source_url": "https://cdn.bloter.net/news/thumbnail/custom/20260929/674618_288346_828_1790662108_570.jpg",
+      "source_tag": "inline-background-image",
+      "context": "em  auto-images background-image:url(https://cdn.bloter.net/news/thumbnail/custom/20260929/674618_288346_828_1790662108_570.jpg)",
+      "content_type": "image/webp",
+      "bytes": 15278,
+      "sha256": "d1b9eb8e99abc5e06988176b93b9162a9b8e0f10c61d2a2ba44999f886c62589",
+      "width": 570,
+      "height": 321
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/bloter/reference-2.webp",
+      "source_url": "https://cdn.bloter.net/news/thumbnail/custom/20260929/674464_288176_1748_1790522268_570.jpg",
+      "source_tag": "inline-background-image",
+      "context": "em  auto-images background-image:url(https://cdn.bloter.net/news/thumbnail/custom/20260929/674464_288176_1748_1790522268_570.jpg)",
+      "content_type": "image/webp",
+      "bytes": 5044,
+      "sha256": "b79178640af23b68ed530a326104315e39d4b40b8b267d7d08af3eea823703ec",
+      "width": 570,
+      "height": 321
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/bloter/reference-3.webp",
+      "source_url": "https://cdn.bloter.net/news/thumbnail/custom/20260929/674666_288380_3039_1790670639_496.jpg",
+      "source_tag": "inline-background-image",
+      "context": "em  auto-images background-image:url(https://cdn.bloter.net/news/thumbnail/custom/20260929/674666_288380_3039_1790670639_496.jpg)",
+      "content_type": "image/webp",
+      "bytes": 30196,
+      "sha256": "f5f862ceb8ce5b6adeaff3156742b3893783e8a498c91a237a7f5ba7792cd54d",
+      "width": 496,
+      "height": 450
+    }
+  ]
+}

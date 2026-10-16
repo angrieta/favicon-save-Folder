@@ -1,0 +1,45 @@
+{
+  "company": "Northrop Grumman",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.northropgrumman.com/",
+  "page_url": "https://www.northropgrumman.com/",
+  "page_title": "Home | Northrop Grumman",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.northropgrumman.com/_next/static/css/6903e5343ac6227a.css?dpl=dpl_3aEJnkZ1WAkc8ipdSbw4TCHN74JT; reference:ValueError:https://www.northropgrumman.com/_next/static/css/f59b5155fa64c2c4.css?dpl=dpl_3aEJnkZ1WAkc8ipdSbw4TCHN74JT",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/northrop-grumman/favicon.ico",
+      "source_url": "https://www.northropgrumman.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "93e30c726b16da06ba9208e991bf0c41ad579265926cdab5bfd626d897a0103d",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/northrop-grumman/og.webp",
+      "source_url": "https://media.northropgrumman.com/04c448b8-6a27-45bf-afe0-b38500241e23/B-21-Raider-facebook_Original%20file.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 18466,
+      "sha256": "19a746fa806813c95fa801e52fba2c3313d6e26ebfc7ed95d5cbc993951d99f2",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/northrop-grumman/logo-1.png",
+      "source_url": "https://cdn.northropgrumman.com/-/media/wp-content/uploads/2019/12/NGC-logo-white-on-clear.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 2695,
+      "sha256": "a191e7935bc15585bad35b2fc973e21f0b11761795fab6977fc8ac0cfd4495d1",
+      "width": 228,
+      "height": 52
+    }
+  ]
+}

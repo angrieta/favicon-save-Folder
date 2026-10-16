@@ -1,0 +1,118 @@
+{
+  "company": "예스24",
+  "category": "유통_커머스",
+  "requested_url": "https://www.yes24.com",
+  "page_url": "https://www.yes24.com/Main/default.aspx",
+  "page_title": "예스24",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/yes24/favicon.ico",
+      "source_url": "https://image.yes24.com/sysimage/renew/gnb/favicon_n.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "6bf47b7e8f9ade7dc942b53ea7121a1e040065b820d027996506315b10495ce0",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/yes24/og.webp",
+      "source_url": "https://image.yes24.com/sysimage/renew/og_YES24.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 15124,
+      "sha256": "7079ae544f6cb136b66115a928305011a25add8c57ef6b94346c58c67783980d",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/yes24/og.webp",
+      "source_url": "https://image.yes24.com/sysimage/renew/og_YES24.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 15124,
+      "sha256": "7079ae544f6cb136b66115a928305011a25add8c57ef6b94346c58c67783980d",
+      "width": 1200,
+      "height": 1200,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/yes24/logo-2.png",
+      "source_url": "https://image.yes24.com/images/00_Event/2026/logoPlay/0928/ani_logo_PC_Hangeul.gif?v=20260929",
+      "source_tag": "img:semantic-logo",
+      "context": "img YES24 a logo h1 div yHeader div yesHeaderArea",
+      "content_type": "image/png",
+      "bytes": 3699,
+      "sha256": "a6cee902738921c953276a6d714d6a33879ecb3d3c00d11207e703cad58b0aa1",
+      "width": 400,
+      "height": 206
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/yes24/banner-1.webp",
+      "source_url": "https://image.yes24.com/images/01_Banner/welcome/BigBn/YES24_Banner_PC_Big_used_200323_10_959x421.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img lazy 중고샵 할인혜택 a div mCont mbnTp1_1 div mbnRollUnit div mbnRoll_018 mbnRoll rollCnt6",
+      "content_type": "image/webp",
+      "bytes": 15348,
+      "sha256": "c49ed00b6015dfcf3d4a1a4b12ca0b03e2ce83de5bd66f8b605fdddbd2c5d315",
+      "width": 959,
+      "height": 421
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/yes24/banner-2.webp",
+      "source_url": "https://image.yes24.com/images/01_Banner/music/2026/09/big_wel_ADP_0928.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img lazy ADP 럭드 a div mCont mbnTp1_1 div mbnRollUnit div mbnRoll_003 mbnRoll rollCnt6",
+      "content_type": "image/webp",
+      "bytes": 12338,
+      "sha256": "b0f837dff9f05da4970b8e32e80b87055d92e256fe3e1fcb3e49e61f4412c941",
+      "width": 959,
+      "height": 421
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/yes24/reference-1.webp",
+      "source_url": "https://image.yes24.com/images/01_Banner/quickCate/2024/qBook_0625.png",
+      "source_tag": "img:page-image",
+      "context": "img ImgQuickCateBook 오직,예스24에서만 div bnImg div qCateSubCon div quickCateSub_001 quickCateSub li quickCate_dept1",
+      "content_type": "image/webp",
+      "bytes": 15880,
+      "sha256": "933971b5bf235e4fb47a59833d85e2bcf92edfac7567dfe1b8cddc4c0aa4a20a",
+      "width": 794,
+      "height": 716
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/yes24/reference-2.webp",
+      "source_url": "https://image.yes24.com/images/00_Event/2026/0918Hangeul/bn_959x421.jpg",
+      "source_tag": "inline-background-image",
+      "context": "span  mContBg background-image:url('https://image.yes24.com/images/00_Event/2026/0918Hangeul/bn_959x421.jpg');",
+      "content_type": "image/webp",
+      "bytes": 23750,
+      "sha256": "b484dc0b984ddd9c198894b9f3012c5ab785864ef7717008caf4763862e50dff",
+      "width": 959,
+      "height": 421
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/yes24/reference-3.webp",
+      "source_url": "https://image.yes24.com/images/00_Event/2026/0824Crema/bn_959x421_2.jpg",
+      "source_tag": "inline-background-image",
+      "context": "span  mContBg background-image:url('https://image.yes24.com/images/00_Event/2026/0824Crema/bn_959x421_2.jpg');",
+      "content_type": "image/webp",
+      "bytes": 29628,
+      "sha256": "566078a43949fad7d95ebc228c71f8aaa89ddc7f5b15355de8f1abd06474c509",
+      "width": 959,
+      "height": 421
+    }
+  ]
+}

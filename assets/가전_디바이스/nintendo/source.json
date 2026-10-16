@@ -1,0 +1,33 @@
+{
+  "company": "Nintendo",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.nintendo.com/kr/",
+  "page_url": "https://www.nintendo.com/kr/",
+  "page_title": "Nintendo",
+  "collection_status": "partial",
+  "collection_error": "banner:SSLError:https://gtp13.acecounter.com:8080/?uid=AH3A39994163732&je=n&; reference:SSLError:https://gtp13.acecounter.com:8080/?uid=AH3A39994163732&je=n&",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/nintendo/favicon.ico",
+      "source_url": "https://www.nintendo.com/kr/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 318,
+      "sha256": "26d3cdb4cac094635ae9f52dd8fd4f93111213012ee1ea690f81cf7c3d96c160",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/nintendo/og.webp",
+      "source_url": "https://www.nintendo.co.kr/sns.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1382,
+      "sha256": "29e3d371656c5fc09a768eee71a88ebd743477071caa9025b2f72ddf606ce195",
+      "width": 276,
+      "height": 160
+    }
+  ]
+}

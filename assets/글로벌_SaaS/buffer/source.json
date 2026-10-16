@@ -1,0 +1,58 @@
+{
+  "company": "Buffer",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://buffer.com/",
+  "page_url": "https://buffer.com/",
+  "page_title": "Buffer: Social media management for everyone",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://buffer.com/format=auto/img/homepage/integration-tiles/claude.webp; reference:HTTPError:https://buffer.com/format=auto/img/homepage/integration-tiles/onedrive.webp; reference:HTTPError:https://buffer.com/format=auto/img/homepage/integration-tiles/google-drive.webp; reference:HTTPError:https://buffer.com/format=auto/img/homepage/integration-tiles/dropbox.webp; reference:HTTPError:https://buffer.com/format=auto/img/homepage/integration-tiles/cursor.webp; reference:HTTPError:https://buffer.com/format=auto/img/homepage/integration-tiles/chatgpt.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/buffer/favicon.png",
+      "source_url": "https://buffer.com/icons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5740,
+      "sha256": "9e25f0b82e8de48ff38c3092fe7fcff9a965c08e454503d6cf467c8a48c4103f",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "0fd7586b79470eb68b47fecd24bce5fb3281b80624eb7f8be4a0180f1d5183d2"
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/buffer/og.webp",
+      "source_url": "https://buffer.com/ogImages/homepage-og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 30400,
+      "sha256": "249562fdb23474705ac0d8fe15ea870899cd46eafca3da80ceca39587dececc7",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/buffer/logo-1.png",
+      "source_url": "https://buffer.com/img/logos/buffer-logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 21779,
+      "sha256": "026abb11b2be3d2d4ce3dc6a3aa4f6c92024c0bcb60f24db70adf6a6b79c1bbf",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/buffer/logo-2.png",
+      "source_url": "https://buffer.com/cdn-cgi/image/width=828,quality=75,format=auto/img/homepage/social-proof-logos/metallica.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img SocialProofLogosSection_logoImage__UJ9j5 Metallica li SocialProofLogosSection_logo__KnusU ul SocialProofLogosSection_group__IKM4_ div SocialProofLogosSection_track__kEmel div SocialProofLogosSection_marquee__MZPEa",
+      "content_type": "image/png",
+      "bytes": 44246,
+      "sha256": "7850a923d121b1bb82f6a0facb36f90d50972ef6f004b104819c6abe86230316",
+      "width": 410,
+      "height": 140
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "company": "Bolt",
+  "category": "AI_서비스",
+  "requested_url": "https://bolt.new",
+  "page_url": "https://bolt.new/",
+  "page_title": "Bolt AI builder: Websites, apps & prototypes",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://bolt.new/bolt-logo.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/bolt/favicon.png",
+      "source_url": "https://bolt.new/static/favicon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2818,
+      "sha256": "d317d43b43cf458c400420a111b3728caf72a501ed3fa4c87002da780a41a04d",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/bolt/og.webp",
+      "source_url": "https://bolt.new/static/social_preview_index.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13712,
+      "sha256": "437c6ac34ed05ead4ae4312718d94c75bab2f1069c906caf85253bc9e48e7855",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/bolt/banner-1.svg",
+      "source_url": "https://bolt.new/static/marketing/homepage/personas/pm.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full mt-auto h-[180px] sm:h-[250px] object-cover object-top xl:h-[290px] div flex w-full min-h-[300px] lg:min-h-auto bg-slate-11 border border-white/10 rounded-xl overflow-hidden md:rounded-tl-3xl lg:col-span-2 flex-col gap-4 div grid",
+      "content_type": "image/svg+xml",
+      "bytes": 70157,
+      "sha256": "c248becdcf7dc7fb62b73b46f24eda7d80b5bfb42516daa87a39d7ca1390ee6e",
+      "width": 669,
+      "height": 443
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/bolt/banner-2.svg",
+      "source_url": "https://bolt.new/static/marketing/homepage/personas/entrepreneurs.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full mt-auto h-[180px] sm:h-[250px] object-cover object-top xl:h-[290px] div flex w-full min-h-[300px] lg:min-h-auto bg-slate-11 border border-white/10 rounded-xl overflow-hidden lg:rounded-tr-xl lg:col-span-2 md:rounded-tr-3xl flex-c",
+      "content_type": "image/svg+xml",
+      "bytes": 57009,
+      "sha256": "87b164bb67725fbeca97a95475c9ac51db7596bb8833f72897853cf58913b8eb",
+      "width": 669,
+      "height": 443
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/bolt/reference-1.webp",
+      "source_url": "https://bolt.new/static/marketing/homepage/value/build-without-breaking.png",
+      "source_tag": "img:page-image",
+      "context": "img h-auto w-auto div bg-bolt-ds-bgSecondary rounded-2xl border border-bolt-ds-borderPrimary md:col-span-3 lg:col-span-1 div grid grid-cols-1 md:grid-cols-3 lg:grid-cols-2 gap-2 div relative z-10 max-w-6xl mx-auto px-4 sm:px-6 section relat",
+      "content_type": "image/webp",
+      "bytes": 6478,
+      "sha256": "83acb8258caf733d97d9bade3307ac7e295f63daa3fdeb90a608d6b1f434eb04",
+      "width": 1004,
+      "height": 330
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/bolt/reference-2.webp",
+      "source_url": "https://bolt.new/static/marketing/homepage/features/graph.png",
+      "source_tag": "img:page-image",
+      "context": "img absolute left-0 w-full h-auto -bottom-18 sm:bottom-0 sm:h-full object-bottom md:object-top lg:h-auto div relative flex flex-col col-span-1 row-span-1 sm:row-span-2 bg-slate-10 border border-white/10 rounded-xl overflow-hidden p-4 sm:p-6",
+      "content_type": "image/webp",
+      "bytes": 35384,
+      "sha256": "08c55963808f7190b13f3b91dfd42f16f2cdac962d6a952c28b7e38224cdc8b0",
+      "width": 463,
+      "height": 563
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/bolt/reference-3.svg",
+      "source_url": "https://bolt.new/static/marketing/homepage/features/auth.svg",
+      "source_tag": "img:page-image",
+      "context": "img absolute left-0 w-full h-auto object-cover md:h-full -bottom-20 lg:bottom-0 div relative flex flex-col col-span-1 row-span-1 bg-slate-10 border border-white/10 rounded-xl overflow-hidden p-4 sm:p-6 sm:row-span-4 sm:col-span-3 md:col-spa",
+      "content_type": "image/svg+xml",
+      "bytes": 9014,
+      "sha256": "f211c244d698cb46e3f948b30dd3c465af143f14038ee1fc321a97192a5314b4",
+      "width": 418,
+      "height": 470
+    }
+  ]
+}

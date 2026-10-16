@@ -1,0 +1,83 @@
+{
+  "company": "디스커버리 익스페디션",
+  "category": "패션_의류",
+  "requested_url": "https://www.discovery-expedition.com",
+  "page_url": "https://www.discovery-expedition.com/",
+  "page_title": "디스커버리 익스페디션 공식 온라인몰 - 라이프스타일 아웃도어 브랜드",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/discovery-expedition/favicon.png",
+      "source_url": "https://www.discovery-expedition.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 19224,
+      "sha256": "6f46eb9d67b65ff09d1aebefe9c06b09644dd6f1984d93b7138b96a6757453ed",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "8d143632d98ca58d9ed89ac065780c3b78a678d6cc12d04b4dc28f665877bdcd"
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/discovery-expedition/og.webp",
+      "source_url": "https://static-resource.discovery-expedition.com/images/display/content/DX-OG.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4964,
+      "sha256": "17b741b8c3f663ac47b5f39cc5b693c99c16774bc12476c98872845b985f913f",
+      "width": 500,
+      "height": 279
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/discovery-expedition/og.webp",
+      "source_url": "https://static-resource.discovery-expedition.com/images/display/content/DX-OG.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 4964,
+      "sha256": "17b741b8c3f663ac47b5f39cc5b693c99c16774bc12476c98872845b985f913f",
+      "width": 500,
+      "height": 279,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/discovery-expedition/reference-1.webp",
+      "source_url": "https://cdn-onlinemall.discovery-expedition.com/cdn-cgi/image/q=75,format=auto,fit=scale-down,onerror=redirect/images/DXM-336bfa45fce54ce8affcc7a2a4c7f33e.jpg",
+      "source_tag": "img:page-image",
+      "context": "img css-1ofo6sr Discover<br>My Active Wellness div css-1st0h7x a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 70546,
+      "sha256": "61158afdd6fd735d94698f8ab7faed25b5b644a64221b05c625b8275f3d835fd",
+      "width": 660,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/discovery-expedition/reference-2.webp",
+      "source_url": "https://cdn-onlinemall.discovery-expedition.com/cdn-cgi/image/q=75,format=auto,fit=scale-down,onerror=redirect/images/DXM-586952c8134947ce988c1166948755e9.jpg",
+      "source_tag": "img:page-image",
+      "context": "img css-1ofo6sr LIGHT TO WEAR<br>WARM TO MOVE div css-1st0h7x a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 55732,
+      "sha256": "ffd3798f43e94afaf8ac4f301ebd63636c005755b429ab749cf10c0f1a8408f9",
+      "width": 660,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/discovery-expedition/reference-3.webp",
+      "source_url": "https://cdn-onlinemall.discovery-expedition.com/cdn-cgi/image/q=75,format=auto,fit=scale-down,onerror=redirect/images/DXM-2e5c0080be434b8c92c80354b805e59f.jpg",
+      "source_tag": "img:page-image",
+      "context": "img css-1ofo6sr EVERYDAY<br>TRAINING SET-UP div css-1st0h7x a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 29044,
+      "sha256": "48d5aa7816289119467b15c1392b4af2021c13ba71bac22b5e2be4742bcc6de3",
+      "width": 660,
+      "height": 1350
+    }
+  ]
+}

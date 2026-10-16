@@ -1,0 +1,33 @@
+{
+  "company": "카시나",
+  "category": "유통_커머스",
+  "requested_url": "https://www.kasina.co.kr/",
+  "page_url": "https://www.kasina.co.kr/",
+  "page_title": "카시나 (Kasina)",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://static.kasina-store.com/_next/static/css/747a7485d556dbb5.css; reference:ValueError:https://static.kasina-store.com/_next/static/css/086f5c357289be4f.css; reference:ValueError:https://static.kasina-store.com/_next/static/css/3dd81c0e18a02d8d.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/kasina/favicon.ico",
+      "source_url": "https://www.kasina.co.kr/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "ec9b2a4818e15265d132bef942ded524a7d8711be9b4d8d89bd14de24ba1745e",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/kasina/og.webp",
+      "source_url": "https://static.kasina-store.com/content_file/114/content/1701924443371.9932.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2228,
+      "sha256": "e68d9b5dc9c3c596ff521970f1c301a6e295136c227a22ea1e031355818a0ce6",
+      "width": 500,
+      "height": 500
+    }
+  ]
+}

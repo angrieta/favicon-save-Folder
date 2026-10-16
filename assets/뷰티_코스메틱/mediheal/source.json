@@ -1,0 +1,93 @@
+{
+  "company": "메디힐",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.mediheal.com",
+  "page_url": "https://mediheal.com/",
+  "page_title": "MEDIHEAL | Best Korean Sheet Mask | Skincare | Moisturizer",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://mediheal.com/cdn/shop/t/74/assets/logo.png?v=151062; reference:HTTPError:https://mediheal.com/files/Fall_Skincare_Sale_-_PC_-_Homepage_1.jpg; reference:HTTPError:https://mediheal.com/cdn/shop/t/74/assets/logo.png?v=151062",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/mediheal/favicon.png",
+      "source_url": "https://mediheal.com/cdn/shop/files/favicon_1.png?crop=center&height=32&v=1703199816&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 303,
+      "sha256": "1ef1968246b4215bea09642cb7a27b8e4e6ab368594e6b262734d46ad049fa8f",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/mediheal/og.webp",
+      "source_url": "http://mediheal.com/cdn/shop/files/Blue_240202.png?v=1708018400",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6802,
+      "sha256": "0451e1a0e98915f5d831cacd08862173054413fa96591e4f9bddbf2a15e10a82",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/mediheal/logo-1.png",
+      "source_url": "https://mediheal.com/cdn/shop/files/LOGOTYPE.png?v=1748432875&width=600",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__heading-logo motion-reduce Mediheal div header__heading-logo-wrapper header-logo-default div footer-main-logo-wrapper div footer__content-top page-width footer footer color-scheme-1 gradient section-sections--22843814773044__foo",
+      "content_type": "image/png",
+      "bytes": 2101,
+      "sha256": "e734ce4186d9843058df00820af158329e271131328eb396c604a2a927d7bf60",
+      "width": 345,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/mediheal/logo-2.webp",
+      "source_url": "https://mediheal.com/cdn/shop/files/01_ed82607a-9203-4c9a-809d-3432471836a6.png?v=1775800471&width=533",
+      "source_tag": "img:semantic-logo",
+      "context": "img motion-reduce Retinol Collagen Eye Ampoule Patch - [brand_name] div media media--transparent media--hover-effect div card__media div card__inner cursor color-scheme-2 gradient ratio div card card--standard card--media",
+      "content_type": "image/webp",
+      "bytes": 32176,
+      "sha256": "9d101747c7bf3bc2dca9f3ba9c67dc5ad172cd752c40d6d8961a0f7011e3ae4f",
+      "width": 533,
+      "height": 533
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/mediheal/reference-1.webp",
+      "source_url": "https://mediheal.com/cdn/shop/files/Fall_Skincare_Sale_-_PC_-_Homepage_1.jpg?v=1789815003",
+      "source_tag": "img:page-image",
+      "context": "img motion-reduce pc-only div split-slide-img slide-basic-img div split-slide-flex slide-basic-layout div swiper-slide split-swiper-slide slide-slide_4VV6NX div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 89012,
+      "sha256": "6d656af4669ec0ab96d1199cb6495b5c5c3322672c3d56e7d54cc96a5e6322a4",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/mediheal/reference-2.webp",
+      "source_url": "https://mediheal.com/cdn/shop/files/Fall_Skincare_Sale_-_PC_-_Homepage_1.jpg?v=1789815003&width=1500",
+      "source_tag": "img:page-image",
+      "context": "img motion-reduce pc-only div split-slide-img slide-basic-img div split-slide-flex slide-basic-layout div swiper-slide split-swiper-slide slide-slide_4VV6NX div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 67972,
+      "sha256": "0d6df11e5b3321ea38626d192d3cafdc8e9ab8cd7975df3065ba424a58a37271",
+      "width": 1500,
+      "height": 750
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/mediheal/reference-3.webp",
+      "source_url": "https://mediheal.com/cdn/shop/files/Fall_Skincare_Sale_-_MO_-_Homepage.png?v=1789722874",
+      "source_tag": "img:page-image",
+      "context": "img motion-reduce mobile-only div split-slide-img slide-basic-img div split-slide-flex slide-basic-layout div swiper-slide split-swiper-slide slide-slide_4VV6NX div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 84986,
+      "sha256": "2f81a5bf25545a672815a5d3caf0f94d07fa2428fa3f537adc8e74e03fa3f7b6",
+      "width": 1080,
+      "height": 1350
+    }
+  ]
+}

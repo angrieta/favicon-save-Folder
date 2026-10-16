@@ -1,0 +1,69 @@
+{
+  "company": "아더에러",
+  "category": "패션_의류",
+  "requested_url": "https://www.adererror.com",
+  "page_url": "https://www.adererror.com/",
+  "page_title": "ADERERROR - ADERERROR｜공식 온라인 스토어",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://adererror.com/images/apple-touch-icon.png; reference:ValueError:https://www.facebook.com/tr?id=1406283137261538&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/ader-error/favicon.ico",
+      "source_url": "https://www.adererror.com/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 25144,
+      "sha256": "43f03a269c2f97c7fa79b6c95236824f4508e950bca74f3ba9cf24e0a56efc57",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/ader-error/og.webp",
+      "source_url": "https://d31flwjaqugbgy.cloudfront.net/s3-cloud-bucket-ader-user/seo/%EB%B8%94%EB%9E%99_%EC%A0%84%EC%8B%A0%EC%BB%B7_FINAL_%EC%BB%A8%ED%8E%8C%EC%99%84%EB%A3%8C_4x5+%EB%B3%B5%EC%82%AC.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 45940,
+      "sha256": "1e732148bf800cc35e1c81c7497c28c138adc6ba9e09940b3ff4216a54c6eee5",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/ader-error/banner-1.webp",
+      "source_url": "https://s3-cloud-bucket-ader.s3.ap-northeast-2.amazonaws.com/s3-cloud-bucket-ader-user/story/thumb_collection_lookbook_26fw.jpg",
+      "source_tag": "inline-background-image",
+      "context": "span  image background-image:url('https://s3-cloud-bucket-ader.s3.ap-northeast-2.amazonaws.com/s3-cloud-bucket-ader-user/story/thumb_collection_lookbook_26fw.jpg')",
+      "content_type": "image/webp",
+      "bytes": 27256,
+      "sha256": "cfab467740d048e6cbe645f77cf437bd124be2241420e67961613af532100c07",
+      "width": 870,
+      "height": 480
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/ader-error/banner-2.webp",
+      "source_url": "https://s3-cloud-bucket-ader.s3.ap-northeast-2.amazonaws.com/s3-cloud-bucket-ader-user/story/thumb_editorial_26fw.jpg",
+      "source_tag": "inline-background-image",
+      "context": "span  image background-image:url('https://s3-cloud-bucket-ader.s3.ap-northeast-2.amazonaws.com/s3-cloud-bucket-ader-user/story/thumb_editorial_26fw.jpg')",
+      "content_type": "image/webp",
+      "bytes": 104690,
+      "sha256": "0d8b29fa479430e1d920f551551af7e1d4a7d315e18c50974a26ad9d5c7efba1",
+      "width": 870,
+      "height": 480
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/ader-error/reference-1.webp",
+      "source_url": "https://s3-cloud-bucket-ader.s3.ap-northeast-2.amazonaws.com/s3-cloud-bucket-ader-user/story/thumb_space_05.jpg",
+      "source_tag": "inline-background-image",
+      "context": "span  image background-image:url('https://s3-cloud-bucket-ader.s3.ap-northeast-2.amazonaws.com/s3-cloud-bucket-ader-user/story/thumb_space_05.jpg')",
+      "content_type": "image/webp",
+      "bytes": 107050,
+      "sha256": "384f5c66d810e86c9d240ab472ec405b814bfc6c5d09caf87df5e67e4028f0af",
+      "width": 870,
+      "height": 480
+    }
+  ]
+}

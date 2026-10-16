@@ -1,0 +1,46 @@
+{
+  "company": "SHEIN",
+  "category": "유통_커머스",
+  "requested_url": "https://kr.shein.com",
+  "page_url": "https://kr.shein.com/",
+  "page_title": "온라인으로 여성 의류 쇼핑하기 | SHEIN KOREA",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://cjs.ltwebstatic.com/unpkg/privacy-sdk@0.0.49-alpha.5/dist/privacy-sdk.umd.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/shein/favicon.png",
+      "source_url": "https://sc.ltwebstatic.com/she_dist/images/touch-icon-ipad-144-47ceee2d97.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2481,
+      "sha256": "40c0f053462c440b1ff020e83d2195a271c2c43b68a477aa28f15ebcb3733bf0",
+      "width": 144,
+      "height": 144
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/shein/logo-1.png",
+      "source_url": "https://sc.ltwebstatic.com/she_dist/images/lazy_logo-ee79904d61.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 3197,
+      "sha256": "73addcb9c70169571e59a1176c35c3cdd60043944f98c407b7ff5e865e7f70f8",
+      "width": 300,
+      "height": 64
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/shein/banner-1.webp",
+      "source_url": "https://img.ltwebstatic.com/v4/p/ccc/2025/07/22/a6/1753155365decb0c2727c01d822e531f570728405d_thumbnail_2000x.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img base-img__initial fsp__h1-carousel-promotions-background base-img__inner fsp-element banner a base-img__href div base-img new-promotions-frame__background_overlay not-fsp-element div new-promotions-frame__background div new-promotions-f",
+      "content_type": "image/webp",
+      "bytes": 6004,
+      "sha256": "26f7473ba61c237df6bd80c7e4cf16544f45a3c66dfbf9532a42831bd0323d61",
+      "width": 1800,
+      "height": 453
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "company": "Eventbrite",
+  "category": "유통_커머스",
+  "requested_url": "https://www.eventbrite.com",
+  "page_url": "https://www.eventbrite.com/",
+  "page_title": "Eventbrite - Discover the Best Local Events & Things to Do",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/eventbrite/favicon.png",
+      "source_url": "https://cdn.evbstatic.com/s3-build/perm_001/317aa1/django/images/favicons/favicon-194x194.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2674,
+      "sha256": "ea36a7b032a03edf66fb8d00caa19d865c8fe9e7535017d7091fa02b9f83819c",
+      "width": 194,
+      "height": 194
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/eventbrite/og.webp",
+      "source_url": "https://cdn.evbstatic.com/s3-build/perm_001/6ce389/django/images/logos/eb_orange_on_white_1200x630.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10274,
+      "sha256": "b5b09912039066bfdd30af0298636ee6f365715020f22a5af75be339cd5d9076",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/eventbrite/banner-1.webp",
+      "source_url": "https://eventbrite-build.s3.amazonaws.com/fe/dist/discover-lib/11.29.24/browser/static/images/home/seasonal/music_mobile-2.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a div HomepageBannerCarousel-module-scss-module__zNhvTq__banner div HomepageBannerCarousel-module-scss-module__zNhvTq__bannerWrapper div HomepageBannerCarousel-module-scss-module__zNhvTq__homepageCarouselContainer",
+      "content_type": "image/webp",
+      "bytes": 62662,
+      "sha256": "e002073e805e56103382b8f958f0eccefb6a3af2a7a24a6176418080a25d1c12",
+      "width": 1266,
+      "height": 950
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/eventbrite/banner-2.webp",
+      "source_url": "https://eventbrite-build.s3.amazonaws.com/fe/dist/discover-lib/11.29.24/browser/static/images/home/seasonal/music_tablet-2.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a div HomepageBannerCarousel-module-scss-module__zNhvTq__banner div HomepageBannerCarousel-module-scss-module__zNhvTq__bannerWrapper div HomepageBannerCarousel-module-scss-module__zNhvTq__homepageCarouselContainer",
+      "content_type": "image/webp",
+      "bytes": 48842,
+      "sha256": "31bcbacbd070f1c9791cef42ec2a496989e1abd3337b3ece8bdbb0998cb9862b",
+      "width": 1800,
+      "height": 516
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/eventbrite/reference-1.webp",
+      "source_url": "https://eventbrite-build.s3.amazonaws.com/fe/dist/discover-lib/11.29.24/browser/static/images/home/seasonal/music_desktop-2.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture a div HomepageBannerCarousel-module-scss-module__zNhvTq__banner div HomepageBannerCarousel-module-scss-module__zNhvTq__bannerWrapper div HomepageBannerCarousel-module-scss-module__zNhvTq__homepageCarouselContainer",
+      "content_type": "image/webp",
+      "bytes": 51272,
+      "sha256": "703ca3d2bb8d2f9f951b09ca40aadcb778b4197fff2c0b0262fab967900f35a2",
+      "width": 1800,
+      "height": 556
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/eventbrite/reference-2.webp",
+      "source_url": "https://d1n9ior3u0lhlo.cloudfront.net/ny--new-york.webp",
+      "source_tag": "img:page-image",
+      "context": "img TopDestinationCard-module-scss-module__shv_5q__image An image of New York super imposed with the text \"New York\" a div TopDestinationCard-module-scss-module__shv_5q__root div CarouselSlide-module-scss-module__PEa8Na__root CarouselSlide-",
+      "content_type": "image/webp",
+      "bytes": 54982,
+      "sha256": "ddd0d8eca1d60ad2a81708e30872380c57a504076532633ea8adbe9c5d9ec365",
+      "width": 840,
+      "height": 561
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/eventbrite/reference-3.webp",
+      "source_url": "https://d1n9ior3u0lhlo.cloudfront.net/ca--san-francisco.webp",
+      "source_tag": "img:page-image",
+      "context": "img TopDestinationCard-module-scss-module__shv_5q__image An image of San Francisco super imposed with the text \"San Francisco\" a div TopDestinationCard-module-scss-module__shv_5q__root div CarouselSlide-module-scss-module__PEa8Na__root Caro",
+      "content_type": "image/webp",
+      "bytes": 44040,
+      "sha256": "e9e40691211793375e372a116e8e9d700edf324b3d1526fac55cb29ecf08c3f2",
+      "width": 840,
+      "height": 630
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "company": "Chelsea FC",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.chelseafc.com",
+  "page_url": "https://www.chelseafc.com/en",
+  "page_title": "Homepage | Official Site | Chelsea Football Club",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.chelseafc.com/assets/fonts/ChelseaBasis-Chiselled.woff; reference:ValueError:https://www.chelseafc.com/assets/fonts/ChelseaBasis-ClubOutline.woff; reference:ValueError:https://www.chelseafc.com/assets/fonts/ChelseaBasis-Light.woff; reference:ValueError:https://www.chelseafc.com/assets/fonts/ChelseaBasis-Medium.woff; reference:ValueError:https://www.chelseafc.com/assets/fonts/ChelseaBasis-Regular.woff; reference:ValueError:https://www.chelseafc.com/assets/fonts/ChelseaBasisKit-Medium.woff",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/chelsea-fc/favicon.svg",
+      "source_url": "https://www.chelseafc.com/favicon.svg",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/svg+xml",
+      "bytes": 1824016,
+      "sha256": "b6bf52ab05ecc16ace2ce0da76c1522a470a009b8e41c262d8485a3bd025efdb",
+      "width": 92,
+      "height": 92
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/chelsea-fc/og.webp",
+      "source_url": "https://res.cloudinary.com/chelsea-production/image/upload/c_fit,h_630,w_1200/v1/site-assets/Backgrounds/Screensaver",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 23974,
+      "sha256": "fa9d375368bd133c52e03e66f6574b370bbf14976f46c3f10888f47f59d58f80",
+      "width": 1008,
+      "height": 630
+    }
+  ]
+}

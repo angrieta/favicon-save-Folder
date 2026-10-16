@@ -1,0 +1,33 @@
+{
+  "company": "다방",
+  "category": "부동산_공간",
+  "requested_url": "https://www.dabangapp.com/",
+  "page_url": "https://www.dabangapp.com/",
+  "page_title": "부동산 필수 앱 다방",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.dabangapp.com/static/js/getDay-chunk.DMAnITBU.js; reference:ValueError:https://www.dabangapp.com/static/js/atoms-chunk.Dcpt62GI.js; reference:ValueError:https://www.dabangapp.com/static/js/immer-chunk.BvGtLtMK.js; reference:ValueError:https://www.dabangapp.com/static/js/config-chunk.CsM20bec.js; reference:ValueError:https://www.dabangapp.com/static/js/ic_24_close_gray700-chunk.CX4AXEBP.js; reference:ValueError:https://www.dabangapp.com/static/js/throttle-chunk.DYvNxgb4.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/dabang/favicon.ico",
+      "source_url": "https://www.dabangapp.com/static/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 897,
+      "sha256": "49a5bca8d2b4df4efab1afab83b3f412311068d5cbf7a6eeb02ed9726142c6d8",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/dabang/og.webp",
+      "source_url": "https://static.dabangapp.com/img/opengraph.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3846,
+      "sha256": "d593a3ec2e75a9e1e4f079d4a9b997f1334746a966834b51c4d13a4195b771b8",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

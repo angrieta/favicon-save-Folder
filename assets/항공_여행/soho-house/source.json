@@ -1,0 +1,71 @@
+{
+  "company": "Soho House",
+  "category": "항공_여행",
+  "requested_url": "https://www.sohohouse.com/",
+  "page_url": "https://www.sohohouse.com/ko/",
+  "page_title": "Soho House | Members' Clubs",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.sohohouse.com/_nuxt/6c172e4.modern.js; reference:ValueError:https://www.sohohouse.com/_nuxt/e6540e9.modern.js; reference:ValueError:https://www.sohohouse.com/_nuxt/cacfc4f.modern.js; reference:ValueError:https://www.sohohouse.com/_nuxt/460128d.modern.js; reference:ValueError:https://www.sohohouse.com/_nuxt/124940b.modern.js; reference:ValueError:https://www.sohohouse.com/_nuxt/62378f8.modern.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/soho-house/favicon.png",
+      "source_url": "https://www.sohohouse.com/favicon-228.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1056,
+      "sha256": "032b83544940bd060d6914f47b2ad0aa96261e0d2b7ff9a33cff43ebcdd393e0",
+      "width": 228,
+      "height": 228
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/soho-house/og.webp",
+      "source_url": "https://media.fastly.sohohousedigital.com/v1653298156/digital-house-web/soho-logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2446,
+      "sha256": "9d310cebd6f51da741a83cb45e0df8a953a04f10627ddb29936ed2192afc4972",
+      "width": 1200,
+      "height": 676
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/soho-house/logo-1.png",
+      "source_url": "https://www.sohohouse.com/logo.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 236,
+      "sha256": "55959f34b75029d3fca3cdd298436edcbc421717645d3a1cd788b79bf0bb2256",
+      "width": 120,
+      "height": 120,
+      "source_sha256": "4ba4f0c9f79650ce629c4a9cef5246c52d08d4c17e54f754249f01547ac9f6ff"
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/soho-house/logo-2.webp",
+      "source_url": "https://media.fastly.sohohousedigital.com/t_dc_base/sitecore-prod/images/dotcom-sites/brand-reset-crops/01_desktop_still_glow_june_2026.jpeg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Soho House from above div masthead-video__body div masthead-video__wrap div masthead-video div placeholder__digital-house-main",
+      "content_type": "image/webp",
+      "bytes": 324410,
+      "sha256": "0b7b0bafca5acbec0eaeff44105ff9627dacad3f583c24ba62a42664a94b09d9",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/soho-house/logo-2.webp",
+      "source_url": "https://media.fastly.sohohousedigital.com/t_dc_base/sitecore-prod/images/dotcom-sites/brand-reset-crops/01_desktop_still_glow_june_2026.jpeg",
+      "source_tag": "img:semantic-banner",
+      "context": "img Soho House from above div masthead-video__body div masthead-video__wrap div masthead-video div placeholder__digital-house-main",
+      "content_type": "image/webp",
+      "bytes": 324410,
+      "sha256": "0b7b0bafca5acbec0eaeff44105ff9627dacad3f583c24ba62a42664a94b09d9",
+      "width": 1600,
+      "height": 900,
+      "reused_from": "logo"
+    }
+  ]
+}

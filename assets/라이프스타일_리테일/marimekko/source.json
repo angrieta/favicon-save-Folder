@@ -1,0 +1,120 @@
+{
+  "company": "Marimekko",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.marimekko.com/",
+  "page_url": "https://www.marimekko.com/com_en",
+  "page_title": "Finnish Design House | Marimekko",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://www.marimekko.com/810&w=3840&h=5114&q=75&fit=max&auto=format; reference:HTTPError:https://www.marimekko.com/810&w=2560&h=3409&q=75&fit=max&auto=format",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/marimekko/favicon.ico",
+      "source_url": "https://www.marimekko.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "74368d3e6b2b304d681ffd6c5bceda8843915fccd3b9a8f5262b8c44c0080784",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/marimekko/og.webp",
+      "source_url": "https://www.marimekko.com/images/marimekko-generic.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 51712,
+      "sha256": "59a09883a51b0d742e8463798f39555c63a91f693d23d89b87f756028d4e7254",
+      "width": 600,
+      "height": 559
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/marimekko/logo-1.svg",
+      "source_url": "https://www.marimekko.com/images/site-logo.svg?dpl=dpl_4ePw9B6ZDENTxZ3W33UdzTNGhM8G",
+      "source_tag": "img:semantic-logo",
+      "context": "img a flex h-full items-center nav hidden h-16 items-center gap-6 border-b border-subtle bg-white px-6 lg:flex header app-header sticky top-0 z-30 body",
+      "content_type": "image/svg+xml",
+      "bytes": 4380,
+      "sha256": "86b69375f77f95ecae175ced18bb293fe12b7f04a10c7c5f893f3b4df1c82a7f",
+      "width": 160,
+      "height": 19,
+      "source_sha256": "7fff207bea36e22c8c8720a3346b432610e00312b7736886b40b10d98da6806d"
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/marimekko/logo-2.webp",
+      "source_url": "https://image.mux.com/J2x01GyUr3izusotTF00wNo2fDAFyjF5ckZEP2gdWQCP00/thumbnail.webp?time=0",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div relative overflow-hidden transition-opacity duration-500 opacity-100 div m-0 size-full p-0 div relative h-full w-full bg-black aspect-video Marimekko brand and the Marimekko printing mill. div h-[min(calc(90vh-62px-24px),var(--a",
+      "content_type": "image/webp",
+      "bytes": 180950,
+      "sha256": "716bcabb838a3965816dafae59630149775018be158f7f7cc1ceb7f8ac525350",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/marimekko/banner-1.webp",
+      "source_url": "https://image.mux.com/J2x01GyUr3izusotTF00wNo2fDAFyjF5ckZEP2gdWQCP00/thumbnail.jpg?time=0",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 object-cover picture div relative overflow-hidden transition-opacity duration-500 opacity-100 div m-0 size-full p-0 div relative h-full w-full bg-black aspect-video Marimekko brand and the Marimekko printing mill.",
+      "content_type": "image/webp",
+      "bytes": 65108,
+      "sha256": "2bda007f7096c1e226038f35ce69056d15c9ad2ad4455490c15e4cf304ff382b",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "b065d27698afe90dfc3e32142ac856e31a31cb7b40077f612b793c179dc4bc8c"
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/marimekko/banner-2.webp",
+      "source_url": "https://cdn.sanity.io/images/vhdpin6t/production/d86e9e3ed19bcdb99d99afeed599c0583f0e09b4-1440x810.jpg?w=3840&h=2160&q=75&fit=max&auto=format",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture relative div section relative w-full div main mainContent",
+      "content_type": "image/webp",
+      "bytes": 89236,
+      "sha256": "84c24aee47fb9ad52f3b3b2434e9ececd24b9c04c12146de2003538733fb9792",
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/marimekko/banner-2.webp",
+      "source_url": "https://cdn.sanity.io/images/vhdpin6t/production/d86e9e3ed19bcdb99d99afeed599c0583f0e09b4-1440x810.jpg?w=2560&h=1440&q=75&fit=max&auto=format",
+      "source_tag": "picture:page-image",
+      "context": "picture relative div section relative w-full div main mainContent",
+      "content_type": "image/webp",
+      "bytes": 89236,
+      "sha256": "84c24aee47fb9ad52f3b3b2434e9ececd24b9c04c12146de2003538733fb9792",
+      "width": 1440,
+      "height": 810,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/marimekko/reference-2.webp",
+      "source_url": "https://cdn.sanity.io/images/vhdpin6t/production/d86e9e3ed19bcdb99d99afeed599c0583f0e09b4-1440x810.jpg?rect=416,0,608,810&w=3840&h=5114&q=75&fit=max&auto=format",
+      "source_tag": "picture:page-image",
+      "context": "picture relative div section relative w-full div main mainContent",
+      "content_type": "image/webp",
+      "bytes": 37260,
+      "sha256": "51021e95315b0eccca3f9a62d8239f082a076b2eb0dd4bf2152e9458b8cb2d8f",
+      "width": 608,
+      "height": 810
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/marimekko/reference-3.webp",
+      "source_url": "https://cdn.sanity.io/images/vhdpin6t/production/283968bbb004c0cf2076b07810c3c34ca4ab24de-2880x1620.jpg?w=3840&h=2160&q=75&fit=max&auto=format",
+      "source_tag": "picture:page-image",
+      "context": "picture relative div section relative w-full div main mainContent",
+      "content_type": "image/webp",
+      "bytes": 73734,
+      "sha256": "46531924fcd28d25221c31abd0cc376e0d907e306f82fdd6e1559919e822d9b5",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

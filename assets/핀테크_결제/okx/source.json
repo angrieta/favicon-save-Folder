@@ -1,0 +1,81 @@
+{
+  "company": "OKX",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.okx.com/",
+  "page_url": "https://www.okx.com/",
+  "page_title": "Buy Bitcoin, Crypto & Stocks | Crypto Exchange | OKX",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.okx.com/cdn/assets/imgs/2511/86DA2A807AFC9E14.png?x-oss-process=image/format; reference:HTTPError:https://www.okx.com/cdn/assets/imgs/2511/531D7466DA1C4669.png?x-oss-process=image/format; reference:HTTPError:https://www.okx.com/cdn/assets/imgs/2511/7EF9E8A43E3A0618.png?x-oss-process=image/format; reference:HTTPError:https://www.okx.com/cdn/assets/imgs/2511/C2B4CD320D0B5D6B.png?x-oss-process=image/format; reference:HTTPError:https://www.okx.com/cdn/assets/imgs/2511/39C1853FD6F8F050.png?x-oss-process=image/format; reference:HTTPError:https://www.okx.com/cdn/assets/imgs/2511/AFD0CA21CA5ECD78.png?x-oss-process=image/format",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/okx/favicon.png",
+      "source_url": "https://www.okx.com/cdn/assets/imgs/253/59830BB78B18A776.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 834,
+      "sha256": "1ac6fd84d62a45c0dc0e5f4eb528d5c6b53efcf45b9ce9af7870244bc046af2f",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/okx/og.webp",
+      "source_url": "https://www.okx.com/cdn/assets/imgs/244/84D446EF6A65AF94.jpeg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 22140,
+      "sha256": "14c8b192f352d5e493d24994d8687378e10c9a64f6ef8e267c33ebc9abe559a2",
+      "width": 750,
+      "height": 392
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/okx/logo-1.png",
+      "source_url": "https://www.okx.com/cdn/assets/imgs/221/187957948BD02D97.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 382,
+      "sha256": "68c2f5e6150b62a1d84c1f35d8835d470aafbe3e5d60c5c30f912c999a5b0a30",
+      "width": 164,
+      "height": 72
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/okx/logo-2.png",
+      "source_url": "https://www.okx.com/cdn/assets/imgs/236/DD7AC9432E675714.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Logo of Tribeca Festival picture okui-picture okui-picture-font div partner-item div partner-bar div left-banner",
+      "content_type": "image/png",
+      "bytes": 2202,
+      "sha256": "2367109d331898cffa5a1f2dcfb76e13d3f65b3ce96131e38d3d04f23250ac49",
+      "width": 185,
+      "height": 75
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/okx/reference-1.webp",
+      "source_url": "https://www.okx.com/cdn/assets/imgs/2510/9C0E923DDC98445D.jpg",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 34642,
+      "sha256": "0fb809d9c93d87e4e5802afd531dbdd483d55359809e3f56b15cd07c2877df02",
+      "width": 480,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/okx/reference-2.webp",
+      "source_url": "https://www.okx.com/cdn/assets/imgs/2510/9C0E923DDC98445D.jpg?x-oss-process=image/format,webp/ignore-error,1",
+      "source_tag": "link:preload",
+      "context": "preload image  https://www.okx.com/cdn/assets/imgs/2510/9C0E923DDC98445D.jpg?x-oss-process=image/format,webp/ignore-error,1",
+      "content_type": "image/webp",
+      "bytes": 32288,
+      "sha256": "a704b730e6d5002c1a24a1b7b5db4abc9e07be4e8dc3dd651bb5348e2f6c968b",
+      "width": 480,
+      "height": 1000
+    }
+  ]
+}

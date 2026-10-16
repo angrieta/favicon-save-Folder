@@ -1,0 +1,58 @@
+{
+  "company": "카페 어니언",
+  "category": "식품_생활",
+  "requested_url": "https://www.onionkr.com",
+  "page_url": "https://www.onionkr.com/",
+  "page_title": "Cafe Onion 카페 어니언",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "social",
+      "path": "assets/식품_생활/cafe-onion/og.webp",
+      "source_url": "http://onionkr.com/kalogo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4812,
+      "sha256": "174277be4e0c75eea1785339d9be3a892199456dda20484f21ba17c6c7ed9e6b",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/cafe-onion/banner-1.webp",
+      "source_url": "https://www.onionkr.com/artfinger/main/main01.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  section background:url('/artfinger/main/main01.jpg')50% 50% no-repeat; background-size:cover;",
+      "content_type": "image/webp",
+      "bytes": 84542,
+      "sha256": "3150e4c71067c4e5dfa463dbaced3617b083e55e86c1fec3ae9b7094cc8be198",
+      "width": 1800,
+      "height": 938
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/cafe-onion/banner-2.webp",
+      "source_url": "https://www.onionkr.com/artfinger/main/main02.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  section background:url('/artfinger/main/main02.jpg')50% 50% no-repeat; background-size:cover;",
+      "content_type": "image/webp",
+      "bytes": 526650,
+      "sha256": "982540971c607e237953a10bd34e4b717060e55be91c2110d6d24470a18f7c07",
+      "width": 1800,
+      "height": 938
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/cafe-onion/reference-1.webp",
+      "source_url": "https://www.onionkr.com/artfinger/main/main03.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  section background:url('/artfinger/main/main03.jpg')50% 50% no-repeat; background-size:cover;",
+      "content_type": "image/webp",
+      "bytes": 280164,
+      "sha256": "336b0c3e66ae6d2f8ce5a97d024d517ab904328ca11a86b81f25745d24b9171a",
+      "width": 1800,
+      "height": 938
+    }
+  ]
+}

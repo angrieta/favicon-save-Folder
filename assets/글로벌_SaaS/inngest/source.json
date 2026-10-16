@@ -1,0 +1,117 @@
+{
+  "company": "Inngest",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.inngest.com",
+  "page_url": "https://www.inngest.com/",
+  "page_title": "Durable Execution for Workflows & AI | Inngest",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://fonts-cdn.inngest.com/Circular/CircularXXWeb-Bold.woff2; reference:ValueError:https://fonts-cdn.inngest.com/Circular/CircularXXWeb-Regular.woff2; reference:ValueError:https://www.inngest.com/assets/v1/fonts/ABCWhyte-Regular.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/inngest/favicon.svg",
+      "source_url": "https://www.inngest.com/favicon-june-2025-light.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 2478,
+      "sha256": "eaab0f882a9779db036c06db00a88ef3bf2f2a3eeb68febdeb83950f39bedc8e",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/inngest/og.webp",
+      "source_url": "https://www.inngest.com/assets/homepage/open-graph-2026.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 71992,
+      "sha256": "370e47080367f396c0a954c25c73862ed60e88df73c3b821aea92c633aabb77a",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/inngest/logo-1.svg",
+      "source_url": "https://www.inngest.com/logo-with-icon-white.svg",
+      "source_tag": "json-ld[1].logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 7754,
+      "sha256": "1e25e131fa32af09f4e73a7609472623eaf0b8a410e7a179fb661176f014e621",
+      "width": 224,
+      "height": 53
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/inngest/logo-2.svg",
+      "source_url": "https://www.inngest.com/assets/v1/logos/replit.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img shrink-0 opacity-70 motion-safe:transition-opacity motion-safe:duration-300 motion-safe:ease-v1-out group-hover/logo:opacity-100 Replit span group/logo logo-item relative shrink-0 div flex shrink-0 items-center gap-x-[21px] pr-[21px] lg",
+      "content_type": "image/svg+xml",
+      "bytes": 2942,
+      "sha256": "866bfcde41b1314484eb61429501c72cd1c6ed2ffbc56b83da59b64e5e81a8ce",
+      "width": 720,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/inngest/banner-1.webp",
+      "source_url": "https://www.inngest.com/assets/v1/it-doesnt-have-to-be-hard/before.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 block h-full w-full object-cover Before: the tangle of infrastructure (queues, pubsub, idempotency, error handling, capacity management) you have to build yourself. div pointer-events-none absolute inset-0 div relative ",
+      "content_type": "image/webp",
+      "bytes": 152580,
+      "sha256": "8b5ffb17970ac7a8c38338ea1b71b5d334cc437b2a86c830836f3dc5d8b3a6e7",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/inngest/banner-2.webp",
+      "source_url": "https://www.inngest.com/assets/v1/it-doesnt-have-to-be-hard/after.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 block h-full w-full object-cover After: a single step.run() call replacing all that infrastructure. div pointer-events-none absolute inset-0 div relative w-full cursor-ew-resize touch-pan-y select-none overflow-hidden f",
+      "content_type": "image/webp",
+      "bytes": 167728,
+      "sha256": "252ebc90f267d52bd556edcd258f7d0fccd5e601b5563907f72a38ad74d18499",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/inngest/reference-1.webp",
+      "source_url": "https://www.inngest.com/assets/v1/textures/.compressed/noise-dark.webp",
+      "source_tag": "inline-background-image",
+      "context": "span  pointer-events-none absolute inset-0 -z-10 bg-cover bg-center opacity-0 motion-safe:transition-opacity motion-safe:duration-[600ms] ease-v1-in group-hover:opacity-100 group-focus-within:opacity-100 group-data-[active=true]:opacity-100",
+      "content_type": "image/webp",
+      "bytes": 334282,
+      "sha256": "5a7b1bd759740f6d0cfd7c2e1a41223a3fc8468d9de796b6505450b25586ed8a",
+      "width": 849,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/inngest/reference-2.webp",
+      "source_url": "https://www.inngest.com/assets/v1/hero/.compressed/inngest-hero-mobile.avif",
+      "source_tag": "link:preload",
+      "context": "preload image image/avif /assets/v1/hero/.compressed/inngest-hero-mobile.avif",
+      "content_type": "image/webp",
+      "bytes": 44762,
+      "sha256": "482dd1861767820e3f2dc905ed4032324bf28fb0cd47a2e716bb9f8375628015",
+      "width": 600,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/inngest/reference-3.webp",
+      "source_url": "https://www.inngest.com/assets/v1/hero/.compressed/inngest-hero.avif?v=3",
+      "source_tag": "link:preload",
+      "context": "preload image image/avif /assets/v1/hero/.compressed/inngest-hero.avif?v=3",
+      "content_type": "image/webp",
+      "bytes": 90216,
+      "sha256": "79a4b53ca3c39b499e00af2bb3bd873ec75656c5425b8d43471338901d8257c4",
+      "width": 1800,
+      "height": 1091
+    }
+  ]
+}

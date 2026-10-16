@@ -1,0 +1,33 @@
+{
+  "company": "티스토리",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.tistory.com/",
+  "page_url": "https://www.tistory.com/",
+  "page_title": "티스토리",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.tistory.com/_next/static/chunks/webpack-521ea4065a3440fb.js; reference:ValueError:https://t1.kakaocdn.net/tiara/js/v1/tiara-1.2.0.min.js; reference:ValueError:https://t1.kakaocdn.net/kakao_js_sdk/2.7.3/kakao.min.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/tistory/favicon.png",
+      "source_url": "https://t1.daumcdn.net/tistory_admin/top_v2/tistory-apple-touch-favicon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5233,
+      "sha256": "3fc59111782ae2364bbc0656281668c4e91c7624b6d0f3505c027a85d5b32a44",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/tistory/og.webp",
+      "source_url": "https://t1.daumcdn.net/tistory_admin/static/images/openGraph/tistoryOpengraph.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11378,
+      "sha256": "34d92e30196df19c4c95a83214c684e86e7abd301e0041ab481f3b8382f04672",
+      "width": 800,
+      "height": 400
+    }
+  ]
+}

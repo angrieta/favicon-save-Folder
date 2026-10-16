@@ -1,0 +1,58 @@
+{
+  "company": "AK플라자",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.akplaza.com/",
+  "page_url": "https://www.akplaza.com/",
+  "page_title": "AK PLAZA 백화점",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=369621753417388&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/ak-plaza/favicon.ico",
+      "source_url": "https://www.akplaza.com/static/images/favicon3.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "9eb9d1db937d5a31145f20dee26125f331e69c8af61c69553009d6d1061630a2",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/ak-plaza/og.webp",
+      "source_url": "https://www.akplaza.com/static/images/og_image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4752,
+      "sha256": "e0e2d20d5b5bf454f5c4e2ef20e66cfa4252d5b8516f205d5cfd90170e2b378e",
+      "width": 600,
+      "height": 315
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/ak-plaza/logo-1.png",
+      "source_url": "https://www.akplaza.com/static/images/common/logo_green.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img return to green all-ways a article utilCont div footerCont div footerWrap",
+      "content_type": "image/png",
+      "bytes": 5765,
+      "sha256": "494becce16bc141fc89ad8cc7260fbd80d579c7af8c3dab1d89aaa50c6a6c908",
+      "width": 125,
+      "height": 45
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/ak-plaza/banner-1.webp",
+      "source_url": "https://www.akplaza.com/upload/main/202609/66f6c7dc-bb65-4a5d-8aeb-b27d12f0085e.jpg",
+      "source_tag": "inline-background-image",
+      "context": "span  bg background-image: url(/upload/main/202609/66f6c7dc-bb65-4a5d-8aeb-b27d12f0085e.jpg)",
+      "content_type": "image/webp",
+      "bytes": 51074,
+      "sha256": "c8b0a614a7c8edcd71d51529a623bd7cd29b4bd2f173849c9233f4e76c2248bd",
+      "width": 1600,
+      "height": 608,
+      "source_sha256": "1708656890a71255da3931dab6c292a5d5dea39d8da49d044b7dddc4da7c7793"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company": "Kenzo",
+  "category": "패션_의류",
+  "requested_url": "https://www.kenzo.com",
+  "page_url": "https://www.kenzo.com/en-kr/home",
+  "page_title": "KENZO | Clothing, Bags, Sneakers and Accessories",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/kenzo/favicon.png",
+      "source_url": "https://www.kenzo.com/on/demandware.static/Sites-KENZO_XB-Site/-/default/dwbdca8690/images/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 16096,
+      "sha256": "1efcf780100fb8ea972d3708edc7563901fc1a169df81c06945701460d6a149d",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/kenzo/logo-1.png",
+      "source_url": "https://www.kenzo.com/on/demandware.static/-/Library-Sites-Kenzo-SharedLibrary/default/dw059b9a09/PAID_KENZO-LOGO_240x240.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 21588,
+      "sha256": "7c2ab2a0147e831826a64f278cb0497ae4cd106715cc2dfe2e456285557187b2",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/kenzo/reference-1.webp",
+      "source_url": "https://media.kenzo.com/b2cprd/content/default/*P3%20FW26%20ASSETS/BLOC_1_NEW-IN-M_MOBILE_2209.jpg?twic=v1/resize=1024",
+      "source_tag": "picture:page-image",
+      "context": "picture figure page-designer--component component-asset div div experience-region experience-column1 div col",
+      "content_type": "image/webp",
+      "bytes": 85880,
+      "sha256": "169bdf02559838557ee1d34b6824f8bca811aaa5cc56d387f22da255b10f03ab",
+      "width": 1024,
+      "height": 1281
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/kenzo/reference-2.webp",
+      "source_url": "https://media.kenzo.com/b2cprd/content/default/*P3%20FW26%20ASSETS/BLOC_1_NEW-IN-M_MOBILE_2209.jpg?twic=v1/resize=768",
+      "source_tag": "picture:page-image",
+      "context": "picture figure page-designer--component component-asset div div experience-region experience-column1 div col",
+      "content_type": "image/webp",
+      "bytes": 54782,
+      "sha256": "f0902fa530b444ccd023df699d308b65466ae4ea44116816a0422f659d5c8423",
+      "width": 768,
+      "height": 961
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/kenzo/reference-3.webp",
+      "source_url": "https://media.kenzo.com/b2cprd/content/default/*P3%20FW26%20ASSETS/BLOC_1_NEW-IN-M_DESKTOP_2209.jpg?twic=v1/resize=2560",
+      "source_tag": "picture:page-image",
+      "context": "picture figure page-designer--component component-asset div div experience-region experience-column1 div col",
+      "content_type": "image/webp",
+      "bytes": 135174,
+      "sha256": "3295254b4d727a773431b143e9c8891183f27e98c0de6667c1b930cfa156e89a",
+      "width": 1200,
+      "height": 1350
+    }
+  ]
+}

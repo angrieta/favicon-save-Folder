@@ -1,0 +1,93 @@
+{
+  "company": "Arc",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://arc.net",
+  "page_url": "https://arc.net/",
+  "page_title": "Arc from The Browser Company",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://arc.net/video/ArcDiaPLG_Video.webm; reference:ValueError:https://arc.net/video/ArcDiaPLG_Video.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/arc-browser/favicon.png",
+      "source_url": "https://arc.net/favicon.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1496,
+      "sha256": "5121a5db8bc2e1bf010b19793a749534d5904062e966a758d1b0fcb39e4b421e",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/arc-browser/og.webp",
+      "source_url": "https://arc.net/og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 66694,
+      "sha256": "84a48cdd8ed989ea4d4765591b55fb40a0537a5f761c9e81fcf8e0b4188c2b31",
+      "width": 1024,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/arc-browser/banner-1.webp",
+      "source_url": "https://arc.net/images/dia-hero-image.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img c-elxicI Dia Hero Image div c-fEjWMl div c-kXWSNC main c-gtTkau div __next",
+      "content_type": "image/webp",
+      "bytes": 149180,
+      "sha256": "c9c09c86d927590013929d94b07693f8044b6b4cbb7fe3873c7d73fd7550573e",
+      "width": 1800,
+      "height": 1040
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/arc-browser/banner-2.webp",
+      "source_url": "https://arc.net/images/dia-background-image.png",
+      "source_tag": "style-background-image",
+      "context": "play:flex;flex-direction:column;align-items:center;justify-content:center;background-color:var(--colors-brandOffwhite);width:100%;margin-top:90px;padding-top:72px;background-image:url(images/dia-background-image.png);background-size:cover}.",
+      "content_type": "image/webp",
+      "bytes": 7944,
+      "sha256": "cf99f34b83830c1b4cedc129fcda4d1215680fb7d42f55332066fcc4a95e8e36",
+      "width": 1800,
+      "height": 848
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/arc-browser/reference-1.webp",
+      "source_url": "https://arc.net/_next/image?url=%2Fzero-chrome.png&w=3840&q=100",
+      "source_tag": "img:page-image",
+      "context": "img Screenshot of Arc by The Browser Company of New York div c-sCqiu section c-OBxzD div c-ivWXJT main c-gtTkau",
+      "content_type": "image/webp",
+      "bytes": 69526,
+      "sha256": "606514637e49ceb1d46ddeddec765c3df3a57ea2e5750b3a13cc83e00cfc34cf",
+      "width": 1400,
+      "height": 933
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/arc-browser/reference-2.webp",
+      "source_url": "https://arc.net/_next/image?url=%2Fspace-swiping.png&w=3840&q=100",
+      "source_tag": "img:page-image",
+      "context": "img Screenshot of Arc by The Browser Company of New York div c-sCqiu section c-OBxzD div c-ivWXJT main c-gtTkau",
+      "content_type": "image/webp",
+      "bytes": 43108,
+      "sha256": "e0352dff215f395d3f7f7c5b4d5000e6548f72cbbd288b7e2a45bb582e7b7045",
+      "width": 1400,
+      "height": 933
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/arc-browser/reference-3.webp",
+      "source_url": "https://arc.net/_next/image?url=%2Ftheme-picker.png&w=3840&q=100",
+      "source_tag": "img:page-image",
+      "context": "img Screenshot of Arc by The Browser Company of New York div c-sCqiu section c-OBxzD div c-ivWXJT main c-gtTkau",
+      "content_type": "image/webp",
+      "bytes": 42292,
+      "sha256": "3602e1ac87b0b06fc45fc0ca20f912b3e2f14d09ea925d9c5f5a6f65aeb4fc53",
+      "width": 1400,
+      "height": 933
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "company": "FC서울",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.fcseoul.com",
+  "page_url": "https://www.fcseoul.com/",
+  "page_title": "FC SEOUL",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://files.fcseoul.com/data03/img_lrg/1790071782015_b.JPG; reference:ValueError:https://files.fcseoul.com/data03/img_lrg/1790071741074_b.JPG",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/fc-seoul/favicon.ico",
+      "source_url": "https://www.fcseoul.com/resources/common/favicon.ico;jsessionid=2ABAA87BADFC676C00886F81BBE0B294",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "c9109ee87159a7b0703b6de538b301bfaf22cdc965c017fa9d976357ee7186f5",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/fc-seoul/logo-1.png",
+      "source_url": "https://www.fcseoul.com/resources/front/images/common/img_logo_gs.png?23072801",
+      "source_tag": "img:semantic-logo",
+      "context": "img FC SEOUL a h1 div header1 div contentWrap",
+      "content_type": "image/png",
+      "bytes": 4354,
+      "sha256": "a2f81d831099cce2f2565e4a43933c290e80e78f26c7aeb4ac2208ff078eb4b6",
+      "width": 183,
+      "height": 57
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/fc-seoul/logo-2.png",
+      "source_url": "https://www.fcseoul.com/resources/front/images/common/img_logo_gray.png?230728",
+      "source_tag": "img:semantic-logo",
+      "context": "img FC SEOUL div section footer2 div contentWrap footer footer footer",
+      "content_type": "image/png",
+      "bytes": 2504,
+      "sha256": "0d08784f645b3786a35dd507bbdb12a625140ecab843c27e360a598c53ac785c",
+      "width": 149,
+      "height": 44
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/fc-seoul/reference-1.webp",
+      "source_url": "https://files.fcseoul.com/multi01/News/FcNews/1773906879456.jpg",
+      "source_tag": "img:page-image",
+      "context": "img p img a li ul",
+      "content_type": "image/webp",
+      "bytes": 278774,
+      "sha256": "a91c9ab0e412c3af63902180814ccfebf49f08378a088496c1bdaa5f5cc20df2",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/fc-seoul/reference-2.webp",
+      "source_url": "https://files.fcseoul.com/multi01/News/FcNews/1773724814973.jpg",
+      "source_tag": "img:page-image",
+      "context": "img p img a li ul",
+      "content_type": "image/webp",
+      "bytes": 134478,
+      "sha256": "4cf26c5b9b3a4eb5a6e75e4a9cfaccb8611fd731fb843cbf522c98149c067963",
+      "width": 794,
+      "height": 614
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/fc-seoul/reference-3.webp",
+      "source_url": "https://www.fcseoul.com/resources/front/images/main/img_banner1_1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 안전한 경기 관람 수칙 div div blCont div bannerLpWrap main container container",
+      "content_type": "image/webp",
+      "bytes": 46198,
+      "sha256": "8ae5fb1748e0c13b32291dd247f162d131ba1dd7268fbad1f6383d69d8c8ec19",
+      "width": 600,
+      "height": 600
+    }
+  ]
+}

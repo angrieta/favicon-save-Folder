@@ -1,0 +1,70 @@
+{
+  "company": "Omio",
+  "category": "항공_여행",
+  "requested_url": "https://www.omio.com",
+  "page_url": "https://www.omio.com/",
+  "page_title": "Search, compare & book trains, buses, flights & ferries - Omio",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/omio/favicon.png",
+      "source_url": "https://static.omio.design/web/icons/omio-android-chrome-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7019,
+      "sha256": "79c266d51e79235d3a5a75d391418ff9e3d90e966d8e26c30a85809816488839",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/omio/og.webp",
+      "source_url": "https://assets.omio.design/lps/hero/desktop/front_page~hero.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6238,
+      "sha256": "ac656e43da98194ee5c2e803b7fcca9871c098b4822d399a2509238ec87ea4cd",
+      "width": 1200,
+      "height": 220
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/omio/logo-1.png",
+      "source_url": "https://static.omio.design/web/rebrand-assets/logo.png",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 8961,
+      "sha256": "1a59b81a3fca2746ab434fd71ae4fff37b659c4ac1bd80ff6f908f6a04562d60",
+      "width": 300,
+      "height": 84
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/omio/og.webp",
+      "source_url": "https://assets.omio.design/lps/hero/desktop/front_page~hero.jpg",
+      "source_tag": "link:preload",
+      "content_type": "image/webp",
+      "bytes": 6238,
+      "sha256": "ac656e43da98194ee5c2e803b7fcca9871c098b4822d399a2509238ec87ea4cd",
+      "width": 1200,
+      "height": 220,
+      "context": "preload image  https://assets.omio.design/lps/hero/desktop/front_page~hero.jpg",
+      "reused_from": "social"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/omio/reference-1.svg",
+      "source_url": "https://static.omio.design/web/content/lps/AppCtaAssets/AppCTABackground.svg",
+      "source_tag": "img:page-image",
+      "context": "img _26b13 div _0d49f div _befae div _b8f59 div _ceb52",
+      "content_type": "image/svg+xml",
+      "bytes": 70761,
+      "sha256": "b1c670711f1503c20ea76a0c366d14513d3e612ad61b2456f2cc98b325e9c6a2",
+      "width": 534,
+      "height": 422
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "company": "아로마티카",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://aromatica.co.kr",
+  "page_url": "https://aromatica.co.kr/",
+  "page_title": "Nature Crafted. Results Proven. - AROMATICA",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://aromatica.co.kr/js/main.js; reference:ValueError:https://aromatica.co.kr/js/common.js; reference:ValueError:https://aromatica.co.kr/js/mainProductSwipe.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/aromatica/favicon.png",
+      "source_url": "https://aromatica.co.kr/layout/basic/img/favicon/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4186,
+      "sha256": "d38af9bb5db7a0e1fd52eacf868972356ec5d7a106af336c42fc91495210874e",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/aromatica/og.webp",
+      "source_url": "https://aromatica.co.kr/layout/basic/img/og_thumbnail.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5552,
+      "sha256": "33b36abe7b0d398ce1294704aa2bbdaaf5d450be3e10a4e6471bc66fc4039385",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/aromatica/logo-1.png",
+      "source_url": "https://aromatica.co.kr/layout/basic/img/logotype_b_new.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img dark_el logo a div header_logo div header_inner clearfix div header",
+      "content_type": "image/png",
+      "bytes": 7070,
+      "sha256": "51991a1e66fd719cc41377422122084366c87314932f1763c13bee43cfe18b08",
+      "width": 600,
+      "height": 155
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/aromatica/logo-2.png",
+      "source_url": "https://aromatica.co.kr/layout/basic/img/logotype_w_new.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img light_el logo a div header_logo div header_inner clearfix div header",
+      "content_type": "image/png",
+      "bytes": 10053,
+      "sha256": "d897a7e7eb90beeb414e6be1908415ffb630d7e0e12f1cd3ec7d93e4bb47790e",
+      "width": 600,
+      "height": 155
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/aromatica/reference-1.webp",
+      "source_url": "https://aromatica.co.kr/web/product/medium/202609/509706e081cc09eebf3838a63c9812aa.jpg",
+      "source_tag": "img:page-image",
+      "context": "img eListPrdImage2456_31 [탈모케어] 로즈마리 스칼프 스케일링 샴푸 750ML a div prdImg div thumbnail li anchorBoxId_2456 item swiper-slide xans-record-",
+      "content_type": "image/webp",
+      "bytes": 16656,
+      "sha256": "754dd337b5cf2352315969dca03fe96d90bbb73e1e46dbbdab1c4ee6e78504b5",
+      "width": 1012,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/aromatica/reference-2.webp",
+      "source_url": "https://aromatica.co.kr/web/upload/renewal/2026/09/2609_new.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div split-left div split-wrap section membersOnlyClearance section main_section section_clearance swiper-progress-ui section_new_arrivals div contents",
+      "content_type": "image/webp",
+      "bytes": 63440,
+      "sha256": "4c2e0e60a0f11273faf5eb24c03fd0ca4638cdb80b985400504a73ea4d6e89fd",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/aromatica/reference-3.webp",
+      "source_url": "https://aromatica.co.kr/web/upload/renewal/2026/06/First_04_pc.jpg",
+      "source_tag": "img:page-image",
+      "context": "img our_story a li our_story ul our_area custom-pc-only-flex section our_section section our_section",
+      "content_type": "image/webp",
+      "bytes": 56590,
+      "sha256": "f5d60022ab09b99291d1f97b6d041d608a00d87f56fadbaef0727b32d6aa93c0",
+      "width": 1800,
+      "height": 1080
+    }
+  ]
+}

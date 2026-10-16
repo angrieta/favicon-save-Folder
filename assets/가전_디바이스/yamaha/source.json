@@ -1,0 +1,96 @@
+{
+  "company": "Yamaha",
+  "category": "가전_디바이스",
+  "requested_url": "https://kr.yamaha.com/",
+  "page_url": "https://kr.yamaha.com/",
+  "page_title": "야마하뮤직코리아 - 대한민국",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/yamaha/favicon.png",
+      "source_url": "https://kr.yamaha.com/ko/assets/common/images/icon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 9307,
+      "sha256": "e4f7c491e92d1b8b65cbc51cd0e09ee964a75faf92f087e4869d4e572802d609",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/yamaha/og.svg",
+      "source_url": "https://kr.yamaha.com/assets/common/images/logo/logo-default-yamaha-purple-01.svg",
+      "source_tag": "og:image",
+      "content_type": "image/svg+xml",
+      "bytes": 10846,
+      "sha256": "1e53efc05b9dfc1a54f55b1c0a8549ffe3ffcdcea58adba2397c438a6f68b62e",
+      "width": 637,
+      "height": 341,
+      "source_sha256": "398a59f581ded8eadadafda6b9c382ad26a9bc16f50a7074f9817bb039c0eacd"
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/yamaha/logo-1.svg",
+      "source_url": "https://kr.yamaha.com/ko/assets/common/images/logo/logo-yamaha-purple-01.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img YAMAHA Make Waves a h1 p-header__logo div p-header__inner div p-header",
+      "content_type": "image/svg+xml",
+      "bytes": 9579,
+      "sha256": "39d2d156276f014817501d6c04187849b3b3c787a93771df0f9742e9d9216088",
+      "width": 118,
+      "height": 46
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/yamaha/banner-1.webp",
+      "source_url": "https://kr.yamaha.com/ko/files/image-btoc_top-20_tcm144-2052044.jpg?impolicy=resize&imwid=1400&imhei=390",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture p-hero__media div p-hero main l-main body html top",
+      "content_type": "image/webp",
+      "bytes": 19172,
+      "sha256": "84da49287774e6206955035b67b91efb6d6c40cf8214fdbc7576310b4ab1eba1",
+      "width": 1400,
+      "height": 390
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/yamaha/reference-1.webp",
+      "source_url": "https://kr.yamaha.com/ko/files/BrandImage2023_FirstDrums_2000x800_en_tcm144-2271786.jpg?impolicy=resize&imwid=2000&imhei=800",
+      "source_tag": "picture:page-image",
+      "context": "picture p-carousel__media a p-carousel__anchor div d p-carousel__item splide__slide div p-carousel__list splide__list div p-carousel__inner splide__track",
+      "content_type": "image/webp",
+      "bytes": 63880,
+      "sha256": "d71628a991d82e31e6c9a70b110c93984f0188c3e9bccef50873ea818c432e04",
+      "width": 1600,
+      "height": 640,
+      "source_sha256": "efa2e94326599a921609996e8d6fc201a44a582ee0b4d1575f22d8ca718ad432"
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/yamaha/reference-2.webp",
+      "source_url": "https://kr.yamaha.com/ko/files/BrandImage2023_FirstDrums_640x900_en_NoButton_tcm144-2271788.jpg?impolicy=large&imwid=770&imhei=1155",
+      "source_tag": "picture:page-image",
+      "context": "picture p-carousel__media a p-carousel__anchor div d p-carousel__item splide__slide div p-carousel__list splide__list div p-carousel__inner splide__track",
+      "content_type": "image/webp",
+      "bytes": 96028,
+      "sha256": "4479405e1383dcfee7c21f7a67a779447a34412334db43b275225e31b31738ab",
+      "width": 770,
+      "height": 1155
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/yamaha/reference-3.webp",
+      "source_url": "https://kr.yamaha.com/ko/files/BrandImage2023_Lullaby_2000x800_en_tcm144-2271791.jpg?impolicy=resize&imwid=2000&imhei=800",
+      "source_tag": "picture:page-image",
+      "context": "picture p-carousel__media a p-carousel__anchor div d p-carousel__item splide__slide div p-carousel__list splide__list div p-carousel__inner splide__track",
+      "content_type": "image/webp",
+      "bytes": 64276,
+      "sha256": "8bb92a839168e1b200405f0172f6caee095289c71de6ea323bb4d2c3c011df36",
+      "width": 1600,
+      "height": 640,
+      "source_sha256": "504d63bf943a8936de9cb2510dbaf6dd31797a39d6930133b9991537f22f8948"
+    }
+  ]
+}

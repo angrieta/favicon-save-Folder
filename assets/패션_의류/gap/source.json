@@ -1,0 +1,48 @@
+{
+  "company": "Gap",
+  "category": "패션_의류",
+  "requested_url": "https://www.gap.com/",
+  "page_url": "https://www.gap.com/",
+  "page_title": "Gap Individual style for Women's, Men's, Baby & Kids' Clothing",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.gap.com/static_content/onesitecategory/components/mfe/_next/static/chunks/1ih9z_l56apxx.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/gap/favicon.ico",
+      "source_url": "https://www.gap.com/static_content/onesitecategory/components/mfe/_next/static/media/icon3.32z58wdk1j-85.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 2958,
+      "sha256": "d3de67bfbdbc041cd0db5b0a55f0a90fcaa75f1d166e669f02e06b73e37981e4",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/gap/logo-1.svg",
+      "source_url": "https://www.gap.com/Asset_Archive/GPWeb/content/0030/015/725/assets/logo/logo_gap--light.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img sw_brand-logo__light-logo sw_brand-logo__logo sw_brand-logo__isSquare Gap logo a sw_brand-logo__logo-header div sw_brand-logo__logo-container sw_brand-logo-container__isSquare sw_brand-logo__logo-container--gap-retheme-v3 div sw_navigat",
+      "content_type": "image/svg+xml",
+      "bytes": 1130,
+      "sha256": "062f79429eae887f08f1c9e82ca7da31a93b55ca127288ac538ae3360a801885",
+      "width": 67,
+      "height": 50,
+      "source_sha256": "460b22571bd30e429e454cce83a467569578e87b3d54a9cb92fb4c8631e8370b"
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/gap/logo-2.svg",
+      "source_url": "https://www.gap.com/Asset_Archive/GPWeb/content/0030/015/725/assets/logo/logo_gap--dark.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img sw_brand-logo__dark-logo sw_brand-logo__logo sw_brand-logo__isSquare Gap logo a sw_brand-logo__logo-header div sw_brand-logo__logo-container sw_brand-logo-container__isSquare sw_brand-logo__logo-container--gap-retheme-v3 div sw_navigati",
+      "content_type": "image/svg+xml",
+      "bytes": 1130,
+      "sha256": "97970571884b6f8ee4977e1b804f68dc0c3e3dd06b3053cb80f76613e32c8e9c",
+      "width": 67,
+      "height": 50,
+      "source_sha256": "84b19e197bfad5c5809b9408ab26cb294be6d1a4ee7fe1a2e0f675286da99060"
+    }
+  ]
+}

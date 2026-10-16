@@ -1,0 +1,119 @@
+{
+  "company": "Calendly",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://calendly.com/",
+  "page_url": "https://calendly.com/",
+  "page_title": "Meeting Scheduling Software and AI Meeting Tools | Calendly",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://calendly.com/media/logo.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/calendly/favicon.png",
+      "source_url": "https://calendly.com/media/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5536,
+      "sha256": "7aa0b498f8864144e65b200eabee7cb8c5c3f6aab6300058823b7f5574b47526",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/calendly/og.webp",
+      "source_url": "https://calendly.com/media/OgImage-v2.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 37334,
+      "sha256": "e1ad267c49e177895bf6c5636be3c5dda0fa3e4ccf50fbf982c35844f715a436",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/calendly/logo-1.png",
+      "source_url": "https://cdn.calendlycms.com/google-logo-mark.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-full w-auto div flex shrink-0 items-center m-1 h-lg div flex items-center gap-sm div flex items-center gap-sm div flex items-center justify-between w-full",
+      "content_type": "image/png",
+      "bytes": 16656,
+      "sha256": "ef2b6c8b8374a03a2a1565461e407f39644f8926858940d387fe2af9f899b87c",
+      "width": 200,
+      "height": 204
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/calendly/logo-2.webp",
+      "source_url": "https://cdn.calendlycms.com/achievement-selected.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img absolute inset-0 size-full object-cover Achievement First team member working with a student, with the organization logo div relative shrink-0 overflow-clip self-stretch squircle rounded-ui-fixed-xl bg-linen div size-full flex gap-md p-",
+      "content_type": "image/webp",
+      "bytes": 65048,
+      "sha256": "4690f8c7474b434d496ba76dd9b7503c85365111f414666d3ac03d3110b04823",
+      "width": 722,
+      "height": 962
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/calendly/banner-1.svg",
+      "source_url": "https://calendly.com/_astro/fallback-hero-gradient.ylUwiRpO.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img size-full object-cover select-none div pointer-events-none absolute inset-0 z-0 overflow-hidden div relative flex justify-center w-full max-w-[1920px] overflow-clip rounded-ui-fixed-2xl relative section flex w-full justify-center p-2 tb",
+      "content_type": "image/svg+xml",
+      "bytes": 2534,
+      "sha256": "3914d59bca2ef0e6e97e2679ac6be3c8cf1023bb70de8420b06d30285b588cc3",
+      "width": 1392,
+      "height": 1076,
+      "source_sha256": "2ae471bd14aa7eab3e54d5eb150585ee14c183b49f5b45f59d27374774bd0555"
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/calendly/banner-2.svg",
+      "source_url": "https://calendly.com/_astro/hero-animation-background.AxdOoA_y.svg",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute left-0 top-0 h-full w-[var(--multi-product-hero-gradient-track-width)] max-w-none div pointer-events-none absolute inset-0 z-0 overflow-hidden div mx-auto pointer-events-auto squircle overflow-hidden rounded-ui-fixed-2xl bg-ash",
+      "content_type": "image/svg+xml",
+      "bytes": 9722,
+      "sha256": "be686f11efcc8a61ed175f10591c5e1e36f7e10b42b1865cc9a7ce454b3f70e2",
+      "width": 5968,
+      "height": 901
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/calendly/reference-1.svg",
+      "source_url": "https://calendly.com/_astro/timeline-background.UWFBJqGi.svg",
+      "source_tag": "img:page-image",
+      "context": "img size-full object-cover select-none div pointer-events-none absolute inset-0 z-0 overflow-hidden div relative flex justify-center w-full max-w-[1920px] overflow-clip rounded-ui-fixed-2xl relative section flex w-full justify-center p-2 tb",
+      "content_type": "image/svg+xml",
+      "bytes": 395,
+      "sha256": "5b211d07c1264ba3addfd3fb9fc5e5635043e02eb5f6961e10140b42a5a9766c",
+      "width": 1392,
+      "height": 1143,
+      "source_sha256": "83b4518f3be1c63d12280c294217657f4b34fd138ab522e0957eba8d961cc444"
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/calendly/reference-2.webp",
+      "source_url": "https://cdn.calendlycms.com/book-active-bg-gradient-1.png",
+      "source_tag": "img:page-image",
+      "context": "img absolute left-1/2 top-1/2 size-full -translate-x-1/2 -translate-y-1/2 bg-white object-cover ui-tb:h-[100cqw] ui-tb:w-[100cqh] ui-tb:max-h-none ui-tb:max-w-none ui-tb:-rotate-90 ui-tb:object-fill ui-dsk:size-full ui-dsk:max-h-full ui-dsk",
+      "content_type": "image/webp",
+      "bytes": 3974,
+      "sha256": "4c03f15fe9b2e6c2085f502a532824156118e493400acf0c066fb9ba498a05ff",
+      "width": 768,
+      "height": 520
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/calendly/reference-3.webp",
+      "source_url": "https://cdn.calendlycms.com/book-active-foreground-1.png",
+      "source_tag": "img:page-image",
+      "context": "img absolute bottom-0 left-1/2 size-full -translate-x-1/2 object-cover object-center ui-tb:h-full ui-tb:w-auto ui-tb:max-h-full ui-tb:max-w-full ui-tb:object-contain ui-tb:object-bottom ui-dsk:size-full ui-dsk:object-cover ui-dsk:object-cen",
+      "content_type": "image/webp",
+      "bytes": 56616,
+      "sha256": "e0627d5eb6909e5a34091cfb503f0d5451c4dac911c4da5d3bf84c11532dbc44",
+      "width": 768,
+      "height": 520
+    }
+  ]
+}

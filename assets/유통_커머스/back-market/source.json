@@ -1,0 +1,69 @@
+{
+  "company": "Back Market",
+  "category": "유통_커머스",
+  "requested_url": "https://www.backmarket.com",
+  "page_url": "https://www.backmarket.com/en-us",
+  "page_title": "Refurbished tech that's better for the planet | Back Market",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/enn8o0bkcrbmog0tbm98; reference:HTTPError:https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/ymvblntd67xfvkgdua7i; reference:HTTPError:https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/fikykrgbg1s9whaynlru",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/back-market/favicon.png",
+      "source_url": "https://www.backmarket.com/favicon-96x96.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 702,
+      "sha256": "ed20d9e4fc3bcb8649a937c0e79ee4b6738024aade0182837a2a252d47edf97f",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/back-market/og.webp",
+      "source_url": "https://images.ctfassets.net/mmeshd7gafk1/5BDjAiB7WVkFJcE5MXLNy4/5e0ded78b71c4ed47727f0c56dda4d13/social-link-preview.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 299876,
+      "sha256": "c22acee96e33ebdef741b1470b7e8a5cbc930d08d3c179c70364ac1e3d2aa189",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/back-market/logo-1.svg",
+      "source_url": "https://front-office.statics.backmarket.com/e699d8a684d09c905d4a778fadb137120c1781d8/img/b-corp/B-Corp-Logo-Black.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-[76px] w-[46px] shrink-0 h-auto max-h-full max-w-full leading-none BCorp Logo div flex flex-wrap justify-start gap-16 div nav md:basis-full div flex list-none flex-col gap-32 md:flex-row",
+      "content_type": "image/svg+xml",
+      "bytes": 8900,
+      "sha256": "dfdc96546bbc7a6f847beb5f2cd01cfb53f66e6a600c906b81ddc6d822c29b66",
+      "width": 78,
+      "height": 129
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/back-market/logo-2.webp",
+      "source_url": "https://images.ctfassets.net/mmeshd7gafk1/5BDjAiB7WVkFJcE5MXLNy4/906aecd28464a3996c514d1b02a00983/SEO-Website-Thumbnail.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 13436,
+      "sha256": "8c844ed24d1cf7a0c118a49726228961e32c7fff29dab11d6015451b88a405ae",
+      "width": 516,
+      "height": 258
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/back-market/banner-1.webp",
+      "source_url": "https://www.backmarket.com/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D3840/https://images.ctfassets.net/mmeshd7gafk1/2iMcr2hVuqVOfdlShNMQ65/c5e0cedfc4facce6d5662b6cf1a4c9ec/HP-US_Hero_MacBookAirM4.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture absolute h-full w-full flex justify-center div relative min-h-[104px] overflow-hidden w-full order-1 md:order-2 md:max-w-[540px] div z-[1] min-h-[584px] md:min-h-[480px] grid grid-cols-1 md:grid-cols-2 gap-y-20 md:gap-y-0 md:gap-x-4",
+      "content_type": "image/webp",
+      "bytes": 101212,
+      "sha256": "57ee592e80409384dff428c016752c4821cbe2e120f74121da17d9f6e28fa6f5",
+      "width": 1438,
+      "height": 856
+    }
+  ]
+}

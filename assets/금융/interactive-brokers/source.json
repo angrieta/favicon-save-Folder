@@ -1,0 +1,110 @@
+{
+  "company": "Interactive Brokers",
+  "category": "금융",
+  "requested_url": "https://www.interactivebrokers.com",
+  "page_url": "https://www.interactivebrokers.com/",
+  "page_title": "Home | Interactive Brokers LLC",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/interactive-brokers/favicon.png",
+      "source_url": "https://www.interactivebrokers.com/images/web/favicons/home-screen-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4586,
+      "sha256": "1f2fc54d0dac7e9958e8c2bf85289b4178ceea01186f5e6a783e1f4702878b6d",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "0702f213ff098319d8f9af1f9ed8abb06607358b35bec65ab6335a0e16ea6d05"
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/interactive-brokers/logo-1.png",
+      "source_url": "https://www.interactivebrokers.com/images/web/logos/ib-logo-text-white.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 4967,
+      "sha256": "917a7547c0632418c679efb5ff069ff746c9ab1ba26bb81d7ed7bf0f6c86a417",
+      "width": 486,
+      "height": 75
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/interactive-brokers/logo-2.svg",
+      "source_url": "https://www.interactivebrokers.com/images/web/logo-awards-section-broker-chooser.svg?v1",
+      "source_tag": "img:semantic-logo",
+      "context": "img award-img mb-3 BrokerChooser div col-12 col-lg-4 d-none d-lg-block div row justify-content-center text-center mt-4 div container section hero d-flex flex-column",
+      "content_type": "image/svg+xml",
+      "bytes": 11666,
+      "sha256": "30423c1046efee4c735b941d3d10c64d6b7ba6a5d6abd18f1034cdb361c3e37e",
+      "width": 175,
+      "height": 23,
+      "source_sha256": "af08d38fd1bdc5b7616398e153bbedb282191517c45cf18c211b963c1ceeb710"
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/interactive-brokers/banner-1.webp",
+      "source_url": "https://www.interactivebrokers.com/images/dam/home/hero-ibkr-home-xl.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture mx-auto div hero-bg-container section hero d-flex flex-column div contents body",
+      "content_type": "image/webp",
+      "bytes": 87108,
+      "sha256": "def58e6d50d63b4f7882da2954b7066c2f6738459f0cd1fc91e41ceec6e8186b",
+      "width": 1600,
+      "height": 922,
+      "source_sha256": "b0f8d8ed9c69a845347832dccc2995e9fd3215eb3d32717ee2889f9f185b2ede"
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/interactive-brokers/banner-2.webp",
+      "source_url": "https://www.interactivebrokers.com/images/dam/home/hero-ibkr-home-xl.png",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture mx-auto div hero-bg-container section hero d-flex flex-column div contents body",
+      "content_type": "image/webp",
+      "bytes": 86874,
+      "sha256": "8b2e35b4d87fcd151aafc2b3f5881c742edf01776ccae8d5fb902703cfef2316",
+      "width": 1600,
+      "height": 922,
+      "source_sha256": "4b587f5431d32f7ada6773e025265be957c3f8185322a2f6b36d4eaa598cf360"
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/interactive-brokers/reference-1.webp",
+      "source_url": "https://www.interactivebrokers.com/images/dam/home/hero-ibkr-home-lg.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture mx-auto div hero-bg-container section hero d-flex flex-column div contents body",
+      "content_type": "image/webp",
+      "bytes": 77408,
+      "sha256": "20ab61d6b732ce2009837b349cbfde558f93c7487525e7c38b1dd0ebdff1b29c",
+      "width": 1409,
+      "height": 812
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/interactive-brokers/reference-2.webp",
+      "source_url": "https://www.interactivebrokers.com/images/dam/home/hero-ibkr-home-lg.png",
+      "source_tag": "picture:page-image",
+      "context": "picture mx-auto div hero-bg-container section hero d-flex flex-column div contents body",
+      "content_type": "image/webp",
+      "bytes": 88798,
+      "sha256": "cbe3ad4fa98cc4a7c4e29cad993dec58bd13a1a69a046bf3dc2fc0126973f83a",
+      "width": 1409,
+      "height": 812
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/interactive-brokers/reference-3.webp",
+      "source_url": "https://www.interactivebrokers.com/images/dam/home/hero-ibkr-home-md.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture mx-auto div hero-bg-container section hero d-flex flex-column div contents body",
+      "content_type": "image/webp",
+      "bytes": 65684,
+      "sha256": "fbde8e65681035ef9e5133ef5b1cf67e617ebf214dd18bf8595ed16e7faca59e",
+      "width": 1233,
+      "height": 711
+    }
+  ]
+}

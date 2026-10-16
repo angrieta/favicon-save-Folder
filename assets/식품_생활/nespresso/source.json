@@ -1,0 +1,34 @@
+{
+  "company": "Nespresso",
+  "category": "식품_생활",
+  "requested_url": "https://www.nespresso.com/kr/ko/",
+  "page_url": "https://www.nespresso.com/kr/ko",
+  "page_title": "네스프레소 공식 웹사이트 | 캡슐커피 & 커피머신 | 네스프레소 코리아",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.nespresso.com/_ui/generated/crema/styles.d6eb8ae26fbda1e56d24.js; reference:ValueError:https://www.nespresso.com/_ui/generated/crema/styles.e47ba4d091ca8ab9f582.css; reference:ValueError:https://www.nespresso.com/_ui/generated/crema/glyphs.ec55ad4abc27eadafb9e.js; reference:ValueError:https://www.nespresso.com/shared_res/agility/next-components/header-navigation/v1.1/css/header-navigation.css; reference:ValueError:https://www.nespresso.com/shared_res/agility/next-components/foundations/v1.1/css/foundations.css; reference:ValueError:https://www.nespresso.com/shared_res/agility/next-components/header-navigation/v1.1/index.es.min.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/nespresso/favicon.ico",
+      "source_url": "https://www.nespresso.com/_ui/img/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1406,
+      "sha256": "3c05e906be2fb11d3d139f62e4c31e2477e867752627546117c402dcf207e384",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/nespresso/logo-1.svg",
+      "source_url": "https://www.nespresso.com/shared_res/agility/next-components/assets/icons/logotypes/nespresso/nespresso-logo-dark.svg",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 3746,
+      "sha256": "80f0a4233d51af72264938888f51bc8a670bcf7ff00efaec909e305428576cfa",
+      "width": 137,
+      "height": 24
+    }
+  ]
+}

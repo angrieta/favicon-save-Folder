@@ -1,0 +1,45 @@
+{
+  "company": "오마이뉴스",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.ohmynews.com/",
+  "page_url": "https://www.ohmynews.com/",
+  "page_title": "오마이뉴스 - 모든 시민은 기자다",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/ohmynews/favicon.ico",
+      "source_url": "https://ojsimg.ohmynews.com/images/ohmynews/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 18718,
+      "sha256": "79e5c35703d3833ebec8bfb70eea4ddb90c47cba68d6065a5b271057e180ee29",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/ohmynews/og.webp",
+      "source_url": "https://ojsimg.ohmynews.com/sns/ohmynews_og.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14140,
+      "sha256": "5aa6ae97e0da4367fed8fa36e9874b7f901eb61631ecfa8f8295becbc7ce6914",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/ohmynews/reference-1.webp",
+      "source_url": "https://ojsfile.ohmynews.com/ED_T_IMG/2026/0929/ET001_T0016_A0003271080_1_193805.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 논란의 '암살자(들)' 본 역사교사의 민망한 고백 figure tab active a div thum-screenover div rollover share",
+      "content_type": "image/webp",
+      "bytes": 29878,
+      "sha256": "294d066b0856d5098ee863338be2575e888e79a6f80b4613ac66a9a071f62f01",
+      "width": 485,
+      "height": 559
+    }
+  ]
+}

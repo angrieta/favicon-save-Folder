@@ -1,0 +1,94 @@
+{
+  "company": "브런치스토리",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://brunch.co.kr/",
+  "page_url": "https://brunch.co.kr/",
+  "page_title": "브런치",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/brunch-story/favicon.png",
+      "source_url": "https://t1.kakaocdn.net/brunch/static/icon/ios/brunchstory/ico_bi_180.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 2597,
+      "sha256": "081f64cbd18ea5bf1c37c8cf3e0ca463f7758ece2cf7d27506b8e90561c9308c",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/brunch-story/og.webp",
+      "source_url": "https://t1.kakaocdn.net/brunch/static/img/help/cbt/og_image_large.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 25674,
+      "sha256": "513c042caa69679b8fc89916bb1a18eecffd6452cb903dc8a79b3650e5b87aa0",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/brunch-story/logo-1.svg",
+      "source_url": "https://t1.kakaocdn.net/brunch/static/img/icon/logo_bi_brunch.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 브런치 로고 h3 tit_brunch div intro_brunch article mArticle div cMain",
+      "content_type": "image/svg+xml",
+      "bytes": 2144,
+      "sha256": "d9f79a77a0c288e9c997814050d121d04bb3516f5a8c0b596562a41168fec551",
+      "width": 48,
+      "height": 48,
+      "source_sha256": "f2f0ce8593c6e8e335b222b31305264364851fc11ddd4587f3733b5e94932088"
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/brunch-story/banner-1.webp",
+      "source_url": "https://t1.kakaocdn.net/brunch/op/3b76d3a4d69c4c6089395ed7047785e2.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img txt_banner 브런치 상단 배너 이미지 a link_banner link_bnr_l li item_banner ul list_banner div wrap_banner #home_promotion",
+      "content_type": "image/webp",
+      "bytes": 95894,
+      "sha256": "64befb480fc280961e86a1c5289110befcc4878264e3ee6314e12fb31fa6346d",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/brunch-story/banner-2.webp",
+      "source_url": "https://t1.kakaocdn.net/brunch/op/28a95823683143bd9db17b42bd523aa5.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img txt_banner 브런치 상단 배너 이미지 a link_banner link_bnr_l li item_banner init ul list_banner div wrap_banner #home_promotion",
+      "content_type": "image/webp",
+      "bytes": 74864,
+      "sha256": "f64bb0f779afad20f77d5436b2359a233f6abd512cbb6e2b0daf5f6f9920c670",
+      "width": 1800,
+      "height": 900
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/brunch-story/reference-1.webp",
+      "source_url": "https://t1.kakaocdn.net/brunch/op/823c0705f5ec46fb969c76df041b55f5.png",
+      "source_tag": "inline-background-image",
+      "context": "a  link_banner link_bnr_l background-image:url(//t1.kakaocdn.net/brunch/op/823c0705f5ec46fb969c76df041b55f5.png)",
+      "content_type": "image/webp",
+      "bytes": 1818,
+      "sha256": "a6d95c99625342ffe9d185a483c73c827504f4abc0c77beef13d826de4bd50c4",
+      "width": 1800,
+      "height": 540
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/brunch-story/reference-2.webp",
+      "source_url": "https://t1.kakaocdn.net/brunch/op/9f666f05a0a244fc8f6745a14d061f3d.png",
+      "source_tag": "inline-background-image",
+      "context": "a  link_banner link_bnr_l background-image:url(//t1.kakaocdn.net/brunch/op/9f666f05a0a244fc8f6745a14d061f3d.png)",
+      "content_type": "image/webp",
+      "bytes": 1822,
+      "sha256": "105f40739510d7990598f5e7f698b0deb3ac395c6286f9507e532fb3cfb104dc",
+      "width": 1800,
+      "height": 540
+    }
+  ]
+}

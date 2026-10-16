@@ -1,0 +1,33 @@
+{
+  "company": "Venmo",
+  "category": "핀테크_결제",
+  "requested_url": "https://venmo.com/",
+  "page_url": "https://venmo.com/",
+  "page_title": "Pay Friends | Payments App | Venmo",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.paypalobjects.com/venmocmsnodeweb/assets/rolldown-runtime-CEFd7nDs-BCZFoyCZ.js; reference:ValueError:https://www.paypalobjects.com/marketing/pp-com-components/component-chunks/TextSection-BosYhd5F.css; reference:ValueError:https://www.paypalobjects.com/marketing/pp-com-components/component-chunks/ProductScrollSection-B9tYTfic.css; reference:ValueError:https://www.paypalobjects.com/marketing/pp-com-components/component-chunks/Spacer-CNMe14Gq.css; reference:ValueError:https://www.paypalobjects.com/marketing/pp-com-components/component-chunks/StackSection-CEdYxq8a.css; reference:ValueError:https://www.paypalobjects.com/marketing/pp-com-components/component-chunks/StickyQrBadge-CxXGkpIO.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/venmo/favicon.png",
+      "source_url": "https://www.paypalobjects.com/venmocmsnodeweb/brand-assets/favicons/favicon_258x258.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7968,
+      "sha256": "6437074418fd40ef91d2b4abc7e571679d688020f3208b1c833c9df3a1526e5b",
+      "width": 256,
+      "height": 255
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/venmo/og.webp",
+      "source_url": "https://www.paypalobjects.com/venmocmsnodeweb/us/homepage/homepage-meta-new.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 34412,
+      "sha256": "e752a340067bdd5c26916a70f239fcd6bb0cb1a8136e6b622ec8dcc0e4145c61",
+      "width": 1200,
+      "height": 633
+    }
+  ]
+}

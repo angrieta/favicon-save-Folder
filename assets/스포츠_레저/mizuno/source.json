@@ -1,0 +1,93 @@
+{
+  "company": "Mizuno",
+  "category": "스포츠_레저",
+  "requested_url": "https://kor.mizuno.com/",
+  "page_url": "https://kor.mizuno.com/",
+  "page_title": "미즈노",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://kor.mizuno.com/{; reference:HTTPError:https://kor.mizuno.com/{; reference:ValueError:https://www.facebook.com/tr?id=824651153870263&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/mizuno/favicon.ico",
+      "source_url": "https://kor.mizuno.com/web/upload/favicon-2afafadb29919baad57c196dc4cc5d0b.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "6002dd7d4ea73e60a8dca9e4279792c688e114924d8a2a9c9d06aabeed176c21",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/스포츠_레저/mizuno/og.webp",
+      "source_url": "https://kor.mizuno.com/web/upload/share-image-1-a341296d8f7d97507762bfbbdc9f632c.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7612,
+      "sha256": "ce6c6b15669cbb02112c5d47bd451d57977c7e8cdfe6fa9946a2794c88f72e18",
+      "width": 628,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/mizuno/logo-1.png",
+      "source_url": "https://kor.mizuno.com/web/upload/kment/icon/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div top_left_logo div top_left div contents_inner",
+      "content_type": "image/png",
+      "bytes": 34057,
+      "sha256": "8910a11eaffeaf3f7a521cd135e86100a54442a9432915f0c81be55f74c4fd42",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/mizuno/logo-2.png",
+      "source_url": "https://kor.mizuno.com/web/upload/kment/icon/brand_icon_01.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div icon_wrap a item_inner div about_item div about_container",
+      "content_type": "image/png",
+      "bytes": 816,
+      "sha256": "94af95f23746b631c310ad2591da263843706b2fe228cc549adb5519d804a03c",
+      "width": 125,
+      "height": 124
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/mizuno/reference-1.webp",
+      "source_url": "https://kor.mizuno.com/web/product/medium/202510/3f8f671eceecdbf42920f1bf1c36afbe.jpg",
+      "source_tag": "img:page-image",
+      "context": "img eListPrdImage10966_32 FLEECE NECK WARMER a div prdImg div swiper-slide xans-record- ul prdList swiper-wrapper best_eq",
+      "content_type": "image/webp",
+      "bytes": 6822,
+      "sha256": "7b5dad89b7b7dcdd11b8e4e20a23e2fed7affb457ed82f861e7f6a68a9ca1347",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/mizuno/reference-2.webp",
+      "source_url": "https://kor.mizuno.com/web/product/small/202510/b8d35bc6d4ddf5a221f24498d7c1c060.jpg",
+      "source_tag": "img:page-image",
+      "context": "img hover_image a div prdImg div swiper-slide xans-record- ul prdList swiper-wrapper best_eq",
+      "content_type": "image/webp",
+      "bytes": 7966,
+      "sha256": "10420ddc9f39835457791396bdbab3fb93180e9918cc65837883d8fb0f77b1e1",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/mizuno/reference-3.webp",
+      "source_url": "https://kor.mizuno.com/web/product/medium/shop1_5a37ff23e591f98c824d7481faa701c2.jpg",
+      "source_tag": "img:page-image",
+      "context": "img eListPrdImage10954_32 PERFORMANCE BEANIE a div prdImg div swiper-slide xans-record- ul prdList swiper-wrapper best_eq",
+      "content_type": "image/webp",
+      "bytes": 10404,
+      "sha256": "9858d8d4de3c8fd86dab1c15614bd0ebd63988f6eaffb160ae40c4e18ef8f298",
+      "width": 600,
+      "height": 800
+    }
+  ]
+}

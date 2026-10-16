@@ -1,0 +1,57 @@
+{
+  "company": "GoPro",
+  "category": "가전_디바이스",
+  "requested_url": "https://gopro.com/ko/kr/",
+  "page_url": "https://gopro.com/ko/kr/",
+  "page_title": "GoPro | 어드벤처에 최적화된 카메라 | 지금 구매 & 절약",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://static.gopro.com/fonts/sohne-schmal/v2.0/sohne-schmal-fett.woff2; reference:ValueError:https://gopro.com/_next/static/media/icons.d74c28c8.woff2; reference:ValueError:https://gopro.com/_next/static/css/2c75befd096a6bff.css; reference:ValueError:https://gopro.com/_next/static/css/376f97bb0d007b15.css; reference:ValueError:https://gopro.com/_next/static/css/39ef56e567156f08.css; reference:ValueError:https://gopro.com/_next/static/css/5390908b9cfc7e56.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/gopro/favicon.ico",
+      "source_url": "https://static.gopro.com/favicons/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "e6f7b53cb8b2a49db6957277a4ca1543862db4ece2cda6d598724e0f81807975",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/gopro/og.webp",
+      "source_url": "https://static.gopro.com/assets/blta2b8522e5372af40/bltf4708769ad8a4fa8/66ac8aafd141064732558510/01-pdp-h13-gallery-1024.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20060,
+      "sha256": "d71e09c44e88fb25b3f6ce9e4460e5de03ddfd2583d6e44b561447fbf4b6edb0",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/gopro/banner-1.webp",
+      "source_url": "https://static.gopro.com/assets/blta2b8522e5372af40/blt26e8bda1911322cd/6a8c887836492a568e85ed3b/00-mission-ils-hp-promo---md.jpg?width=8192&quality=80&auto=webp&disable=upscale",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture GPPictureOptimizedForInitialPageLoad_picture__cAtt4 div GPPicture_rootContainer__4Ojth GPPicture_loading__Jgbgm skeleton-loader div Slide_rootContainer__vfrLL Slide_isOneSlide__oArqm Slide_themeDesktopDark___PwAX Slide_themeMobileDa",
+      "content_type": "image/webp",
+      "bytes": 55382,
+      "sha256": "7d5fe61244b8125da7b503ee1e7f3f4d213b99a623b035d94252337508aa2aab",
+      "width": 1800,
+      "height": 879
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/gopro/banner-2.webp",
+      "source_url": "https://static.gopro.com/assets/blta2b8522e5372af40/blt056ea0c66e4070cf/6a8c88794acc969f2e248c16/00-mission-ils-hp-promo---lg.jpg?width=8192&quality=80&auto=webp&disable=upscale",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture GPPictureOptimizedForInitialPageLoad_picture__cAtt4 div GPPicture_rootContainer__4Ojth GPPicture_loading__Jgbgm skeleton-loader div Slide_rootContainer__vfrLL Slide_isOneSlide__oArqm Slide_themeDesktopDark___PwAX Slide_themeMobileDa",
+      "content_type": "image/webp",
+      "bytes": 60646,
+      "sha256": "b6a560a0ea5cac02816c0f10e7ff7bf796f3209bbf8b5ead0126170963189ccd",
+      "width": 1800,
+      "height": 984
+    }
+  ]
+}

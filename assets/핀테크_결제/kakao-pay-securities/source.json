@@ -1,0 +1,70 @@
+{
+  "company": "카카오페이증권",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.kakaopaysec.com/",
+  "page_url": "https://www.kakaopaysec.com/",
+  "page_title": "카카오페이증권",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/kakao-pay-securities/favicon.ico",
+      "source_url": "https://www.kakaopaysec.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "9ede98277ab2a56fa0b7ba85f1b541e04787ab870f8f1545b834f9a72cc42afd",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/kakao-pay-securities/logo-1.png",
+      "source_url": "https://www.kakaopaysec.com/resources/images/st1_obj_brand.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img brand 카카오페이증권 div floating-obj div section-inner section main-section kv st1 div main-container main-new",
+      "content_type": "image/png",
+      "bytes": 2930,
+      "sha256": "ac183498c681cf296bc432be5de2a19ca52ac67d706e74dc84b4b7a82fef9b96",
+      "width": 183,
+      "height": 38
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/kakao-pay-securities/logo-2.png",
+      "source_url": "https://www.kakaopaysec.com/resources/images/bi-footer.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img kakaopay securities p foot-bi div inner footer div wrap",
+      "content_type": "image/png",
+      "bytes": 27608,
+      "sha256": "a3f84680c5a5f0a28e66c6bddd4c7515d3d726fce575b67a28e3ba38b8c7d16e",
+      "width": 500,
+      "height": 58
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/kakao-pay-securities/reference-1.webp",
+      "source_url": "https://www.kakaopaysec.com/resources/images/st1_obj_copy1.png",
+      "source_tag": "img:page-image",
+      "context": "img copy1 div floating-obj div section-inner section main-section kv st1 div main-container main-new",
+      "content_type": "image/webp",
+      "bytes": 6912,
+      "sha256": "0fbd0174beaa624848db336ca8d6516d09d58d8505868fd1ec27c4ceafd97822",
+      "width": 520,
+      "height": 394
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/kakao-pay-securities/reference-2.webp",
+      "source_url": "https://www.kakaopaysec.com/resources/images/st1_obj_copy2.png",
+      "source_tag": "img:page-image",
+      "context": "img copy2 div floating-obj div section-inner section main-section kv st1 div main-container main-new",
+      "content_type": "image/webp",
+      "bytes": 9900,
+      "sha256": "09e2073f0479f5cfecac87bf87f0e106517fa867b920c1cc58bf1ba68a0f18b1",
+      "width": 510,
+      "height": 572
+    }
+  ]
+}

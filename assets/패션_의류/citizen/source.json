@@ -1,0 +1,58 @@
+{
+  "company": "Citizen",
+  "category": "패션_의류",
+  "requested_url": "https://www.citizenwatch-global.com/",
+  "page_url": "https://www.citizenwatch-global.com/",
+  "page_title": "CITIZEN WATCH Global Network",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=921552187880282&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/citizen/favicon.ico",
+      "source_url": "https://www.citizenwatch-global.com/cms/global/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "5280518453ba65587f5068906f33a95103e1160fcbe3b7eedbff495a151a666e",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/citizen/logo-1.svg",
+      "source_url": "https://www.citizenwatch-global.com/cms/global/img/usr/header/sitelogo.svg?240607",
+      "source_tag": "img:semantic-logo",
+      "context": "img CITIZEN h1 a header-logo header div header_wrap forcms_block",
+      "content_type": "image/svg+xml",
+      "bytes": 2009,
+      "sha256": "80edaf6558c9f394b42e64e8824091b42f4cc1e4bee8a239f6d3faae5bd14eff",
+      "width": 333,
+      "height": 61
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/citizen/reference-1.webp",
+      "source_url": "https://www.citizenwatch-global.com/cms/global/img/usr/mv/bnr_1000_560_gl_sp_photon.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a div keyvisualSlider_item div js-keyvisualSlider keyvisualSlider div forcms_block",
+      "content_type": "image/webp",
+      "bytes": 54016,
+      "sha256": "e29fd87288e6fc1acf0f4a8fd8342efd89deb0ea4e42a2890ce13ea118aca3d2",
+      "width": 1000,
+      "height": 560
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/citizen/reference-2.webp",
+      "source_url": "https://www.citizenwatch-global.com/cms/global/img/usr/mv/img_slider_16.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a div keyvisualSlider_item div js-keyvisualSlider keyvisualSlider div forcms_block",
+      "content_type": "image/webp",
+      "bytes": 96854,
+      "sha256": "79677f365eaf0d03babac5b27a71eb802eb9acf60a063f2ca4627268f9d19a3b",
+      "width": 1000,
+      "height": 560
+    }
+  ]
+}

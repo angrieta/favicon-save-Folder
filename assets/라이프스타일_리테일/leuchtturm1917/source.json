@@ -1,0 +1,85 @@
+{
+  "company": "Leuchtturm1917",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.leuchtturm1917.com/",
+  "page_url": "https://www.leuchtturm1917.com/",
+  "page_title": "LEUCHTTURM1917",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.leuchtturm1917.com/media/cms/files/3tfwb9.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/leuchtturm1917/favicon.png",
+      "source_url": "https://www.leuchtturm1917.com/layouts/leuchtturm1917/images/mobile/apple-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5192,
+      "sha256": "6ad716e70b3427d70dc6572c694e74f9771d857d16ff2c32ec6c542f2a19dc6d",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "067b40f0305741f7f6f49696bc3a1c9fbdb097e4050a2338f837f89773b2e519"
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/leuchtturm1917/logo-1.svg",
+      "source_url": "https://www.leuchtturm1917.com/layouts/leuchtturm1917/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img img-responsive Leuchtturm1917 Stationery Leuchtturm1917 a site-logo h1 header-logo div row div container",
+      "content_type": "image/svg+xml",
+      "bytes": 17625,
+      "sha256": "2b89b6c5dac1fa25f1a91001bc45ef1a4559afa01bfe2dfcd8fe623c4a955448",
+      "width": 263,
+      "height": 44,
+      "source_sha256": "945ce92a5b912ca7f707d0fa7e8cac84bae134c5e46f7976e4fa9ada180b8fc9"
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/leuchtturm1917/logo-2.png",
+      "source_url": "https://www.leuchtturm1917.com/layouts/leuchtturm1917/images/logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 5181,
+      "sha256": "f8953239e019644e2f850384ba4d9b08f24081a236fb087e2ba1a919c36ba743",
+      "width": 264,
+      "height": 45
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/leuchtturm1917/reference-1.webp",
+      "source_url": "https://www.leuchtturm1917.com/media/cms/files/gidos7.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img-responsive Discover more a div col-sm-5 div row div content-wrapper lt-temp-1",
+      "content_type": "image/webp",
+      "bytes": 118332,
+      "sha256": "775b769192ca3c4657374987c2e876d1e63ad4a6452ee37ef7319866834fcdfb",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/leuchtturm1917/reference-2.webp",
+      "source_url": "https://www.leuchtturm1917.com/media/cms/files/d9mi43025644.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img-responsive Discover more a div col-sm-5 col-sm-push-7 div row div content-wrapper lt-temp-1",
+      "content_type": "image/webp",
+      "bytes": 36066,
+      "sha256": "dedaaa914991287da0b576a52dda67de8c373e96f8eae64d209769c12af28625",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/leuchtturm1917/reference-3.webp",
+      "source_url": "https://www.leuchtturm1917.com/media/cms/files/kdf5ba112335.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img-responsive Discover more a div col-sm-5 div row div content-wrapper lt-temp-1",
+      "content_type": "image/webp",
+      "bytes": 180330,
+      "sha256": "48882d3b02cb56394b972186e6949c0a82e6ffe95f6bb23ffc14ef0892f39189",
+      "width": 1080,
+      "height": 1080,
+      "source_sha256": "1d572c1ffb61cd7f3bc0ad3c3ab903d5481cb921494b9798141fc96128b2d510"
+    }
+  ]
+}

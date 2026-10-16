@@ -1,0 +1,118 @@
+{
+  "company": "CNN",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.cnn.com/",
+  "page_url": "https://edition.cnn.com/",
+  "page_title": "Breaking News, Latest News and Videos | CNN",
+  "collection_status": "complete",
+  "collection_error": "reference:HTTPError:https://edition.cnn.com/c_fill/f_webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/cnn/favicon.png",
+      "source_url": "https://edition.cnn.com/media/sites/cnn/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5268,
+      "sha256": "cf55cb016edb53b2e5afe689c2213b3de533d8449f8445385391ce4164eaa3cc",
+      "width": 76,
+      "height": 76
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/cnn/og.webp",
+      "source_url": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5510,
+      "sha256": "38afbb66adfcd88dd56f68878d69601aeac105aed3bf5fcadd6df63bdb736ae3",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/cnn/logo-1.webp",
+      "source_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnn-headlines-international-logo-v2.png?c=16x9&q=w_1280",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture image__picture div image__container div image vossi-image image__hide-placeholder div video-resource__image div player-cms.cnn.com/_components/video-player/instances/clnm1qpgd00003b6irfa0z60h@published video-resource__wrapper",
+      "content_type": "image/webp",
+      "bytes": 53476,
+      "sha256": "457217bc11e4fd79a8131280152ae996e764f462136a4d384bfdfc9000a6d17e",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/cnn/logo-2.webp",
+      "source_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2238839665.jpg?c=2x3&q=h_384,w_256,c_fill",
+      "source_tag": "img:semantic-logo",
+      "context": "img image__dam-img image__dam-img--loading In this photo illustration, the ICEBlock (ICE Block) logo is seen displayed on a smartphone screen. picture image__picture div image__container div image vossi-image image__hide-placeholder div con",
+      "content_type": "image/webp",
+      "bytes": 11368,
+      "sha256": "de269a8be250858a2c2f0d0242359637e1426d50ccd14a584fc4fb80d604b4f1",
+      "width": 256,
+      "height": 384
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/cnn/banner-1.webp",
+      "source_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2295968845.jpg?c=16x9&q=h_438,w_780,c_fill",
+      "source_tag": "img:semantic-banner",
+      "context": "img image__dam-img image__dam-img--loading Republican US Senate candidate, Texas Attorney General Ken Paxton greets the crowd during a campaign event at Glorious Way Church on September 21, in Houston, Texas. picture image__picture div imag",
+      "content_type": "image/webp",
+      "bytes": 32162,
+      "sha256": "28e0c92128d183c767c69ec5a3ed5a2e6a100c9b7041a15cd11ab2ede833adea",
+      "width": 780,
+      "height": 438
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/cnn/banner-2.webp",
+      "source_url": "https://media.cnn.com/api/v1/images/stellar/prod/cnn-headlines-international-logo-v2.png?c=16x9&q=h_540,w_960,c_fill",
+      "source_tag": "inline-background-image",
+      "context": "div  video-resource__cover background-image:url(https://media.cnn.com/api/v1/images/stellar/prod/cnn-headlines-international-logo-v2.png?c=16x9&q=h_540,w_960,c_fill)",
+      "content_type": "image/webp",
+      "bytes": 22172,
+      "sha256": "a2199c463804ecbb6d98fa45f8a373932591e2373fd7c2ea62233c6751228c44",
+      "width": 960,
+      "height": 540
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/cnn/reference-1.webp",
+      "source_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202775233.jpg?c=16x9&q=h_720,w_1280,c_fill",
+      "source_tag": "picture:page-image",
+      "context": "picture image__picture div image__container div image vossi-image image__hide-placeholder div container__item-media container_lead-package__item-media div container__item-media-wrapper container_lead-package__item-media-wrapper",
+      "content_type": "image/webp",
+      "bytes": 102996,
+      "sha256": "c30afc65e19881a3f43930e5f32ebe8e6c0c071148e11ceecd226c9913cb5a03",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/cnn/reference-2.webp",
+      "source_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202775233.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp",
+      "source_tag": "inline-background-image",
+      "context": "img  image__dam-img image__dam-img--loading --image-desktop-url:url(\"https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202775233.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp\"); --image-desktop-url-2x:url(\"https://media.cnn.com/api/v1",
+      "content_type": "image/webp",
+      "bytes": 98946,
+      "sha256": "f9db5ac4cc5b1f82db52f96f8585d57efb7bc91e719f5d1a13231537b80cefb3",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/cnn/reference-3.webp",
+      "source_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202775233.jpg?c=16x9&q=h_1440,w_2560,c_fill/f_webp",
+      "source_tag": "inline-background-image",
+      "context": "img  image__dam-img image__dam-img--loading --image-desktop-url:url(\"https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202775233.jpg?c=16x9&q=h_720,w_1280,c_fill/f_webp\"); --image-desktop-url-2x:url(\"https://media.cnn.com/api/v1",
+      "content_type": "image/webp",
+      "bytes": 86122,
+      "sha256": "d3081056c369287b4ff12c6c4cd9a6124c800c9c3a524a6e8677704fa6ab297f",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "5c3b9422c7f76221b77a1418588c6bf162293482f200d7d93e74ccf74b7b69b7"
+    }
+  ]
+}

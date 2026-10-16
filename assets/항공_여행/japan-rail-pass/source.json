@@ -1,0 +1,82 @@
+{
+  "company": "Japan Rail Pass",
+  "category": "항공_여행",
+  "requested_url": "https://japanrailpass.net",
+  "page_url": "https://japanrailpass.net/",
+  "page_title": "ジャパン・レール・パス | JAPAN RAIL PASS",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/japan-rail-pass/favicon.png",
+      "source_url": "https://japanrailpass.net/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 48789,
+      "sha256": "daa53d97fc25bdb9763bf43a64c46c450312d0ecf0eae2f783a2701b164d9651",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/japan-rail-pass/banner-1.webp",
+      "source_url": "https://japanrailpass.net/assets/img/japanrailandtravel-banner.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a div banner-area body html",
+      "content_type": "image/webp",
+      "bytes": 119152,
+      "sha256": "0590d2fc361a7a78ef1958eb088cd96a348b05f23e0967f740f07850e3d984e8",
+      "width": 700,
+      "height": 450
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/japan-rail-pass/banner-2.webp",
+      "source_url": "https://japanrailpass.net/assets/img/index/slider/mainvisual_01.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img div slider-item div slider div mainvisual main",
+      "content_type": "image/webp",
+      "bytes": 248202,
+      "sha256": "90717ef868accdb9a2c43d31eff8da63b1b82195fdd62996a84148eb335e9cac",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/japan-rail-pass/reference-1.webp",
+      "source_url": "https://japanrailpass.net/assets/img/index/slider/mainvisual_02.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div slider-item div slider div mainvisual main",
+      "content_type": "image/webp",
+      "bytes": 739034,
+      "sha256": "890291b96a397b7511650c743daadd1dcd1034be049b19c2bfc6c867e9dfe9f9",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/japan-rail-pass/reference-2.webp",
+      "source_url": "https://japanrailpass.net/assets/img/index/slider/mainvisual_13.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div slider-item div slider div mainvisual main",
+      "content_type": "image/webp",
+      "bytes": 454634,
+      "sha256": "80732090aa8e3605d6854074deba2603a3990eef21784024005d4022e802f14c",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/japan-rail-pass/reference-3.webp",
+      "source_url": "https://japanrailpass.net/assets/img/index/slider/mainvisual_09.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div slider-item div slider div mainvisual main",
+      "content_type": "image/webp",
+      "bytes": 269488,
+      "sha256": "8f16d7bb3466c5cc24304c8ded80a857b1d31e02d20b202599bdf41b14da6c9b",
+      "width": 1800,
+      "height": 1200
+    }
+  ]
+}

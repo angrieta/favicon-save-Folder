@@ -1,0 +1,33 @@
+{
+  "company": "광동제약",
+  "category": "식품_생활",
+  "requested_url": "https://www.ekdp.com/",
+  "page_url": "https://www.ekdp.com/main.do",
+  "page_title": "::: 광동제약 :::",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.ekdp.com/upload/brandc/; reference:ValueError:https://www.ekdp.com/static/cw/images/renewal/tit_sfunmall_1.jpg; reference:ValueError:https://www.ekdp.com/upload/mainv/1BWtlWKJN.1h7o6lcjjk1te.jpg; reference:ValueError:https://www.ekdp.com/upload/mainv/nQ1DKuleO6xw45XTMN91ZXtFmrzNuA63N5AUqnm.uv5tcyb2p7qb.png; reference:ValueError:https://www.ekdp.com/upload/mainv/3jga06AV94MBgBviKLUzm9PeLZFYGwxWAdF59BPZRVMNd.soeljrrecfuf.png; reference:ValueError:https://www.ekdp.com/static/cw/images/renewal/tit_sfunmall2_1.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/kwangdong/favicon.ico",
+      "source_url": "https://www.ekdp.com/static/cw/asset/img/common/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 400,
+      "sha256": "74694dd85795c5dd7bbf710bbb1c824a639344c3edb965425b695c9ca705c558",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/kwangdong/og.webp",
+      "source_url": "https://www.ekdp.com/static/cw/asset/img/common/og_logo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5394,
+      "sha256": "e9f322d6789f0d9218dc1dc609bec562b609caa3178197a7ae5c039d6ceb6476",
+      "width": 800,
+      "height": 400
+    }
+  ]
+}

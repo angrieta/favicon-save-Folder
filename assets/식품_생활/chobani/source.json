@@ -1,0 +1,58 @@
+{
+  "company": "Chobani",
+  "category": "식품_생활",
+  "requested_url": "https://www.chobani.com/",
+  "page_url": "https://www.chobani.com/global/au",
+  "page_title": "",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.chobani.com/fonts/Chobani-Serif/ChobaniSerif-Regular-Web.woff; reference:ValueError:https://www.chobani.com/fonts/Chobani-Serif/ChobaniSerif-RegularItalic-Web.woff; reference:ValueError:https://www.chobani.com/fonts/Chobani-Serif/ChobaniSerif-Semibold-Web.woff; reference:ValueError:https://www.chobani.com/fonts/Chobani-Serif/ChobaniSerif-SemiboldItalic-Web.woff; reference:ValueError:https://www.chobani.com/fonts/Chobani-Sans/Chobani-Sans-Standard-Medium.woff; reference:ValueError:https://www.chobani.com/fonts/Chobani-Sans/Chobani-Sans-Standard-Regular.woff",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/chobani/favicon.png",
+      "source_url": "https://www.chobani.com/favicon_192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1627,
+      "sha256": "08d275ca5ed81cc4cf1f20c448edd92871d80a6a6278c43e6a2daee30cbe55d4",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/chobani/logo-1.png",
+      "source_url": "https://www.chobani.com/chobani.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img logo css-9y3ish chobani-logo a div MuiGridLegacy-root MuiGridLegacy-item css-1u35uam div header-grid MuiGridLegacy-root MuiGridLegacy-item MuiGridLegacy-grid-xs-12 MuiGridLegacy-grid",
+      "content_type": "image/png",
+      "bytes": 13459,
+      "sha256": "0b894f1e6d52f12dbc10d73bb9f53ce21d69989c37a308e79b40930b01c98d18",
+      "width": 922,
+      "height": 230
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/chobani/reference-1.webp",
+      "source_url": "https://www.chobani.com/landingPage.png",
+      "source_tag": "img:page-image",
+      "context": "img MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-zzg7na Auhome div MuiGridLegacy-root MuiGridLegacy-item MuiGridLegacy-grid-xs-12 MuiGridLegacy-grid-sm-12 MuiGridLegacy-grid-md-12 css-48h034 div MuiGridLegacy-root MuiGridLegacy",
+      "content_type": "image/webp",
+      "bytes": 17556,
+      "sha256": "a9558e69e7fd53d71717f6bfc7f4e7d804c50b492f6b29938802cb70d84b9a03",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/chobani/reference-2.webp",
+      "source_url": "https://www.chobani.com/landingpage_mobile.png",
+      "source_tag": "img:page-image",
+      "context": "img MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-1uvufct Auhome div MuiGridLegacy-root MuiGridLegacy-item MuiGridLegacy-grid-xs-12 MuiGridLegacy-grid-sm-12 MuiGridLegacy-grid-md-12 css-48h034 div MuiGridLegacy-root MuiGridLegac",
+      "content_type": "image/webp",
+      "bytes": 9468,
+      "sha256": "334154a589a5158791b34d82f947b30449eedab91361605f57561aa03c05392c",
+      "width": 762,
+      "height": 1350
+    }
+  ]
+}

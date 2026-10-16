@@ -1,0 +1,34 @@
+{
+  "company": "Gamma",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://gamma.app/",
+  "page_url": "https://gamma.app/",
+  "page_title": "",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://gamma.app/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/gamma/favicon.svg",
+      "source_url": "https://static.gamma.app/favicons/favicon_dark.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 2078,
+      "sha256": "62a0c99aa7e6717cf1f482461bbe1408837267ebe4894f29ffc5fd9e2321226b",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "6edef4fd4baabd01413aedbb821a9184f7b00a682d10ffa233e104f018bc22c8"
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/gamma/og.webp",
+      "source_url": "https://static.gamma.app/images/gamma-banner-8d71c455.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21296,
+      "sha256": "9a164e672f2b2ec91a0687e45672efefa04512abac1a623963804074584c8cfe",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

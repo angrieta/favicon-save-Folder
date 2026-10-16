@@ -1,0 +1,69 @@
+{
+  "company": "비짓제주",
+  "category": "항공_여행",
+  "requested_url": "https://www.visitjeju.net/kr",
+  "page_url": "https://www.visitjeju.net/kr",
+  "page_title": "Visit Jeju",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/visit-jeju/favicon.png",
+      "source_url": "https://www.visitjeju.net/image/ico/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 15816,
+      "sha256": "662d6d6b5c8d8d1e37039d68a667b9302125357e56aeeb7c8c5b722700da0843",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/visit-jeju/og.webp",
+      "source_url": "https://www.visitjeju.net/image/common/og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 44578,
+      "sha256": "fc73dbaee59ff7bfde1e1cff1124dc4a5da4a9ec38669e4059396f26ef4e3410",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/visit-jeju/reference-1.webp",
+      "source_url": "https://api.cdn.visitjeju.net/photomng/thumbnailpath/202504/04/ba0fbe5b-5068-4810-8d7f-2e1d97535071.webp",
+      "source_tag": "img:page-image",
+      "context": "img 제주신화월드 신화가든 p image a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 21220,
+      "sha256": "ab5f8702b95260b53b939219641fcdc9f577341169b624340c1fec8db146263d",
+      "width": 480,
+      "height": 302
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/visit-jeju/reference-2.webp",
+      "source_url": "https://api.cdn.visitjeju.net/photomng/thumbnailpath/201807/09/44e6831f-d009-48bd-9ace-34375b775c44.webp",
+      "source_tag": "img:page-image",
+      "context": "img 서우봉 p image a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 32458,
+      "sha256": "a1c61099a70ece756b6603ca017d1e6a821b283b035351a1d5a3736ebee8bcf7",
+      "width": 480,
+      "height": 319
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/visit-jeju/reference-3.webp",
+      "source_url": "https://api.cdn.visitjeju.net/photomng/thumbnailpath/202410/21/f655e025-fabc-4d79-a395-cc003b54caff.webp",
+      "source_tag": "img:page-image",
+      "context": "img 쉬리의언덕 p image a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 30742,
+      "sha256": "2f17fec65b8505304f10f0c9c4780573e14c30841d3c5a9ec9b191584cef78bf",
+      "width": 480,
+      "height": 360
+    }
+  ]
+}

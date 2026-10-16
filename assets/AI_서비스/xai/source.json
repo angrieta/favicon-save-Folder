@@ -1,0 +1,81 @@
+{
+  "company": "xAI",
+  "category": "AI_서비스",
+  "requested_url": "https://x.ai",
+  "page_url": "https://x.ai/",
+  "page_title": "SpaceXAI",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://x.ai/width=640; reference:HTTPError:https://x.ai/width=320; reference:HTTPError:https://x.ai/f=auto/v1/website/team-bots-og-d3e412bc.webp",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/xai/favicon.png",
+      "source_url": "https://x.ai/icon.png?icon.1_9qbalr4uao5.png?dpl=26c8aaf5decb50056d60463926e5d6a12a1f47fb",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 11298,
+      "sha256": "ef9a3debee29edc3fb485e8f0e868dd9270955490fff8fd5d025214c982901bb",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/xai/og.webp",
+      "source_url": "https://x.ai/opengraph-image-1j7jya.png?opengraph-image.0er0wy584q-pt.png?dpl=26c8aaf5decb50056d60463926e5d6a12a1f47fb",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4530,
+      "sha256": "9815e5ea3f6cda19d870e92d82c675c94e93de40b9a1667f180cc41e4b77c36f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/xai/logo-1.png",
+      "source_url": "https://x.ai/logo.webp",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 1889,
+      "sha256": "6e6e6b5063bd68d4343a39988bc0ec692f12f19a2500b1bfd7ab16e8ab822ce5",
+      "width": 129,
+      "height": 146
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/xai/reference-1.webp",
+      "source_url": "https://x.ai/images/news/grok-4-7-og.webp",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 h-full w-full transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] will-change-transform group-hover/card:scale-[1.03] Grok 4.7 div relative w-full overflow-hidden rounded-none bg-transparent div border-",
+      "content_type": "image/webp",
+      "bytes": 13174,
+      "sha256": "2ada3871b6eca1389703b3a0edaa71da85f7ef6f409b80bff9f8f469421da613",
+      "width": 1024,
+      "height": 537
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/xai/reference-2.webp",
+      "source_url": "https://media.x.ai/cdn-cgi/image/fit=scale-down,onerror=redirect,f=auto/v1/website/team-bots-og-d3e412bc.webp",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 h-full w-full transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] will-change-transform group-hover/card:scale-[1.03] Team Bots beside the Grok Bot mark on an orange gradient div relative w-full overflo",
+      "content_type": "image/webp",
+      "bytes": 12286,
+      "sha256": "26a66b1962b0ae41d850285d587d40073c0030da42d22b8c839fcbe288d6c17c",
+      "width": 1024,
+      "height": 537
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/xai/reference-3.webp",
+      "source_url": "https://x.ai/images/news/grok-bot-customer-support-og.webp",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 h-full w-full transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] will-change-transform group-hover/card:scale-[1.03] Grok Bot for Customer Support beside the Grok Bot eyes on pink div relative w-full o",
+      "content_type": "image/webp",
+      "bytes": 9476,
+      "sha256": "65709bc8cc355ea6c45d06858dc49ac003222ff7ef3728b24f1b38fa83ffa080",
+      "width": 1024,
+      "height": 537
+    }
+  ]
+}

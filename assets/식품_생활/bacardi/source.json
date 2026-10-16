@@ -1,0 +1,82 @@
+{
+  "company": "Bacardi",
+  "category": "식품_생활",
+  "requested_url": "https://www.bacardi.com",
+  "page_url": "https://www.bacardi.com/",
+  "page_title": "BACARDÍ Rum | Bacardi Rum Cocktails & Drinks | BACARDÍ Global",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.bacardi.com/wp-content/themes/bacardi2020/assets/fonts/GrotesqueDispMTStd-BoldCn.woff2; reference:ValueError:https://www.bacardi.com/wp-content/themes/bacardi2020/assets/fonts/Neutra2Cond-Titling.woff2; reference:ValueError:https://www.bacardi.com/wp-content/themes/bacardi2020/assets/fonts/satisfy-regular.woff2; reference:ValueError:https://www.bacardi.com/wp-content/themes/bacardi2020/assets/fonts/Anton-Regular.woff2; reference:ValueError:https://www.bacardi.com/wp-content/themes/bacardi2020/assets/fonts/Trueno.woff2; reference:ValueError:https://www.bacardi.com/wp-content/themes/bacardi2020/assets/fonts/TruenoBold.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/bacardi/favicon.png",
+      "source_url": "https://d323g1xugy1rkz.cloudfront.net/wp-content/uploads/sites/32/2020/12/10111719/FAV-Icon-192x192-min.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 35567,
+      "sha256": "c9d6375a345f66f537707ccf0cec740a216d054357f22320667e14ec720c4444",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bacardi/logo-1.svg",
+      "source_url": "https://d323g1xugy1rkz.cloudfront.net/wp-content/uploads/sites/25/2020/09/11120132/Bacardi-Logo-White.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img custom-logo bacardi-logo a header-menu-logo__white div header-menu-logo div header-top-menu header header",
+      "content_type": "image/svg+xml",
+      "bytes": 99615,
+      "sha256": "6f4cd6701007dffbd655c60ee465ce9d5207ec3d8791a13ab688baef4692c3dd",
+      "width": 126,
+      "height": 29
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bacardi/logo-2.svg",
+      "source_url": "https://d323g1xugy1rkz.cloudfront.net/wp-content/uploads/sites/25/2020/09/11120147/Bacardi-Logo-Black.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img custom-logo bacardi-logo a header-menu-logo__black div header-menu-logo div header-top-menu header header",
+      "content_type": "image/svg+xml",
+      "bytes": 99209,
+      "sha256": "03fcf249eab002c41635d50ccbd5c9dd6c82308cc29d032e0371fc9cf6323fd6",
+      "width": 126,
+      "height": 29
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/bacardi/reference-1.webp",
+      "source_url": "https://d323g1xugy1rkz.cloudfront.net/wp-content/uploads/2024/03/01063827/Image.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture section panel panel--even content-on-image-mobile panel--type-bacardi2020-full-width-panel div panel-collection main div wrapper",
+      "content_type": "image/webp",
+      "bytes": 56402,
+      "sha256": "e81edc976544964cb124da12d86a38c728c1c2128c6f3114e8ac94e0faef62a9",
+      "width": 1440,
+      "height": 617
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/bacardi/reference-2.webp",
+      "source_url": "https://d323g1xugy1rkz.cloudfront.net/wp-content/uploads/2024/03/01092222/Image-10.jpg",
+      "source_tag": "source:page-image",
+      "context": "source picture section panel panel--even content-on-image-mobile panel--type-bacardi2020-full-width-panel div panel-collection main",
+      "content_type": "image/webp",
+      "bytes": 22076,
+      "sha256": "46a40aab188118a4f4fca586e54a5234bc0818b319cabae182bcfc30c1c1b9bb",
+      "width": 375,
+      "height": 468
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/bacardi/reference-3.webp",
+      "source_url": "https://d323g1xugy1rkz.cloudfront.net/wp-content/uploads/2023/07/04102354/FY24_Bacardi_US_Festival_Map_Governorsball_Eventphoto-1.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div panel--type-bacardi2020-split-panel__inner split-panel__inner section panel panel--even panel--type-bacardi2020-split-panel div panel-collection main",
+      "content_type": "image/webp",
+      "bytes": 308702,
+      "sha256": "c62ad201f8884df9d9c11c69ae2cc90409e2fdc9bd6e1fec3fc3cd36a045b4fd",
+      "width": 1600,
+      "height": 1067
+    }
+  ]
+}

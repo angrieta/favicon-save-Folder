@@ -1,0 +1,45 @@
+{
+  "company": "Are.na",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.are.na/",
+  "page_url": "https://www.are.na/",
+  "page_title": "Are.na",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.are.na/_next/static/media/356e89b22d8402e3-s.p.woff2; reference:ValueError:https://www.are.na/_next/static/css/5bae5bd33402e193.css?dpl=dpl_E3w5Ba5eqDo398XXAAuZc8oRhLeX",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/are-na/favicon.png",
+      "source_url": "https://www.are.na/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6389,
+      "sha256": "7eff35af6e6729025410c9beda862bb2d67bae4230f5f8b1f9385ebee93f9b11",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/are-na/og.webp",
+      "source_url": "https://www.are.na/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9984,
+      "sha256": "a8a73fe8d838a4455bd684febe30b560918415320fc3408cda922f1701e547f9",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/are-na/logo-1.webp",
+      "source_url": "https://www.are.na/android-chrome-512x512.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 6008,
+      "sha256": "adb0df7dfb2c3908d6452d11f9bf49ba6bc6d4f249b194351a926e944c2fc8be",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

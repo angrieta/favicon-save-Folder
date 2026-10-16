@@ -1,0 +1,34 @@
+{
+  "company": "La Roche-Posay",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.laroche-posay.com",
+  "page_url": "https://www.laroche-posay.com/",
+  "page_title": "La Roche Posay – Skincare Products Worldwide",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.laroche-posay.com/frontend/master/js/npm.ssr-window.7510b4ae.js; reference:ValueError:https://www.laroche-posay.com/frontend/master/js/npm.register-service-worker.afefbcbb.js; reference:ValueError:https://www.laroche-posay.com/frontend/master/js/npm.dom7.c9a95756.js; reference:ValueError:https://www.laroche-posay.com/frontend/master/js/npm.aos.7ee88bea.js; reference:ValueError:https://www.laroche-posay.com/frontend/master/js/npm.loreal.703b6aa1.js; reference:ValueError:https://www.laroche-posay.com/frontend/master/js/home.2eeb5b7a.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/la-roche-posay/favicon.ico",
+      "source_url": "https://www.laroche-posay.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "2b5bb113a8a23d3d8b128e58ac6619c4c779e02338d0de675944a50f810a9a6d",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/la-roche-posay/banner-1.webp",
+      "source_url": "https://www.laroche-posay.com/-/media/Project/Loreal/Brand-Sites/LRP/Master/DMI/Dispatch/DispatchContentDesktop.jpg",
+      "source_tag": "style-background-image",
+      "context": "on,\r\n    .pg_dispatch {\r\n    background-repeat: no-repeat;\r\n    background-size: cover;\r\n    position: relative;\r\n    transform: translate3d(0px, 0px, 0px);\r\n    background-image: url(\"/-/media/Project/Loreal/Brand-Sites/LRP/Master/DMI/Disp",
+      "content_type": "image/webp",
+      "bytes": 108218,
+      "sha256": "d5748161715db02c612a1f7fd6e64c63c2e6a85fc488ec794d917e8ca958a87d",
+      "width": 1800,
+      "height": 994
+    }
+  ]
+}

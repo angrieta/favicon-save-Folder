@@ -1,0 +1,95 @@
+{
+  "company": "GQ Korea",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.gqkorea.co.kr/",
+  "page_url": "https://www.gqkorea.co.kr/",
+  "page_title": "지큐 코리아 (GQ Korea)",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/gq-korea/favicon.png",
+      "source_url": "https://img.gqkorea.co.kr/gq/2018/08/cropped-style_5b7e73d090d6e-192x192.jpg",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6452,
+      "sha256": "3e98ab656fedd206f8e71d4dca34fe3ea4ff74c33b74ff1f6a266f25c22a075f",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/gq-korea/og.webp",
+      "source_url": "https://img.gqkorea.co.kr/gq/common/main_og_image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7702,
+      "sha256": "72e0b93b8bbfe170b9873692aa84a1fe2f8400c06af32413a0cf32c852fef550",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/gq-korea/logo-1.png",
+      "source_url": "https://www.gqkorea.co.kr/wp-content/themes/gq/assets/images/logo.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 5458,
+      "sha256": "a564df164ca545d5c71b3f09561e336101523765aba21ad9b030a7371ae57448",
+      "width": 284,
+      "height": 150
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/gq-korea/logo-2.svg",
+      "source_url": "https://www.gqkorea.co.kr/wp-content/themes/gq/assets/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img lazyload GQ a div logo div inner div container",
+      "content_type": "image/svg+xml",
+      "bytes": 1417,
+      "sha256": "7132706c5cf35ed55f989cf92f9465976025a48f4547521b83e43b7511a2d173",
+      "width": 304,
+      "height": 161,
+      "source_sha256": "d2a1baa2bc523f44d5a9301257df1456991c7021fcc7ddf26f6ece199ebee40e"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/gq-korea/reference-1.webp",
+      "source_url": "https://img.gqkorea.co.kr/gq/2026/08/style_6a8c06799b12f-scaled-1920x1080.jpg?x=1919&y=1657",
+      "source_tag": "img:page-image",
+      "context": "img 아직 삐딱한, 어른 아이 div spot a div pc div section_spot_0 section_ppl",
+      "content_type": "image/webp",
+      "bytes": 113544,
+      "sha256": "c2c6b882c9b5497cc87e50004bb0462f88ab0970b896bcbafc5152bb501da0ae",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/gq-korea/reference-2.webp",
+      "source_url": "https://img.gqkorea.co.kr/gq/2026/08/style_6a8c06799b12f-960x1440.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 아직 삐딱한, 어른 아이 div spot a div mo div section_spot_0 section_ppl",
+      "content_type": "image/webp",
+      "bytes": 62762,
+      "sha256": "6b8b0b738463ffeb02259193db2746c5000f3f014fc81f1679ca280b8584db9b",
+      "width": 900,
+      "height": 1350,
+      "source_sha256": "42b2787536135ab49e6d44b3251df9e6072608c48dc42193c93293f3e7388e16"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/gq-korea/reference-3.webp",
+      "source_url": "https://img.gqkorea.co.kr/gq/2026/09/style_6abb2e177175c-500x500.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lazyload div thum a li ul main_best_area",
+      "content_type": "image/webp",
+      "bytes": 58890,
+      "sha256": "98a95d14828ce8a1fe00e3c90cbe490cfb909f04b0d372fc3f0d37d2f42df635",
+      "width": 500,
+      "height": 500
+    }
+  ]
+}

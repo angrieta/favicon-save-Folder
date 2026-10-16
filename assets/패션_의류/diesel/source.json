@@ -1,0 +1,22 @@
+{
+  "company": "Diesel",
+  "category": "패션_의류",
+  "requested_url": "https://www.diesel.com",
+  "page_url": "https://diesel.com/",
+  "page_title": "Diesel - Country Selector",
+  "collection_status": "page-error",
+  "collection_error": "ConnectionError: HTTPSConnectionPool(host='diesel.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='diesel.com', port=443): Failed to resolve 'diesel.com' ([Errno 11002] getaddrinfo failed)\"))",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/diesel/favicon.png",
+      "source_url": "https://diesel.com/on/demandware.static/Sites-DieselHUB-Site/-/default/dwbfb40308/imgs/favicons/apple-touch-icon-114x114.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 10653,
+      "sha256": "a9388cdc3a22ae8c10d249fe5bb5d64c4e9c10919920dff1b9659e25d03eb23a",
+      "width": 114,
+      "height": 114
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "company": "동아일보",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.donga.com/",
+  "page_url": "https://www.donga.com/",
+  "page_title": "동아일보",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/donga-ilbo/favicon.ico",
+      "source_url": "https://www.donga.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "902fed2fc8a25fecea4742ce66b17c136738ee608980e3874780207fb1854931",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/donga-ilbo/logo-1.svg",
+      "source_url": "https://dimg.donga.com/carriage/NEWS/images/donga_main_sinunse/69fd1648195ad27382a0.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 취업·이직 고민 중이라면? 내 커리어 운세 지금 확인하기 💼 a header news_head article news_card li",
+      "content_type": "image/svg+xml",
+      "bytes": 1850842,
+      "sha256": "684ef069105727ff06350abc9662c18b92225505ac7731e621be6ca3afba12e0",
+      "width": 716,
+      "height": 716
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/donga-ilbo/logo-2.webp",
+      "source_url": "https://dimg.donga.com/carriage/IDOLPICK/images/idolpick_view/68de163a1713d2738de6.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 🔥 PICK your fave IDOL a header news_head article news_card li",
+      "content_type": "image/webp",
+      "bytes": 57724,
+      "sha256": "a5ee3d84161bf33252488c0ef1b367dd1110cfdb509650719d93198c513b08cf",
+      "width": 670,
+      "height": 377
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/donga-ilbo/reference-1.webp",
+      "source_url": "https://dimg.donga.com/carriage/NEWS/images/home_left_banner2/68db83000c4ea1e072b.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 독자 라운지 div img_area a li swiper-slide ul swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 33260,
+      "sha256": "f3106d76c48f88f609ae28ab6de176e53e1ab27eae5523370aeb1e9cefff6b6e",
+      "width": 1304,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/donga-ilbo/reference-2.webp",
+      "source_url": "https://dimg.donga.com/carriage/NEWS/images/home_left_banner2/6a27507a2463d27382a0.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 신운세 div img_area a li swiper-slide ul swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 37908,
+      "sha256": "46f55acbf181cd513697f8094b58853211433bd1c36a50a453325ee5cbd247f6",
+      "width": 1304,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/donga-ilbo/reference-3.webp",
+      "source_url": "https://image.donga.com/pc/2022/images/common/donga_default_img.png",
+      "source_tag": "link:image_src",
+      "context": "image_src   https://image.donga.com/pc/2022/images/common/donga_default_img.png",
+      "content_type": "image/webp",
+      "bytes": 17938,
+      "sha256": "6dbc5f2567f9d43fce611398034dec7d9601dedf61a51d097d2a872d65f0fdca",
+      "width": 1200,
+      "height": 675
+    }
+  ]
+}

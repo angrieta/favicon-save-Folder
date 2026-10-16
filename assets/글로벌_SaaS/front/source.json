@@ -1,0 +1,118 @@
+{
+  "company": "Front",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://front.com/",
+  "page_url": "https://front.com/",
+  "page_title": "Front | Customer service platform — powered by AI, designed for humans",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://front.com/_next/static/chunks/webpack-76842273aed9165e.js; reference:ValueError:https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/front/favicon.png",
+      "source_url": "https://front.com/apple-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5610,
+      "sha256": "4e29e192a61a98c260631b736dd4925997d9bccdc90a1cb26bc2936b218872e7",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "12519d80eaef12286afc9e2a75dc8037e0aed9b0d736539335c317ddd2a892cc"
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/front/og.webp",
+      "source_url": "https://front.com/assets/pages/global-ai/Meta-Unfurl-OG-Image/Meta-Unfurl.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 41542,
+      "sha256": "fa7b720681628df4992498bda400875cda856ecb57a9941097a143530c4d4c83",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/front/logo-1.png",
+      "source_url": "https://front.com/favicon-96x96.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 7952,
+      "sha256": "ff763f27bbfa34ad881f930021ae10ea86c4361a8e6a20cfc66859ca8e4c71e0",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/front/logo-2.png",
+      "source_url": "https://front.com/_next/image?url=https%3A%2F%2Ffront.com%2Fwebassets%2Fpages%2Fuse-cases%2Fcustomer-logo-reed-and-mackay.png&w=640&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img Reed & Mackay Customer Logo div flex flex-col gap-3 div keen-slider__slide rounded-10 overflow-hidden bg-violet-200 text-violet-900 p-3 md:py-4 md:px-6 div keen-slider overflow-visible div relative flex flex-col gap-3",
+      "content_type": "image/png",
+      "bytes": 25882,
+      "sha256": "1255925eb2238a48655408e778a29c83326ce94d52a26c30d92cfeadc8130d1a",
+      "width": 411,
+      "height": 80
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/front/banner-1.webp",
+      "source_url": "https://front.com/_next/image?url=https%3A%2F%2Ffront.com%2Fassets%2Fpages%2Fhomepage%2Fhome-front-ai.png&w=1080&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full h-full object-cover div col-span-4 md:col-span-6 md:col-start-7 md:order-2 div mx-auto w-full md:w-4xl grid grid-cols-4 md:grid-cols-12 px-md 2xl:px-0 gap-x-grid-gutter gap-y-spacing-48 md:gap-y-0 div pt-margin-section-md div sur",
+      "content_type": "image/webp",
+      "bytes": 26440,
+      "sha256": "193eff160ad34001dfa9adc01b034230064adc2a700e9d9af0e2c4284f985443",
+      "width": 1080,
+      "height": 831
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/front/banner-2.webp",
+      "source_url": "https://front.com/_next/image?url=https%3A%2F%2Ffront.com%2Fassets%2Fpages%2Fhomepage%2Fhome-front-ai.png&w=640&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img w-full h-full object-cover div col-span-4 md:col-span-6 md:col-start-7 md:order-2 div mx-auto w-full md:w-4xl grid grid-cols-4 md:grid-cols-12 px-md 2xl:px-0 gap-x-grid-gutter gap-y-spacing-48 md:gap-y-0 div pt-margin-section-md div sur",
+      "content_type": "image/webp",
+      "bytes": 14458,
+      "sha256": "b137b0eedb5d738c809f8619d651dbdf17cab14c96eb7357710fd36b4e7193cf",
+      "width": 640,
+      "height": 492
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/front/reference-1.webp",
+      "source_url": "https://front.com/_next/image?url=https%3A%2F%2Ffront.com%2Fassets%2Fpages%2Fglobal-ai%2FNav%2FFront-Overview-Thumbnail.png&w=750&q=75",
+      "source_tag": "img:page-image",
+      "context": "img Front Product Interface Screenshot a w-full block div w-full rounded-10 overflow-hidden div flex flex-col gap-3 div table-cell align-top border-x border-solid border-gray-200 first:border-l-0 last:border-r-0 px-3",
+      "content_type": "image/webp",
+      "bytes": 18670,
+      "sha256": "e8907f59d9f52f2645637e2fef6814501a937931ad0dca6939ff9238ae8b1b3a",
+      "width": 750,
+      "height": 444
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/front/reference-2.webp",
+      "source_url": "https://front.com/_next/image?url=https%3A%2F%2Ffront.com%2Fassets%2Fpages%2Fhomepage%2Fhome-customer-support-v2.png&w=1080&q=75",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-full object-cover div col-span-4 md:col-span-6 div mx-auto w-full md:w-4xl grid grid-cols-4 md:grid-cols-12 px-md 2xl:px-0 gap-x-grid-gutter gap-y-spacing-48 md:gap-y-0 div pt-margin-section-md div surface-l0 pb-margin-section-",
+      "content_type": "image/webp",
+      "bytes": 31234,
+      "sha256": "a3349068f6d6f7294b4b910b5fa123c9d6cd6eb202537b51038d97c7eb878f85",
+      "width": 1080,
+      "height": 831
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/front/reference-3.webp",
+      "source_url": "https://front.com/_next/image?url=https%3A%2F%2Ffront.com%2Fassets%2Fpages%2Fhomepage%2Fhome-customer-support-v2.png&w=640&q=75",
+      "source_tag": "img:page-image",
+      "context": "img w-full h-full object-cover div col-span-4 md:col-span-6 div mx-auto w-full md:w-4xl grid grid-cols-4 md:grid-cols-12 px-md 2xl:px-0 gap-x-grid-gutter gap-y-spacing-48 md:gap-y-0 div pt-margin-section-md div surface-l0 pb-margin-section-",
+      "content_type": "image/webp",
+      "bytes": 17620,
+      "sha256": "b97b034c5ce021930834c53b6d9a110c99ef073504ed3d0264abca50ce09a5a8",
+      "width": 640,
+      "height": 492
+    }
+  ]
+}

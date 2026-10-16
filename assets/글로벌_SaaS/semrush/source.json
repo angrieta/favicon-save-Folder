@@ -1,0 +1,93 @@
+{
+  "company": "Semrush",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.semrush.com/",
+  "page_url": "https://www.semrush.com/",
+  "page_title": "Semrush: Your Unfair Advantage for Growing Brand Visibility",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.semrush.com/static/videos/sem_one.mp4; banner:ValueError:https://www.semrush.com/static/videos/sem_mcp.mp4; banner:ValueError:https://www.semrush.com/static/videos/enterprise_video.mp4; reference:ValueError:https://www.semrush.com/static/videos/sem_one.mp4; reference:ValueError:https://www.semrush.com/static/videos/sem_mcp.mp4; reference:ValueError:https://www.semrush.com/static/videos/enterprise_video.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/semrush/favicon.png",
+      "source_url": "https://www.semrush.com/__static__/apple-touch-icon.fe16ae843d17.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1452,
+      "sha256": "66f91b51ce2e88fec3f2f25cd0c9cb8b09b0550b5dae83c26a9081757550741e",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/semrush/og.webp",
+      "source_url": "https://www.semrush.com/__static__/semrush-logo-700.43215feb8faa.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 21768,
+      "sha256": "fef756504b549aa255a409c058ef5a7132bff3e4b1015ebfae3f8ff5a819cb1d",
+      "width": 700,
+      "height": 368
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/semrush/logo-1.webp",
+      "source_url": "https://www.semrush.com/__static__/semrush-logo.jpg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 9046,
+      "sha256": "217be6e3cd0c27710696d482e681c816e600df370b610b66bd60bda6b9abf7e7",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/semrush/logo-2.svg",
+      "source_url": "https://www.semrush.com/static/logos/Shopify_logo.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture li mp-logo-marquee__item ul mp-logo-marquee__group div mp-logo-marquee__track div mp-logo-marquee__list",
+      "content_type": "image/svg+xml",
+      "bytes": 3331,
+      "sha256": "8b89034a185acdffd6372a3b6883bea562d423d40ef6b0f6e4643f9185eb6e4c",
+      "width": 204,
+      "height": 100
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/semrush/reference-1.webp",
+      "source_url": "https://www.semrush.com/static/resources/adobe_brand_visibility.webp",
+      "source_tag": "img:page-image",
+      "context": "img mp-resources__item-img div mp-resources__item-img-wrapper article mp-resources__item swiper-slide div mp-resources__list swiper-wrapper div swiper mp-resources-swiper",
+      "content_type": "image/webp",
+      "bytes": 32102,
+      "sha256": "f028cd02f77c373745a856814c1a6c741a4cb0e6c47eb62047bca537a2f6be0e",
+      "width": 860,
+      "height": 572
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/semrush/reference-2.webp",
+      "source_url": "https://www.semrush.com/static/resources/ai_search_os.webp",
+      "source_tag": "img:page-image",
+      "context": "img mp-resources__item-img div mp-resources__item-img-wrapper article mp-resources__item swiper-slide div mp-resources__list swiper-wrapper div swiper mp-resources-swiper",
+      "content_type": "image/webp",
+      "bytes": 24782,
+      "sha256": "9e6de1992a7bcb28b01d45121a5aef2fe4a10a4e9ea0770a9f5eb6c9e0f76a2e",
+      "width": 860,
+      "height": 572
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/semrush/reference-3.webp",
+      "source_url": "https://www.semrush.com/static/resources/spotlight_event.webp",
+      "source_tag": "img:page-image",
+      "context": "img mp-resources__item-img div mp-resources__item-img-wrapper article mp-resources__item swiper-slide div mp-resources__list swiper-wrapper div swiper mp-resources-swiper",
+      "content_type": "image/webp",
+      "bytes": 40314,
+      "sha256": "3193f2b693582dedf307c313232701f04a528cbb53b3ac43d7d2fc25a710a110",
+      "width": 860,
+      "height": 572
+    }
+  ]
+}

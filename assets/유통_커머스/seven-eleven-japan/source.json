@@ -1,0 +1,82 @@
+{
+  "company": "Seven-Eleven Japan",
+  "category": "유통_커머스",
+  "requested_url": "https://www.sej.co.jp/",
+  "page_url": "https://www.sej.co.jp/",
+  "page_title": "セブン‐イレブン",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/seven-eleven-japan/favicon.ico",
+      "source_url": "https://www.sej.co.jp/favicon.ico?dummy=1768465757",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 5686,
+      "sha256": "6d43d787d40cd31fcac63af6123e40946224a75b1d8f851456441638efcb2fa4",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/seven-eleven-japan/logo-1.png",
+      "source_url": "https://www.sej.co.jp/library/common/rn202304/images/common/img_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img 株式会社セブン-イレブン・ジャパン a div logo nav acMenu div header_sp",
+      "content_type": "image/png",
+      "bytes": 3092,
+      "sha256": "ec3f8e2ea6990fe01daa4f1d23ed32fdbc940c9b30ca801accb974284d351526",
+      "width": 240,
+      "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/seven-eleven-japan/banner-1.webp",
+      "source_url": "https://www.sej.co.jp/library/contents/activity/naniga-arukana/bnr/20260901/bnr_protect_naniaru_W1920xH630.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a h2 section p-mv div pbBlock4068486 pbNested pbNestedWrapper",
+      "content_type": "image/webp",
+      "bytes": 90146,
+      "sha256": "154ad100a5d4f9ac57ee385742c7218264de168631e51406a3d7d9c8d5a789cb",
+      "width": 1800,
+      "height": 591
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/seven-eleven-japan/reference-1.webp",
+      "source_url": "https://www.sej.co.jp/library/contents/activity/naniga-arukana/bnr/20260901/bnr_protect_naniaru_W640xH320.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture a h2 section p-mv div pbBlock4068486 pbNested pbNestedWrapper",
+      "content_type": "image/webp",
+      "bytes": 31084,
+      "sha256": "928a234c481f9e56d39e3895a66e20612beda83320a8da972d6b0a1a3fcffe7e",
+      "width": 640,
+      "height": 320
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/seven-eleven-japan/reference-2.webp",
+      "source_url": "https://www.sej.co.jp/library/common/rn202601/images/carousel/onigiri.png",
+      "source_tag": "img:page-image",
+      "context": "img イメージ a p-products__item div p-products__track js-products-slider div p-products__slide div pbBlock4068437 pbNested pbNestedWrapper",
+      "content_type": "image/webp",
+      "bytes": 14272,
+      "sha256": "316ccb23e57271a66d4a76e4aa1ec424592f2732c43ef437258fc57358398e8a",
+      "width": 560,
+      "height": 420
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/seven-eleven-japan/reference-3.webp",
+      "source_url": "https://www.sej.co.jp/library/common/rn202601/images/carousel/sushi.png",
+      "source_tag": "img:page-image",
+      "context": "img イメージ a p-products__item div p-products__track js-products-slider div p-products__slide div pbBlock4068437 pbNested pbNestedWrapper",
+      "content_type": "image/webp",
+      "bytes": 12126,
+      "sha256": "fd6e20109a2fbce52d0de61cbfec0544339d8bfb380e8e45b84c289297f456eb",
+      "width": 560,
+      "height": 420
+    }
+  ]
+}

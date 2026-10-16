@@ -1,0 +1,71 @@
+{
+  "company": "Lindberg",
+  "category": "패션_의류",
+  "requested_url": "https://lindberg.com",
+  "page_url": "https://lindberg.com/ko",
+  "page_title": "LINDBERG 아이웨어 – 덴마크 오리지널 아이웨어",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://fonts.lindberg.com/Bjarkesvej.woff2",
+  "assets": [
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/lindberg/logo-1.svg",
+      "source_url": "https://lindberg.com/assets/2023/svg/lindberg_black.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Lindberg logo a main-header-logo nav main-header-nav header main-header body",
+      "content_type": "image/svg+xml",
+      "bytes": 6327,
+      "sha256": "6a4f510b2c96211d0812e0fd2f9a3b898e3c23a61c951331b25de3849ade238f",
+      "width": 240,
+      "height": 20
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/lindberg/logo-2.svg",
+      "source_url": "https://cdn.lindberg.com/assets/2023/svg/lindberg-logo-small.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a main-header-menu-logo nav main-header-nav header main-header body",
+      "content_type": "image/svg+xml",
+      "bytes": 2437,
+      "sha256": "28cad76751cbc4299bb8e9ac7e02fe7e4d5fb21e10393e7838b4b1c532f2822b",
+      "width": 30,
+      "height": 11
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/lindberg/reference-1.webp",
+      "source_url": "https://cdn.lindberg.com/media/zmifc5hj/lindberg-com_vbd4_thumbnail_jackson_strip.png",
+      "source_tag": "img:page-image",
+      "context": "img showroom-picture div item-qev3obrqr hover-zoom text-light text-light text-light text-light text-light text-dark text-light text-dark text-dark text-light text-light text-light text-light text-light text-dark text-dark text-dark text-lig",
+      "content_type": "image/webp",
+      "bytes": 224432,
+      "sha256": "24abee332d6f6fe2e6e8e7368f4fbaa689b46daf8b19386201c9f70775f867cc",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/lindberg/reference-2.webp",
+      "source_url": "https://cdn.lindberg.com/media/ffjomgoc/lindberg-com_hannah_tt_women_frontpage_desktop_2160x2160px.jpg",
+      "source_tag": "img:page-image",
+      "context": "img showroom-picture div item-7hx5fcc1n hover-zoom text-light text-light text-light text-light text-light text-dark text-light text-dark text-dark text-light text-light text-light text-light text-light text-dark text-dark text-dark text-lig",
+      "content_type": "image/webp",
+      "bytes": 114014,
+      "sha256": "5d97cddc662a4000e2f67ce25324cadefe26e4459119e28bd86d815eea43f86d",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/lindberg/reference-3.webp",
+      "source_url": "https://cdn.lindberg.com/media/e5tbl1o5/lindberg-com_hannah_tt_women_frontpage_mobile_2160x2585px.jpg",
+      "source_tag": "img:page-image",
+      "context": "img showroom-picture div item-19mso1lur text-dark text-light text-light section page-wm2mrx7pl main showroom",
+      "content_type": "image/webp",
+      "bytes": 95778,
+      "sha256": "ab0370b550434bfacd577646b936c52e9d4e4cb30362050f9371f626b944fff8",
+      "width": 1128,
+      "height": 1350
+    }
+  ]
+}

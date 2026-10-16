@@ -1,0 +1,118 @@
+{
+  "company": "Kith",
+  "category": "패션_의류",
+  "requested_url": "https://kith.com/",
+  "page_url": "https://kith.com/",
+  "page_title": "Kith – Homepage",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://kith.com/cdn/shop/t/942/assets/site-logo.svg?v=399861; banner:ValueError:https://kith.com/cdn/shop/videos/c/vp/d311ac6855f84968ae86ea016ef6f16c/d311ac6855f84968ae86ea016ef6f16c.HD-1080p-4.8Mbps-95197072.mp4?v=0",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/kith/favicon.png",
+      "source_url": "https://kith.com/cdn/shop/files/favicon3_32x32.png?v=1613503289",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 869,
+      "sha256": "cffd9dd471da7704b4278194cb4bf384cebfdebe62eba98cc59c2f7365f1d0ab",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/kith/og.webp",
+      "source_url": "http://kith.com/cdn/shop/files/Screen_Shot_2021-01-15_at_5.30.34_PM.png?v=1610753478",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3116,
+      "sha256": "586e84812196ae77db09c671fbfe17ded1f8fe0b114f4d710c689527342feced",
+      "width": 1200,
+      "height": 901
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/kith/logo-1.webp",
+      "source_url": "https://kith.com/cdn/shop/files/Mens_New_Arrivals_3a132831-9eda-4046-88f7-0156993da173.jpg?v=1790173361&width=1920",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-full Two Acne Studios denim jackets, light wash and dark indigo, layered flat with pink logo neck tags visible picture lazypicture block w-full a flex flex-col gap-xs li p-sm grid grid-cols-2 gap-xs ul hidden py-sm",
+      "content_type": "image/webp",
+      "bytes": 861288,
+      "sha256": "67296859fe5455b39e7a82ae93942369748d0f3e975185cc744f0fbd0463aef3",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/kith/logo-2.webp",
+      "source_url": "https://kith.com/cdn/shop/files/Mens_New_Arrivals_3a132831-9eda-4046-88f7-0156993da173.jpg?v=1790173361&width=1440",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-full Two Acne Studios denim jackets, light wash and dark indigo, layered flat with pink logo neck tags visible picture lazypicture block w-full a flex flex-col gap-xs li p-sm grid grid-cols-2 gap-xs ul hidden py-sm",
+      "content_type": "image/webp",
+      "bytes": 685582,
+      "sha256": "06b9d790a22d69c0e8b8555d691aebd29839e3341332bd0682cecbb41cb6d6cd",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/kith/banner-1.webp",
+      "source_url": "https://kith.com/cdn/shop/files/preview_images/d311ac6855f84968ae86ea016ef6f16c.thumbnail.0000000000_1920x.jpg?v=1790081674",
+      "source_tag": "img:semantic-banner",
+      "context": "img video w-full h-full object-cover pointer-events-none a absolute w-full h-full top-0 left-0 15 Years Together. WATCH VIDEO s-hero hero block hero--cover relative w-full h-full bg-black text-white div section-hero w-full mx-auto mt-0 mb-0",
+      "content_type": "image/webp",
+      "bytes": 20096,
+      "sha256": "3c11a93dc5005e03c6d295dcec3e7be91bb03fab725c4fb858e4ca1f94ab8e60",
+      "width": 1620,
+      "height": 1080
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/kith/banner-2.webp",
+      "source_url": "https://kith.com/cdn/shop/files/Homepage_Desktop_3e55b75e-d56a-4035-bcbd-fce7ab563da2.jpg?v=1787925463&width=1920",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture lazypicture block w-full absolute top-0 left-0 h-full a absolute w-full h-full top-0 left-0 Kith Fall 2026 SHOP NOW s-hero hero block hero--cover relative w-full h-full bg-black text-white div section-hero w-full mx-auto mt-0 mb-0 d",
+      "content_type": "image/webp",
+      "bytes": 36672,
+      "sha256": "44397327250e61c7d8f37b3e5e8f51d68f9843a2316db6c147e0118a4a595771",
+      "width": 1600,
+      "height": 800,
+      "source_sha256": "9aff3f51795dc43d6a6e20abcd0d15753ef8aad1b6cfb3b54d280b68bf9c4512"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/kith/reference-1.webp",
+      "source_url": "https://kith.com/cdn/shop/files/N-1D_d73e30bc-df23-4cc3-8440-98e4ef80cf75.jpg?v=1785955058&width=1920",
+      "source_tag": "picture:page-image",
+      "context": "picture lazypicture block w-full a flex flex-col gap-xs li p-sm grid grid-cols-2 gap-xs ul py-xs div drawer-nav-parent-content-new-2024-main-new tab__panel",
+      "content_type": "image/webp",
+      "bytes": 50050,
+      "sha256": "28f4132fd5dcd2c798687f1351b0aac96eedf6156c7176c73189f0df2588415c",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/kith/reference-2.webp",
+      "source_url": "https://kith.com/cdn/shop/files/N-1D_d73e30bc-df23-4cc3-8440-98e4ef80cf75.jpg?v=1785955058&width=1440",
+      "source_tag": "picture:page-image",
+      "context": "picture lazypicture block w-full a flex flex-col gap-xs li p-sm grid grid-cols-2 gap-xs ul py-xs div drawer-nav-parent-content-new-2024-main-new tab__panel",
+      "content_type": "image/webp",
+      "bytes": 44954,
+      "sha256": "9a6cea173d43510b3cab0dd89e4939fe89e1d77058d99acf55c86a70a4f1e626",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/kith/reference-3.webp",
+      "source_url": "https://kith.com/cdn/shop/files/N-1E_8fd4546c-b280-455e-a490-a441e00751bc.jpg?v=1790354261&width=1920",
+      "source_tag": "picture:page-image",
+      "context": "picture lazypicture block w-full a flex flex-col gap-xs li p-sm grid grid-cols-2 gap-xs ul py-xs div drawer-nav-parent-content-new-2024-main-new tab__panel",
+      "content_type": "image/webp",
+      "bytes": 118378,
+      "sha256": "ac1856489781b677d44e71f5e8a7d416ababb66e05cd0de1495c347f4598c5c2",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

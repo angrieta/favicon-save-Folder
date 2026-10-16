@@ -1,0 +1,46 @@
+{
+  "company": "서강대학교",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.sogang.ac.kr",
+  "page_url": "https://www.sogang.ac.kr/ko/home",
+  "page_title": "서강대학교",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.sogang.ac.kr/_nuxt/pagination.daba805c.js; reference:ValueError:https://www.sogang.ac.kr/_nuxt/navigation.a46906a5.js; reference:ValueError:https://www.sogang.ac.kr/_nuxt/index.0ee72323.js; reference:ValueError:https://www.sogang.ac.kr/_nuxt/AcademicCalendar.1faa1813.js; reference:ValueError:https://www.sogang.ac.kr/_nuxt/Menu.ff3a9d59.js; reference:ValueError:https://www.sogang.ac.kr/_nuxt/scroll.98707d7f.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/sogang/favicon.png",
+      "source_url": "https://www.sogang.ac.kr/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1208,
+      "sha256": "9f66120bbc7171625d0f8037680892336714c819b62748fe50e1badbf6f3431b",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/sogang/logo-1.svg",
+      "source_url": "https://www.sogang.ac.kr/_nuxt/Layer_1.9ed5ccdb.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Layer_1 div logo-img a div div flex flex-row items-center",
+      "content_type": "image/svg+xml",
+      "bytes": 507451,
+      "sha256": "9ed5ccdbc8d3494dfe5dd88a3e698b9a7016d0be85da1bf35525a0a845daf3d7",
+      "width": 161,
+      "height": 51
+    },
+    {
+      "type": "logo",
+      "path": "assets/교육_헬스케어/sogang/logo-2.svg",
+      "source_url": "https://www.sogang.ac.kr/_nuxt/logoFooter.6c6e396d.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img object-cover w-full h-full overflow-hidden logo div w-[123px] h-[38px] a flex items-center div flex flex-col md:flex-row gap-y-[10px] justify-start md:items-center gap-x-[34px] div flex flex-col justify-start gap-4 md:flex-row md:justif",
+      "content_type": "image/svg+xml",
+      "bytes": 28155,
+      "sha256": "6c6e396d930ad35ac892ff6ad54fc928e384500445d231f49ea047593fd82ed7",
+      "width": 123,
+      "height": 38
+    }
+  ]
+}

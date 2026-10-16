@@ -1,0 +1,57 @@
+{
+  "company": "카닥",
+  "category": "자동차",
+  "requested_url": "https://cardoc.co.kr/",
+  "page_url": "https://cardoc.co.kr/",
+  "page_title": "맡기기 전에 비교하세요, 카닥",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cardoc.co.kr/assets/event-banner-item.ui-nwazqmJZ.js; reference:ValueError:https://cardoc.co.kr/assets/proxy-fkylr1P2.js; reference:ValueError:https://cardoc.co.kr/assets/index-C7yV3T3l.js; reference:ValueError:https://cardoc.co.kr/assets/start-inquiry-cta.ui-D4ENHlVR.js; reference:ValueError:https://cardoc.co.kr/assets/use-inquiry-draft.hook-C9LAQ4_O.js; reference:ValueError:https://cardoc.co.kr/assets/use-inquiry-auth-gate.hook-C7SiyySz.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/cardoc/favicon.ico",
+      "source_url": "https://cardoc.co.kr/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "c308be513eb60bbe294eb3a0470e522a73d4664e57e1df80fba6cea87afd0218",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/cardoc/og.webp",
+      "source_url": "https://cardoc.co.kr/og/common.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 22188,
+      "sha256": "fbb07b47aeb8530498534db8a699e6a916197581462681ee6f7c8452924c0645",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/cardoc/banner-1.webp",
+      "source_url": "https://image.cardoc.co.kr/v1/images/01a0225e-1cd5-735b-9bae-308e0320a56d/resized?w=1500&imageFormat=webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img size-full object-cover 수리 | 지원금5만원 | 상시 | 2026년4월 button aspect-[3.2/1] w-full flex-none cursor-pointer overflow-hidden rounded-lg div flex div overflow-hidden rounded-lg div relative",
+      "content_type": "image/webp",
+      "bytes": 14148,
+      "sha256": "ca860acfc811d16cf108fd0f588065add800bdc85385d0f3fd312620cbac53fb",
+      "width": 1500,
+      "height": 469
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/cardoc/banner-2.webp",
+      "source_url": "https://image.cardoc.co.kr/v1/images/01a045ef-ce1a-79c7-a015-6bee49362350/resized?w=1500&imageFormat=webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img size-full object-cover 엔진오일 | 할인쿠폰 | 상시 | 2026년9월 button aspect-[3.2/1] w-full flex-none cursor-pointer overflow-hidden rounded-lg div flex div overflow-hidden rounded-lg div relative",
+      "content_type": "image/webp",
+      "bytes": 22158,
+      "sha256": "8a4bb20b74122cbc3022d5305e068e26dc8afcd6f5fbe25f1d916cec5d404a05",
+      "width": 1500,
+      "height": 469
+    }
+  ]
+}

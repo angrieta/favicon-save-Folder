@@ -1,0 +1,118 @@
+{
+  "company": "Nescafé",
+  "category": "식품_생활",
+  "requested_url": "https://www.nescafe.com/kr/",
+  "page_url": "https://www.nescafe.com/kr/",
+  "page_title": "네슬레 네스카페 코리아 공식 사이트 | 네스카페 코리아 Nescafé KOREA",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.nescafe.com/kr/themes/custom/nescafe/assets/homepage/large.mp4; banner:ValueError:https://www.nescafe.com/kr/themes/custom/nescafe/assets/homepage/small.mp4; banner:HTTPError:https://www.nescafe.com/kr/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==; reference:ValueError:https://www.nescafe.com/kr/themes/custom/nescafe/assets/homepage/large.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/nescafe/favicon.ico",
+      "source_url": "https://www.nescafe.com/kr/themes/custom/nescafe/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "76224243566479b3b46956248aa3ba5579e87564822fe4aa88618c19644da600",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/nescafe/og.webp",
+      "source_url": "https://www.nescafe.com/kr/sites/default/files/2023-04/Poster_Frame_16_9.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 82302,
+      "sha256": "082c7ff36da67a8d072f616580fa929cd5ea57ad803941a2391bf239e43ccefd",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/nescafe/logo-1.png",
+      "source_url": "https://www.nescafe.com/kr/sites/default/files/latest_logo_white.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-img Nescafe Logo a logo-link div main-header--left logo div grid-x padding-x main-header--container align-justify align-middle div main-header",
+      "content_type": "image/png",
+      "bytes": 2558,
+      "sha256": "cc974bfb841dc6e4199a8d7bb4827eacf0d0b317a5e8fb7b06e5175f66e00704",
+      "width": 202,
+      "height": 60
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/nescafe/logo-2.png",
+      "source_url": "https://www.nescafe.com/kr/themes/custom/nescafe/assets/sustainability-hub/brand-logo-light.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img brand-image brand-image--light 지속가능한 네스카페 커피 div content-wrapper div max-width-container div content-container animate-enter div homepage-banner reveal-effect-container",
+      "content_type": "image/png",
+      "bytes": 4798,
+      "sha256": "28b899f08bb0f71829cfdd1e30586872793c292c5cd5ad3a29121589af7e5b62",
+      "width": 317,
+      "height": 96
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/nescafe/banner-1.webp",
+      "source_url": "https://www.nescafe.com/kr/sites/default/files/2023-05/CoffeeTypeFormat_Header_v5_2000_1374.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture persistent-nav--level2-banner-picture div small-12 large-8 xlarge-offset-1 xlarge-8 persistent-nav--level2-banner show-for-large div persistent-nav--level2 level2 grid-x div level-1 persistent-navigation--menu-wrapper li persistent-",
+      "content_type": "image/webp",
+      "bytes": 114608,
+      "sha256": "a7e1272ec1334ff71de480d197ad363710b8aa9d171df7460a4e44f48233c0ae",
+      "width": 1800,
+      "height": 1237
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/nescafe/banner-2.webp",
+      "source_url": "https://www.nescafe.com/kr/sites/default/files/2023-04/Burger%20Menu_Location%20Selector%201.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture persistent-nav--level3-banner-picture div cell small-12 large-12 full-width persistent-nav--level3 burger-nav div persistent-nav--level3 grid-x burger-nav full-width div level-burger-nav-1 small-12 large-8 xlarge-9 persistent-nav--l",
+      "content_type": "image/webp",
+      "bytes": 117056,
+      "sha256": "1a78bd644a636839fc947c7b37f51479057b8fce44fce0e30157847827fc9f72",
+      "width": 1600,
+      "height": 627,
+      "source_sha256": "e40be92568f5ede682d42c0ab7d58f0f6922a5cc0223c4eb6b7010a4aecb5c6c"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/nescafe/reference-1.webp",
+      "source_url": "https://www.nescafe.com/kr/sites/default/files/2026-03/Navigation%20page%20visual.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture persistent-nav--level3-banner-picture div cell small-12 xlarge-4 show-for-xlarge persistent-nav--level3 sub-banner div persistent-nav--level3-list-item div persistentNavLevel3List-level-1-desktop-1 cell small-12 large-12 xlarge-8 pe",
+      "content_type": "image/webp",
+      "bytes": 42082,
+      "sha256": "f230f72b773cf558897bffed8e71fbb99a4648bcd2f6e983943bf6d81d61fb6e",
+      "width": 738,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/nescafe/reference-2.webp",
+      "source_url": "https://www.nescafe.com/kr/sites/default/files/2024-11/SBU_NES_GEN_Gold-Latte%20Mugs%20without%20Logo-2_IMG_738by800px_241007_1_1728451397798_0.png",
+      "source_tag": "picture:page-image",
+      "context": "picture persistent-nav--level3-banner-picture div cell small-12 xlarge-4 show-for-xlarge persistent-nav--level3 sub-banner no-desc div persistent-nav--level3-list-item div persistentNavLevel3List-level-1-desktop-2 cell small-12 large-12 xla",
+      "content_type": "image/webp",
+      "bytes": 21182,
+      "sha256": "d7f469aa5dd4590d5058fd380a7b5a65db10e5d02d690220b4d9f6e8c9f99b2f",
+      "width": 738,
+      "height": 800
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/nescafe/reference-3.webp",
+      "source_url": "https://www.nescafe.com/kr/sites/default/files/2023-04/FullCoffeeCups_738x800_Frothy.png",
+      "source_tag": "picture:page-image",
+      "context": "picture persistent-nav--level3-banner-picture div cell small-12 xlarge-4 show-for-xlarge persistent-nav--level3 sub-banner no-desc div persistent-nav--level3-list-item div persistentNavLevel3List-level-1-desktop-2 cell small-12 large-12 xla",
+      "content_type": "image/webp",
+      "bytes": 26428,
+      "sha256": "a145927a818aefd3745c97c903231611a3b90ee7deeabc54beddcb6e23647833",
+      "width": 738,
+      "height": 800
+    }
+  ]
+}

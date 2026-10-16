@@ -1,0 +1,46 @@
+{
+  "company": "The Face",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://theface.com/",
+  "page_url": "https://theface.com/",
+  "page_title": "Home - The Face",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://theface.com/_next/static/media/ABCDiatype_Regular-s.p.13ygxan1ww2h9.woff2; reference:ValueError:https://theface.com/_next/static/chunks/045g~0~zva_mv.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/the-face/favicon.png",
+      "source_url": "https://theface.com/icon.png?icon.04e6wr8m5e7sk.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3723,
+      "sha256": "f00f068d3c12d4b62f38d6f898116f944367c2529b10698fada8e17bcc626d63",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/the-face/og.webp",
+      "source_url": "https://theface.com/opengraph-image.png?opengraph-image.0lhb_dik1~zqi.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6564,
+      "sha256": "2975940ff9d6fb90a80b44ae68e0aaff477ee47a453775112879762d69821f32",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/the-face/logo-1.svg",
+      "source_url": "https://theface.com/the-face-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img block h-auto w-full a flex min-w-0 flex-[0_1_240px] items-center justify-center no-underline md:flex-[0_1_430px] The Face home div site-header relative z-[2] flex flex-row-reverse items-center justify-between gap-3 border border-[red] b",
+      "content_type": "image/svg+xml",
+      "bytes": 3369,
+      "sha256": "843419dda760e8a45e44f9c5cb0ae48f7ee6853934f771f4fbccd66251078e4d",
+      "width": 192,
+      "height": 27,
+      "source_sha256": "923615c946d3c329e8a2ca75f3864295e5e1a9b962c14e2e7abc9c0ff3426e1b"
+    }
+  ]
+}

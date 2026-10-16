@@ -1,0 +1,33 @@
+{
+  "company": "영풍문고",
+  "category": "유통_커머스",
+  "requested_url": "https://www.ypbooks.co.kr",
+  "page_url": "https://www.ypbooks.co.kr/",
+  "page_title": "영풍문고 - 서점다운 서점",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.ypbooks.co.kr/front_web/assets/css/import.css; reference:ValueError:https://www.ypbooks.co.kr/assets/vendor.810e0200.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/ypbooks/favicon.ico",
+      "source_url": "https://www.ypbooks.co.kr/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 16958,
+      "sha256": "95931ed463f3f8809f16781b2cb1f42a1c644ce3b989a5f67b48d8346868943c",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/ypbooks/og.webp",
+      "source_url": "https://cdn.ypbooks.co.kr/front_web/assets/img/241111_link_thumbnail_v1.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7610,
+      "sha256": "6179eecc22c2181628964fb44b411093945e2fccbbdef7778c3d1b2f691181b2",
+      "width": 800,
+      "height": 400
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "company": "Artek",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.artek.fi/",
+  "page_url": "https://www.artek.fi/en/",
+  "page_title": "Home - Artek",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.artek.fi/en/f_auto/w_4096/v1777298124/products/domus-chair/Artek-Domus-means-home-Layered-02-9826267.jpg; reference:HTTPError:https://www.artek.fi/en/f_auto/w_3840/v1777298124/products/domus-chair/Artek-Domus-means-home-Layered-02-9826267.jpg; reference:HTTPError:https://www.artek.fi/en/f_auto/w_4096/v1771531649/general/Artek_InSitu_2026-0808.jpg; reference:HTTPError:https://www.artek.fi/en/f_auto/w_3840/v1771531649/general/Artek_InSitu_2026-0808.jpg; reference:HTTPError:https://www.artek.fi/en/f_auto/w_4096/v1771321296/general/Artek-and-the-forest_1.jpg; reference:HTTPError:https://www.artek.fi/en/f_auto/w_3840/v1771321296/general/Artek-and-the-forest_1.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/artek/favicon.png",
+      "source_url": "https://www.artek.fi/assets/media/favicons/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3116,
+      "sha256": "34d1aa500beba72449642302f21844dbeecfe9353344f7eb111b765c8e864db6",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/artek/og.webp",
+      "source_url": "https://res.cloudinary.com/artek/image/upload/s--NV2YftTZ--/ar_2:1,c_fill,f_auto,w_2400/v1729603667/products/rope-chair/Rope_Chair_09_Crop_1.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20702,
+      "sha256": "0791c902f0fe484384b47dc713eaae74215e369c966fddc6c78f6e207d32d1af",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/artek/banner-1.webp",
+      "source_url": "https://res.cloudinary.com/artek/image/upload/s--wHuQQZ2k--/ar_136:100,c_fill,f_auto/w_1200/v1787225629/collections/zebra/Artek-Zebra-Collection-teaser_web.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img o-full m-teaser-basic__image noscript div m-teaser-basic__image-wrapper o-aspect-ratio o-aspect-ratio--136x100 div m-teaser-basic__inner article zebra-collection m-teaser-basic m-teaser-basic--landscape m-teaser-basic--reverse",
+      "content_type": "image/webp",
+      "bytes": 88936,
+      "sha256": "c53778c681cf9230f96ff3800dcc84033817830fdd5a60254afbfa1914fe6951",
+      "width": 1200,
+      "height": 882,
+      "source_sha256": "6a6920e73b4e147dae76dc5cce191924bba38d5824f3837267b19e14dc937b02"
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/artek/banner-2.webp",
+      "source_url": "https://res.cloudinary.com/artek/image/upload/s--55gD5Waz--/ar_136:100,c_fill,f_auto/w_1200/v1777298124/products/domus-chair/Artek-Domus-means-home-Layered-02-9826267.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img o-full m-teaser-basic__image noscript div m-teaser-basic__image-wrapper o-aspect-ratio o-aspect-ratio--136x100 div m-teaser-basic__inner article domus-means-home m-teaser-basic m-teaser-basic--landscape",
+      "content_type": "image/webp",
+      "bytes": 106498,
+      "sha256": "a42d517c3136dc7c0992582f42b47713c81449ea841ad9a174d109acf841e7de",
+      "width": 1200,
+      "height": 882
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/artek/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/artek/image/upload/s--cvbqCBWa--/ar_136:100,c_fill,f_auto/w_1200/v1771531649/general/Artek_InSitu_2026-0808.jpg",
+      "source_tag": "img:page-image",
+      "context": "img o-full m-teaser-basic__image noscript div m-teaser-basic__image-wrapper o-aspect-ratio o-aspect-ratio--136x100 div m-teaser-basic__inner article artek-heath-2026-collection m-teaser-basic m-teaser-basic--landscape m-teaser-basic--revers",
+      "content_type": "image/webp",
+      "bytes": 197390,
+      "sha256": "78eb9957491df9ca4721cae7c5eb55da119048100d01934ae5123aa25738251d",
+      "width": 1200,
+      "height": 882,
+      "source_sha256": "b0a01742c5f15b2d6a63dd9ca02a13ccc297323f6092bffa8cbfdccd31c2c986"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/artek/reference-2.webp",
+      "source_url": "https://res.cloudinary.com/artek/image/upload/s--snOxyS86--/ar_136:100,c_fill,f_auto/w_1200/v1771321296/general/Artek-and-the-forest_1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img o-full m-teaser-basic__image noscript div m-teaser-basic__image-wrapper o-aspect-ratio o-aspect-ratio--136x100 div m-teaser-basic__inner article artek-and-the-forest m-teaser-basic m-teaser-basic--landscape",
+      "content_type": "image/webp",
+      "bytes": 158082,
+      "sha256": "5863c6c48697e5a6c6390cf47a2dc5a8d165f89571489698140aa6150777efb5",
+      "width": 1200,
+      "height": 882,
+      "source_sha256": "258fd79160b4ec402d684399b696816e2029fb2bbe5c877a773fcc6c22c43adc"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/artek/reference-3.webp",
+      "source_url": "https://res.cloudinary.com/artek/image/upload/s--w9WFLjuQ--/ar_136:100,c_fill,f_auto/w_1200/v1756376369/collections/ARTEKMARIMEKKO_20_793-1_master.jpg",
+      "source_tag": "img:page-image",
+      "context": "img o-full m-teaser-basic__image noscript div m-teaser-basic__image-wrapper o-aspect-ratio o-aspect-ratio--136x100 div m-teaser-basic__inner article artek-marimekko m-teaser-basic m-teaser-basic--landscape m-teaser-basic--reverse",
+      "content_type": "image/webp",
+      "bytes": 29114,
+      "sha256": "30dd7c63b5f720ab30555166620d10b17712e61cfb4bdea2289afe91f951f7e9",
+      "width": 1200,
+      "height": 882
+    }
+  ]
+}

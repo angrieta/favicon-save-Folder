@@ -1,0 +1,69 @@
+{
+  "company": "LG그룹",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.lg.co.kr/",
+  "page_url": "https://www.lg.co.kr/",
+  "page_title": "LG",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.lg.co.kr/main/images/40195; reference:ValueError:https://www.lg.co.kr/main/images/40196; reference:ValueError:https://www.lg.co.kr/main/images/55412; reference:ValueError:https://www.lg.co.kr/main/images/40198; reference:ValueError:https://www.lg.co.kr/main/images/40199; reference:ValueError:https://www.lg.co.kr/main/images/40200",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/lg-group/favicon.ico",
+      "source_url": "https://www.lg.co.kr/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "8deb3f136450650a2747982ed0c0b12e6c065d7133a9f0806de6b84975e223ac",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/lg-group/og.webp",
+      "source_url": "http://www.lg.co.kr/images/common/default_og_image_new.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1908,
+      "sha256": "5da3c23a2f190654f759004091f36f800effade148586e18b52dace21a46add1",
+      "width": 378,
+      "height": 189
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lg-group/reference-1.webp",
+      "source_url": "https://www.lg.co.kr/images/common/img_link10_new.png",
+      "source_tag": "img:page-image",
+      "context": "img span img a affiliates-link affiliates-group-01 span list-loop swiper-slide first-slide div affiliates-list clfix swiper-wrapper first-wrapper",
+      "content_type": "image/webp",
+      "bytes": 22240,
+      "sha256": "ccfe0f495ee309159d42e03286937ebf12c69fa052aed64d0663e4cd04644554",
+      "width": 1155,
+      "height": 1155
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lg-group/reference-2.webp",
+      "source_url": "https://www.lg.co.kr/images/main/main_topimg_blank.png",
+      "source_tag": "img:page-image",
+      "context": "img span mt_blank_img div main-mobile-image-area div section div uiFullGroup",
+      "content_type": "image/webp",
+      "bytes": 998,
+      "sha256": "6d0794211a891978b735b4b95dbce9d587096b66198908cd87afeff242ac5d2a",
+      "width": 660,
+      "height": 782
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/lg-group/reference-3.webp",
+      "source_url": "https://www.lg.co.kr/images/main/main_esg_banner.jpg",
+      "source_tag": "img:page-image",
+      "context": "img [매거진] esg 소식 a live li ul quick-list div main-media-movie",
+      "content_type": "image/webp",
+      "bytes": 20102,
+      "sha256": "1b50fa38331165b21ffeaaffba8b5556e1db46cf469e41e8944aafc78fa095c3",
+      "width": 590,
+      "height": 286
+    }
+  ]
+}

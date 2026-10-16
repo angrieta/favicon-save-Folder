@@ -1,0 +1,86 @@
+{
+  "company": "The New Yorker",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.newyorker.com/",
+  "page_url": "https://www.newyorker.com/",
+  "page_title": "The New Yorker",
+  "collection_status": "partial",
+  "collection_error": "logo:HTTPError:https://www.newyorker.com/verso/static/thenewyorker-us/assets/the-new-yorker-seo-logo.jpg; banner:HTTPError:https://www.newyorker.com/c_limit/PHD_Hero-Still_4_Cropped2.gif; banner:HTTPError:https://www.newyorker.com/c_limit/promo_Fitzgerald_sketchpad.jpg; reference:HTTPError:https://www.newyorker.com/c_limit/Schools_Final.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/the-new-yorker/favicon.ico",
+      "source_url": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "e4aa30cb21b89b2c49b294d513a27486a656462eae92db567ebac0ff583e9d9c",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/the-new-yorker/logo-1.svg",
+      "source_url": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/logo-inverted.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image a StackedNavigationLogoLink-kYGxkV kRfDLU div StackedNavigationSectionLogoSize-bkrGjx kRqRnh stacked-navigation__section--large-logo div StackedNavigationTop-idKMUp evNGAs div St",
+      "content_type": "image/svg+xml",
+      "bytes": 3902,
+      "sha256": "3e3c3206411aa1d684d890488c8ac96a9b17e5e9e6e3bb44e683dc6d136b7b03",
+      "width": 132,
+      "height": 32,
+      "source_sha256": "3a89a647f9ca923062248854f14403d85cf77e89e3c2797eb8567d156616fcae"
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/the-new-yorker/logo-2.svg",
+      "source_url": "https://www.newyorker.com/verso/static/thenewyorker-us/assets/logo-header-reverse.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image a StackedNavigationLogoLink-kYGxkV kRfDLU div StackedNavigationSectionLogo-gMbGGU dNqLHh div StackedNavigationBottom-eTaLUB ihQbgP div StackedNavigationGrid-dyqXXq kmmqZd",
+      "content_type": "image/svg+xml",
+      "bytes": 2479,
+      "sha256": "6dbf4649e92bd0cc75e0a265359491faf14cd3b8da5cf4a53d4821bdffeaf194",
+      "width": 115,
+      "height": 50
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/the-new-yorker/reference-1.webp",
+      "source_url": "https://media.newyorker.com/photos/6aba9824dc065eb07b246fec/4:3/w_768",
+      "source_tag": "picture:page-image",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image div aspect-ratio--overlay-container div AspectRatioContainer-dijQOF fvukZe span SpanWrapper-kFnjvc eKnjjD responsive-asset div BaseWrap-sc-SkJtP SmartItemAssetContainer-fiJexg dZ",
+      "content_type": "image/webp",
+      "bytes": 107976,
+      "sha256": "c9a95c366120a4b58d01cde4501ee98b700526108ee596d5cd442eb3951fea12",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "3ef968e6de93dcf31642de4f9a08a80b5ddf524e5cf88151c9c77748fdb3be72"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/the-new-yorker/reference-2.webp",
+      "source_url": "https://media.newyorker.com/photos/6aba9824dc065eb07b246fec/4:3/w_1600%2Cc_limit/Schools_Final.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image div aspect-ratio--overlay-container div AspectRatioContainer-dijQOF fvukZe span SpanWrapper-kFnjvc eKnjjD responsive-asset div BaseWrap-sc-SkJtP SmartItemAssetContainer-fiJexg dZ",
+      "content_type": "image/webp",
+      "bytes": 105108,
+      "sha256": "971d438a3941d151d2f69a2b998adee4954caf4281e12604e0e4b92efa1c4da7",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "7777431a83d041ce28073a8c3045b1215300f488922fccc8a1abc2a53b6f0f71"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/the-new-yorker/reference-3.webp",
+      "source_url": "https://media.newyorker.com/photos/6aba8a2c6a7b9d59d4874b32/4:3/w_768",
+      "source_tag": "picture:page-image",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image div aspect-ratio--overlay-container div AspectRatioContainer-dijQOF fvukZe span SpanWrapper-kFnjvc eKnjjD responsive-asset div BaseWrap-sc-SkJtP SmartItemAssetContainer-fiJexg dZ",
+      "content_type": "image/webp",
+      "bytes": 57190,
+      "sha256": "95eff268df5bd593c1be402581ce4df60944bc86c88ca49b1ec61742d5f3f938",
+      "width": 1600,
+      "height": 1200,
+      "source_sha256": "a636e3f3dcc6f63814209c7e118da9858fba3d72dde5573d3da73ba0a6ceccd8"
+    }
+  ]
+}

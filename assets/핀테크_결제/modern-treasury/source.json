@@ -1,0 +1,93 @@
+{
+  "company": "Modern Treasury",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.moderntreasury.com",
+  "page_url": "https://www.moderntreasury.com/",
+  "page_title": "Modern Treasury - Build Products That Move Money",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.moderntreasury.com/assets/fonts/mt-mono/mt-mono-semibold.woff2; reference:ValueError:https://www.moderntreasury.com/assets/fonts/mt-neue/mt-neue-display-roman.woff2; reference:ValueError:https://www.moderntreasury.com/assets/fonts/mt-neue/mt-neue-text-roman.woff2; reference:ValueError:https://www.moderntreasury.com/_next/static/chunks/0m97bbjp.vgzu.js?dpl=dpl_EsKMzg8QX7LM3ecSjhwjrhxigAFr; reference:ValueError:https://www.moderntreasury.com/assets/homepage-hero-desktop.webm; reference:ValueError:https://www.moderntreasury.com/assets/homepage-hero-mobile.webm",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/modern-treasury/favicon.png",
+      "source_url": "https://www.moderntreasury.com/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 955,
+      "sha256": "667471715bc3f450df4a12cf6f6473367eafc03b7ccc26d31d95727952a50819",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/modern-treasury/og.webp",
+      "source_url": "https://cdn.sanity.io/images/8nmbzj0x/production/3462cd76bd3792d4ec715bdc568644888fb9b42e-2000x1125.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 16350,
+      "sha256": "e1d17eecaae4e0820d0f9c545f72294faa8b1717182ba1c19de97f6da28cf6c2",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/modern-treasury/logo-1.png",
+      "source_url": "https://www.moderntreasury.com/assets/seo/default-meta-image.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 875711,
+      "sha256": "71e4e90dc45e5d7d4fcb05004a3973a7b71a868dd6e57322c23d0c58ac80479b",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/modern-treasury/logo-2.svg",
+      "source_url": "https://www.moderntreasury.com/assets/carousel-logos/logo-1-anchoragedigital.svg?dpl=dpl_EsKMzg8QX7LM3ecSjhwjrhxigAFr",
+      "source_tag": "img:semantic-logo",
+      "context": "img max-w-none Anchorage Digital div mr-16 shrink-0 div flex items-center div overflow-hidden div mx-auto max-w-content border-border-dim border-y py-16",
+      "content_type": "image/svg+xml",
+      "bytes": 17611,
+      "sha256": "ad447d4a7696fa16ea696667de70cf6af61ae6f3dba2c0ac38babee0acb16a3b",
+      "width": 123,
+      "height": 28
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/modern-treasury/banner-1.webp",
+      "source_url": "https://www.moderntreasury.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F8nmbzj0x%2Fproduction%2Fca6f81bc3bf23c6c83ce34ff96cbf0891a224774-1360x1020.png&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-full w-full object-cover Business Account Onboarding Status div relative aspect-[680/510] div grid lg:grid-cols-2 div overflow-hidden rounded-2xl bg-blue-50 div mx-auto max-w-content",
+      "content_type": "image/webp",
+      "bytes": 29272,
+      "sha256": "12f506db6894a7cf3ebb74bd8038291cbd2b399805c4e9cfe43c1ef51ccb604b",
+      "width": 1360,
+      "height": 1020
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/modern-treasury/banner-2.webp",
+      "source_url": "https://www.moderntreasury.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F8nmbzj0x%2Fproduction%2Fb00cc1b1af4a8cce8d7b3ba955f0233cc8adebd6-1360x1020.png&w=3840&q=75",
+      "source_tag": "img:semantic-banner",
+      "context": "img h-full w-full object-cover Code editor showing payment types div relative aspect-[680/510] div grid lg:grid-cols-2 div overflow-hidden rounded-2xl bg-blue-50 div mx-auto max-w-content",
+      "content_type": "image/webp",
+      "bytes": 102574,
+      "sha256": "44101f0b3bdfe51ffa5e8d78898129f59564f86bd50d9f7ce0c9d8e5fa8befc5",
+      "width": 1360,
+      "height": 1020
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/modern-treasury/reference-1.svg",
+      "source_url": "https://www.moderntreasury.com/assets/bg-grid.svg",
+      "source_tag": "link:preload",
+      "context": "preload image  /assets/bg-grid.svg",
+      "content_type": "image/svg+xml",
+      "bytes": 6277,
+      "sha256": "76a23ef37c6069ef83fd9982b1eb1f976b5ec64e53dd47e7538b451fa5a1fe37",
+      "width": 1440,
+      "height": 790
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "company": "파라다이스시티",
+  "category": "항공_여행",
+  "requested_url": "https://www.p-city.com/",
+  "page_url": "https://www.p-city.com/",
+  "page_title": "파라다이스시티 홈페이지",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/paradise-city/favicon.png",
+      "source_url": "https://www.p-city.com/common/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6230,
+      "sha256": "cb0b8d13c839cb5cb364ab530d32467560dd4f30afb6ec541bd681b0d551f3b3",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/paradise-city/og.webp",
+      "source_url": "https://www.p-city.com/resource/front/sns_logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2650,
+      "sha256": "8c7fe8bc2c9c74c866ccc496bc1c293171053812f95b812c5ae753b2bb5624bb",
+      "width": 270,
+      "height": 270
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/paradise-city/logo-1.svg",
+      "source_url": "https://www.p-city.com/upload_file/logo/250821_ISMS_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img dpib p mt4 div addressBox div bothL div innerBox clearFixed",
+      "content_type": "image/svg+xml",
+      "bytes": 14814,
+      "sha256": "36fbbb3fcd79a096460ca9a6a37d6612a78e827678e9e861c96210e842d059da",
+      "width": 46,
+      "height": 46,
+      "source_sha256": "7f87b98d7e9e133a84dfa6ac3adab34770092594fd7ab0b0afe4a79b9b1e1eff"
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/paradise-city/logo-2.svg",
+      "source_url": "https://www.p-city.com/pcPub/static/images/main/icon_icr.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img icr_logo div subLogoWrap div bothR ko div innerBox clearFixed footer footerWrap",
+      "content_type": "image/svg+xml",
+      "bytes": 31222,
+      "sha256": "f4219b8bab9e22058176dc1aae37495a2924ee2a54d4c48f07e32a878d2befd8",
+      "width": 66,
+      "height": 61,
+      "source_sha256": "35552d9f64db11b1b5dfa78f0542d8424853323c626a9b5f366d3a68c7f6e677"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/paradise-city/reference-1.webp",
+      "source_url": "https://www.p-city.com/upload_file/202512/1764579760059.png",
+      "source_tag": "img:page-image",
+      "context": "img fit_bg div main_vi_inner div swiper-slide div swiper-wrapper div main_vi_swiper",
+      "content_type": "image/webp",
+      "bytes": 77250,
+      "sha256": "842729ff7012e1c81d778ffbd7528f517d2b61bb018afd119dda330f5100aeff",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/paradise-city/reference-2.webp",
+      "source_url": "https://www.p-city.com/upload_file/202512/1767147119227.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a div swiper-slide div swiper-wrapper div featured_swiper group_swiper",
+      "content_type": "image/webp",
+      "bytes": 109756,
+      "sha256": "b3e7f872784a774b1c973b1e03410154e0c094e68b5dfa3621670bd18633462e",
+      "width": 675,
+      "height": 964,
+      "source_sha256": "01a97d476f9d0fe57ffab13fbf77290efc36d554065446a662e46f48b7a89bc1"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/paradise-city/reference-3.webp",
+      "source_url": "https://www.p-city.com/upload_file/202608/1786010124780.png",
+      "source_tag": "img:page-image",
+      "context": "img a div swiper-slide div swiper-wrapper div featured_swiper group_swiper",
+      "content_type": "image/webp",
+      "bytes": 106350,
+      "sha256": "1bc45a0ab83c0393402bc456171423113c787a3b09a9a0546b11e877635e89f5",
+      "width": 675,
+      "height": 964
+    }
+  ]
+}

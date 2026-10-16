@@ -1,0 +1,93 @@
+{
+  "company": "뚜레쥬르",
+  "category": "식품_생활",
+  "requested_url": "https://www.tlj.co.kr/",
+  "page_url": "https://www.tlj.co.kr/index.asp",
+  "page_title": "건강한 데일리 베이커리, 빵, 케이크, 샌드위치, 이벤트, 매장안내",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.facebook.com/tr?id=1591177504253160&ev=PageView&noscript=1; reference:ValueError:https://www.facebook.com/tr?id=1591177504253160&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/tous-les-jours/favicon.ico",
+      "source_url": "https://www.tlj.co.kr/favicon.ico?v=4",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "a247a30c275143af0c359d938f6a5edc2325250cf017f852d564dd3232e6db44",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/tous-les-jours/og.webp",
+      "source_url": "https://www.tlj.co.kr/static/images/common/sns_tlj_logo.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3976,
+      "sha256": "df458109e8dce9f32817c6295eb10bad0a9e189381bd33af4e1cd951dc7c52bb",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/tous-les-jours/logo-1.png",
+      "source_url": "https://www.tlj.co.kr/static/images/common/logo.png?v2503",
+      "source_tag": "img:semantic-logo",
+      "context": "img 뚜레쥬르 로고 a h1 logo div headerWrap div header",
+      "content_type": "image/png",
+      "bytes": 4284,
+      "sha256": "7b7b15ddcfee2ec470e6f1963a7c589d0f91eb8cd961ff20d0ccc0f10cec602c",
+      "width": 238,
+      "height": 34
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/tous-les-jours/banner-1.webp",
+      "source_url": "https://www.tlj.co.kr/static/images/main/main_visual.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img li img_main2 ul div main-slider4 div skip_cnt mainVisual",
+      "content_type": "image/webp",
+      "bytes": 63012,
+      "sha256": "40d85d18222ae65aa424b66330032dce3ee313950b907b037d674176673a2843",
+      "width": 1800,
+      "height": 487
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/tous-les-jours/reference-1.webp",
+      "source_url": "https://www.tlj.co.kr/data/main_event_banner/2026-9-21_event.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a li ul bxslider div floatleft main-slider1",
+      "content_type": "image/webp",
+      "bytes": 34130,
+      "sha256": "fa573f524d3736abcfa4aa1af6db0218e852b1303bba92d0e37b7ee53e316185",
+      "width": 720,
+      "height": 740
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/tous-les-jours/reference-2.webp",
+      "source_url": "https://www.tlj.co.kr/data/main_event_banner/2026-9-3_event.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a li ul bxslider div floatleft main-slider1",
+      "content_type": "image/webp",
+      "bytes": 22712,
+      "sha256": "ea3a801a873ef2e261b231183852e7e7f7f675f7a4f6dcffb5acc5bcd709f75c",
+      "width": 720,
+      "height": 740
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/tous-les-jours/reference-3.webp",
+      "source_url": "https://www.tlj.co.kr/data/main_event_banner/2026-8-27_event.jpg",
+      "source_tag": "img:page-image",
+      "context": "img a li ul bxslider div floatleft main-slider1",
+      "content_type": "image/webp",
+      "bytes": 58534,
+      "sha256": "72bdb49e5588490a9282899d5016a8299fec46671c05018db2d5b3549d7f4819",
+      "width": 720,
+      "height": 740
+    }
+  ]
+}

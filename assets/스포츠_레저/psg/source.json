@@ -1,0 +1,106 @@
+{
+  "company": "Paris Saint-Germain",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.psg.fr",
+  "page_url": "https://www.psg.fr/en",
+  "page_title": "PSG.FR | Official site of Paris Saint-Germain",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://www.psg.fr/q_90/DA_octobre_rose_horizontal_ALL_EN_kmfjyq; reference:HTTPError:https://www.psg.fr/q_90/DA_octobre_rose_horizontal_ALL_EN_kmfjyq",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/psg/favicon.ico",
+      "source_url": "https://media.psg.fr/image/upload/favicon_h81ncv.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "cf474bd9b8ac8427a92793aeb21a64bc89a69d757b8d684959c74e06228f78d6",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/psg/logo-1.svg",
+      "source_url": "https://media.psg.fr/image/upload/UEFA_Women_s_Champions_League_logo__2021_vckhq8",
+      "source_tag": "img:semantic-logo",
+      "context": "img transition-opacity duration-300 ease-in text-content-primary/5 pointer-events-none absolute -right-[25%] -bottom-[55%] h-[225px] w-[225px] opacity-5 div 3ai599epgr9cogl4eezbvj0us clip-corner duration-medium-1 bg-background-secondary p-l",
+      "content_type": "image/svg+xml",
+      "bytes": 11863,
+      "sha256": "77a88e46b69c32f8f30b4b7de52f314de784861c9cdd555957ed6be805b27007",
+      "width": 202,
+      "height": 209
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/psg/logo-2.png",
+      "source_url": "https://api.psg.fr/images/sportsImage/v1.0/Team/vaikl8nl7hdr4y9jj4jyb9ey.png?width=3840",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-8 w-8 object-contain Real Madrid logo div relative div gap-sm flex items-center div gap-md pointer-events-none flex flex-col div gap-lg flex flex-col",
+      "content_type": "image/png",
+      "bytes": 1359135,
+      "sha256": "6b1721dd17f022fb9bb8d568981e7c36b124625dfc517d1a3183d9afad32d9e0",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/psg/banner-1.webp",
+      "source_url": "https://media.psg.fr/image/upload/w_3840,c_fill,g_auto,ar_16:9/f_avif,q_90/DA_octobre_rose_horizontal_ALL_EN_kmfjyq",
+      "source_tag": "img:semantic-banner",
+      "context": "img transition-opacity duration-300 ease-in opacity-0 h-full w-full object-cover div hero-image animate-hero-image aspect-hero-desktop absolute inset-0 hidden h-full w-full lg:block div 2xl:aspect-hero-desktop relative flex min-h-[31.5rem] ",
+      "content_type": "image/webp",
+      "bytes": 137662,
+      "sha256": "c5d3b7feb53be73a12cfd48391dc0f946bf4accfe02a48814808c6e61d7ada6c",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/psg/banner-2.webp",
+      "source_url": "https://media.psg.fr/image/upload/w_3840/f_avif,q_75/Background_image_rceywy",
+      "source_tag": "img:semantic-banner",
+      "context": "img transition-opacity duration-300 ease-in opacity-0 absolute inset-0 z-0 h-full w-full object-cover div clip-corner bg-dark-background-brand-blue relative mx-auto flex w-full flex-col items-center justify-center overflow-hidden md:min-h-[",
+      "content_type": "image/webp",
+      "bytes": 39706,
+      "sha256": "82984de5a75f82feacc03bf7c4039e91edc637faafdbeb15f9961ce8ab2d97c5",
+      "width": 1800,
+      "height": 602
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/psg/reference-1.webp",
+      "source_url": "https://media.psg.fr/image/upload/w_3840,c_fill,g_auto,ar_1:1/f_avif,q_90/DA_octobre_rose_horizontal_ALL_EN_kmfjyq",
+      "source_tag": "img:page-image",
+      "context": "img transition-opacity duration-300 ease-in opacity-0 h-full w-full object-cover object-top div hero-image animate-hero-image aspect-hero-mobile absolute inset-0 block h-full w-full lg:hidden div 2xl:aspect-hero-desktop relative flex min-h-",
+      "content_type": "image/webp",
+      "bytes": 128176,
+      "sha256": "21bdeed24fbf8d560239b78b1a0d7d3eaf7da811323d8c826fbc650ebcb8d126",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/psg/reference-2.webp",
+      "source_url": "https://api.psg.fr/images/sportsImage/v1.0/Team/vaikl8nl7hdr4y9jj4jyb9ey.png?width=2048",
+      "source_tag": "img:page-image",
+      "context": "img h-8 w-8 object-contain Real Madrid logo div relative div gap-sm flex items-center div gap-md pointer-events-none flex flex-col div gap-lg flex flex-col",
+      "content_type": "image/webp",
+      "bytes": 100618,
+      "sha256": "18c01600924a723a44152ef2018a445928000376503031b07fa3d9cc5d2e3524",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/psg/reference-3.webp",
+      "source_url": "https://media.psg.fr/image/upload/w_3840/f_avif,q_75/psg-logo_avcznk",
+      "source_tag": "img:page-image",
+      "context": "img h-8 w-8 object-contain Paris logo div relative div gap-sm flex items-center div gap-md pointer-events-none flex flex-col div gap-lg flex flex-col",
+      "content_type": "image/webp",
+      "bytes": 85594,
+      "sha256": "7e38d308e22fbbf861f1b7fcc35448e8ed5b5a6dec9d0b3b096ee771d309c1f0",
+      "width": 1313,
+      "height": 1350
+    }
+  ]
+}

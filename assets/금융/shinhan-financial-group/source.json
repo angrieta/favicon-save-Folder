@@ -1,0 +1,93 @@
+{
+  "company": "신한금융그룹",
+  "category": "금융",
+  "requested_url": "https://www.shinhangroup.com/",
+  "page_url": "https://www.shinhangroup.com/kr/main",
+  "page_title": "신한금융그룹",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://www.shinhangroup.com/attach/main_visual/6f619ba7ee554239a59f764376ec1e7d.mp4; banner:ValueError:https://www.shinhangroup.com/attach/main_visual/db5e3235a623420783d7801c6c363ce5.mp4; reference:ValueError:https://www.shinhangroup.com/attach/main_visual/c79e688ecc874509ba997e101e52c8fa.mp4; reference:ValueError:https://www.shinhangroup.com/attach/main_visual/8dc18af8d6a64b3884a9cc478cdde367.mp4; reference:ValueError:https://www.shinhangroup.com/attach/main_visual/6f619ba7ee554239a59f764376ec1e7d.mp4; reference:ValueError:https://www.shinhangroup.com/attach/main_visual/db5e3235a623420783d7801c6c363ce5.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/shinhan-financial-group/favicon.png",
+      "source_url": "https://www.shinhangroup.com/resources/publish/kr/images/common/favicon_192_192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 5687,
+      "sha256": "a260fcfcca9a04e039d18b63946a0d80b49b97ad27ba247cb9f0317a897e238f",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/shinhan-financial-group/og.webp",
+      "source_url": "https://www.shinhangroup.com/resources/publish/kr/images/common/sfg_og.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9698,
+      "sha256": "fdf37988007299ddeb3ee6fa37fb67f8cef958af20c9b213a3ede6fbd5654a17",
+      "width": 1200,
+      "height": 600
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/shinhan-financial-group/banner-1.webp",
+      "source_url": "https://www.shinhangroup.com/resources/publish/kr/images/main/main_bg2.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img m_none 지속가능금융 div imgBig div sec2_inner div section sec2 div content",
+      "content_type": "image/webp",
+      "bytes": 110902,
+      "sha256": "ea5ea01b83364e5a6c76787224b6e4eb9326f5584288469309d10f6797155c65",
+      "width": 1712,
+      "height": 872
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/shinhan-financial-group/banner-2.webp",
+      "source_url": "https://www.shinhangroup.com/resources/publish/kr/images/main/main_bg3.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img m_none 신한금융그룹 소개 div imgBig div sec3_inner div section sec3 div content",
+      "content_type": "image/webp",
+      "bytes": 41192,
+      "sha256": "e726f5084e612a92223145e213fd4d9c76ed7fab097c0bcde9ec3b81e5dd43ca",
+      "width": 1712,
+      "height": 872
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/shinhan-financial-group/reference-1.webp",
+      "source_url": "https://www.shinhangroup.com/resources/publish/kr/images/main/main_bg2_m.jpg",
+      "source_tag": "img:page-image",
+      "context": "img w_none 지속가능금융 div imgBig div sec2_inner div section sec2 div content",
+      "content_type": "image/webp",
+      "bytes": 57992,
+      "sha256": "ed3890d3c5442d746b92f6f8e780f2c2833efe5e81dd72b926e08bae147f438e",
+      "width": 607,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/shinhan-financial-group/reference-2.webp",
+      "source_url": "https://www.shinhangroup.com/resources/publish/kr/images/main/main_bg3_m.jpg",
+      "source_tag": "img:page-image",
+      "context": "img w_none 신한금융그룹 소개 div imgBig div sec3_inner div section sec3 div content",
+      "content_type": "image/webp",
+      "bytes": 34542,
+      "sha256": "eeb0f6385c194f957afd9e414b6ad5812a1da8ef9e3dd938cbfe1db2991d7ff3",
+      "width": 607,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/shinhan-financial-group/reference-3.webp",
+      "source_url": "https://www.shinhangroup.com/resources/publish/kr/images/main/main_bg4.jpg",
+      "source_tag": "img:page-image",
+      "context": "img m_none PR센터 div imgBig div sec4_inner div section sec4 div content",
+      "content_type": "image/webp",
+      "bytes": 165098,
+      "sha256": "cd827172cbdf9b169546840c3142e5f4c7112cc660cf8da0f53cb6c28b6756e9",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

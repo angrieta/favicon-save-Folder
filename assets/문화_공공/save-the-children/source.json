@@ -1,0 +1,81 @@
+{
+  "company": "Save the Children",
+  "category": "문화_공공",
+  "requested_url": "https://www.savethechildren.net",
+  "page_url": "https://www.savethechildren.net/",
+  "page_title": "Save the Children International | Save the Children International",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.savethechildren.net/homepage; reference:ValueError:https://www.savethechildren.net/themes/custom/sci_theme/dist/fonts.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/save-the-children/favicon.png",
+      "source_url": "https://www.savethechildren.net/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7655,
+      "sha256": "f8f9c3204b5fd02de2140d92490398d221f24a428c1666a1b491408c239b157d",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/save-the-children/og.webp",
+      "source_url": "https://i.stci.uk/dam/sandy-7-is-unwell-due-to-the-living-conditions-in-the-informal-camp-where-she-lives-in-gaza-ch11035355.jpg/43t1ufur48duk0n3v3b322ovtc0he42b.jpg?g=0.5x0.33&format=webp&itok=SvpF15JA",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 54976,
+      "sha256": "7196e6c6228b3b5a01d4333c06995c4d16d0c16bf84a7ed08bae861aaaa98efd",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/save-the-children/logo-1.svg",
+      "source_url": "https://www.savethechildren.net/themes/custom/sci_theme/images/sci-logo.svg",
+      "source_tag": "json-ld.@graph[2].publisher.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 20029,
+      "sha256": "f05b26fe58a88f5145449becd271e46b30bbc4465337c442aaafac98765a3474",
+      "width": 228,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/save-the-children/logo-2.webp",
+      "source_url": "https://i.stci.uk/dam/icon---save-the-children-brand-asset-ch1285273.png/0tj653y7dtv0r17w02u7q57d6rt02td2.png?g=0.5x0.33&w=96&h=96&format=webp&itok=buTAOrCi",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture image div image-field div vertical-card__image div vertical-card vertical-card--plain impact-list-icon div grid grid--list-icons",
+      "content_type": "image/webp",
+      "bytes": 2164,
+      "sha256": "4353af02f8e9ed5d4b0034a250f0454b531de77cbc3aa6bab0196aebacf35618",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/save-the-children/banner-1.webp",
+      "source_url": "https://i.stci.uk/dam/a-home-surrounded-by-mud-and-debris-in-rasuwa-district-after-severe-flooding-swept-through-the-area-ch11658389.jpg/63yga0e760l5w56xw58b526qe3482mp7.jpg?g=0.5x0.33&w=1440&h=600&format=webp&itok=ISeNHDXC",
+      "source_tag": "inline-background-image",
+      "context": "div  banner__picture --m-x-percent: 0.5; --m-y-percent: 0.33; --x-percent: 0.5; --y-percent: 0.33; --desktop-banner: url('https://i.stci.uk/dam/a-home-surrounded-by-mud-and-debris-in-rasuwa-district-after-severe-flooding-swept-through-the-a",
+      "content_type": "image/webp",
+      "bytes": 178734,
+      "sha256": "da305c788a2e6a433a8a631e494975c1e9456f24cdde5a193652062acfb08253",
+      "width": 1440,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/save-the-children/reference-1.webp",
+      "source_url": "https://i.stci.uk/dam/sandy-7-is-unwell-due-to-the-living-conditions-in-the-informal-camp-where-she-lives-in-gaza-ch11035355.jpg/43t1ufur48duk0n3v3b322ovtc0he42b.jpg",
+      "source_tag": "json-ld.@graph[1].thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 169124,
+      "sha256": "c1a820ee424a062d9beb784381052fb9f65d84d0736d726b372d340baca5c2b6",
+      "width": 1800,
+      "height": 1200
+    }
+  ]
+}

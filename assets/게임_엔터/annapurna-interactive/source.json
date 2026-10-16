@@ -1,0 +1,45 @@
+{
+  "company": "Annapurna Interactive",
+  "category": "게임_엔터",
+  "requested_url": "https://annapurnainteractive.com/",
+  "page_url": "https://annapurnainteractive.com/ko",
+  "page_title": "Annapurna Interactive",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://player.vimeo.com/progressive_redirect/playback/1179014566/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1809884892&signature=bea023c19ace56af06d6d00e64399c9c5082619beb822ce77c94a85c4a21257c; reference:ValueError:https://player.vimeo.com/progressive_redirect/playback/1177525714/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1809884892&signature=8244bb85f2a26f5700ed087fae8f3ab88d08a84cf46c4da78dfc407e87a018be; reference:ValueError:https://annapurnainteractive.com/_next/static/media/HelveticaNeueLTPro_Bold-s.p.0pp~xrsbqbj-i.woff2; reference:ValueError:https://annapurnainteractive.com/_next/static/media/HelveticaNeueLTPro_Medium-s.p.0mcp-4.180zt_.woff2; reference:ValueError:https://annapurnainteractive.com/_next/static/media/HelveticaNeueLTPro_Roman-s.p.03r2zqm36z.bw.woff2; reference:ValueError:https://annapurnainteractive.com/_next/static/chunks/0qwvdmwgn5~vm.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/annapurna-interactive/favicon.png",
+      "source_url": "https://cdn.sanity.io/images/ahd04aec/production/3d76019ec3ccff8602aea1a74dd54b77f0b7c48d-192x192.png?w=180&h=180",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 12401,
+      "sha256": "e03628910967606da21de52971ac889355a0e112143b35195ad76d28e81b5274",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/annapurna-interactive/og.webp",
+      "source_url": "https://cdn.sanity.io/images/ahd04aec/production/b5717cfc0d1c70798d1b34e0d9d2515579d6562c-1200x630.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10996,
+      "sha256": "f9ab3cb3312abd104f96da648ed06325bbde8ce7e08e7516a6449abe9fdf7a84",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/annapurna-interactive/reference-1.webp",
+      "source_url": "https://cdn.sanity.io/images/ahd04aec/production/9d16b2356885251e65fe4130e9ef4132316d6dc0-1650x2100.png?w=3400&auto=format&fit=max",
+      "source_tag": "img:page-image",
+      "context": "img opacity-0 transition-opacity duration-200 ease-linear data-[loaded=true]:opacity-100 object-cover sm:hidden div w-full select-none after:absolute after:inset-0 relative flex min-h-full shrink-0 grow-0 flex-col div relative flex h-full t",
+      "content_type": "image/webp",
+      "bytes": 106004,
+      "sha256": "0dd8368271c836fc59aaf8cd1c47fcf83c80d853588fb02d2872c9990f912ecd",
+      "width": 1061,
+      "height": 1350
+    }
+  ]
+}

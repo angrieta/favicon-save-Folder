@@ -1,0 +1,81 @@
+{
+  "company": "Kirin",
+  "category": "식품_생활",
+  "requested_url": "https://www.kirin.co.jp/",
+  "page_url": "https://www.kirin.co.jp/",
+  "page_title": "KIRIN｜キリングループ 商品情報サイト",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto&display=swap",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/kirin/favicon.png",
+      "source_url": "https://www.kirin.co.jp/assets/images/icon-webicon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6587,
+      "sha256": "8ab95a7914af1e510370a3c64df0d2295120ef737c21345fe5e7ec74c82a9d2a",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/kirin/og.webp",
+      "source_url": "https://www.kirin.co.jp/assets/images/img-ogp.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9256,
+      "sha256": "ff4e8bcb93ee6b4fe0f62eeb428f0573fc3a0cf011c4dc287258fb0aee684a54",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/kirin/logo-1.svg",
+      "source_url": "https://www.kirin.co.jp/assets/images/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img str-header-kirin-logo__image よろこびがつなぐ世界へ KIRIN a str-header-kirin-logo__link div str-header-kirin-logo div str-header-kirin__head div str-header-kirin__inner",
+      "content_type": "image/svg+xml",
+      "bytes": 14491,
+      "sha256": "027a3b0f7e316984d65daea8c61a036227c81b9f4126c0a520ff8dfff840338f",
+      "width": 101,
+      "height": 30
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/kirin/logo-2.svg",
+      "source_url": "https://www.kirin.co.jp/assets/images/logo-journal.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img str-header-kirin-journal__image キリンジャーナル a str-header-kirin-journal__link div str-header-kirin-journal str-header-kirin-journal--pc div str-header-kirin__body div str-header-kirin__inner",
+      "content_type": "image/svg+xml",
+      "bytes": 4686,
+      "sha256": "8eddeb4bfe8c8fc48cd88abd817e76c7e7dc5b80c670d40f5445f46efe5a252b",
+      "width": 801,
+      "height": 101
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kirin/reference-1.webp",
+      "source_url": "https://www.kirin.co.jp/assets/top/images/img-softdrink-01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img ソフトドリンク・乳製品 div uniq-top-panel__media a uniq-top-panel__link div uniq-top-panel__contents js-kirin-animate-intersection__animate-target div uniq-top-panel__item js-kirin-animate-intersection",
+      "content_type": "image/webp",
+      "bytes": 51256,
+      "sha256": "8c162633b90413e16ecd98f9ad3939afc5d0ce10c68d8f26e67babae71806e30",
+      "width": 580,
+      "height": 580
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/kirin/reference-2.webp",
+      "source_url": "https://www.kirin.co.jp/assets/top/images/img-healthcare-01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img ヘルス＆ビューティー div uniq-top-panel__media a uniq-top-panel__link div uniq-top-panel__contents js-kirin-animate-intersection__animate-target div uniq-top-panel__item js-kirin-animate-intersection",
+      "content_type": "image/webp",
+      "bytes": 17016,
+      "sha256": "c23e51fea71fda1ebb286f31c41ba69f79a098d07bbef58dac2509855c9f1b00",
+      "width": 400,
+      "height": 400
+    }
+  ]
+}

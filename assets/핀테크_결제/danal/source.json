@@ -1,0 +1,58 @@
+{
+  "company": "다날",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.danal.co.kr/",
+  "page_url": "https://www.danal.co.kr/",
+  "page_title": "다날 - 다가오는 날은 다 좋은 날",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/danal/favicon.ico",
+      "source_url": "https://static.danal.co.kr/img/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 5430,
+      "sha256": "d729663f808a3d06f2aa1b69781965c2150f4ff3bac04c11350252811d452c69",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/danal/reference-1.webp",
+      "source_url": "https://static.danal.co.kr/files/main/platform/img_family01.png",
+      "source_tag": "img:page-image",
+      "context": "img 다날페이 div family_img a li ul slides",
+      "content_type": "image/webp",
+      "bytes": 27474,
+      "sha256": "8c43cfbde51af8231bff0e59f92cb239b4293478185236f8afdde184dcd8ee97",
+      "width": 848,
+      "height": 848
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/danal/reference-2.webp",
+      "source_url": "https://static.danal.co.kr/files/main/platform/img_family02.png",
+      "source_tag": "img:page-image",
+      "context": "img 페이코인 div family_img a li ul slides",
+      "content_type": "image/webp",
+      "bytes": 23988,
+      "sha256": "1198da62331818bee637c45c0a464554748f3de4c58a0c5d4eab0f894bf8afad",
+      "width": 848,
+      "height": 848
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/danal/reference-3.webp",
+      "source_url": "https://static.danal.co.kr/files/main/platform/img_family04.png",
+      "source_tag": "img:page-image",
+      "context": "img JEFFWORLD div family_img a li ul slides",
+      "content_type": "image/webp",
+      "bytes": 13180,
+      "sha256": "9c3edad2ea954911cc45b31777dc3933e4a3d737ced20e83106e3ac8eb8d57b1",
+      "width": 600,
+      "height": 600
+    }
+  ]
+}

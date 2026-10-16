@@ -1,0 +1,106 @@
+{
+  "company": "Huel",
+  "category": "식품_생활",
+  "requested_url": "https://huel.com",
+  "page_url": "https://uk.huel.com/",
+  "page_title": "Huel UK",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://uk.huel.com/images/huel-logo.png",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/huel/favicon.png",
+      "source_url": "https://cdn.huel.io/favicons/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 830,
+      "sha256": "94e08e56d5695ef1686f1dcda48ab7850f05a7d4cf14e7edcdc09d7ac346ed73",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/huel/logo-1.png",
+      "source_url": "https://cdn.sanity.io/images/sy0wkh9n/productionv29/20215310d2d49bdf2cc810cc4c663c7e3ad6967e-2000x411.png?auto=format&fit=max&q=75&w=150",
+      "source_tag": "img:semantic-logo",
+      "context": "img image-module__ZYzVpG__Image__image Wired Brand Logo picture image-module__ZYzVpG__Image div press-quotes-carousel-module__3QNHNa__PressQuotesCarousel__image div press-quotes-carousel-module__3QNHNa__PressQuotesCarousel__image-container ",
+      "content_type": "image/png",
+      "bytes": 4846,
+      "sha256": "3d86b53bc253774f9c798bef61fd663ab3d03f6309ab4ff035bea3ae92598be0",
+      "width": 150,
+      "height": 31
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/huel/logo-2.png",
+      "source_url": "https://cdn.sanity.io/images/sy0wkh9n/productionv29/20215310d2d49bdf2cc810cc4c663c7e3ad6967e-2000x411.png?auto=format&fit=max&q=75&w=3500",
+      "source_tag": "img:semantic-logo",
+      "context": "img image-module__ZYzVpG__Image__image Wired Brand Logo picture image-module__ZYzVpG__Image div press-quotes-carousel-module__3QNHNa__PressQuotesCarousel__image div press-quotes-carousel-module__3QNHNa__PressQuotesCarousel__image-container ",
+      "content_type": "image/png",
+      "bytes": 98432,
+      "sha256": "1cc7fb0eeb70cc6f37c68c9fed02f62cff448df00da7ecb2f70c0afa542960d2",
+      "width": 1600,
+      "height": 329
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/huel/banner-1.webp",
+      "source_url": "https://cdn.sanity.io/images/sy0wkh9n/productionv29/ddf4b4128f0cf95fa61819eb13701f64ce1acc35-3200x2132.png?auto=format&fit=max&q=75&w=3500",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture image-module__ZYzVpG__Image a Shop all Huel div hero-module__xgrXyG__Hero__media section hero-module__xgrXyG__Hero hero-module__xgrXyG__Hero--is-split div block-0 scroll-mt-nav",
+      "content_type": "image/webp",
+      "bytes": 145268,
+      "sha256": "e2df8368a7beb5bb1fc7c13c0603e9915a59a0f69b22915f1b48a57a69b04cdd",
+      "width": 1800,
+      "height": 1199
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/huel/banner-2.webp",
+      "source_url": "https://cdn.sanity.io/images/sy0wkh9n/productionv29/ddf4b4128f0cf95fa61819eb13701f64ce1acc35-3200x2132.png?auto=format&fit=max&q=75&w=2600",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture image-module__ZYzVpG__Image a Shop all Huel div hero-module__xgrXyG__Hero__media section hero-module__xgrXyG__Hero hero-module__xgrXyG__Hero--is-split div block-0 scroll-mt-nav",
+      "content_type": "image/webp",
+      "bytes": 144518,
+      "sha256": "77e5e3363c6ba2f104d43c2a1c31914d3c3bb52653bc4f42c61b97e8264eeec7",
+      "width": 1800,
+      "height": 1199
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/huel/reference-1.webp",
+      "source_url": "https://huel.imgix.net/VisualNav_BestSellers_MostPopular_UK.png?auto=format&compress&w=3500",
+      "source_tag": "picture:page-image",
+      "context": "picture image-module__ZYzVpG__Image div image-tile-module__1BMErq__ImageTile__image div image-tile-module__1BMErq__ImageTile__inner div image-tile-module__1BMErq__ImageTile a desktop-nav-shop-panel-module__CfY33q__DesktopNavShopPanel__tileL",
+      "content_type": "image/webp",
+      "bytes": 53576,
+      "sha256": "f0c36f84cd36f7727c198ed975999f02e03327c1554d29422513e76af8e090dc",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/huel/reference-2.webp",
+      "source_url": "https://huel.imgix.net/VisualNav_BestSellers_MostPopular_UK.png?auto=format&compress&w=2600",
+      "source_tag": "picture:page-image",
+      "context": "picture image-module__ZYzVpG__Image div image-tile-module__1BMErq__ImageTile__image div image-tile-module__1BMErq__ImageTile__inner div image-tile-module__1BMErq__ImageTile a desktop-nav-shop-panel-module__CfY33q__DesktopNavShopPanel__tileL",
+      "content_type": "image/webp",
+      "bytes": 52240,
+      "sha256": "3e080ae8aa031b543a673cb4509ecb24ac51f871748268d871433edfc778d5f0",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/huel/reference-3.webp",
+      "source_url": "https://huel.imgix.net/VisualNav_PowderedMeals_UK_new-diet.png?auto=format&compress&w=3500",
+      "source_tag": "picture:page-image",
+      "context": "picture image-module__ZYzVpG__Image div image-tile-module__1BMErq__ImageTile__image div image-tile-module__1BMErq__ImageTile__inner div image-tile-module__1BMErq__ImageTile a desktop-nav-shop-panel-module__CfY33q__DesktopNavShopPanel__tileL",
+      "content_type": "image/webp",
+      "bytes": 30340,
+      "sha256": "0973d73a1a957096ef65d3527a7a091c1cd3ebed071240b7ab12070c288f09f3",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

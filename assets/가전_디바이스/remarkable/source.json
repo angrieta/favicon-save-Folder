@@ -1,0 +1,45 @@
+{
+  "company": "reMarkable",
+  "category": "가전_디바이스",
+  "requested_url": "https://remarkable.com/",
+  "page_url": "https://remarkable.com/",
+  "page_title": "reMarkable: The Paper Tablets for Focused Work | reMarkable",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://remarkable.com/1378&w=1440&fm=webp&sharp=20&q=42&dpr=2; reference:ValueError:https://remarkable.com/1378&w=1024&fm=webp&sharp=20&q=28&dpr=3; reference:ValueError:https://remarkable.com/1378&w=1024&fm=webp&sharp=20&q=42&dpr=2; reference:ValueError:https://remarkable.com/1378&w=768&fm=webp&sharp=20&q=28&dpr=3; reference:ValueError:https://remarkable.com/1378&w=768&fm=webp&sharp=20&q=42&dpr=2; reference:ValueError:https://remarkable.com/1378&w=475&fm=webp&sharp=20&q=28&dpr=3",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/remarkable/favicon.png",
+      "source_url": "https://remarkable.com/favicons/favicon-512x512.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5752,
+      "sha256": "6a2925d36e267d70fd3b2f58c1fc7bd40a772ae2ac894551d40a7eedd86a1126",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/remarkable/og.webp",
+      "source_url": "https://cdn.sanity.io/images/xpujt61d/production/59cad973950c0d1b88516159950dff94e2bf73d4-2400x1260.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 26460,
+      "sha256": "944ec163da3bd9aa0dedbd4afb6a4772d71ed9420a974487a455e50ddcaa17c9",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/remarkable/reference-1.webp",
+      "source_url": "https://cdn.sanity.io/images/xpujt61d/production/d5a785ce15ce23cd8f70e3cb2e7af34b59ac5619-4000x4000.png?rect=739,433,2391,2773&w=475&fm=webp&q=85&dpr=1",
+      "source_tag": "picture:page-image",
+      "context": "picture div div relative ark-section-content-full z-below-margin section section-0 relative ark-margin-color-margin ark-cursor-color-margin bg-paper-5 max-md:ark-margin-color-transparent overflow-x-clip main main relative",
+      "content_type": "image/webp",
+      "bytes": 14770,
+      "sha256": "6b643a85ca1030383f58a0c22dca3634b721d416c849ab5f6229bd3309ff24a3",
+      "width": 475,
+      "height": 551
+    }
+  ]
+}

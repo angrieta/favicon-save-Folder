@@ -1,0 +1,120 @@
+{
+  "company": "Five Guys",
+  "category": "식품_생활",
+  "requested_url": "https://www.fiveguys.co.kr/",
+  "page_url": "https://www.fiveguys.co.kr/",
+  "page_title": "Five Guys | Fresh Burgers, Fries, Shakes & More!",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/five-guys-korea/favicon.svg",
+      "source_url": "https://www.fiveguys.co.kr/wp-content/uploads/sites/47/2024/11/logo-five-guys-square.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 11453,
+      "sha256": "e80e2c9b6faf53bcd302c5fed523327ec6e44fd5f50339ed13ec44e34ab5eb57",
+      "width": 140,
+      "height": 140,
+      "source_sha256": "191420ec3f370e92b415e598b742dbef700b5f548e01e5d46d568e623f1b6243"
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/five-guys-korea/og.webp",
+      "source_url": "https://www.fiveguys.co.kr/wp-content/uploads/sites/47/2025/07/home-hero.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 49410,
+      "sha256": "2df7c53388522c2b64fe93f030bee0fb32d9eb8578268bef0306e1e8bd87dd21",
+      "width": 1200,
+      "height": 594
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/five-guys-korea/logo-1.svg",
+      "source_url": "https://www.fiveguys.co.kr/wp-content/themes/five-guys/assets/svg/static/branding/logo-five-guys.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img site-logo Five Guys a div site-branding div l-header-col-1 div l-header",
+      "content_type": "image/svg+xml",
+      "bytes": 7258,
+      "sha256": "5642bf797637f9caa475e84a98651f4e106f38e582d281d65f27c4d5df476d6f",
+      "width": 131,
+      "height": 131,
+      "source_sha256": "7ab9f4b5f82ea610f1c0516f133e2acb7b49f6dcd8af9d4f9ccbc5a369e8a85a"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/five-guys-korea/logo-2.png",
+      "source_url": "https://media.fiveguys.com/us/2024/10/favicon.png",
+      "source_tag": "json-ld.@graph[4].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 10181,
+      "sha256": "96191d10b4614157f99e83faa1b65c3923d16104330636f6309d5ae035c20a1a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/five-guys-korea/og.webp",
+      "source_url": "https://www.fiveguys.co.kr/wp-content/uploads/sites/47/2025/07/home-hero.jpg",
+      "source_tag": "img:semantic-banner",
+      "content_type": "image/webp",
+      "bytes": 49410,
+      "sha256": "2df7c53388522c2b64fe93f030bee0fb32d9eb8578268bef0306e1e8bd87dd21",
+      "width": 1200,
+      "height": 594,
+      "context": "img hero-bkg-image hero-bkg-image--desktop wp-image wp-image-1053 div hero-bkg-image-wrap div hero-bkg-wrap section homepage-hero hero-callout-banner hero-callout-banner--block-align-start main main site-main",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/five-guys-korea/banner-2.webp",
+      "source_url": "https://www.fiveguys.co.kr/wp-content/uploads/sites/47/2025/07/home-hero-1536x760.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img hero-bkg-image hero-bkg-image--desktop wp-image wp-image-1053 div hero-bkg-image-wrap div hero-bkg-wrap section homepage-hero hero-callout-banner hero-callout-banner--block-align-start main main site-main",
+      "content_type": "image/webp",
+      "bytes": 98292,
+      "sha256": "ecac0e6a920f829963ac4f0d42f0a9621d62bb3ecce3a14e94314c661c6dfd2b",
+      "width": 1536,
+      "height": 760
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/five-guys-korea/reference-1.webp",
+      "source_url": "https://www.fiveguys.co.kr/wp-content/uploads/sites/47/2025/08/home-hero-mobile.jpg",
+      "source_tag": "img:page-image",
+      "context": "img hero-bkg-image hero-bkg-image--mobile wp-image wp-image-2344 img hero-bkg-image hero-bkg-image--desktop wp-image wp-image-1053 div hero-bkg-image-wrap div hero-bkg-wrap section homepage-hero hero-callout-banner hero-callout-banner--bloc",
+      "content_type": "image/webp",
+      "bytes": 91712,
+      "sha256": "34f60437eab604d51dae66e3736568ac13d0505ae2e7a0d18fb7ad7d1cebfea5",
+      "width": 780,
+      "height": 580
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/five-guys-korea/reference-2.webp",
+      "source_url": "https://www.fiveguys.co.kr/wp-content/uploads/sites/47/2025/08/home-hero-mobile-768x571.jpg",
+      "source_tag": "img:page-image",
+      "context": "img hero-bkg-image hero-bkg-image--mobile wp-image wp-image-2344 img hero-bkg-image hero-bkg-image--desktop wp-image wp-image-1053 div hero-bkg-image-wrap div hero-bkg-wrap section homepage-hero hero-callout-banner hero-callout-banner--bloc",
+      "content_type": "image/webp",
+      "bytes": 75858,
+      "sha256": "98561282d1264dc932c97f0990f8a527702913babb1cf018a6945f61a6120a7a",
+      "width": 768,
+      "height": 571
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/five-guys-korea/reference-3.webp",
+      "source_url": "https://media.fiveguys.com/au/2025/11/Shake-banner.jpg",
+      "source_tag": "img:page-image",
+      "context": "img split-media-feature-image split-media-feature-image--desktop wp-image wp-image-3905 div l-split-media-item l-split-media-item--graphic div l-split-media l-split-media--end div wrap wrap--normal section section section--split-media color",
+      "content_type": "image/webp",
+      "bytes": 61670,
+      "sha256": "06777c69115ff3bab3136f9372f3d041114dba1a060e7269a8eefd4eb4c636fb",
+      "width": 1800,
+      "height": 1201
+    }
+  ]
+}

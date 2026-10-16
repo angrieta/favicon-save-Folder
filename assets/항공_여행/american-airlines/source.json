@@ -1,0 +1,22 @@
+{
+  "company": "American Airlines",
+  "category": "항공_여행",
+  "requested_url": "https://www.aa.com/homePage.do?locale=ko_KR",
+  "page_url": "https://www.aa.com/homePage.do?locale=ko_KR",
+  "page_title": "Access Denied",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.aa.com/homePage.do?locale=ko_KR",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/american-airlines/favicon.ico",
+      "source_url": "https://www.aa.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 6518,
+      "sha256": "67affb85f8da58f95af8829af09f39649680e1e9ed157e367cb0dd010193e1fb",
+      "width": 32,
+      "height": 32
+    }
+  ]
+}

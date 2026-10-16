@@ -1,0 +1,118 @@
+{
+  "company": "Keychron",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.keychron.com/",
+  "page_url": "https://www.keychron.com/",
+  "page_title": "Keychron | Custom Mechanical Keyboards for Mac, Windows and Phones",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.keychron.com/cdn/shop/t/115/assets/main.css?v=138737713282591820691782809021; reference:ValueError:https://www.keychron.com/cdn/fonts/dm_sans/dmsans_n4.ec80bd4dd7e1a334c969c265873491ae56018d72.woff2; reference:ValueError:https://www.keychron.com/cdn/fonts/dm_sans/dmsans_n7.97e21d81502002291ea1de8aefb79170c6946ce5.woff2; reference:ValueError:https://cdn.shopify.com/extensions/01a0ec0a-6474-7820-93e1-e2908d7c2033/region-restrictions-377/assets/ip-blocker-embed.min.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/keychron/favicon.png",
+      "source_url": "https://www.keychron.com/cdn/shop/files/Keychron-logo_cd411b38-300d-493c-b3ef-918c81b20742.png?crop=center&height=180&v=1695261465&width=180",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 18083,
+      "sha256": "bce698082226ee95b9aa8449375383662592daa4153308a9a1b81c982bc467a2",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/keychron/og.webp",
+      "source_url": "http://www.keychron.com/cdn/shop/files/og_option_C2.png?crop=center&height=1200&v=1787572951&width=1200",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10088,
+      "sha256": "400bfff2eb3d459034e0f2d14aeb784da91edb722dbb7f992e221efd59b32092",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/keychron/logo-1.svg",
+      "source_url": "https://www.keychron.com/cdn/shop/files/Keychron_Logo_Update.svg?v=1782293726&width=330",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2122,
+      "sha256": "46995f9090caa1fceb27e87d5ae41b2d79f3b796d13195863c941abe09a40ab3",
+      "width": 330,
+      "height": 61,
+      "source_sha256": "cbe4992afac0f49bb19086547f246e8df7466262aa1ed1212afd7f6a47017947"
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/keychron/logo-2.png",
+      "source_url": "https://www.keychron.com/cdn/shop/files/Launcher_Logo.png?v=1717119269&width=800",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture div media w-full relative div media-with-text__media relative flex flex-col justify-center overflow-hidden div media-with-text media-with-text--reverse div container",
+      "content_type": "image/png",
+      "bytes": 88330,
+      "sha256": "d8b6ef2f2da34cc86081c7429efb99af8335420aff5921342b81954b802c561d",
+      "width": 800,
+      "height": 773
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/keychron/banner-1.webp",
+      "source_url": "https://www.keychron.com/cdn/shop/files/Keyboard-Finder-Banner-Desktop.jpg?v=1763971411&width=1400",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture picture-template--22739712147545__image-banner img-fit div image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full div image-banner relative flex items-center fixed-height div template--22739712147545__image",
+      "content_type": "image/webp",
+      "bytes": 68060,
+      "sha256": "6ef78cb0731d6f4c75acc891238ff29c51a59a2181673b206b734fc2afe1c9fd",
+      "width": 1400,
+      "height": 332
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/keychron/banner-2.webp",
+      "source_url": "https://www.keychron.com/cdn/shop/files/Keyboard-Finder-Banner-Desktop.jpg?v=1763971411&width=3200",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture picture-template--22739712147545__image-banner img-fit div image-banner__image media media--has-overlay absolute top-0 left-0 w-full h-full div image-banner relative flex items-center fixed-height div template--22739712147545__image",
+      "content_type": "image/webp",
+      "bytes": 91930,
+      "sha256": "e0999e6bc7473d25aa1e646f0315c0d8f5e96f00179590700a921bec9b08208d",
+      "width": 1800,
+      "height": 426
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/keychron/reference-1.webp",
+      "source_url": "https://www.keychron.com/cdn/shop/files/Keychron_Q5_Ultra.png?v=4922558297941140668",
+      "source_tag": "img:page-image",
+      "context": "img js-mega-menu-lazy New Arrivals a category-link li ul category-list div convx__mega-menu-left-section convx__second-level-nav",
+      "content_type": "image/webp",
+      "bytes": 27794,
+      "sha256": "517b0915e1aa65200a48bc945fe2f228a9689f7a3d2edddf2b2cf0118fb07949",
+      "width": 800,
+      "height": 305
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/keychron/reference-2.webp",
+      "source_url": "https://www.keychron.com/cdn/shop/files/1_f8e0308a-bb59-4d02-9b07-7ed863dde2e4.png?v=3530618034682793382",
+      "source_tag": "img:page-image",
+      "context": "img convx__keyboard-size-image 75% a convx__keyboard-size-item div convx__keyboard-size div convx__third-level-nav convx__find-keyboard-container div convx__mega-menu-right-section",
+      "content_type": "image/webp",
+      "bytes": 20444,
+      "sha256": "2a4102c46521c20f2d52996bdd328c8fcf926287dd5fb986fb764b1803fc1d33",
+      "width": 600,
+      "height": 234
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/keychron/reference-3.webp",
+      "source_url": "https://www.keychron.com/cdn/shop/files/Keychron_Q6_Ultra_8K_Wireless_Custom_Mechanical_Keyboard.png?v=7843597747290170464",
+      "source_tag": "img:page-image",
+      "context": "img js-mega-menu-lazy Q Ultra 8K a category-link li ul category-list div convx__mega-menu-left-section convx__second-level-nav",
+      "content_type": "image/webp",
+      "bytes": 26292,
+      "sha256": "a0d6730caae84e93899c8b4bec2a5649465ca23fb022c3e24b3cf85132d4d59d",
+      "width": 800,
+      "height": 262
+    }
+  ]
+}

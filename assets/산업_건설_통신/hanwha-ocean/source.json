@@ -1,0 +1,107 @@
+{
+  "company": "한화오션",
+  "category": "산업_건설_통신",
+  "requested_url": "https://www.hanwhaocean.com/",
+  "page_url": "https://www.hanwhaocean.com/",
+  "page_title": "한화오션",
+  "collection_status": "complete",
+  "collection_error": "banner:ReadTimeoutError:https://www.hanwhaocean.com/images/main/kv.mp4; reference:ValueError:https://www.hanwhaocean.com/images/main/kv.mp4; reference:ValueError:https://www.hanwhaocean.com/images/main/whoweare.mp4; reference:ValueError:https://www.hanwhaocean.com/images/main/whoweare_m.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/산업_건설_통신/hanwha-ocean/favicon.ico",
+      "source_url": "https://www.hanwhaocean.com/images/favicon/apple-touch-icon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 24806,
+      "sha256": "025cbe3168a3217dd67c4370498189867f1b6cb5606d972c964b04a9a6461ff2",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/산업_건설_통신/hanwha-ocean/og.webp",
+      "source_url": "https://www.hanwhaocean.com/images/social.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10352,
+      "sha256": "b81147f7df642807fcb0780de3627151d907bdaf7a94da2879d55c0a2c928671",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hanwha-ocean/logo-1.svg",
+      "source_url": "https://www.hanwhaocean.com/images/common/logo_w.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Hanwha Ocean a div f_info_logo div f_info div footer-copyright m_desc",
+      "content_type": "image/svg+xml",
+      "bytes": 8402,
+      "sha256": "2f31a9e92c76665db8c135189f5e4ca328aabe368bb88032bf1edba4a0a2164b",
+      "width": 251,
+      "height": 44,
+      "source_sha256": "0baa7df825319bcdc9ca0331c66c5db24bf0c37f90f8958afc0f5e3d0f0d6578"
+    },
+    {
+      "type": "logo",
+      "path": "assets/산업_건설_통신/hanwha-ocean/logo-2.svg",
+      "source_url": "https://www.hanwhaocean.com/images/common/icon_ci_hanwha.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div load_ocean_logo div load_ocean body html",
+      "content_type": "image/svg+xml",
+      "bytes": 1421,
+      "sha256": "87a8b756d8cb83ca38cac3dd6c9125c5412d82797465b51301a57769e5e5860c",
+      "width": 49,
+      "height": 44,
+      "source_sha256": "2259a77a91d13bc06f1e9d358fed4b4c2528a3987887f8638afa5d5120a8b17a"
+    },
+    {
+      "type": "banner",
+      "path": "assets/산업_건설_통신/hanwha-ocean/banner-1.webp",
+      "source_url": "https://www.hanwhaocean.com/images/main/showroom_img.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img kv picture div img-con div sec_inner section SHOWROOM sec",
+      "content_type": "image/webp",
+      "bytes": 101066,
+      "sha256": "1e2b9e1cfb5ae09b2cc4bebb0e9642e205883fe0725e9d37e566ef2791aab553",
+      "width": 1800,
+      "height": 1313
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hanwha-ocean/reference-1.webp",
+      "source_url": "https://www.hanwhaocean.com/images/main/whatwedo_img.jpg",
+      "source_tag": "img:page-image",
+      "context": "img What we do div img-con div sec_inner section WHATWEDO sec div main-inner",
+      "content_type": "image/webp",
+      "bytes": 98318,
+      "sha256": "2b2751279fb79b634d96e5586a962f4db80cd9f369ace7d0104cbf0c71fdab58",
+      "width": 940,
+      "height": 776
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hanwha-ocean/reference-2.webp",
+      "source_url": "https://www.hanwhaocean.com/images/main/img_product_2.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture img li ship-item ship1 swiper-slide ul ship-ul swiper-wrapper div mo_swiper_wrap div ship-sticky",
+      "content_type": "image/webp",
+      "bytes": 67036,
+      "sha256": "24131cea7f34b6cf1be4d8f9d47e82a2390eb6bcf717e8e9104f56afa9694946",
+      "width": 1800,
+      "height": 1109
+    },
+    {
+      "type": "reference",
+      "path": "assets/산업_건설_통신/hanwha-ocean/reference-3.webp",
+      "source_url": "https://www.hanwhaocean.com/images/main/img_product_2_m.png",
+      "source_tag": "picture:page-image",
+      "context": "picture img li ship-item ship1 swiper-slide ul ship-ul swiper-wrapper div mo_swiper_wrap div ship-sticky",
+      "content_type": "image/webp",
+      "bytes": 21578,
+      "sha256": "3f2ef4cbaac3aa6995d8f1e10ea2cf6bd30369b008089187d17fbcde90ced713",
+      "width": 750,
+      "height": 480
+    }
+  ]
+}

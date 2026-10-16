@@ -1,0 +1,33 @@
+{
+  "company": "Southwest Airlines",
+  "category": "항공_여행",
+  "requested_url": "https://www.southwest.com",
+  "page_url": "https://www.southwest.com/",
+  "page_title": "Southwest Airlines | Airline Tickets and Low Fares",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.southwest.com/resources/79bf818a77548ff55d184615dd91bee22130011c85bd8; reference:ValueError:https://www.southwest.com/v2/landing/home-page/static/30.8.0/css/app-0.css; reference:ValueError:https://www.southwest.com/v2/landing/home-page/static/30.8.0/css/app-1.css; reference:ValueError:https://www.southwest.com/swa-resources/fonts/SouthwestSans-Regular.woff2; reference:ValueError:https://www.southwest.com/swa-resources/fonts/SouthwestSans-Bold.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/southwest-airlines/favicon.ico",
+      "source_url": "https://www.southwest.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "bd3ad204193b2f6d919b0f1ec52842f63ef8c05b8b05c9d3ecdf19008094d68a",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/항공_여행/southwest-airlines/og.webp",
+      "source_url": "https://www.southwest.com/swa-resources/images/swa_og_heart_blue_bg.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13326,
+      "sha256": "83144a0cd334048d379ba41020dc6c4b796e20dfde450ffce4e2b3c7eca57b54",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

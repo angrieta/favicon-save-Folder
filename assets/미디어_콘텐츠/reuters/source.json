@@ -1,0 +1,22 @@
+{
+  "company": "Reuters",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.reuters.com/",
+  "page_url": "https://www.reuters.com/",
+  "page_title": "reuters.com",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/reuters/favicon.ico",
+      "source_url": "https://www.reuters.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 4418,
+      "sha256": "821bc756e59ef5044ee35b8af0e8488f18016f86e9dcb3501a5841a7f8552120",
+      "width": 32,
+      "height": 33
+    }
+  ]
+}

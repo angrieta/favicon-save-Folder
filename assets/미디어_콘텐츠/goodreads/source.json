@@ -1,0 +1,59 @@
+{
+  "company": "Goodreads",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.goodreads.com/",
+  "page_url": "https://www.goodreads.com/",
+  "page_title": "Goodreads | Meet your next favorite book",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/goodreads/favicon.png",
+      "source_url": "https://www.goodreads.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 1062,
+      "sha256": "f8ba8ad7bdeff07585563664cf63f19f1477272601fa9273b744ef195a06dbea",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/goodreads/og.webp",
+      "source_url": "https://s.gr-assets.com/assets/facebook/goodreads_wide-5b93ced856c0da068d73467d3cb82a2c.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 17080,
+      "sha256": "76347d4e46e56989efddcc6e55df63b3cf3b5ff84edd712dcce94773a32c8c3d",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/goodreads/logo-1.svg",
+      "source_url": "https://s.gr-assets.com/assets/layout/header/v2/goodreads_logo-614014d460ae4ddd88e379a0311dae9f.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Goodreads: Book reviews, recommendations, and discussion a div logo div navBar div promoHeader__promoMastheadContentContainer",
+      "content_type": "image/svg+xml",
+      "bytes": 10202,
+      "sha256": "bc6814eb89043fa0d58e5d274adb314eff7d603f85c5b76b0b97362578c77701",
+      "width": 136,
+      "height": 34,
+      "source_sha256": "e88eb31a5322978a3b168fe80e725ba6a505797f32147e1139aeaace87784686"
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/goodreads/logo-2.svg",
+      "source_url": "https://s.gr-assets.com/assets/an-amazon-company-logo-3c0633d5a147e80dbcba4292261830e4.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img An Amazon Company li responsiveSiteFooter__linkListItem ul responsiveSiteFooter__linkList div responsiveSiteFooter__appLinksColumnContents div gr-col gr-col-md-4 gr-col-lg-6 responsiveSiteFooter__appLinksColumn",
+      "content_type": "image/svg+xml",
+      "bytes": 12351,
+      "sha256": "901596c18f4c2ce5767a93c0df17c195b9ddcc751b88a0ce2015d7787caf74a6",
+      "width": 185,
+      "height": 20,
+      "source_sha256": "9e8ee6edc9ed7ab5b905ab02d806fca81bca717c8cb155c24227e13d49499c26"
+    }
+  ]
+}

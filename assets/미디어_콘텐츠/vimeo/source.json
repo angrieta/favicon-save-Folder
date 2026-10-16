@@ -1,0 +1,95 @@
+{
+  "company": "Vimeo",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://vimeo.com/",
+  "page_url": "https://vimeo.com/",
+  "page_title": "Vimeo - All-in-One Video Platform",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://player.vimeo.com/progressive_redirect/playback/1085116382/rendition/540p/file.mp4?loc=external&signature=ab05d13d138addf21967a64200f66132e38ef0953c03f014ac12ae4a42dfbcf2; banner:HTTPError:https://player.vimeo.com/progressive_redirect/playback/1069021926/rendition/720p/file.mp4?loc=external&signature=8cfe0374460e6987523da7a4a3ad195acf04529e4c45a6bc90ef38b520611f72; reference:HTTPError:https://player.vimeo.com/progressive_redirect/playback/1085116418/rendition/540p/file.mp4?loc=external&signature=3056e94ea7499e9162a3af705de5e151d7dd98207115b0307f4b59ec6c4c534c; reference:HTTPError:https://player.vimeo.com/progressive_redirect/playback/1085116403/rendition/540p/file.mp4?loc=external&signature=bb9a3595789781d03db9a02d7dc1b4953f44db2be5ce2a0ebb7a8087ce5428bb; reference:HTTPError:https://player.vimeo.com/progressive_redirect/playback/1085116382/rendition/540p/file.mp4?loc=external&signature=ab05d13d138addf21967a64200f66132e38ef0953c03f014ac12ae4a42dfbcf2; reference:HTTPError:https://player.vimeo.com/progressive_redirect/playback/1069021926/rendition/720p/file.mp4?loc=external&signature=8cfe0374460e6987523da7a4a3ad195acf04529e4c45a6bc90ef38b520611f72",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/vimeo/favicon.png",
+      "source_url": "https://f.vimeocdn.com/cms/images/apple-icon.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 6031,
+      "sha256": "1950d23426c1322605460de3b4109bd0ced5cdee60b969b74abe5c9f2645d81d",
+      "width": 180,
+      "height": 180,
+      "source_sha256": "f142575bc5db6c4be0c67de19afababe5e6a26a656ccb589661622a86f7a6a21"
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/vimeo/og.webp",
+      "source_url": "https://f.vimeocdn.com/cms/images/vimeo-logo-black.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9174,
+      "sha256": "6f55197893566432a0e093aa1b5a34162d6abbef907339e5121e6fb8b0b99a06",
+      "width": 1024,
+      "height": 543
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/vimeo/banner-1.webp",
+      "source_url": "https://vimeo.bynder.com/transform/8d1b94af-c5aa-4c46-9f7c-1b9039272789/Summer-2025-blog-release?io=transform:fill,width:3200&quality=80",
+      "source_tag": "img:semantic-banner",
+      "context": "img progressive-image object-cover transform-gpu will-change-[object-position] rounded-2xl !rounded-lg max-h-[248px] h-auto !rounded-lg max-h-[248px] h-auto w-full object-[var(--mobile-position)] md:object-[var(--tablet-position)] lg:object",
+      "content_type": "image/webp",
+      "bytes": 72464,
+      "sha256": "ec1e0dea4b306e0e213ae6ca48b31c25819f8f00277cb327416cf21fedeb3b22",
+      "width": 1728,
+      "height": 972
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/vimeo/banner-2.webp",
+      "source_url": "https://i.vimeocdn.com/custom_asset/c7f4134846c3c70023096471a7d16c15?w=3200&q=80",
+      "source_tag": "img:semantic-banner",
+      "context": "img progressive-image object-cover transform-gpu will-change-[object-position] rounded-2xl !rounded-lg max-h-[248px] h-auto !rounded-lg max-h-[248px] h-auto w-full object-[var(--mobile-position)] md:object-[var(--tablet-position)] lg:object",
+      "content_type": "image/webp",
+      "bytes": 74562,
+      "sha256": "b50fe0cc2d555c9dd241651985c2048b5cd5d5c31bd21af02e822ac032476a55",
+      "width": 1800,
+      "height": 1122
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/vimeo/reference-1.svg",
+      "source_url": "https://vimeo.bynder.com/m/68c7ef88b8fed205/original/Vector-Vimeo-Logo.svg",
+      "source_tag": "inline-background-image",
+      "context": "div  absolute w-full max-w-265 top-0 h-full left-1/2 -translate-x-1/2 [mask-image:var(--mask-image)] [mask-repeat:no-repeat] [mask-position:center_1rem] md:[mask-position:center_2px] [mask-size:58.5rem] md:[mask-size:cover] bg-gradient-to-b",
+      "content_type": "image/svg+xml",
+      "bytes": 945,
+      "sha256": "71a188a70b9ed8fae3eae025d73f56a2f9c22dc0a7db14f3a5400f2121f4dc75",
+      "width": 936,
+      "height": 845,
+      "source_sha256": "2694c2bf9a077595dcf6991816a4996c825dbe00a8a8ec691cb9a0ec89fd230b"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/vimeo/reference-2.webp",
+      "source_url": "https://i.vimeocdn.com/custom_asset/5a4c4abd07e813536f528fc53ad68345?w=1920&q=80",
+      "source_tag": "picture:page-image",
+      "context": "picture asset-bynder-container flex relative w-full h-full div asset-container relative w-full h-full Image div video-mp4-bynder block absolute object-cover object-center-center w-full h-full div video-base @container/video-base flex-1 rela",
+      "content_type": "image/webp",
+      "bytes": 41198,
+      "sha256": "29bd6326e20e1bcb062795694a4f2bda2c3f7978a5ff69eed17cf0e55dfe9506",
+      "width": 758,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/vimeo/reference-3.webp",
+      "source_url": "https://i.vimeocdn.com/custom_asset/5a4c4abd07e813536f528fc53ad68345?w=1440&q=80",
+      "source_tag": "picture:page-image",
+      "context": "picture asset-bynder-container flex relative w-full h-full div asset-container relative w-full h-full Image div video-mp4-bynder block absolute object-cover object-center-center w-full h-full div video-base @container/video-base flex-1 rela",
+      "content_type": "image/webp",
+      "bytes": 40844,
+      "sha256": "1924f0a8804d50cc3c02af948120c03f8f5cb13c3a9c0f881d669f7876db2f45",
+      "width": 758,
+      "height": 1350
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "company": "Sanrio",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.sanrio.co.jp/",
+  "page_url": "https://www.sanrio.co.jp/",
+  "page_title": "サンリオ",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/sanrio/favicon.png",
+      "source_url": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/homeicon_192_192.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 5657,
+      "sha256": "54d96b61f2bd8a3c9c7aa8e345c2fef0abd2292b02ed2c08bcf4cf17772dad38",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/sanrio/og.webp",
+      "source_url": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/ogp2022.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13556,
+      "sha256": "a5a1afde42f4aa996465807f28926b313a2cf57840bf8a10022ef415cc6d36c9",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/sanrio/logo-1.svg",
+      "source_url": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/common/header/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img u-fit-w Sanrio a l-header__logo div l-header__top div js-header-top l-header__content header l-header__main",
+      "content_type": "image/svg+xml",
+      "bytes": 3688,
+      "sha256": "4431f4f985f63b29a661381f22550797922a9ea52cbb24b8045623bd729c78ea",
+      "width": 165,
+      "height": 44
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/sanrio/logo-2.png",
+      "source_url": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/common/logo-sanrioplus.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img u-fit-w h2 p-homeSanrioplus__heading div p-homeSanrioplus__head div p-homeSanrioplus__content div p-homeSanrioplus__inner",
+      "content_type": "image/png",
+      "bytes": 32160,
+      "sha256": "f322c42bc6e0358e2479bcaf5cc0f48817f4c01fb781309791ed1988036260f1",
+      "width": 692,
+      "height": 194
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/sanrio/banner-1.webp",
+      "source_url": "https://www.sanrio.co.jp/wp-content/uploads/2026/09/pn-tokorun-260910-001a-kv-1280x720.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img a li swiper-slide ul swiper-wrapper div c-slide-sync__slider swiper swiper-no-swiping js-slideSyncCarousel-first",
+      "content_type": "image/webp",
+      "bytes": 104566,
+      "sha256": "f3fa8b5bc9099c13d7f0905d4b5372f2b03fd7868d0b3bfe41f4c20a3c70514e",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/sanrio/banner-2.webp",
+      "source_url": "https://www.sanrio.co.jp/wp-content/uploads/2026/09/kv-goods-mx-erande-sticker-album-stickers-202609-1-1280x720.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a li swiper-slide ul swiper-wrapper div c-slide-sync__slider swiper swiper-no-swiping js-slideSyncCarousel-first",
+      "content_type": "image/webp",
+      "bytes": 105468,
+      "sha256": "8e26cdfacae13349c413a69cab48eaab3169ccf37eb28e4c53e40cb1fa25dcf2",
+      "width": 1280,
+      "height": 720,
+      "source_sha256": "f0a4ff9654d2b19f376f1efe20b8c54cd605c270241753eef6a5249755b0bab8"
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/sanrio/reference-1.webp",
+      "source_url": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/dummy/side-chara-1.png",
+      "source_tag": "img:page-image",
+      "context": "img figure c-sideCharacter__item a modal-birthday-float-1 c-sideCharacter -is-1 js-sidecharacter body l-body html",
+      "content_type": "image/webp",
+      "bytes": 9022,
+      "sha256": "477c6b8bc63af6ab7eb2e290fba75769f1f7bcf29111411089f13fcdb6b8c356",
+      "width": 361,
+      "height": 451
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/sanrio/reference-2.webp",
+      "source_url": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/dummy/side-chara-2.png",
+      "source_tag": "img:page-image",
+      "context": "img figure c-sideCharacter__item a modal-birthday-float-2 c-sideCharacter -is-2 for-large js-sidecharacter body l-body html",
+      "content_type": "image/webp",
+      "bytes": 13240,
+      "sha256": "98ad51a169b8ce797b8c7a200aa7ec38e4d64c8b9fc49617ef5e024a52028095",
+      "width": 655,
+      "height": 321
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/sanrio/reference-3.webp",
+      "source_url": "https://www.sanrio.co.jp/wp-content/themes/sanrio2022/common/images/common/header/header-sanrioplus.png",
+      "source_tag": "img:page-image",
+      "context": "img Sanrio＋とは? a c-mobileMenu__sanrioplusLink div c-mobileMenu__sanrioplus div c-mobileMenu__content div js-header-mobileMenu c-mobileMenu js-header-mobilecontent",
+      "content_type": "image/webp",
+      "bytes": 24576,
+      "sha256": "7343a28e470b4f76f95d759a3b3d4fbb4019534357feaae9a91a451b62e3cf31",
+      "width": 630,
+      "height": 320
+    }
+  ]
+}

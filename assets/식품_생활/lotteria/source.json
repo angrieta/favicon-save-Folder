@@ -1,0 +1,57 @@
+{
+  "company": "롯데리아",
+  "category": "식품_생활",
+  "requested_url": "https://www.lotteeatz.com/brand/ria",
+  "page_url": "https://www.lotteeatz.com/brand/ria",
+  "page_title": "롯데리아 < 브랜드 | LOTTE EATZ",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=383319651223225&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/lotteria/favicon.png",
+      "source_url": "https://img.lotteeatz.com/assets/images/favicon/favicon_256x256.png",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 8036,
+      "sha256": "80ff53dddde6adb5f7263fbb2f492f86b21e29fb15fef617861bdcde64d5a476",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/lotteria/og.webp",
+      "source_url": "https://img.lotteeatz.com/assets/images/favicon/share.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 9864,
+      "sha256": "0e0919e64d21638a7774607a1b25483eb620c1bf27640977e917f2efa0bfbbd2",
+      "width": 1024,
+      "height": 500
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/lotteria/logo-1.png",
+      "source_url": "https://img.lotteeatz.com/assets/images/common/comm_img_brand_lotteria.png/dims/resize/x191.52/optimize",
+      "source_tag": "img:semantic-logo",
+      "context": "img 롯데리아 div brand-img-lotteria div brand-banner-box div brand-info-wrap div cont-inner",
+      "content_type": "image/png",
+      "bytes": 50980,
+      "sha256": "5ebc844eea7786f391ce06c257b82c37ca572d389974673b95787cbb0548ee8f",
+      "width": 343,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/lotteria/logo-2.png",
+      "source_url": "https://stat.lotteeatz.com/202609211728/assets/images/footer/ico_ismsp_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img ISMS-P 로고 a div isms-p_logo_wrap div footer-info div footer-cont isms-p_wrap",
+      "content_type": "image/png",
+      "bytes": 7608,
+      "sha256": "aeda0c7ee94d791e309d821d074407425162d5cf98906a7f77d986f9207de4d6",
+      "width": 142,
+      "height": 100
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "company": "HP",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.hp.com/kr-ko/home.html",
+  "page_url": "https://www.hp.com/kr-ko/home.html",
+  "page_title": "노트북 컴퓨터, 데스크톱, 프린터 등 | HP코리아",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/hp/favicon.png",
+      "source_url": "https://www.hp.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1130,
+      "sha256": "fcae3d72724788146c7f30e0f47f6dcd586205cf1b49cd0fd27d94663b082b50",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/hp/og.webp",
+      "source_url": "https://www.hp.com/content/dam/sites/worldwide/dems/hp_og_image.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8986,
+      "sha256": "571e4a71962d719d277ff087bef17d0ab700a175435052de5113553172ab8cdc",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/hp/reference-1.webp",
+      "source_url": "https://www.hp.com/content/dam/digitnav/menu/aug_2025/laptops-for-home%402x.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 가정용 노트북 이미지 div media image-cover a category li ul categories__list",
+      "content_type": "image/webp",
+      "bytes": 13602,
+      "sha256": "f20ca8b61cb6ce1347c92d39f9205709bd688d33929f91c7e0784dacb41b6bb2",
+      "width": 540,
+      "height": 441
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/hp/reference-2.webp",
+      "source_url": "https://www.hp.com/content/dam/digitnav/menu/aug_2025/laptops-for-work2%402x.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 기업용 노트북 이미지 div media image-cover a category li ul categories__list",
+      "content_type": "image/webp",
+      "bytes": 18730,
+      "sha256": "7d752ebbeaa35ab1196155b665f2d1336ac665bba657d3e02a38c18a444ef468",
+      "width": 540,
+      "height": 441
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/hp/reference-3.webp",
+      "source_url": "https://www.hp.com/content/dam/digitnav/menu/aug_2025/mobile-workstations%402x.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Z북 워크스테이션 이미지 div media image-cover a category li ul categories__list",
+      "content_type": "image/webp",
+      "bytes": 14182,
+      "sha256": "f7f2d6b92c9d84a0f670a51c2b3ddd2f26362e6260a82352883a7c993b8067ad",
+      "width": 540,
+      "height": 441
+    }
+  ]
+}

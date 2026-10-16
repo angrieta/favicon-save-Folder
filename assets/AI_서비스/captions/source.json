@@ -1,0 +1,95 @@
+{
+  "company": "Captions",
+  "category": "AI_서비스",
+  "requested_url": "https://captions.ai",
+  "page_url": "https://captions.ai/",
+  "page_title": "Captions: AI That Edits Like a Professional Editor",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://captions.ai/_astro/fonts/91f2fcc10c351960.woff2; reference:ValueError:https://captions.ai/_astro/fonts/b5839fdbf096e56a.woff2; reference:ValueError:https://captions.ai/_astro/fonts/2dacd84e9d12585f.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/AI_서비스/captions/favicon.png",
+      "source_url": "https://captions.ai/mrkt-static/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 3515,
+      "sha256": "dce831698ece455720db2cb3c3c4b16ee415dec9631d07f3b537e57146396303",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/AI_서비스/captions/og.webp",
+      "source_url": "https://captions.ai/mrkt-static/captions-og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 33452,
+      "sha256": "5fb71d0def64432e653af06a87a9ce365a74a3e30eb19d7a24f221ab64356e59",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/captions/favicon.png",
+      "source_url": "https://captions.ai/mrkt-static/apple-touch-icon.png",
+      "source_tag": "json-ld.@graph[0].logo.url",
+      "content_type": "image/png",
+      "bytes": 3515,
+      "sha256": "dce831698ece455720db2cb3c3c4b16ee415dec9631d07f3b537e57146396303",
+      "width": 256,
+      "height": 256,
+      "context": "structured data logo",
+      "reused_from": "favicon"
+    },
+    {
+      "type": "logo",
+      "path": "assets/AI_서비스/captions/logo-2.svg",
+      "source_url": "https://captions.ai/_astro/axios-tight_ZVCGYq.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Axios news logo in bold black uppercase letters representing the Axios digital news media company div _logo_zq18a_1 div _logos_zq18a_1 div _logosContainer_zq18a_11 section _logosSection_zq18a_1 _scroll_zq18a_29",
+      "content_type": "image/svg+xml",
+      "bytes": 1499,
+      "sha256": "dcc8c7046434030458818cbaeb12708a5b9fef58ade86a7e1a1c5749277406b8",
+      "width": 91,
+      "height": 25,
+      "source_sha256": "e42c5fbf6fc40572987a13651ed66501e8c586e56a67ebe24dea70e5a43b687d"
+    },
+    {
+      "type": "banner",
+      "path": "assets/AI_서비스/captions/banner-1.webp",
+      "source_url": "https://captions.ai/_astro/hero-gradient-desktop.BILgXVaQ_Z1tIsEA.webp",
+      "source_tag": "inline-background-image",
+      "context": "div  page-background astro-7ufqj32l --bg-desktop: url(/_astro/hero-gradient-desktop.BILgXVaQ_Z1tIsEA.webp);",
+      "content_type": "image/webp",
+      "bytes": 8210,
+      "sha256": "f5fafb53506ca0ebd935b2b12ed13da54da2d556b35c8bf4111d27caf3ecedbd",
+      "width": 1728,
+      "height": 992
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/captions/reference-1.webp",
+      "source_url": "https://captions.ai/_astro/ai_edit_homepage_image_centered_1L6KVu.webp",
+      "source_tag": "img:page-image",
+      "context": "img Captions AI editor applying edits to footage of a person, showing an \"Add b-roll\" prompt and a video clip timeline div _graphic_wxok0_45 div grid-2 section _image-and-text-list-section_wxok0_1 div page-content astro-gf4mhhjv",
+      "content_type": "image/webp",
+      "bytes": 74744,
+      "sha256": "392aedea8fe2c903159a78d6a0e695b8689dd9f63d0e3cc878a0214ee0927770",
+      "width": 1071,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/AI_서비스/captions/reference-2.webp",
+      "source_url": "https://captions.ai/_astro/static__2__Z1hwmd6.webp",
+      "source_tag": "img:page-image",
+      "context": "img AI Edit transforms a video div _graphic_1vpvz_11 div _image-card_1vpvz_1 div _cards_15a1l_47 section _image-card-section_15a1l_1 _narrow_15a1l_8",
+      "content_type": "image/webp",
+      "bytes": 33280,
+      "sha256": "2280ab0cba75fd3f287c18551ee874313641e79db2b35f36bb934eb4736d2e9b",
+      "width": 1000,
+      "height": 848
+    }
+  ]
+}

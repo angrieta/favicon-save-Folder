@@ -1,0 +1,45 @@
+{
+  "company": "HAY",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.hay.com/",
+  "page_url": "https://www.hay.com/",
+  "page_title": "HAY.com – latest products, designer news and retailer info",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://www.hay.com/{{result.ImageUrl}}",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/hay/favicon.png",
+      "source_url": "https://www.hay.com/Frontend/Graphics/favicon/brand/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7561,
+      "sha256": "43eda326e93e79a306273c23339648a4c31277faee75bbb579e427e6a26705e3",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/hay/og.webp",
+      "source_url": "http://www.hay.com/Frontend/Graphics/fallback/logo-hay-1-1.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1734,
+      "sha256": "6494d6ca5af7c523d8fb662f70dbfc3b00b9a4bfbb290a00a11e51851dc9be8b",
+      "width": 346,
+      "height": 346
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/hay/logo-1.png",
+      "source_url": "https://www.hay.com/Frontend/Graphics/fallback/logo-hay.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Hay a site-header__logo Hay div site-header-inner div large-12 columns div row",
+      "content_type": "image/png",
+      "bytes": 3065,
+      "sha256": "d69ad1178fe2ceb07d1a948c5e15c4ee9d31dfe6734dc1ac9afe7b4f1738bc30",
+      "width": 284,
+      "height": 110
+    }
+  ]
+}

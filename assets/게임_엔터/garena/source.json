@@ -1,0 +1,94 @@
+{
+  "company": "Garena",
+  "category": "게임_엔터",
+  "requested_url": "https://www.garena.com/",
+  "page_url": "https://intl.garena.com/",
+  "page_title": "Garena",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/garena/favicon.ico",
+      "source_url": "https://cdngarenanow-a.akamaihd.net/webmain/static/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 7406,
+      "sha256": "2718a74b957935c247823e5c371952a4f56a254d4ebd9bb66422630fd8d3c775",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/garena/logo-1.png",
+      "source_url": "https://official.garena.com/intl/v1/localize/platform-nav.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img Garena PC div platform-name div platform-menu__item div platform-menu div nav-list-container",
+      "content_type": "image/png",
+      "bytes": 97122,
+      "sha256": "441ccfe2df91548d4828916dffcdbc477f5a578b6933b8a1f81f86a106c3074c",
+      "width": 524,
+      "height": 250
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/garena/banner-1.webp",
+      "source_url": "https://official.garena.com/intl/v1/assets/career_txt.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img core value div careers-banner div careers-content div careers div home-main",
+      "content_type": "image/webp",
+      "bytes": 25510,
+      "sha256": "7dba3ba8d5fa12aca0a575c5e7fa33e514fa20a765567f1e7f7e38fee2641958",
+      "width": 1212,
+      "height": 592
+    },
+    {
+      "type": "banner",
+      "path": "assets/게임_엔터/garena/banner-2.webp",
+      "source_url": "https://official.garena.com/intl/v1/assets/career_bg.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  careers-banner background-image:url(https://official.garena.com/intl/v1/assets/career_bg.jpg);",
+      "content_type": "image/webp",
+      "bytes": 24930,
+      "sha256": "73b32f181460804a6c8be779e953276d89528fa5041dc47b9bdc9c8a208aed2b",
+      "width": 1800,
+      "height": 938
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/garena/reference-1.webp",
+      "source_url": "https://official.garena.com/intl/v1/assets/image_bg.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  introduction-container background-image:url(https://official.garena.com/intl/v1/assets/image_bg.jpg);",
+      "content_type": "image/webp",
+      "bytes": 9216,
+      "sha256": "edd0f74ce2628227f786197ddfa77e9165e5c47b0566200544c798763d098275",
+      "width": 1800,
+      "height": 1072
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/garena/reference-2.svg",
+      "source_url": "https://official.garena.com/intl/v1/assets/bg_panel.svg",
+      "source_tag": "inline-background-image",
+      "context": "div  card-info background-image:url(https://official.garena.com/intl/v1/assets/bg_panel.svg);",
+      "content_type": "image/svg+xml",
+      "bytes": 820,
+      "sha256": "f76e112f79652d6e8e584098e36a0ab6c5940c488d733eb45737161267ea6445",
+      "width": 540,
+      "height": 394
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/garena/reference-3.webp",
+      "source_url": "https://official.garena.com/intl/v1/localize/garena-platform.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  platform-image background-image:url(https://official.garena.com/intl/v1/localize/garena-platform.jpg);",
+      "content_type": "image/webp",
+      "bytes": 48740,
+      "sha256": "7ab4ade3893d12ac54faeb7006779ea47c3f87992931bdd0e4e2ec8d6f8efbf3",
+      "width": 1024,
+      "height": 721
+    }
+  ]
+}

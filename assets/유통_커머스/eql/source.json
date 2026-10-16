@@ -1,0 +1,46 @@
+{
+  "company": "EQL",
+  "category": "유통_커머스",
+  "requested_url": "https://www.eqlstore.com",
+  "page_url": "https://www.eqlstore.com/main",
+  "page_title": "한섬 EQL",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=718582142277442&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/eql/favicon.ico",
+      "source_url": "https://www.eqlstore.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "f0b29bc3dd29cc8a8d061e145c7a253d5643cdff45ecc3f74073576c175c2d67",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/eql/og.webp",
+      "source_url": "http://www.eqlstore.com/eql_pc/resources/images/common/share_EQL.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6478,
+      "sha256": "b5866759ac86f2d19126a8eea7f8b778563e3d7012a560856dea0a4fcde2e566",
+      "width": 800,
+      "height": 400
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/eql/reference-1.webp",
+      "source_url": "https://www.eqlstore.com/eql_pc/resources/images/footer/footer_certification.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img_box_default pd30 div content_scroll div modal_content div modal modal_dimmed wid_M",
+      "content_type": "image/webp",
+      "bytes": 104616,
+      "sha256": "3a55fa38bb83ec0625e6f4074f193e53124f5712bb8617b8a5b8bbf6a8211a1e",
+      "width": 1073,
+      "height": 1350,
+      "source_sha256": "525393cfe17555be6e9aa5cc95f40f8371c1159cbfec643c075ec5623b02d353"
+    }
+  ]
+}

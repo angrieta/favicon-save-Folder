@@ -1,0 +1,105 @@
+{
+  "company": "Customer.io",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://customer.io",
+  "page_url": "https://customer.io/",
+  "page_title": "Customer.io: Customer Engagement Platform For Better Outcomes",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://customer.io/_next/static/media/13d948bc5b1ae448-s.p.woff2; reference:ValueError:https://customer.io/_next/static/chunks/webpack-2f82951dd17547f9.js; reference:ValueError:https://www.googletagmanager.com/gtm.js?id=GTM-NRGKPHX; reference:ValueError:https://customer.io/webmcp.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/customer-io/favicon.png",
+      "source_url": "https://customer.io/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1188,
+      "sha256": "96bfbbf643c5e1df30f85a72feff8206b8706045b669315c2fba125b4bf03148",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/customer-io/og.webp",
+      "source_url": "https://cdn.sanity.io/images/onirtmj2/production/5e497275070e44cc06b05b4f2398ded18148f51b-2400x1260.png?rect=0,2,2400,1256&w=1200&h=628&fit=crop&auto=format",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5566,
+      "sha256": "befe87f235872efc6761458b1684f2c6b5dbb9e182b29b9a34a59f1f469f7d48",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/customer-io/logo-1.svg",
+      "source_url": "https://customer.io/favicon.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2299,
+      "sha256": "2a6c47a81499a7913657481904f5066c7862a88107b7a6889562160113373f9b",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/customer-io/logo-2.svg",
+      "source_url": "https://cdn.sanity.io/images/onirtmj2/production/1e0334dcfb8bac7ca10e25c6323b1195030cc2d4-328x65.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img max-h-6 max-w-20 md:max-h-7 md:max-w-24 Higgsfield logo div bg-surface flex size-full items-center justify-center p-4 md:p-6 div bg-stroke grid w-full grid-cols-3 items-center justify-items-center gap-px lg:grid-cols-6 div flex flex-col",
+      "content_type": "image/svg+xml",
+      "bytes": 7486,
+      "sha256": "465ff96019c35e26fb0b5cc92296eadde4d5e00ea294c0e1025181fd9e022928",
+      "width": 328,
+      "height": 65
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/customer-io/banner-1.webp",
+      "source_url": "https://customer.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fonirtmj2%2Fproduction%2F04c20548d54a791364f269daff28f609dd40933a-1240x698.jpg%3Fw%3D1920%26h%3D1080%26q%3D80%26fit%3Dfill%26auto%3Dformat&w=3840&q=80",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute z-0 aspect-video object-cover Modern office div relative z-1 flex aspect-video items-end justify-center overflow-clip p-6 pb-0 sm:p-8 sm:pb-0 md:p-16 md:pb-0 lg:p-20 lg:pb-0 div container div section relative overflow-x-clip py",
+      "content_type": "image/webp",
+      "bytes": 113300,
+      "sha256": "a2597923bdf1c0dd286f770bf454943434389d1d93862cdf172d948c6282b91c",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/customer-io/reference-1.webp",
+      "source_url": "https://customer.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fonirtmj2%2Fproduction%2Fcf961b9276046e242cc2cd6c81a7691b985b1b77-2160x1215.png%3Fw%3D2160%26h%3D1215%26q%3D80%26fit%3Dfill%26auto%3Dformat&w=3840&q=80",
+      "source_tag": "img:page-image",
+      "context": "img relative z-1 aspect-video origin-top-left scale-150 overflow-clip rounded-t-xs md:scale-100 md:rounded-t-md Customer.io dashboard screen div div relative z-1 flex aspect-video items-end justify-center overflow-clip p-6 pb-0 sm:p-8 sm:pb",
+      "content_type": "image/webp",
+      "bytes": 78002,
+      "sha256": "3317ecdfbc99da82c3aa2cf0f4d1c79f31a87885746c52f6b34f12f89d164eee",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/customer-io/reference-2.webp",
+      "source_url": "https://customer.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fonirtmj2%2Fproduction%2Fcf961b9276046e242cc2cd6c81a7691b985b1b77-2160x1215.png%3Fw%3D2160%26h%3D1215%26q%3D80%26fit%3Dfill%26auto%3Dformat&w=2048&q=80",
+      "source_tag": "img:page-image",
+      "context": "img relative z-1 aspect-video origin-top-left scale-150 overflow-clip rounded-t-xs md:scale-100 md:rounded-t-md Customer.io dashboard screen div div relative z-1 flex aspect-video items-end justify-center overflow-clip p-6 pb-0 sm:p-8 sm:pb",
+      "content_type": "image/webp",
+      "bytes": 73730,
+      "sha256": "a5cdda7ce52c0aeeb6266219d3951803aa9173b0781077c5277f5e9de111b967",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/customer-io/reference-3.webp",
+      "source_url": "https://customer.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fonirtmj2%2Fproduction%2F9997b2df4198119080c883960e30be127ce545cc-1200x998.png%3Fw%3D1200%26h%3D998%26q%3D80%26fit%3Dfill%26auto%3Dformat&w=3840&q=80",
+      "source_tag": "img:page-image",
+      "context": "img z-0 object-cover Woman using laptop a group inverse border-default after:to-spruce-900 relative isolate flex flex-1 flex-col items-start justify-between overflow-hidden border-r p-5 transition-[flex-grow] duration-400 ease-out after:poi",
+      "content_type": "image/webp",
+      "bytes": 65996,
+      "sha256": "e54be329438e1a328fe6e125819e539864ffd2b182695e8e460b1d5187c7b68b",
+      "width": 1200,
+      "height": 998
+    }
+  ]
+}

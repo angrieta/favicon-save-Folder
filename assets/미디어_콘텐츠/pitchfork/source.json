@@ -1,0 +1,94 @@
+{
+  "company": "Pitchfork",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://pitchfork.com/",
+  "page_url": "https://pitchfork.com/",
+  "page_title": "Pitchfork | The Most Trusted Voice in Music. | Pitchfork",
+  "collection_status": "partial",
+  "collection_error": "reference:HTTPError:https://pitchfork.com/c_limit/P4K26_TickerIcon.png; reference:HTTPError:https://pitchfork.com/c_limit/Tinashe-%20Popstar%20.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/pitchfork/favicon.ico",
+      "source_url": "https://pitchfork.com/verso/static/pitchfork-us/assets/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/x-icon",
+      "bytes": 4286,
+      "sha256": "1241eb0fc32af548e93934ee1b4276293ae76d9834a91dfad9fafdfe540d2357",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/pitchfork/og.webp",
+      "source_url": "https://media.pitchfork.com/photos/5935a027a28a096fc4292134/16:9/w_1280,c_limit/c53c3aba.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 131538,
+      "sha256": "03d12364a45d630c530784d492933fa636d311208a14fab64e032ec1a3b5a547",
+      "width": 658,
+      "height": 658
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/pitchfork/logo-1.png",
+      "source_url": "https://pitchfork.com/verso/static/pitchfork-us/assets/logo-seo.png",
+      "source_tag": "json-ld[0].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 5143,
+      "sha256": "6b163e76427444494bdf82c2d2e27d0722261c10fa3c7918d16d556ead32463d",
+      "width": 565,
+      "height": 100
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/pitchfork/logo-2.svg",
+      "source_url": "https://pitchfork.com/verso/static/pitchfork-us/assets/logo-inverted.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj responsive-image a StackedNavigationLogoLink-kYGxkV kRfDLU div StackedNavigationSectionLogoSize-bkrGjx iFjhsZ stacked-navigation__section--xlarge-logo div StackedNavigationTop-idKMUp dBtpLH div S",
+      "content_type": "image/svg+xml",
+      "bytes": 4990,
+      "sha256": "a330ab297489b2af223df66c8510fe70efcab7209e39f688fc08d8a3293e7c98",
+      "width": 130,
+      "height": 50
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/pitchfork/reference-1.webp",
+      "source_url": "https://media.pitchfork.com/photos/696f869b1919e621440ea6a9/master/w_120",
+      "source_tag": "picture:page-image",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj TickerImage-cyiQMu jBQySV ticker__image responsive-image div aspect-ratio--overlay-container div AspectRatioContainer-dijQOF kcORnm span SpanWrapper-kFnjvc eKnjjD responsive-asset TickerImage-cyi",
+      "content_type": "image/webp",
+      "bytes": 3350,
+      "sha256": "6f5f8cfb8ac19c4ab2894bfe1b6a2d0a496b545cd7152bbbbd7933c6dd6ee1fe",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/pitchfork/reference-2.webp",
+      "source_url": "https://media.pitchfork.com/photos/6ab4131ef7ef2378a6776d41/2:1/w_768",
+      "source_tag": "picture:page-image",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj SummaryItemResponsiveAsset-hOqdxG fVNTWC summary-item__image responsive-image div aspect-ratio--overlay-container div AspectRatioContainer-dijQOF jWfYZe span SpanWrapper-kFnjvc eKnjjD responsive-",
+      "content_type": "image/webp",
+      "bytes": 116206,
+      "sha256": "a3c0690411361537e62ea8fbdae5e89d3f3c441ca44401d999aab74bc010b0c8",
+      "width": 1000,
+      "height": 500
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/pitchfork/reference-3.webp",
+      "source_url": "https://media.pitchfork.com/photos/6aba81a43d1da35cc70d6c9d/2:1/w_640",
+      "source_tag": "picture:page-image",
+      "context": "picture ResponsiveImagePicture-jKunQM gjCCFj SummaryItemResponsiveAsset-hOqdxG fVNTWC summary-item__image responsive-image div aspect-ratio--overlay-container div AspectRatioContainer-dijQOF jWfYZe span SpanWrapper-kFnjvc eKnjjD responsive-",
+      "content_type": "image/webp",
+      "bytes": 195130,
+      "sha256": "3cf8b53b929b1e102809faba4b3900395326230c2252a6d575089392ee0e625d",
+      "width": 1440,
+      "height": 720,
+      "source_sha256": "5b8a0e6e60d5af547ffc1cb9ece339399a6baea47faabbb85b7379169a028ace"
+    }
+  ]
+}

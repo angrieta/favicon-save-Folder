@@ -1,0 +1,70 @@
+{
+  "company": "아이디어스",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.idus.com/",
+  "page_url": "https://www.idus.com/v2/",
+  "page_title": "아이디어스",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.idus.kr/www-v2/757d6141f24fad72b0887bd4bc2a36bc03144636/_nuxt/useServiceAnniversary.CVYv75Or.js; reference:ValueError:https://cdn.idus.kr/www-v2/757d6141f24fad72b0887bd4bc2a36bc03144636/_nuxt/UnitHeader.vue.DweFW-X6.js; reference:ValueError:https://cdn.idus.kr/www-v2/757d6141f24fad72b0887bd4bc2a36bc03144636/_nuxt/BaseDecorateTextList.BZVnfaZ5.js; reference:ValueError:https://cdn.idus.kr/www-v2/757d6141f24fad72b0887bd4bc2a36bc03144636/_nuxt/BaseDecorateText.BeU-ZDXb.js; reference:ValueError:https://cdn.idus.kr/www-v2/757d6141f24fad72b0887bd4bc2a36bc03144636/_nuxt/BaseTooltipSponsored.vue.BPxcE10g.js; reference:ValueError:https://cdn.idus.kr/www-v2/757d6141f24fad72b0887bd4bc2a36bc03144636/_nuxt/BaseSyncSlide.oR6IXJlS.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/idus/favicon.png",
+      "source_url": "https://www.idus.com/v2/apple-icon/icon_300.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 7525,
+      "sha256": "b237851f5a239d4b2d32c00665e45d557262fd682a71e0613735ca337e1cfd96",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "ab2674f9a6d6f1498adcb1f14fa85daf7a2ac85562d810c7f1cafe36ffa6243f"
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/idus/og.webp",
+      "source_url": "https://www.idus.com/v2/ogimg-idus.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4174,
+      "sha256": "aa3109d3a79b3c4a55a4b39ffe295bcbaf97094c415b44300b119b0471a72033",
+      "width": 640,
+      "height": 640
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/idus/banner-1.webp",
+      "source_url": "https://image.idus.com/image/files/167af63e44a344be9abf3435eb4e6d7e_720.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img CoreImage__image div CoreImage DesktopMainUnitBannerItem__image a 메인 배너 1 div DesktopMainUnitBannerItem div DesktopMainUnitBannerSlide",
+      "content_type": "image/webp",
+      "bytes": 39168,
+      "sha256": "e4cf7318ae6af6a130f0c908ad4f7042bde5753e044d74c7c1f04f40329766a4",
+      "width": 720,
+      "height": 360
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/idus/banner-2.webp",
+      "source_url": "https://image.idus.com/image/files/bcc58c878a4c4f7296c0580a43bb7b34_720.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img CoreImage__image div CoreImage DesktopMainUnitBannerItem__image a 메인 배너 2 div DesktopMainUnitBannerItem div DesktopMainUnitBannerSlide",
+      "content_type": "image/webp",
+      "bytes": 25780,
+      "sha256": "4c613eaafc298851b0cf889515c13fc3fcd8d0620db3a8e3b9c60340d370ee22",
+      "width": 720,
+      "height": 360
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/idus/reference-1.webp",
+      "source_url": "https://cdn.idus.kr/common-assets/images/idus/placeholder/placeholder.png",
+      "source_tag": "img:page-image",
+      "context": "img CoreImage__placeholder-img CoreImage__placeholder-img--idle div CoreImage !size-[32px] div ServiceAppInstallGuide__title div ServiceAppInstallGuide div DesktopHeaderSearchAppInstallLayer",
+      "content_type": "image/webp",
+      "bytes": 490,
+      "sha256": "2959c476c3c9375bb7d6382a4c174bdd304bd0be07e31525eb03e2b49bf35748",
+      "width": 400,
+      "height": 400
+    }
+  ]
+}

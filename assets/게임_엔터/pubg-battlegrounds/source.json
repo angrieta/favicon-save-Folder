@@ -1,0 +1,93 @@
+{
+  "company": "배틀그라운드",
+  "category": "게임_엔터",
+  "requested_url": "https://www.pubg.com/ko/",
+  "page_url": "https://www.pubg.com/ko/",
+  "page_title": "PUBG: 배틀그라운드",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/게임_엔터/pubg-battlegrounds/favicon.png",
+      "source_url": "https://wstatic-prod.pubg.com/web/live/static/favicons/apple-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 36827,
+      "sha256": "4c1202a7428ea73e07a7b0f8bdfc18507307a63258ded22d518817834c986740",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/게임_엔터/pubg-battlegrounds/og.webp",
+      "source_url": "https://wstatic-prod.pubg.com/web/live/static/og/img-og-pubg.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 81166,
+      "sha256": "316b4262e78144b8583ef288b0c927f9fb3f0e6f1bce66016bc8371dbe59d724",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/pubg-battlegrounds/logo-1.png",
+      "source_url": "https://wstatic-prod.pubg.com/web/live/main_79fe46c/img/1de035e.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__logo-image PUBG BATTLEGROUNDS a header__logo-link h1 header__logo div header__items header__items--second div header__block header__block--gnb",
+      "content_type": "image/png",
+      "bytes": 40979,
+      "sha256": "babc61956d0e288c49fc6599f49632da790c9602424252c470bfbb2cb57c4b81",
+      "width": 524,
+      "height": 178
+    },
+    {
+      "type": "logo",
+      "path": "assets/게임_엔터/pubg-battlegrounds/logo-2.png",
+      "source_url": "https://wstatic-prod.pubg.com/web/live/main_79fe46c/img/b0ddd67.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img footer__logo-image PUBG | KRAFTON div footer__logo div footer__inner footer app-footer footer layout__footer div layout layout--default is-windows is-chrome",
+      "content_type": "image/png",
+      "bytes": 3789,
+      "sha256": "0d09c1bff6782051dbcc99453f0abc817b9a339c91f19efad90fc1886a6a2a54",
+      "width": 332,
+      "height": 120
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/pubg-battlegrounds/reference-1.webp",
+      "source_url": "https://wstatic-prod.pubg.com/web/live/main_79fe46c/img/afd271b.webp",
+      "source_tag": "img:page-image",
+      "context": "img outlink__link-image bridge a outlink__link li outlink__link-items ul outlink__link-list div outlink__layer-inner",
+      "content_type": "image/webp",
+      "bytes": 11630,
+      "sha256": "6d294f84b67857a58925881d761bb59762455fac3191db8f861c76b6289cf78f",
+      "width": 720,
+      "height": 406
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/pubg-battlegrounds/reference-2.webp",
+      "source_url": "https://wstatic-prod.pubg.com/web/live/main_79fe46c/img/bff06a5.webp",
+      "source_tag": "img:page-image",
+      "context": "img outlink__link-image krafton-id a outlink__link li outlink__link-items ul outlink__link-list div outlink__layer-inner",
+      "content_type": "image/webp",
+      "bytes": 3620,
+      "sha256": "5b1bec506d256fbf556400e55e59dc5a69fb6dff1004703dd5697ff334379e48",
+      "width": 720,
+      "height": 406
+    },
+    {
+      "type": "reference",
+      "path": "assets/게임_엔터/pubg-battlegrounds/reference-3.webp",
+      "source_url": "https://wstatic-prod.pubg.com/web/live/main_79fe46c/img/e9ec59e.webp",
+      "source_tag": "img:page-image",
+      "context": "img outlink__link-image esports a outlink__link li outlink__link-items ul outlink__link-list div outlink__layer-inner",
+      "content_type": "image/webp",
+      "bytes": 34492,
+      "sha256": "184752ecedaaf38457768a0484675ffc44b910f7487be37dbacc6c33d0a84f65",
+      "width": 720,
+      "height": 406
+    }
+  ]
+}

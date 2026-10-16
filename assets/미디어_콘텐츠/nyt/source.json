@@ -1,0 +1,22 @@
+{
+  "company": "The New York Times",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.nytimes.com/",
+  "page_url": "https://www.nytimes.com/",
+  "page_title": "nytimes.com",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://www.nytimes.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/nyt/favicon.png",
+      "source_url": "https://www.nytimes.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 1488,
+      "sha256": "f65b113b30a3f327da1ee728180a99190bbfea3adff81a66b062df044fb4735e",
+      "width": 48,
+      "height": 48
+    }
+  ]
+}

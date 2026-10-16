@@ -1,0 +1,70 @@
+{
+  "company": "VinFast",
+  "category": "자동차",
+  "requested_url": "https://vinfastauto.com/",
+  "page_url": "https://vinfastauto.com/vn_en",
+  "page_title": "Homepage",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://vinfastauto.com/themes/porto/css/homepage-v2.css?v=1787728205",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/vinfast/favicon.png",
+      "source_url": "https://static-cms-prod.vinfastauto.com/Vinfast-logo.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 57753,
+      "sha256": "55fbfcddb07110cc8c104c929300f3289592f74f8a04764e007deaa9132e11bc",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/vinfast/logo-1.png",
+      "source_url": "https://static-cms-prod.vinfastauto.com/statics/img/logo-mobile-2026.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img VinFast| Cùng bạn bứt phá mọi giới hạn a div header-logo div header-column div header-row",
+      "content_type": "image/png",
+      "bytes": 236289,
+      "sha256": "2c58fe9c36bf04227c860535e6d416d8f4ce3de499049cae765ad52fbcd451e3",
+      "width": 761,
+      "height": 841
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/vinfast/logo-2.png",
+      "source_url": "https://static-cms-prod.vinfastauto.com/statics/img/new-home-page/VinFast-logo-2026.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo-main VinFast - Thương hiệu xe điện đầu tiên Việt Nam a div header-logo div header-column nav header-nav-main__brand",
+      "content_type": "image/png",
+      "bytes": 141490,
+      "sha256": "ffee8855ebe4f31b6553e88e6037cebe0236005fd2c00297a60b7d5991fe2201",
+      "width": 1600,
+      "height": 313
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/vinfast/banner-1.webp",
+      "source_url": "https://static-cms-prod.vinfastauto.com/statics/vinfast-banner-new-desktop-en-1.jpeg",
+      "source_tag": "img:semantic-banner",
+      "context": "img d-none d-lg-block VinFast div field-image a div swiper-slide slide-item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 116830,
+      "sha256": "5f504355f808abc53e23d4d3e7b0c84df1df35423567a25869730d56bf2480bb",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/자동차/vinfast/banner-2.webp",
+      "source_url": "https://static-cms-prod.vinfastauto.com/statics/vinfast-banner-new-desktop-en-2.jpeg",
+      "source_tag": "img:semantic-banner",
+      "context": "img d-none d-lg-block VinFast div field-image a div swiper-slide slide-item div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 418992,
+      "sha256": "40f8b3a70e7f9f94d501dc69ab2ea0942241ca76987960f0230c3b284d6890c2",
+      "width": 1800,
+      "height": 1125
+    }
+  ]
+}

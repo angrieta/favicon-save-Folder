@@ -1,0 +1,45 @@
+{
+  "company": "엔카",
+  "category": "자동차",
+  "requested_url": "https://www.encar.com/index.do",
+  "page_url": "https://www.encar.com/index.do",
+  "page_title": "내차팔기·내차사기 | 엔카",
+  "collection_status": "partial",
+  "collection_error": "logo:ValueError:https://ci.encar.com/carsdata/index/2.jpg; logo:ValueError:https://ci.encar.com/carsdata/index/ev_index_image.jpg; reference:ValueError:https://ci.encar.com/carsdata/index/2.jpg; reference:ValueError:https://ci.encar.com/carsdata/index/ev_index_image.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/자동차/encar/favicon.ico",
+      "source_url": "https://www.encar.com/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15086,
+      "sha256": "268d168c6be887a4cf00d5d09e758fe03552cd8113bf24d7f5d7429c6ecf1549",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/자동차/encar/og.webp",
+      "source_url": "https://www.encar.com/images/common/icon/brand_logo_400x400_v3.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10958,
+      "sha256": "e3254c56ce0b152124d70d91043371c9cf2f3eda1718dd6024ad7d4d9d1e84a2",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/자동차/encar/logo-1.webp",
+      "source_url": "https://ci.encar.com/carsdata/index/22.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img a link_help li ul list_help div section_help",
+      "content_type": "image/webp",
+      "bytes": 8776,
+      "sha256": "236bb88814c54d4f514e49333640004c6b898090a1b0811ab10e908c77b5b230",
+      "width": 247,
+      "height": 219
+    }
+  ]
+}

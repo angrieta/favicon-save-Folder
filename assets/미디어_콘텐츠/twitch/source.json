@@ -1,0 +1,33 @@
+{
+  "company": "Twitch",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.twitch.tv/",
+  "page_url": "https://www.twitch.tv/",
+  "page_title": "Twitch",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://assets.twitch.tv/config/settings.7ff3124a2cc2adf7eb0c9fe74876e76f.js; reference:ValueError:https://assets.twitch.tv/eppo/api/flag-config/v1/config?sdkName=js-sdk-client&sdkVersion=3.1.2&apiKey=3mv-BKCSZJDyZrwfqK86har6u13NgxRh.ZWg9bTRsZHJnLmUuZXBwby5jbG91ZCZjcz1tNGxkcmc&callback=__setEppoConfig",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/twitch/favicon.png",
+      "source_url": "https://assets.twitch.tv/assets/favicon-32-e29e246c157142c94346.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 321,
+      "sha256": "4fd09edbafa4f154190acb22f9debb55c859562153f227600e9b8beb5be63984",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/twitch/og.webp",
+      "source_url": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1628,
+      "sha256": "ad178eacc9260ebe8a65ff5c3d1e2768d68bcb0b1c28e4cf9152dedd26bb6051",
+      "width": 262,
+      "height": 200
+    }
+  ]
+}

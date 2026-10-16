@@ -1,0 +1,95 @@
+{
+  "company": "Wells Fargo",
+  "category": "금융",
+  "requested_url": "https://www.wellsfargo.com",
+  "page_url": "https://www.wellsfargo.com/",
+  "page_title": "Wells Fargo Bank | Financial Services & Online Banking",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/wells-fargo/favicon.png",
+      "source_url": "https://www17.wellsfargomedia.com/assets/images/icons/icon-hires_192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 13836,
+      "sha256": "090aaf6afde3df8107dc19f82a463be248061221afc776f25ed0901861d0c983",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "c58809902c5cbe738b068c465f2c32c44c89be4c6f8ccb8d75b19a493385302f"
+    },
+    {
+      "type": "social",
+      "path": "assets/금융/wells-fargo/og.webp",
+      "source_url": "https://www17.wellsfargomedia.com/assets/images/logos/wellsfargo/logo_974x1050.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 16924,
+      "sha256": "1b7dc692d8ded61cb4de95b0f86745f5256babc86a91ade887387a02fc435ad3",
+      "width": 974,
+      "height": 1050
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/wells-fargo/og.webp",
+      "source_url": "https://www17.wellsfargomedia.com/assets/images/logos/wellsfargo/logo_974x1050.png",
+      "source_tag": "json-ld.logo",
+      "content_type": "image/webp",
+      "bytes": 16924,
+      "sha256": "1b7dc692d8ded61cb4de95b0f86745f5256babc86a91ade887387a02fc435ad3",
+      "width": 974,
+      "height": 1050,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/wells-fargo/banner-1.webp",
+      "source_url": "https://www17.wellsfargomedia.com/assets/images/contextual/responsive/lpromo/wfi000_ph_bc_1600x700.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img div ps-promo-full-image div ps-promo-full-item div ps-promo-full-items div ps-large-promo-full-wrapper",
+      "content_type": "image/webp",
+      "bytes": 70404,
+      "sha256": "238c9e32ef59a8312afaa7122060da53e989f3dc86b304bc6c2677fbaa75d358",
+      "width": 1080,
+      "height": 502
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/wells-fargo/reference-1.webp",
+      "source_url": "https://www17.wellsfargomedia.com/assets/images/contextual/responsive/hpprimary/wfi_ph_hppb_8329906_v3_1700x700.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Product showcase. Smartphone screen showing different checking account options. div marquee-img div marquee-wrap marquee-black div div cmsDefault",
+      "content_type": "image/webp",
+      "bytes": 14284,
+      "sha256": "845934c5f1d7bf291bf5bb1ea7a121b6c91c2dfc9416402bac3bbfb79c0c6c30",
+      "width": 1080,
+      "height": 423
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/wells-fargo/reference-2.webp",
+      "source_url": "https://www17.wellsfargomedia.com/assets/images/contextual/responsive/smlpromo/wfi_ph_g_2181743355-def-financialgoals_hpsp_616x353.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div div text-aligned-left div cmsDefault enhanced-txt-cm mid-size-promo div card-container three-card card-left card-theme2",
+      "content_type": "image/webp",
+      "bytes": 35356,
+      "sha256": "dea9fea83aaa0adc4733d3feb197c701eb40d0f7dc345c25b4c494a625a9518d",
+      "width": 616,
+      "height": 353
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/wells-fargo/reference-3.webp",
+      "source_url": "https://www17.wellsfargomedia.com/assets/images/contextual/responsive/smlpromo/wfi_ph_g_2051210591-def-borrowing_hpsp_616x353.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div div text-aligned-left div cmsDefault enhanced-txt-cm mid-size-promo div card-container three-card card-left card-theme2",
+      "content_type": "image/webp",
+      "bytes": 48080,
+      "sha256": "9ba3b011eceee4f1fdffb1a9d8b9ba963fbc14ede308a684a0dd4824fef6a1c6",
+      "width": 616,
+      "height": 353
+    }
+  ]
+}

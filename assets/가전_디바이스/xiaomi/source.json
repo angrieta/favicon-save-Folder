@@ -1,0 +1,58 @@
+{
+  "company": "Xiaomi",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.mi.com/kr/",
+  "page_url": "https://www.mi.com/kr/",
+  "page_title": "Xiaomi® Korea | Xiaomi 공식 웹사이트",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/xiaomi/favicon.png",
+      "source_url": "https://i02.appmifile.com/i18n/scm/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 3688,
+      "sha256": "9ec066d0c69dfb219219156892fbece9665ef96d7cf72a764f70cfec718bd4b8",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "logo",
+      "path": "assets/가전_디바이스/xiaomi/logo-1.png",
+      "source_url": "https://i01.appmifile.com/webfile/globalimg/mobile/logo/mi.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 3688,
+      "sha256": "9ec066d0c69dfb219219156892fbece9665ef96d7cf72a764f70cfec718bd4b8",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/xiaomi/banner-1.webp",
+      "source_url": "https://i02.appmifile.com/143_operator_kr/28/08/2026/83b43436f471d4826070001c2e5d2d38.jpg?thumb=1&w=2160&f=webp&q=85",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture mi-image slide__background slide__background--image div carousel-banner__slide carousel-banner__slide--light div swiper-slide swiper-slide-duplicate div swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 36020,
+      "sha256": "1e8dc0515466c814f9921128366d4013289d55fc0f4f4d0886057bfb4c08a1fa",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/xiaomi/banner-2.webp",
+      "source_url": "https://i02.appmifile.com/143_operator_kr/28/08/2026/83b43436f471d4826070001c2e5d2d38.jpg?thumb=1&w=1440&f=webp&q=85",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture mi-image slide__background slide__background--image div carousel-banner__slide carousel-banner__slide--light div swiper-slide swiper-slide-duplicate div swiper-wrapper div swiper-container",
+      "content_type": "image/webp",
+      "bytes": 29448,
+      "sha256": "476ecddd95c7b78c8d25ba1b8446a745e42d7ebe9e4787678a6bf80d641b87c2",
+      "width": 1440,
+      "height": 960
+    }
+  ]
+}

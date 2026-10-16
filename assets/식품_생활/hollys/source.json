@@ -1,0 +1,82 @@
+{
+  "company": "할리스",
+  "category": "식품_생활",
+  "requested_url": "https://www.hollys.co.kr/",
+  "page_url": "https://www.hollys.co.kr/",
+  "page_title": "할리스",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=657500121118066&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/hollys/favicon.ico",
+      "source_url": "https://www.hollys.co.kr/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "762f60f1ec97e3eca87c7cc1c479e16329d851cb67330d30925152ee7de80456",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/hollys/banner-1.webp",
+      "source_url": "https://admin.hollys.co.kr/upload/main/banner/mainBanner_202608211030432270.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 리센느 포토카드_PC a li ul bxslider div main_visual_slide",
+      "content_type": "image/webp",
+      "bytes": 31632,
+      "sha256": "193b1eef08c26eed3486bf97d2a025ee4fd4f394e9a3799db0411b8b0aca9006",
+      "width": 1800,
+      "height": 450
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/hollys/banner-2.webp",
+      "source_url": "https://admin.hollys.co.kr/upload/main/banner/mainBanner_202608250119418290.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img 가을1차_PC a li ul bxslider div main_visual_slide",
+      "content_type": "image/webp",
+      "bytes": 72784,
+      "sha256": "1649c23eff0bdd2f720d7c7a513ff4f6961fa27c15c7c8b1b0302d6b4eb65821",
+      "width": 1800,
+      "height": 475
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hollys/reference-1.webp",
+      "source_url": "https://admin.hollys.co.kr/upload/main/banner/mainBanner_202609220254339280.jpg",
+      "source_tag": "img:page-image",
+      "context": "img 9월라스트위크_PC a li ul bxslider div main_visual_slide",
+      "content_type": "image/webp",
+      "bytes": 18150,
+      "sha256": "ab3cd746c38e07fb380cc836d29d4622c9ac788115ea4681b7336cb044958167",
+      "width": 1800,
+      "height": 450
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hollys/reference-2.webp",
+      "source_url": "https://admin.hollys.co.kr/upload/main/banner/mainBanner_202607290218331690.png",
+      "source_tag": "img:page-image",
+      "context": "img 포스텔러신규가입_PC a li ul bxslider div main_visual_slide",
+      "content_type": "image/webp",
+      "bytes": 53304,
+      "sha256": "ed9e7fac61acab11d5864d471591ab60ddcf880fb1c3253b3b5108733b59c8cf",
+      "width": 1800,
+      "height": 451
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hollys/reference-3.webp",
+      "source_url": "https://admin.hollys.co.kr/upload/main/banner/mainBanner_202608250950313580.png",
+      "source_tag": "img:page-image",
+      "context": "img 9월쿠폰팩_PC a li ul bxslider div main_visual_slide",
+      "content_type": "image/webp",
+      "bytes": 46506,
+      "sha256": "673b80a0244cec9f442e4e4ff7432bf58f9921a64e0ad2931acc6c76556291c0",
+      "width": 1800,
+      "height": 450
+    }
+  ]
+}

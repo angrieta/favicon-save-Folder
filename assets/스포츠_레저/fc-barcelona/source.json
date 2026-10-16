@@ -1,0 +1,106 @@
+{
+  "company": "FC Barcelona",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.fcbarcelona.com",
+  "page_url": "https://www.fcbarcelona.com/en/",
+  "page_title": "Official FC Barcelona Website",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.fcbarcelona.com/resources/v3.10.0-9124/fonts/FC_BARCELONA-Extrabold.woff2; reference:ValueError:https://www.fcbarcelona.com/resources/v3.10.0-9124/fonts/FC_BARCELONACONDENSEDPRO-Regular.woff2; reference:ValueError:https://www.fcbarcelona.com/resources/v3.10.0-9124/fonts/FC_BARCELONACONDENSEDPRO-Bold.woff2; reference:ValueError:https://www.fcbarcelona.com/resources/v3.10.0-9124/fonts/FC_BARCELONACONDENSEDPRO-Semibold.otf; reference:ValueError:https://www.fcbarcelona.com/resources/v3.10.0-9124/fonts/FC_BARCELONACONDENSEDPRO-Heavy.otf; reference:ValueError:https://www.fcbarcelona.com/resources/v3.10.0-9124/fonts/FC_BARCELONACONDENSEDPRO-Extrabold.otf",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/fc-barcelona/favicon.png",
+      "source_url": "https://www.fcbarcelona.com/resources/v3.10.0-9124/i/favicon/favicon-196x196.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 22805,
+      "sha256": "14f16d192a29847b26d89c1ca9890b777ea5d18dbb11ac883406b7c83afe8d8a",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/fc-barcelona/logo-1.png",
+      "source_url": "https://www.fcbarcelona.com/resources/v3.10.0-9124/i/elements/fcb-meta-logo.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 15630,
+      "sha256": "d1263130736392cff76f6a0a12ab4b0553702b955a280b781aea1616c7888fc9",
+      "width": 700,
+      "height": 136
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/fc-barcelona/logo-2.svg",
+      "source_url": "https://www.fcbarcelona.com/resources/v3.10.0-9124/i/elements/badge-app-store.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img app-store__logo Apple App store logo a app-store__link div app-store__links div app-store js-app-store div navigation__middle-menus",
+      "content_type": "image/svg+xml",
+      "bytes": 5006,
+      "sha256": "c59aeee4b388a5282bd980fbd84e68a58687408fcc3cc3e399597c6a99532495",
+      "width": 168,
+      "height": 50
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/fc-barcelona/banner-1.webp",
+      "source_url": "https://www.fcbarcelona.com/photo-resources/2026/09/29/cb804d90-ffa2-4cdf-a2ba-56cf3c5760fe/_MGA5779_1.jpg?width=1424",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture content-hero-featured__image div content-hero-featured__image-container a content-hero-featured__primary-link js-article-expand header content-hero-featured main main",
+      "content_type": "image/webp",
+      "bytes": 91702,
+      "sha256": "ccfecaeab4e522cc32e661fd0943a0be61bbed60edbeb79a5f3b4d772f8cb988",
+      "width": 1424,
+      "height": 949
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/fc-barcelona/banner-2.webp",
+      "source_url": "https://www.fcbarcelona.com/photo-resources/2026/09/29/cb804d90-ffa2-4cdf-a2ba-56cf3c5760fe/_MGA5779_1.jpg?width=712",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture content-hero-featured__image div content-hero-featured__image-container a content-hero-featured__primary-link js-article-expand header content-hero-featured main main",
+      "content_type": "image/webp",
+      "bytes": 36884,
+      "sha256": "2f5b7c77e260fc3ea150a2f631e58f49ea2179fe57344b4a8f16121a9a2eac49",
+      "width": 712,
+      "height": 475
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/fc-barcelona/reference-1.svg",
+      "source_url": "https://fcbarcelona-static-files.s3.amazonaws.com/sponsors/m-main--white.svg",
+      "source_tag": "inline-background-image",
+      "context": "div  m-main--white marketing-partners__logo marketing-partners__logo--m-main background-image:url(https://fcbarcelona-static-files.s3.amazonaws.com/sponsors/m-main--white.svg)",
+      "content_type": "image/svg+xml",
+      "bytes": 2940,
+      "sha256": "1d3243b08979fff9b3bbb3e6e74d8270c29f009d28a34256700bbe8a537257d4",
+      "width": 3100,
+      "height": 1244
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/fc-barcelona/reference-2.webp",
+      "source_url": "https://www.fcbarcelona.com/photo-resources/2026/09/29/cb804d90-ffa2-4cdf-a2ba-56cf3c5760fe/_MGA5779_1.jpg?width=960&height=960",
+      "source_tag": "picture:page-image",
+      "context": "picture content-hero-featured__image div content-hero-featured__image-container a content-hero-featured__primary-link js-article-expand header content-hero-featured main main",
+      "content_type": "image/webp",
+      "bytes": 62166,
+      "sha256": "9be14c32ad320e96d6c8f8ae78f3964af85335830a42e4b82e528504fe044542",
+      "width": 960,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/스포츠_레저/fc-barcelona/reference-3.webp",
+      "source_url": "https://www.fcbarcelona.com/photo-resources/2026/09/29/cb804d90-ffa2-4cdf-a2ba-56cf3c5760fe/_MGA5779_1.jpg?width=480&height=480",
+      "source_tag": "picture:page-image",
+      "context": "picture content-hero-featured__image div content-hero-featured__image-container a content-hero-featured__primary-link js-article-expand header content-hero-featured main main",
+      "content_type": "image/webp",
+      "bytes": 25218,
+      "sha256": "a02577f8d20300150bd9ccdfed4e767cb166d3d6104b00e14e40c452207c94e7",
+      "width": 480,
+      "height": 480
+    }
+  ]
+}

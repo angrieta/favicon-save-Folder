@@ -1,0 +1,58 @@
+{
+  "company": "Vipp",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://vipp.com/",
+  "page_url": "https://vipp.com/en",
+  "page_title": "Official Vipp Online Shop | Vipp",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://consent.cookiebot.com/uc.js; reference:ValueError:https://media.umbraco.io/vipp-com-2/lxvjw4dj/desktop-hero-final.mp4; reference:ValueError:https://media.umbraco.io/vipp-com-2/40rbaowy/desktop-mobile-version-hero-final.mp4; reference:ValueError:https://media.umbraco.io/vipp-com-2/iddj4ij4/v4-kitchen-campaign_julia-khan-anselmo_less-pepper-1.mp4; reference:ValueError:https://media.umbraco.io/vipp-com-2/dunk3obh/upstate-guesthouse-film-landing-page-desktop.mp4; reference:ValueError:https://media.umbraco.io/vipp-com-2/pj4nzire/upstate-guesthouse-film-landing-page-mobile-final01.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/vipp/favicon.ico",
+      "source_url": "https://vipp.com/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 7406,
+      "sha256": "0176dcfcfd569607b18cd6c2628c050b9c3a9f2b2fe76d3333b6a0639771ab67",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/vipp/og.webp",
+      "source_url": "https://media.umbraco.io/vipp-com-2/elffw1i0/6ad744fb-ee2e-48d6-af8d-121be8ddd091.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 27416,
+      "sha256": "08233b6f8fd6f4d5bc49a186fb7adafcacc30155f657425e73699c43b80badc9",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/vipp/banner-1.webp",
+      "source_url": "https://media.umbraco.io/vipp-com-2/ph1h3yhf/vipp-appartment-03.jpg?width=1920&format=webp&quality=80&upscale=false",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div m8-hero_mediaWrapper__nszOF image_relative__9tUs4 div m8-hero_wrapper__eN4SY div m8-hero_root__u5sq9 div relative",
+      "content_type": "image/webp",
+      "bytes": 62852,
+      "sha256": "a59c1a2798fcf12eabe76251357089140f7db929d0de87df7fdd44452b21dcc1",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "c3ae572e55dfa9c8d0ad1ab3d9bbb878e3a108a18d742a30d0d25c5c7601d73a"
+    },
+    {
+      "type": "banner",
+      "path": "assets/라이프스타일_리테일/vipp/banner-2.webp",
+      "source_url": "https://media.umbraco.io/vipp-com-2/ph1h3yhf/vipp-appartment-03.jpg?width=1200&format=webp&quality=80&upscale=false",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div m8-hero_mediaWrapper__nszOF image_relative__9tUs4 div m8-hero_wrapper__eN4SY div m8-hero_root__u5sq9 div relative",
+      "content_type": "image/webp",
+      "bytes": 65282,
+      "sha256": "eb9043e10a627d5e31683b5fea1dc07613e2bda837cc64aaa4d849d4e7bb4733",
+      "width": 1200,
+      "height": 800
+    }
+  ]
+}

@@ -28,7 +28,7 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "analysis.json"
-SOURCES = ("manifest.json", "layouts.json", "history.json", "icons.json")
+SOURCES = ("manifest.json", "layouts.json", "history.json", "icons.json", "parts.json")
 
 HEX_RE = re.compile(r"#([0-9a-f]{6}|[0-9a-f]{3})\b", re.I)
 RGB_RE = re.compile(r"rgba?\(\s*(\d{1,3})[ ,]+(\d{1,3})[ ,]+(\d{1,3})", re.I)
@@ -148,8 +148,17 @@ def collect_jobs() -> dict[str, str]:
             payload = json.loads((ROOT / name).read_text(encoding="utf-8"))
         except (OSError, ValueError):
             continue
+        if isinstance(payload, dict):
+            payload = [*payload.get("layouts", []), *payload.get("entries", [])]
         for entry in payload:
-            if "assets" in entry:
+            if "regions" in entry:
+                # Page parts are analyzed from their thumbnail; buttons and popups from their file.
+                for region in entry.get("regions", []):
+                    if region.get("thumb"):
+                        add({"sha256": region.get("sha256"), "path": region["thumb"]})
+                for asset in entry.get("items", []):
+                    add(asset)
+            elif "assets" in entry:
                 for asset in entry.get("assets", []):
                     add(asset)
             elif "entries" in entry:

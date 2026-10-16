@@ -1,0 +1,83 @@
+{
+  "company": "코인원",
+  "category": "핀테크_결제",
+  "requested_url": "https://coinone.co.kr/",
+  "page_url": "https://coinone.co.kr/",
+  "page_title": "코인원(Coinone)",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.coinone.co.kr/web-asset/cx-web-mono-general/prod/4a54b6eeac57a29a78560d8156287858/_next/static/chunks/webpack-0183ed221feb963b.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/coinone/favicon.png",
+      "source_url": "https://image-public.coinone.co.kr/favicon/coinone/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 7604,
+      "sha256": "2f998235a7416cbc8454ef9a7ac548f2b934a938f2701a74c8ccca14e214b6ee",
+      "width": 192,
+      "height": 192,
+      "source_sha256": "6a98f6821396d8a9db8138c85729a401cb0b98321df9587d17dc56fb2964c3d5"
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/coinone/og.webp",
+      "source_url": "https://image-public.coinone.co.kr/og/og_coinone.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 17662,
+      "sha256": "a18c683f4628a788f256dc525555a68647a5eeadc09ef709bee13d34e7f4b2d7",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/coinone/logo-1.svg",
+      "source_url": "https://image-public.coinone.co.kr/_data/coinone-logo-blue.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img mui-10y6zw8-StyledImage e4g3nxo1 gnb logo coinone logo a gnb-logo mui-188quiv-MarginedLink e4g3nxo0 div mui-113dysd-GnbContainer eyepwui4 header mui-fixed webview-hide oauth-login-hide mui-jq22sf-HeaderLayout eyepwui0 div coinone-main-p",
+      "content_type": "image/svg+xml",
+      "bytes": 3675,
+      "sha256": "d622b2a2d7d5bc99e9d9ca3ae5f8865dfe2b0d399c49bb9c4b3ea6c3a44b78b9",
+      "width": 157,
+      "height": 28,
+      "source_sha256": "ea5e83213e23cee865ba14f1b2f373726bd4d8afc3e52b1cf0da30e288946ae3"
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/coinone/logo-2.png",
+      "source_url": "https://coinone.co.kr/_next/image?url=https%3A%2F%2Fcdn.coinone.co.kr%2Fweb-asset%2Fcx-web-mono-general%2Fprod%2F4a54b6eeac57a29a78560d8156287858%2F_next%2Fstatic%2Fmedia%2Fsmart-trading-logo-horizontal.00320896.png&w=384&q=75",
+      "source_tag": "img:semantic-logo",
+      "context": "img smart-trading-logo div e1q3ir3l0 epoe2p60 MuiBox-root mui-123or5q-BoxRoot-FlexRoot div mui-gqpm7-Container eedd1lr2 div mui-11vtmtx-Root eedd1lr0 section mui-1wwxdsm-SmartTradingSection ey14on64",
+      "content_type": "image/png",
+      "bytes": 24358,
+      "sha256": "8ef601e9848780f6c5604b893e67f8e564fd46da2fa7f2c2283886f19d90ba5b",
+      "width": 384,
+      "height": 59
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/coinone/reference-1.webp",
+      "source_url": "https://coinone.co.kr/_next/image?url=https%3A%2F%2Fcdn.coinone.co.kr%2Fweb-asset%2Fcx-web-mono-general%2Fprod%2F4a54b6eeac57a29a78560d8156287858%2F_next%2Fstatic%2Fmedia%2Ftrade-mockup.b0546fa7.png&w=828&q=100",
+      "source_tag": "img:page-image",
+      "context": "img Coinone App div mui-12h75f1-ImageArea eoychov1 article mui-173dhpn-AppDownloadContainer eoychov0 div mui-1f33gj0-Container ey14on61 div mui-152lzql-Background ey14on60",
+      "content_type": "image/webp",
+      "bytes": 68012,
+      "sha256": "f38c71e8c87b10962ec70b88a9af1ffb6cccc8dfe910415bb6aa0730c46487c3",
+      "width": 828,
+      "height": 828
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/coinone/reference-2.webp",
+      "source_url": "https://coinone.co.kr/_next/image?url=https%3A%2F%2Fcdn.coinone.co.kr%2Fweb-asset%2Fcx-web-mono-general%2Fprod%2F4a54b6eeac57a29a78560d8156287858%2F_next%2Fstatic%2Fmedia%2Ftrade-mockup.b0546fa7.png&w=640&q=100",
+      "source_tag": "img:page-image",
+      "context": "img Coinone App div mui-12h75f1-ImageArea eoychov1 article mui-173dhpn-AppDownloadContainer eoychov0 div mui-1f33gj0-Container ey14on61 div mui-152lzql-Background ey14on60",
+      "content_type": "image/webp",
+      "bytes": 47596,
+      "sha256": "7d0f6ba0272349fdba22916230b145198fdf7989cdfc008075c1b10ad524b86f",
+      "width": 640,
+      "height": 640
+    }
+  ]
+}

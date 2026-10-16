@@ -1,0 +1,45 @@
+{
+  "company": "이니스프리",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.innisfree.com/kr/ko/",
+  "page_url": "https://www.innisfree.com/kr/ko/",
+  "page_title": "이니스프리 공식 온라인 쇼핑몰 | Innisfree",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://inm-cdn.innisfree.com/src/ITO0442-4454-20260916-111758/kr/ko/dp/assets/Cr_KAJTV.js; reference:ValueError:https://inm-cdn.innisfree.com/src/ITO0442-4454-20260916-111758/kr/ko/dp/assets/B1PscMF6.js; reference:ValueError:https://inm-cdn.innisfree.com/src/ITO0442-4454-20260916-111758/kr/ko/dp/assets/BAgOR0A7.js; reference:ValueError:https://inm-cdn.innisfree.com/src/ITO0442-4454-20260916-111758/kr/ko/dp/assets/Ec6hpSLs.js; reference:ValueError:https://inm-cdn.innisfree.com/src/ITO0442-4454-20260916-111758/kr/ko/dp/assets/TWWQDmhN.js; reference:ValueError:https://inm-cdn.innisfree.com/src/ITO0442-4454-20260916-111758/kr/ko/dp/assets/BRELVSxk.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/innisfree/favicon.ico",
+      "source_url": "https://www.innisfree.com/kr/ko/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "7d318df29d40b5c7eff2268112e76de5f04ef3f12186bd7985380b49b755a666",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/innisfree/og.webp",
+      "source_url": "https://inm-cdn.innisfree.com/publish/resources/images/brand/logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1374,
+      "sha256": "6c96dc1fc5ac8748725659ae3d9259c0db7f87918b88f9b0370f7dde689ff1ee",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/innisfree/logo-1.png",
+      "source_url": "https://www.innisfree.com/publish/resources/images/brand/logo_i.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 865,
+      "sha256": "6b4446af0b22a202713ef902854da72c0b88f0cc765fe96d7a7e26c16d2a9c85",
+      "width": 112,
+      "height": 112
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "company": "Takashimaya",
+  "category": "유통_커머스",
+  "requested_url": "https://www.takashimaya.co.jp/",
+  "page_url": "https://www.takashimaya.co.jp/",
+  "page_title": "高島屋",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/takashimaya/favicon.png",
+      "source_url": "https://www.takashimaya.co.jp/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 1060,
+      "sha256": "ce6d4cfa3460164825d4cbf0b7efaaed40a9c0b2fe60618ca19abf2190da1506",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/takashimaya/logo-1.svg",
+      "source_url": "https://www.takashimaya.co.jp/base/corp/common/img/2024/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img 高島屋グループ a p logo div inner div header3",
+      "content_type": "image/svg+xml",
+      "bytes": 6393,
+      "sha256": "0bbf0b0c745d92fc8f06cb94b64a1d6c472ee88ba9aef34c069159eff691acd1",
+      "width": 748,
+      "height": 99
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/takashimaya/logo-2.svg",
+      "source_url": "https://www.takashimaya.co.jp/base/corp/common/img/f_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Takashimaya p f_logo div inner div footer2 div wrapper",
+      "content_type": "image/svg+xml",
+      "bytes": 8406,
+      "sha256": "e7e787a0f5d54d8fe4bc79b61aa892de5bbb39660777202fbc747000da33b3d6",
+      "width": 388,
+      "height": 67
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/takashimaya/reference-1.webp",
+      "source_url": "https://www.takashimaya.co.jp/base/corp/top/img/2024/message_img01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img span pc p image a li top-massage",
+      "content_type": "image/webp",
+      "bytes": 27258,
+      "sha256": "d8f0c4b97cbece2c04602d9ccfd08e754839652b03266d466ca6d93f54bb8499",
+      "width": 860,
+      "height": 410
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/takashimaya/reference-2.webp",
+      "source_url": "https://www.takashimaya.co.jp/base/corp/top/img/2024/message_img01_sp.jpg",
+      "source_tag": "img:page-image",
+      "context": "img span sp p image a li top-massage",
+      "content_type": "image/webp",
+      "bytes": 27584,
+      "sha256": "5bd2c1f714a050a98a2d15b44a57660484f057a1767198a419574b0067c67102",
+      "width": 690,
+      "height": 470
+    }
+  ]
+}

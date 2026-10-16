@@ -1,0 +1,57 @@
+{
+  "company": "아이리버",
+  "category": "가전_디바이스",
+  "requested_url": "https://www.iriver.co.kr/",
+  "page_url": "https://www.iriver.co.kr/",
+  "page_title": "IRIVER",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://cdn.iriver.co.kr/upload/20250901_b07c057a2f6b4496a9673e1c3b4b638d_0.jpg; reference:ValueError:https://cdn.iriver.co.kr/upload/20251222_0034b00f33514685a4d62316e79b7fb9_0.jpg; reference:ValueError:https://cdn.iriver.co.kr/upload/20250825_6022b6e1b4e94dec908abe1eb7892253_0.jpg; reference:ValueError:https://cdn.iriver.co.kr/upload/20250613_2c9e138436f6451fad04514d57dbe4eb_0.jpg; reference:ValueError:https://cdn.iriver.co.kr/upload/20260623_06cd3b04e9c74287aaa2e94289c64804_0.jpg; reference:ValueError:https://cdn.iriver.co.kr/upload/20260610_20b7ba0a56794d9896bb4aef6dcae7e0_0.jpg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/가전_디바이스/iriver/favicon.png",
+      "source_url": "https://www.iriver.co.kr/front/assets/images/favicon-32x32.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 952,
+      "sha256": "cb9501e0fcd443299afc49af04f745f4f64a9a6594387440bc83939d31ca7143",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/가전_디바이스/iriver/og.webp",
+      "source_url": "https://www.iriver.co.kr/front/assets/images/present_img.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 20842,
+      "sha256": "9ae157fcaaa772d87d035f3177d867b1a21c8a00035dd9f3d81a96c9cd5da390",
+      "width": 1000,
+      "height": 510
+    },
+    {
+      "type": "banner",
+      "path": "assets/가전_디바이스/iriver/banner-1.webp",
+      "source_url": "https://cdn.iriver.co.kr/upload/20230714_ec7f8cb1ffde48959e14e04b0f5f79c0_0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg d-none d-lg-block background-image: url(https://cdn.iriver.co.kr/upload/20230714_ec7f8cb1ffde48959e14e04b0f5f79c0_0.jpg); ",
+      "content_type": "image/webp",
+      "bytes": 36236,
+      "sha256": "894d253a0580c94b72fe4c317a9f146b1b1e68b8b1de6576e67bdc3b8a7fd352",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/가전_디바이스/iriver/reference-1.webp",
+      "source_url": "https://cdn.iriver.co.kr/upload/20230714_6b59acf805c7454bb28290531159aff4_0.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  bg d-lg-none background-image: url(https://cdn.iriver.co.kr/upload/20230714_6b59acf805c7454bb28290531159aff4_0.jpg); ",
+      "content_type": "image/webp",
+      "bytes": 19754,
+      "sha256": "c2faa438e94dfa8a37b4ecd3f06482d5942c042bbe6db257a9b11efdae3fbb18",
+      "width": 623,
+      "height": 1350
+    }
+  ]
+}

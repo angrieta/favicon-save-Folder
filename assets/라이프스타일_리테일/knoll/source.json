@@ -1,0 +1,58 @@
+{
+  "company": "Knoll",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://www.knoll.com/",
+  "page_url": "https://www.knoll.com/",
+  "page_title": "Knoll - Modern Furniture Design for the Office & Home",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/knoll/favicon.ico",
+      "source_url": "https://www.knoll.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "1efff182ac0a6473a98be87c702c26b97a101dc250e143863bb80d7d56b30662",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/knoll/logo-1.png",
+      "source_url": "https://www.knoll.com/images/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div div col-12 content-grid div row-flex div container-flex",
+      "content_type": "image/png",
+      "bytes": 1209,
+      "sha256": "b52a0a7082e77e4880501cc9e77cb870928dab7bab09493b5f870d5f056b7c0b",
+      "width": 148,
+      "height": 52
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/knoll/reference-1.webp",
+      "source_url": "https://www.knoll.com/nkdc/images/inline/knoll-shop-and-browse_new.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Shop Knoll Online div routing-block a div col-6 figure-grid splash-link div row-flex",
+      "content_type": "image/webp",
+      "bytes": 67518,
+      "sha256": "2eaa4e5cb22aaf81ab9ff4613d7ad33080540214c4362c0ba76f2ee630eba9cf",
+      "width": 800,
+      "height": 504
+    },
+    {
+      "type": "reference",
+      "path": "assets/라이프스타일_리테일/knoll/reference-2.webp",
+      "source_url": "https://www.knoll.com/nkdc/images/inline/knoll-design-and-plan_new.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Explore Knoll Workplace Solutions div routing-block a div col-6 figure-grid splash-link div row-flex",
+      "content_type": "image/webp",
+      "bytes": 46976,
+      "sha256": "5d927337587376a6ace20446adbf1d2694f5f3a2df39e2a83eda325b272db741",
+      "width": 800,
+      "height": 504
+    }
+  ]
+}

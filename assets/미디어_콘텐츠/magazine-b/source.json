@@ -1,0 +1,59 @@
+{
+  "company": "매거진 B",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://magazine-b.com/",
+  "page_url": "https://magazine-b.com/",
+  "page_title": "Magazine B",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/magazine-b/favicon.png",
+      "source_url": "https://magazine-b.com/web/baton/images/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1170,
+      "sha256": "f432c3b4a946ba6f822f6bcaff704d952af263e08264525260aacbf8043892d7",
+      "width": 57,
+      "height": 57
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/magazine-b/og.webp",
+      "source_url": "https://magazine-b.com/web/baton/images/seo_1.jpeg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 93924,
+      "sha256": "0b15ebc1bcb6cfe5e084947ccf4cccf0cbdb4cdfeb949120df72263049e76bff",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/magazine-b/logo-1.svg",
+      "source_url": "https://magazine-b.com/web/baton/images/header_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img black-logo a div navi-item logo div main-navi div container-fluid header-container",
+      "content_type": "image/svg+xml",
+      "bytes": 798,
+      "sha256": "f5d5dec082c3874970b665ddc14a50fa5f17774ca7f664549ff89a63235c84e8",
+      "width": 54,
+      "height": 61,
+      "source_sha256": "1ab3163b92f8430712596514ab9c1fef8632bc4617e79107d45ee46691bff840"
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/magazine-b/logo-2.svg",
+      "source_url": "https://magazine-b.com/web/baton/images/header_logo_white.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img white-logo a div navi-item logo div main-navi div container-fluid header-container",
+      "content_type": "image/svg+xml",
+      "bytes": 812,
+      "sha256": "c0abd36cd62223a367e73318de522a3a99e95dfa32b51170f62e66492d0857ea",
+      "width": 54,
+      "height": 61,
+      "source_sha256": "1c80b4bc8dee533bdd582441f8f68864f452863cbf42efa43adaf297849d2338"
+    }
+  ]
+}

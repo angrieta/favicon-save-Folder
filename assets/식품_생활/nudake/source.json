@@ -1,0 +1,33 @@
+{
+  "company": "누데이크",
+  "category": "식품_생활",
+  "requested_url": "https://www.nudake.com/kr/",
+  "page_url": "https://www.nudake.com/kr/",
+  "page_title": "NUDAKE Official Site",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.nudake.com/_next/static/chunks/webpack-eace7cb639b8360a.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/nudake/favicon.png",
+      "source_url": "https://www.nudake.com/_next/static/media/favicon.7dc0827a.ico?v=2",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 2513,
+      "sha256": "b3292fafab1ef0becd7df1ba33b5bfd359c342274518ae31f1800c87f14a0f3f",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/nudake/og.webp",
+      "source_url": "https://nudake-resource.nudake.com/assets/main/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 11938,
+      "sha256": "7fd394a03cc3b8fcf647d5fdbbe7a708b221fdc887ed6648a8f82f205b934e85",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

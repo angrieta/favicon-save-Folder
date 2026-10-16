@@ -1,0 +1,33 @@
+{
+  "company": "브랜디",
+  "category": "유통_커머스",
+  "requested_url": "https://www.brandi.co.kr",
+  "page_url": "https://www.brandi.co.kr/",
+  "page_title": "여성 패션 쇼핑앱 브랜디",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=1161187400597904&ev=Page_view&noscript=1; reference:ValueError:https://www.brandi.co.kr/static/23.11.01/fonts/SpoqaHanSans/SpoqaHanSansLight.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/brandi/favicon.png",
+      "source_url": "https://www.brandi.co.kr/static/23.11.01/images/favicons/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4377,
+      "sha256": "0335260f85db36f0be25dd2ca045ba83f4f1fe2b02f320db18c787530aad6fba",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/brandi/og.webp",
+      "source_url": "https://www.brandi.co.kr/static/23.11.01/images/og-brandi.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3016,
+      "sha256": "9e1155433163396855760f5eca89b37315cba35ceee105569a02fff89e1cf18f",
+      "width": 640,
+      "height": 320
+    }
+  ]
+}

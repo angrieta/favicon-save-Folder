@@ -1,0 +1,82 @@
+{
+  "company": "R/GA",
+  "category": "디자인_에이전시",
+  "requested_url": "https://www.rga.com",
+  "page_url": "https://www.rga.com/",
+  "page_title": "R/GA | We design intelligent brand systems that help businesses get ahead.",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.rga.com/_next/static/css/bdd7a8669371711c.css; reference:ValueError:https://www.rga.com/_next/static/css/b4bc83f3a2ff865e.css; reference:ValueError:https://www.rga.com/_next/static/css/da448da25b1254b2.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/디자인_에이전시/rga/favicon.ico",
+      "source_url": "https://www.rga.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "13d9a414b5ea5e30ab9a2cf84fcb96dfc0f0a645193ec35585e5045aa39d41ce",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/디자인_에이전시/rga/og.webp",
+      "source_url": "https://res.cloudinary.com/rga/image/upload/v1744214674/prod-strapi/METAHOMEPAGE_18e376679b.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 1704,
+      "sha256": "ba41d21377debbeba2744bdab9c5834cddc7cb1ba935ddf7708183a180c80cba",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/rga/logo-1.webp",
+      "source_url": "https://res.cloudinary.com/rga/image/upload/v1789588215/prod-strapi/Sequencer_KV_V6_Logo_1_d418005d7e.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div article a more-news_card__mbnhK li",
+      "content_type": "image/webp",
+      "bytes": 63272,
+      "sha256": "7f45fdf6380a89947a97055032aa65d5b069b195f49076cde506c363ab93cf1d",
+      "width": 1110,
+      "height": 1110
+    },
+    {
+      "type": "logo",
+      "path": "assets/디자인_에이전시/rga/logo-2.webp",
+      "source_url": "https://res.cloudinary.com/rga/image/upload/v1789589469/prod-strapi/Sequencer_Logo_1_73923d6fe9.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img div article a more-news_card__mbnhK li",
+      "content_type": "image/webp",
+      "bytes": 16516,
+      "sha256": "c7486e613d14b5a4047ab5e992ffa9272d667f0adc4c62f5ded44104215adde6",
+      "width": 1110,
+      "height": 1110
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/rga/reference-1.webp",
+      "source_url": "https://res.cloudinary.com/rga/image/upload/v1767822664/prod-strapi/full_leadership_preview_baaa6f4dc2.png",
+      "source_tag": "img:page-image",
+      "context": "img div article a more-news_card__mbnhK li",
+      "content_type": "image/webp",
+      "bytes": 53934,
+      "sha256": "04d709c61ec0a24868e5a40e639a5cb65bcad945a52418863c35231fde00342e",
+      "width": 1080,
+      "height": 1080,
+      "source_sha256": "283c3ee8f130aa1e165a7eb314c0bafba1fdc046cb46298a010ff91b02c2c415"
+    },
+    {
+      "type": "reference",
+      "path": "assets/디자인_에이전시/rga/reference-2.webp",
+      "source_url": "https://res.cloudinary.com/rga/image/upload/v1753209390/prod-strapi/addition_rga_c04102164a.webp",
+      "source_tag": "img:page-image",
+      "context": "img div article a more-news_card__mbnhK li",
+      "content_type": "image/webp",
+      "bytes": 13184,
+      "sha256": "9bfcefebea4e90754e4c50d4e35e8d6f1e3444b6f3f4b5defa9de492169cb46e",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

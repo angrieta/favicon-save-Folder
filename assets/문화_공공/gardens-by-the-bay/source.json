@@ -1,0 +1,117 @@
+{
+  "company": "Gardens by the Bay",
+  "category": "문화_공공",
+  "requested_url": "https://www.gardensbythebay.com.sg/",
+  "page_url": "https://www.gardensbythebay.com.sg/",
+  "page_title": "Gardens by the Bay",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.gardensbythebay.com.sg/content/dam/gbb-2021/videos/home/2024-GB-Branding-Video-superless-website.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/gardens-by-the-bay/favicon.png",
+      "source_url": "https://www.gardensbythebay.com.sg/etc.clientlibs/gbb-2021/clientlibs/clientlib-site/resources/images/favicons/apple-touch-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8267,
+      "sha256": "beadf84583dc52935d263520b2d6e55781f89a4114cb5444e9c86b877902ad71",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/gardens-by-the-bay/og.webp",
+      "source_url": "https://gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/attractions/supertree-grove/main/supertree-grove-main.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 202978,
+      "sha256": "23601cb39fb39bfe533f785133c0071e11527cb32af4bccb60b522584b654bab",
+      "width": 1200,
+      "height": 675
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/gardens-by-the-bay/logo-1.png",
+      "source_url": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/test/GBTB_white_landscape_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img nav-logo__image collapsed Gardens by the Bay a nav-link nav-logo div nav-group div nav-groups container div main-navbar",
+      "content_type": "image/png",
+      "bytes": 21384,
+      "sha256": "bc6739f35eb6098789b6d2aa32278029a7fb6f1e91b50844949829606a5282bd",
+      "width": 615,
+      "height": 191
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/gardens-by-the-bay/logo-2.png",
+      "source_url": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/test/GBTB_grey_landscape_logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img nav-logo__image Gardens by the Bay a nav-link nav-logo div nav-group div nav-groups container div main-navbar",
+      "content_type": "image/png",
+      "bytes": 20357,
+      "sha256": "b20429db496f06db1079d3de85f7e1432743119d45f791e738471f403640bb2d",
+      "width": 615,
+      "height": 191
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/gardens-by-the-bay/banner-1.webp",
+      "source_url": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/banners/susnew-full-width-banner-1920x600.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  background background-image:url('/content/dam/gbb-2021/image/things-to-do/banners/susnew-full-width-banner-1920x600.jpg');",
+      "content_type": "image/webp",
+      "bytes": 229850,
+      "sha256": "a75bf7cc13225000adbcac16b3755e6dc92c8aa0a93e6f3b20caf30cc411143a",
+      "width": 1800,
+      "height": 563
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/gardens-by-the-bay/banner-2.webp",
+      "source_url": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/attractions/propnex-family-zone/1920x1080-propnex-family-zone.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  grid--bg background-image:url('/content/dam/gbb-2021/image/things-to-do/attractions/propnex-family-zone/1920x1080-propnex-family-zone.jpg')",
+      "content_type": "image/webp",
+      "bytes": 342632,
+      "sha256": "10851b94c27666a3eb4890011a9f2b0a011e66e02c7b420a4ea265fb8948f6a5",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/gardens-by-the-bay/reference-1.webp",
+      "source_url": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/attractions/cloud-forest/main/cloud-forest-night-main.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  grid--bg background-image:url('/content/dam/gbb-2021/image/things-to-do/attractions/cloud-forest/main/cloud-forest-night-main.jpg')",
+      "content_type": "image/webp",
+      "bytes": 603172,
+      "sha256": "3f872546c9f07d5f5a3b90c00ba700f8e4f265ddcd8edb05624eacbdb5a4e656",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/gardens-by-the-bay/reference-2.webp",
+      "source_url": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/attractions/floral-fantasy/main/floral-fantasy-main.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  grid--bg background-image:url('/content/dam/gbb-2021/image/things-to-do/attractions/floral-fantasy/main/floral-fantasy-main.jpg')",
+      "content_type": "image/webp",
+      "bytes": 777586,
+      "sha256": "9b4289a014d7b386f6aa7e43c739424b9f7881e3c17f0838776448561cb61b82",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/gardens-by-the-bay/reference-3.webp",
+      "source_url": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/attractions/flower-dome/main/flower-dome-main.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  grid--bg background-image:url('/content/dam/gbb-2021/image/things-to-do/attractions/flower-dome/main/flower-dome-main.jpg')",
+      "content_type": "image/webp",
+      "bytes": 758522,
+      "sha256": "32cbe8f37c52a707e8c19af210833d9928979423989b42b2e591b4781d28caec",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

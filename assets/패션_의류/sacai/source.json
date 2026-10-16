@@ -1,0 +1,117 @@
+{
+  "company": "Sacai",
+  "category": "패션_의류",
+  "requested_url": "https://www.sacai.jp",
+  "page_url": "https://www.sacai.jp/",
+  "page_title": "sacai Official Store サカイ オフィシャル",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://cdn.shopify.com/extensions/01a0c9b1-b536-7817-99bb-85cdbd32be4f/wishlist-hero-95/assets/default.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/sacai/favicon.png",
+      "source_url": "https://www.sacai.jp/cdn/shop/files/sacai_favicon.png?crop=center&height=180&v=1765416258&width=180",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 8121,
+      "sha256": "889d12bdc2035b5a7599d4dc6f66c4a82929f8c01790100b104862c7fece0cbe",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/sacai/og.webp",
+      "source_url": "http://www.sacai.jp/cdn/shop/files/sacai_logo_sns.png?v=1739847323&width=2048",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 5018,
+      "sha256": "a3713901126d972405bbdbabc24f87316230f962378c1c252519e0f829c4a63d",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/sacai/logo-1.svg",
+      "source_url": "https://www.sacai.jp/cdn/shop/files/sacai_2.svg?v=1729223728&width=550",
+      "source_tag": "img:semantic-logo",
+      "context": "img header__logo-image a header__logo-anchor h1 header__logo x-header header color-scheme color-scheme--scheme-2 height-observer",
+      "content_type": "image/svg+xml",
+      "bytes": 3291,
+      "sha256": "a6fd08e78456404b19d7669ddb3c33a84f7db28a2117a06679efa8325170f1f9",
+      "width": 550,
+      "height": 125
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/sacai/logo-2.svg",
+      "source_url": "https://cdn.shopify.com/static/images/flags/ci.svg?format=jpg&width=60",
+      "source_tag": "img:semantic-logo",
+      "context": "img country-flag コートジボワール button popover__value-option h-stack gap-2.5 x-listbox popover__value-list input input",
+      "content_type": "image/svg+xml",
+      "bytes": 758,
+      "sha256": "d26a3dee2fb17de23df26ec85412bfbb28bbfeb82a67ed0f10529a819e652530",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/sacai/banner-1.webp",
+      "source_url": "https://www.sacai.jp/cdn/shop/files/AW26-Main-1st-Webbanner.jpg?v=1787801688&width=4758",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div content-over-media content-over-media--auto text-under-image a slideshow__slide is-selected slideshow-carousel carousel-template--21144592056355__slideshow_38EaHh slideshow display-pc-only section shopify-section-template--21144",
+      "content_type": "image/webp",
+      "bytes": 145796,
+      "sha256": "b27045f217994a51cd21eb33638162db14fd72200257ea0052addde243dff510",
+      "width": 1800,
+      "height": 842
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/sacai/banner-2.webp",
+      "source_url": "https://www.sacai.jp/cdn/shop/files/AW26-Main-1st-Webbanner.jpg?v=1787801688&width=3200",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div content-over-media content-over-media--auto text-under-image a slideshow__slide is-selected slideshow-carousel carousel-template--21144592056355__slideshow_38EaHh slideshow display-pc-only section shopify-section-template--21144",
+      "content_type": "image/webp",
+      "bytes": 144446,
+      "sha256": "20de3ed2ce23b08ef90f7147313158652fdf9a2eae14b784ad563cf125088663",
+      "width": 1800,
+      "height": 842
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/sacai/reference-1.webp",
+      "source_url": "https://www.sacai.jp/cdn/shop/files/AW26-Main-1st-Webbanner.jpg?v=1787801688&width=3000",
+      "source_tag": "picture:page-image",
+      "context": "picture div content-over-media content-over-media--auto text-under-image a slideshow__slide is-selected slideshow-carousel carousel-template--21144592056355__slideshow_38EaHh slideshow display-pc-only section shopify-section-template--21144",
+      "content_type": "image/webp",
+      "bytes": 143888,
+      "sha256": "c37d8c10b0d4f1fcb1c3aedde4550201d8713c1b51fa19a037f1ac7c76fbe3bd",
+      "width": 1800,
+      "height": 842
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/sacai/reference-2.webp",
+      "source_url": "https://www.sacai.jp/cdn/shop/files/AW26-Main-2nd-Toptile-New-women.jpg?v=1789617107&width=3200",
+      "source_tag": "img:page-image",
+      "context": "img zoom-image group-hover:zoom a overflow-hidden div multi-column__item snap-center group multi-column multi-column div section-stack",
+      "content_type": "image/webp",
+      "bytes": 67190,
+      "sha256": "4dd8f3841716bda8b1de4e1d7e49a05081f188ceb9dd50324d67baa401fc6403",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/sacai/reference-3.webp",
+      "source_url": "https://www.sacai.jp/cdn/shop/files/AW26-Main-2nd-Toptile-New-women.jpg?v=1789617107&width=1800",
+      "source_tag": "img:page-image",
+      "context": "img zoom-image group-hover:zoom a overflow-hidden div multi-column__item snap-center group multi-column multi-column div section-stack",
+      "content_type": "image/webp",
+      "bytes": 66942,
+      "sha256": "9c565ea22aab29f985a8c7bb127bf9454e04704732017e874153632e3fd7e82a",
+      "width": 1080,
+      "height": 1350
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "company": "bilibili",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.bilibili.com/",
+  "page_url": "https://www.bilibili.com/",
+  "page_title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/bilibili/favicon.png",
+      "source_url": "https://i0.hdslb.com/bfs/static/jinkela/long/images/512.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 32066,
+      "sha256": "c7da6e6e166b6ec93865c4361088837de53a2cbf30f2231b369e93a4be65e057",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/bilibili/logo-1.png",
+      "source_url": "https://i0.hdslb.com/bfs/archive/27cc73b1eb44368966ceca7583d41ec04c43375e.png@3840w_360h_1c.avif?mirror_report_banner=1",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture bili-header-banner-img v-img banner-img div bili-header__banner div bili-header bili-header--large div bili-feed4 div app",
+      "content_type": "image/png",
+      "bytes": 374033,
+      "sha256": "191c73a86bfdaec11866359ab0e6021c6924f13fec77173bcd45e8b60367ab78",
+      "width": 1600,
+      "height": 150
+    },
+    {
+      "type": "logo",
+      "path": "assets/미디어_콘텐츠/bilibili/logo-2.png",
+      "source_url": "https://i0.hdslb.com/bfs/archive/27cc73b1eb44368966ceca7583d41ec04c43375e.png@3840w_360h_1c.webp?mirror_report_banner=1",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture bili-header-banner-img v-img banner-img div bili-header__banner div bili-header bili-header--large div bili-feed4 div app",
+      "content_type": "image/png",
+      "bytes": 388733,
+      "sha256": "1ebd206a540ce311444adeaac8fa06d34ac72792d975a524ba95fc8ccd3cce08",
+      "width": 1600,
+      "height": 150
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/bilibili/banner-1.webp",
+      "source_url": "https://i0.hdslb.com/bfs/archive/27cc73b1eb44368966ceca7583d41ec04c43375e.png@3840w_360h_1c?mirror_report_banner=1",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture bili-header-banner-img v-img banner-img div bili-header__banner div bili-header bili-header--large div bili-feed4 div app",
+      "content_type": "image/webp",
+      "bytes": 56064,
+      "sha256": "f5a330bc3e920acc8dcac7dfa6a02174d4a0f6b157cc238bc142d77828f31c8d",
+      "width": 1800,
+      "height": 169
+    },
+    {
+      "type": "banner",
+      "path": "assets/미디어_콘텐츠/bilibili/banner-2.webp",
+      "source_url": "https://i0.hdslb.com/bfs/banner/76834191c23e3692beb629d492c439ab92343eee.png@976w_550h_!web-home-carousel-cover.avif?mirror_report_swipe=1",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture v-img carousel-inner__img a carousel-item div carousel-area-img div carousel-area div vui_carousel__slide vui_carousel__slide--prev",
+      "content_type": "image/webp",
+      "bytes": 112716,
+      "sha256": "5c3fe4924fa1919cacae557284a89da6eddf67c25f2cf27d197b41a400827e1d",
+      "width": 976,
+      "height": 549
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/bilibili/banner-2.webp",
+      "source_url": "https://i0.hdslb.com/bfs/banner/76834191c23e3692beb629d492c439ab92343eee.png@976w_550h_!web-home-carousel-cover.webp?mirror_report_swipe=1",
+      "source_tag": "picture:page-image",
+      "context": "picture v-img carousel-inner__img a carousel-item div carousel-area-img div carousel-area div vui_carousel__slide vui_carousel__slide--prev",
+      "content_type": "image/webp",
+      "bytes": 112716,
+      "sha256": "5c3fe4924fa1919cacae557284a89da6eddf67c25f2cf27d197b41a400827e1d",
+      "width": 976,
+      "height": 549,
+      "reused_from": "banner"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/bilibili/reference-2.webp",
+      "source_url": "https://i0.hdslb.com/bfs/banner/76834191c23e3692beb629d492c439ab92343eee.png@976w_550h_!web-home-carousel-cover?mirror_report_swipe=1",
+      "source_tag": "picture:page-image",
+      "context": "picture v-img carousel-inner__img a carousel-item div carousel-area-img div carousel-area div vui_carousel__slide vui_carousel__slide--prev",
+      "content_type": "image/webp",
+      "bytes": 150388,
+      "sha256": "b1a9de940f8e17b7b33ec594ee54ce519f08fd4c1bdded12528eeb0017196248",
+      "width": 976,
+      "height": 549
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/bilibili/reference-3.webp",
+      "source_url": "https://i1.hdslb.com/bfs/archive/8e17622470290bab761fe468353fe9fe773f1826.jpg@672w_378h_1c_!web-home-common-cover.avif",
+      "source_tag": "picture:page-image",
+      "context": "picture v-img bili-video-card__cover div bili-video-card__image--wrap div bili-video-card__image a bili-video-card__image--link div bili-video-card__wrap",
+      "content_type": "image/webp",
+      "bytes": 33102,
+      "sha256": "5ac07354e8c386d324bc8138b9e4e7c4b203fcac9133ed95f1e0af057464501b",
+      "width": 672,
+      "height": 378
+    }
+  ]
+}

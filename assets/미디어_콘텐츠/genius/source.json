@@ -1,0 +1,22 @@
+{
+  "company": "Genius",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://genius.com/",
+  "page_url": "https://genius.com/",
+  "page_title": "Genius",
+  "collection_status": "page-error",
+  "collection_error": "HTTPError: 403 Client Error: Forbidden for url: https://genius.com/",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/genius/favicon.ico",
+      "source_url": "https://genius.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 23288,
+      "sha256": "97240a52f45f87bd36fac8737af39ef8d6cdb046e9dba74303b26d7eca6514c0",
+      "width": 256,
+      "height": 256
+    }
+  ]
+}

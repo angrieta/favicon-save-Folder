@@ -1,0 +1,70 @@
+{
+  "company": "화요",
+  "category": "식품_생활",
+  "requested_url": "https://www.hwayo.com/",
+  "page_url": "https://hwayo.com/",
+  "page_title": "intro - 화요",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/hwayo/favicon.png",
+      "source_url": "https://hwayo.com/wp-content/uploads/2019/09/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 4513,
+      "sha256": "f9f4af1ccfa059e49b1f8393aef2f38dae7a2e28fa183c0190b31e31e50b7c26",
+      "width": 99,
+      "height": 99
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/hwayo/og.webp",
+      "source_url": "https://hwayo.com/wp-content/uploads/2019/12/화요5종-단체컷_1-1024x768.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 18106,
+      "sha256": "10b1b42534aad56327cb7f67368798beaaee6342f7148d4deacaca0d5218d1d2",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/hwayo/og.webp",
+      "source_url": "https://hwayo.com/wp-content/uploads/2019/12/화요5종-단체컷_1-1024x768.jpg",
+      "source_tag": "json-ld.@graph[3].logo.url",
+      "content_type": "image/webp",
+      "bytes": 18106,
+      "sha256": "10b1b42534aad56327cb7f67368798beaaee6342f7148d4deacaca0d5218d1d2",
+      "width": 1024,
+      "height": 768,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/hwayo/logo-2.svg",
+      "source_url": "https://hwayo.com/wp-content/uploads/2019/08/logo-black.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img attachment-full size-full wp-image-959 a div elementor-widget-container div elementor-element elementor-element-735b4b7 logo elementor-widget__width-auto elementor-hidden-phone elementor-widget elementor-widget-image div elementor-widge",
+      "content_type": "image/svg+xml",
+      "bytes": 57526,
+      "sha256": "4c7683ecb11cbfb8d4318ee3a0f5d1a0798e570d67f145660be64999bde71596",
+      "width": 678,
+      "height": 694
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/hwayo/reference-1.svg",
+      "source_url": "https://hwayo.com/wp-content/uploads/2019/08/logo-white.svg",
+      "source_tag": "img:page-image",
+      "context": "img div elementor-widget-container div elementor-element elementor-element-ecfdeea logo elementor-widget elementor-widget-image div elementor-widget-wrap elementor-element-populated div elementor-column elementor-col-20 elementor-inner-colu",
+      "content_type": "image/svg+xml",
+      "bytes": 58150,
+      "sha256": "ecf73ea9ca641a62d2cd261c8e634714206ba36852dec9069b4540d46909158a",
+      "width": 678,
+      "height": 694
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "company": "Prudential",
+  "category": "금융",
+  "requested_url": "https://www.prudential.com",
+  "page_url": "https://www.prudential.com/",
+  "page_title": "Invest, Insure, Retire and Plan | Prudential Financial",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/금융/prudential/favicon.ico",
+      "source_url": "https://www.prudential.com/etc.clientlibs/pru/clientlibs/clientlib-site/resources/images/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 3638,
+      "sha256": "7cf896547d0fb2906f1bdabb6ac3aee08c63ab457a3b4ec03eda27d87314d390",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/prudential/logo-1.png",
+      "source_url": "https://www.prudential.com/content/dam/cookie-banner/privacyoptions.jpg",
+      "source_tag": "img:semantic-logo",
+      "context": "img your_privacy_logo Your Privacy Choices a banner-link-to-pref-centre li d-block d-lg-inline-block mr-lg-5 mt-2 ul list-unstyled m-0 help-links div col-12 col-lg-9",
+      "content_type": "image/png",
+      "bytes": 18784,
+      "sha256": "ce9f37adf2140b54c9127ab47f5e8fbc4a94f116109db681a64a99da96a4286b",
+      "width": 730,
+      "height": 350
+    },
+    {
+      "type": "logo",
+      "path": "assets/금융/prudential/logo-2.svg",
+      "source_url": "https://www.prudential.com/content/dam/pru/mega-menu-spotlights/personal/personal_insurance.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img img-responsive div d-flex flex-column text-editor evo-top-navigation div pru-header app-js__mega-menu-top-nav div grid-container__top-nav",
+      "content_type": "image/svg+xml",
+      "bytes": 22713,
+      "sha256": "2aec1fc1716799cc6f218099835896e2ce62c48e7e987664fc481a9379502e3a",
+      "width": 286,
+      "height": 171,
+      "source_sha256": "d61c785ecf2387643fbd044a3ac863b03f0674fc8359074670553c4123fed43b"
+    },
+    {
+      "type": "banner",
+      "path": "assets/금융/prudential/logo-1.png",
+      "source_url": "https://www.prudential.com/content/dam/cookie-banner/privacyoptions.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img your_privacy_logo Your Privacy Choices a banner-link-to-pref-centre li d-block d-lg-inline-block mr-lg-5 mt-2 ul list-unstyled m-0 help-links div col-12 col-lg-9",
+      "content_type": "image/png",
+      "bytes": 18784,
+      "sha256": "ce9f37adf2140b54c9127ab47f5e8fbc4a94f116109db681a64a99da96a4286b",
+      "width": 730,
+      "height": 350,
+      "reused_from": "logo"
+    },
+    {
+      "type": "reference",
+      "path": "assets/금융/prudential/reference-1.webp",
+      "source_url": "https://prudential.scene7.com/is/image/prudential/Product-section?$pruImageComponent$&fmt=png-alpha",
+      "source_tag": "img:page-image",
+      "context": "img cmp-image__image image div image-c18b974e52 cmp-image &#xa; div image div col-lg-4 col-control col-12 div row rt-md",
+      "content_type": "image/webp",
+      "bytes": 100016,
+      "sha256": "4a97b124c0b59b30c59d973dc4339d42a35f91ad0b7522a129a51ddb7823d29d",
+      "width": 1280,
+      "height": 1234
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "company": "산산기어",
+  "category": "패션_의류",
+  "requested_url": "https://sansangear.com",
+  "page_url": "https://sansangear.com/",
+  "page_title": "SAN SAN GEAR",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://sansangear.com/cdn/shop/videos/c/vp/cef984efd9ee4113a3ddcac04ff0265f/cef984efd9ee4113a3ddcac04ff0265f.HD-1080p-7.2Mbps-94716879.mp4?v=0",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/san-san-gear/favicon.png",
+      "source_url": "https://sansangear.com/cdn/shop/files/logo.png?crop=center&height=32&v=1781178370&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 1621,
+      "sha256": "e29f2345dfdb82b6c6b031cc355d0bc9e7ac445fe5bcf0f9e1049068c9ca5ced",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/san-san-gear/logo-1.svg",
+      "source_url": "https://sansangear.com/cdn/shop/files/logo.svg?v=1756124430&width=500",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 3897,
+      "sha256": "cf144d0033caf491dbb1c116ed2a0c59537c4ae6db7c29d83474d4ff32407cf2",
+      "width": 200,
+      "height": 12,
+      "source_sha256": "73a3feaac5374b03a8a204da0c2a213648104882f9408a3fc3d16696d7c4dfe2"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/san-san-gear/reference-1.webp",
+      "source_url": "https://sansangear.com/cdn/shop/files/SAN-SAN-GEAR-FW26---_CABLE_-collection-lookbookFirst-Release---2026.08.24-_MON_Second-Release----3.jpg?v=1787142216&width=2000",
+      "source_tag": "img:page-image",
+      "context": "img div media a box nx div item i--1 w-5 v-1 div in grid",
+      "content_type": "image/webp",
+      "bytes": 26226,
+      "sha256": "88d1884a5c73e52dd4172e36e122b44f49df896ebf3acd93d35b7d4744a84130",
+      "width": 1013,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/san-san-gear/reference-2.webp",
+      "source_url": "https://sansangear.com/cdn/shop/files/11_08c95b70-b049-44e5-8ba6-960484a0019d.jpg?v=1787164915&width=2000",
+      "source_tag": "img:page-image",
+      "context": "img div media a box nx div item i--1 w-3 v-1 div in grid",
+      "content_type": "image/webp",
+      "bytes": 333886,
+      "sha256": "7fcd9a4de47e5942caec55d4ec87bfd295320c661b604dc7db7464594a38c6ab",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "a17d92f219ecae28873cd28d20027d40f738128d30e563330e1e025a0f6d69b5"
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/san-san-gear/reference-3.webp",
+      "source_url": "https://sansangear.com/cdn/shop/files/11_08c95b70-b049-44e5-8ba6-960484a0019d.jpg?v=1787164915&width=1920",
+      "source_tag": "img:page-image",
+      "context": "img div media a box nx div item i--1 w-3 v-1 div in grid",
+      "content_type": "image/webp",
+      "bytes": 330928,
+      "sha256": "61cf8f8b6409cc80c954f7c1d505ef414c9c39cf171e3cc9135dcb498cc38f02",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "5a9d5fd87df689136beba57b3c4c0de7a67112dc65562d8a6038e0196b378abf"
+    }
+  ]
+}

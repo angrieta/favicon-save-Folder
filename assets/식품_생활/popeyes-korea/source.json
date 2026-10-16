@@ -1,0 +1,83 @@
+{
+  "company": "Popeyes",
+  "category": "식품_생활",
+  "requested_url": "https://www.popeyes.co.kr/",
+  "page_url": "https://www.popeyes.co.kr/",
+  "page_title": "파파이스",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/popeyes-korea/favicon.png",
+      "source_url": "https://popeyes.co.kr/theme/basic/images/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 616,
+      "sha256": "693a91be66b1c175a158f9c9b3e6db9bdd49b556733ae69adee71f52e3771a1a",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/popeyes-korea/banner-1.webp",
+      "source_url": "https://popeyes.co.kr/data/file/banner/1785037262_jMrug6Xb_42dc0cfbb9079011cfde3710c883405f11308e73.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img div swiper-slide vis div swiper-wrapper div vis div wrap",
+      "content_type": "image/webp",
+      "bytes": 69532,
+      "sha256": "c4745c1a26c0d7b04acce42bb7eccc184de2321d3845b6c6587d3d63e6d24b4a",
+      "width": 1600,
+      "height": 600,
+      "source_sha256": "f685d832e9561bf9302490e1871b7aa76085e1e213824fb96209c21cf667b786"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/popeyes-korea/banner-2.webp",
+      "source_url": "https://popeyes.co.kr/data/file/banner/3698713134_1ApEjdFZ_a893a332be1195758ab071ba699165cc7a311284.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img div swiper-slide vis div swiper-wrapper div vis div wrap",
+      "content_type": "image/webp",
+      "bytes": 79900,
+      "sha256": "ffff373c98d4f0d301a99b2ca0d735d57878c303f686986231589321f76e028a",
+      "width": 1800,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/popeyes-korea/reference-1.webp",
+      "source_url": "https://popeyes.co.kr/data/file/banner/3698713134_9tVz1CU7_29e339e9888e4b80e1145fc7cec82d2fddbad03a.png",
+      "source_tag": "img:page-image",
+      "context": "img div swiper-slide vis div swiper-wrapper div vis div wrap",
+      "content_type": "image/webp",
+      "bytes": 87440,
+      "sha256": "09ee8d4743e472cd9d81cc43338fa557819cd076b54bf800188ebe324c4c17b6",
+      "width": 1800,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/popeyes-korea/reference-2.webp",
+      "source_url": "https://popeyes.co.kr/data/file/banner/3698713134_avpbG0O5_4e4aa4f2fbf28075c880ecfd27c2553558e492d3.png",
+      "source_tag": "img:page-image",
+      "context": "img div swiper-slide vis div swiper-wrapper div vis div wrap",
+      "content_type": "image/webp",
+      "bytes": 100328,
+      "sha256": "e0dd184dc8c755a47516bb50d54a161ad13779e919d6882d89367cbea022d4e9",
+      "width": 1800,
+      "height": 675
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/popeyes-korea/reference-3.webp",
+      "source_url": "https://popeyes.co.kr/data/file/banner/3698713134_zk7dEqAi_48a27ec98203e7319e9684484fd970acf3990a67.png",
+      "source_tag": "img:page-image",
+      "context": "img div swiper-slide vis div swiper-wrapper div vis div wrap",
+      "content_type": "image/webp",
+      "bytes": 107624,
+      "sha256": "a7bdefd39651653e46698d260e5c554e3c80e833372206434210ee5ece7d77e8",
+      "width": 1800,
+      "height": 675
+    }
+  ]
+}

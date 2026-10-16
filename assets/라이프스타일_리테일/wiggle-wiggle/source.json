@@ -1,0 +1,57 @@
+{
+  "company": "위글위글",
+  "category": "라이프스타일_리테일",
+  "requested_url": "https://wiggle-wiggle.com/",
+  "page_url": "https://wiggle-wiggle.com/",
+  "page_title": "wiggle wiggle",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://wiggle-wiggle.com/%7B; reference:HTTPError:https://wiggle-wiggle.com/%7B",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/라이프스타일_리테일/wiggle-wiggle/favicon.ico",
+      "source_url": "https://wiggle-wiggle.com/web/upload/favicon-632c4ff6a0e138a2def9876c656a17dd.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 1150,
+      "sha256": "dc1eb1a2e514c7418797590fb8ddc58dab8f2d226f93a410eb1629b18b92cfae",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/라이프스타일_리테일/wiggle-wiggle/og.webp",
+      "source_url": "https://wiggle-wiggle.com/web/upload/share-image-1-6d2567c99bc7099663cbf7a70e686bd9.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 12218,
+      "sha256": "8c1239376483e66980307ce32cc4d356d2ab43ec665c5ed3195d50f9f6b4374e",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/wiggle-wiggle/logo-1.png",
+      "source_url": "https://cfvodi.itsmile.net/tos-vod-bp-mya-v-cd4c80f17db3434e/wiggle-cafe24/web/renewal/common/logo/EVENT.png~tplv-vod-noop.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img EVENT a li hv_event ul nav brand_cate-list",
+      "content_type": "image/png",
+      "bytes": 84884,
+      "sha256": "dbdff79e9fdbb03f14807098f35dffb43015d06528d73915f50dbf5e98b73e13",
+      "width": 648,
+      "height": 647
+    },
+    {
+      "type": "logo",
+      "path": "assets/라이프스타일_리테일/wiggle-wiggle/logo-2.webp",
+      "source_url": "https://cfvodi.itsmile.net/tos-vod-bp-mya-v-cd4c80f17db3434e/wiggle-cafe24/web/renewal/common/logo/toss-payments-logo.png~tplv-vod-noop.webp",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div payment-badges div footer-bottom div contents-wrap",
+      "content_type": "image/webp",
+      "bytes": 1464,
+      "sha256": "01e795b8f0a99628976762b326c66496c5d1d9a5a3e05dc5c735f04b54b4bcb1",
+      "width": 110,
+      "height": 55
+    }
+  ]
+}

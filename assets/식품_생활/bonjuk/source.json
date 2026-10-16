@@ -1,0 +1,59 @@
+{
+  "company": "본죽",
+  "category": "식품_생활",
+  "requested_url": "https://www.bonif.co.kr/",
+  "page_url": "https://www.bonif.co.kr/",
+  "page_title": "본아이에프",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=411821919620895&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/bonjuk/favicon.png",
+      "source_url": "https://www.bonif.co.kr/static/assets/favicon.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 439,
+      "sha256": "50e5b77378940e01ab7b019a0e02e0a26cc6df47ed5e4b9a6748f891c3332d2f",
+      "width": 16,
+      "height": 16
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/bonjuk/og.webp",
+      "source_url": "https://www.bonif.co.kr/static/assets/images/common/bi/p/ci.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 838,
+      "sha256": "2b079bd735d072cc84dfea7b693f765b77a4e9f9cac6b516cb4e1836454c5769",
+      "width": 460,
+      "height": 260
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bonjuk/logo-1.svg",
+      "source_url": "https://www.bonif.co.kr/assets/web/front/assets/images/main/main_brand_logo1.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div logo-area div sub-tit-area div slide-list slide1 active div all-slide-wrap",
+      "content_type": "image/svg+xml",
+      "bytes": 19051,
+      "sha256": "c91d6475f172b4c5d483cac6e6fb3820fde246e40c614e5d54c285f0317d8496",
+      "width": 362,
+      "height": 65,
+      "source_sha256": "36a90029fe31197045c8f72d52abf2a3da485178bbdc2d243dfa22ca3aeb3ac6"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/bonjuk/logo-2.svg",
+      "source_url": "https://www.bonif.co.kr/assets/web/front/assets/images/main/main_brand_logo2.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img div logo-area div sub-tit-area div slide-list slide2 div all-slide-wrap",
+      "content_type": "image/svg+xml",
+      "bytes": 4608,
+      "sha256": "b200530dfb222b267be8094d5e15749187d1c3d55f9abb2a2c7d1f4cb1df0259",
+      "width": 135,
+      "height": 68,
+      "source_sha256": "261fba059c4e064807d3b51987d50ab5a0aa8351b2ea4545f3b3f1b8380e7952"
+    }
+  ]
+}

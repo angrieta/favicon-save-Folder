@@ -1,0 +1,59 @@
+{
+  "company": "Payoneer",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.payoneer.com/ko/",
+  "page_url": "https://www.payoneer.com/ko/",
+  "page_title": "디지털 상거래를 위한 온라인 결제 플랫폼 - Payoneer",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.payoneer.com/wp-includes/css/dist/block-library/style.min.css?ver=7.1; reference:ValueError:https://www.payoneer.com/wp-content/themes/payo/dist/js/vendors/onetrust/oneTrust_production/scripttemplates/otSDKStub.js?v=16.9; reference:ValueError:https://pubs.payoneer.com/fonts/AvenirNextWorld-Demi.woff2; reference:ValueError:https://pubs.payoneer.com/fonts/AvenirNextWorld-Regular.woff2; reference:ValueError:https://pubs.payoneer.com/fonts/AvenirNextWorld-Medium.woff2; reference:ValueError:https://pubs.payoneer.com/fonts/Payoneer-Level-One.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/payoneer/favicon.png",
+      "source_url": "https://www.payoneer.com/wp-content/themes/payo/assets/img/favicons/android-icon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 12759,
+      "sha256": "feb3da9f76bafa871c8815ec4d507665f8c9dc860b54012f1fcad044ea90d9ba",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/payoneer/og.webp",
+      "source_url": "https://www.payoneer.com/wp-content/uploads/payoneer-share.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 13720,
+      "sha256": "607d8b27a164b98195a84cd8cce9a63e0e928854c89e66232852332878013dca",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/payoneer/logo-1.svg",
+      "source_url": "https://www.payoneer.com/wp-content/themes/payo/assets/img/payoneer-dark-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Payoneer a custom-logo-link dark div site-branding header-logo flex-fill div d-flex align-items-center flex-fill div d-flex align-items-center me-auto",
+      "content_type": "image/svg+xml",
+      "bytes": 25097,
+      "sha256": "db50e3f256fd480b17e61b2a10f19f809f3d0a90af4853588cc2ad5dd5fa15bf",
+      "width": 631,
+      "height": 122,
+      "source_sha256": "b483b57dcd1d5899ecce20459e305d2e4b34a467ee54e863827144f584191df3"
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/payoneer/logo-2.svg",
+      "source_url": "https://www.payoneer.com/wp-content/themes/payo/assets/img/companies/ebay-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Home Home - ebay logo figure company-logo div slider-container slide-transition logos-carousel overflow-hidden py-0 carousel block_6693d65ac75e3d2a7f62d5c61f15a53e div block_6693d65ac75e3d2a7f62d5c61f15a53e slider-wrapper div wp-block-g",
+      "content_type": "image/svg+xml",
+      "bytes": 2164,
+      "sha256": "cdce96ca1144a29564396e3157c6c99a1ce1fc2272c565e985e1e06e063f11ff",
+      "width": 150,
+      "height": 50,
+      "source_sha256": "c47a493853665f3daf9be13d785d101e1944bcebc72233700d4c0a2536bb5d5f"
+    }
+  ]
+}

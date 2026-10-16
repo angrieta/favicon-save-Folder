@@ -1,0 +1,45 @@
+{
+  "company": "조선일보",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.chosun.com/",
+  "page_url": "https://www.chosun.com/",
+  "page_title": "조선일보 - 1등 디지털뉴스",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.chosun.com/pf/resources/dist/chosun/css/style.css?d=2397",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/chosun-ilbo/favicon.png",
+      "source_url": "https://www.chosun.com/pf/resources/icons/favicon_chosun.png?d=2397",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 22220,
+      "sha256": "7e47fa531e4a4aef76b389b9b2e72f9a944f9155f691defa19aa6fb572702a63",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/chosun-ilbo/og.webp",
+      "source_url": "https://www.chosun.com/pf/resources/images/thumb_meta.png?d=2397",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 7870,
+      "sha256": "19680f2c8913e71eb36d34a70873629bebe2b3bb5b098ce083722af9692f34b0",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/chosun-ilbo/reference-1.webp",
+      "source_url": "https://www.chosun.com/resizer/v2/3PMYKW72KRDY7IRKATGIVXXHYM.gif?auth=b726e8adfd726063c66c751c3c6728f15165d2977fb92a17b122ade3aab3712e&width=400&height=400&smart=true",
+      "source_tag": "img:page-image",
+      "context": "img box--display-block 부캉이, 부산에 정들었나... 물대포 맞고도 안 떠났다 a 부캉이, 부산에 정들었나... 물대포 맞고도 안 떠났다 div article-print-sty2 | width--100 height--100 box--position-absolute box--position-absolute-top box--position-absolute-left div article-print-sty1 | bo",
+      "content_type": "image/webp",
+      "bytes": 20928,
+      "sha256": "2542bcf93abb44d9a2463c08d3bcab8febe5d15d9144a1d1d3cf17ffb4ce82a4",
+      "width": 400,
+      "height": 400
+    }
+  ]
+}

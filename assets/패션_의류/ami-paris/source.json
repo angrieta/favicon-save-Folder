@@ -1,0 +1,105 @@
+{
+  "company": "AMI Paris",
+  "category": "패션_의류",
+  "requested_url": "https://www.amiparis.com/ko-kr",
+  "page_url": "https://www.amiparis.com/ko-kr",
+  "page_title": "AMI 공식 스토어 | 아미 | 아미 공홈 | AMI PARIS",
+  "collection_status": "complete",
+  "collection_error": "logo:ValueError:https://media.amiparis.com/VIDEOS/D%C3%A9fil%C3%A9/AMI_FW26_SHOW_CUTS%20SHOW%20VIDEO_CAMERA%20LUCIDA_KEYLOOKS_1920x1080_NO_LOGO.mp4?func=proxy; banner:ValueError:https://media.amiparis.com/VIDEOS/D%C3%A9fil%C3%A9/AMI_FW26_SHOW_CUTS%20SHOW%20VIDEO_CAMERA%20LUCIDA_KEYLOOKS_1920x1080_NO_LOGO.mp4?func=proxy; reference:ValueError:https://media.amiparis.com/VIDEOS/D%C3%A9fil%C3%A9/AMI_FW26_SHOW_CUTS%20SHOW%20VIDEO_CAMERA%20LUCIDA_KEYLOOKS_1920x1080_NO_LOGO.mp4?func=proxy",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/ami-paris/favicon.png",
+      "source_url": "https://www.amiparis.com/cdn/shop/files/code-promo-ami-paris_d0e395b1-35f1-4185-b7ff-1b4e2b841bd8.webp?crop=center&height=32&v=1742894213&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 909,
+      "sha256": "7c593cfb4022fe0e4ae0558371e19d9c09ca37152adb67cf0a7b9837b14a4046",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/ami-paris/og.webp",
+      "source_url": "https://www.amiparis.com/cdn/shop/files/logo_1052x550.jpg?v=1733152471",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 14882,
+      "sha256": "5499d8521ed61d52a9d2b668f2553eefb7ce6faeb9b02ec714c30f5b0a142888",
+      "width": 1052,
+      "height": 550
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/ami-paris/logo-1.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/0774/7865/8352/files/logo.jpg?v=1717407425",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/webp",
+      "bytes": 22850,
+      "sha256": "187b6b739ec618cddf167f08ec0509334fb3ffeadb81d50bee7816dbb0b1737b",
+      "width": 1052,
+      "height": 550
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/ami-paris/logo-2.webp",
+      "source_url": "https://a.storyblok.com/f/283537/396x208/e3b3931e13/16x9_main_vb_fw26_20.jpg/m/500x/filters:quality(100)",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture u-block u-h-full u-w-full | u-text-black article c-card-media u-relative div c-nav-tab__col div c-nav-tab__inner section tabs-a03e208d-877a-4759-8262-9856b6958fe4 c-nav-tab | text",
+      "content_type": "image/webp",
+      "bytes": 22184,
+      "sha256": "03d2c5f238eecb94b51bb13d46a69e48fd1e6d5859b0bad73ac6afd54ae97900",
+      "width": 500,
+      "height": 263
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/ami-paris/banner-1.webp",
+      "source_url": "https://a.storyblok.com/f/283537/396x208/e3b3931e13/16x9_main_vb_fw26_20.jpg/m/852x/filters:quality(100)",
+      "source_tag": "source:semantic-banner",
+      "context": "source picture u-block u-h-full u-w-full | u-text-black article c-card-media u-relative div c-nav-tab__col div c-nav-tab__inner",
+      "content_type": "image/webp",
+      "bytes": 28308,
+      "sha256": "125d4df68ef3471a554cf19ee7814443a1112637c00d82678dde5000928fe1ce",
+      "width": 852,
+      "height": 448
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/ami-paris/reference-1.webp",
+      "source_url": "https://a.storyblok.com/f/283537/396x208/e3b3931e13/16x9_main_vb_fw26_20.jpg/m/640x/filters:quality(100)",
+      "source_tag": "source:page-image",
+      "context": "source picture u-block u-h-full u-w-full | u-text-black article c-card-media u-relative div c-nav-tab__col div c-nav-tab__inner",
+      "content_type": "image/webp",
+      "bytes": 19150,
+      "sha256": "7bd62d9260c11d958b6880982eb5ed5b647cfc00799b3c18c8cca25587c652b9",
+      "width": 640,
+      "height": 336
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/ami-paris/reference-2.webp",
+      "source_url": "https://www.amiparis.com/cdn/shop/files/FCO486.LH0071.jpg?v=1789873594&width=500",
+      "source_tag": "picture:page-image",
+      "context": "picture u-hidden u-block u-h-full u-w-full | u-text-black figure c-card-product__thumbnail span c-card-product__media | u-inline-block | u-w-full sm:u-h-full | u-relative article c-card-product div splide__slide | c-slider__cell slide 1 sur",
+      "content_type": "image/webp",
+      "bytes": 26006,
+      "sha256": "67b770c18b4390268bb541959c3224bd5546c17b60888be2d1803e61a341883c",
+      "width": 500,
+      "height": 625
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/ami-paris/reference-3.webp",
+      "source_url": "https://www.amiparis.com/cdn/shop/files/FCO486.LH0071.jpg?v=1789873594&width=2048",
+      "source_tag": "source:page-image",
+      "context": "source picture u-hidden u-block u-h-full u-w-full | u-text-black figure c-card-product__thumbnail span c-card-product__media | u-inline-block | u-w-full sm:u-h-full | u-relative article c-card-product",
+      "content_type": "image/webp",
+      "bytes": 114100,
+      "sha256": "a83fad36337966348cb4f7517ad077a2e8e059ef4a29dd2308bc2aad6effaa93",
+      "width": 1080,
+      "height": 1350
+    }
+  ]
+}

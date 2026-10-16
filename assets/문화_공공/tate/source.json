@@ -1,0 +1,106 @@
+{
+  "company": "Tate",
+  "category": "문화_공공",
+  "requested_url": "https://www.tate.org.uk",
+  "page_url": "https://www.tate.org.uk/",
+  "page_title": "Tate",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/tate/favicon.ico",
+      "source_url": "https://www.tate.org.uk/favicon.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 15406,
+      "sha256": "427feef2e835a1ae16b23a2d23a128aa45ddc048f25fab0d696b64bf8443d7d2",
+      "width": 48,
+      "height": 48
+    },
+    {
+      "type": "social",
+      "path": "assets/문화_공공/tate/og.webp",
+      "source_url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/.width-600_tTjz0b0.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 22824,
+      "sha256": "f0166e8835c504136c42791ae912c72fa4bd34464fabd84c937dfc82ef531055",
+      "width": 600,
+      "height": 750
+    },
+    {
+      "type": "logo",
+      "path": "assets/문화_공공/tate/logo-1.svg",
+      "source_url": "https://www.tate.org.uk/static/images/tate-logo.21bf83bab79c.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Tate home page a tate-logo div site-logo div header-branding div container__inner container__inner--header",
+      "content_type": "image/svg+xml",
+      "bytes": 100785,
+      "sha256": "6e70948c1fe1679980ddcb9387ec254f1b8e60cac926d458c238f1fb80ec0b00",
+      "width": 90,
+      "height": 35,
+      "source_sha256": "708f4d9a0732d946d1dc2c352a9258beb3749274ef87080a90adb80dab332b39"
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/tate/banner-1.webp",
+      "source_url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Ana-Mendieta-Tree-Of-Life.width-2560.format-webp.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div banner__image div banner banner--grid banner--text-right banner--text-white div container__inner div container banner-container banner-container--full-width",
+      "content_type": "image/webp",
+      "bytes": 403940,
+      "sha256": "908e43be95b633f2ee8e5fc197f05aebbd867d933fdea174328114a2d783e6ed",
+      "width": 1600,
+      "height": 1067
+    },
+    {
+      "type": "banner",
+      "path": "assets/문화_공공/tate/banner-2.webp",
+      "source_url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Ana-Mendieta-Tree-Of-Life.width-1440.format-webp.webp",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div banner__image div banner banner--grid banner--text-right banner--text-white div container__inner div container banner-container banner-container--full-width",
+      "content_type": "image/webp",
+      "bytes": 346190,
+      "sha256": "e8797b40f32b2aa0881d1105a1c5fd865fca9b00092b55053b228c25edf3ae10",
+      "width": 1440,
+      "height": 960
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/tate/reference-1.webp",
+      "source_url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/original_images/Lead_image_-_Le_Rodeur_Lubaina_Himid_.original_1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Stories a menu-item-card div grid-item sm-12 md-4 lg-4 xl-4 div grid-container div container__inner",
+      "content_type": "image/webp",
+      "bytes": 87712,
+      "sha256": "2042170f2ff55b3a9fb5bb9eebb826941cea2694f20b31c62826e40e8e7bd28b",
+      "width": 1328,
+      "height": 1000
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/tate/reference-2.webp",
+      "source_url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/original_images/TateDraw-20230127-4864-WEB.original_1.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Tate Kids a menu-item-card div grid-item sm-12 md-4 lg-4 xl-4 div grid-container div container__inner",
+      "content_type": "image/webp",
+      "bytes": 73366,
+      "sha256": "d5f687e3598de017f3066c2df7ed1430e5e3aee5c15e0054778b3d8eefedfd91",
+      "width": 1706,
+      "height": 1280
+    },
+    {
+      "type": "reference",
+      "path": "assets/문화_공공/tate/reference-3.webp",
+      "source_url": "https://media.tate.org.uk/aztate-prd-ew-dg-wgtail-st1-ctr-data/images/Frida_Kahlo_lead.max-500x500.jpg",
+      "source_tag": "source:page-image",
+      "context": "source picture div div card-media__inner responsive-container div card-media card-media--image",
+      "content_type": "image/webp",
+      "bytes": 47840,
+      "sha256": "7f4bf6e083232dd2fb6941f0ec6a690b014bc434620cd3dd43468f75339f805b",
+      "width": 386,
+      "height": 500
+    }
+  ]
+}

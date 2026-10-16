@@ -1,0 +1,98 @@
+{
+  "company": "Johnnie Walker",
+  "category": "식품_생활",
+  "requested_url": "https://www.johnniewalker.com/ko-kr",
+  "page_url": "https://www.johnniewalker.com/ko-kr",
+  "page_title": "스카치 위스키 홈 | 조니워커 KR",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://vimeo.com/1141130551",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/johnnie-walker/favicon.png",
+      "source_url": "https://www.johnniewalker.com/favicons/icon-512x512.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 19193,
+      "sha256": "a36d8e83339850e1f9af53f6c3c5601f29a6bbc8b905329a6cb161efa8ba1bdc",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "ea4f9a49c37e5c87f857c4dc748c99320dcabdee701ab423bf819fde6c4cced3"
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/johnnie-walker/og.webp",
+      "source_url": "https://images.ctfassets.net/waruwpig3jxu/3TOyKvBy5XpYxM3Da7N6zd/4e1b67808ea3fd30fe6fe3e1d97f3422/Johnnie_Walker_Logo.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4350,
+      "sha256": "8fad72fbb7d244cdce23cabfc1afd191a57aac7e81f0f7f8fdac09cbae237b77",
+      "width": 350,
+      "height": 350
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/johnnie-walker/logo-1.svg",
+      "source_url": "https://www.johnniewalker.com/_next/static/media/jw-logo.37eae781.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Johnnie Walker div flex items-center w-[150.15px] h-[21px] sm-desktop:w-[228.8px] sm-desktop:h-[32px] a mx-0 sm-desktop:mx-auto max-w-[160px] sm-desktop:max-w-none Home div bg-pastelLighterYellow align-center mx-auto flex items-center p",
+      "content_type": "image/svg+xml",
+      "bytes": 46519,
+      "sha256": "7c687c9ddc1cb73a8838783b68bd47b6943748460f9d28a6a7be3168b1d48a47",
+      "width": 230,
+      "height": 32,
+      "source_sha256": "1cda5a6e0790278dae5396994f3446e8c827cdd74ae41bf3c8463d09c10d0e82"
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/johnnie-walker/og.webp",
+      "source_url": "https://images.ctfassets.net/waruwpig3jxu/3TOyKvBy5XpYxM3Da7N6zd/4e1b67808ea3fd30fe6fe3e1d97f3422/Johnnie_Walker_Logo.png",
+      "source_tag": "json-ld[0].logo",
+      "content_type": "image/webp",
+      "bytes": 4350,
+      "sha256": "8fad72fbb7d244cdce23cabfc1afd191a57aac7e81f0f7f8fdac09cbae237b77",
+      "width": 350,
+      "height": 350,
+      "context": "structured data logo",
+      "reused_from": "social"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/johnnie-walker/reference-1.webp",
+      "source_url": "https://images.ctfassets.net/waruwpig3jxu/2XyB666ezVIfai2mT46eUB/0042e879c6c0944885c81d685b824294/Black_Label_Whisky_Desire.jpg",
+      "source_tag": "json-ld.thumbnailUrl",
+      "context": "structured data image",
+      "content_type": "image/webp",
+      "bytes": 92498,
+      "sha256": "7f2855d07321a855e620a72beef4030f6198e7ca40fa040bfb16a886867ede07",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "f03f0f2cda3b2f8c5c6fe14922875fd4052ef0ddf6dc7f1014d1ef62d6218cec"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/johnnie-walker/reference-2.webp",
+      "source_url": "https://images.ctfassets.net/waruwpig3jxu/5s2Sz0fAYRXIiYl49V8VPi/02fd1e3f4d44f3d15da7cd99d7374a01/1440x1440_LNY_Horse_Product.avif?fm=avif&w=2560&q=80",
+      "source_tag": "img:page-image",
+      "context": "img 라벨에 파란색 말과 로버트 운이 새겨진 조니워커 블루 라벨 병은 추상적인 파란색과 빨간색 물결 모양의 배경에 어우러져 있습니다. figure relative mb-[30px] md:mb-0 h-full div sm-desktop:vault:!basis-1/2 overflow-hidden md:flex-[3] md:vault:!flex-none md:vault:!basis-1/2 content-center section ",
+      "content_type": "image/webp",
+      "bytes": 115306,
+      "sha256": "014792dc1a57bd0c4132e0ebf916126076d0d91fa464c8ef0253d23e32432a79",
+      "width": 1350,
+      "height": 1350,
+      "source_sha256": "4935b334f1ce6abaa0f2ce8482d6dbf61a92a000f8d515bae1139a9a1b8619ca"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/johnnie-walker/reference-3.webp",
+      "source_url": "https://images.ctfassets.net/waruwpig3jxu/4MccOtEJ4se8vpx4s21szu/84c78ef5d3b12f1761d2c56e55247930/BlueLabelYearoftheHorseFeaturedProduct.avif?fm=avif&w=750&q=80",
+      "source_tag": "img:page-image",
+      "context": "img 흐린 배경의 테이블 위에 전시된, 파란색 말 그림이 그려진 장식 상자와 함께 조니워커 블루 라벨 말의 해가 담긴 파란색 병. div sm-desktop:transition-transform sm-desktop:duration-300 sm-desktop:ease-in-out sm-desktop:group-hover/image:scale-[1.3] w-full div overflow-hidden flex w-full fig",
+      "content_type": "image/webp",
+      "bytes": 33236,
+      "sha256": "5ed5bd2f750d706c4395f94f91f32095da10f53eadabac22ef3984ac94a45d6a",
+      "width": 696,
+      "height": 390
+    }
+  ]
+}

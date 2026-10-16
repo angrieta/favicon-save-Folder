@@ -1,0 +1,22 @@
+{
+  "company": "FIFA",
+  "category": "문화_공공",
+  "requested_url": "https://www.fifa.com",
+  "page_url": "https://www.fifa.com/",
+  "page_title": "",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.fifa.com/static/media/poppins-regular.80ad975e8fb5131f927c.woff2; reference:ValueError:https://assets.adobedtm.com/7db34e84caae/759763b5faef/launch-ENf264c4ce0fad4ce4bf7503fd7be51245.min.js; reference:ValueError:https://play.fifa.com/components/main.bundle.js; reference:ValueError:https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location; reference:HTTPError:https://cdn.theoplayer.com/conviva/conviva-4.0.12.js; reference:ValueError:https://cxm-api.fifa.com/fifaplusweb/api/themePalette",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/문화_공공/fifa/favicon.png",
+      "source_url": "https://www.fifa.com/apple-touch-icon.png?v=a087933e3cf148cb71a96095c8aa2dac",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1364,
+      "sha256": "55e5a24ab83a389e0d552b7597380fa1befa725906d5b9ab2d0633da94f45a64",
+      "width": 180,
+      "height": 180
+    }
+  ]
+}

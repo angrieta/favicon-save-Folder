@@ -1,0 +1,33 @@
+{
+  "company": "대웅제약",
+  "category": "교육_헬스케어",
+  "requested_url": "https://www.daewoong.co.kr",
+  "page_url": "https://www.daewoong.co.kr/ko",
+  "page_title": "대웅제약 | 글로벌 헬스케어 리더",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.daewoong.co.kr/_next/static/chunks/webpack-afcc111b9c44f9ba.js; reference:ValueError:https://www.googletagmanager.com/gtag/js?id=G-QVNCPGQWRB",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/교육_헬스케어/daewoong-pharm/favicon.png",
+      "source_url": "https://www.daewoong.co.kr/fav.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6629,
+      "sha256": "d66b8e820f274b1611192fa2fad3177057dea65c8155aa34bdc03e72d04de3ed",
+      "width": 63,
+      "height": 66
+    },
+    {
+      "type": "social",
+      "path": "assets/교육_헬스케어/daewoong-pharm/og.webp",
+      "source_url": "https://www.daewoong.co.kr/images/og-default.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 8120,
+      "sha256": "fe0b408f73435d2f7f4a530ebac9a57504258226d4ae2beb2bd40890187f6d95",
+      "width": 1200,
+      "height": 630
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "company": "더존비즈온",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.douzone.com/",
+  "page_url": "https://www.douzone.com/main/index.jsp",
+  "page_title": "더존ICT그룹",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/douzone/favicon.png",
+      "source_url": "https://www.douzone.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 1205,
+      "sha256": "d0edcb956fd2985ceca083f73b14154a3c948d34f443dbd298c6b3699c84f311",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/douzone/logo-1.png",
+      "source_url": "https://www.douzone.com/html/images/logo-douzone@2x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img douzone-logo a douzone-logo logo-item h1 logoInner logo-inner div logo-wrap div header-top",
+      "content_type": "image/png",
+      "bytes": 3009,
+      "sha256": "a5db45292e95d91964828820691ecafb5170966f2d0d8cd793bf505f3132851d",
+      "width": 286,
+      "height": 41
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/douzone/logo-2.png",
+      "source_url": "https://www.douzone.com/html/images/slogan-axandmore@2x.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img douzone-slogan a douzone-slogan logo-item h1 logoInner logo-inner div logo-wrap div header-top",
+      "content_type": "image/png",
+      "bytes": 8732,
+      "sha256": "8e4941a3c55e516fa30b5c4486de8b1a605aec991680b93f175cebe931b8af83",
+      "width": 320,
+      "height": 80
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/douzone/banner-1.webp",
+      "source_url": "https://www.douzone.com/html/images/banner/top_banner_20260602.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img topba 그룹웨어 신규도입 특별프로모션 div only-pc a div swiper-slide div popupWrap swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 18678,
+      "sha256": "375f0c5ce328eaa455336063a42bf4c1ab5a0b03083276c161c99ff2eec2cc00",
+      "width": 1800,
+      "height": 122
+    },
+    {
+      "type": "banner",
+      "path": "assets/글로벌_SaaS/douzone/banner-2.webp",
+      "source_url": "https://www.douzone.com/html/images/banner/top_banner_20260602-m.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img topba 그룹웨어 신규도입 특별프로모션 div only-mo a div swiper-slide div popupWrap swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 29720,
+      "sha256": "9a95041935a171838f7655c30881438e88bef7c600e49f864535c18853d1ce4d",
+      "width": 1440,
+      "height": 320
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/douzone/reference-1.webp",
+      "source_url": "https://www.douzone.com/html/down/ax.webp",
+      "source_tag": "link:preload",
+      "context": "preload image  /html/down/ax.webp",
+      "content_type": "image/webp",
+      "bytes": 37792,
+      "sha256": "6b712c0eb96758583f8a23338e7b266a7f2cabc846281a5cbf9e73aafaa6d38d",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

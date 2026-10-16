@@ -1,0 +1,34 @@
+{
+  "company": "아실",
+  "category": "부동산_공간",
+  "requested_url": "https://asil.kr/",
+  "page_url": "https://asil.kr/asil/index.jsp",
+  "page_title": "아실 - 아파트 실거래가, 분양정보, 매물, 부동산빅데이터",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/asil/favicon.ico",
+      "source_url": "https://asil.kr/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 103268,
+      "sha256": "d19ba546c38b4e0946adcf791434c6eba6ced7301965b55c47357ebb4b1502cf",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/asil/reference-1.webp",
+      "source_url": "https://asil.kr/asil/images/app_pc_login.png",
+      "source_tag": "img:page-image",
+      "context": "img 닫기 p img div app_pc_login_popup div app_pc_login_mask div wrap",
+      "content_type": "image/webp",
+      "bytes": 17078,
+      "sha256": "d70aa2e67ef6016b2dfa2fd86333cc95b90c13c802e93a40afc75fc341acd7c6",
+      "width": 550,
+      "height": 356
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "company": "프릳츠",
+  "category": "식품_생활",
+  "requested_url": "https://fritz.co.kr/",
+  "page_url": "https://fritz.co.kr/",
+  "page_title": "프릳츠커피컴퍼니",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "social",
+      "path": "assets/식품_생활/fritz-coffee/og.webp",
+      "source_url": "http://fritz.co.kr/web/product/small/201801/directtrade.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 132602,
+      "sha256": "38126431fec5b2685c898fc4a89dc1f7165888d9d812e72ac883dcf855718878",
+      "width": 1000,
+      "height": 706
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/fritz-coffee/logo-1.png",
+      "source_url": "https://fritz.co.kr/img/fritz_logo-02.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div logo div logo-wrap div nav",
+      "content_type": "image/png",
+      "bytes": 14906,
+      "sha256": "0fb4734611fb4c5802fed5f4dde5b57b5d97e46ff62723aba93546b69b2ae898",
+      "width": 200,
+      "height": 230
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/fritz-coffee/banner-1.webp",
+      "source_url": "https://fritz.co.kr/img/%EB%8F%84%ED%99%94.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div section0 section background-image:url('/img/도화.jpg');",
+      "content_type": "image/webp",
+      "bytes": 97514,
+      "sha256": "0fe6b3c69adfb285222e67b0f481b231719c1ca5bdb1032fafd60bf1253b2c70",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "af0661865fddbf4e3364ae06baf44dff57bbe987dad9e56cb9106ab07bf9c22c"
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/fritz-coffee/banner-2.webp",
+      "source_url": "https://fritz.co.kr/img/main02.png",
+      "source_tag": "inline-background-image",
+      "context": "div section0 section background-image:url('/img/main02.png');",
+      "content_type": "image/webp",
+      "bytes": 141572,
+      "sha256": "650a8883f49855fec09f10151db623ecced664e1723fff4243dd631119ed98d6",
+      "width": 1600,
+      "height": 900,
+      "source_sha256": "982eecfbd7db83de9c5a8372717af715fb6b4b775adaa3e134bb21f7a50dc358"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/fritz-coffee/reference-1.webp",
+      "source_url": "https://fritz.co.kr/img/%EC%9B%90%EC%84%9C%EB%A7%A4%EC%9E%A5.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div section0 section background-image:url('/img/원서매장.jpg');",
+      "content_type": "image/webp",
+      "bytes": 178894,
+      "sha256": "920c296b2837d8845538eba644453a091e89f658c06a65f053e98af78231faee",
+      "width": 1600,
+      "height": 1076,
+      "source_sha256": "d1a6f68518629f4bbc710edae80096e18371e1d3d50f4c60eaf78aefb9575ec8"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/fritz-coffee/reference-2.webp",
+      "source_url": "https://fritz.co.kr/img/main04.png",
+      "source_tag": "inline-background-image",
+      "context": "div section0 section background-image:url('/img/main04.png');",
+      "content_type": "image/webp",
+      "bytes": 68238,
+      "sha256": "0283c0d94eeececfc7b11d01bee31d2edf295da0316f62410eb4ba25ae0c165b",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/fritz-coffee/reference-3.webp",
+      "source_url": "https://fritz.co.kr/img/%EC%96%91%EC%9E%AC.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div section0 section background-image:url('/img/양재.jpg');",
+      "content_type": "image/webp",
+      "bytes": 67116,
+      "sha256": "fb8c071d3a33f3a71dcd119389db49b34771a3ca20383b7e62081184547c19fc",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "21e56ac7fb084f5fddf5d12507015a0a0bc6344e17c1763bde218868504fdd98"
+    }
+  ]
+}

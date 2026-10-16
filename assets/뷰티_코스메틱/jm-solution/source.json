@@ -1,0 +1,93 @@
+{
+  "company": "JM솔루션",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://www.jmsolution.com",
+  "page_url": "https://www.jmsolution.com/",
+  "page_title": "JM solution - 35억장 판매신화, Journey to Miracle solution",
+  "collection_status": "partial",
+  "collection_error": "banner:HTTPError:https://www.jmsolution.com/{; banner:HTTPError:https://www.jmsolution.com/%7B",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/jm-solution/favicon.ico",
+      "source_url": "https://www.jmsolution.com/web/upload/favicon-f106a1ad7dec786946a73c61a29dcba9.ico",
+      "source_tag": "shortcut icon",
+      "content_type": "image/x-icon",
+      "bytes": 101218,
+      "sha256": "10f4fcbb165585f20fe63a28e79a18b4d36a96bf3c7f6df59f87b198991dbf5b",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/jm-solution/og.webp",
+      "source_url": "https://www.jmsolution.com/web/upload/share-image-1-e83953f668ae87fd4993949cfe7c3579.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6132,
+      "sha256": "4fcc10d32b64457259bc83fdfe768cc5347a4efdbc63986cf03924928f073311",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/jm-solution/logo-1.png",
+      "source_url": "https://www.jmsolution.com/skin/main/logo.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img a div topArea_logo div site-wrap logo-wrap header header",
+      "content_type": "image/png",
+      "bytes": 10874,
+      "sha256": "d68d984aa1b645295b29220a9ee6e26f1f01e8b3bd858acd65d4a81a485e7e3f",
+      "width": 501,
+      "height": 100
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/jm-solution/logo-2.png",
+      "source_url": "https://www.jmsolution.com/skin/main/logo_b.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img div info_logo pc_view div footArea_address div xans-element- xans-layout xans-layout-footer div site-wrap",
+      "content_type": "image/png",
+      "bytes": 1464,
+      "sha256": "87c4c0fd906e3dcde95e687ff8be3ccda1f7c110e2e1cb20816b816815d690d2",
+      "width": 501,
+      "height": 105
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/jm-solution/reference-1.webp",
+      "source_url": "https://jmsolutioncm.cafe24.com/web/upload/NNEditor/20260827/PC_Main.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img pc_view a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 23376,
+      "sha256": "62f4b5ecc134a39ee4190852d19d872d61c5cb518e9d617e3d70c97a68173b87",
+      "width": 1800,
+      "height": 473
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/jm-solution/reference-2.webp",
+      "source_url": "https://jmsolutioncm.cafe24.com/web/upload/NNEditor/20260827/MO_Main.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img m_view a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 48200,
+      "sha256": "b53e0678e7e76e4a9cff0124995c709eb662d5230147ac45b9168b1f7de29e82",
+      "width": 1080,
+      "height": 1100
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/jm-solution/reference-3.webp",
+      "source_url": "https://jmsolutioncm.cafe24.com/main%20banner/02_solution%20foil_pc_main.jpg",
+      "source_tag": "img:page-image",
+      "context": "img div img pc_view a div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 31578,
+      "sha256": "42fc216fc371edb054e904fdf2784066b576be9a20f9f5fa54cbf5c49c76c456",
+      "width": 1800,
+      "height": 473
+    }
+  ]
+}

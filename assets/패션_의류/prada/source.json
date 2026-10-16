@@ -1,0 +1,96 @@
+{
+  "company": "Prada",
+  "category": "패션_의류",
+  "requested_url": "https://www.prada.com/kr/ko.html",
+  "page_url": "https://www.prada.com/kr/ko.html",
+  "page_title": "PRADA 한국 공식 웹사이트 및 온라인 스토어 | PRADA - 대한민국",
+  "collection_status": "complete",
+  "collection_error": "logo:HTTPError:https://www.prada.com/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/churchs.svg",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/prada/favicon.png",
+      "source_url": "https://www.prada.com/favicon.ico",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1413,
+      "sha256": "5e810c02eb1a1b7b73dd8ca205d7602ce589e4d658f11d85b3cbca319d9d5858",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/prada/logo-1.svg",
+      "source_url": "https://www.prada.com/etc.clientlibs/pradaspa/clientlibs/clientlib-site/resources/assets/images/placeholder.svg",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture h-full w-full div video-cover relative h-full flex justify-center items-center div hero-background-media hero-background-media--free-size hero-background-media--overlaps-header hero-background-media--asset-before-loaded div hero-car",
+      "content_type": "image/svg+xml",
+      "bytes": 2669,
+      "sha256": "074b491d48ffd55ad20c589c6b0912c04c15dadc5ca9c8c414b427832429aac5",
+      "width": 334,
+      "height": 420,
+      "source_sha256": "6778610ac555fd193e9e3d968d4ba00a254e7e83cb642a839c6a05af2ac3a963"
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/prada/banner-1.webp",
+      "source_url": "https://www.prada.com/content/dam/pradaspa/home_page/2026/08/antique/mosaic_DT.jpg/_jcr_content/renditions/cq5dam.web.3360.3360.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture Prada Carry div hero-background-media hero-background-media--free-size div hero-card__background-media-wrapper hero-card__background-media-wrapper--free-size hero-card__background-media-wrapper--link div hero-card hero-card--free-si",
+      "content_type": "image/webp",
+      "bytes": 63296,
+      "sha256": "e1d34bd71e0c63fe29c6d11c39b6070368cf34b0950cd94bf58fc7f8186b831e",
+      "width": 1600,
+      "height": 970,
+      "source_sha256": "78f835eb8e9a3b928c196e9146a016bbce3a80eb02257dffafc9249ca6ca2655"
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/prada/banner-2.webp",
+      "source_url": "https://www.prada.com/content/dam/pradaspa/home_page/2026/09/refresh_23/fw/w/card_DT.jpg/_jcr_content/renditions/cq5dam.web.3360.3360.jpg",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture Fall Winter 2026 div hero-background-media hero-background-media--free-size div hero-card__background-media-wrapper hero-card__background-media-wrapper--free-size hero-card__background-media-wrapper--link div hero-card hero-card--fr",
+      "content_type": "image/webp",
+      "bytes": 114710,
+      "sha256": "4eba5eaf0ae37b585fdb9a9e52e760cf6684ddbf9d932ca9f41e7abba0d4ee1b",
+      "width": 1800,
+      "height": 1092
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/prada/reference-1.webp",
+      "source_url": "https://www.prada.com/content/dam/pradaspa/ecommerce/2026/07/fw26/menu/new_in/fw_2_w.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Fall Winter 2026 div media-wrapper a mosaic-item div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 81782,
+      "sha256": "eb686ef0d941262af984ec6fb2d6d806bf319aad662e0189bd59483f58ea6365",
+      "width": 864,
+      "height": 864
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/prada/reference-2.webp",
+      "source_url": "https://www.prada.com/content/dam/pradaspa/ecommerce/2026/07/fw26/menu/new_in/fw_m.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Fall Winter 2026 div media-wrapper a mosaic-item div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 42712,
+      "sha256": "5cfa355fbbdceddd840747bac05840b7cf47c087f9cb0c54235549e01183f495",
+      "width": 750,
+      "height": 750
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/prada/reference-3.webp",
+      "source_url": "https://www.prada.com/content/dam/pradaspa/ecommerce/2026/09/prada_galleria/menu/menu.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Prada Galleria div media-wrapper a mosaic-item div swiper-slide div swiper-wrapper",
+      "content_type": "image/webp",
+      "bytes": 92310,
+      "sha256": "3ea4ab71ee31678754c78687faae1bb2e4dbebe39632b25592e9b6031f8caaba",
+      "width": 864,
+      "height": 864
+    }
+  ]
+}

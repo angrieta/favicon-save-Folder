@@ -1,0 +1,34 @@
+{
+  "company": "카카오톡 선물하기",
+  "category": "유통_커머스",
+  "requested_url": "https://gift.kakao.com",
+  "page_url": "https://gift.kakao.com/",
+  "page_title": "카카오톡 선물하기",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://st.kakaocdn.net/commerce_ui/gift/real/20260923/155804/chunk-J2NF2VOY.js; reference:ValueError:https://st.kakaocdn.net/commerce_ui/gift/real/20260923/155804/chunk-AGWVLXUV.js; reference:ValueError:https://st.kakaocdn.net/commerce_ui/gift/real/20260923/155804/chunk-7KL6HKZP.js; reference:ValueError:https://st.kakaocdn.net/commerce_ui/gift/real/20260923/155804/chunk-FKLRRVCI.js; reference:ValueError:https://st.kakaocdn.net/commerce_ui/gift/real/20260923/155804/chunk-YX6M6N3O.js; reference:ValueError:https://st.kakaocdn.net/commerce_ui/gift/real/20260923/155804/chunk-KFTXLTYF.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/kakao-gift/favicon.png",
+      "source_url": "https://gift-s.kakaocdn.net/dn/gift/common/kakaotalk_gift.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6169,
+      "sha256": "de3ff79841379434c61b458797cfd93f69b94da8bcfcf90448af8cc33aa57967",
+      "width": 256,
+      "height": 256,
+      "source_sha256": "dba0a0998afdcea342339f5f3f8462367c4b569bacd3374a159a3f099f24fa07"
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/kakao-gift/og.webp",
+      "source_url": "https://st.kakaocdn.net/gift/favicon/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 10982,
+      "sha256": "1abef6581f2aea7413dd999d96c48416ad6d14ed04f5fa4a0f279b7be405251e",
+      "width": 1200,
+      "height": 600
+    }
+  ]
+}

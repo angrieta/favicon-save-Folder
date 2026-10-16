@@ -1,0 +1,72 @@
+{
+  "company": "Virgin Atlantic",
+  "category": "항공_여행",
+  "requested_url": "https://www.virginatlantic.com/ko-KR",
+  "page_url": "https://www.virginatlantic.com/ko-KR",
+  "page_title": "Book flights with Virgin Atlantic",
+  "collection_status": "partial",
+  "collection_error": "banner:InvalidURL:https://:0; banner:ValueError:https://vaabrowse.virginatlantic.com/content/dam/vaa-home/us-pos/hero/london-man-summer-hero.jpg.vaa.75.avif; banner:HTTPError:https://vaabrowse.virginatlantic.com/content/dam/vaa-home/us-pos/hero/london-man-summer-hero.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg; reference:InvalidURL:https://:0; reference:ValueError:https://vaabrowse.virginatlantic.com/content/dam/vaa-home/us-pos/hero/london-man-summer-hero.jpg.vaa.75.avif",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/virgin-atlantic/favicon.png",
+      "source_url": "https://www.virginatlantic.com/_nextfavicons/apple-touch-icon-precomposed.png",
+      "source_tag": "apple-touch-icon-precomposed",
+      "content_type": "image/png",
+      "bytes": 7068,
+      "sha256": "fe89765454204b18d330e69fd394542c81a41b254a74563fd1ba8ea0bf2dfe25",
+      "width": 114,
+      "height": 114
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/virgin-atlantic/banner-1.webp",
+      "source_url": "https://vaabrowse.virginatlantic.com/content/dam/us-pos/westminster-london-autumn-desktop.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img London in October div _image-component_1fx78_1 div _desktopImage_1k1hs_24 _focus--center_1k1hs_72 section _hero-banner-component_1k1hs_3 _hero-banner-component--has-link_1k1hs_236 div slide-show_component_slide-show__slide__OJSgv",
+      "content_type": "image/webp",
+      "bytes": 76678,
+      "sha256": "48363f1181ea714159c72bf44f0174cb4eb8e6a1651259bad72e57a808562671",
+      "width": 1600,
+      "height": 481,
+      "source_sha256": "03a60110a4de8a92709863a0617f1a026e35864e41f368252708787755bc653b"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/virgin-atlantic/reference-1.webp",
+      "source_url": "https://vaabrowse.virginatlantic.com/content/dam/us-pos/westminster-london-autumn-mobile.jpg",
+      "source_tag": "img:page-image",
+      "context": "img London in October div _image-component_1fx78_1 div _mobileImage_1k1hs_78 section _hero-banner-component_1k1hs_3 _hero-banner-component--has-link_1k1hs_236 div slide-show_component_slide-show__slide__OJSgv",
+      "content_type": "image/webp",
+      "bytes": 82378,
+      "sha256": "89f7580b1b24250ae06e3d7ab4e38be3df04f34fbd283e4daf4d12538b77d65e",
+      "width": 700,
+      "height": 600,
+      "source_sha256": "3d636d0dc86860095d365fa78818e167442342fdcd71539ea5691a83a44f2e6f"
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/virgin-atlantic/reference-2.webp",
+      "source_url": "https://vaabrowse.virginatlantic.com/content/dam/london_taxi_lady_resized.jpg",
+      "source_tag": "img:page-image",
+      "context": "img Woman in a cab div _image-component_1fx78_1 div _image_1kx74_31 a _link_1kx74_11 article _gallery-card-component_1kx74_2",
+      "content_type": "image/webp",
+      "bytes": 67068,
+      "sha256": "468c726195fb746bd3682ea1348f3005bdc11117a19e867e6d0d151fe2d2a459",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/virgin-atlantic/reference-3.webp",
+      "source_url": "https://vaabrowse.virginatlantic.com/content/dam/vaa-home/us-pos/hero/london-man-summer-hero.jpg.vaa.75.webp",
+      "source_tag": "picture:page-image",
+      "context": "picture div _image-component_1fx78_1 div _image_1kx74_31 a _link_1kx74_11 article _gallery-card-component_1kx74_2",
+      "content_type": "image/webp",
+      "bytes": 43072,
+      "sha256": "4b3891edf9d0b0f69ebddb17e85760a09ba2c75bf6308c5363e9bf6cd7c42ced",
+      "width": 700,
+      "height": 600
+    }
+  ]
+}

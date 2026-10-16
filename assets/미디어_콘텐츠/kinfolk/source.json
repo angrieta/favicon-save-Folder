@@ -1,0 +1,71 @@
+{
+  "company": "Kinfolk",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.kinfolk.com/",
+  "page_url": "https://www.kinfolk.com/",
+  "page_title": "Home - Kinfolk",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/미디어_콘텐츠/kinfolk/favicon.png",
+      "source_url": "https://ik.imagekit.io/kinfolk/wp-content/themes/kinfolk/src/img/favicon/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 6013,
+      "sha256": "9879412b9979be5f6f223de31f3ba6d8d2fa7f60aa8b60c7b99295bdc222fe76",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/kinfolk/og.webp",
+      "source_url": "https://ik.imagekit.io/kinfolk/wp-content/uploads/2024/05/KF-Share-Card.jpeg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4464,
+      "sha256": "f164c6d50daa4d3e32c5aa03e811a020bfa385663f6c712bdf3889aae68adcc6",
+      "width": 1000,
+      "height": 524
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/kinfolk/reference-1.webp",
+      "source_url": "https://ik.imagekit.io/kinfolk/wp-content/uploads/2026/09/The_Flow_State_01.jpg",
+      "source_tag": "img:page-image",
+      "context": "img noscript div intrinsic-image div [ StoryModule__image-wrap ] div [ StroyModule__slide-inner ]",
+      "content_type": "image/webp",
+      "bytes": 45326,
+      "sha256": "d77d25a9b0ae8a83a47d2d5d7df3dd1dd8f7d0a2996382134a2f7e23e0cbffed",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "9c8f1a3ef67a53120606c274d754a653dc82dbf34a54533a8e1ab6f71296d1e8"
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/kinfolk/reference-2.webp",
+      "source_url": "https://ik.imagekit.io/kinfolk/wp-content/uploads/2026/09/The_Flow_State_01-2048x1365.jpg",
+      "source_tag": "img:page-image",
+      "context": "img lazy lazyload div intrinsic-image div [ StoryModule__image-wrap ] div [ StroyModule__slide-inner ] div [ js-slide ][ StroyModule__slide StroyModule__slide--fullscreen ]",
+      "content_type": "image/webp",
+      "bytes": 78564,
+      "sha256": "bf8cdb7b58976944225c81f1b5f64df1bca5ef4683ef6613c54b9b4a85527369",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "type": "reference",
+      "path": "assets/미디어_콘텐츠/kinfolk/reference-3.webp",
+      "source_url": "https://ik.imagekit.io/kinfolk/wp-content/uploads/2026/08/HomeTour_Sphinx_Hill_03.jpg",
+      "source_tag": "img:page-image",
+      "context": "img noscript div intrinsic-image div [ StoryModule__image-wrap ] div [ StroyModule__slide-inner ]",
+      "content_type": "image/webp",
+      "bytes": 140264,
+      "sha256": "3c567a1b0f2a06665cf9ffc63b90b6be5408efb6fb2fb81186feb6bf54f3cd49",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "f610402cdb1e5a3908e5a9b8bfe1a35890c6a40f8fe2397ea8d41778df06d4ae"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "company": "GS SHOP",
+  "category": "유통_커머스",
+  "requested_url": "https://www.gsshop.com",
+  "page_url": "https://www.gsshop.com:443/index.gs",
+  "page_title": "GS SHOP - Style your daily life",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/유통_커머스/gs-shop/favicon.png",
+      "source_url": "https://www.gsshop.com:443/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/png",
+      "bytes": 596,
+      "sha256": "1e3c59a7feae4c820290b071c92e8cca71ab19fef30e6f99343414e3e5c0b685",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/유통_커머스/gs-shop/og.webp",
+      "source_url": "https://static.m-gs.kr/ui/gsshop/pc/shop/main/images/gs_640_ban.jpg",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3734,
+      "sha256": "98a9f82447babb72017f0ca83b01e241ad775c90a0b2b67c633ceb1a3c48ed9a",
+      "width": 640,
+      "height": 320
+    },
+    {
+      "type": "logo",
+      "path": "assets/유통_커머스/gs-shop/logo-1.png",
+      "source_url": "https://static.m-gs.kr/ui/gsshop/pc/common/images/logo_pc.png?20260929141100",
+      "source_tag": "img:semantic-logo",
+      "context": "img GS SHOP h1 global-logo div doc-wrap header doc-header div doc-container",
+      "content_type": "image/png",
+      "bytes": 5263,
+      "sha256": "ca4beff0da73ac3feb5f95cbe4e3d77a56bf5adcde3fa6e108bc3e9bc3fac3fb",
+      "width": 452,
+      "height": 180
+    },
+    {
+      "type": "banner",
+      "path": "assets/유통_커머스/gs-shop/banner-1.webp",
+      "source_url": "https://static.m-gs.kr/planprd/banner_MAINCORNER/954866885_01.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img a swiper-slide on div swiper-wrapper div swiper-stage figure typeC",
+      "content_type": "image/webp",
+      "bytes": 39012,
+      "sha256": "20ebde2e9fe01b45b044f3fed62700854ff8a9bec8ecfd104e682533721b46b1",
+      "width": 1000,
+      "height": 252
+    },
+    {
+      "type": "reference",
+      "path": "assets/유통_커머스/gs-shop/reference-1.webp",
+      "source_url": "https://asset.m-gs.kr/prod/1124126604/1/550",
+      "source_tag": "img:page-image",
+      "context": "img view1 MORGAN 에센셜 가디건 3종 a prd-img div prd-item article main-onair div doc-wrap relative",
+      "content_type": "image/webp",
+      "bytes": 35216,
+      "sha256": "a3932c4d101c1ff38f3f14fbeca75ee95dd5c4c2c01c1651eb8ccd08542365a1",
+      "width": 550,
+      "height": 550
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "company": "Beyond Meat",
+  "category": "식품_생활",
+  "requested_url": "https://www.beyondmeat.com",
+  "page_url": "https://www.beyondmeat.com/en-US",
+  "page_title": "Beyond The Plant Protein Company",
+  "collection_status": "partial",
+  "collection_error": "banner:ValueError:https://beyond-meat-cms-production.s3.us-west-2.amazonaws.com/77994b41-e9e2-4c35-b5ca-96677f12ff9f.mp4; banner:ValueError:https://beyond-meat-cms-production.s3.us-west-2.amazonaws.com/d6e38554-4968-4fc4-93ef-4f9a162d86d1.mp4; reference:ValueError:https://beyond-meat-cms-production.s3.us-west-2.amazonaws.com/77994b41-e9e2-4c35-b5ca-96677f12ff9f.mp4; reference:ValueError:https://beyond-meat-cms-production.s3.us-west-2.amazonaws.com/d6e38554-4968-4fc4-93ef-4f9a162d86d1.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/beyond-meat/favicon.png",
+      "source_url": "https://www.beyondmeat.com/en-US/icons/icon-512x512.png?v=35d839b70ffe8c6a3a6e8d98c03fc3e8",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 46853,
+      "sha256": "7f368fcf4e2bba328f5d125fb4387d48f248b64e23006ab06312a7ae66ec6538",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/beyond-meat/banner-1.webp",
+      "source_url": "https://beyond-meat-cms-production.s3.us-west-2.amazonaws.com/cf7cab23-5970-4c3e-92eb-3fea892752a7.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img ProductCardsSliderSection__CardImage-sc-1kdpvc8-13 crzIcu Beyond Burger div ProductCardsSliderSection__CardImageWrap-sc-1kdpvc8-12 gybwez article ProductCardsSliderSection__Card-sc-1kdpvc8-11 eFdFgX Beyond Burger (1 of 5) div scroll-con",
+      "content_type": "image/webp",
+      "bytes": 186458,
+      "sha256": "c8bbf478ab6e0a658466952dda227ca129e704ebf3b244f91b2f11387d130ca1",
+      "width": 915,
+      "height": 687
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/beyond-meat/banner-2.webp",
+      "source_url": "https://beyond-meat-cms-production.s3.us-west-2.amazonaws.com/e29e21cf-6b49-44de-b3cf-282cd67e91e7.jpg",
+      "source_tag": "img:semantic-banner",
+      "context": "img ProductCardsSliderSection__CardImage-sc-1kdpvc8-13 crzIcu Beyond Steak Tips div ProductCardsSliderSection__CardImageWrap-sc-1kdpvc8-12 gybwez article ProductCardsSliderSection__Card-sc-1kdpvc8-11 eFdFgX Beyond Steak Tips (2 of 5) div sc",
+      "content_type": "image/webp",
+      "bytes": 207860,
+      "sha256": "5c754a6780f000fc03f52c8a0f6df8a79ad3bdaad76605da1f95947c797b62f7",
+      "width": 915,
+      "height": 687
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/beyond-meat/reference-1.webp",
+      "source_url": "https://beyond-meat-cms-production.s3.us-west-2.amazonaws.com/571d319d-b467-4d11-bed6-41c0d1000a6f.jpg",
+      "source_tag": "img:page-image",
+      "context": "img ProductCardsSliderSection__CardImage-sc-1kdpvc8-13 crzIcu Beyond Chicken Pieces div ProductCardsSliderSection__CardImageWrap-sc-1kdpvc8-12 gybwez article ProductCardsSliderSection__Card-sc-1kdpvc8-11 eFdFgX Beyond Chicken Pieces (3 of 5",
+      "content_type": "image/webp",
+      "bytes": 237242,
+      "sha256": "3c194e93368029d8cf5688333a06dfcec0854f214dc961942a88bfd78d5fea38",
+      "width": 915,
+      "height": 687
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/beyond-meat/reference-2.webp",
+      "source_url": "https://beyond-meat-cms-production.s3.us-west-2.amazonaws.com/b4a3bdde-4c6f-4923-a022-f7ea2a29d4ac.jpg",
+      "source_tag": "img:page-image",
+      "context": "img ProductCardsSliderSection__CardImage-sc-1kdpvc8-13 crzIcu Beyond Beef div ProductCardsSliderSection__CardImageWrap-sc-1kdpvc8-12 gybwez article ProductCardsSliderSection__Card-sc-1kdpvc8-11 eFdFgX Beyond Beef (4 of 5) div scroll-contain",
+      "content_type": "image/webp",
+      "bytes": 196346,
+      "sha256": "799300beabf40e25ee3c262889fb9c23db55036e706930e1748328158843a1a5",
+      "width": 915,
+      "height": 687
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/beyond-meat/reference-3.webp",
+      "source_url": "https://beyond-meat-cms-production.s3.us-west-2.amazonaws.com/a5901430-c403-41d7-b7cb-710674441d90.jpg",
+      "source_tag": "img:page-image",
+      "context": "img ProductCardsSliderSection__CardImage-sc-1kdpvc8-13 crzIcu Beyond Sausage div ProductCardsSliderSection__CardImageWrap-sc-1kdpvc8-12 gybwez article ProductCardsSliderSection__Card-sc-1kdpvc8-11 eFdFgX Beyond Sausage (5 of 5) div scroll-c",
+      "content_type": "image/webp",
+      "bytes": 159118,
+      "sha256": "8f6a51d45e7c91502c8764e7069007b70952215d7b005b09ffe89101ad698321",
+      "width": 915,
+      "height": 687
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "company": "TOTO",
+  "category": "부동산_공간",
+  "requested_url": "https://jp.toto.com/",
+  "page_url": "https://jp.toto.com/",
+  "page_title": "総合トップ | TOTO株式会社",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://jp.toto.com/_next/static/css/72a469e0a1717d4b.css; reference:ValueError:https://jp.toto.com/_next/static/css/8dce8bd5adaa1123.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/toto/favicon.ico",
+      "source_url": "https://jp.toto.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 89414,
+      "sha256": "a135bd10b049c738e1bf1915d9cac66623774a7394e6bddcd15dba4345665516",
+      "width": 152,
+      "height": 152
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/toto/og.webp",
+      "source_url": "https://toto.imagewave.pictures/default.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 4000,
+      "sha256": "141f76bac9b87b48451068b96a31692dca6560f1e5912cd057128593eed5b5a4",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/toto/logo-1.png",
+      "source_url": "https://jp.toto.com/pictures/default.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img PC_logo-image__4knKJ logo a li PC_logo__xffUm ul PC_navigation__ugAcF div PC_navigation-area__RJNX6",
+      "content_type": "image/png",
+      "bytes": 5894,
+      "sha256": "594ecaf4a0dfd4c8c8e1a837ae1b95bf8cd217fc0cfbf4cc2aad41bc84c16470",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/toto/logo-1.png",
+      "source_url": "https://jp.toto.com/pictures/default.png",
+      "source_tag": "img:semantic-banner",
+      "context": "img Image_image__KxRD6 浴室クリアキープキャッシュバックキャンペーン div Image_image-wrap__jkWPf index_image__jg4xF Image_-w16h9__29H5Z figure index_main-visual__ydBm0 a div MainVisual_carousel-content__0Brb2 MainVisual_-current__vNv9v",
+      "content_type": "image/png",
+      "bytes": 5894,
+      "sha256": "594ecaf4a0dfd4c8c8e1a837ae1b95bf8cd217fc0cfbf4cc2aad41bc84c16470",
+      "width": 640,
+      "height": 480,
+      "reused_from": "logo"
+    }
+  ]
+}

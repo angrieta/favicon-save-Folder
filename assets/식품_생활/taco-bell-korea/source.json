@@ -1,0 +1,106 @@
+{
+  "company": "Taco Bell",
+  "category": "식품_생활",
+  "requested_url": "https://www.koreatacobell.com/",
+  "page_url": "https://www.koreatacobell.com/",
+  "page_title": "타코벨 코리아 - Taco Bell Korea",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://vendor-cdn.imweb.me/css/poppins.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/taco-bell-korea/favicon.png",
+      "source_url": "https://cdn.imweb.me/thumbnail/20220421/b2b7d4e0e6749.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 23329,
+      "sha256": "c3c3a463003263dcb74c0ddd49fae13e027e29131fff97479dee1c9a3b3f1a95",
+      "width": 196,
+      "height": 196
+    },
+    {
+      "type": "social",
+      "path": "assets/식품_생활/taco-bell-korea/og.webp",
+      "source_url": "https://cdn.imweb.me/upload/S202108269116c109ddd2d/f531640d8dbcc.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 17504,
+      "sha256": "f3b7339d5736bbb4ed112978ffaffd4663799be8e9c986829133a2c1a6df16e3",
+      "width": 1008,
+      "height": 623
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/taco-bell-korea/logo-1.png",
+      "source_url": "https://cdn.imweb.me/upload/S202108269116c109ddd2d/a75d7391eabf0.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 53776,
+      "sha256": "59e47496a192542157a6c848d7576017d674356ac833d139a6d02873fe667faf",
+      "width": 1600,
+      "height": 471
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/taco-bell-korea/logo-2.png",
+      "source_url": "https://cdn.imweb.me/thumbnail/20260630/f42c988e47ffd.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img normal_logo _front_img 타코벨 코리아 - Taco Bell Korea a div img_box _img_box div logo_w20210826f9e7df10e963d widget inline_widget logo text_inline div _widget_data",
+      "content_type": "image/png",
+      "bytes": 18341,
+      "sha256": "3cee58c29fe94b23c7590d111d627fd7e9947ec1041eec9be381cf7bdfedf5b9",
+      "width": 713,
+      "height": 210
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/taco-bell-korea/banner-1.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20210827/d8dc9a973bc3f.jpg",
+      "source_tag": "style-background-image",
+      "context": "dmin.new_header_mode {\n\t\t\t\t\toverflow-x: auto;\n\t\t\t\t}\n\t\t\t\t.new_header_mode #edit_wrap {\n\t\t\t\t\tmin-width: 1280px;\n\t\t\t\t}\n\t\t\t\t#s2021082653069d937d591 .section_bg {\n\t\t\t\t\tbackground-image:url(https://cdn.imweb.me/thumbnail/20210827/d8dc9a973bc3f.jp",
+      "content_type": "image/webp",
+      "bytes": 100744,
+      "sha256": "4e95f7e5be61a015978a71adb0ec86f81d4a6325e6c2310aa51157c095a623c3",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/taco-bell-korea/reference-1.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20210927/28a576bf8649c.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img_w20210826f8bb5585d04e9 div _img_box div widget image_map div _widget_data div w20210826f8bb5585d04e9",
+      "content_type": "image/webp",
+      "bytes": 280780,
+      "sha256": "9cedaa9d5db2224a2cb232abf2b0ead820cf381b5e9e6a966fdfe2ba2a56b270",
+      "width": 1080,
+      "height": 1080,
+      "source_sha256": "4693c0a193af14decec92c2f6ca15b27d739940a4a3e3b9a6453aa34499c6439"
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/taco-bell-korea/reference-2.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20210927/1b231e7dc06ac.jpg",
+      "source_tag": "img:page-image",
+      "context": "img img_w202108261526e0f9a78b4 div _img_box div widget image_map div _widget_data div w202108261526e0f9a78b4",
+      "content_type": "image/webp",
+      "bytes": 35776,
+      "sha256": "d189a221fee94a132ebfdedf0b91e09edd5ac08a6bdcd4033256d0f511b771b4",
+      "width": 788,
+      "height": 788
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/taco-bell-korea/reference-3.webp",
+      "source_url": "https://cdn.imweb.me/thumbnail/20240712/cd34d1417f1f7.png",
+      "source_tag": "img:page-image",
+      "context": "img img_w20210927a49332e07a38a div _img_box div widget image_map div _widget_data div w20210927a49332e07a38a",
+      "content_type": "image/webp",
+      "bytes": 69652,
+      "sha256": "33fc4a66a240b79db3af7714b66048d722d97bed736ac17b3efddeaa8b469f8d",
+      "width": 1800,
+      "height": 936
+    }
+  ]
+}

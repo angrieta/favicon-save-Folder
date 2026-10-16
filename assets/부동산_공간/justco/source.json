@@ -1,0 +1,71 @@
+{
+  "company": "JustCo",
+  "category": "부동산_공간",
+  "requested_url": "https://www.justcoglobal.com/ko-kr/",
+  "page_url": "https://www.justcoglobal.com/ko-kr/locations/",
+  "page_title": "공유오피스 & 사무실 임대 – 한국 | JustCo",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=587971995256272&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/justco/favicon.png",
+      "source_url": "https://www.justcoglobal.com/wp-content/uploads/2025/01/JustCo-Logo-2024-Scaled.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6057,
+      "sha256": "72da51b94cad5319bd4273690bd5e2b6f0ff8b7108fcf4802e130ae396fa62e7",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/justco/logo-1.png",
+      "source_url": "https://www.justcoglobal.com/wp-content/uploads/2025/12/cropped-JC-Logo_updated.png",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 1469,
+      "sha256": "6a662674b20790249bba96c3493525537072bdd5a0d8a072e8c6f32a88a6279c",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/justco/logo-2.svg",
+      "source_url": "https://www.justcoglobal.com/wp-content/uploads/2025/12/light_logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img Logo a light_header_asset div logo_wrap div left div inner",
+      "content_type": "image/svg+xml",
+      "bytes": 6437,
+      "sha256": "d213b68d60602799d586894961f3afe677e8921a6d13b7954804e221a62531f4",
+      "width": 64,
+      "height": 64,
+      "source_sha256": "414ff5284ca124b2c009ad46a3a0526e60f6f6d01d25e9aedfa8e55d442a8fb0"
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/justco/banner-1.webp",
+      "source_url": "https://www.justcoglobal.com/wp-content/uploads/2026/02/kr_banner-1.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img attachment-full size-full wp-image-149837 kr banner div elementor-widget-container div elementor-element elementor-element-15827d89 elementor-widget elementor-widget-image div elementor-element elementor-element-c76541f e-con-full eleme",
+      "content_type": "image/webp",
+      "bytes": 84608,
+      "sha256": "a7480ab8e214c228471b17f801bf26d9d891dfbb336a5bfe298f9b1b85b216e4",
+      "width": 1800,
+      "height": 461
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/justco/banner-2.webp",
+      "source_url": "https://www.justcoglobal.com/wp-content/uploads/2026/02/kr_banner-1-1536x394.webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img attachment-full size-full wp-image-149837 kr banner div elementor-widget-container div elementor-element elementor-element-15827d89 elementor-widget elementor-widget-image div elementor-element elementor-element-c76541f e-con-full eleme",
+      "content_type": "image/webp",
+      "bytes": 56650,
+      "sha256": "402f987dfc36f4d44e6870af900230d75a483d6b0c63fa2d5023e16dd18a177d",
+      "width": 1536,
+      "height": 394
+    }
+  ]
+}

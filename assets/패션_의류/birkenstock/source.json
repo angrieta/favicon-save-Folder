@@ -1,0 +1,106 @@
+{
+  "company": "Birkenstock",
+  "category": "패션_의류",
+  "requested_url": "https://www.birkenstock.com/kr",
+  "page_url": "https://www.birkenstock.com/kr",
+  "page_title": "샌들, 신발 & 클로그 | 버켄스탁 코리아",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.birkenstock.com/on/demandware.static/Sites-KR-Site/-/default/dw2302fc2c/fonts/dinNextCyr/DINNextCYR-Regular.woff2; reference:ValueError:https://www.birkenstock.com/on/demandware.static/Sites-KR-Site/-/default/dw63f8b29a/fonts/dinNextCyr/DINNextCYR-Bold.woff2; reference:ValueError:https://www.birkenstock.com/on/demandware.static/Sites-KR-Site/-/ko_KR/v1790680506230/common_critical.css; reference:ValueError:https://www.birkenstock.com/on/demandware.static/Sites-KR-Site/-/ko_KR/v1790680506230/common.css; reference:ValueError:https://www.birkenstock.com/on/demandware.static/Sites-KR-Site/-/ko_KR/v1790680506230/hp.css; reference:ValueError:https://dxp-global.birkenstock.com/api/richTextBlockStyles/getWrappedStyles",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/패션_의류/birkenstock/favicon.png",
+      "source_url": "https://www.birkenstock.com/on/demandware.static/Sites-KR-Site/-/default/dw34d4d0a6/images/favicons/apple-icon-180x180.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 53488,
+      "sha256": "a3538a2e1c66be02ebcc94e4b7cae232090c80a4897ec1a056090568d8d8fe27",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/패션_의류/birkenstock/og.webp",
+      "source_url": "https://www.birkenstock.com/on/demandware.static/-/Library-Sites-birkenstock-apac/default/dw609eab8c/images/hp/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 24452,
+      "sha256": "09ad2a9db848a20fc142e679d70d13d4cf78d9ba8baf0b90362a21aa77431102",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/패션_의류/birkenstock/logo-1.svg",
+      "source_url": "https://www.birkenstock.com/on/demandware.static/Sites-KR-Site/-/default/dwe4dda17b/images/logo.svg",
+      "source_tag": "json-ld[0].mainEntity.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 6116,
+      "sha256": "597f98068cc2725187102151cc2e9493938f6aae7cdbc6a8d869fdbd846fb582",
+      "width": 163,
+      "height": 26,
+      "source_sha256": "75b57c2f9e0ab79d1d27b8984f50677cb0fdc21add1d67fd02e8ad9f4c7961ab"
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/birkenstock/banner-1.webp",
+      "source_url": "https://dxp-global.birkenstock.com/globalassets/regional-content-asia/korea/03-campaigns/seasonal/aw26/0909-socks-and-stocks/hero-banner-gwp-pc.png?format=webp&width=1024&quality=80",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a SOCKS AND STOCKS div component-hero__media-wrapper div component-hero div",
+      "content_type": "image/webp",
+      "bytes": 16596,
+      "sha256": "a87854b984f2dcea2a50f0472a5522106e692ecc45e65e34ef47551fb8657959",
+      "width": 1024,
+      "height": 256
+    },
+    {
+      "type": "banner",
+      "path": "assets/패션_의류/birkenstock/banner-2.webp",
+      "source_url": "https://dxp-global.birkenstock.com/globalassets/regional-content-asia/korea/03-campaigns/seasonal/aw26/0909-socks-and-stocks/hero-banner-gwp-pc.png?width=1024&quality=80",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture a SOCKS AND STOCKS div component-hero__media-wrapper div component-hero div",
+      "content_type": "image/webp",
+      "bytes": 20248,
+      "sha256": "693db33163925cf8f783b5741a9f173183f1f42cf9e974b5f4445cfe5a0e0894",
+      "width": 1024,
+      "height": 256
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/birkenstock/reference-1.webp",
+      "source_url": "https://dxp-global.birkenstock.com/globalassets/regional-content-asia/korea/03-campaigns/seasonal/aw26/0909-socks-and-stocks/hero-banner-gwp-mo.png?format=webp&width=375&quality=80",
+      "source_tag": "picture:page-image",
+      "context": "picture a SOCKS AND STOCKS div component-hero__media-wrapper div component-hero div",
+      "content_type": "image/webp",
+      "bytes": 15526,
+      "sha256": "b9518f6d6d422ce094bb1287dd7f2a674d2bddfb74290510ed55c0e9ac4385c4",
+      "width": 375,
+      "height": 375
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/birkenstock/reference-2.webp",
+      "source_url": "https://dxp-global.birkenstock.com/globalassets/regional-content-asia/korea/03-campaigns/seasonal/aw26/0909-socks-and-stocks/hero-banner-gwp-mo.png?width=375&quality=80",
+      "source_tag": "picture:page-image",
+      "context": "picture a SOCKS AND STOCKS div component-hero__media-wrapper div component-hero div",
+      "content_type": "image/webp",
+      "bytes": 18286,
+      "sha256": "dd48c1d744fb35078f351e3fdc6a6c2bf1af0c6e5513260939d260a0a2b57f78",
+      "width": 375,
+      "height": 375
+    },
+    {
+      "type": "reference",
+      "path": "assets/패션_의류/birkenstock/reference-3.webp",
+      "source_url": "https://dxp-global.birkenstock.com/globalassets/regional-content-asia/korea/03-campaigns/seasonal/aw26/0909-socks-and-stocks/hero-banner-gwp-mo.png?format=webp&width=768&quality=80",
+      "source_tag": "picture:page-image",
+      "context": "picture a SOCKS AND STOCKS div component-hero__media-wrapper div component-hero div",
+      "content_type": "image/webp",
+      "bytes": 55638,
+      "sha256": "b75a029258433ff9c5e568c32923c80c9aedfaeae1d2c7b9a3163dd45be624a9",
+      "width": 768,
+      "height": 768
+    }
+  ]
+}

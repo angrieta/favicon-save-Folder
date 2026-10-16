@@ -1,0 +1,123 @@
+{
+  "company": "Industrious",
+  "category": "부동산_공간",
+  "requested_url": "https://www.industriousoffice.com/",
+  "page_url": "https://www.industriousoffice.com/",
+  "page_title": "Coworking & Private Office Space | Industrious",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://www.industriousoffice.com/videos/home.mp4; reference:ValueError:https://www.industriousoffice.com/videos/home.mp4",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/부동산_공간/industrious/favicon.ico",
+      "source_url": "https://www.industriousoffice.com/favicon.ico",
+      "source_tag": "default /favicon.ico",
+      "content_type": "image/x-icon",
+      "bytes": 5558,
+      "sha256": "426cdf2c586a292f5c09fbd08621d32c9208b7b9984d15b1bc1dddd1a8181505",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/부동산_공간/industrious/og.webp",
+      "source_url": "https://www-assets.industriousoffice.com/images/defaultOpenGraphImage.webp",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 71570,
+      "sha256": "12cd173b0214a1ade1a07499066277a8452fc57eedff3bd0c39f1fc4ff825836",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/industrious/logo-1.png",
+      "source_url": "https://www-assets.industriousoffice.com/images/schema-logo.png",
+      "source_tag": "json-ld.logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 103460,
+      "sha256": "8dbd3c176aa70026819a78135d01ce16c18b325b5290902665ac37fff9a5d347",
+      "width": 1285,
+      "height": 1600
+    },
+    {
+      "type": "logo",
+      "path": "assets/부동산_공간/industrious/logo-2.svg",
+      "source_url": "https://www.industriousoffice.com/_next/static/media/PfizerLogo.1e096wkndjn7-.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img h-[42px] w-[110px] sm:max-w-[9rem] xl:max-w-[10rem] Logo Pfizer li m-auto ul grid grid-cols-3 grid-rows-2 gap-y-10 lg:grid-rows-1 lg:grid-cols-6 section w-full py-5 lg:py-16 md:my-12 base-container main",
+      "content_type": "image/svg+xml",
+      "bytes": 5374,
+      "sha256": "e27316ac4e2c9b0cf552ba69a441c8336906cb8c0927fe795b61e59d60581ca3",
+      "width": 110,
+      "height": 42,
+      "source_sha256": "497f8bc120ca2debfb4f876a596ab647437c9d67c61c39dd3a82d49982230db0"
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/industrious/banner-1.webp",
+      "source_url": "https://www-assets.industriousoffice.com/images/solutions-pages/access.webp?width=2048&quality=90&format=webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover w-full Coworking space li lg:w-1/3 ul flex flex-col gap-5 mt-2 md:flex-row md:w-auto max-w-[1360px] section w-full bg-almond-99 flex flex-col items-center gap-5 px-5 py-10 md:px-10 div flex flex-col items-center",
+      "content_type": "image/webp",
+      "bytes": 86676,
+      "sha256": "e4229e2520839e7fdac6d3152583d839f8bebf6f86a71ca7fc8b6dd068812961",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "afd70c5a3c8d0cbf7b16929a75106bfd853f718a68751bd3d67e36858bde7efd"
+    },
+    {
+      "type": "banner",
+      "path": "assets/부동산_공간/industrious/banner-2.webp",
+      "source_url": "https://www-assets.industriousoffice.com/images/solutions-pages/access.webp?width=1920&quality=90&format=webp",
+      "source_tag": "img:semantic-banner",
+      "context": "img object-cover w-full Coworking space li lg:w-1/3 ul flex flex-col gap-5 mt-2 md:flex-row md:w-auto max-w-[1360px] section w-full bg-almond-99 flex flex-col items-center gap-5 px-5 py-10 md:px-10 div flex flex-col items-center",
+      "content_type": "image/webp",
+      "bytes": 86706,
+      "sha256": "c772f4dbfd2ed2dfadea5beba262b390636f8d1e5bb955d88fae2d40841bc2ec",
+      "width": 1600,
+      "height": 1067,
+      "source_sha256": "ac02926f43f6e94dc58d0abdd8ab01cf5231a10e1edb66c08696f03966488af7"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/industrious/reference-1.webp",
+      "source_url": "https://www-assets.industriousoffice.com/images/solutions-pages/dedicatedOffice.webp?width=2048&quality=90&format=webp",
+      "source_tag": "img:page-image",
+      "context": "img object-cover w-full Coworking space li lg:w-1/3 ul flex flex-col gap-5 mt-2 md:flex-row md:w-auto max-w-[1360px] section w-full bg-almond-99 flex flex-col items-center gap-5 px-5 py-10 md:px-10 div flex flex-col items-center",
+      "content_type": "image/webp",
+      "bytes": 109252,
+      "sha256": "8a082c1657f1151a0599770f9bc9c68923d496a3774d8fd02313efe78f36eaff",
+      "width": 1600,
+      "height": 1068,
+      "source_sha256": "351d4b8f84f344fcd64ea028bce99ac0b9cb15dea5ef0a0e0283fa9f6c88657e"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/industrious/reference-2.webp",
+      "source_url": "https://www-assets.industriousoffice.com/images/solutions-pages/dedicatedOffice.webp?width=1920&quality=90&format=webp",
+      "source_tag": "img:page-image",
+      "context": "img object-cover w-full Coworking space li lg:w-1/3 ul flex flex-col gap-5 mt-2 md:flex-row md:w-auto max-w-[1360px] section w-full bg-almond-99 flex flex-col items-center gap-5 px-5 py-10 md:px-10 div flex flex-col items-center",
+      "content_type": "image/webp",
+      "bytes": 108416,
+      "sha256": "e9f630c0dc79233890b139e58ef0ddb30c1cf29f3559fd2463eb566e53c0a0d1",
+      "width": 1600,
+      "height": 1068,
+      "source_sha256": "f4d05e5e91c40b2dc64a48dadaaf6f54352907552dca5af19cd90925f27c5d47"
+    },
+    {
+      "type": "reference",
+      "path": "assets/부동산_공간/industrious/reference-3.webp",
+      "source_url": "https://www-assets.industriousoffice.com/images/solutions-pages/meetingRoom.webp?width=2048&quality=90&format=webp",
+      "source_tag": "img:page-image",
+      "context": "img object-cover w-full Coworking space li lg:w-1/3 ul flex flex-col gap-5 mt-2 md:flex-row md:w-auto max-w-[1360px] section w-full bg-almond-99 flex flex-col items-center gap-5 px-5 py-10 md:px-10 div flex flex-col items-center",
+      "content_type": "image/webp",
+      "bytes": 142104,
+      "sha256": "caeed48faf14ebb27461f85b3ee2a0ad3c8d2f7cfde0220b3a720b0dc3a6a7f5",
+      "width": 1600,
+      "height": 1068,
+      "source_sha256": "d3fd607c1eaabf861eedd6ebaf90a2002addda7db828a26b626ed8a65ce22c0e"
+    }
+  ]
+}

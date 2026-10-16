@@ -1,0 +1,119 @@
+{
+  "company": "Qonto",
+  "category": "핀테크_결제",
+  "requested_url": "https://qonto.com/",
+  "page_url": "https://qonto.com/en",
+  "page_title": "Manage all your finances from your Qonto business account",
+  "collection_status": "complete",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/qonto/favicon.png",
+      "source_url": "https://qonto.com/blog/assets/apple-touch-icon-4d8a168a3ba8d53fa08beaf4d665da32d9a43f49b88fa9f08d3017e23663ef53.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 14572,
+      "sha256": "2b5b16261be548541564504f80cfcbe9d22b99432cd78d87bade22eebee20439",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/qonto/og.webp",
+      "source_url": "https://qonto.com/blog/images/asset/32776/image/52a051963b267b2b99a01ea505524633.avif",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 24714,
+      "sha256": "22fbc4e2b731cc802f102ebcd330d88819b6def37072bf485cd338023ce4960f",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/qonto/logo-1.svg",
+      "source_url": "https://qonto.com/blog/assets/logo-7d4cecd23c516a73d28522b73227cb8bdc80cbbe1d7c83d9228a7e0ab84a0852.svg",
+      "source_tag": "json-ld.@graph[1].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 2013,
+      "sha256": "e0efd7b858a202020470b7bf2bf4b38ea7a61f64e4001f24f16de0a9f26cf940",
+      "width": 85,
+      "height": 24,
+      "source_sha256": "603241dc39ea0a344345a5465038958cc5a747eacc9a21c791ff37bb631550c8"
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/qonto/logo-2.svg",
+      "source_url": "https://qonto.com/blog/images/asset/25709/image/fcd5f778043bd52ed3d8071935da97fb.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img w-auto md:h-56 h-48 invert WEB Logo Poiscaille div flex div flex gap-4 justify-between items-start w-full div flex z-10 flex-col gap-12 justify-start items-start p-16 lg:gap-16 md:p-24 div flex flex-col justify-between h-full",
+      "content_type": "image/svg+xml",
+      "bytes": 9213,
+      "sha256": "d0157169c5859771059b858737f537aaab7a84ab82ee03db66b9788716ce9978",
+      "width": 122,
+      "height": 40,
+      "source_sha256": "7c3b1038c98c1fafe2247ad873eef89ef7a684aaca03f2f16f7ef6605ef9e651"
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/qonto/banner-1.webp",
+      "source_url": "https://qonto.com/blog/images/asset/33449/image/xl_avif-0295f971605b7b151f60d022c1a62c64.avif",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture hidden lg:block w-full lg:h-screen h-svh object-cover absolute inset-0 z-10 section section-1 relative col-span-6 w-full min-h-svh lg:min-h-screen md:col-span-9 lg:col-span-12 surface-section-background-inverse darkmode text-dark-pr",
+      "content_type": "image/webp",
+      "bytes": 12266,
+      "sha256": "b2c75edde543f9867fc930fc9b75ca4a9f1a7938bc24c3b74ba3e1d9f863b19f",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/qonto/banner-2.webp",
+      "source_url": "https://qonto.com/blog/images/asset/33449/image/lg_avif-a6948b2af844547d039c49ecc13c3565.avif",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture hidden lg:block w-full lg:h-screen h-svh object-cover absolute inset-0 z-10 section section-1 relative col-span-6 w-full min-h-svh lg:min-h-screen md:col-span-9 lg:col-span-12 surface-section-background-inverse darkmode text-dark-pr",
+      "content_type": "image/webp",
+      "bytes": 10786,
+      "sha256": "86248fd9523c06756fb302bb78204c7d2e085ab9e5d8dac06f55871229cc58df",
+      "width": 1727,
+      "height": 971
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/qonto/reference-1.webp",
+      "source_url": "https://qonto.com/blog/images/asset/35257/image/xl_avif-ddb458a41229a4ddf09993527e2f0281.avif",
+      "source_tag": "picture:page-image",
+      "context": "picture div overflow-hidden w-full md:h-310 lg:h-full lg:min-w-260 rounded-lg a group lg:flex-1 lg:min-h-284 lg:max-h-335 mb-16 mt-32 lg:mt-0 rounded-lg relative surface-container-gradient div flex flex-col flex-1 specific-width-highlight l",
+      "content_type": "image/webp",
+      "bytes": 97964,
+      "sha256": "62c44abae3365d9a88f9f978f8a7aa9f659276fb31dd661329882f6d44bb2ced",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/qonto/reference-2.webp",
+      "source_url": "https://qonto.com/blog/images/asset/35257/image/lg_avif-d98cd235e572d0a923a8cf86a25ec206.avif",
+      "source_tag": "picture:page-image",
+      "context": "picture div overflow-hidden w-full md:h-310 lg:h-full lg:min-w-260 rounded-lg a group lg:flex-1 lg:min-h-284 lg:max-h-335 mb-16 mt-32 lg:mt-0 rounded-lg relative surface-container-gradient div flex flex-col flex-1 specific-width-highlight l",
+      "content_type": "image/webp",
+      "bytes": 96470,
+      "sha256": "1dcf2397b6d69b432893d5f043f0faf1e92fb2ab679342bd8c360f7425680f56",
+      "width": 1350,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/qonto/reference-3.webp",
+      "source_url": "https://qonto.com/blog/images/asset/35257/image/xl_original-888471ffa7f47ecd8fbcb3dd45bdc093.jpg",
+      "source_tag": "picture:page-image",
+      "context": "picture div overflow-hidden w-full md:h-310 lg:h-full lg:min-w-260 rounded-lg a group lg:flex-1 lg:min-h-284 lg:max-h-335 mb-16 mt-32 lg:mt-0 rounded-lg relative surface-container-gradient div flex flex-col flex-1 specific-width-highlight l",
+      "content_type": "image/webp",
+      "bytes": 112342,
+      "sha256": "36eec799157ae18178b8a4927e672ff7567442129f58d7c3d5199f3afe273d6d",
+      "width": 1350,
+      "height": 1350
+    }
+  ]
+}

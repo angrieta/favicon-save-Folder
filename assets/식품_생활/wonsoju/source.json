@@ -1,0 +1,70 @@
+{
+  "company": "원소주",
+  "category": "식품_생활",
+  "requested_url": "https://www.wonsoju.com/",
+  "page_url": "https://www.wonsoju.com/",
+  "page_title": "WONSOJU",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.facebook.com/tr?id=891711508591933&ev=PageView&noscript=1",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/식품_생활/wonsoju/favicon.png",
+      "source_url": "https://www.wonsoju.com/web/upload/favicon-352e5c6dd10d2218c2659a05757e59e1.ico",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 12229,
+      "sha256": "8d249e3c68bd742021434e532dbd870391eb698e2482dc233e0a6f594b5f539b",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/wonsoju/logo-1.png",
+      "source_url": "https://www.wonsoju.com/web/upload/131/WON_LOGO_W.png",
+      "source_tag": "img:semantic-logo",
+      "context": "img logoB a div Logo nav hearder-top div layout-row",
+      "content_type": "image/png",
+      "bytes": 2954,
+      "sha256": "110750d791b97e233be8c1326b2ff288497af1071ea390456129a69d83384f2b",
+      "width": 250,
+      "height": 162
+    },
+    {
+      "type": "logo",
+      "path": "assets/식품_생활/wonsoju/logo-2.svg",
+      "source_url": "https://www.wonsoju.com/web/upload/onns/logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logoW a div Logo nav hearder-top div layout-row",
+      "content_type": "image/svg+xml",
+      "bytes": 972,
+      "sha256": "2ff7f0938dab7047163b3ca273dcb523a8ae1f98dfe56e40e293d85d16341e28",
+      "width": 89,
+      "height": 21
+    },
+    {
+      "type": "banner",
+      "path": "assets/식품_생활/wonsoju/banner-1.webp",
+      "source_url": "https://www.wonsoju.com/web/upload/PC_HWANYOUNG30_1920x1080.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  main-banner-image main-banner-image-pc height:100vh; background-size:cover; background-position:center; background-image: url(/web/upload/PC_HWANYOUNG30_1920x1080.jpg);",
+      "content_type": "image/webp",
+      "bytes": 142048,
+      "sha256": "b1f3517a050a82cd6abcd6491053697ef7cee50cab284159128a65fbef91ab66",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/식품_생활/wonsoju/reference-1.webp",
+      "source_url": "https://www.wonsoju.com/web/upload/MO_HWANYOUNG30_1080x1815.jpg",
+      "source_tag": "inline-background-image",
+      "context": "div  main-banner-image main-banner-image-mo height:100vh; background-size:cover; background-position:center; background-image: url(/web/upload/MO_HWANYOUNG30_1080x1815.jpg);",
+      "content_type": "image/webp",
+      "bytes": 56422,
+      "sha256": "06f30da3242d066d80960f9311bbbdc3db8d9bb07f425bae3e04f7937692c09d",
+      "width": 803,
+      "height": 1350
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "company": "GitLab",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://about.gitlab.com/",
+  "page_url": "https://about.gitlab.com/",
+  "page_title": "GitLab - Speed with control for agentic software engineering",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://about.gitlab.com/_nuxt/BqFFb_eK.js; reference:ValueError:https://about.gitlab.com/_nuxt/Do3H1JE2.js; reference:ValueError:https://about.gitlab.com/_nuxt/Cs9L7cfi.js; reference:ValueError:https://about.gitlab.com/_nuxt/rUgZjKGR.js; reference:ValueError:https://about.gitlab.com/_nuxt/n3eo_tyO.js; reference:ValueError:https://about.gitlab.com/_nuxt/UoX5koZv.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/gitlab/favicon.png",
+      "source_url": "https://about.gitlab.com/images/ico/favicon-192x192.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 6298,
+      "sha256": "d48b2f3f59da3b7fa6939825230cd9d2066fb9843b66e33779a07c326d7cd304",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/gitlab/og.webp",
+      "source_url": "https://about.gitlab.com/img/og?title=GitLab%20-%20Speed%20with%20control%20for%20agentic%20software%20engineering",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 72252,
+      "sha256": "2ff67e706930600f014540e30ec568f7337276673418b5aa23a009088d547ffc",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/gitlab/logo-1.png",
+      "source_url": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1750705064/crnigurqmalqj1uwhlg8.png",
+      "source_tag": "json-ld.@graph[3].logo.url",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 19749,
+      "sha256": "6d2148f8a732fb1b315512819f69b0eda7f6d25b104147db1a6cb307f092036e",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "logo",
+      "path": "assets/글로벌_SaaS/gitlab/logo-2.svg",
+      "source_url": "https://res.cloudinary.com/about-gitlab-com/image/upload/f_avif,q_80,w_400/v1755887573/fvbnyei3tq26pbaz3hj8.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img logo nvidia logo a nvidia logo li ul marquee__content div marquee--undefined marquee",
+      "content_type": "image/svg+xml",
+      "bytes": 2521,
+      "sha256": "dcb8e211c50318126362c99bafd0dfdb97b9eb6268c031ffbdfe145832f225dc",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "reference",
+      "path": "assets/글로벌_SaaS/gitlab/reference-1.svg",
+      "source_url": "https://res.cloudinary.com/about-gitlab-com/image/upload/f_avif,q_80,w_400/v1755887509/ul3vtwvvkozw9ppfstka.svg",
+      "source_tag": "img:page-image",
+      "context": "img logo agoda logo a agoda logo li ul marquee__content div marquee--undefined marquee",
+      "content_type": "image/svg+xml",
+      "bytes": 5262,
+      "sha256": "6a61eb1f444164ced63acad527b9e99121c10095ba3af3fba79749915c4509b4",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}

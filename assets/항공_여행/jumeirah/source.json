@@ -1,0 +1,70 @@
+{
+  "company": "Jumeirah",
+  "category": "항공_여행",
+  "requested_url": "https://www.jumeirah.com",
+  "page_url": "https://www.jumeirah.com/en",
+  "page_title": "Luxury Hotels and Resorts | Jumeirah Hotels & Resorts Official Site",
+  "collection_status": "complete",
+  "collection_error": "banner:ValueError:https://cdn.jumeirah.com/api/public/content/813753df327a40fa8ee91a29aa6f2229?v=9b28113f; reference:ValueError:https://cdn.jumeirah.com/api/public/content/813753df327a40fa8ee91a29aa6f2229?v=9b28113f; reference:ValueError:https://www.jumeirah.com/_next/static/css/3b04ff717f3ed052.css; reference:ValueError:https://www.jumeirah.com/_next/static/css/fea3a592a9131693.css; reference:ValueError:https://www.jumeirah.com/_next/static/css/854ab37774eed38f.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/항공_여행/jumeirah/favicon.png",
+      "source_url": "https://cdn.jumeirah.com/api/public/content/47df5ae6c459443092a2d0d9b1e1f5a7?v=d5a76522",
+      "source_tag": "shortcut icon",
+      "content_type": "image/png",
+      "bytes": 1903,
+      "sha256": "cd60fc3ead056fb5a0a5bffb2a8e5beb28711afaf59972772740c5e5be952fdf",
+      "width": 96,
+      "height": 96
+    },
+    {
+      "type": "logo",
+      "path": "assets/항공_여행/jumeirah/logo-1.svg",
+      "source_url": "https://cdn.jumeirah.com/api/public/content/d0baacdad9f14e63a6d75ac09bf5bd0d?v=11eb8678",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 4458,
+      "sha256": "272776d3f24a805739e6f76cb30188f294e779d011bc252093a25278746bdceb",
+      "width": 566,
+      "height": 108
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/jumeirah/banner-1.webp",
+      "source_url": "https://cdn.jumeirah.com/api/public/content/00744e7cd0a84bac95faf7d19108d317?v=ca773aa2",
+      "source_tag": "img:semantic-banner",
+      "context": "img bgImage dimage bg-image div HeroBannerWithVideo banner div div div jsx-29a80fbb4633d049",
+      "content_type": "image/webp",
+      "bytes": 98874,
+      "sha256": "ae3302cae890d8bc84f9095289de31928d885ef74383bb517b8d7bd8e05a8c6c",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "banner",
+      "path": "assets/항공_여행/jumeirah/banner-2.webp",
+      "source_url": "https://cdn.jumeirah.com/api/public/content/1fc38af08d39452ca63facb449527568?v=786b721d",
+      "source_tag": "inline-background-image",
+      "context": "div  image-row row background:radial-gradient(31.25% 31.25% at 50% 50%, rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.00) 100%), url(\"https://cdn.jumeirah.com/api/public/content/1fc38af08d39452ca63facb449527568?v=786b721d\"), lightgray -425.99px -508",
+      "content_type": "image/webp",
+      "bytes": 133870,
+      "sha256": "d192f7aa698d86976ad6d019448f8b279d1e4b066f0078841f992fde2eadb2ee",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "reference",
+      "path": "assets/항공_여행/jumeirah/reference-1.webp",
+      "source_url": "https://cdn.jumeirah.com/api/public/content/9ff7095878fb4c1d86451e060cf74552?v=cc953f19",
+      "source_tag": "inline-background-image",
+      "context": "div  image-row row background:radial-gradient(31.25% 31.25% at 50% 50%, rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.00) 100%), url(\"https://cdn.jumeirah.com/api/public/content/9ff7095878fb4c1d86451e060cf74552?v=cc953f19\"), lightgray -425.99px -508",
+      "content_type": "image/webp",
+      "bytes": 108226,
+      "sha256": "feced37cb89cfd0377fb78bfa40f1589f0873e63aa1a8ec99d019dc640151d3f",
+      "width": 1800,
+      "height": 1013
+    }
+  ]
+}

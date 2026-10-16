@@ -1,0 +1,58 @@
+{
+  "company": "Roland-Garros",
+  "category": "스포츠_레저",
+  "requested_url": "https://www.rolandgarros.com",
+  "page_url": "https://www.rolandgarros.com/en-us/",
+  "page_title": "Roland-Garros 2026 - The official site",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://www.rolandgarros.com/_nuxt/5ce9bcc.js; reference:ValueError:https://www.rolandgarros.com/_nuxt/ecf563c.js; reference:ValueError:https://www.rolandgarros.com/_nuxt/607f7f0.js; reference:ValueError:https://www.rolandgarros.com/_nuxt/6f95ba9.js; reference:ValueError:https://www.rolandgarros.com/_nuxt/6f72271.js; reference:ValueError:https://www.rolandgarros.com/_nuxt/63e1e5e.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/스포츠_레저/roland-garros/favicon.png",
+      "source_url": "https://www.rolandgarros.com/favicon.png",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 40128,
+      "sha256": "23626213cb7af952d84f7fa08fd4948c2faff2377227f2e91fca7ec60fac64d4",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/roland-garros/logo-1.svg",
+      "source_url": "https://images.prismic.io/fft-rg-site%2F95765448-c7fa-428b-b565-8368dba90b17_logo.svg?auto=compress,format",
+      "source_tag": "img:semantic-logo",
+      "context": "img main-logo a homepage-url-test div logo div header-container home header main-header",
+      "content_type": "image/svg+xml",
+      "bytes": 6315,
+      "sha256": "760bd2602968c5fd2344660e2709946999895b6a0b8a2edf8a1812b34f7b1f01",
+      "width": 62,
+      "height": 62
+    },
+    {
+      "type": "logo",
+      "path": "assets/스포츠_레저/roland-garros/logo-2.svg",
+      "source_url": "https://www.rolandgarros.com/img/engie-logo.svg",
+      "source_tag": "img:semantic-logo",
+      "context": "img img engie partner logo div dark-modal-title div engie-center-title div modal-header div modal-dialog",
+      "content_type": "image/svg+xml",
+      "bytes": 4849,
+      "sha256": "e71e030151296dfa9ca55a2ec9666b2fb513defe9d4067cb333b904cb8c7c508",
+      "width": 96,
+      "height": 32
+    },
+    {
+      "type": "banner",
+      "path": "assets/스포츠_레저/roland-garros/banner-1.webp",
+      "source_url": "https://images.prismic.io/fft-rg-commun-news/w7BIWqOUn0Z2dSGq_GastonGaudio-Photocalltroph%C3%A9e-Roland-Garros2004-ChristopheSa%C3%AFdiFFT.JPG?auto=format%2Ccompress&rect=227%2C0%2C2750%2C2006&w=680&h=496",
+      "source_tag": "img:semantic-banner",
+      "context": "img Gaston Gaudio / Photocall trophée - Roland-Garros 2004 Gaston Gaudio / Photocall trophée - Roland-Garros 2004 figure ©Christophe Saïdi / FFT div edito-img a section edito-container edito-bloc",
+      "content_type": "image/webp",
+      "bytes": 40060,
+      "sha256": "65d90d2a5da4ae57e8c07e142fd556b908ed645409ab9e93605681781ce06ae2",
+      "width": 680,
+      "height": 496
+    }
+  ]
+}

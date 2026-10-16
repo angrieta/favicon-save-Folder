@@ -1,0 +1,119 @@
+{
+  "company": "Curve",
+  "category": "핀테크_결제",
+  "requested_url": "https://www.curve.com/",
+  "page_url": "https://www.curve.com/",
+  "page_title": "Curve Pay - The Only Wallet That Saves You Money",
+  "collection_status": "complete",
+  "collection_error": "banner:HTTPError:https://cdn.buttercms.com/resize=width:640/output=format:webp; banner:HTTPError:https://cdn.buttercms.com/resize=width:740/output=format:webp; reference:HTTPError:https://cdn.buttercms.com/resize=width:960/output=format:webp; reference:HTTPError:https://cdn.buttercms.com/resize=width:640/output=format:webp; reference:HTTPError:https://cdn.buttercms.com/resize=width:740/output=format:webp; reference:ValueError:https://www.curve.com/_astro/fonts/753693b0ba786435.woff2",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/핀테크_결제/curve/favicon.svg",
+      "source_url": "https://www.curve.com/images/curve-icon.svg",
+      "source_tag": "icon",
+      "content_type": "image/svg+xml",
+      "bytes": 3253,
+      "sha256": "efe430d59fba72ff2bde83ebc35d589ebdbc696a8bb4052c029c51612a500ab9",
+      "width": 532,
+      "height": 538,
+      "source_sha256": "a2150f777a27f75caca4c8fc4190fdd8d5c88250c333d8218a556f2b3cca696a"
+    },
+    {
+      "type": "social",
+      "path": "assets/핀테크_결제/curve/og.webp",
+      "source_url": "https://cdn.buttercms.com/OZb0mcqMQz6dq1j13OYV",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 3268,
+      "sha256": "8c934872d47dd6de86cde8ad26535369b08c59d1c1c116b9eeced2127adcc07a",
+      "width": 923,
+      "height": 410
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/curve/logo-1.svg",
+      "source_url": "https://www.curve.com/images/curve-logo.svg",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 5016,
+      "sha256": "1f2f15b02ce840ab51a13a1e931c71b706154f8d27501533481e2261c854eaf2",
+      "width": 181,
+      "height": 40,
+      "source_sha256": "289c5d85604e47704cc35514667c88de25d72efeea71bdfe419910f8e5787ffc"
+    },
+    {
+      "type": "logo",
+      "path": "assets/핀테크_결제/curve/logo-2.svg",
+      "source_url": "https://cdn.buttercms.com/AfSnb4E2TYNqoM8OKtjm",
+      "source_tag": "img:semantic-logo",
+      "context": "img Curve Pay logo p article space-y-6 [&_br]:hidden lg:[&_br]:block div relative z-1 md:px-0 div relative z-10 container w-full",
+      "content_type": "image/svg+xml",
+      "bytes": 3341,
+      "sha256": "92c696779b17259bb4c69a2ff70a2b1e3bb8c10ff0e5d0afd3417a41d4481ee3",
+      "width": 224,
+      "height": 224
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/curve/banner-1.webp",
+      "source_url": "https://cdn.buttercms.com/resize=width:1200/output=format:webp,quality:80/kOUCgWvbQHyKuzt4bRwE",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 w-full object-cover object-center h-175 sm:h-233.5 lg:h-dvh [@media(min-height:600px)_and_(max-height:900px)]:h-216.5 Home Page Background section false standard-content articles relative lg:bg-center pt-19 bg-cover lg:",
+      "content_type": "image/webp",
+      "bytes": 11610,
+      "sha256": "d974f58b793deb50f42feddc583aca29ab67ff2310d9dcd689d272ea64ad9821",
+      "width": 1200,
+      "height": 658
+    },
+    {
+      "type": "banner",
+      "path": "assets/핀테크_결제/curve/banner-2.svg",
+      "source_url": "https://cdn.buttercms.com/xQF17mW9QSSneF70Ryyj",
+      "source_tag": "img:semantic-banner",
+      "context": "img absolute inset-0 h-full w-full object-cover object-center Flex div relative aspect-400/350 overflow-hidden a flex flex-col overflow-hidden rounded-3xl bg-transparent text-center bg-white div grid gap-x-1 gap-y-4 lg:gap-y-0 lg:grid-cols-",
+      "content_type": "image/svg+xml",
+      "bytes": 17596,
+      "sha256": "dc5d6f1af50f37428d4c517a73a3fea854c5048c9964667fa274db8d08aa1f48",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/curve/reference-1.webp",
+      "source_url": "https://cdn.buttercms.com/resize=width:1280/output=format:webp,quality:80/o9nAc3SXiMudvkeH8Opw",
+      "source_tag": "img:page-image",
+      "context": "img hidden aspect-734/850 md:block Home page Curve Pay hero image div pointer-events-auto relative mx-auto max-w-83.5 pt-10 sm:max-w-133.5 sm:pt-18 lg:max-w-183.5 [@media(min-height:600px)_and_(max-height:800px)]:max-w-133.5 div container r",
+      "content_type": "image/webp",
+      "bytes": 62968,
+      "sha256": "6fe2eb0bee416d47abe412f17df9884574e469ea837fe3f9f03e9feb176c438f",
+      "width": 1166,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/curve/reference-2.webp",
+      "source_url": "https://cdn.buttercms.com/resize=width:740/output=format:webp,quality:80/dsNUnd6TQx2epdiXGDtM",
+      "source_tag": "img:page-image",
+      "context": "img aspect-734/850 md:hidden Home page Curve Pay hero image div pointer-events-auto relative mx-auto max-w-83.5 pt-10 sm:max-w-133.5 sm:pt-18 lg:max-w-183.5 [@media(min-height:600px)_and_(max-height:800px)]:max-w-133.5 div container relativ",
+      "content_type": "image/webp",
+      "bytes": 33776,
+      "sha256": "56036a676018b2507461e5b4f4f404acc1930110997cc4e9c0350bec9980c48d",
+      "width": 740,
+      "height": 857
+    },
+    {
+      "type": "reference",
+      "path": "assets/핀테크_결제/curve/reference-3.webp",
+      "source_url": "https://cdn.buttercms.com/resize=width:1200/output=format:webp,quality:80/Z56XPkT9RNuVFog2kUap",
+      "source_tag": "img:page-image",
+      "context": "img absolute inset-0 h-full w-full object-contain object-center lg:object-cover Curve Pay multi-currency fee-free and cashback benefit div relative aspect-square w-full overflow-hidden rounded-4xl div rounded-4xl overflow-hidden flex items-",
+      "content_type": "image/webp",
+      "bytes": 83962,
+      "sha256": "3c4f87f902caff642bd92fd3843575b87866849757898059be82bcd0146acdd4",
+      "width": 1200,
+      "height": 1200
+    }
+  ]
+}

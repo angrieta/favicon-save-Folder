@@ -1,0 +1,107 @@
+{
+  "company": "Supergoop!",
+  "category": "뷰티_코스메틱",
+  "requested_url": "https://supergoop.com",
+  "page_url": "https://supergoop.com/",
+  "page_title": "Supergoop! The Best Skincare with SPF and Sunscreen",
+  "collection_status": "complete",
+  "collection_error": "reference:ValueError:https://cdn.shopify.com/extensions/01a0d7ea-9983-7363-9a86-3df5cd6d5786/free-gift-28-811/assets/freeGiftV2.min.css",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/뷰티_코스메틱/supergoop/favicon.png",
+      "source_url": "https://supergoop.com/cdn/shop/files/favicon-32x32_329a1a5d-7477-4e25-a5e2-0c901c4461f9.png?crop=center&height=32&v=1706113620&width=32",
+      "source_tag": "icon",
+      "content_type": "image/png",
+      "bytes": 884,
+      "sha256": "a9987315e12dfa29009f7bcf389a119c1fb05483ffb97bc54943d7f8f1b405b6",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "type": "social",
+      "path": "assets/뷰티_코스메틱/supergoop/og.webp",
+      "source_url": "https://cdn.shopify.com/s/files/1/1503/5658/files/SiteReplatform_SocialSharing.jpg?v=1706562051",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 24150,
+      "sha256": "484ba6b3c9768fca0868be6ee4f11e2dd23c5c9c109828322d5f112d206c9c02",
+      "width": 1200,
+      "height": 628
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/supergoop/logo-1.svg",
+      "source_url": "https://supergoop.com/cdn/shop/files/logo_desktop.svg?v=1706105448&width=200",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/svg+xml",
+      "bytes": 9744,
+      "sha256": "7909a62d3070bad6025c8c060b29ad9a39ca682feded17ec17538988ed7b9900",
+      "width": 113,
+      "height": 52,
+      "source_sha256": "be8591af3602f28eec893675b6334db9205bf82c6b48ddb7a73af0a09d1bb245"
+    },
+    {
+      "type": "logo",
+      "path": "assets/뷰티_코스메틱/supergoop/logo-2.svg",
+      "source_url": "https://supergoop.com/cdn/shop/files/logo_mobile.svg?v=1706105448&width=200",
+      "source_tag": "picture:semantic-logo",
+      "context": "picture span lg:hidden a Supergoop! div flex justify-center items-center col-span-6 text-black lg:col-span-4 div relative z-10 grid grid-cols-12 justify-between h-[64px] lg:h-[80px] px-4 sm:px-6 lg:px-[60px] mx-auto",
+      "content_type": "image/svg+xml",
+      "bytes": 9605,
+      "sha256": "c651def5c5e83b1eebfe3f1a482475d3c53f1f6a9c41af56e23ded23d195681e",
+      "width": 88,
+      "height": 41,
+      "source_sha256": "058cc16b73ac4a4e3e558ffc8fdd3da9d260752c4c0bc1e299993ab0fd7315ee"
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/supergoop/banner-1.webp",
+      "source_url": "https://supergoop.com/cdn/shop/files/Desktop_71bdd69c-8918-4e71-9cfb-38ead7979985.png?v=1785948135&width=1536",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div md:absolute md:inset-0 div block relative background-controller margin-controller overflow-hidden div shopify-section-template--19515784757346__hero_cfRBNL shopify-section main MainContent",
+      "content_type": "image/webp",
+      "bytes": 104096,
+      "sha256": "01681fd7215ad3079bb98e54d1b736a0d2116177a5e5e16509dcd9496816fd76",
+      "width": 1536,
+      "height": 730
+    },
+    {
+      "type": "banner",
+      "path": "assets/뷰티_코스메틱/supergoop/banner-2.webp",
+      "source_url": "https://supergoop.com/cdn/shop/files/Desktop_71bdd69c-8918-4e71-9cfb-38ead7979985.png?v=1785948135&width=1280",
+      "source_tag": "picture:semantic-banner",
+      "context": "picture div md:absolute md:inset-0 div block relative background-controller margin-controller overflow-hidden div shopify-section-template--19515784757346__hero_cfRBNL shopify-section main MainContent",
+      "content_type": "image/webp",
+      "bytes": 85652,
+      "sha256": "765298f98c273cdb69557afef59bd4ffa727cd2063557d9039d9ab99f94dea25",
+      "width": 1280,
+      "height": 608
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/supergoop/reference-1.webp",
+      "source_url": "https://supergoop.com/cdn/shop/files/Mobile_c996de59-dc0b-47fc-aafa-7ed59f97fe64.png?v=1786029794&width=1536",
+      "source_tag": "picture:page-image",
+      "context": "picture div md:absolute md:inset-0 div block relative background-controller margin-controller overflow-hidden div shopify-section-template--19515784757346__hero_cfRBNL shopify-section main MainContent",
+      "content_type": "image/webp",
+      "bytes": 97404,
+      "sha256": "6695131954fa54b72c67ffb66d8f84cf3c0ab0aeb77a526bbcdab8b98efd44df",
+      "width": 760,
+      "height": 1298
+    },
+    {
+      "type": "reference",
+      "path": "assets/뷰티_코스메틱/supergoop/reference-2.webp",
+      "source_url": "https://supergoop.com/cdn/shop/files/PGA_Justin_Seconday_Mobile.png?v=1774643195&width=1280",
+      "source_tag": "picture:page-image",
+      "context": "picture div md:absolute md:inset-0 div block relative background-controller margin-controller overflow-hidden div shopify-section-template--19515784757346__hero_yjNnYL shopify-section main MainContent",
+      "content_type": "image/webp",
+      "bytes": 47698,
+      "sha256": "07cafd0486b1e196997db27c7fc762ad2569dc41b557777bcef3efdc4fdb551a",
+      "width": 750,
+      "height": 1348
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "company": "tldraw",
+  "category": "글로벌_SaaS",
+  "requested_url": "https://www.tldraw.com",
+  "page_url": "https://www.tldraw.com/",
+  "page_title": "tldraw • very good free whiteboard",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://www.tldraw.com/assets/src-CvS_oW1C.js; reference:ValueError:https://www.tldraw.com/assets/useAppState-BZQcQXzf.js; reference:ValueError:https://www.tldraw.com/assets/src-Bd2vOwcu.js; reference:ValueError:https://www.tldraw.com/assets/tdigest-_R3LVgJ9.js; reference:ValueError:https://www.tldraw.com/assets/config-CSQbrV9k.js; reference:ValueError:https://www.tldraw.com/assets/assetUrls-5w_M9DZt.js",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/글로벌_SaaS/tldraw/favicon.png",
+      "source_url": "https://www.tldraw.com/apple-touch-icon.png",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 1942,
+      "sha256": "7f4b1b93c55827763020de7dfa7b337ae389809ce7ba2210f145d8b0883f2f72",
+      "width": 181,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/글로벌_SaaS/tldraw/og.webp",
+      "source_url": "https://www.tldraw.com/social-twitter.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 6178,
+      "sha256": "c0610746c246fbc23de1e1484b299b355d95b5571cc01b614238d1f546ea81bc",
+      "width": 1200,
+      "height": 600
+    }
+  ]
+}

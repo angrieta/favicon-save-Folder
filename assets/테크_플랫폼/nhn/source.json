@@ -1,0 +1,81 @@
+{
+  "company": "NHN",
+  "category": "테크_플랫폼",
+  "requested_url": "https://www.nhn.com/",
+  "page_url": "https://www.nhn.com/",
+  "page_title": "NHN",
+  "collection_status": "partial",
+  "collection_error": "",
+  "assets": [
+    {
+      "type": "favicon",
+      "path": "assets/테크_플랫폼/nhn/favicon.png",
+      "source_url": "https://www.nhn.com/apple-touch-icon.png?v=0.1",
+      "source_tag": "apple-touch-icon",
+      "content_type": "image/png",
+      "bytes": 2747,
+      "sha256": "ef9fc4c010f8bf6c5e959c061a13788b4f3a4801975cd2969ac66ff4b8148cc7",
+      "width": 180,
+      "height": 180
+    },
+    {
+      "type": "social",
+      "path": "assets/테크_플랫폼/nhn/og.webp",
+      "source_url": "https://static.nhncorp.com/static/site/corp/NHN.png?v=0.1",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 2614,
+      "sha256": "ca923373485fdc04651fe47c3df1da8b571fcbf508eacd51a435c61d34820542",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "logo",
+      "path": "assets/테크_플랫폼/nhn/logo-1.png",
+      "source_url": "https://nhn.com/NHN.png",
+      "source_tag": "json-ld.logo",
+      "context": "structured data logo",
+      "content_type": "image/png",
+      "bytes": 6116,
+      "sha256": "c80a9780daf475baac802f295e0bec554fa8a1b25835bc33064def7c026d3ae4",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/nhn/reference-1.webp",
+      "source_url": "https://www.nhn.com/_next/image?url=https%3A%2F%2Fstatic.nhncorp.com%2Fstatic%2Fsite%2Fcorp%2Fimages%2Fmain%2Frenewal%2Fbusiness-game.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover Game a pointer-events-auto invisible group absolute inset-0 block opacity-0 transform-gpu main_biz_game Game div absolute left-1/2 top-1/2 aspect-[552/860] h-[min(860px,calc(100dvh-64px))] w-auto max-w-552 -tr",
+      "content_type": "image/webp",
+      "bytes": 67698,
+      "sha256": "5565fa8e6abcbb77935af14f8e4e69bb8640ec15bd98bd804ce6c93d7d83e8fa",
+      "width": 931,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/nhn/reference-2.webp",
+      "source_url": "https://www.nhn.com/_next/image?url=https%3A%2F%2Fstatic.nhncorp.com%2Fstatic%2Fsite%2Fcorp%2Fimages%2Fmain%2Frenewal%2Fbusiness-payment-ad.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover Payment·Ad a pointer-events-auto invisible group absolute inset-0 block opacity-0 transform-gpu main_biz_pay Payment·Ad div absolute left-1/2 top-1/2 aspect-[552/860] h-[min(860px,calc(100dvh-64px))] w-auto ma",
+      "content_type": "image/webp",
+      "bytes": 37324,
+      "sha256": "4daa0683b5a4b0f3d6aab3bf204792cf072158afe1b66a8c01ec8fe5f806b938",
+      "width": 931,
+      "height": 1350
+    },
+    {
+      "type": "reference",
+      "path": "assets/테크_플랫폼/nhn/reference-3.webp",
+      "source_url": "https://www.nhn.com/_next/image?url=https%3A%2F%2Fstatic.nhncorp.com%2Fstatic%2Fsite%2Fcorp%2Fimages%2Fmain%2Frenewal%2Fbusiness-commerce.png&w=3840&q=75",
+      "source_tag": "img:page-image",
+      "context": "img h-full w-full object-cover Commerce a pointer-events-auto invisible group absolute inset-0 block opacity-0 transform-gpu main_biz_comm Commerce div absolute left-1/2 top-1/2 aspect-[552/860] h-[min(860px,calc(100dvh-64px))] w-auto max-w",
+      "content_type": "image/webp",
+      "bytes": 37102,
+      "sha256": "4ba488c0a50e7858f8362388f0b40f718a47d91d04acacdf6d355c39ca513091",
+      "width": 931,
+      "height": 1350
+    }
+  ]
+}

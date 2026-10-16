@@ -1,0 +1,22 @@
+{
+  "company": "Crunchyroll",
+  "category": "미디어_콘텐츠",
+  "requested_url": "https://www.crunchyroll.com/",
+  "page_url": "https://www.crunchyroll.com/ko",
+  "page_title": "Crunchyroll",
+  "collection_status": "partial",
+  "collection_error": "reference:ValueError:https://static.crunchyroll.com/cr-acquisition/assets/fonts/Lato/Lato-Heavy.woff2; reference:ValueError:https://static.crunchyroll.com/cr-acquisition/assets/fonts/Lato/Lato-Medium.woff2; reference:ValueError:https://static.crunchyroll.com/cr-acquisition/assets/fonts/Lato/Lato-Semibold.woff2; reference:ValueError:https://static.crunchyroll.com/cr-acquisition/assets/fonts/Crunchyroll/Crunchyroll-Bold.woff2; reference:ValueError:https://static.crunchyroll.com/cr-acquisition/assets/fonts/CrunchyrollAtyp/CrunchyrollAtyp-Bold.woff2",
+  "assets": [
+    {
+      "type": "social",
+      "path": "assets/미디어_콘텐츠/crunchyroll/og.webp",
+      "source_url": "https://static.crunchyroll.com/cxweb/assets/img/og-image.png",
+      "source_tag": "og:image",
+      "content_type": "image/webp",
+      "bytes": 51556,
+      "sha256": "ae2c1a9bfffdef930c96daf0dab845c3a0e775fd8ecfd90a6111a60010bb867a",
+      "width": 1200,
+      "height": 1025
+    }
+  ]
+}
