@@ -393,7 +393,38 @@ function thumbFor(path) {
 }
 
 function tileSrc(item) {
+  // Keep vector previews vector; a raster thumbnail loses their sharp edges.
+  if (!item.region && item.format === "SVG") return item.path;
   return item.thumb || item.path;
+}
+
+function isSmallRaster(item, width = item.width, height = item.height) {
+  return item.format !== "SVG" && CONTAINED_KINDS.has(item.kind)
+    && width > 0 && height > 0 && Math.max(width, height) <= 128;
+}
+
+// A small source must not be stretched just because its card is large.
+function prepareReferenceImage(image, item, badgeHost = null) {
+  if (!CONTAINED_KINDS.has(item.kind)) return;
+  image.classList.add(item.format === "SVG" ? "is-vector-reference" : "is-raster-reference");
+  if (!badgeHost || item.format === "SVG") return;
+  const updateBadge = () => {
+    const width = image.naturalWidth, height = image.naturalHeight;
+    const existing = badgeHost.querySelector(".source-size");
+    if (!isSmallRaster(item, width, height)) { existing?.remove(); return; }
+    const badge = existing || make("span", "source-size");
+    badge.textContent = `원본 ${width}×${height}`;
+    badge.title = "작은 원본은 선명도를 위해 확대하지 않습니다.";
+    if (!existing) badgeHost.append(badge);
+  };
+  image.addEventListener("load", updateBadge);
+  if (image.complete && image.naturalWidth) updateBadge();
+}
+
+function renderResolutionNote(item) {
+  const note = $("#viewer-resolution-note");
+  note.hidden = !isSmallRaster(item);
+  note.textContent = note.hidden ? "" : `원본이 ${item.width}×${item.height}px인 작은 이미지입니다. 원본 크기 이하로 표시합니다. 더 크게 쓰려면 SVG 또는 고해상도 원본이 필요합니다.`;
 }
 
 /* ---------- color ---------- */
@@ -1287,6 +1318,7 @@ function createTile(item, index) {
   image.alt = "";
   image.loading = "lazy";
   image.decoding = "async";
+  prepareReferenceImage(image, item, media);
   image.addEventListener("error", () => {
     if (item.thumb && image.src.includes("/thumbs/") && !item.region) image.src = item.path;
     else media.classList.add("is-broken");
@@ -1570,6 +1602,7 @@ function createBrandCard(row, items) {
     image.alt = "";
     image.loading = "lazy";
     image.decoding = "async";
+    prepareReferenceImage(image, cover, preview);
     image.addEventListener("error", () => { image.remove(); preview.append(make("span", "preview-fallback", "미리보기를 불러오지 못했습니다. 상세에서 출처를 확인하세요.")); }, {once:true});
     preview.append(image);
   } else {
@@ -1971,6 +2004,7 @@ function renderViewer() {
   elements.viewerTitle.replaceChildren(markImage(item.row, "viewer-mark"), make("span", "", item.row.company));
   const kindText = item.kind === "layout" ? `레이아웃 · ${PART_LABELS[item.part] || "전체 페이지"}` : KIND_LABELS[item.kind];
   elements.viewerKind.textContent = `${kindText}${item.archived ? " · 지난 버전" : ""}`;
+  renderResolutionNote(item);
   renderViewerActions();
 
   const facts = [
@@ -2114,9 +2148,11 @@ function viewerMedia(item) {
   if (item.kind === "layout" && item.variant === "mobile") image.classList.add("is-mobile");
   image.src = item.path;
   image.alt = `${item.row.company} ${KIND_LABELS[item.kind]}${item.label ? ` ${item.label}` : ""}`;
+  prepareReferenceImage(image, item);
   image.addEventListener("load", () => {
     item.width = image.naturalWidth; item.height = image.naturalHeight; item.ratio = item.width / item.height;
     if (currentItem() !== item) return;
+    renderResolutionNote(item);
     const facts = elements.viewerFacts.querySelectorAll("div");
     facts.forEach(fact => { if (fact.querySelector("dt")?.textContent === "해상도") fact.querySelector("dd").textContent = `${numberFormat(item.width)} × ${numberFormat(item.height)}`; });
   });
@@ -2232,6 +2268,7 @@ function relatedStrip(title, items, note = "") {
     image.src = tileSrc(entry);
     image.alt = "";
     image.loading = "lazy";
+    prepareReferenceImage(image, entry);
     thumb.append(image);
     if (entry.archived && entry.date) thumb.append(make("span", "", entry.date));
     strip.append(thumb);
@@ -2357,6 +2394,7 @@ function brandGroup(title, items) {
     image.src = tileSrc(item);
     image.alt = "";
     image.loading = "lazy";
+    prepareReferenceImage(image, item, media);
     media.append(image);
     const meta = make("span", "asset-thumb-meta", item.kind === "icon" || item.kind === "button" || (item.kind === "layout" && item.label && !["page", "hero"].includes(item.part))
       ? item.label

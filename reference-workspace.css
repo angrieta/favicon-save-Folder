@@ -123,6 +123,18 @@ body { font-size:14px; letter-spacing:-.018em; }
 .tile-check { opacity:.8; transform:none; }
 .tile-check[aria-pressed="true"] { opacity:1; }
 .kind-showcase .tile-media img { object-position:top center; }
+/* Raster artwork may shrink to fit, but never stretch beyond its source size. */
+.tile-media img.is-raster-reference,
+.card-preview img.is-raster-reference,
+.asset-thumb .asset-thumb-media img.is-raster-reference,
+.related-thumb img.is-raster-reference { object-fit:scale-down; }
+.brand-card:hover .card-preview.is-contained img { transform:none; }
+.viewer-canvas img.is-raster-reference { width:auto; min-width:0; height:auto; image-rendering:auto; }
+.compare-media.is-contained img.is-raster-reference { width:auto; min-width:0; object-fit:scale-down; }
+.card-preview, .asset-thumb-media { position:relative; }
+.source-size { position:absolute; left:8px; bottom:8px; padding:4px 6px; border:1px solid var(--line); border-radius:4px; background:var(--card); color:var(--muted); font-size:10px; font-weight:500; line-height:1.2; font-variant-numeric:tabular-nums; pointer-events:none; }
+.tile-media:has(.source-size) .tile-badge.archived { top:9px; bottom:auto; }
+.resolution-note { padding:12px; margin:14px 0; border:1px solid var(--line); border-radius:8px; color:var(--muted); font-size:12px; line-height:1.7; }
 .site-design-brief { padding:14px 18px; border-radius:8px; background:var(--surface); margin-bottom:24px; }
 .site-design-brief p { color:var(--muted); line-height:1.8; font-size:12px; }
 .viewer-canvas[data-kind="showcase"] img.is-layout { width:min(100%, 1400px); height:auto; max-height:none; object-fit:contain; align-self:start; }

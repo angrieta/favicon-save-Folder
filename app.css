@@ -670,7 +670,6 @@ kbd {
 }
 .tile-media.is-contained img { padding: 14%; object-fit: contain; }
 .kind-favicon .tile-media.is-contained img, .kind-appicon .tile-media.is-contained img { padding: 28%; }
-.kind-favicon .tile-media.is-contained img { image-rendering: pixelated; }
 .tile-media.is-icon img { padding: 22%; object-fit: contain; }
 .tile-media.is-button { background-image: none; }
 .tile-media.is-button img { width: auto; max-width: 84%; height: auto; max-height: 70%; padding: 0; object-fit: contain; }
@@ -1005,7 +1004,6 @@ dialog.viewer[open] { animation: fade-in 200ms var(--ease) both; }
   animation: fade-in 240ms var(--ease) both;
 }
 .viewer-canvas[data-kind="logo"] img, .viewer-canvas[data-kind="favicon"] img, .viewer-canvas[data-kind="appicon"] img, .viewer-canvas[data-kind="graphic"] img { min-width: min(320px, 60%); box-shadow: none; }
-.viewer-canvas[data-kind="favicon"] img { image-rendering: pixelated; }
 .viewer-canvas[data-kind="icon"] img { min-width: 0; width: min(260px, 60%); box-shadow: none; }
 .icon-frame, .button-frame {
   display: grid;
