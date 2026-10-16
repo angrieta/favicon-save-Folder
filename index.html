@@ -6,7 +6,7 @@
   <meta name="color-scheme" content="light dark">
   <meta name="theme-color" content="#f4f3ef">
   <title>브랜드 이미지 레퍼런스</title>
-  <link rel="stylesheet" href="app.css?v=5">
+  <link rel="stylesheet" href="app.css?v=7">
 </head>
 <body>
   <a class="skip-link" href="#library">자료 목록으로 이동</a>
@@ -27,7 +27,7 @@
 
       <nav class="view-switch" aria-label="보기 방식">
         <button type="button" data-view="wall" aria-pressed="true">이미지 벽</button>
-        <button type="button" data-view="brands" aria-pressed="false">회사별</button>
+        <button type="button" data-view="brands" aria-pressed="false">사이트별</button>
         <button type="button" data-view="saved" aria-pressed="false">보관함 <strong id="saved-count">0</strong></button>
       </nav>
 
@@ -37,6 +37,11 @@
       </div>
     </div>
 
+    <nav id="collection-nav" class="collection-nav shell" aria-label="레퍼런스 컬렉션">
+      <button type="button" data-collection="all" aria-pressed="true">전체 라이브러리</button>
+      <button type="button" data-collection="gdweb" aria-pressed="false">GDWEB 선정 사이트 <span id="gdweb-count">새 컬렉션</span></button>
+      <span class="collection-nav-note">사이트에서 발견한 디자인을 한곳에</span>
+    </nav>
     <div class="chip-rows shell">
       <div class="chip-row" role="group" aria-labelledby="category-label">
         <span id="category-label" class="row-label">업종</span>
@@ -60,6 +65,25 @@
     </aside>
 
     <main id="library" class="library" tabindex="-1">
+      <section id="collection-intro" class="collection-intro" aria-labelledby="collection-title" hidden>
+        <div class="collection-heading">
+          <p class="eyebrow">DESIGN REFERENCE COLLECTION / GDWEB</p>
+          <h1 id="collection-title">좋은 웹의 디테일을 모으다.</h1>
+          <p>지디웹이 소개한 개별 사이트의 전체 화면부터 버튼, 배너, 그래픽까지.<br class="desktop-break"> 마음에 드는 장면을 열고, 비교하고, 나만의 보드에 모아보세요.</p>
+          <div id="collection-stats" class="collection-stats"></div>
+        </div>
+        <div class="collection-side">
+          <span class="collection-edition">CURATED WEBSITES</span>
+          <p>국내 · 해외 · 일본 · 모바일<br>2005년부터 최신 선정작까지</p>
+          <a href="https://www.gdweb.co.kr/main/" target="_blank" rel="noopener noreferrer">선정 출처: GDWEB ↗</a>
+        </div>
+        <div id="collection-groups" class="collection-groups" role="group" aria-label="GDWEB 선정 구분"></div>
+        <div class="collection-browse">
+          <label for="collection-year">선정 연도</label>
+          <select id="collection-year"><option value="all">전체 연도 · 최신순</option></select>
+          <span>미리보기로 가볍게 탐색하고, 전체 화면은 원본 해상도로 열어보세요.</span>
+        </div>
+      </section>
       <div id="saved-bar" class="saved-bar" hidden>
         <div id="board-tabs" class="board-tabs" role="tablist" aria-label="보관함 보드"></div>
         <div class="saved-actions">
@@ -280,6 +304,6 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
 
-  <script src="app.js?v=5" defer></script>
+  <script src="app.js?v=7" defer></script>
 </body>
 </html>

@@ -1,0 +1,55 @@
+import {Browser,sleep} from './cdp.mjs';
+import {writeFile,mkdir} from 'node:fs/promises';
+const browser=await Browser.launch();
+const {targetId}=await browser.send('Target.createTarget',{url:'about:blank'});
+const {sessionId}=await browser.send('Target.attachToTarget',{targetId,flatten:true});
+const send=(method,params)=>browser.send(method,params,sessionId);
+const errors=[];
+browser.listeners.add(m=>{if(m.sessionId===sessionId&&m.method==='Runtime.exceptionThrown')errors.push(m.params.exceptionDetails.text);});
+const evalPage=async expression=>(await send('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true})).result?.value;
+try {
+  await mkdir('qa',{recursive:true});
+  await send('Page.enable');await send('Runtime.enable');
+  await send('Emulation.setDeviceMetricsOverride',{width:1440,height:1050,deviceScaleFactor:1,mobile:false});
+  await send('Page.navigate',{url:'http://127.0.0.1:4173/?collection=gdweb&view=brands'});
+  for(let n=0;n<50;n++){if(await evalPage(`document.querySelectorAll('.gdweb-card').length>0`))break;await sleep(300);}
+  await sleep(1500);
+  console.log('Initial',await evalPage(`JSON.stringify({cards:document.querySelectorAll('.gdweb-card').length,results:document.querySelector('#result-count').textContent,stats:document.querySelector('#collection-stats').textContent,overflow:document.documentElement.scrollWidth>innerWidth,error:!document.querySelector('#error-state').hidden})`));
+  let shot=await send('Page.captureScreenshot',{format:'png'});await writeFile('qa/gdweb-desktop.png',Buffer.from(shot.data,'base64'));
+  await evalPage(`document.querySelector('.gdweb-card .card-preview').click()`);await sleep(700);
+  console.log('Detail',await evalPage(`JSON.stringify({open:document.querySelector('#brand-dialog').open,groups:document.querySelectorAll('#brand-content .asset-group').length,source:[...document.querySelectorAll('#brand-actions a')].map(a=>a.href)})`));
+  shot=await send('Page.captureScreenshot',{format:'png'});await writeFile('qa/gdweb-detail.png',Buffer.from(shot.data,'base64'));
+  await evalPage(`document.querySelector('#brand-close').click();document.querySelector('[data-kind="button"]').click();document.querySelector('[data-view="wall"]').click()`);await sleep(700);
+  console.log('Buttons',await evalPage(`JSON.stringify({count:document.querySelectorAll('.tile').length,results:document.querySelector('#result-count').textContent,url:location.search})`));
+  shot=await send('Page.captureScreenshot',{format:'png'});await writeFile('qa/gdweb-buttons.png',Buffer.from(shot.data,'base64'));
+  console.log('Behavior',await evalPage(`(async()=>{
+    const assertions=[];
+    const check=(name,condition)=>assertions.push({name,pass:Boolean(condition)});
+    setFilter({collection:'gdweb',featuredGroup:'BEST',kind:'all',view:'brands'});
+    check('BEST group has six sites',state.brandList.length===6);
+    setFilter({featuredGroup:'all',q:'3D',kind:'all'});
+    check('Design tag search finds sites',state.brandList.length>=4);
+    setFilter({q:'',kind:'showcase',view:'wall'});
+    check('All 19,143 featured entries are available',state.list.length===19143);
+    const item=state.list[0];openViewer(state.list,0);
+    check('Viewer uses full resolution file',document.querySelector('#viewer-canvas img').getAttribute('src')===item.path);
+    check('Featured date is distinguished',document.querySelector('#viewer-facts').textContent.includes('GDWEB 선정일'));
+    check('Source attribution exists',document.querySelector('#viewer-links').textContent.includes('GDWEB 소개'));
+    closeViewer();
+    setFavorite(item,true);setFilter({view:'saved'});check('Favorite is saved',state.list.some(i=>i.key===item.key));setFavorite(item,false);
+    setFilter({view:'wall',kind:'button'});
+    const oldSave=saveBlob;let zip=null;saveBlob=(blob,name)=>{zip={blob,name};};
+    await exportZip(state.list.slice(0,2),'QA');saveBlob=oldSave;
+    const bytes=new Uint8Array(await zip.blob.arrayBuffer());
+    check('ZIP has PK header',bytes[0]===80&&bytes[1]===75);
+    check('ZIP contains attribution CSV',new TextDecoder().decode(bytes).includes('출처.csv'));
+    setFilter({collection:'all',featuredGroup:'all',kind:'all',view:'brands'});
+    check('Original library still loads',state.brandList.length>=327);
+    return JSON.stringify(assertions);
+  })()`));
+  await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+  await send('Page.navigate',{url:'http://127.0.0.1:4173/?collection=gdweb&view=brands'});await sleep(2500);
+  console.log('Mobile',await evalPage(`JSON.stringify({overflow:document.documentElement.scrollWidth>innerWidth,width:innerWidth,scrollWidth:document.documentElement.scrollWidth,cards:document.querySelectorAll('.gdweb-card').length})`));
+  shot=await send('Page.captureScreenshot',{format:'png'});await writeFile('qa/gdweb-mobile.png',Buffer.from(shot.data,'base64'));
+  console.log('Errors',errors);
+}finally {await browser.close();}
