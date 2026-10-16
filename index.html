@@ -7,12 +7,12 @@
   <meta name="theme-color" content="#f6f6f7">
   <meta name="description" content="유명 회사 공식 사이트의 레이아웃, 헤더, 푸터, 카드, 버튼, 로고, 배너, 아이콘과 포인트 컬러를 모은 디자인 레퍼런스 라이브러리">
   <title>브랜드 레퍼런스</title>
-  <script>if(new URLSearchParams(location.search).get("collection")==="gdweb")location.replace("gdweb.html"+location.search+location.hash);</script>
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/fill/style.css">
-  <link rel="stylesheet" href="app.css?v=8">
+  <link rel="stylesheet" href="app.css?v=10">
+  <link rel="stylesheet" href="reference-workspace.css?v=10">
 </head>
 <body>
   <a class="skip-link" href="#library">자료 목록으로 이동</a>
@@ -28,7 +28,7 @@
         <span class="visually-hidden">회사명 또는 키워드 검색</span>
         <i class="ph ph-magnifying-glass" aria-hidden="true"></i>
         <input id="search" type="search" placeholder="회사명, 초성, 영문, 버튼 글자로 검색" autocomplete="off">
-        <kbd aria-hidden="true">/</kbd>
+        <button id="search-clear" class="search-clear" type="button" aria-label="검색어 지우기" hidden><i class="ph ph-x" aria-hidden="true"></i></button><kbd aria-hidden="true">/</kbd>
       </label>
 
       <nav class="view-switch" aria-label="보기 방식">
@@ -39,28 +39,18 @@
       </nav>
 
       <div class="topbar-tools">
+        <button id="recent-open" class="icon-button" type="button" aria-label="최근 본 자료" title="최근 본 자료"><i class="ph ph-clock-counter-clockwise" aria-hidden="true"></i></button>
         <button id="help-open" class="icon-button" type="button" aria-label="단축키 안내"><i class="ph ph-keyboard" aria-hidden="true"></i></button>
         <button id="theme-toggle" class="icon-button" type="button" aria-label="다크 모드로 전환"><i class="ph ph-moon" aria-hidden="true"></i></button>
       </div>
     </div>
 
-    <nav class="archive-nav shell" aria-label="레퍼런스 컬렉션">
-      <a href="./" aria-current="page">브랜드 라이브러리</a>
-      <a href="gdweb.html?collection=gdweb&amp;view=brands">GDWEB 선정 사이트 <span>19,143</span> ↗</a>
-    </nav>
-    <div class="tab-row shell">
-      <div id="kind-tabs" class="kind-tabs" role="group" aria-label="자료 유형"></div>
-    </div>
-    <div id="sub-row" class="sub-row shell" hidden>
-      <span id="sub-label" class="row-label"></span>
-      <div id="sub-chips" class="sub-chips" role="group" aria-labelledby="sub-label"></div>
-    </div>
   </header>
 
   <div class="workspace shell">
     <aside id="filter-panel" class="filter-panel" aria-label="필터">
       <div class="panel-head">
-        <h2>필터</h2>
+        <h2>탐색 필터</h2>
         <button id="filter-close" class="icon-button panel-close" type="button" aria-label="필터 닫기"><i class="ph ph-x" aria-hidden="true"></i></button>
       </div>
       <dl id="summary" class="summary" aria-label="수집 현황"></dl>
@@ -72,6 +62,32 @@
     </aside>
 
     <main id="library" class="library" tabindex="-1">
+      <nav id="collection-nav" class="collection-nav" aria-label="레퍼런스 컬렉션">
+        <button type="button" data-collection="all" aria-pressed="true">전체 라이브러리</button>
+        <button type="button" data-collection="brands" aria-pressed="false">브랜드</button>
+        <button type="button" data-collection="gdweb" aria-pressed="false">GDWEB 선정 사이트 <span id="gdweb-nav-count">19,143</span></button>
+        <button id="share-view" class="share-view" type="button" title="검색과 필터가 포함된 링크 복사"><i class="ph ph-link" aria-hidden="true"></i><span>보기 공유</span></button>
+      </nav>
+      <section id="library-intro" class="library-intro" aria-labelledby="intro-title">
+        <div class="intro-copy"><h1 id="intro-title">다음 디자인의 시작점.</h1><p id="intro-description">웹사이트의 전체 화면부터 작은 버튼까지. 필요한 레퍼런스를 찾고, 모으고, 비교하세요.</p></div>
+        <div class="intro-total"><strong id="intro-count">19,143+</strong><span id="intro-unit">사이트 레퍼런스</span></div>
+      </section>
+      <div id="quick-presets" class="quick-presets" role="group" aria-label="빠른 탐색"></div>
+      <div id="archive-filters" class="archive-filters" hidden>
+        <div id="collection-groups" role="group" aria-label="GDWEB 지역"></div>
+        <label class="mobile-region"><span class="visually-hidden">GDWEB 지역 선택</span><select id="collection-region"><option value="all">모든 지역</option><option>국내 웹</option><option>해외 웹</option><option>일본 웹</option><option>모바일</option></select></label>
+        <label class="archive-year"><i class="ph ph-calendar-blank" aria-hidden="true"></i><span class="visually-hidden">선정 연도</span><select id="collection-year"><option value="all">모든 연도</option></select></label>
+        <a href="https://www.gdweb.co.kr/" target="_blank" rel="noopener noreferrer" class="archive-source">선정 출처 <i class="ph ph-arrow-up-right" aria-hidden="true"></i></a>
+      </div>
+    <div class="tab-row">
+      <div id="kind-tabs" class="kind-tabs" role="group" aria-label="자료 유형"></div>
+    </div>
+    <div id="sub-row" class="sub-row" hidden>
+      <span id="sub-label" class="row-label"></span>
+      <div id="sub-chips" class="sub-chips" role="group" aria-labelledby="sub-label"></div>
+    </div>
+
+
       <div id="saved-bar" class="saved-bar" hidden>
         <div id="board-tabs" class="board-tabs" role="tablist" aria-label="보관함 보드"></div>
         <div class="saved-actions">
@@ -89,12 +105,12 @@
           <button id="filter-open" class="quiet-button filter-open" type="button"><i class="ph ph-sliders-horizontal" aria-hidden="true"></i>필터 <strong id="filter-badge" hidden></strong></button>
           <p id="result-count" aria-live="polite">자료를 불러오는 중입니다.</p>
         </div>
-        <div class="result-tools">
+        <div class="result-tools"><button id="reset-visible" class="reset-control" type="button" title="검색과 상세 필터 초기화"><i class="ph ph-arrow-counter-clockwise" aria-hidden="true"></i><span>초기화</span></button>
           <label class="sort-field">
             <span class="visually-hidden">정렬</span>
             <select id="sort">
               <option value="recommended">추천순</option>
-              <option value="recent">최근 캠페인순</option>
+              <option value="recent">최신순</option>
               <option value="resolution">해상도 높은 순</option>
               <option value="name">회사명순</option>
               <option value="random">무작위</option>
@@ -110,6 +126,7 @@
           </div>
         </div>
       </div>
+      <p id="scope-note" class="scope-note" hidden>두 컬렉션에서 저장한 자료를 함께 봅니다. 보드는 이 브라우저에 저장됩니다.</p>
       <div id="active-filters" class="active-filters" hidden></div>
 
       <div id="loading-state" class="skeleton-wall" role="status" aria-label="이미지 목록을 불러오는 중">
@@ -118,7 +135,7 @@
       <div id="error-state" class="state-panel state-error" hidden>
         <i class="ph ph-warning-circle" aria-hidden="true"></i>
         <strong>자료를 불러오지 못했습니다.</strong>
-        <span>페이지를 새로고침하거나 로컬 웹 서버에서 열어 주세요.</span>
+        <span>연결 상태를 확인하고 다시 불러와 주세요.</span><button id="retry-library" class="quiet-button" type="button">다시 불러오기</button>
       </div>
       <div id="empty-state" class="state-panel" hidden>
         <i class="ph ph-image-broken" aria-hidden="true"></i>
@@ -134,6 +151,7 @@
     </main>
   </div>
 
+  <button id="filter-scrim" class="filter-scrim" type="button" aria-label="필터 닫기" tabindex="-1" hidden></button>
   <div id="selection-bar" class="selection-bar" hidden>
     <strong id="selection-count">0개 선택</strong>
     <button id="sel-heart" type="button"><i class="ph ph-heart" aria-hidden="true"></i>찜</button>
@@ -297,6 +315,11 @@
 
   <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
 
-  <script src="app.js?v=8" defer></script>
+  <dialog id="recent-dialog" class="recent-dialog" aria-labelledby="recent-title">
+    <div class="recent-header"><div><h2 id="recent-title">최근 본 자료</h2><p>다시 찾고 싶었던 장면들</p></div><button id="recent-close" class="icon-button" type="button" aria-label="최근 본 자료 닫기"><i class="ph ph-x" aria-hidden="true"></i></button></div>
+    <div id="recent-content" class="recent-content"></div>
+  </dialog>
+  <script src="reference-tools.js?v=10" defer></script>
+  <script src="app.js?v=10" defer></script>
 </body>
 </html>

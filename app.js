@@ -3,6 +3,7 @@
 const KINDS = [
   { id: "all", label: "전체" },
   { id: "layout", label: "레이아웃", hint: "전체 페이지, 첫 화면, 헤더, 네비게이션, 섹션, 카드, 푸터, 플로팅, 팝업" },
+  { id: "showcase", label: "선정 당시 화면", hint: "GDWEB에서 소개한 개별 웹사이트의 이미지" },
   { id: "button", label: "버튼", hint: "채움·라인 버튼을 스타일별로 하나씩" },
   { id: "banner", label: "배너", hint: "메인 비주얼, 프로모션, 캠페인 영역" },
   { id: "logo", label: "로고", hint: "헤더, 푸터, 구조화 데이터의 로고" },
@@ -33,7 +34,7 @@ const PART_OPTIONS = [
   { id: "tab", label: "탭", hint: "탭 메뉴, 슬라이드 인디케이터" },
 ];
 const PART_LABELS = Object.fromEntries(PART_OPTIONS.map((part) => [part.id, part.label]));
-const KIND_WEIGHT = { layout: 0, banner: 0, button: 1, social: 1, photo: 1, logo: 1, icon: 2, graphic: 2, appicon: 3, favicon: 4 };
+const KIND_WEIGHT = { showcase: 2, layout: 0, banner: 0, button: 1, social: 1, photo: 1, logo: 1, icon: 2, graphic: 2, appicon: 3, favicon: 4 };
 const PART_WEIGHT = { hero: 0, page: 0.5, section: 0.5, popup: 1, card: 1, nav: 1, header: 1.5, footer: 1.5, floating: 2, form: 2, tab: 2 };
 const BUTTON_VARIANT_OPTIONS = [
   { id: "filled", label: "채움" },
@@ -216,6 +217,7 @@ const elements = {
 };
 
 const DEFAULT_FILTERS = {
+  collection: "all", featuredGroup: "all", featuredYear: "all", materialOnly: false,
   view: "wall",
   q: "",
   brand: "",
@@ -453,6 +455,7 @@ function legacyAssets(row) {
 }
 
 function regionOf(raw, company, category) {
+  if (raw.collection === "gdweb") return ["국내 웹", "모바일"].includes(raw.region) ? "KR" : "GLOBAL";
   if (raw.region === "KR" || raw.region === "GLOBAL") return raw.region;
   if (category === "렌터카_글로벌") return "GLOBAL";
   if (/[가-힣]/.test(company) || /korea|코리아/i.test(company) || /\.(kr|co\.kr)(\/|$)/i.test(raw.requested_url || "")) return "KR";
@@ -474,7 +477,15 @@ function normalizeRow(raw) {
     page_title: pageTitle,
     official_url: safeHttpUrl(raw.page_url || raw.requested_url),
     status: cleanText(raw.collection_status),
-    search: `${company} ${slug.replaceAll("-", " ")} ${categoryLabel(category)} ${sub} ${pageTitle}`.toLocaleLowerCase("ko"),
+    collection: raw.collection || "brands",
+    gdweb_url: safeHttpUrl(raw.gdweb_url),
+    featuredGroup: cleanText(raw.region || raw.featured_group),
+    featuredDate: cleanText(raw.featured_date),
+    description: cleanText(raw.design_note || raw.description),
+    tags: Array.isArray(raw.design_tags) ? raw.design_tags : [],
+    fonts: Array.isArray(raw.fonts) ? raw.fonts : [],
+    captureNote: cleanText(raw.capture_note),
+    search: `${company} ${slug.replaceAll("-", " ")} ${categoryLabel(category)} ${sub} ${pageTitle} ${raw.design_note || ""} ${(raw.design_tags || []).join(" ")}`.toLocaleLowerCase("ko"),
     initials: choseong(company.replace(/\s+/g, "")),
     colors: state.brandColors[slug] || null,
     mark: "",
@@ -490,16 +501,18 @@ function makeItem(row, asset, extra = {}) {
   const type = extra.type || cleanText(asset.type);
   const width = Number(asset.width) || 0;
   const height = Number(asset.height) || 0;
-  const format = formatOf(extra.region ? extra.region.src : path);
-  const thumb = extra.thumb || (needsThumb(path, width, height) ? thumbFor(path) : "");
+  const format = asset.format || formatOf(extra.region ? extra.region.src : path);
+  const thumb = extra.thumb || asset.preview_path || (row.collection !== "gdweb" && needsThumb(path, width, height) ? thumbFor(path) : "");
+  const pagePart = ({layout:"page",hero:"hero",header:"header",section:"section",footer:"footer"})[type];
   return {
-    key: cleanText(extra.key || asset.source_sha256 || sha || path),
+    key: cleanText(extra.key || asset.key || asset.source_sha256 || sha || path),
     row,
     type,
-    kind: extra.kind || kindOf(type, asset, analysis),
-    part: extra.part || "",
+    kind: extra.kind || (pagePart ? "layout" : kindOf(type, asset, analysis)),
+    part: extra.part || pagePart || "",
     region: extra.region || null,
     style: extra.style || null,
+    capturedStyles: asset.styles || null,
     thumb,
     path,
     sourceUrl: safeHttpUrl(asset.source_url),
@@ -513,11 +526,11 @@ function makeItem(row, asset, extra = {}) {
     variant: ["desktop", "mobile"].includes(asset.variant) ? asset.variant : "shared",
     sha,
     dhash: cleanText(asset.dhash),
-    date: extra.date ?? campaignDate(asset.source_url),
-    dateLabel: extra.dateLabel || "캠페인 날짜",
+    date: extra.date ?? (asset.featured_date || asset.captured_at?.slice(0,10) || campaignDate(asset.source_url)),
+    dateLabel: extra.dateLabel || (asset.featured_date ? "GDWEB 선정일" : asset.captured_at ? "캡처 날짜" : "캠페인 날짜"),
     archived: Boolean(extra.archived),
-    truncated: Boolean(extra.truncated),
-    label: cleanText(extra.label || ""),
+    truncated: Boolean(extra.truncated || asset.truncated),
+    label: cleanText(extra.label || asset.label || ""),
     area: extra.area || "",
     background: /^#[0-9a-f]{6}$/i.test(extra.background || "") ? extra.background : "",
     sourceType: extra.sourceType || "",
@@ -533,9 +546,9 @@ function buildItems(manifest, layouts, history, iconSets, components) {
   // The same picture is shown once, under the first kind it was found as.
   const seenSha = new Set();
   const push = (item) => {
-    const id = `${item.kind}:${item.part}:${item.path}`;
+    const id = `${item.row.collection === "gdweb" ? item.row.slug : ""}:${item.kind}:${item.part}:${item.path}`;
     if (!item.path || seenPaths.has(id)) return;
-    if (item.sha && !item.archived) {
+    if (item.sha && !item.archived && item.row.collection !== "gdweb") {
       if (seenSha.has(item.sha)) return;
       seenSha.add(item.sha);
     }
@@ -702,6 +715,10 @@ function readUrl() {
   const params = new URLSearchParams(window.location.search);
   Object.assign(state, structuredClone(DEFAULT_FILTERS));
   state.view = VIEWS.includes(params.get("view")) ? params.get("view") : "wall";
+  state.collection = ["all", "brands", "gdweb"].includes(params.get("collection")) ? params.get("collection") : "all";
+  state.featuredGroup = ["국내 웹", "해외 웹", "일본 웹", "모바일"].includes(params.get("group")) ? params.get("group") : "all";
+  state.featuredYear = /^20\d{2}$/.test(params.get("year") || "") ? params.get("year") : "all";
+  state.materialOnly = params.get("materials") === "1";
   state.q = params.get("q") || "";
   state.brand = params.get("brand") || "";
   state.kind = KIND_LABELS[params.get("kind")] ? params.get("kind") : "all";
@@ -720,6 +737,10 @@ function readUrl() {
 
 function writeUrl() {
   const params = new URLSearchParams();
+  if (state.collection !== "all") params.set("collection", state.collection);
+  if (state.featuredGroup !== "all") params.set("group", state.featuredGroup);
+  if (state.featuredYear !== "all") params.set("year", state.featuredYear);
+  if (state.materialOnly) params.set("materials", "1");
   if (state.view !== "wall") params.set("view", state.view);
   if (state.q) params.set("q", state.q);
   if (state.brand) params.set("brand", state.brand);
@@ -745,7 +766,16 @@ function writeUrl() {
 
 /* ---------- filtering ---------- */
 
+function inCollection(row) {
+  if (state.collection !== "all" && row.collection !== state.collection) return false;
+  if (state.featuredGroup !== "all" && row.featuredGroup !== state.featuredGroup) return false;
+  if (state.featuredYear !== "all" && !row.featuredDate.startsWith(state.featuredYear)) return false;
+  if (state.materialOnly && !row.items.some(item => item.kind !== "showcase")) return false;
+  return true;
+}
+
 function matchesQuery(row) {
+  if (!inCollection(row)) return false;
   if (state.brand && row.slug !== state.brand) return false;
   const query = state.q.trim().toLocaleLowerCase("ko");
   if (!query) return true;
@@ -755,6 +785,7 @@ function matchesQuery(row) {
 }
 
 function matchesItem(item) {
+  if (!inCollection(item.row)) return false;
   if (matchesQuery(item.row)) return true;
   if (state.brand && item.row.slug !== state.brand) return false;
   const query = state.q.trim().toLocaleLowerCase("ko");
@@ -771,7 +802,7 @@ const DIMENSIONS = [
   { key: "bvariants", active: () => state.bvariants.length, pass: (item) => Boolean(item.style) && state.bvariants.includes(item.style.variant), values: (item) => (item.style ? [item.style.variant] : []) },
   { key: "bshapes", active: () => state.bshapes.length, pass: (item) => Boolean(item.style) && state.bshapes.includes(item.style.shape), values: (item) => (item.style ? [item.style.shape] : []) },
   { key: "devices", active: () => state.devices.length, pass: (item) => state.devices.includes(item.variant), values: (item) => [item.variant] },
-  { key: "ratios", active: () => state.ratios.length, pass: (item) => RATIO_OPTIONS.some((option) => state.ratios.includes(option.id) && option.test(item.ratio)), values: (item) => RATIO_OPTIONS.filter((option) => option.test(item.ratio)).map((option) => option.id) },
+  { key: "ratios", active: () => state.ratios.length, pass: (item) => RATIO_OPTIONS.some((option) => state.ratios.includes(option.id) && item.width > 0 && option.test(item.ratio)), values: (item) => RATIO_OPTIONS.filter((option) => item.width > 0 && option.test(item.ratio)).map((option) => option.id) },
   { key: "minWidth", active: () => state.minWidth, pass: (item) => item.width >= state.minWidth, values: (item) => WIDTH_OPTIONS.filter((option) => option.id && item.width >= option.id).map((option) => option.id) },
   { key: "formats", active: () => state.formats.length, pass: (item) => state.formats.includes(item.formatGroup), values: (item) => [item.formatGroup] },
   { key: "areas", active: () => state.areas.length, pass: (item) => state.areas.includes(item.area), values: (item) => (item.area ? [item.area] : []) },
@@ -890,6 +921,10 @@ function computeList() {
     }
     state.brandList = [...rows.entries()].sort(([a, itemsA], [b, itemsB]) => {
       if (state.sort === "name") return a.company.localeCompare(b.company, "ko");
+      if (state.sort === "random") return hashString(a.slug + state.seed) - hashString(b.slug + state.seed);
+      if (state.sort === "resolution") return Math.max(0, ...itemsB.map(item => item.width * item.height)) - Math.max(0, ...itemsA.map(item => item.width * item.height));
+      if (state.sort === "recent" && state.collection !== "gdweb") return (itemsB.map(item => item.date).sort().at(-1) || "").localeCompare(itemsA.map(item => item.date).sort().at(-1) || "");
+      if (state.collection === "gdweb") return b.featuredDate.localeCompare(a.featuredDate) || a.company.localeCompare(b.company, "ko");
       return itemsB.length - itemsA.length || a.company.localeCompare(b.company, "ko");
     });
   }
@@ -902,7 +937,7 @@ function activeFilterCount() {
 /* ---------- chrome rendering ---------- */
 
 const KIND_ICONS = {
-  all: "squares-four", layout: "layout", button: "cursor-click", banner: "flag-banner", logo: "seal",
+  showcase: "browser", all: "squares-four", layout: "layout", button: "cursor-click", banner: "flag-banner", logo: "seal",
   icon: "circles-four", social: "share-network", photo: "image", graphic: "shapes", appicon: "app-window", favicon: "browser",
 };
 const PART_ICONS = {
@@ -911,7 +946,7 @@ const PART_ICONS = {
 };
 
 function sortedCategories() {
-  return [...new Set(state.rows.map((row) => row.category))].sort((a, b) => {
+  return [...new Set(state.rows.filter(inCollection).map((row) => row.category))].sort((a, b) => {
     const ia = CATEGORY_ORDER.indexOf(a);
     const ib = CATEGORY_ORDER.indexOf(b);
     return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b, "ko");
@@ -1113,11 +1148,11 @@ function renderFacets() {
 }
 
 function renderSummary() {
-  const live = state.items.filter((item) => !item.archived);
+  const live = state.items.filter((item) => !item.archived && inCollection(item.row));
   const count = (kind) => live.filter((item) => item.kind === kind).length;
-  state.archivedCount = state.items.length - live.length;
+  state.archivedCount = state.items.filter(item => item.archived && inCollection(item.row)).length;
   const entries = [
-    ["회사", state.rows.length],
+    ["사이트", state.rows.filter(inCollection).length],
     ["이미지", live.length],
     ["레이아웃", count("layout")],
     ["버튼", count("button")],
@@ -1137,6 +1172,9 @@ function renderActiveFilters() {
     chips.push(chip);
   };
   const labelOf = (options, id) => options.find((option) => option.id === id)?.label || id;
+  if (state.featuredGroup !== "all") add(state.featuredGroup, {featuredGroup:"all"});
+  if (state.featuredYear !== "all") add(`${state.featuredYear}년`, {featuredYear:"all"});
+  if (state.materialOnly) add("세부 소재가 있는 사이트", {materialOnly:false});
   if (state.brand) add(`회사: ${state.rowBySlug.get(state.brand)?.company || state.brand}`, { brand: "" });
   if (state.q) add(`검색: ${state.q}`, { q: "" });
   state.cats.forEach((cat) => add(categoryLabel(cat), { cats: state.cats.filter((value) => value !== cat) }));
@@ -1165,6 +1203,8 @@ function renderActiveFilters() {
 }
 
 function renderChrome() {
+  renderReferenceTools();
+  renderSummary();
   elements.viewButtons.forEach((element) => element.setAttribute("aria-pressed", String(element.dataset.view === state.view)));
   elements.search.value = state.q;
   elements.sort.value = state.sort;
@@ -1317,9 +1357,10 @@ function renderWall() {
 }
 
 function fillViewport() {
-  if (state.view === "brands" || state.view === "colors" || state.rendered >= state.list.length) return;
+  const total = state.view === "colors" ? state.colorRows.length : state.view === "brands" ? state.brandList.length : state.list.length;
+  if (state.rendered >= total) return;
   if (elements.sentinel.getBoundingClientRect().top < window.innerHeight * 2.2) {
-    appendBatch();
+    if (state.view === "colors") appendColorBatch(); else if (state.view === "brands") appendBrandBatch(); else appendBatch();
     window.requestAnimationFrame(fillViewport);
   }
 }
@@ -1463,7 +1504,7 @@ function createColorCard(row) {
   const line = make("div", "company-line");
   line.append(markImage(row, "company-mark"));
   const titles = make("div", "company-titles");
-  titles.append(make("h2", "", row.company), make("span", "category-name", [categoryLabel(row.category), row.sub].filter(Boolean).join(" · ")));
+  titles.append(make("h2", "", row.company), make("span", "category-name", row.collection === "gdweb" ? `${row.featuredGroup} · ${row.featuredDate}` : [categoryLabel(row.category), row.sub].filter(Boolean).join(" · ")));
   line.append(titles);
   body.append(line);
 
@@ -1494,11 +1535,21 @@ function renderColors() {
   elements.wall.hidden = true;
   elements.wall.replaceChildren();
   elements.grid.hidden = true;
-  elements.sentinel.hidden = true;
   elements.colorGrid.hidden = state.colorRows.length === 0;
+  elements.colorGrid.replaceChildren();
+  state.rendered = 0;
+  appendColorBatch();
+  window.requestAnimationFrame(fillViewport);
+}
+
+function appendColorBatch() {
+  if (state.view !== "colors") return;
+  const end = Math.min(state.rendered + 36, state.colorRows.length);
   const fragment = document.createDocumentFragment();
-  state.colorRows.forEach((row) => fragment.append(createColorCard(row)));
-  elements.colorGrid.replaceChildren(fragment);
+  state.colorRows.slice(state.rendered, end).forEach(row => fragment.append(createColorCard(row)));
+  elements.colorGrid.append(fragment);
+  state.rendered = end;
+  elements.sentinel.hidden = end >= state.colorRows.length;
 }
 
 /* ---------- brand cards ---------- */
@@ -1506,18 +1557,20 @@ function renderColors() {
 function createBrandCard(row, items) {
   const card = make("article", "brand-card");
   const liveItems = items.length ? items : row.items.filter((item) => !item.archived);
-  const cover = liveItems.find((item) => item.kind === "layout" && item.part === "hero" && item.variant === "desktop")
+  const cover = liveItems.find(item => item.kind === "showcase") || liveItems.find((item) => item.kind === "layout" && item.part === "hero" && item.variant === "desktop")
     || liveItems.find((item) => item.kind === "layout" && item.part === "page" && item.variant === "desktop")
     || ["layout", "banner", "social", "photo", "logo", "graphic", "appicon", "favicon"].map((kind) => liveItems.find((item) => item.kind === kind)).find(Boolean);
 
   const preview = button("card-preview", "", () => openBrand(row), { "aria-label": `${row.company} 이미지 전체 보기` });
   if (cover) {
     if (CONTAINED_KINDS.has(cover.kind)) preview.classList.add("is-contained");
-    if (cover.kind === "layout") preview.classList.add("is-layout");
+    if (["layout", "showcase"].includes(cover.kind)) preview.classList.add("is-layout");
     const image = make("img");
     image.src = tileSrc(cover);
     image.alt = "";
     image.loading = "lazy";
+    image.decoding = "async";
+    image.addEventListener("error", () => { image.remove(); preview.append(make("span", "preview-fallback", "미리보기를 불러오지 못했습니다. 상세에서 출처를 확인하세요.")); }, {once:true});
     preview.append(image);
   } else {
     preview.append(make("span", "preview-fallback", "수집된 이미지가 없습니다."));
@@ -1527,7 +1580,7 @@ function createBrandCard(row, items) {
   const heading = make("div", "company-line");
   heading.append(markImage(row, "company-mark"));
   const titles = make("div", "company-titles");
-  titles.append(make("h2", "", row.company), make("span", "category-name", [categoryLabel(row.category), row.sub].filter(Boolean).join(" · ")));
+  titles.append(make("h2", "", row.company), make("span", "category-name", row.collection === "gdweb" ? `${row.featuredGroup} · ${row.featuredDate}` : [categoryLabel(row.category), row.sub].filter(Boolean).join(" · ")));
   heading.append(titles);
 
   const palette = make("div", "mini-palette");
@@ -1550,7 +1603,16 @@ function createBrandCard(row, items) {
   actions.append(button("detail-button", "이미지 벽으로", () => setFilter({ view: "wall", brand: row.slug, q: "" })));
   actions.append(button("detail-button", "전체 보기", () => openBrand(row)));
 
-  body.append(heading, palette, counts, actions);
+  const save = button("card-save", "", () => { if (cover) toggleFavorite(cover); }, {"aria-label": `${row.company} 대표 이미지 찜하기`, "aria-pressed": String(cover && isFavorite(cover))});
+  if (cover) { save.dataset.favoriteKey = cover.key; save.append(icon(isFavorite(cover) ? "heart-fill" : "heart")); heading.append(save); }
+  if (row.collection === "gdweb") card.classList.add("gdweb-card");
+  body.append(heading);
+  if (row.tags.length) {
+    const tags = make("div", "design-tags");
+    row.tags.slice(0,3).forEach(tag => tags.append(button("", tag, () => setFilter({q:tag, brand:""}))));
+    body.append(tags);
+  }
+  body.append(palette, counts, actions);
   card.append(preview, body);
   return card;
 }
@@ -1560,13 +1622,21 @@ function renderBrands() {
   elements.wall.hidden = true;
   elements.wall.replaceChildren();
   elements.colorGrid.hidden = true;
-  elements.sentinel.hidden = true;
   elements.grid.hidden = state.brandList.length === 0;
-  const fragment = document.createDocumentFragment();
-  state.brandList.forEach(([row, items]) => fragment.append(createBrandCard(row, items)));
-  elements.grid.replaceChildren(fragment);
+  elements.grid.replaceChildren();
+  appendBrandBatch();
+  window.requestAnimationFrame(fillViewport);
 }
 
+function appendBrandBatch() {
+  if (state.view !== "brands") return;
+  const end = Math.min(state.rendered + 36, state.brandList.length);
+  const fragment = document.createDocumentFragment();
+  state.brandList.slice(state.rendered, end).forEach(([row, items]) => fragment.append(createBrandCard(row, items)));
+  elements.grid.append(fragment);
+  state.rendered = end;
+  elements.sentinel.hidden = end >= state.brandList.length;
+}
 
 /* ---------- main render ---------- */
 
@@ -1584,9 +1654,9 @@ function render({ keepScroll = false } = {}) {
   } else if (state.view === "saved") {
     elements.resultCount.textContent = `${boardName(state.board)} · ${numberFormat(state.list.length)}개`;
   } else if (isBrands) {
-    elements.resultCount.textContent = `${numberFormat(count)}개 회사 · ${numberFormat(state.list.length)}개 ${kindLabel}`;
+    elements.resultCount.textContent = `${numberFormat(count)}개 ${state.collection === "gdweb" ? "선정 기록" : "사이트"} · ${numberFormat(state.list.length)}개 ${kindLabel}`;
   } else {
-    elements.resultCount.textContent = `${numberFormat(state.list.length)}개 ${kindLabel} · ${numberFormat(companies)}개 회사`;
+    elements.resultCount.textContent = `${numberFormat(state.list.length)}개 ${kindLabel} · ${numberFormat(companies)}개 사이트`;
   }
 
   elements.empty.hidden = count > 0;
@@ -1617,14 +1687,16 @@ function render({ keepScroll = false } = {}) {
 
 function setFilter(patch) {
   const viewChanged = patch.view && patch.view !== state.view;
+  if (viewChanged && patch.view === "saved") Object.assign(state, structuredClone(DEFAULT_FILTERS));
+  if (viewChanged && patch.view === "colors" && state.collection === "gdweb") Object.assign(state, structuredClone(DEFAULT_FILTERS));
   Object.assign(state, patch);
   if (viewChanged && patch.view !== "saved") state.board = HEART_BOARD;
   render();
 }
 
 function resetFilters() {
-  const { view, board } = state;
-  Object.assign(state, structuredClone(DEFAULT_FILTERS), { view, board });
+  const { view, board, collection } = state;
+  Object.assign(state, structuredClone(DEFAULT_FILTERS), { view, board, collection });
   render();
 }
 
@@ -1779,7 +1851,7 @@ function updateFavoriteChrome() {
   document.querySelectorAll("[data-favorite-key]").forEach((element) => {
     const selected = Boolean(state.favorites[element.dataset.favoriteKey]?.selected);
     element.setAttribute("aria-pressed", String(selected));
-    if (element.classList.contains("tile-heart")) element.replaceChildren(icon(selected ? "heart-fill" : "heart"));
+    if (element.classList.contains("tile-heart") || element.classList.contains("card-save")) element.replaceChildren(icon(selected ? "heart-fill" : "heart"));
   });
 }
 
@@ -1868,6 +1940,7 @@ function currentItem() {
 function renderViewer() {
   const item = currentItem();
   if (!item) return;
+  rememberReference(item.row, item);
   const { list, index } = state.viewer;
   elements.viewerPosition.textContent = `${numberFormat(index + 1)} / ${numberFormat(list.length)}`;
   elements.viewerCanvas.dataset.bg = state.viewer.bg;
@@ -1917,6 +1990,11 @@ function renderViewer() {
     if (style.border) facts.push(["테두리", style.border.toUpperCase()]);
     facts.push(["모서리", `${style.radius}px`], ["높이", `${style.height}px`], ["글자", `${style.font_size}px · ${style.font_weight}`]);
   }
+  if (item.kind === "button" && item.capturedStyles) {
+    const style = item.capturedStyles;
+    facts.unshift(["버튼 글자", item.label || "-"]);
+    [["글꼴",style.font], ["글자 크기",style.fontSize], ["글자색",style.color], ["배경",style.background], ["모서리",style.borderRadius], ["테두리",style.border], ["안쪽 여백",style.padding]].filter(([,value]) => value).forEach(fact => facts.push(fact));
+  }
   if (item.kind === "icon") {
     if (item.label) facts.push(["쓰인 곳", item.label]);
     const area = AREA_OPTIONS.find((option) => option.id === item.area);
@@ -1924,6 +2002,7 @@ function renderViewer() {
     const sourceTypes = { svg: "인라인 SVG", img: "이미지 파일", background: "CSS 배경", font: "아이콘 폰트" };
     if (sourceTypes[item.sourceType]) facts.push(["만든 방식", sourceTypes[item.sourceType]]);
   }
+  if (item.kind === "showcase") facts.push(["화면 구분", "GDWEB 선정 당시 이미지"]);
   if (item.date) facts.push([item.dateLabel, item.date]);
   if (item.truncated) facts.push(["참고", "긴 페이지라 일부만 캡처"]);
   if (item.analysis) facts.push(["톤", toneLabel(item.analysis)]);
@@ -1972,10 +2051,11 @@ function renderViewer() {
   }
 
   const links = [];
-  if (item.kind === "button" && item.style) links.push(button("", "CSS 복사", () => copyText(buttonCss(item), "버튼 CSS를 복사했습니다.")));
+  if (item.kind === "button" && (item.style || item.capturedStyles)) links.push(button("", "CSS 복사", () => copyText(buttonCss(item), "버튼 CSS를 복사했습니다.")));
   if (item.sourceUrl) links.push(link(item.kind === "layout" || item.kind === "button" ? "캡처한 페이지" : "원본 출처", item.sourceUrl));
   if (item.sourcePage && item.sourcePage !== item.sourceUrl) links.push(link("발견 페이지", item.sourcePage));
   if (item.row.official_url && item.row.official_url !== item.sourceUrl) links.push(link("공식 사이트", item.row.official_url));
+  if (item.row.gdweb_url) links.push(link("GDWEB 소개", item.row.gdweb_url));
   links.push(button("", "출처 정보 복사", () => copyText(sourceLine(item), "출처 정보를 복사했습니다.")));
   links.push(button("", "이 회사 이미지 모두 보기", () => {
     closeViewer();
@@ -1997,8 +2077,8 @@ function renderViewerActions() {
   elements.viewerActions.replaceChildren(
     withIcon(button(`action-button heart${favorite ? " is-on" : ""}`, favorite ? "찜됨" : "찜하기", () => toggleFavorite(item), { "aria-pressed": String(favorite), title: "F" }), favorite ? "heart-fill" : "heart"),
     withIcon(button("action-button", boards ? `보드 ${boards}곳` : "보드에 추가", () => openBoardDialog([item]), { title: "B" }), "folder-simple-plus"),
-    withIcon(button("action-button", "이미지 복사", () => copyImage(item), { title: "C · Figma에 바로 붙여넣기" }), "copy"),
-    withIcon(button("action-button", "파일 저장", () => downloadItem(item), { title: "D" }), "download-simple"),
+    withIcon(button("action-button", isRemoteImage(item) ? "원본 링크 복사" : "이미지 복사", () => isRemoteImage(item) ? copyText(item.path, "원본 링크를 복사했습니다.") : copyImage(item), { title: "C · Figma에 바로 붙여넣기" }), "copy"),
+    withIcon(button("action-button", isRemoteImage(item) ? "원본 열기" : "파일 저장", () => downloadItem(item), { title: "D" }), "download-simple"),
     withIcon(button(`action-button${selected ? " is-on" : ""}`, selected ? "선택됨" : "선택에 담기", () => {
       toggleSelection(item, state.list.indexOf(item));
       renderViewerActions();
@@ -2030,14 +2110,31 @@ function regionView(item) {
 
 function viewerMedia(item) {
   if (item.region) return regionView(item);
-  const image = make("img", item.kind === "layout" ? "is-layout" : "");
+  const image = make("img", ["layout", "showcase"].includes(item.kind) ? "is-layout" : "");
   if (item.kind === "layout" && item.variant === "mobile") image.classList.add("is-mobile");
   image.src = item.path;
   image.alt = `${item.row.company} ${KIND_LABELS[item.kind]}${item.label ? ` ${item.label}` : ""}`;
+  image.addEventListener("load", () => {
+    item.width = image.naturalWidth; item.height = image.naturalHeight; item.ratio = item.width / item.height;
+    if (currentItem() !== item) return;
+    const facts = elements.viewerFacts.querySelectorAll("div");
+    facts.forEach(fact => { if (fact.querySelector("dt")?.textContent === "해상도") fact.querySelector("dd").textContent = `${numberFormat(item.width)} × ${numberFormat(item.height)}`; });
+  });
+  image.addEventListener("error", () => {
+    if (currentItem() !== item) return;
+    const error = make("div", "image-unavailable", "원본에 연결할 수 없습니다.");
+    error.append(button("quiet-button", "다시 시도", renderViewer));
+    if (item.row.gdweb_url || item.sourceUrl) error.append(link("출처에서 확인", item.row.gdweb_url || item.sourceUrl, "quiet-button"));
+    elements.viewerCanvas.replaceChildren(error);
+  });
   return image;
 }
 
 function buttonCss(item) {
+  if (item.capturedStyles) {
+    const names = {font:"font-family",fontSize:"font-size",color:"color",background:"background",borderRadius:"border-radius",border:"border",padding:"padding"};
+    return Object.entries(names).filter(([key]) => item.capturedStyles[key]).map(([key,name]) => `${name}: ${item.capturedStyles[key]};`).join("\n");
+  }
   const style = item.style || {};
   const lines = [
     style.bg ? `background: ${style.bg};` : "background: transparent;",
@@ -2159,7 +2256,7 @@ function renderRelated(item) {
 function preloadNeighbors() {
   [-1, 1].forEach((delta) => {
     const neighbor = state.viewer.list[(state.viewer.index + delta + state.viewer.list.length) % state.viewer.list.length];
-    if (neighbor && neighbor.kind !== "layout" && !neighbor.region) new Image().src = neighbor.path;
+    if (neighbor && neighbor.thumb) new Image().src = neighbor.thumb;
   });
 }
 
@@ -2184,18 +2281,30 @@ function setViewerBackground(bg) {
 /* ---------- brand dialog ---------- */
 
 function openBrand(row) {
+  rememberReference(row);
   elements.brandCategory.textContent = [categoryLabel(row.category), row.sub, REGION_OPTIONS.find((o) => o.id === row.region)?.label].filter(Boolean).join(" · ");
   elements.brandTitle.replaceChildren(markImage(row, "viewer-mark"), make("span", "", row.company));
-  elements.brandDescription.textContent = row.page_title || "공식 사이트에서 수집한 이미지 자료입니다.";
+  elements.brandDescription.textContent = row.description || row.page_title || (row.collection === "gdweb" ? "GDWEB에서 소개한 사이트의 디자인 기록입니다." : "공식 사이트에서 수집한 이미지 자료입니다.");
   const actions = [];
   if (row.official_url) actions.push(withIcon(link("공식 사이트", row.official_url, "quiet-button"), "arrow-square-out"));
   actions.push(withIcon(button("quiet-button", "이미지 벽으로 보기", () => {
     elements.brandDialog.close();
     setFilter({ view: "wall", brand: row.slug, q: "", kind: "all" });
   }), "squares-four"));
+  if (row.gdweb_url) actions.push(withIcon(link("GDWEB 소개", row.gdweb_url, "quiet-button"), "arrow-square-out"));
+  actions.push(withIcon(button("quiet-button", "사이트 자료 ZIP", () => exportZip(row.items.filter(i => !i.archived), row.company)), "download-simple"));
   elements.brandActions.replaceChildren(...actions);
 
   const fragment = document.createDocumentFragment();
+  if (row.collection === "gdweb") {
+    const brief = make("div", "site-design-brief");
+    brief.append(make("p", "", `${row.featuredGroup} / ${row.featuredDate} 선정`));
+    if (row.fonts.length) brief.append(make("p", "", `사용 글꼴: ${row.fonts.slice(0,3).join(", ")}`));
+    if (row.captureNote) brief.append(make("p", "", row.captureNote));
+    brief.append(make("p", "", "선정 당시 화면과 현재 캡처를 구분해 제공합니다. 모션은 공식 사이트에서 확인하세요."));
+    brief.append(make("p", "", "수집된 파일은 ZIP으로, 외부 원본은 출처 링크로 저장됩니다. 이미지의 권리는 원저작자에게 있습니다."));
+    fragment.append(brief);
+  }
   const swatches = brandSwatches(row.colors);
   if (swatches.length || row.colors?.neutrals?.length) {
     const block = make("section", "asset-group brand-colors-group");
@@ -2310,10 +2419,13 @@ async function copyText(text, message) {
 }
 
 function sourceLine(item) {
-  return [item.row.company, categoryLabel(item.row.category), KIND_LABELS[item.kind], item.sourceUrl || item.row.official_url, item.date ? `${item.dateLabel} ${item.date}` : ""].filter(Boolean).join(" · ");
+  return [item.row.company, categoryLabel(item.row.category), KIND_LABELS[item.kind], item.sourceUrl || item.row.official_url, item.row.gdweb_url ? `GDWEB ${item.row.gdweb_url}` : "", item.date ? `${item.dateLabel} ${item.date}` : ""].filter(Boolean).join(" · ");
 }
 
+function isRemoteImage(item) { return new URL(item.path, location.href).origin !== location.origin; }
+
 async function copyImage(item) {
+  if (isRemoteImage(item)) { toast("외부 원본은 원본 열기 후 우클릭하여 복사할 수 있습니다."); return; }
   if (!navigator.clipboard || typeof ClipboardItem === "undefined") {
     toast("이 브라우저는 이미지 복사를 지원하지 않습니다.", "error");
     return;
@@ -2328,7 +2440,7 @@ async function copyImage(item) {
 }
 
 function fileNameFor(item, index = 0) {
-  const extension = item.region ? "webp" : item.path.split(".").pop() || "img";
+  const extension = item.region ? "webp" : ({JPEG:"jpg", PNG:"png", WEBP:"webp", SVG:"svg", ICO:"ico", GIF:"gif"})[item.format] || "img";
   const kind = item.kind === "layout" ? PART_LABELS[item.part] || KIND_LABELS[item.kind] : KIND_LABELS[item.kind];
   const base = [item.row.company, kind, item.variant !== "shared" ? deviceLabel(item.variant) : "", item.width ? `${item.width}x${item.height}` : "", item.date]
     .filter(Boolean).join("_").replace(/[\\/:*?"<>|·\s]+/g, "-");
@@ -2347,6 +2459,7 @@ function saveBlob(blob, name) {
 }
 
 async function downloadItem(item) {
+  if (isRemoteImage(item)) { window.open(item.path, "_blank", "noopener,noreferrer"); return; }
   try {
     saveBlob(await itemBlob(item), fileNameFor(item));
   } catch {
@@ -2423,29 +2536,28 @@ function csvCell(value) {
 }
 
 async function exportZip(items, name) {
-  if (!items.length) {
-    toast("저장할 이미지가 없습니다.", "error");
-    return;
-  }
+  if (!items.length) { toast("저장할 이미지가 없습니다.", "error"); return; }
   const files = [];
-  const rows = [["파일", "회사", "업종", "유형", "기기", "가로", "세로", "형식", "날짜", "원본 URL", "공식 사이트"]];
+  let skipped = 0;
+  const rows = [["파일 / 상태", "회사", "유형", "기기", "가로", "세로", "형식", "날짜", "원본 URL", "공식 사이트", "GDWEB 소개"]];
   for (let index = 0; index < items.length; index += 1) {
     const item = items[index];
     toast(`ZIP 준비 중 ${index + 1} / ${items.length}`);
-    try {
-      const blob = await itemBlob(item);
-      const fileName = fileNameFor(item, index + 1);
-      files.push({ name: fileName, data: new Uint8Array(await blob.arrayBuffer()) });
-      rows.push([fileName, item.row.company, categoryLabel(item.row.category), KIND_LABELS[item.kind], deviceLabel(item.variant), item.width, item.height, item.format, item.date, item.sourceUrl, item.row.official_url]);
-    } catch {
-      // Skip files that cannot be read.
-    }
+    let fileName = "외부 원본: URL에서 직접 저장";
+    if (!isRemoteImage(item)) {
+      try {
+        const blob = await itemBlob(item);
+        fileName = fileNameFor(item, index + 1);
+        files.push({ name: fileName, data: new Uint8Array(await blob.arrayBuffer()) });
+      } catch { fileName = "파일을 불러오지 못함: 원본 URL 확인"; skipped += 1; }
+    } else { skipped += 1; }
+    rows.push([fileName, item.row.company, KIND_LABELS[item.kind], deviceLabel(item.variant), item.width, item.height, item.format, item.date, item.sourceUrl || new URL(item.path, location.href).href, item.row.official_url, item.row.gdweb_url]);
   }
-  const csv = `﻿${rows.map((row) => row.map(csvCell).join(",")).join("\r\n")}`;
+  const csv = `﻿${rows.map(row => row.map(csvCell).join(",")).join("\r\n")}`;
   files.push({ name: "출처.csv", data: new TextEncoder().encode(csv) });
   const stamp = new Date().toISOString().slice(0, 10);
-  saveBlob(buildZip(files), `${name.replace(/[\\/:*?"<>|♥\s]+/g, "-").replace(/^-+/, "") || "레퍼런스"}_${stamp}.zip`);
-  toast(`${numberFormat(files.length - 1)}개 이미지를 ZIP으로 저장했습니다.`);
+  saveBlob(buildZip(files), `${name.replace(/[\\/:*?"<>|♥\s]+/g, "-") || "레퍼런스"}_${stamp}.zip`);
+  toast(`${numberFormat(files.length - 1)}개 이미지 저장${skipped ? `, 외부·미포함 ${skipped}개는 출처.csv에서 확인` : ""}.`);
 }
 
 /* ---------- sync ---------- */
@@ -2664,6 +2776,7 @@ function setupTheme() {
 /* ---------- events ---------- */
 
 function anyDialogOpen() {
+  if (document.querySelector("#recent-dialog")?.open) return true;
   return [elements.viewer, elements.brandDialog, elements.compareDialog, elements.boardDialog, elements.helpDialog, elements.syncDialog].some((dialog) => dialog.open);
 }
 
@@ -2674,6 +2787,7 @@ function closeOnBackdrop(dialog) {
 }
 
 function setupEvents() {
+  setupReferenceTools();
   const deck = document.querySelector(".deck");
   new ResizeObserver(() => elements.root.style.setProperty("--deck-height", `${deck.offsetHeight}px`)).observe(deck);
 
@@ -2721,7 +2835,7 @@ function setupEvents() {
 
   new IntersectionObserver((entries) => {
     if (entries.some((entry) => entry.isIntersecting)) {
-      appendBatch();
+      if (state.view === "colors") appendColorBatch(); else if (state.view === "brands") appendBrandBatch(); else appendBatch();
       window.requestAnimationFrame(fillViewport);
     }
   }, { rootMargin: "1400px 0px" }).observe(elements.sentinel);
@@ -2922,12 +3036,14 @@ function setupEvents() {
 
 async function loadLibrary() {
   try {
-    const [site, history, icons, analysis, brandColors] = await Promise.all([
+    const [site, history, icons, analysis, brandColors, gdweb, gdwebAnalysis] = await Promise.all([
       fetchJson("site.json", true),
       fetchJson("history.json", true),
       fetchJson("icons.json", true),
       fetchJson("analysis.json", true),
       fetchJson("brand_colors.json", true),
+      fetchJson("gdweb-static.json"),
+      fetchJson("gdweb-analysis.json", true),
     ]);
     // site.json is written by build_library.py; before its first run use the raw files.
     const manifest = site?.rows || await fetchJson("manifest.json");
@@ -2935,9 +3051,9 @@ async function loadLibrary() {
     const layouts = site?.layouts || parts?.layouts || await fetchJson("layouts.json", true);
     const components = site?.entries || parts?.entries || await fetchJson("components.json", true);
     if (!Array.isArray(manifest)) throw new Error("Invalid manifest");
-    state.analysis = analysis && typeof analysis === "object" ? analysis : {};
+    state.analysis = {...(analysis || {}), ...(gdwebAnalysis || {})};
     state.brandColors = brandColors && typeof brandColors === "object" ? brandColors : {};
-    buildItems(manifest, Array.isArray(layouts) ? layouts : [], Array.isArray(history) ? history : [], Array.isArray(icons) ? icons : [], Array.isArray(components) ? components : []);
+    buildItems([...manifest, ...gdweb], Array.isArray(layouts) ? layouts : [], Array.isArray(history) ? history : [], Array.isArray(icons) ? icons : [], Array.isArray(components) ? components : []);
     elements.loading.hidden = true;
     renderSummary();
     const itemKey = readUrl();
