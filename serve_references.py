@@ -74,7 +74,9 @@ def get_bytes(url, limit=12 * 1024 * 1024):
 
 
 def image_info(data):
-    if b'<svg' in data[:1500].lower():
+    # Some PNGs contain embedded SVG in XMP metadata. Binary image headers must
+    # never be mistaken for the SVG text document stored inside that metadata.
+    if data.lstrip(b'\xef\xbb\xbf \t\r\n').startswith(b'<') and b'<svg' in data[:1500].lower():
         # SVG is served only as an image, with a restrictive response CSP.
         text = data.decode('utf-8', errors='replace')
         view = re.search(r'viewBox=["\']\s*([\d.\s,-]+)', text)

@@ -39,6 +39,7 @@ const PART_WEIGHT = { hero: 0, page: 0.5, section: 0.5, popup: 1, card: 1, nav: 
 const BUTTON_VARIANT_OPTIONS = [
   { id: "filled", label: "채움" },
   { id: "outline", label: "라인" },
+  { id: "text", label: "텍스트" },
 ];
 const BUTTON_SHAPE_OPTIONS = [
   { id: "pill", label: "알약형", hint: "양 끝이 완전히 둥근 버튼" },
@@ -220,7 +221,7 @@ const DEFAULT_FILTERS = {
   collection: "all", featuredGroup: "all", featuredYear: "all", materialOnly: false,
   view: "wall",
   q: "",
-  brand: "",
+  brand: "", profile: "",
   cats: [],
   kind: "all",
   parts: [],
@@ -336,6 +337,8 @@ function deviceLabel(variant) {
 }
 
 function toast(message, tone = "") {
+  const host = [...document.querySelectorAll('dialog[open]')].at(-1) || document.body;
+  host.append(elements.toast);
   elements.toast.textContent = message;
   elements.toast.dataset.tone = tone;
   elements.toast.hidden = false;
@@ -542,7 +545,7 @@ function makeItem(row, asset, extra = {}) {
     kind: extra.kind || (pagePart ? "layout" : kindOf(type, asset, analysis)),
     part: extra.part || pagePart || "",
     region: extra.region || null,
-    style: extra.style || null,
+    style: extra.style || (type === "button" ? normalizeCapturedButton(asset) : null),
     capturedStyles: asset.styles || null,
     thumb,
     path,
@@ -561,7 +564,7 @@ function makeItem(row, asset, extra = {}) {
     dateLabel: extra.dateLabel || (asset.featured_date ? "GDWEB 선정일" : asset.captured_at ? "캡처 날짜" : "캠페인 날짜"),
     archived: Boolean(extra.archived),
     truncated: Boolean(extra.truncated || asset.truncated),
-    label: cleanText(extra.label || asset.label || ""),
+    label: friendlyReferenceLabel(cleanText(extra.label || asset.label || ""), extra.kind || type, extra.part || pagePart),
     area: extra.area || "",
     background: /^#[0-9a-f]{6}$/i.test(extra.background || "") ? extra.background : "",
     sourceType: extra.sourceType || "",
@@ -728,7 +731,7 @@ function buildItems(manifest, layouts, history, iconSets, components) {
 
 async function fetchJson(url, optional = false) {
   try {
-    const response = await fetch(url, { cache: "no-store" });
+    const response = await fetch(url, { cache: url.startsWith("catalog/") && !url.includes("manifest") ? "force-cache" : "default" });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     return await response.json();
   } catch (error) {
@@ -752,6 +755,7 @@ function readUrl() {
   state.materialOnly = params.get("materials") === "1";
   state.q = params.get("q") || "";
   state.brand = params.get("brand") || "";
+  state.profile = params.get("profile") || "";
   state.kind = KIND_LABELS[params.get("kind")] ? params.get("kind") : "all";
   Object.entries(LIST_PARAMS).forEach(([key, param]) => {
     state[key] = (params.get(param) || "").split(",").filter(Boolean);
@@ -766,7 +770,8 @@ function readUrl() {
   return params.get("item") || "";
 }
 
-function writeUrl() {
+function writeUrl(push = false) {
+  if (catalogRuntime.restoring) return;
   const params = new URLSearchParams();
   if (state.collection !== "all") params.set("collection", state.collection);
   if (state.featuredGroup !== "all") params.set("group", state.featuredGroup);
@@ -775,6 +780,7 @@ function writeUrl() {
   if (state.view !== "wall") params.set("view", state.view);
   if (state.q) params.set("q", state.q);
   if (state.brand) params.set("brand", state.brand);
+  if (state.profile) params.set("profile", state.profile);
   if (state.kind !== "all") params.set("kind", state.kind);
   Object.entries(LIST_PARAMS).forEach(([key, param]) => {
     if (state[key].length) params.set(param, state[key].join(","));
@@ -792,7 +798,7 @@ function writeUrl() {
   }
   const query = params.toString();
   const next = `${window.location.pathname}${query ? `?${query}` : ""}`;
-  if (next !== `${window.location.pathname}${window.location.search}`) window.history.replaceState(null, "", next);
+  if (next !== `${window.location.pathname}${window.location.search}`) window.history[push ? "pushState" : "replaceState"](null, "", next);
 }
 
 /* ---------- filtering ---------- */
@@ -817,6 +823,7 @@ function matchesQuery(row) {
 
 function matchesItem(item) {
   if (!inCollection(item.row)) return false;
+  if (!inCollection(item.row)) return false;
   if (matchesQuery(item.row)) return true;
   if (state.brand && item.row.slug !== state.brand) return false;
   const query = state.q.trim().toLocaleLowerCase("ko");
@@ -837,7 +844,7 @@ const DIMENSIONS = [
   { key: "minWidth", active: () => state.minWidth, pass: (item) => item.width >= state.minWidth, values: (item) => WIDTH_OPTIONS.filter((option) => option.id && item.width >= option.id).map((option) => option.id) },
   { key: "formats", active: () => state.formats.length, pass: (item) => state.formats.includes(item.formatGroup), values: (item) => [item.formatGroup] },
   { key: "areas", active: () => state.areas.length, pass: (item) => state.areas.includes(item.area), values: (item) => (item.area ? [item.area] : []) },
-  { key: "tones", active: () => state.tones.length, pass: (item) => Boolean(item.analysis) && TONE_OPTIONS.some((option) => state.tones.includes(option.id) && option.test(item.analysis)), values: (item) => (item.analysis ? TONE_OPTIONS.filter((option) => option.test(item.analysis)).map((option) => option.id) : []) },
+  { key: "tones", active: () => state.tones.length, pass: (item) => (item.tones || TONE_OPTIONS.filter(o=>item.analysis&&o.test(item.analysis)).map(o=>o.id)).some(tone=>state.tones.includes(tone)), values: (item) => item.tones || (item.analysis ? TONE_OPTIONS.filter((option) => option.test(item.analysis)).map((option) => option.id) : []) },
   { key: "color", active: () => state.color, pass: (item) => Boolean(item.analysis) && colorDistance(item, state.colorLab) <= 24, values: () => [] },
 ];
 
@@ -1018,7 +1025,7 @@ function renderKindTabs() {
     });
     tab.dataset.kind = kind.id;
     tab.append(icon(KIND_ICONS[kind.id]), make("span", "", kind.label), make("small", "", numberFormat(count)));
-    if (!count && state.kind !== kind.id) tab.classList.add("is-empty");
+    if (!count && state.kind !== kind.id) {tab.classList.add("is-empty");tab.disabled=true;}
     fragment.append(tab);
   });
   elements.kindTabs.replaceChildren(fragment);
@@ -1032,7 +1039,7 @@ function subChip(key, option, iconName) {
   if (option.hint) chip.title = option.hint;
   if (iconName) chip.append(icon(iconName));
   chip.append(make("span", "", option.label), make("small", "", numberFormat(count)));
-  if (!count && !selected) chip.classList.add("is-empty");
+  if (!count && !selected) {chip.classList.add("is-empty");chip.disabled=true;}
   return chip;
 }
 
@@ -1179,20 +1186,7 @@ function renderFacets() {
 }
 
 function renderSummary() {
-  const live = state.items.filter((item) => !item.archived && inCollection(item.row));
-  const count = (kind) => live.filter((item) => item.kind === kind).length;
-  state.archivedCount = state.items.filter(item => item.archived && inCollection(item.row)).length;
-  const entries = [
-    ["사이트", state.rows.filter(inCollection).length],
-    ["이미지", live.length],
-    ["레이아웃", count("layout")],
-    ["버튼", count("button")],
-  ];
-  elements.summary.replaceChildren(...entries.map(([label, value]) => {
-    const wrap = make("div");
-    wrap.append(make("dt", "", label), make("dd", "", numberFormat(value)));
-    return wrap;
-  }));
+  renderCollectionSummary();
 }
 
 function renderActiveFilters() {
@@ -1352,8 +1346,11 @@ function createTile(item, index) {
 function setupColumns() {
   const width = elements.wall.clientWidth || elements.wall.parentElement.clientWidth;
   const gap = state.density === "s" ? 12 : state.density === "xl" ? 22 : 18;
-  const minimum = window.innerWidth <= 520 ? 2 : 1;
-  const count = Math.max(minimum, Math.floor((width + gap) / (DENSITY_WIDTH[state.density] + gap)));
+  const compact = ['icon','favicon','appicon'].includes(state.kind);
+  const page = state.kind === 'layout' || state.kind === 'showcase';
+  const target = compact ? DENSITY_WIDTH[state.density] * .7 : page ? DENSITY_WIDTH[state.density] * 1.3 : DENSITY_WIDTH[state.density];
+  const minimum = window.innerWidth <= 520 && !page ? 2 : 1;
+  const count = Math.max(minimum, Math.floor((width + gap) / (target + gap)));
   elements.wall.style.setProperty("--gap", `${gap}px`);
   elements.wall.dataset.density = state.density;
   state.columns = Array.from({ length: count }, () => make("div", "wall-column"));
@@ -1639,7 +1636,7 @@ function createBrandCard(row, items) {
   const save = button("card-save", "", () => { if (cover) toggleFavorite(cover); }, {"aria-label": `${row.company} 대표 이미지 찜하기`, "aria-pressed": String(cover && isFavorite(cover))});
   if (cover) { save.dataset.favoriteKey = cover.key; save.append(icon(isFavorite(cover) ? "heart-fill" : "heart")); heading.append(save); }
   if (row.collection === "gdweb") card.classList.add("gdweb-card");
-  body.append(heading);
+  body.append(heading, renderCoverage(row));
   if (row.tags.length) {
     const tags = make("div", "design-tags");
     row.tags.slice(0,3).forEach(tag => tags.append(button("", tag, () => setFilter({q:tag, brand:""}))));
@@ -1674,6 +1671,7 @@ function appendBrandBatch() {
 /* ---------- main render ---------- */
 
 function render({ keepScroll = false } = {}) {
+  restoreSavedKeys();
   computeList();
   renderChrome();
   const isBrands = state.view === "brands";
@@ -1703,7 +1701,7 @@ function render({ keepScroll = false } = {}) {
     } else {
       elements.emptyTitle.textContent = "선택한 조건에 맞는 이미지가 없습니다.";
       elements.emptyDescription.textContent = state.kind === "layout" && !state.items.some((item) => item.kind === "layout")
-        ? "아직 레이아웃 캡처가 없습니다. node collect_components.mjs 를 실행해 주세요."
+        ? "이 범위에는 현재 화면 캡처가 없습니다. 선정 당시 화면이나 다른 소재를 확인해 보세요."
         : "필터를 줄이거나 검색어를 바꿔 보세요.";
     }
   }
@@ -1721,16 +1719,16 @@ function render({ keepScroll = false } = {}) {
 function setFilter(patch) {
   const viewChanged = patch.view && patch.view !== state.view;
   if (viewChanged && patch.view === "saved") Object.assign(state, structuredClone(DEFAULT_FILTERS));
-  if (viewChanged && patch.view === "colors" && state.collection === "gdweb") Object.assign(state, structuredClone(DEFAULT_FILTERS));
   Object.assign(state, patch);
+  state.profile = "";
   if (viewChanged && patch.view !== "saved") state.board = HEART_BOARD;
-  render();
+  refreshCatalogView({push: !Object.keys(patch).every(key => key === "q")});
 }
 
 function resetFilters() {
   const { view, board, collection } = state;
   Object.assign(state, structuredClone(DEFAULT_FILTERS), { view, board, collection });
-  render();
+  refreshCatalogView({push:true});
 }
 
 /* ---------- selection ---------- */
@@ -1945,12 +1943,14 @@ function renderBoardOptions() {
 
 /* ---------- viewer ---------- */
 
-function openViewer(list, index) {
+async function openViewer(list, index) {
   if (!list.length) return;
+  try { await ensureCatalogDetails([list[index]?._catalogGroup]); } catch { toast("일부 상세 정보를 불러오지 못했습니다. 이미지는 확인할 수 있습니다.", "error"); }
   state.viewer.list = list;
   state.viewer.index = Math.max(0, Math.min(index, list.length - 1));
   state.viewer.zoom = false;
   if (!elements.viewer.open) elements.viewer.showModal();
+  writeUrl(true);
   renderViewer();
 }
 
@@ -1958,10 +1958,11 @@ function closeViewer() {
   if (elements.viewer.open) elements.viewer.close();
 }
 
-function stepViewer(delta) {
+async function stepViewer(delta) {
   const { list } = state.viewer;
   if (!list.length) return;
   state.viewer.index = (state.viewer.index + delta + list.length) % list.length;
+  try { await ensureCatalogDetails([list[state.viewer.index]?._catalogGroup]); } catch { toast("상세 정보를 불러오지 못했습니다.", "error"); }
   state.viewer.zoom = false;
   renderViewer();
 }
@@ -2317,7 +2318,9 @@ function setViewerBackground(bg) {
 
 /* ---------- brand dialog ---------- */
 
-function openBrand(row) {
+async function openBrand(row) {
+  try { await Promise.all([ensureCatalogDetails(row.items.map(item=>item._catalogGroup)),ensureCatalogColors()]); } catch { toast("일부 상세 정보를 불러오지 못했습니다.","error"); }
+  state.profile = row.slug;
   rememberReference(row);
   elements.brandCategory.textContent = [categoryLabel(row.category), row.sub, REGION_OPTIONS.find((o) => o.id === row.region)?.label].filter(Boolean).join(" · ");
   elements.brandTitle.replaceChildren(markImage(row, "viewer-mark"), make("span", "", row.company));
@@ -2331,6 +2334,7 @@ function openBrand(row) {
   if (row.gdweb_url) actions.push(withIcon(link("GDWEB 소개", row.gdweb_url, "quiet-button"), "arrow-square-out"));
   actions.push(withIcon(button("quiet-button", "사이트 자료 ZIP", () => exportZip(row.items.filter(i => !i.archived), row.company)), "download-simple"));
   elements.brandActions.replaceChildren(...actions);
+  elements.brandActions.append(renderCoverage(row));
 
   const fragment = document.createDocumentFragment();
   if (row.collection === "gdweb") {
@@ -2346,7 +2350,7 @@ function openBrand(row) {
   if (swatches.length || row.colors?.neutrals?.length) {
     const block = make("section", "asset-group brand-colors-group");
     const heading = make("div", "asset-group-heading");
-    heading.append(make("h3", "", "포인트 컬러"), make("span", "", row.colors?.monochrome ? "무채색 중심 브랜드" : "사이트의 버튼, 강조 글자, 로고에서 뽑은 색"));
+    heading.append(make("h3", "", "포인트 컬러"), make("span", "", row.colors?.evidence_type === 'image-derived-reference' ? '로고·파비콘 원본에서 추출한 참고 색상' : row.colors?.monochrome ? "무채색 중심 브랜드" : "사이트의 버튼, 강조 글자, 로고에서 뽑은 색"));
     const strip = make("div", "brand-color-strip");
     [...swatches, ...(row.colors?.neutrals || []).slice(0, 4).map((hex) => ({ hex, role: "무채색", sources: [] }))].forEach((swatch) => {
       const chip = button("brand-color", "", () => copyHex(swatch.hex), { title: `${swatch.hex.toUpperCase()} 복사${swatch.sources?.length ? ` · 근거: ${swatch.sources.join(", ")}` : ""}` });
@@ -2356,6 +2360,7 @@ function openBrand(row) {
       strip.append(chip);
     });
     block.append(heading, strip);
+    if(row.colors?.source_urls?.[0])block.append(link('색상 추출 원본',row.colors.source_urls[0],'color-evidence'));
     fragment.append(block);
   }
   const live = row.items.filter((item) => !item.archived);
@@ -2376,6 +2381,7 @@ function openBrand(row) {
   if (!fragment.childNodes.length) fragment.append(make("div", "state-panel", "수집된 이미지가 없습니다."));
   elements.brandContent.replaceChildren(fragment);
   elements.brandDialog.showModal();
+  writeUrl(true);
 }
 
 function brandGroup(title, items) {
@@ -2408,11 +2414,12 @@ function brandGroup(title, items) {
 
 /* ---------- compare ---------- */
 
-function openCompare(items) {
+async function openCompare(items) {
   if (items.length < 2) {
     toast("비교하려면 이미지를 2개 이상 선택하세요.", "error");
     return;
   }
+  try { await ensureCatalogDetails(items.map(item=>item._catalogGroup)); } catch { toast("일부 상세 정보를 불러오지 못했습니다.","error"); }
   const columns = items.slice(0, 6).map((item) => {
     const column = make("article", "compare-column");
     const head = make("header");
@@ -2573,14 +2580,14 @@ function csvCell(value) {
   return `"${String(value ?? "").replaceAll('"', '""')}"`;
 }
 
-async function exportZip(items, name) {
+async function performZipExport(items, name) {
   if (!items.length) { toast("저장할 이미지가 없습니다.", "error"); return; }
   const files = [];
   let skipped = 0;
   const rows = [["파일 / 상태", "회사", "유형", "기기", "가로", "세로", "형식", "날짜", "원본 URL", "공식 사이트", "GDWEB 소개"]];
   for (let index = 0; index < items.length; index += 1) {
     const item = items[index];
-    toast(`ZIP 준비 중 ${index + 1} / ${items.length}`);
+    $("#export-progress").textContent = `ZIP 준비 중 ${index + 1} / ${items.length}`;
     let fileName = "외부 원본: URL에서 직접 저장";
     if (!isRemoteImage(item)) {
       try {
@@ -2592,10 +2599,18 @@ async function exportZip(items, name) {
     rows.push([fileName, item.row.company, KIND_LABELS[item.kind], deviceLabel(item.variant), item.width, item.height, item.format, item.date, item.sourceUrl || new URL(item.path, location.href).href, item.row.official_url, item.row.gdweb_url]);
   }
   const csv = `﻿${rows.map(row => row.map(csvCell).join(",")).join("\r\n")}`;
+  const imageCount = files.length;
   files.push({ name: "출처.csv", data: new TextEncoder().encode(csv) });
+  const remote = items.filter(isRemoteImage);
+  if (remote.length) {
+    const links = make("div");
+    links.append(make("h1", "", "외부 원본 링크"), make("p", "", "외부 원본은 이미지 파일로 포함되지 않습니다. 아래 링크에서 직접 확인하고 저장하세요."));
+    remote.forEach(item => { const p=make("p"); p.append(link(`${item.row.company} · ${itemCaption(item)}`,item.path));links.append(p); });
+    files.push({name:"외부-원본-링크.html",data:new TextEncoder().encode('<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>외부 원본 링크</title>'+links.outerHTML)});
+  }
   const stamp = new Date().toISOString().slice(0, 10);
   saveBlob(buildZip(files), `${name.replace(/[\\/:*?"<>|♥\s]+/g, "-") || "레퍼런스"}_${stamp}.zip`);
-  toast(`${numberFormat(files.length - 1)}개 이미지 저장${skipped ? `, 외부·미포함 ${skipped}개는 출처.csv에서 확인` : ""}.`);
+  toast(`${numberFormat(imageCount)}개 이미지 저장${skipped ? `, 외부·미포함 ${skipped}개는 출처.csv에서 확인` : ""}.`);
 }
 
 /* ---------- sync ---------- */
@@ -2705,6 +2720,7 @@ async function mergeRemote(syncId) {
   const remote = await fetchRemote(syncId);
   state.favorites = mergeByUpdatedAt(state.favorites, remote.records);
   state.boards = mergeByUpdatedAt(state.boards, remote.boards);
+  restoreSavedKeys();
   await putRemote(syncId);
 }
 
@@ -2814,8 +2830,7 @@ function setupTheme() {
 /* ---------- events ---------- */
 
 function anyDialogOpen() {
-  if (document.querySelector("#recent-dialog")?.open) return true;
-  return [elements.viewer, elements.brandDialog, elements.compareDialog, elements.boardDialog, elements.helpDialog, elements.syncDialog].some((dialog) => dialog.open);
+  return Boolean(document.querySelector('dialog[open]'));
 }
 
 function closeOnBackdrop(dialog) {
@@ -2826,6 +2841,7 @@ function closeOnBackdrop(dialog) {
 
 function setupEvents() {
   setupReferenceTools();
+  setupReferenceUpgrades();
   const deck = document.querySelector(".deck");
   new ResizeObserver(() => elements.root.style.setProperty("--deck-height", `${deck.offsetHeight}px`)).observe(deck);
 
@@ -2903,7 +2919,7 @@ function setupEvents() {
   document.getElementById("sel-board").addEventListener("click", () => openBoardDialog(selectedItems()));
   document.getElementById("sel-compare").addEventListener("click", () => openCompare(selectedItems()));
   document.getElementById("sel-zip").addEventListener("click", () => exportZip(selectedItems(), "선택한-레퍼런스"));
-  document.getElementById("sel-sources").addEventListener("click", () => copyText(selectedItems().map(sourceLine).join("\n"), "출처 목록을 복사했습니다."));
+  document.getElementById("sel-sources").addEventListener("click", () => copySources(selectedItems()));
   document.getElementById("sel-all").addEventListener("click", () => {
     state.list.forEach((item) => state.selection.add(item.key));
     syncSelectionMarks();
@@ -2931,7 +2947,7 @@ function setupEvents() {
     scheduleSync();
     setFilter({ board: HEART_BOARD });
   });
-  elements.boardSources.addEventListener("click", () => copyText(state.list.map(sourceLine).join("\n"), "출처 목록을 복사했습니다."));
+  elements.boardSources.addEventListener("click", () => copySources(state.list));
   elements.boardZip.addEventListener("click", () => exportZip(state.list, boardName(state.board)));
 
   elements.newBoardCreate.addEventListener("click", () => {
@@ -2976,6 +2992,7 @@ function setupEvents() {
   });
 
   elements.brandClose.addEventListener("click", () => elements.brandDialog.close());
+  elements.brandDialog.addEventListener("close", () => { if(catalogRuntime.restoring)return; state.profile=""; writeUrl(); });
   elements.compareClose.addEventListener("click", () => elements.compareDialog.close());
   elements.helpOpen.addEventListener("click", () => elements.helpDialog.showModal());
   elements.helpClose.addEventListener("click", () => elements.helpDialog.close());
@@ -3012,16 +3029,22 @@ function setupEvents() {
   document.addEventListener("visibilitychange", () => {
     if (!document.hidden && state.syncId) syncNow({ quiet: true });
   });
-  window.addEventListener("popstate", () => {
-    readUrl();
-    render();
+  window.addEventListener("popstate", async () => {
+    catalogRuntime.restoring=true;
+    try {
+      await Promise.all([elements.viewer,elements.brandDialog].filter(dialog=>dialog.open).map(dialog=>new Promise(resolve=>{dialog.addEventListener('close',resolve,{once:true});dialog.close();})));
+      const itemKey=readUrl();
+      await refreshCatalogView();
+      if(itemKey&&state.itemByKey.has(itemKey))await openViewer([state.itemByKey.get(itemKey)],0);
+      else if(state.profile&&state.rowBySlug.has(state.profile))await openBrand(state.rowBySlug.get(state.profile));
+    } finally {catalogRuntime.restoring=false;writeUrl();}
   });
 
   document.addEventListener("keydown", (event) => {
     const typing = event.target.closest?.("input, select, textarea, [contenteditable]");
     if (event.metaKey || event.ctrlKey || event.altKey) return;
 
-    if (elements.viewer.open && !typing && !elements.boardDialog.open) {
+    if (elements.viewer.open && !typing && !document.querySelector('dialog[open]:not(#viewer):not(#brand-dialog)')) {
       const item = currentItem();
       const key = event.key.toLowerCase();
       const actions = {
@@ -3029,7 +3052,7 @@ function setupEvents() {
         arrowright: () => stepViewer(1),
         f: () => toggleFavorite(item),
         b: () => openBoardDialog([item]),
-        c: () => copyImage(item),
+        c: () => isRemoteImage(item) ? copyText(item.path,"외부 원본 링크를 복사했습니다.") : copyImage(item),
         d: () => downloadItem(item),
         s: () => {
           toggleSelection(item, state.list.indexOf(item));
@@ -3072,50 +3095,11 @@ function setupEvents() {
 
 /* ---------- boot ---------- */
 
-async function loadLibrary() {
-  try {
-    const [site, history, icons, analysis, brandColors, gdweb, gdwebAnalysis] = await Promise.all([
-      fetchJson("site.json", true),
-      fetchJson("history.json", true),
-      fetchJson("icons.json", true),
-      fetchJson("analysis.json", true),
-      fetchJson("brand_colors.json", true),
-      fetchJson("gdweb-static.json"),
-      fetchJson("gdweb-analysis.json", true),
-    ]);
-    // site.json is written by build_library.py; before its first run use the raw files.
-    const manifest = site?.rows || await fetchJson("manifest.json");
-    const parts = site ? null : await fetchJson("parts.json", true);
-    const layouts = site?.layouts || parts?.layouts || await fetchJson("layouts.json", true);
-    const components = site?.entries || parts?.entries || await fetchJson("components.json", true);
-    if (!Array.isArray(manifest)) throw new Error("Invalid manifest");
-    state.analysis = {...(analysis || {}), ...(gdwebAnalysis || {})};
-    state.brandColors = brandColors && typeof brandColors === "object" ? brandColors : {};
-    buildItems([...manifest, ...gdweb], Array.isArray(layouts) ? layouts : [], Array.isArray(history) ? history : [], Array.isArray(icons) ? icons : [], Array.isArray(components) ? components : []);
-    elements.loading.hidden = true;
-    renderSummary();
-    const itemKey = readUrl();
-    render();
-    updateSyncDialog();
-    if (itemKey) {
-      const index = state.list.findIndex((item) => item.key === itemKey);
-      const item = state.itemByKey.get(itemKey);
-      if (index >= 0) openViewer(state.list, index);
-      else if (item) openViewer([item], 0);
-    }
-    if (state.syncId) syncNow({ quiet: true });
-  } catch (error) {
-    console.error(error);
-    elements.loading.hidden = true;
-    elements.error.hidden = false;
-    elements.resultCount.textContent = "자료를 불러오지 못했습니다.";
-  }
-}
 
 loadSavedState();
 setupTheme();
 setupEvents();
-loadLibrary();
+loadPackedLibrary();
 window.setInterval(() => {
   if (!document.hidden && state.syncId) syncNow({ quiet: true });
 }, 60_000);

@@ -10,7 +10,11 @@ function rememberReference(row, item) {
   try { localStorage.setItem(RECENT_REFERENCES_KEY, JSON.stringify(recentReferences)); } catch {}
 }
 
-function openRecentReferences() {
+async function openRecentReferences() {
+  if(recentReferences.some(record=>!state.rowBySlug.has(record.slug))){
+    const collections=new Set(recentReferences.filter(record=>!state.rowBySlug.has(record.slug)).map(record=>record.slug.startsWith('gdweb-')?'gdweb':'brands'));
+    await Promise.allSettled(catalogRuntime.manifest.groups.filter(g=>collections.has(g.collection)&&!catalogRuntime.loaded.has(g.id)).map(async g=>hydrateCatalog(g,await cachedCatalogFile(g.browse.path))));
+  }
   const content = $("#recent-content");
   const entries = recentReferences.filter(record => state.rowBySlug.has(record.slug));
   content.replaceChildren();
@@ -23,7 +27,7 @@ function openRecentReferences() {
       $("#recent-dialog").close();
       if (item) openViewer([item], 0); else openBrand(row);
     });
-    if (cover) { const image = make("img"); image.src = tileSrc(cover); image.alt = ""; image.loading = "lazy"; entry.append(image); }
+    if (cover) { const image = make("img"); image.src = tileSrc(cover); image.alt = ""; image.loading = "lazy"; prepareReferenceImage(image,cover); entry.append(image); }
     const label = make("span");
     label.append(make("strong", "", row.company), make("small", "", item ? itemCaption(item) : "사이트 자료"));
     entry.append(label, icon("arrow-up-right"));
@@ -54,13 +58,13 @@ function renderReferenceTools() {
   $("#intro-title").textContent = isSaved ? "아이디어를 모아둔 곳." : isGdweb ? "좋은 웹의 디테일을 모으다." : "다음 디자인의 시작점.";
   $("#intro-description").textContent = isSaved ? "마음에 든 이미지를 프로젝트별 보드에 정리하고, 나란히 비교해보세요." : isGdweb ? "GDWEB이 소개한 사이트를 둘러보고, 필요한 화면과 소재를 찾아보세요." : "웹사이트의 전체 화면부터 작은 버튼까지. 필요한 레퍼런스를 찾고, 모으고, 비교하세요.";
   const scoped = state.rows.filter(row => state.collection === "all" || row.collection === state.collection);
-  $("#intro-count").textContent = numberFormat(isSaved ? boardItems().length : scoped.length);
+  $("#intro-count").textContent = numberFormat(isSaved ? boardItems().length : catalogTotals().rows || scoped.length);
   $("#intro-unit").textContent = isSaved ? "저장한 이미지" : isGdweb ? "GDWEB 선정 기록" : "사이트 레퍼런스";
   $("#quick-presets").hidden = isSaved;
   const presets = referencePresets();
   $("#quick-presets").replaceChildren(...presets.map(preset => {
     const active = state.view === preset.patch.view && Object.entries(preset.patch).every(([key,value]) => JSON.stringify(state[key]) === JSON.stringify(value));
-    return withIcon(button("preset", preset.label, () => setFilter({...structuredClone(DEFAULT_FILTERS), collection:state.collection, ...preset.patch}), {"aria-pressed":String(active)}), preset.icon);
+    return withIcon(button("preset", preset.label, () => setFilter({kind:'all',parts:[],bvariants:[],bshapes:[],areas:[],devices:[],materialOnly:false,...preset.patch}), {"aria-pressed":String(active)}), preset.icon);
   }));
   const archive = $("#archive-filters");
   archive.hidden = !isGdweb || isSaved;
@@ -68,7 +72,7 @@ function renderReferenceTools() {
     $("#collection-groups").replaceChildren(...["all","국내 웹","해외 웹","일본 웹","모바일"].map(group => button("archive-group", group === "all" ? "모든 지역" : group, () => setFilter({featuredGroup:group}), {"aria-pressed":String(state.featuredGroup === group)})));
     const select = $("#collection-year");
     if (select.options.length < 2 && scoped.length) {
-      [...new Set(scoped.map(row => row.featuredDate.slice(0,4)))].filter(Boolean).sort().reverse().forEach(year => { const option = make("option","",`${year}년`); option.value=year; select.append(option); });
+      [...new Set(catalogRuntime.manifest.groups.filter(g=>g.collection==='gdweb').map(g=>g.year))].filter(Boolean).sort().reverse().forEach(year => { const option = make("option","",`${year}년`); option.value=year; select.append(option); });
     }
     select.value = state.featuredYear;
     $("#collection-region").value = state.featuredGroup;
@@ -76,7 +80,7 @@ function renderReferenceTools() {
   $("#search-clear").hidden = !state.q;
   $("#scope-note").hidden = !isSaved;
   $("#library-intro").hidden = Boolean(state.brand);
-  const gdwebCount = state.rows.filter(row => row.collection === "gdweb").length;
+  const gdwebCount = catalogTotals('gdweb').rows || 0;
   $("#gdweb-nav-count").textContent = numberFormat(gdwebCount);
 }
 

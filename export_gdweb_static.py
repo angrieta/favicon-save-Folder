@@ -56,10 +56,14 @@ def export(year):
         ident = row['slug'].split('-')[-1]
         detail = read_json(CACHE / 'details' / f'{ident}.json', {})
         if detail:
+            tags = list(dict.fromkeys(row.get('design_tags', []) + detail.get('design_tags', [])))
             row.update(detail)
+            row['design_tags'] = tags
         cached = read_json(CACHE / 'materials' / f'{ident}.json', {})
         if cached:
+            tags = list(dict.fromkeys(row.get('design_tags', []) + cached.get('design_tags', [])))
             row.update({k: v for k, v in cached.items() if k != 'assets'})
+            row['design_tags'] = tags
             known = {a.get('source_sha256') or a.get('sha256') for a in row['assets']}
             for asset in cached.get('assets', []):
                 if asset['sha256'] not in known and (CACHE / 'blobs' / asset['sha256']).exists():
